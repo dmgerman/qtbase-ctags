@@ -20,6 +20,7 @@ DECL|function|registeredTimers
 DECL|function|registeredTimers
 DECL|function|repairTimersIfNeeded
 DECL|function|repairTimersIfNeeded
+DECL|function|roundToMillisecond
 DECL|function|select
 DECL|function|setSocketNotifierPending
 DECL|function|signalHandler
