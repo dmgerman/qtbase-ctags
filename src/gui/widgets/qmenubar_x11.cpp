@@ -1,0 +1,11 @@
+DECL|function|actionEvent
+DECL|function|allowCornerWidgets
+DECL|function|handleReparent
+DECL|function|init
+DECL|function|isNativeMenuBar
+DECL|function|menuBarEventFilter
+DECL|function|popupAction
+DECL|function|setNativeMenuBar
+DECL|function|setVisible
+DECL|function|shortcutsHandledByNativeMenuBar
+DECL|function|~QX11MenuBar
