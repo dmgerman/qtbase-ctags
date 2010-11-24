@@ -16,6 +16,7 @@ DECL|enumerator|E_MEMBER
 DECL|enumerator|E_PROMPT
 DECL|enumerator|E_QUOTE
 DECL|enumerator|E_REPLACE
+DECL|enumerator|E_RESOLVE_DEPENDS
 DECL|enumerator|E_RE_ESCAPE
 DECL|enumerator|E_SECTION
 DECL|enumerator|E_SIZE
@@ -59,6 +60,7 @@ DECL|function|ParsableBlock
 DECL|function|Parse
 DECL|function|QMakeProject
 DECL|function|Test
+DECL|function|calculateDeps
 DECL|function|continueBlock
 DECL|function|continueBlock
 DECL|function|deref
@@ -95,6 +97,7 @@ DECL|function|read
 DECL|function|ref
 DECL|function|remove_quotes
 DECL|function|reset
+DECL|function|resolveDepends
 DECL|function|split_arg_list
 DECL|function|split_value_list
 DECL|function|test
