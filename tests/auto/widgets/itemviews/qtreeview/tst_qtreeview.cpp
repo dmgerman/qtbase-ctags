@@ -29,6 +29,7 @@ DECL|function|QtTestModel
 DECL|function|RepaintTreeView
 DECL|function|TestDelegate
 DECL|function|addRowsWhileSectionsAreHidden
+DECL|function|aiv_priv
 DECL|function|alternatingRowColors
 DECL|function|bindView
 DECL|function|canFetchMore
@@ -153,6 +154,7 @@ DECL|function|slotCurrentChanged
 DECL|function|sortByColumn
 DECL|function|sortByColumn_data
 DECL|function|spanningItems
+DECL|function|startDrag
 DECL|function|state
 DECL|function|styleOptionViewItem
 DECL|function|task171902_expandWith1stColHidden
