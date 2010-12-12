@@ -1,3 +1,4 @@
+DECL|class|DuplicateItemSelectionModel
 DECL|class|MyStandardItemModel
 DECL|class|QStreamHelper
 DECL|class|QtTestTableModel
@@ -8,6 +9,7 @@ DECL|enumerator|LessThan
 DECL|enumerator|NotEqual
 DECL|enumerator|NotLessThan
 DECL|enum|Result
+DECL|function|DuplicateItemSelectionModel
 DECL|function|MyStandardItemModel
 DECL|function|QStreamHelper
 DECL|function|QTBUG2804_layoutChangedTreeSelection
@@ -54,6 +56,7 @@ DECL|function|resetModel
 DECL|function|rowCount
 DECL|function|rowCount
 DECL|function|select
+DECL|function|select
 DECL|function|select_data
 DECL|function|selectedColumns
 DECL|function|selectedColumns_data
@@ -71,6 +74,7 @@ DECL|function|task232634_childrenDeselectionSignal
 DECL|function|task240734_layoutChanged
 DECL|function|task252069_rowIntersectsSelection
 DECL|function|task260134_layoutChangedWithAllSelected
+DECL|function|testChainedSelectionClear
 DECL|function|testDifferentModels
 DECL|function|testValidRangesInSelectionsAfterReset
 DECL|function|toggleSelection
@@ -81,6 +85,7 @@ DECL|member|column_count
 DECL|member|m_itemSelectionModel
 DECL|member|m_model
 DECL|member|m_selectionModel
+DECL|member|m_target
 DECL|member|model
 DECL|member|row_count
 DECL|member|selection
