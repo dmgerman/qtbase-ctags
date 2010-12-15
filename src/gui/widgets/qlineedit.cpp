@@ -14,6 +14,7 @@ DECL|function|copy
 DECL|function|createStandardContextMenu
 DECL|function|cursorBackward
 DECL|function|cursorForward
+DECL|function|cursorMoveStyle
 DECL|function|cursorPosition
 DECL|function|cursorPositionAt
 DECL|function|cursorRect
@@ -65,6 +66,7 @@ DECL|function|selectedText
 DECL|function|selectionStart
 DECL|function|setAlignment
 DECL|function|setCompleter
+DECL|function|setCursorMoveStyle
 DECL|function|setCursorPosition
 DECL|function|setDragEnabled
 DECL|function|setEchoMode
