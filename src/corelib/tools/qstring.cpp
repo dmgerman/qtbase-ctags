@@ -83,6 +83,7 @@ DECL|function|leftJustified
 DECL|function|leftRef
 DECL|function|localeAwareCompare
 DECL|function|localeAwareCompare_helper
+DECL|function|mergeQuestionMarks
 DECL|function|mid
 DECL|function|midRef
 DECL|function|multiArg
