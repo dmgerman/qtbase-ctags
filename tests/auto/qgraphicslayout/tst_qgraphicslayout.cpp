@@ -28,6 +28,8 @@ DECL|function|count
 DECL|function|event
 DECL|function|eventCount
 DECL|function|insertItem
+DECL|function|invalidate
+DECL|function|invalidate
 DECL|function|itemAt
 DECL|function|itemAt
 DECL|function|ownership
@@ -60,5 +62,6 @@ DECL|member|m_destructedSet
 DECL|member|m_destructedSet
 DECL|member|m_eventCount
 DECL|member|m_geom
+DECL|member|m_invalidateCount
 DECL|member|m_timeline
 DECL|member|toGeoms
