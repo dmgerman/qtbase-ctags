@@ -12,6 +12,7 @@ DECL|function|abstractScrollAreaTest
 DECL|function|accelerators
 DECL|function|accessibleName
 DECL|function|actionText
+DECL|function|applicationTest
 DECL|function|buttonTest
 DECL|function|calendarWidgetTest
 DECL|function|childAt
@@ -40,6 +41,7 @@ DECL|function|initTestCase
 DECL|function|labelTest
 DECL|function|lineEditTest
 DECL|function|listViewTest
+DECL|function|mainWindowTest
 DECL|function|mdiAreaTest
 DECL|function|mdiSubWindowTest
 DECL|function|menuTest
