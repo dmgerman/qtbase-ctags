@@ -1,8 +1,10 @@
+DECL|class|CounterButton
 DECL|class|QtTestAccessibleWidget
 DECL|class|QtTestAccessibleWidgetIface
 DECL|class|QtTestDelegate
 DECL|class|QtTestTableModel
 DECL|class|tst_QAccessibility
+DECL|function|CounterButton
 DECL|function|IsValidCEPlatform
 DECL|function|QtTestAccessibleWidget
 DECL|function|QtTestAccessibleWidgetIface
@@ -35,6 +37,7 @@ DECL|function|eventName
 DECL|function|eventTest
 DECL|function|hideShowTest
 DECL|function|ifaceFactory
+DECL|function|incClickCount
 DECL|function|indexOfChild
 DECL|function|init
 DECL|function|initTestCase
@@ -87,6 +90,7 @@ DECL|function|~tst_QAccessibility
 DECL|macro|EXPECT
 DECL|macro|QSETCOMPARE
 DECL|macro|SPI_GETPLATFORMTYPE
+DECL|member|clickCount
 DECL|member|column_count
 DECL|member|row_count
 DECL|variable|Q_PI
