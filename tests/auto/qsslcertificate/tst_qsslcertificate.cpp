@@ -34,6 +34,7 @@ DECL|function|task256066toPem
 DECL|function|toPemOrDer
 DECL|function|toPemOrDer_data
 DECL|function|tst_QSslCertificate
+DECL|function|utf8SubjectNames
 DECL|function|~tst_QSslCertificate
 DECL|macro|SRCDIR
 DECL|member|certInfoList
