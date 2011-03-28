@@ -1,3 +1,3 @@
-DECL|macro|QNETWORKACCESSHTTPBACKEND_P_H
-DECL|variable|QNetworkAccessCachedHttpConnection
-DECL|variable|QNetworkAccessHttpBackendIODevice
+DECL|macro|QNETWORKREPLYHTTPIMPL_P_H
+DECL|variable|QIODevice
+DECL|variable|QNetworkReplyHttpImplPrivate
