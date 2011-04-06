@@ -54,3 +54,5 @@ DECL|member|array
 DECL|member|current
 DECL|member|ref
 DECL|member|ref
+DECL|typedef|NotifyMap
+DECL|variable|eventNum
