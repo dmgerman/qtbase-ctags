@@ -31,6 +31,7 @@ DECL|function|invalidateCache
 DECL|function|isCachingEnabled
 DECL|function|isSeparator
 DECL|function|isSequential
+DECL|function|loadFromCacheIfAllowed
 DECL|function|metaDataChanged
 DECL|function|migrateBackend
 DECL|function|parseHttpOptionHeader
@@ -53,7 +54,6 @@ DECL|function|setSslConfigurationImplementation
 DECL|function|size
 DECL|function|sslConfigurationImplementation
 DECL|function|start
-DECL|function|validateCache
 DECL|function|wantUploadDataSlot
 DECL|function|~QNetworkReplyHttpImpl
 DECL|function|~QNetworkReplyHttpImplPrivate
