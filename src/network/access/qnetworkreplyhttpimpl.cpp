@@ -3,6 +3,7 @@ DECL|function|QNetworkReplyHttpImplPrivate
 DECL|function|_q_bufferOutgoingData
 DECL|function|_q_bufferOutgoingDataFinished
 DECL|function|_q_cacheLoadReadyRead
+DECL|function|_q_error
 DECL|function|_q_finished
 DECL|function|_q_networkSessionConnected
 DECL|function|_q_networkSessionFailed
