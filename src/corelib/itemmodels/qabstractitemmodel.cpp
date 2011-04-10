@@ -74,7 +74,9 @@ DECL|function|match
 DECL|function|mimeData
 DECL|function|mimeTypes
 DECL|function|model
+DECL|function|moveColumns
 DECL|function|movePersistentIndexes
+DECL|function|moveRows
 DECL|function|operator !=
 DECL|function|operator <
 DECL|function|operator <<

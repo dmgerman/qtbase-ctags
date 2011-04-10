@@ -7,6 +7,8 @@ DECL|function|data
 DECL|function|flags
 DECL|function|insertColumn
 DECL|function|insertRow
+DECL|function|moveColumn
+DECL|function|moveRow
 DECL|function|parent
 DECL|function|qHash
 DECL|function|qHash

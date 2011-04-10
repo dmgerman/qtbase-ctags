@@ -42,7 +42,11 @@ DECL|function|itemFlags
 DECL|function|layoutAboutToBeChanged
 DECL|function|layoutChanged
 DECL|function|match
+DECL|function|moveColumns
+DECL|function|moveColumns
 DECL|function|movePersistentIndex
+DECL|function|moveRows
+DECL|function|moveRows
 DECL|function|parent
 DECL|function|parent
 DECL|function|qStringTableRow
