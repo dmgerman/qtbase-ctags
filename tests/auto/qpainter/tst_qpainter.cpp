@@ -116,6 +116,7 @@ DECL|function|inverseGradient
 DECL|function|largeImagePainting
 DECL|function|largeImagePainting_data
 DECL|function|linearGradientSymmetry
+DECL|function|linearGradientSymmetry_data
 DECL|function|metric
 DECL|function|monoImages
 DECL|function|no_porter_duff
