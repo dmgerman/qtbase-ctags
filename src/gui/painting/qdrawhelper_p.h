@@ -52,7 +52,6 @@ DECL|function|qConvertRgb32To16
 DECL|function|qConvertRgb32To16x2
 DECL|function|qGreen565
 DECL|function|qRadialDeterminant
-DECL|function|qRadialRealRoots
 DECL|function|qRed565
 DECL|function|qargb4444
 DECL|function|qargb4444
@@ -124,6 +123,7 @@ DECL|macro|AMIX
 DECL|macro|AMIX
 DECL|macro|AMIX
 DECL|macro|ARGB_COMBINE_ALPHA
+DECL|macro|FETCH_RADIAL_LOOP
 DECL|macro|FETCH_RADIAL_LOOP_CLAMP_PAD
 DECL|macro|FETCH_RADIAL_LOOP_CLAMP_REFLECT
 DECL|macro|FETCH_RADIAL_LOOP_CLAMP_REPEAT
@@ -175,6 +175,7 @@ DECL|member|conical
 DECL|member|const_alpha
 DECL|member|dest_fetch
 DECL|member|dest_store
+DECL|member|dr
 DECL|member|dx
 DECL|member|dx
 DECL|member|dx
@@ -182,6 +183,7 @@ DECL|member|dy
 DECL|member|dy
 DECL|member|dy
 DECL|member|end
+DECL|member|extended
 DECL|member|fast_matrix
 DECL|member|fillRect
 DECL|member|fillRect
@@ -193,6 +195,7 @@ DECL|member|gradient
 DECL|member|hasAlpha
 DECL|member|height
 DECL|member|imageData
+DECL|member|inv2a
 DECL|member|l
 DECL|member|len_alpha
 DECL|member|len_blue
@@ -218,10 +221,12 @@ DECL|member|public
 DECL|member|radial
 DECL|member|radial
 DECL|member|radius
+DECL|member|radius
 DECL|member|rasterBuffer
 DECL|member|rasterEngine
 DECL|member|solid
 DECL|member|spread
+DECL|member|sqrfr
 DECL|member|src_fetch
 DECL|member|tempImage
 DECL|member|texture

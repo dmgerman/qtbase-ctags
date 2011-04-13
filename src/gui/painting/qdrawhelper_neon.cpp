@@ -35,6 +35,7 @@ DECL|function|v_and
 DECL|function|v_dup
 DECL|function|v_dup
 DECL|function|v_dup
+DECL|function|v_greaterOrEqual
 DECL|function|v_max
 DECL|function|v_min
 DECL|function|v_min_16

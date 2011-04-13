@@ -105,6 +105,10 @@ DECL|function|isDefaultClipRect
 DECL|function|isDefaultClipRegion
 DECL|function|modifyMask
 DECL|function|modifyMask
+DECL|function|needsBrushEmulation
+DECL|function|needsEmulation
+DECL|function|needsEmulation
+DECL|function|needsPenEmulation
 DECL|function|opacityChanged
 DECL|function|painterPathToVGPath
 DECL|function|penChanged
@@ -172,6 +176,8 @@ DECL|member|fontEngineCleaner
 DECL|member|forceBrushChange
 DECL|member|forcePenChange
 DECL|member|hasAdvancedBlending
+DECL|member|hasExtendedRadialGradientBrush
+DECL|member|hasExtendedRadialGradientPen
 DECL|member|imageMode
 DECL|member|imageQuality
 DECL|member|imageTransform
