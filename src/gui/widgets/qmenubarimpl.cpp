@@ -1,15 +1,11 @@
 DECL|function|actionEvent
 DECL|function|allowCornerWidgets
-DECL|function|createImpl
+DECL|function|allowSetVisible
 DECL|function|handleReparent
 DECL|function|init
 DECL|function|isNativeMenuBar
-DECL|function|keys
 DECL|function|menuBarEventFilter
 DECL|function|popupAction
-DECL|function|qt_guiMenuBarImplFactory
 DECL|function|setNativeMenuBar
-DECL|function|setVisible
 DECL|function|shortcutsHandledByNativeMenuBar
 DECL|function|~QMenuBarImpl
-DECL|struct|QMenuBarImplFactory
