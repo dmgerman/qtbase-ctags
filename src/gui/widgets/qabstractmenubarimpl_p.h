@@ -1,4 +1,8 @@
+DECL|function|Q_DECLARE_INTERFACE
 DECL|macro|QABSTRACTMENUBARIMPL_P_H
+DECL|macro|QMenuBarImplFactoryInterface_iid
+DECL|struct|QFactoryInterface
+DECL|variable|QAbstractMenuBarImpl
 DECL|variable|QAction
 DECL|variable|QActionEvent
 DECL|variable|QEvent
