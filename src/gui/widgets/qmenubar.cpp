@@ -70,6 +70,5 @@ DECL|function|setVisible
 DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|timerEvent
-DECL|function|updateCornerWidgetToolBar
 DECL|function|updateGeometries
 DECL|function|~QMenuBar
