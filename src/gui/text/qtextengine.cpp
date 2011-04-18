@@ -31,6 +31,7 @@ DECL|function|clearLineData
 DECL|function|direction
 DECL|function|elidedText
 DECL|function|embed
+DECL|function|enableHarfBuzz
 DECL|function|endOfLine
 DECL|function|findItem
 DECL|function|font
