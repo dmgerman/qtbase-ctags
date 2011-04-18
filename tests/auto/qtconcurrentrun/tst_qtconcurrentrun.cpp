@@ -12,14 +12,24 @@ DECL|function|foo
 DECL|function|fooInt
 DECL|function|fooInt
 DECL|function|functionObject
+DECL|function|functor
 DECL|function|heavy
 DECL|function|implicitConvertibleTypes
+DECL|function|lambda
 DECL|function|light
 DECL|function|member0
 DECL|function|member0
 DECL|function|member1
 DECL|function|member1
 DECL|function|memberFunctions
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
@@ -47,6 +57,7 @@ DECL|function|vfn0
 DECL|function|vfn1
 DECL|function|vfn2
 DECL|macro|F
+DECL|struct|Functor
 DECL|struct|TestClass
 DECL|struct|TestConstClass
 DECL|typedef|result_type
