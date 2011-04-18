@@ -1,3 +1,14 @@
+DECL|class|QDebugProxyFactory
 DECL|class|tst_QNetworkProxyFactory
 DECL|function|formatProxyName
+DECL|function|fromConfigurations
+DECL|function|inNetworkAccessManager
+DECL|function|inNetworkAccessManager_data
+DECL|function|queryProxy
 DECL|function|systemProxyForQuery
+DECL|function|tst_QNetworkProxyFactory
+DECL|member|factory
+DECL|member|requestCounter
+DECL|member|returnedList
+DECL|variable|QList
+DECL|variable|QNetworkConfiguration
