@@ -54,8 +54,6 @@ DECL|function|navigateGeometric
 DECL|function|navigateHierarchy
 DECL|function|navigateLabels
 DECL|function|navigateSlider
-DECL|function|printState
-DECL|function|printState
 DECL|function|pushButtonTest
 DECL|function|relationTo
 DECL|function|removeAllColumns
