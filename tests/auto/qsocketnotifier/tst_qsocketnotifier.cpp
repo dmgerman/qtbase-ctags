@@ -3,8 +3,10 @@ DECL|class|UnexpectedDisconnectTester
 DECL|class|tst_QSocketNotifier
 DECL|function|MixingWithTimersHelper
 DECL|function|UnexpectedDisconnectTester
+DECL|function|bogusFds
 DECL|function|handleActivated
 DECL|function|mixingWithTimers
+DECL|function|posixSockets
 DECL|function|socketFired
 DECL|function|timerFired
 DECL|function|tst_QSocketNotifier
