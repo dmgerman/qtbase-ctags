@@ -11,7 +11,6 @@ DECL|function|cloneNode_data
 DECL|function|compareDocuments
 DECL|function|compareNodes
 DECL|function|crashInSetContent
-DECL|function|doc
 DECL|function|documentCreationTask27424
 DECL|function|documentCreationTask27424_data
 DECL|function|domNodeMapAndList
