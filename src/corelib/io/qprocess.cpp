@@ -69,7 +69,6 @@ DECL|function|startDetached
 DECL|function|startDetached
 DECL|function|state
 DECL|function|systemEnvironment
-DECL|function|systemEnvironment
 DECL|function|terminate
 DECL|function|toList
 DECL|function|toStringList

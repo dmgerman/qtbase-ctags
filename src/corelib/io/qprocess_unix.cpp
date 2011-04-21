@@ -30,6 +30,7 @@ DECL|function|select_msecs
 DECL|function|startDetached
 DECL|function|startProcess
 DECL|function|strdup
+DECL|function|systemEnvironment
 DECL|function|terminateProcess
 DECL|function|unlock
 DECL|function|waitForBytesWritten
