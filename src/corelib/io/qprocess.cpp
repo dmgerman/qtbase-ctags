@@ -35,14 +35,11 @@ DECL|function|isSequential
 DECL|function|keys
 DECL|function|keys
 DECL|function|kill
-DECL|function|nameToString
 DECL|function|nativeArguments
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|parseCombinedArgString
 DECL|function|pid
-DECL|function|prepareName
-DECL|function|prepareValue
 DECL|function|processChannelMode
 DECL|function|processEnvironment
 DECL|function|qt_prettyDebug
@@ -77,7 +74,6 @@ DECL|function|terminate
 DECL|function|toList
 DECL|function|toStringList
 DECL|function|value
-DECL|function|valueToString
 DECL|function|waitForBytesWritten
 DECL|function|waitForFinished
 DECL|function|waitForReadyRead
