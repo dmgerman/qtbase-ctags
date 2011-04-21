@@ -42,8 +42,6 @@ DECL|function|operator ==
 DECL|function|parseCombinedArgString
 DECL|function|pid
 DECL|function|prepareName
-DECL|function|prepareName
-DECL|function|prepareValue
 DECL|function|prepareValue
 DECL|function|processChannelMode
 DECL|function|processEnvironment
@@ -79,7 +77,6 @@ DECL|function|terminate
 DECL|function|toList
 DECL|function|toStringList
 DECL|function|value
-DECL|function|valueToByteArray
 DECL|function|valueToString
 DECL|function|waitForBytesWritten
 DECL|function|waitForFinished
