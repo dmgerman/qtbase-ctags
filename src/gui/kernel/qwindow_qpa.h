@@ -1,10 +1,11 @@
 DECL|macro|QWINDOW_QPA_H
-DECL|variable|QGLContext
 DECL|variable|QHideEvent
 DECL|variable|QInputMethodEvent
 DECL|variable|QKeyEvent
 DECL|variable|QMouseEvent
+DECL|variable|QPlatformWindow
 DECL|variable|QResizeEvent
 DECL|variable|QShowEvent
 DECL|variable|QWheelEvent
 DECL|variable|QWidget
+DECL|variable|QWindowContext

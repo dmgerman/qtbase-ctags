@@ -10,7 +10,7 @@ DECL|function|qglx_buildSpec
 DECL|function|qglx_findConfig
 DECL|function|qglx_findVisualInfo
 DECL|function|qglx_platformWindowFromGLXFBConfig
-DECL|function|qglx_reducePlatformWindowFormat
+DECL|function|qglx_reduceWindowFormat
 DECL|macro|CursorShape
 DECL|macro|FocusIn
 DECL|macro|FocusOut

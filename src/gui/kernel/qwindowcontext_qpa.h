@@ -1,0 +1,2 @@
+DECL|macro|QWINDOWCONTEXT_H
+DECL|variable|QPlatformGLContext
