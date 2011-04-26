@@ -11,10 +11,10 @@ DECL|function|setParent
 DECL|function|setVisible
 DECL|function|setWindowFlags
 DECL|function|setWindowTitle
-DECL|function|widget
 DECL|function|winId
+DECL|function|window
 DECL|function|windowFlags
 DECL|function|~QPlatformWindow
 DECL|member|flags
 DECL|member|rect
-DECL|member|tlw
+DECL|member|window

@@ -1,11 +1,3 @@
-DECL|function|accum
-DECL|function|alpha
-DECL|function|depth
-DECL|function|directRendering
-DECL|function|doubleBuffer
-DECL|function|hasWindowSurface
-DECL|function|rgba
-DECL|function|sampleBuffers
-DECL|function|stencil
 DECL|function|stereo
+DECL|function|windowSurface
 DECL|macro|QPLATFORMWINDOWFORMAT_QPA_H

@@ -4,7 +4,9 @@ DECL|function|QWindowPrivate
 DECL|function|actualWindowFormat
 DECL|function|close
 DECL|function|create
+DECL|function|destroy
 DECL|function|event
+DECL|function|format
 DECL|function|geometry
 DECL|function|glContext
 DECL|function|hideEvent
@@ -27,7 +29,9 @@ DECL|function|setMaximumSize
 DECL|function|setMinimumSize
 DECL|function|setOpacity
 DECL|function|setParent
+DECL|function|setRequestFormat
 DECL|function|setVisible
+DECL|function|setWidget
 DECL|function|setWindowFormat
 DECL|function|setWindowIcon
 DECL|function|setWindowState
@@ -39,6 +43,7 @@ DECL|function|showMinimized
 DECL|function|showNormal
 DECL|function|types
 DECL|function|wheelEvent
+DECL|function|widget
 DECL|function|winId
 DECL|function|windowState
 DECL|function|windowTitle
@@ -47,5 +52,6 @@ DECL|member|geometry
 DECL|member|glContext
 DECL|member|platformWindow
 DECL|member|requestedFormat
+DECL|member|widget
 DECL|member|windowTitle
 DECL|member|windowTypes

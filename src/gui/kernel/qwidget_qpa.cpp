@@ -18,8 +18,6 @@ DECL|function|mapToGlobal
 DECL|function|metric
 DECL|function|mouseGrabber
 DECL|function|paintEngine
-DECL|function|platformWindow
-DECL|function|platformWindowFormat
 DECL|function|q_createNativeChildrenAndSetParent
 DECL|function|qt_qpa_set_cursor
 DECL|function|raise_sys
@@ -37,8 +35,6 @@ DECL|function|setMask_sys
 DECL|function|setMaxWindowState_helper
 DECL|function|setModal_sys
 DECL|function|setParent_sys
-DECL|function|setPlatformWindow
-DECL|function|setPlatformWindowFormat
 DECL|function|setWSGeometry
 DECL|function|setWindowIconText_sys
 DECL|function|setWindowIcon_sys
@@ -51,6 +47,7 @@ DECL|function|unsetCursor_sys
 DECL|function|updateCursor
 DECL|function|updateFrameStrut
 DECL|function|updateSystemBackground
+DECL|function|windowHandle
 DECL|variable|keyboardGrb
 DECL|variable|qt_mouseGrb
 DECL|variable|qt_pressGrab

@@ -69,8 +69,6 @@ DECL|member|opacity
 DECL|member|painter
 DECL|member|parentWinId
 DECL|member|pdev
-DECL|member|platformWindow
-DECL|member|platformWindowFormat
 DECL|member|posFromMove
 DECL|member|proxyWidget
 DECL|member|qwsManager
@@ -99,6 +97,7 @@ DECL|member|wattr
 DECL|member|wclass
 DECL|member|winIconBig
 DECL|member|winIconSmall
+DECL|member|window
 DECL|member|windowIcon
 DECL|member|windowSurface
 DECL|member|xDndProxy
@@ -110,10 +109,10 @@ DECL|variable|QCoreGraphicsPaintEnginePrivate
 DECL|variable|QGraphicsProxyWidget
 DECL|variable|QPaintEngine
 DECL|variable|QPixmap
-DECL|variable|QPlatformWindow
 DECL|variable|QStyle
 DECL|variable|QUnifiedToolbarSurface
 DECL|variable|QWSManager
 DECL|variable|QWidgetBackingStore
 DECL|variable|QWidgetItemV2
+DECL|variable|QWindow
 DECL|variable|RDrawableWindow
