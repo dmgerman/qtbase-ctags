@@ -9,4 +9,3 @@ DECL|function|sampleBuffers
 DECL|function|stencil
 DECL|function|stereo
 DECL|macro|QPLATFORMWINDOWFORMAT_QPA_H
-DECL|variable|QWindowPrivate
