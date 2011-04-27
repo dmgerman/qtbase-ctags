@@ -178,6 +178,7 @@ DECL|function|toFloat
 DECL|function|toInt
 DECL|function|toLatin1
 DECL|function|toLatin1
+DECL|function|toLatin1
 DECL|function|toLatin1_helper
 DECL|function|toLocal8Bit
 DECL|function|toLocal8Bit
@@ -195,6 +196,7 @@ DECL|function|toUcs4
 DECL|function|toUcs4
 DECL|function|toUcs4_helper
 DECL|function|toUpper
+DECL|function|toUtf8
 DECL|function|toUtf8
 DECL|function|toUtf8
 DECL|function|toWCharArray
