@@ -24,7 +24,6 @@ DECL|function|unpolish
 DECL|function|viewItemDrawText
 DECL|function|viewItemLayout
 DECL|function|viewItemSize
-DECL|function|viewItemTextLayout
 DECL|function|~QCommonStyle
 DECL|macro|INTARRLEN
 DECL|macro|INTARRLEN
