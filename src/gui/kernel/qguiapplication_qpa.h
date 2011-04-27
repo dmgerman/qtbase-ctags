@@ -1,0 +1,2 @@
+DECL|macro|QGUIAPPLICATION_QPA_H
+DECL|variable|QPlatformNativeInterface

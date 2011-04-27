@@ -182,7 +182,6 @@ DECL|member|navigationMode
 DECL|member|navigationMode
 DECL|member|obey_desktop_settings
 DECL|member|oldEditFocus
-DECL|member|platform_integration
 DECL|member|popupWidgets
 DECL|member|qmljs_debug_arguments
 DECL|member|quitOnLastWindowClosed

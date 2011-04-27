@@ -1,7 +1,6 @@
 DECL|class|QMutexUnlocker
 DECL|function|QCoreApplication
 DECL|function|QCoreApplication
-DECL|function|QCoreApplication
 DECL|function|QCoreApplicationData
 DECL|function|QCoreApplicationPrivate
 DECL|function|QMutexUnlocker

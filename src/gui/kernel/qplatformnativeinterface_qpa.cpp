@@ -1,1 +1,1 @@
-DECL|function|nativeResourceForWidget
+DECL|function|nativeResourceForWindow
