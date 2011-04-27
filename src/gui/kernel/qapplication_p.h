@@ -24,6 +24,8 @@ DECL|macro|GID_ZOOM
 DECL|macro|GID_ZOOM
 DECL|macro|GID_ZOOM
 DECL|macro|QAPPLICATION_P_H
+DECL|macro|QApplicationPrivateBase
+DECL|macro|QApplicationPrivateBase
 DECL|macro|WM_GESTURE
 DECL|member|capabilityMask
 DECL|member|cbExtraArgs
