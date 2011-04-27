@@ -45,6 +45,7 @@ DECL|function|showMaximized
 DECL|function|showMinimized
 DECL|function|showNormal
 DECL|function|surfaceType
+DECL|function|visible
 DECL|function|wheelEvent
 DECL|function|widget
 DECL|function|winId
@@ -58,6 +59,7 @@ DECL|member|glContext
 DECL|member|platformWindow
 DECL|member|requestedFormat
 DECL|member|surfaceType
+DECL|member|visible
 DECL|member|widget
 DECL|member|windowFlags
 DECL|member|windowTitle
