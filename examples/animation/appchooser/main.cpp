@@ -1,10 +1,13 @@
+DECL|class|GraphicsView
 DECL|class|Pixmap
+DECL|function|GraphicsView
 DECL|function|Pixmap
 DECL|function|createAnimations
 DECL|function|createStates
 DECL|function|main
 DECL|function|mousePressEvent
 DECL|function|paint
+DECL|function|resizeEvent
 DECL|function|setGeometry
 DECL|member|orig
 DECL|member|p
