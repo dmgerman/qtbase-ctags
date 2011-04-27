@@ -1,0 +1,10 @@
+DECL|class|QPauseAnimationPrivate
+DECL|function|QPauseAnimation
+DECL|function|QPauseAnimation
+DECL|function|QPauseAnimationPrivate
+DECL|function|duration
+DECL|function|event
+DECL|function|setDuration
+DECL|function|updateCurrentTime
+DECL|function|~QPauseAnimation
+DECL|member|duration

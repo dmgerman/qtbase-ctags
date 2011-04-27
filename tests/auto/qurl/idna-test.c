@@ -1,0 +1,10 @@
+DECL|member|allowunassigned
+DECL|member|in
+DECL|member|inlen
+DECL|member|name
+DECL|member|out
+DECL|member|toasciirc
+DECL|member|tounicoderc
+DECL|member|usestd3asciirules
+DECL|struct|idna
+DECL|variable|idnalist

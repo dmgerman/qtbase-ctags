@@ -1,0 +1,5 @@
+DECL|function|FT_DEFINE_SERVICE
+DECL|macro|FT_SERVICE_ID_GLYPH_DICT
+DECL|macro|__SVGLDICT_H__
+DECL|typedef|FT_GlyphDict_GetNameFunc
+DECL|typedef|FT_GlyphDict_NameIndexFunc

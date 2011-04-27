@@ -1,0 +1,10 @@
+DECL|class|QXcbResourceMap
+DECL|function|QXcbResourceMap
+DECL|function|connectionForWidget
+DECL|function|displayForWidget
+DECL|function|eglContextForWidget
+DECL|function|eglDisplayForWidget
+DECL|function|graphicsDeviceForWidget
+DECL|function|nativeResourceForWidget
+DECL|function|qPlatformScreenForWidget
+DECL|function|screenForWidget

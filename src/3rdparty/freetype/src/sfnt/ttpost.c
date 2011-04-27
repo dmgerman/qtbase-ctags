@@ -1,0 +1,10 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|load_format_20
+DECL|function|load_format_25
+DECL|function|load_post_names
+DECL|function|tt_face_free_ps_names
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|macro|MAC_NAME
+DECL|macro|MAC_NAME
+DECL|variable|tt_post_default_names

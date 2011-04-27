@@ -1,0 +1,16 @@
+DECL|class|tst_QTextBoundaryFinder
+DECL|function|cleanup
+DECL|function|fastConstructor
+DECL|function|graphemeBoundaries
+DECL|function|init
+DECL|function|isAtBoundaryLine
+DECL|function|isAtWordStart
+DECL|function|sentenceBoundaries
+DECL|function|toNextBoundary
+DECL|function|toNextBoundary_data
+DECL|function|toPreviousBoundary
+DECL|function|toPreviousBoundary_data
+DECL|function|tst_QTextBoundaryFinder
+DECL|function|wordBoundaries
+DECL|function|~tst_QTextBoundaryFinder
+DECL|macro|SRCDIR

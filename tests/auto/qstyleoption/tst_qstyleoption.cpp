@@ -1,0 +1,12 @@
+DECL|class|tst_QStyleOption
+DECL|function|StyleOptionPointer
+DECL|function|StyleOptionPointerBase
+DECL|function|copyconstructors
+DECL|function|qstyleoptioncast
+DECL|function|qstyleoptioncast_data
+DECL|function|stylePtr
+DECL|function|~StyleOptionPointer
+DECL|function|~StyleOptionPointerBase
+DECL|member|pointer
+DECL|struct|StyleOptionPointer
+DECL|struct|StyleOptionPointerBase

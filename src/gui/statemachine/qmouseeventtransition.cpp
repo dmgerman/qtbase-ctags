@@ -1,0 +1,14 @@
+DECL|class|QMouseEventTransitionPrivate
+DECL|function|QMouseEventTransition
+DECL|function|QMouseEventTransition
+DECL|function|QMouseEventTransitionPrivate
+DECL|function|button
+DECL|function|eventTest
+DECL|function|hitTestPath
+DECL|function|modifierMask
+DECL|function|onTransition
+DECL|function|setButton
+DECL|function|setHitTestPath
+DECL|function|setModifierMask
+DECL|function|~QMouseEventTransition
+DECL|member|transition

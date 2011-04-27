@@ -1,0 +1,11 @@
+DECL|class|QWSUmKeyboardHandlerPrivate
+DECL|function|QWSUmKeyboardHandler
+DECL|function|QWSUmKeyboardHandlerPrivate
+DECL|function|readKeyboardData
+DECL|function|~QWSUmKeyboardHandler
+DECL|function|~QWSUmKeyboardHandlerPrivate
+DECL|member|kbdBuffer
+DECL|member|kbdBufferLen
+DECL|member|kbdFD
+DECL|member|kbdIdx
+DECL|member|notifier

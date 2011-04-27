@@ -1,0 +1,9 @@
+DECL|function|FreezeTableWidget
+DECL|function|init
+DECL|function|moveCursor
+DECL|function|resizeEvent
+DECL|function|scrollTo
+DECL|function|updateFrozenTableGeometry
+DECL|function|updateSectionHeight
+DECL|function|updateSectionWidth
+DECL|function|~FreezeTableWidget

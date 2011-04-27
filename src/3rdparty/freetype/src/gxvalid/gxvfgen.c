@@ -1,0 +1,11 @@
+DECL|function|main
+DECL|macro|APPLE_RESERVED
+DECL|macro|APPLE_RESERVED_LENGTH
+DECL|macro|EMPTYFEAT
+DECL|macro|FEATREG_MAX_SETTING
+DECL|member|exclusive
+DECL|member|feat_name
+DECL|member|setting_name
+DECL|struct|GX_Feature_RegistryRec_
+DECL|typedef|GX_Feature_RegistryRec
+DECL|variable|featreg_table

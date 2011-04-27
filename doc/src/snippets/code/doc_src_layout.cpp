@@ -1,0 +1,14 @@
+DECL|class|CardLayout
+DECL|function|CardLayout
+DECL|function|CardLayout
+DECL|function|CardLayout
+DECL|function|addItem
+DECL|function|count
+DECL|function|itemAt
+DECL|function|minimumSize
+DECL|function|setGeometry
+DECL|function|sizeHint
+DECL|function|takeAt
+DECL|function|~CardLayout
+DECL|macro|CARD_H
+DECL|member|list

@@ -1,0 +1,14 @@
+DECL|function|PaintArea
+DECL|function|insertShape
+DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent
+DECL|function|openImage
+DECL|function|paintEvent
+DECL|function|saveImage
+DECL|function|setBrush
+DECL|function|setBrushColor
+DECL|function|setBrushWidth
+DECL|function|setImage
+DECL|function|setupPainter
+DECL|function|sizeHint

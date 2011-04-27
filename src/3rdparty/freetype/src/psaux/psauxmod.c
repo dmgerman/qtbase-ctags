@@ -1,0 +1,8 @@
+DECL|variable|afm_parser_funcs
+DECL|variable|ps_parser_funcs
+DECL|variable|ps_table_funcs
+DECL|variable|psaux_interface
+DECL|variable|psaux_module_class
+DECL|variable|t1_builder_funcs
+DECL|variable|t1_cmap_classes
+DECL|variable|t1_decoder_funcs

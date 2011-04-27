@@ -1,0 +1,1 @@
+DECL|macro|QPROXYMODEL_H

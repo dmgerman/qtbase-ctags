@@ -1,0 +1,3 @@
+DECL|macro|SHIVAVGWINDOWSURFACE_H
+DECL|variable|QWindowSurface
+DECL|variable|ShivaVGWindowSurfacePrivate

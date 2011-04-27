@@ -1,0 +1,1 @@
+DECL|macro|FADEMESSAGE_H

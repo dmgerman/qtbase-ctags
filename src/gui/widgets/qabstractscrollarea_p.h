@@ -1,0 +1,4 @@
+DECL|macro|QABSTRACTSCROLLAREA_P_H
+DECL|variable|QAbstractScrollAreaScrollBarContainer
+DECL|variable|QBoxLayout
+DECL|variable|QScrollBar

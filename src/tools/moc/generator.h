@@ -1,0 +1,1 @@
+DECL|macro|GENERATOR_H

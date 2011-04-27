@@ -1,0 +1,2 @@
+DECL|macro|ICONPREVIEWAREA_H
+DECL|variable|QLabel

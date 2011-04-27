@@ -1,0 +1,1 @@
+DECL|macro|QSHAREDMEMORY_H

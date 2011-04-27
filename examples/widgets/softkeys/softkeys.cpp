@@ -1,0 +1,10 @@
+DECL|function|MainWindow
+DECL|function|addSoftKeys
+DECL|function|cancelPressed
+DECL|function|clearTextEditor
+DECL|function|exitApplication
+DECL|function|okPressed
+DECL|function|openDialog
+DECL|function|setCustomSoftKeys
+DECL|function|setMode
+DECL|function|~MainWindow

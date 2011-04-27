@@ -1,0 +1,11 @@
+DECL|function|QWSSharedMemory
+DECL|function|QWSSharedMemory
+DECL|function|attach
+DECL|function|attach
+DECL|function|create
+DECL|function|create
+DECL|function|destroy
+DECL|function|detach
+DECL|function|setPermissions
+DECL|function|size
+DECL|function|~QWSSharedMemory

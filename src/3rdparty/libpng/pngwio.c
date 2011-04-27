@@ -1,0 +1,10 @@
+DECL|function|png_default_flush
+DECL|function|png_default_write_data
+DECL|function|png_default_write_data
+DECL|function|png_far_to_near
+DECL|function|png_far_to_near
+DECL|function|png_flush
+DECL|function|png_set_write_fn
+DECL|function|png_write_data
+DECL|macro|MIN
+DECL|macro|NEAR_BUF_SIZE

@@ -1,0 +1,4 @@
+DECL|function|QT_FORWARD_DECLARE_CLASS
+DECL|function|boundingRect
+DECL|function|pointBoundingRect
+DECL|macro|HOVERPOINTS_H

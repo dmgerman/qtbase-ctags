@@ -1,0 +1,3 @@
+DECL|function|ShivaVGGraphicsSystem
+DECL|function|createPixmapData
+DECL|function|createWindowSurface

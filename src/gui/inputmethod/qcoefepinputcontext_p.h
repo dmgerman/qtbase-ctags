@@ -1,0 +1,4 @@
+DECL|macro|QCOEFEPINPUTCONTEXT_P_H
+DECL|variable|MCoeFepAwareTextEditor
+DECL|variable|MCoeFepAwareTextEditor_Extension1
+DECL|variable|QInputContext

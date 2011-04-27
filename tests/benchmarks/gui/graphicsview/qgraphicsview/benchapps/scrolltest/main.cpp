@@ -1,0 +1,12 @@
+DECL|class|ClipItem
+DECL|class|CountView
+DECL|class|ItemMover
+DECL|function|ClipItem
+DECL|function|ItemMover
+DECL|function|main
+DECL|function|paintEvent
+DECL|function|shape
+DECL|function|timerEvent
+DECL|macro|CALLGRIND_START_INSTRUMENTATION
+DECL|macro|CALLGRIND_STOP_INSTRUMENTATION
+DECL|member|_item

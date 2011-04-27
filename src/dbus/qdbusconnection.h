@@ -1,0 +1,10 @@
+DECL|function|QT_MODULE
+DECL|macro|QDBUSCONNECTION_H
+DECL|variable|QDBusAbstractInterfacePrivate
+DECL|variable|QDBusConnectionInterface
+DECL|variable|QDBusConnectionPrivate
+DECL|variable|QDBusError
+DECL|variable|QDBusInterface
+DECL|variable|QDBusMessage
+DECL|variable|QDBusPendingCall
+DECL|variable|QObject

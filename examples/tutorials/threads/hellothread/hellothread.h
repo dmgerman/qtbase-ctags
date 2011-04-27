@@ -1,0 +1,1 @@
+DECL|macro|HELLOTHREAD_H

@@ -1,0 +1,17 @@
+DECL|function|FileManager
+DECL|function|completedPieces
+DECL|function|errorString
+DECL|function|generateFiles
+DECL|function|pieceLengthAt
+DECL|function|read
+DECL|function|readBlock
+DECL|function|run
+DECL|function|setCompletedPieces
+DECL|function|startDataVerification
+DECL|function|verifyFileContents
+DECL|function|verifyPiece
+DECL|function|verifySinglePiece
+DECL|function|wakeUp
+DECL|function|write
+DECL|function|writeBlock
+DECL|function|~FileManager

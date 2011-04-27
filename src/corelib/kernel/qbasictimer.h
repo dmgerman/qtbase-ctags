@@ -1,0 +1,1 @@
+DECL|macro|QBASICTIMER_H

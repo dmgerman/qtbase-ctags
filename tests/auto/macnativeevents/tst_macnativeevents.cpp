@@ -1,0 +1,17 @@
+DECL|class|tst_MacNativeEvents
+DECL|function|stressTestMouseLeftDoubleClick
+DECL|function|testChildDialogInFrontOfModalParent
+DECL|function|testChildWindowInFrontOfStaysOnTopParentWindow
+DECL|function|testDragWindow
+DECL|function|testKeyPressOnToplevel
+DECL|function|testModifierAlt
+DECL|function|testModifierCtrl
+DECL|function|testModifierCtrlWithDontSwapCtrlAndMeta
+DECL|function|testModifierShift
+DECL|function|testMouseDragInside
+DECL|function|testMouseDragOutside
+DECL|function|testMouseDragToNonClientArea
+DECL|function|testMouseEnter
+DECL|function|testMouseLeftDoubleClick
+DECL|function|testMouseMoveLocation
+DECL|function|testPushButtonPressRelease

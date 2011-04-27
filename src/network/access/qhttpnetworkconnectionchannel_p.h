@@ -1,0 +1,6 @@
+DECL|macro|QHTTPNETWORKCONNECTIONCHANNEL_H
+DECL|typedef|HttpMessagePair
+DECL|typedef|QHttpNetworkRequest
+DECL|variable|QByteArray
+DECL|variable|QHttpNetworkReply
+DECL|variable|QHttpNetworkRequest

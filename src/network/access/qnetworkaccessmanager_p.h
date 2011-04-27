@@ -1,0 +1,5 @@
+DECL|macro|QNETWORKACCESSMANAGER_P_H
+DECL|variable|QAbstractNetworkCache
+DECL|variable|QAuthenticator
+DECL|variable|QNetworkAuthenticationCredential
+DECL|variable|QNetworkCookieJar

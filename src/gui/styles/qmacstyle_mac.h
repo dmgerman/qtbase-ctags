@@ -1,0 +1,5 @@
+DECL|macro|QMACSTYLE_MAC_H
+DECL|macro|Q_GUI_EXPORT_STYLE_MAC
+DECL|variable|QMacStylePrivate
+DECL|variable|QPushButton
+DECL|variable|QStyleOptionButton

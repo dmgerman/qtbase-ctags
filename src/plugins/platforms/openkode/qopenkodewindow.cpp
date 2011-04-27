@@ -1,0 +1,12 @@
+DECL|function|QOpenKODEWindow
+DECL|function|glContext
+DECL|function|kdProcessKeyEvents
+DECL|function|kdProcessMouseEvents
+DECL|function|lower
+DECL|function|processKeyEvents
+DECL|function|processMouseEvents
+DECL|function|raise
+DECL|function|setGeometry
+DECL|function|setVisible
+DECL|function|winId
+DECL|function|~QOpenKODEWindow

@@ -1,0 +1,2 @@
+DECL|macro|QABSTRACTPROXYMODEL_H
+DECL|variable|QItemSelection

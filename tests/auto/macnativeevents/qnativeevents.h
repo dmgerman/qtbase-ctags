@@ -1,0 +1,1 @@
+DECL|macro|Q_NATIVE_INPUT

@@ -1,0 +1,11 @@
+DECL|function|gxv_lcar_LookupFmt4_transit
+DECL|function|gxv_lcar_LookupValue_validate
+DECL|function|gxv_lcar_partial_validate
+DECL|function|gxv_lcar_validate
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|macro|GXV_LCAR_DATA
+DECL|member|format
+DECL|struct|GXV_lcar_DataRec_
+DECL|typedef|GXV_lcar_Data
+DECL|typedef|GXV_lcar_DataRec

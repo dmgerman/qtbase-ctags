@@ -1,0 +1,2 @@
+DECL|macro|MYINPUTPANELCONTEXT_H
+DECL|variable|MyInputPanel

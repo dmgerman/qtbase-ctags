@@ -1,0 +1,2 @@
+DECL|macro|__AFLATIN2_H__
+DECL|variable|af_latin2_script_class

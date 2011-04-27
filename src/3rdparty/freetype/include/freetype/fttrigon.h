@@ -1,0 +1,10 @@
+DECL|macro|FT_ANGLE_2PI
+DECL|macro|FT_ANGLE_PI
+DECL|macro|FT_ANGLE_PI2
+DECL|macro|FT_ANGLE_PI4
+DECL|macro|__FTTRIGON_H__
+DECL|typedef|FT_Angle
+DECL|variable|FT_Atan2
+DECL|variable|FT_Cos
+DECL|variable|FT_Vector_Polarize
+DECL|variable|FT_Vector_Unit

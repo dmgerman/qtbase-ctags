@@ -1,0 +1,11 @@
+DECL|function|Browser
+DECL|function|about
+DECL|function|addConnection
+DECL|function|addConnection
+DECL|function|deleteRow
+DECL|function|exec
+DECL|function|insertRow
+DECL|function|showMetaData
+DECL|function|showTable
+DECL|function|updateActions
+DECL|function|~Browser

@@ -1,0 +1,15 @@
+DECL|class|tst_QDBusXmlParser
+DECL|function|methods
+DECL|function|methods_data
+DECL|function|objectWithContent
+DECL|function|objectWithContent_data
+DECL|function|parsing
+DECL|function|parsingWithDoctype
+DECL|function|parsingWithDoctype_data
+DECL|function|parsing_common
+DECL|function|parsing_data
+DECL|function|properties
+DECL|function|properties_data
+DECL|function|signals_
+DECL|function|signals__data
+DECL|macro|USE_PRIVATE_CODE

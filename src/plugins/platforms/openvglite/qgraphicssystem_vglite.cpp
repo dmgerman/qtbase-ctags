@@ -1,0 +1,4 @@
+DECL|function|QVGLiteGraphicsSystem
+DECL|function|createPixmapData
+DECL|function|createWindowSurface
+DECL|function|~QVGLiteGraphicsSystem

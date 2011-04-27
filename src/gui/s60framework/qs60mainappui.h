@@ -1,0 +1,7 @@
+DECL|function|QT_MODULE
+DECL|macro|QS60MAINAPPUI_H
+DECL|typedef|QS60MainAppUiBase
+DECL|typedef|QS60MainAppUiBase
+DECL|variable|MCoeViewDeactivationObserver
+DECL|variable|QS60StubAknAppUiBase
+DECL|variable|QS60StubMEikStatusPaneObserver

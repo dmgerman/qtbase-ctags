@@ -1,0 +1,1 @@
+DECL|macro|QRINGBUFFER_P_H

@@ -1,0 +1,13 @@
+DECL|function|TreeItem
+DECL|function|child
+DECL|function|childCount
+DECL|function|childNumber
+DECL|function|columnCount
+DECL|function|data
+DECL|function|insertChildren
+DECL|function|insertColumns
+DECL|function|parent
+DECL|function|removeChildren
+DECL|function|removeColumns
+DECL|function|setData
+DECL|function|~TreeItem

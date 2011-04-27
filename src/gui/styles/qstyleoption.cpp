@@ -1,0 +1,112 @@
+DECL|function|QStyleHintReturn
+DECL|function|QStyleHintReturnMask
+DECL|function|QStyleHintReturnVariant
+DECL|function|QStyleOption
+DECL|function|QStyleOption
+DECL|function|QStyleOptionButton
+DECL|function|QStyleOptionButton
+DECL|function|QStyleOptionComboBox
+DECL|function|QStyleOptionComboBox
+DECL|function|QStyleOptionComplex
+DECL|function|QStyleOptionDockWidget
+DECL|function|QStyleOptionDockWidget
+DECL|function|QStyleOptionDockWidgetV2
+DECL|function|QStyleOptionDockWidgetV2
+DECL|function|QStyleOptionDockWidgetV2
+DECL|function|QStyleOptionFocusRect
+DECL|function|QStyleOptionFocusRect
+DECL|function|QStyleOptionFrame
+DECL|function|QStyleOptionFrame
+DECL|function|QStyleOptionFrameV2
+DECL|function|QStyleOptionFrameV2
+DECL|function|QStyleOptionFrameV2
+DECL|function|QStyleOptionFrameV3
+DECL|function|QStyleOptionFrameV3
+DECL|function|QStyleOptionFrameV3
+DECL|function|QStyleOptionGraphicsItem
+DECL|function|QStyleOptionGraphicsItem
+DECL|function|QStyleOptionGroupBox
+DECL|function|QStyleOptionGroupBox
+DECL|function|QStyleOptionHeader
+DECL|function|QStyleOptionHeader
+DECL|function|QStyleOptionMenuItem
+DECL|function|QStyleOptionMenuItem
+DECL|function|QStyleOptionProgressBar
+DECL|function|QStyleOptionProgressBar
+DECL|function|QStyleOptionProgressBarV2
+DECL|function|QStyleOptionProgressBarV2
+DECL|function|QStyleOptionProgressBarV2
+DECL|function|QStyleOptionProgressBarV2
+DECL|function|QStyleOptionQ3DockWindow
+DECL|function|QStyleOptionQ3DockWindow
+DECL|function|QStyleOptionQ3ListView
+DECL|function|QStyleOptionQ3ListView
+DECL|function|QStyleOptionQ3ListViewItem
+DECL|function|QStyleOptionQ3ListViewItem
+DECL|function|QStyleOptionRubberBand
+DECL|function|QStyleOptionRubberBand
+DECL|function|QStyleOptionSizeGrip
+DECL|function|QStyleOptionSizeGrip
+DECL|function|QStyleOptionSlider
+DECL|function|QStyleOptionSlider
+DECL|function|QStyleOptionSpinBox
+DECL|function|QStyleOptionSpinBox
+DECL|function|QStyleOptionTab
+DECL|function|QStyleOptionTab
+DECL|function|QStyleOptionTabBarBase
+DECL|function|QStyleOptionTabBarBase
+DECL|function|QStyleOptionTabBarBaseV2
+DECL|function|QStyleOptionTabBarBaseV2
+DECL|function|QStyleOptionTabBarBaseV2
+DECL|function|QStyleOptionTabV2
+DECL|function|QStyleOptionTabV2
+DECL|function|QStyleOptionTabV2
+DECL|function|QStyleOptionTabV3
+DECL|function|QStyleOptionTabV3
+DECL|function|QStyleOptionTabV3
+DECL|function|QStyleOptionTabWidgetFrame
+DECL|function|QStyleOptionTabWidgetFrame
+DECL|function|QStyleOptionTabWidgetFrameV2
+DECL|function|QStyleOptionTabWidgetFrameV2
+DECL|function|QStyleOptionTabWidgetFrameV2
+DECL|function|QStyleOptionTitleBar
+DECL|function|QStyleOptionTitleBar
+DECL|function|QStyleOptionToolBar
+DECL|function|QStyleOptionToolBar
+DECL|function|QStyleOptionToolBox
+DECL|function|QStyleOptionToolBox
+DECL|function|QStyleOptionToolBoxV2
+DECL|function|QStyleOptionToolBoxV2
+DECL|function|QStyleOptionToolBoxV2
+DECL|function|QStyleOptionToolButton
+DECL|function|QStyleOptionToolButton
+DECL|function|QStyleOptionViewItem
+DECL|function|QStyleOptionViewItem
+DECL|function|QStyleOptionViewItemV2
+DECL|function|QStyleOptionViewItemV2
+DECL|function|QStyleOptionViewItemV2
+DECL|function|QStyleOptionViewItemV3
+DECL|function|QStyleOptionViewItemV3
+DECL|function|QStyleOptionViewItemV3
+DECL|function|QStyleOptionViewItemV4
+DECL|function|QStyleOptionViewItemV4
+DECL|function|QStyleOptionViewItemV4
+DECL|function|init
+DECL|function|levelOfDetailFromTransform
+DECL|function|operator <<
+DECL|function|operator <<
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|~QStyleHintReturn
+DECL|function|~QStyleOption

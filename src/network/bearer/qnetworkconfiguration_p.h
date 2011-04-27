@@ -1,0 +1,2 @@
+DECL|macro|QNETWORKCONFIGURATIONPRIVATE_H
+DECL|typedef|QNetworkConfigurationPrivatePointer

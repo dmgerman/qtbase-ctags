@@ -1,0 +1,10 @@
+DECL|enumerator|mp3
+DECL|enumerator|ogg
+DECL|enumerator|wav
+DECL|enum|MediaFileTypes
+DECL|function|defaultMediaFileType
+DECL|function|haveMouseCursor
+DECL|function|isAutoMaximizing
+DECL|function|isImageLoaderImprecise
+DECL|macro|PLATFORMQUIRKS_H
+DECL|struct|PlatformQuirks

@@ -1,0 +1,5 @@
+DECL|macro|QPRINTENGINE_WIN_P_H
+DECL|variable|QAlphaPaintEngine
+DECL|variable|QPainterState
+DECL|variable|QPrinterPrivate
+DECL|variable|QWin32PrintEnginePrivate

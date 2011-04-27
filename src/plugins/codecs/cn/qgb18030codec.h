@@ -1,0 +1,1 @@
+DECL|macro|QGB18030CODEC_H

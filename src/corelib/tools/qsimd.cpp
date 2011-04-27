@@ -1,0 +1,13 @@
+DECL|function|detectProcessorFeatures
+DECL|function|qDetectCPUFeatures
+DECL|function|qDumpCPUFeatures
+DECL|macro|AT_HWCAP
+DECL|macro|HWCAP_CRUNCH
+DECL|macro|HWCAP_IWMMXT
+DECL|macro|HWCAP_NEON
+DECL|macro|HWCAP_THUMBEE
+DECL|macro|HWCAP_VFPv3
+DECL|macro|HWCAP_VFPv3D16
+DECL|variable|features_count
+DECL|variable|features_indices
+DECL|variable|features_string

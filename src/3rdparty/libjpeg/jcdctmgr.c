@@ -1,0 +1,16 @@
+DECL|function|forward_DCT
+DECL|function|forward_DCT_float
+DECL|function|jinit_forward_dct
+DECL|function|start_pass_fdctmgr
+DECL|macro|CONST_BITS
+DECL|macro|DIVIDE_BY
+DECL|macro|JPEG_INTERNALS
+DECL|macro|PROVIDE_ISLOW_TABLES
+DECL|macro|PROVIDE_ISLOW_TABLES
+DECL|member|divisors
+DECL|member|do_dct
+DECL|member|do_float_dct
+DECL|member|float_divisors
+DECL|member|pub
+DECL|typedef|my_fdct_controller
+DECL|typedef|my_fdct_ptr

@@ -1,0 +1,14 @@
+DECL|function|fromName
+DECL|function|localDomainName
+DECL|function|localHostName
+DECL|function|resolveLibrary
+DECL|macro|QT_SOCKOPTLEN_T
+DECL|macro|Q_ADDRCONFIG
+DECL|typedef|res_init_proto
+DECL|typedef|res_nclose_proto
+DECL|typedef|res_ninit_proto
+DECL|typedef|res_state_ptr
+DECL|variable|local_res
+DECL|variable|local_res_init
+DECL|variable|local_res_nclose
+DECL|variable|local_res_ninit

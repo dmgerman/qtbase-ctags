@@ -1,0 +1,3 @@
+DECL|function|TextEdit
+DECL|function|canInsertFromMimeData
+DECL|function|insertFromMimeData

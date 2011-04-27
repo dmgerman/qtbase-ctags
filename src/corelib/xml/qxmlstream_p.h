@@ -1,0 +1,13 @@
+DECL|function|parse
+DECL|macro|ERROR
+DECL|macro|QXMLSTREAM_P_H
+DECL|member|action_check
+DECL|member|action_default
+DECL|member|action_index
+DECL|member|action_info
+DECL|member|goto_default
+DECL|member|lhs
+DECL|member|rhs
+DECL|member|spell
+DECL|variable|QXmlStreamEntityResolver
+DECL|variable|QXmlStreamReader_Table

@@ -1,0 +1,1 @@
+DECL|macro|QTEXTTABLE_P_H

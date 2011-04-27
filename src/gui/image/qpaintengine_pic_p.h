@@ -1,0 +1,3 @@
+DECL|macro|QPAINTENGINE_PIC_P_H
+DECL|variable|QBuffer
+DECL|variable|QPicturePaintEnginePrivate

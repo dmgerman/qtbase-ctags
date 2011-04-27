@@ -1,0 +1,1 @@
+DECL|macro|IMAGEITEM_H

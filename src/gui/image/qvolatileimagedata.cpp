@@ -1,0 +1,11 @@
+DECL|function|QVolatileImageData
+DECL|function|QVolatileImageData
+DECL|function|QVolatileImageData
+DECL|function|QVolatileImageData
+DECL|function|QVolatileImageData
+DECL|function|beginDataAccess
+DECL|function|duplicateNativeImage
+DECL|function|endDataAccess
+DECL|function|ensureFormat
+DECL|function|ensureImage
+DECL|function|~QVolatileImageData

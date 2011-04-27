@@ -1,0 +1,11 @@
+DECL|function|QPixmapIconEngineEntry
+DECL|function|QPixmapIconEngineEntry
+DECL|function|QPixmapIconEngineEntry
+DECL|function|isNull
+DECL|macro|QICON_P_H
+DECL|member|fileName
+DECL|member|mode
+DECL|member|pixmap
+DECL|member|size
+DECL|member|state
+DECL|struct|QPixmapIconEngineEntry

@@ -1,0 +1,15 @@
+DECL|class|QWaitConditionPrivate
+DECL|function|QWaitCondition
+DECL|function|QWaitConditionPrivate
+DECL|function|report_error
+DECL|function|wait
+DECL|function|wait
+DECL|function|wait
+DECL|function|wakeAll
+DECL|function|wakeOne
+DECL|function|~QWaitCondition
+DECL|function|~QWaitConditionPrivate
+DECL|member|cond
+DECL|member|mutex
+DECL|member|waiters
+DECL|member|wakeups

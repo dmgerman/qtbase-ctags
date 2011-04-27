@@ -1,0 +1,12 @@
+DECL|function|ArthurStyle
+DECL|function|cached
+DECL|function|drawComplexControl
+DECL|function|drawHoverRect
+DECL|function|drawPrimitive
+DECL|function|pixelMetric
+DECL|function|polish
+DECL|function|polish
+DECL|function|sizeFromContents
+DECL|function|subControlRect
+DECL|function|subElementRect
+DECL|function|unpolish

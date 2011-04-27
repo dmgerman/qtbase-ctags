@@ -1,0 +1,14 @@
+DECL|class|SubQFileIconProvider
+DECL|class|tst_QFileIconProvider
+DECL|function|cleanup
+DECL|function|cleanupTestCase
+DECL|function|iconInfo
+DECL|function|iconInfo_data
+DECL|function|iconType
+DECL|function|iconType_data
+DECL|function|init
+DECL|function|initTestCase
+DECL|function|qfileiconprovider
+DECL|function|qfileiconprovider_data
+DECL|function|type
+DECL|function|type_data

@@ -1,0 +1,5 @@
+DECL|macro|DIAGRAMTEXTITEM_H
+DECL|variable|QFocusEvent
+DECL|variable|QGraphicsItem
+DECL|variable|QGraphicsScene
+DECL|variable|QGraphicsSceneMouseEvent

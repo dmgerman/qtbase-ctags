@@ -1,0 +1,1 @@
+DECL|macro|QHOSTINFO_P_H

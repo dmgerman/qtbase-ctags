@@ -1,0 +1,2 @@
+DECL|macro|QFONTENGINE_S60_P_H
+DECL|variable|CFont

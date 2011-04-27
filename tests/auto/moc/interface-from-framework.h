@@ -1,0 +1,2 @@
+DECL|macro|INTERFACE_FROM_FRAMEWORK_H
+DECL|variable|QObject

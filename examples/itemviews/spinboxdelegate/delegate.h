@@ -1,0 +1,1 @@
+DECL|macro|DELEGATE_H

@@ -1,0 +1,4 @@
+DECL|function|gxv_morx_subtable_type0_entry_validate
+DECL|function|gxv_morx_subtable_type0_validate
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

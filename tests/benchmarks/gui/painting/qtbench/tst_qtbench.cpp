@@ -1,0 +1,16 @@
+DECL|class|BenchWidget
+DECL|class|tst_QtBench
+DECL|function|BenchWidget
+DECL|function|done
+DECL|function|makeString
+DECL|function|paintEvent
+DECL|function|qtBench
+DECL|function|qtBench_data
+DECL|function|result
+DECL|member|iterationTimes
+DECL|member|m_benchmark
+DECL|member|m_done
+DECL|member|m_iteration
+DECL|member|m_result
+DECL|member|m_total
+DECL|member|timer

@@ -1,0 +1,2 @@
+DECL|function|convert_RGB888_to_RGB32_ssse3
+DECL|function|qt_convert_rgb888_to_rgb32_ssse3

@@ -1,0 +1,1 @@
+DECL|macro|QBYTEDATA_H

@@ -1,0 +1,2 @@
+DECL|function|QWaylandGLIntegration
+DECL|function|~QWaylandGLIntegration

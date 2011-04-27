@@ -1,0 +1,9 @@
+DECL|function|attachTypeLibrary
+DECL|function|dumpIdl
+DECL|function|main
+DECL|function|quotePath
+DECL|function|registerServer
+DECL|function|runIdc
+DECL|function|runWithQtInEnvironment
+DECL|function|slashify
+DECL|function|unregisterServer

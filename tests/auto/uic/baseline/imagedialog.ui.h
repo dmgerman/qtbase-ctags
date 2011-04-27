@@ -1,0 +1,1 @@
+DECL|macro|IMAGEDIALOG_H

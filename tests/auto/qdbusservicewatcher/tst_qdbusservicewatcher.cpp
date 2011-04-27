@@ -1,0 +1,10 @@
+DECL|class|tst_QDBusServiceWatcher
+DECL|function|init
+DECL|function|initTestCase
+DECL|function|modeChange
+DECL|function|tst_QDBusServiceWatcher
+DECL|function|watchForCreation
+DECL|function|watchForDisappearance
+DECL|function|watchForOwnerChange
+DECL|member|serviceName
+DECL|member|testCounter

@@ -1,0 +1,10 @@
+DECL|function|Dialog
+DECL|function|acceptConnection
+DECL|function|displayError
+DECL|function|start
+DECL|function|startTransfer
+DECL|function|updateClientProgress
+DECL|function|updateServerProgress
+DECL|variable|PayloadSize
+DECL|variable|TotalBytes
+DECL|variable|TotalBytes

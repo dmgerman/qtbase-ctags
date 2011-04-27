@@ -1,0 +1,10 @@
+DECL|function|QXlibIntegration
+DECL|function|clipboard
+DECL|function|createPixmapData
+DECL|function|createPlatformWindow
+DECL|function|createWindowSurface
+DECL|function|fontDatabase
+DECL|function|grabWindow
+DECL|function|hasCapability
+DECL|function|hasOpenGL
+DECL|function|nativeInterface

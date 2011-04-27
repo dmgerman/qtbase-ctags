@@ -1,0 +1,1 @@
+DECL|macro|QSTATICTEXT_H

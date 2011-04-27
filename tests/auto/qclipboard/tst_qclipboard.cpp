@@ -1,0 +1,10 @@
+DECL|class|tst_QClipboard
+DECL|function|capabiliyFunctions
+DECL|function|clearBeforeSetText
+DECL|function|copyPasteSymbian
+DECL|function|copy_exit_paste
+DECL|function|modes
+DECL|function|nativeClipboardWorking
+DECL|function|pasteCopySymbian
+DECL|function|setMimeData
+DECL|function|testSignals

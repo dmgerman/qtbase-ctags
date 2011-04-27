@@ -1,0 +1,1 @@
+DECL|macro|RE2NFA_H

@@ -1,0 +1,2 @@
+DECL|macro|QDIRECTPAINTER_QWS_H
+DECL|variable|QWSEmbedEvent

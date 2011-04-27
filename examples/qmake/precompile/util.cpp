@@ -1,0 +1,1 @@
+DECL|function|util_function_does_nothing

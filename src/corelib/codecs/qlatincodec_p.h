@@ -1,0 +1,1 @@
+DECL|macro|QLATINCODEC_P_H

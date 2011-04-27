@@ -1,0 +1,10 @@
+DECL|function|PeerManager
+DECL|function|isLocalHostAddress
+DECL|function|readBroadcastDatagram
+DECL|function|sendBroadcastDatagram
+DECL|function|setServerPort
+DECL|function|startBroadcasting
+DECL|function|updateAddresses
+DECL|function|userName
+DECL|variable|BroadcastInterval
+DECL|variable|broadcastPort

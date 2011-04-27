@@ -1,0 +1,1 @@
+DECL|macro|QMETAOBJECT_H

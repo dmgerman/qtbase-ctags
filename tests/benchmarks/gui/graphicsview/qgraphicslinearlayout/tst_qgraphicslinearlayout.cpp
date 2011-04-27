@@ -1,0 +1,8 @@
+DECL|class|tst_QGraphicsLinearLayout
+DECL|function|MySquareWidget
+DECL|function|heightForWidth
+DECL|function|heightForWidth_data
+DECL|function|sizeHint
+DECL|function|tst_QGraphicsLinearLayout
+DECL|function|~tst_QGraphicsLinearLayout
+DECL|struct|MySquareWidget

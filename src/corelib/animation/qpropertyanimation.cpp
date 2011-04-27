@@ -1,0 +1,12 @@
+DECL|function|QPropertyAnimation
+DECL|function|QPropertyAnimation
+DECL|function|event
+DECL|function|propertyName
+DECL|function|setPropertyName
+DECL|function|setTargetObject
+DECL|function|targetObject
+DECL|function|updateCurrentValue
+DECL|function|updateMetaProperty
+DECL|function|updateProperty
+DECL|function|updateState
+DECL|function|~QPropertyAnimation

@@ -1,0 +1,9 @@
+DECL|function|brushes
+DECL|function|filterImage
+DECL|function|filters
+DECL|function|generateShape
+DECL|function|mouseMove
+DECL|function|mousePress
+DECL|function|mouseRelease
+DECL|function|shapes
+DECL|variable|Pi

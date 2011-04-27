@@ -1,0 +1,9 @@
+DECL|function|RenderArea
+DECL|function|minimumSizeHint
+DECL|function|paintEvent
+DECL|function|setAntialiased
+DECL|function|setBrush
+DECL|function|setPen
+DECL|function|setShape
+DECL|function|setTransformed
+DECL|function|sizeHint

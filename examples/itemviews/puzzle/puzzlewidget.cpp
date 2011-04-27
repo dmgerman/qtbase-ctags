@@ -1,0 +1,10 @@
+DECL|function|PuzzleWidget
+DECL|function|clear
+DECL|function|dragEnterEvent
+DECL|function|dragLeaveEvent
+DECL|function|dragMoveEvent
+DECL|function|dropEvent
+DECL|function|findPiece
+DECL|function|mousePressEvent
+DECL|function|paintEvent
+DECL|function|targetSquare

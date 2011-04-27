@@ -1,0 +1,13 @@
+DECL|function|Boat
+DECL|function|bombsLaunched
+DECL|function|currentDirection
+DECL|function|currentSpeed
+DECL|function|destroy
+DECL|function|run
+DECL|function|setBombsLaunched
+DECL|function|setCurrentDirection
+DECL|function|setCurrentSpeed
+DECL|function|setupDestroyAnimation
+DECL|function|stop
+DECL|function|type
+DECL|function|updateBoatMovement

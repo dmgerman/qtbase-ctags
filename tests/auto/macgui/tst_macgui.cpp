@@ -1,0 +1,13 @@
+DECL|class|PrimaryWindowDialog
+DECL|class|tst_MacGui
+DECL|function|PrimaryWindowDialog
+DECL|function|dummy
+DECL|function|grabWindowContents
+DECL|function|nonModalOrder
+DECL|function|scrollbarPainting
+DECL|function|showSecondaryWindow
+DECL|function|spinBoxArrowButtons
+DECL|function|splashScreenModality
+DECL|function|test
+DECL|member|frontWidget
+DECL|member|secondaryWindow

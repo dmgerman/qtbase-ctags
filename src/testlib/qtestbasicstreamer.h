@@ -1,0 +1,3 @@
+DECL|macro|QTESTBASICSTREAMER_H
+DECL|variable|QTestElementAttribute
+DECL|variable|QTestLogger

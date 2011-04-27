@@ -1,0 +1,10 @@
+DECL|macro|HAVE_LONG_LONG
+DECL|macro|QSQL_ODBC_H
+DECL|macro|Q_EXPORT_SQLDRIVER_ODBC
+DECL|macro|Q_EXPORT_SQLDRIVER_ODBC
+DECL|macro|_MSC_VER
+DECL|macro|_MSC_VER
+DECL|variable|QODBCDriver
+DECL|variable|QODBCDriverPrivate
+DECL|variable|QODBCPrivate
+DECL|variable|QSqlRecordInfo

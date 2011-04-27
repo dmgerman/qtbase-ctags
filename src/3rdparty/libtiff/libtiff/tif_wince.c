@@ -1,0 +1,7 @@
+DECL|function|TIFFOpen
+DECL|function|TIFFOpenW
+DECL|function|Win32ErrorHandler
+DECL|function|Win32WarningHandler
+DECL|macro|TIF_PLATFORM_CONSOLE
+DECL|variable|_TIFFerrorHandler
+DECL|variable|_TIFFwarningHandler

@@ -1,0 +1,17 @@
+DECL|function|MetaInfo
+DECL|function|announceList
+DECL|function|announceUrl
+DECL|function|clear
+DECL|function|comment
+DECL|function|createdBy
+DECL|function|creationDate
+DECL|function|errorString
+DECL|function|fileForm
+DECL|function|infoValue
+DECL|function|multiFiles
+DECL|function|name
+DECL|function|parse
+DECL|function|pieceLength
+DECL|function|sha1Sums
+DECL|function|singleFile
+DECL|function|totalSize

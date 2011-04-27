@@ -1,0 +1,10 @@
+DECL|class|Notepad
+DECL|function|Notepad
+DECL|function|load
+DECL|function|main
+DECL|function|save
+DECL|member|exitAction
+DECL|member|fileMenu
+DECL|member|loadAction
+DECL|member|saveAction
+DECL|member|textEdit

@@ -1,0 +1,12 @@
+DECL|function|main
+DECL|function|test_atan2
+DECL|function|test_cos
+DECL|function|test_length
+DECL|function|test_rotate
+DECL|function|test_sin
+DECL|function|test_tan
+DECL|function|test_unit
+DECL|macro|PI
+DECL|macro|SPI
+DECL|macro|THRESHOLD
+DECL|variable|error

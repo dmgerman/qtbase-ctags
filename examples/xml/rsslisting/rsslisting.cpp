@@ -1,0 +1,9 @@
+DECL|function|RSSListing
+DECL|function|error
+DECL|function|fetch
+DECL|function|finished
+DECL|function|get
+DECL|function|itemActivated
+DECL|function|metaDataChanged
+DECL|function|parseXml
+DECL|function|readyRead

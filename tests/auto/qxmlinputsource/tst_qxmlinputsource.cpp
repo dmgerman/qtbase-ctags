@@ -1,0 +1,14 @@
+DECL|class|ServerAndClient
+DECL|class|tst_QXmlInputSource
+DECL|function|ServerAndClient
+DECL|function|doIt
+DECL|function|newConnection
+DECL|function|readyRead
+DECL|function|requestFinished
+DECL|function|reset
+DECL|function|resetSimplified
+DECL|function|waitForReadyIODevice
+DECL|member|eventLoop
+DECL|member|httpClient
+DECL|member|success
+DECL|member|tcpServer

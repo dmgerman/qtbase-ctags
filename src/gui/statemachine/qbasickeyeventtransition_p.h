@@ -1,0 +1,2 @@
+DECL|macro|QBASICKEYEVENTTRANSITION_P_H
+DECL|variable|QBasicKeyEventTransitionPrivate

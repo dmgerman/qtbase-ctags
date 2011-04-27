@@ -1,0 +1,11 @@
+DECL|function|addressFromSockaddr
+DECL|function|convertFlags
+DECL|function|createInterfaces
+DECL|function|findInterface
+DECL|function|interfaceListing
+DECL|function|interfaceListing
+DECL|function|interfaceNames
+DECL|function|scan
+DECL|macro|IP_MULTICAST
+DECL|macro|SIOCGIFBRDADDR
+DECL|variable|STORAGEBUFFER_GROWTH

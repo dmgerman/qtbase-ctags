@@ -1,0 +1,2 @@
+DECL|macro|QFILEINFOGATHERER_H
+DECL|variable|QFileIconProvider

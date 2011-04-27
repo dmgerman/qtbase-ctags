@@ -1,0 +1,15 @@
+DECL|function|MainWindow
+DECL|function|about
+DECL|function|aboutPlugins
+DECL|function|addToMenu
+DECL|function|applyFilter
+DECL|function|brushColor
+DECL|function|brushWidth
+DECL|function|changeBrush
+DECL|function|createActions
+DECL|function|createMenus
+DECL|function|insertShape
+DECL|function|loadPlugins
+DECL|function|open
+DECL|function|populateMenus
+DECL|function|saveAs

@@ -1,0 +1,17 @@
+DECL|class|CountView
+DECL|function|View
+DECL|function|paintEvent
+DECL|function|print
+DECL|function|resetView
+DECL|function|rotateLeft
+DECL|function|rotateRight
+DECL|function|setResetButtonEnabled
+DECL|function|setupMatrix
+DECL|function|timerEvent
+DECL|function|toggleAntialiasing
+DECL|function|toggleOpenGL
+DECL|function|view
+DECL|function|zoomIn
+DECL|function|zoomOut
+DECL|macro|CALLGRIND_START_INSTRUMENTATION
+DECL|macro|CALLGRIND_STOP_INSTRUMENTATION

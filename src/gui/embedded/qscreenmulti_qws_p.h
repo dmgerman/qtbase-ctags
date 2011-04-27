@@ -1,0 +1,2 @@
+DECL|macro|QMULTISCREEN_QWS_P_H
+DECL|variable|QMultiScreenPrivate

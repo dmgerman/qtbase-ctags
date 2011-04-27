@@ -1,0 +1,1 @@
+DECL|macro|QPRINTWIDGET_H

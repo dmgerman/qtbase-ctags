@@ -1,0 +1,2 @@
+DECL|macro|RANDOMLISTMODEL_H
+DECL|variable|QTimer

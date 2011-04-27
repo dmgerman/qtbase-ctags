@@ -1,0 +1,30 @@
+DECL|function|QRawFont
+DECL|function|QRawFont
+DECL|function|QRawFont
+DECL|function|QRawFont
+DECL|function|advancesForGlyphIndexes
+DECL|function|alphaMapForGlyph
+DECL|function|ascent
+DECL|function|cleanUp
+DECL|function|descent
+DECL|function|detach
+DECL|function|familyName
+DECL|function|fontTable
+DECL|function|fromFont
+DECL|function|glyphIndexesForString
+DECL|function|hintingPreference
+DECL|function|isValid
+DECL|function|loadFromData
+DECL|function|loadFromFile
+DECL|function|operator =
+DECL|function|operator ==
+DECL|function|pathForGlyph
+DECL|function|pixelSize
+DECL|function|setPixelSize
+DECL|function|style
+DECL|function|supportedWritingSystems
+DECL|function|supportsCharacter
+DECL|function|supportsCharacter
+DECL|function|unitsPerEm
+DECL|function|weight
+DECL|function|~QRawFont

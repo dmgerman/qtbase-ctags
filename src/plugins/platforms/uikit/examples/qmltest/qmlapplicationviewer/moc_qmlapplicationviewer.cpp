@@ -1,0 +1,7 @@
+DECL|function|getStaticMetaObject
+DECL|function|metaObject
+DECL|function|qt_metacall
+DECL|function|qt_metacast
+DECL|member|staticMetaObject
+DECL|variable|qt_meta_data_QmlApplicationViewer
+DECL|variable|qt_meta_stringdata_QmlApplicationViewer

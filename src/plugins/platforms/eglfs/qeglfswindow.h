@@ -1,0 +1,1 @@
+DECL|macro|QEGLWINDOW_H

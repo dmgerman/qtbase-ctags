@@ -1,0 +1,3 @@
+DECL|class|tst_QNetworkProxyFactory
+DECL|function|formatProxyName
+DECL|function|systemProxyForQuery

@@ -1,0 +1,15 @@
+DECL|class|ProgressBar
+DECL|class|tst_QProgressBar
+DECL|function|destroyIndeterminate
+DECL|function|format
+DECL|function|formatedText
+DECL|function|formatedText_data
+DECL|function|getSetCheck
+DECL|function|minMaxSameValue
+DECL|function|paintEvent
+DECL|function|setValueRepaint
+DECL|function|sizeHint
+DECL|function|task245201_testChangeStyleAndDelete
+DECL|function|task245201_testChangeStyleAndDelete_data
+DECL|function|text
+DECL|member|repainted

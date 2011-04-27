@@ -1,0 +1,2 @@
+DECL|macro|QNETWORKDISKCACHE_P_H
+DECL|variable|QFile

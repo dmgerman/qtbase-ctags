@@ -1,0 +1,9 @@
+DECL|macro|MUTEX_INITIALIZER
+DECL|macro|_SOLARIS_MALLOC_MACHINE_H
+DECL|macro|mutex_init
+DECL|macro|thread_atfork
+DECL|macro|tsd_getspecific
+DECL|macro|tsd_key_create
+DECL|macro|tsd_setspecific
+DECL|typedef|thread_id
+DECL|typedef|tsd_key_t

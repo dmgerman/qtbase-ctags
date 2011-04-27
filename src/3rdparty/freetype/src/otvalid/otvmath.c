@@ -1,0 +1,11 @@
+DECL|function|otv_GlyphAssembly_validate
+DECL|function|otv_MATH_validate
+DECL|function|otv_MathConstants_validate
+DECL|function|otv_MathGlyphConstruction_validate
+DECL|function|otv_MathGlyphInfo_validate
+DECL|function|otv_MathItalicsCorrectionInfo_validate
+DECL|function|otv_MathKernInfo_validate
+DECL|function|otv_MathKern_validate
+DECL|function|otv_MathVariants_validate
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

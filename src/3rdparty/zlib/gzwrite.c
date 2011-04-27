@@ -1,0 +1,11 @@
+DECL|function|gz_comp
+DECL|function|gz_init
+DECL|function|gz_zero
+DECL|function|gzclose_w
+DECL|function|gzflush
+DECL|function|gzprintf
+DECL|function|gzprintf
+DECL|function|gzputc
+DECL|function|gzputs
+DECL|function|gzsetparams
+DECL|function|gzwrite

@@ -1,0 +1,6 @@
+DECL|function|QOpenKODEEventLoopIntegration
+DECL|function|kdprocessevent
+DECL|function|qtNeedsToProcessEvents
+DECL|function|quitEventLoop
+DECL|function|startEventLoop
+DECL|variable|QT_EVENT_WAKEUP_EVENTLOOP

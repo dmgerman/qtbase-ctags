@@ -1,0 +1,2 @@
+DECL|macro|QEVENTDISPATCHER_S60_P_H
+DECL|variable|QEventDispatcherS60

@@ -1,0 +1,7 @@
+DECL|function|Dialog
+DECL|function|buttonsOrientationChanged
+DECL|function|createButtonBox
+DECL|function|createOptionsGroupBox
+DECL|function|createRotableGroupBox
+DECL|function|help
+DECL|function|rotateWidgets

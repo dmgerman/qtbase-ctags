@@ -1,0 +1,13 @@
+DECL|function|QXcbIntegration
+DECL|function|createPixmapData
+DECL|function|createPlatformWindow
+DECL|function|createWindowSurface
+DECL|function|fontDatabase
+DECL|function|grabWindow
+DECL|function|hasCapability
+DECL|function|hasOpenGL
+DECL|function|isVirtualDesktop
+DECL|function|moveToScreen
+DECL|function|nativeInterface
+DECL|function|screens
+DECL|function|~QXcbIntegration

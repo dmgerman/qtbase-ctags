@@ -1,0 +1,11 @@
+DECL|function|QEglFSScreen
+DECL|function|createAndSetPlatformContext
+DECL|function|createAndSetPlatformContext
+DECL|function|depth
+DECL|function|format
+DECL|function|geometry
+DECL|function|platformContext
+DECL|member|attr
+DECL|member|name
+DECL|struct|AttrInfo
+DECL|variable|attrs

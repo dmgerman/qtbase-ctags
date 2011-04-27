@@ -1,0 +1,13 @@
+DECL|function|PNG_FUNCTION
+DECL|function|PNG_FUNCTION
+DECL|function|png_destroy_read_struct
+DECL|function|png_read_destroy
+DECL|function|png_read_end
+DECL|function|png_read_image
+DECL|function|png_read_info
+DECL|function|png_read_png
+DECL|function|png_read_row
+DECL|function|png_read_rows
+DECL|function|png_read_update_info
+DECL|function|png_set_read_status_fn
+DECL|function|png_start_read_image

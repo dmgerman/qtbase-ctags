@@ -1,0 +1,16 @@
+DECL|class|tst_Utf8
+DECL|function|charByChar
+DECL|function|charByChar_data
+DECL|function|from8Bit
+DECL|function|init
+DECL|function|initTestCase
+DECL|function|invalidUtf8
+DECL|function|invalidUtf8_data
+DECL|function|nonCharacters
+DECL|function|nonCharacters_data
+DECL|function|roundTrip
+DECL|function|roundTrip_data
+DECL|member|codec
+DECL|member|from8BitPtr
+DECL|member|to8Bit
+DECL|variable|utf8bom

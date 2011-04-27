@@ -1,0 +1,9 @@
+DECL|macro|__GRAPHICSSCENE__H__
+DECL|variable|Boat
+DECL|variable|Bomb
+DECL|variable|PixmapItem
+DECL|variable|ProgressItem
+DECL|variable|QAction
+DECL|variable|SubMarine
+DECL|variable|TextInformationItem
+DECL|variable|Torpedo

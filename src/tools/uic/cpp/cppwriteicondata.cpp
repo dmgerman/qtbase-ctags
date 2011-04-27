@@ -1,0 +1,9 @@
+DECL|function|WriteIconData
+DECL|function|acceptImage
+DECL|function|acceptImages
+DECL|function|acceptUI
+DECL|function|transformImageData
+DECL|function|unzipXPM
+DECL|function|writeImage
+DECL|function|writeImage
+DECL|namespace|CPP

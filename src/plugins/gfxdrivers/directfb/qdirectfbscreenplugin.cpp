@@ -1,0 +1,4 @@
+DECL|class|DirectFBScreenDriverPlugin
+DECL|function|DirectFBScreenDriverPlugin
+DECL|function|create
+DECL|function|keys

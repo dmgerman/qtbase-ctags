@@ -1,0 +1,13 @@
+DECL|function|ImageViewer
+DECL|function|about
+DECL|function|adjustScrollBar
+DECL|function|createActions
+DECL|function|createMenus
+DECL|function|fitToWindow
+DECL|function|normalSize
+DECL|function|open
+DECL|function|print
+DECL|function|scaleImage
+DECL|function|updateActions
+DECL|function|zoomIn
+DECL|function|zoomOut

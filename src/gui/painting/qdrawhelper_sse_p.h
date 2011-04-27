@@ -1,0 +1,9 @@
+DECL|function|_load_alpha
+DECL|function|alpha
+DECL|function|qt_bitmapblit16_sse_template
+DECL|function|qt_memfill32_sse_template
+DECL|macro|QDRAWHELPER_SSE_P_H
+DECL|macro|_MM_SHUFFLE
+DECL|macro|posix_memalign
+DECL|macro|posix_memalign
+DECL|struct|QMMXIntrinsics

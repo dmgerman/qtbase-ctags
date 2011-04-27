@@ -1,0 +1,10 @@
+DECL|class|QPageSetupDialogPrivate
+DECL|function|addEnabledOption
+DECL|function|enabledOptions
+DECL|function|isOptionEnabled
+DECL|function|open
+DECL|function|options
+DECL|function|setEnabledOptions
+DECL|function|setOption
+DECL|function|setOptions
+DECL|function|testOption

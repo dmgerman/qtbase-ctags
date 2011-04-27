@@ -1,0 +1,1 @@
+DECL|macro|QGLYPHS_H

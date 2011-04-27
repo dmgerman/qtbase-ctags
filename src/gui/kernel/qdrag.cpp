@@ -1,0 +1,14 @@
+DECL|function|QDrag
+DECL|function|exec
+DECL|function|exec
+DECL|function|hotSpot
+DECL|function|mimeData
+DECL|function|pixmap
+DECL|function|setDragCursor
+DECL|function|setHotSpot
+DECL|function|setMimeData
+DECL|function|setPixmap
+DECL|function|source
+DECL|function|start
+DECL|function|target
+DECL|function|~QDrag

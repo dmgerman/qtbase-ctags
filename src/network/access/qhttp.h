@@ -1,0 +1,10 @@
+DECL|macro|QHTTP_H
+DECL|variable|QAuthenticator
+DECL|variable|QHttpHeaderPrivate
+DECL|variable|QHttpPrivate
+DECL|variable|QHttpRequestHeaderPrivate
+DECL|variable|QHttpResponseHeaderPrivate
+DECL|variable|QIODevice
+DECL|variable|QNetworkProxy
+DECL|variable|QSslError
+DECL|variable|QTimerEvent

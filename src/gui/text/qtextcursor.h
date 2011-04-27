@@ -1,0 +1,14 @@
+DECL|macro|QTEXTCURSOR_H
+DECL|variable|QTextBlock
+DECL|variable|QTextBlockFormat
+DECL|variable|QTextCharFormat
+DECL|variable|QTextCursorPrivate
+DECL|variable|QTextDocumentFragment
+DECL|variable|QTextDocumentPrivate
+DECL|variable|QTextFrame
+DECL|variable|QTextFrameFormat
+DECL|variable|QTextImageFormat
+DECL|variable|QTextList
+DECL|variable|QTextListFormat
+DECL|variable|QTextTable
+DECL|variable|QTextTableFormat

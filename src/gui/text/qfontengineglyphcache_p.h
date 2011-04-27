@@ -1,0 +1,3 @@
+DECL|macro|QFONTENGINEGLYPHCACHE_P_H
+DECL|typedef|GlyphIntHash
+DECL|typedef|GlyphPointerHash

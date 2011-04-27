@@ -1,0 +1,15 @@
+DECL|function|LocaleModel
+DECL|function|columnCount
+DECL|function|data
+DECL|function|flags
+DECL|function|headerData
+DECL|function|index
+DECL|function|parent
+DECL|function|rowCount
+DECL|function|setData
+DECL|member|country
+DECL|member|language
+DECL|struct|LocaleListItem
+DECL|variable|g_locale_list
+DECL|variable|g_locale_list_count
+DECL|variable|g_model_cols

@@ -1,0 +1,17 @@
+DECL|function|QGestureManager
+DECL|function|cancelGesturesForChildren
+DECL|function|cleanupCachedGestures
+DECL|function|cleanupGesturesForRemovedRecognizer
+DECL|function|deliverEvents
+DECL|function|filterEvent
+DECL|function|filterEvent
+DECL|function|filterEvent
+DECL|function|filterEventThroughContexts
+DECL|function|getGestureTargets
+DECL|function|getState
+DECL|function|recycle
+DECL|function|registerGestureRecognizer
+DECL|function|unregisterGestureRecognizer
+DECL|function|~QGestureManager
+DECL|macro|DEBUG
+DECL|macro|DEBUG

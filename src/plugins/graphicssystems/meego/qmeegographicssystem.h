@@ -1,0 +1,2 @@
+DECL|macro|MGRAPHICSSYSTEM_H
+DECL|typedef|QMeeGoSwitchCallback

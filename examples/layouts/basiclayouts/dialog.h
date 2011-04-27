@@ -1,0 +1,10 @@
+DECL|macro|DIALOG_H
+DECL|variable|QAction
+DECL|variable|QDialogButtonBox
+DECL|variable|QGroupBox
+DECL|variable|QLabel
+DECL|variable|QLineEdit
+DECL|variable|QMenu
+DECL|variable|QMenuBar
+DECL|variable|QPushButton
+DECL|variable|QTextEdit

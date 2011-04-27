@@ -1,0 +1,10 @@
+DECL|function|emit_message
+DECL|function|error_exit
+DECL|function|format_message
+DECL|function|jpeg_std_error
+DECL|function|output_message
+DECL|function|reset_error_mgr
+DECL|macro|EXIT_FAILURE
+DECL|macro|JMESSAGE
+DECL|macro|jpeg_std_message_table
+DECL|variable|jpeg_std_message_table

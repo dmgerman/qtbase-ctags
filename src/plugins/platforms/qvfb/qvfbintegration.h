@@ -1,0 +1,3 @@
+DECL|macro|QGRAPHICSSYSTEM_QVFB_H
+DECL|variable|QVFbIntegrationPrivate
+DECL|variable|QVFbScreenPrivate

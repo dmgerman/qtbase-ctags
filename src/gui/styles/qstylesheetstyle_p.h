@@ -1,0 +1,5 @@
+DECL|macro|QSTYLESHEETSTYLE_P_H
+DECL|variable|QAbstractScrollArea
+DECL|variable|QRenderRule
+DECL|variable|QStyleOptionTitleBar
+DECL|variable|QStyleSheetStylePrivate

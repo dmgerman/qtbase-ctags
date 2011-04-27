@@ -1,0 +1,9 @@
+DECL|function|XbelReader
+DECL|function|createChildItem
+DECL|function|errorString
+DECL|function|read
+DECL|function|readBookmark
+DECL|function|readFolder
+DECL|function|readSeparator
+DECL|function|readTitle
+DECL|function|readXBEL

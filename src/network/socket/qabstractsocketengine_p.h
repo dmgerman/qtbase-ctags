@@ -1,0 +1,5 @@
+DECL|macro|QABSTRACTSOCKETENGINE_P_H
+DECL|variable|QAbstractSocketEnginePrivate
+DECL|variable|QAuthenticator
+DECL|variable|QNetworkInterface
+DECL|variable|QNetworkProxy

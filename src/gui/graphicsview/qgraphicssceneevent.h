@@ -1,0 +1,13 @@
+DECL|macro|QGRAPHICSSCENEEVENT_H
+DECL|variable|QGraphicsSceneContextMenuEventPrivate
+DECL|variable|QGraphicsSceneDragDropEventPrivate
+DECL|variable|QGraphicsSceneEventPrivate
+DECL|variable|QGraphicsSceneHelpEventPrivate
+DECL|variable|QGraphicsSceneHoverEventPrivate
+DECL|variable|QGraphicsSceneMouseEventPrivate
+DECL|variable|QGraphicsSceneMoveEventPrivate
+DECL|variable|QGraphicsSceneResizeEventPrivate
+DECL|variable|QGraphicsSceneWheelEventPrivate
+DECL|variable|QPointF
+DECL|variable|QSizeF
+DECL|variable|QWidget

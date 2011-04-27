@@ -1,0 +1,14 @@
+DECL|class|tst_QPicture
+DECL|function|boundaryValues
+DECL|function|boundaryValues_data
+DECL|function|boundingRect
+DECL|function|devType
+DECL|function|getSetCheck
+DECL|function|operator_lt_lt
+DECL|function|paintStuff
+DECL|function|paintingActive
+DECL|function|save_restore
+DECL|function|scalePoint
+DECL|function|scaleRect
+DECL|function|swap
+DECL|function|tst_QPicture

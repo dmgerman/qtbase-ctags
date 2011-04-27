@@ -1,0 +1,14 @@
+DECL|function|close_backing_store
+DECL|function|jpeg_free_large
+DECL|function|jpeg_free_small
+DECL|function|jpeg_get_large
+DECL|function|jpeg_get_small
+DECL|function|jpeg_mem_available
+DECL|function|jpeg_mem_init
+DECL|function|jpeg_mem_term
+DECL|function|jpeg_open_backing_store
+DECL|function|read_backing_store
+DECL|function|write_backing_store
+DECL|macro|DEFAULT_MAX_MEM
+DECL|macro|JPEG_INTERNALS
+DECL|macro|SEEK_SET

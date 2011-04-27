@@ -1,0 +1,9 @@
+DECL|class|QWSGLWindowSurfacePrivate
+DECL|function|QWSGLWindowSurface
+DECL|function|QWSGLWindowSurface
+DECL|function|QWSGLWindowSurfacePrivate
+DECL|function|context
+DECL|function|setContext
+DECL|function|~QWSGLWindowSurface
+DECL|member|ownsContext
+DECL|member|qglContext

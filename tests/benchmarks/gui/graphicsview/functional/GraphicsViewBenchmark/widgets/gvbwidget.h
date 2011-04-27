@@ -1,0 +1,1 @@
+DECL|macro|GVBWIDGET_H

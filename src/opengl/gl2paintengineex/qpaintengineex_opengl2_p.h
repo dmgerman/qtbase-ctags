@@ -1,0 +1,13 @@
+DECL|enumerator|BrushDrawingMode
+DECL|enumerator|ImageArrayDrawingMode
+DECL|enumerator|ImageDrawingMode
+DECL|enumerator|TextDrawingMode
+DECL|enum|EngineMode
+DECL|function|setVertexAttributePointer
+DECL|macro|GL_STENCIL_HIGH_BIT
+DECL|macro|QGRAPHICSCONTEXT_OPENGL2_P_H
+DECL|macro|QT_BACKGROUND_TEXTURE_UNIT
+DECL|macro|QT_BRUSH_TEXTURE_UNIT
+DECL|macro|QT_IMAGE_TEXTURE_UNIT
+DECL|macro|QT_MASK_TEXTURE_UNIT
+DECL|variable|QGL2PaintEngineExPrivate

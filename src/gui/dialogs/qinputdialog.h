@@ -1,0 +1,1 @@
+DECL|macro|QINPUTDIALOG_H

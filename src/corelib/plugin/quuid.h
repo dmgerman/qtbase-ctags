@@ -1,0 +1,11 @@
+DECL|function|QT_MODULE
+DECL|macro|GUID_DEFINED
+DECL|macro|QUUID_H
+DECL|member|Data1
+DECL|member|Data2
+DECL|member|Data3
+DECL|member|Data4
+DECL|struct|_GUID
+DECL|typedef|GUID
+DECL|typedef|LPGUID
+DECL|typedef|REFGUID

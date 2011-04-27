@@ -1,0 +1,6 @@
+DECL|class|tst_QCryptographicHash
+DECL|function|intermediary_result
+DECL|function|intermediary_result_data
+DECL|function|repeated_result
+DECL|function|repeated_result_data
+DECL|function|sha1

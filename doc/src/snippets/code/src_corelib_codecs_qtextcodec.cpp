@@ -1,0 +1,10 @@
+DECL|function|main
+DECL|variable|codec
+DECL|variable|codec
+DECL|variable|codec
+DECL|variable|decoder
+DECL|variable|encodedString
+DECL|variable|encodedString
+DECL|variable|string
+DECL|variable|string
+DECL|variable|string

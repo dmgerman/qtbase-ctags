@@ -1,0 +1,14 @@
+DECL|function|QPolygon
+DECL|function|QPolygonF
+DECL|function|point
+DECL|function|setPoint
+DECL|function|setPoint
+DECL|function|translate
+DECL|function|translate
+DECL|function|translated
+DECL|function|translated
+DECL|macro|QPOLYGON_H
+DECL|variable|QRect
+DECL|variable|QRectF
+DECL|variable|QTransform
+DECL|variable|QVariant

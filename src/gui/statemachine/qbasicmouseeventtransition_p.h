@@ -1,0 +1,3 @@
+DECL|macro|QBASICMOUSEEVENTTRANSITION_P_H
+DECL|variable|QBasicMouseEventTransitionPrivate
+DECL|variable|QPainterPath

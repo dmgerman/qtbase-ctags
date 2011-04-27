@@ -1,0 +1,2 @@
+DECL|macro|QGRAPHICSSYSTEM_LINUXFB_H
+DECL|variable|QLinuxFbIntegrationPrivate

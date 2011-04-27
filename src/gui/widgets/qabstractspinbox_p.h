@@ -1,0 +1,15 @@
+DECL|enumerator|AlwaysEmit
+DECL|enumerator|ButtonMask
+DECL|enumerator|DirectionMask
+DECL|enumerator|Down
+DECL|enumerator|EmitIfChanged
+DECL|enumerator|Keyboard
+DECL|enumerator|Mouse
+DECL|enumerator|NeverEmit
+DECL|enumerator|None
+DECL|enumerator|Up
+DECL|enumerator|Wheel
+DECL|enum|Button
+DECL|enum|EmitPolicy
+DECL|macro|QABSTRACTSPINBOX_P_H
+DECL|variable|QSpinBoxValidator

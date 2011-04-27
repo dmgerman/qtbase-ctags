@@ -1,0 +1,11 @@
+DECL|function|setFrameFormat
+DECL|macro|QTEXTOBJECT_H
+DECL|variable|QTextBlock
+DECL|variable|QTextBlockGroupPrivate
+DECL|variable|QTextCursor
+DECL|variable|QTextDocument
+DECL|variable|QTextDocumentPrivate
+DECL|variable|QTextFragment
+DECL|variable|QTextFramePrivate
+DECL|variable|QTextLayout
+DECL|variable|QTextList

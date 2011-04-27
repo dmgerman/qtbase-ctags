@@ -1,0 +1,3 @@
+DECL|function|forwardPointer
+DECL|function|~ForwardDeclared
+DECL|variable|forwardDeclaredDestructorRunCount

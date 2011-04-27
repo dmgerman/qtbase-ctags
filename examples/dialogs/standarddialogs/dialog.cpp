@@ -1,0 +1,17 @@
+DECL|function|Dialog
+DECL|function|criticalMessage
+DECL|function|errorMessage
+DECL|function|informationMessage
+DECL|function|questionMessage
+DECL|function|setColor
+DECL|function|setDouble
+DECL|function|setExistingDirectory
+DECL|function|setFont
+DECL|function|setInteger
+DECL|function|setItem
+DECL|function|setOpenFileName
+DECL|function|setOpenFileNames
+DECL|function|setSaveFileName
+DECL|function|setText
+DECL|function|warningMessage
+DECL|macro|MESSAGE

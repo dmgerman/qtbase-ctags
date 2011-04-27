@@ -1,0 +1,1 @@
+DECL|macro|HB_INTERNAL

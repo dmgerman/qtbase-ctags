@@ -1,0 +1,9 @@
+DECL|macro|SCREENSHOT_H
+DECL|variable|QCheckBox
+DECL|variable|QGridLayout
+DECL|variable|QGroupBox
+DECL|variable|QHBoxLayout
+DECL|variable|QLabel
+DECL|variable|QPushButton
+DECL|variable|QSpinBox
+DECL|variable|QVBoxLayout

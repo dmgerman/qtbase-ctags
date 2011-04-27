@@ -1,0 +1,14 @@
+DECL|macro|CFF_CODE_PRIVATE
+DECL|macro|CFF_CODE_TOPDICT
+DECL|macro|CFF_MAX_STACK_DEPTH
+DECL|macro|__CFF_PARSE_H__
+DECL|member|cursor
+DECL|member|limit
+DECL|member|object
+DECL|member|object_code
+DECL|member|stack
+DECL|member|start
+DECL|member|top
+DECL|struct|CFF_ParserRec_
+DECL|typedef|CFF_Parser
+DECL|typedef|CFF_ParserRec

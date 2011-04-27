@@ -1,0 +1,14 @@
+DECL|function|sendEvent
+DECL|function|sendPostedEvents
+DECL|function|sendSpontaneousEvent
+DECL|function|translate
+DECL|function|translate
+DECL|macro|QCOREAPPLICATION_H
+DECL|macro|Q_DECLARE_TR_FUNCTIONS
+DECL|macro|qApp
+DECL|typedef|MSG
+DECL|typedef|QtCleanUpFunction
+DECL|variable|QPostEventList
+DECL|variable|QStringList
+DECL|variable|QTextCodec
+DECL|variable|QTranslator

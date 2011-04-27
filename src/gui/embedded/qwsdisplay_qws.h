@@ -1,0 +1,9 @@
+DECL|macro|QT_QWS_PROPERTY_CONVERTSELECTION
+DECL|macro|QT_QWS_PROPERTY_MARKEDTEXT
+DECL|macro|QT_QWS_PROPERTY_WINDOWNAME
+DECL|macro|QWSDISPLAY_QWS_H
+DECL|variable|QLock
+DECL|variable|QVariant
+DECL|variable|QWSDisplay
+DECL|variable|QWSMouseEvent
+DECL|variable|QWSQCopMessageEvent

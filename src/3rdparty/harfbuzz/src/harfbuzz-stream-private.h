@@ -1,0 +1,14 @@
+DECL|macro|ACCESS_Frame
+DECL|macro|FILE_Pos
+DECL|macro|FILE_Seek
+DECL|macro|FORGET_Frame
+DECL|macro|GET_Byte
+DECL|macro|GET_Char
+DECL|macro|GET_Long
+DECL|macro|GET_Short
+DECL|macro|GET_Tag4
+DECL|macro|GET_ULong
+DECL|macro|GET_UShort
+DECL|macro|GOTO_Table
+DECL|macro|HARFBUZZ_STREAM_PRIVATE_H
+DECL|macro|SET_ERR

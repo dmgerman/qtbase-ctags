@@ -1,0 +1,5 @@
+DECL|function|NONSHARABLE_CLASS
+DECL|function|NONSHARABLE_CLASS
+DECL|macro|PIXELMETRICS_H
+DECL|macro|S60_Rnd_Env
+DECL|variable|KUnknownBase

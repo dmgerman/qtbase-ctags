@@ -1,0 +1,12 @@
+DECL|function|aliases
+DECL|function|aliases
+DECL|function|convertFromUnicode
+DECL|function|convertFromUnicode
+DECL|function|convertToUnicode
+DECL|function|convertToUnicode
+DECL|function|mibEnum
+DECL|function|mibEnum
+DECL|function|name
+DECL|function|name
+DECL|function|~QLatin15Codec
+DECL|function|~QLatin1Codec

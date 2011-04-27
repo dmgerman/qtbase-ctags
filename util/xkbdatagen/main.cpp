@@ -1,0 +1,13 @@
+DECL|class|XKBLayout
+DECL|function|find
+DECL|function|findLayouts
+DECL|function|findVariants
+DECL|function|main
+DECL|function|mapCountry
+DECL|function|mapDirection
+DECL|function|mapLanguage
+DECL|function|parseLayout
+DECL|function|parseVariant
+DECL|member|description
+DECL|member|name
+DECL|member|variants

@@ -1,0 +1,16 @@
+DECL|class|QSingleShotTimer
+DECL|function|QSingleShotTimer
+DECL|function|QTimer
+DECL|function|QTimer
+DECL|function|setInterval
+DECL|function|singleShot
+DECL|function|start
+DECL|function|start
+DECL|function|start
+DECL|function|stop
+DECL|function|timerEvent
+DECL|function|timerEvent
+DECL|function|~QSingleShotTimer
+DECL|function|~QTimer
+DECL|member|timerId
+DECL|variable|INV_TIMER

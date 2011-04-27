@@ -1,0 +1,1 @@
+DECL|macro|OUTPUTPAGE_H

@@ -1,0 +1,15 @@
+DECL|function|QMargins
+DECL|function|QMargins
+DECL|function|QT_MODULE
+DECL|function|bottom
+DECL|function|isNull
+DECL|function|left
+DECL|function|operator
+DECL|function|operator
+DECL|function|right
+DECL|function|setBottom
+DECL|function|setLeft
+DECL|function|setRight
+DECL|function|setTop
+DECL|function|top
+DECL|macro|QMARGINS_H

@@ -1,0 +1,2 @@
+DECL|macro|QDBUSUNIXFILEDESCRIPTOR_H
+DECL|member|~QExplicitlySharedDataPointer

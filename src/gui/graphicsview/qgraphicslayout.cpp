@@ -1,0 +1,11 @@
+DECL|function|QGraphicsLayout
+DECL|function|QGraphicsLayout
+DECL|function|activate
+DECL|function|addChildLayoutItem
+DECL|function|getContentsMargins
+DECL|function|invalidate
+DECL|function|isActivated
+DECL|function|setContentsMargins
+DECL|function|updateGeometry
+DECL|function|widgetEvent
+DECL|function|~QGraphicsLayout

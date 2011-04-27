@@ -1,0 +1,14 @@
+DECL|function|otv_AlternateSubst_validate
+DECL|function|otv_ChainContextSubst_validate
+DECL|function|otv_ContextSubst_validate
+DECL|function|otv_ExtensionSubst_validate
+DECL|function|otv_GSUB_validate
+DECL|function|otv_LigatureSubst_validate
+DECL|function|otv_Ligature_validate
+DECL|function|otv_MultipleSubst_validate
+DECL|function|otv_ReverseChainSingleSubst_validate
+DECL|function|otv_SingleSubst_validate
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|macro|LigatureFunc
+DECL|variable|otv_gsub_validate_funcs

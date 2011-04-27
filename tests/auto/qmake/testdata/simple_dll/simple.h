@@ -1,0 +1,1 @@
+DECL|macro|SIMPLE_H

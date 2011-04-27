@@ -1,0 +1,9 @@
+DECL|function|TopBar
+DECL|function|boundingRect
+DECL|function|mousePressEvent
+DECL|function|paint
+DECL|function|resizeEvent
+DECL|function|setDefaultSizes
+DECL|function|sizeHint
+DECL|function|themeChange
+DECL|function|~TopBar

@@ -1,0 +1,2 @@
+DECL|enumerator|mocOutputRevision
+DECL|macro|OUTPUTREVISION_H

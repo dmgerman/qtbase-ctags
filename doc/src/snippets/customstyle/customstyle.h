@@ -1,0 +1,1 @@
+DECL|macro|CUSTOMSTYLE_H

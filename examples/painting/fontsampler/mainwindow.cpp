@@ -1,0 +1,13 @@
+DECL|function|MainWindow
+DECL|function|currentPageMap
+DECL|function|markUnmarkFonts
+DECL|function|on_clearAction_triggered
+DECL|function|on_markAction_triggered
+DECL|function|on_printAction_triggered
+DECL|function|on_printPreviewAction_triggered
+DECL|function|on_unmarkAction_triggered
+DECL|function|printDocument
+DECL|function|printPage
+DECL|function|setupFontTree
+DECL|function|showFont
+DECL|function|updateStyles

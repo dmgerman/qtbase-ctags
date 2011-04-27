@@ -1,0 +1,16 @@
+DECL|class|tst_QFontDatabase
+DECL|function|addAppFont
+DECL|function|addAppFont_data
+DECL|function|cleanup
+DECL|function|fixedPitch
+DECL|function|fixedPitch_data
+DECL|function|init
+DECL|function|styles
+DECL|function|styles_data
+DECL|function|trickyFonts
+DECL|function|trickyFonts_data
+DECL|function|tst_QFontDatabase
+DECL|function|widthTwoTimes
+DECL|function|widthTwoTimes_data
+DECL|function|~tst_QFontDatabase
+DECL|macro|SRCDIR

@@ -1,0 +1,1 @@
+DECL|macro|QCOLUMNVIEW_P_H

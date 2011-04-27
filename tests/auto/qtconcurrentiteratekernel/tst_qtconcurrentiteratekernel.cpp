@@ -1,0 +1,47 @@
+DECL|class|BlockSizeRecorder
+DECL|class|CountFor
+DECL|class|MultipleResultsFor
+DECL|class|PrintFor
+DECL|class|SleepPrintFor
+DECL|class|ThrottleFor
+DECL|class|tst_QtConcurrentIterateKernel
+DECL|function|BlockSizeRecorder
+DECL|function|CountFor
+DECL|function|MultipleResultsFor
+DECL|function|PrintFor
+DECL|function|SleepPrintFor
+DECL|function|TestIterator
+DECL|function|ThrottleFor
+DECL|function|blockSize
+DECL|function|cancel
+DECL|function|distance
+DECL|function|instantiate
+DECL|function|multipleResults
+DECL|function|noIterations
+DECL|function|operator !=
+DECL|function|operator ++
+DECL|function|operator -
+DECL|function|runIteration
+DECL|function|runIteration
+DECL|function|runIteration
+DECL|function|runIteration
+DECL|function|runIterations
+DECL|function|runIterations
+DECL|function|runIterations
+DECL|function|runIterations
+DECL|function|runIterations
+DECL|function|runIterations
+DECL|function|shouldThrottleThread
+DECL|function|stresstest
+DECL|function|throttling
+DECL|member|i
+DECL|member|throttling
+DECL|namespace|std
+DECL|struct|TestIterator
+DECL|struct|iterator_traits
+DECL|typedef|iterator_category
+DECL|variable|counter
+DECL|variable|iterations
+DECL|variable|peakBlockSize
+DECL|variable|threads
+DECL|variable|threadsMutex

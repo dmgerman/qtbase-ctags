@@ -1,0 +1,16 @@
+DECL|macro|QACCESSIBLEWIDGETS_H
+DECL|variable|QAbstractItemView
+DECL|variable|QAccessibleTextInterface
+DECL|variable|QAccessibleWidgetEx
+DECL|variable|QCalendarWidget
+DECL|variable|QDockWidget
+DECL|variable|QDockWidgetLayout
+DECL|variable|QMainWindow
+DECL|variable|QMdiArea
+DECL|variable|QMdiSubWindow
+DECL|variable|QRubberBand
+DECL|variable|QStackedWidget
+DECL|variable|QTextBrowser
+DECL|variable|QTextEdit
+DECL|variable|QToolBox
+DECL|variable|QWorkspace

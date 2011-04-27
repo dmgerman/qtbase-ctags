@@ -1,0 +1,10 @@
+DECL|function|TabletCanvas
+DECL|function|brushPattern
+DECL|function|initPixmap
+DECL|function|loadImage
+DECL|function|paintEvent
+DECL|function|paintPixmap
+DECL|function|resizeEvent
+DECL|function|saveImage
+DECL|function|tabletEvent
+DECL|function|updateBrush

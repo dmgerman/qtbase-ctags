@@ -1,0 +1,10 @@
+DECL|function|initWritingSystems
+DECL|function|initializeDb
+DECL|function|load
+DECL|function|load
+DECL|function|registerFont
+DECL|function|removeAllApplicationFonts
+DECL|function|removeApplicationFont
+DECL|function|styleHint
+DECL|function|supportsThreadedFontRendering
+DECL|function|weightToFloat

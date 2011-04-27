@@ -1,0 +1,15 @@
+DECL|macro|QTEXTODFWRITER_H
+DECL|variable|QIODevice
+DECL|variable|QOutputStrategy
+DECL|variable|QTextBlock
+DECL|variable|QTextBlockFormat
+DECL|variable|QTextCharFormat
+DECL|variable|QTextCursor
+DECL|variable|QTextDocumentPrivate
+DECL|variable|QTextFragment
+DECL|variable|QTextFrame
+DECL|variable|QTextFrameFormat
+DECL|variable|QTextListFormat
+DECL|variable|QTextOdfWriterPrivate
+DECL|variable|QTextTableCellFormat
+DECL|variable|QXmlStreamWriter

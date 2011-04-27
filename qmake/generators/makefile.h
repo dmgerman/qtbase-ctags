@@ -1,0 +1,16 @@
+DECL|function|defaultInstall
+DECL|function|findLibraries
+DECL|function|hashCode
+DECL|function|noIO
+DECL|function|qHash
+DECL|function|setNoIO
+DECL|function|~MakefileGenerator
+DECL|macro|MAKEFILE_H
+DECL|macro|QT_PCLOSE
+DECL|macro|QT_POPEN
+DECL|member|hash
+DECL|member|in
+DECL|member|out
+DECL|member|pwd
+DECL|member|var
+DECL|struct|ReplaceExtraCompilerCacheKey

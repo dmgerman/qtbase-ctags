@@ -1,0 +1,17 @@
+DECL|function|QGLPaintDevice
+DECL|function|QGLWidgetGLPaintDevice
+DECL|function|alphaRequested
+DECL|function|beginPaint
+DECL|function|beginPaint
+DECL|function|context
+DECL|function|endPaint
+DECL|function|endPaint
+DECL|function|ensureActiveTarget
+DECL|function|format
+DECL|function|getDevice
+DECL|function|isFlipped
+DECL|function|metric
+DECL|function|paintEngine
+DECL|function|setWidget
+DECL|function|size
+DECL|function|~QGLPaintDevice

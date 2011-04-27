@@ -1,0 +1,11 @@
+DECL|class|tst_QRegExpValidator
+DECL|enumerator|Acceptable
+DECL|enumerator|Intermediate
+DECL|enumerator|Invalid
+DECL|enum|State
+DECL|function|cleanup
+DECL|function|init
+DECL|function|tst_QRegExpValidator
+DECL|function|validate
+DECL|function|validate_data
+DECL|function|~tst_QRegExpValidator

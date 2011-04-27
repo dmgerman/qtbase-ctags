@@ -1,0 +1,9 @@
+DECL|function|NativeEventList
+DECL|function|append
+DECL|function|append
+DECL|function|play
+DECL|function|sendNextEvent
+DECL|function|setTimeMultiplier
+DECL|function|stop
+DECL|function|waitNextEvent
+DECL|function|~NativeEventList

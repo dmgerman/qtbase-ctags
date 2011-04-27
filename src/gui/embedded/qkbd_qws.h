@@ -1,0 +1,1 @@
+DECL|macro|QKBD_QWS_H

@@ -1,0 +1,2 @@
+DECL|macro|QGRAPHICSTRANSFORM_P_H
+DECL|variable|QGraphicsItem

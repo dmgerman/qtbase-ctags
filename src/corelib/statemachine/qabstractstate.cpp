@@ -1,0 +1,14 @@
+DECL|function|QAbstractState
+DECL|function|QAbstractState
+DECL|function|QAbstractStatePrivate
+DECL|function|callOnEntry
+DECL|function|callOnExit
+DECL|function|emitEntered
+DECL|function|emitExited
+DECL|function|event
+DECL|function|get
+DECL|function|get
+DECL|function|machine
+DECL|function|machine
+DECL|function|parentState
+DECL|function|~QAbstractState

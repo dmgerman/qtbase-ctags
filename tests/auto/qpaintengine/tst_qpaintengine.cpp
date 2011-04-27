@@ -1,0 +1,11 @@
+DECL|class|MyPaintEngine
+DECL|class|tst_QPaintEngine
+DECL|function|MyPaintEngine
+DECL|function|begin
+DECL|function|drawPixmap
+DECL|function|end
+DECL|function|getSetCheck
+DECL|function|tst_QPaintEngine
+DECL|function|type
+DECL|function|updateState
+DECL|function|~tst_QPaintEngine

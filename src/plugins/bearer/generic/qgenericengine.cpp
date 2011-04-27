@@ -1,0 +1,15 @@
+DECL|function|QGenericEngine
+DECL|function|capabilities
+DECL|function|connectToId
+DECL|function|createSessionBackend
+DECL|function|defaultConfiguration
+DECL|function|disconnectFromId
+DECL|function|doRequestUpdate
+DECL|function|getInterfaceFromId
+DECL|function|hasIdentifier
+DECL|function|initialize
+DECL|function|qGetInterfaceType
+DECL|function|requestUpdate
+DECL|function|requiresPolling
+DECL|function|sessionStateForId
+DECL|function|~QGenericEngine

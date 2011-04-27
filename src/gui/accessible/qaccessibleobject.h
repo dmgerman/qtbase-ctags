@@ -1,0 +1,2 @@
+DECL|macro|QACCESSIBLEOBJECT_H
+DECL|variable|QObject

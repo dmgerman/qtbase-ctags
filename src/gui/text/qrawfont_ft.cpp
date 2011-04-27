@@ -1,0 +1,8 @@
+DECL|class|QFontEngineFTRawFont
+DECL|function|QFontEngineFTRawFont
+DECL|function|initFromData
+DECL|function|initFromFontEngine
+DECL|function|platformCleanUp
+DECL|function|platformLoadFromData
+DECL|function|platformSetPixelSize
+DECL|function|updateFamilyNameAndStyle

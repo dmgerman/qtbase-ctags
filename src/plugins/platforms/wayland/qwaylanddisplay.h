@@ -1,0 +1,7 @@
+DECL|macro|QWAYLANDDISPLAY_H
+DECL|variable|QPlatformScreen
+DECL|variable|QSocketNotifier
+DECL|variable|QWaylandBuffer
+DECL|variable|QWaylandGLIntegration
+DECL|variable|QWaylandInputDevice
+DECL|variable|QWaylandScreen

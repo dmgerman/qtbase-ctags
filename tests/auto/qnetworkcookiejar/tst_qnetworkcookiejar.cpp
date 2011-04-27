@@ -1,0 +1,14 @@
+DECL|class|MyCookieJar
+DECL|class|tst_QNetworkCookieJar
+DECL|function|allCookies
+DECL|function|cookiesForUrl
+DECL|function|cookiesForUrl_data
+DECL|function|effectiveTLDs
+DECL|function|effectiveTLDs_data
+DECL|function|getterSetter
+DECL|function|setAllCookies
+DECL|function|setCookiesFromUrl
+DECL|function|setCookiesFromUrl_data
+DECL|function|toString
+DECL|function|toString
+DECL|namespace|QTest

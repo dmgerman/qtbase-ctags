@@ -1,0 +1,6 @@
+DECL|function|mixedvector_fill_and_return_helper
+DECL|function|qrawvector_fill_and_return_helper
+DECL|function|qvector_fill_and_return_helper
+DECL|function|stdvector_fill_and_return_helper
+DECL|variable|N
+DECL|variable|s

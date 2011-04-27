@@ -1,0 +1,9 @@
+DECL|member|i
+DECL|namespace|MyNamespace
+DECL|struct|MyStruct
+DECL|typedef|CustomString
+DECL|variable|id
+DECL|variable|id
+DECL|variable|id
+DECL|variable|s
+DECL|variable|var

@@ -1,0 +1,9 @@
+DECL|function|ft_get_adobe_glyph_index
+DECL|macro|FT_NUM_MAC_NAMES
+DECL|macro|FT_NUM_SID_NAMES
+DECL|variable|ft_adobe_glyph_list
+DECL|variable|ft_mac_names
+DECL|variable|ft_sid_names
+DECL|variable|ft_standard_glyph_names
+DECL|variable|t1_expert_encoding
+DECL|variable|t1_standard_encoding

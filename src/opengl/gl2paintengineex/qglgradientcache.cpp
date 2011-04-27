@@ -1,0 +1,10 @@
+DECL|class|QGL2GradientCacheWrapper
+DECL|function|addCacheElement
+DECL|function|cacheForContext
+DECL|function|cacheForContext
+DECL|function|cleanCache
+DECL|function|generateGradientColorTable
+DECL|function|getBuffer
+DECL|function|qtToGlColor
+DECL|member|m_mutex
+DECL|member|m_resource

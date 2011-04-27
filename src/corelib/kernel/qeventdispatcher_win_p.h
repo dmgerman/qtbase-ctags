@@ -1,0 +1,3 @@
+DECL|macro|QEVENTDISPATCHER_WIN_P_H
+DECL|variable|QEventDispatcherWin32Private
+DECL|variable|QWinEventNotifier

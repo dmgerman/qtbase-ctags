@@ -1,0 +1,17 @@
+DECL|function|QNetworkConfigurationManagerPrivate
+DECL|function|allConfigurations
+DECL|function|capabilities
+DECL|function|configurationAdded
+DECL|function|configurationChanged
+DECL|function|configurationFromIdentifier
+DECL|function|configurationRemoved
+DECL|function|defaultConfiguration
+DECL|function|disablePolling
+DECL|function|enablePolling
+DECL|function|engines
+DECL|function|isOnline
+DECL|function|performAsyncConfigurationUpdate
+DECL|function|pollEngines
+DECL|function|startPolling
+DECL|function|updateConfigurations
+DECL|function|~QNetworkConfigurationManagerPrivate

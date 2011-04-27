@@ -1,0 +1,1 @@
+DECL|macro|__FT2_BUILD_UNIX_H__

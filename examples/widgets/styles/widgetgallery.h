@@ -1,0 +1,17 @@
+DECL|macro|WIDGETGALLERY_H
+DECL|variable|QCheckBox
+DECL|variable|QComboBox
+DECL|variable|QDateTimeEdit
+DECL|variable|QDial
+DECL|variable|QGroupBox
+DECL|variable|QLabel
+DECL|variable|QLineEdit
+DECL|variable|QProgressBar
+DECL|variable|QPushButton
+DECL|variable|QRadioButton
+DECL|variable|QScrollBar
+DECL|variable|QSlider
+DECL|variable|QSpinBox
+DECL|variable|QTabWidget
+DECL|variable|QTableWidget
+DECL|variable|QTextEdit

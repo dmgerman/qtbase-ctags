@@ -1,0 +1,3 @@
+DECL|macro|QTEXTOBJECT_P_H
+DECL|variable|QTextDocumentPrivate
+DECL|variable|QTextFrameLayoutData

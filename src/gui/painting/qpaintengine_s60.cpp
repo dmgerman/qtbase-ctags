@@ -1,0 +1,9 @@
+DECL|class|QS60PaintEnginePrivate
+DECL|function|QS60PaintEngine
+DECL|function|QS60PaintEnginePrivate
+DECL|function|begin
+DECL|function|drawPixmap
+DECL|function|drawPixmap
+DECL|function|drawTiledPixmap
+DECL|function|end
+DECL|function|prepare

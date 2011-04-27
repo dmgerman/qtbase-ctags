@@ -1,0 +1,2 @@
+DECL|macro|CERTIFICATEINFO_H
+DECL|variable|Ui_CertificateInfo

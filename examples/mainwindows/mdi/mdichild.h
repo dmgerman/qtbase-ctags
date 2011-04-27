@@ -1,0 +1,1 @@
+DECL|macro|MDICHILD_H

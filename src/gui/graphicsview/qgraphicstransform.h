@@ -1,0 +1,4 @@
+DECL|macro|QGRAPHICSTRANSFORM_H
+DECL|variable|QGraphicsRotationPrivate
+DECL|variable|QGraphicsScalePrivate
+DECL|variable|QGraphicsTransformPrivate

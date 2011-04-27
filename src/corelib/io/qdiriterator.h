@@ -1,0 +1,1 @@
+DECL|macro|QDIRITERATOR_H

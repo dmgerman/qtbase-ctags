@@ -1,0 +1,5 @@
+DECL|function|gxv_morx_chain_validate
+DECL|function|gxv_morx_subtables_validate
+DECL|function|gxv_morx_validate
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

@@ -1,0 +1,3 @@
+DECL|function|addingSubWindowsExample
+DECL|function|main
+DECL|function|mainWindowExample

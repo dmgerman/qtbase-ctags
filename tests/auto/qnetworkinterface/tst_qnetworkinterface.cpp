@@ -1,0 +1,14 @@
+DECL|class|tst_QNetworkInterface
+DECL|function|cleanupTestCase
+DECL|function|copyInvalidInterface
+DECL|function|dump
+DECL|function|initTestCase
+DECL|function|interfaceFromXXX
+DECL|function|localAddress
+DECL|function|loopbackIPv4
+DECL|function|loopbackIPv6
+DECL|function|tst_QNetworkInterface
+DECL|function|~tst_QNetworkInterface
+DECL|member|netConfMan
+DECL|member|networkConfiguration
+DECL|member|networkSession

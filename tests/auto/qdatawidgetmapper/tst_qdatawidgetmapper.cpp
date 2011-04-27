@@ -1,0 +1,10 @@
+DECL|class|tst_QDataWidgetMapper
+DECL|function|addMapping
+DECL|function|changingValues
+DECL|function|comboBox
+DECL|function|currentIndexChanged
+DECL|function|mappedWidgetAt
+DECL|function|navigate
+DECL|function|setData
+DECL|function|setModel
+DECL|function|testModel

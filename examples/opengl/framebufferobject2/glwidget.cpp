@@ -1,0 +1,10 @@
+DECL|function|GLWidget
+DECL|function|drawCube
+DECL|function|initializeGL
+DECL|function|paintGL
+DECL|function|resizeGL
+DECL|function|~GLWidget
+DECL|variable|colorArray
+DECL|variable|cubeArray
+DECL|variable|cubeTextureArray
+DECL|variable|faceArray

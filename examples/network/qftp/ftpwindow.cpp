@@ -1,0 +1,12 @@
+DECL|function|FtpWindow
+DECL|function|addToList
+DECL|function|cancelDownload
+DECL|function|cdToParent
+DECL|function|connectOrDisconnect
+DECL|function|downloadFile
+DECL|function|enableConnectButton
+DECL|function|enableDownloadButton
+DECL|function|ftpCommandFinished
+DECL|function|processItem
+DECL|function|sizeHint
+DECL|function|updateDataTransferProgress

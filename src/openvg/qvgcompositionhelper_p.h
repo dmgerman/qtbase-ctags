@@ -1,0 +1,3 @@
+DECL|macro|QVGCOMPOSITIONHELPER_H
+DECL|variable|QVGEGLWindowSurfacePrivate
+DECL|variable|QVGPaintEnginePrivate

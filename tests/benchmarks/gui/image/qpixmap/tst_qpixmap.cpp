@@ -1,0 +1,15 @@
+DECL|class|tst_QPixmap
+DECL|function|fill
+DECL|function|fill_data
+DECL|function|fromImageReader
+DECL|function|fromImageReader_data
+DECL|function|mask
+DECL|function|mask_data
+DECL|function|rasterPixmap
+DECL|function|rasterPixmap
+DECL|function|rasterPixmap
+DECL|function|scaled
+DECL|function|scaled_data
+DECL|function|transformed
+DECL|function|transformed_data
+DECL|function|tst_QPixmap

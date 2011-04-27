@@ -1,0 +1,2 @@
+DECL|macro|QWAYLANDXCOMPOSITEEGLCONTEXT_H
+DECL|variable|QWaylandXCompositeEGLWindow

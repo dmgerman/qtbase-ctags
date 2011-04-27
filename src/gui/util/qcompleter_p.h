@@ -1,0 +1,10 @@
+DECL|function|QMatchData
+DECL|function|QMatchData
+DECL|function|isValid
+DECL|macro|QCOMPLETER_P_H
+DECL|member|exactMatchIndex
+DECL|member|indices
+DECL|member|partial
+DECL|struct|QMatchData
+DECL|variable|QCompletionModel
+DECL|variable|QCompletionModelPrivate

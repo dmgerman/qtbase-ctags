@@ -1,0 +1,12 @@
+DECL|class|HFWWidget
+DECL|class|WidgetWithMicroFocus
+DECL|class|tst_QScrollArea
+DECL|function|HFWWidget
+DECL|function|WidgetWithMicroFocus
+DECL|function|checkHFW_Task_197736
+DECL|function|ensureMicroFocusVisible_Task_167838
+DECL|function|getSetCheck
+DECL|function|heightForWidth
+DECL|function|inputMethodQuery
+DECL|function|tst_QScrollArea
+DECL|function|~tst_QScrollArea

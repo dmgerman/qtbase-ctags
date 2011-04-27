@@ -1,0 +1,2 @@
+DECL|macro|QNETWORKREPLYFILEIMPL_H
+DECL|variable|QNetworkReplyFileImplPrivate

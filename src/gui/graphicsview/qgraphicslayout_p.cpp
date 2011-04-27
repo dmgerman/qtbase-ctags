@@ -1,0 +1,6 @@
+DECL|function|activateRecursive
+DECL|function|addChildLayoutItem
+DECL|function|getMargin
+DECL|function|removeLayoutItemFromLayout
+DECL|function|reparentChildItems
+DECL|function|visualDirection

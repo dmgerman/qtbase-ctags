@@ -1,0 +1,13 @@
+DECL|macro|DIAGRAMITEM_H
+DECL|variable|Arrow
+DECL|variable|QGraphicsItem
+DECL|variable|QGraphicsScene
+DECL|variable|QGraphicsSceneContextMenuEvent
+DECL|variable|QGraphicsSceneMouseEvent
+DECL|variable|QMenu
+DECL|variable|QPainter
+DECL|variable|QPixmap
+DECL|variable|QPolygonF
+DECL|variable|QStyleOptionGraphicsItem
+DECL|variable|QTextEdit
+DECL|variable|QWidget

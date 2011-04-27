@@ -1,0 +1,10 @@
+DECL|function|_q_onNewConnection
+DECL|function|addListener
+DECL|function|closeServer
+DECL|function|init
+DECL|function|listen
+DECL|function|removeServer
+DECL|function|setError
+DECL|function|waitForNewConnection
+DECL|macro|BUFSIZE
+DECL|macro|SYSTEM_MAX_PENDING_SOCKETS

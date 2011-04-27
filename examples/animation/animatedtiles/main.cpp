@@ -1,0 +1,14 @@
+DECL|class|Button
+DECL|class|Pixmap
+DECL|class|View
+DECL|function|Button
+DECL|function|Pixmap
+DECL|function|View
+DECL|function|boundingRect
+DECL|function|main
+DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent
+DECL|function|paint
+DECL|function|resizeEvent
+DECL|function|shape
+DECL|member|_pix

@@ -1,0 +1,4 @@
+DECL|function|defaultFormatL
+DECL|function|defaultGetLongDateFormatSpec
+DECL|function|defaultGetShortDateFormatSpec
+DECL|function|defaultGetTimeFormatSpec

@@ -1,0 +1,10 @@
+DECL|enumerator|PMChopTrailingZeros
+DECL|enumerator|PMDecimalDigits
+DECL|enumerator|PMSignificantDigits
+DECL|enum|PrecisionMode
+DECL|function|isZero
+DECL|macro|NEEDS_VOLATILE
+DECL|macro|NEEDS_VOLATILE
+DECL|macro|QLOCALE_TOOLS_P_H
+DECL|macro|QT_QLOCALE_NEEDS_VOLATILE
+DECL|macro|QT_QLOCALE_NEEDS_VOLATILE

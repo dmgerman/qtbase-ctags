@@ -1,0 +1,17 @@
+DECL|function|main
+DECL|function|test_compress
+DECL|function|test_deflate
+DECL|function|test_dict_deflate
+DECL|function|test_dict_inflate
+DECL|function|test_flush
+DECL|function|test_gzio
+DECL|function|test_inflate
+DECL|function|test_large_deflate
+DECL|function|test_large_inflate
+DECL|function|test_sync
+DECL|macro|CHECK_ERR
+DECL|macro|TESTFILE
+DECL|macro|TESTFILE
+DECL|variable|dictId
+DECL|variable|dictionary
+DECL|variable|hello

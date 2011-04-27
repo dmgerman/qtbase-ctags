@@ -1,0 +1,5 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|tt_face_free_bdf_props
+DECL|function|tt_face_load_bdf_props
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

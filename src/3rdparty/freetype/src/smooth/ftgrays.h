@@ -1,0 +1,2 @@
+DECL|macro|FT_EXPORT_VAR
+DECL|macro|__FTGRAYS_H__

@@ -1,0 +1,14 @@
+DECL|function|createDirectory
+DECL|function|createFile
+DECL|function|createFileWithContent
+DECL|function|createLink
+DECL|function|createNtfsJunction
+DECL|function|~FileSystem
+DECL|macro|FSCTL_SET_REPARSE_POINT
+DECL|macro|IO_REPARSE_TAG_MOUNT_POINT
+DECL|macro|QT_TESTS_SHARED_FILESYSTEM_H_INCLUDED
+DECL|macro|REPARSE_MOUNTPOINT_HEADER_SIZE
+DECL|member|createdDirectories
+DECL|member|createdFiles
+DECL|member|private
+DECL|struct|FileSystem

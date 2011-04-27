@@ -1,0 +1,13 @@
+DECL|class|CExtensionFilter
+DECL|enumerator|DialogFolder
+DECL|enumerator|DialogOpen
+DECL|enumerator|DialogSave
+DECL|enum|DialogMode
+DECL|function|Accept
+DECL|function|launchSymbianDialog
+DECL|function|qtSymbianGetExistingDirectory
+DECL|function|qtSymbianGetOpenFileName
+DECL|function|qtSymbianGetOpenFileNames
+DECL|function|qtSymbianGetSaveFileName
+DECL|function|setFilter
+DECL|member|filterRxList

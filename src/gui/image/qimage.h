@@ -1,0 +1,11 @@
+DECL|function|pixel
+DECL|function|pixelIndex
+DECL|function|setPixel
+DECL|macro|QIMAGE_H
+DECL|variable|QImageDataMisc
+DECL|variable|QList
+DECL|variable|QMatrix
+DECL|variable|QStringList
+DECL|variable|QTransform
+DECL|variable|QVariant
+DECL|variable|QVector

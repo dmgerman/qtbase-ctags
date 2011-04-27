@@ -1,0 +1,4 @@
+DECL|function|QT_MODULE
+DECL|function|Q_DECLARE_INTERFACE
+DECL|macro|QGENERICPLUGIN_QPA_H
+DECL|macro|QGenericPluginFactoryInterface_iid

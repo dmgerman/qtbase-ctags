@@ -1,0 +1,2 @@
+DECL|class|tst_BenchlibTickCounter
+DECL|function|threeBillionTicks

@@ -1,0 +1,2 @@
+DECL|function|QSslConfiguration
+DECL|macro|QSSLCONFIGURATION_P_H

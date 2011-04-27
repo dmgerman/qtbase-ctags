@@ -1,0 +1,5 @@
+DECL|macro|QABSTRACTANIMATION_P_H
+DECL|typedef|ElapsedTimer
+DECL|variable|QAbstractAnimation
+DECL|variable|QAnimationGroup
+DECL|variable|QUnifiedTimer

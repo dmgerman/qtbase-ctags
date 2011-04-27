@@ -1,0 +1,11 @@
+DECL|function|CopyItem
+DECL|function|CopyItem
+DECL|macro|EMULATOR_DEPLOYMENT_PLATFORM
+DECL|macro|INITPROJECTDEPLOYSYMBIAN_H
+DECL|macro|PLUGIN_STUB_DIR
+DECL|macro|ROM_DEPLOYMENT_PLATFORM
+DECL|member|flags
+DECL|member|from
+DECL|member|to
+DECL|struct|CopyItem
+DECL|typedef|DeploymentList

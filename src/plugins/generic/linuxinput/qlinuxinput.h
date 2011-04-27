@@ -1,0 +1,4 @@
+DECL|macro|QLINUXINPUT_H
+DECL|variable|QLinuxInputMouseHandlerData
+DECL|variable|QSocketNotifier
+DECL|variable|QWSLinuxInputKeyboardHandler

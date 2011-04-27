@@ -1,0 +1,14 @@
+DECL|macro|QT_NO_KEYWORDS
+DECL|macro|QT_NO_KEYWORDS
+DECL|macro|emit
+DECL|macro|emit
+DECL|macro|emit
+DECL|macro|emit
+DECL|macro|signals
+DECL|macro|signals
+DECL|macro|signals
+DECL|macro|signals
+DECL|macro|slots
+DECL|macro|slots
+DECL|macro|slots
+DECL|macro|slots

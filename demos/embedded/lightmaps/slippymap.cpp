@@ -1,0 +1,13 @@
+DECL|function|SlippyMap
+DECL|function|download
+DECL|function|handleNetworkData
+DECL|function|invalidate
+DECL|function|latitudeFromTile
+DECL|function|longitudeFromTile
+DECL|function|pan
+DECL|function|qHash
+DECL|function|render
+DECL|function|tileForCoordinate
+DECL|function|tileRect
+DECL|macro|M_PI
+DECL|variable|tdim

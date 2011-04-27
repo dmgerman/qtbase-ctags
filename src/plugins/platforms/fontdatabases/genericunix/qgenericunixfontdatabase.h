@@ -1,0 +1,3 @@
+DECL|macro|QGENERICUNIXFONTDATABASE_H
+DECL|typedef|QGenericUnixFontDatabase
+DECL|typedef|QGenericUnixFontDatabase

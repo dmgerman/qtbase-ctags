@@ -1,0 +1,16 @@
+DECL|macro|QNETWORKACCESSMANAGER_H
+DECL|variable|QAbstractNetworkCache
+DECL|variable|QAuthenticator
+DECL|variable|QByteArray
+DECL|variable|QHttpMultiPart
+DECL|variable|QList
+DECL|variable|QNetworkAccessManagerPrivate
+DECL|variable|QNetworkConfiguration
+DECL|variable|QNetworkCookie
+DECL|variable|QNetworkCookieJar
+DECL|variable|QNetworkProxy
+DECL|variable|QNetworkProxyFactory
+DECL|variable|QNetworkReply
+DECL|variable|QNetworkReplyImplPrivate
+DECL|variable|QNetworkRequest
+DECL|variable|QSslError

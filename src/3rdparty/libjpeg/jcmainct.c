@@ -1,0 +1,15 @@
+DECL|function|jinit_c_main_controller
+DECL|function|process_data_buffer_main
+DECL|function|process_data_simple_main
+DECL|function|start_pass_main
+DECL|macro|FULL_MAIN_BUFFER_SUPPORTED
+DECL|macro|JPEG_INTERNALS
+DECL|member|buffer
+DECL|member|cur_iMCU_row
+DECL|member|pass_mode
+DECL|member|pub
+DECL|member|rowgroup_ctr
+DECL|member|suspended
+DECL|member|whole_image
+DECL|typedef|my_main_controller
+DECL|typedef|my_main_ptr

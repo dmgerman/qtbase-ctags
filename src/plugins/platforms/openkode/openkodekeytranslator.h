@@ -1,0 +1,2 @@
+DECL|function|keyTranslator
+DECL|macro|OPENKODEKEYTRANSLATOR_H

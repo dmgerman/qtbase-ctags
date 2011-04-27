@@ -1,0 +1,9 @@
+DECL|function|IconItem
+DECL|function|fileName
+DECL|function|isOpacityEffectEnabled
+DECL|function|paint
+DECL|function|reload
+DECL|function|setFileName
+DECL|function|setOpacityEffectEnabled
+DECL|function|sizeHint
+DECL|function|~IconItem

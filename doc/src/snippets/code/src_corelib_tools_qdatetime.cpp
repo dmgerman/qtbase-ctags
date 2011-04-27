@@ -1,0 +1,13 @@
+DECL|variable|date
+DECL|variable|date
+DECL|variable|dateTime
+DECL|variable|dateTime
+DECL|variable|dateTime2
+DECL|variable|now
+DECL|variable|t
+DECL|variable|t
+DECL|variable|time
+DECL|variable|time
+DECL|variable|time
+DECL|variable|time1
+DECL|variable|time1

@@ -1,0 +1,1 @@
+DECL|macro|XMLGENERATOR_H

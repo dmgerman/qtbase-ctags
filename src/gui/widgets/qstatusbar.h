@@ -1,0 +1,1 @@
+DECL|macro|QSTATUSBAR_H

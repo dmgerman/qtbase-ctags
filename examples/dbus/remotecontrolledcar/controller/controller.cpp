@@ -1,0 +1,6 @@
+DECL|function|Controller
+DECL|function|on_accelerate_clicked
+DECL|function|on_decelerate_clicked
+DECL|function|on_left_clicked
+DECL|function|on_right_clicked
+DECL|function|timerEvent

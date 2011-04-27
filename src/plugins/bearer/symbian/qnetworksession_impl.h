@@ -1,0 +1,6 @@
+DECL|macro|QNETWORKSESSION_IMPL_H
+DECL|typedef|TOpenCUnSetdefaultifFunction
+DECL|variable|ConnectionProgressNotifier
+DECL|variable|ConnectionStarter
+DECL|variable|QNetworkSessionPrivate
+DECL|variable|SymbianEngine

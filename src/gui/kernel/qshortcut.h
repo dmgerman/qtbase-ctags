@@ -1,0 +1,1 @@
+DECL|macro|QSHORTCUT_H

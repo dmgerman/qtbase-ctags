@@ -1,0 +1,2 @@
+DECL|function|benchmarkMetricName
+DECL|function|benchmarkMetricUnit

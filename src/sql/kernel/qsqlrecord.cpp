@@ -1,0 +1,43 @@
+DECL|class|QSqlRecordPrivate
+DECL|function|QSqlRecord
+DECL|function|QSqlRecord
+DECL|function|QSqlRecordPrivate
+DECL|function|QSqlRecordPrivate
+DECL|function|append
+DECL|function|clear
+DECL|function|clearValues
+DECL|function|contains
+DECL|function|contains
+DECL|function|count
+DECL|function|createField
+DECL|function|detach
+DECL|function|field
+DECL|function|field
+DECL|function|fieldName
+DECL|function|fieldPtr
+DECL|function|fieldPtr
+DECL|function|indexOf
+DECL|function|insert
+DECL|function|isEmpty
+DECL|function|isGenerated
+DECL|function|isGenerated
+DECL|function|isNull
+DECL|function|isNull
+DECL|function|operator <<
+DECL|function|operator =
+DECL|function|operator ==
+DECL|function|remove
+DECL|function|replace
+DECL|function|setGenerated
+DECL|function|setGenerated
+DECL|function|setNull
+DECL|function|setNull
+DECL|function|setValue
+DECL|function|setValue
+DECL|function|toString
+DECL|function|toStringList
+DECL|function|value
+DECL|function|value
+DECL|function|~QSqlRecord
+DECL|member|fields
+DECL|member|ref

@@ -1,0 +1,9 @@
+DECL|class|tst_WindowsMobile
+DECL|function|compareScreenshots
+DECL|function|openMenu
+DECL|function|qt_wince_is_platform
+DECL|function|qt_wince_is_smartphone
+DECL|function|takeScreenShot
+DECL|function|testMainWindowAndMenuBar
+DECL|function|testSimpleWidget
+DECL|function|tst_WindowsMobile

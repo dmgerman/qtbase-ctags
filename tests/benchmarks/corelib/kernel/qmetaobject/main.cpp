@@ -1,0 +1,15 @@
+DECL|class|LotsOfSignals
+DECL|class|tst_qmetaobject
+DECL|function|LotsOfSignals
+DECL|function|cleanupTestCase
+DECL|function|indexOfMethod
+DECL|function|indexOfMethod_data
+DECL|function|indexOfProperty
+DECL|function|indexOfProperty_data
+DECL|function|indexOfSignal
+DECL|function|indexOfSignal_data
+DECL|function|indexOfSlot
+DECL|function|indexOfSlot_data
+DECL|function|initTestCase
+DECL|function|unconnected
+DECL|function|unconnected_data

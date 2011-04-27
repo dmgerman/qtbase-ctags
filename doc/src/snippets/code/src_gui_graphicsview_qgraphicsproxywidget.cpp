@@ -1,0 +1,11 @@
+DECL|function|main
+DECL|variable|edit
+DECL|variable|groupBox
+DECL|variable|layout
+DECL|variable|numberEdit
+DECL|variable|numberLabel
+DECL|variable|proxy
+DECL|variable|proxy
+DECL|variable|scene
+DECL|variable|scene
+DECL|variable|scene

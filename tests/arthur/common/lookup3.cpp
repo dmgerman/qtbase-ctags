@@ -1,0 +1,14 @@
+DECL|function|hashbig
+DECL|function|hashlittle
+DECL|function|hashlittle2
+DECL|function|hashword
+DECL|function|hashword2
+DECL|macro|HASH_BIG_ENDIAN
+DECL|macro|HASH_BIG_ENDIAN
+DECL|macro|HASH_LITTLE_ENDIAN
+DECL|macro|HASH_LITTLE_ENDIAN
+DECL|macro|final
+DECL|macro|hashmask
+DECL|macro|hashsize
+DECL|macro|mix
+DECL|macro|rot

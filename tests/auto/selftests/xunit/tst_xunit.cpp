@@ -1,0 +1,9 @@
+DECL|class|tst_Xunit
+DECL|function|testFunc1
+DECL|function|testFunc2
+DECL|function|testFunc3
+DECL|function|testFunc4
+DECL|function|testFunc5
+DECL|function|testFunc6
+DECL|function|testFunc7
+DECL|function|tst_Xunit

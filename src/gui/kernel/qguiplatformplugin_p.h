@@ -1,0 +1,9 @@
+DECL|function|Q_DECLARE_INTERFACE
+DECL|macro|QGUIPLATFORM_P_H
+DECL|macro|QGuiPlatformPluginInterface_iid
+DECL|struct|QFactoryInterface
+DECL|variable|QColorDialog
+DECL|variable|QFileDialog
+DECL|variable|QFileInfo
+DECL|variable|QIcon
+DECL|variable|QPalette

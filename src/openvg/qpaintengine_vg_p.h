@@ -1,0 +1,4 @@
+DECL|macro|QPAINTENGINE_VG_P_H
+DECL|variable|QPixmapData
+DECL|variable|QVGEGLWindowSurfacePrivate
+DECL|variable|QVGPaintEnginePrivate

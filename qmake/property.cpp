@@ -1,0 +1,9 @@
+DECL|function|QMakeProperty
+DECL|function|exec
+DECL|function|hasValue
+DECL|function|initSettings
+DECL|function|keyBase
+DECL|function|remove
+DECL|function|setValue
+DECL|function|value
+DECL|function|~QMakeProperty

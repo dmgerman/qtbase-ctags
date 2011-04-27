@@ -1,0 +1,2 @@
+DECL|function|externalForwardDeclaration
+DECL|macro|QT_SHAREDPOINTER_TRACK_POINTERS

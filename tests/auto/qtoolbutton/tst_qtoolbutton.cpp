@@ -1,0 +1,10 @@
+DECL|class|tst_QToolButton
+DECL|function|collapseTextOnPriority
+DECL|function|getSetCheck
+DECL|function|sendMouseClick
+DECL|function|task176137_autoRepeatOfAction
+DECL|function|task230994_iconSize
+DECL|function|triggered
+DECL|function|tst_QToolButton
+DECL|function|~tst_QToolButton
+DECL|member|w

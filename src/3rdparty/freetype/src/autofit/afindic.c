@@ -1,0 +1,8 @@
+DECL|function|af_indic_hints_apply
+DECL|function|af_indic_hints_init
+DECL|function|af_indic_metrics_init
+DECL|function|af_indic_metrics_scale
+DECL|variable|af_indic_script_class
+DECL|variable|af_indic_script_class
+DECL|variable|af_indic_uniranges
+DECL|variable|af_indic_uniranges

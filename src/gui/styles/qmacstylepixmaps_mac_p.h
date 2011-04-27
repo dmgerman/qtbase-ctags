@@ -1,0 +1,2 @@
+DECL|macro|QMACSTYLEPIXMAPS_MAC_P_H
+DECL|variable|qt_mac_toolbar_ext

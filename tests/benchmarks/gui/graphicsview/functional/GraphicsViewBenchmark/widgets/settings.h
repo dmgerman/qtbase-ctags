@@ -1,0 +1,1 @@
+DECL|macro|SETTINGS_H

@@ -1,0 +1,1 @@
+DECL|macro|QEGLCONTEXT_P_H

@@ -1,0 +1,13 @@
+DECL|function|gxv_morx_subtable_type5_InsertList_validate
+DECL|function|gxv_morx_subtable_type5_entry_validate
+DECL|function|gxv_morx_subtable_type5_insertionGlyphList_load
+DECL|function|gxv_morx_subtable_type5_subtable_setup
+DECL|function|gxv_morx_subtable_type5_validate
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|macro|GXV_MORX_SUBTABLE_TYPE5_HEADER_SIZE
+DECL|member|insertionGlyphList
+DECL|member|insertionGlyphList_length
+DECL|struct|GXV_morx_subtable_type5_StateOptRec_
+DECL|typedef|GXV_morx_subtable_type5_StateOptRec
+DECL|typedef|GXV_morx_subtable_type5_StateOptRecData

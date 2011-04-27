@@ -1,0 +1,15 @@
+DECL|macro|CHUNK
+DECL|macro|COMMENT
+DECL|macro|EXTRA_FIELD
+DECL|macro|HEAD_CRC
+DECL|macro|ORIG_NAME
+DECL|macro|QHTTPNETWORKREPLY_H
+DECL|macro|RESERVED
+DECL|variable|QHttpNetworkConnection
+DECL|variable|QHttpNetworkConnectionChannel
+DECL|variable|QHttpNetworkConnectionPrivate
+DECL|variable|QHttpNetworkReplyPrivate
+DECL|variable|QHttpNetworkRequest
+DECL|variable|QObject
+DECL|variable|QObjectPrivate
+DECL|variable|gz_magic

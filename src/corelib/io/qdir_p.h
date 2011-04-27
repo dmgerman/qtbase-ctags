@@ -1,0 +1,1 @@
+DECL|macro|QDIR_PRIVATE_H

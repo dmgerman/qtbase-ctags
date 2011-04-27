@@ -1,0 +1,16 @@
+DECL|function|create_context_buffer
+DECL|function|expand_bottom_edge
+DECL|function|jinit_c_prep_controller
+DECL|function|pre_process_context
+DECL|function|pre_process_data
+DECL|function|start_pass_prep
+DECL|macro|CONTEXT_ROWS_SUPPORTED
+DECL|macro|JPEG_INTERNALS
+DECL|member|color_buf
+DECL|member|next_buf_row
+DECL|member|next_buf_stop
+DECL|member|pub
+DECL|member|rows_to_go
+DECL|member|this_row_group
+DECL|typedef|my_prep_controller
+DECL|typedef|my_prep_ptr

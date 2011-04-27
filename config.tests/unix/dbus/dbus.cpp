@@ -1,0 +1,2 @@
+DECL|function|main
+DECL|macro|DBUS_API_SUBJECT_TO_CHANGE

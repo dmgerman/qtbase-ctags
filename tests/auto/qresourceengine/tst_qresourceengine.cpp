@@ -1,0 +1,13 @@
+DECL|class|tst_QResourceEngine
+DECL|function|checkStructure
+DECL|function|checkStructure_data
+DECL|function|checkUnregisterResource
+DECL|function|checkUnregisterResource_data
+DECL|function|cleanupTestCase
+DECL|function|doubleSlashInRoot
+DECL|function|initTestCase
+DECL|function|searchPath
+DECL|function|searchPath_data
+DECL|function|setLocale
+DECL|macro|SRCDIR
+DECL|member|builddir

@@ -1,0 +1,1 @@
+DECL|macro|NUMBERFORMATS_H

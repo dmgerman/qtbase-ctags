@@ -1,0 +1,1 @@
+DECL|macro|BLUREFFECT_H

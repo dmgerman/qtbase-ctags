@@ -1,0 +1,3 @@
+DECL|macro|ABSTRACTSCROLLAREA_H
+DECL|variable|QGraphicsGridLayout
+DECL|variable|ScrollBar

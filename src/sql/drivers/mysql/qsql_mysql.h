@@ -1,0 +1,7 @@
+DECL|macro|QSQL_MYSQL_H
+DECL|macro|Q_EXPORT_SQLDRIVER_MYSQL
+DECL|macro|Q_EXPORT_SQLDRIVER_MYSQL
+DECL|variable|QMYSQLDriver
+DECL|variable|QMYSQLDriverPrivate
+DECL|variable|QMYSQLResultPrivate
+DECL|variable|QSqlRecordInfo

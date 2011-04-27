@@ -1,0 +1,9 @@
+DECL|class|tst_QSharedPointer_and_QWidget
+DECL|function|check
+DECL|function|cleanup
+DECL|function|strong_sharedptrDelete
+DECL|function|strong_weak
+DECL|function|weak_externalDelete
+DECL|function|weak_parentDelete
+DECL|function|weak_parentDelete_setParent
+DECL|namespace|QtSharedPointer

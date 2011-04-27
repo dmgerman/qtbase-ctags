@@ -1,0 +1,2 @@
+DECL|macro|QGRAPHICSSYSTEM_RUNTIME_P_H
+DECL|variable|QRuntimeGraphicsSystem

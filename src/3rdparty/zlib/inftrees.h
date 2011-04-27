@@ -1,0 +1,11 @@
+DECL|enumerator|CODES
+DECL|enumerator|DISTS
+DECL|enumerator|LENS
+DECL|macro|ENOUGH
+DECL|macro|ENOUGH_DISTS
+DECL|macro|ENOUGH_LENS
+DECL|member|bits
+DECL|member|op
+DECL|member|val
+DECL|typedef|code
+DECL|typedef|codetype

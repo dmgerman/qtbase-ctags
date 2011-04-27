@@ -1,0 +1,11 @@
+DECL|class|DownloadManager
+DECL|function|DownloadManager
+DECL|function|doDownload
+DECL|function|downloadFinished
+DECL|function|execute
+DECL|function|main
+DECL|function|saveFileName
+DECL|function|saveToDisk
+DECL|function|sslErrors
+DECL|member|currentDownloads
+DECL|member|manager

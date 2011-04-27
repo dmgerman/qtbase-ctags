@@ -1,0 +1,12 @@
+DECL|variable|hash
+DECL|variable|hash
+DECL|variable|list
+DECL|variable|list
+DECL|variable|list
+DECL|variable|list
+DECL|variable|map
+DECL|variable|map
+DECL|variable|set
+DECL|variable|set
+DECL|variable|vector
+DECL|variable|vector

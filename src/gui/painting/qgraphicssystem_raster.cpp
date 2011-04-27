@@ -1,0 +1,2 @@
+DECL|function|createPixmapData
+DECL|function|createWindowSurface

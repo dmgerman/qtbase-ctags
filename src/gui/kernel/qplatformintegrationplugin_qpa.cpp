@@ -1,0 +1,2 @@
+DECL|function|QPlatformIntegrationPlugin
+DECL|function|~QPlatformIntegrationPlugin

@@ -1,0 +1,17 @@
+DECL|function|isascii
+DECL|macro|NSIG
+DECL|macro|QFUNCTIONS_VXWORKS_H
+DECL|macro|RTLD_LOCAL
+DECL|member|gr_gid
+DECL|member|gr_mem
+DECL|member|gr_name
+DECL|member|gr_passwd
+DECL|member|pw_dir
+DECL|member|pw_gecos
+DECL|member|pw_gid
+DECL|member|pw_name
+DECL|member|pw_passwd
+DECL|member|pw_shell
+DECL|member|pw_uid
+DECL|struct|group
+DECL|struct|passwd

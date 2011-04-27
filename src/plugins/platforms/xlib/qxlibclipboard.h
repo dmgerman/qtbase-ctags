@@ -1,0 +1,2 @@
+DECL|macro|QTESTLITECLIPBOARD_H
+DECL|variable|QXlibScreen

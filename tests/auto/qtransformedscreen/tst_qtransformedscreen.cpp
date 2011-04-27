@@ -1,0 +1,13 @@
+DECL|class|tst_QTransformedScreen
+DECL|function|cleanupTestCase
+DECL|function|initTestCase
+DECL|function|qwsDisplay_setTransformation
+DECL|function|setTransformation
+DECL|function|setTransformation_data
+DECL|function|tst_QTransformedScreen
+DECL|function|~tst_QTransformedScreen
+DECL|macro|QT_NO_QWS_TRANSFORMED
+DECL|member|id
+DECL|member|oldScreen
+DECL|member|screen
+DECL|variable|Transformation

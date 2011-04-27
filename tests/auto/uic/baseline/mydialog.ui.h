@@ -1,0 +1,1 @@
+DECL|macro|MYDIALOG_H

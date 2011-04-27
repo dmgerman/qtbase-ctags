@@ -1,0 +1,9 @@
+DECL|function|Q_DECLARE_INTERFACE
+DECL|function|Q_DECLARE_INTERFACE
+DECL|macro|QICONENGINEPLUGIN_H
+DECL|macro|QIconEngineFactoryInterfaceV2_iid
+DECL|macro|QIconEngineFactoryInterface_iid
+DECL|member|filename
+DECL|struct|QFactoryInterface
+DECL|struct|QFactoryInterface
+DECL|variable|QIconEngineV2

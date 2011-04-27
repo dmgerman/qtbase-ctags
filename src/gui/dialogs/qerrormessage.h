@@ -1,0 +1,1 @@
+DECL|macro|QERRORMESSAGE_H

@@ -1,0 +1,15 @@
+DECL|function|StickMan
+DECL|function|boundingRect
+DECL|function|childPositionChanged
+DECL|function|node
+DECL|function|nodeCount
+DECL|function|paint
+DECL|function|posFor
+DECL|function|setDrawSticks
+DECL|function|stabilize
+DECL|function|timerEvent
+DECL|function|~StickMan
+DECL|macro|M_PI
+DECL|macro|_USE_MATH_DEFINES
+DECL|variable|Bones
+DECL|variable|Coords

@@ -1,0 +1,14 @@
+DECL|function|geteuid
+DECL|function|getgid
+DECL|function|getgrgid
+DECL|function|getpagesize
+DECL|function|getpwuid
+DECL|function|gettimeofday
+DECL|function|getuid
+DECL|function|lfind
+DECL|function|rand_r
+DECL|function|readlink
+DECL|function|symlink
+DECL|function|truncate
+DECL|function|usleep
+DECL|macro|gettimeofday

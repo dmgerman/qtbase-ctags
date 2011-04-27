@@ -1,0 +1,1 @@
+DECL|macro|STARDELEGATE_H

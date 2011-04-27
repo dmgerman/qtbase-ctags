@@ -1,0 +1,1 @@
+DECL|macro|GCONFITEM_H

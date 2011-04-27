@@ -1,0 +1,10 @@
+DECL|class|PhonyClass
+DECL|class|tst_Cmptest
+DECL|function|boolfunc
+DECL|function|boolfunc2
+DECL|function|compare_boolfuncs
+DECL|function|compare_pointerfuncs
+DECL|function|compare_tostring
+DECL|function|compare_tostring_data
+DECL|function|intptr
+DECL|variable|i

@@ -1,0 +1,12 @@
+DECL|class|QGLCustomShaderStagePrivate
+DECL|function|QGLCustomShaderStage
+DECL|function|QGLCustomShaderStagePrivate
+DECL|function|removeFromPainter
+DECL|function|setInactive
+DECL|function|setOnPainter
+DECL|function|setSource
+DECL|function|setUniformsDirty
+DECL|function|source
+DECL|function|~QGLCustomShaderStage
+DECL|member|m_manager
+DECL|member|m_source

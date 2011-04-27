@@ -1,0 +1,4 @@
+DECL|function|QVGGraphicsSystem
+DECL|function|createPixmapData
+DECL|function|createWindowSurface
+DECL|function|releaseCachedResources

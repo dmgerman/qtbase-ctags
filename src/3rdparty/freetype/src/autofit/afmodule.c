@@ -1,0 +1,15 @@
+DECL|function|FT_CALLBACK_DEF
+DECL|function|FT_CALLBACK_DEF
+DECL|function|af_autofitter_done
+DECL|member|loader
+DECL|member|root
+DECL|struct|FT_AutofitterRec_
+DECL|typedef|FT_Autofitter
+DECL|typedef|FT_AutofitterRec
+DECL|variable|_af_debug
+DECL|variable|_af_debug_disable_blue_hints
+DECL|variable|_af_debug_disable_horz_hints
+DECL|variable|_af_debug_disable_vert_hints
+DECL|variable|_af_debug_hints
+DECL|variable|af_autofitter_service
+DECL|variable|autofit_module_class

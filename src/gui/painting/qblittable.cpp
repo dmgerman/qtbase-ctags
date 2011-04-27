@@ -1,0 +1,12 @@
+DECL|class|QBlittablePrivate
+DECL|function|QBlittable
+DECL|function|QBlittablePrivate
+DECL|function|capabilities
+DECL|function|lock
+DECL|function|size
+DECL|function|unlock
+DECL|function|~QBlittable
+DECL|member|cachedImg
+DECL|member|caps
+DECL|member|locked
+DECL|member|m_size

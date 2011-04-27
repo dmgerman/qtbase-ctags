@@ -1,0 +1,9 @@
+DECL|function|TIFFPrintDirectory
+DECL|function|_TIFFPrettyPrintField
+DECL|function|_TIFFPrintField
+DECL|function|_TIFFprintAscii
+DECL|function|_TIFFprintAsciiTag
+DECL|macro|NORIENTNAMES
+DECL|macro|NPHOTONAMES
+DECL|variable|orientNames
+DECL|variable|photoNames

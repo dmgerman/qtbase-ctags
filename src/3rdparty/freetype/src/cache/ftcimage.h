@@ -1,0 +1,17 @@
+DECL|macro|FTC_CACHE__IFAMILY_CLASS
+DECL|macro|FTC_IFAMILY_CLASS
+DECL|macro|FTC_INODE
+DECL|macro|FTC_INODE_FAMILY
+DECL|macro|FTC_INODE_GINDEX
+DECL|macro|__FTCIMAGE_H__
+DECL|member|clazz
+DECL|member|family_load_glyph
+DECL|member|glyph
+DECL|member|gnode
+DECL|struct|FTC_IFamilyClassRec_
+DECL|struct|FTC_INodeRec_
+DECL|typedef|FTC_IFamilyClass
+DECL|typedef|FTC_IFamilyClassRec
+DECL|typedef|FTC_IFamily_LoadGlyphFunc
+DECL|typedef|FTC_INode
+DECL|typedef|FTC_INodeRec

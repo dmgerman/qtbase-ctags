@@ -1,0 +1,14 @@
+DECL|function|View
+DECL|function|print
+DECL|function|resetView
+DECL|function|rotateLeft
+DECL|function|rotateRight
+DECL|function|setResetButtonEnabled
+DECL|function|setupMatrix
+DECL|function|toggleAntialiasing
+DECL|function|toggleOpenGL
+DECL|function|togglePointerMode
+DECL|function|view
+DECL|function|wheelEvent
+DECL|function|zoomIn
+DECL|function|zoomOut

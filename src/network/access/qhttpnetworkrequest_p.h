@@ -1,0 +1,3 @@
+DECL|macro|QHTTPNETWORKREQUEST_H
+DECL|variable|QHttpNetworkRequestPrivate
+DECL|variable|QNonContiguousByteDevice

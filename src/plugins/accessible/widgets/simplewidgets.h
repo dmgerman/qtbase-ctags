@@ -1,0 +1,10 @@
+DECL|macro|SIMPLEWIDGETS_H
+DECL|variable|QAbstractButton
+DECL|variable|QAccessibleDisplay
+DECL|variable|QAccessibleTextInterface
+DECL|variable|QAccessibleWidgetEx
+DECL|variable|QAccessibleWidgetEx
+DECL|variable|QAccessibleWidgetEx
+DECL|variable|QLineEdit
+DECL|variable|QProgressBar
+DECL|variable|QToolButton

@@ -1,0 +1,14 @@
+DECL|class|QCryptographicHashPrivate
+DECL|function|QCryptographicHash
+DECL|function|addData
+DECL|function|addData
+DECL|function|hash
+DECL|function|reset
+DECL|function|result
+DECL|function|~QCryptographicHash
+DECL|macro|_MD5_H_
+DECL|member|md4Context
+DECL|member|md5Context
+DECL|member|method
+DECL|member|result
+DECL|member|sha1Context

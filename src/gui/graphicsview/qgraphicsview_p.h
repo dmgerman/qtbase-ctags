@@ -1,0 +1,1 @@
+DECL|macro|QGRAPHICSVIEW_P_H

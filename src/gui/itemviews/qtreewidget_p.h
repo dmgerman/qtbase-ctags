@@ -1,0 +1,5 @@
+DECL|function|executePendingSort
+DECL|macro|QTREEWIDGET_P_H
+DECL|variable|QTreeModelPrivate
+DECL|variable|QTreeWidgetItem
+DECL|variable|QTreeWidgetItemIterator

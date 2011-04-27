@@ -1,0 +1,14 @@
+DECL|function|gz_avail
+DECL|function|gz_decomp
+DECL|function|gz_head
+DECL|function|gz_load
+DECL|function|gz_make
+DECL|function|gz_next4
+DECL|function|gz_skip
+DECL|function|gzclose_r
+DECL|function|gzdirect
+DECL|function|gzgetc
+DECL|function|gzgets
+DECL|function|gzread
+DECL|function|gzungetc
+DECL|macro|NEXT

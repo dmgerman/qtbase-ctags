@@ -1,0 +1,2 @@
+DECL|macro|EGLNULLWSSCREENPLUGIN_H
+DECL|variable|PluginName

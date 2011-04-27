@@ -1,0 +1,11 @@
+DECL|class|tst_QDesktopWidget
+DECL|function|availableGeometry
+DECL|function|cleanup
+DECL|function|init
+DECL|function|numScreens
+DECL|function|primaryScreen
+DECL|function|screenGeometry
+DECL|function|screenNumberForQPoint
+DECL|function|screenNumberForQWidget
+DECL|function|tst_QDesktopWidget
+DECL|function|~tst_QDesktopWidget

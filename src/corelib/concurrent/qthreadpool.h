@@ -1,0 +1,1 @@
+DECL|macro|QTHREADPOOL_H

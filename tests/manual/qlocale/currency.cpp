@@ -1,0 +1,3 @@
+DECL|function|CurrencyWidget
+DECL|function|localeChanged
+DECL|function|updateCurrencyFormatting

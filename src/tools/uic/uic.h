@@ -1,0 +1,10 @@
+DECL|macro|UIC_H
+DECL|variable|DomItem
+DECL|variable|DomLayout
+DECL|variable|DomLayoutItem
+DECL|variable|DomSpacer
+DECL|variable|DomUI
+DECL|variable|DomWidget
+DECL|variable|Driver
+DECL|variable|QIODevice
+DECL|variable|QTextStream

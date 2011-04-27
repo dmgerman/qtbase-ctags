@@ -1,0 +1,1 @@
+DECL|macro|FINDDIALOG_H

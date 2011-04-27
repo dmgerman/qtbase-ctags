@@ -1,0 +1,9 @@
+DECL|function|QGuiPlatformPlugin
+DECL|function|fileSystemIcon
+DECL|function|iconThemeSearchPaths
+DECL|function|palette
+DECL|function|platformHint
+DECL|function|qt_guiPlatformPlugin
+DECL|function|styleName
+DECL|function|systemIconThemeName
+DECL|function|~QGuiPlatformPlugin

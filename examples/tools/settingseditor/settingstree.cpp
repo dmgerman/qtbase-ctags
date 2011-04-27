@@ -1,0 +1,15 @@
+DECL|function|SettingsTree
+DECL|function|childAt
+DECL|function|childCount
+DECL|function|createItem
+DECL|function|event
+DECL|function|findChild
+DECL|function|maybeRefresh
+DECL|function|moveItemForward
+DECL|function|refresh
+DECL|function|setAutoRefresh
+DECL|function|setFallbacksEnabled
+DECL|function|setSettingsObject
+DECL|function|sizeHint
+DECL|function|updateChildItems
+DECL|function|updateSetting

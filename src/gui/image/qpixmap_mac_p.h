@@ -1,0 +1,1 @@
+DECL|macro|QPIXMAP_MAC_P_H

@@ -1,0 +1,15 @@
+DECL|function|QParallelAnimationGroup
+DECL|function|QParallelAnimationGroup
+DECL|function|_q_uncontrolledAnimationFinished
+DECL|function|animationRemoved
+DECL|function|applyGroupState
+DECL|function|connectUncontrolledAnimations
+DECL|function|disconnectUncontrolledAnimations
+DECL|function|duration
+DECL|function|event
+DECL|function|isUncontrolledAnimationFinished
+DECL|function|shouldAnimationStart
+DECL|function|updateCurrentTime
+DECL|function|updateDirection
+DECL|function|updateState
+DECL|function|~QParallelAnimationGroup

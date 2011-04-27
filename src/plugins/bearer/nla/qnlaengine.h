@@ -1,0 +1,3 @@
+DECL|macro|QNLAENGINE_P_H
+DECL|variable|QNetworkConfigurationPrivate
+DECL|variable|QNlaThread

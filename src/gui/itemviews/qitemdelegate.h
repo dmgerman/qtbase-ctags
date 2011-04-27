@@ -1,0 +1,2 @@
+DECL|macro|QITEMDELEGATE_H
+DECL|variable|QItemEditorFactory

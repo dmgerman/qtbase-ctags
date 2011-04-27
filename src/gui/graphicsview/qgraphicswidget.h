@@ -1,0 +1,11 @@
+DECL|function|setGeometry
+DECL|macro|QGRAPHICSWIDGET_H
+DECL|variable|QFontMetrics
+DECL|variable|QGraphicsLayout
+DECL|variable|QGraphicsObject
+DECL|variable|QGraphicsSceneMoveEvent
+DECL|variable|QGraphicsSceneResizeEvent
+DECL|variable|QGraphicsWidgetPrivate
+DECL|variable|QGraphicsWidgetPrivate
+DECL|variable|QStyle
+DECL|variable|QStyleOption

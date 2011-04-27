@@ -1,0 +1,16 @@
+DECL|function|LOCAL
+DECL|function|finish_output_pass
+DECL|function|jinit_master_decompress
+DECL|function|jpeg_calc_output_dimensions
+DECL|function|jpeg_new_colormap
+DECL|function|master_selection
+DECL|function|prepare_for_output_pass
+DECL|function|prepare_range_limit_table
+DECL|macro|JPEG_INTERNALS
+DECL|member|pass_number
+DECL|member|pub
+DECL|member|quantizer_1pass
+DECL|member|quantizer_2pass
+DECL|member|using_merged_upsample
+DECL|typedef|my_decomp_master
+DECL|typedef|my_master_ptr

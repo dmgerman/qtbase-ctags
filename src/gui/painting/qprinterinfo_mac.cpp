@@ -1,0 +1,3 @@
+DECL|function|availablePrinters
+DECL|function|defaultPrinter
+DECL|function|supportedPaperSizes

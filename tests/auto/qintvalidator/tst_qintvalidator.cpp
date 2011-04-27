@@ -1,0 +1,9 @@
+DECL|class|tst_QIntValidator
+DECL|function|validate
+DECL|function|validateArabic
+DECL|function|validateFrench
+DECL|function|validate_data
+DECL|macro|ACC
+DECL|macro|INT
+DECL|macro|INV
+DECL|variable|State

@@ -1,0 +1,3 @@
+DECL|class|tst_DataTable
+DECL|function|fiveTablePasses
+DECL|function|fiveTablePasses_data

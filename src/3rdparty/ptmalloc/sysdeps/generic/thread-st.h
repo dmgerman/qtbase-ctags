@@ -1,0 +1,9 @@
+DECL|function|thread_create
+DECL|function|thread_init
+DECL|function|wait_for_thread
+DECL|member|flags
+DECL|member|func
+DECL|member|id
+DECL|member|sp
+DECL|member|u
+DECL|struct|thread_st

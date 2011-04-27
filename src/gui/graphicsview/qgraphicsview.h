@@ -1,0 +1,16 @@
+DECL|function|centerOn
+DECL|function|ensureVisible
+DECL|function|fitInView
+DECL|function|itemAt
+DECL|function|items
+DECL|function|items
+DECL|function|mapFromScene
+DECL|function|mapFromScene
+DECL|function|mapToScene
+DECL|function|mapToScene
+DECL|function|setSceneRect
+DECL|macro|QGRAPHICSVIEW_H
+DECL|variable|QGraphicsViewPrivate
+DECL|variable|QPainterPath
+DECL|variable|QPolygonF
+DECL|variable|QStyleOptionGraphicsItem

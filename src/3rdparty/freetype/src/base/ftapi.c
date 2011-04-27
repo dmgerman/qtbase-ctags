@@ -1,0 +1,9 @@
+DECL|function|FT_BASE_DEF
+DECL|function|FT_BASE_DEF
+DECL|function|FT_BASE_DEF
+DECL|function|FT_BASE_DEF
+DECL|function|FT_BASE_DEF
+DECL|function|FT_BASE_DEF
+DECL|function|FT_Forget_Frame
+DECL|function|FT_New_Memory_Stream
+DECL|function|FT_Release_Frame

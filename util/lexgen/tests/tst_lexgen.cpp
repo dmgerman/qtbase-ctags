@@ -1,0 +1,12 @@
+DECL|class|tst_LexGen
+DECL|function|lexgen
+DECL|function|lexgen_data
+DECL|function|nfa_alternating
+DECL|function|nfa_concatenating
+DECL|function|nfa_optional
+DECL|function|nfa_singleInput
+DECL|function|nfa_toDFA
+DECL|function|nfa_toDFA_data
+DECL|macro|AUTOTEST
+DECL|variable|DFA
+DECL|variable|NFA

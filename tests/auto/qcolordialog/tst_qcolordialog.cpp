@@ -1,0 +1,15 @@
+DECL|class|TestNativeDialog
+DECL|class|tst_QColorDialog
+DECL|function|TestNativeDialog
+DECL|function|cleanup
+DECL|function|cleanupTestCase
+DECL|function|defaultOkButton
+DECL|function|init
+DECL|function|initTestCase
+DECL|function|native_activeModalWidget
+DECL|function|postKeyReturn
+DECL|function|task247349_alpha
+DECL|function|test_activeModalWidgetSignal
+DECL|function|tst_QColorDialog
+DECL|function|~tst_QColorDialog
+DECL|member|m_activeModalWidget

@@ -1,0 +1,15 @@
+DECL|function|Dialog
+DECL|function|addNewAlbum
+DECL|function|addNewArtist
+DECL|function|addTracks
+DECL|function|createButtons
+DECL|function|createInputWidgets
+DECL|function|findArtistId
+DECL|function|generateAlbumId
+DECL|function|generateArtistId
+DECL|function|increaseAlbumCount
+DECL|function|indexOfArtist
+DECL|function|revert
+DECL|function|submit
+DECL|variable|uniqueAlbumId
+DECL|variable|uniqueArtistId

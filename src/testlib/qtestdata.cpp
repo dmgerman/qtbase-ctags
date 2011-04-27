@@ -1,0 +1,13 @@
+DECL|class|QTestDataPrivate
+DECL|function|QTestData
+DECL|function|QTestDataPrivate
+DECL|function|append
+DECL|function|data
+DECL|function|dataCount
+DECL|function|dataTag
+DECL|function|parent
+DECL|function|~QTestData
+DECL|member|data
+DECL|member|dataCount
+DECL|member|parent
+DECL|member|tag

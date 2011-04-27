@@ -1,0 +1,9 @@
+DECL|macro|QDBUSMETATYPE_P_H
+DECL|member|argument
+DECL|member|error
+DECL|member|message
+DECL|member|objectpath
+DECL|member|signature
+DECL|member|unixfd
+DECL|member|variant
+DECL|struct|QDBusMetaTypeId

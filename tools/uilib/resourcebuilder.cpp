@@ -1,0 +1,10 @@
+DECL|enumerator|themeDebug
+DECL|function|QResourceBuilder
+DECL|function|iconStateFlags
+DECL|function|isResourceProperty
+DECL|function|isResourceType
+DECL|function|loadResource
+DECL|function|saveResource
+DECL|function|toNativeValue
+DECL|function|~QResourceBuilder
+DECL|namespace|QFormInternal

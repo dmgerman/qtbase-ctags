@@ -1,0 +1,14 @@
+DECL|class|tst_QReadLocker
+DECL|class|tst_QReadLockerThread
+DECL|function|lockerStateTest
+DECL|function|releaseThread
+DECL|function|scopeTest
+DECL|function|tst_QReadLocker
+DECL|function|unlockAndRelockTest
+DECL|function|waitForTest
+DECL|function|waitForThread
+DECL|function|~tst_QReadLocker
+DECL|member|lock
+DECL|member|semaphore
+DECL|member|testSemaphore
+DECL|member|thread

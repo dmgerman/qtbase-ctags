@@ -1,0 +1,9 @@
+DECL|variable|dashes
+DECL|variable|dashes
+DECL|variable|pen
+DECL|variable|pen
+DECL|variable|pen
+DECL|variable|space
+DECL|variable|space
+DECL|variable|space
+DECL|variable|space

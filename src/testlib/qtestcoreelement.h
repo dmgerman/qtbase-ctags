@@ -1,0 +1,11 @@
+DECL|function|QT_MODULE
+DECL|function|QTestCoreElement
+DECL|function|addAttribute
+DECL|function|attribute
+DECL|function|attributeName
+DECL|function|attributeValue
+DECL|function|attributes
+DECL|function|elementName
+DECL|function|elementType
+DECL|function|~QTestCoreElement
+DECL|macro|QTESTCOREELEMENT_H

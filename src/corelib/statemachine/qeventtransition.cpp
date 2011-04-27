@@ -1,0 +1,16 @@
+DECL|function|QEventTransition
+DECL|function|QEventTransition
+DECL|function|QEventTransition
+DECL|function|QEventTransition
+DECL|function|QEventTransitionPrivate
+DECL|function|event
+DECL|function|eventSource
+DECL|function|eventTest
+DECL|function|eventType
+DECL|function|get
+DECL|function|maybeRegister
+DECL|function|onTransition
+DECL|function|setEventSource
+DECL|function|setEventType
+DECL|function|unregister
+DECL|function|~QEventTransition

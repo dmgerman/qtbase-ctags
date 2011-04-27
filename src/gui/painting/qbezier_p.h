@@ -1,0 +1,13 @@
+DECL|function|coefficients
+DECL|function|derivedAt
+DECL|function|endTangent
+DECL|function|midPoint
+DECL|function|midTangent
+DECL|function|normalVector
+DECL|function|parameterSplitLeft
+DECL|function|pointAt
+DECL|function|secondDerivedAt
+DECL|function|split
+DECL|function|startTangent
+DECL|macro|QBEZIER_P_H
+DECL|variable|QPolygonF

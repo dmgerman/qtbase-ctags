@@ -1,0 +1,4 @@
+DECL|function|FT_DEFINE_SERVICE
+DECL|macro|FT_SERVICE_ID_OPENTYPE_VALIDATE
+DECL|macro|__SVOTVAL_H__
+DECL|typedef|otv_validate_func

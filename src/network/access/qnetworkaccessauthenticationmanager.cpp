@@ -1,0 +1,12 @@
+DECL|class|QNetworkAuthenticationCache
+DECL|function|QNetworkAuthenticationCache
+DECL|function|authenticationKey
+DECL|function|cacheCredentials
+DECL|function|cacheProxyCredentials
+DECL|function|clearCache
+DECL|function|dispose
+DECL|function|fetchCachedCredentials
+DECL|function|fetchCachedProxyCredentials
+DECL|function|findClosestMatch
+DECL|function|insert
+DECL|function|proxyAuthenticationKey

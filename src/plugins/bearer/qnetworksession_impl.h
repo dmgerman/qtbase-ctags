@@ -1,0 +1,2 @@
+DECL|macro|QNETWORKSESSION_IMPL_H
+DECL|variable|QBearerEngineImpl

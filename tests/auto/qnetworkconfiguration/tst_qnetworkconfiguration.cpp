@@ -1,0 +1,13 @@
+DECL|class|tst_QNetworkConfiguration
+DECL|function|children
+DECL|function|cleanupTestCase
+DECL|function|comparison
+DECL|function|initTestCase
+DECL|function|invalidPoint
+DECL|function|isRoamingAvailable
+DECL|macro|MAX_IAPS
+DECL|member|gprsiap
+DECL|member|iapconf
+DECL|member|iapconf2
+DECL|member|iaps
+DECL|member|icd_stub

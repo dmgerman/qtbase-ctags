@@ -1,0 +1,3 @@
+DECL|class|tst_BenchlibCallgrind
+DECL|function|failInChildProcess
+DECL|function|twoHundredMillionInstructions

@@ -1,0 +1,11 @@
+DECL|function|maximumHeight
+DECL|function|maximumWidth
+DECL|function|minimumHeight
+DECL|function|minimumWidth
+DECL|function|preferredHeight
+DECL|function|preferredWidth
+DECL|function|setMaximumSize
+DECL|function|setMinimumSize
+DECL|function|setPreferredSize
+DECL|macro|QGRAPHICSLAYOUTITEM_H
+DECL|variable|QGraphicsItem

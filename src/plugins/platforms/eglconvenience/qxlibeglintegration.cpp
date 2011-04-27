@@ -1,0 +1,2 @@
+DECL|function|countBits
+DECL|function|getCompatibleVisualId

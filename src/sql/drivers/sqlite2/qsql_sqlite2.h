@@ -1,0 +1,4 @@
+DECL|macro|QSQL_SQLITE2_H
+DECL|variable|QSQLite2Driver
+DECL|variable|QSQLite2DriverPrivate
+DECL|variable|QSQLite2ResultPrivate

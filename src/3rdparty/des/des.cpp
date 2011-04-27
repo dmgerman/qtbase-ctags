@@ -1,0 +1,17 @@
+DECL|function|bitsel
+DECL|function|des_cbc_encrypt
+DECL|function|des_encipher
+DECL|function|des_key_setup
+DECL|function|deshash
+DECL|macro|FP
+DECL|macro|GET_32BIT_MSB_FIRST
+DECL|macro|IP
+DECL|macro|PUT_32BIT_MSB_FIRST
+DECL|macro|bitswap
+DECL|macro|f
+DECL|macro|rotl
+DECL|macro|rotl28
+DECL|member|k0246
+DECL|member|k1357
+DECL|struct|des_context
+DECL|variable|SPboxes

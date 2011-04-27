@@ -1,0 +1,11 @@
+DECL|function|QLinkedListNode
+DECL|function|QT_MODULE
+DECL|function|clear
+DECL|function|detach_helper
+DECL|function|free
+DECL|function|~QLinkedList
+DECL|macro|QLINKEDLIST_H
+DECL|member|n
+DECL|member|p
+DECL|member|t
+DECL|struct|QLinkedListNode

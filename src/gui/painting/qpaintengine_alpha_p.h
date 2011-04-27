@@ -1,0 +1,2 @@
+DECL|macro|QPAINTENGINE_ALPHA_P_H
+DECL|variable|QAlphaPaintEnginePrivate

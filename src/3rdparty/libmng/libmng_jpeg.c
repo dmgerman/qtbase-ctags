@@ -1,0 +1,15 @@
+DECL|function|mng_error_exit
+DECL|function|mng_fill_input_buffer
+DECL|function|mng_init_source
+DECL|function|mng_output_message
+DECL|function|mng_skip_input_data
+DECL|function|mng_skip_input_data2
+DECL|function|mng_term_source
+DECL|function|mngjpeg_cleanup
+DECL|function|mngjpeg_decompressdata
+DECL|function|mngjpeg_decompressdata2
+DECL|function|mngjpeg_decompressfree
+DECL|function|mngjpeg_decompressfree2
+DECL|function|mngjpeg_decompressinit
+DECL|function|mngjpeg_decompressinit2
+DECL|function|mngjpeg_initialize

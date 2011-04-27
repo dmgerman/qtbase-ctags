@@ -1,0 +1,1 @@
+DECL|macro|QCOLOR_P_H

@@ -1,0 +1,12 @@
+DECL|macro|QTEXTDOCUMENT_P_H
+DECL|macro|QTextBeginningOfFrame
+DECL|macro|QTextEndOfFrame
+DECL|variable|QAbstractTextDocumentLayout
+DECL|variable|QAbstractUndoItem
+DECL|variable|QTextBlockFormat
+DECL|variable|QTextCursorPrivate
+DECL|variable|QTextDocument
+DECL|variable|QTextFormat
+DECL|variable|QTextFormatCollection
+DECL|variable|QTextFrame
+DECL|variable|QTextTable

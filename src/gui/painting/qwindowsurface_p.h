@@ -1,0 +1,10 @@
+DECL|function|hasFeature
+DECL|function|rect
+DECL|macro|QWINDOWSURFACE_P_H
+DECL|variable|QImage
+DECL|variable|QPaintDevice
+DECL|variable|QPlatformWindow
+DECL|variable|QPoint
+DECL|variable|QRect
+DECL|variable|QRegion
+DECL|variable|QWindowSurfacePrivate

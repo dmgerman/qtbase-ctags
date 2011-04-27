@@ -1,0 +1,12 @@
+DECL|function|QVGWindowSurface
+DECL|function|QVGWindowSurface
+DECL|function|beginPaint
+DECL|function|endPaint
+DECL|function|features
+DECL|function|flush
+DECL|function|metric
+DECL|function|paintDevice
+DECL|function|paintEngine
+DECL|function|scroll
+DECL|function|setGeometry
+DECL|function|~QVGWindowSurface

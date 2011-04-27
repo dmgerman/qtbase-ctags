@@ -1,0 +1,16 @@
+DECL|function|FT_CALLBACK_DEF
+DECL|function|Load_Glyph
+DECL|function|tt_get_advances
+DECL|function|tt_get_kerning
+DECL|function|tt_size_request
+DECL|function|tt_size_select
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|macro|PAIR_TAG
+DECL|macro|PAIR_TAG
+DECL|macro|PAIR_TAG
+DECL|variable|tt_driver_class
+DECL|variable|tt_service_gx_multi_masters
+DECL|variable|tt_service_truetype_engine
+DECL|variable|tt_service_truetype_glyf
+DECL|variable|tt_services

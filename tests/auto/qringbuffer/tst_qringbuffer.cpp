@@ -1,0 +1,12 @@
+DECL|class|tst_QRingBuffer
+DECL|function|cleanupTestCase
+DECL|function|initTestCase
+DECL|function|readPointerAtPositionEmptyRead
+DECL|function|readPointerAtPositionReadTooMuch
+DECL|function|readPointerAtPositionWithHead
+DECL|function|readPointerAtPositionWriteRead
+DECL|function|sizeWhenEmpty
+DECL|function|sizeWhenReserved
+DECL|function|sizeWhenReservedAndChopped
+DECL|function|tst_QRingBuffer
+DECL|function|~tst_QRingBuffer

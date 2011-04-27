@@ -1,0 +1,7 @@
+DECL|function|getpagesize
+DECL|function|strtof
+DECL|macro|QPLATFORMDEFS_H
+DECL|macro|QT_QWS_TEMP_DIR
+DECL|macro|QT_SNPRINTF
+DECL|macro|QT_USE_XOPEN_LFS_EXTENSIONS
+DECL|macro|QT_VSNPRINTF

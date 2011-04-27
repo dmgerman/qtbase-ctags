@@ -1,0 +1,6 @@
+DECL|function|MySortFilterProxyModel
+DECL|function|dateInRange
+DECL|function|filterAcceptsRow
+DECL|function|lessThan
+DECL|function|setFilterMaximumDate
+DECL|function|setFilterMinimumDate

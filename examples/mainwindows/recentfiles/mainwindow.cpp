@@ -1,0 +1,14 @@
+DECL|function|MainWindow
+DECL|function|about
+DECL|function|createActions
+DECL|function|createMenus
+DECL|function|loadFile
+DECL|function|newFile
+DECL|function|open
+DECL|function|openRecentFile
+DECL|function|save
+DECL|function|saveAs
+DECL|function|saveFile
+DECL|function|setCurrentFile
+DECL|function|strippedName
+DECL|function|updateRecentFileActions

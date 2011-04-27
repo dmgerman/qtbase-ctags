@@ -1,0 +1,15 @@
+DECL|class|tst_QNetworkConfigurationManager
+DECL|function|allConfigurations
+DECL|function|cleanup
+DECL|function|cleanupTestCase
+DECL|function|configurationFromIdentifier
+DECL|function|defaultConfiguration
+DECL|function|init
+DECL|function|initTestCase
+DECL|function|printConfigurationDetails
+DECL|macro|MAX_IAPS
+DECL|member|gprsiap
+DECL|member|iapconf
+DECL|member|iapconf2
+DECL|member|iaps
+DECL|member|icd_stub

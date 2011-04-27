@@ -1,0 +1,2 @@
+DECL|macro|QCOLUMNVIEWGRIP_P_H
+DECL|variable|QColumnViewGripPrivate

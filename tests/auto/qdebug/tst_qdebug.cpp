@@ -1,0 +1,11 @@
+DECL|class|tst_QDebug
+DECL|function|assignment
+DECL|function|criticalWithoutDebug
+DECL|function|debugWithQBool
+DECL|function|myMessageHandler
+DECL|function|qDebugQStringRef
+DECL|function|veryLongWarningMessage
+DECL|function|warningWithoutDebug
+DECL|variable|s_msg
+DECL|variable|s_msgType
+DECL|variable|tst_QDebug

@@ -1,0 +1,12 @@
+DECL|function|comp_func_Plus_sse2
+DECL|function|comp_func_SourceOver_sse2
+DECL|function|comp_func_Source_sse2
+DECL|function|comp_func_solid_SourceOver_sse2
+DECL|function|qt_bitmapblit16_sse2
+DECL|function|qt_bitmapblit32_sse2
+DECL|function|qt_blend_argb32_on_argb32_sse2
+DECL|function|qt_blend_rgb32_on_rgb32_sse2
+DECL|function|qt_memfill16_sse2
+DECL|function|qt_memfill32_sse2
+DECL|variable|qt_functionForModeSolid_onlySSE2
+DECL|variable|qt_functionForMode_onlySSE2

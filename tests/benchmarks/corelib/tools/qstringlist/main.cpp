@@ -1,0 +1,16 @@
+DECL|class|tst_QStringList
+DECL|function|join
+DECL|function|join_data
+DECL|function|populateList
+DECL|function|populateString
+DECL|function|split_data
+DECL|function|split_qlist_qbytearray
+DECL|function|split_qlist_qbytearray_data
+DECL|function|split_qlist_qstring
+DECL|function|split_qlist_qstring_data
+DECL|function|split_stdlist_stdstring
+DECL|function|split_stdlist_stdstring_data
+DECL|function|split_stdvector_stdstring
+DECL|function|split_stdvector_stdstring_data
+DECL|function|split_stdvector_stdwstring
+DECL|function|split_stdvector_stdwstring_data

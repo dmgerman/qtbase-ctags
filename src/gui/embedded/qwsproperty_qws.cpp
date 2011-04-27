@@ -1,0 +1,12 @@
+DECL|class|Data
+DECL|function|QWSPropertyManager
+DECL|function|addProperty
+DECL|function|find
+DECL|function|getProperty
+DECL|function|hasProperty
+DECL|function|removeProperties
+DECL|function|removeProperty
+DECL|function|setProperty
+DECL|function|~QWSPropertyManager
+DECL|member|properties
+DECL|typedef|PropertyHash

@@ -1,0 +1,1 @@
+DECL|macro|PROGRESSITEM_H

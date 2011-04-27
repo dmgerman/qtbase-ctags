@@ -1,0 +1,11 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|T1_Done_Metrics
+DECL|function|T1_Get_Kerning
+DECL|function|T1_Read_PFM
+DECL|function|compare_kern_pairs
+DECL|function|t1_get_index
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|macro|KERN_INDEX
+DECL|macro|KERN_INDEX

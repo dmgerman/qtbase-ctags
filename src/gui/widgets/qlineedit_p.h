@@ -1,0 +1,1 @@
+DECL|macro|QLINEEDIT_P_H

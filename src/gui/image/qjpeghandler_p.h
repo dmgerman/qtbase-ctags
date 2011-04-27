@@ -1,0 +1,2 @@
+DECL|macro|QJPEGHANDLER_P_H
+DECL|variable|QJpegHandlerPrivate

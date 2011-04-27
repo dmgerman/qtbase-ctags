@@ -1,0 +1,10 @@
+DECL|function|wl_xcomposite_add_listener
+DECL|function|wl_xcomposite_create
+DECL|function|wl_xcomposite_create_buffer
+DECL|function|wl_xcomposite_destroy
+DECL|function|wl_xcomposite_get_user_data
+DECL|function|wl_xcomposite_set_user_data
+DECL|macro|WL_XCOMPOSITE_CREATE_BUFFER
+DECL|macro|XCOMPOSITE_CLIENT_PROTOCOL_H
+DECL|member|root
+DECL|struct|wl_xcomposite_listener

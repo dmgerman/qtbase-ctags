@@ -1,0 +1,11 @@
+DECL|function|QEglProperties
+DECL|function|QEglProperties
+DECL|function|addTag
+DECL|function|reduceConfiguration
+DECL|function|removeValue
+DECL|function|setDeviceType
+DECL|function|setPixelFormat
+DECL|function|setRenderableType
+DECL|function|setValue
+DECL|function|toString
+DECL|function|value

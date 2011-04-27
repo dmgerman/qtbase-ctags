@@ -1,0 +1,6 @@
+DECL|function|QItemSelectionRange
+DECL|function|QT_MODULE
+DECL|function|qHash
+DECL|macro|QITEMSELECTIONMODEL_H
+DECL|variable|QItemSelection
+DECL|variable|QItemSelectionModelPrivate

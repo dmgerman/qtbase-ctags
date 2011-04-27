@@ -1,0 +1,2 @@
+DECL|function|addItem
+DECL|macro|QGRAPHICSGRIDLAYOUT_H

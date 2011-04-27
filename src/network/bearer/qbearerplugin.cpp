@@ -1,0 +1,2 @@
+DECL|function|QBearerEnginePlugin
+DECL|function|~QBearerEnginePlugin

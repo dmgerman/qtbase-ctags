@@ -1,0 +1,1 @@
+DECL|macro|ANIMATION_H

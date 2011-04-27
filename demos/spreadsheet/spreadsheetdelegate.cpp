@@ -1,0 +1,5 @@
+DECL|function|SpreadSheetDelegate
+DECL|function|commitAndCloseEditor
+DECL|function|createEditor
+DECL|function|setEditorData
+DECL|function|setModelData

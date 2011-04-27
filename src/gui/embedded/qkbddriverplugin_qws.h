@@ -1,0 +1,4 @@
+DECL|function|Q_DECLARE_INTERFACE
+DECL|macro|QKBDDRIVERPLUGIN_QWS_H
+DECL|macro|QWSKeyboardHandlerFactoryInterface_iid
+DECL|struct|QFactoryInterface

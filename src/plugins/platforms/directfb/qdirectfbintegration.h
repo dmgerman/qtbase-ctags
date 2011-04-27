@@ -1,0 +1,3 @@
+DECL|macro|QPLATFORMINTEGRATION_DIRECTFB_H
+DECL|variable|QDirectFBCursor
+DECL|variable|QThread

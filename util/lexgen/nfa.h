@@ -1,0 +1,9 @@
+DECL|function|operator
+DECL|function|operator
+DECL|macro|NFA_H
+DECL|member|symbol
+DECL|member|transitions
+DECL|struct|State
+DECL|struct|State
+DECL|typedef|InputType
+DECL|typedef|TransitionMap

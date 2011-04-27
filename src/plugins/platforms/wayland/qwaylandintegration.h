@@ -1,0 +1,3 @@
+DECL|macro|QPLATFORMINTEGRATION_WAYLAND_H
+DECL|variable|QWaylandBuffer
+DECL|variable|QWaylandDisplay

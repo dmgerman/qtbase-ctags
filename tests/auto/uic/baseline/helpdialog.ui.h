@@ -1,0 +1,1 @@
+DECL|macro|HELPDIALOG_H

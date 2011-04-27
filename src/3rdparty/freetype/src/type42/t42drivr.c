@@ -1,0 +1,15 @@
+DECL|function|T42_Get_Interface
+DECL|function|t42_get_glyph_name
+DECL|function|t42_get_name_index
+DECL|function|t42_get_ps_font_name
+DECL|function|t42_ps_get_font_extra
+DECL|function|t42_ps_get_font_info
+DECL|function|t42_ps_get_font_private
+DECL|function|t42_ps_has_glyph_names
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|variable|t42_driver_class
+DECL|variable|t42_service_glyph_dict
+DECL|variable|t42_service_ps_font_name
+DECL|variable|t42_service_ps_info
+DECL|variable|t42_services

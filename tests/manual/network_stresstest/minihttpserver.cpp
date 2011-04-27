@@ -1,0 +1,12 @@
+DECL|function|MiniHttpServer
+DECL|function|MiniHttpServerConnection
+DECL|function|handleBytesWritten
+DECL|function|handleConnection
+DECL|function|handleDisconnected
+DECL|function|handlePendingRequest
+DECL|function|handleReadyRead
+DECL|function|handleTimeout
+DECL|function|run
+DECL|function|sendError404
+DECL|function|sendError500
+DECL|function|~MiniHttpServer

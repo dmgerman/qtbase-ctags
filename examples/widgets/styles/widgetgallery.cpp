@@ -1,0 +1,9 @@
+DECL|function|WidgetGallery
+DECL|function|advanceProgressBar
+DECL|function|changePalette
+DECL|function|changeStyle
+DECL|function|createBottomLeftTabWidget
+DECL|function|createBottomRightGroupBox
+DECL|function|createProgressBar
+DECL|function|createTopLeftGroupBox
+DECL|function|createTopRightGroupBox

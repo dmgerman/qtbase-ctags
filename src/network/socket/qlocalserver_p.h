@@ -1,0 +1,1 @@
+DECL|macro|QLOCALSERVER_P_H

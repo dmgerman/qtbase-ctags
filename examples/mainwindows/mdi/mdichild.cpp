@@ -1,0 +1,12 @@
+DECL|function|MdiChild
+DECL|function|closeEvent
+DECL|function|documentWasModified
+DECL|function|loadFile
+DECL|function|maybeSave
+DECL|function|newFile
+DECL|function|save
+DECL|function|saveAs
+DECL|function|saveFile
+DECL|function|setCurrentFile
+DECL|function|strippedName
+DECL|function|userFriendlyCurrentFile

@@ -1,0 +1,2 @@
+DECL|macro|QVGFONTGLYPHCACHE_H
+DECL|variable|QVGPaintEnginePrivate

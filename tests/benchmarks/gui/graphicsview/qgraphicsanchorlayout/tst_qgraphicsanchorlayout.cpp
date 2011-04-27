@@ -1,0 +1,17 @@
+DECL|class|RectWidget
+DECL|class|tst_QGraphicsAnchorLayout
+DECL|function|RectWidget
+DECL|function|createItem
+DECL|function|createLayouts
+DECL|function|linearVsAnchorNested
+DECL|function|linearVsAnchorNested_data
+DECL|function|linearVsAnchorSetGeometry
+DECL|function|linearVsAnchorSetGeometry_data
+DECL|function|linearVsAnchorSizeHints
+DECL|function|linearVsAnchorSizeHints_data
+DECL|function|paint
+DECL|function|s60_hard_complex
+DECL|function|s60_hard_complex_data
+DECL|function|setAnchor
+DECL|function|tst_QGraphicsAnchorLayout
+DECL|function|~tst_QGraphicsAnchorLayout

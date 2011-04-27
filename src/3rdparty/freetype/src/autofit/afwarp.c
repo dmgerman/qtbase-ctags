@@ -1,0 +1,5 @@
+DECL|function|af_warper_compute
+DECL|function|af_warper_compute_line_best
+DECL|variable|af_warper_dummy
+DECL|variable|af_warper_weights
+DECL|variable|af_warper_weights

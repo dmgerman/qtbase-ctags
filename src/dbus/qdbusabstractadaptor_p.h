@@ -1,0 +1,7 @@
+DECL|macro|QCLASSINFO_DBUS_INTERFACE
+DECL|macro|QCLASSINFO_DBUS_INTROSPECTION
+DECL|macro|QDBUSABSTRACTADAPTORPRIVATE_H
+DECL|variable|QDBusAbstractAdaptor
+DECL|variable|QDBusAdaptorConnector
+DECL|variable|QDBusAdaptorManager
+DECL|variable|QDBusConnectionPrivate

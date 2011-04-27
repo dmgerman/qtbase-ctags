@@ -1,0 +1,13 @@
+DECL|class|SignalWaiter
+DECL|function|SignalWaiter
+DECL|function|complexFunction
+DECL|function|complexFunction
+DECL|function|method1
+DECL|function|method1
+DECL|function|method2
+DECL|function|method2
+DECL|function|waitForSignal
+DECL|member|locker
+DECL|variable|mutex
+DECL|variable|number
+DECL|variable|number

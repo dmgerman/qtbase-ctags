@@ -1,0 +1,4 @@
+DECL|function|DiagramTextItem
+DECL|function|focusOutEvent
+DECL|function|itemChange
+DECL|function|mouseDoubleClickEvent

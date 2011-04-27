@@ -1,0 +1,3 @@
+DECL|function|QVFbKeyboardHandler
+DECL|function|readKeyboardData
+DECL|function|~QVFbKeyboardHandler

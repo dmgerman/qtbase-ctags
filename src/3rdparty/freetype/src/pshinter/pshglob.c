@@ -1,0 +1,10 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|psh_blues_scale_zones
+DECL|function|psh_blues_set_zones
+DECL|function|psh_blues_set_zones_0
+DECL|function|psh_blues_snap_stem
+DECL|function|psh_globals_destroy
+DECL|function|psh_globals_funcs_init
+DECL|function|psh_globals_new
+DECL|function|psh_globals_scale_widths
+DECL|variable|ps_debug_globals

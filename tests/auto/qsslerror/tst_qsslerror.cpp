@@ -1,0 +1,12 @@
+DECL|class|tst_QSslError
+DECL|function|cleanup
+DECL|function|constructing
+DECL|function|enterLoop
+DECL|function|exitLoop
+DECL|function|init
+DECL|function|initTestCase_data
+DECL|function|timeout
+DECL|function|tst_QSslError
+DECL|function|~tst_QSslError
+DECL|member|loopLevel
+DECL|member|loopLevel

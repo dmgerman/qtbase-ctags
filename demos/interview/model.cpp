@@ -1,0 +1,13 @@
+DECL|function|Model
+DECL|function|columnCount
+DECL|function|data
+DECL|function|flags
+DECL|function|hasChildren
+DECL|function|headerData
+DECL|function|index
+DECL|function|node
+DECL|function|parent
+DECL|function|parent
+DECL|function|row
+DECL|function|rowCount
+DECL|function|~Model

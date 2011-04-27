@@ -1,0 +1,11 @@
+DECL|function|ListModel
+DECL|function|appendRow
+DECL|function|clear
+DECL|function|data
+DECL|function|index
+DECL|function|insert
+DECL|function|item
+DECL|function|rowCount
+DECL|function|setData
+DECL|function|takeItem
+DECL|function|~ListModel

@@ -1,0 +1,2 @@
+DECL|macro|QABSTRACTPAGESETUPDIALOG_H
+DECL|variable|QPrinter

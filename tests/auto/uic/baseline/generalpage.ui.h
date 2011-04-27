@@ -1,0 +1,1 @@
+DECL|macro|GENERALPAGE_H

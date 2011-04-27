@@ -1,0 +1,15 @@
+DECL|function|QSignalTransition
+DECL|function|QSignalTransition
+DECL|function|QSignalTransitionPrivate
+DECL|function|callOnTransition
+DECL|function|event
+DECL|function|eventTest
+DECL|function|get
+DECL|function|maybeRegister
+DECL|function|onTransition
+DECL|function|senderObject
+DECL|function|setSenderObject
+DECL|function|setSignal
+DECL|function|signal
+DECL|function|unregister
+DECL|function|~QSignalTransition

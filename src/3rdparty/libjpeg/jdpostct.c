@@ -1,0 +1,14 @@
+DECL|function|jinit_d_post_controller
+DECL|function|post_process_1pass
+DECL|function|post_process_2pass
+DECL|function|post_process_prepass
+DECL|function|start_pass_dpost
+DECL|macro|JPEG_INTERNALS
+DECL|member|buffer
+DECL|member|next_row
+DECL|member|pub
+DECL|member|starting_row
+DECL|member|strip_height
+DECL|member|whole_image
+DECL|typedef|my_post_controller
+DECL|typedef|my_post_ptr

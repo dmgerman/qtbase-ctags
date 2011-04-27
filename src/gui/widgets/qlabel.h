@@ -1,0 +1,1 @@
+DECL|macro|QLABEL_H

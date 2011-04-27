@@ -1,0 +1,13 @@
+DECL|class|EmptyClass
+DECL|class|tst_BadXml
+DECL|class|tst_BadXmlSub
+DECL|function|badDataTag
+DECL|function|badDataTag_data
+DECL|function|badMessage
+DECL|function|badMessage_data
+DECL|function|badStrings
+DECL|function|failWithNoFile
+DECL|function|main
+DECL|function|metaObject
+DECL|member|className
+DECL|member|className

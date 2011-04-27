@@ -1,0 +1,16 @@
+DECL|macro|DEFAULT_TOP_PAD
+DECL|macro|NO_THREADS
+DECL|macro|_GENERIC_MALLOC_MACHINE_H
+DECL|macro|atomic_full_barrier
+DECL|macro|atomic_read_barrier
+DECL|macro|atomic_write_barrier
+DECL|macro|mutex_init
+DECL|macro|mutex_lock
+DECL|macro|mutex_trylock
+DECL|macro|mutex_unlock
+DECL|macro|thread_atfork
+DECL|macro|tsd_getspecific
+DECL|macro|tsd_key_create
+DECL|macro|tsd_setspecific
+DECL|typedef|mutex_t
+DECL|typedef|tsd_key_t

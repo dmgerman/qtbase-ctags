@@ -1,0 +1,14 @@
+DECL|function|ImageWidget
+DECL|function|event
+DECL|function|gestureEvent
+DECL|function|goNextImage
+DECL|function|goPrevImage
+DECL|function|goToImage
+DECL|function|loadImage
+DECL|function|mouseDoubleClickEvent
+DECL|function|openDirectory
+DECL|function|paintEvent
+DECL|function|panTriggered
+DECL|function|pinchTriggered
+DECL|function|resizeEvent
+DECL|function|swipeTriggered

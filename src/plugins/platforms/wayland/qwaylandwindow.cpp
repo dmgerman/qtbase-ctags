@@ -1,0 +1,11 @@
+DECL|function|QWaylandWindow
+DECL|function|attach
+DECL|function|configure
+DECL|function|damage
+DECL|function|frameCallback
+DECL|function|newSurfaceCreated
+DECL|function|setParent
+DECL|function|setVisible
+DECL|function|waitForFrameSync
+DECL|function|winId
+DECL|function|~QWaylandWindow

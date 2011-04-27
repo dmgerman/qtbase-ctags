@@ -1,0 +1,13 @@
+DECL|function|DoCancel
+DECL|function|QEventDispatcherS60
+DECL|function|QtEikonEnv
+DECL|function|RunL
+DECL|function|complete
+DECL|function|hasPendingEvents
+DECL|function|processEvents
+DECL|function|reactivateDeferredActiveObjects
+DECL|function|removeInputEventsForWidget
+DECL|function|saveInputEvent
+DECL|function|sendDeferredInputEvents
+DECL|function|~QEventDispatcherS60
+DECL|function|~QtEikonEnv

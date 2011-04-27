@@ -1,0 +1,16 @@
+DECL|function|gxv_mort_subtable_type5_InsertList_validate
+DECL|function|gxv_mort_subtable_type5_entry_validate
+DECL|function|gxv_mort_subtable_type5_subtable_setup
+DECL|function|gxv_mort_subtable_type5_validate
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|macro|GXV_MORT_SUBTABLE_TYPE5_HEADER_SIZE
+DECL|member|classTable
+DECL|member|classTable_length_p
+DECL|member|entryTable
+DECL|member|entryTable_length_p
+DECL|member|stateArray
+DECL|member|stateArray_length_p
+DECL|struct|GXV_mort_subtable_type5_StateOptRec_
+DECL|typedef|GXV_mort_subtable_type5_StateOptRec
+DECL|typedef|GXV_mort_subtable_type5_StateOptRecData

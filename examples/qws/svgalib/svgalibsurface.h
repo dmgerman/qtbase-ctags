@@ -1,0 +1,2 @@
+DECL|macro|SVGALIBSURFACE_H
+DECL|variable|SvgalibPaintDevice

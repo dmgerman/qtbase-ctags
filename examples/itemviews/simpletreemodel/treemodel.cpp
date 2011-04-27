@@ -1,0 +1,10 @@
+DECL|function|TreeModel
+DECL|function|columnCount
+DECL|function|data
+DECL|function|flags
+DECL|function|headerData
+DECL|function|index
+DECL|function|parent
+DECL|function|rowCount
+DECL|function|setupModelData
+DECL|function|~TreeModel

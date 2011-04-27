@@ -1,0 +1,7 @@
+DECL|class|tst_StrCmp
+DECL|function|compareByteArray
+DECL|function|compareCharStars
+DECL|function|failByteArray
+DECL|function|failByteArrayEmpty
+DECL|function|failByteArrayNull
+DECL|function|failByteArraySingleChars

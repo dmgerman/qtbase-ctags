@@ -1,0 +1,9 @@
+DECL|function|RenderArea
+DECL|function|minimumSizeHint
+DECL|function|paintEvent
+DECL|function|setFillGradient
+DECL|function|setFillRule
+DECL|function|setPenColor
+DECL|function|setPenWidth
+DECL|function|setRotationAngle
+DECL|function|sizeHint

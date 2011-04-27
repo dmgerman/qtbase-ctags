@@ -1,0 +1,1 @@
+DECL|macro|QTSCIICODEC_P_H

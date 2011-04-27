@@ -1,0 +1,1 @@
+DECL|macro|QSTYLEFACTORY_H

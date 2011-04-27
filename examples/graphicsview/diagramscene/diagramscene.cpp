@@ -1,0 +1,12 @@
+DECL|function|DiagramScene
+DECL|function|editorLostFocus
+DECL|function|isItemChange
+DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent
+DECL|function|setFont
+DECL|function|setItemColor
+DECL|function|setItemType
+DECL|function|setLineColor
+DECL|function|setMode
+DECL|function|setTextColor

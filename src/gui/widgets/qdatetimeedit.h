@@ -1,0 +1,3 @@
+DECL|macro|QDATETIMEEDIT_H
+DECL|variable|QCalendarWidget
+DECL|variable|QStyleOptionSpinBox

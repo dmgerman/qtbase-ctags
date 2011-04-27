@@ -1,0 +1,11 @@
+DECL|function|FT_BASE_DEF
+DECL|function|FT_BASE_DEF
+DECL|function|FT_Done_Memory
+DECL|function|ft_alloc
+DECL|function|ft_ansi_stream_close
+DECL|function|ft_ansi_stream_io
+DECL|function|ft_free
+DECL|function|ft_realloc
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|macro|STREAM_FILE

@@ -1,0 +1,2 @@
+DECL|macro|QATOMIC_ARM_H
+DECL|macro|QT_ARCH_ARMV7

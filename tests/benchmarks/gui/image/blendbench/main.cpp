@@ -1,0 +1,13 @@
+DECL|class|BlendBench
+DECL|enumerator|ImageBrush
+DECL|enumerator|SolidBrush
+DECL|enum|BrushType
+DECL|function|blendBench
+DECL|function|blendBenchAlpha
+DECL|function|blendBenchAlpha_data
+DECL|function|blendBench_data
+DECL|function|paint
+DECL|function|unalignedBlendArgb32
+DECL|function|unalignedBlendArgb32_data
+DECL|variable|brushTypes
+DECL|variable|compositionModes

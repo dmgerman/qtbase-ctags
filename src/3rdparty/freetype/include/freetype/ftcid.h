@@ -1,0 +1,2 @@
+DECL|macro|__FTCID_H__
+DECL|variable|FT_Get_CID_Is_Internally_CID_Keyed

@@ -1,0 +1,14 @@
+DECL|function|fixedtables
+DECL|function|inflateBack
+DECL|function|inflateBackEnd
+DECL|function|inflateBackInit_
+DECL|macro|BITS
+DECL|macro|BYTEBITS
+DECL|macro|DROPBITS
+DECL|macro|INITBITS
+DECL|macro|LOAD
+DECL|macro|NEEDBITS
+DECL|macro|PULL
+DECL|macro|PULLBYTE
+DECL|macro|RESTORE
+DECL|macro|ROOM

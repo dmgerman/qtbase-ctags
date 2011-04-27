@@ -1,0 +1,17 @@
+DECL|function|access
+DECL|function|fcntl
+DECL|function|ftello64
+DECL|function|lseek64
+DECL|function|open
+DECL|function|open64
+DECL|function|pthread_attr_getinheritsched
+DECL|function|pthread_attr_setinheritsched
+DECL|function|pthread_cancel
+DECL|function|pthread_cleanup_pop
+DECL|function|pthread_cleanup_push
+DECL|function|pthread_setcancelstate
+DECL|function|pthread_setcanceltype
+DECL|function|pthread_testcancel
+DECL|function|select
+DECL|function|sigaction
+DECL|typedef|off64_t

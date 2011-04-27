@@ -1,0 +1,15 @@
+DECL|function|BorderLayout
+DECL|function|BorderLayout
+DECL|function|add
+DECL|function|addItem
+DECL|function|addWidget
+DECL|function|calculateSize
+DECL|function|count
+DECL|function|expandingDirections
+DECL|function|hasHeightForWidth
+DECL|function|itemAt
+DECL|function|minimumSize
+DECL|function|setGeometry
+DECL|function|sizeHint
+DECL|function|takeAt
+DECL|function|~BorderLayout

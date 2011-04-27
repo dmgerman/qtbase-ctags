@@ -1,0 +1,16 @@
+DECL|function|QT_MODULE
+DECL|macro|QTE_PIPE
+DECL|macro|QTE_PIPE_QVFB
+DECL|macro|QT_QWS_TEMP_DIR
+DECL|macro|QT_VFB_DATADIR
+DECL|macro|QT_VFB_KEYBOARD_PIPE
+DECL|macro|QT_VFB_MAP
+DECL|macro|QT_VFB_MOUSE_PIPE
+DECL|macro|QT_VFB_SOUND_PIPE
+DECL|macro|QVFBHDR_H
+DECL|member|keycode
+DECL|member|modifiers
+DECL|member|press
+DECL|member|repeat
+DECL|member|unicode
+DECL|struct|QVFbKeyData

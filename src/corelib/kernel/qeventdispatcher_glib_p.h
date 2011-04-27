@@ -1,0 +1,3 @@
+DECL|macro|QEVENTDISPATCHER_GLIB_P_H
+DECL|typedef|GMainContext
+DECL|variable|QEventDispatcherGlibPrivate

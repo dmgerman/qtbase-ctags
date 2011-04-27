@@ -1,0 +1,10 @@
+DECL|function|qGetHostName
+DECL|function|qTableName
+DECL|function|qTableName
+DECL|function|testWhiteSpaceNames
+DECL|function|toHex
+DECL|macro|CHECK_DATABASE
+DECL|macro|DBMS_SPECIFIC
+DECL|macro|QFAIL_SQL
+DECL|macro|QVERIFY_SQL
+DECL|macro|TST_DATABASES_H

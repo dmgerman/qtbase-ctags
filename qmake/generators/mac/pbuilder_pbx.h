@@ -1,0 +1,2 @@
+DECL|function|~ProjectBuilderMakefileGenerator
+DECL|macro|PBUILDER_PBX_H

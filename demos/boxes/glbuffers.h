@@ -1,0 +1,16 @@
+DECL|enumerator|Color
+DECL|enumerator|Normal
+DECL|enumerator|Null
+DECL|enumerator|Position
+DECL|enumerator|TexCoord
+DECL|macro|BUFFER_OFFSET
+DECL|macro|GLBUFFERS_ASSERT_OPENGL
+DECL|macro|GLBUFFERS_H
+DECL|macro|SIZE_OF_MEMBER
+DECL|member|count
+DECL|member|field
+DECL|member|index
+DECL|member|offset
+DECL|member|type
+DECL|struct|VertexDescription
+DECL|variable|QMatrix4x4

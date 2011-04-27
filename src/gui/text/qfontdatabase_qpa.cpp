@@ -1,0 +1,13 @@
+DECL|function|fallbackFamilies
+DECL|function|findFont
+DECL|function|initializeDb
+DECL|function|load
+DECL|function|load
+DECL|function|loadEngine
+DECL|function|loadSingleEngine
+DECL|function|qt_applyFontDatabaseSettings
+DECL|function|qt_registerFont
+DECL|function|registerFont
+DECL|function|removeAllApplicationFonts
+DECL|function|removeApplicationFont
+DECL|function|supportsThreadedFontRendering

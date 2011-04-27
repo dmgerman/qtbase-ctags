@@ -1,0 +1,9 @@
+DECL|function|avg
+DECL|macro|MY_EXPORT
+DECL|macro|MY_EXPORT
+DECL|typedef|AvgFunction
+DECL|typedef|MyPrototype
+DECL|typedef|MyPrototype
+DECL|variable|avg
+DECL|variable|myFunction
+DECL|variable|myFunction

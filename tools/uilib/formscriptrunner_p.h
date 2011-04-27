@@ -1,0 +1,2 @@
+DECL|macro|FORMSCRIPTRUNNER_H
+DECL|variable|QWidget

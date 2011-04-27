@@ -1,0 +1,11 @@
+DECL|function|FTC_SNode_Free
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|ftc_sbit_copy_bitmap
+DECL|function|ftc_snode_free
+DECL|function|ftc_snode_load
+DECL|macro|CHECK_BYTE
+DECL|macro|CHECK_CHAR

@@ -1,0 +1,13 @@
+DECL|class|DesktopView
+DECL|function|DesktopView
+DECL|function|appRect
+DECL|function|desktopResized
+DECL|function|desktopScreenCountChanged
+DECL|function|desktopWorkAreaResized
+DECL|function|main
+DECL|function|moveEvent
+DECL|function|resizeEvent
+DECL|function|updateScene
+DECL|member|scene
+DECL|member|that
+DECL|member|thatRoot

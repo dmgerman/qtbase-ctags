@@ -1,0 +1,9 @@
+DECL|class|Consumer
+DECL|class|Producer
+DECL|function|main
+DECL|function|run
+DECL|function|run
+DECL|variable|BufferSize
+DECL|variable|DataSize
+DECL|variable|buffer
+DECL|variable|usedBytes

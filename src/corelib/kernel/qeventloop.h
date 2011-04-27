@@ -1,0 +1,1 @@
+DECL|macro|QEVENTLOOP_H

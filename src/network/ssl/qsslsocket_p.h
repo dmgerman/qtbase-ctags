@@ -1,0 +1,4 @@
+DECL|macro|QSSLSOCKET_P_H
+DECL|typedef|PtrSecCertificateGetData
+DECL|typedef|PtrSecTrustCopyAnchorCertificates
+DECL|typedef|PtrSecTrustSettingsCopyCertificates

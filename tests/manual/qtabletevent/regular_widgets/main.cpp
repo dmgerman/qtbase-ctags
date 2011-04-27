@@ -1,0 +1,11 @@
+DECL|class|EventReportWidget
+DECL|function|EventReportWidget
+DECL|function|main
+DECL|function|mouseDoubleClickEvent
+DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent
+DECL|function|outputMouseEvent
+DECL|function|tabletEvent
+DECL|member|m_lastIsMouseMove
+DECL|member|m_lastIsTabletMove

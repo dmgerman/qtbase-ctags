@@ -1,0 +1,3 @@
+DECL|macro|QNETWORKINTERFACE_H
+DECL|variable|QNetworkAddressEntryPrivate
+DECL|variable|QNetworkInterfacePrivate

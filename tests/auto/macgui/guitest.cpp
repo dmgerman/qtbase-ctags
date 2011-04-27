@@ -1,0 +1,32 @@
+DECL|class|NameTest
+DECL|class|PrintTest
+DECL|function|ClickLaterAction
+DECL|function|ClickLaterAction
+DECL|function|GuiTester
+DECL|function|NameTest
+DECL|function|addToSequence
+DECL|function|checkPixel
+DECL|function|clearSequence
+DECL|function|clickLater
+DECL|function|clickLater
+DECL|function|deleteInDestructor
+DECL|function|exitLoopSlot
+DECL|function|find
+DECL|function|find
+DECL|function|getWidget
+DECL|function|isContent
+DECL|function|isFilled
+DECL|function|mouseClick
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|printAll
+DECL|function|printAll
+DECL|function|recursiveSearch
+DECL|function|run
+DECL|function|run
+DECL|function|runSequence
+DECL|function|~GuiTester
+DECL|function|~WidgetNavigator
+DECL|member|text
+DECL|member|textType
+DECL|namespace|NativeEvents

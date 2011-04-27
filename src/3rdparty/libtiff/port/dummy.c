@@ -1,0 +1,1 @@
+DECL|function|libport_dummy_function

@@ -1,0 +1,9 @@
+DECL|function|qInf
+DECL|function|qIsFinite
+DECL|function|qIsFinite
+DECL|function|qIsInf
+DECL|function|qIsInf
+DECL|function|qIsNaN
+DECL|function|qIsNaN
+DECL|function|qQNaN
+DECL|function|qSNaN

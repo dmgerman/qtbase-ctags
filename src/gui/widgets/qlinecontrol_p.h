@@ -1,0 +1,2 @@
+DECL|function|QT_MODULE
+DECL|macro|QLINECONTROL_P_H

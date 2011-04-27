@@ -1,0 +1,13 @@
+DECL|class|tst_QStringListModel
+DECL|function|cleanup
+DECL|function|cleanupTestCase
+DECL|function|init
+DECL|function|initTestCase
+DECL|function|rowsAboutToBeInserted_rowsInserted
+DECL|function|rowsAboutToBeInserted_rowsInserted_data
+DECL|function|rowsAboutToBeRemovedOrInserted
+DECL|function|rowsAboutToBeRemoved_rowsRemoved
+DECL|function|rowsAboutToBeRemoved_rowsRemoved_data
+DECL|function|rowsRemovedOrInserted
+DECL|function|tst_QStringListModel
+DECL|function|~tst_QStringListModel

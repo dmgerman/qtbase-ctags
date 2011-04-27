@@ -1,0 +1,2 @@
+DECL|macro|SIMPLELISTVIEW_H
+DECL|variable|SimpleListViewPrivate

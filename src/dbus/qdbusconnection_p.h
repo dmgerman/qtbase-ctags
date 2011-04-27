@@ -1,0 +1,12 @@
+DECL|macro|QDBUSCONNECTION_P_H
+DECL|variable|QDBusAbstractInterface
+DECL|variable|QDBusActivateObjectEvent
+DECL|variable|QDBusCallDeliveryEvent
+DECL|variable|QDBusConnectionInterface
+DECL|variable|QDBusInterfacePrivate
+DECL|variable|QDBusMessage
+DECL|variable|QDBusObjectPrivate
+DECL|variable|QDBusPendingCallPrivate
+DECL|variable|QMetaMethod
+DECL|variable|QSocketNotifier
+DECL|variable|QTimerEvent

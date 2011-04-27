@@ -1,0 +1,10 @@
+DECL|class|tst_QSqlDriver
+DECL|function|cleanup
+DECL|function|cleanupTestCase
+DECL|function|init
+DECL|function|initTestCase
+DECL|function|initTestCase_data
+DECL|function|primaryIndex
+DECL|function|record
+DECL|function|recreateTestTables
+DECL|member|dbs

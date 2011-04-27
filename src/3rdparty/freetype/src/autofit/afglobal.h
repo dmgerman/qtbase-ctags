@@ -1,0 +1,4 @@
+DECL|macro|__AF_GLOBAL_H__
+DECL|typedef|AF_FaceGlobals
+DECL|variable|af_face_globals_get_metrics
+DECL|variable|globals

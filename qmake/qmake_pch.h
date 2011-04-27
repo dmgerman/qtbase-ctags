@@ -1,0 +1,3 @@
+DECL|macro|QMAKE_PCH_H
+DECL|macro|_POSIX_
+DECL|macro|_POSIX_

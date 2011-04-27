@@ -1,0 +1,10 @@
+DECL|class|TestWidget
+DECL|class|tst_orientationchange
+DECL|function|TestWidget
+DECL|function|reset
+DECL|function|resizeEvent
+DECL|function|resizeEventOnOrientationChange
+DECL|function|tst_orientationchange
+DECL|function|~tst_orientationchange
+DECL|member|resizeEventCount
+DECL|member|resizeEventSize

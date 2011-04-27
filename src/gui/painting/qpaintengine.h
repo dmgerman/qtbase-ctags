@@ -1,0 +1,14 @@
+DECL|function|clearDirty
+DECL|function|fix_neg_rect
+DECL|function|setDirty
+DECL|function|testDirty
+DECL|macro|QPAINTENGINE_H
+DECL|variable|QLineF
+DECL|variable|QPaintDevice
+DECL|variable|QPaintEnginePrivate
+DECL|variable|QPaintEngineState
+DECL|variable|QPainterPath
+DECL|variable|QPointF
+DECL|variable|QPolygonF
+DECL|variable|QRectF
+DECL|variable|QTextItemInt

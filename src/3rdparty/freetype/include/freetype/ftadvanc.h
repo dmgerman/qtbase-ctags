@@ -1,0 +1,3 @@
+DECL|macro|FT_ADVANCE_FLAG_FAST_ONLY
+DECL|macro|__FTADVANC_H__
+DECL|variable|FT_Get_Advances

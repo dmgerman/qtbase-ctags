@@ -1,0 +1,11 @@
+DECL|function|TIFFGetBitRevTable
+DECL|function|TIFFReverseBits
+DECL|function|TIFFSwabArrayOfDouble
+DECL|function|TIFFSwabArrayOfLong
+DECL|function|TIFFSwabArrayOfShort
+DECL|function|TIFFSwabArrayOfTriples
+DECL|function|TIFFSwabDouble
+DECL|function|TIFFSwabLong
+DECL|function|TIFFSwabShort
+DECL|variable|TIFFBitRevTable
+DECL|variable|TIFFNoBitRevTable

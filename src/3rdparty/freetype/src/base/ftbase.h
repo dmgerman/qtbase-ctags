@@ -1,0 +1,2 @@
+DECL|macro|__FTBASE_H__
+DECL|variable|open_face_from_buffer

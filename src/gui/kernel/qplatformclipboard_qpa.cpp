@@ -1,0 +1,10 @@
+DECL|class|QClipboardData
+DECL|function|QClipboardData
+DECL|function|mimeData
+DECL|function|setMimeData
+DECL|function|setSource
+DECL|function|source
+DECL|function|supportsMode
+DECL|function|~QClipboardData
+DECL|function|~QPlatformClipboard
+DECL|member|src

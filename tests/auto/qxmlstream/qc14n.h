@@ -1,0 +1,4 @@
+DECL|function|QT_FORWARD_DECLARE_CLASS
+DECL|function|isAttributesEqual
+DECL|function|isDifferent
+DECL|function|isEqual

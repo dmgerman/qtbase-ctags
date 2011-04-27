@@ -1,0 +1,3 @@
+DECL|macro|QNETWORKACCESSFTPBACKEND_P_H
+DECL|variable|QNetworkAccessCachedFtpConnection
+DECL|variable|QNetworkAccessFtpIODevice

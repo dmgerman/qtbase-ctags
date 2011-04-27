@@ -1,0 +1,5 @@
+DECL|function|FT_CALLBACK_DEF
+DECL|function|FT_CALLBACK_DEF
+DECL|function|FT_CALLBACK_DEF
+DECL|function|pfr_cmap_done
+DECL|variable|pfr_cmap_class_rec

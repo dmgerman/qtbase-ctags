@@ -1,0 +1,16 @@
+DECL|class|EGLNullWSScreenSurfaceFunctions
+DECL|function|EGLNullWSScreen
+DECL|function|blank
+DECL|function|connect
+DECL|function|createNativeWindow
+DECL|function|createSurface
+DECL|function|createSurface
+DECL|function|depthForFormat
+DECL|function|disconnect
+DECL|function|exposeRegion
+DECL|function|formatDictionary
+DECL|function|initDevice
+DECL|function|printHelp
+DECL|function|setMode
+DECL|function|shutdownDevice
+DECL|function|~EGLNullWSScreen

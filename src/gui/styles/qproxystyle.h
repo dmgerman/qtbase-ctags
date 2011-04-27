@@ -1,0 +1,1 @@
+DECL|macro|QPROXYSTYLE_H

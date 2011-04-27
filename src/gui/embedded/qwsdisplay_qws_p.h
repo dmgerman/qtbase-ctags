@@ -1,0 +1,1 @@
+DECL|macro|QWSDISPLAY_QWS_P_H

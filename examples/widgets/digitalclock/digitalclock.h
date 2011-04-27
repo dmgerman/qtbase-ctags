@@ -1,0 +1,1 @@
+DECL|macro|DIGITALCLOCK_H

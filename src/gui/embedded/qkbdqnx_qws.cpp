@@ -1,0 +1,3 @@
+DECL|function|QWSQnxKeyboardHandler
+DECL|function|socketActivated
+DECL|function|~QWSQnxKeyboardHandler

@@ -1,0 +1,13 @@
+DECL|class|MyInputMethod
+DECL|class|tst_QWSInputMethod
+DECL|function|MyInputMethod
+DECL|function|createSubClass
+DECL|function|filter
+DECL|function|filter
+DECL|function|mouseHandler
+DECL|function|queryResponse
+DECL|function|reset
+DECL|function|tst_QWSInputMethod
+DECL|function|updateHandler
+DECL|function|~MyInputMethod
+DECL|function|~tst_QWSInputMethod

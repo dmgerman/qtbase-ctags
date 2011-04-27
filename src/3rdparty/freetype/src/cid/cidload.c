@@ -1,0 +1,14 @@
+DECL|function|FT_CALLBACK_DEF
+DECL|function|FT_CALLBACK_DEF
+DECL|function|FT_CALLBACK_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|cid_hex_to_binary
+DECL|function|cid_load_keyword
+DECL|function|cid_parse_dict
+DECL|function|cid_read_subrs
+DECL|function|t1_done_loader
+DECL|function|t1_init_loader
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|variable|cid_field_records

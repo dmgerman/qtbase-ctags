@@ -1,0 +1,1 @@
+DECL|macro|QSCROLLAREA_P_H

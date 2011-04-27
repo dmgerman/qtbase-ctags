@@ -1,0 +1,10 @@
+DECL|class|tst_QCopChannel
+DECL|class|tst_SendQCopProcess
+DECL|function|channel
+DECL|function|isRegistered
+DECL|function|sendreceivemp
+DECL|function|sendreceivesp
+DECL|function|testSend
+DECL|function|tst_QCopChannel
+DECL|function|tst_SendQCopProcess
+DECL|function|~tst_QCopChannel

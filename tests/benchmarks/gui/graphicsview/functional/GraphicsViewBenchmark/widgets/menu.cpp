@@ -1,0 +1,11 @@
+DECL|function|Menu
+DECL|function|addMenuItem
+DECL|function|init
+DECL|function|keyPressEvent
+DECL|function|menuHide
+DECL|function|menuShow
+DECL|function|menuShowHide
+DECL|function|themeChange
+DECL|function|~Menu
+DECL|variable|MinMenuItemHeight
+DECL|variable|MinMenuItemWidth

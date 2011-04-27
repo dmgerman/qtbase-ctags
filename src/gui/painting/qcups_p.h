@@ -1,0 +1,1 @@
+DECL|macro|QCUPS_P_H

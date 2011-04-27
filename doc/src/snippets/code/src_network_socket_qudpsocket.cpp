@@ -1,0 +1,2 @@
+DECL|function|initSocket
+DECL|function|readPendingDatagrams

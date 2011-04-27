@@ -1,0 +1,12 @@
+DECL|function|AddRef
+DECL|function|Clone
+DECL|function|Next
+DECL|function|QOleEnumFmtEtc
+DECL|function|QOleEnumFmtEtc
+DECL|function|QueryInterface
+DECL|function|Release
+DECL|function|Reset
+DECL|function|Skip
+DECL|function|copyFormatEtc
+DECL|function|isNull
+DECL|function|~QOleEnumFmtEtc

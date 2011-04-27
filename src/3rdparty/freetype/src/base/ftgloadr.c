@@ -1,0 +1,14 @@
+DECL|function|FT_BASE_DEF
+DECL|function|FT_BASE_DEF
+DECL|function|FT_BASE_DEF
+DECL|function|FT_BASE_DEF
+DECL|function|FT_BASE_DEF
+DECL|function|FT_GlyphLoader_Add
+DECL|function|FT_GlyphLoader_Adjust_Points
+DECL|function|FT_GlyphLoader_Adjust_Subglyphs
+DECL|function|FT_GlyphLoader_Done
+DECL|function|FT_GlyphLoader_Prepare
+DECL|function|FT_GlyphLoader_Reset
+DECL|function|FT_GlyphLoader_Rewind
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

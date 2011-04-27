@@ -1,0 +1,9 @@
+DECL|class|tst_QGLBuffer
+DECL|function|bufferSharing
+DECL|function|indexBuffer
+DECL|function|indexBuffer_data
+DECL|function|testBuffer
+DECL|function|tst_QGLBuffer
+DECL|function|vertexBuffer
+DECL|function|vertexBuffer_data
+DECL|function|~tst_QGLBuffer

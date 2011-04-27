@@ -1,0 +1,4 @@
+DECL|class|tst_QNetworkAccessManager
+DECL|function|networkAccessible
+DECL|function|tst_QNetworkAccessManager
+DECL|variable|NetworkAccessibility

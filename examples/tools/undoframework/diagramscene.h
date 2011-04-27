@@ -1,0 +1,4 @@
+DECL|macro|DIAGRAMSCENE_H
+DECL|variable|DiagramItem
+DECL|variable|QGraphicsSceneDragDropEvent
+DECL|variable|QGraphicsViewItem

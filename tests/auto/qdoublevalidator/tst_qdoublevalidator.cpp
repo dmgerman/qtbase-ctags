@@ -1,0 +1,11 @@
+DECL|class|tst_QDoubleValidator
+DECL|function|validate
+DECL|function|validateIntEquiv
+DECL|function|validateIntEquiv_data
+DECL|function|validateThouSep
+DECL|function|validateThouSep_data
+DECL|function|validate_data
+DECL|macro|ACC
+DECL|macro|INV
+DECL|macro|ITM
+DECL|variable|State

@@ -1,0 +1,2 @@
+DECL|macro|QRADIOBUTTON_H
+DECL|variable|QStyleOptionButton

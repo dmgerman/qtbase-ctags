@@ -1,0 +1,12 @@
+DECL|class|AppendText
+DECL|function|AppendText
+DECL|function|mergeWith
+DECL|function|redo
+DECL|function|undo
+DECL|member|m_document
+DECL|member|m_text
+DECL|variable|command1
+DECL|variable|command2
+DECL|variable|command3
+DECL|variable|insertRed
+DECL|variable|insertRed

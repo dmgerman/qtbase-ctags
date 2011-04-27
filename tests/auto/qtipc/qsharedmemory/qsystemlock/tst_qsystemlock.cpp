@@ -1,0 +1,16 @@
+DECL|class|tst_QSystemLock
+DECL|function|basicLock
+DECL|function|cleanup
+DECL|function|complexLock
+DECL|function|init
+DECL|function|key
+DECL|function|key_data
+DECL|function|lockModes
+DECL|function|processes
+DECL|function|processes_data
+DECL|function|sucessive
+DECL|function|tst_QSystemLock
+DECL|function|~tst_QSystemLock
+DECL|macro|EXISTING_SHARE
+DECL|macro|SRCDIR
+DECL|member|existingLock

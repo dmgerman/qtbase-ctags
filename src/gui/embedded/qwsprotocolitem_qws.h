@@ -1,0 +1,11 @@
+DECL|function|QWSProtocolItem
+DECL|macro|QWSPROTOCOLITEM_QWS_H
+DECL|macro|QWS_PROTOCOL_ITEM_SIZE
+DECL|member|bytesRead
+DECL|member|deleteRaw
+DECL|member|rawDataPtr
+DECL|member|rawLen
+DECL|member|simpleDataPtr
+DECL|member|simpleLen
+DECL|member|type
+DECL|struct|QWSProtocolItem

@@ -1,0 +1,13 @@
+DECL|function|body
+DECL|function|md4_final
+DECL|function|md4_init
+DECL|function|md4_update
+DECL|macro|F
+DECL|macro|F
+DECL|macro|G
+DECL|macro|G
+DECL|macro|GET
+DECL|macro|H
+DECL|macro|H
+DECL|macro|SET
+DECL|macro|STEP

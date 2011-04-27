@@ -1,0 +1,2 @@
+DECL|macro|JCOPYRIGHT
+DECL|macro|JVERSION

@@ -1,0 +1,2 @@
+DECL|function|QItemEditorCreator
+DECL|macro|QITEMEDITORFACTORY_H

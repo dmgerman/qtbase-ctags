@@ -1,0 +1,1 @@
+DECL|macro|QWSLOCK_P_H

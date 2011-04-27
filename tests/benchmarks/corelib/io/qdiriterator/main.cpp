@@ -1,0 +1,10 @@
+DECL|class|tst_qdiriterator
+DECL|function|data
+DECL|function|diriterator
+DECL|function|diriterator_data
+DECL|function|fsiterator
+DECL|function|fsiterator_data
+DECL|function|posix
+DECL|function|posix_data
+DECL|function|posix_helper
+DECL|function|posix_helper

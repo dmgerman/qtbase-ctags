@@ -1,0 +1,2 @@
+DECL|macro|QPRINTPREVIEWDIALOG_H
+DECL|variable|QPrintPreviewDialogPrivate

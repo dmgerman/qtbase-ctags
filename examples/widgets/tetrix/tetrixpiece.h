@@ -1,0 +1,10 @@
+DECL|enumerator|LShape
+DECL|enumerator|LineShape
+DECL|enumerator|MirroredLShape
+DECL|enumerator|NoShape
+DECL|enumerator|SShape
+DECL|enumerator|SquareShape
+DECL|enumerator|TShape
+DECL|enumerator|ZShape
+DECL|enum|TetrixShape
+DECL|macro|TETRIXPIECE_H

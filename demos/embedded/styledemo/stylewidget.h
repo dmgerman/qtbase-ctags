@@ -1,0 +1,1 @@
+DECL|macro|STYLEWIDGET_H

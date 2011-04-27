@@ -1,0 +1,2 @@
+DECL|macro|QDBUSMESSAGE_P_H
+DECL|variable|QDBusConnectionPrivate

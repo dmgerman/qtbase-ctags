@@ -1,0 +1,11 @@
+DECL|function|QPropertyAssignment
+DECL|function|QPropertyAssignment
+DECL|macro|QSTATE_P_H
+DECL|member|explicitlySet
+DECL|member|object
+DECL|member|propertyName
+DECL|member|value
+DECL|struct|QPropertyAssignment
+DECL|variable|QAbstractTransition
+DECL|variable|QHistoryState
+DECL|variable|QState

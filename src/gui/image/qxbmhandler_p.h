@@ -1,0 +1,1 @@
+DECL|macro|QXBMHANDLER_P_H

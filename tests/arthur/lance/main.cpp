@@ -1,0 +1,10 @@
+DECL|function|createLabel
+DECL|function|displayCommands
+DECL|function|main
+DECL|function|printHelp
+DECL|function|runInteractive
+DECL|member|format
+DECL|member|name
+DECL|variable|imageFormats
+DECL|variable|interactive_widget
+DECL|variable|qt_show_painter_debug_output

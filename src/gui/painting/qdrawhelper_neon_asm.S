@@ -1,0 +1,3 @@
+DECL|label|blend_8_pixels_argb32_on_rgb16_neon
+DECL|label|blend_8_pixels_rgb16_on_rgb16_neon
+DECL|label|qt_rotate90_16_neon

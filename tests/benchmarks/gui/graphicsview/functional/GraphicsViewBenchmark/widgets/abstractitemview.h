@@ -1,0 +1,2 @@
+DECL|macro|ABSTRACTITEMVIEW_H
+DECL|variable|QItemSelectionModel

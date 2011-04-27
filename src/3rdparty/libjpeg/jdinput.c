@@ -1,0 +1,14 @@
+DECL|function|consume_markers
+DECL|function|finish_input_pass
+DECL|function|initial_setup
+DECL|function|jinit_input_controller
+DECL|function|jpeg_core_output_dimensions
+DECL|function|latch_quant_tables
+DECL|function|per_scan_setup
+DECL|function|reset_input_controller
+DECL|function|start_input_pass
+DECL|macro|JPEG_INTERNALS
+DECL|member|inheaders
+DECL|member|pub
+DECL|typedef|my_input_controller
+DECL|typedef|my_inputctl_ptr

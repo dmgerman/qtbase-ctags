@@ -1,0 +1,2 @@
+DECL|function|FT_GlyphSlot_Embolden
+DECL|function|FT_GlyphSlot_Oblique

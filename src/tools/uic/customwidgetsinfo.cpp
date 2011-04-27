@@ -1,0 +1,9 @@
+DECL|function|CustomWidgetsInfo
+DECL|function|acceptCustomWidget
+DECL|function|acceptCustomWidgets
+DECL|function|acceptUI
+DECL|function|customWidgetAddPageMethod
+DECL|function|customWidgetScript
+DECL|function|extends
+DECL|function|isCustomWidgetContainer
+DECL|function|realClassName

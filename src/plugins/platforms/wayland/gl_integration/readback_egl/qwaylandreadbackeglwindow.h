@@ -1,0 +1,2 @@
+DECL|macro|QWAYLANDREADBACKEGLWINDOW_H
+DECL|variable|QWaylandReadbackEglContext

@@ -1,0 +1,1 @@
+DECL|macro|QTEXTCURSOR_P_H

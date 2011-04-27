@@ -1,0 +1,14 @@
+DECL|function|perp
+DECL|function|perp
+DECL|function|pick
+DECL|function|pick
+DECL|function|pick
+DECL|function|rperp
+DECL|function|rperp
+DECL|function|rpick
+DECL|function|rpick
+DECL|macro|QTOOLBARAREALAYOUT_P_H
+DECL|variable|QLayoutItem
+DECL|variable|QMainWindow
+DECL|variable|QStyleOptionToolBar
+DECL|variable|QToolBar

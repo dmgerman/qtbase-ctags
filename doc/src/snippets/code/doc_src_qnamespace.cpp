@@ -1,0 +1,6 @@
+DECL|enumerator|CriticalEventPriority
+DECL|enumerator|IdleProcessingDoneEventPriority
+DECL|enumerator|ImportantEventPriority
+DECL|enumerator|MoreImportantEventPriority
+DECL|enumerator|StatusEventPriority
+DECL|enum|CustomEventPriority

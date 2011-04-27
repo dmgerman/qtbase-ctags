@@ -1,0 +1,3 @@
+DECL|macro|QDYNAMICTOOLBARSEPARATOR_P_H
+DECL|variable|QStyleOption
+DECL|variable|QToolBar

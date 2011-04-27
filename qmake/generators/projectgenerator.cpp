@@ -1,0 +1,9 @@
+DECL|function|ProjectGenerator
+DECL|function|addConfig
+DECL|function|addFile
+DECL|function|fixPathToQmake
+DECL|function|getWritableVar
+DECL|function|init
+DECL|function|openOutput
+DECL|function|project_builtin_regx
+DECL|function|writeMakefile

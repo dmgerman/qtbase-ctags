@@ -1,0 +1,11 @@
+DECL|function|MainWindow
+DECL|function|about
+DECL|function|addBox
+DECL|function|addTriangle
+DECL|function|createActions
+DECL|function|createMenus
+DECL|function|createUndoView
+DECL|function|deleteItem
+DECL|function|itemMenuAboutToHide
+DECL|function|itemMenuAboutToShow
+DECL|function|itemMoved

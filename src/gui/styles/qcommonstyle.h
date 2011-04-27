@@ -1,0 +1,1 @@
+DECL|macro|QCOMMONSTYLE_H

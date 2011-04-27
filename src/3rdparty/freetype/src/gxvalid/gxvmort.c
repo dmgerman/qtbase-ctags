@@ -1,0 +1,8 @@
+DECL|function|gxv_mort_chain_validate
+DECL|function|gxv_mort_coverage_validate
+DECL|function|gxv_mort_feature_validate
+DECL|function|gxv_mort_featurearray_validate
+DECL|function|gxv_mort_subtables_validate
+DECL|function|gxv_mort_validate
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

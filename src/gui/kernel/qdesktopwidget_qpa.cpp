@@ -1,0 +1,12 @@
+DECL|function|QDesktopWidget
+DECL|function|availableGeometry
+DECL|function|isVirtualDesktop
+DECL|function|numScreens
+DECL|function|primaryScreen
+DECL|function|resizeEvent
+DECL|function|screen
+DECL|function|screenGeometry
+DECL|function|screenNumber
+DECL|function|screenNumber
+DECL|function|updateScreenList
+DECL|function|~QDesktopWidget

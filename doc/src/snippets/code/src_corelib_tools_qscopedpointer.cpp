@@ -1,0 +1,10 @@
+DECL|class|MyClass
+DECL|function|cleanup
+DECL|function|myFunction
+DECL|function|myFunction
+DECL|function|~MyClass
+DECL|member|privatePtr
+DECL|struct|ScopedPointerCustomDeleter
+DECL|variable|p
+DECL|variable|p
+DECL|variable|p

@@ -1,0 +1,23 @@
+DECL|class|QColormapPrivate
+DECL|function|QColormap
+DECL|function|QColormap
+DECL|function|QColormapPrivate
+DECL|function|cleanup
+DECL|function|colorAt
+DECL|function|colormap
+DECL|function|depth
+DECL|function|hPal
+DECL|function|initialize
+DECL|function|instance
+DECL|function|mode
+DECL|function|operator =
+DECL|function|pixel
+DECL|function|size
+DECL|function|~QColormap
+DECL|member|depth
+DECL|member|hpal
+DECL|member|mode
+DECL|member|numcolors
+DECL|member|palette
+DECL|member|ref
+DECL|variable|screenMap

@@ -1,0 +1,5 @@
+DECL|function|gxv_mort_subtable_type0_entry_validate
+DECL|function|gxv_mort_subtable_type0_validate
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|variable|GXV_Mort_IndicScript_Msg

@@ -1,0 +1,6 @@
+DECL|function|bindToDynamicTexture
+DECL|function|cleanup
+DECL|function|generateDynamicTexture
+DECL|function|hasOpenGLPbuffers
+DECL|function|init
+DECL|function|releaseFromDynamicTexture

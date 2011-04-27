@@ -1,0 +1,15 @@
+DECL|function|qt_scale_image_16bit
+DECL|function|qt_scale_image_32bit
+DECL|function|qt_transform_image
+DECL|function|qt_transform_image_rasterize
+DECL|macro|QBLENDFUNCTIONS_P_H
+DECL|member|u
+DECL|member|v
+DECL|member|x
+DECL|member|y
+DECL|struct|QTransformImageVertex
+DECL|variable|DestT
+DECL|variable|DestT
+DECL|variable|SRC
+DECL|variable|SrcT
+DECL|variable|SrcT

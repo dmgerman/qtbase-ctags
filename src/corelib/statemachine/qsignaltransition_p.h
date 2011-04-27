@@ -1,0 +1,2 @@
+DECL|macro|QSIGNALTRANSITION_P_H
+DECL|variable|QSignalTransition

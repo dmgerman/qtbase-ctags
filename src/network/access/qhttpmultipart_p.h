@@ -1,0 +1,3 @@
+DECL|macro|QHTTPMULTIPART_P_H
+DECL|variable|QHttpMultiPartPrivate
+DECL|variable|QSharedData

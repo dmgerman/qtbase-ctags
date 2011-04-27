@@ -1,0 +1,6 @@
+DECL|macro|__FTCCBACK_H__
+DECL|variable|ftc_cache_done
+DECL|variable|ftc_gcache_done
+DECL|variable|ftc_gnode_compare
+DECL|variable|ftc_inode_weight
+DECL|variable|ftc_snode_weight

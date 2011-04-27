@@ -1,0 +1,1 @@
+DECL|macro|RENDERAREA_H

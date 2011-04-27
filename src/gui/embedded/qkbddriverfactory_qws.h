@@ -1,0 +1,2 @@
+DECL|macro|QKBDDRIVERFACTORY_QWS_H
+DECL|variable|QWSKeyboardHandler

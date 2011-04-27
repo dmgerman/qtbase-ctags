@@ -1,0 +1,6 @@
+DECL|function|bytearray_ptr_ctor_snippet
+DECL|function|main
+DECL|function|main_snippet
+DECL|function|read_datastream_snippets
+DECL|function|setBuffer_snippet
+DECL|function|write_datastream_snippets

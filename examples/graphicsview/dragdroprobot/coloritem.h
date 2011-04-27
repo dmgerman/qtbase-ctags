@@ -1,0 +1,1 @@
+DECL|macro|COLORITEM_H

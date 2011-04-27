@@ -1,0 +1,1 @@
+DECL|macro|QIMAGESCALE_P_H

@@ -1,0 +1,1 @@
+DECL|macro|QDATABUFFER_P_H

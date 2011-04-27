@@ -1,0 +1,14 @@
+DECL|class|Child
+DECL|class|TopLevel
+DECL|function|Child
+DECL|function|TopLevel
+DECL|function|buttonMoveClicked
+DECL|function|buttonMoveResizeClicked
+DECL|function|buttonResizeClicked
+DECL|function|buttonScrollClicked
+DECL|function|main
+DECL|member|moveResizebutton
+DECL|member|movebutton
+DECL|member|resizeButton
+DECL|member|scrollbutton
+DECL|variable|c

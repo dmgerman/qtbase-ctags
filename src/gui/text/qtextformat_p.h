@@ -1,0 +1,1 @@
+DECL|macro|QTEXTFORMAT_P_H

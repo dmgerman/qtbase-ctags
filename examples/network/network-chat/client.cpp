@@ -1,0 +1,9 @@
+DECL|function|Client
+DECL|function|connectionError
+DECL|function|disconnected
+DECL|function|hasConnection
+DECL|function|newConnection
+DECL|function|nickName
+DECL|function|readyForUse
+DECL|function|removeConnection
+DECL|function|sendMessage

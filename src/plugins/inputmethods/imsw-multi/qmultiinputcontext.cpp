@@ -1,0 +1,16 @@
+DECL|function|QMultiInputContext
+DECL|function|actions
+DECL|function|changeSlave
+DECL|function|filterEvent
+DECL|function|focusWidget
+DECL|function|font
+DECL|function|identifierName
+DECL|function|isComposing
+DECL|function|language
+DECL|function|mouseHandler
+DECL|function|reset
+DECL|function|setFocusWidget
+DECL|function|update
+DECL|function|widgetDestroyed
+DECL|function|x11FilterEvent
+DECL|function|~QMultiInputContext

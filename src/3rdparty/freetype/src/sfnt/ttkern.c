@@ -1,0 +1,8 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|tt_face_done_kern
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|macro|TT_KERN_INDEX
+DECL|macro|TT_KERN_INDEX
+DECL|macro|TT_KERN_INDEX

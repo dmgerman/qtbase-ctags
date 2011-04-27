@@ -1,0 +1,2 @@
+DECL|macro|QEVENTDISPATCHER_QPA_P_H
+DECL|variable|QEventDispatcherQPAPrivate

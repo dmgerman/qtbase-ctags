@@ -1,0 +1,12 @@
+DECL|class|QKeyEventTransitionPrivate
+DECL|function|QKeyEventTransition
+DECL|function|QKeyEventTransition
+DECL|function|QKeyEventTransitionPrivate
+DECL|function|eventTest
+DECL|function|key
+DECL|function|modifierMask
+DECL|function|onTransition
+DECL|function|setKey
+DECL|function|setModifierMask
+DECL|function|~QKeyEventTransition
+DECL|member|transition

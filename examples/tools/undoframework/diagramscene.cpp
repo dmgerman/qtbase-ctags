@@ -1,0 +1,3 @@
+DECL|function|DiagramScene
+DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent

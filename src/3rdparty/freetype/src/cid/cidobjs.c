@@ -1,0 +1,12 @@
+DECL|function|FT_LOCAL
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|cid_driver_done
+DECL|function|cid_face_done
+DECL|function|cid_size_done
+DECL|function|cid_size_get_globals_funcs
+DECL|function|cid_slot_done
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

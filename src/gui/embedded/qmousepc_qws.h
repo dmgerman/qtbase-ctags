@@ -1,0 +1,1 @@
+DECL|macro|QMOUSEPC_QWS_H

@@ -1,0 +1,15 @@
+DECL|function|GLWidget
+DECL|function|initializeGL
+DECL|function|makeObject
+DECL|function|minimumSizeHint
+DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent
+DECL|function|paintGL
+DECL|function|resizeGL
+DECL|function|rotateBy
+DECL|function|setClearColor
+DECL|function|sizeHint
+DECL|function|~GLWidget
+DECL|macro|PROGRAM_TEXCOORD_ATTRIBUTE
+DECL|macro|PROGRAM_VERTEX_ATTRIBUTE

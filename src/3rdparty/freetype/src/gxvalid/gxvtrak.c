@@ -1,0 +1,11 @@
+DECL|function|gxv_trak_trackData_validate
+DECL|function|gxv_trak_trackTable_validate
+DECL|function|gxv_trak_validate
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|macro|GXV_TRAK_DATA
+DECL|member|trackValueOffset_max
+DECL|member|trackValueOffset_min
+DECL|struct|GXV_trak_DataRec_
+DECL|typedef|GXV_trak_Data
+DECL|typedef|GXV_trak_DataRec

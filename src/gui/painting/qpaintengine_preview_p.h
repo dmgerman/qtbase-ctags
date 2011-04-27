@@ -1,0 +1,3 @@
+DECL|macro|QPREVIEWPAINTENGINE_P_H
+DECL|variable|QPaintEngine
+DECL|variable|QPreviewPaintEnginePrivate

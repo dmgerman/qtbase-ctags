@@ -1,0 +1,14 @@
+DECL|function|QPpmHandler
+DECL|function|canRead
+DECL|function|canRead
+DECL|function|name
+DECL|function|option
+DECL|function|read
+DECL|function|readHeader
+DECL|function|read_pbm_body
+DECL|function|read_pbm_header
+DECL|function|read_pbm_int
+DECL|function|setOption
+DECL|function|supportsOption
+DECL|function|write
+DECL|function|write_pbm_image

@@ -1,0 +1,17 @@
+DECL|class|tst_QGlobal
+DECL|function|checkptr
+DECL|function|connect_callback
+DECL|function|disconnect_callback
+DECL|function|for_each
+DECL|function|qInternalCallbacks
+DECL|function|qIsNull
+DECL|function|qassert
+DECL|function|qtry
+DECL|function|reset
+DECL|member|receiver
+DECL|member|sender
+DECL|member|signal
+DECL|member|slot
+DECL|member|type
+DECL|struct|ConnectInfo
+DECL|variable|connect_info

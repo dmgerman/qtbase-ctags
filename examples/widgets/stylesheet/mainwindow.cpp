@@ -1,0 +1,3 @@
+DECL|function|MainWindow
+DECL|function|on_aboutAction_triggered
+DECL|function|on_editStyleAction_triggered

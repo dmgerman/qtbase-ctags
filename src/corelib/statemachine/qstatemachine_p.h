@@ -1,0 +1,12 @@
+DECL|macro|QSTATEMACHINE_P_H
+DECL|variable|QAbstractAnimation
+DECL|variable|QAbstractState
+DECL|variable|QAbstractTransition
+DECL|variable|QEvent
+DECL|variable|QEventTransition
+DECL|variable|QFinalState
+DECL|variable|QHistoryState
+DECL|variable|QSignalEventGenerator
+DECL|variable|QSignalTransition
+DECL|variable|QState
+DECL|variable|QStateMachine

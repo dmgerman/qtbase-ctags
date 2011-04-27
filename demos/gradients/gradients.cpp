@@ -1,0 +1,17 @@
+DECL|function|GradientEditor
+DECL|function|GradientRenderer
+DECL|function|GradientWidget
+DECL|function|ShadeWidget
+DECL|function|colorAt
+DECL|function|generateShade
+DECL|function|mousePressEvent
+DECL|function|paint
+DECL|function|paintEvent
+DECL|function|points
+DECL|function|pointsUpdated
+DECL|function|setDefault
+DECL|function|setGradientStops
+DECL|function|setGradientStops
+DECL|function|setGradientStops
+DECL|function|set_shade_points
+DECL|function|x_less_than

@@ -1,0 +1,15 @@
+DECL|function|GLWidget
+DECL|function|createBubbles
+DECL|function|createGeometry
+DECL|function|extrude
+DECL|function|initializeGL
+DECL|function|paintGL
+DECL|function|paintQtLogo
+DECL|function|paintTexturedCube
+DECL|function|quad
+DECL|function|setLogo
+DECL|function|setScaling
+DECL|function|setTexture
+DECL|function|showBubbles
+DECL|function|~GLWidget
+DECL|variable|bubbleNum

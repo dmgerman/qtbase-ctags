@@ -1,0 +1,11 @@
+DECL|function|atEnd
+DECL|function|buffer
+DECL|function|bytesAvailable
+DECL|function|bytesToWrite
+DECL|function|isSequential
+DECL|function|seek
+DECL|macro|QTRANSPORTAUTH_QWS_H
+DECL|variable|QIODevice
+DECL|variable|QMutex
+DECL|variable|QTransportAuthPrivate
+DECL|variable|QWSClient

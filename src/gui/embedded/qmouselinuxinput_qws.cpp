@@ -1,0 +1,15 @@
+DECL|class|QWSLinuxInputMousePrivate
+DECL|function|QWSLinuxInputMouseHandler
+DECL|function|QWSLinuxInputMousePrivate
+DECL|function|enable
+DECL|function|readMouseData
+DECL|function|resume
+DECL|function|suspend
+DECL|function|~QWSLinuxInputMouseHandler
+DECL|function|~QWSLinuxInputMousePrivate
+DECL|member|m_buttons
+DECL|member|m_fd
+DECL|member|m_handler
+DECL|member|m_notify
+DECL|member|m_x
+DECL|member|m_y

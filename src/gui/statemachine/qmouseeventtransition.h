@@ -1,0 +1,2 @@
+DECL|macro|QMOUSEEVENTTRANSITION_H
+DECL|variable|QPainterPath

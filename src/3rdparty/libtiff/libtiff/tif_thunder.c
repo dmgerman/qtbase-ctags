@@ -1,0 +1,14 @@
+DECL|function|TIFFInitThunderScan
+DECL|function|ThunderDecode
+DECL|function|ThunderDecodeRow
+DECL|macro|DELTA2_SKIP
+DECL|macro|DELTA3_SKIP
+DECL|macro|SETPIXEL
+DECL|macro|THUNDER_2BITDELTAS
+DECL|macro|THUNDER_3BITDELTAS
+DECL|macro|THUNDER_CODE
+DECL|macro|THUNDER_DATA
+DECL|macro|THUNDER_RAW
+DECL|macro|THUNDER_RUN
+DECL|variable|threebitdeltas
+DECL|variable|twobitdeltas

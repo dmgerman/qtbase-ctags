@@ -1,0 +1,12 @@
+DECL|class|QSemaphorePrivate
+DECL|function|QSemaphore
+DECL|function|QSemaphorePrivate
+DECL|function|acquire
+DECL|function|available
+DECL|function|release
+DECL|function|tryAcquire
+DECL|function|tryAcquire
+DECL|function|~QSemaphore
+DECL|member|avail
+DECL|member|cond
+DECL|member|mutex

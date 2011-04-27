@@ -1,0 +1,2 @@
+DECL|macro|FORMBUILDER_H
+DECL|variable|QDesignerCustomWidgetInterface

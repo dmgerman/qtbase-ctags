@@ -1,0 +1,20 @@
+DECL|function|State
+DECL|function|is_ident_char
+DECL|function|is_ident_start
+DECL|function|main
+DECL|function|makeTable
+DECL|function|newState
+DECL|function|newState
+DECL|function|operator ==
+DECL|member|defchar
+DECL|member|defnext
+DECL|member|ident
+DECL|member|lexem
+DECL|member|next
+DECL|member|nextindex
+DECL|member|token
+DECL|member|token
+DECL|struct|Keyword
+DECL|struct|State
+DECL|variable|keywords
+DECL|variable|pp_keywords

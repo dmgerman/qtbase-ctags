@@ -1,0 +1,1 @@
+DECL|macro|QEUCKRCODEC_H

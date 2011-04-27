@@ -1,0 +1,9 @@
+DECL|class|tst_QSidebar
+DECL|function|addUrls
+DECL|function|cleanup
+DECL|function|goToUrl
+DECL|function|init
+DECL|function|selectUrls
+DECL|function|setUrls
+DECL|function|tst_QSidebar
+DECL|function|~tst_QSidebar

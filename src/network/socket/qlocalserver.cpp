@@ -1,0 +1,16 @@
+DECL|function|QLocalServer
+DECL|function|close
+DECL|function|errorString
+DECL|function|fullServerName
+DECL|function|hasPendingConnections
+DECL|function|incomingConnection
+DECL|function|isListening
+DECL|function|listen
+DECL|function|maxPendingConnections
+DECL|function|nextPendingConnection
+DECL|function|removeServer
+DECL|function|serverError
+DECL|function|serverName
+DECL|function|setMaxPendingConnections
+DECL|function|waitForNewConnection
+DECL|function|~QLocalServer

@@ -1,0 +1,3 @@
+DECL|macro|BASELINESERVER_H
+DECL|macro|HEARTBEAT
+DECL|macro|MetadataFileExt

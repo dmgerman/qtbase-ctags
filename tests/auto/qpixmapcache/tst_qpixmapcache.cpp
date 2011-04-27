@@ -1,0 +1,17 @@
+DECL|class|tst_QPixmapCache
+DECL|function|cacheLimit
+DECL|function|clear
+DECL|function|find
+DECL|function|getPrivate
+DECL|function|getPrivateRef
+DECL|function|init
+DECL|function|insert
+DECL|function|noLeak
+DECL|function|pixmapKey
+DECL|function|remove
+DECL|function|replace
+DECL|function|setCacheLimit
+DECL|function|tst_QPixmapCache
+DECL|function|~tst_QPixmapCache
+DECL|macro|Q_TEST_QPIXMAPCACHE
+DECL|variable|originalCacheLimit

@@ -1,0 +1,22 @@
+DECL|class|QDBusUnixFileDescriptorPrivate
+DECL|function|QDBusUnixFileDescriptor
+DECL|function|QDBusUnixFileDescriptor
+DECL|function|QDBusUnixFileDescriptor
+DECL|function|QDBusUnixFileDescriptorPrivate
+DECL|function|QDBusUnixFileDescriptorPrivate
+DECL|function|fileDescriptor
+DECL|function|giveFileDescriptor
+DECL|function|giveFileDescriptor
+DECL|function|isSupported
+DECL|function|isSupported
+DECL|function|isValid
+DECL|function|operator =
+DECL|function|setFileDescriptor
+DECL|function|setFileDescriptor
+DECL|function|takeFileDescriptor
+DECL|function|takeFileDescriptor
+DECL|function|~QDBusUnixFileDescriptor
+DECL|function|~QDBusUnixFileDescriptorPrivate
+DECL|function|~QDBusUnixFileDescriptorPrivate
+DECL|function|~QExplicitlySharedDataPointer
+DECL|member|fd

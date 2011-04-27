@@ -1,0 +1,16 @@
+DECL|class|tst_q_func_info
+DECL|function|availableWithoutDebug
+DECL|function|callFunctions
+DECL|function|isOfTypeConstChar
+DECL|function|memberWithArguments
+DECL|function|regularFunction
+DECL|function|regularMember
+DECL|function|staticMember
+DECL|function|staticRegularFunction
+DECL|function|templateFunction
+DECL|function|valueTemplateFunction
+DECL|macro|QT_NO_DEBUG
+DECL|macro|QT_NO_DEBUG
+DECL|macro|QT_NO_DEBUG
+DECL|macro|USE_DEBUG
+DECL|macro|USE_DEBUG

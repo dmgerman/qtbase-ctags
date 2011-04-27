@@ -1,0 +1,5 @@
+DECL|class|QNetworkManagerEnginePlugin
+DECL|function|QNetworkManagerEnginePlugin
+DECL|function|create
+DECL|function|keys
+DECL|function|~QNetworkManagerEnginePlugin

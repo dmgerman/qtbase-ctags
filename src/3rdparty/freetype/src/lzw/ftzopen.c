@@ -1,0 +1,9 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|ft_lzwstate_done
+DECL|function|ft_lzwstate_get_code
+DECL|function|ft_lzwstate_init
+DECL|function|ft_lzwstate_prefix_grow
+DECL|function|ft_lzwstate_refill
+DECL|function|ft_lzwstate_reset
+DECL|function|ft_lzwstate_stack_grow
+DECL|macro|FTLZW_STACK_PUSH

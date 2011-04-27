@@ -1,0 +1,2 @@
+DECL|macro|QGUIEVENTDISPATCHER_GLIB_P_H
+DECL|variable|QGuiEventDispatcherGlibPrivate

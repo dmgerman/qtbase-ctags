@@ -1,0 +1,16 @@
+DECL|class|tst_QImageReader
+DECL|function|cleanup
+DECL|function|init
+DECL|function|readImage
+DECL|function|readImage_data
+DECL|function|setClipRect
+DECL|function|setClipRect_data
+DECL|function|setScaledClipRect
+DECL|function|setScaledClipRect_data
+DECL|function|setScaledSize
+DECL|function|setScaledSize_data
+DECL|function|tst_QImageReader
+DECL|function|~tst_QImageReader
+DECL|member|images
+DECL|typedef|QIntList
+DECL|typedef|QStringMap

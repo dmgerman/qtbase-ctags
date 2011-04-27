@@ -1,0 +1,11 @@
+DECL|function|adjustIterationCount
+DECL|function|adjustMedianCount
+DECL|function|checkpoint
+DECL|function|eventCountingMechanism
+DECL|function|isMeasurementAccepted
+DECL|function|metricType
+DECL|function|start
+DECL|function|stop
+DECL|function|~QBenchmarkEvent
+DECL|member|eventCounter
+DECL|variable|oldEventFilter

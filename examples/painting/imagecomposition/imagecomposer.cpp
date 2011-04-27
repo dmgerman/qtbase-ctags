@@ -1,0 +1,9 @@
+DECL|function|ImageComposer
+DECL|function|addOp
+DECL|function|chooseDestination
+DECL|function|chooseImage
+DECL|function|chooseSource
+DECL|function|currentMode
+DECL|function|imagePos
+DECL|function|loadImage
+DECL|function|recalculateResult

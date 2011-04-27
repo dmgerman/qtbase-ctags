@@ -1,0 +1,6 @@
+DECL|macro|QABSTRACTFILEENGINE_H
+DECL|variable|QAbstractFileEngineIterator
+DECL|variable|QAbstractFileEngineIteratorPrivate
+DECL|variable|QAbstractFileEnginePrivate
+DECL|variable|QFileExtensionResult
+DECL|variable|QVariant

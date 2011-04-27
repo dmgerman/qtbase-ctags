@@ -1,0 +1,2 @@
+DECL|function|availableGeometry
+DECL|function|screenGeometry

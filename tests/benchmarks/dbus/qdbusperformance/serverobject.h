@@ -1,0 +1,1 @@
+DECL|macro|SERVEROBJECT_H

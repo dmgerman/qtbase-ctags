@@ -1,0 +1,13 @@
+DECL|function|QPAGenerator
+DECL|function|align4
+DECL|function|writeInt8
+DECL|function|writeUInt16
+DECL|function|writeUInt32
+DECL|function|writeUInt8
+DECL|macro|QFONTENGINE_QPA_P_H
+DECL|member|dev
+DECL|member|fe
+DECL|struct|QPAGenerator
+DECL|variable|QBuffer
+DECL|variable|QFontEngine
+DECL|variable|QFreetypeFace

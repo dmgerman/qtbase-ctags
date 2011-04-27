@@ -1,0 +1,5 @@
+DECL|macro|QSCROLLER_H
+DECL|variable|QFlickGestureRecognizer
+DECL|variable|QMouseFlickGestureRecognizer
+DECL|variable|QScrollerPrivate
+DECL|variable|QScrollerProperties

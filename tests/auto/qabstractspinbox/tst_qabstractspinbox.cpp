@@ -1,0 +1,10 @@
+DECL|class|MyAbstractSpinBox
+DECL|class|tst_QAbstractSpinBox
+DECL|function|MyAbstractSpinBox
+DECL|function|getSetCheck
+DECL|function|lineEdit
+DECL|function|setLineEdit
+DECL|function|task183108_clear
+DECL|function|task228728_cssselector
+DECL|function|tst_QAbstractSpinBox
+DECL|function|~tst_QAbstractSpinBox

@@ -1,0 +1,1 @@
+DECL|macro|SHAPEDCLOCK_H

@@ -1,0 +1,1 @@
+DECL|macro|QSIGNALMAPPER_H

@@ -1,0 +1,9 @@
+DECL|class|SignalReceiver
+DECL|class|tst_qhostinfo
+DECL|function|SignalReceiver
+DECL|function|init
+DECL|function|lookupSpeed
+DECL|function|lookupSpeed_data
+DECL|function|resultsReady
+DECL|member|neededReceiveCount
+DECL|member|receiveCount

@@ -1,0 +1,9 @@
+DECL|function|QWaylandReadbackGlxIntegration
+DECL|function|createEglWindow
+DECL|function|createGLIntegration
+DECL|function|initialize
+DECL|function|rootWindow
+DECL|function|screen
+DECL|function|waylandDisplay
+DECL|function|xDisplay
+DECL|function|~QWaylandReadbackGlxIntegration

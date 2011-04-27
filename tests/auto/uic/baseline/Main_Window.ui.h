@@ -1,0 +1,1 @@
+DECL|macro|MAIN_WINDOW_H

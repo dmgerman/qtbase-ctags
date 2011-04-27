@@ -1,0 +1,2 @@
+DECL|macro|QPROXYSCREEN_QWS_H
+DECL|variable|QProxyScreenCursorPrivate

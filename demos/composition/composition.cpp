@@ -1,0 +1,15 @@
+DECL|function|CompositionRenderer
+DECL|function|CompositionWidget
+DECL|function|drawBase
+DECL|function|drawSource
+DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent
+DECL|function|nextMode
+DECL|function|paint
+DECL|function|rectangle_around
+DECL|function|setAnimationEnabled
+DECL|function|setCirclePos
+DECL|function|timerEvent
+DECL|function|updateCirclePos
+DECL|variable|animationInterval

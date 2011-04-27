@@ -1,0 +1,12 @@
+DECL|class|CustomIterator
+DECL|class|ZipEngineHandler
+DECL|function|CustomIterator
+DECL|function|beginEntryList
+DECL|function|create
+DECL|function|create
+DECL|function|currentFileName
+DECL|function|hasNext
+DECL|function|main
+DECL|function|next
+DECL|member|entries
+DECL|member|index

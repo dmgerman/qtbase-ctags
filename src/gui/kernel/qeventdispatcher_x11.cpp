@@ -1,0 +1,12 @@
+DECL|class|QEventDispatcherX11Private
+DECL|function|QEventDispatcherX11
+DECL|function|QEventDispatcherX11Private
+DECL|function|closingDown
+DECL|function|flush
+DECL|function|hasPendingEvents
+DECL|function|processEvents
+DECL|function|select
+DECL|function|startingUp
+DECL|function|~QEventDispatcherX11
+DECL|member|queuedUserInputEvents
+DECL|member|xfd

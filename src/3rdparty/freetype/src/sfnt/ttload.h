@@ -1,0 +1,8 @@
+DECL|macro|__TTLOAD_H__
+DECL|variable|tt_face_free_name
+DECL|variable|tt_face_goto_table
+DECL|variable|tt_face_load_any
+DECL|variable|tt_face_load_bhed
+DECL|variable|tt_face_load_cmap
+DECL|variable|tt_face_load_name
+DECL|variable|tt_face_load_post

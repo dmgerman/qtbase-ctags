@@ -1,0 +1,13 @@
+DECL|class|tst_QSql
+DECL|function|basicDriverTest
+DECL|function|cleanup
+DECL|function|cleanupTestCase
+DECL|function|concurrentAccess
+DECL|function|init
+DECL|function|initTestCase
+DECL|function|open
+DECL|function|openErrorRecovery
+DECL|function|openInvalid
+DECL|function|registerSqlDriver
+DECL|function|tst_QSql
+DECL|function|~tst_QSql

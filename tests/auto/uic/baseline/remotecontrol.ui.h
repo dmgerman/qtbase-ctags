@@ -1,0 +1,1 @@
+DECL|macro|REMOTECONTROL_H

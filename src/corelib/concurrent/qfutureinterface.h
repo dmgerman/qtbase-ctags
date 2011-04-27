@@ -1,0 +1,10 @@
+DECL|function|reportFinished
+DECL|function|reportResult
+DECL|function|reportResult
+DECL|function|resultPointer
+DECL|function|resultReference
+DECL|function|results
+DECL|macro|QFUTUREINTERFACE_H
+DECL|variable|QFutureInterfaceBasePrivate
+DECL|variable|QFutureWatcherBase
+DECL|variable|QFutureWatcherBasePrivate

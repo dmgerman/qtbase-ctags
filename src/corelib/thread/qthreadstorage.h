@@ -1,0 +1,10 @@
+DECL|function|QT_MODULE
+DECL|function|qThreadStorage_deleteData
+DECL|function|qThreadStorage_deleteData
+DECL|function|qThreadStorage_localData
+DECL|function|qThreadStorage_localData
+DECL|function|qThreadStorage_localData_const
+DECL|function|qThreadStorage_localData_const
+DECL|function|qThreadStorage_setLocalData
+DECL|function|qThreadStorage_setLocalData
+DECL|macro|QTHREADSTORAGE_H

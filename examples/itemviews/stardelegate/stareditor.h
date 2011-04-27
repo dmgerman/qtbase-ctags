@@ -1,0 +1,1 @@
+DECL|macro|STAREDITOR_H

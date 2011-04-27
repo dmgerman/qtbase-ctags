@@ -1,0 +1,13 @@
+DECL|function|QDashedStrokeProcessor
+DECL|function|arcPoints
+DECL|function|cubicTo
+DECL|function|endCap
+DECL|function|endCapOrJoinClosed
+DECL|function|join
+DECL|function|moveTo
+DECL|function|process
+DECL|function|process
+DECL|function|qdashprocessor_cubicTo
+DECL|function|qdashprocessor_lineTo
+DECL|function|qdashprocessor_moveTo
+DECL|macro|CURVE_FLATNESS

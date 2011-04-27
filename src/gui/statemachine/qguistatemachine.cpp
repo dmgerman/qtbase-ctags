@@ -1,0 +1,5 @@
+DECL|function|cloneEvent
+DECL|function|qRegisterGuiStateMachine
+DECL|function|qUnregisterGuiStateMachine
+DECL|variable|qt_gui_statemachine_handler
+DECL|variable|qt_guistatemachine_last_handler

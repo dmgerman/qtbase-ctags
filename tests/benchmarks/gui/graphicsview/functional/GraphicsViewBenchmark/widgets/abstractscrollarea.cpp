@@ -1,0 +1,17 @@
+DECL|function|AbstractScrollArea
+DECL|function|adjustScrollBars
+DECL|function|event
+DECL|function|horizontalScroll
+DECL|function|horizontalScrollBar
+DECL|function|horizontalScrollBarPolicy
+DECL|function|horizontalScrollStart
+DECL|function|scrollContentsBy
+DECL|function|setHorizontalScrollBarPolicy
+DECL|function|setVerticalScrollBarPolicy
+DECL|function|setViewport
+DECL|function|verticalScroll
+DECL|function|verticalScrollBar
+DECL|function|verticalScrollBarPolicy
+DECL|function|verticalScrollStart
+DECL|function|viewport
+DECL|function|~AbstractScrollArea

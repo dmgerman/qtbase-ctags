@@ -1,0 +1,5 @@
+DECL|function|Q_DECLARE_INTERFACE
+DECL|macro|QDECORATIONPLUGIN_QWS_H
+DECL|macro|QDecorationFactoryInterface_iid
+DECL|member|key
+DECL|struct|QFactoryInterface

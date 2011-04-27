@@ -1,0 +1,1 @@
+DECL|macro|__DUMMYDATAGEN_H__

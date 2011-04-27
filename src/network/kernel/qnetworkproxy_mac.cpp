@@ -1,0 +1,4 @@
+DECL|function|isHostExcluded
+DECL|function|macQueryInternal
+DECL|function|proxyFromDictionary
+DECL|function|systemProxyForQuery

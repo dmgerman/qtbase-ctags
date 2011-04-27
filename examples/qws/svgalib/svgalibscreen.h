@@ -1,0 +1,1 @@
+DECL|macro|SVGALIBSCREEN_H

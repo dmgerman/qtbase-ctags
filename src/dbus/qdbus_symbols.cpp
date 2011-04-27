@@ -1,0 +1,5 @@
+DECL|function|qdbus_loadLibDBus
+DECL|function|qdbus_resolve_conditionally
+DECL|function|qdbus_resolve_me
+DECL|function|qdbus_unloadLibDBus
+DECL|variable|qdbus_libdbus

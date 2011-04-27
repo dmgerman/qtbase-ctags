@@ -1,0 +1,14 @@
+DECL|function|SimpleList
+DECL|function|addItem
+DECL|function|insertItem
+DECL|function|itemAt
+DECL|function|itemCount
+DECL|function|keyPressEvent
+DECL|function|listItemCaching
+DECL|function|setListItemCaching
+DECL|function|setTwoColumns
+DECL|function|takeItem
+DECL|function|twoColumns
+DECL|function|verticalScrollBar
+DECL|function|~SimpleList
+DECL|variable|MinItemWidth

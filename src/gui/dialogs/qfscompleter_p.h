@@ -1,0 +1,1 @@
+DECL|macro|QFSCOMPLETOR_P_H

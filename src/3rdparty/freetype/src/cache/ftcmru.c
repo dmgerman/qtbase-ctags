@@ -1,0 +1,11 @@
+DECL|function|FTC_MruList_Done
+DECL|function|FTC_MruList_Init
+DECL|function|FTC_MruList_Remove
+DECL|function|FTC_MruList_RemoveSelection
+DECL|function|FTC_MruList_Reset
+DECL|function|FTC_MruNode_Prepend
+DECL|function|FTC_MruNode_Remove
+DECL|function|FTC_MruNode_Up
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF

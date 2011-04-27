@@ -1,0 +1,5 @@
+DECL|function|FT_EXPORT_DEF
+DECL|function|FT_EXPORT_DEF
+DECL|function|_tt_check_patents_in_range
+DECL|function|_tt_check_patents_in_table
+DECL|function|_tt_face_check_patents

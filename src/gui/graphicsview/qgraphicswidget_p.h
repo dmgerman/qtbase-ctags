@@ -1,0 +1,3 @@
+DECL|macro|QGRAPHICSWIDGET_P_H
+DECL|variable|QGraphicsLayout
+DECL|variable|QStyleOptionTitleBar

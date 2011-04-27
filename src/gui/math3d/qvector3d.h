@@ -1,0 +1,16 @@
+DECL|function|QVector3D
+DECL|function|QVector3D
+DECL|function|QVector3D
+DECL|function|QVector3D
+DECL|function|QVector3D
+DECL|function|isNull
+DECL|function|setX
+DECL|function|setY
+DECL|function|setZ
+DECL|function|x
+DECL|function|y
+DECL|function|z
+DECL|macro|QVECTOR3D_H
+DECL|member|operator
+DECL|variable|QVector2D
+DECL|variable|QVector4D

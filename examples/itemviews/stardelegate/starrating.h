@@ -1,0 +1,1 @@
+DECL|macro|STARRATING_H

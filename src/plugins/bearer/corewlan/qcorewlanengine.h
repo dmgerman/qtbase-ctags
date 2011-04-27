@@ -1,0 +1,3 @@
+DECL|macro|QCOREWLANENGINE_H
+DECL|variable|QNetworkConfigurationPrivate
+DECL|variable|QScanThread

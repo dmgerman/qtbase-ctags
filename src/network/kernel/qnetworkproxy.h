@@ -1,0 +1,3 @@
+DECL|macro|QNETWORKPROXY_H
+DECL|variable|QNetworkProxyPrivate
+DECL|variable|QNetworkProxyQueryPrivate

@@ -1,0 +1,9 @@
+DECL|function|geometry_sys
+DECL|function|install_sys
+DECL|function|isSystemTrayAvailable_sys
+DECL|function|remove_sys
+DECL|function|showMessage_sys
+DECL|function|supportsMessages_sys
+DECL|function|updateIcon_sys
+DECL|function|updateMenu_sys
+DECL|function|updateToolTip_sys

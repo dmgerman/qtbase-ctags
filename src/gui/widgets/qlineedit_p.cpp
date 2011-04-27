@@ -1,0 +1,16 @@
+DECL|function|_q_completionHighlighted
+DECL|function|_q_cursorPositionChanged
+DECL|function|_q_editFocusChange
+DECL|function|_q_handleWindowActivate
+DECL|function|_q_selectionChanged
+DECL|function|_q_textEdited
+DECL|function|_q_updateNeeded
+DECL|function|adjustedContentsRect
+DECL|function|adjustedControlRect
+DECL|function|cursorRect
+DECL|function|drag
+DECL|function|init
+DECL|function|sendMouseEventToInputContext
+DECL|function|setCursorVisible
+DECL|function|updatePasswordEchoEditing
+DECL|function|xToPos

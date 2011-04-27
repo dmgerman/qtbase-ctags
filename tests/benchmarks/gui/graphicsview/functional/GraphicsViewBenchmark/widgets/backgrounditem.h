@@ -1,0 +1,2 @@
+DECL|macro|__BACKGROUNDITEM_H__
+DECL|variable|QGraphicsWidget

@@ -1,0 +1,1 @@
+DECL|macro|QCOCOAWINDOW_H

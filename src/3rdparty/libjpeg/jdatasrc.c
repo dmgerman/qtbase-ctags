@@ -1,0 +1,15 @@
+DECL|function|METHODDEF
+DECL|function|METHODDEF
+DECL|function|init_mem_source
+DECL|function|init_source
+DECL|function|jpeg_mem_src
+DECL|function|jpeg_stdio_src
+DECL|function|skip_input_data
+DECL|function|term_source
+DECL|macro|INPUT_BUF_SIZE
+DECL|member|buffer
+DECL|member|infile
+DECL|member|pub
+DECL|member|start_of_file
+DECL|typedef|my_source_mgr
+DECL|typedef|my_src_ptr

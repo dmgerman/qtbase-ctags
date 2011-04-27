@@ -1,0 +1,13 @@
+DECL|class|QGLScreenPrivate
+DECL|function|QGLScreen
+DECL|function|chooseContext
+DECL|function|createNativeImage
+DECL|function|createNativePixmap
+DECL|function|createNativeWindow
+DECL|function|options
+DECL|function|setOptions
+DECL|function|setSurfaceFunctions
+DECL|function|surfaceFunctions
+DECL|function|~QGLScreen
+DECL|member|functions
+DECL|member|options

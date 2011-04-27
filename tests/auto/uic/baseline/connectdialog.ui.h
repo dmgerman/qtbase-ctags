@@ -1,0 +1,1 @@
+DECL|macro|CONNECTDIALOG_H

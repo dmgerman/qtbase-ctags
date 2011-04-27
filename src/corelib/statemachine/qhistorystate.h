@@ -1,0 +1,1 @@
+DECL|macro|QHISTORYSTATE_H

@@ -1,0 +1,15 @@
+DECL|function|FT_BASE_DEF
+DECL|function|FT_BASE_DEF
+DECL|function|FT_Message
+DECL|function|FT_Panic
+DECL|function|FT_Trace_Get_Name
+DECL|function|FT_Trace_Get_Name
+DECL|function|ft_debug_init
+DECL|function|ft_debug_init
+DECL|macro|FT_TRACE_DEF
+DECL|macro|FT_TRACE_DEF
+DECL|macro|__NOLIBBASE__
+DECL|macro|__NOLOBALIFACE__
+DECL|macro|__USE_INLINE__
+DECL|variable|ft_trace_levels
+DECL|variable|ft_trace_toggles

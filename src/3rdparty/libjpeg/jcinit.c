@@ -1,0 +1,2 @@
+DECL|function|jinit_compress_master
+DECL|macro|JPEG_INTERNALS

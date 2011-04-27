@@ -1,0 +1,2 @@
+DECL|macro|QBENCHMARKVALGRIND_P_H
+DECL|variable|QStringList

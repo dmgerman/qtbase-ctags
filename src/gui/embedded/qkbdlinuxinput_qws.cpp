@@ -1,0 +1,13 @@
+DECL|class|QWSLinuxInputKbPrivate
+DECL|function|QWSLinuxInputKbPrivate
+DECL|function|QWSLinuxInputKeyboardHandler
+DECL|function|filterInputEvent
+DECL|function|readKeycode
+DECL|function|switchLed
+DECL|function|~QWSLinuxInputKbPrivate
+DECL|function|~QWSLinuxInputKeyboardHandler
+DECL|member|m_fd
+DECL|member|m_handler
+DECL|member|m_orig_kbmode
+DECL|member|m_tty_attr
+DECL|member|m_tty_fd

@@ -1,0 +1,15 @@
+DECL|class|MainWindow
+DECL|class|ScrollArea
+DECL|class|Slider
+DECL|function|MainWindow
+DECL|function|ScrollArea
+DECL|function|Slider
+DECL|function|event
+DECL|function|gestureEvent
+DECL|function|gestureEvent
+DECL|function|main
+DECL|function|viewportEvent
+DECL|member|childScrollArea
+DECL|member|outside
+DECL|member|outside
+DECL|member|rootScrollArea

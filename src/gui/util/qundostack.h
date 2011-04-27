@@ -1,0 +1,3 @@
+DECL|macro|QUNDOSTACK_H
+DECL|variable|QUndoCommandPrivate
+DECL|variable|QUndoStackPrivate

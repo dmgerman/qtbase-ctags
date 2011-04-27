@@ -1,0 +1,5 @@
+DECL|function|TIFFAccessTagMethods
+DECL|function|TIFFGetClientInfo
+DECL|function|TIFFGetTagListCount
+DECL|function|TIFFGetTagListEntry
+DECL|function|TIFFSetClientInfo

@@ -1,0 +1,1 @@
+DECL|macro|WIDGET_H

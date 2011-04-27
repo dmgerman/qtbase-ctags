@@ -1,0 +1,11 @@
+DECL|function|CustomProxy
+DECL|function|boundingRect
+DECL|function|hoverEnterEvent
+DECL|function|hoverLeaveEvent
+DECL|function|itemChange
+DECL|function|paintWindowFrame
+DECL|function|sceneEventFilter
+DECL|function|stateChanged
+DECL|function|updateStep
+DECL|function|zoomIn
+DECL|function|zoomOut

@@ -1,0 +1,2 @@
+DECL|macro|QGRAPHICSLAYOUTITEM_P_H
+DECL|variable|QGraphicsLayoutItem

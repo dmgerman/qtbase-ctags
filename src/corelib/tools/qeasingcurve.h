@@ -1,0 +1,1 @@
+DECL|macro|QEASINGCURVE_H

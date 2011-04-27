@@ -1,0 +1,12 @@
+DECL|function|QWidgetResizeHandler
+DECL|function|doMove
+DECL|function|doResize
+DECL|function|eventFilter
+DECL|function|isActive
+DECL|function|keyPressEvent
+DECL|function|mouseMoveEvent
+DECL|function|setActive
+DECL|function|setMouseCursor
+DECL|macro|RANGE
+DECL|variable|resizeHorizontalDirectionFixed
+DECL|variable|resizeVerticalDirectionFixed

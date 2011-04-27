@@ -1,0 +1,2 @@
+DECL|macro|QWAYLANDREADBACKEGLGLCONTEXT_H
+DECL|variable|QWaylandShmBuffer

@@ -1,0 +1,2 @@
+DECL|function|QAccessibleBridgePlugin
+DECL|function|~QAccessibleBridgePlugin

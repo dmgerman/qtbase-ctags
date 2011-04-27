@@ -1,0 +1,15 @@
+DECL|class|CustomMainAppUi
+DECL|class|CustomMainApplication
+DECL|class|CustomMainDocument
+DECL|class|tst_QS60MainApplication
+DECL|function|CreateAppUiL
+DECL|function|CreateDocumentL
+DECL|function|CustomMainAppUi
+DECL|function|CustomMainDocument
+DECL|function|cleanup
+DECL|function|cleanupTestCase
+DECL|function|customQS60MainApplication
+DECL|function|factory
+DECL|function|init
+DECL|function|initTestCase
+DECL|variable|appUiConstructed

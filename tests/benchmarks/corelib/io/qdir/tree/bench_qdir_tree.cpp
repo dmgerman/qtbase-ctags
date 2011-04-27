@@ -1,0 +1,16 @@
+DECL|class|bench_QDir_tree
+DECL|function|bench_QDir_tree
+DECL|function|fileSearch
+DECL|function|fileSearch_data
+DECL|function|initTestCase
+DECL|function|thousandFiles
+DECL|function|thousandFiles_data
+DECL|function|traverseDirectory
+DECL|member|fs
+DECL|member|musicprefix
+DECL|member|musicsize
+DECL|member|photoprefix
+DECL|member|photosize
+DECL|member|prefix
+DECL|member|sourceprefix
+DECL|member|sourcesize

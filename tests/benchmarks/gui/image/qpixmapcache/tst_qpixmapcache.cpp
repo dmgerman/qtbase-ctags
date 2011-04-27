@@ -1,0 +1,22 @@
+DECL|class|tst_QPixmapCache
+DECL|function|cleanup
+DECL|function|find
+DECL|function|find_data
+DECL|function|init
+DECL|function|insert
+DECL|function|insert_data
+DECL|function|operator ==
+DECL|function|qHash
+DECL|function|styleUseCaseComplexKey
+DECL|function|styleUseCaseComplexKey_data
+DECL|function|tst_QPixmapCache
+DECL|function|~tst_QPixmapCache
+DECL|member|complex
+DECL|member|direction
+DECL|member|height
+DECL|member|key
+DECL|member|palette
+DECL|member|state
+DECL|member|width
+DECL|struct|styleStruct
+DECL|variable|keys

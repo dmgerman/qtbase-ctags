@@ -1,0 +1,15 @@
+DECL|function|QUnifiedToolbarSurface
+DECL|function|beginPaint
+DECL|function|flush
+DECL|function|flush
+DECL|function|imageContext
+DECL|function|insertToolbar
+DECL|function|paintDevice
+DECL|function|prepareBuffer
+DECL|function|recursiveRedirect
+DECL|function|recursiveRemoval
+DECL|function|removeToolbar
+DECL|function|renderToolbar
+DECL|function|setGeometry
+DECL|function|updateToolbarOffset
+DECL|function|~QUnifiedToolbarSurface

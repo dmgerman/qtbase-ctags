@@ -1,0 +1,3 @@
+DECL|macro|QHTTPSOCKETENGINE_P_H
+DECL|variable|QHttpSocketEnginePrivate
+DECL|variable|QTcpSocket

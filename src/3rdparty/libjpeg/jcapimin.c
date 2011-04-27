@@ -1,0 +1,10 @@
+DECL|function|jpeg_CreateCompress
+DECL|function|jpeg_abort_compress
+DECL|function|jpeg_destroy_compress
+DECL|function|jpeg_finish_compress
+DECL|function|jpeg_suppress_tables
+DECL|function|jpeg_write_m_byte
+DECL|function|jpeg_write_m_header
+DECL|function|jpeg_write_marker
+DECL|function|jpeg_write_tables
+DECL|macro|JPEG_INTERNALS

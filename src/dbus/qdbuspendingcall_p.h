@@ -1,0 +1,5 @@
+DECL|macro|QDBUSPENDINGCALL_P_H
+DECL|variable|QDBusConnectionPrivate
+DECL|variable|QDBusPendingCall
+DECL|variable|QDBusPendingCallWatcher
+DECL|variable|QDBusPendingCallWatcherHelper

@@ -1,0 +1,10 @@
+DECL|function|QNetworkConfigurationManager
+DECL|function|allConfigurations
+DECL|function|capabilities
+DECL|function|configurationFromIdentifier
+DECL|function|defaultConfiguration
+DECL|function|isOnline
+DECL|function|qNetworkConfigurationManagerPrivate
+DECL|function|updateConfigurations
+DECL|function|~QNetworkConfigurationManager
+DECL|macro|Q_GLOBAL_STATIC_QAPP_DESTRUCTION

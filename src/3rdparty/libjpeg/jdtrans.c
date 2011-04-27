@@ -1,0 +1,3 @@
+DECL|function|jpeg_read_coefficients
+DECL|function|transdecode_master_selection
+DECL|macro|JPEG_INTERNALS

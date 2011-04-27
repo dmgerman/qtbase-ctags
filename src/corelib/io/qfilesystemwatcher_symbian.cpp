@@ -1,0 +1,14 @@
+DECL|function|DoCancel
+DECL|function|QNotifyChangeEvent
+DECL|function|QSymbianFileSystemWatcherEngine
+DECL|function|RunL
+DECL|function|addNativeListener
+DECL|function|addPaths
+DECL|function|emitPathChanged
+DECL|function|removeNativeListener
+DECL|function|removePaths
+DECL|function|run
+DECL|function|startWatcher
+DECL|function|stop
+DECL|function|~QNotifyChangeEvent
+DECL|function|~QSymbianFileSystemWatcherEngine

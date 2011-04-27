@@ -1,0 +1,4 @@
+DECL|macro|QABSTRACTTEXTDOCUMENTLAYOUT_H
+DECL|variable|QTextBlock
+DECL|variable|QTextFrame
+DECL|variable|QTextObjectInterface

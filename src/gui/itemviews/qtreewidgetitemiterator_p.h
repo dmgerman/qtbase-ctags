@@ -1,0 +1,3 @@
+DECL|macro|QTREEWIDGETITEMITERATOR_P_H
+DECL|variable|QTreeModel
+DECL|variable|QTreeWidgetItem

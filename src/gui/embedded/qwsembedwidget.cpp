@@ -1,0 +1,15 @@
+DECL|class|QWSEmbedWidgetPrivate
+DECL|function|QWSEmbedWidget
+DECL|function|QWSEmbedWidgetPrivate
+DECL|function|changeEvent
+DECL|function|eventFilter
+DECL|function|hideEvent
+DECL|function|moveEvent
+DECL|function|resize
+DECL|function|resizeEvent
+DECL|function|showEvent
+DECL|function|updateWindow
+DECL|function|~QWSEmbedWidget
+DECL|member|embeddedId
+DECL|member|window
+DECL|member|windowId

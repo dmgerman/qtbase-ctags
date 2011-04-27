@@ -1,0 +1,15 @@
+DECL|class|tst_DataTable
+DECL|function|endsWithFailure
+DECL|function|endsWithFailure_data
+DECL|function|failureInMiddle
+DECL|function|failureInMiddle_data
+DECL|function|fiveIsolatedFailures
+DECL|function|fiveIsolatedFailures_data
+DECL|function|fiveTableFailures
+DECL|function|fiveTableFailures_data
+DECL|function|fiveTablePasses
+DECL|function|fiveTablePasses_data
+DECL|function|singleTestFunction1
+DECL|function|singleTestFunction2
+DECL|function|startsWithFailure
+DECL|function|startsWithFailure_data

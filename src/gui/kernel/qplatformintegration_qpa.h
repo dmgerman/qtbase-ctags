@@ -1,0 +1,8 @@
+DECL|macro|QPLATFORMINTEGRATION_H
+DECL|variable|QBlittable
+DECL|variable|QPlatformClipboard
+DECL|variable|QPlatformEventLoopIntegration
+DECL|variable|QPlatformFontDatabase
+DECL|variable|QPlatformNativeInterface
+DECL|variable|QWidget
+DECL|variable|QWindowSurface

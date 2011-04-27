@@ -1,0 +1,2 @@
+DECL|macro|QWAYLANDDRMSURFACE_H
+DECL|variable|QGLFramebufferObject

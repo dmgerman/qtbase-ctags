@@ -1,0 +1,1 @@
+DECL|variable|cp949_icode_to_unicode

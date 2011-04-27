@@ -1,0 +1,16 @@
+DECL|class|MyGLDrawer
+DECL|function|MyGLDrawer
+DECL|function|MyGLWidget
+DECL|function|initializeGL
+DECL|function|paintGL
+DECL|function|resizeGL
+DECL|variable|cx
+DECL|variable|f
+DECL|variable|f
+DECL|variable|f
+DECL|variable|fmt
+DECL|variable|fmt
+DECL|variable|fmt
+DECL|variable|myWidget
+DECL|variable|myWidget
+DECL|variable|myWidget

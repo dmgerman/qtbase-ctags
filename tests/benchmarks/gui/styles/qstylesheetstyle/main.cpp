@@ -1,0 +1,9 @@
+DECL|class|tst_qstylesheetstyle
+DECL|function|buildSimpleWidgets
+DECL|function|empty
+DECL|function|empty_events
+DECL|function|grid
+DECL|function|grid_data
+DECL|function|simple
+DECL|function|simple_events
+DECL|variable|simple_css

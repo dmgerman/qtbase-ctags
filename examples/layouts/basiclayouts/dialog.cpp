@@ -1,0 +1,5 @@
+DECL|function|Dialog
+DECL|function|createFormGroupBox
+DECL|function|createGridGroupBox
+DECL|function|createHorizontalGroupBox
+DECL|function|createMenu

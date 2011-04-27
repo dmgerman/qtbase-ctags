@@ -1,0 +1,2 @@
+DECL|macro|QNETWORKREQUEST_H
+DECL|variable|QNetworkRequestPrivate

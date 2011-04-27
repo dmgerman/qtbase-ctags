@@ -1,0 +1,5 @@
+DECL|function|gxv_mort_subtable_type4_lookupfmt4_transit
+DECL|function|gxv_mort_subtable_type4_lookupval_validate
+DECL|function|gxv_mort_subtable_type4_validate
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

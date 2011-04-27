@@ -1,0 +1,10 @@
+DECL|function|QDirectFbWindow
+DECL|function|glContext
+DECL|function|lower
+DECL|function|raise
+DECL|function|setGeometry
+DECL|function|setOpacity
+DECL|function|setVisible
+DECL|function|setWindowFlags
+DECL|function|winId
+DECL|function|~QDirectFbWindow

@@ -1,0 +1,1 @@
+DECL|macro|CHATDIALOG_H

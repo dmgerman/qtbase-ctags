@@ -1,0 +1,17 @@
+DECL|function|compilerInfo
+DECL|function|cpdir
+DECL|function|detectCompiler
+DECL|function|detectExecutable
+DECL|function|detectQMakeSpec
+DECL|function|execute
+DECL|function|qt_create_commandline
+DECL|function|qt_create_environment
+DECL|function|rmdir
+DECL|function|symbianEpocRoot
+DECL|member|compiler
+DECL|member|compilerStr
+DECL|member|detectedCompiler
+DECL|member|executable
+DECL|member|regKey
+DECL|struct|CompilerInfo
+DECL|variable|compiler_info

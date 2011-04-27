@@ -1,0 +1,13 @@
+DECL|class|QtTestObject
+DECL|class|tst_QSignalMapper
+DECL|function|cleanup
+DECL|function|cleanupTestCase
+DECL|function|init
+DECL|function|initTestCase
+DECL|function|mapped
+DECL|function|myslot
+DECL|function|myslot
+DECL|function|tst_QSignalMapper
+DECL|function|~tst_QSignalMapper
+DECL|member|id
+DECL|member|str

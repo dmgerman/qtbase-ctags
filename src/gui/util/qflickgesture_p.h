@@ -1,0 +1,4 @@
+DECL|macro|QFLICKGESTURE_P_H
+DECL|variable|PressDelayHandler
+DECL|variable|QFlickGesturePrivate
+DECL|variable|QGraphicsItem

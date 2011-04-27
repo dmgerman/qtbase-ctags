@@ -1,0 +1,12 @@
+DECL|function|WriteDeclaration
+DECL|function|acceptAction
+DECL|function|acceptActionGroup
+DECL|function|acceptButtonGroup
+DECL|function|acceptLayout
+DECL|function|acceptSpacer
+DECL|function|acceptUI
+DECL|function|acceptWidget
+DECL|function|closeNameSpaces
+DECL|function|openNameSpaces
+DECL|function|writeScriptContextClass
+DECL|namespace|CPP

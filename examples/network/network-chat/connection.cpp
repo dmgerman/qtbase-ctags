@@ -1,0 +1,17 @@
+DECL|function|Connection
+DECL|function|dataLengthForCurrentDataType
+DECL|function|hasEnoughData
+DECL|function|name
+DECL|function|processData
+DECL|function|processReadyRead
+DECL|function|readDataIntoBuffer
+DECL|function|readProtocolHeader
+DECL|function|sendGreetingMessage
+DECL|function|sendMessage
+DECL|function|sendPing
+DECL|function|setGreetingMessage
+DECL|function|timerEvent
+DECL|variable|PingInterval
+DECL|variable|PongTimeout
+DECL|variable|SeparatorToken
+DECL|variable|TransferTimeout

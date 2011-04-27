@@ -1,0 +1,10 @@
+DECL|function|Q_DECLARE_METATYPE
+DECL|function|Q_DECLARE_METATYPE
+DECL|function|RegisteredType
+DECL|function|operator
+DECL|function|operator
+DECL|macro|INTERFACE_H
+DECL|member|s
+DECL|member|s
+DECL|struct|RegisteredType
+DECL|struct|UnregisteredType

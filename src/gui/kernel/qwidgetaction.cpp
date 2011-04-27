@@ -1,0 +1,11 @@
+DECL|function|QWidgetAction
+DECL|function|createWidget
+DECL|function|createdWidgets
+DECL|function|defaultWidget
+DECL|function|deleteWidget
+DECL|function|event
+DECL|function|eventFilter
+DECL|function|releaseWidget
+DECL|function|requestWidget
+DECL|function|setDefaultWidget
+DECL|function|~QWidgetAction

@@ -1,0 +1,8 @@
+DECL|function|Q_DECLARE_INTERFACE
+DECL|macro|QIMAGEIOHANDLER_H
+DECL|macro|QImageIOHandlerFactoryInterface_iid
+DECL|struct|QFactoryInterface
+DECL|variable|QImageIOHandlerPrivate
+DECL|variable|QRect
+DECL|variable|QSize
+DECL|variable|QVariant

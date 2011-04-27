@@ -1,0 +1,11 @@
+DECL|function|Q_DECLARE_SHARED
+DECL|function|loadFromData
+DECL|function|scroll
+DECL|macro|QPIXMAP_H
+DECL|variable|CFbsBitmap
+DECL|variable|QColor
+DECL|variable|QImageReader
+DECL|variable|QPixmapData
+DECL|variable|QVariant
+DECL|variable|QX11Info
+DECL|variable|RSgImage

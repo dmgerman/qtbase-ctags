@@ -1,0 +1,9 @@
+DECL|function|MainWindow
+DECL|function|findItems
+DECL|function|insertItem
+DECL|function|removeItem
+DECL|function|setupTreeItems
+DECL|function|sortAscending
+DECL|function|sortDescending
+DECL|function|updateMenus
+DECL|function|updateSortItems

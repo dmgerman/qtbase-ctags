@@ -1,0 +1,1 @@
+DECL|macro|q_withNamespace_h

@@ -1,0 +1,6 @@
+DECL|macro|QGRAPHICSSCENEBSPTREE_P_H
+DECL|variable|QGraphicsItem
+DECL|variable|QGraphicsSceneBspTreeVisitor
+DECL|variable|QGraphicsSceneFindItemBspTreeVisitor
+DECL|variable|QGraphicsSceneInsertItemBspTreeVisitor
+DECL|variable|QGraphicsSceneRemoveItemBspTreeVisitor

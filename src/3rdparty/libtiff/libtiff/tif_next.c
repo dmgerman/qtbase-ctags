@@ -1,0 +1,6 @@
+DECL|function|NeXTDecode
+DECL|function|TIFFInitNeXT
+DECL|macro|LITERALROW
+DECL|macro|LITERALSPAN
+DECL|macro|SETPIXEL
+DECL|macro|WHITE

@@ -1,0 +1,4 @@
+DECL|macro|FT_ERR_BASE
+DECL|macro|FT_ERR_PREFIX
+DECL|macro|__FTERRORS_H__
+DECL|macro|__PSHNTERR_H__

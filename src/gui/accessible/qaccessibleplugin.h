@@ -1,0 +1,6 @@
+DECL|function|Q_DECLARE_INTERFACE
+DECL|macro|QACCESSIBLEPLUGIN_H
+DECL|macro|QAccessibleFactoryInterface_iid
+DECL|struct|QFactoryInterface
+DECL|variable|QAccessible
+DECL|variable|QAccessibleInterface

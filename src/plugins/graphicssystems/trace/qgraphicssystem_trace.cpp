@@ -1,0 +1,13 @@
+DECL|class|QTraceWindowSurface
+DECL|function|QTraceGraphicsSystem
+DECL|function|QTraceWindowSurface
+DECL|function|beginPaint
+DECL|function|createPixmapData
+DECL|function|createWindowSurface
+DECL|function|endPaint
+DECL|function|paintDevice
+DECL|function|scroll
+DECL|function|~QTraceWindowSurface
+DECL|member|buffer
+DECL|member|updates
+DECL|member|winId

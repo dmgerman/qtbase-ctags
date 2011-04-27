@@ -1,0 +1,1 @@
+DECL|macro|QBSPTREE_P_H

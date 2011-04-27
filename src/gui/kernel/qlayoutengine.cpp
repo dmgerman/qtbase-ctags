@@ -1,0 +1,11 @@
+DECL|function|fRound
+DECL|function|qGeomCalc
+DECL|function|qSmartMaxSize
+DECL|function|qSmartMaxSize
+DECL|function|qSmartMaxSize
+DECL|function|qSmartMinSize
+DECL|function|qSmartMinSize
+DECL|function|qSmartMinSize
+DECL|function|qSmartSpacing
+DECL|function|toFixed
+DECL|typedef|Fixed64

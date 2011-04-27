@@ -1,0 +1,12 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|T1_Driver_Done
+DECL|function|T1_Face_Done
+DECL|function|T1_GlyphSlot_Done
+DECL|function|T1_Size_Done
+DECL|function|T1_Size_Get_Globals_Funcs
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

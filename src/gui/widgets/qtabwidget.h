@@ -1,0 +1,3 @@
+DECL|macro|QTABWIDGET_H
+DECL|variable|QStyleOptionTabWidgetFrame
+DECL|variable|QTabWidgetPrivate

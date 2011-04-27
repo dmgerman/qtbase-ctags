@@ -1,0 +1,9 @@
+DECL|class|tst_QNetworkCookie
+DECL|function|getterSetter
+DECL|function|parseMultipleCookies
+DECL|function|parseMultipleCookies_data
+DECL|function|parseSingleCookie
+DECL|function|parseSingleCookie_data
+DECL|function|toString
+DECL|function|toString
+DECL|namespace|QTest

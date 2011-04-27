@@ -1,0 +1,10 @@
+DECL|function|otv_Axis_validate
+DECL|function|otv_BASE_validate
+DECL|function|otv_BaseCoord_validate
+DECL|function|otv_BaseScriptList_validate
+DECL|function|otv_BaseScript_validate
+DECL|function|otv_BaseTagList_validate
+DECL|function|otv_BaseValues_validate
+DECL|function|otv_MinMax_validate
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

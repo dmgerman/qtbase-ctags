@@ -1,0 +1,1 @@
+DECL|struct|MyInterface

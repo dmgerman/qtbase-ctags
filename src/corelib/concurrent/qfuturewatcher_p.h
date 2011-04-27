@@ -1,0 +1,3 @@
+DECL|macro|QFUTUREWATCHER_P_H
+DECL|variable|QFutureWatcherBase
+DECL|variable|QObjectPrivate

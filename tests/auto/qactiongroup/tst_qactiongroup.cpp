@@ -1,0 +1,10 @@
+DECL|class|tst_QActionGroup
+DECL|function|dropDownDeleted
+DECL|function|enabledPropagation
+DECL|function|exclusive
+DECL|function|separators
+DECL|function|testActionInTwoQActionGroup
+DECL|function|tst_QActionGroup
+DECL|function|unCheckCurrentAction
+DECL|function|visiblePropagation
+DECL|function|~tst_QActionGroup

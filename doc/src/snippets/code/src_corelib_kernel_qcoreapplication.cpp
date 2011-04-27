@@ -1,0 +1,11 @@
+DECL|class|MyMfcView
+DECL|class|MyPrivateInitStuff
+DECL|function|MyPrivateInitStuff
+DECL|function|cleanup_ptr
+DECL|function|initStuff
+DECL|function|init_ptr
+DECL|function|~MyPrivateInitStuff
+DECL|member|p
+DECL|variable|global_ptr
+DECL|variable|path
+DECL|variable|quitButton

@@ -1,0 +1,11 @@
+DECL|function|TableModel
+DECL|function|TableModel
+DECL|function|columnCount
+DECL|function|data
+DECL|function|flags
+DECL|function|getList
+DECL|function|headerData
+DECL|function|insertRows
+DECL|function|removeRows
+DECL|function|rowCount
+DECL|function|setData

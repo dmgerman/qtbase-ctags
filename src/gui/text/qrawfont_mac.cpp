@@ -1,0 +1,3 @@
+DECL|function|platformCleanUp
+DECL|function|platformLoadFromData
+DECL|function|platformSetPixelSize

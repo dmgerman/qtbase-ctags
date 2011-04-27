@@ -1,0 +1,2 @@
+DECL|macro|QSEQUENTIALANIMATIONGROUP_H
+DECL|variable|QSequentialAnimationGroupPrivate

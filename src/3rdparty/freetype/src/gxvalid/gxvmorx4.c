@@ -1,0 +1,3 @@
+DECL|function|gxv_morx_subtable_type4_validate
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

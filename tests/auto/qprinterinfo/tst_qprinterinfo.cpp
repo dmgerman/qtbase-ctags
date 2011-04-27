@@ -1,0 +1,11 @@
+DECL|class|tst_QPrinterInfo
+DECL|function|getDefaultPrinterFromSystem
+DECL|function|getOutputFromCommand
+DECL|function|getPrintersFromSystem
+DECL|function|macFixNameFormat
+DECL|function|testAssignment
+DECL|function|testConstructors
+DECL|function|testForDefaultPrinter
+DECL|function|testForPaperSizes
+DECL|function|testForPrinters
+DECL|macro|ACCEPTABLE_WINDOWS

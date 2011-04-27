@@ -1,0 +1,9 @@
+DECL|function|QNetworkReplyFileImpl
+DECL|function|QNetworkReplyFileImplPrivate
+DECL|function|abort
+DECL|function|bytesAvailable
+DECL|function|close
+DECL|function|isSequential
+DECL|function|readData
+DECL|function|size
+DECL|function|~QNetworkReplyFileImpl

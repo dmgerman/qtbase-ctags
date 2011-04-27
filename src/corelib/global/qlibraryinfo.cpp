@@ -1,0 +1,16 @@
+DECL|class|QLibraryInfoPrivate
+DECL|function|QLibraryInfo
+DECL|function|QLibrarySettings
+DECL|function|buildDate
+DECL|function|buildKey
+DECL|function|cleanup
+DECL|function|configuration
+DECL|function|findConfiguration
+DECL|function|licensedProducts
+DECL|function|licensee
+DECL|function|location
+DECL|function|qt_core_boilerplate
+DECL|macro|BOOTSTRAPPING
+DECL|member|settings
+DECL|struct|QLibrarySettings
+DECL|variable|qt_core_interpreter

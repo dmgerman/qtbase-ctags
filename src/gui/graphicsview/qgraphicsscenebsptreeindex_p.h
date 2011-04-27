@@ -1,0 +1,5 @@
+DECL|function|QRectF_intersects
+DECL|macro|QGRAPHICSBSPTREEINDEX_H
+DECL|variable|QGRAPHICSSCENE_INDEXTIMER_TIMEOUT
+DECL|variable|QGraphicsScene
+DECL|variable|QGraphicsSceneBspTreeIndexPrivate

@@ -1,0 +1,1 @@
+DECL|macro|QFRAME_P_H

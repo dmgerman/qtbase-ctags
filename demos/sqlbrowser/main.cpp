@@ -1,0 +1,2 @@
+DECL|function|addConnectionsFromCommandline
+DECL|function|main

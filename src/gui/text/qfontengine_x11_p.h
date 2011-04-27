@@ -1,0 +1,2 @@
+DECL|macro|QFONTENGINE_X11_P_H
+DECL|variable|QFreetypeFace

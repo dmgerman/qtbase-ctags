@@ -1,0 +1,2 @@
+DECL|macro|QBEARERENGINE_P_H
+DECL|variable|QNetworkConfiguration

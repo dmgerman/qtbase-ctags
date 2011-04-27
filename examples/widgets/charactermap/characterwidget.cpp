@@ -1,0 +1,9 @@
+DECL|function|CharacterWidget
+DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
+DECL|function|paintEvent
+DECL|function|sizeHint
+DECL|function|updateFont
+DECL|function|updateFontMerging
+DECL|function|updateSize
+DECL|function|updateStyle

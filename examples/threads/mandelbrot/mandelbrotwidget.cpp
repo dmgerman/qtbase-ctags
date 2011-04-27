@@ -1,0 +1,17 @@
+DECL|function|MandelbrotWidget
+DECL|function|keyPressEvent
+DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent
+DECL|function|paintEvent
+DECL|function|resizeEvent
+DECL|function|scroll
+DECL|function|updatePixmap
+DECL|function|wheelEvent
+DECL|function|zoom
+DECL|variable|DefaultCenterX
+DECL|variable|DefaultCenterY
+DECL|variable|DefaultScale
+DECL|variable|ScrollStep
+DECL|variable|ZoomInFactor
+DECL|variable|ZoomOutFactor

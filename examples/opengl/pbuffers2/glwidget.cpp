@@ -1,0 +1,15 @@
+DECL|function|GLWidget
+DECL|function|animFinished
+DECL|function|animate
+DECL|function|draw
+DECL|function|mouseDoubleClickEvent
+DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
+DECL|function|paintEvent
+DECL|function|restoreGLState
+DECL|function|saveGLState
+DECL|function|timerEvent
+DECL|function|wheelEvent
+DECL|function|~GLWidget
+DECL|macro|GL_MULTISAMPLE
+DECL|macro|PI

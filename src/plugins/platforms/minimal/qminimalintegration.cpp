@@ -1,0 +1,5 @@
+DECL|function|QMinimalIntegration
+DECL|function|createPixmapData
+DECL|function|createPlatformWindow
+DECL|function|createWindowSurface
+DECL|function|hasCapability

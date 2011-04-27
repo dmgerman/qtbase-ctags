@@ -1,0 +1,1 @@
+DECL|macro|COMPLEXPING_H

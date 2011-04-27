@@ -1,0 +1,12 @@
+DECL|class|QmlApplicationViewerPrivate
+DECL|function|QmlApplicationViewer
+DECL|function|QmlJsDebuggingEnabler
+DECL|function|addImportPath
+DECL|function|adjustPath
+DECL|function|setMainQmlFile
+DECL|function|setOrientation
+DECL|function|showExpanded
+DECL|function|~QmlApplicationViewer
+DECL|member|mainQmlFile
+DECL|struct|QmlJsDebuggingEnabler
+DECL|variable|enableDebuggingHelper

@@ -1,0 +1,4 @@
+DECL|macro|QFILESYSTEMMODEL_P_H
+DECL|variable|ExtendedInformation
+DECL|variable|QFileIconProvider
+DECL|variable|QFileSystemModelPrivate

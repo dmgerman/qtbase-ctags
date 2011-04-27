@@ -1,0 +1,17 @@
+DECL|function|effectiveSpacer
+DECL|function|init
+DECL|function|qMaxExpCalc
+DECL|function|smartSizeHint
+DECL|macro|QLAYOUTENGINE_P_H
+DECL|member|done
+DECL|member|empty
+DECL|member|expansive
+DECL|member|maximumSize
+DECL|member|minimumSize
+DECL|member|pos
+DECL|member|size
+DECL|member|sizeHint
+DECL|member|spacing
+DECL|member|stretch
+DECL|struct|QLayoutStruct
+DECL|variable|QVector

@@ -1,0 +1,2 @@
+DECL|function|QT_MODULE
+DECL|macro|QWSSOCKET_QWS_H

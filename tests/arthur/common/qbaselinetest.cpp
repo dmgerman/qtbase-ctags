@@ -1,0 +1,12 @@
+DECL|function|checkImage
+DECL|function|compareItem
+DECL|function|connect
+DECL|function|newRow
+DECL|function|testImage
+DECL|member|connected
+DECL|member|curFunction
+DECL|member|gotBaselines
+DECL|member|itemList
+DECL|member|proto
+DECL|member|triedConnecting
+DECL|namespace|QBaselineTest

@@ -1,0 +1,1 @@
+DECL|macro|QATOMIC_ARCH_H

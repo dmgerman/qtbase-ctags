@@ -1,0 +1,10 @@
+DECL|macro|INVALID_Q_PIPE
+DECL|macro|INVALID_Q_PIPE
+DECL|macro|QPROCESS_P_H
+DECL|typedef|Q_PIPE
+DECL|typedef|Q_PIPE
+DECL|variable|QSocketNotifier
+DECL|variable|QTimer
+DECL|variable|QWinEventNotifier
+DECL|variable|QWindowsPipeWriter
+DECL|variable|RProcess

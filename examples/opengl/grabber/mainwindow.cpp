@@ -1,0 +1,10 @@
+DECL|function|MainWindow
+DECL|function|about
+DECL|function|clearPixmap
+DECL|function|createActions
+DECL|function|createMenus
+DECL|function|createSlider
+DECL|function|getSize
+DECL|function|grabFrameBuffer
+DECL|function|renderIntoPixmap
+DECL|function|setPixmap

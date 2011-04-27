@@ -1,0 +1,1 @@
+DECL|macro|MYFORM_H

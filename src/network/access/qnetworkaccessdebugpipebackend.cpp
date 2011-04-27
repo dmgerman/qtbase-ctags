@@ -1,0 +1,17 @@
+DECL|enumerator|ReadBufferSize
+DECL|enumerator|WriteBufferSize
+DECL|function|QNetworkAccessDebugPipeBackend
+DECL|function|closeDownstreamChannel
+DECL|function|create
+DECL|function|downstreamReadyWrite
+DECL|function|open
+DECL|function|possiblyFinish
+DECL|function|pushFromSocketToDownstream
+DECL|function|pushFromUpstreamToSocket
+DECL|function|socketBytesWritten
+DECL|function|socketConnected
+DECL|function|socketDisconnected
+DECL|function|socketError
+DECL|function|socketReadyRead
+DECL|function|uploadReadyReadSlot
+DECL|function|~QNetworkAccessDebugPipeBackend

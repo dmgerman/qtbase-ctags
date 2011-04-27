@@ -1,0 +1,17 @@
+DECL|class|QRubberBandPrivate
+DECL|function|QRubberBand
+DECL|function|changeEvent
+DECL|function|event
+DECL|function|initStyleOption
+DECL|function|moveEvent
+DECL|function|paintEvent
+DECL|function|resizeEvent
+DECL|function|setGeometry
+DECL|function|shape
+DECL|function|showEvent
+DECL|function|updateMask
+DECL|function|~QRubberBand
+DECL|macro|RUBBERBAND_WINDOW_TYPE
+DECL|member|clipping
+DECL|member|rect
+DECL|member|shape

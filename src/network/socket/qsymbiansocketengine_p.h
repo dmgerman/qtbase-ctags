@@ -1,0 +1,7 @@
+DECL|macro|QSYMBIANSOCKETENGINE_P_H
+DECL|variable|QExceptionNotifier
+DECL|variable|QNetworkInterface
+DECL|variable|QReadNotifier
+DECL|variable|QSocketNotifier
+DECL|variable|QSymbianSocketEnginePrivate
+DECL|variable|QWriteNotifier

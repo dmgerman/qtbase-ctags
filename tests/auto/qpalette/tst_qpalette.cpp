@@ -1,0 +1,9 @@
+DECL|class|tst_QPalette
+DECL|function|cleanup
+DECL|function|cleanupTestCase
+DECL|function|init
+DECL|function|initTestCase
+DECL|function|roleValues
+DECL|function|roleValues_data
+DECL|function|tst_QPalette
+DECL|function|~tst_QPalette

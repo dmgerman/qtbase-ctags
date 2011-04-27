@@ -1,0 +1,14 @@
+DECL|function|QSimpleTextCodec
+DECL|function|aliases
+DECL|function|buildReverseMap
+DECL|function|convertFromUnicode
+DECL|function|convertToUnicode
+DECL|function|mibEnum
+DECL|function|name
+DECL|function|~QSimpleTextCodec
+DECL|macro|LAST_MIB
+DECL|member|aliases
+DECL|member|mib
+DECL|member|mime
+DECL|member|values
+DECL|variable|unicodevalues

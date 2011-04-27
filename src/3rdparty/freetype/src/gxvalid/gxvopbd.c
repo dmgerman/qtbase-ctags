@@ -1,0 +1,11 @@
+DECL|function|gxv_opbd_LookupFmt4_transit
+DECL|function|gxv_opbd_LookupValue_validate
+DECL|function|gxv_opbd_validate
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|macro|GXV_OPBD_DATA
+DECL|member|format
+DECL|member|valueOffset_min
+DECL|struct|GXV_opbd_DataRec_
+DECL|typedef|GXV_opbd_Data
+DECL|typedef|GXV_opbd_DataRec

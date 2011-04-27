@@ -1,0 +1,2 @@
+DECL|macro|QNATIVEWIFIENGINE_P_H
+DECL|variable|QNetworkConfigurationPrivate

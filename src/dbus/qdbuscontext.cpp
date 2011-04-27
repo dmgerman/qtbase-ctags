@@ -1,0 +1,10 @@
+DECL|function|QDBusContext
+DECL|function|calledFromDBus
+DECL|function|connection
+DECL|function|isDelayedReply
+DECL|function|message
+DECL|function|sendErrorReply
+DECL|function|sendErrorReply
+DECL|function|set
+DECL|function|setDelayedReply
+DECL|function|~QDBusContext

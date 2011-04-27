@@ -1,0 +1,13 @@
+DECL|macro|QNETWORKACCESSBACKEND_P_H
+DECL|variable|QAbstractNetworkCache
+DECL|variable|QAuthenticator
+DECL|variable|QNetworkAccessManagerPrivate
+DECL|variable|QNetworkCacheMetaData
+DECL|variable|QNetworkProxy
+DECL|variable|QNetworkProxyQuery
+DECL|variable|QNetworkReplyImplPrivate
+DECL|variable|QNetworkRequest
+DECL|variable|QNonContiguousByteDevice
+DECL|variable|QSslConfiguration
+DECL|variable|QUrl
+DECL|variable|QUrlInfo

@@ -1,0 +1,15 @@
+DECL|function|QAbstractTextDocumentLayout
+DECL|function|QAbstractTextDocumentLayout
+DECL|function|_q_handlerDestroyed
+DECL|function|anchorAt
+DECL|function|document
+DECL|function|drawInlineObject
+DECL|function|format
+DECL|function|formatIndex
+DECL|function|handlerForObject
+DECL|function|paintDevice
+DECL|function|positionInlineObject
+DECL|function|registerHandler
+DECL|function|resizeInlineObject
+DECL|function|setPaintDevice
+DECL|function|~QAbstractTextDocumentLayout

@@ -1,0 +1,16 @@
+DECL|macro|__AF_LOADER_H__
+DECL|member|face
+DECL|member|gloader
+DECL|member|globals
+DECL|member|hints
+DECL|member|metrics
+DECL|member|pp1
+DECL|member|pp2
+DECL|member|trans_delta
+DECL|member|trans_matrix
+DECL|member|transformed
+DECL|struct|AF_LoaderRec_
+DECL|typedef|AF_Loader
+DECL|typedef|AF_LoaderRec
+DECL|variable|af_loader_reset
+DECL|variable|loader

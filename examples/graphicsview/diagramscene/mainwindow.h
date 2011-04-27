@@ -1,0 +1,14 @@
+DECL|macro|MAINWINDOW_H
+DECL|variable|DiagramScene
+DECL|variable|QAbstractButton
+DECL|variable|QAction
+DECL|variable|QButtonGroup
+DECL|variable|QComboBox
+DECL|variable|QFont
+DECL|variable|QFontComboBox
+DECL|variable|QGraphicsTextItem
+DECL|variable|QGraphicsView
+DECL|variable|QLineEdit
+DECL|variable|QSpinBox
+DECL|variable|QToolBox
+DECL|variable|QToolButton

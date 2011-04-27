@@ -1,0 +1,10 @@
+DECL|class|tst_QTextFormat
+DECL|function|defaultAlignment
+DECL|function|getSetCheck
+DECL|function|getSetTabs
+DECL|function|resolveFont
+DECL|function|testFontStyleSetters
+DECL|function|testQTextCharFormat
+DECL|function|testTabsUsed
+DECL|function|testUnderlinePropertyPrecedence
+DECL|function|toFormat

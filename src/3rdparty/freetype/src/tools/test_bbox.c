@@ -1,0 +1,16 @@
+DECL|function|dump_outline
+DECL|function|get_time
+DECL|function|main
+DECL|function|profile_outline
+DECL|macro|CLOCKS_PER_SEC
+DECL|macro|REPEAT
+DECL|macro|XSCALE
+DECL|macro|XVAL
+DECL|macro|XVEC
+DECL|macro|XX
+DECL|variable|dummy_contour_1
+DECL|variable|dummy_outline_1
+DECL|variable|dummy_outline_2
+DECL|variable|dummy_tag_1
+DECL|variable|dummy_vec_1
+DECL|variable|dummy_vec_2

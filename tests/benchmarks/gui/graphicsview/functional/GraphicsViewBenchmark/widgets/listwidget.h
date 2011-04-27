@@ -1,0 +1,5 @@
+DECL|macro|LISTWIDGET_H
+DECL|variable|AbstractViewItem
+DECL|variable|QGraphicsGridLayout
+DECL|variable|QGraphicsLinearLayout
+DECL|variable|QGraphicsSceneResizeEvent

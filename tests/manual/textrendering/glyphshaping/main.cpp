@@ -1,0 +1,17 @@
+DECL|function|charHexCsv2String
+DECL|function|dlItem
+DECL|function|dumpHtml
+DECL|function|dumpImageHtml
+DECL|function|main
+DECL|function|renderedText
+DECL|function|testDataSetList
+DECL|member|input
+DECL|member|inputOriginal
+DECL|member|language
+DECL|member|name
+DECL|member|output
+DECL|member|outputGlyphIDs
+DECL|member|outputGlyphIDsOriginal
+DECL|member|outputOriginal
+DECL|struct|testDataSet
+DECL|variable|fontPixelSize

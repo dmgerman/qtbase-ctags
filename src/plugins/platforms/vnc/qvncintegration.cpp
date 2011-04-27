@@ -1,0 +1,15 @@
+DECL|function|QVNCIntegration
+DECL|function|QVNCScreen
+DECL|function|createPixmapData
+DECL|function|createPlatformWindow
+DECL|function|createWindowSurface
+DECL|function|defaultDisplay
+DECL|function|defaultHeight
+DECL|function|defaultWidth
+DECL|function|dirtyMap
+DECL|function|doRedraw
+DECL|function|fontDatabase
+DECL|function|grabWindow
+DECL|function|hasCapability
+DECL|function|moveToScreen
+DECL|function|usage

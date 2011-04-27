@@ -1,0 +1,9 @@
+DECL|class|MyStylePlugin
+DECL|class|RocketStyle
+DECL|class|StarBusterStyle
+DECL|function|MyStylePlugin
+DECL|function|RocketStyle
+DECL|function|StarBusterStyle
+DECL|function|create
+DECL|function|keys
+DECL|function|main

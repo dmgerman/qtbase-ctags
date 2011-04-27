@@ -1,0 +1,17 @@
+DECL|function|adjustIterationCount
+DECL|function|adjustMedianCount
+DECL|function|checkpoint
+DECL|function|cleanup
+DECL|function|dumpOutput
+DECL|function|extractLastResult
+DECL|function|extractResult
+DECL|function|getNewestFileName
+DECL|function|haveValgrind
+DECL|function|isMeasurementAccepted
+DECL|function|metricType
+DECL|function|needsWarmupIteration
+DECL|function|outFileBase
+DECL|function|rerunThroughCallgrind
+DECL|function|runCallgrindSubProcess
+DECL|function|start
+DECL|function|stop

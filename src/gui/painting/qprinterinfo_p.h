@@ -1,0 +1,1 @@
+DECL|macro|QPRINTERINFO_P_H

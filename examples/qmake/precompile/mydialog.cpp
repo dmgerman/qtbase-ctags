@@ -1,0 +1,1 @@
+DECL|function|MyDialog

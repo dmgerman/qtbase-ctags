@@ -1,0 +1,17 @@
+DECL|function|FlowLayout
+DECL|function|FlowLayout
+DECL|function|addItem
+DECL|function|count
+DECL|function|doLayout
+DECL|function|expandingDirections
+DECL|function|hasHeightForWidth
+DECL|function|heightForWidth
+DECL|function|horizontalSpacing
+DECL|function|itemAt
+DECL|function|minimumSize
+DECL|function|setGeometry
+DECL|function|sizeHint
+DECL|function|smartSpacing
+DECL|function|takeAt
+DECL|function|verticalSpacing
+DECL|function|~FlowLayout

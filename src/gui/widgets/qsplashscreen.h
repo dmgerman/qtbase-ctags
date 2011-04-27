@@ -1,0 +1,1 @@
+DECL|macro|QSPLASHSCREEN_H

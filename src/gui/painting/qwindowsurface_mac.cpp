@@ -1,0 +1,9 @@
+DECL|function|QMacWindowSurface
+DECL|function|flush
+DECL|function|paintDevice
+DECL|function|scroll
+DECL|function|setGeometry
+DECL|function|~QMacWindowSurface
+DECL|member|device
+DECL|member|widget
+DECL|struct|QMacWindowSurfacePrivate

@@ -1,0 +1,1 @@
+DECL|macro|__PIXMAPITEM__H__

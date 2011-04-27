@@ -1,0 +1,4 @@
+DECL|macro|PMMAPPERAPP_H
+DECL|variable|CPixelMetricsMapperView
+DECL|variable|KUidPMMapperApplication
+DECL|variable|MAknsSkinInstance

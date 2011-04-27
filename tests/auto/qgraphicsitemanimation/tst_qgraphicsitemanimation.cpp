@@ -1,0 +1,7 @@
+DECL|class|tst_QGraphicsItemAnimation
+DECL|function|checkReturnedLists
+DECL|function|construction
+DECL|function|linearMove
+DECL|function|linearRotation
+DECL|function|overwriteValueForStep
+DECL|function|setTimeLine

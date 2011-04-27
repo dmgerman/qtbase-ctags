@@ -1,0 +1,12 @@
+DECL|function|ChatMainWindow
+DECL|function|NicknameDialog
+DECL|function|aboutQt
+DECL|function|actionSlot
+DECL|function|changeNickname
+DECL|function|exiting
+DECL|function|main
+DECL|function|messageSlot
+DECL|function|rebuildHistory
+DECL|function|sendClickedSlot
+DECL|function|textChangedSlot
+DECL|function|~ChatMainWindow

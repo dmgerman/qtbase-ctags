@@ -1,0 +1,10 @@
+DECL|macro|QGRAPHICSEFFECT_H
+DECL|variable|QGraphicsBlurEffectPrivate
+DECL|variable|QGraphicsColorizeEffectPrivate
+DECL|variable|QGraphicsDropShadowEffectPrivate
+DECL|variable|QGraphicsEffectPrivate
+DECL|variable|QGraphicsEffectSource
+DECL|variable|QGraphicsOpacityEffectPrivate
+DECL|variable|QPainter
+DECL|variable|QPixmap
+DECL|variable|QStyleOption

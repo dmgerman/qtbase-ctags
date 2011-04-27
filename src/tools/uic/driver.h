@@ -1,0 +1,10 @@
+DECL|macro|DRIVER_H
+DECL|variable|DomAction
+DECL|variable|DomActionGroup
+DECL|variable|DomButtonGroup
+DECL|variable|DomLayout
+DECL|variable|DomLayoutItem
+DECL|variable|DomSpacer
+DECL|variable|DomUI
+DECL|variable|DomWidget
+DECL|variable|QTextStream

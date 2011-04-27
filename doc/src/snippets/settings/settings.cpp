@@ -1,0 +1,11 @@
+DECL|class|MainWindow
+DECL|function|MainWindow
+DECL|function|closeEvent
+DECL|function|readSettings
+DECL|function|snippet_ctor1
+DECL|function|snippet_ctor2
+DECL|function|snippet_locations
+DECL|function|userReallyWantsToQuit
+DECL|function|writeSettings
+DECL|variable|panel
+DECL|variable|win

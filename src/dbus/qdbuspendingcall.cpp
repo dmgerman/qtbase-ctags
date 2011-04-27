@@ -1,0 +1,23 @@
+DECL|class|QDBusPendingCallWatcherPrivate
+DECL|function|QDBusPendingCall
+DECL|function|QDBusPendingCall
+DECL|function|QDBusPendingCallWatcher
+DECL|function|_q_finished
+DECL|function|add
+DECL|function|checkReceivedSignature
+DECL|function|error
+DECL|function|fromCompletedCall
+DECL|function|fromError
+DECL|function|isError
+DECL|function|isFinished
+DECL|function|isValid
+DECL|function|operator =
+DECL|function|reply
+DECL|function|setMetaTypes
+DECL|function|setReplyCallback
+DECL|function|waitForFinished
+DECL|function|waitForFinished
+DECL|function|waitForFinished
+DECL|function|~QDBusPendingCall
+DECL|function|~QDBusPendingCallPrivate
+DECL|function|~QDBusPendingCallWatcher

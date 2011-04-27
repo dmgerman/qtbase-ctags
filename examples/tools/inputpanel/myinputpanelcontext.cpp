@@ -1,0 +1,9 @@
+DECL|function|MyInputPanelContext
+DECL|function|filterEvent
+DECL|function|identifierName
+DECL|function|isComposing
+DECL|function|language
+DECL|function|reset
+DECL|function|sendCharacter
+DECL|function|updatePosition
+DECL|function|~MyInputPanelContext

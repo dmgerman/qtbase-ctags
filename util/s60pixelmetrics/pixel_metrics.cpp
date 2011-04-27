@@ -1,0 +1,6 @@
+DECL|function|PixelMetricMenuValue
+DECL|function|PixelMetricTabValue
+DECL|function|PixelMetricValue
+DECL|function|Version
+DECL|variable|KPMMajorVersion
+DECL|variable|KPMMinorVersion

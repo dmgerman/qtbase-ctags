@@ -1,0 +1,4 @@
+DECL|macro|__TTSBIT_H__
+DECL|variable|tt_face_free_eblc
+DECL|variable|tt_face_load_strike_metrics
+DECL|variable|tt_load_sbit_metrics

@@ -1,0 +1,11 @@
+DECL|function|cleanup
+DECL|function|defaultFamily
+DECL|function|handle
+DECL|function|initialize
+DECL|function|lastResortFamily
+DECL|function|lastResortFont
+DECL|function|macFontID
+DECL|function|qt_mac_pixelsize
+DECL|function|qt_mac_pointsize
+DECL|function|rawName
+DECL|function|setRawName

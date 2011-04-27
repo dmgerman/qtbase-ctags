@@ -1,0 +1,15 @@
+DECL|function|QKeyMapperPrivate
+DECL|function|clearMappings
+DECL|function|mapQtToS60Key
+DECL|function|mapQtToS60ScanCodes
+DECL|function|mapS60KeyToQt
+DECL|function|mapS60ScanCodesToQt
+DECL|function|possibleKeys
+DECL|function|translateKeyEvent
+DECL|function|updateInputLanguage
+DECL|function|~QKeyMapperPrivate
+DECL|member|qtKey
+DECL|member|s60KeyCode
+DECL|member|s60ScanCode
+DECL|struct|KeyMapping
+DECL|variable|keyMapping

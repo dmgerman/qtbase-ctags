@@ -1,0 +1,2 @@
+DECL|function|_q_privateslot
+DECL|struct|TestQPrivateSlots_Private

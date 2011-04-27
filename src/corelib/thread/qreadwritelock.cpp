@@ -1,0 +1,10 @@
+DECL|function|QReadWriteLock
+DECL|function|QReadWriteLock
+DECL|function|lockForRead
+DECL|function|lockForWrite
+DECL|function|tryLockForRead
+DECL|function|tryLockForRead
+DECL|function|tryLockForWrite
+DECL|function|tryLockForWrite
+DECL|function|unlock
+DECL|function|~QReadWriteLock

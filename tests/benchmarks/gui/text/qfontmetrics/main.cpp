@@ -1,0 +1,7 @@
+DECL|class|tst_QFontMetrics
+DECL|function|fontmetrics_create
+DECL|function|fontmetrics_create_once_loaded
+DECL|function|fontmetrics_height
+DECL|function|fontmetrics_height_once_loaded
+DECL|function|testQFontMetrics
+DECL|function|tst_QFontMetrics

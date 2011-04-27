@@ -1,0 +1,14 @@
+DECL|function|qt_safe_accept
+DECL|function|qt_safe_connect
+DECL|function|qt_safe_inet_addr
+DECL|function|qt_safe_ioctl
+DECL|function|qt_safe_listen
+DECL|function|qt_safe_sendto
+DECL|function|qt_safe_socket
+DECL|macro|QNET_UNIX_P_H
+DECL|macro|QT_SOCKET_CONNECT
+DECL|macro|QT_SOCKET_CONNECT
+DECL|macro|QT_SOCKOPTLEN_T
+DECL|macro|accept
+DECL|macro|listen
+DECL|macro|socket

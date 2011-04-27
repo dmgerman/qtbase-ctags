@@ -1,0 +1,10 @@
+DECL|function|QSqlConnectionDialog
+DECL|function|databaseName
+DECL|function|driverName
+DECL|function|hostName
+DECL|function|on_okButton_clicked
+DECL|function|password
+DECL|function|port
+DECL|function|useInMemoryDatabase
+DECL|function|userName
+DECL|function|~QSqlConnectionDialog

@@ -1,0 +1,10 @@
+DECL|macro|GXV_MORT_FEATURE_OFF
+DECL|macro|IS_GXV_MORT_FEATURE_OFF
+DECL|macro|__GXVMORT_H__
+DECL|member|disableFlags
+DECL|member|enableFlags
+DECL|member|featureSetting
+DECL|member|featureType
+DECL|struct|GXV_mort_featureRec_
+DECL|typedef|GXV_mort_feature
+DECL|typedef|GXV_mort_featureRec

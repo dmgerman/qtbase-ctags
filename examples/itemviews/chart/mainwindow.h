@@ -1,0 +1,4 @@
+DECL|macro|MAINWINDOW_H
+DECL|variable|QAbstractItemModel
+DECL|variable|QAbstractItemView
+DECL|variable|QItemSelectionModel

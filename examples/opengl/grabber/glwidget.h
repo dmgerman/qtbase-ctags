@@ -1,0 +1,1 @@
+DECL|macro|GLWIDGET_H

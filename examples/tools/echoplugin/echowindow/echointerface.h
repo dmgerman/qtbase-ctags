@@ -1,0 +1,1 @@
+DECL|macro|ECHOINTERFACE_H

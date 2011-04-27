@@ -1,0 +1,2 @@
+DECL|macro|QRESOURCE_ITERATOR_P_H
+DECL|variable|QResourceFileEngineIteratorPrivate

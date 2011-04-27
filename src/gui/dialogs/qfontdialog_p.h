@@ -1,0 +1,9 @@
+DECL|macro|QFONTDIALOG_P_H
+DECL|variable|QBoxLayout
+DECL|variable|QCheckBox
+DECL|variable|QComboBox
+DECL|variable|QDialogButtonBox
+DECL|variable|QFontListView
+DECL|variable|QGroupBox
+DECL|variable|QLabel
+DECL|variable|QLineEdit

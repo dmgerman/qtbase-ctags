@@ -1,0 +1,8 @@
+DECL|function|QNetworkAccessCacheBackend
+DECL|function|closeDownstreamChannel
+DECL|function|closeUpstreamChannel
+DECL|function|downstreamReadyWrite
+DECL|function|open
+DECL|function|sendCacheContents
+DECL|function|upstreamReadyRead
+DECL|function|~QNetworkAccessCacheBackend

@@ -1,0 +1,13 @@
+DECL|function|PvrEglWindowSurface
+DECL|function|PvrEglWindowSurface
+DECL|function|flush
+DECL|function|image
+DECL|function|isValid
+DECL|function|move
+DECL|function|paintDevice
+DECL|function|permanentState
+DECL|function|setDirectRegion
+DECL|function|setGeometry
+DECL|function|setPermanentState
+DECL|function|transformRects
+DECL|function|~PvrEglWindowSurface

@@ -1,0 +1,4 @@
+DECL|macro|__T1DECODE_H__
+DECL|variable|t1_decoder_done
+DECL|variable|t1_decoder_funcs
+DECL|variable|t1_decoder_parse_charstrings

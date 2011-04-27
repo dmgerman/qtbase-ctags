@@ -1,0 +1,14 @@
+DECL|function|cast_helper
+DECL|function|installFactory
+DECL|function|installRootObjectHandler
+DECL|function|installUpdateHandler
+DECL|function|invokeMethod
+DECL|function|isActive
+DECL|function|qAccessibleCleanup
+DECL|function|queryAccessibleInterface
+DECL|function|removeFactory
+DECL|function|virtual_hook
+DECL|member|rootObjectHandler
+DECL|member|updateHandler
+DECL|variable|accessibility_active
+DECL|variable|cleanupAdded

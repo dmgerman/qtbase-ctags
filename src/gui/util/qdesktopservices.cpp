@@ -1,0 +1,12 @@
+DECL|class|QOpenUrlHandlerRegistry
+DECL|function|QOpenUrlHandlerRegistry
+DECL|function|handlerDestroyed
+DECL|function|openUrl
+DECL|function|setUrlHandler
+DECL|function|unsetUrlHandler
+DECL|member|handlers
+DECL|member|mutex
+DECL|member|name
+DECL|member|receiver
+DECL|struct|Handler
+DECL|typedef|HandlerHash

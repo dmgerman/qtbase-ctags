@@ -1,0 +1,16 @@
+DECL|function|adler32
+DECL|function|adler32_combine
+DECL|function|adler32_combine64
+DECL|function|adler32_combine_
+DECL|macro|BASE
+DECL|macro|DO1
+DECL|macro|DO16
+DECL|macro|DO2
+DECL|macro|DO4
+DECL|macro|DO8
+DECL|macro|MOD
+DECL|macro|MOD
+DECL|macro|MOD4
+DECL|macro|MOD4
+DECL|macro|NMAX
+DECL|macro|local

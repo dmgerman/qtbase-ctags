@@ -1,0 +1,2 @@
+DECL|macro|QSCOPEDPOINTER_P_H
+DECL|variable|T

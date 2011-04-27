@@ -1,0 +1,2 @@
+DECL|macro|QDBUSMACROS_H
+DECL|macro|Q_NOREPLY

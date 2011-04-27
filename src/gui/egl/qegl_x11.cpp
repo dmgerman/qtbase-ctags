@@ -1,0 +1,9 @@
+DECL|function|countBits
+DECL|function|createSurface
+DECL|function|getCompatibleVisualId
+DECL|function|nativeDisplay
+DECL|function|nativePixmap
+DECL|function|nativeWindow
+DECL|function|qt_set_winid_on_widget
+DECL|function|setPaintDeviceFormat
+DECL|function|setVisualFormat

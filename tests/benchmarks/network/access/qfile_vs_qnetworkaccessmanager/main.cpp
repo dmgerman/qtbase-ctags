@@ -1,0 +1,13 @@
+DECL|class|qfile_vs_qnetworkaccessmanager
+DECL|function|cleanupTestCase
+DECL|function|initTestCase
+DECL|function|qfileFileRead
+DECL|function|qfileFileRead_iteration
+DECL|function|qfile_vs_qnetworkaccessmanager
+DECL|function|qnamFileRead
+DECL|function|qnamFileRead_iteration
+DECL|function|qnamImmediateFileRead
+DECL|function|qnamImmediateFileRead_iteration
+DECL|member|iterations
+DECL|member|size
+DECL|member|testFile

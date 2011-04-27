@@ -1,0 +1,13 @@
+DECL|enumerator|TibetanHeadConsonant
+DECL|enumerator|TibetanOther
+DECL|enumerator|TibetanSubjoinedConsonant
+DECL|enumerator|TibetanSubjoinedVowel
+DECL|enumerator|TibetanVowel
+DECL|function|HB_TibetanAttributes
+DECL|function|HB_TibetanShape
+DECL|function|tibetan_nextSyllableBoundary
+DECL|function|tibetan_shape_syllable
+DECL|macro|tibetan_form
+DECL|typedef|TibetanForm
+DECL|variable|tibetanForm
+DECL|variable|tibetan_features

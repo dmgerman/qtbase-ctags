@@ -1,0 +1,10 @@
+DECL|function|highlightBlock
+DECL|function|highlightBlock
+DECL|member|parentheses
+DECL|member|position
+DECL|struct|BlockData
+DECL|struct|ParenthesisInfo
+DECL|variable|editor
+DECL|variable|highlighter
+DECL|variable|multiLineCommentFormat
+DECL|variable|startIndex

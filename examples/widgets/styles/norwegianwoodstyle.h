@@ -1,0 +1,2 @@
+DECL|macro|NORWEGIANWOODSTYLE_H
+DECL|variable|QPainterPath

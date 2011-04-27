@@ -1,0 +1,14 @@
+DECL|function|mng_clear_cms
+DECL|function|mng_correct_app_cms
+DECL|function|mng_correct_full_cms
+DECL|function|mng_correct_gamma_only
+DECL|function|mng_init_app_cms
+DECL|function|mng_init_full_cms
+DECL|function|mng_init_gamma_only
+DECL|function|mnglcms_createfileprofile
+DECL|function|mnglcms_creatememprofile
+DECL|function|mnglcms_createsrgbprofile
+DECL|function|mnglcms_freeprofile
+DECL|function|mnglcms_freetransform
+DECL|function|mnglcms_initlibrary
+DECL|macro|MNG_CMS_FLAGS

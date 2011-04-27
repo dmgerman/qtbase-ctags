@@ -1,0 +1,3 @@
+DECL|function|QT_FORWARD_DECLARE_CLASS
+DECL|macro|MAINWINDOW_H
+DECL|variable|ToolBar

@@ -1,0 +1,13 @@
+DECL|class|TestWidget
+DECL|class|tst_QSizeGrip
+DECL|function|TestWidget
+DECL|function|changeEvent
+DECL|function|cleanupTestCase
+DECL|function|hideAndShowOnWindowStateChange
+DECL|function|hideAndShowOnWindowStateChange_data
+DECL|function|initTestCase
+DECL|function|orientation
+DECL|function|sizeGripCorner
+DECL|function|sizeHint
+DECL|member|dummyWidget
+DECL|variable|WindowType

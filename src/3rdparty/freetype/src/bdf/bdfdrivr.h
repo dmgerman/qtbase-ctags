@@ -1,0 +1,16 @@
+DECL|macro|__BDFDRIVR_H__
+DECL|member|bdffont
+DECL|member|charmap
+DECL|member|charmap_handle
+DECL|member|charset_encoding
+DECL|member|charset_registry
+DECL|member|default_glyph
+DECL|member|en_table
+DECL|member|enc
+DECL|member|glyph
+DECL|member|root
+DECL|struct|BDF_FaceRec_
+DECL|struct|BDF_encoding_el_
+DECL|typedef|BDF_Face
+DECL|typedef|BDF_FaceRec
+DECL|typedef|BDF_encoding_el

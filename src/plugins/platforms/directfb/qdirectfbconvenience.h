@@ -1,0 +1,2 @@
+DECL|macro|QDIRECTFBCONVENIENCE_H
+DECL|variable|DFBInputDeviceKeySymbol

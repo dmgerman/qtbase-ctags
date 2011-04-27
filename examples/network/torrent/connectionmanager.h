@@ -1,0 +1,2 @@
+DECL|macro|CONNECTIONMANAGER_H
+DECL|variable|PeerWireClient

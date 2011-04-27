@@ -1,0 +1,3 @@
+DECL|class|tst_QErrorMessage
+DECL|function|dontShowAgain
+DECL|function|dontShowCategoryAgain

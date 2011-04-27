@@ -1,0 +1,16 @@
+DECL|class|QNetworkAccessCachedFtpConnection
+DECL|enumerator|DefaultFtpPort
+DECL|function|QNetworkAccessCachedFtpConnection
+DECL|function|QNetworkAccessFtpBackend
+DECL|function|closeDownstreamChannel
+DECL|function|create
+DECL|function|disconnectFromFtp
+DECL|function|dispose
+DECL|function|downstreamReadyWrite
+DECL|function|ftpConnectionReady
+DECL|function|ftpDone
+DECL|function|ftpRawCommandReply
+DECL|function|ftpReadyRead
+DECL|function|makeCacheKey
+DECL|function|open
+DECL|function|~QNetworkAccessFtpBackend

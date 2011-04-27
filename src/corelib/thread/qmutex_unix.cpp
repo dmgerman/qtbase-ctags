@@ -1,0 +1,11 @@
+DECL|function|QMutexPrivate
+DECL|function|_q_futex
+DECL|function|report_error
+DECL|function|wait
+DECL|function|wait
+DECL|function|wait
+DECL|function|wakeUp
+DECL|function|wakeUp
+DECL|function|wakeUp
+DECL|function|~QMutexPrivate
+DECL|macro|wakeup

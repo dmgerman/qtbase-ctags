@@ -1,0 +1,3 @@
+DECL|macro|QWAYLANDREADBACKGLXCONTEXT_H
+DECL|variable|QWaylandReadbackGlxWindow
+DECL|variable|QWaylandShmBuffer

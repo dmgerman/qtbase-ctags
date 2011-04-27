@@ -1,0 +1,1 @@
+DECL|macro|QGTKPAINTER_H

@@ -1,0 +1,9 @@
+DECL|function|Car
+DECL|function|accelerate
+DECL|function|boundingRect
+DECL|function|decelerate
+DECL|function|paint
+DECL|function|timerEvent
+DECL|function|turnLeft
+DECL|function|turnRight
+DECL|variable|Pi

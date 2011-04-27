@@ -1,0 +1,7 @@
+DECL|function|end
+DECL|function|qt_bitmapblit16_sse3dnow
+DECL|function|qt_blend_color_argb_sse3dnow
+DECL|function|qt_memfill32_sse3dnow
+DECL|struct|QSSE3DNOWIntrinsics
+DECL|variable|qt_functionForModeSolid_SSE3DNOW
+DECL|variable|qt_functionForMode_SSE3DNOW

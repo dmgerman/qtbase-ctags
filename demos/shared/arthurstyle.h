@@ -1,0 +1,1 @@
+DECL|macro|ARTHURSTYLE_H

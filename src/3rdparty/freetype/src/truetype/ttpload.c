@@ -1,0 +1,11 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|tt_face_done_loca
+DECL|function|tt_face_free_hdmx
+DECL|function|tt_face_get_device_metrics
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

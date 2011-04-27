@@ -1,0 +1,10 @@
+DECL|function|ClassInfoPage
+DECL|function|ClassWizard
+DECL|function|CodeStylePage
+DECL|function|ConclusionPage
+DECL|function|IntroPage
+DECL|function|OutputFilesPage
+DECL|function|accept
+DECL|function|initializePage
+DECL|function|initializePage
+DECL|function|initializePage

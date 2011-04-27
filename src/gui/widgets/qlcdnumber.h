@@ -1,0 +1,1 @@
+DECL|macro|QLCDNUMBER_H

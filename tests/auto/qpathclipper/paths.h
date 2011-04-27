@@ -1,0 +1,1 @@
+DECL|macro|PATHS_H

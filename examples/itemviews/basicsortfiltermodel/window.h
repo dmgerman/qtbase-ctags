@@ -1,0 +1,9 @@
+DECL|macro|WINDOW_H
+DECL|variable|QAbstractItemModel
+DECL|variable|QCheckBox
+DECL|variable|QComboBox
+DECL|variable|QGroupBox
+DECL|variable|QLabel
+DECL|variable|QLineEdit
+DECL|variable|QSortFilterProxyModel
+DECL|variable|QTreeView

@@ -1,0 +1,4 @@
+DECL|macro|QIMAGEPIXMAP_CLEANUPHOOKS_P_H
+DECL|typedef|_qt_image_cleanup_hook_64
+DECL|typedef|_qt_pixmap_cleanup_hook_pmd
+DECL|variable|QImagePixmapCleanupHooks

@@ -1,0 +1,15 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|cff_driver_done
+DECL|function|cff_face_done
+DECL|function|cff_make_private_dict
+DECL|function|cff_size_done
+DECL|function|cff_size_get_globals_funcs
+DECL|function|cff_slot_done
+DECL|function|cff_strcpy
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

@@ -1,0 +1,1 @@
+DECL|macro|QFILE_P_H

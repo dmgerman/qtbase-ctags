@@ -1,0 +1,10 @@
+DECL|macro|MANY
+DECL|macro|_INFTREES_H
+DECL|member|Bits
+DECL|member|Exop
+DECL|member|base
+DECL|member|pad
+DECL|member|what
+DECL|member|word
+DECL|struct|inflate_huft_s
+DECL|typedef|inflate_huft

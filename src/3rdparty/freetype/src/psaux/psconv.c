@@ -1,0 +1,9 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|macro|OP
+DECL|macro|OP
+DECL|variable|ft_char_table
+DECL|variable|ft_char_table

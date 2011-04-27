@@ -1,0 +1,11 @@
+DECL|function|QFontJis0201Codec
+DECL|function|QFontJis0208Codec
+DECL|function|_mibEnum
+DECL|function|_mibEnum
+DECL|function|_name
+DECL|function|_name
+DECL|function|convertFromUnicode
+DECL|function|convertFromUnicode
+DECL|function|convertToUnicode
+DECL|function|convertToUnicode
+DECL|function|~QFontJis0208Codec

@@ -1,0 +1,11 @@
+DECL|function|QWaylandInputDevice
+DECL|function|attach
+DECL|function|handleWindowDestroyed
+DECL|function|inputHandleButton
+DECL|function|inputHandleKey
+DECL|function|inputHandleKeyboardFocus
+DECL|function|inputHandleMotion
+DECL|function|inputHandlePointerFocus
+DECL|function|translateKey
+DECL|function|translateModifiers
+DECL|member|inputDeviceListener

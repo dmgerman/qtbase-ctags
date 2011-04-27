@@ -1,0 +1,1 @@
+DECL|macro|GUITEST_H

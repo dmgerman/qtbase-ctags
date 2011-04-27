@@ -1,0 +1,1 @@
+DECL|macro|QJPUNICODE_H

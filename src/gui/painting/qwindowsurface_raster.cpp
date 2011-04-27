@@ -1,0 +1,14 @@
+DECL|class|QRasterWindowSurfacePrivate
+DECL|function|QRasterWindowSurface
+DECL|function|beginPaint
+DECL|function|features
+DECL|function|flush
+DECL|function|imageContext
+DECL|function|paintDevice
+DECL|function|prepareBuffer
+DECL|function|scroll
+DECL|function|setGeometry
+DECL|function|syncX
+DECL|function|~QRasterWindowSurface
+DECL|member|gc
+DECL|member|image

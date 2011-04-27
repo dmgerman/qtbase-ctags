@@ -1,0 +1,1 @@
+DECL|macro|TETRIXWINDOW_H

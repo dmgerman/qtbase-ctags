@@ -1,0 +1,1 @@
+DECL|macro|BLURPICKER_H

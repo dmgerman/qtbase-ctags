@@ -1,0 +1,14 @@
+DECL|enumerator|InitialSize
+DECL|function|QTestCharBuffer
+DECL|function|buffer
+DECL|function|constData
+DECL|function|data
+DECL|function|reset
+DECL|function|size
+DECL|function|~QTestCharBuffer
+DECL|macro|QABSTRACTTESTLOGGER_P_H
+DECL|member|buf
+DECL|member|private
+DECL|member|staticBuf
+DECL|struct|QTestCharBuffer
+DECL|variable|QBenchmarkResult

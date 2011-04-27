@@ -1,0 +1,15 @@
+DECL|class|QFocusFramePrivate
+DECL|function|QFocusFrame
+DECL|function|QFocusFramePrivate
+DECL|function|event
+DECL|function|eventFilter
+DECL|function|initStyleOption
+DECL|function|paintEvent
+DECL|function|setWidget
+DECL|function|update
+DECL|function|updateSize
+DECL|function|widget
+DECL|function|~QFocusFrame
+DECL|member|frameParent
+DECL|member|showFrameAboveWidget
+DECL|member|widget

@@ -1,0 +1,4 @@
+DECL|function|createConclusionPage
+DECL|function|createIntroPage
+DECL|function|createRegistrationPage
+DECL|function|main

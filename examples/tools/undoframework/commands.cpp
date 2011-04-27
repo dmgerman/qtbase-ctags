@@ -1,0 +1,12 @@
+DECL|function|AddCommand
+DECL|function|DeleteCommand
+DECL|function|MoveCommand
+DECL|function|createCommandString
+DECL|function|mergeWith
+DECL|function|redo
+DECL|function|redo
+DECL|function|redo
+DECL|function|undo
+DECL|function|undo
+DECL|function|undo
+DECL|function|~AddCommand

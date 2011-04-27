@@ -1,0 +1,9 @@
+DECL|function|MainWindow
+DECL|function|about
+DECL|function|closeEvent
+DECL|function|createActions
+DECL|function|createMenus
+DECL|function|maybeSave
+DECL|function|open
+DECL|function|save
+DECL|function|saveFile

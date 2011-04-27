@@ -1,0 +1,17 @@
+DECL|class|EventTester
+DECL|class|EventsBench
+DECL|class|PingPong
+DECL|function|cleanupTestCase
+DECL|function|event
+DECL|function|event
+DECL|function|foo
+DECL|function|initTestCase
+DECL|function|noEvent
+DECL|function|postEvent
+DECL|function|postEvent_data
+DECL|function|resetCounter
+DECL|function|sendEvent
+DECL|function|sendEvent_data
+DECL|function|setPeer
+DECL|member|m_counter
+DECL|member|m_peer

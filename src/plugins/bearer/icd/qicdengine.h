@@ -1,0 +1,7 @@
+DECL|function|bearerTypeFromIapType
+DECL|function|toIcdConfig
+DECL|macro|QICDENGINE_H
+DECL|variable|IapMonitor
+DECL|variable|QDBusInterface
+DECL|variable|QDBusServiceWatcher
+DECL|variable|QNetworkConfigurationPrivate

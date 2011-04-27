@@ -1,0 +1,2 @@
+DECL|macro|QRESOURCE_P_H
+DECL|variable|QResourceFileEnginePrivate

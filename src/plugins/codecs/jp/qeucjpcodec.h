@@ -1,0 +1,1 @@
+DECL|macro|QEUCJPCODEC_H

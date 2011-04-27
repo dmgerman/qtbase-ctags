@@ -1,0 +1,4 @@
+DECL|class|tst_BenchlibWalltime
+DECL|function|qbenchmark_once
+DECL|function|waitForFourThousand
+DECL|function|waitForOneThousand

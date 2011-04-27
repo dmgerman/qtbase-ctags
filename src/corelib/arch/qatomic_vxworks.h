@@ -1,0 +1,1 @@
+DECL|macro|QATOMIC_VXWORKS_H

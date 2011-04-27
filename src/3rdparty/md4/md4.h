@@ -1,0 +1,11 @@
+DECL|macro|MD4_RESULTLEN
+DECL|macro|__MD4_H
+DECL|member|a
+DECL|member|b
+DECL|member|block
+DECL|member|buffer
+DECL|member|c
+DECL|member|d
+DECL|member|hi
+DECL|member|lo
+DECL|struct|md4_context

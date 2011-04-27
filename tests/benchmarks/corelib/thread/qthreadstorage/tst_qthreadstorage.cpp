@@ -1,0 +1,10 @@
+DECL|class|tst_QThreadStorage
+DECL|function|cleanup
+DECL|function|construct
+DECL|function|get
+DECL|function|init
+DECL|function|set
+DECL|function|tst_QThreadStorage
+DECL|function|~tst_QThreadStorage
+DECL|variable|dummy
+DECL|variable|tls1

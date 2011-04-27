@@ -1,0 +1,1 @@
+DECL|macro|PLUGINDIALOG_H

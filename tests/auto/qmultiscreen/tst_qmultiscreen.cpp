@@ -1,0 +1,9 @@
+DECL|class|tst_QMultiScreen
+DECL|function|cleanupTestCase
+DECL|function|grabWindow
+DECL|function|initTestCase
+DECL|function|tst_QMultiScreen
+DECL|function|widgetSetFixedSize
+DECL|function|~tst_QMultiScreen
+DECL|member|oldScreen
+DECL|member|screen

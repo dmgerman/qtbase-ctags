@@ -1,0 +1,12 @@
+DECL|class|tst_QWinEventNotifier
+DECL|function|cleanup
+DECL|function|cleanupTestCase
+DECL|function|init
+DECL|function|initTestCase
+DECL|function|simple
+DECL|function|simple_activated
+DECL|function|simple_timerSet
+DECL|function|tst_QWinEventNotifier
+DECL|function|~tst_QWinEventNotifier
+DECL|member|simpleActivated
+DECL|member|simpleHEvent

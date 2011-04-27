@@ -1,0 +1,10 @@
+DECL|function|Window
+DECL|function|browse
+DECL|function|createButton
+DECL|function|createComboBox
+DECL|function|createFilesTable
+DECL|function|find
+DECL|function|findFiles
+DECL|function|openFileOfItem
+DECL|function|showFiles
+DECL|function|updateComboBox

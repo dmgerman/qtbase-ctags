@@ -1,0 +1,11 @@
+DECL|function|HoverPoints
+DECL|function|bound_point
+DECL|function|eventFilter
+DECL|function|firePointChange
+DECL|function|movePoint
+DECL|function|paintPoints
+DECL|function|setEnabled
+DECL|function|setPoints
+DECL|function|x_less_than
+DECL|function|y_less_than
+DECL|macro|printf

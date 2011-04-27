@@ -1,0 +1,13 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|af_face_globals_compute_script_coverage
+DECL|function|af_face_globals_free
+DECL|macro|AF_SCRIPT_LIST_DEFAULT
+DECL|macro|AF_SCRIPT_LIST_NONE
+DECL|member|face
+DECL|member|glyph_count
+DECL|member|glyph_scripts
+DECL|member|metrics
+DECL|struct|AF_FaceGlobalsRec_
+DECL|typedef|AF_FaceGlobalsRec
+DECL|variable|af_script_classes

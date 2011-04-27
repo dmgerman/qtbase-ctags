@@ -1,0 +1,9 @@
+DECL|enumerator|DownScroll
+DECL|enumerator|LeftScroll
+DECL|enumerator|RightScroll
+DECL|enumerator|UpScroll
+DECL|enum|Direction
+DECL|macro|QEFFECTS_P_H
+DECL|struct|QEffects
+DECL|typedef|DirFlags
+DECL|variable|QWidget

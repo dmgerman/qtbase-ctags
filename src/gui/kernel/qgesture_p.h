@@ -1,0 +1,1 @@
+DECL|macro|QGESTURE_P_H

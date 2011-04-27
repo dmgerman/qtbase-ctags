@@ -1,0 +1,2 @@
+DECL|macro|QGRAPHICSEFFECT_P_H
+DECL|variable|QGraphicsEffectSourcePrivate

@@ -1,0 +1,4 @@
+DECL|macro|QWAYLANDCURSOR_H
+DECL|variable|QWaylandDisplay
+DECL|variable|QWaylandScreen
+DECL|variable|QWaylandShmBuffer

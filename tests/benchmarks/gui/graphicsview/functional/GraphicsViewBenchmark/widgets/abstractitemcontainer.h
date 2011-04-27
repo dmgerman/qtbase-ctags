@@ -1,0 +1,4 @@
+DECL|macro|ABSTRACTITEMCONTAINER_H
+DECL|variable|AbstractItemView
+DECL|variable|AbstractViewItem
+DECL|variable|QGraphicsWidget

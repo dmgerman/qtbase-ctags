@@ -1,0 +1,14 @@
+DECL|variable|asc_line
+DECL|variable|asc_line
+DECL|variable|asc_line
+DECL|variable|asc_line
+DECL|variable|asc_line
+DECL|variable|asc_line
+DECL|variable|asc_line
+DECL|variable|mpw_line
+DECL|variable|mpw_line
+DECL|variable|mpw_line
+DECL|variable|mpw_line
+DECL|variable|mpw_line
+DECL|variable|mpw_line
+DECL|variable|mpw_line

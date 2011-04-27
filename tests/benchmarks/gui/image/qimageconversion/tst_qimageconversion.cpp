@@ -1,0 +1,4 @@
+DECL|class|tst_QImageConversion
+DECL|function|convertRgb888ToRGB32
+DECL|function|convertRgb888ToRGB32_data
+DECL|function|generateImageRgb888

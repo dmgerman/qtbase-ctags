@@ -1,0 +1,5 @@
+DECL|function|qt_blend_argb32_on_argb32_mmx
+DECL|function|qt_blend_color_argb_mmx
+DECL|function|qt_blend_rgb32_on_rgb32_mmx
+DECL|variable|qt_functionForModeSolid_MMX
+DECL|variable|qt_functionForMode_MMX

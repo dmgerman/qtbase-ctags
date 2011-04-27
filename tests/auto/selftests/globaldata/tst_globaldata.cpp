@@ -1,0 +1,14 @@
+DECL|class|tst_Subtest
+DECL|function|cleanup
+DECL|function|cleanupTestCase
+DECL|function|init
+DECL|function|initTestCase
+DECL|function|initTestCase_data
+DECL|function|skip
+DECL|function|skipLocal
+DECL|function|skipLocal_data
+DECL|function|skipSingle
+DECL|function|skipSingle_data
+DECL|function|skip_data
+DECL|function|testGlobal
+DECL|function|testGlobal_data

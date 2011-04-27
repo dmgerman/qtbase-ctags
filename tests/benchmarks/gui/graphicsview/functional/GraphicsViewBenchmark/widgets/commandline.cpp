@@ -1,0 +1,3 @@
+DECL|function|argumentOnlyAvailableInManualMode
+DECL|function|readSettingsFromCommandLine
+DECL|function|usage

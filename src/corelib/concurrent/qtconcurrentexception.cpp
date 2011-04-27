@@ -1,0 +1,22 @@
+DECL|class|Base
+DECL|function|Base
+DECL|function|ExceptionHolder
+DECL|function|ExceptionHolder
+DECL|function|clone
+DECL|function|clone
+DECL|function|exception
+DECL|function|exception
+DECL|function|hasException
+DECL|function|hasThrown
+DECL|function|operator =
+DECL|function|raise
+DECL|function|raise
+DECL|function|setException
+DECL|function|throwPossibleException
+DECL|function|~Base
+DECL|function|~ExceptionHolder
+DECL|member|exception
+DECL|member|hasThrown
+DECL|member|refCount
+DECL|namespace|QtConcurrent
+DECL|namespace|internal

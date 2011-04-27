@@ -1,0 +1,6 @@
+DECL|macro|QPLAINTEXTEDIT_H
+DECL|variable|QMenu
+DECL|variable|QMimeData
+DECL|variable|QPlainTextDocumentLayoutPrivate
+DECL|variable|QPlainTextEditPrivate
+DECL|variable|QTextDocument

@@ -1,0 +1,13 @@
+DECL|class|HttpReceiver
+DECL|class|tst_qnetworkreply
+DECL|function|finishedSlot
+DECL|function|limiting
+DECL|function|limiting_data
+DECL|function|readyReadSlot
+DECL|function|startTimer
+DECL|function|timeoutSlot
+DECL|macro|BANDWIDTH_LIMIT_BYTES
+DECL|macro|TIME_ESTIMATION_SECONDS
+DECL|member|stopwatch
+DECL|member|timer
+DECL|variable|reply

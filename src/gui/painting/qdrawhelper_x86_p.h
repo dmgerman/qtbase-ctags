@@ -1,0 +1,2 @@
+DECL|macro|QDRAWHELPER_X86_P_H
+DECL|variable|numCompositionFunctions

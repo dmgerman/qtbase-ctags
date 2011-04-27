@@ -1,0 +1,12 @@
+DECL|function|QMeeGoPixmapData
+DECL|function|createCompatiblePixmapData
+DECL|function|destroyEGLSharedImage
+DECL|function|fromEGLSharedImage
+DECL|function|fromImage
+DECL|function|fromTexture
+DECL|function|imageToEGLSharedImage
+DECL|function|registerSharedImage
+DECL|function|toImage
+DECL|function|updateFromSoftImage
+DECL|member|sharedImagesMap
+DECL|variable|preserved_image_attribs

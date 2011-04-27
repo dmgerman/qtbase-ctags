@@ -1,0 +1,15 @@
+DECL|function|Report
+DECL|function|addItems
+DECL|function|addMismatch
+DECL|function|end
+DECL|function|filePath
+DECL|function|generateCompared
+DECL|function|generateThumbnail
+DECL|function|handleCGIQuery
+DECL|function|init
+DECL|function|write
+DECL|function|writeFooter
+DECL|function|writeFunctionResults
+DECL|function|writeHeader
+DECL|function|writeItem
+DECL|function|~Report

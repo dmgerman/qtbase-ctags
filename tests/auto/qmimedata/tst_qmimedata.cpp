@@ -1,0 +1,15 @@
+DECL|class|tst_QMimeData
+DECL|function|clear
+DECL|function|colorData
+DECL|function|data
+DECL|function|formats
+DECL|function|hasColor
+DECL|function|hasFormat
+DECL|function|hasHtml
+DECL|function|hasImage
+DECL|function|imageData
+DECL|function|removeFormat
+DECL|function|setHtml
+DECL|function|setText
+DECL|function|setUrls
+DECL|function|tst_QMimeData

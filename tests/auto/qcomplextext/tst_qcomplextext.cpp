@@ -1,0 +1,9 @@
+DECL|class|tst_QComplexText
+DECL|function|bidiCursor_PDF
+DECL|function|bidiCursor_qtbug2795
+DECL|function|bidiReorderString
+DECL|function|bidiReorderString_data
+DECL|function|cleanup
+DECL|function|init
+DECL|function|tst_QComplexText
+DECL|function|~tst_QComplexText

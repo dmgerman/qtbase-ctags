@@ -1,0 +1,1 @@
+DECL|macro|TRPREVIEWTOOL_H

@@ -1,0 +1,10 @@
+DECL|function|MainWindow
+DECL|function|aboutAct
+DECL|function|alphaActionTriggered
+DECL|function|brushColorAct
+DECL|function|createActions
+DECL|function|createMenus
+DECL|function|lineWidthActionTriggered
+DECL|function|loadAct
+DECL|function|saturationActionTriggered
+DECL|function|saveAct

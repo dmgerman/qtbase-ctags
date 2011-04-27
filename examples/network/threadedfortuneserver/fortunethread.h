@@ -1,0 +1,1 @@
+DECL|macro|FORTUNETHREAD_H

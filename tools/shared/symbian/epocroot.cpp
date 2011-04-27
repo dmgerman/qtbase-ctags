@@ -1,0 +1,7 @@
+DECL|function|checkEpocRootExists
+DECL|function|fixEpocRoot
+DECL|function|getDevicesXmlPath
+DECL|function|qt_epocRoot
+DECL|macro|SYMBIAN_SDKS_REG_HANDLE
+DECL|macro|SYMBIAN_SDKS_REG_SUBKEY
+DECL|variable|epocRootValue

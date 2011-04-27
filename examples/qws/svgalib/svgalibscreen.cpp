@@ -1,0 +1,12 @@
+DECL|function|blit
+DECL|function|blit16To8
+DECL|function|blit32To8
+DECL|function|connect
+DECL|function|createSurface
+DECL|function|createSurface
+DECL|function|disconnect
+DECL|function|getModeDepth
+DECL|function|initColorMap
+DECL|function|initDevice
+DECL|function|shutdownDevice
+DECL|function|solidFill

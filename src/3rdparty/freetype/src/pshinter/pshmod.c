@@ -1,0 +1,15 @@
+DECL|function|FT_CALLBACK_DEF
+DECL|function|FT_CALLBACK_DEF
+DECL|function|FT_CALLBACK_DEF
+DECL|function|FT_CALLBACK_DEF
+DECL|function|ps_hinter_done
+DECL|member|globals_funcs
+DECL|member|ps_hints
+DECL|member|root
+DECL|member|t1_funcs
+DECL|member|t2_funcs
+DECL|struct|PS_Hinter_Module_Rec_
+DECL|typedef|PS_Hinter_Module
+DECL|typedef|PS_Hinter_ModuleRec
+DECL|variable|pshinter_interface
+DECL|variable|pshinter_module_class

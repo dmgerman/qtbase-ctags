@@ -1,0 +1,9 @@
+DECL|function|QTestXunitStreamer
+DECL|function|formatAfterAttributes
+DECL|function|formatAttributes
+DECL|function|formatEnd
+DECL|function|formatStart
+DECL|function|indentForElement
+DECL|function|output
+DECL|function|outputElements
+DECL|function|~QTestXunitStreamer

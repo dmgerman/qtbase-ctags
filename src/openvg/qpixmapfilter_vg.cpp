@@ -1,0 +1,12 @@
+DECL|function|QVGPixmapBlurFilter
+DECL|function|QVGPixmapColorizeFilter
+DECL|function|QVGPixmapConvolutionFilter
+DECL|function|QVGPixmapDropShadowFilter
+DECL|function|draw
+DECL|function|draw
+DECL|function|draw
+DECL|function|draw
+DECL|function|~QVGPixmapBlurFilter
+DECL|function|~QVGPixmapColorizeFilter
+DECL|function|~QVGPixmapConvolutionFilter
+DECL|function|~QVGPixmapDropShadowFilter

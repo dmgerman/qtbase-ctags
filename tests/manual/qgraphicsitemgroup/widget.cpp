@@ -1,0 +1,14 @@
+DECL|function|Widget
+DECL|function|checkedItem
+DECL|function|onSceneSelectionChanged
+DECL|function|on_buttonGroup_buttonClicked
+DECL|function|on_dismantle_clicked
+DECL|function|on_group_clicked
+DECL|function|on_merge_clicked
+DECL|function|on_rotateItem_valueChanged
+DECL|function|on_rotate_valueChanged
+DECL|function|on_scaleItem_valueChanged
+DECL|function|on_scale_valueChanged
+DECL|function|on_ungroup_clicked
+DECL|function|updateUngroupButton
+DECL|function|~Widget

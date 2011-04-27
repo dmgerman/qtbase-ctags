@@ -1,0 +1,11 @@
+DECL|function|PiecesModel
+DECL|function|addPiece
+DECL|function|addPieces
+DECL|function|data
+DECL|function|dropMimeData
+DECL|function|flags
+DECL|function|mimeData
+DECL|function|mimeTypes
+DECL|function|removeRows
+DECL|function|rowCount
+DECL|function|supportedDropActions

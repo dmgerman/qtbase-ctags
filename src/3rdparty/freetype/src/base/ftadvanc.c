@@ -1,0 +1,4 @@
+DECL|function|FT_EXPORT_DEF
+DECL|function|FT_EXPORT_DEF
+DECL|function|_ft_face_scale_advances
+DECL|macro|LOAD_ADVANCE_FAST_CHECK

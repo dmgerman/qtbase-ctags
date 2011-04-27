@@ -1,0 +1,6 @@
+DECL|function|FT_DEFINE_SERVICE
+DECL|macro|FT_SERVICE_ID_CID
+DECL|macro|__SVCID_H__
+DECL|typedef|FT_CID_GetCIDFromGlyphIndexFunc
+DECL|typedef|FT_CID_GetIsInternallyCIDKeyedFunc
+DECL|typedef|FT_CID_GetRegistryOrderingSupplementFunc

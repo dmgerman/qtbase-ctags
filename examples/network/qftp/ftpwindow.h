@@ -1,0 +1,12 @@
+DECL|macro|FTPWINDOW_H
+DECL|variable|QDialogButtonBox
+DECL|variable|QFile
+DECL|variable|QFtp
+DECL|variable|QLabel
+DECL|variable|QLineEdit
+DECL|variable|QNetworkSession
+DECL|variable|QProgressDialog
+DECL|variable|QPushButton
+DECL|variable|QTreeWidget
+DECL|variable|QTreeWidgetItem
+DECL|variable|QUrlInfo

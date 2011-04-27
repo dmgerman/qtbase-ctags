@@ -1,0 +1,12 @@
+DECL|function|cmp
+DECL|function|convertFromUnicode
+DECL|function|convertToUnicode
+DECL|function|mibEnum
+DECL|function|name
+DECL|function|qt_TSCIIToUnicode
+DECL|function|qt_UnicodeToTSCII
+DECL|function|~QTsciiCodec
+DECL|macro|IsTSCIIChar
+DECL|variable|TsToUn
+DECL|variable|UnToTs
+DECL|variable|UnToTsLast

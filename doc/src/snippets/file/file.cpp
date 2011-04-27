@@ -1,0 +1,8 @@
+DECL|function|main
+DECL|function|noStream_snippet
+DECL|function|process_line
+DECL|function|process_line
+DECL|function|readRegularEmptyFile_snippet
+DECL|function|readTextStream_snippet
+DECL|function|writeTextStream_snippet
+DECL|function|writeTextStream_snippet

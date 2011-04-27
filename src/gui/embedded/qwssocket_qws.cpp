@@ -1,0 +1,15 @@
+DECL|function|QWSServerSocket
+DECL|function|QWSSocket
+DECL|function|connectToLocalFile
+DECL|function|errorString
+DECL|function|forwardStateChange
+DECL|function|incomingConnection
+DECL|function|init
+DECL|function|nextPendingConnection
+DECL|function|~QWSServerSocket
+DECL|function|~QWSSocket
+DECL|macro|AF_LOCAL
+DECL|macro|PF_LOCAL
+DECL|macro|SOCK_DGRAM
+DECL|macro|SOCK_STREAM
+DECL|macro|SUN_LEN

@@ -1,0 +1,2 @@
+DECL|macro|QNETWORKREPLYDATAIMPL_H
+DECL|variable|QNetworkReplyDataImplPrivate

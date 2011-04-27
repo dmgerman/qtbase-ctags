@@ -1,0 +1,10 @@
+DECL|function|QColumnViewGrip
+DECL|function|QColumnViewGrip
+DECL|function|QColumnViewGripPrivate
+DECL|function|mouseDoubleClickEvent
+DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent
+DECL|function|moveGrip
+DECL|function|paintEvent
+DECL|function|~QColumnViewGrip

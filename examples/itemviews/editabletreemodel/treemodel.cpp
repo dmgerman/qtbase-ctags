@@ -1,0 +1,17 @@
+DECL|function|TreeModel
+DECL|function|columnCount
+DECL|function|data
+DECL|function|flags
+DECL|function|getItem
+DECL|function|headerData
+DECL|function|index
+DECL|function|insertColumns
+DECL|function|insertRows
+DECL|function|parent
+DECL|function|removeColumns
+DECL|function|removeRows
+DECL|function|rowCount
+DECL|function|setData
+DECL|function|setHeaderData
+DECL|function|setupModelData
+DECL|function|~TreeModel

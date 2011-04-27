@@ -1,0 +1,17 @@
+DECL|function|RequestComplete
+DECL|function|RequestComplete
+DECL|macro|QEVENTDISPATCHER_SYMBIAN_P_H
+DECL|macro|VERIFY_PENDING_REQUEST_STATUS
+DECL|macro|VERIFY_PENDING_REQUEST_STATUS
+DECL|macro|VERIFY_PENDING_REQUEST_STATUS
+DECL|member|dispatcher
+DECL|member|inTimerEvent
+DECL|member|interval
+DECL|member|msLeft
+DECL|member|receiver
+DECL|member|timerAO
+DECL|member|timerId
+DECL|struct|QSharedData
+DECL|typedef|SymbianTimerInfoPtr
+DECL|variable|QEventDispatcherSymbian
+DECL|variable|QTimerActiveObject

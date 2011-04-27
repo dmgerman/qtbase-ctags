@@ -1,0 +1,12 @@
+DECL|class|bench_QDir_10000
+DECL|function|baseline
+DECL|function|cleanupTestCase
+DECL|function|iDontWantAnyStat
+DECL|function|iDontWantAnyStatIterator
+DECL|function|initTestCase
+DECL|function|sizeSpeed
+DECL|function|sizeSpeedIterator
+DECL|function|sizeSpeedWithoutFileInfoList
+DECL|function|sizeSpeedWithoutFilter
+DECL|function|sizeSpeedWithoutFilterIterator
+DECL|function|sizeSpeedWithoutFilterLowLevel

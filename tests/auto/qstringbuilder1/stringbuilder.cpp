@@ -1,0 +1,9 @@
+DECL|function|runScenario
+DECL|macro|LITERAL
+DECL|macro|LITERAL_EXTRA
+DECL|macro|LITERAL_LEN
+DECL|macro|Q
+DECL|macro|Q
+DECL|macro|UTF8_LITERAL
+DECL|macro|UTF8_LITERAL_EXTRA
+DECL|macro|UTF8_LITERAL_LEN

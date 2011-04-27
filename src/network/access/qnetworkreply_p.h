@@ -1,0 +1,2 @@
+DECL|macro|QNETWORKREPLY_P_H
+DECL|variable|QIODevicePrivate

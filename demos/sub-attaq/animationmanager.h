@@ -1,0 +1,2 @@
+DECL|macro|ANIMATIONMANAGER_H
+DECL|variable|QAbstractAnimation

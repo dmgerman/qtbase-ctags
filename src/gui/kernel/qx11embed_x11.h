@@ -1,0 +1,2 @@
+DECL|macro|QX11EMBED_X11_H
+DECL|variable|QX11EmbedContainerPrivate

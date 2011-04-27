@@ -1,0 +1,10 @@
+DECL|macro|RANGECONTROLS_H
+DECL|variable|QAbstractSlider
+DECL|variable|QAbstractSpinBox
+DECL|variable|QAccessibleWidgetEx
+DECL|variable|QAccessibleWidgetEx
+DECL|variable|QDial
+DECL|variable|QDoubleSpinBox
+DECL|variable|QScrollBar
+DECL|variable|QSlider
+DECL|variable|QSpinBox

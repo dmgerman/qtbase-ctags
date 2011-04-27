@@ -1,0 +1,17 @@
+DECL|function|QSoftKeyManager
+DECL|function|appendSoftkeys
+DECL|function|cleanupHash
+DECL|function|createAction
+DECL|function|createKeyedAction
+DECL|function|event
+DECL|function|handleCommand
+DECL|function|handleUpdateSoftKeys
+DECL|function|instance
+DECL|function|isChildOf
+DECL|function|isForceEnabledInSofkeys
+DECL|function|sendKeyEvent
+DECL|function|setForceEnabledInSoftkeys
+DECL|function|softkeySource
+DECL|function|standardSoftKeyText
+DECL|function|updateSoftKeys
+DECL|member|self

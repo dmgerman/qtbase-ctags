@@ -1,0 +1,15 @@
+DECL|function|QVectorPathCmd
+DECL|function|operator
+DECL|macro|QPAINTBUFFER_P_H
+DECL|member|extra
+DECL|member|id
+DECL|member|offset
+DECL|member|offset2
+DECL|member|size
+DECL|member|vectorPath
+DECL|struct|QPaintBufferCommand
+DECL|struct|QVectorPathCmd
+DECL|variable|QPaintBufferEngine
+DECL|variable|QPaintBufferEnginePrivate
+DECL|variable|QPaintBufferPlayback
+DECL|variable|QPaintBufferPrivate

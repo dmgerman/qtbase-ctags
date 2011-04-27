@@ -1,0 +1,2 @@
+DECL|macro|QCOPCHANNEL_QWS_H
+DECL|variable|QCopChannelPrivate

@@ -1,0 +1,6 @@
+DECL|function|StyleSheetEditor
+DECL|function|loadStyleSheet
+DECL|function|on_applyButton_clicked
+DECL|function|on_styleCombo_activated
+DECL|function|on_styleSheetCombo_activated
+DECL|function|on_styleTextEdit_textChanged

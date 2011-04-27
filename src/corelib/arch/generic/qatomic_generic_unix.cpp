@@ -1,0 +1,7 @@
+DECL|function|QBasicAtomicInt_fetchAndAddOrdered
+DECL|function|QBasicAtomicInt_fetchAndStoreOrdered
+DECL|function|QBasicAtomicInt_testAndSetOrdered
+DECL|function|QBasicAtomicPointer_fetchAndAddOrdered
+DECL|function|QBasicAtomicPointer_fetchAndStoreOrdered
+DECL|function|QBasicAtomicPointer_testAndSetOrdered
+DECL|variable|qAtomicMutex

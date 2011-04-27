@@ -1,0 +1,14 @@
+DECL|function|HB_GetGraphemeAndLineBreakClass
+DECL|function|HB_GetGraphemeClass
+DECL|function|HB_GetLineBreakClass
+DECL|function|HB_GetMirroredChar
+DECL|function|HB_GetSentenceClass
+DECL|function|HB_GetUnicodeCharCategory
+DECL|function|HB_GetUnicodeCharCombiningClass
+DECL|function|HB_GetUnicodeCharProperties
+DECL|function|HB_GetWordClass
+DECL|function|HB_Library_Resolve
+DECL|function|qGetCharAttributes
+DECL|function|qHBFreeFace
+DECL|function|qHBNewFace
+DECL|function|qShapeItem

@@ -1,0 +1,9 @@
+DECL|macro|__PCFTYPES_H__
+DECL|member|charset_encoding
+DECL|member|charset_registry
+DECL|member|gzip_source
+DECL|member|gzip_stream
+DECL|member|root
+DECL|struct|PCF_Public_FaceRec_
+DECL|typedef|PCF_Public_Face
+DECL|typedef|PCF_Public_FaceRec

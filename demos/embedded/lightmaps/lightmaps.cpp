@@ -1,0 +1,15 @@
+DECL|function|LightMaps
+DECL|function|activateZoom
+DECL|function|keyPressEvent
+DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent
+DECL|function|paintEvent
+DECL|function|resizeEvent
+DECL|function|setCenter
+DECL|function|timerEvent
+DECL|function|toggleNightMode
+DECL|function|updateMap
+DECL|macro|HOLD_TIME
+DECL|macro|MAX_MAGNIFIER
+DECL|macro|M_PI

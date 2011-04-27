@@ -1,0 +1,3 @@
+DECL|function|NumberFormatsWidget
+DECL|function|createLineEdit
+DECL|function|localeChanged

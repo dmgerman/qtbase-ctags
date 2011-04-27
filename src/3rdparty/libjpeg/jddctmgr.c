@@ -1,0 +1,14 @@
+DECL|function|jinit_inverse_dct
+DECL|function|start_pass
+DECL|macro|CONST_BITS
+DECL|macro|JPEG_INTERNALS
+DECL|macro|PROVIDE_ISLOW_TABLES
+DECL|macro|PROVIDE_ISLOW_TABLES
+DECL|member|cur_method
+DECL|member|float_array
+DECL|member|ifast_array
+DECL|member|islow_array
+DECL|member|pub
+DECL|typedef|multiplier_table
+DECL|typedef|my_idct_controller
+DECL|typedef|my_idct_ptr

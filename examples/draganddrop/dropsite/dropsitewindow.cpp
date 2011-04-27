@@ -1,0 +1,2 @@
+DECL|function|DropSiteWindow
+DECL|function|updateFormatsTable

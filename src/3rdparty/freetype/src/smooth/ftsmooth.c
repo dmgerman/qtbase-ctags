@@ -1,0 +1,11 @@
+DECL|function|ft_smooth_get_cbox
+DECL|function|ft_smooth_init
+DECL|function|ft_smooth_render
+DECL|function|ft_smooth_render_generic
+DECL|function|ft_smooth_render_lcd
+DECL|function|ft_smooth_render_lcd_v
+DECL|function|ft_smooth_set_mode
+DECL|function|ft_smooth_transform
+DECL|variable|ft_smooth_lcd_renderer_class
+DECL|variable|ft_smooth_lcdv_renderer_class
+DECL|variable|ft_smooth_renderer_class

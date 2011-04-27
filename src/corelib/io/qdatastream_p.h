@@ -1,0 +1,1 @@
+DECL|macro|QDATASTREAM_P_H

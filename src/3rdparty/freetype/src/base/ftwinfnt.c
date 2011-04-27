@@ -1,0 +1,1 @@
+DECL|function|FT_EXPORT_DEF

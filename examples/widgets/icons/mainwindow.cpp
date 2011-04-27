@@ -1,0 +1,14 @@
+DECL|function|MainWindow
+DECL|function|about
+DECL|function|addImages
+DECL|function|changeIcon
+DECL|function|changeSize
+DECL|function|changeStyle
+DECL|function|checkCurrentStyle
+DECL|function|createActions
+DECL|function|createContextMenu
+DECL|function|createIconSizeGroupBox
+DECL|function|createImagesGroupBox
+DECL|function|createMenus
+DECL|function|createPreviewGroupBox
+DECL|function|removeAllImages

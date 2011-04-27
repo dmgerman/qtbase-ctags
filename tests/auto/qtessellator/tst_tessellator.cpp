@@ -1,0 +1,17 @@
+DECL|class|tst_QTessellator
+DECL|function|creatPoint
+DECL|function|fillRandomVec
+DECL|function|fillRectVec
+DECL|function|isConvex
+DECL|function|simplifyTestFailure
+DECL|function|test
+DECL|function|testArc
+DECL|function|testConvex
+DECL|function|testConvexRects
+DECL|function|testRandom
+DECL|function|testRects
+DECL|function|testStandardSet
+DECL|function|test_arc
+DECL|function|tst_QTessellator
+DECL|variable|numRects
+DECL|variable|numRects

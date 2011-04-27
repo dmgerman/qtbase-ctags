@@ -1,0 +1,5 @@
+DECL|macro|QGRAPHICSSYSTEM_VNC_H
+DECL|variable|QVNCDirtyMap
+DECL|variable|QVNCIntegrationPrivate
+DECL|variable|QVNCScreenPrivate
+DECL|variable|QVNCServer

@@ -1,0 +1,14 @@
+DECL|function|classic_kern_validate
+DECL|function|gxv_load_table
+DECL|function|gxv_validate
+DECL|function|gxvalid_get_service
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|macro|GXV_TABLE_DECL
+DECL|macro|GXV_TABLE_LOAD
+DECL|macro|GXV_TABLE_SET
+DECL|macro|GXV_TABLE_VALIDATE
+DECL|variable|ckernvalid_interface
+DECL|variable|gxv_module_class
+DECL|variable|gxvalid_interface
+DECL|variable|gxvalid_services

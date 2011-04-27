@@ -1,0 +1,10 @@
+DECL|class|tst_CharAttributes
+DECL|function|charStopForSurrogatePairs
+DECL|function|charWordStopOnLineSeparator
+DECL|function|cleanup
+DECL|function|getCharAttributes
+DECL|function|init
+DECL|function|lineBreaking
+DECL|function|thaiWordBreak
+DECL|function|tst_CharAttributes
+DECL|function|~tst_CharAttributes

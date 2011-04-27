@@ -1,0 +1,46 @@
+DECL|class|QNetworkRequestPrivate
+DECL|function|QNetworkRequest
+DECL|function|QNetworkRequest
+DECL|function|QNetworkRequestPrivate
+DECL|function|QNetworkRequestPrivate
+DECL|function|allRawHeaders
+DECL|function|attribute
+DECL|function|findRawHeader
+DECL|function|fromHttpDate
+DECL|function|hasRawHeader
+DECL|function|header
+DECL|function|headerName
+DECL|function|headerValue
+DECL|function|name_to_month
+DECL|function|operator =
+DECL|function|operator ==
+DECL|function|operator ==
+DECL|function|originatingObject
+DECL|function|parseAndSetHeader
+DECL|function|parseCookieHeader
+DECL|function|parseHeaderName
+DECL|function|parseHeaderValue
+DECL|function|parseHttpDate
+DECL|function|priority
+DECL|function|rawHeader
+DECL|function|rawHeaderList
+DECL|function|rawHeadersKeys
+DECL|function|setAllRawHeaders
+DECL|function|setAttribute
+DECL|function|setCookedHeader
+DECL|function|setHeader
+DECL|function|setOriginatingObject
+DECL|function|setPriority
+DECL|function|setRawHeader
+DECL|function|setRawHeader
+DECL|function|setRawHeaderInternal
+DECL|function|setSslConfiguration
+DECL|function|setUrl
+DECL|function|sslConfiguration
+DECL|function|toHttpDate
+DECL|function|url
+DECL|function|~QNetworkRequest
+DECL|function|~QNetworkRequestPrivate
+DECL|member|priority
+DECL|member|sslConfiguration
+DECL|member|url

@@ -1,0 +1,13 @@
+DECL|function|QDBusConnectionInterface
+DECL|function|connectNotify
+DECL|function|disconnectNotify
+DECL|function|isServiceRegistered
+DECL|function|registerService
+DECL|function|registeredServiceNames
+DECL|function|serviceOwner
+DECL|function|servicePid
+DECL|function|serviceUid
+DECL|function|startService
+DECL|function|staticInterfaceName
+DECL|function|unregisterService
+DECL|function|~QDBusConnectionInterface

@@ -1,0 +1,5 @@
+DECL|function|restoreGraphicsState
+DECL|function|saveGraphicsState
+DECL|macro|QPAINTENGINE_MAC_P_H
+DECL|typedef|CGColorSpaceRef
+DECL|variable|QCoreGraphicsPaintEnginePrivate

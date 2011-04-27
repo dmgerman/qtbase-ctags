@@ -1,0 +1,4 @@
+DECL|class|tst_QNetworkAddressEntry
+DECL|function|getSetCheck
+DECL|function|prefixAndNetmask
+DECL|function|prefixAndNetmask_data

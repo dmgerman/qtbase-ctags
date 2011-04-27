@@ -1,0 +1,15 @@
+DECL|function|QXbmHandler
+DECL|function|canRead
+DECL|function|canRead
+DECL|function|hex2byte
+DECL|function|name
+DECL|function|option
+DECL|function|read
+DECL|function|readHeader
+DECL|function|read_xbm_body
+DECL|function|read_xbm_header
+DECL|function|read_xbm_image
+DECL|function|setOption
+DECL|function|supportsOption
+DECL|function|write
+DECL|function|write_xbm_image

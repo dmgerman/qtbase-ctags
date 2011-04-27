@@ -1,0 +1,2 @@
+DECL|function|TextInformationItem
+DECL|function|setMessage

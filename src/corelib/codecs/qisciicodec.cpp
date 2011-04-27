@@ -1,0 +1,13 @@
+DECL|function|convertFromUnicode
+DECL|function|convertToUnicode
+DECL|function|mibEnum
+DECL|function|name
+DECL|function|~QIsciiCodec
+DECL|member|base
+DECL|member|name
+DECL|struct|Codecs
+DECL|variable|codecs
+DECL|variable|inv
+DECL|variable|iscii_to_uni_table
+DECL|variable|uni_to_iscii_pairs
+DECL|variable|uni_to_iscii_table

@@ -1,0 +1,2 @@
+DECL|function|launchSymbianColorDialog
+DECL|function|qtSymbianGetColor

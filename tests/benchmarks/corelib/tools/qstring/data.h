@@ -1,0 +1,13 @@
+DECL|macro|DATA_H
+DECL|member|align1
+DECL|member|align2
+DECL|member|charData
+DECL|member|entries
+DECL|member|entryCount
+DECL|member|len
+DECL|member|maxLength
+DECL|member|offset1
+DECL|member|offset2
+DECL|member|ushortData
+DECL|struct|StringCollection
+DECL|struct|StringData

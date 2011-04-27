@@ -1,0 +1,9 @@
+DECL|macro|WINDOW_H
+DECL|variable|QCalendarWidget
+DECL|variable|QCheckBox
+DECL|variable|QComboBox
+DECL|variable|QDate
+DECL|variable|QDateEdit
+DECL|variable|QGridLayout
+DECL|variable|QGroupBox
+DECL|variable|QLabel

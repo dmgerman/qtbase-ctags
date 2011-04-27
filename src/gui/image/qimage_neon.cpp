@@ -1,0 +1,2 @@
+DECL|function|convert_RGB888_to_RGB32_neon
+DECL|function|qt_convert_rgb888_to_rgb32_neon

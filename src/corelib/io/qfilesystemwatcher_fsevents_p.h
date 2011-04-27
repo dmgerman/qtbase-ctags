@@ -1,0 +1,14 @@
+DECL|function|PathInfo
+DECL|macro|FILEWATCHER_FSEVENTS_P_H
+DECL|member|absolutePath
+DECL|member|originalPath
+DECL|member|savedInfo
+DECL|struct|PathInfo
+DECL|typedef|CFArrayRef
+DECL|typedef|ConstFSEventStreamRef
+DECL|typedef|FSEventStreamEventFlags
+DECL|typedef|FSEventStreamEventId
+DECL|typedef|FSEventStreamRef
+DECL|typedef|PathHash
+DECL|typedef|PathInfoList
+DECL|typedef|QString

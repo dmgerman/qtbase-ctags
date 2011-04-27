@@ -1,0 +1,12 @@
+DECL|class|ClientServer
+DECL|enumerator|ConnectedClient
+DECL|enumerator|Server
+DECL|enumerator|UnconnectedClient
+DECL|enum|Type
+DECL|function|ClientServer
+DECL|function|main
+DECL|function|readData
+DECL|function|timerEvent
+DECL|member|peerAddress
+DECL|member|peerPort
+DECL|member|type

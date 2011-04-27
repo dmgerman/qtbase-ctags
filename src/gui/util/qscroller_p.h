@@ -1,0 +1,3 @@
+DECL|macro|QSCROLLER_P_H
+DECL|variable|QFlickGestureRecognizer
+DECL|variable|QScrollTimer

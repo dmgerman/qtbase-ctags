@@ -1,0 +1,14 @@
+DECL|function|GLWidget
+DECL|function|advanceGears
+DECL|function|drawGear
+DECL|function|initializeGL
+DECL|function|makeGear
+DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
+DECL|function|normalizeAngle
+DECL|function|paintGL
+DECL|function|resizeGL
+DECL|function|setXRotation
+DECL|function|setYRotation
+DECL|function|setZRotation
+DECL|function|~GLWidget

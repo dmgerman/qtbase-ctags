@@ -1,0 +1,10 @@
+DECL|function|MD5Final
+DECL|function|MD5Init
+DECL|function|MD5Transform
+DECL|function|MD5Update
+DECL|function|byteSwap
+DECL|macro|F1
+DECL|macro|F2
+DECL|macro|F3
+DECL|macro|F4
+DECL|macro|MD5STEP

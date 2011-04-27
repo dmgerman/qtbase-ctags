@@ -1,0 +1,11 @@
+DECL|class|QTextListPrivate
+DECL|function|QTextList
+DECL|function|QTextListPrivate
+DECL|function|add
+DECL|function|count
+DECL|function|item
+DECL|function|itemNumber
+DECL|function|itemText
+DECL|function|remove
+DECL|function|removeItem
+DECL|function|~QTextList

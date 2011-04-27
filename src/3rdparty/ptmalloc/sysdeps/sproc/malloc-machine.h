@@ -1,0 +1,13 @@
+DECL|macro|MUTEX_INITIALIZER
+DECL|macro|_SPROC_MALLOC_MACHINE_H
+DECL|macro|mutex_init
+DECL|macro|mutex_lock
+DECL|macro|mutex_trylock
+DECL|macro|mutex_unlock
+DECL|macro|thread_atfork
+DECL|macro|tsd_getspecific
+DECL|macro|tsd_key_create
+DECL|macro|tsd_setspecific
+DECL|typedef|mutex_t
+DECL|typedef|tsd_key_t
+DECL|variable|tsd_key_next

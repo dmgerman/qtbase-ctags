@@ -1,0 +1,1 @@
+DECL|macro|SCRIBBLEAREA_H

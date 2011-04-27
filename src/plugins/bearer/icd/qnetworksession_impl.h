@@ -1,0 +1,12 @@
+DECL|macro|QNETWORKSESSION_IMPL_H
+DECL|member|networkAttributes
+DECL|member|networkId
+DECL|member|networkType
+DECL|member|serviceAttributes
+DECL|member|serviceType
+DECL|member|setviceId
+DECL|struct|ICd2DetailsDBusStruct
+DECL|typedef|ICd2DetailsList
+DECL|variable|ICd2DetailsDBusStruct
+DECL|variable|ICd2DetailsList
+DECL|variable|QIcdEngine

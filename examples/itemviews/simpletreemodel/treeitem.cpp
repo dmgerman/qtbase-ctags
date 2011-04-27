@@ -1,0 +1,9 @@
+DECL|function|TreeItem
+DECL|function|appendChild
+DECL|function|child
+DECL|function|childCount
+DECL|function|columnCount
+DECL|function|data
+DECL|function|parent
+DECL|function|row
+DECL|function|~TreeItem

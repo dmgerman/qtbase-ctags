@@ -1,0 +1,1 @@
+DECL|macro|QWIDGETACTION_P_H

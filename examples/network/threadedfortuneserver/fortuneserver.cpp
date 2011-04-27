@@ -1,0 +1,2 @@
+DECL|function|FortuneServer
+DECL|function|incomingConnection

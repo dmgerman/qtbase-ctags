@@ -1,0 +1,16 @@
+DECL|function|QFragmentMapData
+DECL|function|createFragment
+DECL|function|erase_single
+DECL|function|findNode
+DECL|function|freeFragment
+DECL|function|init
+DECL|function|insert_single
+DECL|function|length
+DECL|function|next
+DECL|function|previous
+DECL|function|rebalance
+DECL|function|rotateLeft
+DECL|function|rotateRight
+DECL|function|~QFragmentMapData
+DECL|macro|QFRAGMENTMAP_P_H
+DECL|variable|N

@@ -1,0 +1,14 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|pfr_glyph_close_contour
+DECL|function|pfr_glyph_curve_to
+DECL|function|pfr_glyph_done
+DECL|function|pfr_glyph_end
+DECL|function|pfr_glyph_init
+DECL|function|pfr_glyph_line_to
+DECL|function|pfr_glyph_load_compound
+DECL|function|pfr_glyph_load_rec
+DECL|function|pfr_glyph_load_simple
+DECL|function|pfr_glyph_move_to
+DECL|function|pfr_glyph_start
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

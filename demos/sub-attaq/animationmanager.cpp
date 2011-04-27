@@ -1,0 +1,9 @@
+DECL|function|AnimationManager
+DECL|function|pauseAll
+DECL|function|registerAnimation
+DECL|function|resumeAll
+DECL|function|self
+DECL|function|unregisterAllAnimations
+DECL|function|unregisterAnimation
+DECL|function|unregisterAnimation_helper
+DECL|member|instance

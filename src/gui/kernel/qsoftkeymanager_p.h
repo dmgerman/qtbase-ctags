@@ -1,0 +1,2 @@
+DECL|macro|QSOFTKEYMANAGER_P_H
+DECL|variable|QSoftKeyManagerPrivate

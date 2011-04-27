@@ -1,0 +1,10 @@
+DECL|class|tst_QPen
+DECL|function|constructor
+DECL|function|constructor_data
+DECL|function|getSetCheck
+DECL|function|operator_eq_eq
+DECL|function|operator_eq_eq_data
+DECL|function|stream
+DECL|function|stream_data
+DECL|function|swap
+DECL|function|tst_QPen

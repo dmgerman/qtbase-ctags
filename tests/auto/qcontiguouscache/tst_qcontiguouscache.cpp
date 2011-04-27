@@ -1,0 +1,27 @@
+DECL|class|RefCountingClass
+DECL|class|tst_QContiguousCache
+DECL|function|RefCountingClass
+DECL|function|RefCountingClass
+DECL|function|append
+DECL|function|append_data
+DECL|function|asScrollingList
+DECL|function|cacheBenchmark
+DECL|function|complexType
+DECL|function|contiguousCacheBenchmark
+DECL|function|empty
+DECL|function|operator =
+DECL|function|operatorAt
+DECL|function|prepend
+DECL|function|prepend_data
+DECL|function|refCount
+DECL|function|setCapacity
+DECL|function|swap
+DECL|function|tst_QContiguousCache
+DECL|function|zeroCapacity
+DECL|function|~RefCountingClass
+DECL|function|~tst_QContiguousCache
+DECL|member|d
+DECL|member|ref
+DECL|member|shared_null
+DECL|member|shared_null
+DECL|struct|RefCountingClassData

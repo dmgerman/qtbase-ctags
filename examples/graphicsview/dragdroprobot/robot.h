@@ -1,0 +1,3 @@
+DECL|macro|ROBOT_H
+DECL|variable|QGraphicsSceneMouseEvent
+DECL|variable|QParallelAnimationGroup

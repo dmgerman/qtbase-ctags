@@ -1,0 +1,6 @@
+DECL|function|Window
+DECL|function|changePrecision
+DECL|function|createDateTimeEdits
+DECL|function|createDoubleSpinBoxes
+DECL|function|createSpinBoxes
+DECL|function|setFormatString

@@ -1,0 +1,1 @@
+DECL|macro|QSOUND_H

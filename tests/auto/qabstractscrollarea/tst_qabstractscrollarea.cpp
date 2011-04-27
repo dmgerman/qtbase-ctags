@@ -1,0 +1,16 @@
+DECL|class|ViewportCrashWidget
+DECL|class|tst_QAbstractScrollArea
+DECL|function|ViewportCrashWidget
+DECL|function|objectNaming
+DECL|function|patternBackground
+DECL|function|scrollBarWidgets
+DECL|function|setScrollBars
+DECL|function|setScrollBars2
+DECL|function|task214488_layoutDirection
+DECL|function|task214488_layoutDirection_data
+DECL|function|timerEvent
+DECL|function|tst_QAbstractScrollArea
+DECL|function|viewportCrash
+DECL|function|~tst_QAbstractScrollArea
+DECL|variable|Key
+DECL|variable|LayoutDirection

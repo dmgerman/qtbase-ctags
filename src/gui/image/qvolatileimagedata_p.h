@@ -1,0 +1,2 @@
+DECL|macro|QVOLATILEIMAGEDATA_P_H
+DECL|variable|CFbsBitmap
