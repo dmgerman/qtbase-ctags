@@ -1,4 +1,5 @@
 DECL|function|QXcbConnection
+DECL|function|addWindow
 DECL|function|atom
 DECL|function|handleXcbError
 DECL|function|hasEgl
@@ -9,6 +10,7 @@ DECL|function|log
 DECL|function|platformWindowFromId
 DECL|function|printXcbEvent
 DECL|function|processXcbEvents
+DECL|function|removeWindow
 DECL|function|sync
 DECL|function|~QXcbConnection
 DECL|macro|EGL_EGLEXT_PROTOTYPES

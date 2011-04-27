@@ -3,6 +3,7 @@ DECL|function|QGuiApplication
 DECL|function|QGuiApplicationPrivate
 DECL|function|clipboard
 DECL|function|compressEvent
+DECL|function|createEventDispatcher
 DECL|function|doubleClickInterval
 DECL|function|event
 DECL|function|exec

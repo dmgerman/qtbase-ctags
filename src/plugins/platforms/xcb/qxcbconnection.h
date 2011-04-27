@@ -9,5 +9,8 @@ DECL|macro|Q_XCB_CALL2
 DECL|macro|Q_XCB_DEBUG
 DECL|macro|Q_XCB_NOOP
 DECL|macro|Q_XCB_NOOP
+DECL|typedef|WindowMapper
+DECL|typedef|xcb_window_t
 DECL|variable|QXcbKeyboard
 DECL|variable|QXcbScreen
+DECL|variable|QXcbWindow
