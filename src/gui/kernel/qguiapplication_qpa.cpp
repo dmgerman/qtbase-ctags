@@ -6,6 +6,7 @@ DECL|function|compressEvent
 DECL|function|doubleClickInterval
 DECL|function|event
 DECL|function|exec
+DECL|function|font
 DECL|function|init
 DECL|function|init_platform
 DECL|function|init_plugins
@@ -28,10 +29,12 @@ DECL|function|reportAvailableGeometryChange
 DECL|function|reportGeometryChange
 DECL|function|reportScreenCount
 DECL|function|setDoubleClickInterval
+DECL|function|setFont
 DECL|function|setKeyboardInputInterval
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
 DECL|member|app_do_modal
+DECL|member|app_font
 DECL|member|buttons
 DECL|member|keyboard_input_time
 DECL|member|modifier_buttons
