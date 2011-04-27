@@ -56,6 +56,7 @@ DECL|function|~QWindow
 DECL|function|~QWindowPrivate
 DECL|member|geometry
 DECL|member|glContext
+DECL|member|parentWindow
 DECL|member|platformWindow
 DECL|member|requestedFormat
 DECL|member|surfaceType
