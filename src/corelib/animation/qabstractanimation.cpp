@@ -5,6 +5,7 @@ DECL|function|QAnimationDriver
 DECL|function|QDefaultAnimationDriver
 DECL|function|QUnifiedTimer
 DECL|function|advance
+DECL|function|canUninstallAnimationDriver
 DECL|function|closestPauseAnimationTimeToFinish
 DECL|function|currentLoop
 DECL|function|currentLoopTime
@@ -40,6 +41,8 @@ DECL|function|stopped
 DECL|function|timerEvent
 DECL|function|timerEvent
 DECL|function|totalDuration
+DECL|function|uninstall
+DECL|function|uninstallAnimationDriver
 DECL|function|unregisterAnimation
 DECL|function|unregisterRunningAnimation
 DECL|function|updateAnimationTimer
@@ -47,5 +50,6 @@ DECL|function|updateAnimationsTime
 DECL|function|updateDirection
 DECL|function|updateState
 DECL|function|~QAbstractAnimation
+DECL|function|~QAnimationDriver
 DECL|macro|DEFAULT_TIMER_INTERVAL
 DECL|macro|STARTSTOP_TIMER_DELAY
