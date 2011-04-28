@@ -17,6 +17,7 @@ DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|canRender
 DECL|function|clear
+DECL|function|cloneWithSize
 DECL|function|computeSize
 DECL|function|convertRGBToARGB
 DECL|function|convertRGBToARGB_V
@@ -40,6 +41,7 @@ DECL|function|glyphCount
 DECL|function|hb_getSFntTable
 DECL|function|init
 DECL|function|init
+DECL|function|initFromFontEngine
 DECL|function|leading
 DECL|function|lineThickness
 DECL|function|loadFlags
