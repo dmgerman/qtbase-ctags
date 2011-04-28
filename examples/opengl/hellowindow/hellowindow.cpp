@@ -6,4 +6,5 @@ DECL|function|mousePressEvent
 DECL|function|paintQtLogo
 DECL|function|quad
 DECL|function|render
+DECL|function|resizeEvent
 DECL|function|updateColor

@@ -1,6 +1,4 @@
-DECL|class|QWindowPrivate
 DECL|function|QWindow
-DECL|function|QWindowPrivate
 DECL|function|actualWindowFormat
 DECL|function|close
 DECL|function|create
@@ -53,14 +51,3 @@ DECL|function|windowFlags
 DECL|function|windowState
 DECL|function|windowTitle
 DECL|function|~QWindow
-DECL|function|~QWindowPrivate
-DECL|member|geometry
-DECL|member|glContext
-DECL|member|parentWindow
-DECL|member|platformWindow
-DECL|member|requestedFormat
-DECL|member|surfaceType
-DECL|member|visible
-DECL|member|widget
-DECL|member|windowFlags
-DECL|member|windowTitle
