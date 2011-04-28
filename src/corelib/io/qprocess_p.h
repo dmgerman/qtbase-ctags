@@ -1,4 +1,5 @@
 DECL|function|qHash
+DECL|function|qHash
 DECL|macro|INVALID_Q_PIPE
 DECL|macro|INVALID_Q_PIPE
 DECL|macro|QPROCESS_P_H
