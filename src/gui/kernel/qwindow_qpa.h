@@ -7,5 +7,4 @@ DECL|variable|QPlatformWindow
 DECL|variable|QResizeEvent
 DECL|variable|QShowEvent
 DECL|variable|QWheelEvent
-DECL|variable|QWidget
 DECL|variable|QWindowContext

@@ -2,11 +2,10 @@ DECL|class|QWindowSurfacePrivate
 DECL|function|QWindowSurface
 DECL|function|QWindowSurfacePrivate
 DECL|function|beginPaint
-DECL|function|buffer
 DECL|function|endPaint
 DECL|function|features
 DECL|function|geometry
-DECL|function|grabWidget
+DECL|function|grabWindow
 DECL|function|hasStaticContents
 DECL|function|offset
 DECL|function|qt_scrollRectInImage
@@ -20,7 +19,6 @@ DECL|function|window
 DECL|function|~QWindowSurface
 DECL|macro|Q_EXPORT_SCROLLRECT
 DECL|macro|Q_EXPORT_SCROLLRECT
-DECL|member|bufferImages
 DECL|member|geometry
 DECL|member|size
 DECL|member|staticContents

@@ -31,7 +31,6 @@ DECL|function|setParent
 DECL|function|setRequestFormat
 DECL|function|setSurfaceType
 DECL|function|setVisible
-DECL|function|setWidget
 DECL|function|setWindowFlags
 DECL|function|setWindowFormat
 DECL|function|setWindowIcon
@@ -45,7 +44,6 @@ DECL|function|showNormal
 DECL|function|surfaceType
 DECL|function|visible
 DECL|function|wheelEvent
-DECL|function|widget
 DECL|function|winId
 DECL|function|windowFlags
 DECL|function|windowState

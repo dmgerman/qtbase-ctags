@@ -3,4 +3,4 @@ DECL|variable|QObject
 DECL|variable|QPaintDevice
 DECL|variable|QPoint
 DECL|variable|QRegion
-DECL|variable|QWidget
+DECL|variable|QWindow

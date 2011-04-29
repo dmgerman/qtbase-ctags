@@ -1,3 +1,4 @@
 DECL|function|physicalSize
 DECL|function|platformScreenForWidget
+DECL|function|platformScreenForWindow
 DECL|function|topLevelAt

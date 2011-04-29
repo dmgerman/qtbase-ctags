@@ -4,7 +4,6 @@ DECL|function|QGLGraphicsSystem
 DECL|function|QGLWindowSurface
 DECL|function|beginPaint
 DECL|function|blitTexture
-DECL|function|buffer
 DECL|function|cleanup
 DECL|function|context
 DECL|function|context

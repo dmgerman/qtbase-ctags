@@ -114,5 +114,5 @@ DECL|variable|QUnifiedToolbarSurface
 DECL|variable|QWSManager
 DECL|variable|QWidgetBackingStore
 DECL|variable|QWidgetItemV2
-DECL|variable|QWindow
+DECL|variable|QWidgetWindow
 DECL|variable|RDrawableWindow
