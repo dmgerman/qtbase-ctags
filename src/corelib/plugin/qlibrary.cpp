@@ -1,4 +1,3 @@
-DECL|function|LibraryData
 DECL|function|QLibrary
 DECL|function|QLibrary
 DECL|function|QLibrary
@@ -35,7 +34,6 @@ DECL|function|setFileNameAndVersion
 DECL|function|setLoadHints
 DECL|function|unload
 DECL|function|unload
-DECL|function|~LibraryData
 DECL|function|~QLibrary
 DECL|function|~QLibraryPrivate
 DECL|macro|QLIBRARY_AS_DEBUG
@@ -47,7 +45,6 @@ DECL|member|lengths
 DECL|member|libraryMap
 DECL|member|loadedLibs
 DECL|member|results
-DECL|member|settings
 DECL|struct|LibraryData
 DECL|struct|qt_token_info
 DECL|typedef|LibraryMap

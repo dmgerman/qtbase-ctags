@@ -7,3 +7,4 @@ DECL|function|setPos
 DECL|function|update
 DECL|function|x11Screen
 DECL|function|~QCursorData
+DECL|macro|Status

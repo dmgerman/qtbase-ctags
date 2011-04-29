@@ -100,6 +100,7 @@ DECL|member|orgDomain
 DECL|member|orgName
 DECL|member|self
 DECL|member|theMainThread
+DECL|member|trolltechConf
 DECL|member|useQt3Support
 DECL|struct|QCoreApplicationData
 DECL|typedef|QVFuncList
