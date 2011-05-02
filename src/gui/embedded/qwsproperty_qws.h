@@ -1,2 +1,0 @@
-DECL|function|QT_MODULE
-DECL|macro|QWSPROPERTY_QWS_H

@@ -1,7 +1,0 @@
-DECL|function|Q_DECLARE_INTERFACE
-DECL|macro|QABSTRACTFONTENGINE_QWS_H
-DECL|macro|QFontEngineFactoryInterface_iid
-DECL|member|info
-DECL|struct|QFactoryInterface
-DECL|variable|QAbstractFontEngine
-DECL|variable|QAbstractFontEnginePrivate

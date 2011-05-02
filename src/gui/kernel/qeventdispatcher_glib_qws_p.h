@@ -1,2 +1,0 @@
-DECL|macro|QWSEVENTDISPATCHER_GLIB_P_H
-DECL|variable|QWSEventDispatcherGlibPrivate

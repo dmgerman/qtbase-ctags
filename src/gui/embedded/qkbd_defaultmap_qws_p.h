@@ -1,3 +1,0 @@
-DECL|macro|QWSKEYBOARDHANDLER_DEFAULTMAP_H
-DECL|member|s_keycompose_default
-DECL|member|s_keymap_default

@@ -1,1 +1,0 @@
-DECL|macro|QMOUSETSLIB_QWS_H
