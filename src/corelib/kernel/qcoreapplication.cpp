@@ -82,6 +82,7 @@ DECL|function|symbianInit
 DECL|function|testAttribute
 DECL|function|translate
 DECL|function|translate
+DECL|function|trolltechConf
 DECL|function|unlock
 DECL|function|~QCoreApplication
 DECL|function|~QCoreApplicationData
@@ -100,7 +101,6 @@ DECL|member|orgDomain
 DECL|member|orgName
 DECL|member|self
 DECL|member|theMainThread
-DECL|member|trolltechConf
 DECL|member|useQt3Support
 DECL|struct|QCoreApplicationData
 DECL|typedef|QVFuncList
