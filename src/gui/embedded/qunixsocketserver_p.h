@@ -1,2 +1,0 @@
-DECL|macro|QUNIXSOCKETSERVER_P_H
-DECL|variable|QUnixSocketServerPrivate

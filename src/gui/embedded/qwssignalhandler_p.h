@@ -1,3 +1,0 @@
-DECL|macro|QWSSIGNALHANDLER_P_H
-DECL|typedef|qt_sighandler_t
-DECL|variable|QWSSignalHandlerPrivate

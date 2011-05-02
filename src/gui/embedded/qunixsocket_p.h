@@ -1,5 +1,0 @@
-DECL|macro|QUNIXSOCKET_P_H
-DECL|variable|QUnixSocketMessagePrivate
-DECL|variable|QUnixSocketPrivate
-DECL|variable|QUnixSocketRights
-DECL|variable|QUnixSocketRightsPrivate
