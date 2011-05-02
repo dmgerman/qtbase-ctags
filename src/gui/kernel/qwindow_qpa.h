@@ -8,3 +8,4 @@ DECL|variable|QResizeEvent
 DECL|variable|QShowEvent
 DECL|variable|QWheelEvent
 DECL|variable|QWindowContext
+DECL|variable|QWindowSurface

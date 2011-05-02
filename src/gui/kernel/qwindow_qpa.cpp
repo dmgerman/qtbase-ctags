@@ -41,6 +41,7 @@ DECL|function|showFullScreen
 DECL|function|showMaximized
 DECL|function|showMinimized
 DECL|function|showNormal
+DECL|function|surface
 DECL|function|surfaceType
 DECL|function|visible
 DECL|function|wheelEvent
