@@ -1,7 +1,4 @@
-DECL|function|qDrawArrow
 DECL|function|qDrawBorderPixmap
-DECL|function|qDrawItem
-DECL|function|qDrawMotifArrow
 DECL|function|qDrawPlainRect
 DECL|function|qDrawPlainRect
 DECL|function|qDrawShadeLine
@@ -10,19 +7,9 @@ DECL|function|qDrawShadePanel
 DECL|function|qDrawShadePanel
 DECL|function|qDrawShadeRect
 DECL|function|qDrawShadeRect
-DECL|function|qDrawWinArrow
 DECL|function|qDrawWinButton
 DECL|function|qDrawWinButton
 DECL|function|qDrawWinPanel
 DECL|function|qDrawWinPanel
 DECL|function|qDrawWinShades
-DECL|function|qItemRect
-DECL|macro|CBOT
-DECL|macro|CBOT
-DECL|macro|CLEFT
-DECL|macro|CLEFT
-DECL|macro|CMID
-DECL|macro|CMID
-DECL|macro|CTOP
-DECL|macro|CTOP
 DECL|typedef|QPixmapFragmentsArray

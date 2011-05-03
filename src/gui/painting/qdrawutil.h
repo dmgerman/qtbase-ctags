@@ -7,7 +7,6 @@ DECL|member|vertical
 DECL|struct|QTileRules
 DECL|variable|QBrush
 DECL|variable|QColor
-DECL|variable|QColorGroup
 DECL|variable|QPalette
 DECL|variable|QPoint
 DECL|variable|QRect

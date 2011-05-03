@@ -11,10 +11,6 @@ DECL|function|backgroundMode
 DECL|function|backgroundMode
 DECL|function|begin
 DECL|function|beginNativePainting
-DECL|function|bitBlt
-DECL|function|bitBlt
-DECL|function|bitBlt
-DECL|function|bitBlt_helper
 DECL|function|boundingRect
 DECL|function|boundingRect
 DECL|function|boundingRect
@@ -45,14 +41,12 @@ DECL|function|drawArc
 DECL|function|drawChord
 DECL|function|drawConvexPolygon
 DECL|function|drawConvexPolygon
-DECL|function|drawCubicBezier
 DECL|function|drawEllipse
 DECL|function|drawEllipse
 DECL|function|drawGlyphs
 DECL|function|drawGlyphs
 DECL|function|drawImage
 DECL|function|drawImage
-DECL|function|drawLineSegments
 DECL|function|drawLines
 DECL|function|drawLines
 DECL|function|drawLines
@@ -107,7 +101,6 @@ DECL|function|is_brush_transparent
 DECL|function|is_pen_transparent
 DECL|function|layoutDirection
 DECL|function|line_emulation
-DECL|function|map
 DECL|function|matrix
 DECL|function|matrix
 DECL|function|matrixEnabled
@@ -174,8 +167,6 @@ DECL|function|strokePath
 DECL|function|transform
 DECL|function|transform
 DECL|function|translate
-DECL|function|translationX
-DECL|function|translationY
 DECL|function|updateEmulationSpecifier
 DECL|function|updateInvMatrix
 DECL|function|updateMatrix
@@ -188,14 +179,6 @@ DECL|function|window
 DECL|function|worldMatrix
 DECL|function|worldMatrixEnabled
 DECL|function|worldTransform
-DECL|function|xForm
-DECL|function|xForm
-DECL|function|xForm
-DECL|function|xForm
-DECL|function|xFormDev
-DECL|function|xFormDev
-DECL|function|xFormDev
-DECL|function|xFormDev
 DECL|function|~QPainter
 DECL|function|~QPainterPrivate
 DECL|function|~QPainterState

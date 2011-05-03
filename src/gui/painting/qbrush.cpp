@@ -52,7 +52,6 @@ DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|operator QVariant
 DECL|function|pixmap
-DECL|function|pixmap
 DECL|function|qHasPixmapTexture
 DECL|function|qbrush_check_type
 DECL|function|qt_cleanup_brush_pattern_image_cache

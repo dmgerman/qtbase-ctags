@@ -59,7 +59,6 @@ DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|operator QVariant
-DECL|function|pixel
 DECL|function|red
 DECL|function|redF
 DECL|function|rgb
