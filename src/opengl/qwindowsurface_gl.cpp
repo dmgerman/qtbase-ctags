@@ -1,6 +1,5 @@
 DECL|class|QGLGlobalShareWidget
 DECL|function|QGLGlobalShareWidget
-DECL|function|QGLGraphicsSystem
 DECL|function|QGLWindowSurface
 DECL|function|beginPaint
 DECL|function|blitTexture

@@ -109,7 +109,6 @@ DECL|function|setDiscardCommand
 DECL|function|setFocusWidget
 DECL|function|setFont
 DECL|function|setGlobalStrut
-DECL|function|setGraphicsSystem
 DECL|function|setInputContext
 DECL|function|setKeypadNavigationEnabled
 DECL|function|setLayoutDirection
@@ -167,8 +166,6 @@ DECL|member|discardCommand
 DECL|member|fade_menu
 DECL|member|fade_tooltip
 DECL|member|focus_widget
-DECL|member|graphics_system
-DECL|member|graphics_system_name
 DECL|member|hidden_focus_widget
 DECL|member|inputContext
 DECL|member|keyboard_input_time
@@ -187,7 +184,6 @@ DECL|member|qmljs_debug_arguments
 DECL|member|quitOnLastWindowClosed
 DECL|member|restartCommand
 DECL|member|restartHint
-DECL|member|runtime_graphics_system
 DECL|member|self
 DECL|member|sessionId
 DECL|member|sessionKey
