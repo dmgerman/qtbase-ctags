@@ -65,12 +65,12 @@ DECL|function|keyboardInputDirection
 DECL|function|keyboardInputLocale
 DECL|function|keyboardModifiers
 DECL|function|keypadNavigationEnabled
-DECL|function|layoutDirection
 DECL|function|leaveModal
 DECL|function|mainWidget
 DECL|function|mouseButtons
 DECL|function|navigationMode
 DECL|function|notify
+DECL|function|notifyLayoutDirectionChange
 DECL|function|notify_helper
 DECL|function|overrideCursor
 DECL|function|palette
@@ -82,7 +82,6 @@ DECL|function|qmljsDebugArgumentsString
 DECL|function|qt_CoCreateGuid
 DECL|function|qt_app_fonts_hash
 DECL|function|qt_app_palettes_hash
-DECL|function|qt_detectRTLLanguage
 DECL|function|qt_mac_applicationmenu_string
 DECL|function|qt_matchLibraryName
 DECL|function|qt_sendSpontaneousEvent
@@ -111,7 +110,6 @@ DECL|function|setFont
 DECL|function|setGlobalStrut
 DECL|function|setInputContext
 DECL|function|setKeypadNavigationEnabled
-DECL|function|setLayoutDirection
 DECL|function|setManagerProperty
 DECL|function|setManagerProperty
 DECL|function|setNavigationMode
@@ -202,9 +200,7 @@ DECL|variable|copy_xpm
 DECL|variable|drag_distance
 DECL|variable|drag_distance
 DECL|variable|drag_time
-DECL|variable|force_reverse
 DECL|variable|ignore_xpm
-DECL|variable|layout_direction
 DECL|variable|link_xpm
 DECL|variable|move_xpm
 DECL|variable|qt_antialiasing_threshold

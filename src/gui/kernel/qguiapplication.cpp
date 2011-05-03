@@ -13,8 +13,10 @@ DECL|function|init_platform
 DECL|function|init_plugins
 DECL|function|keyboardInputInterval
 DECL|function|keyboardModifiers
+DECL|function|layoutDirection
 DECL|function|mouseButtons
 DECL|function|notify
+DECL|function|notifyLayoutDirectionChange
 DECL|function|platformNativeInterface
 DECL|function|processActivatedEvent
 DECL|function|processCloseEvent
@@ -26,12 +28,14 @@ DECL|function|processMouseEvent
 DECL|function|processTouchEvent
 DECL|function|processWheelEvent
 DECL|function|processWindowSystemEvent
+DECL|function|qt_detectRTLLanguage
 DECL|function|reportAvailableGeometryChange
 DECL|function|reportGeometryChange
 DECL|function|reportScreenCount
 DECL|function|setDoubleClickInterval
 DECL|function|setFont
 DECL|function|setKeyboardInputInterval
+DECL|function|setLayoutDirection
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
 DECL|member|app_do_modal
@@ -51,6 +55,8 @@ DECL|member|qt_clipboard
 DECL|member|qt_last_mouse_receiver
 DECL|member|qt_modal_stack
 DECL|member|self
+DECL|variable|force_reverse
+DECL|variable|layout_direction
 DECL|variable|qt_button_down
 DECL|variable|qt_last_x
 DECL|variable|qt_last_y
