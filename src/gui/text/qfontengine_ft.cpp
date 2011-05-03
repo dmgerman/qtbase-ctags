@@ -46,7 +46,6 @@ DECL|function|leading
 DECL|function|lineThickness
 DECL|function|loadFlags
 DECL|function|loadGlyph
-DECL|function|loadGlyphMetrics
 DECL|function|loadGlyphs
 DECL|function|loadTransformedGlyphSet
 DECL|function|lockFace
