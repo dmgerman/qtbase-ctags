@@ -7,15 +7,10 @@ DECL|function|QPixmap
 DECL|function|QPixmap
 DECL|function|QPixmap
 DECL|function|QPixmap
-DECL|function|QPixmap
-DECL|function|QPixmap
 DECL|function|alphaChannel
 DECL|function|cacheKey
-DECL|function|colorModeToFlags
-DECL|function|convertFromImage
 DECL|function|convertFromImage
 DECL|function|copy
-DECL|function|copyBlt
 DECL|function|createHeuristicMask
 DECL|function|createMaskFromColor
 DECL|function|createMaskFromColor
@@ -39,13 +34,10 @@ DECL|function|isDetached
 DECL|function|isNull
 DECL|function|isQBitmap
 DECL|function|load
-DECL|function|load
-DECL|function|loadFromData
 DECL|function|loadFromData
 DECL|function|mask
 DECL|function|metric
 DECL|function|operator <<
-DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator >>
 DECL|function|operator QVariant
@@ -54,7 +46,6 @@ DECL|function|pixmapData
 DECL|function|qt_pixmap_id
 DECL|function|qt_pixmap_thread_test
 DECL|function|rect
-DECL|function|resize_helper
 DECL|function|save
 DECL|function|save
 DECL|function|scaled

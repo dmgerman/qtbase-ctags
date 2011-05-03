@@ -34,15 +34,9 @@ DECL|function|paint
 DECL|function|paint
 DECL|function|pixmap
 DECL|function|pixmap
-DECL|function|pixmap
-DECL|function|pixmap
-DECL|function|pixmap
-DECL|function|pixmapSize
-DECL|function|pixmapSizeHelper
 DECL|function|qt_cleanup_icon_cache
 DECL|function|read
 DECL|function|serialNumber
-DECL|function|setPixmapSize
 DECL|function|setThemeName
 DECL|function|setThemeSearchPaths
 DECL|function|themeName
@@ -53,6 +47,4 @@ DECL|function|write
 DECL|function|~QIcon
 DECL|function|~QPixmapIconEngine
 DECL|typedef|IconCache
-DECL|variable|heights
 DECL|variable|serialNumCounter
-DECL|variable|widths

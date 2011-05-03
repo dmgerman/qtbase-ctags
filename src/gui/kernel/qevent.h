@@ -5,7 +5,6 @@ DECL|variable|QEvent
 DECL|variable|QGesture
 DECL|variable|QGesture
 DECL|variable|QGestureEventPrivate
-DECL|variable|QMenuBar
 DECL|variable|QMimeData
 DECL|variable|QScrollEventPrivate
 DECL|variable|QScrollPrepareEventPrivate

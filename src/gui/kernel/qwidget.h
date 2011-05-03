@@ -2,7 +2,6 @@ DECL|function|backgroundBrush
 DECL|function|backgroundColor
 DECL|function|backgroundPixmap
 DECL|function|childAt
-DECL|function|colorGroup
 DECL|function|erase
 DECL|function|erase
 DECL|function|eraseColor

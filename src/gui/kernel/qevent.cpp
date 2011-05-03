@@ -4,8 +4,6 @@ DECL|function|QCloseEvent
 DECL|function|QContextMenuEvent
 DECL|function|QContextMenuEvent
 DECL|function|QContextMenuEvent
-DECL|function|QContextMenuEvent
-DECL|function|QContextMenuEvent
 DECL|function|QDragEnterEvent
 DECL|function|QDragLeaveEvent
 DECL|function|QDragMoveEvent
@@ -27,14 +25,10 @@ DECL|function|QInputMethodEvent
 DECL|function|QKeyEvent
 DECL|function|QKeyEventEx
 DECL|function|QKeyEventEx
-DECL|function|QMenubarUpdatedEvent
-DECL|function|QMouseEvent
-DECL|function|QMouseEvent
 DECL|function|QMouseEvent
 DECL|function|QMouseEvent
 DECL|function|QMouseEventEx
 DECL|function|QMoveEvent
-DECL|function|QPaintEvent
 DECL|function|QPaintEvent
 DECL|function|QPaintEvent
 DECL|function|QResizeEvent
@@ -50,15 +44,12 @@ DECL|function|QUpdateLaterEvent
 DECL|function|QWhatsThisClickedEvent
 DECL|function|QWheelEvent
 DECL|function|QWheelEvent
-DECL|function|QWheelEvent
-DECL|function|QWheelEvent
 DECL|function|QWindowStateChangeEvent
 DECL|function|QWindowStateChangeEvent
 DECL|function|TouchPoint
 DECL|function|TouchPoint
 DECL|function|accept
 DECL|function|accept
-DECL|function|action
 DECL|function|activeGestures
 DECL|function|canceledGestures
 DECL|function|contentPos
@@ -142,7 +133,6 @@ DECL|function|startPos
 DECL|function|startPos
 DECL|function|startScenePos
 DECL|function|startScreenPos
-DECL|function|state
 DECL|function|state
 DECL|function|url
 DECL|function|viewportSize

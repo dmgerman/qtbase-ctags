@@ -21,7 +21,6 @@ DECL|variable|QBrush
 DECL|variable|QByteArray
 DECL|variable|QClipboard
 DECL|variable|QColor
-DECL|variable|QColorGroup
 DECL|variable|QCursor
 DECL|variable|QDialog
 DECL|variable|QFont
