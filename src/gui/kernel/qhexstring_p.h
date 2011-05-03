@@ -1,0 +1,9 @@
+DECL|enumerator|ExactSize
+DECL|function|HexString
+DECL|function|write
+DECL|macro|QHEXSTRING_P_H
+DECL|member|val
+DECL|struct|HexString
+DECL|struct|T
+DECL|typedef|ConvertTo
+DECL|typedef|type
