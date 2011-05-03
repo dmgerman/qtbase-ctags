@@ -1,7 +1,6 @@
 DECL|class|QSoundPrivate
 DECL|function|QAuServer
 DECL|function|QSound
-DECL|function|QSound
 DECL|function|QSoundPrivate
 DECL|function|bucket
 DECL|function|decLoop

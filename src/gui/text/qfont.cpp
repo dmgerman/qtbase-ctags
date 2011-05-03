@@ -17,7 +17,6 @@ DECL|function|cleanup
 DECL|function|cleanupPrinterFonts
 DECL|function|clear
 DECL|function|decreaseCost
-DECL|function|defaultFont
 DECL|function|detach
 DECL|function|engineForScript
 DECL|function|exactMatch
@@ -74,7 +73,6 @@ DECL|function|removeSubstitution
 DECL|function|resolve
 DECL|function|resolve
 DECL|function|setCapitalization
-DECL|function|setDefaultFont
 DECL|function|setFamily
 DECL|function|setFixedPitch
 DECL|function|setHintingPreference
@@ -82,7 +80,6 @@ DECL|function|setKerning
 DECL|function|setLetterSpacing
 DECL|function|setOverline
 DECL|function|setPixelSize
-DECL|function|setPixelSizeFloat
 DECL|function|setPointSize
 DECL|function|setPointSizeF
 DECL|function|setRawMode

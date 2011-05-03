@@ -15,7 +15,6 @@ DECL|function|map
 DECL|function|mapRect
 DECL|function|mapRect
 DECL|function|mapToPolygon
-DECL|function|mapToRegion
 DECL|function|operator !=
 DECL|function|operator *
 DECL|function|operator *
