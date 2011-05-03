@@ -32,10 +32,8 @@ DECL|function|count
 DECL|function|defaultStretchFactors
 DECL|function|defaultStretchFactors_data
 DECL|function|dynamicConstraint
-DECL|function|expectedWidth
 DECL|function|geometries
 DECL|function|geometries_data
-DECL|function|growthFactorBelowPreferredSize
 DECL|function|heightForWidth
 DECL|function|heightForWidthWithSpanning
 DECL|function|hfw
