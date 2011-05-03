@@ -40,6 +40,7 @@ DECL|member|test_mutex
 DECL|member|test_mutex
 DECL|variable|iterations
 DECL|variable|normalMutex
+DECL|variable|qtbug16115_failure_count
 DECL|variable|qtbug16115_trylock_counter
 DECL|variable|testsTurn
 DECL|variable|threadsTurn
