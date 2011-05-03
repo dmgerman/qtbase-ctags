@@ -61,7 +61,6 @@ DECL|function|scaled
 DECL|function|scaledToHeight
 DECL|function|scaledToWidth
 DECL|function|scroll
-DECL|function|sendResizeEvents
 DECL|function|serialNumber
 DECL|function|setAlphaChannel
 DECL|function|setMask
