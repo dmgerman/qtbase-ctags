@@ -63,6 +63,7 @@ DECL|function|writePrlFile
 DECL|function|writeProjectMakefile
 DECL|function|writeStubMakefile
 DECL|function|writeSubDirs
+DECL|function|writeSubMakeCall
 DECL|function|writeSubTargets
 DECL|macro|MAKE_CD_IN_AND_OUT
 DECL|macro|S_ISDIR
