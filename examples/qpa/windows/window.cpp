@@ -1,0 +1,9 @@
+DECL|function|Window
+DECL|function|keyPressEvent
+DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent
+DECL|function|render
+DECL|function|resizeEvent
+DECL|variable|colorIndexId
+DECL|variable|colorTable
