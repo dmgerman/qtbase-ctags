@@ -271,6 +271,7 @@ DECL|variable|ptrWTOverlap
 DECL|variable|ptrWTPacketsGet
 DECL|variable|qt_button_down
 DECL|variable|qt_cleartype_enabled
+DECL|variable|qt_fontsmoothing_gamma
 DECL|variable|qt_last_mouse_receiver
 DECL|variable|qt_tablet_context
 DECL|variable|qt_tablet_tilt_support
