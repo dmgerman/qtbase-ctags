@@ -1,5 +1,3 @@
-DECL|function|QPaintDeviceRedirection
-DECL|function|QPaintDeviceRedirection
 DECL|function|QPainter
 DECL|function|QPainter
 DECL|function|QPainterState
@@ -107,7 +105,6 @@ DECL|function|matrixEnabled
 DECL|function|needsResolving
 DECL|function|opacity
 DECL|function|opacity
-DECL|function|operator ==
 DECL|function|paintEngine
 DECL|function|painter
 DECL|function|pen
@@ -119,7 +116,6 @@ DECL|function|qt_draw_helper
 DECL|function|qt_format_text
 DECL|function|qt_format_text
 DECL|function|qt_paintengine_supports_transformations
-DECL|function|qt_painter_removePaintDevice
 DECL|function|qt_painter_thread_test
 DECL|function|redirected
 DECL|function|renderHints
@@ -184,10 +180,4 @@ DECL|function|~QPainterPrivate
 DECL|function|~QPainterState
 DECL|macro|QGradient_StretchToDevice
 DECL|macro|QPaintEngine_OpaqueBackground
-DECL|member|device
-DECL|member|internalWidgetRedirectionIndex
-DECL|member|offset
-DECL|member|replacement
-DECL|struct|QPaintDeviceRedirection
-DECL|typedef|QPaintDeviceRedirectionList
 DECL|variable|qt_show_painter_debug_output
