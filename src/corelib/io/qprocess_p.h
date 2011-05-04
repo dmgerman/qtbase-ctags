@@ -1,3 +1,4 @@
+DECL|function|detach
 DECL|function|qHash
 DECL|function|qHash
 DECL|macro|INVALID_Q_PIPE

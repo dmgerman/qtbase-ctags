@@ -19,7 +19,6 @@ DECL|function|closeReadChannel
 DECL|function|closeWriteChannel
 DECL|function|closeWriteChannel
 DECL|function|contains
-DECL|function|detach
 DECL|function|environment
 DECL|function|error
 DECL|function|execute
