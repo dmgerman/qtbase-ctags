@@ -23,7 +23,6 @@ DECL|function|boundingRect
 DECL|function|brushChanged
 DECL|function|brushOriginChanged
 DECL|function|bufferImage
-DECL|function|bytesPerLine
 DECL|function|canUseFastImageBlending
 DECL|function|checkClipRatios
 DECL|function|clip
@@ -37,9 +36,7 @@ DECL|function|compositionModeChanged
 DECL|function|coordinateOffset
 DECL|function|createState
 DECL|function|drawBitmap
-DECL|function|drawBufferSpan
 DECL|function|drawCachedGlyphs
-DECL|function|drawColorSpans
 DECL|function|drawEllipse
 DECL|function|drawEllipsePoints
 DECL|function|drawEllipse_midpoint_i
@@ -95,16 +92,12 @@ DECL|function|isUnclipped
 DECL|function|isUnclipped
 DECL|function|isUnclipped_normalized
 DECL|function|maxCacheSize
-DECL|function|metric
 DECL|function|monoVal
 DECL|function|offset_pattern
 DECL|function|opacityChanged
 DECL|function|paletteSize
 DECL|function|penChanged
 DECL|function|prepare
-DECL|function|prepare
-DECL|function|prepare
-DECL|function|prepareBuffer
 DECL|function|qRotationType
 DECL|function|qrasterpaintengine_dirty_clip
 DECL|function|qrasterpaintengine_state_setNoClip

@@ -4,7 +4,6 @@ DECL|function|clip
 DECL|function|ensureOutlineMapper
 DECL|macro|QPAINTENGINE_RASTER_P_H
 DECL|variable|QClipData
-DECL|variable|QCustomRasterPaintDevice
 DECL|variable|QOutlineMapper
 DECL|variable|QRasterBuffer
 DECL|variable|QRasterPaintEnginePrivate

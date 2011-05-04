@@ -18,6 +18,7 @@ DECL|function|INTERPOLATE_PIXEL_256
 DECL|function|PREMUL
 DECL|function|PREMUL
 DECL|function|QSpanData
+DECL|function|QT_RECTCONVERT_TRIVIAL_IMPL
 DECL|function|QT_TRIVIAL_MEMCONVERT_IMPL
 DECL|function|alpha
 DECL|function|byte_mul
@@ -49,7 +50,6 @@ DECL|function|operator
 DECL|function|qBlue565
 DECL|function|qConvertRgb16To32
 DECL|function|qConvertRgb32To16
-DECL|function|qConvertRgb32To16x2
 DECL|function|qGreen565
 DECL|function|qRed565
 DECL|function|qargb4444
@@ -81,13 +81,6 @@ DECL|function|qt_colorConvert
 DECL|function|qt_colorConvert
 DECL|function|qt_colorConvert
 DECL|function|qt_colorConvert
-DECL|function|qt_colorConvert
-DECL|function|qt_colorConvert
-DECL|function|qt_colorConvert
-DECL|function|qt_colorConvert
-DECL|function|qt_convertToRgb
-DECL|function|qt_convertToRgb
-DECL|function|qt_div_255
 DECL|function|qt_memconvert
 DECL|function|qt_memfill
 DECL|function|qt_memfill
@@ -119,7 +112,6 @@ DECL|macro|AMIX
 DECL|macro|AMIX
 DECL|macro|AMIX
 DECL|macro|ARGB_COMBINE_ALPHA
-DECL|macro|GRADIENT_STOPTABLE_SIZE
 DECL|macro|GRADIENT_STOPTABLE_SIZE
 DECL|macro|INV_PREMUL
 DECL|macro|MIX
@@ -172,10 +164,6 @@ DECL|member|gradient
 DECL|member|hasAlpha
 DECL|member|height
 DECL|member|imageData
-DECL|member|len_alpha
-DECL|member|len_blue
-DECL|member|len_green
-DECL|member|len_red
 DECL|member|linear
 DECL|member|m11
 DECL|member|m12
@@ -184,16 +172,10 @@ DECL|member|m21
 DECL|member|m22
 DECL|member|m23
 DECL|member|m33
-DECL|member|off_alpha
-DECL|member|off_blue
-DECL|member|off_green
-DECL|member|off_red
 DECL|member|origin
-DECL|member|public
 DECL|member|radial
 DECL|member|radius
 DECL|member|rasterBuffer
-DECL|member|rasterEngine
 DECL|member|solid
 DECL|member|spread
 DECL|member|tempImage
@@ -225,7 +207,6 @@ DECL|struct|QRadialGradientData
 DECL|struct|QSolidData
 DECL|struct|QSpanData
 DECL|struct|QTextureData
-DECL|struct|qrgb
 DECL|typedef|AlphaRGBBlitFunc
 DECL|typedef|AlphamapBlitFunc
 DECL|typedef|BitmapBlitFunc
@@ -249,11 +230,9 @@ DECL|variable|QGradient
 DECL|variable|QRasterBuffer
 DECL|variable|QRasterPaintEngine
 DECL|variable|QRasterPaintEngineState
-DECL|variable|Q_PACKED
 DECL|variable|RMASK
 DECL|variable|qrgb444
 DECL|variable|qrgb555
 DECL|variable|qrgb565
 DECL|variable|qrgb666
 DECL|variable|qt_bayer_matrix
-DECL|variable|qt_rectconvert
