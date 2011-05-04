@@ -30,7 +30,6 @@ DECL|function|handleFocusOutEvent
 DECL|function|handleLeaveNotifyEvent
 DECL|function|handleMotionNotifyEvent
 DECL|function|handleMouseEvent
-DECL|function|isTransient
 DECL|function|lower
 DECL|function|raise
 DECL|function|requestActivateWindow
