@@ -44,6 +44,7 @@ DECL|function|setFont
 DECL|function|setKeyboardInputInterval
 DECL|function|setLayoutDirection
 DECL|function|setOverrideCursor
+DECL|function|topLevelWindows
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
 DECL|member|app_do_modal
@@ -62,6 +63,7 @@ DECL|member|platform_integration
 DECL|member|qt_clipboard
 DECL|member|qt_modal_stack
 DECL|member|self
+DECL|member|window_list
 DECL|variable|copy_xpm
 DECL|variable|force_reverse
 DECL|variable|ignore_xpm

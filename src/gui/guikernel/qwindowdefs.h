@@ -5,6 +5,7 @@ DECL|typedef|GC
 DECL|typedef|QWidgetList
 DECL|typedef|QWidgetMapper
 DECL|typedef|QWidgetSet
+DECL|typedef|QWindowList
 DECL|typedef|Region
 DECL|typedef|WId
 DECL|typedef|WId
@@ -47,3 +48,4 @@ DECL|variable|QString
 DECL|variable|QTime
 DECL|variable|QTimer
 DECL|variable|QWidget
+DECL|variable|QWindow
