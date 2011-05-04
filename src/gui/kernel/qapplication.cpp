@@ -29,7 +29,6 @@ DECL|function|colorSpec
 DECL|function|commitData
 DECL|function|compressEvent
 DECL|function|construct
-DECL|function|currentPlatform
 DECL|function|desktop
 DECL|function|desktopSettingsAware
 DECL|function|desktopStyleKey
