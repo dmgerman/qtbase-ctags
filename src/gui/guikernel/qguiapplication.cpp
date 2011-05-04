@@ -54,7 +54,6 @@ DECL|member|mouse_double_click_distance
 DECL|member|mouse_double_click_time
 DECL|member|platform_integration
 DECL|member|qt_clipboard
-DECL|member|qt_last_mouse_receiver
 DECL|member|qt_modal_stack
 DECL|member|self
 DECL|variable|force_reverse
