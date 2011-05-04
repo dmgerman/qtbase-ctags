@@ -1,6 +1,7 @@
 DECL|function|QGuiApplication
 DECL|function|QGuiApplication
 DECL|function|QGuiApplicationPrivate
+DECL|function|changeOverrideCursor
 DECL|function|clipboard
 DECL|function|compressEvent
 DECL|function|createEventDispatcher
@@ -9,6 +10,7 @@ DECL|function|doubleClickInterval
 DECL|function|event
 DECL|function|exec
 DECL|function|font
+DECL|function|getPixmapCursor
 DECL|function|init
 DECL|function|init_platform
 DECL|function|init_plugins
@@ -20,6 +22,7 @@ DECL|function|layoutDirection
 DECL|function|mouseButtons
 DECL|function|notify
 DECL|function|notifyLayoutDirectionChange
+DECL|function|overrideCursor
 DECL|function|platformNativeInterface
 DECL|function|processActivatedEvent
 DECL|function|processCloseEvent
@@ -35,10 +38,12 @@ DECL|function|qt_detectRTLLanguage
 DECL|function|reportAvailableGeometryChange
 DECL|function|reportGeometryChange
 DECL|function|reportScreenCount
+DECL|function|restoreOverrideCursor
 DECL|function|setDoubleClickInterval
 DECL|function|setFont
 DECL|function|setKeyboardInputInterval
 DECL|function|setLayoutDirection
+DECL|function|setOverrideCursor
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
 DECL|member|app_do_modal
@@ -57,8 +62,12 @@ DECL|member|platform_integration
 DECL|member|qt_clipboard
 DECL|member|qt_modal_stack
 DECL|member|self
+DECL|variable|copy_xpm
 DECL|variable|force_reverse
+DECL|variable|ignore_xpm
 DECL|variable|layout_direction
+DECL|variable|link_xpm
+DECL|variable|move_xpm
 DECL|variable|qt_button_down
 DECL|variable|qt_last_x
 DECL|variable|qt_last_y

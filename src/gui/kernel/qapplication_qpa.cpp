@@ -24,13 +24,11 @@ DECL|function|qt_cleanup
 DECL|function|qt_init
 DECL|function|qt_try_modal
 DECL|function|reset
-DECL|function|restoreOverrideCursor
 DECL|function|setCursorFlashTime
 DECL|function|setDoubleClickInterval
 DECL|function|setEffectEnabled
 DECL|function|setKeyboardInputInterval
 DECL|function|setMainWidget
-DECL|function|setOverrideCursor
 DECL|function|setWheelScrollLines
 DECL|function|topLevelAt
 DECL|function|wheelScrollLines

@@ -21,7 +21,6 @@ DECL|function|allowsInteraction
 DECL|function|autoMaximizeThreshold
 DECL|function|autoSipEnabled
 DECL|function|cancel
-DECL|function|changeOverrideCursor
 DECL|function|cleanupMultitouch
 DECL|function|clipboard
 DECL|function|closeAllWindows
@@ -45,7 +44,6 @@ DECL|function|font
 DECL|function|font
 DECL|function|font
 DECL|function|fontMetrics
-DECL|function|getPixmapCursor
 DECL|function|giveFocusAccordingToFocusPolicy
 DECL|function|globalStrut
 DECL|function|handle
@@ -69,7 +67,6 @@ DECL|function|navigationMode
 DECL|function|notify
 DECL|function|notifyLayoutDirectionChange
 DECL|function|notify_helper
-DECL|function|overrideCursor
 DECL|function|palette
 DECL|function|palette
 DECL|function|palette
@@ -193,13 +190,9 @@ DECL|member|widgetCount
 DECL|variable|aargc
 DECL|variable|aargv
 DECL|variable|application_menu_strings
-DECL|variable|copy_xpm
 DECL|variable|drag_distance
 DECL|variable|drag_distance
 DECL|variable|drag_time
-DECL|variable|ignore_xpm
-DECL|variable|link_xpm
-DECL|variable|move_xpm
 DECL|variable|qt_antialiasing_threshold
 DECL|variable|qt_appType
 DECL|variable|qt_clipboard
