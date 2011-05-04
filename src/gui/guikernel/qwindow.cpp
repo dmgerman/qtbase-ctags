@@ -19,6 +19,7 @@ DECL|function|mouseDoubleClickEvent
 DECL|function|mouseMoveEvent
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
+DECL|function|parent
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|requestedWindowFormat
