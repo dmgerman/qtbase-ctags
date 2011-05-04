@@ -34,6 +34,7 @@ DECL|function|invalidate
 DECL|function|isAncestorFrame
 DECL|function|isValidBlockSeparator
 DECL|function|joinPreviousEditBlock
+DECL|function|leftCursorPosition
 DECL|function|move
 DECL|function|nextCursorPosition
 DECL|function|noBlockInString
@@ -46,6 +47,7 @@ DECL|function|remove
 DECL|function|removeFrame
 DECL|function|remove_block
 DECL|function|remove_string
+DECL|function|rightCursorPosition
 DECL|function|rootFrame
 DECL|function|scan_frames
 DECL|function|setBlockFormat

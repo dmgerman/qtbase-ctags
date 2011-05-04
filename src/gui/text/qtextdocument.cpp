@@ -18,6 +18,7 @@ DECL|function|clone
 DECL|function|codecForHtml
 DECL|function|convertFromPlainText
 DECL|function|createObject
+DECL|function|defaultCursorMoveStyle
 DECL|function|defaultFont
 DECL|function|defaultStyleSheet
 DECL|function|defaultTextOption
@@ -83,6 +84,7 @@ DECL|function|redo
 DECL|function|resource
 DECL|function|revision
 DECL|function|rootFrame
+DECL|function|setDefaultCursorMoveStyle
 DECL|function|setDefaultFont
 DECL|function|setDefaultStyleSheet
 DECL|function|setDefaultTextOption

@@ -27,7 +27,6 @@ DECL|function|operator =
 DECL|function|operator T
 DECL|function|platformCleanUp
 DECL|function|platformLoadFromData
-DECL|function|platformSetPixelSize
 DECL|function|removeKey
 DECL|function|removeKey
 DECL|function|tableDirectoryEntry
