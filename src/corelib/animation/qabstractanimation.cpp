@@ -5,12 +5,14 @@ DECL|function|QAnimationDriver
 DECL|function|QDefaultAnimationDriver
 DECL|function|QUnifiedTimer
 DECL|function|advance
+DECL|function|advanceAnimation
 DECL|function|canUninstallAnimationDriver
 DECL|function|closestPauseAnimationTimeToFinish
 DECL|function|currentLoop
 DECL|function|currentLoopTime
 DECL|function|currentTime
 DECL|function|direction
+DECL|function|elapsed
 DECL|function|ensureTimerUpdate
 DECL|function|event
 DECL|function|group
