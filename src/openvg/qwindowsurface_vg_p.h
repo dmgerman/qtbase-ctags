@@ -1,3 +1,0 @@
-DECL|macro|QWINDOWSURFACE_VG_P_H
-DECL|variable|QVGEGLWindowSurfacePrivate
-DECL|variable|QWindowSurface

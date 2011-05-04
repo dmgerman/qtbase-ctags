@@ -1,3 +1,0 @@
-DECL|macro|QVGIMAGEPOOL_P_H
-DECL|variable|QVGImagePoolPrivate
-DECL|variable|QVGPixmapData
