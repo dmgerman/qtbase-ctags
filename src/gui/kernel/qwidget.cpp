@@ -110,6 +110,7 @@ DECL|function|icon
 DECL|function|inTabWidget
 DECL|function|inheritStyle
 DECL|function|init
+DECL|function|init
 DECL|function|inputContext
 DECL|function|inputContext
 DECL|function|inputMethodEvent
