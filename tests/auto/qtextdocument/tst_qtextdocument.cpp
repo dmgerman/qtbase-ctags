@@ -32,6 +32,7 @@ DECL|function|clonePreservesRootFrameFormat
 DECL|function|clonePreservesUserStates
 DECL|function|codecForHtml
 DECL|function|contentsChange
+DECL|function|copiedFontSize
 DECL|function|cursorPositionChanged
 DECL|function|cursorPositionChanged
 DECL|function|cursorPositionChanged
