@@ -1,4 +1,8 @@
 DECL|class|tst_QComplexText
+DECL|function|bidiCursorLogicalMovement
+DECL|function|bidiCursorLogicalMovement_data
+DECL|function|bidiCursorMovement
+DECL|function|bidiCursorMovement_data
 DECL|function|bidiCursor_PDF
 DECL|function|bidiCursor_qtbug2795
 DECL|function|bidiReorderString

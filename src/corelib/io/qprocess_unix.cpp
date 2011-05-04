@@ -50,5 +50,6 @@ DECL|member|serialNumber
 DECL|struct|QProcessInfo
 DECL|variable|errorBufferMax
 DECL|variable|idCounter
+DECL|variable|processManagerInstance
 DECL|variable|qt_qprocess_deadChild_pipe
 DECL|variable|qt_sa_old_sigchld_handler

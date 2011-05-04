@@ -23,6 +23,10 @@ DECL|function|QTBUG697_paletteCurrentColorGroup
 DECL|function|StyleOptionTestStyle
 DECL|function|ValidatorWithFixup
 DECL|function|alignment
+DECL|function|bidiLogicalMovement
+DECL|function|bidiLogicalMovement_data
+DECL|function|bidiVisualMovement
+DECL|function|bidiVisualMovement_data
 DECL|function|charWithAltOrCtrlModifier
 DECL|function|cleanup
 DECL|function|cleanupTestCase

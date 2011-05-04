@@ -20,6 +20,7 @@ DECL|typedef|QMacCompatGLuint
 DECL|variable|QGLCmap
 DECL|variable|QGLContextPrivate
 DECL|variable|QGLFormatPrivate
+DECL|variable|QGLFunctions
 DECL|variable|QGLOverlayWidget
 DECL|variable|QGLWidgetPrivate
 DECL|variable|QPixmap

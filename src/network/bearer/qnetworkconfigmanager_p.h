@@ -1,2 +1,3 @@
 DECL|macro|QNETWORKCONFIGURATIONMANAGERPRIVATE_H
 DECL|variable|QBearerEngine
+DECL|variable|QTimer
