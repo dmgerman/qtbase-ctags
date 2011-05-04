@@ -182,6 +182,7 @@ DECL|function|qt_widget_private
 DECL|function|qt_x11_set_global_double_buffer
 DECL|function|qwsEvent
 DECL|function|raise
+DECL|function|redirected
 DECL|function|registerWidget
 DECL|function|releaseDC
 DECL|function|releaseShortcut
@@ -293,6 +294,7 @@ DECL|function|setWindowRole
 DECL|function|setWindowSurface
 DECL|function|setWindowTitle
 DECL|function|setWindowTitle_helper
+DECL|function|sharedPainter
 DECL|function|showChildren
 DECL|function|showEvent
 DECL|function|showFullScreen
