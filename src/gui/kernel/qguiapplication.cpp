@@ -11,7 +11,9 @@ DECL|function|font
 DECL|function|init
 DECL|function|init_platform
 DECL|function|init_plugins
+DECL|function|keyboardInputDirection
 DECL|function|keyboardInputInterval
+DECL|function|keyboardInputLocale
 DECL|function|keyboardModifiers
 DECL|function|layoutDirection
 DECL|function|mouseButtons
