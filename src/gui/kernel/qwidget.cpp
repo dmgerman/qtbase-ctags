@@ -74,7 +74,6 @@ DECL|function|enterEvent
 DECL|function|erase
 DECL|function|erase_helper
 DECL|function|event
-DECL|function|fill
 DECL|function|fillRegion
 DECL|function|find
 DECL|function|flush

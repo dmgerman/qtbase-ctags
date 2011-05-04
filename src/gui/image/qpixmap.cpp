@@ -21,6 +21,7 @@ DECL|function|detach
 DECL|function|devType
 DECL|function|doImageIO
 DECL|function|fill
+DECL|function|fill
 DECL|function|fromImage
 DECL|function|fromImageReader
 DECL|function|grabWidget
