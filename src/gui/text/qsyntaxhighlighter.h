@@ -4,4 +4,3 @@ DECL|variable|QFont
 DECL|variable|QSyntaxHighlighterPrivate
 DECL|variable|QTextBlockUserData
 DECL|variable|QTextCharFormat
-DECL|variable|QTextEdit

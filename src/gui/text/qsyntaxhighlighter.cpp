@@ -1,7 +1,6 @@
 DECL|class|QSyntaxHighlighterPrivate
 DECL|function|QSyntaxHighlighter
 DECL|function|QSyntaxHighlighter
-DECL|function|QSyntaxHighlighter
 DECL|function|QSyntaxHighlighterPrivate
 DECL|function|_q_delayedRehighlight
 DECL|function|_q_reformatBlocks
