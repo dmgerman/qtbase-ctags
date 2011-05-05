@@ -24,6 +24,7 @@ DECL|function|init
 DECL|function|isSsl
 DECL|function|pauseConnection
 DECL|function|port
+DECL|function|predictNextRequest
 DECL|function|prepareRequest
 DECL|function|queueRequest
 DECL|function|readMoreLater
