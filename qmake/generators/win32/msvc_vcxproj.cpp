@@ -1,10 +1,2 @@
 DECL|function|VcxprojGenerator
 DECL|function|createProjectWriter
-DECL|variable|_GUIDExtraCompilerFiles
-DECL|variable|_GUIDFormFiles
-DECL|variable|_GUIDGeneratedFiles
-DECL|variable|_GUIDHeaderFiles
-DECL|variable|_GUIDLexYaccFiles
-DECL|variable|_GUIDResourceFiles
-DECL|variable|_GUIDSourceFiles
-DECL|variable|_GUIDTranslationFiles
