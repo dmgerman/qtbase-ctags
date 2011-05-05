@@ -20,6 +20,10 @@ DECL|function|asciiTab
 DECL|function|autoBulletList1
 DECL|function|autoBulletList2
 DECL|function|backspace
+DECL|function|bidiLogicalMovement
+DECL|function|bidiLogicalMovement_data
+DECL|function|bidiVisualMovement
+DECL|function|bidiVisualMovement_data
 DECL|function|blockBoundingRect
 DECL|function|blockCount
 DECL|function|canInsertFromMimeData
@@ -144,6 +148,7 @@ DECL|member|useBiggerSize
 DECL|member|usedSize
 DECL|typedef|keyPairType
 DECL|typedef|pairListType
+DECL|variable|QList
 DECL|variable|QList
 DECL|variable|keyPairType
 DECL|variable|pairListType

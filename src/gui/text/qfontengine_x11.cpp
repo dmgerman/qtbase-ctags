@@ -11,6 +11,7 @@ DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|canRender
 DECL|function|charStruct
+DECL|function|cloneWithSize
 DECL|function|descent
 DECL|function|engineForPattern
 DECL|function|faceId
