@@ -3,8 +3,6 @@ DECL|function|operator
 DECL|macro|QEVENT_H
 DECL|variable|QEvent
 DECL|variable|QGesture
-DECL|variable|QGesture
-DECL|variable|QGestureEventPrivate
 DECL|variable|QMimeData
 DECL|variable|QScrollEventPrivate
 DECL|variable|QScrollPrepareEventPrivate

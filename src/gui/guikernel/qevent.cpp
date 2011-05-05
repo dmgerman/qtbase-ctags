@@ -13,7 +13,6 @@ DECL|function|QFileOpenEvent
 DECL|function|QFileOpenEvent
 DECL|function|QFileOpenEvent
 DECL|function|QFocusEvent
-DECL|function|QGestureEvent
 DECL|function|QHelpEvent
 DECL|function|QHideEvent
 DECL|function|QHoverEvent
@@ -48,10 +47,6 @@ DECL|function|QWindowStateChangeEvent
 DECL|function|QWindowStateChangeEvent
 DECL|function|TouchPoint
 DECL|function|TouchPoint
-DECL|function|accept
-DECL|function|accept
-DECL|function|activeGestures
-DECL|function|canceledGestures
 DECL|function|contentPos
 DECL|function|contentPos
 DECL|function|contentPosRange
@@ -61,24 +56,15 @@ DECL|function|d_func
 DECL|function|d_func
 DECL|function|d_func
 DECL|function|d_func
-DECL|function|d_func
-DECL|function|d_func
 DECL|function|encodedData
 DECL|function|format
-DECL|function|gesture
-DECL|function|gestures
 DECL|function|id
-DECL|function|ignore
-DECL|function|ignore
-DECL|function|isAccepted
-DECL|function|isAccepted
 DECL|function|isOverride
 DECL|function|isPrimary
 DECL|function|lastNormalizedPos
 DECL|function|lastPos
 DECL|function|lastScenePos
 DECL|function|lastScreenPos
-DECL|function|mapToGraphicsScene
 DECL|function|matches
 DECL|function|modifiers
 DECL|function|nativeModifiers
@@ -101,8 +87,6 @@ DECL|function|sceneRect
 DECL|function|screenPos
 DECL|function|screenRect
 DECL|function|scrollState
-DECL|function|setAccepted
-DECL|function|setAccepted
 DECL|function|setCommitString
 DECL|function|setContentPos
 DECL|function|setContentPosRange
@@ -126,7 +110,6 @@ DECL|function|setStartScenePos
 DECL|function|setStartScreenPos
 DECL|function|setState
 DECL|function|setViewportSize
-DECL|function|setWidget
 DECL|function|source
 DECL|function|startNormalizedPos
 DECL|function|startPos
@@ -136,7 +119,6 @@ DECL|function|startScreenPos
 DECL|function|state
 DECL|function|url
 DECL|function|viewportSize
-DECL|function|widget
 DECL|function|~QActionEvent
 DECL|function|~QClipboardEvent
 DECL|function|~QCloseEvent
@@ -149,7 +131,6 @@ DECL|function|~QDropEvent
 DECL|function|~QFileOpenEvent
 DECL|function|~QFileOpenEventPrivate
 DECL|function|~QFocusEvent
-DECL|function|~QGestureEvent
 DECL|function|~QHelpEvent
 DECL|function|~QHideEvent
 DECL|function|~QHoverEvent
