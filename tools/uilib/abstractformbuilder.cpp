@@ -38,7 +38,6 @@ DECL|function|domPropertyToIcon
 DECL|function|domPropertyToIcon
 DECL|function|domPropertyToPixmap
 DECL|function|domPropertyToPixmap
-DECL|function|formButtonGroup
 DECL|function|formLayoutRole
 DECL|function|formScriptRunner
 DECL|function|iconPaths
