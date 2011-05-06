@@ -51,17 +51,8 @@ DECL|function|generateMultiDirectiveEnd
 DECL|function|iconCall
 DECL|function|iconHasStatePixmaps
 DECL|function|initializeComboBox
-DECL|function|initializeComboBox3
 DECL|function|initializeListWidget
 DECL|function|initializeMenu
-DECL|function|initializeQ3IconView
-DECL|function|initializeQ3ListBox
-DECL|function|initializeQ3ListView
-DECL|function|initializeQ3ListViewItems
-DECL|function|initializeQ3SqlDataBrowser
-DECL|function|initializeQ3SqlDataTable
-DECL|function|initializeQ3Table
-DECL|function|initializeQ3TableItems
 DECL|function|initializeTableWidget
 DECL|function|initializeTreeWidget
 DECL|function|initializeTreeWidgetItems
