@@ -1,2 +1,2 @@
-DECL|function|nativeResourceForWidget
-DECL|function|qPlatformScreenForWidget
+DECL|function|nativeResourceForWindow
+DECL|function|qPlatformScreenForWindow
