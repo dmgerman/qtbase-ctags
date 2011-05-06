@@ -1,2 +1,1 @@
 DECL|macro|QGUIAPPLICATION_QPA_P_H
-DECL|variable|QWidget
