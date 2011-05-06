@@ -27,6 +27,8 @@ DECL|function|unregisterType
 DECL|function|~RegUnreg
 DECL|member|d
 DECL|member|failureCount
+DECL|member|failureCount
+DECL|member|failureCount
 DECL|member|i
 DECL|member|propList
 DECL|member|t
