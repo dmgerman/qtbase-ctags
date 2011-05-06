@@ -23,6 +23,7 @@ DECL|function|mouseButtons
 DECL|function|notify
 DECL|function|notifyLayoutDirectionChange
 DECL|function|overrideCursor
+DECL|function|palette
 DECL|function|platformNativeInterface
 DECL|function|processActivatedEvent
 DECL|function|processCloseEvent
@@ -49,6 +50,7 @@ DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
 DECL|member|app_do_modal
 DECL|member|app_font
+DECL|member|app_pal
 DECL|member|buttons
 DECL|member|keyboard_input_time
 DECL|member|modifier_buttons

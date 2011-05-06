@@ -69,7 +69,6 @@ DECL|function|notifyLayoutDirectionChange
 DECL|function|notify_helper
 DECL|function|palette
 DECL|function|palette
-DECL|function|palette
 DECL|function|pickMouseReceiver
 DECL|function|process_cmdline
 DECL|function|qmljsDebugArgumentsString
@@ -147,7 +146,6 @@ DECL|member|animate_ui
 DECL|member|app_cspec
 DECL|member|app_font
 DECL|member|app_icon
-DECL|member|app_pal
 DECL|member|app_strut
 DECL|member|app_style
 DECL|member|autoMaximizeThreshold
