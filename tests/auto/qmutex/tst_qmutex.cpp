@@ -25,6 +25,8 @@ DECL|macro|VERIFY_NLOCKED
 DECL|macro|VERIFY_NLOCKED
 DECL|member|cond
 DECL|member|cond
+DECL|member|errorCount
+DECL|member|errorCount
 DECL|member|lockCount
 DECL|member|lockCount
 DECL|member|mutex
