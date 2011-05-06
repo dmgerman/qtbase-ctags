@@ -7,4 +7,5 @@ DECL|function|handleMouseEvent
 DECL|function|handleMoveEvent
 DECL|function|handleResizeEvent
 DECL|function|handleWheelEvent
+DECL|variable|qt_button_down
 DECL|variable|qt_last_mouse_receiver

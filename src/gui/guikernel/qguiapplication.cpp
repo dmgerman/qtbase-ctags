@@ -61,7 +61,6 @@ DECL|member|mouse_double_click_distance
 DECL|member|mouse_double_click_time
 DECL|member|platform_integration
 DECL|member|qt_clipboard
-DECL|member|qt_modal_stack
 DECL|member|self
 DECL|member|window_list
 DECL|variable|copy_xpm
@@ -70,6 +69,5 @@ DECL|variable|ignore_xpm
 DECL|variable|layout_direction
 DECL|variable|link_xpm
 DECL|variable|move_xpm
-DECL|variable|qt_button_down
 DECL|variable|qt_last_x
 DECL|variable|qt_last_y
