@@ -1,0 +1,3 @@
+DECL|macro|QNETWORKREPLYHTTPIMPL_P_H
+DECL|variable|QIODevice
+DECL|variable|QNetworkReplyHttpImplPrivate

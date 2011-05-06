@@ -227,6 +227,7 @@ DECL|function|readyReadSlot
 DECL|function|readyReadSlot
 DECL|function|readyReadSlot
 DECL|function|readyReadSlot
+DECL|function|readyReadSlot
 DECL|function|receiveCookiesFromHttp
 DECL|function|receiveCookiesFromHttpSynchronous
 DECL|function|receiveCookiesFromHttpSynchronous_data
