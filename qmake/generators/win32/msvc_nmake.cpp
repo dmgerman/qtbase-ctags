@@ -9,3 +9,4 @@ DECL|function|writeImplicitRulesPart
 DECL|function|writeLibDirPart
 DECL|function|writeMakefile
 DECL|function|writeNmakeParts
+DECL|function|writeSubMakeCall

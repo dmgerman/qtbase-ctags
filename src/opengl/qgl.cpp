@@ -21,6 +21,7 @@ DECL|function|QGLWidget
 DECL|function|QGLWidget
 DECL|function|QGLWidget
 DECL|function|QGLWidget
+DECL|function|QGLWidget
 DECL|function|accumBufferSize
 DECL|function|addGuard
 DECL|function|addShare
@@ -95,6 +96,7 @@ DECL|function|extensionFuncs
 DECL|function|fontDisplayListBase
 DECL|function|format
 DECL|function|format
+DECL|function|functions
 DECL|function|glDraw
 DECL|function|glExtensions
 DECL|function|glInit

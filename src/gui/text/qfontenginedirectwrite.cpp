@@ -18,6 +18,7 @@ DECL|function|ascent
 DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|canRender
+DECL|function|cloneWithSize
 DECL|function|collectMetrics
 DECL|function|descent
 DECL|function|emSquareSize

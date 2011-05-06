@@ -30,6 +30,7 @@ DECL|function|ensureActive
 DECL|function|fill
 DECL|function|fill
 DECL|function|fillStencilWithVertexArray
+DECL|function|fontSmoothingApproximately
 DECL|function|invalidateState
 DECL|function|isNativePaintingActive
 DECL|function|opacityChanged
