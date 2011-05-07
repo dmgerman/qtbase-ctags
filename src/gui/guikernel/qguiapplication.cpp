@@ -71,5 +71,6 @@ DECL|variable|ignore_xpm
 DECL|variable|layout_direction
 DECL|variable|link_xpm
 DECL|variable|move_xpm
+DECL|variable|qt_is_gui_used
 DECL|variable|qt_last_x
 DECL|variable|qt_last_y
