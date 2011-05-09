@@ -63,6 +63,7 @@ DECL|function|startDetached
 DECL|function|startProcess
 DECL|function|startThread
 DECL|function|stop
+DECL|function|systemEnvironment
 DECL|function|terminate
 DECL|function|terminateProcess
 DECL|function|unlock
