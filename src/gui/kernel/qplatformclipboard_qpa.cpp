@@ -1,5 +1,6 @@
 DECL|class|QClipboardData
 DECL|function|QClipboardData
+DECL|function|emitChanged
 DECL|function|mimeData
 DECL|function|setMimeData
 DECL|function|setSource
