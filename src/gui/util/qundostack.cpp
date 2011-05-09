@@ -30,6 +30,7 @@ DECL|function|setIndex
 DECL|function|setIndex
 DECL|function|setPrefixedText
 DECL|function|setText
+DECL|function|setTextFormat
 DECL|function|setUndoLimit
 DECL|function|text
 DECL|function|text

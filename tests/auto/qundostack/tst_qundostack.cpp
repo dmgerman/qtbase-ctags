@@ -8,6 +8,7 @@ DECL|function|RemoveCommand
 DECL|function|checkState
 DECL|function|childCommand
 DECL|function|clear
+DECL|function|commandTextFormat
 DECL|function|compression
 DECL|function|glue
 DECL|function|id
