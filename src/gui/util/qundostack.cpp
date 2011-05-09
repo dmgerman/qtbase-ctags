@@ -2,6 +2,7 @@ DECL|function|QUndoAction
 DECL|function|QUndoCommand
 DECL|function|QUndoCommand
 DECL|function|QUndoStack
+DECL|function|actionText
 DECL|function|beginMacro
 DECL|function|canRedo
 DECL|function|canUndo
