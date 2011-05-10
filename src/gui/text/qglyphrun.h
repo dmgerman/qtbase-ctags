@@ -1,0 +1,1 @@
+DECL|macro|QGLYPHRUN_H
