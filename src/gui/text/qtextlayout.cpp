@@ -35,7 +35,7 @@ DECL|function|endLayout
 DECL|function|font
 DECL|function|format
 DECL|function|formatIndex
-DECL|function|glyphs
+DECL|function|glyphRuns
 DECL|function|glyphs
 DECL|function|height
 DECL|function|height

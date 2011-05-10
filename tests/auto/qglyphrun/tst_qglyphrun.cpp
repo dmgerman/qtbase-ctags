@@ -1,4 +1,4 @@
-DECL|class|tst_QGlyphs
+DECL|class|tst_QGlyphRun
 DECL|function|assignment
 DECL|function|cleanupTestCase
 DECL|function|constructionAndDestruction
@@ -19,4 +19,4 @@ DECL|function|make_dummy_indexes
 DECL|function|textLayoutGlyphIndexes
 DECL|member|m_testFont
 DECL|member|m_testFontId
-DECL|variable|QGlyphs
+DECL|variable|QGlyphRun
