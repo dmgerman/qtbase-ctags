@@ -40,6 +40,8 @@ DECL|member|buffers
 DECL|member|cleanedUp
 DECL|member|cleanedUp
 DECL|member|contexts
+DECL|member|created
+DECL|member|created
 DECL|member|ctx
 DECL|member|destructive_swap_buffers
 DECL|member|did_paint

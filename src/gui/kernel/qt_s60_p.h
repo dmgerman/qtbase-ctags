@@ -1,7 +1,9 @@
 DECL|function|QS60Data
+DECL|function|addThreadLocalReleaseFunc
 DECL|function|appUi
 DECL|function|buttonGroupContainer
 DECL|function|contextPane
+DECL|function|fontData
 DECL|function|menuBar
 DECL|function|qt_TDisplayMode2Format
 DECL|function|qt_TFontSpec2QFontL
@@ -25,10 +27,14 @@ DECL|function|wsSession
 DECL|macro|QT_S60_P_H
 DECL|macro|Q_SYMBIAN_ECOLOR16MAP
 DECL|macro|S60
+DECL|typedef|QString
+DECL|typedef|QSymbianTypeFaceExtrasHash
+DECL|typedef|QThreadLocalReleaseFunc
 DECL|variable|CCoeControl
 DECL|variable|KInternalStatusPaneChange
 DECL|variable|KQtAppExitFlag
 DECL|variable|MAknFadedComponent
 DECL|variable|QAbstractLongTapObserver
 DECL|variable|QLongTapTimer
+DECL|variable|QSymbianTypeFaceExtras
 DECL|variable|qt_symbian_max_screens

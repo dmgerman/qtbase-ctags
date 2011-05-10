@@ -21,6 +21,7 @@ DECL|function|columnSpan
 DECL|function|columnViewportPosition
 DECL|function|columnWidth
 DECL|function|currentChanged
+DECL|function|doItemsLayout
 DECL|function|drawAndClipSpans
 DECL|function|drawCell
 DECL|function|gridStyle

@@ -25,6 +25,7 @@ DECL|function|addMenu
 DECL|function|addMenu
 DECL|function|addMenu
 DECL|function|addSeparator
+DECL|function|adjustMenuSizeForScreen
 DECL|function|calcCausedStack
 DECL|function|calcCausedStack
 DECL|function|changeEvent
@@ -42,6 +43,7 @@ DECL|function|findIdForAction
 DECL|function|findPopup
 DECL|function|focusNextPrevChild
 DECL|function|frameWidth
+DECL|function|getLastVisibleAction
 DECL|function|hasMouseMoved
 DECL|function|hideEvent
 DECL|function|hideMenu
@@ -98,6 +100,7 @@ DECL|function|syncWithMenu
 DECL|function|timerEvent
 DECL|function|title
 DECL|function|topCausedWidget
+DECL|function|updateActionRects
 DECL|function|updateActionRects
 DECL|function|updateLayoutDirection
 DECL|function|wheelEvent

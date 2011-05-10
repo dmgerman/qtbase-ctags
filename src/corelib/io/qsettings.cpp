@@ -25,7 +25,6 @@ DECL|function|beginGroup
 DECL|function|beginGroupOrArray
 DECL|function|beginReadArray
 DECL|function|beginWriteArray
-DECL|function|checkAccess
 DECL|function|childGroups
 DECL|function|childKeys
 DECL|function|children

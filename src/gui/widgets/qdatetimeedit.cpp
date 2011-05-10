@@ -112,6 +112,7 @@ DECL|function|updateTimeSpec
 DECL|function|validate
 DECL|function|validateAndInterpret
 DECL|function|valueFromText
+DECL|function|verifyCalendarInstance
 DECL|function|wheelEvent
 DECL|macro|QDTEDEBUG
 DECL|macro|QDTEDEBUG

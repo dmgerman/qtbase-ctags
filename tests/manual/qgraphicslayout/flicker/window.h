@@ -1,0 +1,14 @@
+DECL|function|Statistics
+DECL|function|qSleep
+DECL|function|sleep
+DECL|macro|WINDOW_H
+DECL|member|QGraphicsWidget
+DECL|member|currentBenchmarkIteration
+DECL|member|output
+DECL|member|relayoutClicked
+DECL|member|setGeometryCount
+DECL|member|setGeometryTracker
+DECL|member|sleepMsecs
+DECL|member|time
+DECL|struct|Statistics
+DECL|variable|Window

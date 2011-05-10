@@ -30,6 +30,7 @@ DECL|function|select_msecs
 DECL|function|startDetached
 DECL|function|startProcess
 DECL|function|strdup
+DECL|function|systemEnvironment
 DECL|function|terminateProcess
 DECL|function|unlock
 DECL|function|waitForBytesWritten
@@ -40,6 +41,7 @@ DECL|function|waitForStarted
 DECL|function|waitForWrite
 DECL|function|writeToStdin
 DECL|function|~QProcessManager
+DECL|macro|environ
 DECL|member|children
 DECL|member|deathPipe
 DECL|member|exitResult

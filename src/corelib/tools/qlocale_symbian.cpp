@@ -1,8 +1,12 @@
+DECL|enumerator|ISO
+DECL|enumerator|UILanguage
+DECL|enum|LocaleNameType
 DECL|function|QEnvironmentChangeNotifier
 DECL|function|defaultFormatSpec
 DECL|function|defaultTimeFormatL
 DECL|function|fallbackLocale
 DECL|function|localeChanged
+DECL|function|qt_resolveSymbianLocaleName
 DECL|function|qt_symbianInitSystemLocale
 DECL|function|qt_symbianLocaleName
 DECL|function|qt_symbianUpdateSystemPrivate
@@ -17,10 +21,12 @@ DECL|function|symbianMeasurementSystem
 DECL|function|symbianMonthName
 DECL|function|symbianTimeFormat
 DECL|function|symbianTimeToString
+DECL|function|symbianUILanguages
 DECL|function|symbianZeroDigit
 DECL|function|~QEnvironmentChangeNotifier
 DECL|member|iso_name
 DECL|member|symbian_language
+DECL|member|uilanguage
 DECL|struct|symbianToISO
 DECL|typedef|FormatFunc
 DECL|typedef|FormatSpecFunc

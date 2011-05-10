@@ -145,7 +145,6 @@ DECL|function|needsEmulation
 DECL|function|offscreenSize
 DECL|function|offscreenTexture
 DECL|function|opacityChanged
-DECL|function|painterPathFromVectorPath
 DECL|function|paletteSize
 DECL|function|path
 DECL|function|pathClosed

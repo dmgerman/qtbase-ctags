@@ -33,6 +33,7 @@ DECL|function|qpaintengineex_cubicTo
 DECL|function|qpaintengineex_lineTo
 DECL|function|qpaintengineex_moveTo
 DECL|function|qtVectorPathForPath
+DECL|function|qt_painterPathFromVectorPath
 DECL|function|replayClipOperations
 DECL|function|setState
 DECL|function|stroke

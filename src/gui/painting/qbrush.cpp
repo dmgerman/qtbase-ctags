@@ -24,10 +24,13 @@ DECL|function|QRadialGradient
 DECL|function|QRadialGradient
 DECL|function|QRadialGradient
 DECL|function|QRadialGradient
+DECL|function|QRadialGradient
+DECL|function|QRadialGradient
 DECL|function|QTexturedBrushData
 DECL|function|angle
 DECL|function|center
 DECL|function|center
+DECL|function|centerRadius
 DECL|function|cleanUp
 DECL|function|cleanup
 DECL|function|cleanup
@@ -36,6 +39,7 @@ DECL|function|deleteData
 DECL|function|detach
 DECL|function|finalStop
 DECL|function|focalPoint
+DECL|function|focalRadius
 DECL|function|getImage
 DECL|function|gradient
 DECL|function|image
@@ -57,6 +61,7 @@ DECL|function|qHasPixmapTexture
 DECL|function|qbrush_check_type
 DECL|function|qt_cleanup_brush_pattern_image_cache
 DECL|function|qt_imageForBrush
+DECL|function|qt_isExtendedRadialGradient
 DECL|function|qt_patternForBrush
 DECL|function|qt_pixmapForBrush
 DECL|function|qt_radial_gradient_adapt_focal_point
@@ -64,11 +69,13 @@ DECL|function|radius
 DECL|function|setAngle
 DECL|function|setCenter
 DECL|function|setCenter
+DECL|function|setCenterRadius
 DECL|function|setColor
 DECL|function|setColorAt
 DECL|function|setCoordinateMode
 DECL|function|setFinalStop
 DECL|function|setFocalPoint
+DECL|function|setFocalRadius
 DECL|function|setImage
 DECL|function|setInterpolationMode
 DECL|function|setMatrix

@@ -1,0 +1,10 @@
+DECL|class|RectWidget
+DECL|class|tst_QGraphicsLayout
+DECL|function|RectWidget
+DECL|function|callUpdateGeometry
+DECL|function|invalidate
+DECL|function|paint
+DECL|function|setGeometry
+DECL|function|tst_QGraphicsLayout
+DECL|function|~tst_QGraphicsLayout
+DECL|member|setGeometryCalls

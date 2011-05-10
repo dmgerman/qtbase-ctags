@@ -32,6 +32,7 @@ DECL|function|command_gradient_setCoordinateMode
 DECL|function|command_gradient_setLinear
 DECL|function|command_gradient_setLinearPen
 DECL|function|command_gradient_setRadial
+DECL|function|command_gradient_setRadialExtended
 DECL|function|command_gradient_setSpread
 DECL|function|command_image_convertToFormat
 DECL|function|command_image_load

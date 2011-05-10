@@ -51,7 +51,6 @@ DECL|member|length
 DECL|member|length
 DECL|member|m_applicationFontFamilies
 DECL|member|m_extras
-DECL|member|m_extrasHash
 DECL|member|m_heap
 DECL|member|m_rasterizer
 DECL|member|m_store

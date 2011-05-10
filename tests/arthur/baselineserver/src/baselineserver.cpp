@@ -16,6 +16,7 @@ DECL|function|provideBaselineChecksums
 DECL|function|receiveDisconnect
 DECL|function|receiveRequest
 DECL|function|run
+DECL|function|settingsFilePath
 DECL|function|storagePath
 DECL|function|storeImage
 DECL|function|storeItemMetadata
@@ -24,5 +25,6 @@ DECL|function|updateBaselines
 DECL|function|view
 DECL|macro|QT_USE_FAST_CONCATENATION
 DECL|macro|QT_USE_FAST_OPERATOR_PLUS
+DECL|member|settingsFile
 DECL|member|storage
 DECL|member|url

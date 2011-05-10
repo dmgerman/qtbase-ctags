@@ -2,6 +2,7 @@ DECL|function|QUndoAction
 DECL|function|QUndoCommand
 DECL|function|QUndoCommand
 DECL|function|QUndoStack
+DECL|function|actionText
 DECL|function|beginMacro
 DECL|function|canRedo
 DECL|function|canUndo
@@ -30,6 +31,7 @@ DECL|function|setIndex
 DECL|function|setIndex
 DECL|function|setPrefixedText
 DECL|function|setText
+DECL|function|setTextFormat
 DECL|function|setUndoLimit
 DECL|function|text
 DECL|function|text
