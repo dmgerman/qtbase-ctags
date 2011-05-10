@@ -3,6 +3,7 @@ DECL|function|QRawFont
 DECL|function|QRawFont
 DECL|function|QRawFont
 DECL|function|advancesForGlyphIndexes
+DECL|function|advancesForGlyphIndexes
 DECL|function|alphaMapForGlyph
 DECL|function|ascent
 DECL|function|averageCharWidth
@@ -12,6 +13,7 @@ DECL|function|detach
 DECL|function|familyName
 DECL|function|fontTable
 DECL|function|fromFont
+DECL|function|glyphIndexesForChars
 DECL|function|glyphIndexesForString
 DECL|function|hintingPreference
 DECL|function|isValid
