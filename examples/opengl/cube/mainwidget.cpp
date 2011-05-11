@@ -1,0 +1,10 @@
+DECL|function|MainWidget
+DECL|function|initShaders
+DECL|function|initTextures
+DECL|function|initializeGL
+DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent
+DECL|function|paintGL
+DECL|function|resizeGL
+DECL|function|timerEvent
+DECL|function|~MainWidget
