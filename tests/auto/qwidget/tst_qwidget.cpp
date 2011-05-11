@@ -103,6 +103,7 @@ DECL|function|destroyedSlot
 DECL|function|doubleRepaint
 DECL|function|drawPolygon
 DECL|function|effectiveWinId
+DECL|function|effectiveWinId2
 DECL|function|enableBackingStore
 DECL|function|enabledPropagation
 DECL|function|enlargeMask
