@@ -8,6 +8,7 @@ DECL|variable|QRect
 DECL|variable|QRectF
 DECL|variable|QTextBlock
 DECL|variable|QTextCodec
+DECL|variable|QTextCursor
 DECL|variable|QTextDocumentPrivate
 DECL|variable|QTextFormat
 DECL|variable|QTextFrame
