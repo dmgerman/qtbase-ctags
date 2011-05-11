@@ -13,7 +13,6 @@ DECL|function|mapSelectionFromSource
 DECL|function|mapSelectionToSource
 DECL|function|mimeData
 DECL|function|mimeTypes
-DECL|function|resetInternalData
 DECL|function|revert
 DECL|function|setData
 DECL|function|setHeaderData

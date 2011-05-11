@@ -38,13 +38,10 @@ DECL|function|domPropertyToIcon
 DECL|function|domPropertyToIcon
 DECL|function|domPropertyToPixmap
 DECL|function|domPropertyToPixmap
-DECL|function|formButtonGroup
 DECL|function|formLayoutRole
 DECL|function|formScriptRunner
 DECL|function|iconPaths
 DECL|function|iconToDomProperty
-DECL|function|iconToFilePath
-DECL|function|iconToQrcPath
 DECL|function|initialize
 DECL|function|isScriptingEnabled
 DECL|function|layoutInfo
@@ -62,11 +59,7 @@ DECL|function|loadItemViewExtraInfo
 DECL|function|loadListWidgetExtraInfo
 DECL|function|loadTableWidgetExtraInfo
 DECL|function|loadTreeWidgetExtraInfo
-DECL|function|nameToIcon
-DECL|function|nameToPixmap
 DECL|function|pixmapPaths
-DECL|function|pixmapToFilePath
-DECL|function|pixmapToQrcPath
 DECL|function|propertyMap
 DECL|function|reset
 DECL|function|resourceBuilder

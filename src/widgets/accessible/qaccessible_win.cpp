@@ -25,6 +25,7 @@ DECL|function|accLocation
 DECL|function|accNavigate
 DECL|function|accSelect
 DECL|function|cleanup
+DECL|function|eventString
 DECL|function|get_accChild
 DECL|function|get_accChildCount
 DECL|function|get_accDefaultAction
@@ -54,3 +55,5 @@ DECL|member|array
 DECL|member|current
 DECL|member|ref
 DECL|member|ref
+DECL|typedef|NotifyMap
+DECL|variable|eventNum

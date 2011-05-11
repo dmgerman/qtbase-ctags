@@ -35,6 +35,7 @@ DECL|function|dateSignalChecking_data
 DECL|function|dateTimeSignalChecking
 DECL|function|dateTimeSignalChecking_data
 DECL|function|ddMMMMyyyy
+DECL|function|deleteCalendarWidget
 DECL|function|deleteKey
 DECL|function|displayFormat
 DECL|function|displayFormat_data

@@ -13,6 +13,9 @@ DECL|function|QNetworkProxyQuery
 DECL|function|QNetworkProxyQuery
 DECL|function|QNetworkProxyQuery
 DECL|function|QNetworkProxyQuery
+DECL|function|QNetworkProxyQuery
+DECL|function|QNetworkProxyQuery
+DECL|function|QNetworkProxyQuery
 DECL|function|QNetworkProxyQueryPrivate
 DECL|function|applicationProxy
 DECL|function|applicationProxy
@@ -25,6 +28,7 @@ DECL|function|init
 DECL|function|isCachingProxy
 DECL|function|isTransparentProxy
 DECL|function|localPort
+DECL|function|networkConfiguration
 DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator ==
@@ -47,6 +51,7 @@ DECL|function|setApplicationProxyFactory
 DECL|function|setCapabilities
 DECL|function|setHostName
 DECL|function|setLocalPort
+DECL|function|setNetworkConfiguration
 DECL|function|setPassword
 DECL|function|setPeerHostName
 DECL|function|setPeerPort
@@ -69,6 +74,7 @@ DECL|member|applicationLevelProxy
 DECL|member|applicationLevelProxyFactory
 DECL|member|capabilities
 DECL|member|capabilitiesSet
+DECL|member|config
 DECL|member|hostName
 DECL|member|httpSocketEngineHandler
 DECL|member|localPort

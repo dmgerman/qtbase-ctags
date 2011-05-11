@@ -41,7 +41,7 @@ DECL|function|drawConvexPolygon
 DECL|function|drawConvexPolygon
 DECL|function|drawEllipse
 DECL|function|drawEllipse
-DECL|function|drawGlyphs
+DECL|function|drawGlyphRun
 DECL|function|drawGlyphs
 DECL|function|drawImage
 DECL|function|drawImage

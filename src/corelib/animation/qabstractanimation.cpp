@@ -35,11 +35,11 @@ DECL|function|setState
 DECL|function|setTimingInterval
 DECL|function|start
 DECL|function|start
-DECL|function|started
+DECL|function|startTimer
 DECL|function|state
 DECL|function|stop
 DECL|function|stop
-DECL|function|stopped
+DECL|function|stopTimer
 DECL|function|timerEvent
 DECL|function|timerEvent
 DECL|function|totalDuration

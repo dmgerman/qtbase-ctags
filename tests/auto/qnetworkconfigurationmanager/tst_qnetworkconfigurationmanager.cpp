@@ -1,3 +1,4 @@
+DECL|class|QNCMTestThread
 DECL|class|tst_QNetworkConfigurationManager
 DECL|function|allConfigurations
 DECL|function|cleanup
@@ -7,9 +8,13 @@ DECL|function|defaultConfiguration
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|printConfigurationDetails
+DECL|function|run
+DECL|function|usedInThread
 DECL|macro|MAX_IAPS
+DECL|member|configs
 DECL|member|gprsiap
 DECL|member|iapconf
 DECL|member|iapconf2
 DECL|member|iaps
 DECL|member|icd_stub
+DECL|member|preScanConfigs

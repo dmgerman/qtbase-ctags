@@ -24,7 +24,6 @@ DECL|function|gridLayoutColumnStretch
 DECL|function|gridLayoutRowMinimumHeight
 DECL|function|gridLayoutRowStretch
 DECL|function|instance
-DECL|function|instance
 DECL|function|isCustomWidgetContainer
 DECL|function|msgInvalidMinimumSize
 DECL|function|msgInvalidStretch
@@ -34,7 +33,6 @@ DECL|function|parsePerCellProperty
 DECL|function|perCellPropertyToString
 DECL|function|processingLayoutWidget
 DECL|function|registerButtonGroups
-DECL|function|removeInstance
 DECL|function|resourceBuilder
 DECL|function|setBoxLayoutStretch
 DECL|function|setGridLayoutColumnMinimumWidth
@@ -50,4 +48,3 @@ DECL|function|textBuilder
 DECL|function|uiLibWarning
 DECL|function|~QFormBuilderExtra
 DECL|namespace|QFormInternal
-DECL|typedef|FormBuilderPrivateHash

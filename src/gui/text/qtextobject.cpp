@@ -36,7 +36,7 @@ DECL|function|formatIndex
 DECL|function|fragment
 DECL|function|fragmentAdded
 DECL|function|fragmentRemoved
-DECL|function|glyphs
+DECL|function|glyphRuns
 DECL|function|isValid
 DECL|function|isVisible
 DECL|function|iterator

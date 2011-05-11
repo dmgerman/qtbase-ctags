@@ -17,6 +17,8 @@ DECL|function|fromFont
 DECL|function|fromFont_data
 DECL|function|glyphIndices
 DECL|function|invalidRawFont
+DECL|function|rawFontSetPixelSize
+DECL|function|rawFontSetPixelSize_data
 DECL|function|supportedWritingSystems
 DECL|function|supportedWritingSystems_data
 DECL|function|supportsCharacter

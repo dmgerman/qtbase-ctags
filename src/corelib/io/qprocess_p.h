@@ -1,6 +1,10 @@
+DECL|function|detach
+DECL|function|qHash
+DECL|function|qHash
 DECL|macro|INVALID_Q_PIPE
 DECL|macro|INVALID_Q_PIPE
 DECL|macro|QPROCESS_P_H
+DECL|typedef|QProcEnvValue
 DECL|typedef|Q_PIPE
 DECL|typedef|Q_PIPE
 DECL|variable|QSocketNotifier

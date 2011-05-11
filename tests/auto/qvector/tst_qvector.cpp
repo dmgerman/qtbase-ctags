@@ -1,6 +1,8 @@
 DECL|class|tst_QVector
 DECL|function|Foo
 DECL|function|Foo
+DECL|function|QTBUG11763
+DECL|function|QTBUG11763_data
 DECL|function|QTBUG6416_reserve
 DECL|function|append
 DECL|function|at

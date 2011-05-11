@@ -78,7 +78,7 @@ DECL|function|translate
 DECL|macro|QPAINTER_H
 DECL|variable|QFontInfo
 DECL|variable|QFontMetrics
-DECL|variable|QGlyphs
+DECL|variable|QGlyphRun
 DECL|variable|QMatrix
 DECL|variable|QPaintDevice
 DECL|variable|QPainterPath

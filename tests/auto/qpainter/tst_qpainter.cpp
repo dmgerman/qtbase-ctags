@@ -3,6 +3,7 @@ DECL|class|FpExceptionChecker
 DECL|class|GradientProducer
 DECL|class|TestProxy
 DECL|class|TestWidget
+DECL|class|TextDrawerThread
 DECL|class|ViewportTestWidget
 DECL|class|quint24
 DECL|class|tst_QPainter
@@ -73,6 +74,7 @@ DECL|function|drawRect_task247505
 DECL|function|drawRoundRect
 DECL|function|drawRoundRect_data
 DECL|function|drawTextOpacity
+DECL|function|drawTextOutsideGuiThread
 DECL|function|drawText_subPixelPositionsInRaster_qtbug5053
 DECL|function|drawhelper_blend_color
 DECL|function|drawhelper_blend_tiled_untransformed
@@ -116,6 +118,7 @@ DECL|function|inverseGradient
 DECL|function|largeImagePainting
 DECL|function|largeImagePainting_data
 DECL|function|linearGradientSymmetry
+DECL|function|linearGradientSymmetry_data
 DECL|function|metric
 DECL|function|monoImages
 DECL|function|no_porter_duff
@@ -142,6 +145,7 @@ DECL|function|randf
 DECL|function|rasterizer_asserts
 DECL|function|rasterizer_negativeCoords
 DECL|function|renderHints
+DECL|function|run
 DECL|function|run
 DECL|function|saveAndRestore
 DECL|function|saveAndRestore_data
@@ -181,6 +185,7 @@ DECL|member|deviceTransform
 DECL|member|hasPainted
 DECL|member|m_exceptionMask
 DECL|member|painted
+DECL|member|rendering
 DECL|member|viewport
 DECL|member|worldTransform
 DECL|variable|Q_PACKED

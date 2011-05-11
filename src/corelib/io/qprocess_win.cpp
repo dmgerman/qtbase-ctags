@@ -16,6 +16,7 @@ DECL|function|readFromStderr
 DECL|function|readFromStdout
 DECL|function|startDetached
 DECL|function|startProcess
+DECL|function|systemEnvironment
 DECL|function|terminateProcess
 DECL|function|waitForBytesWritten
 DECL|function|waitForFinished

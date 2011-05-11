@@ -12,6 +12,7 @@ DECL|function|addStackAndDie
 DECL|function|addStackAndDie
 DECL|function|checkSignals
 DECL|function|checkSignals
+DECL|function|commandTextFormat
 DECL|function|deleteStack
 DECL|function|deleteStack
 DECL|function|glue

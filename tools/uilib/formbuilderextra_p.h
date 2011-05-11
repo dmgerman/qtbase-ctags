@@ -1,6 +1,9 @@
 DECL|macro|ABSTRACTFORMBUILDERPRIVATE_H
+DECL|variable|QAction
+DECL|variable|QActionGroup
 DECL|variable|QBoxLayout
 DECL|variable|QButtonGroup
+DECL|variable|QDesignerCustomWidgetInterface
 DECL|variable|QGridLayout
 DECL|variable|QLabel
 DECL|variable|QObject
