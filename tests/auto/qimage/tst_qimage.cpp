@@ -36,6 +36,7 @@ DECL|function|rgbSwapped_data
 DECL|function|rotate
 DECL|function|rotate_data
 DECL|function|scaled
+DECL|function|scaled_QTBUG19157
 DECL|function|setAlphaChannel
 DECL|function|setAlphaChannelWhilePainting
 DECL|function|setAlphaChannel_data
