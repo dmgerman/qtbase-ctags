@@ -50,6 +50,7 @@ DECL|function|preserveDepth
 DECL|function|refUnref
 DECL|function|resize
 DECL|function|resizePreserveMask
+DECL|function|scaled_QTBUG19157
 DECL|function|scroll
 DECL|function|scroll_data
 DECL|function|setAlphaChannel
