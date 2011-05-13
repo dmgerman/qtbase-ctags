@@ -5,6 +5,7 @@ DECL|function|QWaylandSelection
 DECL|function|cancelled
 DECL|function|clearAll
 DECL|function|createSelectionOffer
+DECL|function|emitChanged
 DECL|function|forceRoundtrip
 DECL|function|formats_sys
 DECL|function|getTime
