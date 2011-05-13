@@ -1,11 +1,7 @@
 DECL|function|append
 DECL|function|append
-DECL|function|append
 DECL|function|append2
 DECL|function|detach
-DECL|function|detach
-DECL|function|detach2
-DECL|function|detach3
 DECL|function|detach_grow
 DECL|function|erase
 DECL|function|grow
