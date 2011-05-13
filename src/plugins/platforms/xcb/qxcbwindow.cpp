@@ -18,6 +18,7 @@ DECL|enumerator|MWM_INPUT_FULL_APPLICATION_MODAL
 DECL|enumerator|MWM_INPUT_MODELESS
 DECL|enumerator|MWM_INPUT_PRIMARY_APPLICATION_MODAL
 DECL|function|QXcbWindow
+DECL|function|changeNetWmState
 DECL|function|glContext
 DECL|function|handleButtonPressEvent
 DECL|function|handleButtonReleaseEvent
@@ -38,6 +39,7 @@ DECL|function|setNetWmWindowTypes
 DECL|function|setParent
 DECL|function|setVisible
 DECL|function|setWindowFlags
+DECL|function|setWindowState
 DECL|function|setWindowTitle
 DECL|function|translateMouseButton
 DECL|function|translateMouseButtons

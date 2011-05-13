@@ -10,6 +10,7 @@ DECL|function|setOpacity
 DECL|function|setParent
 DECL|function|setVisible
 DECL|function|setWindowFlags
+DECL|function|setWindowState
 DECL|function|setWindowTitle
 DECL|function|winId
 DECL|function|window
