@@ -33,7 +33,6 @@ DECL|function|EventSpy
 DECL|function|FocusWatchWidget
 DECL|function|GrabOnPressItem
 DECL|function|GraphicsWidget_task250119
-DECL|function|GreenWidget
 DECL|function|HFWWidget
 DECL|function|ItemChangeTester
 DECL|function|ItemChangeTester
@@ -41,7 +40,6 @@ DECL|function|MessUpPainterWidget
 DECL|function|PolishWidget
 DECL|function|ProxyStyle
 DECL|function|QT_BUG_12056_tabFocusFirstUnsetWhenRemovingItems
-DECL|function|QT_BUG_13865_doublePaintWhenAddingASubItem
 DECL|function|QT_BUG_6544_tabFocusFirstUnsetWhenRemovingItems
 DECL|function|RectItem
 DECL|function|RectWidget
@@ -140,7 +138,6 @@ DECL|function|paint
 DECL|function|paint
 DECL|function|paint
 DECL|function|paint
-DECL|function|paint
 DECL|function|paintWindowFrame
 DECL|function|paint_data
 DECL|function|painterStateProtectionOnWindowFrame
@@ -189,7 +186,6 @@ DECL|function|windowFlags_data
 DECL|function|~StyledGraphicsWidget
 DECL|member|_count
 DECL|member|changes
-DECL|member|count
 DECL|member|drawnItems
 DECL|member|eventCount
 DECL|member|gotFocusInCount
@@ -212,5 +208,4 @@ DECL|member|oldValues
 DECL|member|shortcutEvents
 DECL|member|spied
 DECL|member|values
-DECL|struct|GreenWidget
 DECL|typedef|Inst

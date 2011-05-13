@@ -26,6 +26,7 @@ DECL|function|simple_app_shadowbuild
 DECL|function|simple_app_shadowbuild2
 DECL|function|simple_dll
 DECL|function|simple_lib
+DECL|function|subdir_via_pro_file_extra_target
 DECL|function|subdirs
 DECL|function|substitutes
 DECL|function|tst_qmake

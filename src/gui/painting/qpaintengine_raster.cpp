@@ -41,14 +41,10 @@ DECL|function|drawBufferSpan
 DECL|function|drawCachedGlyphs
 DECL|function|drawColorSpans
 DECL|function|drawEllipse
-DECL|function|drawEllipsePoints
-DECL|function|drawEllipse_midpoint_i
 DECL|function|drawGlyphsS60
 DECL|function|drawImage
 DECL|function|drawImage
 DECL|function|drawImage
-DECL|function|drawLine_midpoint_dashed_i
-DECL|function|drawLine_midpoint_i
 DECL|function|drawLines
 DECL|function|drawLines
 DECL|function|drawPixmap
@@ -80,8 +76,6 @@ DECL|function|getBrushFunc
 DECL|function|getBuffer
 DECL|function|getCGContext
 DECL|function|getDC
-DECL|function|getPenFunc
-DECL|function|getPenFunc
 DECL|function|init
 DECL|function|init
 DECL|function|init
@@ -97,7 +91,6 @@ DECL|function|isUnclipped_normalized
 DECL|function|maxCacheSize
 DECL|function|metric
 DECL|function|monoVal
-DECL|function|offset_pattern
 DECL|function|opacityChanged
 DECL|function|paletteSize
 DECL|function|penChanged
@@ -139,8 +132,6 @@ DECL|function|setupMatrix
 DECL|function|size
 DECL|function|splitPolygon
 DECL|function|stroke
-DECL|function|strokePolygonCosmetic
-DECL|function|strokePolygonCosmetic
 DECL|function|systemStateChanged
 DECL|function|toAlignedRect_positive
 DECL|function|toNormalizedFillRect
