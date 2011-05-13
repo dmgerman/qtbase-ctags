@@ -2,6 +2,7 @@ DECL|class|QGLTemporaryContextPrivate
 DECL|function|QGLTemporaryContext
 DECL|function|bindTextureFromNativePixmap
 DECL|function|chooseContext
+DECL|function|chooseVisual
 DECL|function|cleanupColormaps
 DECL|function|colormap
 DECL|function|destroyGlSurfaceForPixmap
@@ -13,6 +14,7 @@ DECL|function|recreateEglSurface
 DECL|function|resizeEvent
 DECL|function|setColormap
 DECL|function|setContext
+DECL|function|tryVisual
 DECL|function|unbindPixmapFromTexture
 DECL|function|updateOverlayGL
 DECL|function|~QGLTemporaryContext
