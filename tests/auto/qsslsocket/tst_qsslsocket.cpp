@@ -100,6 +100,7 @@ DECL|function|verifyDepth
 DECL|function|verifyMode
 DECL|function|waitForConnectedEncryptedReadyRead
 DECL|function|waitForEncrypted
+DECL|function|waitForEncryptedMinusOne
 DECL|function|waitForMinusOne
 DECL|function|waitSomeMore
 DECL|function|wildcard
