@@ -31,7 +31,9 @@ DECL|function|handleFocusOutEvent
 DECL|function|handleLeaveNotifyEvent
 DECL|function|handleMotionNotifyEvent
 DECL|function|handleMouseEvent
+DECL|function|hide
 DECL|function|lower
+DECL|function|propagateSizeHints
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|setGeometry
@@ -41,6 +43,7 @@ DECL|function|setVisible
 DECL|function|setWindowFlags
 DECL|function|setWindowState
 DECL|function|setWindowTitle
+DECL|function|show
 DECL|function|translateMouseButton
 DECL|function|translateMouseButtons
 DECL|function|updateSyncRequestCounter

@@ -1,5 +1,6 @@
 DECL|function|QWindow
 DECL|function|actualWindowFormat
+DECL|function|baseSize
 DECL|function|close
 DECL|function|create
 DECL|function|destroy
@@ -10,6 +11,7 @@ DECL|function|glContext
 DECL|function|handle
 DECL|function|hideEvent
 DECL|function|inputMethodEvent
+DECL|function|isTopLevel
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
 DECL|function|lower
@@ -20,16 +22,19 @@ DECL|function|mouseMoveEvent
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|parent
+DECL|function|qt_window_private
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|requestedWindowFormat
 DECL|function|resizeEvent
+DECL|function|setBaseSize
 DECL|function|setGeometry
 DECL|function|setMaximumSize
 DECL|function|setMinimumSize
 DECL|function|setOpacity
 DECL|function|setParent
 DECL|function|setRequestFormat
+DECL|function|setSizeIncrement
 DECL|function|setSurfaceType
 DECL|function|setVisible
 DECL|function|setWindowFlags
@@ -42,6 +47,7 @@ DECL|function|showFullScreen
 DECL|function|showMaximized
 DECL|function|showMinimized
 DECL|function|showNormal
+DECL|function|sizeIncrement
 DECL|function|surface
 DECL|function|surfaceType
 DECL|function|visible

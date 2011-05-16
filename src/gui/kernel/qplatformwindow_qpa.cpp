@@ -3,6 +3,7 @@ DECL|function|QPlatformWindow
 DECL|function|geometry
 DECL|function|glContext
 DECL|function|lower
+DECL|function|propagateSizeHints
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|setGeometry
