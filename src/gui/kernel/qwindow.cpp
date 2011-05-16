@@ -56,4 +56,5 @@ DECL|function|winId
 DECL|function|windowFlags
 DECL|function|windowState
 DECL|function|windowTitle
+DECL|function|windowType
 DECL|function|~QWindow

@@ -32,6 +32,7 @@ DECL|function|handleLeaveNotifyEvent
 DECL|function|handleMotionNotifyEvent
 DECL|function|handleMouseEvent
 DECL|function|hide
+DECL|function|isTransient
 DECL|function|lower
 DECL|function|propagateSizeHints
 DECL|function|raise
