@@ -57,6 +57,7 @@ DECL|function|task218400_insertStretchCrash
 DECL|function|testAlignmentInLargerLayout
 DECL|function|testDefaultAlignment
 DECL|function|testOffByOneInLargerLayout
+DECL|function|testStretch
 DECL|function|updateGeometry
 DECL|function|widgetEvent
 DECL|member|graphicsSceneResize
