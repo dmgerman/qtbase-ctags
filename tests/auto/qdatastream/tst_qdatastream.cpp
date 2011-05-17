@@ -211,14 +211,12 @@ DECL|macro|MAX_qint64_DATA
 DECL|macro|SRCDIR
 DECL|macro|STREAM_IMPL
 DECL|macro|STRINGIFY
-DECL|macro|SVGFILE
 DECL|macro|TEST_FLOAT
 DECL|macro|TEST_WRITE_ERROR
 DECL|macro|TEST_qint
 DECL|macro|TOSTRING
 DECL|member|m_lock
 DECL|member|offset
-DECL|member|svgFile
 DECL|typedef|Hash
 DECL|typedef|Map
 DECL|variable|NColorRoles
