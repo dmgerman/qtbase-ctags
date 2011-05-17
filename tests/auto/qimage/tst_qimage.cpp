@@ -2,7 +2,6 @@ DECL|class|tst_QImage
 DECL|function|alphaChannel
 DECL|function|cacheKey
 DECL|function|compareIndexed
-DECL|function|convertBitOrder
 DECL|function|convertToFormat
 DECL|function|convertToFormatPreserveDotsPrMeter
 DECL|function|convertToFormatPreserveText

@@ -48,7 +48,6 @@ DECL|function|longFileName
 DECL|function|longFileName_data
 DECL|function|makedirReturnCode
 DECL|function|match
-DECL|function|matchAllDirs
 DECL|function|match_data
 DECL|function|mkdir
 DECL|function|mkdir_data
@@ -63,7 +62,6 @@ DECL|function|rmdir_data
 DECL|function|rootPath
 DECL|function|searchPaths
 DECL|function|searchPaths_data
-DECL|function|setNameFilter
 DECL|function|setNameFilters
 DECL|function|setNameFilters_data
 DECL|function|setPath

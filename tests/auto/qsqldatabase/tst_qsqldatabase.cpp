@@ -11,8 +11,6 @@ DECL|function|bug_249059
 DECL|function|bug_249059_data
 DECL|function|caseSensivity
 DECL|function|caseSensivity_data
-DECL|function|checkNullValues
-DECL|function|checkValues
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|commonFieldTest
@@ -92,8 +90,6 @@ DECL|function|recordIBase
 DECL|function|recordIBase_data
 DECL|function|recordMySQL
 DECL|function|recordMySQL_data
-DECL|function|recordNonSelect
-DECL|function|recordNonSelect_data
 DECL|function|recordOCI
 DECL|function|recordOCI_data
 DECL|function|recordPSQL
@@ -114,7 +110,6 @@ DECL|function|sqlite_enable_cache_mode_data
 DECL|function|tables
 DECL|function|tables_data
 DECL|function|testRecord
-DECL|function|testRecordInfo
 DECL|function|transaction
 DECL|function|transaction_data
 DECL|function|tst_QSqlDatabase
