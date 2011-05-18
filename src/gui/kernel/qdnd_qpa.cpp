@@ -1,5 +1,5 @@
-DECL|class|QShapedPixmapWidget
-DECL|function|QShapedPixmapWidget
+DECL|class|QShapedPixmapWindow
+DECL|function|QShapedPixmapWindow
 DECL|function|cancel
 DECL|function|drag
 DECL|function|drop
@@ -7,7 +7,7 @@ DECL|function|eventFilter
 DECL|function|formats_sys
 DECL|function|hasFormat_sys
 DECL|function|move
-DECL|function|paintEvent
+DECL|function|move
 DECL|function|retrieveData_sys
 DECL|function|setPixmap
 DECL|function|timerEvent
