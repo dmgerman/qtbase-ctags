@@ -7,7 +7,6 @@ DECL|function|MapData
 DECL|function|QBitArrayData
 DECL|function|QBoolData
 DECL|function|QColorData
-DECL|function|QColorGroupData
 DECL|function|QEasingCurveData
 DECL|function|QRegExpData
 DECL|function|QStringData
@@ -29,7 +28,6 @@ DECL|function|qCursorData
 DECL|function|qDateData
 DECL|function|qDateTimeData
 DECL|function|qFontData
-DECL|function|qPaletteData
 DECL|function|qPenData
 DECL|function|qPointData
 DECL|function|qPolygonData
@@ -47,7 +45,6 @@ DECL|function|readQBool
 DECL|function|readQBrush
 DECL|function|readQByteArray
 DECL|function|readQColor
-DECL|function|readQColorGroup
 DECL|function|readQCursor
 DECL|function|readQDate
 DECL|function|readQDateTime
@@ -55,7 +52,6 @@ DECL|function|readQEasingCurve
 DECL|function|readQFont
 DECL|function|readQIcon
 DECL|function|readQImage
-DECL|function|readQPalette
 DECL|function|readQPen
 DECL|function|readQPixmap
 DECL|function|readQPoint
@@ -66,7 +62,6 @@ DECL|function|readQRegion
 DECL|function|readQSize
 DECL|function|readQString
 DECL|function|readQTime
-DECL|function|readQWMatrix
 DECL|function|readbool
 DECL|function|readqint64
 DECL|function|seek
@@ -106,8 +101,6 @@ DECL|function|stream_QByteArray
 DECL|function|stream_QByteArray2
 DECL|function|stream_QByteArray_data
 DECL|function|stream_QColor
-DECL|function|stream_QColorGroup
-DECL|function|stream_QColorGroup_data
 DECL|function|stream_QColor_data
 DECL|function|stream_QCursor
 DECL|function|stream_QCursor_data
@@ -123,8 +116,6 @@ DECL|function|stream_QIcon
 DECL|function|stream_QIcon_data
 DECL|function|stream_QImage
 DECL|function|stream_QImage_data
-DECL|function|stream_QPalette
-DECL|function|stream_QPalette_data
 DECL|function|stream_QPen
 DECL|function|stream_QPen_data
 DECL|function|stream_QPixmap
@@ -145,8 +136,6 @@ DECL|function|stream_QString
 DECL|function|stream_QString_data
 DECL|function|stream_QTime
 DECL|function|stream_QTime_data
-DECL|function|stream_QWMatrix
-DECL|function|stream_QWMatrix_data
 DECL|function|stream_atEnd
 DECL|function|stream_atEnd_data
 DECL|function|stream_bool
@@ -155,7 +144,6 @@ DECL|function|stream_data
 DECL|function|stream_qint64
 DECL|function|stream_qint64_data
 DECL|function|stream_writeError
-DECL|function|task_224283
 DECL|function|tst_QDataStream
 DECL|function|writeData
 DECL|function|writeHash
@@ -165,7 +153,6 @@ DECL|function|writeQBool
 DECL|function|writeQBrush
 DECL|function|writeQByteArray
 DECL|function|writeQColor
-DECL|function|writeQColorGroup
 DECL|function|writeQCursor
 DECL|function|writeQDate
 DECL|function|writeQDateTime
@@ -173,7 +160,6 @@ DECL|function|writeQEasingCurve
 DECL|function|writeQFont
 DECL|function|writeQIcon
 DECL|function|writeQImage
-DECL|function|writeQPalette
 DECL|function|writeQPen
 DECL|function|writeQPixmap
 DECL|function|writeQPoint
@@ -184,7 +170,6 @@ DECL|function|writeQRegion
 DECL|function|writeQSize
 DECL|function|writeQString
 DECL|function|writeQTime
-DECL|function|writeQWMatrix
 DECL|function|writebool
 DECL|function|writeqint64
 DECL|function|~tst_QDataStream
@@ -193,11 +178,9 @@ DECL|macro|MAP_TEST
 DECL|macro|MAX_EASING_DATA
 DECL|macro|MAX_HASH_DATA
 DECL|macro|MAX_MAP_DATA
-DECL|macro|MAX_QCOLORGROUP_DATA
 DECL|macro|MAX_QDATETIME_DATA
 DECL|macro|MAX_QDATE_DATA
 DECL|macro|MAX_QFONT_DATA
-DECL|macro|MAX_QPALETTE_DATA
 DECL|macro|MAX_QPEN_DATA
 DECL|macro|MAX_QPOINTARRAY_DATA
 DECL|macro|MAX_QPOINT_DATA
