@@ -8,7 +8,6 @@ DECL|function|isEqual
 DECL|function|old_tesselate_polygon
 DECL|function|qrealToXFixed
 DECL|function|toXTrapezoid
-DECL|function|xAt
 DECL|macro|FloatToQ27Dot5
 DECL|macro|FloatToXFixed
 DECL|macro|IntToQ27Dot5

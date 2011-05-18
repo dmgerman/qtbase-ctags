@@ -54,8 +54,6 @@ DECL|function|navigateGeometric
 DECL|function|navigateHierarchy
 DECL|function|navigateLabels
 DECL|function|navigateSlider
-DECL|function|printState
-DECL|function|printState
 DECL|function|pushButtonTest
 DECL|function|relationTo
 DECL|function|removeAllColumns
@@ -72,7 +70,6 @@ DECL|function|sizeHint
 DECL|function|sliderTest
 DECL|function|spinBoxTest
 DECL|function|state
-DECL|function|stateNames
 DECL|function|tabTest
 DECL|function|tabWidgetTest
 DECL|function|tableViewTest
