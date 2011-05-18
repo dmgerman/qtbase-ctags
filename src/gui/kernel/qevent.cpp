@@ -7,7 +7,6 @@ DECL|function|QContextMenuEvent
 DECL|function|QDragEnterEvent
 DECL|function|QDragLeaveEvent
 DECL|function|QDragMoveEvent
-DECL|function|QDragResponseEvent
 DECL|function|QDropEvent
 DECL|function|QFileOpenEvent
 DECL|function|QFileOpenEvent
@@ -126,7 +125,6 @@ DECL|function|~QContextMenuEvent
 DECL|function|~QDragEnterEvent
 DECL|function|~QDragLeaveEvent
 DECL|function|~QDragMoveEvent
-DECL|function|~QDragResponseEvent
 DECL|function|~QDropEvent
 DECL|function|~QFileOpenEvent
 DECL|function|~QFileOpenEventPrivate
