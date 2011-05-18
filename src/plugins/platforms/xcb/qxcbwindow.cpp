@@ -19,6 +19,7 @@ DECL|enumerator|MWM_INPUT_MODELESS
 DECL|enumerator|MWM_INPUT_PRIMARY_APPLICATION_MODAL
 DECL|function|QXcbWindow
 DECL|function|changeNetWmState
+DECL|function|getMotifWmHints
 DECL|function|glContext
 DECL|function|handleButtonPressEvent
 DECL|function|handleButtonReleaseEvent
@@ -38,6 +39,7 @@ DECL|function|propagateSizeHints
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|setGeometry
+DECL|function|setMotifWmHints
 DECL|function|setNetWmWindowTypes
 DECL|function|setParent
 DECL|function|setVisible
@@ -47,6 +49,7 @@ DECL|function|setWindowTitle
 DECL|function|show
 DECL|function|translateMouseButton
 DECL|function|translateMouseButtons
+DECL|function|updateMotifWmHintsBeforeShow
 DECL|function|updateSyncRequestCounter
 DECL|function|winId
 DECL|function|~QXcbWindow
@@ -55,4 +58,4 @@ DECL|member|flags
 DECL|member|functions
 DECL|member|input_mode
 DECL|member|status
-DECL|struct|QtMWMHints
+DECL|struct|QtMotifWmHints

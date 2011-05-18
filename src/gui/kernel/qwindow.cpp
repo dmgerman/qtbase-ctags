@@ -11,6 +11,7 @@ DECL|function|glContext
 DECL|function|handle
 DECL|function|hideEvent
 DECL|function|inputMethodEvent
+DECL|function|isModal
 DECL|function|isTopLevel
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
@@ -40,6 +41,7 @@ DECL|function|setVisible
 DECL|function|setWindowFlags
 DECL|function|setWindowFormat
 DECL|function|setWindowIcon
+DECL|function|setWindowModality
 DECL|function|setWindowState
 DECL|function|setWindowTitle
 DECL|function|showEvent
@@ -54,6 +56,7 @@ DECL|function|visible
 DECL|function|wheelEvent
 DECL|function|winId
 DECL|function|windowFlags
+DECL|function|windowModality
 DECL|function|windowState
 DECL|function|windowTitle
 DECL|function|windowType

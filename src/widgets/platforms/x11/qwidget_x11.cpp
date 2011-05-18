@@ -17,7 +17,6 @@ DECL|enumerator|MWM_HINTS_INPUT_MODE
 DECL|enumerator|MWM_INPUT_FULL_APPLICATION_MODAL
 DECL|enumerator|MWM_INPUT_MODELESS
 DECL|enumerator|MWM_INPUT_PRIMARY_APPLICATION_MODAL
-DECL|function|GetMWMHints
 DECL|function|SetMWMHints
 DECL|function|activateWindow
 DECL|function|createDefaultWindowSurface_sys
@@ -29,6 +28,7 @@ DECL|function|deleteSysExtra
 DECL|function|deleteTLSysExtra
 DECL|function|destroy
 DECL|function|do_size_hints
+DECL|function|getMWMHints
 DECL|function|getNetWmState
 DECL|function|getSolidFill
 DECL|function|grabKeyboard
