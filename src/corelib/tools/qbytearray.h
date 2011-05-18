@@ -37,8 +37,8 @@ DECL|function|size
 DECL|function|squeeze
 DECL|function|~QByteArray
 DECL|macro|QBYTEARRAY_H
-DECL|macro|QT_USE_FAST_CONCATENATION
 DECL|macro|QT_USE_FAST_OPERATOR_PLUS
+DECL|macro|QT_USE_QSTRINGBUILDER
 DECL|member|operator
 DECL|variable|QByteRef
 DECL|variable|QDataStream
