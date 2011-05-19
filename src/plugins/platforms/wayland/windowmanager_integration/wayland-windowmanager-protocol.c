@@ -1,0 +1,2 @@
+DECL|variable|wl_windowmanager_interface
+DECL|variable|wl_windowmanager_requests

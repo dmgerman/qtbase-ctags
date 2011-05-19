@@ -17,6 +17,7 @@ DECL|function|shellHandleConfigure
 DECL|function|sourceUpdate
 DECL|function|syncCallback
 DECL|function|waitForScreens
+DECL|function|windowManagerIntegration
 DECL|function|~QWaylandDisplay
 DECL|member|outputListener
 DECL|member|shellListener
