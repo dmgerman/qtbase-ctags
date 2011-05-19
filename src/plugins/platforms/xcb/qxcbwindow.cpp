@@ -19,6 +19,8 @@ DECL|enumerator|MWM_INPUT_MODELESS
 DECL|enumerator|MWM_INPUT_PRIMARY_APPLICATION_MODAL
 DECL|function|QXcbWindow
 DECL|function|changeNetWmState
+DECL|function|create
+DECL|function|destroy
 DECL|function|getMotifWmHints
 DECL|function|getNetWmState
 DECL|function|glContext
@@ -41,9 +43,10 @@ DECL|function|propagateSizeHints
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|setGeometry
+DECL|function|setMotifWindowFlags
 DECL|function|setMotifWmHints
 DECL|function|setNetWmState
-DECL|function|setNetWmWindowTypes
+DECL|function|setNetWmWindowFlags
 DECL|function|setParent
 DECL|function|setVisible
 DECL|function|setWindowFlags
