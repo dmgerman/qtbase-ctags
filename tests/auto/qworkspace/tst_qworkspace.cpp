@@ -2,7 +2,6 @@ DECL|class|MyChild
 DECL|class|tst_QWorkspace
 DECL|function|MyChild
 DECL|function|accelActivated
-DECL|function|accelPropagation
 DECL|function|activeChanged
 DECL|function|changeModified
 DECL|function|changeWindowTitle

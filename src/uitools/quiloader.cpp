@@ -27,6 +27,7 @@ DECL|function|defaultCreateAction
 DECL|function|defaultCreateActionGroup
 DECL|function|defaultCreateLayout
 DECL|function|defaultCreateWidget
+DECL|function|errorString
 DECL|function|eventFilter
 DECL|function|isLanguageChangeEnabled
 DECL|function|isScriptingEnabled

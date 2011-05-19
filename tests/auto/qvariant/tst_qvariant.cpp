@@ -7,8 +7,6 @@ DECL|function|MyMovable
 DECL|function|MyMovable
 DECL|function|MyType
 DECL|function|MyType
-DECL|function|asType
-DECL|function|asType_data
 DECL|function|basicUserType
 DECL|function|canConvert
 DECL|function|canConvertMetaTypeToInt
@@ -33,7 +31,6 @@ DECL|function|dataStar
 DECL|function|data_
 DECL|function|forwardDeclare
 DECL|function|globalColor
-DECL|function|invalidAsByteArray
 DECL|function|invalidDateTime
 DECL|function|invalidQColor
 DECL|function|isNull
@@ -42,7 +39,6 @@ DECL|function|loadUnknownUserType
 DECL|function|matrix
 DECL|function|matrix4x4
 DECL|function|moreCustomTypes
-DECL|function|nullAsType
 DECL|function|numericalConvert
 DECL|function|operator <<
 DECL|function|operator =
@@ -70,8 +66,6 @@ DECL|function|toBrush
 DECL|function|toBrush_data
 DECL|function|toByteArray
 DECL|function|toByteArray_data
-DECL|function|toCString
-DECL|function|toCString_data
 DECL|function|toChar
 DECL|function|toChar_data
 DECL|function|toColor

@@ -261,7 +261,6 @@ DECL|function|~MoveToThreadThread
 DECL|function|~SiblingDeleter
 DECL|function|~tst_QObject
 DECL|macro|Bleh_iid
-DECL|macro|QT3_SUPPORT
 DECL|macro|SIGNAL_INDEX
 DECL|member|aPublicSlotCalled
 DECL|member|called_slot1

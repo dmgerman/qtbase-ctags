@@ -19,10 +19,6 @@ DECL|function|tryLock
 DECL|function|tryLockRace
 DECL|function|tst_QMutex
 DECL|function|~tst_QMutex
-DECL|macro|VERIFY_LOCKED
-DECL|macro|VERIFY_LOCKED
-DECL|macro|VERIFY_NLOCKED
-DECL|macro|VERIFY_NLOCKED
 DECL|member|cond
 DECL|member|cond
 DECL|member|errorCount

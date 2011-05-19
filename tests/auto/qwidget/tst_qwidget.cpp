@@ -80,7 +80,6 @@ DECL|function|backingStore
 DECL|function|beEvil
 DECL|function|cbaVisibility
 DECL|function|changeEvent
-DECL|function|checkFocus
 DECL|function|childAt
 DECL|function|childAt_unifiedToolBar
 DECL|function|childDeletesItsSibling
@@ -160,7 +159,6 @@ DECL|function|lower
 DECL|function|macHasAccessToWindowsServer
 DECL|function|mapFromAndTo
 DECL|function|mapFromAndTo_data
-DECL|function|mapToGlobal
 DECL|function|maskedUpdate
 DECL|function|maximizedWindowModeTransitions
 DECL|function|metric

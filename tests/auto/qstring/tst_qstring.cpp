@@ -26,7 +26,6 @@ DECL|function|constructor
 DECL|function|constructorQByteArray
 DECL|function|constructorQByteArray_data
 DECL|function|contains
-DECL|function|copy
 DECL|function|count
 DECL|function|double_conversion
 DECL|function|double_conversion_data
