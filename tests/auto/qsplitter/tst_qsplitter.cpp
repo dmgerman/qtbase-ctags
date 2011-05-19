@@ -19,8 +19,6 @@ DECL|function|saveAndRestoreState_data
 DECL|function|saveState_data
 DECL|function|setRubberBand
 DECL|function|setSizes
-DECL|function|setSizes3
-DECL|function|setSizes3_data
 DECL|function|setSizes_data
 DECL|function|setStretchFactor
 DECL|function|setStretchFactor_data
