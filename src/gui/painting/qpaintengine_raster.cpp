@@ -171,6 +171,7 @@ DECL|struct|CacheInfo
 DECL|struct|ClipData
 DECL|struct|QRasterFloatPoint
 DECL|typedef|QGradientColorTableHash
+DECL|variable|aliasedCoordinateDelta
 DECL|variable|rectClips
 DECL|variable|regionClips
 DECL|variable|totalClips
