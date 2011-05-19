@@ -5,3 +5,4 @@ DECL|variable|QWaylandBuffer
 DECL|variable|QWaylandGLIntegration
 DECL|variable|QWaylandInputDevice
 DECL|variable|QWaylandScreen
+DECL|variable|QWaylandWindowManagerIntegration
