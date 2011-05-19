@@ -124,4 +124,3 @@ DECL|member|typeName
 DECL|member|val
 DECL|struct|FieldDef
 DECL|variable|ITERATION_COUNT
-DECL|variable|pkey
