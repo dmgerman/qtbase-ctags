@@ -55,6 +55,7 @@ DECL|function|threeLineBoundingRect
 DECL|function|tst_QTextLayout
 DECL|function|widthOfTabs
 DECL|function|xToCursorAtEndOfLine
+DECL|function|xToCursorForLigatures
 DECL|function|~tst_QTextLayout
 DECL|macro|TESTFONT_SIZE
 DECL|member|testFont
