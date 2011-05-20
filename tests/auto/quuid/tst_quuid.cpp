@@ -1,6 +1,9 @@
 DECL|class|UuidThread
 DECL|class|tst_QUuid
+DECL|function|check_QDataStream
 DECL|function|equal
+DECL|function|fromChar
+DECL|function|fromString
 DECL|function|generate
 DECL|function|isNull
 DECL|function|less

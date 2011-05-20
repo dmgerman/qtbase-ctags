@@ -1,4 +1,12 @@
 DECL|class|tst_bench_QUuid
 DECL|function|createUuid
+DECL|function|fromChar
+DECL|function|fromDataStream
+DECL|function|fromString
+DECL|function|isNull
+DECL|function|operatorLess
+DECL|function|operatorMore
+DECL|function|toDataStream
+DECL|function|toString
 DECL|function|tst_bench_QUuid
 DECL|variable|tst_bench_QUuid
