@@ -3,6 +3,7 @@ DECL|class|MetaTypeTorturer
 DECL|class|RegUnreg
 DECL|class|tst_QMetaType
 DECL|function|Bar
+DECL|function|MetaTypeTorturer
 DECL|function|QTBUG11316_registerStreamBuiltin
 DECL|function|RegUnreg
 DECL|function|RegUnreg
@@ -25,6 +26,9 @@ DECL|function|typedefs
 DECL|function|unregisterType
 DECL|function|~RegUnreg
 DECL|member|d
+DECL|member|failureCount
+DECL|member|failureCount
+DECL|member|failureCount
 DECL|member|i
 DECL|member|propList
 DECL|member|t

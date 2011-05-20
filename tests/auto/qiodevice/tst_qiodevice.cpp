@@ -5,12 +5,10 @@ DECL|function|cleanup
 DECL|function|constructing_QFile
 DECL|function|constructing_QTcpSocket
 DECL|function|getSetCheck
-DECL|function|getch
 DECL|function|init
 DECL|function|peek
 DECL|function|peekAndRead
 DECL|function|peekBug
-DECL|function|putch
 DECL|function|readData
 DECL|function|readLine
 DECL|function|readLine2

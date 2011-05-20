@@ -60,6 +60,8 @@ DECL|function|clear
 DECL|function|clear
 DECL|function|compressedHttpReplyBrokenGzip
 DECL|function|connectSocketSignals
+DECL|function|connectToIPv6Address
+DECL|function|connectToIPv6Address_data
 DECL|function|create
 DECL|function|createUniqueExtension
 DECL|function|data
@@ -307,6 +309,7 @@ DECL|member|doSsl
 DECL|member|endPoints
 DECL|member|fillKernelBuffer
 DECL|member|interval
+DECL|member|ipv6
 DECL|member|lastQuery
 DECL|member|loop
 DECL|member|m_buffers

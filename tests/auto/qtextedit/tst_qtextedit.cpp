@@ -113,7 +113,6 @@ DECL|function|shiftDownInLineLastShouldSelectToEnd_data
 DECL|function|shiftEnterShouldInsertLineSeparator
 DECL|function|taskQTBUG_7902_contextMenuCrash
 DECL|function|textObscuredByScrollbars
-DECL|function|textSemantics
 DECL|function|tst_QTextEdit
 DECL|function|twoSameInputMethodEvents
 DECL|function|undoAvailable
@@ -123,7 +122,6 @@ DECL|function|undoRedoAfterSetContent
 DECL|function|undoRedoAvailableRepetition
 DECL|function|undoRedoShouldRepositionTextEditCursor
 DECL|function|wordWrapProperty
-DECL|macro|QT3_SUPPORT
 DECL|macro|SRCDIR
 DECL|macro|ff
 DECL|member|canInsertCallCount

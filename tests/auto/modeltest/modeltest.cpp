@@ -14,5 +14,3 @@ DECL|function|rowsAboutToBeRemoved
 DECL|function|rowsInserted
 DECL|function|rowsRemoved
 DECL|function|runAllTests
-DECL|macro|Q_ASSERT
-DECL|macro|Q_ASSERT

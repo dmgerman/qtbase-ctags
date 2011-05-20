@@ -19,6 +19,8 @@ DECL|function|testResetThroughProxy
 DECL|function|treeWidgetModel
 DECL|function|tst_ModelTest
 DECL|function|~tst_ModelTest
+DECL|member|checkPersistentFailureCount
 DECL|member|m_persistentProxyIndexes
 DECL|member|m_persistentSourceIndexes
 DECL|member|m_proxy
+DECL|member|storePersistentFailureCount

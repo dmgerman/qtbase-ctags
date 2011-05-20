@@ -20,8 +20,6 @@ DECL|function|deleteAction
 DECL|function|deleteActionInTriggered
 DECL|function|focus
 DECL|function|getSetCheck
-DECL|function|indexBasedInsertion
-DECL|function|indexBasedInsertion_data
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|keyboardNavigation

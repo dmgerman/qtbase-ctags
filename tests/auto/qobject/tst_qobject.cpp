@@ -261,10 +261,10 @@ DECL|function|~MoveToThreadThread
 DECL|function|~SiblingDeleter
 DECL|function|~tst_QObject
 DECL|macro|Bleh_iid
-DECL|macro|QT3_SUPPORT
 DECL|macro|SIGNAL_INDEX
 DECL|member|aPublicSlotCalled
 DECL|member|called_slot1
+DECL|member|called_slot10
 DECL|member|called_slot2
 DECL|member|called_slot3
 DECL|member|called_slot4
@@ -272,6 +272,7 @@ DECL|member|called_slot5
 DECL|member|called_slot6
 DECL|member|called_slot7
 DECL|member|called_slot8
+DECL|member|called_slot9
 DECL|member|changedDynamicProperties
 DECL|member|child
 DECL|member|cond

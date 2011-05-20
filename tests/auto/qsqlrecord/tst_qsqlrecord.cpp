@@ -21,10 +21,6 @@ DECL|function|setGenerated
 DECL|function|setNull
 DECL|function|setValue
 DECL|function|setValue_data
-DECL|function|toString
-DECL|function|toStringList
-DECL|function|toStringList_data
-DECL|function|toString_data
 DECL|function|tst_QSqlRecord
 DECL|function|value
 DECL|function|~tst_QSqlRecord

@@ -75,7 +75,6 @@ DECL|function|keyPressEvent
 DECL|function|keypress_inputMask
 DECL|function|keypress_inputMask_data
 DECL|function|leftKeyOnSelectedText
-DECL|function|lostFocus
 DECL|function|maskCharacter
 DECL|function|maskCharacter_data
 DECL|function|maxLength
@@ -149,8 +148,6 @@ DECL|function|undo_keypressevents_data
 DECL|function|upperAndLowercase
 DECL|function|validate
 DECL|function|validate
-DECL|function|validateAndSet
-DECL|function|validateAndSet_data
 DECL|function|validateOnFocusOut
 DECL|function|validator
 DECL|function|~tst_QLineEdit

@@ -38,6 +38,7 @@ DECL|function|domPropertyToIcon
 DECL|function|domPropertyToIcon
 DECL|function|domPropertyToPixmap
 DECL|function|domPropertyToPixmap
+DECL|function|errorString
 DECL|function|formLayoutRole
 DECL|function|formScriptRunner
 DECL|function|iconPaths
@@ -59,8 +60,10 @@ DECL|function|loadItemViewExtraInfo
 DECL|function|loadListWidgetExtraInfo
 DECL|function|loadTableWidgetExtraInfo
 DECL|function|loadTreeWidgetExtraInfo
+DECL|function|msgXmlError
 DECL|function|pixmapPaths
 DECL|function|propertyMap
+DECL|function|readUiAttributes
 DECL|function|reset
 DECL|function|resourceBuilder
 DECL|function|save
@@ -104,6 +107,7 @@ DECL|function|toString
 DECL|function|toVariant
 DECL|function|toolBarAreaMetaEnum
 DECL|function|toolbarAreaFromDOMAttributes
+DECL|function|uiVersion
 DECL|function|workingDirectory
 DECL|function|~QAbstractFormBuilder
 DECL|member|alignment

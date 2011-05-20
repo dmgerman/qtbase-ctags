@@ -44,7 +44,6 @@ DECL|function|apply
 DECL|function|applyOperations
 DECL|function|buttonText
 DECL|function|check
-DECL|function|checkInvariant
 DECL|function|cleanup
 DECL|function|cleanupPage
 DECL|function|combinations

@@ -23,6 +23,7 @@ DECL|function|loadAndConvertMIB
 DECL|function|mibForTSCII
 DECL|function|moreToFromUnicode
 DECL|function|moreToFromUnicode_data
+DECL|function|shiftJis
 DECL|function|threadSafety
 DECL|function|toLocal8Bit
 DECL|function|toUnicode

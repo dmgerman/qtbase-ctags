@@ -20,7 +20,6 @@ DECL|function|bitArray
 DECL|function|byteArray
 DECL|function|cache
 DECL|function|cleanup
-DECL|function|cleanupHandler
 DECL|function|constAndNonConstStlIterators
 DECL|function|containerInstantiation
 DECL|function|containerTypedefs

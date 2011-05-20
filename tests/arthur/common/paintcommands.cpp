@@ -59,12 +59,6 @@ DECL|function|command_pen_setDashOffset
 DECL|function|command_pen_setDashPattern
 DECL|function|command_pixmap_load
 DECL|function|command_pixmap_setMask
-DECL|function|command_qt3_drawArc
-DECL|function|command_qt3_drawChord
-DECL|function|command_qt3_drawEllipse
-DECL|function|command_qt3_drawPie
-DECL|function|command_qt3_drawRect
-DECL|function|command_qt3_drawRoundRect
 DECL|function|command_region_addEllipse
 DECL|function|command_region_addRect
 DECL|function|command_region_getClipRegion

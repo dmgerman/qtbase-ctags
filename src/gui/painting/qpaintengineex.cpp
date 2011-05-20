@@ -24,6 +24,7 @@ DECL|function|drawPolygon
 DECL|function|drawRects
 DECL|function|drawRects
 DECL|function|drawRoundedRect
+DECL|function|drawStaticTextItem
 DECL|function|drawTiledPixmap
 DECL|function|fillRect
 DECL|function|fillRect

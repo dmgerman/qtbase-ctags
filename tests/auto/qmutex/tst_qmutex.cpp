@@ -19,12 +19,10 @@ DECL|function|tryLock
 DECL|function|tryLockRace
 DECL|function|tst_QMutex
 DECL|function|~tst_QMutex
-DECL|macro|VERIFY_LOCKED
-DECL|macro|VERIFY_LOCKED
-DECL|macro|VERIFY_NLOCKED
-DECL|macro|VERIFY_NLOCKED
 DECL|member|cond
 DECL|member|cond
+DECL|member|errorCount
+DECL|member|errorCount
 DECL|member|lockCount
 DECL|member|lockCount
 DECL|member|mutex
@@ -40,6 +38,7 @@ DECL|member|test_mutex
 DECL|member|test_mutex
 DECL|variable|iterations
 DECL|variable|normalMutex
+DECL|variable|qtbug16115_failure_count
 DECL|variable|qtbug16115_trylock_counter
 DECL|variable|testsTurn
 DECL|variable|threadsTurn
