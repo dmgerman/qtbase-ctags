@@ -1,5 +1,6 @@
 DECL|function|QUuid
 DECL|function|QUuid
+DECL|function|QUuid
 DECL|function|_q_fromHex
 DECL|function|_q_toHex
 DECL|function|_q_uuidFromHex
@@ -11,6 +12,7 @@ DECL|function|operator <
 DECL|function|operator <<
 DECL|function|operator >
 DECL|function|operator >>
+DECL|function|toByteArray
 DECL|function|toString
 DECL|function|variant
 DECL|function|version
