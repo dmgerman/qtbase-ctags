@@ -1,6 +1,7 @@
 DECL|function|QGuiApplication
 DECL|function|QGuiApplication
 DECL|function|QGuiApplicationPrivate
+DECL|function|activeWindow
 DECL|function|changeOverrideCursor
 DECL|function|clipboard
 DECL|function|compressEvent
@@ -48,6 +49,7 @@ DECL|function|setOverrideCursor
 DECL|function|topLevelWindows
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
+DECL|member|active_window
 DECL|member|app_do_modal
 DECL|member|app_font
 DECL|member|app_pal
