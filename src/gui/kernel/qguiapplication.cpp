@@ -46,6 +46,7 @@ DECL|function|setFont
 DECL|function|setKeyboardInputInterval
 DECL|function|setLayoutDirection
 DECL|function|setOverrideCursor
+DECL|function|topLevelAt
 DECL|function|topLevelWindows
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
