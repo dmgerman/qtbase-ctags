@@ -1,6 +1,7 @@
 DECL|function|QWidgetWindow
 DECL|function|event
 DECL|function|handleCloseEvent
+DECL|function|handleDragEvent
 DECL|function|handleEnterLeaveEvent
 DECL|function|handleKeyEvent
 DECL|function|handleMouseEvent
