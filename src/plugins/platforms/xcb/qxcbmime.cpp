@@ -1,0 +1,10 @@
+DECL|function|QXcbMime
+DECL|function|mimeAtomForFormat
+DECL|function|mimeAtomToString
+DECL|function|mimeAtomsForFormat
+DECL|function|mimeConvertToFormat
+DECL|function|mimeDataForAtom
+DECL|function|~QXcbMime
+DECL|macro|XA_BITMAP
+DECL|macro|XA_PIXMAP
+DECL|macro|XA_STRING

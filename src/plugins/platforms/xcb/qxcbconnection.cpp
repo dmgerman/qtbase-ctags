@@ -1,11 +1,13 @@
 DECL|function|QXcbConnection
 DECL|function|addWindow
 DECL|function|atom
+DECL|function|atomName
 DECL|function|handleXcbError
 DECL|function|hasEgl
 DECL|function|hasSupportForDri2
 DECL|function|initializeAllAtoms
 DECL|function|initializeDri2
+DECL|function|internAtom
 DECL|function|log
 DECL|function|platformWindowFromId
 DECL|function|printXcbEvent
