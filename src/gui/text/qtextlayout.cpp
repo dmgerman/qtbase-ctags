@@ -36,7 +36,7 @@ DECL|function|font
 DECL|function|format
 DECL|function|formatIndex
 DECL|function|glyphRuns
-DECL|function|glyphs
+DECL|function|glyphRuns
 DECL|function|height
 DECL|function|height
 DECL|function|horizontalAdvance
