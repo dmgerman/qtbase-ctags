@@ -7,6 +7,7 @@ DECL|function|init
 DECL|function|previousBlock_qtbug18026
 DECL|function|removedBlock_qtbug18500
 DECL|function|tst_QTextBlock
-DECL|macro|private
+DECL|macro|protected
+DECL|macro|protected
 DECL|member|cursor
 DECL|member|doc

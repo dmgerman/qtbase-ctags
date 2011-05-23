@@ -37,7 +37,8 @@ DECL|function|undoRedo6
 DECL|function|undoRedo7
 DECL|function|undoRedo8
 DECL|function|undoRedo9
-DECL|macro|private
+DECL|macro|protected
+DECL|macro|protected
 DECL|member|blockFormatIndex
 DECL|member|charFormatIndex
 DECL|member|doc
