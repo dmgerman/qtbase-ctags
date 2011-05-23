@@ -48,4 +48,5 @@ DECL|function|quint64
 DECL|function|quint64
 DECL|function|quint64
 DECL|function|quint64
+DECL|function|quint8
 DECL|macro|QENDIAN_H
