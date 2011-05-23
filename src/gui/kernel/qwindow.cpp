@@ -5,7 +5,6 @@ DECL|function|close
 DECL|function|create
 DECL|function|destroy
 DECL|function|event
-DECL|function|format
 DECL|function|geometry
 DECL|function|glContext
 DECL|function|handle
@@ -34,7 +33,6 @@ DECL|function|setMaximumSize
 DECL|function|setMinimumSize
 DECL|function|setOpacity
 DECL|function|setParent
-DECL|function|setRequestFormat
 DECL|function|setSizeIncrement
 DECL|function|setSurfaceType
 DECL|function|setVisible
