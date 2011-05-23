@@ -10,6 +10,7 @@ DECL|function|displayHandleGlobal
 DECL|function|eglIntegration
 DECL|function|flushRequests
 DECL|function|frameCallback
+DECL|function|handleVisual
 DECL|function|outputHandleGeometry
 DECL|function|readEvents
 DECL|function|rgbVisual
@@ -19,5 +20,6 @@ DECL|function|syncCallback
 DECL|function|waitForScreens
 DECL|function|windowManagerIntegration
 DECL|function|~QWaylandDisplay
+DECL|member|compositorListener
 DECL|member|outputListener
 DECL|member|shellListener
