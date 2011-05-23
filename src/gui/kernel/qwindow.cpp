@@ -35,6 +35,7 @@ DECL|function|setOpacity
 DECL|function|setParent
 DECL|function|setSizeIncrement
 DECL|function|setSurfaceType
+DECL|function|setTransientParent
 DECL|function|setVisible
 DECL|function|setWindowFlags
 DECL|function|setWindowFormat
@@ -50,6 +51,7 @@ DECL|function|showNormal
 DECL|function|sizeIncrement
 DECL|function|surface
 DECL|function|surfaceType
+DECL|function|transientParent
 DECL|function|visible
 DECL|function|wheelEvent
 DECL|function|winId
