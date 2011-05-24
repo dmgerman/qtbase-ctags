@@ -3,5 +3,8 @@ DECL|function|drawBackground
 DECL|function|itemMoved
 DECL|function|keyPressEvent
 DECL|function|scaleView
+DECL|function|shuffle
 DECL|function|timerEvent
 DECL|function|wheelEvent
+DECL|function|zoomIn
+DECL|function|zoomOut
