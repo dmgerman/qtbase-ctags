@@ -171,6 +171,7 @@ DECL|function|toPercentEncodingHelper
 DECL|function|toPunycode
 DECL|function|toPunycodeHelper
 DECL|function|toString
+DECL|function|topLevelDomain
 DECL|function|userInfo
 DECL|function|userInfo
 DECL|function|userName
