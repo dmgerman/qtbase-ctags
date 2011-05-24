@@ -3,7 +3,9 @@ DECL|class|Producer
 DECL|function|main
 DECL|function|run
 DECL|function|run
+DECL|member|finish
 DECL|variable|BufferSize
+DECL|variable|DataSize
 DECL|variable|DataSize
 DECL|variable|buffer
 DECL|variable|usedBytes

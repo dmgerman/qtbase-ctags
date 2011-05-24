@@ -1,5 +1,6 @@
 DECL|function|QGlyphRun
 DECL|function|QGlyphRun
+DECL|function|boundingRect
 DECL|function|clear
 DECL|function|detach
 DECL|function|glyphIndexes

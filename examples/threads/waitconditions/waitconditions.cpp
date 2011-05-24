@@ -1,9 +1,17 @@
 DECL|class|Consumer
+DECL|class|PlainTextEdit
 DECL|class|Producer
+DECL|function|Consumer
+DECL|function|PlainTextEdit
+DECL|function|Producer
 DECL|function|main
 DECL|function|run
 DECL|function|run
+DECL|function|startThreads
+DECL|member|consumer
+DECL|member|producer
 DECL|variable|BufferSize
+DECL|variable|DataSize
 DECL|variable|DataSize
 DECL|variable|buffer
 DECL|variable|bufferNotEmpty

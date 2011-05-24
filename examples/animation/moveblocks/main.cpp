@@ -1,8 +1,10 @@
+DECL|class|GraphicsView
 DECL|class|QGraphicsRectWidget
 DECL|class|StateSwitchEvent
 DECL|class|StateSwitchTransition
 DECL|class|StateSwitcher
 DECL|enumerator|StateSwitchType
+DECL|function|GraphicsView
 DECL|function|StateSwitchEvent
 DECL|function|StateSwitchEvent
 DECL|function|StateSwitchTransition
@@ -16,6 +18,7 @@ DECL|function|onExit
 DECL|function|onTransition
 DECL|function|paint
 DECL|function|rand
+DECL|function|resizeEvent
 DECL|member|m_lastIndex
 DECL|member|m_rand
 DECL|member|m_rand

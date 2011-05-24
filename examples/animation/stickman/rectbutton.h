@@ -1,0 +1,1 @@
+DECL|macro|RECTBUTTON_H
