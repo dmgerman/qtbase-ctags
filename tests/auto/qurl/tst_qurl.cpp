@@ -33,6 +33,8 @@ DECL|function|correctDecodedMistakes_data
 DECL|function|correctEncodedMistakes
 DECL|function|correctEncodedMistakes_data
 DECL|function|dirPath
+DECL|function|effectiveTLDs
+DECL|function|effectiveTLDs_data
 DECL|function|emptyQueryOrFragment
 DECL|function|errorString
 DECL|function|fromEncoded

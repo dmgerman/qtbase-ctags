@@ -1,8 +1,6 @@
 DECL|function|QNetworkCookieJar
 DECL|function|allCookies
-DECL|function|containsTLDEntry
 DECL|function|cookiesForUrl
-DECL|function|isEffectiveTLD
 DECL|function|isParentDomain
 DECL|function|isParentPath
 DECL|function|setAllCookies
