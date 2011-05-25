@@ -2,7 +2,9 @@ DECL|function|QXcbConnection
 DECL|function|addWindow
 DECL|function|atom
 DECL|function|atomName
+DECL|function|checkEvent
 DECL|function|handleXcbError
+DECL|function|handleXcbEvent
 DECL|function|hasEgl
 DECL|function|hasSupportForDri2
 DECL|function|initializeAllAtoms

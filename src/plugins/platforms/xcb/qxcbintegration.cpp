@@ -1,4 +1,5 @@
 DECL|function|QXcbIntegration
+DECL|function|clipboard
 DECL|function|createPixmapData
 DECL|function|createPlatformWindow
 DECL|function|createWindowSurface
