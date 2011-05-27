@@ -58,6 +58,7 @@ DECL|function|styleHint
 DECL|function|supportsThreadedFontRendering
 DECL|function|tryPatternLoad
 DECL|function|xlfd_for_id
+DECL|macro|FC_FAMILYLANG
 DECL|macro|FC_WIDTH
 DECL|macro|NEEDS_GCC_BUG_WORKAROUND
 DECL|macro|make_tag
