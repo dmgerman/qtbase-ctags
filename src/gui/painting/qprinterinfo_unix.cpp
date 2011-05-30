@@ -1,8 +1,7 @@
-DECL|function|availablePrinters
-DECL|function|defaultPrinter
 DECL|function|operator <
 DECL|function|operator <
 DECL|function|paperSize2String
+DECL|function|qt_getCupsPrinterPaperSizes
 DECL|function|qt_getDefaultFromHomePrinters
 DECL|function|qt_getLprPrinters
 DECL|function|qt_parseEtcLpMember
@@ -18,7 +17,6 @@ DECL|function|qt_pd_foreach
 DECL|function|qt_perhapsAddPrinter
 DECL|function|qt_retrieveNisPrinters
 DECL|function|string2PaperSize
-DECL|function|supportedPaperSizes
 DECL|macro|skipSpaces
 DECL|member|name
 DECL|member|size

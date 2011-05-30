@@ -4,4 +4,5 @@ DECL|variable|QPlatformClipboard
 DECL|variable|QPlatformEventLoopIntegration
 DECL|variable|QPlatformFontDatabase
 DECL|variable|QPlatformNativeInterface
+DECL|variable|QPlatformPrinterSupport
 DECL|variable|QWindow

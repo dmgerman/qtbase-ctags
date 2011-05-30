@@ -9,5 +9,6 @@ DECL|function|hasOpenGL
 DECL|function|isVirtualDesktop
 DECL|function|moveToScreen
 DECL|function|nativeInterface
+DECL|function|printerSupport
 DECL|function|screens
 DECL|function|~QXcbIntegration

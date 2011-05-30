@@ -1,0 +1,5 @@
+DECL|function|availablePrinters
+DECL|function|createNativePrintEngine
+DECL|function|createPaintEngine
+DECL|function|defaultPrinter
+DECL|function|supportedPaperSizes

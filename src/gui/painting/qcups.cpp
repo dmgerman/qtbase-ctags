@@ -1,10 +1,13 @@
+DECL|function|Printer
 DECL|function|QCUPSSupport
 DECL|function|availablePrinters
 DECL|function|availablePrintersCount
+DECL|function|availableUnixPrinters
 DECL|function|collectMarkedOptions
 DECL|function|collectMarkedOptionsHelper
 DECL|function|currentPPD
 DECL|function|currentPrinterIndex
+DECL|function|getCupsPrinterPaperSizes
 DECL|function|isAvailable
 DECL|function|markOption
 DECL|function|options
