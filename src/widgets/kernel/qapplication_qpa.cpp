@@ -18,10 +18,12 @@ DECL|function|keyboardInputInterval
 DECL|function|language
 DECL|function|leaveModal_sys
 DECL|function|modalState
+DECL|function|notifyActiveWindowChange
 DECL|function|openPopup
 DECL|function|platformNativeInterface
 DECL|function|qt_cleanup
 DECL|function|qt_init
+DECL|function|qt_tlw_for_window
 DECL|function|qt_try_modal
 DECL|function|reset
 DECL|function|setCursorFlashTime

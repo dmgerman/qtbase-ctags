@@ -22,6 +22,7 @@ DECL|function|keyboardModifiers
 DECL|function|layoutDirection
 DECL|function|mouseButtons
 DECL|function|notify
+DECL|function|notifyActiveWindowChange
 DECL|function|notifyLayoutDirectionChange
 DECL|function|overrideCursor
 DECL|function|palette

@@ -187,6 +187,7 @@ DECL|member|wheel_scroll_lines
 DECL|member|widgetCount
 DECL|variable|aargc
 DECL|variable|aargv
+DECL|variable|app_do_modal
 DECL|variable|application_menu_strings
 DECL|variable|drag_distance
 DECL|variable|drag_distance
