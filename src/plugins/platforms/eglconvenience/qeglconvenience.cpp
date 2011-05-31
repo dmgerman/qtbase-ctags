@@ -1,4 +1,4 @@
-DECL|function|q_configFromQPlatformWindowFormat
+DECL|function|q_configFromQWindowFormat
 DECL|function|q_createConfigAttributesFromFormat
 DECL|function|q_hasEglExtension
 DECL|function|q_reduceConfigAttributes
