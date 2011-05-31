@@ -62,6 +62,7 @@ DECL|function|winId
 DECL|function|~QXcbWindow
 DECL|macro|CHECK_WM_STATE
 DECL|macro|CHECK_WM_STATE
+DECL|macro|XCOORD_MAX
 DECL|member|decorations
 DECL|member|flags
 DECL|member|functions
