@@ -3,6 +3,7 @@ DECL|function|clipboard
 DECL|function|createPixmapData
 DECL|function|createPlatformWindow
 DECL|function|createWindowSurface
+DECL|function|drag
 DECL|function|fontDatabase
 DECL|function|grabWindow
 DECL|function|hasCapability
