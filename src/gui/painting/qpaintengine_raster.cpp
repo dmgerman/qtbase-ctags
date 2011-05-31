@@ -41,6 +41,8 @@ DECL|function|drawBufferSpan
 DECL|function|drawCachedGlyphs
 DECL|function|drawColorSpans
 DECL|function|drawEllipse
+DECL|function|drawEllipsePoints
+DECL|function|drawEllipse_midpoint_i
 DECL|function|drawGlyphsS60
 DECL|function|drawImage
 DECL|function|drawImage
@@ -76,6 +78,7 @@ DECL|function|getBrushFunc
 DECL|function|getBuffer
 DECL|function|getCGContext
 DECL|function|getDC
+DECL|function|getPenFunc
 DECL|function|init
 DECL|function|init
 DECL|function|init
