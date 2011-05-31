@@ -25,6 +25,7 @@ DECL|function|brushOriginChanged
 DECL|function|bufferImage
 DECL|function|canUseFastImageBlending
 DECL|function|checkClipRatios
+DECL|function|clearTypeFontsEnabled
 DECL|function|clip
 DECL|function|clip
 DECL|function|clip
@@ -136,6 +137,7 @@ DECL|function|updateMatrixData
 DECL|function|updateOutlineMapper
 DECL|function|updatePen
 DECL|function|updateState
+DECL|function|winClearTypeFontsEnabled
 DECL|function|~QClipData
 DECL|function|~QRasterBuffer
 DECL|function|~QRasterPaintEngine
