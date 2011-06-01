@@ -3,6 +3,7 @@ DECL|class|DataReader
 DECL|class|FastSender
 DECL|class|GetFromHttpIntoBuffer2Client
 DECL|class|GetFromHttpIntoBuffer2Server
+DECL|class|HttpAbortHelper
 DECL|class|HttpReUsingConnectionFromFinishedSlot
 DECL|class|HttpRecursiveCreationHelper
 DECL|class|MiniHttpServer
@@ -30,6 +31,7 @@ DECL|function|FastSender
 DECL|function|FastSender
 DECL|function|GetFromHttpIntoBuffer2Client
 DECL|function|GetFromHttpIntoBuffer2Server
+DECL|function|HttpAbortHelper
 DECL|function|HttpRecursiveCreationHelper
 DECL|function|MiniHttpServer
 DECL|function|MyMemoryCache
@@ -225,6 +227,7 @@ DECL|function|qtbug4121unknownAuthentication
 DECL|function|queryProxy
 DECL|function|rateControl
 DECL|function|rateControl_data
+DECL|function|readyRead
 DECL|function|readyReadSlot
 DECL|function|readyReadSlot
 DECL|function|readyReadSlot
@@ -279,6 +282,7 @@ DECL|function|waitForNextConnectionSocket
 DECL|function|wrapUp
 DECL|function|writeLastData
 DECL|function|writeNextData
+DECL|function|~HttpAbortHelper
 DECL|function|~MySpyMemoryCache
 DECL|function|~tst_QNetworkReply
 DECL|macro|RUN_REQUEST
@@ -312,6 +316,7 @@ DECL|member|interval
 DECL|member|ipv6
 DECL|member|lastQuery
 DECL|member|loop
+DECL|member|mReply
 DECL|member|m_buffers
 DECL|member|m_dlTimer
 DECL|member|m_insertedUrls
