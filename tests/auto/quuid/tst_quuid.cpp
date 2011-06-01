@@ -1,6 +1,11 @@
 DECL|class|UuidThread
 DECL|class|tst_QUuid
+DECL|function|check_QDataStream
 DECL|function|equal
+DECL|function|fromByteArray
+DECL|function|fromChar
+DECL|function|fromRfc4122
+DECL|function|fromString
 DECL|function|generate
 DECL|function|isNull
 DECL|function|less
@@ -9,6 +14,8 @@ DECL|function|notEqual
 DECL|function|processUniqueness
 DECL|function|run
 DECL|function|threadUniqueness
+DECL|function|toByteArray
+DECL|function|toRfc4122
 DECL|function|toString
 DECL|function|tst_QUuid
 DECL|function|variants

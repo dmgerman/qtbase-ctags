@@ -288,6 +288,7 @@ DECL|function|syntheticEnterLeave
 DECL|function|tab
 DECL|function|task110173
 DECL|function|taskQTBUG_11373
+DECL|function|taskQTBUG_17333_ResizeInfiniteRecursion
 DECL|function|taskQTBUG_4055_sendSyntheticEnterLeave
 DECL|function|taskQTBUG_7532_tabOrderWithFocusProxy
 DECL|function|testContentsPropagation

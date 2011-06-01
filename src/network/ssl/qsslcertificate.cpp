@@ -4,7 +4,7 @@ DECL|function|QSslCertificate
 DECL|function|QSslCertificate
 DECL|function|QSslCertificate_from_X509
 DECL|function|_q_SubjectInfoToString
-DECL|function|_q_mapFromOnelineName
+DECL|function|_q_mapFromX509Name
 DECL|function|alternateSubjectNames
 DECL|function|certificatesFromDer
 DECL|function|certificatesFromPem

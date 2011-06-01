@@ -12,6 +12,7 @@ DECL|function|charStopForSurrogatePairs
 DECL|function|charWordStopOnLineSeparator
 DECL|function|cleanup
 DECL|function|columnWrapWithTabs
+DECL|function|cursorInLigatureWithMultipleLines
 DECL|function|cursorMovementFromInvalidPositions
 DECL|function|cursorMovementInsideSpaces
 DECL|function|cursorToXForInlineObjects
@@ -54,6 +55,7 @@ DECL|function|threeLineBoundingRect
 DECL|function|tst_QTextLayout
 DECL|function|widthOfTabs
 DECL|function|xToCursorAtEndOfLine
+DECL|function|xToCursorForLigatures
 DECL|function|~tst_QTextLayout
 DECL|macro|TESTFONT_SIZE
 DECL|member|testFont

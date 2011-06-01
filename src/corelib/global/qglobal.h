@@ -11,6 +11,7 @@ DECL|enumerator|QtWarningMsg
 DECL|enum|QtMsgType
 DECL|function|QFlag
 DECL|function|QIncompatibleFlag
+DECL|function|QT_LICENSED_MODULE
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
@@ -244,6 +245,7 @@ DECL|macro|Q_COMPAT_EXPORT_INLINE
 DECL|macro|Q_COMPAT_EXPORT_INLINE
 DECL|macro|Q_COMPAT_EXPORT_INLINE
 DECL|macro|Q_COMPAT_EXPORT_INLINE
+DECL|macro|Q_COMPILER_DECLTYPE
 DECL|macro|Q_COMPILER_EXTERN_TEMPLATES
 DECL|macro|Q_COMPILER_MANGLES_RETURN_TYPE
 DECL|macro|Q_COMPILER_RVALUE_REFS

@@ -1,0 +1,1 @@
+DECL|macro|ELIDEDLABEL_H

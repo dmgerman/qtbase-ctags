@@ -1,4 +1,16 @@
 DECL|class|tst_bench_QUuid
 DECL|function|createUuid
+DECL|function|fromByteArray
+DECL|function|fromChar
+DECL|function|fromDataStream
+DECL|function|fromRfc4122
+DECL|function|fromString
+DECL|function|isNull
+DECL|function|operatorLess
+DECL|function|operatorMore
+DECL|function|toByteArray
+DECL|function|toDataStream
+DECL|function|toRfc4122
+DECL|function|toString
 DECL|function|tst_bench_QUuid
 DECL|variable|tst_bench_QUuid

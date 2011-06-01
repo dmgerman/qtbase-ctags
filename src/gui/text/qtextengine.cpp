@@ -44,6 +44,7 @@ DECL|function|generateScriptItems
 DECL|function|generateScriptItemsAndChangeCase
 DECL|function|generateScriptItemsCapitalize
 DECL|function|generateScriptItemsSmallCaps
+DECL|function|getClusterLength
 DECL|function|getSelectionBounds
 DECL|function|grow
 DECL|function|hasCaseChange
@@ -65,6 +66,7 @@ DECL|function|nextLogicalPosition
 DECL|function|offsetInLigature
 DECL|function|pdf
 DECL|function|positionAfterVisualMovement
+DECL|function|positionInLigature
 DECL|function|prevCharJoins
 DECL|function|previousLogicalPosition
 DECL|function|qt_true_matrix

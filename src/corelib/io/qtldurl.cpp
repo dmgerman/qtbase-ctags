@@ -1,0 +1,3 @@
+DECL|function|containsTLDEntry
+DECL|function|qIsEffectiveTLD
+DECL|function|qTopLevelDomain
