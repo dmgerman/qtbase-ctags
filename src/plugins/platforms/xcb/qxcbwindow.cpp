@@ -33,6 +33,7 @@ DECL|function|handleExposeEvent
 DECL|function|handleFocusInEvent
 DECL|function|handleFocusOutEvent
 DECL|function|handleLeaveNotifyEvent
+DECL|function|handleMapNotifyEvent
 DECL|function|handleMotionNotifyEvent
 DECL|function|handleMouseEvent
 DECL|function|hide
