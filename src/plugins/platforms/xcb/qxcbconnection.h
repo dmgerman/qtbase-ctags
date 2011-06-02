@@ -13,6 +13,7 @@ DECL|macro|Q_XCB_NOOP
 DECL|typedef|WindowMapper
 DECL|typedef|xcb_window_t
 DECL|variable|QXcbClipboard
+DECL|variable|QXcbDrag
 DECL|variable|QXcbKeyboard
 DECL|variable|QXcbScreen
 DECL|variable|QXcbWindow

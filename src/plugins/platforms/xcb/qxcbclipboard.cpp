@@ -12,6 +12,7 @@ DECL|function|clipboardReadProperty
 DECL|function|empty
 DECL|function|formats_sys
 DECL|function|getDataInFormat
+DECL|function|getSelection
 DECL|function|getSelectionOwner
 DECL|function|handleSelectionRequest
 DECL|function|hasFormat_sys
