@@ -19,7 +19,6 @@ DECL|class|MyEvilObject
 DECL|class|MyInputContext
 DECL|class|PaintOnScreenWidget
 DECL|class|QPropagationTestWidget
-DECL|class|RedirectedWidget
 DECL|class|RenderWidget
 DECL|class|ResizeWidget
 DECL|class|ShowHideEventWidget
@@ -197,10 +196,8 @@ DECL|function|paintEvent
 DECL|function|paintEvent
 DECL|function|paintEvent
 DECL|function|paintEvent
-DECL|function|paintEvent
 DECL|function|paintOnScreenPossible
 DECL|function|paintOutsidePaintEvent
-DECL|function|painterRedirection
 DECL|function|palettePropagation
 DECL|function|palettePropagation2
 DECL|function|persistentWinId
