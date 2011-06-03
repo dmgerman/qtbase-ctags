@@ -3,6 +3,7 @@ DECL|function|addWindow
 DECL|function|atom
 DECL|function|atomName
 DECL|function|checkEvent
+DECL|function|formatForDepth
 DECL|function|handleXcbError
 DECL|function|handleXcbEvent
 DECL|function|hasEgl
