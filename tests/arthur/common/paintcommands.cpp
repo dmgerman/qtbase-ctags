@@ -22,6 +22,7 @@ DECL|function|command_drawPolyline
 DECL|function|command_drawRect
 DECL|function|command_drawRoundRect
 DECL|function|command_drawRoundedRect
+DECL|function|command_drawStaticText
 DECL|function|command_drawText
 DECL|function|command_drawTiledPixmap
 DECL|function|command_end_block
