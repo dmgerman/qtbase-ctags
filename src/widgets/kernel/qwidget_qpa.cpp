@@ -43,6 +43,8 @@ DECL|function|setWindowState
 DECL|function|setWindowTitle_sys
 DECL|function|show_sys
 DECL|function|stackUnder_sys
+DECL|function|stealKeyboardGrab
+DECL|function|stealMouseGrab
 DECL|function|unsetCursor_sys
 DECL|function|updateCursor
 DECL|function|updateFrameStrut

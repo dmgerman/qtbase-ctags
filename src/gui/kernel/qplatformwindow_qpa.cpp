@@ -8,6 +8,8 @@ DECL|function|propagateSizeHints
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|setGeometry
+DECL|function|setKeyboardGrabEnabled
+DECL|function|setMouseGrabEnabled
 DECL|function|setOpacity
 DECL|function|setParent
 DECL|function|setVisible

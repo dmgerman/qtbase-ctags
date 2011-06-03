@@ -44,8 +44,10 @@ DECL|function|propagateSizeHints
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|setGeometry
+DECL|function|setKeyboardGrabEnabled
 DECL|function|setMotifWindowFlags
 DECL|function|setMotifWmHints
+DECL|function|setMouseGrabEnabled
 DECL|function|setNetWmState
 DECL|function|setNetWmWindowFlags
 DECL|function|setParent

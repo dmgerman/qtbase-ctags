@@ -29,8 +29,10 @@ DECL|function|requestedWindowFormat
 DECL|function|resizeEvent
 DECL|function|setBaseSize
 DECL|function|setGeometry
+DECL|function|setKeyboardGrabEnabled
 DECL|function|setMaximumSize
 DECL|function|setMinimumSize
+DECL|function|setMouseGrabEnabled
 DECL|function|setOpacity
 DECL|function|setParent
 DECL|function|setSizeIncrement

@@ -9,6 +9,7 @@ DECL|function|createEventDispatcher
 DECL|function|cursorFlashTime
 DECL|function|doubleClickInterval
 DECL|function|enterModal_sys
+DECL|function|grabForPopup
 DECL|function|identifierName
 DECL|function|initializeMultitouch_sys
 DECL|function|initializeWidgetPaletteHash
@@ -33,8 +34,11 @@ DECL|function|setKeyboardInputInterval
 DECL|function|setMainWidget
 DECL|function|setWheelScrollLines
 DECL|function|topLevelAt
+DECL|function|ungrabKeyboardForPopup
+DECL|function|ungrabMouseForPopup
 DECL|function|wheelScrollLines
 DECL|function|~QDummyInputContext
 DECL|variable|appFont
 DECL|variable|appName
 DECL|variable|openPopupCount
+DECL|variable|popupGrabOk
