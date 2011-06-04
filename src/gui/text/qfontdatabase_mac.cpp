@@ -2,6 +2,7 @@ DECL|function|initWritingSystems
 DECL|function|initializeDb
 DECL|function|load
 DECL|function|load
+DECL|function|loadFromDatabase
 DECL|function|registerFont
 DECL|function|removeAllApplicationFonts
 DECL|function|removeApplicationFont

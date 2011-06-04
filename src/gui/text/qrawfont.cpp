@@ -28,6 +28,7 @@ DECL|function|pathForGlyph
 DECL|function|pixelSize
 DECL|function|setPixelSize
 DECL|function|style
+DECL|function|styleName
 DECL|function|supportedWritingSystems
 DECL|function|supportsCharacter
 DECL|function|supportsCharacter

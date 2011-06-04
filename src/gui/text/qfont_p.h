@@ -14,6 +14,7 @@ DECL|member|reserved
 DECL|member|stretch
 DECL|member|style
 DECL|member|styleHint
+DECL|member|styleName
 DECL|member|styleStrategy
 DECL|member|weight
 DECL|struct|QFontDef
