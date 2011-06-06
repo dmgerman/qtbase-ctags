@@ -1,4 +1,5 @@
 DECL|function|QXcbConnection
+DECL|function|addPeekFunc
 DECL|function|addWindow
 DECL|function|atom
 DECL|function|atomName
