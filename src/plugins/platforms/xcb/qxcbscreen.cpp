@@ -4,5 +4,6 @@ DECL|function|format
 DECL|function|geometry
 DECL|function|physicalSize
 DECL|function|screenNumber
+DECL|function|topLevelAt
 DECL|function|visualForId
 DECL|function|~QXcbScreen
