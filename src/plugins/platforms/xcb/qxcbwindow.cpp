@@ -37,6 +37,7 @@ DECL|function|handleLeaveNotifyEvent
 DECL|function|handleMapNotifyEvent
 DECL|function|handleMotionNotifyEvent
 DECL|function|handleMouseEvent
+DECL|function|handleUnmapNotifyEvent
 DECL|function|hide
 DECL|function|isTransient
 DECL|function|lower

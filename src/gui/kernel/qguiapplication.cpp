@@ -30,11 +30,14 @@ DECL|function|platformNativeInterface
 DECL|function|processActivatedEvent
 DECL|function|processCloseEvent
 DECL|function|processEnterEvent
+DECL|function|processExposeEvent
 DECL|function|processGeometryChangeEvent
 DECL|function|processKeyEvent
 DECL|function|processLeaveEvent
+DECL|function|processMapEvent
 DECL|function|processMouseEvent
 DECL|function|processTouchEvent
+DECL|function|processUnmapEvent
 DECL|function|processWheelEvent
 DECL|function|processWindowSystemEvent
 DECL|function|qt_detectRTLLanguage

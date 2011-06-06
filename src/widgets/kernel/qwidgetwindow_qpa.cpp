@@ -3,6 +3,7 @@ DECL|function|event
 DECL|function|handleCloseEvent
 DECL|function|handleDragEvent
 DECL|function|handleEnterLeaveEvent
+DECL|function|handleExposeEvent
 DECL|function|handleKeyEvent
 DECL|function|handleMouseEvent
 DECL|function|handleMoveEvent

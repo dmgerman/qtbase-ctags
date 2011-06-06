@@ -1,12 +1,14 @@
 DECL|function|getWindowSystemEvent
 DECL|function|handleCloseEvent
 DECL|function|handleEnterEvent
+DECL|function|handleExposeEvent
 DECL|function|handleExtendedKeyEvent
 DECL|function|handleExtendedKeyEvent
 DECL|function|handleGeometryChange
 DECL|function|handleKeyEvent
 DECL|function|handleKeyEvent
 DECL|function|handleLeaveEvent
+DECL|function|handleMapEvent
 DECL|function|handleMouseEvent
 DECL|function|handleMouseEvent
 DECL|function|handleScreenAvailableGeometryChange
@@ -14,6 +16,7 @@ DECL|function|handleScreenCountChange
 DECL|function|handleScreenGeometryChange
 DECL|function|handleTouchEvent
 DECL|function|handleTouchEvent
+DECL|function|handleUnmapEvent
 DECL|function|handleWheelEvent
 DECL|function|handleWheelEvent
 DECL|function|handleWindowActivated
