@@ -62,6 +62,7 @@ DECL|function|translateMouseButton
 DECL|function|translateMouseButtons
 DECL|function|updateMotifWmHintsBeforeMap
 DECL|function|updateNetWmStateBeforeMap
+DECL|function|updateNetWmUserTime
 DECL|function|updateSyncRequestCounter
 DECL|function|winId
 DECL|function|~QXcbWindow

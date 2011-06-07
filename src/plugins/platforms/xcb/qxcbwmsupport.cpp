@@ -1,0 +1,4 @@
+DECL|function|QXcbWMSupport
+DECL|function|isSupportedByWM
+DECL|function|updateNetWMAtoms
+DECL|function|updateVirtualRoots
