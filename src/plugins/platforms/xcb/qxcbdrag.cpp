@@ -42,7 +42,6 @@ DECL|macro|ATOM
 DECL|macro|ATOM
 DECL|macro|DEBUG
 DECL|macro|DNDDEBUG
-DECL|macro|DND_DEBUG
 DECL|member|atom
 DECL|member|drag
 DECL|variable|xdnd_version
