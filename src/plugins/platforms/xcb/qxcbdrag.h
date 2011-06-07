@@ -5,5 +5,6 @@ DECL|variable|QMouseEvent
 DECL|variable|QObject
 DECL|variable|QWindow
 DECL|variable|QXcbConnection
+DECL|variable|QXcbObject
 DECL|variable|QXcbScreen
 DECL|variable|QXcbWindow

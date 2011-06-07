@@ -5,6 +5,6 @@ DECL|function|mimeAtomsForFormat
 DECL|function|mimeConvertToFormat
 DECL|function|mimeDataForAtom
 DECL|function|~QXcbMime
-DECL|macro|XA_BITMAP
-DECL|macro|XA_PIXMAP
-DECL|macro|XA_STRING
+DECL|macro|XCB_ATOM_BITMAP
+DECL|macro|XCB_ATOM_PIXMAP
+DECL|macro|XCB_ATOM_STRING

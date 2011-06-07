@@ -38,8 +38,6 @@ DECL|function|xdndObtainData
 DECL|function|xdndProxy
 DECL|function|~QDropData
 DECL|function|~QXcbDrag
-DECL|macro|ATOM
-DECL|macro|ATOM
 DECL|macro|DEBUG
 DECL|macro|DNDDEBUG
 DECL|member|atom
