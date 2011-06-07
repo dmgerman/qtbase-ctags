@@ -3,6 +3,7 @@ DECL|function|bindMode
 DECL|function|broadcasting
 DECL|function|cleanup
 DECL|function|constructing
+DECL|function|dualStack
 DECL|function|echo
 DECL|function|echo_data
 DECL|function|empty_connectedSlot
