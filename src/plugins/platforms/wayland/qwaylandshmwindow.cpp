@@ -1,4 +1,4 @@
 DECL|function|QWaylandShmWindow
-DECL|function|glContext
+DECL|function|glSurface
 DECL|function|windowType
 DECL|function|~QWaylandShmWindow

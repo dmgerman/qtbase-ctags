@@ -1,12 +1,12 @@
 DECL|function|QWindow
-DECL|function|actualWindowFormat
 DECL|function|baseSize
 DECL|function|close
 DECL|function|create
 DECL|function|destroy
 DECL|function|event
 DECL|function|geometry
-DECL|function|glContext
+DECL|function|glFormat
+DECL|function|glSurface
 DECL|function|handle
 DECL|function|hideEvent
 DECL|function|inputMethodEvent
@@ -25,9 +25,9 @@ DECL|function|parent
 DECL|function|qt_window_private
 DECL|function|raise
 DECL|function|requestActivateWindow
-DECL|function|requestedWindowFormat
 DECL|function|resizeEvent
 DECL|function|setBaseSize
+DECL|function|setGLFormat
 DECL|function|setGeometry
 DECL|function|setKeyboardGrabEnabled
 DECL|function|setMaximumSize
@@ -40,7 +40,6 @@ DECL|function|setSurfaceType
 DECL|function|setTransientParent
 DECL|function|setVisible
 DECL|function|setWindowFlags
-DECL|function|setWindowFormat
 DECL|function|setWindowIcon
 DECL|function|setWindowModality
 DECL|function|setWindowState

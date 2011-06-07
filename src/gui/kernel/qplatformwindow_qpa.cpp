@@ -1,7 +1,7 @@
 DECL|class|QPlatformWindowPrivate
 DECL|function|QPlatformWindow
+DECL|function|createGLSurface
 DECL|function|geometry
-DECL|function|glContext
 DECL|function|lower
 DECL|function|parent
 DECL|function|propagateSizeHints

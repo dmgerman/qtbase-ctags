@@ -1,6 +1,7 @@
 DECL|function|QXcbIntegration
 DECL|function|clipboard
 DECL|function|createPixmapData
+DECL|function|createPlatformGLContext
 DECL|function|createPlatformWindow
 DECL|function|createWindowSurface
 DECL|function|drag

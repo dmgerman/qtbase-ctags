@@ -3,6 +3,7 @@ DECL|variable|QBlittable
 DECL|variable|QPlatformClipboard
 DECL|variable|QPlatformDrag
 DECL|variable|QPlatformFontDatabase
+DECL|variable|QPlatformGLContext
 DECL|variable|QPlatformNativeInterface
 DECL|variable|QPlatformPrinterSupport
 DECL|variable|QWindow

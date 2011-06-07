@@ -7,8 +7,8 @@ DECL|function|colorIndex
 DECL|function|colormap
 DECL|function|doneCurrent
 DECL|function|event
-DECL|function|fromWindowContext
-DECL|function|fromWindowFormat
+DECL|function|fromGuiGLContext
+DECL|function|fromGuiGLFormat
 DECL|function|generateFontDisplayLists
 DECL|function|getProcAddress
 DECL|function|hasOpenGL
@@ -27,8 +27,9 @@ DECL|function|setContext
 DECL|function|setMouseTracking
 DECL|function|setupSharing
 DECL|function|swapBuffers
-DECL|function|toWindowFormat
+DECL|function|toGuiGLFormat
 DECL|function|updateOverlayGL
 DECL|function|~QGLTemporaryContext
 DECL|member|context
+DECL|member|oldContext
 DECL|member|window

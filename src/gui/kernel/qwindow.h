@@ -3,9 +3,9 @@ DECL|variable|QHideEvent
 DECL|variable|QInputMethodEvent
 DECL|variable|QKeyEvent
 DECL|variable|QMouseEvent
+DECL|variable|QPlatformGLSurface
 DECL|variable|QPlatformWindow
 DECL|variable|QResizeEvent
 DECL|variable|QShowEvent
 DECL|variable|QWheelEvent
-DECL|variable|QWindowContext
 DECL|variable|QWindowSurface

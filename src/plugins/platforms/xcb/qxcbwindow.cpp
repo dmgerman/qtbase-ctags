@@ -20,11 +20,11 @@ DECL|enumerator|MWM_INPUT_PRIMARY_APPLICATION_MODAL
 DECL|function|QXcbWindow
 DECL|function|changeNetWmState
 DECL|function|create
+DECL|function|createGLSurface
 DECL|function|destroy
 DECL|function|focusInPeeker
 DECL|function|getMotifWmHints
 DECL|function|getNetWmState
-DECL|function|glContext
 DECL|function|handleButtonPressEvent
 DECL|function|handleButtonReleaseEvent
 DECL|function|handleClientMessageEvent

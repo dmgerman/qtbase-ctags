@@ -1,4 +1,5 @@
 DECL|function|clipboard
+DECL|function|createPlatformGLContext
 DECL|function|drag
 DECL|function|fontDatabase
 DECL|function|grabWindow

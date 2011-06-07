@@ -19,6 +19,7 @@ DECL|function|argv
 DECL|function|checkInstance
 DECL|function|checkReceiverThread
 DECL|function|checkReceiverThread
+DECL|function|cleanupThreadData
 DECL|function|closingDown
 DECL|function|compressEvent
 DECL|function|createEventDispatcher

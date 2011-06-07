@@ -1,6 +1,7 @@
 DECL|function|QWaylandXCompositeGLXIntegration
 DECL|function|createEglWindow
 DECL|function|createGLIntegration
+DECL|function|createPlatformGLContext
 DECL|function|initialize
 DECL|function|rootInformation
 DECL|function|rootWindow

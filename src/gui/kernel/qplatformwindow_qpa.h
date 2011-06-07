@@ -1,3 +1,3 @@
 DECL|macro|QPLATFORMWINDOW_H
-DECL|variable|QPlatformGLContext
+DECL|variable|QPlatformGLSurface
 DECL|variable|QWindow
