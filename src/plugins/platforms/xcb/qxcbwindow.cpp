@@ -45,6 +45,7 @@ DECL|function|printNetWmState
 DECL|function|propagateSizeHints
 DECL|function|raise
 DECL|function|requestActivateWindow
+DECL|function|setCursor
 DECL|function|setGeometry
 DECL|function|setKeyboardGrabEnabled
 DECL|function|setMotifWindowFlags

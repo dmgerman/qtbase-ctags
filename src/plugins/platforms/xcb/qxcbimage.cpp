@@ -1,0 +1,3 @@
+DECL|function|qt_xcb_XPixmapFromBitmap
+DECL|function|qt_xcb_imageFormatForVisual
+DECL|function|qt_xcb_pixmapFromXPixmap

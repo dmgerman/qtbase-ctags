@@ -1,4 +1,5 @@
 DECL|function|activateWindow
+DECL|function|applyCursor
 DECL|function|createDefaultWindowSurface_sys
 DECL|function|createSysExtra
 DECL|function|createTLSysExtra
@@ -46,7 +47,6 @@ DECL|function|stackUnder_sys
 DECL|function|stealKeyboardGrab
 DECL|function|stealMouseGrab
 DECL|function|unsetCursor_sys
-DECL|function|updateCursor
 DECL|function|updateFrameStrut
 DECL|function|updateSystemBackground
 DECL|function|windowHandle

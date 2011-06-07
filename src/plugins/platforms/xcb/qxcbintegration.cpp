@@ -8,7 +8,6 @@ DECL|function|fontDatabase
 DECL|function|grabWindow
 DECL|function|hasCapability
 DECL|function|hasOpenGL
-DECL|function|imageFormatForVisual
 DECL|function|isVirtualDesktop
 DECL|function|moveToScreen
 DECL|function|nativeInterface
