@@ -91,3 +91,4 @@ DECL|function|validator
 DECL|function|~QLineEdit
 DECL|macro|ACCEL_KEY
 DECL|macro|ACCEL_KEY
+DECL|macro|DrawText
