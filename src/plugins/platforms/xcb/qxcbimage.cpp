@@ -1,3 +1,6 @@
 DECL|function|qt_xcb_XPixmapFromBitmap
+DECL|function|qt_xcb_createCursorXRender
 DECL|function|qt_xcb_imageFormatForVisual
 DECL|function|qt_xcb_pixmapFromXPixmap
+DECL|macro|template
+DECL|macro|template

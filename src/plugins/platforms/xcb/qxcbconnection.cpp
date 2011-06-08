@@ -13,6 +13,7 @@ DECL|function|hasSupportForDri2
 DECL|function|initializeAllAtoms
 DECL|function|initializeDri2
 DECL|function|initializeXFixes
+DECL|function|initializeXRender
 DECL|function|internAtom
 DECL|function|log
 DECL|function|platformWindowFromId
