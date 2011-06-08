@@ -13,4 +13,5 @@ DECL|member|loadOp
 DECL|member|saveOp
 DECL|struct|QMetaTypeGuiHelper
 DECL|variable|qVariantWidgetsHelper
+DECL|variable|qt_widgets_variant_handler
 DECL|variable|widgets_handler
