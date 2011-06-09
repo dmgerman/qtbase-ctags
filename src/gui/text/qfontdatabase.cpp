@@ -143,6 +143,7 @@ DECL|member|stream
 DECL|member|stretch
 DECL|member|style
 DECL|member|style
+DECL|member|styleName
 DECL|member|styles
 DECL|member|symbianExtras
 DECL|member|symbol_checked
