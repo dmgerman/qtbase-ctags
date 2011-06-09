@@ -1,29 +1,22 @@
-#### Remove this define
 DEFINES += QT_NO_FONTCONFIG
-
 QT += gui-private core-private
 
-load(qpa/platforms_dir)
-load(qpa/harfbuzz_dir)
-load(qpa/freetype_dir)
-load(qpa/fontengine_dir)
-
-
 HEADERS += \
-        $$QT_PLATFORMS_DIR/fontdatabases/basicunix/qbasicunixfontdatabase.h \
-        $$QT_FONTENGINE_DIR/qfontengine_ft_p.h
+        $$PWD/qbasicunixfontdatabase_p.h \
+        $$QT_SOURCE_TREE/src/gui/text/qfontengine_ft_p.h
 
 SOURCES += \
-        $$QT_PLATFORMS_DIR/fontdatabases/basicunix/qbasicunixfontdatabase.cpp \
-        $$QT_FONTENGINE_DIR/qfontengine_ft.cpp
+        $$PWD/qbasicunixfontdatabase.cpp \
+        $$QT_SOURCE_TREE/src/gui/text/qfontengine_ft.cpp
 
-INCLUDEPATH += $$QT_HARFBUZZ_DIR/src
+INCLUDEPATH += $$QT_SOURCE_TREE/src/3rdparty/harfbuzz/src
 
-INCLUDEPATH += $$QT_PLATFORMS_DIR/fontdatabases/basicunix
+INCLUDEPATH += $$PWD
 
 CONFIG += opentype
 
 contains(QT_CONFIG, freetype) {
+    QT_FREETYPE_DIR = $$QT_SOURCE_TREE/src/3rdparty/freetype
     SOURCES += \
                $$QT_FREETYPE_DIR/src/base/ftbase.c \
                $$QT_FREETYPE_DIR/src/base/ftbbox.c \
@@ -69,37 +62,27 @@ contains(QT_CONFIG, freetype) {
                $$QT_FREETYPE_DIR/src/autofit/afloader.c\
                $$QT_FREETYPE_DIR/src/autofit/autofit.c
 
-               symbian {
-                   SOURCES += \
-                              $$QT_FREETYPE_DIR/src/base/ftsystem.c
-               } else {
-                   SOURCES += \
-                              $$QT_FREETYPE_DIR/builds/unix/ftsystem.c
-                  INCLUDEPATH += \
-                              $$QT_FREETYPE_DIR/builds/unix
-               }
+   symbian {
+       SOURCES += \
+                  $$QT_FREETYPE_DIR/src/base/ftsystem.c
+   } else {
+       SOURCES += \
+                  $$QT_FREETYPE_DIR/builds/unix/ftsystem.c
+      INCLUDEPATH += \
+                  $$QT_FREETYPE_DIR/builds/unix
+   }
 
-               INCLUDEPATH += \
-                   $$QT_FREETYPE_DIR/src \
-                   $$QT_FREETYPE_DIR/include
+   INCLUDEPATH += \
+       $$QT_FREETYPE_DIR/src \
+       $$QT_FREETYPE_DIR/include
 
-               DEFINES += FT2_BUILD_LIBRARY
-               contains(QT_CONFIG, system-zlib) {
-                    DEFINES += FT_CONFIG_OPTION_SYSTEM_ZLIB
-               }
+   DEFINES += FT2_BUILD_LIBRARY
+   contains(QT_CONFIG, system-zlib) {
+        DEFINES += FT_CONFIG_OPTION_SYSTEM_ZLIB
+   }
 
-    } else:contains(QT_CONFIG, system-freetype) {
-        # pull in the proper freetype2 include directory
-        #include($$QT_SOURCE_TREE/config.tests/unix/freetype/freetype.pri)
-        !cross_compile {
-            TRY_INCLUDEPATHS = /include /usr/include $$QMAKE_INCDIR $$QMAKE_INCDIR_X11 $$INCLUDEPATH
-            # LSB doesn't allow using headers from /include or /usr/include
-            linux-lsb-g++:TRY_INCLUDEPATHS = $$QMAKE_INCDIR $$QMAKE_INCDIR_X11 $$INCLUDEPATH
-            for(p, TRY_INCLUDEPATHS) {
-                p = $$join(p, "", "", "/freetype2")
-                exists($$p):INCLUDEPATH *= $$p
-            }
-        }
-        LIBS_PRIVATE += -lfreetype
-    }
+} else:contains(QT_CONFIG, system-freetype) {
+    # pull in the proper freetype2 include directory
+    include($$QT_SOURCE_TREE/config.tests/unix/freetype/freetype.pri)
+}
 
