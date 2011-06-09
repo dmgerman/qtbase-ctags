@@ -3,9 +3,9 @@ DECL|function|handleKeyEvent
 DECL|function|handleKeyPressEvent
 DECL|function|handleKeyReleaseEvent
 DECL|function|handleMappingNotifyEvent
-DECL|function|initXkb
 DECL|function|keysymToUnicode
 DECL|function|setMask
+DECL|function|setupModifiers
 DECL|function|translateKeySym
 DECL|function|translateKeySym
 DECL|function|translateModifiers
@@ -175,7 +175,6 @@ DECL|macro|XK_KP_Up
 DECL|macro|XK_Kanji_Bangou
 DECL|macro|XK_dead_hook
 DECL|macro|XK_dead_horn
-DECL|typedef|KeyCode
 DECL|variable|KeyTbl
 DECL|variable|aplKeysymsToUnicode
 DECL|variable|cyrillicKeysymsToUnicode
