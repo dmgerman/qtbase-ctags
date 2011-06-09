@@ -1,5 +1,4 @@
 DECL|function|clipboard
-DECL|function|createEventLoopIntegration
 DECL|function|drag
 DECL|function|fontDatabase
 DECL|function|grabWindow
