@@ -4,6 +4,7 @@ DECL|function|close
 DECL|function|create
 DECL|function|destroy
 DECL|function|event
+DECL|function|frameMargins
 DECL|function|geometry
 DECL|function|glFormat
 DECL|function|glSurface

@@ -23,6 +23,7 @@ DECL|function|create
 DECL|function|createGLSurface
 DECL|function|destroy
 DECL|function|focusInPeeker
+DECL|function|frameMargins
 DECL|function|getMotifWmHints
 DECL|function|getNetWmState
 DECL|function|handleButtonPressEvent
