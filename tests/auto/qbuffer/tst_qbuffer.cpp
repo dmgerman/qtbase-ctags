@@ -6,6 +6,7 @@ DECL|function|canReadLine_data
 DECL|function|getSetCheck
 DECL|function|isClosedAfterClose
 DECL|function|isSequential
+DECL|function|open
 DECL|function|readBlock
 DECL|function|readBlockPastEnd
 DECL|function|readLine
