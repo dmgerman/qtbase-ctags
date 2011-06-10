@@ -38,6 +38,7 @@ DECL|function|qt_painterPathFromVectorPath
 DECL|function|replayClipOperations
 DECL|function|setState
 DECL|function|stroke
+DECL|function|supportsTransformations
 DECL|function|updateState
 DECL|function|~QPaintEngineExPrivate
 DECL|function|~QVectorPath

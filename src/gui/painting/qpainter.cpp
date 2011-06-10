@@ -115,7 +115,6 @@ DECL|function|qt_draw_decoration_for_glyphs
 DECL|function|qt_draw_helper
 DECL|function|qt_format_text
 DECL|function|qt_format_text
-DECL|function|qt_paintengine_supports_transformations
 DECL|function|qt_painter_thread_test
 DECL|function|redirected
 DECL|function|renderHints

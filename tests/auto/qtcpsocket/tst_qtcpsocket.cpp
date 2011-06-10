@@ -118,11 +118,13 @@ DECL|function|timeoutConnect_data
 DECL|function|tst_QTcpSocket
 DECL|function|unget
 DECL|function|waitForBytesWritten
+DECL|function|waitForBytesWrittenMinusOne
 DECL|function|waitForConnectedInHostLookupSlot
 DECL|function|waitForConnectedInHostLookupSlot2
 DECL|function|waitForReadyRead
 DECL|function|waitForReadyReadInASlot
 DECL|function|waitForReadyReadInASlotSlot
+DECL|function|waitForReadyReadMinusOne
 DECL|function|zeroAndMinusOneReturns
 DECL|function|~Foo
 DECL|function|~ReceiverThread

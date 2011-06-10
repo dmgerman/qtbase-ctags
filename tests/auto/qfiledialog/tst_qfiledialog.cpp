@@ -49,6 +49,8 @@ DECL|function|selectFiles
 DECL|function|selectFilter
 DECL|function|setNameFilter
 DECL|function|sizeHint
+DECL|function|tildeExpansion
+DECL|function|tildeExpansion_data
 DECL|function|tst_QFiledialog
 DECL|function|viewMode
 DECL|function|~tst_QFiledialog

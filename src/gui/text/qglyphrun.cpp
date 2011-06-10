@@ -5,8 +5,6 @@ DECL|function|clear
 DECL|function|detach
 DECL|function|glyphIndexes
 DECL|function|operator !=
-DECL|function|operator +
-DECL|function|operator +=
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|overline
@@ -15,6 +13,7 @@ DECL|function|rawFont
 DECL|function|setGlyphIndexes
 DECL|function|setOverline
 DECL|function|setPositions
+DECL|function|setRawData
 DECL|function|setRawFont
 DECL|function|setStrikeOut
 DECL|function|setUnderline

@@ -126,6 +126,8 @@ DECL|function|setupMatrix
 DECL|function|size
 DECL|function|splitPolygon
 DECL|function|stroke
+DECL|function|supportsTransformations
+DECL|function|supportsTransformations
 DECL|function|systemStateChanged
 DECL|function|toAlignedRect_positive
 DECL|function|toNormalizedFillRect

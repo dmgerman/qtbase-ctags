@@ -87,6 +87,7 @@ DECL|function|setStretch
 DECL|function|setStrikeOut
 DECL|function|setStyle
 DECL|function|setStyleHint
+DECL|function|setStyleName
 DECL|function|setStyleStrategy
 DECL|function|setUnderline
 DECL|function|setWeight
@@ -101,6 +102,8 @@ DECL|function|style
 DECL|function|style
 DECL|function|styleHint
 DECL|function|styleHint
+DECL|function|styleName
+DECL|function|styleName
 DECL|function|styleStrategy
 DECL|function|substitute
 DECL|function|substitutes

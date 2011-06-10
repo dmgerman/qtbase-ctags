@@ -75,6 +75,7 @@ DECL|function|proxyModel
 DECL|function|qt_clean_filter_list
 DECL|function|qt_make_filter_list
 DECL|function|qt_strip_filters
+DECL|function|qt_tildeExpansion
 DECL|function|removeDirectory
 DECL|function|resolveSymlinks
 DECL|function|restoreState
