@@ -10,6 +10,7 @@ DECL|function|displayHandleGlobal
 DECL|function|eglIntegration
 DECL|function|flushRequests
 DECL|function|frameCallback
+DECL|function|handleSelectionOffer
 DECL|function|handleVisual
 DECL|function|outputHandleGeometry
 DECL|function|readEvents
