@@ -6,6 +6,5 @@ DECL|function|createPlatformWindow
 DECL|function|createWindowSurface
 DECL|function|fontDatabase
 DECL|function|hasCapability
-DECL|function|hasOpenGL
 DECL|function|nativeInterface
 DECL|function|screens
