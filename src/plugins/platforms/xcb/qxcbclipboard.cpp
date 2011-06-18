@@ -17,6 +17,7 @@ DECL|function|getSelection
 DECL|function|getSelectionOwner
 DECL|function|handleSelectionClearRequest
 DECL|function|handleSelectionRequest
+DECL|function|handleXFixesSelectionRequest
 DECL|function|hasFormat_sys
 DECL|function|maxSelectionIncr
 DECL|function|mimeData
