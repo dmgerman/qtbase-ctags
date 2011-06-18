@@ -25,6 +25,7 @@ DECL|function|id_function
 DECL|function|initLock
 DECL|function|initSslContext
 DECL|function|isMatchingHostname
+DECL|function|isMatchingHostname
 DECL|function|lock
 DECL|function|locking_function
 DECL|function|q_X509Callback
@@ -38,6 +39,7 @@ DECL|function|startServerEncryption
 DECL|function|supportsSsl
 DECL|function|systemCaCertificates
 DECL|function|transmit
+DECL|function|verify
 DECL|function|~CSymbianCertificateRetriever
 DECL|function|~QOpenSslLocks
 DECL|function|~QSslSocketBackendPrivate

@@ -38,6 +38,7 @@ DECL|function|text_from_X509
 DECL|function|toDer
 DECL|function|toPem
 DECL|function|toText
+DECL|function|verify
 DECL|function|version
 DECL|function|~QSslCertificate
 DECL|macro|BEGINCERTSTRING

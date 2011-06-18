@@ -38,6 +38,7 @@ DECL|function|toPemOrDer_data
 DECL|function|toText
 DECL|function|tst_QSslCertificate
 DECL|function|utf8SubjectNames
+DECL|function|verify
 DECL|function|~tst_QSslCertificate
 DECL|macro|SRCDIR
 DECL|member|certInfoList
