@@ -1,6 +1,6 @@
 DECL|class|QXcbShmImage
+DECL|function|QXcbBackingStore
 DECL|function|QXcbShmImage
-DECL|function|QXcbWindowSurface
 DECL|function|beginPaint
 DECL|function|destroy
 DECL|function|endPaint
@@ -11,8 +11,9 @@ DECL|function|preparePaint
 DECL|function|put
 DECL|function|resize
 DECL|function|scroll
+DECL|function|size
+DECL|function|~QXcbBackingStore
 DECL|function|~QXcbShmImage
-DECL|function|~QXcbWindowSurface
 DECL|member|m_dirty
 DECL|member|m_gc
 DECL|member|m_gc_window

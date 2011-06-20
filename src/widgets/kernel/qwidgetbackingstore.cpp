@@ -7,7 +7,6 @@ DECL|function|discardSyncRequest
 DECL|function|endPaint
 DECL|function|flush
 DECL|function|flushPaint
-DECL|function|hasDirtyWindowDecoration
 DECL|function|invalidateBuffer
 DECL|function|invalidateBuffer
 DECL|function|invalidateBuffer_resizeHelper
@@ -15,7 +14,6 @@ DECL|function|markDirty
 DECL|function|markDirty
 DECL|function|markDirtyOnScreen
 DECL|function|moveRect
-DECL|function|paintWindowDecoration
 DECL|function|qRectIntersects
 DECL|function|qt_flush
 DECL|function|releaseBuffer

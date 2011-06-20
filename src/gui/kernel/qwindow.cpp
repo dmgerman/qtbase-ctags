@@ -51,7 +51,6 @@ DECL|function|showMaximized
 DECL|function|showMinimized
 DECL|function|showNormal
 DECL|function|sizeIncrement
-DECL|function|surface
 DECL|function|surfaceType
 DECL|function|transientParent
 DECL|function|visible

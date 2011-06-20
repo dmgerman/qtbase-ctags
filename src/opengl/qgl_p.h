@@ -28,4 +28,3 @@ DECL|variable|QGLTextureDestroyer
 DECL|variable|QMacWindowChangeEvent
 DECL|variable|QPixmap
 DECL|variable|QPixmapFilter
-DECL|variable|QWSGLWindowSurface

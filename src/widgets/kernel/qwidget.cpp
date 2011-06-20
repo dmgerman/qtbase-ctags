@@ -1,5 +1,3 @@
-DECL|class|QDummyWindowSurface
-DECL|function|QDummyWindowSurface
 DECL|function|QWidget
 DECL|function|QWidget
 DECL|function|QWidget
@@ -23,6 +21,7 @@ DECL|function|assignedInputContext
 DECL|function|autoFillBackground
 DECL|function|backgroundMode
 DECL|function|backgroundRole
+DECL|function|backingStore
 DECL|function|baseSize
 DECL|function|boundingRect
 DECL|function|canKeypadNavigate
@@ -49,7 +48,6 @@ DECL|function|contextMenuEvent
 DECL|function|contextMenuPolicy
 DECL|function|create
 DECL|function|create
-DECL|function|createDefaultWindowSurface
 DECL|function|createExtra
 DECL|function|createRecursively
 DECL|function|createTLExtra
@@ -76,7 +74,6 @@ DECL|function|erase_helper
 DECL|function|event
 DECL|function|fillRegion
 DECL|function|find
-DECL|function|flush
 DECL|function|focusInEvent
 DECL|function|focusNextPrevChild
 DECL|function|focusOutEvent
@@ -161,7 +158,6 @@ DECL|function|normalGeometry
 DECL|function|overrideWindowFlags
 DECL|function|overrideWindowState
 DECL|function|paintBackground
-DECL|function|paintDevice
 DECL|function|paintEvent
 DECL|function|paintOnScreen
 DECL|function|paintSiblingsRecursive
@@ -179,7 +175,6 @@ DECL|function|qt_qwidget_data
 DECL|function|qt_setWindowTitle_helperHelper
 DECL|function|qt_widget_private
 DECL|function|qt_x11_set_global_double_buffer
-DECL|function|qwsEvent
 DECL|function|raise
 DECL|function|redirected
 DECL|function|registerWidget
@@ -216,6 +211,7 @@ DECL|function|setAttribute_internal
 DECL|function|setAutoFillBackground
 DECL|function|setBackgroundMode
 DECL|function|setBackgroundRole
+DECL|function|setBackingStore
 DECL|function|setBaseSize
 DECL|function|setContentsMargins
 DECL|function|setContentsMargins
@@ -290,7 +286,6 @@ DECL|function|setWindowModality
 DECL|function|setWindowModified
 DECL|function|setWindowOpacity
 DECL|function|setWindowRole
-DECL|function|setWindowSurface
 DECL|function|setWindowTitle
 DECL|function|setWindowTitle_helper
 DECL|function|sharedPainter
@@ -350,7 +345,6 @@ DECL|function|windowModality
 DECL|function|windowOpacity
 DECL|function|windowRole
 DECL|function|windowState
-DECL|function|windowSurface
 DECL|function|windowTitle
 DECL|function|wmapper
 DECL|function|x

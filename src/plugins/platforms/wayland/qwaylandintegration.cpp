@@ -1,9 +1,9 @@
 DECL|function|QWaylandIntegration
 DECL|function|clipboard
 DECL|function|createPixmapData
+DECL|function|createPlatformBackingStore
 DECL|function|createPlatformGLContext
 DECL|function|createPlatformWindow
-DECL|function|createWindowSurface
 DECL|function|fontDatabase
 DECL|function|hasCapability
 DECL|function|nativeInterface

@@ -59,6 +59,7 @@ DECL|macro|QWIDGETSIZE_MAX
 DECL|macro|QWIDGET_H
 DECL|variable|QAction
 DECL|variable|QActionEvent
+DECL|variable|QBackingStore
 DECL|variable|QCloseEvent
 DECL|variable|QContextMenuEvent
 DECL|variable|QDragEnterEvent
@@ -90,5 +91,4 @@ DECL|variable|QVariant
 DECL|variable|QWSRegionManager
 DECL|variable|QWheelEvent
 DECL|variable|QWidgetPrivate
-DECL|variable|QWindowSurface
 DECL|variable|QX11Info

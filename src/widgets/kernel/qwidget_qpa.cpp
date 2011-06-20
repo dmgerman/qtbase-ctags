@@ -1,6 +1,5 @@
 DECL|function|activateWindow
 DECL|function|applyCursor
-DECL|function|createDefaultWindowSurface_sys
 DECL|function|createSysExtra
 DECL|function|createTLSysExtra
 DECL|function|create_sys

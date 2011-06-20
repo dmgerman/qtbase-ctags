@@ -1,4 +1,5 @@
 DECL|macro|QWINDOW_QPA_H
+DECL|variable|QBackingStore
 DECL|variable|QHideEvent
 DECL|variable|QInputMethodEvent
 DECL|variable|QKeyEvent
@@ -8,4 +9,3 @@ DECL|variable|QPlatformWindow
 DECL|variable|QResizeEvent
 DECL|variable|QShowEvent
 DECL|variable|QWheelEvent
-DECL|variable|QWindowSurface

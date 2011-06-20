@@ -1,7 +1,6 @@
 DECL|function|BeginPaintInfo
-DECL|macro|QBACKINGSTORE_P_H
+DECL|macro|QWIDGETBACKINGSTORE_P_H
+DECL|member|backingStoreRecreated
 DECL|member|nothingToPaint
 DECL|member|wasFlushed
-DECL|member|windowSurfaceRecreated
 DECL|struct|BeginPaintInfo
-DECL|variable|QWindowSurface

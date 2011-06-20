@@ -18,6 +18,7 @@ DECL|member|activated
 DECL|member|autoFillBackground
 DECL|member|backingStore
 DECL|member|backingStore
+DECL|member|backingStoreTracker
 DECL|member|baseh
 DECL|member|basew
 DECL|member|caption
@@ -99,7 +100,6 @@ DECL|member|winIconBig
 DECL|member|winIconSmall
 DECL|member|window
 DECL|member|windowIcon
-DECL|member|windowSurface
 DECL|member|xDndProxy
 DECL|struct|QTLWExtra
 DECL|struct|QWExtra
