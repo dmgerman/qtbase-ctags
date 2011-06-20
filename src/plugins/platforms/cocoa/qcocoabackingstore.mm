@@ -39,7 +39,7 @@
 **
 ****************************************************************************/
 
-#include "qcocoawindowsurface.h"
+#include "qcocoabackingstore.h"
 
 #include <QtCore/qdebug.h>
 #include <QtGui/QPainter>
@@ -55,10 +55,9 @@ QRect flipedRect(const QRect &sourceRect,int height)
     return flippedRect;
 }
 
-QCocoaWindowSurface::QCocoaWindowSurface(QWindow *window, WId wId)
-    : QWindowSurface(window)
+QCocoaBackingStore::QCocoaBackingStore(QWindow *window)
+    : QPlatformBackingStore(window)
 {
-    Q_UNUSED(wId);
     m_cocoaWindow = static_cast<QCocoaWindow *>(window->handle());
 
     const QRect geo = window->geometry();
@@ -67,17 +66,17 @@ QCocoaWindowSurface::QCocoaWindowSurface(QWindow *window, WId wId)
     m_image = new QImage(window->geometry().size(),QImage::Format_ARGB32);
 }
 
-QCocoaWindowSurface::~QCocoaWindowSurface()
+QCocoaBackingStore::~QCocoaBackingStore()
 {
     delete m_image;
 }
 
-QPaintDevice *QCocoaWindowSurface::paintDevice()
+QPaintDevice *QCocoaBackingStore::paintDevice()
 {
     return m_image;
 }
 
-void QCocoaWindowSurface::flush(QWindow *widget, const QRegion &region, const QPoint &offset)
+void QCocoaBackingStore::flush(QWindow *widget, const QRegion &region, const QPoint &offset)
 {
     Q_UNUSED(widget);
     Q_UNUSED(offset);
@@ -88,9 +87,8 @@ void QCocoaWindowSurface::flush(QWindow *widget, const QRegion &region, const QP
     [m_cocoaWindow->m_windowSurfaceView displayRect:rect];
 }
 
-void QCocoaWindowSurface::resize(const QSize &size)
+void QCocoaBackingStore::resize(const QSize &size, const QRegion &)
 {
-    QWindowSurface::resize(size);
     delete m_image;
     m_image = new QImage(size,QImage::Format_ARGB32_Premultiplied);
     NSSize newSize = NSMakeSize(size.width(),size.height());
