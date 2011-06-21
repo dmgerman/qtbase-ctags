@@ -4,6 +4,7 @@ DECL|function|close
 DECL|function|create
 DECL|function|destroy
 DECL|function|event
+DECL|function|exposeEvent
 DECL|function|format
 DECL|function|frameMargins
 DECL|function|geometry

@@ -1,4 +1,5 @@
 DECL|function|Window
+DECL|function|exposeEvent
 DECL|function|keyPressEvent
 DECL|function|mouseMoveEvent
 DECL|function|mousePressEvent

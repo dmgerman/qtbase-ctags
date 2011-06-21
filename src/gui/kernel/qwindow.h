@@ -1,5 +1,6 @@
 DECL|macro|QWINDOW_QPA_H
 DECL|variable|QBackingStore
+DECL|variable|QExposeEvent
 DECL|variable|QHideEvent
 DECL|variable|QInputMethodEvent
 DECL|variable|QKeyEvent
