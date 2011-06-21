@@ -26,6 +26,7 @@ DECL|function|interface
 DECL|function|internalPointer
 DECL|function|isConnected
 DECL|function|lastError
+DECL|function|localMachineId
 DECL|function|name
 DECL|function|objectRegisteredAt
 DECL|function|operator =
