@@ -1,2 +1,0 @@
-DECL|macro|QINPUTCONTEXTFACTORY_H
-DECL|variable|QWidget
