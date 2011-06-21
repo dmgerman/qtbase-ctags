@@ -2,6 +2,7 @@ DECL|class|QEGLXcbPlatformContext
 DECL|function|QEGLXcbPlatformContext
 DECL|function|QXcbIntegration
 DECL|function|clipboard
+DECL|function|createEventDispatcher
 DECL|function|createPixmapData
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformGLContext

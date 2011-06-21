@@ -1,5 +1,6 @@
 DECL|function|QXlibIntegration
 DECL|function|clipboard
+DECL|function|createEventDispatcher
 DECL|function|createPixmapData
 DECL|function|createPlatformWindow
 DECL|function|createWindowSurface

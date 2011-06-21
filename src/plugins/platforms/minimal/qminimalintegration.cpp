@@ -1,4 +1,5 @@
 DECL|function|QMinimalIntegration
+DECL|function|createEventDispatcher
 DECL|function|createPixmapData
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformWindow

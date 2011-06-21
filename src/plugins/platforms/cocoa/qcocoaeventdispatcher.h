@@ -20,4 +20,4 @@ DECL|typedef|MacSocketHash
 DECL|typedef|MacTimerHash
 DECL|typedef|NSModalSession
 DECL|typedef|QCocoaModalSessionInfo
-DECL|variable|QEventDispatcherMacPrivate
+DECL|variable|QCocoaEventDispatcherPrivate

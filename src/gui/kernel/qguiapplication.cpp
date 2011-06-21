@@ -6,6 +6,7 @@ DECL|function|changeOverrideCursor
 DECL|function|clipboard
 DECL|function|compressEvent
 DECL|function|createEventDispatcher
+DECL|function|createPlatformIntegration
 DECL|function|currentKeyPlatform
 DECL|function|doubleClickInterval
 DECL|function|event

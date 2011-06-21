@@ -8,6 +8,7 @@ DECL|function|QVFbScreenKeyboardHandler
 DECL|function|QVFbScreenMouseHandler
 DECL|function|QVFbScreenPrivate
 DECL|function|connect
+DECL|function|createEventDispatcher
 DECL|function|createPixmapData
 DECL|function|createPlatformWindow
 DECL|function|createWindowSurface

@@ -1,5 +1,6 @@
 DECL|function|QWaylandIntegration
 DECL|function|clipboard
+DECL|function|createEventDispatcher
 DECL|function|createPixmapData
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformGLContext

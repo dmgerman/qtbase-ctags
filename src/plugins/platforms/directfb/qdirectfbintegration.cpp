@@ -1,5 +1,6 @@
 DECL|function|QDirectFbIntegration
 DECL|function|QDirectFbScreen
+DECL|function|createEventDispatcher
 DECL|function|createPixmapData
 DECL|function|createPlatformWindow
 DECL|function|createWindowSurface
