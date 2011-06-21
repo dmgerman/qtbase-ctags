@@ -1,5 +1,4 @@
 DECL|function|QEGLPlatformContext
-DECL|function|QEGLSurface
 DECL|function|doneCurrent
 DECL|function|eglContext
 DECL|function|format

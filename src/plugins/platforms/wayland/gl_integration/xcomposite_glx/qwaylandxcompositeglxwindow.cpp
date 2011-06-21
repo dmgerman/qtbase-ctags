@@ -1,5 +1,4 @@
 DECL|function|QWaylandXCompositeGLXWindow
-DECL|function|createGLSurface
 DECL|function|createSurface
 DECL|function|setGeometry
 DECL|function|sync_function

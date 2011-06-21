@@ -1,5 +1,4 @@
 DECL|function|QGLXContext
-DECL|function|QGLXSurface
 DECL|function|doneCurrent
 DECL|function|format
 DECL|function|getProcAddress

@@ -20,9 +20,10 @@ DECL|enumerator|MWM_INPUT_PRIMARY_APPLICATION_MODAL
 DECL|function|QXcbWindow
 DECL|function|changeNetWmState
 DECL|function|create
-DECL|function|createGLSurface
 DECL|function|destroy
+DECL|function|eglSurface
 DECL|function|focusInPeeker
+DECL|function|format
 DECL|function|frameMargins
 DECL|function|getMotifWmHints
 DECL|function|getNetWmState

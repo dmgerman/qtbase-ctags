@@ -1,6 +1,6 @@
 DECL|class|QPlatformWindowPrivate
 DECL|function|QPlatformWindow
-DECL|function|createGLSurface
+DECL|function|format
 DECL|function|frameMargins
 DECL|function|geometry
 DECL|function|lower

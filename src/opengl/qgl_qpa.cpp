@@ -8,7 +8,7 @@ DECL|function|colormap
 DECL|function|doneCurrent
 DECL|function|event
 DECL|function|fromGuiGLContext
-DECL|function|fromGuiGLFormat
+DECL|function|fromSurfaceFormat
 DECL|function|generateFontDisplayLists
 DECL|function|getProcAddress
 DECL|function|hasOpenGL
@@ -27,7 +27,7 @@ DECL|function|setContext
 DECL|function|setMouseTracking
 DECL|function|setupSharing
 DECL|function|swapBuffers
-DECL|function|toGuiGLFormat
+DECL|function|toSurfaceFormat
 DECL|function|updateOverlayGL
 DECL|function|~QGLTemporaryContext
 DECL|member|context

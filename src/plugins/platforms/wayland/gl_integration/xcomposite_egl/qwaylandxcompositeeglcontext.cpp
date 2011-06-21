@@ -1,4 +1,3 @@
 DECL|function|QWaylandXCompositeEGLContext
-DECL|function|QWaylandXCompositeEGLSurface
-DECL|function|eglSurface
+DECL|function|eglSurfaceForPlatformSurface
 DECL|function|swapBuffers

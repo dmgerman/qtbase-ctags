@@ -1,3 +1,4 @@
 DECL|macro|QGUIGLCONTEXT_H
 DECL|variable|QPlatformGLContext
-DECL|variable|QPlatformGLSurface
+DECL|variable|QSurface
+DECL|variable|QSurfaceFormat

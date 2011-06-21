@@ -9,8 +9,8 @@ DECL|enumerator|XRevertToParent
 DECL|function|qglx_buildSpec
 DECL|function|qglx_findConfig
 DECL|function|qglx_findVisualInfo
-DECL|function|qglx_guiGLFormatFromGLXFBConfig
-DECL|function|qglx_reduceGuiGLFormat
+DECL|function|qglx_reduceSurfaceFormat
+DECL|function|qglx_surfaceFormatFromGLXFBConfig
 DECL|macro|CursorShape
 DECL|macro|FocusIn
 DECL|macro|FocusOut

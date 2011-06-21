@@ -4,10 +4,9 @@ DECL|function|close
 DECL|function|create
 DECL|function|destroy
 DECL|function|event
+DECL|function|format
 DECL|function|frameMargins
 DECL|function|geometry
-DECL|function|glFormat
-DECL|function|glSurface
 DECL|function|handle
 DECL|function|hideEvent
 DECL|function|inputMethodEvent
@@ -28,7 +27,7 @@ DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|resizeEvent
 DECL|function|setBaseSize
-DECL|function|setGLFormat
+DECL|function|setFormat
 DECL|function|setGeometry
 DECL|function|setKeyboardGrabEnabled
 DECL|function|setMaximumSize
@@ -37,7 +36,6 @@ DECL|function|setMouseGrabEnabled
 DECL|function|setOpacity
 DECL|function|setParent
 DECL|function|setSizeIncrement
-DECL|function|setSurfaceType
 DECL|function|setTransientParent
 DECL|function|setVisible
 DECL|function|setWindowFlags
@@ -51,7 +49,7 @@ DECL|function|showMaximized
 DECL|function|showMinimized
 DECL|function|showNormal
 DECL|function|sizeIncrement
-DECL|function|surfaceType
+DECL|function|surfaceHandle
 DECL|function|transientParent
 DECL|function|visible
 DECL|function|wheelEvent

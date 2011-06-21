@@ -1,9 +1,7 @@
 DECL|function|QWaylandReadbackGlxContext
-DECL|function|QWaylandReadbackGlxSurface
 DECL|function|doneCurrent
 DECL|function|format
 DECL|function|getProcAddress
-DECL|function|glxPixmap
 DECL|function|makeCurrent
 DECL|function|qgl_byteSwapImage
 DECL|function|swapBuffers
