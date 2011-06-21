@@ -1,5 +1,3 @@
-DECL|class|QDummyInputContext
-DECL|function|QDummyInputContext
 DECL|function|alert
 DECL|function|appName
 DECL|function|beep
@@ -10,13 +8,10 @@ DECL|function|cursorFlashTime
 DECL|function|doubleClickInterval
 DECL|function|enterModal_sys
 DECL|function|grabForPopup
-DECL|function|identifierName
 DECL|function|initializeMultitouch_sys
 DECL|function|initializeWidgetPaletteHash
-DECL|function|isComposing
 DECL|function|isEffectEnabled
 DECL|function|keyboardInputInterval
-DECL|function|language
 DECL|function|leaveModal_sys
 DECL|function|modalState
 DECL|function|notifyActiveWindowChange
@@ -26,7 +21,6 @@ DECL|function|qt_cleanup
 DECL|function|qt_init
 DECL|function|qt_tlw_for_window
 DECL|function|qt_try_modal
-DECL|function|reset
 DECL|function|setCursorFlashTime
 DECL|function|setDoubleClickInterval
 DECL|function|setEffectEnabled
@@ -37,7 +31,6 @@ DECL|function|topLevelAt
 DECL|function|ungrabKeyboardForPopup
 DECL|function|ungrabMouseForPopup
 DECL|function|wheelScrollLines
-DECL|function|~QDummyInputContext
 DECL|variable|appFont
 DECL|variable|appName
 DECL|variable|openPopupCount

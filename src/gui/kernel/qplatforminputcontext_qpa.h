@@ -1,0 +1,2 @@
+DECL|macro|QPLATFORMINPUTCONTEXT_H
+DECL|variable|QMouseEvent

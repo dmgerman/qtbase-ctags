@@ -6,6 +6,7 @@ DECL|variable|QPlatformClipboard
 DECL|variable|QPlatformDrag
 DECL|variable|QPlatformFontDatabase
 DECL|variable|QPlatformGLContext
+DECL|variable|QPlatformInputContext
 DECL|variable|QPlatformNativeInterface
 DECL|variable|QPlatformPrinterSupport
 DECL|variable|QWindow
