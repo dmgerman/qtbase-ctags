@@ -8,6 +8,7 @@ DECL|function|createSurface
 DECL|function|displayHandleGlobal
 DECL|function|displayHandleGlobal
 DECL|function|eglIntegration
+DECL|function|eventDispatcherCreated
 DECL|function|flushRequests
 DECL|function|frameCallback
 DECL|function|handleVisual
