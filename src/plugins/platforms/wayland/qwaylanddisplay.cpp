@@ -12,6 +12,7 @@ DECL|function|eventDispatcherCreated
 DECL|function|flushRequests
 DECL|function|frameCallback
 DECL|function|handleVisual
+DECL|function|mode
 DECL|function|outputHandleGeometry
 DECL|function|readEvents
 DECL|function|rgbVisual
