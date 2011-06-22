@@ -37,6 +37,7 @@ DECL|function|setMouseGrabEnabled
 DECL|function|setOpacity
 DECL|function|setParent
 DECL|function|setSizeIncrement
+DECL|function|setSurfaceType
 DECL|function|setTransientParent
 DECL|function|setVisible
 DECL|function|setWindowFlags
@@ -51,6 +52,7 @@ DECL|function|showMinimized
 DECL|function|showNormal
 DECL|function|sizeIncrement
 DECL|function|surfaceHandle
+DECL|function|surfaceType
 DECL|function|transientParent
 DECL|function|visible
 DECL|function|wheelEvent
