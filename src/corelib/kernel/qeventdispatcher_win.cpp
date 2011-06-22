@@ -11,6 +11,7 @@ DECL|function|activateEventNotifier
 DECL|function|activateEventNotifiers
 DECL|function|closingDown
 DECL|function|createInternalHwnd
+DECL|function|dispatchGuiEvents
 DECL|function|doWsaAsyncSelect
 DECL|function|event
 DECL|function|flush
