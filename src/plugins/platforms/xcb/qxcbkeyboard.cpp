@@ -27,6 +27,7 @@ DECL|macro|QTOPIAXK_Select
 DECL|macro|QTOPIAXK_Sleep
 DECL|macro|QTOPIAXK_Yes
 DECL|macro|QTOPIAXK_Zoom
+DECL|macro|XCB_USE_IBUS
 DECL|macro|XF86XK_AddFavorite
 DECL|macro|XF86XK_ApplicationLeft
 DECL|macro|XF86XK_ApplicationRight

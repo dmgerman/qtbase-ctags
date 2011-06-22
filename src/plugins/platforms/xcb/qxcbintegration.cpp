@@ -13,9 +13,11 @@ DECL|function|fontDatabase
 DECL|function|grabWindow
 DECL|function|hasCapability
 DECL|function|hasOpenGL
+DECL|function|inputContext
 DECL|function|isVirtualDesktop
 DECL|function|moveToScreen
 DECL|function|nativeInterface
 DECL|function|printerSupport
 DECL|function|screens
 DECL|function|~QXcbIntegration
+DECL|macro|XCB_USE_IBUS
