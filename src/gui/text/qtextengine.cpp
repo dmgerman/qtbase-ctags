@@ -82,6 +82,7 @@ DECL|function|shapeLine
 DECL|function|shapeText
 DECL|function|shapeTextWithCE
 DECL|function|shapeTextWithHarfbuzz
+DECL|function|skipBoundryNeutrals
 DECL|function|splitItem
 DECL|function|stringToGlyphs
 DECL|function|tightBoundingBox
