@@ -12,6 +12,7 @@ DECL|macro|Q_XCB_NOOP
 DECL|macro|Q_XCB_NOOP
 DECL|typedef|WindowMapper
 DECL|typedef|xcb_window_t
+DECL|variable|QAbstractEventDispatcher
 DECL|variable|QXcbClipboard
 DECL|variable|QXcbDrag
 DECL|variable|QXcbKeyboard
