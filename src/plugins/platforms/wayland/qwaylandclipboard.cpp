@@ -10,6 +10,7 @@ DECL|function|forceRoundtrip
 DECL|function|formats_sys
 DECL|function|getTime
 DECL|function|hasFormat_sys
+DECL|function|instance
 DECL|function|keyboardFocus
 DECL|function|mimeData
 DECL|function|offer

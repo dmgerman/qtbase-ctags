@@ -10,7 +10,6 @@ DECL|function|displayHandleGlobal
 DECL|function|eglIntegration
 DECL|function|flushRequests
 DECL|function|frameCallback
-DECL|function|handleSelectionOffer
 DECL|function|handleVisual
 DECL|function|mode
 DECL|function|outputHandleGeometry
@@ -25,3 +24,4 @@ DECL|function|~QWaylandDisplay
 DECL|member|compositorListener
 DECL|member|outputListener
 DECL|member|shellListener
+DECL|variable|display
