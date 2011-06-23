@@ -21,6 +21,7 @@ DECL|function|handleWheelEvent
 DECL|function|handleWheelEvent
 DECL|function|handleWindowActivated
 DECL|function|queueWindowSystemEvent
+DECL|function|sendWindowSystemEvents
 DECL|function|windowSystemEventsQueued
 DECL|member|eventTime
 DECL|member|queueMutex
