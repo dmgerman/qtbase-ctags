@@ -20,6 +20,7 @@ DECL|function|fetchData
 DECL|function|filter_unprintable
 DECL|function|function
 DECL|function|ignoreMessage
+DECL|function|installCoverageTool
 DECL|function|invokeMethod
 DECL|function|isValidSlot
 DECL|function|newRow
@@ -45,6 +46,7 @@ DECL|function|qVerify
 DECL|function|qWarn
 DECL|function|qt_snprintf
 DECL|function|qtest_qParseArgs
+DECL|function|saveCoverageTool
 DECL|function|set
 DECL|function|signal
 DECL|function|testObject

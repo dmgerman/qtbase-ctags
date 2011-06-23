@@ -6,6 +6,7 @@ DECL|function|QLibraryPrivate
 DECL|function|errorString
 DECL|function|fileName
 DECL|function|findOrCreate
+DECL|function|installCoverageTool
 DECL|function|isLibrary
 DECL|function|isLoaded
 DECL|function|isPlugin
@@ -23,6 +24,7 @@ DECL|function|qt_tokenize
 DECL|function|qt_try_versioninfo
 DECL|function|qt_unix_query
 DECL|function|release
+DECL|function|releaseCoverageTool
 DECL|function|resolve
 DECL|function|resolve
 DECL|function|resolve
