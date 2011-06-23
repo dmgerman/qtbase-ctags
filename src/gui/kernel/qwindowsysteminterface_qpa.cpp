@@ -23,6 +23,7 @@ DECL|function|handleWindowActivated
 DECL|function|queueWindowSystemEvent
 DECL|function|sendWindowSystemEvents
 DECL|function|windowSystemEventsQueued
+DECL|function|windowSystemEventsQueued
 DECL|member|eventTime
 DECL|member|queueMutex
 DECL|member|windowSystemEventQueue
