@@ -2,9 +2,10 @@ DECL|class|QXcbResourceMap
 DECL|function|QXcbResourceMap
 DECL|function|connectionForWindow
 DECL|function|displayForWindow
-DECL|function|eglContextForWindow
+DECL|function|eglContextForContext
 DECL|function|eglDisplayForWindow
 DECL|function|graphicsDeviceForWindow
+DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
 DECL|function|qPlatformScreenForWindow
 DECL|function|screenForWindow

@@ -5,6 +5,7 @@ DECL|function|chooseContext
 DECL|function|cleanupColormaps
 DECL|function|colorIndex
 DECL|function|colormap
+DECL|function|contextHandle
 DECL|function|doneCurrent
 DECL|function|event
 DECL|function|fromGuiGLContext

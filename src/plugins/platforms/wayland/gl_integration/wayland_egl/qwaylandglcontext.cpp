@@ -1,9 +1,7 @@
 DECL|function|QWaylandGLContext
-DECL|function|QWaylandGLContext
 DECL|function|doneCurrent
 DECL|function|eglConfig
 DECL|function|getProcAddress
 DECL|function|makeCurrent
-DECL|function|setEglSurface
 DECL|function|swapBuffers
 DECL|function|~QWaylandGLContext
