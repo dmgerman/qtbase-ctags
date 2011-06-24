@@ -144,9 +144,11 @@ DECL|function|~QClipData
 DECL|function|~QRasterBuffer
 DECL|function|~QRasterPaintEngine
 DECL|function|~QRasterPaintEngineState
+DECL|macro|FE_FONTSMOOTHINGCLEARTYPE
 DECL|macro|QT_FAST_SPANS
 DECL|macro|QT_FT_BEGIN_HEADER
 DECL|macro|QT_FT_END_HEADER
+DECL|macro|SPI_GETFONTSMOOTHINGTYPE
 DECL|macro|int_dim
 DECL|macro|qreal_to_fixed_26_6
 DECL|macro|qt_swap_int
