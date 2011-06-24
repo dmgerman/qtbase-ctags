@@ -13,14 +13,20 @@ DECL|class|SocketTestThread
 DECL|class|StartStopEvent
 DECL|class|TimerReceiver
 DECL|class|tst_QEventLoop
+DECL|enumerator|NbEvent
+DECL|enumerator|NbEventQueue
+DECL|enumerator|NbObject
+DECL|enumerator|NbThread
 DECL|function|ActiveSchedulerLoop
 DECL|function|ActiveSchedulerThread
+DECL|function|CustomEvent
 DECL|function|DoCancel
 DECL|function|DummyActiveObject
 DECL|function|EventLoopExecutor
 DECL|function|EventLoopExiter
 DECL|function|ExceptionThrower
 DECL|function|MultipleExecThread
+DECL|function|Object
 DECL|function|OnlySymbianActiveScheduler_helper
 DECL|function|RunL
 DECL|function|SocketEventsTester
@@ -29,6 +35,7 @@ DECL|function|Start
 DECL|function|StartStopEvent
 DECL|function|TimerReceiver
 DECL|function|cleanup
+DECL|function|customEvent
 DECL|function|customEvent
 DECL|function|exec
 DECL|function|exec
@@ -71,6 +78,7 @@ DECL|function|~tst_QEventLoop
 DECL|macro|EXEC_TIMEOUT
 DECL|macro|EXEC_TIMEOUT
 DECL|member|cond
+DECL|member|count
 DECL|member|dataArrived
 DECL|member|dataArrived
 DECL|member|el
@@ -79,6 +87,7 @@ DECL|member|eventLoop
 DECL|member|eventLoop
 DECL|member|fd
 DECL|member|gotTimerEvent
+DECL|member|lastReceived
 DECL|member|m_flags
 DECL|member|m_rTimer
 DECL|member|mutex
@@ -89,6 +98,7 @@ DECL|member|result1
 DECL|member|result2
 DECL|member|returnCode
 DECL|member|server
+DECL|member|slots
 DECL|member|socket
 DECL|member|succeeded
 DECL|member|succeeded
@@ -97,5 +107,9 @@ DECL|member|testResult
 DECL|member|testResult
 DECL|member|timerCount
 DECL|member|timerId
+DECL|member|value
 DECL|member|zeroTimer
 DECL|member|zeroTimerCount
+DECL|namespace|DeliverInDefinedOrder_QTBUG19637
+DECL|struct|CustomEvent
+DECL|struct|Object
