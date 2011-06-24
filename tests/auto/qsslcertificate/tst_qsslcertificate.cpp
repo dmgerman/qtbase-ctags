@@ -25,6 +25,7 @@ DECL|function|init
 DECL|function|initTestCase_data
 DECL|function|largeExpirationDate
 DECL|function|largeSerialNumber
+DECL|function|multipleCommonNames
 DECL|function|nulInCN
 DECL|function|nulInSan
 DECL|function|publicKey
