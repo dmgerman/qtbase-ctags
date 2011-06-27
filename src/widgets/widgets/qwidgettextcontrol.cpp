@@ -1,8 +1,8 @@
-DECL|function|QTextControl
-DECL|function|QTextControl
-DECL|function|QTextControl
-DECL|function|QTextControlPrivate
 DECL|function|QUnicodeControlCharacterMenu
+DECL|function|QWidgetTextControl
+DECL|function|QWidgetTextControl
+DECL|function|QWidgetTextControl
+DECL|function|QWidgetTextControlPrivate
 DECL|function|_q_copyLink
 DECL|function|_q_deleteSelected
 DECL|function|_q_documentLayoutChanged
@@ -135,7 +135,7 @@ DECL|function|textWidth
 DECL|function|timerEvent
 DECL|function|undo
 DECL|function|updateCurrentCharFormat
-DECL|function|~QTextControl
+DECL|function|~QWidgetTextControl
 DECL|macro|ACCEL_KEY
 DECL|macro|ACCEL_KEY
 DECL|macro|NUM_CONTROL_CHARACTERS
