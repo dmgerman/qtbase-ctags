@@ -32,7 +32,6 @@ DECL|function|QMouseEvent
 DECL|function|QMouseEvent
 DECL|function|QMouseEvent
 DECL|function|QMouseEvent
-DECL|function|QMouseEventEx
 DECL|function|QMoveEvent
 DECL|function|QPaintEvent
 DECL|function|QPaintEvent
@@ -65,7 +64,6 @@ DECL|function|contentPos
 DECL|function|contentPos
 DECL|function|contentPosRange
 DECL|function|createExtendedKeyEvent
-DECL|function|createExtendedMouseEvent
 DECL|function|d_func
 DECL|function|d_func
 DECL|function|d_func
@@ -99,7 +97,6 @@ DECL|function|operator <<
 DECL|function|operator =
 DECL|function|overshootDistance
 DECL|function|pos
-DECL|function|posF
 DECL|function|pressure
 DECL|function|provides
 DECL|function|reason
@@ -168,7 +165,6 @@ DECL|function|~QInputEvent
 DECL|function|~QKeyEvent
 DECL|function|~QKeyEventEx
 DECL|function|~QMouseEvent
-DECL|function|~QMouseEventEx
 DECL|function|~QMoveEvent
 DECL|function|~QPaintEvent
 DECL|function|~QResizeEvent
