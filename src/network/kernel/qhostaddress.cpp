@@ -24,6 +24,7 @@ DECL|function|operator >>
 DECL|function|parse
 DECL|function|parseIp4
 DECL|function|parseIp6
+DECL|function|parseMappedAddress
 DECL|function|parseSubnet
 DECL|function|prefixLength
 DECL|function|protocol

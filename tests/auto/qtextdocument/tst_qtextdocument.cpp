@@ -57,6 +57,7 @@ DECL|function|frameBoundingRect
 DECL|function|getSetCheck
 DECL|function|hasResourceCached
 DECL|function|hitTest
+DECL|function|htmlExportImportBlockCount
 DECL|function|html_defaultFont
 DECL|function|init
 DECL|function|initialUserData

@@ -1,3 +1,2 @@
 DECL|macro|QNETWORKCONFIGURATION_H
-DECL|macro|QNetworkConfigurationExport
 DECL|macro|interface

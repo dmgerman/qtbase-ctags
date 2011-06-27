@@ -25,3 +25,4 @@ DECL|function|~QWaylandDisplay
 DECL|member|compositorListener
 DECL|member|outputListener
 DECL|member|shellListener
+DECL|variable|display

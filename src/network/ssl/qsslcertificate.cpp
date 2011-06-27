@@ -31,8 +31,10 @@ DECL|function|publicKey
 DECL|function|serialNumber
 DECL|function|subjectInfo
 DECL|function|subjectInfo
+DECL|function|text_from_X509
 DECL|function|toDer
 DECL|function|toPem
+DECL|function|toText
 DECL|function|version
 DECL|function|~QSslCertificate
 DECL|macro|BEGINCERTSTRING

@@ -12,6 +12,8 @@ DECL|function|clear
 DECL|function|clientServerLoop
 DECL|function|constructing
 DECL|function|crashTests
+DECL|function|dualStack
+DECL|function|dualStack_data
 DECL|function|getSetCheck
 DECL|function|incomingConnection
 DECL|function|init
@@ -47,3 +49,4 @@ DECL|member|networkSession
 DECL|member|ok
 DECL|member|port
 DECL|member|toReturn
+DECL|variable|QHostAddress

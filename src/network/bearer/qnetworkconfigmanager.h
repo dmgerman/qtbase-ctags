@@ -1,2 +1,1 @@
 DECL|macro|QNETWORKCONFIGURATIONMANAGER_H
-DECL|macro|QNetworkConfigurationManagerExport
