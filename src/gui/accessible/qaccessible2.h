@@ -1,7 +1,7 @@
-DECL|function|QT_MODULE
 DECL|function|qAccessibleActionCastHelper
 DECL|function|qAccessibleEditableTextCastHelper
 DECL|function|qAccessibleImageCastHelper
+DECL|function|qAccessibleTable2CastHelper
 DECL|function|qAccessibleTableCastHelper
 DECL|function|qAccessibleTextCastHelper
 DECL|function|qAccessibleValueCastHelper

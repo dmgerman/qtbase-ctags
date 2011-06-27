@@ -63,6 +63,9 @@ DECL|function|spinBoxTest
 DECL|function|state
 DECL|function|tabTest
 DECL|function|tabWidgetTest
+DECL|function|table2ListTest
+DECL|function|table2TableTest
+DECL|function|table2TreeTest
 DECL|function|tableViewTest
 DECL|function|tableWidgetTest
 DECL|function|text
