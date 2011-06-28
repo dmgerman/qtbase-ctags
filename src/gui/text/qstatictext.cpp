@@ -49,6 +49,7 @@ DECL|function|~QStaticText
 DECL|function|~QStaticTextItem
 DECL|function|~QStaticTextPrivate
 DECL|member|m_chars
+DECL|member|m_currentColor
 DECL|member|m_dirtyPen
 DECL|member|m_glyphs
 DECL|member|m_items

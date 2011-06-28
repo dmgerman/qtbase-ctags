@@ -22,6 +22,8 @@ DECL|function|setPenPlainText
 DECL|function|setPenRichText
 DECL|function|setTextWidth
 DECL|function|supportsTransformations
+DECL|function|textDocumentColor
 DECL|function|transformationChanged
 DECL|function|translatedPainter
+DECL|function|underlinedColor_qtbug20159
 DECL|function|unprintableCharacter_qtbug12614
