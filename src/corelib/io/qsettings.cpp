@@ -88,7 +88,6 @@ DECL|function|setFallbacksEnabled
 DECL|function|setIniCodec
 DECL|function|setIniCodec
 DECL|function|setPath
-DECL|function|setPath_helper
 DECL|function|setStatus
 DECL|function|setSystemIniPath
 DECL|function|setUserIniPath

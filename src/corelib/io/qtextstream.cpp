@@ -32,8 +32,6 @@ DECL|function|fieldAlignment
 DECL|function|fieldWidth
 DECL|function|fillReadBuffer
 DECL|function|fixed
-DECL|function|flagsInternal
-DECL|function|flagsInternal
 DECL|function|flush
 DECL|function|flush
 DECL|function|flushStream
@@ -115,7 +113,6 @@ DECL|function|setAutoDetectUnicode
 DECL|function|setCodec
 DECL|function|setCodec
 DECL|function|setDevice
-DECL|function|setEncoding
 DECL|function|setFieldAlignment
 DECL|function|setFieldWidth
 DECL|function|setGenerateByteOrderMark

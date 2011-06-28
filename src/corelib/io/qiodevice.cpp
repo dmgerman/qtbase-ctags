@@ -35,13 +35,11 @@ DECL|function|readLine
 DECL|function|readLine
 DECL|function|readLineData
 DECL|function|reset
-DECL|function|resetStatus
 DECL|function|seek
 DECL|function|setErrorString
 DECL|function|setOpenMode
 DECL|function|setTextModeEnabled
 DECL|function|size
-DECL|function|status
 DECL|function|ungetChar
 DECL|function|waitForBytesWritten
 DECL|function|waitForReadyRead
