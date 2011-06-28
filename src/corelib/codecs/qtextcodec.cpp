@@ -26,10 +26,8 @@ DECL|function|fromUnicode
 DECL|function|fromUnicode
 DECL|function|fromUnicode
 DECL|function|fromUnicode
-DECL|function|fromUnicode
 DECL|function|hasFailure
 DECL|function|hasFailure
-DECL|function|locale
 DECL|function|makeDecoder
 DECL|function|makeDecoder
 DECL|function|makeEncoder
@@ -43,7 +41,6 @@ DECL|function|ru_RU_hack
 DECL|function|setCodecForLocale
 DECL|function|setup
 DECL|function|setupLocaleMapper
-DECL|function|toUnicode
 DECL|function|toUnicode
 DECL|function|toUnicode
 DECL|function|toUnicode
