@@ -12,9 +12,6 @@ DECL|function|removeDuplicates
 DECL|function|replaceInStrings
 DECL|function|replaceInStrings
 DECL|function|sort
-DECL|function|split
-DECL|function|split
-DECL|function|split
 DECL|macro|QSTRINGLIST_H
 DECL|typedef|QMutableStringListIterator
 DECL|typedef|QStringListIterator

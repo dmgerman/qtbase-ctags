@@ -6,7 +6,6 @@ DECL|function|QRectF
 DECL|function|QRectF
 DECL|function|QRectF
 DECL|function|QT_MODULE
-DECL|function|addCoords
 DECL|function|adjust
 DECL|function|adjust
 DECL|function|adjusted

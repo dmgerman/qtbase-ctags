@@ -13,7 +13,6 @@ DECL|function|find
 DECL|function|findNode
 DECL|function|freeData
 DECL|function|insert
-DECL|function|insert
 DECL|function|insertMulti
 DECL|function|key
 DECL|function|key
@@ -52,8 +51,6 @@ DECL|member|value
 DECL|member|value
 DECL|struct|QMapNode
 DECL|struct|QMapPayloadNode
-DECL|variable|Key
-DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
