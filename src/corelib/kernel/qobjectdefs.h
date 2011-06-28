@@ -16,11 +16,9 @@ DECL|function|invokeMethod
 DECL|function|qYouForgotTheQ_OBJECT_Macro
 DECL|function|qYouForgotTheQ_OBJECT_Macro
 DECL|function|superClass
-DECL|function|superClassName
 DECL|macro|METHOD
 DECL|macro|METHOD
 DECL|macro|METHOD
-DECL|macro|METHOD_CODE
 DECL|macro|QLOCATION
 DECL|macro|QMETHOD_CODE
 DECL|macro|QOBJECTDEFS_H
@@ -67,8 +65,6 @@ DECL|macro|Q_REVISION
 DECL|macro|Q_REVISION
 DECL|macro|Q_SCRIPTABLE
 DECL|macro|Q_SCRIPTABLE
-DECL|macro|Q_SETS
-DECL|macro|Q_SETS
 DECL|macro|Q_SIGNAL
 DECL|macro|Q_SIGNAL
 DECL|macro|Q_SIGNALS
@@ -80,11 +76,9 @@ DECL|macro|Q_SLOTS
 DECL|macro|SIGNAL
 DECL|macro|SIGNAL
 DECL|macro|SIGNAL
-DECL|macro|SIGNAL_CODE
 DECL|macro|SLOT
 DECL|macro|SLOT
 DECL|macro|SLOT
-DECL|macro|SLOT_CODE
 DECL|macro|emit
 DECL|macro|signals
 DECL|macro|signals

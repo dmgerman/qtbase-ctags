@@ -1,6 +1,5 @@
 DECL|class|QSignalMapperPrivate
 DECL|function|QSignalMapper
-DECL|function|QSignalMapper
 DECL|function|_q_senderDestroyed
 DECL|function|map
 DECL|function|map

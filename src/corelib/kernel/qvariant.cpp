@@ -37,7 +37,6 @@ DECL|function|QVariant
 DECL|function|QVariant
 DECL|function|QVariant
 DECL|function|canConvert
-DECL|function|castOrDetach
 DECL|function|clear
 DECL|function|clear
 DECL|function|cmp
