@@ -2,7 +2,6 @@ DECL|class|QObjectConnectionListVector
 DECL|function|QMetaCallEvent
 DECL|function|QObject
 DECL|function|QObject
-DECL|function|QObject
 DECL|function|QObjectConnectionListVector
 DECL|function|QObjectPrivate
 DECL|function|_q_reregisterTimers
@@ -18,7 +17,6 @@ DECL|function|check_and_warn_compat
 DECL|function|check_method_code
 DECL|function|check_parent_thread
 DECL|function|check_signal_macro
-DECL|function|child
 DECL|function|childEvent
 DECL|function|cleanConnectionLists
 DECL|function|clearGuards
@@ -56,13 +54,11 @@ DECL|function|memberIndexes
 DECL|function|methodIndexToSignalIndex
 DECL|function|moveToThread
 DECL|function|moveToThread_helper
-DECL|function|objSearch
 DECL|function|objectName
 DECL|function|operator <<
 DECL|function|operator []
 DECL|function|placeMetaCall
 DECL|function|property
-DECL|function|qChildHelper
 DECL|function|qDeleteInEventHandler
 DECL|function|qFlagLocation
 DECL|function|qt_addObject
@@ -70,7 +66,6 @@ DECL|function|qt_find_obj_child
 DECL|function|qt_qFindChild_helper
 DECL|function|qt_qFindChildren_helper
 DECL|function|qt_removeObject
-DECL|function|queryList
 DECL|function|queuedConnectionTypes
 DECL|function|queued_activate
 DECL|function|receiverList
@@ -79,7 +74,6 @@ DECL|function|registerUserData
 DECL|function|removeEventFilter
 DECL|function|removeGuard
 DECL|function|resetDeleteWatch
-DECL|function|sendPendingChildInsertedEvents
 DECL|function|sender
 DECL|function|senderList
 DECL|function|senderSignalIndex
