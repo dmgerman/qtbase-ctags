@@ -1,2 +1,3 @@
 DECL|macro|QWAYLANDINPUTDEVICE_H
+DECL|variable|QWaylandDisplay
 DECL|variable|QWaylandWindow
