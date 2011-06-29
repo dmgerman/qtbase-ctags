@@ -16,6 +16,10 @@ DECL|function|alphaMapForGlyph
 DECL|function|alphaMapForGlyph
 DECL|function|alphaMapForGlyph
 DECL|function|alphaMapForGlyph
+DECL|function|alphaMapForGlyph
+DECL|function|alphaMapForGlyph
+DECL|function|alphaMapForGlyph
+DECL|function|alphaRGBMapForGlyph
 DECL|function|alphaRGBMapForGlyph
 DECL|function|ascent
 DECL|function|ascent
