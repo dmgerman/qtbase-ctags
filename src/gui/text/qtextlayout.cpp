@@ -1,4 +1,3 @@
-DECL|function|GlyphInfo
 DECL|function|LineBreakHelper
 DECL|function|QTextLayout
 DECL|function|QTextLayout
@@ -35,6 +34,7 @@ DECL|function|endLayout
 DECL|function|font
 DECL|function|format
 DECL|function|formatIndex
+DECL|function|glyphRunWithInfo
 DECL|function|glyphRuns
 DECL|function|glyphRuns
 DECL|function|height
@@ -98,12 +98,9 @@ DECL|macro|ObjectSelectionBrush
 DECL|macro|SuppressBackground
 DECL|macro|SuppressText
 DECL|member|currentPosition
-DECL|member|flags
 DECL|member|fontEngine
 DECL|member|glyphCount
-DECL|member|glyphLayout
 DECL|member|glyphs
-DECL|member|itemPosition
 DECL|member|logClusters
 DECL|member|manualWrap
 DECL|member|maxGlyphs
@@ -115,5 +112,4 @@ DECL|member|softHyphenWidth
 DECL|member|spaceData
 DECL|member|tmpData
 DECL|member|whiteSpaceOrObject
-DECL|struct|GlyphInfo
 DECL|struct|LineBreakHelper
