@@ -49,6 +49,7 @@ DECL|function|setProgressValue
 DECL|function|setProgressValueAndText
 DECL|function|setRunnable
 DECL|function|setState
+DECL|function|setThreadPool
 DECL|function|setThrottled
 DECL|function|togglePaused
 DECL|function|waitForFinished

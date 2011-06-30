@@ -20,6 +20,7 @@ DECL|function|indexedResults
 DECL|function|iterators
 DECL|function|multipleResults
 DECL|function|nestedExceptions
+DECL|function|nonGlobalThreadPool
 DECL|function|pause
 DECL|function|progress
 DECL|function|progress

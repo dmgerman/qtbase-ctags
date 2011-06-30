@@ -9,3 +9,4 @@ DECL|variable|QFuture
 DECL|variable|QFutureInterfaceBasePrivate
 DECL|variable|QFutureWatcherBase
 DECL|variable|QFutureWatcherBasePrivate
+DECL|variable|QThreadPool
