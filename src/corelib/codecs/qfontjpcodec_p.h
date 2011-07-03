@@ -1,2 +1,2 @@
-DECL|macro|QFONTJPCODEC_H
+DECL|macro|QFONTJPCODEC_P_H
 DECL|variable|QJpUnicodeConv

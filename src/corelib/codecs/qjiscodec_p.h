@@ -1,1 +1,1 @@
-DECL|macro|QJISCODEC_H
+DECL|macro|QJISCODEC_P_H
