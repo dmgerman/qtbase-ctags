@@ -78,6 +78,7 @@ DECL|struct|QConstStringData
 DECL|struct|QConstStringData
 DECL|struct|QConstStringData
 DECL|struct|QStringData
+DECL|typedef|QLatin1Literal
 DECL|typedef|QStdWString
 DECL|variable|QLatin1String
 DECL|variable|QRegExp
