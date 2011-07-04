@@ -19,7 +19,6 @@ DECL|enum|AbortState
 DECL|enum|ConnectState
 DECL|enum|State
 DECL|function|QFtp
-DECL|function|QFtp
 DECL|function|QFtpCommand
 DECL|function|QFtpCommand
 DECL|function|QFtpDTP
