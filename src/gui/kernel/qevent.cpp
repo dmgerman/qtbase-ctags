@@ -37,6 +37,8 @@ DECL|function|QPaintEvent
 DECL|function|QPaintEvent
 DECL|function|QPaintEvent
 DECL|function|QResizeEvent
+DECL|function|QScreenOrientationChangeEvent
+DECL|function|QScreenOrientationChangeEvent
 DECL|function|QScrollEvent
 DECL|function|QScrollPrepareEvent
 DECL|function|QShortcutEvent
@@ -70,6 +72,8 @@ DECL|function|d_func
 DECL|function|d_func
 DECL|function|d_func
 DECL|function|d_func
+DECL|function|d_func
+DECL|function|d_func
 DECL|function|encodedData
 DECL|function|format
 DECL|function|gesture
@@ -95,6 +99,8 @@ DECL|function|normalizedPos
 DECL|function|openFile
 DECL|function|operator <<
 DECL|function|operator =
+DECL|function|orientation
+DECL|function|orientationInDegrees
 DECL|function|overshootDistance
 DECL|function|pos
 DECL|function|pressure
@@ -168,6 +174,7 @@ DECL|function|~QMouseEvent
 DECL|function|~QMoveEvent
 DECL|function|~QPaintEvent
 DECL|function|~QResizeEvent
+DECL|function|~QScreenOrientationChangeEvent
 DECL|function|~QScrollEvent
 DECL|function|~QScrollPrepareEvent
 DECL|function|~QShortcutEvent

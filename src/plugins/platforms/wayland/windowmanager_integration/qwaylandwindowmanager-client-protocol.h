@@ -9,4 +9,5 @@ DECL|macro|WAYLAND_WINDOWMANAGER_CLIENT_PROTOCOL_H
 DECL|macro|WL_WINDOWMANAGER_AUTHENTICATE_WITH_TOKEN
 DECL|macro|WL_WINDOWMANAGER_MAP_CLIENT_TO_PROCESS
 DECL|member|client_onscreen_visibility
+DECL|member|set_screen_rotation
 DECL|struct|wl_windowmanager_listener
