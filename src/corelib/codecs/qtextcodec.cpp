@@ -25,7 +25,6 @@ DECL|function|createForName
 DECL|function|fromUnicode
 DECL|function|fromUnicode
 DECL|function|fromUnicode
-DECL|function|fromUnicode
 DECL|function|hasFailure
 DECL|function|hasFailure
 DECL|function|makeDecoder
