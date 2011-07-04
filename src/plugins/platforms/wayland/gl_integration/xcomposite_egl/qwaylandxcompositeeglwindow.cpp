@@ -1,4 +1,5 @@
 DECL|function|QWaylandXCompositeEGLWindow
 DECL|function|glContext
+DECL|function|requestActivateWindow
 DECL|function|setGeometry
 DECL|function|windowType
