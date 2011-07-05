@@ -14,8 +14,6 @@ DECL|function|detach
 DECL|function|field
 DECL|function|field
 DECL|function|fieldName
-DECL|function|fieldPtr
-DECL|function|fieldPtr
 DECL|function|indexOf
 DECL|function|insert
 DECL|function|isEmpty
@@ -34,8 +32,6 @@ DECL|function|setNull
 DECL|function|setNull
 DECL|function|setValue
 DECL|function|setValue
-DECL|function|toString
-DECL|function|toStringList
 DECL|function|value
 DECL|function|value
 DECL|function|~QSqlRecord
