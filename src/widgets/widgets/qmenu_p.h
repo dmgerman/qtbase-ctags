@@ -11,11 +11,10 @@ DECL|member|action
 DECL|member|action
 DECL|member|command
 DECL|member|command
-DECL|member|command
-DECL|member|command
 DECL|member|ignore_accel
 DECL|member|menu
 DECL|member|menuHandle
+DECL|member|menuItem
 DECL|member|menuItem
 DECL|member|menuPane
 DECL|member|merged

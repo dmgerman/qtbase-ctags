@@ -75,7 +75,6 @@ DECL|function|qmljsDebugArgumentsString
 DECL|function|qt_CoCreateGuid
 DECL|function|qt_app_fonts_hash
 DECL|function|qt_app_palettes_hash
-DECL|function|qt_mac_applicationmenu_string
 DECL|function|qt_matchLibraryName
 DECL|function|qt_sendSpontaneousEvent
 DECL|function|qt_translateRawTouchEvent
@@ -188,7 +187,6 @@ DECL|member|widgetCount
 DECL|variable|aargc
 DECL|variable|aargv
 DECL|variable|app_do_modal
-DECL|variable|application_menu_strings
 DECL|variable|drag_distance
 DECL|variable|drag_distance
 DECL|variable|drag_time
