@@ -95,6 +95,7 @@ DECL|function|getFromHttp
 DECL|function|getFromHttpIntoBuffer
 DECL|function|getFromHttpIntoBuffer2
 DECL|function|getFromHttpIntoBuffer2_data
+DECL|function|getFromHttpIntoBufferCanReadLine
 DECL|function|getFromHttpIntoBuffer_data
 DECL|function|getFromHttp_data
 DECL|function|getFromUnreachableIp
