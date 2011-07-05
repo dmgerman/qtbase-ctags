@@ -5,4 +5,7 @@ DECL|function|deleteText
 DECL|function|insertText
 DECL|function|pasteText
 DECL|function|replaceText
+DECL|function|textAfterOffsetFromString
+DECL|function|textAtOffsetFromString
+DECL|function|textBeforeOffsetFromString
 DECL|function|textForRange
