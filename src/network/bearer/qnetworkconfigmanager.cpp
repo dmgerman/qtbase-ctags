@@ -1,10 +1,13 @@
 DECL|function|QNetworkConfigurationManager
+DECL|function|addPostRoutine
 DECL|function|allConfigurations
 DECL|function|capabilities
 DECL|function|configurationFromIdentifier
+DECL|function|connManager
+DECL|function|connManager_cleanup
 DECL|function|defaultConfiguration
 DECL|function|isOnline
 DECL|function|qNetworkConfigurationManagerPrivate
 DECL|function|updateConfigurations
 DECL|function|~QNetworkConfigurationManager
-DECL|macro|Q_GLOBAL_STATIC_QAPP_DESTRUCTION
+DECL|variable|connManager_ptr
