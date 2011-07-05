@@ -6,6 +6,7 @@ DECL|class|SubClass
 DECL|class|tst_QScopedPointer
 DECL|function|RefCounted
 DECL|function|RefCounted
+DECL|function|array
 DECL|function|comparison
 DECL|function|dataOnDefaultConstructed
 DECL|function|dataOnValue
