@@ -10,10 +10,12 @@ DECL|function|rgba
 DECL|function|sampleBuffers
 DECL|function|stencil
 DECL|function|stereo
+DECL|macro|GL_DOUBLE
 DECL|macro|QGL_H
 DECL|macro|QGL_VERSION
 DECL|macro|QGL_VERSION_STR
 DECL|macro|Q_MAC_COMPAT_GL_FUNCTIONS
+DECL|typedef|GLdouble
 DECL|typedef|QMacCompatGLenum
 DECL|typedef|QMacCompatGLint
 DECL|typedef|QMacCompatGLuint
