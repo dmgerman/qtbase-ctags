@@ -39,6 +39,8 @@ DECL|function|createState
 DECL|function|drawBitmap
 DECL|function|drawCachedGlyphs
 DECL|function|drawEllipse
+DECL|function|drawEllipsePoints
+DECL|function|drawEllipse_midpoint_i
 DECL|function|drawGlyphsS60
 DECL|function|drawImage
 DECL|function|drawImage
@@ -74,6 +76,7 @@ DECL|function|getBrushFunc
 DECL|function|getBuffer
 DECL|function|getCGContext
 DECL|function|getDC
+DECL|function|getPenFunc
 DECL|function|init
 DECL|function|init
 DECL|function|init
@@ -168,6 +171,7 @@ DECL|struct|CacheInfo
 DECL|struct|ClipData
 DECL|struct|QRasterFloatPoint
 DECL|typedef|QGradientColorTableHash
+DECL|variable|aliasedCoordinateDelta
 DECL|variable|rectClips
 DECL|variable|regionClips
 DECL|variable|totalClips

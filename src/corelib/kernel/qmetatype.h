@@ -22,7 +22,6 @@ DECL|variable|QBrush
 DECL|variable|QByteArray
 DECL|variable|QChar
 DECL|variable|QColor
-DECL|variable|QColorGroup
 DECL|variable|QCursor
 DECL|variable|QDate
 DECL|variable|QDateTime

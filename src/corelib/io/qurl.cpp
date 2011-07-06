@@ -55,7 +55,6 @@ DECL|function|clear
 DECL|function|clear
 DECL|function|createErrorString
 DECL|function|detach
-DECL|function|dirPath
 DECL|function|encodeDigit
 DECL|function|encodedFragment
 DECL|function|encodedHost
@@ -68,7 +67,6 @@ DECL|function|encodedUserName
 DECL|function|ensureEncodedParts
 DECL|function|equal
 DECL|function|errorString
-DECL|function|fileName
 DECL|function|fragment
 DECL|function|fromAce
 DECL|function|fromEncoded
@@ -144,7 +142,6 @@ DECL|function|setEncodedUrl
 DECL|function|setEncodedUrl
 DECL|function|setEncodedUserInfo
 DECL|function|setEncodedUserName
-DECL|function|setFileName
 DECL|function|setFragment
 DECL|function|setHost
 DECL|function|setIdnWhitelist

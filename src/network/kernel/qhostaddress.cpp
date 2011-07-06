@@ -46,7 +46,6 @@ DECL|function|toIPv4Address
 DECL|function|toIPv6Address
 DECL|function|toString
 DECL|function|~QHostAddress
-DECL|macro|AF_INET6
 DECL|macro|QT_ENSURE_PARSED
 DECL|macro|u_char
 DECL|macro|u_long

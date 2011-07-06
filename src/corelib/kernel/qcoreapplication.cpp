@@ -23,11 +23,9 @@ DECL|function|cleanupThreadData
 DECL|function|closingDown
 DECL|function|compressEvent
 DECL|function|createEventDispatcher
-DECL|function|enter_loop
 DECL|function|event
 DECL|function|exec
 DECL|function|exit
-DECL|function|exit_loop
 DECL|function|filterEvent
 DECL|function|flush
 DECL|function|hasPendingEvents
@@ -35,7 +33,6 @@ DECL|function|init
 DECL|function|installTranslator
 DECL|function|isTranslatorInstalled
 DECL|function|libraryPaths
-DECL|function|loopLevel
 DECL|function|macMenuBarName
 DECL|function|mainThread
 DECL|function|notify
@@ -101,7 +98,6 @@ DECL|member|orgDomain
 DECL|member|orgName
 DECL|member|self
 DECL|member|theMainThread
-DECL|member|useQt3Support
 DECL|struct|QCoreApplicationData
 DECL|typedef|QVFuncList
 DECL|typedef|SystemDriveFunc

@@ -5,3 +5,4 @@ DECL|function|convertPath
 DECL|function|convertPath
 DECL|function|endOutline
 DECL|macro|qreal_to_fixed_26_6
+DECL|variable|aliasedCoordinateDelta

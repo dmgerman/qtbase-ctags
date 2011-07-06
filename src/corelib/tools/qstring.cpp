@@ -15,9 +15,7 @@ DECL|function|arg
 DECL|function|arg
 DECL|function|arg
 DECL|function|arg
-DECL|function|ascii_helper
 DECL|function|chop
-DECL|function|compare
 DECL|function|compare
 DECL|function|compare
 DECL|function|compare_helper
@@ -80,7 +78,6 @@ DECL|function|lastIndexOf
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
 DECL|function|lastIndexOfHelper
-DECL|function|latin1_helper
 DECL|function|left
 DECL|function|leftJustified
 DECL|function|leftRef
@@ -232,4 +229,3 @@ DECL|member|shared_null
 DECL|member|string
 DECL|struct|ArgEscapeData
 DECL|struct|QStringCapture
-DECL|variable|asciiCache

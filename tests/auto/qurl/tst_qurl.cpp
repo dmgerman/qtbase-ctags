@@ -77,6 +77,8 @@ DECL|function|punycode
 DECL|function|punycode_data
 DECL|function|queryItems
 DECL|function|relative
+DECL|function|removeAllEncodedQueryItems
+DECL|function|removeAllEncodedQueryItems_data
 DECL|function|resolvedWithAbsoluteSchemes
 DECL|function|resolvedWithAbsoluteSchemes_data
 DECL|function|resolving

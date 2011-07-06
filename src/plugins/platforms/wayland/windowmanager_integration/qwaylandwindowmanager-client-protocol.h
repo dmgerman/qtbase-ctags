@@ -1,3 +1,4 @@
+DECL|function|wl_windowmanager_add_listener
 DECL|function|wl_windowmanager_authenticate_with_token
 DECL|function|wl_windowmanager_create
 DECL|function|wl_windowmanager_destroy
@@ -5,5 +6,8 @@ DECL|function|wl_windowmanager_get_user_data
 DECL|function|wl_windowmanager_map_client_to_process
 DECL|function|wl_windowmanager_set_user_data
 DECL|macro|WAYLAND_WINDOWMANAGER_CLIENT_PROTOCOL_H
-DECL|macro|wl_WINDOWMANAGER_AUTHENTICATE_WITH_TOKEN
-DECL|macro|wl_WINDOWMANAGER_MAP_CLIENT_TO_PROCESS
+DECL|macro|WL_WINDOWMANAGER_AUTHENTICATE_WITH_TOKEN
+DECL|macro|WL_WINDOWMANAGER_MAP_CLIENT_TO_PROCESS
+DECL|member|client_onscreen_visibility
+DECL|member|set_screen_rotation
+DECL|struct|wl_windowmanager_listener

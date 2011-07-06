@@ -14,7 +14,6 @@ DECL|enumerator|Tag_SourceText16
 DECL|enumerator|Tag_Translation
 DECL|enum|Tag
 DECL|function|QTranslator
-DECL|function|QTranslator
 DECL|function|QTranslatorPrivate
 DECL|function|clear
 DECL|function|do_load

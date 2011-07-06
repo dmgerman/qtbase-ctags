@@ -1,3 +1,4 @@
+DECL|enumerator|HB_Break
 DECL|enumerator|HB_Err_Invalid_Argument
 DECL|enumerator|HB_Err_Invalid_SubTable
 DECL|enumerator|HB_Err_Invalid_SubTable_Format
@@ -5,6 +6,9 @@ DECL|enumerator|HB_Err_Not_Covered
 DECL|enumerator|HB_Err_Ok
 DECL|enumerator|HB_Err_Out_Of_Memory
 DECL|enumerator|HB_Err_Read_Error
+DECL|enumerator|HB_ForcedBreak
+DECL|enumerator|HB_NoBreak
+DECL|enumerator|HB_SoftHyphen
 DECL|macro|QHARFBUZZ_COPY_P_H
 DECL|member|charStop
 DECL|member|clusterStart
@@ -29,6 +33,7 @@ DECL|typedef|HB_Font
 DECL|typedef|HB_FontRec
 DECL|typedef|HB_Glyph
 DECL|typedef|HB_GlyphAttributes
+DECL|typedef|HB_LineBreakType
 DECL|typedef|hb_bitfield
 DECL|typedef|hb_bitfield
 DECL|typedef|hb_uint32

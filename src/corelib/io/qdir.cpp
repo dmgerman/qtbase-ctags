@@ -41,10 +41,8 @@ DECL|function|isRoot
 DECL|function|makeAbsolute
 DECL|function|match
 DECL|function|match
-DECL|function|matchAllDirs
 DECL|function|mkdir
 DECL|function|mkpath
-DECL|function|nameFilter
 DECL|function|nameFilters
 DECL|function|nameFiltersFromString
 DECL|function|operator ()
@@ -68,8 +66,6 @@ DECL|function|searchPaths
 DECL|function|separator
 DECL|function|setCurrent
 DECL|function|setFilter
-DECL|function|setMatchAllDirs
-DECL|function|setNameFilter
 DECL|function|setNameFilters
 DECL|function|setPath
 DECL|function|setPath

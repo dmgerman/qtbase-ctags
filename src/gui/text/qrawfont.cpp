@@ -19,6 +19,7 @@ DECL|function|glyphIndexesForString
 DECL|function|hintingPreference
 DECL|function|isValid
 DECL|function|leading
+DECL|function|lineThickness
 DECL|function|loadFromData
 DECL|function|loadFromFile
 DECL|function|maxCharWidth
@@ -32,6 +33,7 @@ DECL|function|styleName
 DECL|function|supportedWritingSystems
 DECL|function|supportsCharacter
 DECL|function|supportsCharacter
+DECL|function|underlinePosition
 DECL|function|unitsPerEm
 DECL|function|weight
 DECL|function|xHeight

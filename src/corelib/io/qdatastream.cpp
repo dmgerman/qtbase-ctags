@@ -3,7 +3,6 @@ DECL|function|QDataStream
 DECL|function|QDataStream
 DECL|function|QDataStream
 DECL|function|QDataStream
-DECL|function|QDataStream
 DECL|function|atEnd
 DECL|function|floatingPointPrecision
 DECL|function|operator <<

@@ -1,6 +1,5 @@
 DECL|function|QByteArray
 DECL|function|QByteArray
-DECL|function|QByteArray
 DECL|function|at
 DECL|function|at
 DECL|function|begin
@@ -9,10 +8,6 @@ DECL|function|capacity
 DECL|function|constBegin
 DECL|function|constData
 DECL|function|constEnd
-DECL|function|cstrcmp
-DECL|function|cstrcpy
-DECL|function|cstrlen
-DECL|function|cstrncmp
 DECL|function|data
 DECL|function|data
 DECL|function|detach
@@ -28,7 +23,6 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|qCompress
 DECL|function|qUncompress
-DECL|function|qmemmove
 DECL|function|qstrcmp
 DECL|function|qstrncmp
 DECL|function|qstrnlen

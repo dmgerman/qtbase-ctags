@@ -17,7 +17,6 @@ DECL|function|completeSuffix
 DECL|function|created
 DECL|function|detach
 DECL|function|dir
-DECL|function|dir
 DECL|function|exists
 DECL|function|fileName
 DECL|function|filePath

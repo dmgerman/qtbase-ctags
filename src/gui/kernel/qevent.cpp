@@ -27,11 +27,12 @@ DECL|function|QKeyEventEx
 DECL|function|QKeyEventEx
 DECL|function|QMouseEvent
 DECL|function|QMouseEvent
-DECL|function|QMouseEventEx
 DECL|function|QMoveEvent
 DECL|function|QPaintEvent
 DECL|function|QPaintEvent
 DECL|function|QResizeEvent
+DECL|function|QScreenOrientationChangeEvent
+DECL|function|QScreenOrientationChangeEvent
 DECL|function|QScrollEvent
 DECL|function|QScrollPrepareEvent
 DECL|function|QShortcutEvent
@@ -52,7 +53,8 @@ DECL|function|contentPos
 DECL|function|contentPos
 DECL|function|contentPosRange
 DECL|function|createExtendedKeyEvent
-DECL|function|createExtendedMouseEvent
+DECL|function|d_func
+DECL|function|d_func
 DECL|function|d_func
 DECL|function|d_func
 DECL|function|d_func
@@ -75,9 +77,10 @@ DECL|function|normalizedPos
 DECL|function|openFile
 DECL|function|operator <<
 DECL|function|operator =
+DECL|function|orientation
+DECL|function|orientationInDegrees
 DECL|function|overshootDistance
 DECL|function|pos
-DECL|function|posF
 DECL|function|pressure
 DECL|function|provides
 DECL|function|reason
@@ -141,10 +144,10 @@ DECL|function|~QInputMethodQueryEvent
 DECL|function|~QKeyEvent
 DECL|function|~QKeyEventEx
 DECL|function|~QMouseEvent
-DECL|function|~QMouseEventEx
 DECL|function|~QMoveEvent
 DECL|function|~QPaintEvent
 DECL|function|~QResizeEvent
+DECL|function|~QScreenOrientationChangeEvent
 DECL|function|~QScrollEvent
 DECL|function|~QScrollPrepareEvent
 DECL|function|~QShortcutEvent
