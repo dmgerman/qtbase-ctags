@@ -66,7 +66,7 @@ DECL|function|insert
 DECL|function|insert
 DECL|function|insert
 DECL|function|isRightToLeft
-DECL|function|isStringRightToLeft
+DECL|function|isSimpleText
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
@@ -202,7 +202,6 @@ DECL|function|ucstricmp
 DECL|function|ucstricmp
 DECL|function|ucstrncmp
 DECL|function|ucstrnicmp
-DECL|function|updateProperties
 DECL|function|utf16
 DECL|function|vsprintf
 DECL|macro|CSTR_EQUAL
