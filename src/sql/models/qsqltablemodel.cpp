@@ -38,7 +38,6 @@ DECL|function|setFilter
 DECL|function|setPrimaryKey
 DECL|function|setQuery
 DECL|function|setRecord
-DECL|function|setRecord
 DECL|function|setSort
 DECL|function|setTable
 DECL|function|sort
