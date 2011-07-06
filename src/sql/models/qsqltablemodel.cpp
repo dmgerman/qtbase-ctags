@@ -3,8 +3,6 @@ DECL|function|QSqlTableModel
 DECL|function|clear
 DECL|function|clear
 DECL|function|clearCache
-DECL|function|clearEditBuffer
-DECL|function|clearGenerated
 DECL|function|data
 DECL|function|database
 DECL|function|deleteRowFromTable
@@ -30,7 +28,6 @@ DECL|function|removeRows
 DECL|function|revert
 DECL|function|revertAll
 DECL|function|revertCachedRow
-DECL|function|revertInsertedRow
 DECL|function|revertRow
 DECL|function|rowCount
 DECL|function|select
@@ -38,7 +35,6 @@ DECL|function|selectStatement
 DECL|function|setData
 DECL|function|setEditStrategy
 DECL|function|setFilter
-DECL|function|setGeneratedValue
 DECL|function|setPrimaryKey
 DECL|function|setQuery
 DECL|function|setRecord
