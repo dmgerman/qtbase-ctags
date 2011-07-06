@@ -15,7 +15,6 @@ DECL|function|close
 DECL|function|closeAndResendCurrentRequest
 DECL|function|detectPipeliningSupport
 DECL|function|ensureConnection
-DECL|function|expand
 DECL|function|handleStatus
 DECL|function|handleUnexpectedEOF
 DECL|function|init
