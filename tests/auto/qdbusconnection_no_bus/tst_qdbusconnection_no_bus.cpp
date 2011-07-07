@@ -1,0 +1,3 @@
+DECL|class|tst_QDBusConnectionNoBus
+DECL|function|connectToBus
+DECL|function|tst_QDBusConnectionNoBus
