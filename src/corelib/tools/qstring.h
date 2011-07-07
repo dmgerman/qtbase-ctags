@@ -69,6 +69,7 @@ DECL|member|offset
 DECL|member|operator
 DECL|member|operator
 DECL|member|operator
+DECL|member|ptr
 DECL|member|ref
 DECL|member|size
 DECL|member|str
@@ -77,6 +78,7 @@ DECL|member|str
 DECL|struct|QConstStringData
 DECL|struct|QConstStringData
 DECL|struct|QConstStringData
+DECL|struct|QConstStringDataPtr
 DECL|struct|QStringData
 DECL|typedef|QLatin1Literal
 DECL|typedef|QStdWString
