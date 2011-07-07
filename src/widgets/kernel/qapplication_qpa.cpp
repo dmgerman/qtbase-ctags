@@ -21,6 +21,7 @@ DECL|function|qt_cleanup
 DECL|function|qt_init
 DECL|function|qt_tlw_for_window
 DECL|function|qt_try_modal
+DECL|function|qt_win_display_dc
 DECL|function|setCursorFlashTime
 DECL|function|setDoubleClickInterval
 DECL|function|setEffectEnabled
@@ -33,5 +34,6 @@ DECL|function|ungrabMouseForPopup
 DECL|function|wheelScrollLines
 DECL|variable|appFont
 DECL|variable|appName
+DECL|variable|displayDC
 DECL|variable|openPopupCount
 DECL|variable|popupGrabOk
