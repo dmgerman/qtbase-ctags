@@ -112,6 +112,7 @@ DECL|function|httpReUsingConnectionFromFinishedSlot_data
 DECL|function|httpReUsingConnectionSequential
 DECL|function|httpReUsingConnectionSequential_data
 DECL|function|httpRecursiveCreation
+DECL|function|httpUserAgent
 DECL|function|httpWithNoCredentialUsage
 DECL|function|ignoreSslErrorListSlot
 DECL|function|ignoreSslErrorsList
