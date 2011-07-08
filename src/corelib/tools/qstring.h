@@ -58,7 +58,6 @@ DECL|macro|QSTRING_H
 DECL|macro|QStringLiteral
 DECL|macro|QStringLiteral
 DECL|macro|QStringLiteral
-DECL|macro|qs
 DECL|member|alloc
 DECL|member|capacityReserved
 DECL|member|d
