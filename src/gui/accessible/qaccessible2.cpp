@@ -4,8 +4,8 @@ DECL|function|cutText
 DECL|function|deleteText
 DECL|function|insertText
 DECL|function|pasteText
+DECL|function|qTextAfterOffsetFromString
+DECL|function|qTextAtOffsetFromString
+DECL|function|qTextBeforeOffsetFromString
 DECL|function|replaceText
-DECL|function|textAfterOffsetFromString
-DECL|function|textAtOffsetFromString
-DECL|function|textBeforeOffsetFromString
 DECL|function|textForRange
