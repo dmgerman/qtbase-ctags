@@ -58,6 +58,8 @@ DECL|macro|QSTRING_H
 DECL|macro|QStringLiteral
 DECL|macro|QStringLiteral
 DECL|macro|QStringLiteral
+DECL|macro|QT_QSTRING_UNICODE_MARKER
+DECL|macro|QT_QSTRING_UNICODE_MARKER
 DECL|member|alloc
 DECL|member|capacityReserved
 DECL|member|d
