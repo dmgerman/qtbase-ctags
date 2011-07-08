@@ -51,6 +51,7 @@ DECL|function|hasCaseChange
 DECL|function|heuristicSetGlyphAttributes
 DECL|function|indexAdditionalFormats
 DECL|function|init
+DECL|function|initWithScriptItem
 DECL|function|insertionPointsForLine
 DECL|function|invalidate
 DECL|function|isRightToLeft
