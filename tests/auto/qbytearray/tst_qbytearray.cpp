@@ -26,6 +26,7 @@ DECL|function|insert
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf_data
 DECL|function|leftJustified
+DECL|function|literals
 DECL|function|number
 DECL|function|prepend
 DECL|function|qAllocMore
