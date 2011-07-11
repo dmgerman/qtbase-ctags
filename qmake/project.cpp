@@ -20,6 +20,7 @@ DECL|enumerator|E_RESOLVE_DEPENDS
 DECL|enumerator|E_RE_ESCAPE
 DECL|enumerator|E_SECTION
 DECL|enumerator|E_SIZE
+DECL|enumerator|E_SORT_DEPENDS
 DECL|enumerator|E_SPLIT
 DECL|enumerator|E_SPRINTF
 DECL|enumerator|E_SYSTEM
