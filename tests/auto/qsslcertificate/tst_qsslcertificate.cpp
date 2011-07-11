@@ -31,6 +31,7 @@ DECL|function|nulInSan
 DECL|function|publicKey
 DECL|function|publicKey_data
 DECL|function|readFile
+DECL|function|subjectAndIssuerTags
 DECL|function|task256066toPem
 DECL|function|toPemOrDer
 DECL|function|toPemOrDer_data

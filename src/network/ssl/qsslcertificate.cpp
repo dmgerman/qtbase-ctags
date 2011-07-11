@@ -22,6 +22,7 @@ DECL|function|isNull
 DECL|function|isValid
 DECL|function|issuerInfo
 DECL|function|issuerInfo
+DECL|function|issuerInfoTags
 DECL|function|matchLineFeed
 DECL|function|operator <<
 DECL|function|operator <<
@@ -31,6 +32,7 @@ DECL|function|publicKey
 DECL|function|serialNumber
 DECL|function|subjectInfo
 DECL|function|subjectInfo
+DECL|function|subjectInfoTags
 DECL|function|text_from_X509
 DECL|function|toDer
 DECL|function|toPem
