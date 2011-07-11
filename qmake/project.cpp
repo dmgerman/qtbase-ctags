@@ -61,7 +61,6 @@ DECL|function|ParsableBlock
 DECL|function|Parse
 DECL|function|QMakeProject
 DECL|function|Test
-DECL|function|calculateDeps
 DECL|function|continueBlock
 DECL|function|continueBlock
 DECL|function|deref
@@ -86,6 +85,7 @@ DECL|function|init
 DECL|function|isActiveConfig
 DECL|function|isEmpty
 DECL|function|parse
+DECL|function|populateDeps
 DECL|function|qmake_error_msg
 DECL|function|qmake_expandFunctions
 DECL|function|qmake_feature_paths
