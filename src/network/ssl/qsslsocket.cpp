@@ -84,6 +84,8 @@ DECL|function|setSslConfiguration
 DECL|function|socketOption
 DECL|function|sslConfiguration
 DECL|function|sslErrors
+DECL|function|sslLibraryVersionNumber
+DECL|function|sslLibraryVersionString
 DECL|function|startClientEncryption
 DECL|function|startServerEncryption
 DECL|function|supportedCiphers

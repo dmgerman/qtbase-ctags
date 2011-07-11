@@ -27,6 +27,8 @@ DECL|function|initSslContext
 DECL|function|isMatchingHostname
 DECL|function|lock
 DECL|function|locking_function
+DECL|function|opensslVersionNumber
+DECL|function|opensslVersionString
 DECL|function|q_X509Callback
 DECL|function|resetDefaultCiphers
 DECL|function|sessionCipher
