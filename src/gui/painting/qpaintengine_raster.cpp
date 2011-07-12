@@ -105,7 +105,6 @@ DECL|function|qt_ft_outline_move_to
 DECL|function|qt_intersect_spans
 DECL|function|qt_intersect_spans
 DECL|function|qt_mapRect_non_normalizing
-DECL|function|qt_merge_clip
 DECL|function|qt_span_clip
 DECL|function|qt_span_fill_clipRect
 DECL|function|qt_span_fill_clipped
