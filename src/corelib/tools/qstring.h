@@ -1,8 +1,5 @@
 DECL|function|QString
 DECL|function|QString
-DECL|function|QStringData
-DECL|function|QStringData
-DECL|function|QStringData
 DECL|function|QStringRef
 DECL|function|Q_DECLARE_SHARED
 DECL|function|at
