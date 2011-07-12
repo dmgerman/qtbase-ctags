@@ -26,8 +26,6 @@ DECL|function|ExternParameterEntity
 DECL|function|ExternParameterEntity
 DECL|function|QXmlInputSource
 DECL|function|QXmlInputSource
-DECL|function|QXmlInputSource
-DECL|function|QXmlInputSource
 DECL|function|QXmlLocator
 DECL|function|QXmlNamespaceSupport
 DECL|function|QXmlNamespaceSupportPrivate

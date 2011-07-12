@@ -25,9 +25,6 @@ DECL|function|appendTo
 DECL|function|appendTo
 DECL|function|appendTo
 DECL|function|appendTo
-DECL|function|convertFromAscii
-DECL|function|convertToAscii
-DECL|function|convertToLatin1
 DECL|function|operator
 DECL|function|operator
 DECL|function|size
@@ -40,9 +37,6 @@ DECL|function|size
 DECL|function|size
 DECL|function|size
 DECL|macro|QSTRINGBUILDER_H
-DECL|member|len
-DECL|member|out
-DECL|member|protected
 DECL|member|type
 DECL|member|type
 DECL|struct|B
@@ -54,7 +48,6 @@ DECL|struct|QAbstractConcatenable
 DECL|struct|QAbstractConcatenable
 DECL|struct|QConcatenable
 DECL|struct|QLatin1Char
-DECL|struct|QLatin1Literal
 DECL|struct|QLatin1String
 DECL|typedef|A
 DECL|typedef|ConvertTo

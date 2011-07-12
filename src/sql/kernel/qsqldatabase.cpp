@@ -47,8 +47,6 @@ DECL|function|password
 DECL|function|port
 DECL|function|primaryIndex
 DECL|function|record
-DECL|function|record
-DECL|function|recordInfo
 DECL|function|registerSqlDriver
 DECL|function|removeDatabase
 DECL|function|removeDatabase

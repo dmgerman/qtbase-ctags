@@ -95,4 +95,3 @@ DECL|function|~QOfonoNetworkRegistrationInterface
 DECL|function|~QOfonoPrimaryDataContextInterface
 DECL|function|~QOfonoSimInterface
 DECL|function|~QOfonoSmsInterface
-DECL|variable|dbusConnection
