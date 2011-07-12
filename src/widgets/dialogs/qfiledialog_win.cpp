@@ -1,6 +1,7 @@
 DECL|function|qt_win_CID_get_existing_directory
 DECL|function|qt_win_CID_get_open_file_names
 DECL|function|qt_win_clean_up_OFN
+DECL|function|qt_win_eatMouseMove
 DECL|function|qt_win_extract_filter
 DECL|function|qt_win_filter
 DECL|function|qt_win_get_existing_directory
