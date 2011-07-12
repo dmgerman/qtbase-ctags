@@ -4,6 +4,7 @@ DECL|class|FixedSizeDataGenerator
 DECL|class|HttpDownloadPerformanceClient
 DECL|class|HttpDownloadPerformanceClientDownloadBuffer
 DECL|class|HttpDownloadPerformanceServer
+DECL|class|HttpsRequestChainHelper
 DECL|class|QNetworkReplyPtr
 DECL|class|ThreadedDataReader
 DECL|class|ThreadedDataReaderHttpServer
@@ -25,6 +26,7 @@ DECL|function|FixedSizeDataGenerator
 DECL|function|HttpDownloadPerformanceClient
 DECL|function|HttpDownloadPerformanceClientDownloadBuffer
 DECL|function|HttpDownloadPerformanceServer
+DECL|function|HttpsRequestChainHelper
 DECL|function|QNetworkReplyPtr
 DECL|function|ThreadedDataReader
 DECL|function|ThreadedDataReaderHttpServer
@@ -32,6 +34,7 @@ DECL|function|TimedSender
 DECL|function|bytesAvailable
 DECL|function|bytesAvailable
 DECL|function|bytesWrittenSlot
+DECL|function|doNextRequest
 DECL|function|doRead
 DECL|function|downloadPerformance
 DECL|function|echoPerformance
@@ -43,6 +46,7 @@ DECL|function|httpDownloadPerformanceDownloadBuffer_data
 DECL|function|httpDownloadPerformance_data
 DECL|function|httpLatency
 DECL|function|httpUploadPerformance
+DECL|function|httpsRequestChain
 DECL|function|isSequential
 DECL|function|isSequential
 DECL|function|newConnectionSlot
@@ -84,6 +88,8 @@ DECL|member|dataSize
 DECL|member|dataToSend
 DECL|member|device
 DECL|member|device
+DECL|member|globalTime
+DECL|member|manager
 DECL|member|manager
 DECL|member|port
 DECL|member|port
@@ -92,11 +98,14 @@ DECL|member|ready
 DECL|member|ready
 DECL|member|ready
 DECL|member|reply
+DECL|member|requestList
 DECL|member|server
 DECL|member|serverSendsContentLength
 DECL|member|state
 DECL|member|state
 DECL|member|testType
+DECL|member|timeList
+DECL|member|timeOneRequest
 DECL|member|timeout
 DECL|member|timeout
 DECL|member|timeout

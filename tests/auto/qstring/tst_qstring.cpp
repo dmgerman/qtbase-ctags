@@ -64,6 +64,7 @@ DECL|function|leftJustified
 DECL|function|leftRef
 DECL|function|length
 DECL|function|length_data
+DECL|function|literals
 DECL|function|local8Bit
 DECL|function|local8Bit_data
 DECL|function|localeAwareCompare

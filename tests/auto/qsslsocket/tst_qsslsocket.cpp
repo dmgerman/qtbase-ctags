@@ -98,6 +98,7 @@ DECL|function|tst_QSslSocket
 DECL|function|untrustedWorkaroundSlot
 DECL|function|verifyDepth
 DECL|function|verifyMode
+DECL|function|versionAccessors
 DECL|function|waitForConnectedEncryptedReadyRead
 DECL|function|waitForEncrypted
 DECL|function|waitForEncryptedMinusOne

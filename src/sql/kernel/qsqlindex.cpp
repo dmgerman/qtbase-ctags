@@ -8,6 +8,4 @@ DECL|function|operator =
 DECL|function|setCursorName
 DECL|function|setDescending
 DECL|function|setName
-DECL|function|toString
-DECL|function|toStringList
 DECL|function|~QSqlIndex

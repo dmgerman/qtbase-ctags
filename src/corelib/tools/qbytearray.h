@@ -1,7 +1,6 @@
 DECL|function|QByteArray
 DECL|function|QByteArray
 DECL|function|at
-DECL|function|at
 DECL|function|begin
 DECL|function|begin
 DECL|function|capacity
@@ -15,8 +14,6 @@ DECL|function|end
 DECL|function|end
 DECL|function|isDetached
 DECL|function|isEmpty
-DECL|function|operator
-DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
