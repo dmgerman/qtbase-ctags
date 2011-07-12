@@ -4,6 +4,7 @@ DECL|function|QBackingStorePrivate
 DECL|function|beginPaint
 DECL|function|endPaint
 DECL|function|flush
+DECL|function|handle
 DECL|function|hasStaticContents
 DECL|function|paintDevice
 DECL|function|qt_scrollRectInImage
