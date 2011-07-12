@@ -51,8 +51,6 @@ DECL|function|refUnref
 DECL|function|scaled_QTBUG19157
 DECL|function|scroll
 DECL|function|scroll_data
-DECL|function|setAlphaChannel
-DECL|function|setAlphaChannel_data
 DECL|function|setGetMask
 DECL|function|setGetMask_data
 DECL|function|sourceIsNull

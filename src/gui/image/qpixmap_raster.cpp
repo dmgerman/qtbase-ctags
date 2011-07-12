@@ -14,9 +14,6 @@ DECL|function|qt_toRasterPixmap
 DECL|function|qt_toRasterPixmap
 DECL|function|resize
 DECL|function|scroll
-DECL|function|setAlphaChannel
-DECL|function|setMask
 DECL|function|toImage
 DECL|function|toImage
 DECL|function|~QRasterPixmapData
-DECL|variable|qt_pixmap_bit_mask

@@ -77,8 +77,6 @@ DECL|function|loadFromData
 DECL|function|mask_alpha_converter
 DECL|function|metric
 DECL|function|mirrored
-DECL|function|numBytes
-DECL|function|numColors
 DECL|function|offset
 DECL|function|operator !=
 DECL|function|operator <<
@@ -115,20 +113,14 @@ DECL|function|setColorCount
 DECL|function|setColorTable
 DECL|function|setDotsPerMeterX
 DECL|function|setDotsPerMeterY
-DECL|function|setNumColors
 DECL|function|setOffset
 DECL|function|setPixel
-DECL|function|setText
 DECL|function|setText
 DECL|function|size
 DECL|function|smoothScaled
 DECL|function|swap_bit_order
 DECL|function|text
-DECL|function|text
-DECL|function|text
 DECL|function|textKeys
-DECL|function|textLanguages
-DECL|function|textList
 DECL|function|transformed
 DECL|function|transformed
 DECL|function|trueMatrix

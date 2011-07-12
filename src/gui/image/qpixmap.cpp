@@ -6,13 +6,10 @@ DECL|function|QPixmap
 DECL|function|QPixmap
 DECL|function|QPixmap
 DECL|function|QPixmap
-DECL|function|QPixmap
-DECL|function|alphaChannel
 DECL|function|cacheKey
 DECL|function|convertFromImage
 DECL|function|copy
 DECL|function|createHeuristicMask
-DECL|function|createMaskFromColor
 DECL|function|createMaskFromColor
 DECL|function|defaultDepth
 DECL|function|depth
@@ -25,11 +22,9 @@ DECL|function|fill
 DECL|function|fromImage
 DECL|function|fromImageReader
 DECL|function|grabWidget
-DECL|function|handle
 DECL|function|hasAlpha
 DECL|function|hasAlphaChannel
 DECL|function|height
-DECL|function|init
 DECL|function|init
 DECL|function|isDetached
 DECL|function|isNull
@@ -44,7 +39,6 @@ DECL|function|operator >>
 DECL|function|operator QVariant
 DECL|function|paintEngine
 DECL|function|pixmapData
-DECL|function|qt_pixmap_id
 DECL|function|qt_pixmap_thread_test
 DECL|function|rect
 DECL|function|save
@@ -54,7 +48,6 @@ DECL|function|scaledToHeight
 DECL|function|scaledToWidth
 DECL|function|scroll
 DECL|function|serialNumber
-DECL|function|setAlphaChannel
 DECL|function|setMask
 DECL|function|size
 DECL|function|toImage

@@ -29,7 +29,6 @@ DECL|function|imageRef
 DECL|function|isNull
 DECL|function|operator =
 DECL|function|paintEngine
-DECL|function|setAlphaChannel
 DECL|function|toImage
 DECL|function|width
 DECL|function|~QVolatileImage
