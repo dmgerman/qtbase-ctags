@@ -6,6 +6,7 @@ DECL|function|_q_replySslErrors
 DECL|function|activeConfiguration
 DECL|function|authenticationRequired
 DECL|function|cache
+DECL|function|clearAccessCache
 DECL|function|clearCache
 DECL|function|configuration
 DECL|function|cookieJar
