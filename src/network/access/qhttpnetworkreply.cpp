@@ -1,8 +1,5 @@
 DECL|function|QHttpNetworkReply
 DECL|function|QHttpNetworkReplyPrivate
-DECL|function|appendCompressedReplyData
-DECL|function|appendUncompressedReplyData
-DECL|function|appendUncompressedReplyData
 DECL|function|authenticationMethod
 DECL|function|bytesAvailable
 DECL|function|bytesAvailable
@@ -16,16 +13,14 @@ DECL|function|errorString
 DECL|function|expectContent
 DECL|function|findChallenge
 DECL|function|getChunkSize
-DECL|function|gunzipBodyPartially
-DECL|function|gzipCheckHeader
 DECL|function|header
 DECL|function|headerField
 DECL|function|ignoreSslErrors
 DECL|function|ignoreSslErrors
 DECL|function|isChunked
+DECL|function|isCompressed
 DECL|function|isConnectionCloseEnabled
 DECL|function|isFinished
-DECL|function|isGzipped
 DECL|function|isPipeliningUsed
 DECL|function|majorVersion
 DECL|function|minorVersion
@@ -58,6 +53,7 @@ DECL|function|shouldEmitSignals
 DECL|function|sslConfiguration
 DECL|function|statusCode
 DECL|function|supportsUserProvidedDownloadBuffer
+DECL|function|uncompressBodyData
 DECL|function|url
 DECL|function|userProvidedDownloadBuffer
 DECL|function|~QHttpNetworkReply

@@ -35,6 +35,7 @@ DECL|function|throw
 DECL|function|throw
 DECL|function|~AllocFailer
 DECL|function|~QAllocFailAllocator
+DECL|macro|__MALLOC_HOOK_VOLATILE
 DECL|member|allocator
 DECL|struct|AllocFailer
 DECL|struct|QCrtDebugRegistrator
