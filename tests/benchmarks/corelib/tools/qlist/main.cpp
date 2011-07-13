@@ -1,0 +1,32 @@
+DECL|class|tst_QList
+DECL|function|MyBase
+DECL|function|MyBase
+DECL|function|MyComplex
+DECL|function|MyMovable
+DECL|function|MyPrimitive
+DECL|function|MyPrimitive
+DECL|function|operator =
+DECL|function|operator ==
+DECL|function|removeAll_complex
+DECL|function|removeAll_complex_data
+DECL|function|removeAll_movable
+DECL|function|removeAll_movable_data
+DECL|function|removeAll_primitive
+DECL|function|removeAll_primitive_data
+DECL|function|removeAll_test
+DECL|function|~MyBase
+DECL|function|~MyPrimitive
+DECL|member|copyCount
+DECL|member|copyCount
+DECL|member|errorCount
+DECL|member|errorCount
+DECL|member|i
+DECL|member|isCopy
+DECL|member|liveCount
+DECL|member|liveCount
+DECL|struct|MyBase
+DECL|struct|MyComplex
+DECL|struct|MyMovable
+DECL|struct|MyPrimitive
+DECL|variable|N
+DECL|variable|QList
