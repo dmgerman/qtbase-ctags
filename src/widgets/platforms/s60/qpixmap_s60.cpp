@@ -1,6 +1,6 @@
 DECL|class|QSymbianBitmapDataAccess
 DECL|class|QSymbianFbsClient
-DECL|function|QS60PixmapData
+DECL|function|QS60PlatformPixmap
 DECL|function|QSymbianBitmapDataAccess
 DECL|function|QSymbianFbsClient
 DECL|function|QSymbianFbsHeapLock
@@ -8,7 +8,7 @@ DECL|function|beginDataAccess
 DECL|function|beginDataAccess
 DECL|function|convertToDisplayMode
 DECL|function|copy
-DECL|function|createCompatiblePixmapData
+DECL|function|createCompatiblePlatformPixmap
 DECL|function|createSymbianCFbsBitmap
 DECL|function|endDataAccess
 DECL|function|endDataAccess
@@ -38,7 +38,7 @@ DECL|function|toSymbianCFbsBitmap
 DECL|function|toSymbianRSgImage
 DECL|function|uncompress
 DECL|function|unlockHeap
-DECL|function|~QS60PixmapData
+DECL|function|~QS60PlatformPixmap
 DECL|function|~QSymbianBitmapDataAccess
 DECL|function|~QSymbianFbsClient
 DECL|function|~QSymbianFbsHeapLock

@@ -1,7 +1,7 @@
 DECL|function|QVNCIntegration
 DECL|function|QVNCScreen
 DECL|function|createEventDispatcher
-DECL|function|createPixmapData
+DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
 DECL|function|createWindowSurface
 DECL|function|defaultDisplay

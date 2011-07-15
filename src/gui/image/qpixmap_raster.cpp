@@ -1,7 +1,7 @@
-DECL|function|QRasterPixmapData
+DECL|function|QRasterPlatformPixmap
 DECL|function|buffer
 DECL|function|copy
-DECL|function|createCompatiblePixmapData
+DECL|function|createCompatiblePlatformPixmap
 DECL|function|createPixmapForImage
 DECL|function|fill
 DECL|function|fromData
@@ -16,4 +16,4 @@ DECL|function|resize
 DECL|function|scroll
 DECL|function|toImage
 DECL|function|toImage
-DECL|function|~QRasterPixmapData
+DECL|function|~QRasterPlatformPixmap

@@ -22,6 +22,7 @@ DECL|function|fill
 DECL|function|fromImage
 DECL|function|fromImageReader
 DECL|function|grabWidget
+DECL|function|handle
 DECL|function|hasAlpha
 DECL|function|hasAlphaChannel
 DECL|function|height
@@ -38,7 +39,6 @@ DECL|function|operator =
 DECL|function|operator >>
 DECL|function|operator QVariant
 DECL|function|paintEngine
-DECL|function|pixmapData
 DECL|function|qt_pixmap_thread_test
 DECL|function|rect
 DECL|function|save

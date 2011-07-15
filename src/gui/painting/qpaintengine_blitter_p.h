@@ -1,4 +1,4 @@
 DECL|macro|QPAINTENGINE_BLITTER_P_H
 DECL|variable|QBlittable
-DECL|variable|QBlittablePixmapData
+DECL|variable|QBlittablePlatformPixmap
 DECL|variable|QBlitterPaintEnginePrivate

@@ -1,5 +1,5 @@
 DECL|function|QEglFSIntegration
-DECL|function|createPixmapData
+DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
 DECL|function|createWindowSurface
 DECL|function|fontDatabase

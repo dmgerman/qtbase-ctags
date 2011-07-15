@@ -1,6 +1,6 @@
 DECL|function|QMinimalIntegration
 DECL|function|createEventDispatcher
-DECL|function|createPixmapData
 DECL|function|createPlatformBackingStore
+DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
 DECL|function|hasCapability

@@ -1,8 +1,8 @@
-DECL|function|QPixmapData
+DECL|function|QPlatformPixmap
 DECL|function|buffer
 DECL|function|copy
 DECL|function|create
-DECL|function|createCompatiblePixmapData
+DECL|function|createCompatiblePlatformPixmap
 DECL|function|fromData
 DECL|function|fromFile
 DECL|function|fromImageReader
@@ -13,4 +13,4 @@ DECL|function|setSerialNumber
 DECL|function|toImage
 DECL|function|toNativeType
 DECL|function|transformed
-DECL|function|~QPixmapData
+DECL|function|~QPlatformPixmap

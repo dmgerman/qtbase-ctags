@@ -9,7 +9,7 @@ DECL|function|QVFbScreenMouseHandler
 DECL|function|QVFbScreenPrivate
 DECL|function|connect
 DECL|function|createEventDispatcher
-DECL|function|createPixmapData
+DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
 DECL|function|createWindowSurface
 DECL|function|depth

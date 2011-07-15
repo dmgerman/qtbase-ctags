@@ -1,7 +1,7 @@
-DECL|function|QMacPixmapData
+DECL|function|QMacPlatformPixmap
 DECL|function|alphaChannel
 DECL|function|copy
-DECL|function|createCompatiblePixmapData
+DECL|function|createCompatiblePlatformPixmap
 DECL|function|fill
 DECL|function|fromImage
 DECL|function|fromMacCGImageRef
@@ -38,7 +38,7 @@ DECL|function|setAlphaChannel
 DECL|function|setMask
 DECL|function|toImage
 DECL|function|toMacCGImageRef
-DECL|function|~QMacPixmapData
+DECL|function|~QMacPlatformPixmap
 DECL|macro|BEST_BYTE_ALIGNMENT
 DECL|macro|COMPTUE_BEST_BYTES_PER_ROW
 DECL|macro|COMPUTE_BEST_BYTES_PER_ROW

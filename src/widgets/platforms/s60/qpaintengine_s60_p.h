@@ -1,3 +1,3 @@
 DECL|macro|QPAINTENGINE_S60_P_H
 DECL|variable|QS60PaintEnginePrivate
-DECL|variable|QS60PixmapData
+DECL|variable|QS60PlatformPixmap

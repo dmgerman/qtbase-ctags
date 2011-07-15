@@ -1,5 +1,5 @@
 DECL|function|QX11AlphaDetector
-DECL|function|QX11PixmapData
+DECL|function|QX11PlatformPixmap
 DECL|function|alphaChannel
 DECL|function|bitmapFromImage
 DECL|function|bitmap_to_mask
@@ -9,7 +9,7 @@ DECL|function|cleanup_scale_tables
 DECL|function|convertToARGB32
 DECL|function|copy
 DECL|function|createBitmapFromImage
-DECL|function|createCompatiblePixmapData
+DECL|function|createCompatiblePlatformPixmap
 DECL|function|fill
 DECL|function|fromImage
 DECL|function|fromX11Pixmap
@@ -45,7 +45,7 @@ DECL|function|x11Info
 DECL|function|x11PictureHandle
 DECL|function|x11SetDefaultScreen
 DECL|function|x11SetScreen
-DECL|function|~QX11PixmapData
+DECL|function|~QX11PlatformPixmap
 DECL|macro|CYCLE
 DECL|macro|GET_PIXEL
 DECL|macro|GET_PIXEL_DITHER_TC

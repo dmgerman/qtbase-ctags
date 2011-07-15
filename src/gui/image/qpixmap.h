@@ -6,6 +6,6 @@ DECL|function|setAlphaChannel
 DECL|macro|QPIXMAP_H
 DECL|variable|QColor
 DECL|variable|QImageReader
-DECL|variable|QPixmapData
+DECL|variable|QPlatformPixmap
 DECL|variable|QVariant
 DECL|variable|QX11Info

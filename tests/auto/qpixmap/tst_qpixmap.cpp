@@ -1,7 +1,7 @@
 DECL|class|Content
-DECL|class|FriendlyVGPixmapData
+DECL|class|FriendlyVGPlatformPixmap
 DECL|class|tst_QPixmap
-DECL|function|FriendlyVGPixmapData
+DECL|function|FriendlyVGPlatformPixmap
 DECL|function|bitmapMask
 DECL|function|cacheKey
 DECL|function|cleanup

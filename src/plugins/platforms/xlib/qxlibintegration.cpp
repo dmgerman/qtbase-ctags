@@ -1,7 +1,7 @@
 DECL|function|QXlibIntegration
 DECL|function|clipboard
 DECL|function|createEventDispatcher
-DECL|function|createPixmapData
+DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
 DECL|function|createWindowSurface
 DECL|function|fontDatabase
