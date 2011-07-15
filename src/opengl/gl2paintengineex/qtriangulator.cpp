@@ -22,28 +22,18 @@ DECL|function|CompareVertices
 DECL|function|ComplexToSimple
 DECL|function|DebugDialog
 DECL|function|MonotoneToTriangles
-DECL|function|Node
 DECL|function|QInt64Set
 DECL|function|QMaxHeap
-DECL|function|QRBTree
 DECL|function|QRingBuffer
 DECL|function|QTriangulator
 DECL|function|QVertexSet
 DECL|function|QVertexSet
 DECL|function|SimpleToMonotone
-DECL|function|attachAfter
-DECL|function|attachBefore
-DECL|function|attachLeft
-DECL|function|attachRight
-DECL|function|back
-DECL|function|blackDepth
 DECL|function|bounds
 DECL|function|calculateIntersection
 DECL|function|calculateIntersections
-DECL|function|checkRedBlackProperty
 DECL|function|classifyVertex
 DECL|function|classifyVertices
-DECL|function|clear
 DECL|function|clear
 DECL|function|compare
 DECL|function|comparePoints
@@ -52,9 +42,7 @@ DECL|function|createDiagonal
 DECL|function|decompose
 DECL|function|decompose
 DECL|function|decompose
-DECL|function|deleteNode
 DECL|function|dequeue
-DECL|function|detach
 DECL|function|edgeIsLeftOfEdge
 DECL|function|edgeIsLeftOfEdge
 DECL|function|empty
@@ -62,7 +50,6 @@ DECL|function|enqueue
 DECL|function|fillPriorityQueue
 DECL|function|fillPriorityQueue
 DECL|function|findSector
-DECL|function|front
 DECL|function|gcd
 DECL|function|head
 DECL|function|indices
@@ -88,8 +75,6 @@ DECL|function|lower
 DECL|function|monotoneDecomposition
 DECL|function|mouseMoveEvent
 DECL|function|mousePressEvent
-DECL|function|newNode
-DECL|function|next
 DECL|function|next
 DECL|function|operator !=
 DECL|function|operator !=
@@ -118,7 +103,6 @@ DECL|function|operator >
 DECL|function|operator >=
 DECL|function|operator >=
 DECL|function|operator >=
-DECL|function|order
 DECL|function|outerBounds
 DECL|function|paintEvent
 DECL|function|parent
@@ -126,7 +110,6 @@ DECL|function|pointIsInSector
 DECL|function|pointIsInSector
 DECL|function|polyline
 DECL|function|pop
-DECL|function|previous
 DECL|function|previous
 DECL|function|primeForCount
 DECL|function|primeForNumBits
@@ -146,15 +129,12 @@ DECL|function|qTriangulate
 DECL|function|qTriangulate
 DECL|function|qTriangulate
 DECL|function|reallocate
-DECL|function|rebalance
 DECL|function|rehash
 DECL|function|removeUnusedPoints
 DECL|function|removeUnwantedEdgesAndConnect
 DECL|function|removeZeroLengthEdges
 DECL|function|reorderEdgeListRange
 DECL|function|right
-DECL|function|rotateLeft
-DECL|function|rotateRight
 DECL|function|round
 DECL|function|searchEdgeLeftOf
 DECL|function|searchEdgeLeftOf
@@ -168,34 +148,26 @@ DECL|function|sortEdgeList
 DECL|function|splitEdge
 DECL|function|splitEdgeListRange
 DECL|function|splitEdgesAtIntersections
-DECL|function|swapNodes
 DECL|function|top
 DECL|function|triangulate
-DECL|function|update
 DECL|function|upper
 DECL|function|upper
 DECL|function|upper
-DECL|function|validate
 DECL|function|wheelEvent
-DECL|function|~Node
 DECL|function|~QInt64Set
-DECL|function|~QRBTree
 DECL|function|~QRingBuffer
 DECL|macro|Q_FIXED_POINT_SCALE
 DECL|member|UNUSED
 DECL|member|UNUSED
 DECL|member|accurate
-DECL|member|data
 DECL|member|denominator
 DECL|member|edge
 DECL|member|edge
-DECL|member|freeList
 DECL|member|from
 DECL|member|from
 DECL|member|helper
 DECL|member|indices
 DECL|member|intersectionPoint
-DECL|member|left
 DECL|member|leftEdge
 DECL|member|m_array
 DECL|member|m_array
@@ -237,16 +209,12 @@ DECL|member|node
 DECL|member|node
 DECL|member|numerator
 DECL|member|originallyPointingUp
-DECL|member|parent
 DECL|member|point
 DECL|member|pointingUp
 DECL|member|pointingUp
 DECL|member|previous
 DECL|member|previous
-DECL|member|red
-DECL|member|right
 DECL|member|rightEdge
-DECL|member|root
 DECL|member|to
 DECL|member|to
 DECL|member|twin
@@ -265,11 +233,9 @@ DECL|struct|Edge
 DECL|struct|Edge
 DECL|struct|Event
 DECL|struct|Intersection
-DECL|struct|Node
 DECL|struct|QFraction
 DECL|struct|QIntersectionPoint
 DECL|struct|QPodPoint
-DECL|struct|QRBTree
 DECL|struct|QVertexSet
 DECL|struct|Split
 DECL|typedef|ShortArray
