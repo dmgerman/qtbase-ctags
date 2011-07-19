@@ -502,6 +502,7 @@ DECL|function|getSectorSize
 DECL|function|getTempStore
 DECL|function|getTempname
 DECL|function|getTempname
+DECL|function|getpid
 DECL|function|groupConcatFinalize
 DECL|function|groupConcatStep
 DECL|function|growOpArray
@@ -2541,6 +2542,7 @@ DECL|macro|NEVER
 DECL|macro|NEVER
 DECL|macro|NEVER
 DECL|macro|NN
+DECL|macro|NO_GETTOD
 DECL|macro|NO_LOCK
 DECL|macro|N_HASH
 DECL|macro|N_SORT_BUCKET
@@ -3029,6 +3031,7 @@ DECL|macro|SQLITE_FullFSync
 DECL|macro|SQLITE_GET_LOCKPROXYFILE
 DECL|macro|SQLITE_GroupByOrder
 DECL|macro|SQLITE_HAVE_ISNAN
+DECL|macro|SQLITE_HOMEGROWN_RECURSIVE_MUTEX
 DECL|macro|SQLITE_IGNORE
 DECL|macro|SQLITE_INDEX_CONSTRAINT_EQ
 DECL|macro|SQLITE_INDEX_CONSTRAINT_GE
