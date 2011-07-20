@@ -1,10 +1,10 @@
-DECL|class|QGlobalStaticDeleter
-DECL|function|QGlobalStaticDeleter
+DECL|class|QPenDataHolder
 DECL|function|QPen
 DECL|function|QPen
 DECL|function|QPen
 DECL|function|QPen
 DECL|function|QPen
+DECL|function|QPenDataHolder
 DECL|function|QPenPrivate
 DECL|function|brush
 DECL|function|capStyle
@@ -37,10 +37,10 @@ DECL|function|setWidthF
 DECL|function|style
 DECL|function|width
 DECL|function|widthF
-DECL|function|~QGlobalStaticDeleter
 DECL|function|~QPen
+DECL|function|~QPenDataHolder
 DECL|macro|QT_COMPILING_QPEN
-DECL|member|globalStatic
+DECL|member|pen
 DECL|typedef|QPenData
 DECL|variable|qpen_default_cap
 DECL|variable|qpen_default_join

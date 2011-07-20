@@ -1,3 +1,5 @@
+DECL|class|IconCache
+DECL|function|IconCache
 DECL|function|QIcon
 DECL|function|QIcon
 DECL|function|QIcon
@@ -52,7 +54,6 @@ DECL|function|virtual_hook
 DECL|function|write
 DECL|function|~QIcon
 DECL|function|~QPixmapIconEngine
-DECL|typedef|IconCache
 DECL|variable|heights
 DECL|variable|serialNumCounter
 DECL|variable|widths

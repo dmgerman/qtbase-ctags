@@ -1,5 +1,5 @@
 DECL|class|QBrushPatternImageCache
-DECL|class|QGlobalStaticDeleter
+DECL|class|QNullBrushData
 DECL|function|QBrush
 DECL|function|QBrush
 DECL|function|QBrush
@@ -14,11 +14,11 @@ DECL|function|QBrushPatternImageCache
 DECL|function|QConicalGradient
 DECL|function|QConicalGradient
 DECL|function|QConicalGradient
-DECL|function|QGlobalStaticDeleter
 DECL|function|QGradient
 DECL|function|QLinearGradient
 DECL|function|QLinearGradient
 DECL|function|QLinearGradient
+DECL|function|QNullBrushData
 DECL|function|QRadialGradient
 DECL|function|QRadialGradient
 DECL|function|QRadialGradient
@@ -47,6 +47,7 @@ DECL|function|init
 DECL|function|init
 DECL|function|interpolationMode
 DECL|function|isOpaque
+DECL|function|nullBrushInstance
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator =
@@ -92,11 +93,11 @@ DECL|function|stops
 DECL|function|texture
 DECL|function|textureImage
 DECL|function|~QBrush
-DECL|function|~QGlobalStaticDeleter
+DECL|function|~QNullBrushData
 DECL|function|~QTexturedBrushData
 DECL|macro|Q_DUMMY_ACCESSOR
 DECL|macro|Q_DUMMY_ACCESSOR
-DECL|member|globalStatic
+DECL|member|brush
 DECL|member|gradient
 DECL|member|m_has_pixmap_texture
 DECL|member|m_image
