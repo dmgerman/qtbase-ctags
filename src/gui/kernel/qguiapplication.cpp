@@ -51,6 +51,7 @@ DECL|function|reportScreenCount
 DECL|function|restoreOverrideCursor
 DECL|function|screens
 DECL|function|setDoubleClickInterval
+DECL|function|setEventDispatcher
 DECL|function|setFont
 DECL|function|setKeyboardInputInterval
 DECL|function|setLayoutDirection
