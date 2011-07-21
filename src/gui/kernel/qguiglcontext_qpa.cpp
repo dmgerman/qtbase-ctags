@@ -2,8 +2,10 @@ DECL|class|QGuiGLContextPrivate
 DECL|class|QGuiGLThreadContext
 DECL|function|QGuiGLContext
 DECL|function|QGuiGLContextPrivate
+DECL|function|create
 DECL|function|currentContext
 DECL|function|deleteQGLContext
+DECL|function|destroy
 DECL|function|doneCurrent
 DECL|function|format
 DECL|function|getProcAddress
@@ -11,9 +13,14 @@ DECL|function|handle
 DECL|function|isValid
 DECL|function|makeCurrent
 DECL|function|qGLContextHandle
+DECL|function|screen
 DECL|function|setCurrentContext
+DECL|function|setFormat
 DECL|function|setQGLContextHandle
+DECL|function|setScreen
+DECL|function|setShareContext
 DECL|function|shareContext
+DECL|function|shareHandle
 DECL|function|swapBuffers
 DECL|function|~QGuiGLContext
 DECL|function|~QGuiGLContextPrivate
@@ -22,5 +29,7 @@ DECL|member|context
 DECL|member|platformGLContext
 DECL|member|qGLContextDeleteFunction
 DECL|member|qGLContextHandle
+DECL|member|requestedFormat
+DECL|member|screen
 DECL|member|shareContext
 DECL|variable|qwindow_context_storage

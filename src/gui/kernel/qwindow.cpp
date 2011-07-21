@@ -1,4 +1,5 @@
 DECL|function|QWindow
+DECL|function|QWindow
 DECL|function|baseSize
 DECL|function|close
 DECL|function|create
@@ -27,6 +28,7 @@ DECL|function|qt_window_private
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|resizeEvent
+DECL|function|screen
 DECL|function|setBaseSize
 DECL|function|setFormat
 DECL|function|setGeometry
@@ -36,6 +38,7 @@ DECL|function|setMinimumSize
 DECL|function|setMouseGrabEnabled
 DECL|function|setOpacity
 DECL|function|setParent
+DECL|function|setScreen
 DECL|function|setSizeIncrement
 DECL|function|setSurfaceType
 DECL|function|setTransientParent

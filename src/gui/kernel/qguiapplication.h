@@ -5,3 +5,4 @@ DECL|macro|qGuiApp
 DECL|macro|qGuiApp
 DECL|variable|QPalette
 DECL|variable|QPlatformNativeInterface
+DECL|variable|QScreen

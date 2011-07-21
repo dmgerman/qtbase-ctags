@@ -28,6 +28,7 @@ DECL|function|notifyLayoutDirectionChange
 DECL|function|overrideCursor
 DECL|function|palette
 DECL|function|platformNativeInterface
+DECL|function|primaryScreen
 DECL|function|processActivatedEvent
 DECL|function|processCloseEvent
 DECL|function|processEnterEvent
@@ -46,6 +47,7 @@ DECL|function|reportAvailableGeometryChange
 DECL|function|reportGeometryChange
 DECL|function|reportScreenCount
 DECL|function|restoreOverrideCursor
+DECL|function|screens
 DECL|function|setDoubleClickInterval
 DECL|function|setFont
 DECL|function|setKeyboardInputInterval
@@ -71,6 +73,7 @@ DECL|member|mouse_double_click_distance
 DECL|member|mouse_double_click_time
 DECL|member|platform_integration
 DECL|member|qt_clipboard
+DECL|member|screen_list
 DECL|member|self
 DECL|member|window_list
 DECL|variable|copy_xpm

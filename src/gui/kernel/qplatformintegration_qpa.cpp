@@ -1,9 +1,10 @@
 DECL|function|clipboard
 DECL|function|createPlatformGLContext
+DECL|function|createPlatformPixmap
 DECL|function|drag
 DECL|function|fontDatabase
-DECL|function|grabWindow
 DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|nativeInterface
 DECL|function|printerSupport
+DECL|function|screenAdded

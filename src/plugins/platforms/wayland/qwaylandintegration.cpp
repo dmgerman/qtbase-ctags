@@ -3,7 +3,6 @@ DECL|function|clipboard
 DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformGLContext
-DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
 DECL|function|fontDatabase
 DECL|function|hasCapability

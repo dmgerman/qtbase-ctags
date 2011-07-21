@@ -9,5 +9,6 @@ DECL|variable|QObject
 DECL|variable|QPlatformSurface
 DECL|variable|QPlatformWindow
 DECL|variable|QResizeEvent
+DECL|variable|QScreen
 DECL|variable|QShowEvent
 DECL|variable|QWheelEvent
