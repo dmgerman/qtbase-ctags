@@ -7,6 +7,7 @@ DECL|enumerator|ExactSize
 DECL|enumerator|ExactSize
 DECL|enumerator|ExactSize
 DECL|enumerator|ExactSize
+DECL|enumerator|ExactSize
 DECL|function|QT_MODULE
 DECL|function|appendTo
 DECL|function|appendTo
@@ -25,8 +26,11 @@ DECL|function|appendTo
 DECL|function|appendTo
 DECL|function|appendTo
 DECL|function|appendTo
+DECL|function|appendTo
+DECL|function|appendTo
 DECL|function|operator
 DECL|function|operator
+DECL|function|size
 DECL|function|size
 DECL|function|size
 DECL|function|size
@@ -46,6 +50,7 @@ DECL|struct|QAbstractConcatenable
 DECL|struct|QAbstractConcatenable
 DECL|struct|QAbstractConcatenable
 DECL|struct|QAbstractConcatenable
+DECL|struct|QAbstractConcatenable
 DECL|struct|QConcatenable
 DECL|struct|QLatin1Char
 DECL|struct|QLatin1String
@@ -59,6 +64,8 @@ DECL|typedef|ConvertTo
 DECL|typedef|ConvertTo
 DECL|typedef|ConvertTo
 DECL|typedef|ConvertTo
+DECL|typedef|ConvertTo
+DECL|typedef|type
 DECL|typedef|type
 DECL|typedef|type
 DECL|typedef|type
