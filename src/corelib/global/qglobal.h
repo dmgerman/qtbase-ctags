@@ -437,6 +437,7 @@ DECL|struct|QIntegerForSize
 DECL|struct|QIntegerForSize
 DECL|struct|QIntegerForSize
 DECL|struct|QIntegerForSize
+DECL|typedef|QFunctionPointer
 DECL|typedef|QNoImplicitBoolCast
 DECL|typedef|QtMsgHandler
 DECL|typedef|Signed
