@@ -38,6 +38,7 @@ DECL|function|qMacVersion
 DECL|function|qMax
 DECL|function|qMin
 DECL|function|qRound
+DECL|function|qRound
 DECL|function|qRound64
 DECL|function|qRound64
 DECL|function|qSwap

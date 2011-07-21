@@ -48,7 +48,6 @@ DECL|enumerator|HB_LineBreak_ZW
 DECL|enumerator|HB_Mark_Enclosing
 DECL|enumerator|HB_Mark_NonSpacing
 DECL|enumerator|HB_Mark_SpacingCombining
-DECL|enumerator|HB_NoCategory
 DECL|enumerator|HB_Number_DecimalDigit
 DECL|enumerator|HB_Number_Letter
 DECL|enumerator|HB_Number_Other

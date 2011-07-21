@@ -7,6 +7,7 @@ DECL|function|fromChar
 DECL|function|fromRfc4122
 DECL|function|fromString
 DECL|function|generate
+DECL|function|hash
 DECL|function|isNull
 DECL|function|less
 DECL|function|more

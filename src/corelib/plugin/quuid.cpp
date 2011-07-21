@@ -13,6 +13,7 @@ DECL|function|operator <
 DECL|function|operator <<
 DECL|function|operator >
 DECL|function|operator >>
+DECL|function|qHash
 DECL|function|toByteArray
 DECL|function|toRfc4122
 DECL|function|toString

@@ -51,6 +51,7 @@ DECL|function|hasCaseChange
 DECL|function|heuristicSetGlyphAttributes
 DECL|function|indexAdditionalFormats
 DECL|function|init
+DECL|function|initWithScriptItem
 DECL|function|insertionPointsForLine
 DECL|function|invalidate
 DECL|function|isRightToLeft
@@ -81,6 +82,7 @@ DECL|function|shapeLine
 DECL|function|shapeText
 DECL|function|shapeTextWithCE
 DECL|function|shapeTextWithHarfbuzz
+DECL|function|skipBoundryNeutrals
 DECL|function|splitItem
 DECL|function|stringToGlyphs
 DECL|function|tightBoundingBox

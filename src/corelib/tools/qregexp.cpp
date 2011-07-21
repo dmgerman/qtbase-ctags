@@ -166,6 +166,7 @@ DECL|function|~QRegExpLookahead
 DECL|function|~QRegExpMatchState
 DECL|macro|BadChar
 DECL|macro|EOS
+DECL|macro|FLAG
 DECL|macro|RXERR_CATEGORY
 DECL|macro|RXERR_CHARCLASS
 DECL|macro|RXERR_DISABLED

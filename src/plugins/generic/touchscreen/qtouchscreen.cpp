@@ -4,7 +4,8 @@ DECL|function|QTouchScreenHandler
 DECL|function|QTouchScreenHandlerThread
 DECL|function|Slot
 DECL|function|addObserver
-DECL|function|handle
+DECL|function|onTimeout
+DECL|function|processInputEvent
 DECL|function|readData
 DECL|function|run
 DECL|function|try_udev
@@ -15,6 +16,8 @@ DECL|member|hw_range_x_max
 DECL|member|hw_range_x_min
 DECL|member|hw_range_y_max
 DECL|member|hw_range_y_min
+DECL|member|m_clearTimer
+DECL|member|m_clearTimerEnabled
 DECL|member|m_currentSlot
 DECL|member|m_lastReport
 DECL|member|m_observers

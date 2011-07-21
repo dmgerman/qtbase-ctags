@@ -27,6 +27,7 @@ DECL|function|revertRow
 DECL|function|select
 DECL|function|selectStatement
 DECL|function|setData
+DECL|function|setJoinMode
 DECL|function|setRelation
 DECL|function|setTable
 DECL|function|translateFieldNames
@@ -34,6 +35,7 @@ DECL|function|updateRowInTable
 DECL|function|~QSqlRelationalTableModel
 DECL|member|baseRec
 DECL|member|dictionary
+DECL|member|joinMode
 DECL|member|m_dictInitialized
 DECL|member|m_parent
 DECL|member|model
