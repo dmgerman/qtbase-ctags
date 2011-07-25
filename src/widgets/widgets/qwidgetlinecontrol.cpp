@@ -42,3 +42,4 @@ DECL|function|timerEvent
 DECL|function|updateDisplayText
 DECL|function|updatePasswordEchoEditing
 DECL|function|xToPos
+DECL|variable|qt_passwordEchoDelay
