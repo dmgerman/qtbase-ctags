@@ -89,6 +89,7 @@ DECL|function|onReturnPressed
 DECL|function|onSelectionChanged
 DECL|function|onTextChanged
 DECL|function|onTextEdited
+DECL|function|passwordEchoDelay
 DECL|function|passwordEchoOnEdit
 DECL|function|paste
 DECL|function|psKeyClick
