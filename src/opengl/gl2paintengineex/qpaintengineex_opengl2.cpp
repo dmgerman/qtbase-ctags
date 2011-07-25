@@ -63,7 +63,6 @@ DECL|function|~QGL2PaintEngineEx
 DECL|function|~QGL2PaintEngineExPrivate
 DECL|function|~QOpenGL2PaintEngineState
 DECL|function|~QOpenGLStaticTextUserData
-DECL|macro|QT_MAX_CACHED_GLYPH_SIZE
 DECL|member|cacheSerialNumber
 DECL|member|cacheSize
 DECL|member|glyphType
