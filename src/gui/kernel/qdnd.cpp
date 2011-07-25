@@ -21,6 +21,8 @@ DECL|function|renderDataHelper
 DECL|function|retrieveData
 DECL|function|self
 DECL|function|setCurrentTarget
+DECL|function|stopDrag
+DECL|function|unmanageEvents
 DECL|function|updateCursor
 DECL|function|updatePixmap
 DECL|function|~QDragManager
