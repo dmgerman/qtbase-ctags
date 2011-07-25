@@ -1,5 +1,7 @@
 DECL|function|getWindowSystemEvent
 DECL|function|handleCloseEvent
+DECL|function|handleDrag
+DECL|function|handleDrop
 DECL|function|handleEnterEvent
 DECL|function|handleExposeEvent
 DECL|function|handleExtendedKeyEvent

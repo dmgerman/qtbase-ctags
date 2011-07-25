@@ -31,6 +31,8 @@ DECL|function|platformNativeInterface
 DECL|function|primaryScreen
 DECL|function|processActivatedEvent
 DECL|function|processCloseEvent
+DECL|function|processDrag
+DECL|function|processDrop
 DECL|function|processEnterEvent
 DECL|function|processExposeEvent
 DECL|function|processGeometryChangeEvent
