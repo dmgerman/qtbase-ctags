@@ -101,6 +101,7 @@ DECL|function|returnPressed
 DECL|function|returnPressedKeyEvent
 DECL|function|returnPressed_maskvalidator
 DECL|function|returnPressed_maskvalidator_data
+DECL|function|selectAndCursorPosition
 DECL|function|selectedText
 DECL|function|setAlignment
 DECL|function|setAlignment_data
