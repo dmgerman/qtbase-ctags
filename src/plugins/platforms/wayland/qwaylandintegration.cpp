@@ -4,6 +4,7 @@ DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformGLContext
 DECL|function|createPlatformWindow
+DECL|function|drag
 DECL|function|fontDatabase
 DECL|function|hasCapability
 DECL|function|nativeInterface
