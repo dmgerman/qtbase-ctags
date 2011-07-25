@@ -1,6 +1,6 @@
 DECL|class|QEglFSPaintDevice
+DECL|function|QEglFSBackingStore
 DECL|function|QEglFSPaintDevice
-DECL|function|QEglFSWindowSurface
 DECL|function|beginPaint
 DECL|function|context
 DECL|function|flush
