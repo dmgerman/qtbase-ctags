@@ -111,10 +111,9 @@ DECL|member|switched
 DECL|struct|QConnectionSenderSwitcher
 DECL|typedef|GuardHash
 DECL|variable|DIRECT_CONNECTION_ONLY
+DECL|variable|_q_ObjectMutexPool
 DECL|variable|destroyed
 DECL|variable|flagged_locations
 DECL|variable|flagged_locations_count
-DECL|variable|objectCount
 DECL|variable|objectNameChanged
 DECL|variable|parentChanged
-DECL|variable|signalSlotMutexes
