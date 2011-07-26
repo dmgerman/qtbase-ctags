@@ -1,3 +1,4 @@
+DECL|class|QPlatformScreenPrivate
 DECL|function|QPlatformScreen
 DECL|function|grabWindow
 DECL|function|physicalSize
@@ -7,4 +8,3 @@ DECL|function|topLevelAt
 DECL|function|virtualSiblings
 DECL|function|~QPlatformScreen
 DECL|member|screen
-DECL|struct|QPlatformScreenPrivate
