@@ -1,0 +1,2 @@
+DECL|macro|QOPENWFDDEVICE_H
+DECL|variable|QOpenWFDPort

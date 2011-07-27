@@ -1,0 +1,9 @@
+DECL|class|QOpenWFDResourceMap
+DECL|function|QOpenWFDResourceMap
+DECL|function|eglContextForContext
+DECL|function|eglDisplayForWindow
+DECL|function|nativeResourceForContext
+DECL|function|nativeResourceForWindow
+DECL|function|wfdDeviceForWindow
+DECL|function|wfdPipelineForWindow
+DECL|function|wfdPortForWindow

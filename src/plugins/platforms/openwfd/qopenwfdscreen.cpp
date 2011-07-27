@@ -1,0 +1,13 @@
+DECL|function|QOpenWFDScreen
+DECL|function|bindFramebuffer
+DECL|function|commitStagedOutputBuffer
+DECL|function|depth
+DECL|function|format
+DECL|function|geometry
+DECL|function|nextAvailableRenderBuffer
+DECL|function|physicalSize
+DECL|function|pipelineBindSourceComplete
+DECL|function|port
+DECL|function|setStagedBackBuffer
+DECL|function|swapBuffers
+DECL|function|~QOpenWFDScreen

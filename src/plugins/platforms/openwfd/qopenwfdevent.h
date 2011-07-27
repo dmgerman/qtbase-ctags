@@ -1,0 +1,1 @@
+DECL|macro|QOPENWFDEVENT_H

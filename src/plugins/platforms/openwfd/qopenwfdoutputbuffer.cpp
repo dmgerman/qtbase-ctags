@@ -1,0 +1,3 @@
+DECL|function|QOpenWFDOutputBuffer
+DECL|function|bindToCurrentFbo
+DECL|function|~QOpenWFDOutputBuffer

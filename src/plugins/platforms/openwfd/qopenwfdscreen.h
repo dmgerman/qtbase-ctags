@@ -1,0 +1,3 @@
+DECL|macro|BUFFER_NUM
+DECL|macro|QOPENWFDSCREEN_H
+DECL|variable|QOpenWFDPort
