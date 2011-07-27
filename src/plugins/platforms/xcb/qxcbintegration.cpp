@@ -2,13 +2,13 @@ DECL|class|QEGLXcbPlatformContext
 DECL|function|QEGLXcbPlatformContext
 DECL|function|QXcbIntegration
 DECL|function|clipboard
-DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformGLContext
 DECL|function|createPlatformWindow
 DECL|function|drag
 DECL|function|eglSurfaceForPlatformSurface
 DECL|function|fontDatabase
+DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|moveToScreen

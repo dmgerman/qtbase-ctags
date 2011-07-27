@@ -20,7 +20,6 @@ DECL|function|platformWindowFromId
 DECL|function|printXcbEvent
 DECL|function|processXcbEvents
 DECL|function|removeWindow
-DECL|function|setEventDispatcher
 DECL|function|sync
 DECL|function|~QXcbConnection
 DECL|macro|EGL_EGLEXT_PROTOTYPES
