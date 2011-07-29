@@ -80,6 +80,7 @@ DECL|variable|QMouseEvent
 DECL|variable|QMoveEvent
 DECL|variable|QObject
 DECL|variable|QPaintEvent
+DECL|variable|QPixmap
 DECL|variable|QPlatformWindow
 DECL|variable|QRasterWindowSurface
 DECL|variable|QResizeEvent

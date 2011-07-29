@@ -89,6 +89,7 @@ DECL|function|getContentsMargins
 DECL|function|getDC
 DECL|function|getLayoutItemMargins
 DECL|function|getOpaqueChildren
+DECL|function|grab
 DECL|function|grabGesture
 DECL|function|grabShortcut
 DECL|function|graphicsEffect
@@ -203,6 +204,7 @@ DECL|function|scroll
 DECL|function|scroll
 DECL|function|scrollChildren
 DECL|function|sendPendingMoveAndResizeEvents
+DECL|function|sendResizeEvents
 DECL|function|setAcceptDrops
 DECL|function|setAccessibleDescription
 DECL|function|setAccessibleName
