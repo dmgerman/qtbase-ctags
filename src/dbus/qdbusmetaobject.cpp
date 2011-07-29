@@ -4,6 +4,7 @@ DECL|enumerator|AccessPrivate
 DECL|enumerator|AccessProtected
 DECL|enumerator|AccessPublic
 DECL|enumerator|Designable
+DECL|enumerator|DynamicMetaObject
 DECL|enumerator|Editable
 DECL|enumerator|EnumOrFlag
 DECL|enumerator|Invalid
@@ -15,6 +16,7 @@ DECL|enumerator|MethodSignal
 DECL|enumerator|MethodSlot
 DECL|enumerator|MethodTypeMask
 DECL|enumerator|Readable
+DECL|enumerator|RequiresVariantMetaObject
 DECL|enumerator|Resettable
 DECL|enumerator|ResolveDesignable
 DECL|enumerator|ResolveEditable
@@ -26,6 +28,7 @@ DECL|enumerator|StdCppSet
 DECL|enumerator|Stored
 DECL|enumerator|User
 DECL|enumerator|Writable
+DECL|enum|MetaObjectFlags
 DECL|enum|MethodFlags
 DECL|enum|PropertyFlags
 DECL|function|QDBusMetaObject
@@ -46,9 +49,12 @@ DECL|function|write
 DECL|member|classInfoCount
 DECL|member|classInfoData
 DECL|member|className
+DECL|member|constructorCount
+DECL|member|constructorData
 DECL|member|data
 DECL|member|enumeratorCount
 DECL|member|enumeratorData
+DECL|member|flags
 DECL|member|flags
 DECL|member|flags
 DECL|member|id
