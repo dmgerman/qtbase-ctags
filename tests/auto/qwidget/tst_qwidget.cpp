@@ -307,6 +307,7 @@ DECL|function|visible
 DECL|function|visible_setWindowOpacity
 DECL|function|widget
 DECL|function|widgetAt
+DECL|function|winHandleOf
 DECL|function|winIdChangeEvent
 DECL|function|winIdChangeEventCount
 DECL|function|windowFlags
