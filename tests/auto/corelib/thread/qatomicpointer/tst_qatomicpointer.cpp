@@ -1,4 +1,5 @@
 DECL|class|tst_QAtomicPointer
+DECL|function|alignment
 DECL|function|assignment_operator
 DECL|function|bar
 DECL|function|constAndVolatile
