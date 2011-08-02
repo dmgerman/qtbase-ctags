@@ -1,0 +1,7 @@
+DECL|function|QKmsBufferManager
+DECL|function|clearBuffers
+DECL|function|displayFramebufferId
+DECL|function|nextBuffer
+DECL|function|renderTargetBuffer
+DECL|function|setupBuffersForMode
+DECL|function|~QKmsBufferManager
