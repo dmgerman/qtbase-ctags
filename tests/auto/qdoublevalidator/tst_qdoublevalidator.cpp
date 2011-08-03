@@ -1,4 +1,5 @@
 DECL|class|tst_QDoubleValidator
+DECL|function|notifySignals
 DECL|function|validate
 DECL|function|validateIntEquiv
 DECL|function|validateIntEquiv_data

@@ -35,12 +35,15 @@ DECL|function|subjectAndIssuerAttributes
 DECL|function|task256066toPem
 DECL|function|toPemOrDer
 DECL|function|toPemOrDer_data
+DECL|function|toString
 DECL|function|toText
 DECL|function|tst_QSslCertificate
 DECL|function|utf8SubjectNames
 DECL|function|verify
 DECL|function|~tst_QSslCertificate
 DECL|macro|SRCDIR
+DECL|macro|VERIFY_VERBOSE
+DECL|macro|VERIFY_VERBOSE
 DECL|member|certInfoList
 DECL|member|fileInfo
 DECL|member|fileInfo_digest_md5

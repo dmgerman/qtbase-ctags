@@ -1,0 +1,9 @@
+DECL|enumerator|Offset0
+DECL|enumerator|Offset1
+DECL|enumerator|Offset2
+DECL|enumerator|Offset3
+DECL|enumerator|Size0
+DECL|enumerator|Size1
+DECL|enumerator|Size2
+DECL|enumerator|Size3
+DECL|member|Sizes

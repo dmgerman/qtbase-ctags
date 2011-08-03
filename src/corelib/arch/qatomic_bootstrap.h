@@ -1,8 +1,12 @@
 DECL|function|deref
+DECL|function|fetchAndAddAcquire
+DECL|function|fetchAndAddOrdered
 DECL|function|fetchAndAddRelaxed
+DECL|function|fetchAndAddRelease
 DECL|function|ref
 DECL|function|testAndSetAcquire
 DECL|function|testAndSetOrdered
 DECL|function|testAndSetOrdered
+DECL|function|testAndSetRelaxed
 DECL|function|testAndSetRelease
 DECL|macro|QATOMIC_BOOTSTRAP_H

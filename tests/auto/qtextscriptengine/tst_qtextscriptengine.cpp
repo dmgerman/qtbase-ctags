@@ -8,6 +8,7 @@ DECL|function|devanagari
 DECL|function|greek
 DECL|function|gurmukhi
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|kannada
 DECL|function|khmer
 DECL|function|linearB
@@ -26,5 +27,6 @@ DECL|macro|private
 DECL|macro|private
 DECL|macro|private
 DECL|member|glyphs
+DECL|member|haveTestFonts
 DECL|member|unicode
 DECL|struct|ShapeTable

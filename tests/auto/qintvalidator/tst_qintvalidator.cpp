@@ -1,4 +1,5 @@
 DECL|class|tst_QIntValidator
+DECL|function|notifySignals
 DECL|function|validate
 DECL|function|validateArabic
 DECL|function|validateFrench

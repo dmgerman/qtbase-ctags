@@ -1,4 +1,6 @@
+DECL|class|QRelatedTableModel
 DECL|class|QSqlRelationalTableModelPrivate
+DECL|function|QRelatedTableModel
 DECL|function|QRelation
 DECL|function|QSqlRelationalTableModel
 DECL|function|QSqlRelationalTableModelPrivate
@@ -25,6 +27,7 @@ DECL|function|removeColumns
 DECL|function|revertCachedRow
 DECL|function|revertRow
 DECL|function|select
+DECL|function|select
 DECL|function|selectStatement
 DECL|function|setData
 DECL|function|setJoinMode
@@ -35,10 +38,12 @@ DECL|function|updateRowInTable
 DECL|function|~QSqlRelationalTableModel
 DECL|member|baseRec
 DECL|member|dictionary
+DECL|member|firstSelect
 DECL|member|joinMode
 DECL|member|m_dictInitialized
 DECL|member|m_parent
 DECL|member|model
 DECL|member|rel
+DECL|member|relation
 DECL|member|relations
 DECL|struct|QRelation
