@@ -5,7 +5,6 @@ DECL|function|QSslCertificate
 DECL|function|QSslCertificate_from_X509
 DECL|function|_q_SubjectInfoToString
 DECL|function|_q_mapFromX509Name
-DECL|function|alternateSubjectNames
 DECL|function|asn1ObjectName
 DECL|function|certificatesFromDer
 DECL|function|certificatesFromPem
@@ -31,6 +30,7 @@ DECL|function|operator =
 DECL|function|operator ==
 DECL|function|publicKey
 DECL|function|serialNumber
+DECL|function|subjectAlternativeNames
 DECL|function|subjectInfo
 DECL|function|subjectInfo
 DECL|function|subjectInfoAttributes

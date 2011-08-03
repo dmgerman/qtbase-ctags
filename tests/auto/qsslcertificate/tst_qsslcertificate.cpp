@@ -1,7 +1,5 @@
 DECL|class|tst_QSslCertificate
 DECL|function|CertInfo
-DECL|function|alternateSubjectNames
-DECL|function|alternateSubjectNames_data
 DECL|function|blacklistedCertificates
 DECL|function|certInfo
 DECL|function|certInfoQByteArray
@@ -31,6 +29,8 @@ DECL|function|nulInSan
 DECL|function|publicKey
 DECL|function|publicKey_data
 DECL|function|readFile
+DECL|function|subjectAlternativeNames
+DECL|function|subjectAlternativeNames_data
 DECL|function|subjectAndIssuerAttributes
 DECL|function|task256066toPem
 DECL|function|toPemOrDer
