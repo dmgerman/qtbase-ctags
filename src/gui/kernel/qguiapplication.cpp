@@ -43,6 +43,7 @@ DECL|function|processMouseEvent
 DECL|function|processTouchEvent
 DECL|function|processUnmapEvent
 DECL|function|processWheelEvent
+DECL|function|processWindowStateChangedEvent
 DECL|function|processWindowSystemEvent
 DECL|function|qt_detectRTLLanguage
 DECL|function|reportAvailableGeometryChange

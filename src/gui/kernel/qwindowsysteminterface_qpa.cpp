@@ -22,6 +22,7 @@ DECL|function|handleUnmapEvent
 DECL|function|handleWheelEvent
 DECL|function|handleWheelEvent
 DECL|function|handleWindowActivated
+DECL|function|handleWindowStateChanged
 DECL|function|queueWindowSystemEvent
 DECL|function|sendWindowSystemEvents
 DECL|function|windowSystemEventsQueued
