@@ -1,5 +1,6 @@
 DECL|function|QWindow
 DECL|function|QWindow
+DECL|function|QWindow
 DECL|function|baseSize
 DECL|function|close
 DECL|function|create
