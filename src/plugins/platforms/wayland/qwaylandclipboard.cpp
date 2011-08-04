@@ -1,4 +1,4 @@
-DECL|class|QWaylandMimeData
+DECL|class|QWaylandClipboardMimeData
 DECL|class|QWaylandSelection
 DECL|function|QWaylandClipboard
 DECL|function|QWaylandSelection
