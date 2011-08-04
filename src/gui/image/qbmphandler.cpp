@@ -28,3 +28,5 @@ DECL|variable|BMP_RGB
 DECL|variable|BMP_RLE4
 DECL|variable|BMP_RLE8
 DECL|variable|BMP_WIN
+DECL|variable|BMP_WIN4
+DECL|variable|BMP_WIN5

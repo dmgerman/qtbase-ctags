@@ -27,13 +27,15 @@ DECL|function|reexec
 DECL|function|removePostedEvents
 DECL|function|run
 DECL|function|sendEventsOnProcessEvents
-DECL|function|start
+DECL|function|startThread
+DECL|function|threadDestroyed
 DECL|function|threadFinished
 DECL|function|threadProgress
-DECL|function|~DeliverInDefinedOrderObject
 DECL|member|count
 DECL|member|counter
 DECL|member|globalPostedEventsCount
+DECL|member|loopLevel
 DECL|member|other
 DECL|member|recordedEvents
+DECL|member|startCount
 DECL|member|thread

@@ -21,6 +21,7 @@ DECL|function|recreateTestTables
 DECL|function|relationModel
 DECL|function|removeColumn
 DECL|function|revert
+DECL|function|selectAfterUpdate
 DECL|function|setData
 DECL|function|setRecord
 DECL|function|sort

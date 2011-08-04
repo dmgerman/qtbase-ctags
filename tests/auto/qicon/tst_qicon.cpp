@@ -11,6 +11,7 @@ DECL|function|cacheKey
 DECL|function|cleanup
 DECL|function|detach
 DECL|function|fromTheme
+DECL|function|haveImageFormat
 DECL|function|init
 DECL|function|isNull
 DECL|function|name

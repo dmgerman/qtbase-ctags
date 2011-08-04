@@ -65,6 +65,7 @@ DECL|function|inputMask
 DECL|function|inputMaskAndValidator
 DECL|function|inputMaskAndValidator_data
 DECL|function|inputMask_data
+DECL|function|inputMethodSelection
 DECL|function|insert
 DECL|function|isModified
 DECL|function|isReadOnly
@@ -89,6 +90,7 @@ DECL|function|onReturnPressed
 DECL|function|onSelectionChanged
 DECL|function|onTextChanged
 DECL|function|onTextEdited
+DECL|function|passwordEchoDelay
 DECL|function|passwordEchoOnEdit
 DECL|function|paste
 DECL|function|psKeyClick
@@ -100,6 +102,7 @@ DECL|function|returnPressed
 DECL|function|returnPressedKeyEvent
 DECL|function|returnPressed_maskvalidator
 DECL|function|returnPressed_maskvalidator_data
+DECL|function|selectAndCursorPosition
 DECL|function|selectedText
 DECL|function|setAlignment
 DECL|function|setAlignment_data
