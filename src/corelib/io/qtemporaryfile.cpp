@@ -47,5 +47,8 @@ DECL|struct|QConcatenable
 DECL|typedef|Char
 DECL|typedef|ConvertTo
 DECL|typedef|ConvertTo
+DECL|typedef|NativeFileHandle
+DECL|typedef|NativeFileHandle
+DECL|typedef|NativeFileHandle
 DECL|typedef|type
 DECL|typedef|type
