@@ -8,4 +8,3 @@ DECL|function|fontDatabase
 DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
 DECL|function|nativeInterface
-DECL|function|screens
