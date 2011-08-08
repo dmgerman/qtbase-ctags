@@ -14,6 +14,7 @@ DECL|function|drawStruckOutText
 DECL|function|drawUnderlinedText
 DECL|function|equalsOperator
 DECL|function|equalsOperator_data
+DECL|function|init
 DECL|function|initTestCase
 DECL|function|make_dummy_indexes
 DECL|function|setRawData
@@ -21,4 +22,5 @@ DECL|function|setRawDataAndGetAsVector
 DECL|function|textLayoutGlyphIndexes
 DECL|member|m_testFont
 DECL|member|m_testFontId
+DECL|member|m_testFont_ok
 DECL|variable|QGlyphRun
