@@ -41,7 +41,6 @@ DECL|function|lastRead
 DECL|function|makeAbsolute
 DECL|function|operator =
 DECL|function|operator ==
-DECL|function|operator ==
 DECL|function|owner
 DECL|function|ownerId
 DECL|function|path
