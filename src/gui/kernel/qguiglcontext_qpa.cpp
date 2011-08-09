@@ -21,6 +21,7 @@ DECL|function|setScreen
 DECL|function|setShareContext
 DECL|function|shareContext
 DECL|function|shareHandle
+DECL|function|surface
 DECL|function|swapBuffers
 DECL|function|~QGuiGLContext
 DECL|function|~QGuiGLContextPrivate
@@ -32,4 +33,5 @@ DECL|member|qGLContextHandle
 DECL|member|requestedFormat
 DECL|member|screen
 DECL|member|shareContext
+DECL|member|surface
 DECL|variable|qwindow_context_storage
