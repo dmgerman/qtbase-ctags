@@ -15,4 +15,3 @@ DECL|function|moveToScreen
 DECL|function|nativeInterface
 DECL|function|printerSupport
 DECL|function|~QXcbIntegration
-DECL|macro|XCB_USE_IBUS
