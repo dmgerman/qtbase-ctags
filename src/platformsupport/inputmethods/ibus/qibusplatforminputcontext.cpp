@@ -3,6 +3,7 @@ DECL|function|QIBusPlatformInputContext
 DECL|function|QIBusPlatformInputContextPrivate
 DECL|function|commitText
 DECL|function|createConnection
+DECL|function|isValid
 DECL|function|mouseHandler
 DECL|function|reset
 DECL|function|setFocusObject
