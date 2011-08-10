@@ -9,6 +9,7 @@ DECL|function|createEventDispatcher
 DECL|function|createPlatformIntegration
 DECL|function|currentKeyPlatform
 DECL|function|doubleClickInterval
+DECL|function|emitLastWindowClosed
 DECL|function|event
 DECL|function|exec
 DECL|function|font
@@ -46,6 +47,7 @@ DECL|function|processWheelEvent
 DECL|function|processWindowStateChangedEvent
 DECL|function|processWindowSystemEvent
 DECL|function|qt_detectRTLLanguage
+DECL|function|quitOnLastWindowClosed
 DECL|function|reportAvailableGeometryChange
 DECL|function|reportGeometryChange
 DECL|function|reportScreenCount
@@ -57,6 +59,7 @@ DECL|function|setFont
 DECL|function|setKeyboardInputInterval
 DECL|function|setLayoutDirection
 DECL|function|setOverrideCursor
+DECL|function|setQuitOnLastWindowClosed
 DECL|function|topLevelAt
 DECL|function|topLevelWindows
 DECL|function|~QGuiApplication
@@ -77,6 +80,7 @@ DECL|member|mouse_double_click_distance
 DECL|member|mouse_double_click_time
 DECL|member|platform_integration
 DECL|member|qt_clipboard
+DECL|member|quitOnLastWindowClosed
 DECL|member|screen_list
 DECL|member|self
 DECL|member|window_list

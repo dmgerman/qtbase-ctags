@@ -19,6 +19,7 @@ DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
 DECL|function|lower
 DECL|function|maximumSize
+DECL|function|maybeQuitOnLastWindowClosed
 DECL|function|minimumSize
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseMoveEvent
