@@ -1,0 +1,11 @@
+DECL|class|QPdfWriterPrivate
+DECL|function|QPdfWriter
+DECL|function|QPdfWriter
+DECL|function|QPdfWriterPrivate
+DECL|function|metric
+DECL|function|newPage
+DECL|function|paintEngine
+DECL|function|~QPdfWriter
+DECL|function|~QPdfWriterPrivate
+DECL|member|engine
+DECL|member|output
