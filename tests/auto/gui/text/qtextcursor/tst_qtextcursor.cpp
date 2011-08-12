@@ -38,6 +38,7 @@ DECL|function|insertWithBlockSeparator1
 DECL|function|insertWithBlockSeparator2
 DECL|function|insertWithBlockSeparator3
 DECL|function|insertWithBlockSeparator4
+DECL|function|joinNonEmptyRemovedBlockUserState
 DECL|function|joinPreviousEditBlock
 DECL|function|mergeCellShouldUpdateSelection
 DECL|function|movePositionEndOfLine
