@@ -1,7 +1,7 @@
 DECL|function|ByteStream
 DECL|function|ByteStream
-DECL|function|QPdfBaseEngine
-DECL|function|QPdfBaseEnginePrivate
+DECL|function|QPdfEngine
+DECL|function|QPdfEnginePrivate
 DECL|function|QPdfPage
 DECL|function|Stroker
 DECL|function|addBrushPattern
@@ -76,7 +76,7 @@ DECL|function|writeTail
 DECL|function|writeTriangleLine
 DECL|function|xprintf
 DECL|function|~ByteStream
-DECL|function|~QPdfBaseEnginePrivate
+DECL|function|~QPdfEnginePrivate
 DECL|macro|QT_PATH_ELEMENT
 DECL|macro|Q_IN
 DECL|macro|Q_MM

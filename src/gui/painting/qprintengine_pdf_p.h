@@ -2,9 +2,9 @@ DECL|macro|QPRINTENGINE_PDF_P_H
 DECL|variable|QDataStream
 DECL|variable|QFile
 DECL|variable|QImage
-DECL|variable|QPdfBaseEngine
 DECL|variable|QPdfEngine
-DECL|variable|QPdfEnginePrivate
+DECL|variable|QPdfPrintEngine
+DECL|variable|QPdfPrintEnginePrivate
 DECL|variable|QPen
 DECL|variable|QPointF
 DECL|variable|QRegion
