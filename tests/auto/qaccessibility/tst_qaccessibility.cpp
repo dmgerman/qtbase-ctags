@@ -69,6 +69,7 @@ DECL|function|table2TreeTest
 DECL|function|tableViewTest
 DECL|function|tableWidgetTest
 DECL|function|text
+DECL|function|textAttributes
 DECL|function|textBrowserTest
 DECL|function|textEditTest
 DECL|function|treeWidgetTest
