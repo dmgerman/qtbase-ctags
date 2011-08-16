@@ -16,6 +16,7 @@ DECL|function|handleMouseEvent
 DECL|function|handleScreenAvailableGeometryChange
 DECL|function|handleScreenCountChange
 DECL|function|handleScreenGeometryChange
+DECL|function|handleSynchronousGeometryChange
 DECL|function|handleTouchEvent
 DECL|function|handleTouchEvent
 DECL|function|handleUnmapEvent
