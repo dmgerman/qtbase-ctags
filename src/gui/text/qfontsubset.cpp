@@ -13,13 +13,11 @@ DECL|function|QTtfStream
 DECL|function|addGlyph
 DECL|function|align4
 DECL|function|bindFont
-DECL|function|charString
 DECL|function|checkRanges
 DECL|function|checksum
 DECL|function|convertPath
 DECL|function|convertToRelative
 DECL|function|createToUnicodeMap
-DECL|function|encodeNumber
 DECL|function|ft_face
 DECL|function|generateGlyph
 DECL|function|generateGlyphTables
@@ -45,8 +43,6 @@ DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|setOffset
 DECL|function|toTruetype
-DECL|function|toType1
-DECL|function|type1AddedGlyphs
 DECL|function|widthArray
 DECL|macro|TAG
 DECL|macro|TO_TTF
@@ -117,8 +113,5 @@ DECL|typedef|GlyphID
 DECL|typedef|Offset
 DECL|typedef|Tag
 DECL|variable|agl
-DECL|variable|courier_styles
-DECL|variable|helvetica_styles
 DECL|variable|symbol_map
-DECL|variable|times_styles
 DECL|variable|unicode_to_aglindex
