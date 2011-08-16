@@ -1,3 +1,7 @@
+DECL|macro|PPK_CupsOptions
+DECL|macro|PPK_CupsPageRect
+DECL|macro|PPK_CupsPaperRect
+DECL|macro|PPK_CupsStringPageSize
 DECL|macro|QPRINTENGINE_PDF_P_H
 DECL|variable|QDataStream
 DECL|variable|QFile

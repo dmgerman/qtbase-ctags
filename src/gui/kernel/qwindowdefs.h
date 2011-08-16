@@ -39,7 +39,6 @@ DECL|variable|QPicture
 DECL|variable|QPixmap
 DECL|variable|QPoint
 DECL|variable|QPolygon
-DECL|variable|QPrinter
 DECL|variable|QRect
 DECL|variable|QRegion
 DECL|variable|QSet

@@ -7,8 +7,13 @@ DECL|function|end
 DECL|function|metric
 DECL|function|newPage
 DECL|function|openPrintDevice
+DECL|function|paperSize
+DECL|function|paperSizeToString
 DECL|function|property
-DECL|function|qt_pdf_decide_features
 DECL|function|setProperty
+DECL|function|updatePaperSize
 DECL|function|~QPdfPrintEngine
 DECL|function|~QPdfPrintEnginePrivate
+DECL|macro|Q_IN
+DECL|macro|Q_MM
+DECL|variable|psToStr
