@@ -1,0 +1,3 @@
+DECL|function|QPlatformPrinterSupportPlugin
+DECL|function|get
+DECL|function|~QPlatformPrinterSupportPlugin
