@@ -29,6 +29,8 @@ DECL|function|disableAttributeArray
 DECL|function|disableAttributeArray
 DECL|function|enableAttributeArray
 DECL|function|enableAttributeArray
+DECL|function|freeProgramFunc
+DECL|function|freeShaderFunc
 DECL|function|geometryInputType
 DECL|function|geometryOutputType
 DECL|function|geometryOutputVertexCount
@@ -191,10 +193,6 @@ DECL|macro|GL_VERTEX_SHADER
 DECL|macro|QGL_DEFINE_QUALIFIERS
 DECL|macro|QGL_REDEFINE_HIGHP
 DECL|macro|context
-DECL|macro|ctx
-DECL|macro|ctx
-DECL|macro|ctx
-DECL|macro|ctx
 DECL|macro|ctx
 DECL|macro|ctx
 DECL|macro|ctx

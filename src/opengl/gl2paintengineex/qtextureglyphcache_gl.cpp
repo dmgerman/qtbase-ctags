@@ -6,6 +6,5 @@ DECL|function|glyphPadding
 DECL|function|maxTextureHeight
 DECL|function|maxTextureWidth
 DECL|function|resizeTextureData
-DECL|function|setContext
 DECL|function|~QGLTextureGlyphCache
 DECL|variable|qgltextureglyphcache_serial_number

@@ -1,3 +1,4 @@
 DECL|macro|QGUIGLCONTEXT_H
+DECL|variable|QGuiGLContextGroupPrivate
 DECL|variable|QPlatformGLContext
 DECL|variable|QSurface

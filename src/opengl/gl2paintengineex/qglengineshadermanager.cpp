@@ -1,11 +1,15 @@
+DECL|class|QGLEngineSharedShadersResource
 DECL|class|QGLShaderStorage
 DECL|function|QGLEngineShaderManager
 DECL|function|QGLEngineSharedShaders
+DECL|function|QGLEngineSharedShadersResource
 DECL|function|blitProgram
 DECL|function|cleanupCustomStage
 DECL|function|currentProgram
 DECL|function|findProgramInCache
+DECL|function|freeResource
 DECL|function|getUniformLocation
+DECL|function|invalidateResource
 DECL|function|optimiseForBrushTransform
 DECL|function|removeCustomStage
 DECL|function|setCompositionMode
@@ -15,6 +19,7 @@ DECL|function|setMaskType
 DECL|function|setOpacityMode
 DECL|function|setSrcPixelType
 DECL|function|setSrcPixelType
+DECL|function|shaders
 DECL|function|shadersForContext
 DECL|function|shadersForThread
 DECL|function|simpleProgram
@@ -24,5 +29,7 @@ DECL|function|useCorrectShaderProg
 DECL|function|useSimpleProgram
 DECL|function|~QGLEngineShaderManager
 DECL|function|~QGLEngineSharedShaders
+DECL|function|~QGLEngineSharedShadersResource
+DECL|member|m_shaders
 DECL|member|m_storage
 DECL|member|qShaderSnippets

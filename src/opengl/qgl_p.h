@@ -1,3 +1,4 @@
+DECL|function|createSharedResourceGuard
 DECL|function|getTexture
 DECL|function|maxCost
 DECL|function|operator
@@ -15,10 +16,8 @@ DECL|member|group
 DECL|member|key
 DECL|struct|QGLTextureCacheKey
 DECL|variable|QGLContext
-DECL|variable|QGLContextGroupResourceBase
 DECL|variable|QGLContextResourceBase
 DECL|variable|QGLOverlayWidget
-DECL|variable|QGLSharedResourceGuard
 DECL|variable|QGLTemporaryContextPrivate
 DECL|variable|QGLTexture
 DECL|variable|QGLTextureDestroyer

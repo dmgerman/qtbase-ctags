@@ -8,6 +8,7 @@ DECL|function|bind
 DECL|function|bufferId
 DECL|function|create
 DECL|function|destroy
+DECL|function|freeBufferFunc
 DECL|function|isCreated
 DECL|function|map
 DECL|function|operator =

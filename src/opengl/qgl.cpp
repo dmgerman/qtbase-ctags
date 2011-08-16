@@ -3,7 +3,6 @@ DECL|class|QGLDefaultOverlayFormat
 DECL|function|QGLContext
 DECL|function|QGLContext
 DECL|function|QGLContextGroup
-DECL|function|QGLContextGroupResourceBase
 DECL|function|QGLContextPrivate
 DECL|function|QGLDefaultExtensions
 DECL|function|QGLDefaultOverlayFormat
@@ -21,7 +20,6 @@ DECL|function|QGLWidget
 DECL|function|QGLWidget
 DECL|function|QGLWidget
 DECL|function|accumBufferSize
-DECL|function|addGuard
 DECL|function|addShare
 DECL|function|alphaBufferSize
 DECL|function|append
@@ -47,10 +45,7 @@ DECL|function|bindTexture
 DECL|function|blueBufferSize
 DECL|function|canBindCompressedTexture
 DECL|function|cleanup
-DECL|function|cleanup
-DECL|function|cleanup
 DECL|function|cleanupBeforePixmapDestruction
-DECL|function|cleanupResources
 DECL|function|cleanupTexturesForCacheKey
 DECL|function|cleanupTexturesForPixampData
 DECL|function|context
@@ -91,7 +86,6 @@ DECL|function|initContext
 DECL|function|initializeGL
 DECL|function|initializeOverlayGL
 DECL|function|initialized
-DECL|function|insert
 DECL|function|insert
 DECL|function|instance
 DECL|function|instance
@@ -139,7 +133,6 @@ DECL|function|remove
 DECL|function|remove
 DECL|function|remove
 DECL|function|removeContextTextures
-DECL|function|removeGuard
 DECL|function|removeShare
 DECL|function|renderPixmap
 DECL|function|renderText
@@ -154,7 +147,6 @@ DECL|function|setAlpha
 DECL|function|setAlphaBufferSize
 DECL|function|setAutoBufferSwap
 DECL|function|setBlueBufferSize
-DECL|function|setContext
 DECL|function|setCurrentContext
 DECL|function|setDefaultFormat
 DECL|function|setDefaultOverlayFormat
@@ -194,14 +186,11 @@ DECL|function|textureCacheLimit
 DECL|function|textureCacheLookup
 DECL|function|transform_point
 DECL|function|updateGL
-DECL|function|value
 DECL|function|windowCreated
 DECL|function|~QGLContext
 DECL|function|~QGLContextGroup
-DECL|function|~QGLContextGroupResourceBase
 DECL|function|~QGLContextPrivate
 DECL|function|~QGLFormat
-DECL|function|~QGLSharedResourceGuard
 DECL|function|~QGLTextureCache
 DECL|function|~QGLThreadContext
 DECL|function|~QGLWidget

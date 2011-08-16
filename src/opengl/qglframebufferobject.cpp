@@ -17,6 +17,9 @@ DECL|function|detach
 DECL|function|drawTexture
 DECL|function|drawTexture
 DECL|function|format
+DECL|function|freeFramebufferFunc
+DECL|function|freeRenderbufferFunc
+DECL|function|freeTextureFunc
 DECL|function|handle
 DECL|function|hasOpenGLFramebufferBlit
 DECL|function|hasOpenGLFramebufferObjects
