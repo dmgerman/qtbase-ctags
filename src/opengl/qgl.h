@@ -5,7 +5,6 @@ DECL|function|depth
 DECL|function|directRendering
 DECL|function|doubleBuffer
 DECL|function|hasOverlay
-DECL|function|qGLVersion
 DECL|function|rgba
 DECL|function|sampleBuffers
 DECL|function|stencil
@@ -13,14 +12,9 @@ DECL|function|stereo
 DECL|macro|QGL_H
 DECL|macro|QGL_VERSION
 DECL|macro|QGL_VERSION_STR
-DECL|macro|Q_MAC_COMPAT_GL_FUNCTIONS
-DECL|typedef|QMacCompatGLenum
-DECL|typedef|QMacCompatGLint
-DECL|typedef|QMacCompatGLuint
 DECL|variable|QGLCmap
 DECL|variable|QGLContextPrivate
 DECL|variable|QGLFormatPrivate
 DECL|variable|QGLFunctions
-DECL|variable|QGLOverlayWidget
 DECL|variable|QGLWidgetPrivate
 DECL|variable|QPixmap

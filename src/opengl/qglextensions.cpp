@@ -1,6 +1,5 @@
 DECL|function|qt_gl_getProcAddress_search
 DECL|function|qt_resolve_buffer_extensions
-DECL|function|qt_resolve_eglimage_gl_extensions
 DECL|function|qt_resolve_frag_program_extensions
 DECL|function|qt_resolve_framebufferobject_extensions
 DECL|function|qt_resolve_glsl_extensions

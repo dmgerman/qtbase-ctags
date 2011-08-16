@@ -1,3 +1,0 @@
-DECL|macro|QPAINTENGINE_OPENGL_P_H
-DECL|variable|QGLTexture
-DECL|variable|QOpenGLPaintEnginePrivate

@@ -56,10 +56,6 @@ DECL|function|setAttributeArray
 DECL|function|setAttributeArray
 DECL|function|setAttributeArray
 DECL|function|setAttributeArray
-DECL|function|setAttributeArray
-DECL|function|setAttributeArray
-DECL|function|setAttributeBuffer
-DECL|function|setAttributeBuffer
 DECL|function|setAttributeBuffer
 DECL|function|setAttributeBuffer
 DECL|function|setAttributeValue
@@ -137,14 +133,6 @@ DECL|function|setUniformValue
 DECL|function|setUniformValue
 DECL|function|setUniformValue
 DECL|function|setUniformValue
-DECL|function|setUniformValue
-DECL|function|setUniformValue
-DECL|function|setUniformValue
-DECL|function|setUniformValue
-DECL|function|setUniformValueArray
-DECL|function|setUniformValueArray
-DECL|function|setUniformValueArray
-DECL|function|setUniformValueArray
 DECL|function|setUniformValueArray
 DECL|function|setUniformValueArray
 DECL|function|setUniformValueArray

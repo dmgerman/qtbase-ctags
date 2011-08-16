@@ -192,8 +192,6 @@ DECL|macro|glDeleteRenderbuffers
 DECL|macro|glDeleteShader
 DECL|macro|glDetachShader
 DECL|macro|glDisableVertexAttribArray
-DECL|macro|glEGLImageTargetRenderbufferStorageOES
-DECL|macro|glEGLImageTargetTexture2DOES
 DECL|macro|glEnableVertexAttribArray
 DECL|macro|glFramebufferRenderbuffer
 DECL|macro|glFramebufferTexture2D
@@ -280,8 +278,6 @@ DECL|member|qt_glDeleteRenderbuffers
 DECL|member|qt_glDeleteShader
 DECL|member|qt_glDetachShader
 DECL|member|qt_glDisableVertexAttribArray
-DECL|member|qt_glEGLImageTargetRenderbufferStorageOES
-DECL|member|qt_glEGLImageTargetTexture2DOES
 DECL|member|qt_glEnableVertexAttribArray
 DECL|member|qt_glFramebufferRenderbuffer
 DECL|member|qt_glFramebufferTexture2D
@@ -373,8 +369,6 @@ DECL|typedef|_glDeleteRenderbuffers
 DECL|typedef|_glDeleteShader
 DECL|typedef|_glDetachShader
 DECL|typedef|_glDisableVertexAttribArray
-DECL|typedef|_glEGLImageTargetRenderbufferStorageOES
-DECL|typedef|_glEGLImageTargetTexture2DOES
 DECL|typedef|_glEnableVertexAttribArray
 DECL|typedef|_glFramebufferRenderbuffer
 DECL|typedef|_glFramebufferTexture2D
