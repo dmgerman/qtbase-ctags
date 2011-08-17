@@ -10,6 +10,7 @@ DECL|function|drawToRect
 DECL|function|drawToRect_data
 DECL|function|drawUnderlinedText
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|plainTextVsRichText
 DECL|function|prepareToCorrectData
 DECL|function|prepareToWrongData
@@ -27,3 +28,4 @@ DECL|function|transformationChanged
 DECL|function|translatedPainter
 DECL|function|underlinedColor_qtbug20159
 DECL|function|unprintableCharacter_qtbug12614
+DECL|member|m_whiteSquare
