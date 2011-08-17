@@ -24,6 +24,8 @@ DECL|function|pixelMetric
 DECL|function|polish
 DECL|function|polish
 DECL|function|polish
+DECL|function|qt_add_rect
+DECL|function|qt_hrgn_from_qregion
 DECL|function|region
 DECL|function|resolveSymbols
 DECL|function|setTransparency
