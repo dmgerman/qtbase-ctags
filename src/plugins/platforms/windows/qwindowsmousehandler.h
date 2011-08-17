@@ -1,0 +1,3 @@
+DECL|function|keyStateToMouseButtons
+DECL|macro|QWINDOWSMOUSEHANDLER_H
+DECL|variable|QWindow
