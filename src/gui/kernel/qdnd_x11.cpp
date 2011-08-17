@@ -4,7 +4,6 @@ DECL|enumerator|XdndDropTransactionTimeout
 DECL|function|QShapedPixmapWidget
 DECL|function|cancel
 DECL|function|checkEmbedded
-DECL|function|currentKeyboardModifiers
 DECL|function|dndEnable
 DECL|function|drag
 DECL|function|drop

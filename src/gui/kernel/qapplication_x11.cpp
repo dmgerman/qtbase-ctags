@@ -73,6 +73,7 @@ DECL|function|qt_x11_create_intern_atoms
 DECL|function|qt_x_errhandler
 DECL|function|qt_xfixes_scanner
 DECL|function|qt_xio_errhandler
+DECL|function|queryKeyboardModifiers
 DECL|function|readRX71MultiTouchEvents
 DECL|function|release
 DECL|function|requestPhase2

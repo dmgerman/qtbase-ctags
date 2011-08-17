@@ -66,6 +66,7 @@ DECL|function|qGlobalS60Data
 DECL|function|qt_cleanup
 DECL|function|qt_init
 DECL|function|qt_nograb
+DECL|function|queryKeyboardModifiers
 DECL|function|qwidgetResize_helper
 DECL|function|resolveS60ScanCode
 DECL|function|restoreOverrideCursor
@@ -117,5 +118,6 @@ DECL|variable|KSplitViewCloseEvent
 DECL|variable|KSplitViewOpenEvent
 DECL|variable|appNoGrab
 DECL|variable|app_do_modal
+DECL|variable|app_keyboardModifiers
 DECL|variable|qt_S60Beep
 DECL|variable|qt_button_down

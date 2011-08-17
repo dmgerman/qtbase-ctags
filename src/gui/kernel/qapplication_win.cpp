@@ -51,6 +51,7 @@ DECL|function|qt_win_eatMouseMove
 DECL|function|qt_win_getKeyboardModifiers
 DECL|function|qt_win_read_cleartype_settings
 DECL|function|qt_win_set_cursor
+DECL|function|queryKeyboardModifiers
 DECL|function|release
 DECL|function|releaseAutoCapture
 DECL|function|repolishStyle

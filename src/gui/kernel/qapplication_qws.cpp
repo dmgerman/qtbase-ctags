@@ -66,6 +66,7 @@ DECL|function|qt_init_display
 DECL|function|qt_server_enqueue
 DECL|function|qt_set_qws_resources
 DECL|function|qt_try_modal
+DECL|function|queryKeyboardModifiers
 DECL|function|queueNotEmpty
 DECL|function|qwsDecoration
 DECL|function|qwsEventFilter
