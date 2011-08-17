@@ -1,0 +1,12 @@
+DECL|class|QPagedPaintDevicePrivate
+DECL|function|QPagedPaintDevice
+DECL|function|pageSize
+DECL|function|pageSizeMM
+DECL|function|setPageSize
+DECL|function|setPageSizeMM
+DECL|function|~QPagedPaintDevice
+DECL|member|height
+DECL|member|pageSize
+DECL|member|pageSizeMM
+DECL|member|width
+DECL|variable|pageSizes

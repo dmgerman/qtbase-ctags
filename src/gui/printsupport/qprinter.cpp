@@ -66,6 +66,7 @@ DECL|function|setOutputFormat
 DECL|function|setPageMargins
 DECL|function|setPageOrder
 DECL|function|setPageSize
+DECL|function|setPageSizeMM
 DECL|function|setPaperSize
 DECL|function|setPaperSize
 DECL|function|setPaperSource
