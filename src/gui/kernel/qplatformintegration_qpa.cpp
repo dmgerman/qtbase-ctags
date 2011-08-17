@@ -6,5 +6,4 @@ DECL|function|fontDatabase
 DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|nativeInterface
-DECL|function|printerSupport
 DECL|function|screenAdded
