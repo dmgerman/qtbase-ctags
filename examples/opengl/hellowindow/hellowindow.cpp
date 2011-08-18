@@ -2,7 +2,6 @@ DECL|function|HelloWindow
 DECL|function|Renderer
 DECL|function|createGeometry
 DECL|function|extrude
-DECL|function|format
 DECL|function|initialize
 DECL|function|mousePressEvent
 DECL|function|paintQtLogo
