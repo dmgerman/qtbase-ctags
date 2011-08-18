@@ -1,5 +1,7 @@
+DECL|class|DBusServerThread
 DECL|class|WaitForQPinger
 DECL|class|tst_QDBusAbstractInterface
+DECL|function|DBusServerThread
 DECL|function|WaitForQPinger
 DECL|function|asyncCallErrors
 DECL|function|asyncCallErrorsPeer
@@ -9,6 +11,7 @@ DECL|function|callErrors
 DECL|function|callErrorsPeer
 DECL|function|callErrorsPeer_data
 DECL|function|callErrors_data
+DECL|function|callWithTimeout
 DECL|function|cleanupTestCase
 DECL|function|complexPropDirectRead
 DECL|function|complexPropDirectReadPeer
@@ -73,6 +76,7 @@ DECL|function|propertyWriteErrorsPeer
 DECL|function|propertyWriteErrorsPeer_data
 DECL|function|propertyWriteErrors_data
 DECL|function|resetServer
+DECL|function|run
 DECL|function|stringPropDirectRead
 DECL|function|stringPropDirectReadPeer
 DECL|function|stringPropDirectWrite
@@ -90,10 +94,15 @@ DECL|function|variantPropRead
 DECL|function|variantPropReadPeer
 DECL|function|variantPropWrite
 DECL|function|variantPropWritePeer
+DECL|function|~DBusServerThread
 DECL|member|loop
+DECL|member|m_ready
 DECL|member|proc
 DECL|member|targetObj
 DECL|typedef|Pinger
 DECL|variable|interfaceName
 DECL|variable|objectPath
+DECL|variable|server_interfaceName
+DECL|variable|server_objectPath
+DECL|variable|server_serviceName
 DECL|variable|serviceName
