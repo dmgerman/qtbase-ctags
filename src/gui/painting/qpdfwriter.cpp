@@ -7,6 +7,7 @@ DECL|function|metric
 DECL|function|newPage
 DECL|function|paintEngine
 DECL|function|setCreator
+DECL|function|setMargins
 DECL|function|setPageSize
 DECL|function|setPageSizeMM
 DECL|function|setTitle

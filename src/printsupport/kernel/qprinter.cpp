@@ -59,6 +59,7 @@ DECL|function|setEngines
 DECL|function|setFontEmbeddingEnabled
 DECL|function|setFromTo
 DECL|function|setFullPage
+DECL|function|setMargins
 DECL|function|setNumCopies
 DECL|function|setOrientation
 DECL|function|setOutputFileName
