@@ -1,6 +1,5 @@
 DECL|class|QTemporaryFileEngine
 DECL|class|QTemporaryFilePrivate
-DECL|enumerator|ExactSize
 DECL|function|Latin1Char
 DECL|function|QTemporaryFile
 DECL|function|QTemporaryFile
@@ -10,7 +9,6 @@ DECL|function|QTemporaryFile
 DECL|function|QTemporaryFile
 DECL|function|QTemporaryFileEngine
 DECL|function|QTemporaryFilePrivate
-DECL|function|appendTo
 DECL|function|autoRemove
 DECL|function|close
 DECL|function|createFileFromTemplate
@@ -28,17 +26,13 @@ DECL|function|setAutoRemove
 DECL|function|setFileName
 DECL|function|setFileTemplate
 DECL|function|setFileTemplate
-DECL|function|size
 DECL|function|~QTemporaryFile
 DECL|function|~QTemporaryFileEngine
 DECL|function|~QTemporaryFilePrivate
 DECL|member|autoRemove
 DECL|member|filePathIsTemplate
 DECL|member|templateName
-DECL|struct|QConcatenable
 DECL|typedef|Char
-DECL|typedef|ConvertTo
 DECL|typedef|NativeFileHandle
 DECL|typedef|NativeFileHandle
 DECL|typedef|NativeFileHandle
-DECL|typedef|type
