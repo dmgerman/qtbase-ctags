@@ -28,6 +28,7 @@ DECL|function|qt_mac_flipPixmap
 DECL|function|qt_mac_grabDisplayRect
 DECL|function|qt_mac_grabScreenRect
 DECL|function|qt_mac_grabScreenRect_10_3
+DECL|function|qt_mac_grabScreenRect_10_6
 DECL|function|qt_mac_image_to_cgimage
 DECL|function|qt_mac_pixmap_get_base
 DECL|function|qt_mac_pixmap_get_bytes_per_line
