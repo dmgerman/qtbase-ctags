@@ -2,7 +2,9 @@ DECL|class|tst_QMatrixNxN
 DECL|class|tst_QMatrixNxN4x4Properties
 DECL|enumerator|General
 DECL|enumerator|Identity
+DECL|enumerator|Perspective
 DECL|enumerator|Rotation
+DECL|enumerator|Rotation2D
 DECL|enumerator|Scale
 DECL|enumerator|Translation
 DECL|function|add2x2

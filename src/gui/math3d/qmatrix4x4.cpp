@@ -10,6 +10,7 @@ DECL|function|inverted
 DECL|function|lookAt
 DECL|function|mapRect
 DECL|function|mapRect
+DECL|function|matrixDet2
 DECL|function|matrixDet3
 DECL|function|matrixDet4
 DECL|function|normalMatrix
