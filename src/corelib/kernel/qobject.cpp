@@ -117,3 +117,4 @@ DECL|variable|flagged_locations
 DECL|variable|flagged_locations_count
 DECL|variable|objectNameChanged
 DECL|variable|parentChanged
+DECL|variable|signalEmitted
