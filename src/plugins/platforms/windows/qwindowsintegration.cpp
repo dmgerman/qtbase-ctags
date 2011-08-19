@@ -15,7 +15,6 @@ DECL|function|instance
 DECL|function|nativeInterface
 DECL|function|nativeResourceForBackingStore
 DECL|function|nativeResourceForWindow
-DECL|function|printerSupport
 DECL|function|~QWindowsIntegration
 DECL|member|m_clipboard
 DECL|member|m_context
@@ -24,7 +23,6 @@ DECL|member|m_eventDispatcher
 DECL|member|m_fontDatabase
 DECL|member|m_nativeInterface
 DECL|member|m_openGL
-DECL|member|m_printerSupport
 DECL|member|m_staticOpenGLContext
 DECL|struct|QWindowsIntegrationPrivate
 DECL|typedef|QOpenGLStaticContextPtr
