@@ -14,6 +14,7 @@ DECL|function|operator !=
 DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator ==
+DECL|function|profile
 DECL|function|redBufferSize
 DECL|function|samples
 DECL|function|setAlphaBufferSize
@@ -21,6 +22,7 @@ DECL|function|setBlueBufferSize
 DECL|function|setDepthBufferSize
 DECL|function|setGreenBufferSize
 DECL|function|setOption
+DECL|function|setProfile
 DECL|function|setRedBufferSize
 DECL|function|setSamples
 DECL|function|setStencilBufferSize
@@ -36,6 +38,7 @@ DECL|member|depthSize
 DECL|member|greenBufferSize
 DECL|member|numSamples
 DECL|member|opts
+DECL|member|profile
 DECL|member|redBufferSize
 DECL|member|ref
 DECL|member|stencilSize
