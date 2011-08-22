@@ -1,2 +1,0 @@
-DECL|macro|QGUIGLCONTEXT_P_H
-DECL|variable|QGLMultiGroupSharedResource

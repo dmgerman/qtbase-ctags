@@ -200,8 +200,6 @@ DECL|macro|ctx
 DECL|macro|ctx
 DECL|macro|ctx
 DECL|macro|ctx
-DECL|macro|ctx
-DECL|macro|ctx
 DECL|macro|setUniformGenericMatrix
 DECL|macro|setUniformGenericMatrix
 DECL|macro|setUniformGenericMatrixArray

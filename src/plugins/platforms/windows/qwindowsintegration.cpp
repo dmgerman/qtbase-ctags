@@ -3,7 +3,7 @@ DECL|function|QWindowsIntegration
 DECL|function|QWindowsIntegrationPrivate
 DECL|function|clipboard
 DECL|function|createPlatformBackingStore
-DECL|function|createPlatformGLContext
+DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
 DECL|function|drag

@@ -1,7 +1,7 @@
 DECL|function|QKmsIntegration
 DECL|function|addScreen
 DECL|function|createPlatformBackingStore
-DECL|function|createPlatformGLContext
+DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformWindow
 DECL|function|findDrmDevices
 DECL|function|fontDatabase

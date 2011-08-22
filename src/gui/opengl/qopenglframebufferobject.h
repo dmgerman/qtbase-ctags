@@ -1,0 +1,3 @@
+DECL|macro|QOPENGLFRAMEBUFFEROBJECT_H
+DECL|variable|QOpenGLFramebufferObjectFormat
+DECL|variable|QOpenGLFramebufferObjectFormatPrivate

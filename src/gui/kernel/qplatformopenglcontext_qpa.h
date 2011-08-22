@@ -1,0 +1,3 @@
+DECL|function|QT_MODULE
+DECL|macro|QPLATFORMGLCONTEXT_H
+DECL|variable|QPlatformOpenGLContextPrivate

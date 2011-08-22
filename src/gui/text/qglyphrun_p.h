@@ -1,1 +1,1 @@
-DECL|macro|QGLYPHRUN_P_H
+DECL|macro|QOpenGLYPHRUN_P_H

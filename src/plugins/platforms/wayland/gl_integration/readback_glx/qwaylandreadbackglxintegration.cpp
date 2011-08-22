@@ -1,7 +1,7 @@
 DECL|function|QWaylandReadbackGlxIntegration
 DECL|function|createEglWindow
 DECL|function|createGLIntegration
-DECL|function|createPlatformGLContext
+DECL|function|createPlatformOpenGLContext
 DECL|function|initialize
 DECL|function|rootWindow
 DECL|function|screen

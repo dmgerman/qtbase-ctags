@@ -1,0 +1,2 @@
+DECL|macro|QOPENGLSHADERCACHE_P_H
+DECL|variable|QOpenGLContext

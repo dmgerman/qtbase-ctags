@@ -1,0 +1,12 @@
+DECL|function|getTexture
+DECL|function|maxCost
+DECL|function|operator
+DECL|function|qHash
+DECL|function|setMaxCost
+DECL|function|size
+DECL|macro|QOPENGL_P_H
+DECL|member|group
+DECL|member|key
+DECL|struct|QOpenGLTextureCacheKey
+DECL|variable|QPaintEngine
+DECL|variable|QPlatformPixmap

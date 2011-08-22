@@ -1,5 +1,5 @@
 DECL|macro|QPLATFORMSCREEN_H
-DECL|variable|QPlatformGLContext
+DECL|variable|QPlatformOpenGLContext
 DECL|variable|QPlatformScreenPrivate
 DECL|variable|QPlatformWindow
 DECL|variable|QScreen

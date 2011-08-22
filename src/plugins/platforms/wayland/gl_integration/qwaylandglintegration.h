@@ -1,5 +1,5 @@
 DECL|macro|QWAYLANDGLINTEGRATION_H
-DECL|variable|QPlatformGLContext
+DECL|variable|QPlatformOpenGLContext
 DECL|variable|QSurfaceFormat
 DECL|variable|QWaylandDisplay
 DECL|variable|QWaylandWindow

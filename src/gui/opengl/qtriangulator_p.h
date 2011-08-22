@@ -1,0 +1,11 @@
+DECL|function|QPolylineSet
+DECL|function|QPolylineSet
+DECL|function|QTriangleSet
+DECL|function|QTriangleSet
+DECL|macro|QTRIANGULATOR_P_H
+DECL|member|indices
+DECL|member|indices
+DECL|member|operator
+DECL|member|operator
+DECL|struct|QPolylineSet
+DECL|struct|QTriangleSet

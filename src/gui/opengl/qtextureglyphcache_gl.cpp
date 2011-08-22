@@ -1,0 +1,10 @@
+DECL|function|QOpenGLTextureGlyphCache
+DECL|function|clear
+DECL|function|createTextureData
+DECL|function|fillTexture
+DECL|function|glyphPadding
+DECL|function|maxTextureHeight
+DECL|function|maxTextureWidth
+DECL|function|resizeTextureData
+DECL|function|~QOpenGLTextureGlyphCache
+DECL|variable|qopengltextureglyphcache_serial_number

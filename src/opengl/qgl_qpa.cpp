@@ -8,7 +8,7 @@ DECL|function|colormap
 DECL|function|contextHandle
 DECL|function|doneCurrent
 DECL|function|event
-DECL|function|fromGuiGLContext
+DECL|function|fromOpenGLContext
 DECL|function|fromSurfaceFormat
 DECL|function|generateFontDisplayLists
 DECL|function|getProcAddress
