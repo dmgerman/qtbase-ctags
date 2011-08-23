@@ -4,3 +4,4 @@ DECL|function|mouseHandler
 DECL|function|reset
 DECL|function|setFocusObject
 DECL|function|update
+DECL|function|~QPlatformInputContext
