@@ -3,7 +3,6 @@ DECL|function|handleCloseEvent
 DECL|function|handleDrag
 DECL|function|handleDrop
 DECL|function|handleEnterEvent
-DECL|function|handleExposeEvent
 DECL|function|handleExtendedKeyEvent
 DECL|function|handleExtendedKeyEvent
 DECL|function|handleGeometryChange
@@ -16,6 +15,7 @@ DECL|function|handleMouseEvent
 DECL|function|handleScreenAvailableGeometryChange
 DECL|function|handleScreenCountChange
 DECL|function|handleScreenGeometryChange
+DECL|function|handleSynchronousExposeEvent
 DECL|function|handleSynchronousGeometryChange
 DECL|function|handleTouchEvent
 DECL|function|handleTouchEvent
