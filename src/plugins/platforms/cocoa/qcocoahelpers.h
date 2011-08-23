@@ -1,0 +1,5 @@
+DECL|function|qt_mac_NSStringToQString
+DECL|function|qt_mac_QStringListToNSMutableArray
+DECL|function|qt_mac_QStringToNSString
+DECL|macro|QCOCOAHELPERS_H
+DECL|variable|QString
