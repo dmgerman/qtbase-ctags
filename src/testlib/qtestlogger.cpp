@@ -9,14 +9,12 @@ DECL|function|failureCount
 DECL|function|hasRandomSeed
 DECL|function|infoCount
 DECL|function|leaveTestFunction
-DECL|function|logFormat
 DECL|function|passCount
 DECL|function|qdebugCount
 DECL|function|qfatalCount
 DECL|function|qwarnCount
 DECL|function|randomSeed
 DECL|function|registerRandomSeed
-DECL|function|setLogFormat
 DECL|function|skipCount
 DECL|function|startLogging
 DECL|function|stopLogging
