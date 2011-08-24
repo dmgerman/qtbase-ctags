@@ -1,10 +1,9 @@
 DECL|function|QXlibWindow
-DECL|function|correctColorBuffers
 DECL|function|createGC
 DECL|function|doSizeHints
+DECL|function|format
 DECL|function|getMWMHints
 DECL|function|getNetWmState
-DECL|function|glContext
 DECL|function|graphicsContext
 DECL|function|handleCloseEvent
 DECL|function|handleEnterEvent
@@ -15,7 +14,7 @@ DECL|function|handleMouseEvent
 DECL|function|isTransient
 DECL|function|lower
 DECL|function|mousePressEvent
-DECL|function|paintEvent
+DECL|function|platformWindowForXWindow
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|resizeEvent
@@ -25,9 +24,11 @@ DECL|function|setMWMHints
 DECL|function|setParent
 DECL|function|setVisible
 DECL|function|setWindowFlags
+DECL|function|setWindowState
 DECL|function|setWindowTitle
 DECL|function|translateMouseButtons
 DECL|function|winId
 DECL|function|windowFlags
 DECL|function|xWindow
 DECL|function|~QXlibWindow
+DECL|member|windowMap
