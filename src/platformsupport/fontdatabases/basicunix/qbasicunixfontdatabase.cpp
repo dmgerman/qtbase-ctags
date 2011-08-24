@@ -1,11 +1,16 @@
+DECL|class|QFontEngineFTRawData
+DECL|function|QFontEngineFTRawData
 DECL|function|addApplicationFont
 DECL|function|addTTFile
 DECL|function|determineWritingSystemsFromTrueTypeBits
 DECL|function|fallbacksForFamily
 DECL|function|fontEngine
+DECL|function|fontEngine
+DECL|function|initFromData
 DECL|function|populateFontDatabase
 DECL|function|releaseHandle
 DECL|function|scriptRequiresOpenType
+DECL|function|updateFamilyNameAndStyle
 DECL|macro|JapaneseCsbBit
 DECL|macro|KoreanCsbBit
 DECL|macro|QT_NO_FREETYPE
