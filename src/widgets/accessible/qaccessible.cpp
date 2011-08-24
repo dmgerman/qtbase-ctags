@@ -6,6 +6,8 @@ DECL|function|invokeMethod
 DECL|function|isActive
 DECL|function|qAccessibleCleanup
 DECL|function|queryAccessibleInterface
+DECL|function|relationTo
+DECL|function|relations
 DECL|function|removeFactory
 DECL|function|virtual_hook
 DECL|member|rootObjectHandler
