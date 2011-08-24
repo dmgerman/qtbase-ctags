@@ -1,1 +1,0 @@
-DECL|macro|SIMPLEDATA_H
