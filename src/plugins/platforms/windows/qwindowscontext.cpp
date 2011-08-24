@@ -49,6 +49,7 @@ DECL|member|verboseBackingStore
 DECL|member|verboseEvents
 DECL|member|verboseFonts
 DECL|member|verboseGL
+DECL|member|verboseInputMethods
 DECL|member|verboseIntegration
 DECL|member|verboseOLE
 DECL|member|verboseWindows
