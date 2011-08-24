@@ -1,4 +1,3 @@
-DECL|function|isTtyOutput
 DECL|function|outputString
 DECL|function|qt_asprintf
 DECL|function|startLogging
