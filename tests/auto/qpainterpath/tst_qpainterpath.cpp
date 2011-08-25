@@ -15,6 +15,7 @@ DECL|function|getSetCheck
 DECL|function|intersects_QRectF
 DECL|function|intersects_QRectF_data
 DECL|function|linePath
+DECL|function|lineWithinBounds
 DECL|function|operators
 DECL|function|operators_data
 DECL|function|pathFuzzyCompare

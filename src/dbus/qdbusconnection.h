@@ -7,4 +7,5 @@ DECL|variable|QDBusError
 DECL|variable|QDBusInterface
 DECL|variable|QDBusMessage
 DECL|variable|QDBusPendingCall
+DECL|variable|QDBusVirtualObject
 DECL|variable|QObject

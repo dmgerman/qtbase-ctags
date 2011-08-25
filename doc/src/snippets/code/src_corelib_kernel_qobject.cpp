@@ -21,7 +21,10 @@ DECL|function|MyWindow
 DECL|function|eventFilter
 DECL|function|eventFilter
 DECL|function|timerEvent
+DECL|member|button
+DECL|member|childButtons
 DECL|member|example
+DECL|member|list
 DECL|member|myButton
 DECL|member|text
 DECL|member|text

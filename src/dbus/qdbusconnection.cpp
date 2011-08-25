@@ -33,6 +33,7 @@ DECL|function|operator =
 DECL|function|qDBusBindToApplication
 DECL|function|registerObject
 DECL|function|registerService
+DECL|function|registerVirtualObject
 DECL|function|removeConnection
 DECL|function|send
 DECL|function|sender

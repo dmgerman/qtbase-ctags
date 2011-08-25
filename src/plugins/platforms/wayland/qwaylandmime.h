@@ -1,0 +1,1 @@
+DECL|macro|QWAYLANDMIME_H

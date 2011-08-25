@@ -1,5 +1,4 @@
 DECL|function|Statistics
-DECL|function|qSleep
 DECL|function|sleep
 DECL|macro|WINDOW_H
 DECL|member|QGraphicsWidget

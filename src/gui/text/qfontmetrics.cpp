@@ -45,8 +45,6 @@ DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator ==
-DECL|function|operator ==
-DECL|function|operator ==
 DECL|function|overlinePos
 DECL|function|overlinePos
 DECL|function|rightBearing

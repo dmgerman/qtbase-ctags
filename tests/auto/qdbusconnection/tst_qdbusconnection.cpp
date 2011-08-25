@@ -5,6 +5,7 @@ DECL|class|MyServer2
 DECL|class|QDBusSpy
 DECL|class|RaceConditionSignalWaiter
 DECL|class|TestObject
+DECL|class|VirtualObject
 DECL|class|tst_QDBusConnection
 DECL|function|BaseObject
 DECL|function|MyObject
@@ -12,6 +13,7 @@ DECL|function|MyServer
 DECL|function|MyServer2
 DECL|function|RaceConditionSignalWaiter
 DECL|function|TestObject
+DECL|function|VirtualObject
 DECL|function|anotherMethod
 DECL|function|asyncReply
 DECL|function|callMethod
@@ -19,6 +21,8 @@ DECL|function|callMethodPeer
 DECL|function|callSelf
 DECL|function|callSelfByAnotherName
 DECL|function|callSelfByAnotherName_data
+DECL|function|callVirtualObject
+DECL|function|callVirtualObjectLocal
 DECL|function|connect
 DECL|function|connectToBus
 DECL|function|connectToPeer
@@ -27,7 +31,9 @@ DECL|function|countUp
 DECL|function|exitLoop
 DECL|function|handleConnection
 DECL|function|handleConnection
+DECL|function|handleMessage
 DECL|function|handlePing
+DECL|function|introspect
 DECL|function|method
 DECL|function|multipleInterfacesInQObject
 DECL|function|nestedCallWithCallback
@@ -42,6 +48,7 @@ DECL|function|registerObjectPeer_data
 DECL|function|registerObject_data
 DECL|function|registerQObjectChildren
 DECL|function|registerQObjectChildrenPeer
+DECL|function|registerVirtualObject
 DECL|function|secondCallWithCallback
 DECL|function|send
 DECL|function|sendAsync
@@ -59,8 +66,10 @@ DECL|function|~RaceConditionSignalWaiter
 DECL|function|~TestObject
 DECL|member|args
 DECL|member|callCount
+DECL|member|callCount
 DECL|member|count
 DECL|member|func
+DECL|member|lastMessage
 DECL|member|m_conn
 DECL|member|m_conn
 DECL|member|m_obj
@@ -68,4 +77,6 @@ DECL|member|m_obj
 DECL|member|m_path
 DECL|member|path
 DECL|member|path
+DECL|member|replyArguments
 DECL|member|signalsReceived
+DECL|member|success
