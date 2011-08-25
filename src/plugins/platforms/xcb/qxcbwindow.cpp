@@ -72,6 +72,12 @@ DECL|function|~QXcbWindow
 DECL|macro|CHECK_WM_STATE
 DECL|macro|CHECK_WM_STATE
 DECL|macro|XCOORD_MAX
+DECL|macro|class
+DECL|macro|class
+DECL|macro|xcb_set_wm_hints
+DECL|macro|xcb_wm_hints_set_iconic
+DECL|macro|xcb_wm_hints_set_normal
+DECL|macro|xcb_wm_hints_t
 DECL|member|decorations
 DECL|member|flags
 DECL|member|functions

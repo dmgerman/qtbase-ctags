@@ -16,6 +16,7 @@ DECL|function|fontTable_data
 DECL|function|fromFont
 DECL|function|fromFont_data
 DECL|function|glyphIndices
+DECL|function|init
 DECL|function|invalidRawFont
 DECL|function|multipleRawFontsFromData
 DECL|function|rawFontSetPixelSize

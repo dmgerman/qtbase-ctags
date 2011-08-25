@@ -32,6 +32,7 @@ DECL|function|currentTextLine
 DECL|function|cursorForPosition
 DECL|function|cursorIsFocusIndicator
 DECL|function|cursorMoveKeyEvent
+DECL|function|cursorOn
 DECL|function|cursorPosLessThanLastFramePos
 DECL|function|cursorRect
 DECL|function|cursorRect

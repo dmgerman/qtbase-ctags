@@ -1,1 +1,0 @@
-DECL|macro|OLD_QXMLSTREAM_H

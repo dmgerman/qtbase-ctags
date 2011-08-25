@@ -63,6 +63,7 @@ DECL|function|sendHello
 DECL|function|symbianNestedActiveSchedulerLoop
 DECL|function|symbianNestedActiveSchedulerLoop_data
 DECL|function|throwException
+DECL|function|throwInExec
 DECL|function|timerEvent
 DECL|function|timerEvent
 DECL|function|timerSlot

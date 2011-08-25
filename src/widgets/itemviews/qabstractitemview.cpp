@@ -6,6 +6,7 @@ DECL|function|_q_columnsInserted
 DECL|function|_q_columnsRemoved
 DECL|function|_q_layoutChanged
 DECL|function|_q_modelDestroyed
+DECL|function|_q_rowsInserted
 DECL|function|_q_rowsRemoved
 DECL|function|_q_scrollerStateChanged
 DECL|function|addEditor

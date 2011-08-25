@@ -53,7 +53,6 @@ DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator ==
-DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|operator QVariant
 DECL|function|pixmap

@@ -31,6 +31,7 @@ DECL|function|processEvent
 DECL|function|processInputMethodEvent
 DECL|function|processKeyEvent
 DECL|function|processMouseEvent
+DECL|function|redoTextLayout
 DECL|function|removeSelectedText
 DECL|function|resetCursorBlinkTimer
 DECL|function|selectWordAtPos

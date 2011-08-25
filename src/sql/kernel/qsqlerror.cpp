@@ -4,8 +4,10 @@ DECL|function|databaseText
 DECL|function|driverText
 DECL|function|isValid
 DECL|function|number
+DECL|function|operator !=
 DECL|function|operator <<
 DECL|function|operator =
+DECL|function|operator ==
 DECL|function|setDatabaseText
 DECL|function|setDriverText
 DECL|function|setNumber
