@@ -1,4 +1,5 @@
 DECL|function|QXcbConnection
+DECL|function|addEvent
 DECL|function|addPeekFunc
 DECL|function|addWindow
 DECL|function|atom
@@ -15,12 +16,16 @@ DECL|function|initializeDri2
 DECL|function|initializeXFixes
 DECL|function|initializeXRender
 DECL|function|internAtom
+DECL|function|lock
 DECL|function|log
 DECL|function|platformWindowFromId
 DECL|function|printXcbEvent
 DECL|function|processXcbEvents
 DECL|function|removeWindow
+DECL|function|run
+DECL|function|sendConnectionEvent
 DECL|function|sync
+DECL|function|unlock
 DECL|function|~QXcbConnection
 DECL|macro|EGL_EGLEXT_PROTOTYPES
 DECL|macro|HANDLE_KEYBOARD_EVENT
