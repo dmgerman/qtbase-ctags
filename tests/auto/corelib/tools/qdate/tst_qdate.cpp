@@ -19,10 +19,13 @@ DECL|function|fromString_format
 DECL|function|fromString_format_data
 DECL|function|getDate
 DECL|function|isLeapYear
+DECL|function|isNull
+DECL|function|isNull_data
 DECL|function|isValid
 DECL|function|isValid_data
 DECL|function|julianDay
 DECL|function|julianDay_data
+DECL|function|julianDaysLimits
 DECL|function|longDayName
 DECL|function|longMonthName
 DECL|function|negativeYear

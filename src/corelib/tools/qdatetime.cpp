@@ -1,6 +1,3 @@
-DECL|enumerator|FIRST_DAY
-DECL|enumerator|FIRST_MONTH
-DECL|enumerator|FIRST_YEAR
 DECL|enumerator|JULIAN_DAY_FOR_EPOCH
 DECL|enumerator|MSECS_PER_DAY
 DECL|enumerator|MSECS_PER_HOUR
@@ -80,7 +77,6 @@ DECL|function|hasUnquotedAP
 DECL|function|hour
 DECL|function|isLeapYear
 DECL|function|isNull
-DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid
