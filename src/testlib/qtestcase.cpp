@@ -39,7 +39,6 @@ DECL|function|qMedian
 DECL|function|qPrintTestSlots
 DECL|function|qSkip
 DECL|function|qSleep
-DECL|function|qTestRandomSeed
 DECL|function|qToInt
 DECL|function|qVerify
 DECL|function|qWarn
