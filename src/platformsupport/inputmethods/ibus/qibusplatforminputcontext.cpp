@@ -1,4 +1,5 @@
 DECL|class|QIBusPlatformInputContextPrivate
+DECL|enumerator|debug
 DECL|function|QIBusPlatformInputContext
 DECL|function|QIBusPlatformInputContextPrivate
 DECL|function|commitText
