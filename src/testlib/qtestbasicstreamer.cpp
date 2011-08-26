@@ -9,5 +9,4 @@ DECL|function|output
 DECL|function|outputElementAttributes
 DECL|function|outputElements
 DECL|function|outputString
-DECL|function|setLogger
 DECL|function|~QTestBasicStreamer
