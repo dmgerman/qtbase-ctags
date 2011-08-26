@@ -57,7 +57,7 @@ DECL|function|~FatalSignalHandler
 DECL|function|~QTestDataSetter
 DECL|function|~TestFuncCleanup
 DECL|function|~TestFunction
-DECL|macro|COMPARE_IMPL2
+DECL|macro|TO_STRING_IMPL
 DECL|macro|verify
 DECL|member|currentTestObject
 DECL|member|data_
