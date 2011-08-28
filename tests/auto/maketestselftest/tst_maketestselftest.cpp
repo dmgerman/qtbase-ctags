@@ -10,7 +10,6 @@ DECL|function|looks_like_testcase
 DECL|function|make_check
 DECL|function|naming_convention
 DECL|function|naming_convention_data
-DECL|function|tests_auto_pro
 DECL|function|tests_pro_files
 DECL|function|tests_pro_files_data
 DECL|member|all_test_classes
