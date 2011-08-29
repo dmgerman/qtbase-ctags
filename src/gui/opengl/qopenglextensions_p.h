@@ -163,5 +163,5 @@ DECL|macro|GL_UNSIGNED_SHORT_5_6_5
 DECL|macro|GL_VERTEX_SHADER
 DECL|macro|GL_WRITE_ONLY
 DECL|macro|QOPENGL_EXTENSIONS_P_H
-DECL|struct|QOpenGLFunctionsPrivate
 DECL|typedef|GLchar
+DECL|variable|QOpenGLExtensionsPrivate

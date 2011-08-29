@@ -1,10 +1,2 @@
-DECL|function|QOpenGLGlyphTexture
-DECL|function|freeResource
-DECL|function|invalidateResource
 DECL|macro|QTEXTUREGLYPHCACHE_GL_P_H
-DECL|member|m_fbo
-DECL|member|m_height
-DECL|member|m_texture
-DECL|member|m_width
-DECL|struct|QOpenGLSharedResource
 DECL|variable|QOpenGL2PaintEngineExPrivate
