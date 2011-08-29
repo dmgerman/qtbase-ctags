@@ -1,5 +1,4 @@
 DECL|function|IgnoreResultList
-DECL|function|QTestLog
 DECL|function|addBenchmarkResult
 DECL|function|addFail
 DECL|function|addIgnoreMessage
@@ -29,7 +28,6 @@ DECL|function|unhandledIgnoreMessages
 DECL|function|verboseLevel
 DECL|function|warn
 DECL|function|~IgnoreResultList
-DECL|function|~QTestLog
 DECL|member|flushMode
 DECL|member|ignoreResultList
 DECL|member|logMode

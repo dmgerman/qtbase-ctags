@@ -1,2 +1,2 @@
-DECL|macro|QTESXMLSTREAMER_H
+DECL|macro|QTESTXMLSTREAMER_H
 DECL|variable|QTestElementAttribute

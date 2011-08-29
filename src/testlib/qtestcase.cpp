@@ -39,7 +39,6 @@ DECL|function|qMedian
 DECL|function|qPrintTestSlots
 DECL|function|qSkip
 DECL|function|qSleep
-DECL|function|qTestRandomSeed
 DECL|function|qToInt
 DECL|function|qVerify
 DECL|function|qWarn
@@ -58,7 +57,7 @@ DECL|function|~FatalSignalHandler
 DECL|function|~QTestDataSetter
 DECL|function|~TestFuncCleanup
 DECL|function|~TestFunction
-DECL|macro|COMPARE_IMPL2
+DECL|macro|TO_STRING_IMPL
 DECL|macro|verify
 DECL|member|currentTestObject
 DECL|member|data_

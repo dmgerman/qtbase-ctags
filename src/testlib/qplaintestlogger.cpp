@@ -13,13 +13,9 @@ DECL|function|messageType2String
 DECL|function|outputMessage
 DECL|function|printBenchmarkResult
 DECL|function|printMessage
-DECL|function|qWinColoredMsg
 DECL|function|registerRandomSeed
 DECL|function|startLogging
 DECL|function|stopLogging
 DECL|function|~QPlainTestLogger
-DECL|macro|COLORED_MSG
-DECL|member|consoleAttributes
-DECL|member|hConsole
 DECL|member|outputCriticalSection
 DECL|namespace|QTest

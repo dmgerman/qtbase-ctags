@@ -118,6 +118,8 @@ DECL|function|matchedLength
 DECL|function|mergeInto
 DECL|function|negative
 DECL|function|numCaptures
+DECL|function|operator <
+DECL|function|operator <
 DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator =
@@ -152,7 +154,6 @@ DECL|function|setNegative
 DECL|function|setPattern
 DECL|function|setPatternSyntax
 DECL|function|setup
-DECL|function|setupCategoriesRangeMap
 DECL|function|setupHeuristics
 DECL|function|setupState
 DECL|function|skipChars
@@ -197,7 +198,6 @@ DECL|member|capturedCache
 DECL|member|capturedSize
 DECL|member|caretAnchored
 DECL|member|caretPos
-DECL|member|categoriesRangeMap
 DECL|member|cf
 DECL|member|cl
 DECL|member|cs
@@ -213,6 +213,7 @@ DECL|member|eng
 DECL|member|eng
 DECL|member|engineKey
 DECL|member|f
+DECL|member|first
 DECL|member|from
 DECL|member|goodEarlyStart
 DECL|member|goodLateStart
@@ -235,6 +236,7 @@ DECL|member|minimal
 DECL|member|minl
 DECL|member|minl
 DECL|member|n
+DECL|member|name
 DECL|member|nbrefs
 DECL|member|ncap
 DECL|member|neg
@@ -260,6 +262,7 @@ DECL|member|ref
 DECL|member|rightStr
 DECL|member|rs
 DECL|member|s
+DECL|member|second
 DECL|member|skipanchors
 DECL|member|sleeping
 DECL|member|slideTab
@@ -283,6 +286,7 @@ DECL|member|yyMinRep
 DECL|member|yyPos
 DECL|member|yyPos0
 DECL|member|yyTok
+DECL|struct|CategoriesRangeMapEntry
 DECL|struct|QRegExpAnchorAlternation
 DECL|struct|QRegExpAtom
 DECL|struct|QRegExpAutomatonState
@@ -299,3 +303,4 @@ DECL|variable|InftyLen
 DECL|variable|InftyRep
 DECL|variable|NoOccurrence
 DECL|variable|NumBadChars
+DECL|variable|categoriesRangeMap

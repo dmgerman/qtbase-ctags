@@ -79,6 +79,7 @@ DECL|function|qt_matchLibraryName
 DECL|function|qt_sendSpontaneousEvent
 DECL|function|qt_translateRawTouchEvent
 DECL|function|qt_tryModalHelper
+DECL|function|queryKeyboardModifiers
 DECL|function|quitOnLastWindowClosed
 DECL|function|release
 DECL|function|requestPhase2
