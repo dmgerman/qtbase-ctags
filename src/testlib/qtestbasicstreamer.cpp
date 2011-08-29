@@ -4,15 +4,9 @@ DECL|function|formatAttributes
 DECL|function|formatBeforeAttributes
 DECL|function|formatEnd
 DECL|function|formatStart
-DECL|function|isTtyOutput
 DECL|function|logger
 DECL|function|output
 DECL|function|outputElementAttributes
 DECL|function|outputElements
 DECL|function|outputString
-DECL|function|setLogger
-DECL|function|startStreaming
-DECL|function|stopStreaming
 DECL|function|~QTestBasicStreamer
-DECL|member|stream
-DECL|namespace|QTest

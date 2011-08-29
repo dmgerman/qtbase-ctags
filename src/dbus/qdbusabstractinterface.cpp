@@ -26,4 +26,6 @@ DECL|function|property
 DECL|function|qt_metacall
 DECL|function|service
 DECL|function|setProperty
+DECL|function|setTimeout
+DECL|function|timeout
 DECL|function|~QDBusAbstractInterface
