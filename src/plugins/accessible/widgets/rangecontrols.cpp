@@ -20,10 +20,10 @@ DECL|function|dial
 DECL|function|doAction
 DECL|function|doAction
 DECL|function|doubleSpinBox
-DECL|function|invokeMethodEx
-DECL|function|invokeMethodEx
-DECL|function|invokeMethodEx
-DECL|function|invokeMethodEx
+DECL|function|invokeMethod
+DECL|function|invokeMethod
+DECL|function|invokeMethod
+DECL|function|invokeMethod
 DECL|function|maximumValue
 DECL|function|maximumValue
 DECL|function|minimumValue

@@ -49,7 +49,7 @@ DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|indexOfChild
-DECL|function|invokeMethodEx
+DECL|function|invokeMethod
 DECL|function|isColumnSelected
 DECL|function|isHidden
 DECL|function|isLeftToRight

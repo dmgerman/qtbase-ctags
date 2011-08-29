@@ -22,7 +22,7 @@ DECL|function|doAction
 DECL|function|imageDescription
 DECL|function|imagePosition
 DECL|function|imageSize
-DECL|function|invokeMethodEx
+DECL|function|invokeMethod
 DECL|function|isSplitButton
 DECL|function|keyBindings
 DECL|function|lineEdit

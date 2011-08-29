@@ -1,7 +1,7 @@
 DECL|macro|QACCESSIBLEWIDGETS_H
 DECL|variable|QAbstractItemView
 DECL|variable|QAccessibleTextInterface
-DECL|variable|QAccessibleWidgetEx
+DECL|variable|QAccessibleWidget
 DECL|variable|QCalendarWidget
 DECL|variable|QDockWidget
 DECL|variable|QDockWidgetLayout
