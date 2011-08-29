@@ -4,10 +4,7 @@ DECL|function|addIncident
 DECL|function|addMessage
 DECL|function|addTag
 DECL|function|enterTestFunction
-DECL|function|hasRandomSeed
 DECL|function|leaveTestFunction
-DECL|function|randomSeed
-DECL|function|registerRandomSeed
 DECL|function|startLogging
 DECL|function|stopLogging
 DECL|function|~QTestLogger

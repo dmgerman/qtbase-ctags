@@ -9,7 +9,6 @@ DECL|function|incidentFormatString
 DECL|function|isEmpty
 DECL|function|leaveTestFunction
 DECL|function|messageFormatString
-DECL|function|registerRandomSeed
 DECL|function|startLogging
 DECL|function|stopLogging
 DECL|function|xmlCdata

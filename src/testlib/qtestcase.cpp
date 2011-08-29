@@ -44,11 +44,8 @@ DECL|function|qVerify
 DECL|function|qWarn
 DECL|function|qt_snprintf
 DECL|function|qtest_qParseArgs
-DECL|function|randomizeList
-DECL|function|seedRandom
 DECL|function|set
 DECL|function|signal
-DECL|function|swap
 DECL|function|testObject
 DECL|function|toHexRepresentation
 DECL|function|toString
@@ -69,9 +66,6 @@ DECL|member|keyVerbose
 DECL|member|mouseDelay
 DECL|member|noCrashHandler
 DECL|member|printAvailableFunctions
-DECL|member|randomOrder
-DECL|member|seed
-DECL|member|seedSet
 DECL|member|testFuncCleaner
 DECL|member|testFuncCount
 DECL|member|testFuncs
