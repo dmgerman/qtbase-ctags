@@ -18,6 +18,8 @@ DECL|function|isTopLevel
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
 DECL|function|lower
+DECL|function|mapFromGlobal
+DECL|function|mapToGlobal
 DECL|function|maximumSize
 DECL|function|maybeQuitOnLastWindowClosed
 DECL|function|minimumSize
