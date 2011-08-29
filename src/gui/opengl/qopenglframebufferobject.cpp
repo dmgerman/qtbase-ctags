@@ -47,7 +47,5 @@ DECL|function|textureTarget
 DECL|function|toImage
 DECL|function|~QOpenGLFramebufferObject
 DECL|function|~QOpenGLFramebufferObjectFormat
-DECL|macro|QOPENGL_FUNCP_CONTEXT
-DECL|macro|QOPENGL_FUNC_CONTEXT
 DECL|macro|QT_CHECK_GLERROR
 DECL|macro|QT_RESET_GLERROR

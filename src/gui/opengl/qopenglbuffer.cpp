@@ -22,12 +22,6 @@ DECL|function|unmap
 DECL|function|usagePattern
 DECL|function|write
 DECL|function|~QOpenGLBuffer
-DECL|macro|GL_BUFFER_SIZE
-DECL|macro|ctx
-DECL|macro|ctx
-DECL|macro|ctx
-DECL|macro|ctx
-DECL|macro|ctx
 DECL|member|actualUsagePattern
 DECL|member|funcs
 DECL|member|guard
