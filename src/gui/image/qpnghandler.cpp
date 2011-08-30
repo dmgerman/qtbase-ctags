@@ -47,6 +47,9 @@ DECL|macro|CALLBACK_CALL_TYPE
 DECL|macro|CALLBACK_CALL_TYPE
 DECL|macro|FAST_SCAN_LINE
 DECL|macro|Q_INTERNAL_WIN_NO_THROW
+DECL|macro|png_jmpbuf
+DECL|macro|png_jmpbuf
+DECL|macro|png_jmpbuf
 DECL|member|description
 DECL|member|dev
 DECL|member|disposal
