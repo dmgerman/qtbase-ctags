@@ -1,2 +1,0 @@
-DECL|macro|QTESTXMLSTREAMER_H
-DECL|variable|QTestElementAttribute
