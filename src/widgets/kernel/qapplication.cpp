@@ -71,7 +71,6 @@ DECL|function|palette
 DECL|function|palette
 DECL|function|pickMouseReceiver
 DECL|function|process_cmdline
-DECL|function|qmljsDebugArgumentsString
 DECL|function|qt_CoCreateGuid
 DECL|function|qt_app_fonts_hash
 DECL|function|qt_app_palettes_hash
@@ -170,7 +169,6 @@ DECL|member|navigationMode
 DECL|member|obey_desktop_settings
 DECL|member|oldEditFocus
 DECL|member|popupWidgets
-DECL|member|qmljs_debug_arguments
 DECL|member|quitOnLastWindowClosed
 DECL|member|restartCommand
 DECL|member|restartHint
