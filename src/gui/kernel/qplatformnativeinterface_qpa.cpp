@@ -1,1 +1,5 @@
 DECL|function|nativeResourceForWidget
+DECL|function|setWindowProperty
+DECL|function|windowProperties
+DECL|function|windowProperty
+DECL|function|windowProperty

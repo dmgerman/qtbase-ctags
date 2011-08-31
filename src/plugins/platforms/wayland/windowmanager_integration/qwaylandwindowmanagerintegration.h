@@ -1,1 +1,3 @@
 DECL|macro|QWAYLANDWINDOWMANAGERINTEGRATION_H
+DECL|variable|QWaylandWindow
+DECL|variable|QWaylandWindowManagerIntegrationPrivate
