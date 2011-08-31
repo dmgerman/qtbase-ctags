@@ -4,14 +4,11 @@ DECL|function|beep
 DECL|function|cleanupMultitouch_sys
 DECL|function|closePopup
 DECL|function|createEventDispatcher
-DECL|function|cursorFlashTime
-DECL|function|doubleClickInterval
 DECL|function|enterModal_sys
 DECL|function|grabForPopup
 DECL|function|initializeMultitouch_sys
 DECL|function|initializeWidgetPaletteHash
 DECL|function|isEffectEnabled
-DECL|function|keyboardInputInterval
 DECL|function|leaveModal_sys
 DECL|function|modalState
 DECL|function|notifyActiveWindowChange
@@ -22,10 +19,7 @@ DECL|function|qt_init
 DECL|function|qt_tlw_for_window
 DECL|function|qt_try_modal
 DECL|function|qt_win_display_dc
-DECL|function|setCursorFlashTime
-DECL|function|setDoubleClickInterval
 DECL|function|setEffectEnabled
-DECL|function|setKeyboardInputInterval
 DECL|function|setMainWidget
 DECL|function|setWheelScrollLines
 DECL|function|topLevelAt

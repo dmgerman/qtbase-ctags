@@ -134,7 +134,5 @@ DECL|function|undo
 DECL|function|updateCurrentCharFormat
 DECL|function|view
 DECL|function|~QTextControl
-DECL|variable|cursorFlashTime
 DECL|variable|fullWidthSelection
-DECL|variable|startDragDistance
 DECL|variable|textCursorWidth

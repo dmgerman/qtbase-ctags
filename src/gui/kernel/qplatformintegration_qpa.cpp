@@ -7,3 +7,4 @@ DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|nativeInterface
 DECL|function|screenAdded
+DECL|function|styleHint

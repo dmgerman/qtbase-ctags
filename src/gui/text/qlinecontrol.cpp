@@ -41,7 +41,5 @@ DECL|function|updatePasswordEchoEditing
 DECL|function|xToPos
 DECL|macro|QT_NO_ACCESSIBILITY
 DECL|macro|QT_NO_IM
-DECL|variable|cursorFlashTime
 DECL|variable|fullWidthSelection
-DECL|variable|startDragDistance
 DECL|variable|textCursorWidth
