@@ -2,6 +2,7 @@ DECL|function|QSslKey
 DECL|function|QSslKey
 DECL|function|QSslKey
 DECL|function|QSslKey
+DECL|function|QSslKey
 DECL|function|algorithm
 DECL|function|clear
 DECL|function|clear
