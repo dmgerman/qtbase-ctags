@@ -22,7 +22,6 @@ DECL|function|setLogMode
 DECL|function|setMaxWarnings
 DECL|function|setVerboseLevel
 DECL|function|startLogging
-DECL|function|startLogging
 DECL|function|stopLogging
 DECL|function|unhandledIgnoreMessages
 DECL|function|verboseLevel

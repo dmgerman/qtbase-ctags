@@ -13,7 +13,6 @@ DECL|function|messageType2String
 DECL|function|outputMessage
 DECL|function|printBenchmarkResult
 DECL|function|printMessage
-DECL|function|registerRandomSeed
 DECL|function|startLogging
 DECL|function|stopLogging
 DECL|function|~QPlainTestLogger
