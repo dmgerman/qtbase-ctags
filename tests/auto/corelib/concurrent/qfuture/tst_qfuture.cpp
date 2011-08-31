@@ -39,6 +39,7 @@ DECL|function|testRefCounting
 DECL|function|throttling
 DECL|function|voidConversions
 DECL|macro|QFUTURE_TEST
+DECL|macro|interface
 DECL|member|canceledCalled
 DECL|member|finishedCalled
 DECL|member|rangeBegin

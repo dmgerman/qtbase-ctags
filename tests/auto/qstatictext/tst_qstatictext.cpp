@@ -26,6 +26,7 @@ DECL|function|supportsTransformations
 DECL|function|textDocumentColor
 DECL|function|transformationChanged
 DECL|function|translatedPainter
+DECL|function|tst_QStaticText
 DECL|function|underlinedColor_qtbug20159
 DECL|function|unprintableCharacter_qtbug12614
 DECL|member|m_whiteSquare

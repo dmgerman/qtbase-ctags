@@ -6,7 +6,6 @@ DECL|function|contains_point
 DECL|function|ellipseRegion
 DECL|function|emptyPolygonRegion
 DECL|function|emptyPolygonRegion_data
-DECL|function|handle
 DECL|function|intersected
 DECL|function|intersected_data
 DECL|function|intersects_rect

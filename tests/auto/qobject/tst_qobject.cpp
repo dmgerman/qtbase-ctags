@@ -332,6 +332,7 @@ DECL|member|theSignalId
 DECL|member|timerEventThread
 DECL|namespace|Foo
 DECL|namespace|QObjectTest
+DECL|namespace|QObjectTest
 DECL|struct|Bar
 DECL|struct|Bleh
 DECL|struct|CustomType

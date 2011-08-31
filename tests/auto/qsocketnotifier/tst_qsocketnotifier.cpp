@@ -14,6 +14,8 @@ DECL|function|unexpectedDisconnection
 DECL|function|~tst_QSocketNotifier
 DECL|macro|NATIVESOCKETENGINE
 DECL|macro|NATIVESOCKETENGINE
+DECL|macro|max
+DECL|macro|min
 DECL|member|readEnd1
 DECL|member|readEnd2
 DECL|member|sequence
