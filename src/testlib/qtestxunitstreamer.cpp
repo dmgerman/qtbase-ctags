@@ -5,5 +5,7 @@ DECL|function|formatEnd
 DECL|function|formatStart
 DECL|function|indentForElement
 DECL|function|output
+DECL|function|outputElementAttributes
 DECL|function|outputElements
+DECL|function|outputString
 DECL|function|~QTestXunitStreamer
