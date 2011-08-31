@@ -8,6 +8,7 @@ DECL|function|handleKeyEvent
 DECL|function|handleMouseEvent
 DECL|function|handleMoveEvent
 DECL|function|handleResizeEvent
+DECL|function|handleTouchEvent
 DECL|function|handleWheelEvent
 DECL|function|handleWindowStateChangedEvent
 DECL|function|updateGeometry
