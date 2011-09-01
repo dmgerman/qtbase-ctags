@@ -27,6 +27,7 @@ DECL|function|QKeyEventEx
 DECL|function|QKeyEventEx
 DECL|function|QMouseEvent
 DECL|function|QMouseEvent
+DECL|function|QMouseEvent
 DECL|function|QMoveEvent
 DECL|function|QPaintEvent
 DECL|function|QPaintEvent
