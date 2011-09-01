@@ -1,6 +1,6 @@
 DECL|function|append
 DECL|function|append
-DECL|function|append2
+DECL|function|append
 DECL|function|detach
 DECL|function|detach_grow
 DECL|function|erase
