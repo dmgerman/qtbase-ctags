@@ -10,7 +10,6 @@ DECL|function|averageCharWidth
 DECL|function|boundingRect
 DECL|function|cleanUp
 DECL|function|descent
-DECL|function|detach
 DECL|function|familyName
 DECL|function|fontTable
 DECL|function|fromFont
