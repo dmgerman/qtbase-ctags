@@ -72,7 +72,6 @@ DECL|function|fromLocalFile
 DECL|function|fromPercentEncoding
 DECL|function|fromPercentEncodingHelper
 DECL|function|fromPercentEncodingMutable
-DECL|function|fromPunycode
 DECL|function|fromUserInput
 DECL|function|hasEncodedQueryItem
 DECL|function|hasFragment
@@ -115,6 +114,8 @@ DECL|function|qt_ACE_do
 DECL|function|qt_check_std3rules
 DECL|function|qt_is_idn_enabled
 DECL|function|qt_nameprep
+DECL|function|qt_punycodeDecoder
+DECL|function|qt_punycodeEncoder
 DECL|function|queryItem
 DECL|function|queryItemValue
 DECL|function|queryItems
@@ -162,8 +163,6 @@ DECL|function|toLocalFile
 DECL|function|toPercentEncoding
 DECL|function|toPercentEncodingHelper
 DECL|function|toPrettyPercentEncoding
-DECL|function|toPunycode
-DECL|function|toPunycodeHelper
 DECL|function|toString
 DECL|function|topLevelDomain
 DECL|function|url
@@ -180,6 +179,8 @@ DECL|macro|QURL_HASFLAG
 DECL|macro|QURL_SETFLAG
 DECL|macro|QURL_UNSETFLAG
 DECL|macro|Q_MAXINT
+DECL|macro|Q_URLTEST_EXPORT
+DECL|macro|Q_URLTEST_EXPORT
 DECL|macro|qToLower
 DECL|member|_expected
 DECL|member|_found

@@ -1,7 +1,5 @@
 DECL|class|tst_QUrl
 DECL|function|acceptEmptyAuthoritySegments
-DECL|function|ace_testsuite
-DECL|function|ace_testsuite_data
 DECL|function|assignment
 DECL|function|binaryData
 DECL|function|binaryData_data
@@ -54,8 +52,6 @@ DECL|function|hosts
 DECL|function|hosts_data
 DECL|function|i18n
 DECL|function|i18n_data
-DECL|function|idna_testsuite
-DECL|function|idna_testsuite_data
 DECL|function|invalidSchemeValidator
 DECL|function|ipv6
 DECL|function|ipv6_2
@@ -69,14 +65,8 @@ DECL|function|isRelative_data
 DECL|function|isValid
 DECL|function|moreIpv6
 DECL|function|nameprep
-DECL|function|nameprep_highcodes
-DECL|function|nameprep_highcodes_data
-DECL|function|nameprep_testsuite
-DECL|function|nameprep_testsuite_data
 DECL|function|percentEncoding
 DECL|function|percentEncoding_data
-DECL|function|punycode
-DECL|function|punycode_data
 DECL|function|queryItems
 DECL|function|relative
 DECL|function|removeAllEncodedQueryItems
@@ -94,10 +84,6 @@ DECL|function|setEncodedFragment_data
 DECL|function|setPort
 DECL|function|setQueryItems
 DECL|function|setUrl
-DECL|function|std3deviations
-DECL|function|std3deviations_data
-DECL|function|std3violations
-DECL|function|std3violations_data
 DECL|function|stripTrailingSlash
 DECL|function|swap
 DECL|function|symmetry
@@ -116,13 +102,3 @@ DECL|function|toString_constructed_data
 DECL|function|toString_data
 DECL|function|tolerantParser
 DECL|function|unc
-DECL|function|ushortarray
-DECL|macro|IDNA_ACE_PREFIX
-DECL|macro|IDNA_SUCCESS
-DECL|macro|STRINGPREP_BIDI_BOTH_L_AND_RAL
-DECL|macro|STRINGPREP_BIDI_LEADTRAIL_NOT_RAL
-DECL|macro|STRINGPREP_CONTAINS_PROHIBITED
-DECL|macro|STRINGPREP_CONTAINS_UNASSIGNED
-DECL|macro|STRINGPREP_NO_UNASSIGNED
-DECL|member|points
-DECL|struct|ushortarray
