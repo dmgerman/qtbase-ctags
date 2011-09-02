@@ -18,6 +18,8 @@ DECL|function|endsWith_char
 DECL|function|endsWith_data
 DECL|function|fromBase64
 DECL|function|fromBase64_data
+DECL|function|fromPercentEncoding
+DECL|function|fromPercentEncoding_data
 DECL|function|indexOf
 DECL|function|indexOf_data
 DECL|function|insert
@@ -72,6 +74,10 @@ DECL|function|toFromHex_data
 DECL|function|toFromPercentEncoding
 DECL|function|toInt
 DECL|function|toInt_data
+DECL|function|toPercentEncoding
+DECL|function|toPercentEncoding2
+DECL|function|toPercentEncoding2_data
+DECL|function|toPercentEncoding_data
 DECL|function|toULong
 DECL|function|toULongLong
 DECL|function|toULongLong_data
