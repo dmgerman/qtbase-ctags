@@ -14,10 +14,7 @@ DECL|function|initLogger
 DECL|function|leaveTestFunction
 DECL|function|logMode
 DECL|function|messageHandler
-DECL|function|outputFileName
 DECL|function|printUnhandledIgnoreMessages
-DECL|function|redirectOutput
-DECL|function|setLogMode
 DECL|function|setMaxWarnings
 DECL|function|setVerboseLevel
 DECL|function|startLogging
@@ -32,7 +29,6 @@ DECL|member|maxWarnings
 DECL|member|msg
 DECL|member|next
 DECL|member|oldMessageHandler
-DECL|member|outFile
 DECL|member|testLogger
 DECL|member|type
 DECL|member|verbosity
