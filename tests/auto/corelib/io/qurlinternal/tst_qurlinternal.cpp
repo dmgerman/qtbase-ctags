@@ -1,6 +1,13 @@
 DECL|class|tst_QUrlInternal
 DECL|function|ace_testsuite
 DECL|function|ace_testsuite_data
+DECL|function|addUtf8Data
+DECL|function|correctEncodedMistakes
+DECL|function|correctEncodedMistakes_data
+DECL|function|encodingRecode
+DECL|function|encodingRecodeInvalidUtf8
+DECL|function|encodingRecodeInvalidUtf8_data
+DECL|function|encodingRecode_data
 DECL|function|idna_testsuite
 DECL|function|idna_testsuite_data
 DECL|function|nameprep_highcodes

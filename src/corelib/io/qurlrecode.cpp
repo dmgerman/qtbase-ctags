@@ -1,0 +1,16 @@
+DECL|enumerator|DecodeCharacter
+DECL|enumerator|EncodeCharacter
+DECL|enumerator|LeaveCharacter
+DECL|enum|EncodingAction
+DECL|function|decodeNibble
+DECL|function|encodeNibble
+DECL|function|encodedUtf8ToUcs4
+DECL|function|ensureDetached
+DECL|function|isHex
+DECL|function|isUnicodeNonCharacter
+DECL|function|isUpperHex
+DECL|function|qt_tolerantParsePercentEncoding
+DECL|function|qt_urlRecode
+DECL|function|toUpperHex
+DECL|function|unicodeToEncodedUtf8
+DECL|variable|defaultActionTable
