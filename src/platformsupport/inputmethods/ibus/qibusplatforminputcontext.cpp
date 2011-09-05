@@ -4,10 +4,10 @@ DECL|function|QIBusPlatformInputContext
 DECL|function|QIBusPlatformInputContextPrivate
 DECL|function|commitText
 DECL|function|createConnection
+DECL|function|inputItemChanged
+DECL|function|invokeAction
 DECL|function|isValid
-DECL|function|mouseHandler
 DECL|function|reset
-DECL|function|setFocusObject
 DECL|function|update
 DECL|function|updatePreeditText
 DECL|function|x11FilterEvent

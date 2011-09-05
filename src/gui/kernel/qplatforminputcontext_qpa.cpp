@@ -1,7 +1,9 @@
 DECL|function|QPlatformInputContext
-DECL|function|focusObject
-DECL|function|mouseHandler
+DECL|function|emitAnimatingChanged
+DECL|function|emitKeyboardRectChanged
+DECL|function|invokeAction
+DECL|function|isAnimating
+DECL|function|keyboardRect
 DECL|function|reset
-DECL|function|setFocusObject
 DECL|function|update
 DECL|function|~QPlatformInputContext

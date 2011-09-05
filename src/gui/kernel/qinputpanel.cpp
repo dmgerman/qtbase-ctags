@@ -1,0 +1,17 @@
+DECL|function|QInputPanel
+DECL|function|close
+DECL|function|cursorRect
+DECL|function|inputItem
+DECL|function|inputItemTransform
+DECL|function|inputWindow
+DECL|function|invokeAction
+DECL|function|isAnimating
+DECL|function|isOpen
+DECL|function|keyboardRect
+DECL|function|open
+DECL|function|reset
+DECL|function|setInputItem
+DECL|function|setInputItemTranform
+DECL|function|setOpen
+DECL|function|update
+DECL|function|~QInputPanel
