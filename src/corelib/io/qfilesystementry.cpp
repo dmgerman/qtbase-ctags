@@ -13,6 +13,7 @@ DECL|function|findLastSeparator
 DECL|function|fixIfRelativeUncPath
 DECL|function|isAbsolute
 DECL|function|isAbsolute
+DECL|function|isClean
 DECL|function|isDriveRoot
 DECL|function|isEmpty
 DECL|function|isRelative

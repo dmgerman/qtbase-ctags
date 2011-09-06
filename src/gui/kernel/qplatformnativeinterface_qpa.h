@@ -1,3 +1,4 @@
 DECL|macro|QPLATFORMNATIVEINTERFACE_QPA_H
 DECL|variable|QBackingStore
+DECL|variable|QPlatformWindow
 DECL|variable|QWindow

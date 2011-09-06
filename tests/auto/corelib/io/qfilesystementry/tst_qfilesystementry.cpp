@@ -11,6 +11,8 @@ DECL|function|getSetCheck
 DECL|function|getSetCheck
 DECL|function|getSetCheck_data
 DECL|function|getSetCheck_data
+DECL|function|isClean
+DECL|function|isClean_data
 DECL|function|suffix
 DECL|function|suffix_data
 DECL|macro|WIN_STUFF

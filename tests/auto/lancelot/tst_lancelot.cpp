@@ -22,6 +22,8 @@ DECL|macro|SRCDIR
 DECL|macro|main
 DECL|macro|main
 DECL|member|baseList
+DECL|member|clientInfo
+DECL|member|clientInfo
 DECL|member|dryRunMode
 DECL|member|proto
 DECL|member|scripts

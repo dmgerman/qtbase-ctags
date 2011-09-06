@@ -2,7 +2,6 @@ DECL|class|QLibraryInfoPrivate
 DECL|function|QLibraryInfo
 DECL|function|QLibrarySettings
 DECL|function|buildDate
-DECL|function|buildKey
 DECL|function|cleanup
 DECL|function|configuration
 DECL|function|findConfiguration
