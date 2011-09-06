@@ -17,6 +17,7 @@ DECL|function|deref
 DECL|function|detach
 DECL|function|devType
 DECL|function|doImageIO
+DECL|function|doInit
 DECL|function|fill
 DECL|function|fill
 DECL|function|fromImage
@@ -26,7 +27,6 @@ DECL|function|handle
 DECL|function|hasAlpha
 DECL|function|hasAlphaChannel
 DECL|function|height
-DECL|function|init
 DECL|function|isDetached
 DECL|function|isNull
 DECL|function|isQBitmap
