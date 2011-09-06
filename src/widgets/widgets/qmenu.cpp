@@ -73,6 +73,7 @@ DECL|function|mouseReleaseEvent
 DECL|function|onHovered
 DECL|function|onTrigger
 DECL|function|paintEvent
+DECL|function|platformMenu
 DECL|function|popup
 DECL|function|popupAction
 DECL|function|popupGeometry

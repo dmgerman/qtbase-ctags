@@ -1,11 +1,15 @@
 DECL|macro|QPLATFORMINTEGRATION_H
 DECL|variable|QAbstractEventDispatcher
 DECL|variable|QGuiGLFormat
+DECL|variable|QMenu
+DECL|variable|QMenuBar
 DECL|variable|QPlatformBackingStore
 DECL|variable|QPlatformClipboard
 DECL|variable|QPlatformDrag
 DECL|variable|QPlatformFontDatabase
 DECL|variable|QPlatformInputContext
+DECL|variable|QPlatformMenu
+DECL|variable|QPlatformMenuBar
 DECL|variable|QPlatformNativeInterface
 DECL|variable|QPlatformOpenGLContext
 DECL|variable|QWindow

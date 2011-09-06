@@ -20,13 +20,11 @@ DECL|function|QMacPattern
 DECL|function|adjustPenWidth
 DECL|function|begin
 DECL|function|cgColorForQColor
-DECL|function|cleanUpMacColorSpaces
 DECL|function|cleanup
 DECL|function|devicePixelSize
 DECL|function|drawEllipse
 DECL|function|drawGradientNatively
 DECL|function|drawImage
-DECL|function|drawImageReleaseData
 DECL|function|drawLines
 DECL|function|drawPath
 DECL|function|drawPath
@@ -40,7 +38,6 @@ DECL|function|end
 DECL|function|handle
 DECL|function|height
 DECL|function|initialize
-DECL|function|macDisplayColorSpace
 DECL|function|macGenericColorSpace
 DECL|function|qt_mac_cg_features
 DECL|function|qt_mac_cg_transform_path_apply
@@ -52,7 +49,6 @@ DECL|function|qt_mac_compose_rect
 DECL|function|qt_mac_convert_color_from_cg
 DECL|function|qt_mac_convert_color_to_cg
 DECL|function|qt_mac_convert_transform_to_cg
-DECL|function|qt_mac_createCGImageFromQImage
 DECL|function|qt_mac_dispose_pattern
 DECL|function|qt_mac_draw_pattern
 DECL|function|qt_mac_patternForBrush

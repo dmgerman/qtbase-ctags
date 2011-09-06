@@ -55,6 +55,7 @@ DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|paintEvent
 DECL|function|paintEvent
+DECL|function|platformMenuBar
 DECL|function|popupAction
 DECL|function|resizeEvent
 DECL|function|setActiveAction

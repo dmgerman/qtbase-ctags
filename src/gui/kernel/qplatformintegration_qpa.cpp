@@ -1,4 +1,6 @@
 DECL|function|clipboard
+DECL|function|createPlatformMenu
+DECL|function|createPlatformMenuBar
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformPixmap
 DECL|function|drag

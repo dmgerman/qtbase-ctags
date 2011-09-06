@@ -1,5 +1,3 @@
-DECL|enumerator|QtCocoaEventSubTypePostMessage
-DECL|enumerator|QtCocoaEventSubTypeWakeup
 DECL|function|flipYCoordinate
 DECL|function|flipYCoordinate
 DECL|function|qAppInstance
