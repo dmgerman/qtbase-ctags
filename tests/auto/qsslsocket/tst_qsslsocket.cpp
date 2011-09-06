@@ -62,6 +62,7 @@ DECL|function|peerCertificate
 DECL|function|peerCertificateChain
 DECL|function|peerVerifyError
 DECL|function|privateKey
+DECL|function|privateKeyOpaque
 DECL|function|protocol
 DECL|function|protocolServerSide
 DECL|function|protocolServerSide_data

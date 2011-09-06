@@ -96,6 +96,7 @@ DECL|function|toDouble
 DECL|function|toFloat
 DECL|function|toInt
 DECL|function|toLongLong
+DECL|function|toLower
 DECL|function|toShort
 DECL|function|toString
 DECL|function|toString
@@ -111,6 +112,7 @@ DECL|function|toTime
 DECL|function|toUInt
 DECL|function|toULongLong
 DECL|function|toUShort
+DECL|function|toUpper
 DECL|function|uiLanguages
 DECL|function|unsLongLongToString
 DECL|function|unsLongLongToString
