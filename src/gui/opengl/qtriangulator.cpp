@@ -51,6 +51,7 @@ DECL|function|fillPriorityQueue
 DECL|function|fillPriorityQueue
 DECL|function|findSector
 DECL|function|gcd
+DECL|function|hasElementIndexUint
 DECL|function|head
 DECL|function|indices
 DECL|function|initEdges
