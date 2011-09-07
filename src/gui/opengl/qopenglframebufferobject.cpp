@@ -18,7 +18,6 @@ DECL|function|format
 DECL|function|freeFramebufferFunc
 DECL|function|freeRenderbufferFunc
 DECL|function|freeTextureFunc
-DECL|function|group
 DECL|function|handle
 DECL|function|hasOpenGLFramebufferBlit
 DECL|function|hasOpenGLFramebufferObjects
@@ -26,17 +25,14 @@ DECL|function|init
 DECL|function|internalTextureFormat
 DECL|function|isBound
 DECL|function|isValid
-DECL|function|metric
 DECL|function|mipmap
 DECL|function|operator !=
 DECL|function|operator =
 DECL|function|operator ==
-DECL|function|paintEngine
 DECL|function|qt_gl_read_framebuffer
 DECL|function|release
 DECL|function|samples
 DECL|function|setAttachment
-DECL|function|setFBO
 DECL|function|setInternalTextureFormat
 DECL|function|setMipmap
 DECL|function|setSamples

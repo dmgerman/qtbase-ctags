@@ -8,5 +8,4 @@ DECL|macro|QOPENGL_P_H
 DECL|member|group
 DECL|member|key
 DECL|struct|QOpenGLTextureCacheKey
-DECL|variable|QPaintEngine
 DECL|variable|QPlatformPixmap
