@@ -1,7 +1,6 @@
 DECL|function|QColor
 DECL|function|QColor
 DECL|function|QColor
-DECL|function|allowX11ColorNames
 DECL|function|alpha
 DECL|function|alphaF
 DECL|function|black
@@ -65,7 +64,6 @@ DECL|function|rgb
 DECL|function|rgba
 DECL|function|saturation
 DECL|function|saturationF
-DECL|function|setAllowX11ColorNames
 DECL|function|setAlpha
 DECL|function|setAlphaF
 DECL|function|setBlue
@@ -102,4 +100,3 @@ DECL|macro|QRGBA
 DECL|macro|QRGBA
 DECL|macro|Q_MAX_3
 DECL|macro|Q_MIN_3
-DECL|variable|allowX11ColorNames
