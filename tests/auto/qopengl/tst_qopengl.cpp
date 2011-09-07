@@ -1,6 +1,7 @@
 DECL|class|tst_QOpenGL
 DECL|function|SharedResource
 DECL|function|SharedResourceTracker
+DECL|function|fboHandleNulledAfterContextDestroyed
 DECL|function|fboRendering
 DECL|function|fboSimpleRendering
 DECL|function|freeResource
