@@ -331,6 +331,7 @@ DECL|function|updateGeometry_helper
 DECL|function|updateIsOpaque
 DECL|function|updateIsTranslucent
 DECL|function|updateMicroFocus
+DECL|function|updateWidgetTransform
 DECL|function|visibleRect
 DECL|function|visibleRegion
 DECL|function|whatsThis
