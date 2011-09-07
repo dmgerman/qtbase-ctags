@@ -1,4 +1,5 @@
 DECL|function|QInputPanel
+DECL|function|commit
 DECL|function|cursorRectangle
 DECL|function|hide
 DECL|function|inputItem

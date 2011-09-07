@@ -1,4 +1,5 @@
 DECL|function|QPlatformInputContext
+DECL|function|commit
 DECL|function|emitAnimatingChanged
 DECL|function|emitKeyboardRectChanged
 DECL|function|invokeAction
