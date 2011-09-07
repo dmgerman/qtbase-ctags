@@ -10,7 +10,7 @@ DECL|function|isAnimating
 DECL|function|keyboardRectangle
 DECL|function|reset
 DECL|function|setInputItem
-DECL|function|setInputItemTranform
+DECL|function|setInputItemTransform
 DECL|function|setVisible
 DECL|function|show
 DECL|function|update
