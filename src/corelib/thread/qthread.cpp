@@ -11,6 +11,7 @@ DECL|function|current
 DECL|function|currentThread
 DECL|function|currentThread
 DECL|function|deref
+DECL|function|eventDispatcher
 DECL|function|exec
 DECL|function|exit
 DECL|function|initialize
@@ -21,6 +22,7 @@ DECL|function|quit
 DECL|function|ref
 DECL|function|run
 DECL|function|run
+DECL|function|setEventDispatcher
 DECL|function|setStackSize
 DECL|function|stackSize
 DECL|function|~QAdoptedThread

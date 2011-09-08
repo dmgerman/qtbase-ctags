@@ -24,6 +24,7 @@ DECL|function|closingDown
 DECL|function|compressEvent
 DECL|function|createEventDispatcher
 DECL|function|event
+DECL|function|eventDispatcher
 DECL|function|exec
 DECL|function|exit
 DECL|function|filterEvent
@@ -70,6 +71,7 @@ DECL|function|sendThroughObjectEventFilters
 DECL|function|setApplicationName
 DECL|function|setApplicationVersion
 DECL|function|setAttribute
+DECL|function|setEventDispatcher
 DECL|function|setEventFilter
 DECL|function|setLibraryPaths
 DECL|function|setOrganizationDomain

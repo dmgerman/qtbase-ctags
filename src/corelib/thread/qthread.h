@@ -1,2 +1,3 @@
 DECL|macro|QTHREAD_H
+DECL|variable|QAbstractEventDispatcher
 DECL|variable|QThreadPrivate

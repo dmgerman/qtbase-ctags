@@ -1,4 +1,5 @@
 DECL|class|Current_Thread
+DECL|class|DummyEventDispatcher
 DECL|class|Exit_Object
 DECL|class|Exit_Thread
 DECL|class|FinishedTestObject
@@ -11,6 +12,7 @@ DECL|class|Sleep_Thread
 DECL|class|SlowSlotObject
 DECL|class|Syncronizer
 DECL|class|Terminate_Thread
+DECL|class|ThreadObj
 DECL|class|Waiting_Thread
 DECL|class|tst_QThread
 DECL|enumerator|Microsecond
@@ -20,6 +22,7 @@ DECL|enumerator|WaitTime
 DECL|enumerator|five_minutes
 DECL|enumerator|one_minute
 DECL|enum|SleepType
+DECL|function|DummyEventDispatcher
 DECL|function|FinishedTestObject
 DECL|function|NativeThreadWrapper
 DECL|function|QTBUG13810_exitAndStart
@@ -39,11 +42,15 @@ DECL|function|adoptedThreadSetPriority
 DECL|function|connectThreadFinishedSignalToObjectDeleteLaterSlot
 DECL|function|currentThread
 DECL|function|currentThreadId
+DECL|function|customEventDispatcher
 DECL|function|destroyFinishRace
 DECL|function|exec
 DECL|function|exit
 DECL|function|finished
+DECL|function|flush
+DECL|function|hasPendingEvents
 DECL|function|idealThreadCount
+DECL|function|interrupt
 DECL|function|isFinished
 DECL|function|isRunning
 DECL|function|isRunningInFinished
@@ -51,7 +58,11 @@ DECL|function|join
 DECL|function|msleep
 DECL|function|nativeThreadAdoption
 DECL|function|noop
+DECL|function|processEvents
 DECL|function|quit
+DECL|function|registerSocketNotifier
+DECL|function|registerTimer
+DECL|function|registeredTimers
 DECL|function|run
 DECL|function|run
 DECL|function|run
@@ -82,9 +93,14 @@ DECL|function|stressTest
 DECL|function|terminate
 DECL|function|terminated
 DECL|function|testNativeThreadAdoption
+DECL|function|unregisterSocketNotifier
+DECL|function|unregisterTimer
+DECL|function|unregisterTimers
 DECL|function|usleep
+DECL|function|visit
 DECL|function|wait2
 DECL|function|wait3_slowDestructor
+DECL|function|wakeUp
 DECL|function|wasActivated
 DECL|macro|WIN_FIX_STDCALL
 DECL|macro|WIN_FIX_STDCALL
@@ -118,6 +134,7 @@ DECL|member|stopCondition
 DECL|member|thread
 DECL|member|thread
 DECL|member|thread
+DECL|member|visited
 DECL|member|waitForStop
 DECL|typedef|FunctionPointer
 DECL|typedef|ThreadHandle

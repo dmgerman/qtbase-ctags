@@ -17,7 +17,6 @@ DECL|function|QAbstractEventDispatcher
 DECL|function|allocateTimerId
 DECL|function|closingDown
 DECL|function|filterEvent
-DECL|function|init
 DECL|function|instance
 DECL|function|registerTimer
 DECL|function|releaseTimerId

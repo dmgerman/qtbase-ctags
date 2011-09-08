@@ -8,6 +8,7 @@ DECL|macro|Q_DECLARE_TR_FUNCTIONS
 DECL|macro|qApp
 DECL|typedef|MSG
 DECL|typedef|QtCleanUpFunction
+DECL|variable|QAbstractEventDispatcher
 DECL|variable|QPostEventList
 DECL|variable|QStringList
 DECL|variable|QTextCodec
