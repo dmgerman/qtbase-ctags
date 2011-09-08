@@ -114,6 +114,7 @@ DECL|function|setStartPos
 DECL|function|setStartScenePos
 DECL|function|setStartScreenPos
 DECL|function|setState
+DECL|function|setValue
 DECL|function|setViewportSize
 DECL|function|source
 DECL|function|startNormalizedPos
@@ -123,6 +124,7 @@ DECL|function|startScenePos
 DECL|function|startScreenPos
 DECL|function|state
 DECL|function|url
+DECL|function|value
 DECL|function|viewportSize
 DECL|function|~QActionEvent
 DECL|function|~QClipboardEvent
