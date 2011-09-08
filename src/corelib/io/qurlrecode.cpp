@@ -5,7 +5,7 @@ DECL|enum|EncodingAction
 DECL|function|decodeNibble
 DECL|function|decodePercentEncoding
 DECL|function|encodeNibble
-DECL|function|encodedUtf8ToUcs4
+DECL|function|encodedUtf8ToUtf16
 DECL|function|ensureDetached
 DECL|function|isHex
 DECL|function|isUnicodeNonCharacter
