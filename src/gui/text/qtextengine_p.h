@@ -97,6 +97,7 @@ DECL|member|si
 DECL|member|space_18d6
 DECL|member|textAdvance
 DECL|member|textWidth
+DECL|member|trailingSpaces
 DECL|member|type
 DECL|member|visualOrder
 DECL|member|width
