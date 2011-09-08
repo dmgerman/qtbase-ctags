@@ -17,6 +17,7 @@ DECL|function|QRasterPaintEngineState
 DECL|function|QRasterPaintEngineState
 DECL|function|addCacheElement
 DECL|function|adjustSpanMethods
+DECL|function|alignAddress
 DECL|function|alphaPenBlt
 DECL|function|begin
 DECL|function|boundingRect
