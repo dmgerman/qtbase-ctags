@@ -44,8 +44,6 @@ DECL|function|getSetCheck
 DECL|function|hasFragment
 DECL|function|hasFragment_data
 DECL|function|hasQuery
-DECL|function|hasQueryItem
-DECL|function|hasQueryItem_data
 DECL|function|hasQuery_data
 DECL|function|hashInPath
 DECL|function|hosts
@@ -67,10 +65,7 @@ DECL|function|moreIpv6
 DECL|function|nameprep
 DECL|function|percentEncoding
 DECL|function|percentEncoding_data
-DECL|function|queryItems
 DECL|function|relative
-DECL|function|removeAllEncodedQueryItems
-DECL|function|removeAllEncodedQueryItems_data
 DECL|function|resolvedWithAbsoluteSchemes
 DECL|function|resolvedWithAbsoluteSchemes_data
 DECL|function|resolving

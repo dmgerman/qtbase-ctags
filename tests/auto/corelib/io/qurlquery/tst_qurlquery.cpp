@@ -12,6 +12,9 @@ DECL|function|encodedSetQueryItems
 DECL|function|encodedSetQueryItems_data
 DECL|function|multiAddRemove
 DECL|function|multiplyAddSamePair
+DECL|function|old_hasQueryItem
+DECL|function|old_hasQueryItem_data
+DECL|function|old_queryItems
 DECL|function|operator +
 DECL|function|operator +
 DECL|function|prettyElement

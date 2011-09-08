@@ -1,2 +1,11 @@
+DECL|function|Q_DECLARE_SHARED
+DECL|function|addQueryItem
+DECL|function|allQueryItemValues
+DECL|function|hasQueryItem
+DECL|function|queryItemValue
+DECL|function|queryItems
+DECL|function|removeAllQueryItems
+DECL|function|removeQueryItem
 DECL|macro|QURLQUERY_H
+DECL|variable|QString
 DECL|variable|QUrlQueryPrivate

@@ -42,10 +42,6 @@ DECL|function|_subDelims
 DECL|function|_unreserved
 DECL|function|_userInfo
 DECL|function|adapt
-DECL|function|addEncodedQueryItem
-DECL|function|addQueryItem
-DECL|function|allEncodedQueryItemValues
-DECL|function|allQueryItemValues
 DECL|function|appendEncode
 DECL|function|authority
 DECL|function|authority
@@ -60,8 +56,6 @@ DECL|function|encodedHost
 DECL|function|encodedPassword
 DECL|function|encodedPath
 DECL|function|encodedQuery
-DECL|function|encodedQueryItemValue
-DECL|function|encodedQueryItems
 DECL|function|encodedUserName
 DECL|function|ensureEncodedParts
 DECL|function|equal
@@ -73,10 +67,8 @@ DECL|function|fromPercentEncoding
 DECL|function|fromPercentEncodingHelper
 DECL|function|fromPercentEncodingMutable
 DECL|function|fromUserInput
-DECL|function|hasEncodedQueryItem
 DECL|function|hasFragment
 DECL|function|hasQuery
-DECL|function|hasQueryItem
 DECL|function|host
 DECL|function|idnWhitelist
 DECL|function|isBidirectionalL
@@ -117,15 +109,7 @@ DECL|function|qt_nameprep
 DECL|function|qt_punycodeDecoder
 DECL|function|qt_punycodeEncoder
 DECL|function|queryItem
-DECL|function|queryItemValue
-DECL|function|queryItems
-DECL|function|queryPairDelimiter
-DECL|function|queryValueDelimiter
-DECL|function|removeAllEncodedQueryItems
-DECL|function|removeAllQueryItems
 DECL|function|removeDotsFromPath
-DECL|function|removeEncodedQueryItem
-DECL|function|removeQueryItem
 DECL|function|resolved
 DECL|function|scheme
 DECL|function|setAuthority
@@ -135,7 +119,6 @@ DECL|function|setEncodedHost
 DECL|function|setEncodedPassword
 DECL|function|setEncodedPath
 DECL|function|setEncodedQuery
-DECL|function|setEncodedQueryItems
 DECL|function|setEncodedUrl
 DECL|function|setEncodedUserInfo
 DECL|function|setEncodedUserName
@@ -146,8 +129,6 @@ DECL|function|setParams
 DECL|function|setPassword
 DECL|function|setPath
 DECL|function|setPort
-DECL|function|setQueryDelimiters
-DECL|function|setQueryItems
 DECL|function|setScheme
 DECL|function|setUrl
 DECL|function|setUserInfo
