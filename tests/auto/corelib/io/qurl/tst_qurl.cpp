@@ -77,7 +77,6 @@ DECL|function|setAuthority_data
 DECL|function|setEncodedFragment
 DECL|function|setEncodedFragment_data
 DECL|function|setPort
-DECL|function|setQueryItems
 DECL|function|setUrl
 DECL|function|stripTrailingSlash
 DECL|function|swap
@@ -97,3 +96,5 @@ DECL|function|toString_constructed_data
 DECL|function|toString_data
 DECL|function|tolerantParser
 DECL|function|unc
+DECL|macro|QT_DEPRECATED
+DECL|macro|QT_DISABLE_DEPRECATED_BEFORE

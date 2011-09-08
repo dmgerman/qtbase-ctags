@@ -1,5 +1,9 @@
+DECL|function|Q_DECLARE_SHARED
+DECL|function|operator
+DECL|function|operator
 DECL|function|qHash
 DECL|macro|QURL_H
+DECL|variable|E1
 DECL|variable|QDataStream
 DECL|variable|QUrlPrivate
 DECL|variable|operator
