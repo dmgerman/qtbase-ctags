@@ -11,6 +11,7 @@ DECL|function|pixmapKey
 DECL|function|remove
 DECL|function|replace
 DECL|function|setCacheLimit
+DECL|function|strictCacheLimit
 DECL|function|tst_QPixmapCache
 DECL|function|~tst_QPixmapCache
 DECL|macro|Q_TEST_QPIXMAPCACHE
