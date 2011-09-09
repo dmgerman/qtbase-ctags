@@ -1,6 +1,5 @@
 DECL|function|QHashDummyNode
 DECL|function|QHashNode
-DECL|function|QHashNode
 DECL|function|clear
 DECL|function|constFind
 DECL|function|contains
@@ -25,7 +24,6 @@ DECL|function|key
 DECL|function|key
 DECL|function|keys
 DECL|function|keys
-DECL|function|mightGrow
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator

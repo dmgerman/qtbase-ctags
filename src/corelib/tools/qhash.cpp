@@ -1,10 +1,7 @@
 DECL|function|allocateNode
-DECL|function|allocateNode
 DECL|function|checkSanity
 DECL|function|countBits
-DECL|function|destroyAndFree
 DECL|function|detach_helper
-DECL|function|detach_helper2
 DECL|function|dump
 DECL|function|freeNode
 DECL|function|free_helper
