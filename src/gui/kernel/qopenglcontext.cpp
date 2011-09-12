@@ -26,6 +26,7 @@ DECL|function|isValid
 DECL|function|makeCurrent
 DECL|function|qGLContextHandle
 DECL|function|removeContext
+DECL|function|resources
 DECL|function|screen
 DECL|function|setCurrentContext
 DECL|function|setFormat
