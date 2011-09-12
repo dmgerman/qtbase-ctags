@@ -1,10 +1,13 @@
 DECL|function|UserObjectComparison
 DECL|function|runscript
 DECL|function|v8test_eval
+DECL|function|v8test_evalwithinwith
 DECL|function|v8test_userobjectcompare
 DECL|macro|BEGINTEST
 DECL|macro|ENDTEST
 DECL|macro|SET_EXPECTED
+DECL|macro|SOURCE
+DECL|macro|SOURCE
 DECL|macro|VERIFY
 DECL|variable|expectedLhs
 DECL|variable|expectedObjectsCompared
