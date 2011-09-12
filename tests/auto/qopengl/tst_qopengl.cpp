@@ -8,6 +8,7 @@ DECL|function|freeResource
 DECL|function|fuzzyCompareImages
 DECL|function|fuzzyComparePixels
 DECL|function|invalidateResource
+DECL|function|openGLPaintDevice
 DECL|function|qt_opengl_check_test_pattern
 DECL|function|qt_opengl_draw_test_pattern
 DECL|function|reset
