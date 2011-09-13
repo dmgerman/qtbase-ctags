@@ -13,6 +13,7 @@ DECL|function|charWordStopOnLineSeparator
 DECL|function|cleanup
 DECL|function|columnWrapWithTabs
 DECL|function|cursorInLigatureWithMultipleLines
+DECL|function|cursorInNonStopChars
 DECL|function|cursorMovementFromInvalidPositions
 DECL|function|cursorMovementInsideSpaces
 DECL|function|cursorToXForInlineObjects
