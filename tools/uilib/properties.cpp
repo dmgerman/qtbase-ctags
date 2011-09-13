@@ -1,9 +1,0 @@
-DECL|function|applySimpleProperty
-DECL|function|domPropertyToVariant
-DECL|function|domPropertyToVariant
-DECL|function|fixEnum
-DECL|function|isOfType
-DECL|function|isTranslatable
-DECL|function|msgCannotWriteProperty
-DECL|function|variantToDomProperty
-DECL|namespace|QFormInternal

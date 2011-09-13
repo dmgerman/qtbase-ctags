@@ -1,1 +1,0 @@
-DECL|macro|ATWRAPPER_H

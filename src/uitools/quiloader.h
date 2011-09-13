@@ -1,9 +1,0 @@
-DECL|macro|QUILOADER_H
-DECL|variable|QAction
-DECL|variable|QActionGroup
-DECL|variable|QDir
-DECL|variable|QIODevice
-DECL|variable|QLayout
-DECL|variable|QString
-DECL|variable|QUiLoaderPrivate
-DECL|variable|QWidget

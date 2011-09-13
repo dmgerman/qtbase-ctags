@@ -1,3 +1,0 @@
-DECL|macro|CUSTOMWIDGET_H
-DECL|variable|QDesignerFormEditorInterface
-DECL|variable|QWidget

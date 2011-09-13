@@ -1,3 +1,0 @@
-DECL|function|CalculatorForm
-DECL|function|on_inputSpinBox1_valueChanged
-DECL|function|on_inputSpinBox2_valueChanged
