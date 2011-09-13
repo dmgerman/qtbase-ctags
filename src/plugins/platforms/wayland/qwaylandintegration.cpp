@@ -7,4 +7,5 @@ DECL|function|drag
 DECL|function|fontDatabase
 DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
+DECL|function|inputContext
 DECL|function|nativeInterface
