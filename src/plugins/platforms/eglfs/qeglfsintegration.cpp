@@ -1,6 +1,7 @@
 DECL|function|QEglFSIntegration
-DECL|function|createPixmapData
+DECL|function|createPlatformBackingStore
+DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformWindow
-DECL|function|createWindowSurface
 DECL|function|fontDatabase
+DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability

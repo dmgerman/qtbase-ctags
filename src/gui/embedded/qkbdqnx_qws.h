@@ -1,2 +1,0 @@
-DECL|function|QT_MODULE
-DECL|macro|QKBDQNX_QWS_H

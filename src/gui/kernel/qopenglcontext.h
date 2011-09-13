@@ -1,0 +1,6 @@
+DECL|macro|QOPENGLCONTEXT_H
+DECL|variable|QOpenGLContextGroupPrivate
+DECL|variable|QOpenGLFunctions
+DECL|variable|QPlatformOpenGLContext
+DECL|variable|QScreen
+DECL|variable|QSurface

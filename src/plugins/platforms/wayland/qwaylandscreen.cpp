@@ -4,5 +4,5 @@ DECL|function|display
 DECL|function|format
 DECL|function|geometry
 DECL|function|visual
-DECL|function|waylandScreenFromWidget
+DECL|function|waylandScreenFromWindow
 DECL|function|~QWaylandScreen

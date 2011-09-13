@@ -1,0 +1,4 @@
+DECL|function|emitLineSegment
+DECL|function|lineTo
+DECL|function|normalVector
+DECL|macro|QOPENGLTRIANGULATINGSTROKER_P_H

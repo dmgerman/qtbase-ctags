@@ -1,5 +1,5 @@
-DECL|function|nativeResourceForWidget
-DECL|function|qPlatformScreenForWidget
+DECL|function|nativeResourceForWindow
+DECL|function|qPlatformScreenForWindow
 DECL|function|setWindowProperty
 DECL|function|windowProperties
 DECL|function|windowProperty

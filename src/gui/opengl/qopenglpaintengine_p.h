@@ -1,0 +1,14 @@
+DECL|enumerator|BrushDrawingMode
+DECL|enumerator|ImageArrayDrawingMode
+DECL|enumerator|ImageDrawingMode
+DECL|enumerator|TextDrawingMode
+DECL|enum|EngineMode
+DECL|function|setVertexAttributePointer
+DECL|macro|GL_STENCIL_HIGH_BIT
+DECL|macro|QOPENGLPAINTENGINE_P_H
+DECL|macro|QT_BACKGROUND_TEXTURE_UNIT
+DECL|macro|QT_BRUSH_TEXTURE_UNIT
+DECL|macro|QT_GL_VERTEX_ARRAY_TRACKED_COUNT
+DECL|macro|QT_IMAGE_TEXTURE_UNIT
+DECL|macro|QT_MASK_TEXTURE_UNIT
+DECL|variable|QOpenGL2PaintEngineExPrivate

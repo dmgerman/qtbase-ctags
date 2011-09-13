@@ -1,0 +1,1 @@
+DECL|macro|QOPENWFDPORT_H

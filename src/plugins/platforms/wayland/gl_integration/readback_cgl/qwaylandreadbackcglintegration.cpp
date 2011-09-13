@@ -1,0 +1,7 @@
+DECL|function|QWaylandReadbackCGLIntegration
+DECL|function|createEglWindow
+DECL|function|createGLIntegration
+DECL|function|createPlatformOpenGLContext
+DECL|function|initialize
+DECL|function|waylandDisplay
+DECL|function|~QWaylandReadbackCGLIntegration

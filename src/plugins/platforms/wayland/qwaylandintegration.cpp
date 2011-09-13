@@ -1,10 +1,10 @@
 DECL|function|QWaylandIntegration
 DECL|function|clipboard
-DECL|function|createPixmapData
+DECL|function|createPlatformBackingStore
+DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformWindow
-DECL|function|createWindowSurface
+DECL|function|drag
 DECL|function|fontDatabase
+DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
-DECL|function|hasOpenGL
 DECL|function|nativeInterface
-DECL|function|screens

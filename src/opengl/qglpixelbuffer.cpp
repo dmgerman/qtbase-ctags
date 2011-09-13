@@ -3,20 +3,14 @@ DECL|function|QGLPixelBuffer
 DECL|function|bindTexture
 DECL|function|bindTexture
 DECL|function|bindTexture
-DECL|function|bindTexture
-DECL|function|bindTexture
 DECL|function|common_init
 DECL|function|context
-DECL|function|deleteTexture
 DECL|function|deleteTexture
 DECL|function|doneCurrent
 DECL|function|drawTexture
 DECL|function|drawTexture
-DECL|function|drawTexture
-DECL|function|drawTexture
 DECL|function|endPaint
 DECL|function|format
-DECL|function|generateDynamicTexture
 DECL|function|handle
 DECL|function|isValid
 DECL|function|makeCurrent
@@ -25,6 +19,5 @@ DECL|function|paintEngine
 DECL|function|setPBuffer
 DECL|function|size
 DECL|function|toImage
-DECL|function|updateDynamicTexture
 DECL|function|updateDynamicTexture
 DECL|function|~QGLPixelBuffer

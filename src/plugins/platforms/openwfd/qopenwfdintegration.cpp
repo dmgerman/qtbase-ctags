@@ -1,0 +1,11 @@
+DECL|function|QOpenWFDIntegration
+DECL|function|addScreen
+DECL|function|createPlatformBackingStore
+DECL|function|createPlatformOpenGLContext
+DECL|function|createPlatformWindow
+DECL|function|fontDatabase
+DECL|function|guiThreadEventDispatcher
+DECL|function|hasCapability
+DECL|function|nativeInterface
+DECL|function|printerSupport
+DECL|function|~QOpenWFDIntegration

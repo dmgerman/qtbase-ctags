@@ -1,8 +1,0 @@
-DECL|class|QPlatformEventLoopIntegrationPrivate
-DECL|function|QPlatformEventLoopIntegration
-DECL|function|QPlatformEventLoopIntegrationPrivate
-DECL|function|nextTimerEvent
-DECL|function|processEvents
-DECL|function|setNextTimerEvent
-DECL|function|~QPlatformEventLoopIntegration
-DECL|member|nextTimerEvent

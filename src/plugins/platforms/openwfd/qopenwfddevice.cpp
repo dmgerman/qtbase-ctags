@@ -1,0 +1,16 @@
+DECL|function|QOpenWFDDevice
+DECL|function|addToUsedPipelineSet
+DECL|function|commit
+DECL|function|eglContext
+DECL|function|eglDisplay
+DECL|function|gbmDevice
+DECL|function|handle
+DECL|function|handlePipelineBindSourceComplete
+DECL|function|handlePortAttachDetach
+DECL|function|initializeGbmAndEgl
+DECL|function|integration
+DECL|function|isPipelineUsed
+DECL|function|readEvents
+DECL|function|removeFromUsedPipelineSet
+DECL|function|waitForPipelineBindSourceCompleteEvent
+DECL|function|~QOpenWFDDevice

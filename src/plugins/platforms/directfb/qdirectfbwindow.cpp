@@ -1,5 +1,4 @@
 DECL|function|QDirectFbWindow
-DECL|function|glContext
 DECL|function|lower
 DECL|function|raise
 DECL|function|setGeometry

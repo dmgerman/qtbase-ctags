@@ -1,0 +1,17 @@
+DECL|function|QXlibBackingStore
+DECL|function|QXlibShmImageInfo
+DECL|function|beginPaint
+DECL|function|bufferSize
+DECL|function|destroy
+DECL|function|endPaint
+DECL|function|flush
+DECL|function|paintDevice
+DECL|function|resize
+DECL|function|resizeBuffer
+DECL|function|resizeShmImage
+DECL|function|~QXlibBackingStore
+DECL|function|~QXlibShmImageInfo
+DECL|member|display
+DECL|member|image
+DECL|member|shminfo
+DECL|struct|QXlibShmImageInfo

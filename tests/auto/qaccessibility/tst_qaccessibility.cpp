@@ -82,6 +82,7 @@ DECL|function|~tst_QAccessibility
 DECL|macro|EXPECT
 DECL|macro|QSETCOMPARE
 DECL|macro|SPI_GETPLATFORMTYPE
+DECL|macro|interface
 DECL|member|clickCount
 DECL|member|column_count
 DECL|member|row_count

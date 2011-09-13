@@ -1,0 +1,11 @@
+DECL|function|QKmsIntegration
+DECL|function|addScreen
+DECL|function|createPlatformBackingStore
+DECL|function|createPlatformOpenGLContext
+DECL|function|createPlatformWindow
+DECL|function|findDrmDevices
+DECL|function|fontDatabase
+DECL|function|guiThreadEventDispatcher
+DECL|function|hasCapability
+DECL|function|printerSupport
+DECL|function|~QKmsIntegration

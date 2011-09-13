@@ -1,0 +1,11 @@
+DECL|class|QEglFSPaintDevice
+DECL|function|QEglFSBackingStore
+DECL|function|QEglFSPaintDevice
+DECL|function|beginPaint
+DECL|function|context
+DECL|function|flush
+DECL|function|paintEngine
+DECL|function|resize
+DECL|function|size
+DECL|member|m_context
+DECL|member|m_screen

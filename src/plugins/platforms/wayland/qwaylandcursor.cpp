@@ -1,6 +1,10 @@
 DECL|function|QWaylandCursor
 DECL|function|changeCursor
+DECL|function|pointerEvent
+DECL|function|pos
 DECL|function|setCursor
+DECL|function|setPos
+DECL|function|setupPixmapCursor
 DECL|macro|DATADIR
 DECL|member|filename
 DECL|member|hotspot_x

@@ -1,0 +1,12 @@
+DECL|class|QDropData
+DECL|function|QDropData
+DECL|function|QSimpleDrag
+DECL|function|cancel
+DECL|function|drop
+DECL|function|formats_sys
+DECL|function|hasFormat_sys
+DECL|function|move
+DECL|function|platformDropData
+DECL|function|retrieveData_sys
+DECL|function|~QDropData
+DECL|function|~QSimpleDrag

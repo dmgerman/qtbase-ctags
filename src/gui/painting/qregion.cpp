@@ -13,7 +13,6 @@ DECL|function|QRegion
 DECL|function|QRegion
 DECL|function|QRegion
 DECL|function|QRegion
-DECL|function|QRegion
 DECL|function|QRegionPrivate
 DECL|function|QRegionPrivate
 DECL|function|QRegionPrivate

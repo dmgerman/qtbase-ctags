@@ -1,0 +1,14 @@
+DECL|macro|QWINDOW_QPA_H
+DECL|variable|QBackingStore
+DECL|variable|QExposeEvent
+DECL|variable|QHideEvent
+DECL|variable|QInputMethodEvent
+DECL|variable|QKeyEvent
+DECL|variable|QMouseEvent
+DECL|variable|QObject
+DECL|variable|QPlatformSurface
+DECL|variable|QPlatformWindow
+DECL|variable|QResizeEvent
+DECL|variable|QScreen
+DECL|variable|QShowEvent
+DECL|variable|QWheelEvent

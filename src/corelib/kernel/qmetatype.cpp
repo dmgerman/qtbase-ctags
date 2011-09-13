@@ -32,4 +32,5 @@ DECL|member|typeName
 DECL|member|typeNameLength
 DECL|struct|QMetaTypeGuiHelper
 DECL|variable|qMetaTypeGuiHelper
+DECL|variable|qMetaTypeWidgetsHelper
 DECL|variable|types

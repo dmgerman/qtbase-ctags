@@ -1,0 +1,2 @@
+DECL|macro|QWINDOWSINTERNALMIME_H
+DECL|variable|QDebug

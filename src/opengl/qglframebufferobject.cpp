@@ -4,10 +4,6 @@ DECL|function|QGLFramebufferObject
 DECL|function|QGLFramebufferObject
 DECL|function|QGLFramebufferObject
 DECL|function|QGLFramebufferObject
-DECL|function|QGLFramebufferObject
-DECL|function|QGLFramebufferObject
-DECL|function|QGLFramebufferObject
-DECL|function|QGLFramebufferObject
 DECL|function|QGLFramebufferObjectFormat
 DECL|function|QGLFramebufferObjectFormat
 DECL|function|attachment
@@ -20,9 +16,10 @@ DECL|function|context
 DECL|function|detach
 DECL|function|drawTexture
 DECL|function|drawTexture
-DECL|function|drawTexture
-DECL|function|drawTexture
 DECL|function|format
+DECL|function|freeFramebufferFunc
+DECL|function|freeRenderbufferFunc
+DECL|function|freeTextureFunc
 DECL|function|handle
 DECL|function|hasOpenGLFramebufferBlit
 DECL|function|hasOpenGLFramebufferObjects
@@ -41,10 +38,8 @@ DECL|function|samples
 DECL|function|setAttachment
 DECL|function|setFBO
 DECL|function|setInternalTextureFormat
-DECL|function|setInternalTextureFormat
 DECL|function|setMipmap
 DECL|function|setSamples
-DECL|function|setTextureTarget
 DECL|function|setTextureTarget
 DECL|function|size
 DECL|function|texture

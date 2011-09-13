@@ -1,2 +1,0 @@
-DECL|function|QGraphicsSystemPlugin
-DECL|function|~QGraphicsSystemPlugin

@@ -1,3 +1,0 @@
-DECL|macro|MLIVEPIXMAPDATA_H
-DECL|typedef|QMeeGoLivePixmapDataList
-DECL|variable|QMeeGoLivePixmapData

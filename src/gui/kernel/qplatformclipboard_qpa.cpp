@@ -2,6 +2,7 @@ DECL|class|QClipboardData
 DECL|function|QClipboardData
 DECL|function|emitChanged
 DECL|function|mimeData
+DECL|function|ownsMode
 DECL|function|setMimeData
 DECL|function|setSource
 DECL|function|source

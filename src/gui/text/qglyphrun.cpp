@@ -5,7 +5,6 @@ DECL|function|clear
 DECL|function|detach
 DECL|function|glyphIndexes
 DECL|function|isEmpty
-DECL|function|operator !=
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|overline

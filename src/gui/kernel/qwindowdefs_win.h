@@ -6,7 +6,6 @@ DECL|macro|STRICT
 DECL|typedef|HCURSOR
 DECL|typedef|HRESULT
 DECL|typedef|MSG
-DECL|typedef|WId
 DECL|variable|HBITMAP
 DECL|variable|HBRUSH
 DECL|variable|HFONT

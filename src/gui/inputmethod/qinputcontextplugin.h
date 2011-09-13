@@ -1,9 +1,0 @@
-DECL|function|Q_DECLARE_INTERFACE
-DECL|macro|QINPUTCONTEXTPLUGIN_H
-DECL|macro|QInputContextFactoryInterface_iid
-DECL|member|key
-DECL|member|key
-DECL|member|key
-DECL|member|key
-DECL|struct|QFactoryInterface
-DECL|variable|QInputContextPluginPrivate

@@ -2,6 +2,7 @@ DECL|function|QBmpHandler
 DECL|function|calc_shift
 DECL|function|canRead
 DECL|function|canRead
+DECL|function|formatName
 DECL|function|name
 DECL|function|operator <<
 DECL|function|operator <<

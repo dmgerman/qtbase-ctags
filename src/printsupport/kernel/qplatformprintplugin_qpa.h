@@ -1,0 +1,5 @@
+DECL|function|Q_DECLARE_INTERFACE
+DECL|macro|QPLATFORMPRINTERSUPPORTPLUGIN_H
+DECL|macro|QPlatformPrinterSupportFactoryInterface_iid
+DECL|member|key
+DECL|struct|QFactoryInterface

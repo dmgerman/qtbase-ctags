@@ -1,0 +1,14 @@
+DECL|function|QIBusAttribute
+DECL|function|QIBusAttributeList
+DECL|function|QIBusSerializable
+DECL|function|QIBusText
+DECL|function|format
+DECL|function|fromDBusArgument
+DECL|function|fromDBusArgument
+DECL|function|fromDBusArgument
+DECL|function|fromDBusArgument
+DECL|function|imAttributes
+DECL|function|~QIBusAttribute
+DECL|function|~QIBusAttributeList
+DECL|function|~QIBusSerializable
+DECL|function|~QIBusText

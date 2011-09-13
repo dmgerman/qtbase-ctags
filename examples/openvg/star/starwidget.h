@@ -1,1 +1,0 @@
-DECL|macro|STARWIDGET_H

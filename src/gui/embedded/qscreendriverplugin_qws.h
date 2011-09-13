@@ -1,4 +1,0 @@
-DECL|function|Q_DECLARE_INTERFACE
-DECL|macro|QSCREENDRIVERPLUGIN_QWS_H
-DECL|macro|QScreenDriverFactoryInterface_iid
-DECL|struct|QFactoryInterface

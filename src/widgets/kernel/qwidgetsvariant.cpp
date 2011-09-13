@@ -1,0 +1,17 @@
+DECL|function|clear
+DECL|function|compare
+DECL|function|construct
+DECL|function|isNull
+DECL|function|qRegisterWidgetsVariant
+DECL|function|qUnregisterWidgetsVariant
+DECL|macro|Q_DECL_METATYPE_HELPER
+DECL|macro|Q_DECL_METATYPE_HELPER
+DECL|macro|Q_IMPL_METATYPE_HELPER
+DECL|member|constr
+DECL|member|destr
+DECL|member|loadOp
+DECL|member|saveOp
+DECL|struct|QMetaTypeGuiHelper
+DECL|variable|qVariantWidgetsHelper
+DECL|variable|qt_widgets_variant_handler
+DECL|variable|widgets_handler

@@ -1,1 +1,0 @@
-DECL|macro|QSCREENQNX_QWS_H

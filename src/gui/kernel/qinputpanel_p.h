@@ -1,0 +1,1 @@
+DECL|macro|QINPUTPANEL_P_H

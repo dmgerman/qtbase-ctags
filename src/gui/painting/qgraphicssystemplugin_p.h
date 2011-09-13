@@ -1,5 +1,0 @@
-DECL|function|Q_DECLARE_INTERFACE
-DECL|macro|QGRAPHICSSYSTEMPLUGIN_H
-DECL|macro|QGraphicsSystemFactoryInterface_iid
-DECL|member|key
-DECL|struct|QFactoryInterface

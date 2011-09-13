@@ -1,0 +1,11 @@
+DECL|function|HelloWindow
+DECL|function|Renderer
+DECL|function|createGeometry
+DECL|function|extrude
+DECL|function|initialize
+DECL|function|mousePressEvent
+DECL|function|paintQtLogo
+DECL|function|quad
+DECL|function|render
+DECL|function|render
+DECL|function|updateColor

@@ -1,6 +1,7 @@
 DECL|function|QWaylandReadbackEglIntegration
 DECL|function|createEglWindow
 DECL|function|createGLIntegration
+DECL|function|createPlatformOpenGLContext
 DECL|function|depth
 DECL|function|eglDisplay
 DECL|function|initialize

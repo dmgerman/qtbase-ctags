@@ -1,10 +1,9 @@
 DECL|function|QXlibIntegration
 DECL|function|clipboard
-DECL|function|createPixmapData
+DECL|function|createPlatformBackingStore
+DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformWindow
-DECL|function|createWindowSurface
 DECL|function|fontDatabase
-DECL|function|grabWindow
+DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
-DECL|function|hasOpenGL
 DECL|function|nativeInterface

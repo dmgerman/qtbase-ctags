@@ -1,0 +1,2 @@
+DECL|macro|QWINDOWSINPUTCONTEXT_H
+DECL|variable|QInputMethodEvent

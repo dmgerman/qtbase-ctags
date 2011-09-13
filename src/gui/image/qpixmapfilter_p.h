@@ -1,7 +1,0 @@
-DECL|macro|QPIXMAPFILTER_H
-DECL|variable|QPixmapBlurFilterPrivate
-DECL|variable|QPixmapColorizeFilterPrivate
-DECL|variable|QPixmapConvolutionFilterPrivate
-DECL|variable|QPixmapData
-DECL|variable|QPixmapDropShadowFilterPrivate
-DECL|variable|QPixmapFilterPrivate

@@ -1,9 +1,8 @@
+DECL|function|createSharedResourceGuard
 DECL|function|getTexture
 DECL|function|maxCost
 DECL|function|operator
 DECL|function|qHash
-DECL|function|qt_gl_preferredTextureFormat
-DECL|function|qt_gl_preferredTextureTarget
 DECL|function|setMaxCost
 DECL|function|size
 DECL|macro|QGL_P_H
@@ -16,16 +15,11 @@ DECL|macro|qDebug
 DECL|member|group
 DECL|member|key
 DECL|struct|QGLTextureCacheKey
-DECL|variable|QEglContext
 DECL|variable|QGLContext
-DECL|variable|QGLContextGroupResourceBase
 DECL|variable|QGLContextResourceBase
 DECL|variable|QGLOverlayWidget
-DECL|variable|QGLSharedResourceGuard
 DECL|variable|QGLTemporaryContextPrivate
 DECL|variable|QGLTexture
 DECL|variable|QGLTextureDestroyer
 DECL|variable|QMacWindowChangeEvent
 DECL|variable|QPixmap
-DECL|variable|QPixmapFilter
-DECL|variable|QWSGLWindowSurface

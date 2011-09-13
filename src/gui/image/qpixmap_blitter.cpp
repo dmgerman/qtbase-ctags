@@ -1,4 +1,4 @@
-DECL|function|QBlittablePixmapData
+DECL|function|QBlittablePlatformPixmap
 DECL|function|blittable
 DECL|function|buffer
 DECL|function|clipAndTransformRect
@@ -15,6 +15,6 @@ DECL|function|setBlittable
 DECL|function|toImage
 DECL|function|unmarkRasterOverlayImpl
 DECL|function|unmergeOverlay
-DECL|function|~QBlittablePixmapData
+DECL|function|~QBlittablePlatformPixmap
 DECL|variable|global_ser_no
 DECL|variable|showRasterOverlay

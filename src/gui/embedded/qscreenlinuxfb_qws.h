@@ -1,3 +1,0 @@
-DECL|function|QT_MODULE
-DECL|macro|QSCREENLINUXFB_QWS_H
-DECL|variable|QLinuxFbScreenPrivate

@@ -1,0 +1,3 @@
+DECL|macro|QWINDOWSBACKINGSTORE_H
+DECL|variable|QWindowsNativeImage
+DECL|variable|QWindowsWindow

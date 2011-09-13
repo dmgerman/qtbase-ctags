@@ -1,0 +1,15 @@
+DECL|function|qDrawBorderPixmap
+DECL|function|qDrawPlainRect
+DECL|function|qDrawPlainRect
+DECL|function|qDrawShadeLine
+DECL|function|qDrawShadeLine
+DECL|function|qDrawShadePanel
+DECL|function|qDrawShadePanel
+DECL|function|qDrawShadeRect
+DECL|function|qDrawShadeRect
+DECL|function|qDrawWinButton
+DECL|function|qDrawWinButton
+DECL|function|qDrawWinPanel
+DECL|function|qDrawWinPanel
+DECL|function|qDrawWinShades
+DECL|typedef|QPixmapFragmentsArray

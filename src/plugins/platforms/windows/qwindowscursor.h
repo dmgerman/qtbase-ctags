@@ -1,0 +1,2 @@
+DECL|macro|QWINDOWSCURSOR_H
+DECL|variable|QWindowsWindowCursorData

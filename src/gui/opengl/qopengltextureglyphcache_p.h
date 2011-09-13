@@ -1,0 +1,2 @@
+DECL|macro|QOPENTEXTUREGLYPHCACHE_P_H
+DECL|variable|QOpenGL2PaintEngineExPrivate

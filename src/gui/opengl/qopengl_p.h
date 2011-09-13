@@ -1,0 +1,1 @@
+DECL|macro|QOPENGL_P_H

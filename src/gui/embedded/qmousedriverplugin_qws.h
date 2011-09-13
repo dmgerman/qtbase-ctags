@@ -1,4 +1,0 @@
-DECL|function|Q_DECLARE_INTERFACE
-DECL|macro|QMOUSEDRIVERPLUGIN_QWS_H
-DECL|macro|QWSMouseHandlerFactoryInterface_iid
-DECL|struct|QFactoryInterface

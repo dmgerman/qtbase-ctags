@@ -1,3 +1,0 @@
-DECL|function|QMeeGoRasterPixmapData
-DECL|function|QMeeGoRasterPixmapData
-DECL|function|copy

@@ -12,7 +12,6 @@ DECL|member|format
 DECL|member|has_alpha_clut
 DECL|member|height
 DECL|member|is_cached
-DECL|member|jumptable
 DECL|member|nbytes
 DECL|member|offset
 DECL|member|own_data

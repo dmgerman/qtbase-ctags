@@ -1,14 +1,11 @@
 DECL|class|QGLDefaultExtensions
 DECL|class|QGLDefaultOverlayFormat
-DECL|class|QGLEngineSelector
 DECL|function|QGLContext
 DECL|function|QGLContext
 DECL|function|QGLContextGroup
-DECL|function|QGLContextGroupResourceBase
 DECL|function|QGLContextPrivate
 DECL|function|QGLDefaultExtensions
 DECL|function|QGLDefaultOverlayFormat
-DECL|function|QGLEngineSelector
 DECL|function|QGLExtensionMatcher
 DECL|function|QGLExtensionMatcher
 DECL|function|QGLFormat
@@ -23,7 +20,6 @@ DECL|function|QGLWidget
 DECL|function|QGLWidget
 DECL|function|QGLWidget
 DECL|function|accumBufferSize
-DECL|function|addGuard
 DECL|function|addShare
 DECL|function|alphaBufferSize
 DECL|function|append
@@ -46,21 +42,10 @@ DECL|function|bindTexture
 DECL|function|bindTexture
 DECL|function|bindTexture
 DECL|function|bindTexture
-DECL|function|bindTexture
-DECL|function|bindTexture
-DECL|function|bindTexture
-DECL|function|bindTexture
-DECL|function|bindTexture
-DECL|function|bindTexture
-DECL|function|bindTexture
-DECL|function|bindTexture
 DECL|function|blueBufferSize
 DECL|function|canBindCompressedTexture
 DECL|function|cleanup
-DECL|function|cleanup
-DECL|function|cleanup
 DECL|function|cleanupBeforePixmapDestruction
-DECL|function|cleanupResources
 DECL|function|cleanupTexturesForCacheKey
 DECL|function|cleanupTexturesForPixampData
 DECL|function|context
@@ -75,8 +60,6 @@ DECL|function|defaultFormat
 DECL|function|defaultOverlayFormat
 DECL|function|deleteTexture
 DECL|function|deleteTexture
-DECL|function|deleteTexture
-DECL|function|deleteTexture
 DECL|function|depthBufferSize
 DECL|function|detach
 DECL|function|device
@@ -87,11 +70,6 @@ DECL|function|drawTexture
 DECL|function|drawTexture
 DECL|function|drawTexture
 DECL|function|drawTexture
-DECL|function|drawTexture
-DECL|function|drawTexture
-DECL|function|drawTexture
-DECL|function|drawTexture
-DECL|function|event
 DECL|function|extensionFuncs
 DECL|function|fontDisplayListBase
 DECL|function|format
@@ -108,7 +86,6 @@ DECL|function|initContext
 DECL|function|initializeGL
 DECL|function|initializeOverlayGL
 DECL|function|initialized
-DECL|function|insert
 DECL|function|insert
 DECL|function|instance
 DECL|function|instance
@@ -130,7 +107,6 @@ DECL|function|paintEvent
 DECL|function|paintGL
 DECL|function|paintOverlayGL
 DECL|function|plane
-DECL|function|preferredPaintEngine
 DECL|function|profile
 DECL|function|qDrawTextureRect
 DECL|function|qOpenGLVersionFlagsFromString
@@ -144,7 +120,6 @@ DECL|function|qt_gl_convertToGLFormat
 DECL|function|qt_gl_convertToGLFormatHelper
 DECL|function|qt_gl_draw_text
 DECL|function|qt_gl_library_name
-DECL|function|qt_gl_preferGL2Engine
 DECL|function|qt_gl_read_framebuffer
 DECL|function|qt_gl_read_texture
 DECL|function|qt_gl_transfer_context
@@ -158,7 +133,6 @@ DECL|function|remove
 DECL|function|remove
 DECL|function|remove
 DECL|function|removeContextTextures
-DECL|function|removeGuard
 DECL|function|removeShare
 DECL|function|renderPixmap
 DECL|function|renderText
@@ -173,7 +147,6 @@ DECL|function|setAlpha
 DECL|function|setAlphaBufferSize
 DECL|function|setAutoBufferSwap
 DECL|function|setBlueBufferSize
-DECL|function|setContext
 DECL|function|setCurrentContext
 DECL|function|setDefaultFormat
 DECL|function|setDefaultOverlayFormat
@@ -189,8 +162,6 @@ DECL|function|setInitialized
 DECL|function|setOption
 DECL|function|setOverlay
 DECL|function|setPlane
-DECL|function|setPreferredPaintEngine
-DECL|function|setPreferredPaintEngine
 DECL|function|setProfile
 DECL|function|setRedBufferSize
 DECL|function|setRgba
@@ -215,14 +186,11 @@ DECL|function|textureCacheLimit
 DECL|function|textureCacheLookup
 DECL|function|transform_point
 DECL|function|updateGL
-DECL|function|value
 DECL|function|windowCreated
 DECL|function|~QGLContext
 DECL|function|~QGLContextGroup
-DECL|function|~QGLContextGroupResourceBase
 DECL|function|~QGLContextPrivate
 DECL|function|~QGLFormat
-DECL|function|~QGLSharedResourceGuard
 DECL|function|~QGLTextureCache
 DECL|function|~QGLThreadContext
 DECL|function|~QGLWidget
@@ -243,10 +211,6 @@ DECL|macro|GL_ETC1_RGB8_OES
 DECL|macro|GL_GENERATE_MIPMAP_HINT_SGIS
 DECL|macro|GL_GENERATE_MIPMAP_SGIS
 DECL|macro|GL_NUM_EXTENSIONS
-DECL|macro|INT32
-DECL|macro|INT32
-DECL|macro|INT8
-DECL|macro|INT8
 DECL|macro|M
 DECL|macro|M
 DECL|macro|PVR_ALPHA_IN_TEXTURE
@@ -285,7 +249,6 @@ DECL|member|dwLinearSize
 DECL|member|dwMipMapCount
 DECL|member|dwSize
 DECL|member|dwWidth
-DECL|member|engineType
 DECL|member|extensions
 DECL|member|flags
 DECL|member|greenMask
@@ -306,4 +269,3 @@ DECL|struct|QGLThreadContext
 DECL|typedef|_qt_image_cleanup_hook_64
 DECL|typedef|_qt_pixmap_cleanup_hook_64
 DECL|typedef|qt_glGetStringi
-DECL|variable|qgl_context_storage

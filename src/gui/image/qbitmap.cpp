@@ -3,8 +3,6 @@ DECL|function|QBitmap
 DECL|function|QBitmap
 DECL|function|QBitmap
 DECL|function|QBitmap
-DECL|function|QBitmap
-DECL|function|QBitmap
 DECL|function|fromData
 DECL|function|fromImage
 DECL|function|operator =

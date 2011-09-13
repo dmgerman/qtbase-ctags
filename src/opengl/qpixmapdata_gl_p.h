@@ -1,6 +1,0 @@
-DECL|macro|QPIXMAPDATA_GL_P_H
-DECL|variable|QGLFramebufferObject
-DECL|variable|QGLFramebufferObjectFormat
-DECL|variable|QGLPixmapData
-DECL|variable|QNativeImageHandleProvider
-DECL|variable|QPaintEngine

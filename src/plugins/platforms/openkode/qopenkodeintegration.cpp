@@ -1,7 +1,7 @@
 DECL|function|QOpenKODEIntegration
 DECL|function|QOpenKODEScreen
 DECL|function|createEventLoopIntegration
-DECL|function|createPixmapData
+DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
 DECL|function|createWindowSurface
 DECL|function|fontDatabase

@@ -1,2 +1,0 @@
-DECL|macro|PVREGLWINDOWSURFACE_H
-DECL|variable|PvrEglScreen

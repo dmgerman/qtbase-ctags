@@ -68,6 +68,7 @@ DECL|member|cacheSize
 DECL|member|glyphType
 DECL|member|ibo
 DECL|member|indexCount
+DECL|member|indexType
 DECL|member|iscale
 DECL|member|primitiveType
 DECL|member|textureCoordinateArray

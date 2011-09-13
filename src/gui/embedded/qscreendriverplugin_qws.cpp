@@ -1,2 +1,0 @@
-DECL|function|QScreenDriverPlugin
-DECL|function|~QScreenDriverPlugin

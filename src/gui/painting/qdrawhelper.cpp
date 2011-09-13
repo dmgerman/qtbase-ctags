@@ -33,7 +33,6 @@ DECL|function|blendUntransformed_dest24
 DECL|function|blendUntransformed_unaligned
 DECL|function|blend_color_argb
 DECL|function|blend_color_generic
-DECL|function|blend_color_generic_callback
 DECL|function|blend_color_rgb16
 DECL|function|blend_sourceOver_4
 DECL|function|blend_sourceOver_4
@@ -244,7 +243,6 @@ DECL|function|overlay_op
 DECL|function|preload
 DECL|function|process
 DECL|function|qBlendTexture
-DECL|function|qBlendTextureCallback
 DECL|function|qInitDrawhelperAsm
 DECL|function|qt_alphamapblit_quint16
 DECL|function|qt_alphamapblit_quint32
@@ -282,9 +280,6 @@ DECL|function|qt_memfill_quint16
 DECL|function|qt_memfill_template
 DECL|function|qt_memfill_template
 DECL|function|qt_memfill_template
-DECL|function|qt_rectconvert
-DECL|function|qt_rectconvert
-DECL|function|qt_rectconvert_rgb
 DECL|function|qt_rectfill_nonpremul_quint32
 DECL|function|qt_rectfill_template
 DECL|function|rasterop_NotSource
@@ -378,20 +373,11 @@ DECL|macro|SPANFUNC_POINTER_FETCHPIXEL
 DECL|macro|comp_func_Clear_impl
 DECL|macro|interpolate_4_pixels_16_neon
 DECL|macro|interpolate_4_pixels_16_sse2
-DECL|member|bpp
 DECL|member|buffer
 DECL|member|ca
 DECL|member|data
 DECL|member|dest
 DECL|member|ica
-DECL|member|len_alpha
-DECL|member|len_blue
-DECL|member|len_green
-DECL|member|len_red
-DECL|member|off_alpha
-DECL|member|off_blue
-DECL|member|off_green
-DECL|member|off_red
 DECL|member|op
 DECL|member|src_buffer
 DECL|struct|QBlendBase
@@ -411,9 +397,7 @@ DECL|variable|functionForModeSolid
 DECL|variable|functionForModeSolid_C
 DECL|variable|functionForMode_C
 DECL|variable|processTextureSpans
-DECL|variable|processTextureSpansCallback
 DECL|variable|qDrawHelper
-DECL|variable|qDrawHelperCallback
 DECL|variable|qt_fetch_radial_gradient
 DECL|variable|qt_memfill16
 DECL|variable|qt_memfill32

@@ -1,8 +1,0 @@
-DECL|macro|EGLNativeDisplayType
-DECL|macro|EGLNativePixmapType
-DECL|macro|EGLNativeWindowType
-DECL|macro|QEGL_NATIVE_TYPES_DEFINED
-DECL|macro|QSCREENEGL_P_H
-DECL|typedef|EGLNativeDisplayType
-DECL|typedef|EGLNativePixmapType
-DECL|typedef|EGLNativeWindowType

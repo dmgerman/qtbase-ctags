@@ -5,6 +5,7 @@ DECL|typedef|GC
 DECL|typedef|QWidgetList
 DECL|typedef|QWidgetMapper
 DECL|typedef|QWidgetSet
+DECL|typedef|QWindowList
 DECL|typedef|Region
 DECL|typedef|WId
 DECL|typedef|WId
@@ -21,7 +22,6 @@ DECL|variable|QBrush
 DECL|variable|QByteArray
 DECL|variable|QClipboard
 DECL|variable|QColor
-DECL|variable|QColorGroup
 DECL|variable|QCursor
 DECL|variable|QDialog
 DECL|variable|QFont
@@ -39,7 +39,6 @@ DECL|variable|QPicture
 DECL|variable|QPixmap
 DECL|variable|QPoint
 DECL|variable|QPolygon
-DECL|variable|QPrinter
 DECL|variable|QRect
 DECL|variable|QRegion
 DECL|variable|QSet
@@ -48,3 +47,4 @@ DECL|variable|QString
 DECL|variable|QTime
 DECL|variable|QTimer
 DECL|variable|QWidget
+DECL|variable|QWindow

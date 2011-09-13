@@ -4,6 +4,8 @@ DECL|function|QSupportedWritingSystems
 DECL|function|QWritingSystemsPrivate
 DECL|function|QWritingSystemsPrivate
 DECL|function|addApplicationFont
+DECL|function|defaultFont
+DECL|function|defaultFonts
 DECL|function|detach
 DECL|function|fallbacksForFamily
 DECL|function|fontDir

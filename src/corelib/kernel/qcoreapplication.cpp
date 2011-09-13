@@ -1,7 +1,6 @@
 DECL|class|QMutexUnlocker
 DECL|function|QCoreApplication
 DECL|function|QCoreApplication
-DECL|function|QCoreApplication
 DECL|function|QCoreApplicationData
 DECL|function|QCoreApplicationPrivate
 DECL|function|QMutexUnlocker
@@ -20,6 +19,7 @@ DECL|function|argv
 DECL|function|checkInstance
 DECL|function|checkReceiverThread
 DECL|function|checkReceiverThread
+DECL|function|cleanupThreadData
 DECL|function|closingDown
 DECL|function|compressEvent
 DECL|function|createEventDispatcher

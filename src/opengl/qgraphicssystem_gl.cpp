@@ -1,3 +1,0 @@
-DECL|function|createPixmapData
-DECL|function|createWindowSurface
-DECL|function|releaseCachedResources

@@ -1,0 +1,2 @@
+DECL|macro|QCOCOANATIVEINTERFACE_H
+DECL|variable|QWidget

@@ -1,4 +1,5 @@
 DECL|macro|QWAYLANDDISPLAY_H
+DECL|variable|QAbstractEventDispatcher
 DECL|variable|QPlatformScreen
 DECL|variable|QSocketNotifier
 DECL|variable|QWaylandBuffer

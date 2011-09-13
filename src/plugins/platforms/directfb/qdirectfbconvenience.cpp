@@ -2,7 +2,7 @@ DECL|function|QDirectFbKeyMap
 DECL|function|colorDepthForSurface
 DECL|function|dfbDisplayLayer
 DECL|function|dfbInterface
-DECL|function|dfbSurfaceForPixmapData
+DECL|function|dfbSurfaceForPlatformPixmap
 DECL|function|eventType
 DECL|function|imageFormatFromSurfaceFormat
 DECL|function|keyMap

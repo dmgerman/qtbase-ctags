@@ -1,0 +1,11 @@
+DECL|function|QPlatformInputContext
+DECL|function|commit
+DECL|function|emitAnimatingChanged
+DECL|function|emitKeyboardRectChanged
+DECL|function|invokeAction
+DECL|function|isAnimating
+DECL|function|isValid
+DECL|function|keyboardRect
+DECL|function|reset
+DECL|function|update
+DECL|function|~QPlatformInputContext

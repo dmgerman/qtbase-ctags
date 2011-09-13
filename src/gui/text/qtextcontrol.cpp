@@ -2,7 +2,6 @@ DECL|function|QTextControl
 DECL|function|QTextControl
 DECL|function|QTextControl
 DECL|function|QTextControlPrivate
-DECL|function|QUnicodeControlCharacterMenu
 DECL|function|_q_copyLink
 DECL|function|_q_deleteSelected
 DECL|function|_q_documentLayoutChanged
@@ -25,11 +24,9 @@ DECL|function|boundingRectOfFloatsInSelection
 DECL|function|canInsertFromMimeData
 DECL|function|canPaste
 DECL|function|clear
-DECL|function|contextMenuEvent
 DECL|function|copy
 DECL|function|createAutoBulletList
 DECL|function|createMimeDataFromSelection
-DECL|function|createStandardContextMenu
 DECL|function|currentCharFormat
 DECL|function|currentTextLine
 DECL|function|cursorForPosition
@@ -76,7 +73,6 @@ DECL|function|isDragEnabled
 DECL|function|isWordSelectionEnabled
 DECL|function|keyPressEvent
 DECL|function|loadResource
-DECL|function|menuActionTriggered
 DECL|function|mergeCurrentCharFormat
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseMoveEvent
@@ -125,9 +121,9 @@ DECL|function|setPlainText
 DECL|function|setTextCursor
 DECL|function|setTextInteractionFlags
 DECL|function|setTextWidth
+DECL|function|setView
 DECL|function|setWordSelectionEnabled
 DECL|function|setup
-DECL|function|showToolTip
 DECL|function|size
 DECL|function|startDrag
 DECL|function|textCursor
@@ -136,11 +132,7 @@ DECL|function|textWidth
 DECL|function|timerEvent
 DECL|function|undo
 DECL|function|updateCurrentCharFormat
+DECL|function|view
 DECL|function|~QTextControl
-DECL|macro|ACCEL_KEY
-DECL|macro|ACCEL_KEY
-DECL|macro|NUM_CONTROL_CHARACTERS
-DECL|member|character
-DECL|member|text
-DECL|struct|QUnicodeControlCharacter
-DECL|variable|qt_controlCharacters
+DECL|variable|fullWidthSelection
+DECL|variable|textCursorWidth

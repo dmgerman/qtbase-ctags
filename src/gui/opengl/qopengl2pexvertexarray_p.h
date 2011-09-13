@@ -1,0 +1,9 @@
+DECL|function|QOpenGLRect
+DECL|function|QOpenGLRect
+DECL|function|QRectF
+DECL|macro|QOPENGL2PEXVERTEXARRAY_P_H
+DECL|member|bottom
+DECL|member|left
+DECL|member|right
+DECL|member|top
+DECL|struct|QOpenGLRect

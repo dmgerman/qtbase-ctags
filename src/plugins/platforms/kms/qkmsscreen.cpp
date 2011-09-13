@@ -1,0 +1,15 @@
+DECL|function|QKmsScreen
+DECL|function|bindFramebuffer
+DECL|function|depth
+DECL|function|device
+DECL|function|format
+DECL|function|framebufferObject
+DECL|function|geometry
+DECL|function|initializeScreenMode
+DECL|function|performPageFlip
+DECL|function|physicalSize
+DECL|function|setFlipReady
+DECL|function|swapBuffers
+DECL|function|waitForPageFlipComplete
+DECL|function|~QKmsScreen
+DECL|variable|builtin_1024x768

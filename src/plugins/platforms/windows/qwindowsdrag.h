@@ -1,0 +1,1 @@
+DECL|macro|QWINDOWSDRAG_H

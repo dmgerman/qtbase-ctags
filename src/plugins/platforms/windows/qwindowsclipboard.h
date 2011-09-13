@@ -1,0 +1,2 @@
+DECL|macro|QWINDOWSCLIPBOARD_H
+DECL|variable|QWindowsOleDataObject

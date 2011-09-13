@@ -1,0 +1,14 @@
+DECL|macro|PPK_CupsOptions
+DECL|macro|PPK_CupsPageRect
+DECL|macro|PPK_CupsPaperRect
+DECL|macro|PPK_CupsStringPageSize
+DECL|macro|QPRINTENGINE_PDF_P_H
+DECL|variable|QDataStream
+DECL|variable|QFile
+DECL|variable|QImage
+DECL|variable|QPdfEngine
+DECL|variable|QPdfPrintEngine
+DECL|variable|QPdfPrintEnginePrivate
+DECL|variable|QPen
+DECL|variable|QPointF
+DECL|variable|QRegion

@@ -1,4 +1,3 @@
-DECL|function|QColor
 DECL|function|color
 DECL|function|isDetached
 DECL|function|matrix

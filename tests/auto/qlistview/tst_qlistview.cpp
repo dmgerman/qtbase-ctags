@@ -38,6 +38,7 @@ DECL|function|cursorMove
 DECL|function|data
 DECL|function|emptyItemSize
 DECL|function|emptyModel
+DECL|function|getHWNDForWidget
 DECL|function|getSetCheck
 DECL|function|hideFirstRow
 DECL|function|hideRows

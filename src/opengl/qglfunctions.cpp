@@ -2,8 +2,10 @@ DECL|function|QGLFunctions
 DECL|function|QGLFunctions
 DECL|function|QGLFunctionsPrivate
 DECL|function|QGLFunctionsPrivateEx
+DECL|function|freeResource
 DECL|function|hasOpenGLFeature
 DECL|function|initializeGLFunctions
+DECL|function|invalidateResource
 DECL|function|openGLFeatures
 DECL|function|qglfResolveActiveTexture
 DECL|function|qglfResolveAttachShader

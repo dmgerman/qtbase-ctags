@@ -5,8 +5,9 @@ DECL|function|QLinuxFbScreen
 DECL|function|blank
 DECL|function|closeTty
 DECL|function|connect
+DECL|function|createEventDispatcher
 DECL|function|createPalette
-DECL|function|createPixmapData
+DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
 DECL|function|createWindowSurface
 DECL|function|doRedraw

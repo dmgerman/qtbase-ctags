@@ -1,9 +1,9 @@
 DECL|function|~QAbstractUndoItem
 DECL|macro|QTEXTDOCUMENT_H
 DECL|variable|QAbstractTextDocumentLayout
+DECL|variable|QPagedPaintDevice
 DECL|variable|QPainter
 DECL|variable|QPoint
-DECL|variable|QPrinter
 DECL|variable|QRect
 DECL|variable|QRectF
 DECL|variable|QTextBlock

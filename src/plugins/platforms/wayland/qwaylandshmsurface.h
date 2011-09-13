@@ -1,2 +1,0 @@
-DECL|macro|QWINDOWSURFACE_WAYLAND_H
-DECL|variable|QWaylandDisplay

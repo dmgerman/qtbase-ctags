@@ -1,3 +1,4 @@
 DECL|macro|QGRAPHICSSYSTEM_QVFB_H
+DECL|variable|QAbstractEventDispatcher
 DECL|variable|QVFbIntegrationPrivate
 DECL|variable|QVFbScreenPrivate

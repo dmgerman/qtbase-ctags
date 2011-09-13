@@ -1,0 +1,5 @@
+DECL|function|q_configFromGLFormat
+DECL|function|q_createConfigAttributesFromFormat
+DECL|function|q_glFormatFromConfig
+DECL|function|q_hasEglExtension
+DECL|function|q_reduceConfigAttributes

@@ -17,3 +17,4 @@ DECL|struct|QMetaTypeGuiHelper
 DECL|variable|qVariantGuiHelper
 DECL|variable|qt_gui_variant_handler
 DECL|variable|qt_guivariant_last_handler
+DECL|variable|qt_widgets_variant_handler
