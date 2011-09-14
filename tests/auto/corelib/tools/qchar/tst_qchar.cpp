@@ -8,6 +8,8 @@ DECL|function|digitValue
 DECL|function|direction
 DECL|function|init
 DECL|function|initTestCase
+DECL|function|isDigit
+DECL|function|isDigit_data
 DECL|function|isLower
 DECL|function|isPrint
 DECL|function|isTitle
