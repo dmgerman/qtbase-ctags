@@ -12,6 +12,8 @@ DECL|function|isDigit
 DECL|function|isDigit_data
 DECL|function|isExpectedLetter
 DECL|function|isLetter
+DECL|function|isLetterOrNumber
+DECL|function|isLetterOrNumber_data
 DECL|function|isLetter_data
 DECL|function|isLower
 DECL|function|isPrint
