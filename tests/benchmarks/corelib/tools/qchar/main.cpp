@@ -1,0 +1,13 @@
+DECL|class|tst_QChar
+DECL|function|isDigit
+DECL|function|isDigit_data
+DECL|function|isLetter
+DECL|function|isLetterOrNumber
+DECL|function|isLetterOrNumber_data
+DECL|function|isLetter_data
+DECL|function|isLower
+DECL|function|isLower_data
+DECL|function|isSpace
+DECL|function|isSpace_data
+DECL|function|isUpper
+DECL|function|isUpper_data
