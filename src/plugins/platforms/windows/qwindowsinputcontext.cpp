@@ -19,7 +19,6 @@ DECL|function|intermediateMarkup
 DECL|function|mouseHandler
 DECL|function|reconvertString
 DECL|function|reset
-DECL|function|setFocusObject
 DECL|function|standardFormat
 DECL|function|startComposition
 DECL|function|startContextComposition
