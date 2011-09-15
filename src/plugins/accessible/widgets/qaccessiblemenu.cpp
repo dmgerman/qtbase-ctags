@@ -5,6 +5,9 @@ DECL|function|action
 DECL|function|actionText
 DECL|function|actionText
 DECL|function|actionText
+DECL|function|child
+DECL|function|child
+DECL|function|child
 DECL|function|childAt
 DECL|function|childAt
 DECL|function|childAt
@@ -25,6 +28,8 @@ DECL|function|navigate
 DECL|function|navigate
 DECL|function|object
 DECL|function|owner
+DECL|function|parent
+DECL|function|parent
 DECL|function|rect
 DECL|function|rect
 DECL|function|rect

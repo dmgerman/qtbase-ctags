@@ -8,6 +8,9 @@ DECL|function|caption
 DECL|function|cell
 DECL|function|cellAt
 DECL|function|cellAt
+DECL|function|child
+DECL|function|child
+DECL|function|child
 DECL|function|childAt
 DECL|function|childAt
 DECL|function|childCount
@@ -43,6 +46,9 @@ DECL|function|navigate
 DECL|function|navigate
 DECL|function|navigate
 DECL|function|navigate
+DECL|function|parent
+DECL|function|parent
+DECL|function|parent
 DECL|function|rect
 DECL|function|rect
 DECL|function|rect

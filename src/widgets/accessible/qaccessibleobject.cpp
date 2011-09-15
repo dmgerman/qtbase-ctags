@@ -4,6 +4,7 @@ DECL|function|QAccessibleObject
 DECL|function|actionList
 DECL|function|actionText
 DECL|function|actionText
+DECL|function|child
 DECL|function|childAt
 DECL|function|childCount
 DECL|function|doAction
@@ -12,6 +13,7 @@ DECL|function|indexOfChild
 DECL|function|isValid
 DECL|function|navigate
 DECL|function|object
+DECL|function|parent
 DECL|function|rect
 DECL|function|relationTo
 DECL|function|role

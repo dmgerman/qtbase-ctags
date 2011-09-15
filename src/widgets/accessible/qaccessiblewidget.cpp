@@ -5,6 +5,7 @@ DECL|function|QAccessibleWidgetPrivate
 DECL|function|actionText
 DECL|function|addControllingSignal
 DECL|function|buddyString
+DECL|function|child
 DECL|function|childAt
 DECL|function|childCount
 DECL|function|childWidgets
@@ -14,6 +15,7 @@ DECL|function|invokeMethod
 DECL|function|isAncestor
 DECL|function|isSender
 DECL|function|navigate
+DECL|function|parent
 DECL|function|parentObject
 DECL|function|qt_accHotKey
 DECL|function|qt_accStripAmp

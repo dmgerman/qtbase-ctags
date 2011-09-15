@@ -17,6 +17,8 @@ DECL|function|calendarView
 DECL|function|calendarWidget
 DECL|function|characterCount
 DECL|function|characterRect
+DECL|function|child
+DECL|function|child
 DECL|function|childAt
 DECL|function|childAt
 DECL|function|childAt
@@ -82,6 +84,7 @@ DECL|function|navigate
 DECL|function|navigationBar
 DECL|function|object
 DECL|function|offsetAtPoint
+DECL|function|parent
 DECL|function|pasteText
 DECL|function|qTextBlockAt
 DECL|function|qTextBlockPosition

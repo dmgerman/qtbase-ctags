@@ -19,6 +19,8 @@ DECL|function|actionText
 DECL|function|caption
 DECL|function|cellAtIndex
 DECL|function|child
+DECL|function|child
+DECL|function|child
 DECL|function|childAt
 DECL|function|childAt
 DECL|function|childAt
@@ -86,6 +88,8 @@ DECL|function|next
 DECL|function|object
 DECL|function|object
 DECL|function|object
+DECL|function|parent
+DECL|function|parent
 DECL|function|rect
 DECL|function|rect
 DECL|function|rect
