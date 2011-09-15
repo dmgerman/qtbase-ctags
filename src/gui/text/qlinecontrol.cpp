@@ -40,6 +40,5 @@ DECL|function|updateDisplayText
 DECL|function|updatePasswordEchoEditing
 DECL|function|xToPos
 DECL|macro|QT_NO_ACCESSIBILITY
-DECL|macro|QT_NO_IM
 DECL|variable|fullWidthSelection
 DECL|variable|textCursorWidth
