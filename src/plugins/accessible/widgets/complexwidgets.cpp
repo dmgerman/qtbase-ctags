@@ -13,11 +13,13 @@ DECL|function|abstractScrollArea
 DECL|function|accessibleAt
 DECL|function|accessibleChildren
 DECL|function|actionCount
+DECL|function|actionCount
 DECL|function|actionText
 DECL|function|actionText
 DECL|function|actionText
 DECL|function|caption
 DECL|function|cellAtIndex
+DECL|function|child
 DECL|function|child
 DECL|function|child
 DECL|function|child
@@ -45,6 +47,8 @@ DECL|function|columnSpan
 DECL|function|comboBox
 DECL|function|current
 DECL|function|description
+DECL|function|description
+DECL|function|doAction
 DECL|function|doAction
 DECL|function|doAction
 DECL|function|doAction
@@ -75,10 +79,12 @@ DECL|function|isValid
 DECL|function|isValidChildRole
 DECL|function|itemView
 DECL|function|keyBindings
+DECL|function|keyBindings
+DECL|function|localizedName
 DECL|function|localizedName
 DECL|function|logicalFromChild
 DECL|function|name
-DECL|function|navigate
+DECL|function|name
 DECL|function|navigate
 DECL|function|navigate
 DECL|function|navigate
@@ -96,11 +102,9 @@ DECL|function|rect
 DECL|function|rect
 DECL|function|rect
 DECL|function|rect
-DECL|function|rect
 DECL|function|relationTo
 DECL|function|relationTo
 DECL|function|removeInvisibleWidgetsFromList
-DECL|function|role
 DECL|function|role
 DECL|function|role
 DECL|function|role
@@ -124,7 +128,6 @@ DECL|function|setText
 DECL|function|setText
 DECL|function|setText
 DECL|function|setText
-DECL|function|state
 DECL|function|state
 DECL|function|state
 DECL|function|state
