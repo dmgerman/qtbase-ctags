@@ -68,11 +68,11 @@ DECL|member|xinput_key_release
 DECL|member|xinput_motion
 DECL|member|xinput_proximity_in
 DECL|member|xinput_proximity_out
+DECL|struct|QFont
 DECL|struct|QTabletDeviceData
 DECL|struct|QWSServerCleaner
 DECL|struct|tagGESTURECONFIG
 DECL|struct|tagGESTUREINFO
-DECL|typedef|FontHash
 DECL|typedef|GESTURECONFIG
 DECL|typedef|GESTUREINFO
 DECL|typedef|PaletteHash
@@ -91,9 +91,9 @@ DECL|typedef|Ptrqt_dispatchAccelEvent
 DECL|typedef|Ptrqt_tryAccelEvent
 DECL|typedef|Ptrqt_tryComposeUnicode
 DECL|typedef|QByteArray
-DECL|typedef|QByteArray
 DECL|typedef|QMacTabletHash
 DECL|typedef|QTabletDeviceDataList
+DECL|variable|QByteArray
 DECL|variable|QClipboard
 DECL|variable|QDirectPainter
 DECL|variable|QGestureManager
