@@ -1,6 +1,7 @@
 DECL|function|QWindow
 DECL|function|QWindow
 DECL|function|QWindow
+DECL|function|accessibleRoot
 DECL|function|baseSize
 DECL|function|close
 DECL|function|create
