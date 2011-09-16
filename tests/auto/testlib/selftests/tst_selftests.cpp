@@ -14,7 +14,6 @@ DECL|function|toString
 DECL|member|arguments
 DECL|member|iterations
 DECL|member|name
-DECL|member|testdata_suffix
 DECL|member|total
 DECL|member|unit
 DECL|namespace|QTest
