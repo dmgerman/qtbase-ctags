@@ -32,6 +32,7 @@ DECL|function|state
 DECL|function|text
 DECL|function|userActionCount
 DECL|function|widget
+DECL|function|window
 DECL|function|~QAccessibleWidget
 DECL|member|accelerator
 DECL|member|asking

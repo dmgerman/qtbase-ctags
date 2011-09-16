@@ -3,6 +3,7 @@ DECL|variable|QAbstractEventDispatcher
 DECL|variable|QGuiGLFormat
 DECL|variable|QMenu
 DECL|variable|QMenuBar
+DECL|variable|QPlatformAccessibility
 DECL|variable|QPlatformBackingStore
 DECL|variable|QPlatformClipboard
 DECL|variable|QPlatformDrag

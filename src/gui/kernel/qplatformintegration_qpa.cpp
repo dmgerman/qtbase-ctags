@@ -1,3 +1,4 @@
+DECL|function|accessibility
 DECL|function|clipboard
 DECL|function|createPlatformMenu
 DECL|function|createPlatformMenuBar

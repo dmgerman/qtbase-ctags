@@ -1,0 +1,6 @@
+DECL|function|QPlatformAccessibility
+DECL|function|cleanup
+DECL|function|initialize
+DECL|function|notifyAccessibilityUpdate
+DECL|function|setRootObject
+DECL|function|~QPlatformAccessibility

@@ -1,6 +1,7 @@
 DECL|class|QWindowsNativeInterface
 DECL|function|QWindowsIntegration
 DECL|function|QWindowsIntegrationPrivate
+DECL|function|accessibility
 DECL|function|clipboard
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
@@ -16,6 +17,7 @@ DECL|function|nativeInterface
 DECL|function|nativeResourceForBackingStore
 DECL|function|nativeResourceForWindow
 DECL|function|~QWindowsIntegration
+DECL|member|m_accessibility
 DECL|member|m_clipboard
 DECL|member|m_context
 DECL|member|m_drag

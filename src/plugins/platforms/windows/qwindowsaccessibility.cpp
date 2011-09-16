@@ -11,6 +11,7 @@ DECL|function|GetWindow
 DECL|function|Invoke
 DECL|function|Next
 DECL|function|QStringToBSTR
+DECL|function|QWindowsAccessibility
 DECL|function|QWindowsAccessible
 DECL|function|QWindowsEnumerate
 DECL|function|QueryInterface
@@ -24,7 +25,6 @@ DECL|function|accHitTest
 DECL|function|accLocation
 DECL|function|accNavigate
 DECL|function|accSelect
-DECL|function|cleanup
 DECL|function|eventString
 DECL|function|get_accChild
 DECL|function|get_accChildCount
@@ -40,16 +40,15 @@ DECL|function|get_accRole
 DECL|function|get_accSelection
 DECL|function|get_accState
 DECL|function|get_accValue
-DECL|function|initialize
+DECL|function|handleAccessibleObjectFromWindowRequest
+DECL|function|notifyAccessibilityUpdate
 DECL|function|put_accName
 DECL|function|put_accValue
-DECL|function|qt_createWindowsAccessible
 DECL|function|roleString
-DECL|function|setRootObject
 DECL|function|showDebug
-DECL|function|updateAccessibility
 DECL|function|~QWindowsAccessible
 DECL|function|~QWindowsEnumerate
+DECL|macro|UiaRootObjectId
 DECL|member|accessible
 DECL|member|array
 DECL|member|current

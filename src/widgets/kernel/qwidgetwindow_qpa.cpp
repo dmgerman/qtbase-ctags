@@ -1,4 +1,5 @@
 DECL|function|QWidgetWindow
+DECL|function|accessibleRoot
 DECL|function|event
 DECL|function|handleCloseEvent
 DECL|function|handleDragEvent

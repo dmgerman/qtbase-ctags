@@ -9,3 +9,4 @@ DECL|variable|QAccessibleTable2Interface
 DECL|variable|QAccessibleTableInterface
 DECL|variable|QAccessibleTextInterface
 DECL|variable|QAccessibleValueInterface
+DECL|variable|QWindow

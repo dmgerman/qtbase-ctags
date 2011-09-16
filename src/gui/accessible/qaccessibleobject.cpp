@@ -20,9 +20,10 @@ DECL|function|role
 DECL|function|setText
 DECL|function|state
 DECL|function|text
-DECL|function|topLevelWidgets
+DECL|function|topLevelObjects
 DECL|function|userActionCount
 DECL|function|userActionCount
+DECL|function|window
 DECL|function|~QAccessibleObject
 DECL|member|object
 DECL|variable|action_text
