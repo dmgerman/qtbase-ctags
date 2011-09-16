@@ -12,6 +12,7 @@ DECL|member|format
 DECL|member|has_alpha_clut
 DECL|member|height
 DECL|member|is_cached
+DECL|member|is_locked
 DECL|member|nbytes
 DECL|member|offset
 DECL|member|own_data

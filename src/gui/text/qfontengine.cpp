@@ -71,6 +71,7 @@ DECL|function|leading
 DECL|function|lineThickness
 DECL|function|lineThickness
 DECL|function|loadKerningPairs
+DECL|function|lockedAlphaMapForGlyph
 DECL|function|maxCharWidth
 DECL|function|maxCharWidth
 DECL|function|minLeftBearing
@@ -86,10 +87,12 @@ DECL|function|setGlyphCache
 DECL|function|stringToCMap
 DECL|function|stringToCMap
 DECL|function|stripped
+DECL|function|subPixelPositionForX
 DECL|function|tightBoundingBox
 DECL|function|type
 DECL|function|underlinePosition
 DECL|function|underlinePosition
+DECL|function|unlockAlphaMapForGlyph
 DECL|function|xHeight
 DECL|function|xHeight
 DECL|function|~QFontEngine

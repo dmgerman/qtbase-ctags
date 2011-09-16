@@ -70,6 +70,7 @@ DECL|function|height
 DECL|function|invertPixels
 DECL|function|isDetached
 DECL|function|isGrayscale
+DECL|function|isLocked
 DECL|function|isNull
 DECL|function|load
 DECL|function|load

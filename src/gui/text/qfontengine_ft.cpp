@@ -49,6 +49,7 @@ DECL|function|loadGlyph
 DECL|function|loadGlyphs
 DECL|function|loadTransformedGlyphSet
 DECL|function|lockFace
+DECL|function|lockedAlphaMapForGlyph
 DECL|function|maxCharWidth
 DECL|function|minLeftBearing
 DECL|function|minRightBearing
@@ -66,9 +67,9 @@ DECL|function|scaleOutline
 DECL|function|setDefaultHintStyle
 DECL|function|setGlyph
 DECL|function|stringToCMap
-DECL|function|subPixelPositionForX
 DECL|function|synthesized
 DECL|function|underlinePosition
+DECL|function|unlockAlphaMapForGlyph
 DECL|function|unlockFace
 DECL|function|uploadGlyphToServer
 DECL|function|xHeight
