@@ -1,7 +1,7 @@
 DECL|class|tst_Selftests
 DECL|function|Logger
 DECL|function|allLoggers
-DECL|function|cleanupTestCase
+DECL|function|cleanup
 DECL|function|doRunSubTest
 DECL|function|expectedResult
 DECL|function|extractXmlAttribute
