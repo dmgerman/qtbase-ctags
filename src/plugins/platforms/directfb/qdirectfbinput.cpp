@@ -7,5 +7,5 @@ DECL|function|handleKeyEvents
 DECL|function|handleMouseEvents
 DECL|function|handleWheelEvent
 DECL|function|removeWindow
-DECL|function|runInputEventLoop
+DECL|function|run
 DECL|function|stopInputEventLoop
