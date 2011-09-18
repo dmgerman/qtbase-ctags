@@ -6,4 +6,3 @@ DECL|function|paintDevice
 DECL|function|resize
 DECL|function|scroll
 DECL|function|scrollSurface
-DECL|function|~QDirectFbBackingStore

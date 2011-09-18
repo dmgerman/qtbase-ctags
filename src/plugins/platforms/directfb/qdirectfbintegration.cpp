@@ -6,4 +6,3 @@ DECL|function|createPlatformWindow
 DECL|function|fontDatabase
 DECL|function|guiThreadEventDispatcher
 DECL|function|~QDirectFbIntegration
-DECL|function|~QDirectFbScreen
