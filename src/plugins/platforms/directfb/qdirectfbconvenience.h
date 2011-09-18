@@ -1,2 +1,5 @@
+DECL|function|cleanup
 DECL|macro|QDIRECTFBCONVENIENCE_H
+DECL|struct|QDirectFBInterfaceCleanupHandler
 DECL|variable|DFBInputDeviceKeySymbol
+DECL|variable|T
