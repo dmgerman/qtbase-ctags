@@ -32,7 +32,6 @@ DECL|function|read16
 DECL|function|read32
 DECL|function|read8
 DECL|function|translate
-DECL|function|translate
 DECL|function|~QTranslator
 DECL|macro|CHECK_RANGE
 DECL|macro|MAP_FAILED
