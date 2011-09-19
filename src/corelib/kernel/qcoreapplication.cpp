@@ -42,6 +42,7 @@ DECL|function|organizationDomain
 DECL|function|organizationName
 DECL|function|postEvent
 DECL|function|postEvent
+DECL|function|processCommandLineArguments
 DECL|function|processEvents
 DECL|function|processEvents
 DECL|function|qAddPostRoutine
