@@ -1,5 +1,6 @@
 DECL|enumerator|cmapCacheSize
 DECL|function|QFreetypeFace
+DECL|function|getGlyph
 DECL|function|lock
 DECL|function|qHash
 DECL|function|unlock
