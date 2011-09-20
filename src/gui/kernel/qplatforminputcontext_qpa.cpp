@@ -2,6 +2,7 @@ DECL|function|QPlatformInputContext
 DECL|function|commit
 DECL|function|emitAnimatingChanged
 DECL|function|emitKeyboardRectChanged
+DECL|function|filterEvent
 DECL|function|invokeAction
 DECL|function|isAnimating
 DECL|function|isValid
