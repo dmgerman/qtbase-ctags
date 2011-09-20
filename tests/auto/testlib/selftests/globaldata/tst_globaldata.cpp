@@ -1,4 +1,4 @@
-DECL|class|tst_Subtest
+DECL|class|tst_globaldata
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|init
