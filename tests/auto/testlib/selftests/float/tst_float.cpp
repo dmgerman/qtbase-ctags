@@ -1,0 +1,5 @@
+DECL|class|tst_float
+DECL|function|compareFloatTests
+DECL|function|compareFloatTests_data
+DECL|function|floatComparisons
+DECL|function|floatComparisons_data
