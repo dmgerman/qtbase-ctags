@@ -56,6 +56,7 @@ DECL|function|setMouseGrabEnabled
 DECL|function|setNetWmState
 DECL|function|setNetWmWindowFlags
 DECL|function|setParent
+DECL|function|setTransparentForMouseEvents
 DECL|function|setVisible
 DECL|function|setWindowFlags
 DECL|function|setWindowState
