@@ -9,6 +9,7 @@ DECL|function|check
 DECL|function|dndEnable
 DECL|function|drop
 DECL|function|endDrag
+DECL|function|findRealWindow
 DECL|function|findTransactionByTime
 DECL|function|findTransactionByWindow
 DECL|function|formats_sys
