@@ -1,6 +1,7 @@
 DECL|function|KeyboardModifiersToString
 DECL|function|QDragManager
 DECL|function|QInternalMimeData
+DECL|function|QShapedPixmapWindow
 DECL|function|canReadData
 DECL|function|cancel
 DECL|function|currentTarget
@@ -17,6 +18,7 @@ DECL|function|hasFormatHelper
 DECL|function|imageReadMimeFormats
 DECL|function|imageWriteMimeFormats
 DECL|function|move
+DECL|function|render
 DECL|function|renderDataHelper
 DECL|function|retrieveData
 DECL|function|self
@@ -28,7 +30,6 @@ DECL|function|updatePixmap
 DECL|function|~QDragManager
 DECL|function|~QInternalMimeData
 DECL|member|instance
-DECL|variable|defaultPm
 DECL|variable|default_pm
 DECL|variable|default_pm_hotx
 DECL|variable|default_pm_hoty
