@@ -48,7 +48,6 @@ DECL|function|menuTest
 DECL|function|navigateCovered
 DECL|function|navigateGeometric
 DECL|function|navigateHierarchy
-DECL|function|navigateSlider
 DECL|function|removeAllColumns
 DECL|function|removeAllRows
 DECL|function|removeLastColumn
@@ -59,6 +58,7 @@ DECL|function|rubberBandTest
 DECL|function|scrollAreaTest
 DECL|function|scrollBarTest
 DECL|function|sizeHint
+DECL|function|sliderTest
 DECL|function|spinBoxTest
 DECL|function|state
 DECL|function|tabTest
