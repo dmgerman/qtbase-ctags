@@ -33,6 +33,8 @@ DECL|function|setRequestor
 DECL|function|supportsMode
 DECL|function|waitForClipboardEvent
 DECL|function|~QXcbClipboard
+DECL|macro|class
+DECL|macro|class
 DECL|member|clipboard
 DECL|member|clipboard_timeout
 DECL|member|formatList
