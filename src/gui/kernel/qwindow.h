@@ -6,6 +6,7 @@ DECL|variable|QHideEvent
 DECL|variable|QInputMethodEvent
 DECL|variable|QKeyEvent
 DECL|variable|QMouseEvent
+DECL|variable|QMoveEvent
 DECL|variable|QObject
 DECL|variable|QPlatformSurface
 DECL|variable|QPlatformWindow
