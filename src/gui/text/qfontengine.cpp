@@ -34,6 +34,7 @@ DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|canRender
 DECL|function|canRender
+DECL|function|cloneWithSize
 DECL|function|cmap
 DECL|function|collectSingleContour
 DECL|function|convertToPostscriptFontFamilyName

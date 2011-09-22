@@ -2,11 +2,13 @@ DECL|enumerator|LanguageCount
 DECL|enumerator|SampleCharCount
 DECL|enumerator|SpecialCharCount
 DECL|enumerator|SpecialLanguageCount
+DECL|function|addApplicationFont
 DECL|function|fallbacksForFamily
 DECL|function|fontEngine
 DECL|function|getFCWeight
 DECL|function|getFcFamilyForStyleHint
 DECL|function|populateFontDatabase
+DECL|function|queryFont
 DECL|function|requiresOpenType
 DECL|function|scriptRequiresOpenType
 DECL|macro|JapaneseCsbBit
