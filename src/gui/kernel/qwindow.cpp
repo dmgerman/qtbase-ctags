@@ -9,7 +9,9 @@ DECL|function|destroy
 DECL|function|event
 DECL|function|exposeEvent
 DECL|function|format
+DECL|function|frameGeometry
 DECL|function|frameMargins
+DECL|function|framePos
 DECL|function|geometry
 DECL|function|handle
 DECL|function|hideEvent
@@ -33,10 +35,12 @@ DECL|function|parent
 DECL|function|qt_window_private
 DECL|function|raise
 DECL|function|requestActivateWindow
+DECL|function|resize
 DECL|function|resizeEvent
 DECL|function|screen
 DECL|function|setBaseSize
 DECL|function|setFormat
+DECL|function|setFramePos
 DECL|function|setGeometry
 DECL|function|setKeyboardGrabEnabled
 DECL|function|setMaximumSize
