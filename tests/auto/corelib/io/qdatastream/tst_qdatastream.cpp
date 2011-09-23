@@ -9,7 +9,6 @@ DECL|function|QBoolData
 DECL|function|QColorData
 DECL|function|QEasingCurveData
 DECL|function|QRegExpData
-DECL|function|QStringData
 DECL|function|SequentialBuffer
 DECL|function|bitarray
 DECL|function|boolData
@@ -144,6 +143,7 @@ DECL|function|stream_data
 DECL|function|stream_qint64
 DECL|function|stream_qint64_data
 DECL|function|stream_writeError
+DECL|function|stringData
 DECL|function|tst_QDataStream
 DECL|function|writeData
 DECL|function|writeHash

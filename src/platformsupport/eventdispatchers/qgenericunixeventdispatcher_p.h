@@ -1,1 +1,2 @@
+DECL|macro|QGENERICUNIXEVENTDISPATCHER_P_H
 DECL|variable|QAbstractEventDispatcher
