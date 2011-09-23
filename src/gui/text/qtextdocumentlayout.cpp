@@ -90,6 +90,8 @@ DECL|function|scaleToDevice
 DECL|function|setCursorWidth
 DECL|function|setFixedColumnWidth
 DECL|function|setViewport
+DECL|function|tableBoundingRect
+DECL|function|tableCellBoundingRect
 DECL|function|timerEvent
 DECL|function|topPadding
 DECL|function|updateTableSize
