@@ -191,7 +191,6 @@ DECL|function|repaint
 DECL|function|repaint
 DECL|function|repaint
 DECL|function|reparentFocusWidgets
-DECL|function|resetInputContext
 DECL|function|resize
 DECL|function|resizeEvent
 DECL|function|resolveFont
