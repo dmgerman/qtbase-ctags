@@ -49,6 +49,7 @@ DECL|function|reserve
 DECL|function|setCell
 DECL|function|setRow
 DECL|function|setUtf16
+DECL|function|squeeze
 DECL|function|unicode
 DECL|function|~QString
 DECL|macro|QSTRING_H

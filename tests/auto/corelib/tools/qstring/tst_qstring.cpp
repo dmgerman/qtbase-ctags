@@ -102,6 +102,7 @@ DECL|function|replace_string_data
 DECL|function|replace_uint_uint
 DECL|function|replace_uint_uint_data
 DECL|function|replace_uint_uint_extra
+DECL|function|reserve
 DECL|function|resizeAfterFromRawData
 DECL|function|resizeAfterReserve
 DECL|function|resizeWithNegative
