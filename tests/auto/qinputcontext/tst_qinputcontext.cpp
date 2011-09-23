@@ -20,7 +20,6 @@ DECL|function|RequestSoftwareInputPanelStyle
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|closeSoftwareInputPanel
-DECL|function|contextInheritance
 DECL|function|filterEvent
 DECL|function|filterMouseEvents
 DECL|function|focusProxy

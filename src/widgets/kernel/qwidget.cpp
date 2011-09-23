@@ -16,7 +16,6 @@ DECL|function|adjustFlags
 DECL|function|adjustQuitOnCloseAttribute
 DECL|function|adjustSize
 DECL|function|adjustedSize
-DECL|function|assignedInputContext
 DECL|function|autoFillBackground
 DECL|function|backgroundRole
 DECL|function|backingStore
@@ -227,7 +226,6 @@ DECL|function|setFont
 DECL|function|setForegroundRole
 DECL|function|setGeometry
 DECL|function|setGraphicsEffect
-DECL|function|setInputContext
 DECL|function|setInputMethodHints
 DECL|function|setLayout
 DECL|function|setLayoutDirection
