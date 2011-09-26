@@ -46,8 +46,6 @@ DECL|function|columnIndex
 DECL|function|columnSpan
 DECL|function|comboBox
 DECL|function|current
-DECL|function|description
-DECL|function|description
 DECL|function|doAction
 DECL|function|doAction
 DECL|function|doAction
@@ -79,6 +77,8 @@ DECL|function|isValidChildRole
 DECL|function|itemView
 DECL|function|keyBindings
 DECL|function|keyBindings
+DECL|function|localizedDescription
+DECL|function|localizedDescription
 DECL|function|localizedName
 DECL|function|localizedName
 DECL|function|logicalFromChild

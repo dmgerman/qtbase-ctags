@@ -17,8 +17,6 @@ DECL|function|child
 DECL|function|childCount
 DECL|function|currentValue
 DECL|function|cursorPosition
-DECL|function|description
-DECL|function|description
 DECL|function|doAction
 DECL|function|doAction
 DECL|function|doAction
@@ -31,6 +29,8 @@ DECL|function|isSplitButton
 DECL|function|keyBindings
 DECL|function|keyBindings
 DECL|function|lineEdit
+DECL|function|localizedDescription
+DECL|function|localizedDescription
 DECL|function|localizedName
 DECL|function|localizedName
 DECL|function|maximumValue
