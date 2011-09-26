@@ -1,4 +1,5 @@
 DECL|function|QDirectFbBlitter
+DECL|function|QDirectFbBlitter
 DECL|function|doLock
 DECL|function|doUnlock
 DECL|function|drawPixmap

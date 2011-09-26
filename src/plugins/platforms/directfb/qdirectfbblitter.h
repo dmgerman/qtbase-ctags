@@ -1,1 +1,2 @@
+DECL|function|createBlittable
 DECL|macro|QDIRECTFBBLITTER_H
