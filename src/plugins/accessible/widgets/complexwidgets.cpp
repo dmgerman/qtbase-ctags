@@ -53,7 +53,6 @@ DECL|function|doAction
 DECL|function|doAction
 DECL|function|doAction
 DECL|function|doAction
-DECL|function|doAction
 DECL|function|elementType
 DECL|function|entryFromIndex
 DECL|function|header
@@ -101,11 +100,9 @@ DECL|function|rect
 DECL|function|rect
 DECL|function|rect
 DECL|function|rect
-DECL|function|rect
 DECL|function|relationTo
 DECL|function|relationTo
 DECL|function|removeInvisibleWidgetsFromList
-DECL|function|role
 DECL|function|role
 DECL|function|role
 DECL|function|role
@@ -128,7 +125,6 @@ DECL|function|setText
 DECL|function|setText
 DECL|function|setText
 DECL|function|setText
-DECL|function|state
 DECL|function|state
 DECL|function|state
 DECL|function|state
