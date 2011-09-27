@@ -65,7 +65,6 @@ DECL|function|~PaintThreadManager
 DECL|function|~PixelBufferWrapper
 DECL|function|~PixmapWrapper
 DECL|macro|RUNNING_TIME
-DECL|macro|RUNNING_TIME
 DECL|member|device
 DECL|member|devices
 DECL|member|fail

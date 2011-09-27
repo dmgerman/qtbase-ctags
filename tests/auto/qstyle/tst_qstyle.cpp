@@ -42,7 +42,6 @@ DECL|function|testWindowsXPStyle
 DECL|function|tst_QStyle
 DECL|function|writeImage
 DECL|function|~tst_QStyle
-DECL|macro|SRCDIR
 DECL|member|alignment
 DECL|member|margin
 DECL|member|margin_toplevel

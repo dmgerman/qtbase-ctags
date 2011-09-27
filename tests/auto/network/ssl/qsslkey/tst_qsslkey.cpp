@@ -20,7 +20,6 @@ DECL|function|toPemOrDer
 DECL|function|toPemOrDer_data
 DECL|function|tst_QSslKey
 DECL|function|~tst_QSslKey
-DECL|macro|SRCDIR
 DECL|member|algorithm
 DECL|member|fileInfo
 DECL|member|format

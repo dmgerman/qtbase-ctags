@@ -9,7 +9,6 @@ DECL|function|outOfProcessSession
 DECL|function|printConfigurations
 DECL|function|repeatedOpenClose
 DECL|function|repeatedOpenClose_data
-DECL|function|roamingErrorCodes
 DECL|function|robustnessBombing
 DECL|function|sessionAutoClose
 DECL|function|sessionAutoClose_data
@@ -19,8 +18,6 @@ DECL|function|sessionOpenCloseStop
 DECL|function|sessionOpenCloseStop_data
 DECL|function|sessionProperties
 DECL|function|sessionProperties_data
-DECL|function|sessionStop
-DECL|function|sessionStop_data
 DECL|function|suitableConfiguration
 DECL|function|updateConfigurations
 DECL|function|userChoiceSession

@@ -23,6 +23,3 @@ DECL|function|task196768_sorting
 DECL|function|task244669_remove
 DECL|function|tst_QDirModel
 DECL|function|~tst_QDirModel
-DECL|macro|SRCDIR
-DECL|macro|STRINGIFY
-DECL|macro|TOSTRING

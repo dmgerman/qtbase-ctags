@@ -66,7 +66,6 @@ DECL|function|stateChanged
 DECL|function|tst_QFtp
 DECL|function|~tst_QFtp
 DECL|macro|CURRENTCOMMAND_TEST
-DECL|macro|SRCDIR
 DECL|member|args
 DECL|member|bytesAvailable_done
 DECL|member|bytesAvailable_finished

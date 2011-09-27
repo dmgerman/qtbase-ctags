@@ -24,6 +24,5 @@ DECL|function|setupTextLayout
 DECL|function|shaping
 DECL|function|shaping_data
 DECL|function|tst_QText
-DECL|macro|SRCDIR
 DECL|member|m_lorem
 DECL|member|m_shortLorem

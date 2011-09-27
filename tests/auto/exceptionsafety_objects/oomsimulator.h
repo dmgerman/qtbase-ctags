@@ -1,16 +1,5 @@
-DECL|function|Alloc
 DECL|function|AllocFailer
-DECL|function|AllocLen
-DECL|function|AllocSize
-DECL|function|Available
-DECL|function|Compress
-DECL|function|DebugFunction
-DECL|function|Extension_
-DECL|function|Free
-DECL|function|QAllocFailAllocator
 DECL|function|QCrtDebugRegistrator
-DECL|function|ReAlloc
-DECL|function|Reset
 DECL|function|currentAllocIndex
 DECL|function|deactivate
 DECL|function|disableHooks
@@ -34,12 +23,9 @@ DECL|function|throw
 DECL|function|throw
 DECL|function|throw
 DECL|function|~AllocFailer
-DECL|function|~QAllocFailAllocator
 DECL|macro|__MALLOC_HOOK_VOLATILE
-DECL|member|allocator
 DECL|struct|AllocFailer
 DECL|struct|QCrtDebugRegistrator
-DECL|struct|RAllocator
 DECL|variable|__malloc_initialize_hook
 DECL|variable|crtDebugRegistrator
 DECL|variable|mallocCount
@@ -49,4 +35,3 @@ DECL|variable|old_free_hook
 DECL|variable|old_malloc_hook
 DECL|variable|old_memalign_hook
 DECL|variable|old_realloc_hook
-DECL|variable|symbianTestAllocator

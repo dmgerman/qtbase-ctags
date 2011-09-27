@@ -13,4 +13,3 @@ DECL|function|toPreviousBoundary_data
 DECL|function|tst_QTextBoundaryFinder
 DECL|function|wordBoundaries
 DECL|function|~tst_QTextBoundaryFinder
-DECL|macro|SRCDIR

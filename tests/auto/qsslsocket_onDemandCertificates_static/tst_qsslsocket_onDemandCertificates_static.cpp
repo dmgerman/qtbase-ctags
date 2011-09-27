@@ -19,6 +19,5 @@ DECL|function|operator QSslSocket *
 DECL|function|proxyAuthenticationRequired
 DECL|function|tst_QSslSocket_onDemandCertificates_static
 DECL|function|~tst_QSslSocket_onDemandCertificates_static
-DECL|macro|SRCDIR
 DECL|member|proxyAuthCalled
 DECL|member|socket

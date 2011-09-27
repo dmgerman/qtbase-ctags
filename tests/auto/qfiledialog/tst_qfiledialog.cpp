@@ -54,9 +54,6 @@ DECL|function|tildeExpansion_data
 DECL|function|tst_QFiledialog
 DECL|function|viewMode
 DECL|function|~tst_QFiledialog
-DECL|macro|SRCDIR
-DECL|macro|STRINGIFY
-DECL|macro|TOSTRING
 DECL|member|userSettings
 DECL|typedef|_qt_filedialog_existing_directory_hook
 DECL|typedef|_qt_filedialog_open_filename_hook

@@ -58,7 +58,6 @@ DECL|function|tst_QHttp
 DECL|function|unexpectedRemoteClose
 DECL|function|~tst_QHttp
 DECL|macro|CURRENTREQUEST_TEST
-DECL|macro|SRCDIR
 DECL|member|bytesDoneRead
 DECL|member|bytesDoneSend
 DECL|member|bytesTotalRead

@@ -28,7 +28,6 @@ DECL|function|task223279_inconsistentAddFile
 DECL|function|task239461_custom_iconengine_crash
 DECL|function|tst_QIcon
 DECL|function|~IconEngine
-DECL|macro|SRCDIR
 DECL|member|destructorCalled
 DECL|member|destructorCalled
 DECL|member|oldCurrentDir

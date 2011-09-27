@@ -24,7 +24,6 @@ DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|deleteLaterOnQTimer
 DECL|function|event
-DECL|function|handleLeaks
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|livelock
@@ -61,10 +60,7 @@ DECL|function|zeroTimer
 DECL|function|~TimerIdPersistsAfterThreadExitThread
 DECL|function|~tst_QTimer
 DECL|macro|MOVETOTHREAD_TIMEOUT
-DECL|macro|MOVETOTHREAD_TIMEOUT
 DECL|macro|MOVETOTHREAD_WAIT
-DECL|macro|MOVETOTHREAD_WAIT
-DECL|macro|TIMEOUT_TIMEOUT
 DECL|macro|TIMEOUT_TIMEOUT
 DECL|member|count
 DECL|member|count

@@ -27,8 +27,6 @@ DECL|function|uncPaths
 DECL|function|uncPaths_data
 DECL|function|~tst_QDirIterator
 DECL|macro|Q_NO_SYMLINKS
-DECL|macro|Q_NO_SYMLINKS
-DECL|macro|Q_NO_SYMLINKS_TO_DIRS
 DECL|member|createdDirectories
 DECL|member|createdFiles
 DECL|member|currentDir

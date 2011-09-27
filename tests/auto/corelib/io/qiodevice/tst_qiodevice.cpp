@@ -19,6 +19,5 @@ DECL|function|tst_QIODevice
 DECL|function|unget
 DECL|function|writeData
 DECL|function|~tst_QIODevice
-DECL|macro|SRCDIR
 DECL|member|alphabet
 DECL|member|counter

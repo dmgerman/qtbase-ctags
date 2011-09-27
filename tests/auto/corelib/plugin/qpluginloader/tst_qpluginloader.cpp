@@ -1,5 +1,4 @@
 DECL|class|tst_QPluginLoader
-DECL|function|checkingStubsFromDifferentDrives
 DECL|function|deleteinstanceOnUnload
 DECL|function|errorString
 DECL|function|loadCorruptElf
@@ -14,8 +13,6 @@ DECL|macro|PREFIX
 DECL|macro|PREFIX
 DECL|macro|PREFIX
 DECL|macro|PREFIX
-DECL|macro|PREFIX
-DECL|macro|SUFFIX
 DECL|macro|SUFFIX
 DECL|macro|SUFFIX
 DECL|macro|SUFFIX
@@ -28,8 +25,6 @@ DECL|macro|a_VALID
 DECL|macro|bundle_VALID
 DECL|macro|bundle_VALID
 DECL|macro|bundle_VALID
-DECL|macro|dll_VALID
-DECL|macro|dll_VALID
 DECL|macro|dll_VALID
 DECL|macro|dll_VALID
 DECL|macro|dll_VALID

@@ -54,7 +54,6 @@ DECL|function|transformed
 DECL|function|transformed2
 DECL|function|transformed_data
 DECL|function|tst_QImage
-DECL|macro|SRCDIR
 DECL|variable|monoPixmap
 DECL|variable|transformed_image_height
 DECL|variable|transformed_image_width

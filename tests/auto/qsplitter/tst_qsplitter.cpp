@@ -35,7 +35,6 @@ DECL|function|testShowHide
 DECL|function|testShowHide_data
 DECL|function|tst_QSplitter
 DECL|function|~tst_QSplitter
-DECL|macro|SRCDIR
 DECL|member|m_iFactor
 DECL|member|splitter
 DECL|member|w1

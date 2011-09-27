@@ -111,7 +111,6 @@ DECL|function|writeBigChunk
 DECL|function|~ThreadedSslServer
 DECL|function|~tst_QSslSocket
 DECL|macro|QSSLSOCKET_CERTUNTRUSTED_WORKAROUND
-DECL|macro|SRCDIR
 DECL|member|dataReadSemaphore
 DECL|member|loopLevel
 DECL|member|loopLevel

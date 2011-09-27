@@ -33,7 +33,6 @@ DECL|function|unicodeText
 DECL|function|unicodeText_data
 DECL|function|wordWrap
 DECL|function|~tst_QLabel
-DECL|macro|SRCDIR
 DECL|member|events
 DECL|member|testWidget
 DECL|member|test_box

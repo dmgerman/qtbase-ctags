@@ -35,8 +35,6 @@ DECL|macro|EXISTING_SHARE
 DECL|macro|EXISTING_SIZE
 DECL|macro|LACKEYDIR
 DECL|macro|LACKEYDIR
-DECL|macro|LACKEYDIR
-DECL|macro|SRCDIR
 DECL|member|existingSharedMemory
 DECL|member|jail
 DECL|member|keys

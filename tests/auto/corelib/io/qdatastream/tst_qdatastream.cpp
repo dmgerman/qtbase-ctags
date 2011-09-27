@@ -191,13 +191,10 @@ DECL|macro|MAX_QSIZE_DATA
 DECL|macro|MAX_QSTRING_DATA
 DECL|macro|MAX_QTIME_DATA
 DECL|macro|MAX_qint64_DATA
-DECL|macro|SRCDIR
 DECL|macro|STREAM_IMPL
-DECL|macro|STRINGIFY
 DECL|macro|TEST_FLOAT
 DECL|macro|TEST_WRITE_ERROR
 DECL|macro|TEST_qint
-DECL|macro|TOSTRING
 DECL|member|m_lock
 DECL|member|offset
 DECL|typedef|Hash

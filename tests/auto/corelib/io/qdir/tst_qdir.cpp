@@ -72,9 +72,4 @@ DECL|function|tst_QDir
 DECL|function|updateFileLists
 DECL|function|~tst_QDir
 DECL|macro|Q_NO_SYMLINKS
-DECL|macro|Q_NO_SYMLINKS
-DECL|macro|Q_NO_SYMLINKS_TO_DIRS
-DECL|macro|SRCDIR
-DECL|macro|STRINGIFY
-DECL|macro|TOSTRING
 DECL|macro|_WIN32_WINNT

@@ -288,7 +288,6 @@ DECL|function|~HttpAbortHelper
 DECL|function|~MySpyMemoryCache
 DECL|function|~tst_QNetworkReply
 DECL|macro|RUN_REQUEST
-DECL|macro|SRCDIR
 DECL|member|accumulate
 DECL|member|bytesAvailableList
 DECL|member|bytesToRead

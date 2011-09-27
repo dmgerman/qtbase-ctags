@@ -58,7 +58,6 @@ DECL|function|run
 DECL|function|run
 DECL|function|run
 DECL|function|run
-DECL|function|runSymbian
 DECL|function|runUnix
 DECL|function|runWin
 DECL|function|setPriority
@@ -123,7 +122,6 @@ DECL|member|thread
 DECL|member|thread
 DECL|member|waitForStop
 DECL|typedef|FunctionPointer
-DECL|typedef|ThreadHandle
 DECL|typedef|ThreadHandle
 DECL|typedef|ThreadHandle
 DECL|variable|mainThread

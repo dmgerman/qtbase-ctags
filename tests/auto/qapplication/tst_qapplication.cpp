@@ -1,4 +1,3 @@
-DECL|class|CBaseDummy
 DECL|class|CloseEventTestWindow
 DECL|class|CloseWidget
 DECL|class|DeleteLaterWidget
@@ -13,7 +12,6 @@ DECL|class|SendPostedEventsTester
 DECL|class|TestApplication
 DECL|class|TouchEventPropagationTestWidget
 DECL|class|tst_QApplication
-DECL|function|CBaseDummy
 DECL|function|CloseEventTestWindow
 DECL|function|CloseWidget
 DECL|function|DeleteLaterWidget
@@ -24,7 +22,6 @@ DECL|function|QuitOnLastWindowClosedDialog
 DECL|function|QuitOnLastWindowClosedWindow
 DECL|function|TestApplication
 DECL|function|TouchEventPropagationTestWidget
-DECL|function|addExpectedSymbianPluginsPath
 DECL|function|alert
 DECL|function|allWidgets
 DECL|function|args
@@ -47,7 +44,6 @@ DECL|function|event
 DECL|function|eventFilter
 DECL|function|execAfterExit
 DECL|function|execDialogThenShow
-DECL|function|fakeMain
 DECL|function|focusChanged
 DECL|function|focusInEvent
 DECL|function|focusOut
@@ -84,9 +80,6 @@ DECL|function|setFont
 DECL|function|setFont_data
 DECL|function|staticSetup
 DECL|function|style
-DECL|function|symbianLeaveThroughMain
-DECL|function|symbianNeedForTraps
-DECL|function|symbianNoApplicationPanes
 DECL|function|task109149
 DECL|function|testDeleteLater
 DECL|function|testDeleteLaterProcessEvents
@@ -99,7 +92,6 @@ DECL|function|tst_QApplication
 DECL|function|wheelScrollLines
 DECL|function|windowsCommandLine
 DECL|function|windowsCommandLine_data
-DECL|function|~CBaseDummy
 DECL|function|~tst_QApplication
 DECL|macro|QT_TST_QAPP_DEBUG
 DECL|member|acceptMouseEvent
@@ -107,7 +99,6 @@ DECL|member|acceptTouchEvent
 DECL|member|app
 DECL|member|child_deleted
 DECL|member|eventSpy
-DECL|member|numDestroyed
 DECL|member|okButton
 DECL|member|recordedEvents
 DECL|member|seenMouseEvent

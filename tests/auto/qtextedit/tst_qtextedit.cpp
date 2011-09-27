@@ -123,7 +123,6 @@ DECL|function|undoRedoAfterSetContent
 DECL|function|undoRedoAvailableRepetition
 DECL|function|undoRedoShouldRepositionTextEditCursor
 DECL|function|wordWrapProperty
-DECL|macro|SRCDIR
 DECL|macro|ff
 DECL|member|canInsertCallCount
 DECL|member|createMimeDataCallCount

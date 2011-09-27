@@ -77,7 +77,6 @@ DECL|function|alienWidgets
 DECL|function|backTab
 DECL|function|backingStore
 DECL|function|beEvil
-DECL|function|cbaVisibility
 DECL|function|changeEvent
 DECL|function|childAt
 DECL|function|childAt_unifiedToolBar
@@ -96,7 +95,6 @@ DECL|function|customDpiProperty
 DECL|function|deleteBackingStore
 DECL|function|deleteStyle
 DECL|function|destroyBackingStore
-DECL|function|destroyBackingStoreWhenHidden
 DECL|function|destroyedSlot
 DECL|function|doubleRepaint
 DECL|function|drawPolygon
@@ -117,12 +115,10 @@ DECL|function|focusChainOnHide
 DECL|function|focusChainOnReparent
 DECL|function|focusOutEvent
 DECL|function|focusProxyAndInputMethods
-DECL|function|focusSwitchClosesPopupMenu
 DECL|function|focusWidget_task254563
 DECL|function|fontPropagation
 DECL|function|fontPropagation2
 DECL|function|fonts
-DECL|function|fullScreenWindowModeTransitions
 DECL|function|gdiPainting
 DECL|function|getDC
 DECL|function|getProperty
@@ -159,10 +155,8 @@ DECL|function|macHasAccessToWindowsServer
 DECL|function|mapFromAndTo
 DECL|function|mapFromAndTo_data
 DECL|function|maskedUpdate
-DECL|function|maximizedWindowModeTransitions
 DECL|function|metric
 DECL|function|minAndMaxSizeWithX11BypassWindowManagerHint
-DECL|function|minimizedWindowModeTransitions
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseMoveEvent
@@ -178,7 +172,6 @@ DECL|function|movedAndResizedAttributes
 DECL|function|multipleToplevelFocusCheck
 DECL|function|nativeChildFocus
 DECL|function|normalGeometry
-DECL|function|normalWindowModeTransitions
 DECL|function|opaqueChildren
 DECL|function|openModal_taskQTBUG_5804
 DECL|function|optimizedResizeMove
@@ -223,7 +216,6 @@ DECL|function|render_windowOpacity
 DECL|function|render_worldTransform
 DECL|function|repaintWhenChildDeleted
 DECL|function|reparent
-DECL|function|reparentCausesChildWinIdChange
 DECL|function|reparentStaticWidget
 DECL|function|reset
 DECL|function|reset
@@ -331,8 +323,6 @@ DECL|macro|SET_SAFE_SIZE
 DECL|macro|SET_SAFE_SIZE
 DECL|macro|SPI_GETPLATFORMTYPE
 DECL|macro|VERIFY_COLOR
-DECL|macro|WAIT_AND_VERIFY
-DECL|macro|WAIT_AND_VERIFY
 DECL|macro|verify
 DECL|member|box
 DECL|member|button

@@ -47,15 +47,11 @@ DECL|function|syncDisconnectNotify
 DECL|function|threadedConnection
 DECL|function|threadedConnection_data
 DECL|function|tst_QLocalSocket
-DECL|function|unlink
 DECL|function|waitForDisconnect
 DECL|function|waitForDisconnectByServer
 DECL|function|writeOnlySocket
 DECL|function|writeToClientAndDisconnect
 DECL|function|~tst_QLocalSocket
-DECL|macro|SRCDIR
-DECL|macro|STRINGIFY
-DECL|macro|TOSTRING
 DECL|member|clients
 DECL|member|hits
 DECL|member|mutex

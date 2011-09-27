@@ -24,7 +24,4 @@ DECL|function|pngCompression_data
 DECL|function|tst_QIcoImageFormat
 DECL|function|~QSequentialFile
 DECL|function|~tst_QIcoImageFormat
-DECL|macro|SRCDIR
-DECL|macro|STRINGIFY
-DECL|macro|TOSTRING
 DECL|member|m_IconPath

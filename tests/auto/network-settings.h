@@ -1,11 +1,1 @@
-DECL|macro|Q_SET_DEFAULT_IAP
-DECL|macro|Q_SET_DEFAULT_IAP
-DECL|member|bDefaultIapLoaded
-DECL|member|bTestSettingsLoaded
-DECL|member|entries
-DECL|member|iapFileFullPath
-DECL|member|imapExpectedReply
-DECL|member|imapExpectedReplySsl
-DECL|member|serverIp
-DECL|variable|QString
 DECL|variable|qtNetworkSettingsInitializer

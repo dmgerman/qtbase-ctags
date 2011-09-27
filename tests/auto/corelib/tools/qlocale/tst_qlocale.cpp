@@ -43,7 +43,6 @@ DECL|function|setWinLocaleInfo
 DECL|function|standaloneDayName
 DECL|function|standaloneDayName_data
 DECL|function|standaloneMonthName
-DECL|function|symbianSystemLocale
 DECL|function|systemMeasurementSystems
 DECL|function|systemMeasurementSystems_data
 DECL|function|testInfAndNan

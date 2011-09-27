@@ -72,5 +72,4 @@ DECL|function|toULongLong_data
 DECL|function|toULong_data
 DECL|function|tst_QByteArray
 DECL|function|~tst_QByteArray
-DECL|macro|SRCDIR
 DECL|variable|globalChar

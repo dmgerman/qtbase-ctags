@@ -5,4 +5,3 @@ DECL|function|createArchive
 DECL|function|init
 DECL|function|readTest
 DECL|function|symlinks
-DECL|macro|SRCDIR

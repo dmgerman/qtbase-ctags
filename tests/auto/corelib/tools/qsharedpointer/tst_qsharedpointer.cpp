@@ -81,7 +81,6 @@ DECL|function|~IB
 DECL|function|~Stuffing
 DECL|function|~ThreadData
 DECL|macro|QT_SHAREDPOINTER_TRACK_POINTERS
-DECL|macro|SRCDIR
 DECL|member|b
 DECL|member|buffer
 DECL|member|callCount

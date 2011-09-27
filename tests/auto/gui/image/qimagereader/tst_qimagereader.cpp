@@ -78,7 +78,6 @@ DECL|function|transparentXPM
 DECL|function|tst_QImageReader
 DECL|function|~tst_QImageReader
 DECL|macro|SKIP_IF_UNSUPPORTED
-DECL|macro|SRCDIR
 DECL|member|clientSocket
 DECL|member|data
 DECL|member|server

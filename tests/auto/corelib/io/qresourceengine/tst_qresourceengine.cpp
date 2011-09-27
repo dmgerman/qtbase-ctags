@@ -9,5 +9,4 @@ DECL|function|initTestCase
 DECL|function|searchPath
 DECL|function|searchPath_data
 DECL|function|setLocale
-DECL|macro|SRCDIR
 DECL|member|builddir

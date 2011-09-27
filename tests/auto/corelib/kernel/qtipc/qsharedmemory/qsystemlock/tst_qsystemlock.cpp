@@ -12,5 +12,4 @@ DECL|function|sucessive
 DECL|function|tst_QSystemLock
 DECL|function|~tst_QSystemLock
 DECL|macro|EXISTING_SHARE
-DECL|macro|SRCDIR
 DECL|member|existingLock

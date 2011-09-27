@@ -7,7 +7,6 @@ DECL|class|tst_QFile
 DECL|enumerator|NumberOfFileTypes
 DECL|enumerator|OpenFd
 DECL|enumerator|OpenQFile
-DECL|enumerator|OpenRFile
 DECL|enumerator|OpenStream
 DECL|enum|FileType
 DECL|function|AutoIgnoreInvalidParameter
@@ -84,7 +83,6 @@ DECL|function|open
 DECL|function|openDirectory
 DECL|function|openFd
 DECL|function|openFile
-DECL|function|openRFile
 DECL|function|openStandardStreams
 DECL|function|openStandardStreamsBufferedStreams
 DECL|function|openStandardStreamsFileDescriptors
@@ -95,8 +93,6 @@ DECL|function|owner
 DECL|function|ownerId
 DECL|function|permissions
 DECL|function|permissions_data
-DECL|function|platformSecurity
-DECL|function|platformSecurity_data
 DECL|function|read
 DECL|function|readAll
 DECL|function|readAllBuffer
@@ -162,7 +158,6 @@ DECL|function|~MyEngine
 DECL|function|~tst_QFile
 DECL|macro|FILESIZE
 DECL|macro|QT_OPEN_BINARY
-DECL|macro|SRCDIR
 DECL|macro|STDERR_FILENO
 DECL|macro|STDIN_FILENO
 DECL|macro|STDOUT_FILENO
@@ -171,6 +166,4 @@ DECL|member|name
 DECL|member|number
 DECL|member|oldHandler
 DECL|member|oldReportMode
-DECL|member|rfile_
-DECL|member|rfs_
 DECL|member|stream_

@@ -28,4 +28,3 @@ DECL|function|stressTest
 DECL|function|tst_QTemporaryFile
 DECL|function|write
 DECL|function|~tst_QTemporaryFile
-DECL|macro|SRCDIR

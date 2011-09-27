@@ -22,6 +22,5 @@ DECL|function|writeImage2_data
 DECL|function|writeImage_data
 DECL|function|writeToInvalidDevice
 DECL|function|~tst_QImageWriter
-DECL|macro|SRCDIR
 DECL|typedef|QIntList
 DECL|typedef|QStringMap

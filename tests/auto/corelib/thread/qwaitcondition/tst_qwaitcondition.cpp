@@ -32,7 +32,6 @@ DECL|function|wakeOne
 DECL|function|wake_Thread
 DECL|function|wake_Thread_2
 DECL|macro|COND_WAIT_TIME
-DECL|macro|COND_WAIT_TIME
 DECL|member|cond
 DECL|member|cond
 DECL|member|cond

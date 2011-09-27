@@ -4,13 +4,6 @@ DECL|function|cleanup
 DECL|function|handle
 DECL|function|handlers
 DECL|function|init
-DECL|function|openFileUrl
-DECL|function|openFileUrl_data
-DECL|function|openHttpUrl
-DECL|function|openHttpUrl_data
-DECL|function|openMailtoUrl
-DECL|function|openMailtoUrl_data
-DECL|function|openMultipleFileUrls
 DECL|function|openUrl
 DECL|function|storageLocation
 DECL|function|storageLocationDoesNotEndWithSlash

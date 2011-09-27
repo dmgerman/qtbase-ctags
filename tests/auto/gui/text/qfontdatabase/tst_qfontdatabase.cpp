@@ -13,4 +13,3 @@ DECL|function|tst_QFontDatabase
 DECL|function|widthTwoTimes
 DECL|function|widthTwoTimes_data
 DECL|function|~tst_QFontDatabase
-DECL|macro|SRCDIR

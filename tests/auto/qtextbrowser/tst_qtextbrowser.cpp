@@ -29,7 +29,6 @@ DECL|function|tst_QTextBrowser
 DECL|function|urlEncoding
 DECL|function|viewportPositionInHistory
 DECL|function|~tst_QTextBrowser
-DECL|macro|SRCDIR
 DECL|member|browser
 DECL|member|htmlLoadAttempts
 DECL|member|lastResource

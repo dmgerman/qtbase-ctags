@@ -49,7 +49,6 @@ DECL|function|supportsSsl
 DECL|function|tst_NetworkSelfTest
 DECL|function|~tst_NetworkSelfTest
 DECL|macro|QBA
-DECL|macro|SRCDIR
 DECL|member|cachedIpAddress
 DECL|member|data
 DECL|member|netConfMan

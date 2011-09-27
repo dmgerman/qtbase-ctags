@@ -13,7 +13,6 @@ DECL|function|testWriteStyle1
 DECL|function|testWriteStyle1_data
 DECL|function|testWriteStyle2
 DECL|function|testWriteTable
-DECL|macro|SRCDIR
 DECL|member|buffer
 DECL|member|document
 DECL|member|odfWriter

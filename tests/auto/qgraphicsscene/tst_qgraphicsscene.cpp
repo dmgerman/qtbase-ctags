@@ -154,7 +154,6 @@ DECL|function|~ClearTestItem
 DECL|function|~DndTester
 DECL|macro|Q_CHECK_PAINTEVENTS
 DECL|macro|Q_CHECK_PAINTEVENTS
-DECL|macro|SRCDIR
 DECL|member|_count
 DECL|member|addChildrenInPolish
 DECL|member|backTabs

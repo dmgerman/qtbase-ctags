@@ -19,6 +19,4 @@ DECL|function|udpLoopbackPerformance
 DECL|function|udpLoopbackTest
 DECL|function|~tst_PlatformSocketEngine
 DECL|macro|PLATFORMSOCKETENGINE
-DECL|macro|PLATFORMSOCKETENGINE
-DECL|macro|PLATFORMSOCKETENGINESTRING
 DECL|macro|PLATFORMSOCKETENGINESTRING

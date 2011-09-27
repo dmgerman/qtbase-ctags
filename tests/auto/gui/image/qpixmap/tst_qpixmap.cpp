@@ -1,7 +1,4 @@
-DECL|class|Content
-DECL|class|FriendlyVGPlatformPixmap
 DECL|class|tst_QPixmap
-DECL|function|FriendlyVGPlatformPixmap
 DECL|function|bitmapMask
 DECL|function|cacheKey
 DECL|function|cleanup
@@ -25,8 +22,6 @@ DECL|function|fromImageReaderAnimatedGif_data
 DECL|function|fromImageReader_data
 DECL|function|fromImage_crash
 DECL|function|fromImage_data
-DECL|function|fromSymbianCFbsBitmap
-DECL|function|fromSymbianCFbsBitmap_data
 DECL|function|fromUninitializedImage
 DECL|function|fromUninitializedImage_data
 DECL|function|fromWinHBITMAP
@@ -44,8 +39,6 @@ DECL|function|loadFromDataImage_data
 DECL|function|loadFromDataNullValues
 DECL|function|mask
 DECL|function|onlyNullPixmapsOutsideGuiThread
-DECL|function|paintEvent
-DECL|function|pixmapFromVGImage
 DECL|function|preserveDepth
 DECL|function|refUnref
 DECL|function|scaled_QTBUG19157
@@ -53,14 +46,11 @@ DECL|function|scroll
 DECL|function|scroll_data
 DECL|function|setGetMask
 DECL|function|setGetMask_data
-DECL|function|sourceIsNull
 DECL|function|splash_crash
 DECL|function|swap
 DECL|function|task_246446
 DECL|function|testMetrics
 DECL|function|toImageDeepCopy
-DECL|function|toSymbianCFbsBitmap
-DECL|function|toSymbianCFbsBitmap_data
 DECL|function|toWinHBITMAP
 DECL|function|toWinHBITMAP_data
 DECL|function|toWinHICON
@@ -68,13 +58,4 @@ DECL|function|toWinHICON_data
 DECL|function|transformed
 DECL|function|transformed2
 DECL|function|tst_QPixmap
-DECL|function|vgImageReadBack
 DECL|function|~tst_QPixmap
-DECL|macro|SRCDIR
-DECL|member|content_ok
-DECL|member|h
-DECL|member|noreadback_ok
-DECL|member|pm
-DECL|member|readback_ok
-DECL|member|vgimage
-DECL|member|w

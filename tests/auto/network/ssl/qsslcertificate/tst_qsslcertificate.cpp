@@ -41,7 +41,6 @@ DECL|function|tst_QSslCertificate
 DECL|function|utf8SubjectNames
 DECL|function|verify
 DECL|function|~tst_QSslCertificate
-DECL|macro|SRCDIR
 DECL|macro|VERIFY_VERBOSE
 DECL|macro|VERIFY_VERBOSE
 DECL|member|certInfoList

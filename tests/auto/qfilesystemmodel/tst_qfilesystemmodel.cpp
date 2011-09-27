@@ -22,7 +22,6 @@ DECL|function|mkdir
 DECL|function|nameFilters
 DECL|function|naturalCompare
 DECL|function|naturalCompare_data
-DECL|function|qt_QString2HBufCNewL
 DECL|function|readOnly
 DECL|function|roleNames
 DECL|function|roleNames_data
@@ -44,4 +43,3 @@ DECL|member|dvd
 DECL|member|flatDirTestPath
 DECL|member|mb
 DECL|member|model
-DECL|member|rfs

@@ -44,7 +44,6 @@ DECL|function|tryRun
 DECL|function|tryRunFail
 DECL|function|~QExternalTest
 DECL|function|~QExternalTestPrivate
-DECL|macro|DEFAULT_MAKESPEC
 DECL|member|appType
 DECL|member|exitCode
 DECL|member|extraProgramSources

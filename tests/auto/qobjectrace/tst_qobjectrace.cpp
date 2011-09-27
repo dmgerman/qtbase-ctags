@@ -4,8 +4,6 @@ DECL|class|RaceObject
 DECL|class|RaceThread
 DECL|class|tst_QObjectRace
 DECL|enumerator|OneMinute
-DECL|enumerator|TenMinutes
-DECL|enumerator|TwentyFiveMinutes
 DECL|enumerator|TwoMinutes
 DECL|function|RaceObject
 DECL|function|RaceThread
@@ -28,8 +26,6 @@ DECL|function|slot7
 DECL|function|start
 DECL|function|theSlot
 DECL|macro|EXTRA_THREAD_WAIT
-DECL|macro|EXTRA_THREAD_WAIT
-DECL|macro|MAIN_THREAD_WAIT
 DECL|macro|MAIN_THREAD_WAIT
 DECL|member|count
 DECL|member|number

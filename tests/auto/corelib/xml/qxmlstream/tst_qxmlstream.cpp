@@ -61,7 +61,6 @@ DECL|function|writerAutoFormattingWithComments
 DECL|function|writerAutoFormattingWithProcessingInstructions
 DECL|function|writerAutoFormattingWithTabs
 DECL|function|writerHangs
-DECL|macro|SRCDIR
 DECL|member|expected
 DECL|member|failures
 DECL|member|id

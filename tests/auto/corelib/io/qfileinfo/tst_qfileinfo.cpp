@@ -71,6 +71,4 @@ DECL|function|testDecomposedUnicodeNames
 DECL|function|testDecomposedUnicodeNames_data
 DECL|function|tst_QFileInfo
 DECL|function|~tst_QFileInfo
-DECL|macro|NO_SYMLINKS
-DECL|macro|SRCDIR
 DECL|macro|_WIN32_WINNT

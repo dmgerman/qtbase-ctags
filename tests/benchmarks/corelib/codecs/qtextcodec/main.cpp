@@ -6,4 +6,3 @@ DECL|function|fromUnicode
 DECL|function|fromUnicode_data
 DECL|function|toUnicode
 DECL|function|toUnicode_data
-DECL|macro|SRCDIR

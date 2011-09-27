@@ -178,7 +178,6 @@ DECL|macro|FOR_EACH_NEIGHBOR_8
 DECL|macro|FOR_EACH_NEIGHBOR_8
 DECL|macro|FPE_TEST
 DECL|macro|FPE_TEST
-DECL|macro|SRCDIR
 DECL|member|data
 DECL|member|deviceTransform
 DECL|member|deviceTransform

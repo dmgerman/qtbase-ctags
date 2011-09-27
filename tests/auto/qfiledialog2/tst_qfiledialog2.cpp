@@ -47,9 +47,6 @@ DECL|function|tst_QFileDialog2
 DECL|function|unc
 DECL|function|~FilterDirModel
 DECL|function|~tst_QFileDialog2
-DECL|macro|SRCDIR
-DECL|macro|STRINGIFY
-DECL|macro|TOSTRING
 DECL|member|m_root
 DECL|member|userSettings
 DECL|struct|FriendlyQFileDialog

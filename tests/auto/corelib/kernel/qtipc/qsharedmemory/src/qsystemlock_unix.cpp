@@ -1,6 +1,5 @@
 DECL|function|QSystemLockPrivate
 DECL|function|cleanHandle
-DECL|function|createUnixKeyFile
 DECL|function|handle
 DECL|function|modifySemaphore
 DECL|function|setErrorString

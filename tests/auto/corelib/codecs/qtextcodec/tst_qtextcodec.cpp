@@ -37,6 +37,5 @@ DECL|function|utf8bom_data
 DECL|function|utfHeaders
 DECL|function|utfHeaders_data
 DECL|function|~DontCrashAtExit
-DECL|macro|SRCDIR
 DECL|struct|DontCrashAtExit
 DECL|variable|dontCrashAtExit
