@@ -1,9 +1,6 @@
 DECL|class|QSliderPrivate
 DECL|function|QSlider
 DECL|function|QSlider
-DECL|function|QSlider
-DECL|function|QSlider
-DECL|function|QSlider
 DECL|function|event
 DECL|function|init
 DECL|function|initStyleOption

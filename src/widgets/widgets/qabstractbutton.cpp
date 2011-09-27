@@ -1,7 +1,6 @@
 DECL|class|QButtonGroupPrivate
 DECL|function|QAbstractButton
 DECL|function|QAbstractButton
-DECL|function|QAbstractButton
 DECL|function|QAbstractButtonPrivate
 DECL|function|QButtonGroup
 DECL|function|QButtonGroupPrivate
@@ -32,7 +31,6 @@ DECL|function|focusOutEvent
 DECL|function|group
 DECL|function|hitButton
 DECL|function|icon
-DECL|function|iconSet
 DECL|function|iconSize
 DECL|function|id
 DECL|function|init

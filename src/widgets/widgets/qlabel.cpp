@@ -1,8 +1,5 @@
 DECL|function|QLabel
 DECL|function|QLabel
-DECL|function|QLabel
-DECL|function|QLabel
-DECL|function|QLabel
 DECL|function|_q_linkHovered
 DECL|function|_q_movieResized
 DECL|function|_q_movieUpdated
@@ -42,7 +39,6 @@ DECL|function|pixmap
 DECL|function|selectedText
 DECL|function|selectionStart
 DECL|function|sendControlEvent
-DECL|function|setAlignment
 DECL|function|setAlignment
 DECL|function|setBuddy
 DECL|function|setIndent

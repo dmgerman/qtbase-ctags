@@ -1,8 +1,6 @@
 DECL|class|QGroupBoxPrivate
 DECL|function|QGroupBox
 DECL|function|QGroupBox
-DECL|function|QGroupBox
-DECL|function|QGroupBox
 DECL|function|_q_fixFocus
 DECL|function|_q_setChildrenEnabled
 DECL|function|alignment

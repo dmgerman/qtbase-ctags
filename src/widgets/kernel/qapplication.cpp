@@ -50,7 +50,6 @@ DECL|function|fontMetrics
 DECL|function|giveFocusAccordingToFocusPolicy
 DECL|function|globalStrut
 DECL|function|handle
-DECL|function|horizontalAlignment
 DECL|function|inPopupMode
 DECL|function|initResources
 DECL|function|initialize
@@ -65,7 +64,6 @@ DECL|function|keyboardInputInterval
 DECL|function|keyboardModifiers
 DECL|function|keypadNavigationEnabled
 DECL|function|leaveModal
-DECL|function|mainWidget
 DECL|function|mouseButtons
 DECL|function|navigationMode
 DECL|function|notify

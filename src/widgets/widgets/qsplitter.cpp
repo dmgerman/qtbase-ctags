@@ -1,7 +1,5 @@
 DECL|function|QSplitter
 DECL|function|QSplitter
-DECL|function|QSplitter
-DECL|function|QSplitter
 DECL|function|QSplitterHandle
 DECL|function|addContribution
 DECL|function|addWidget
@@ -23,7 +21,6 @@ DECL|function|findWidgetJustBeforeOrJustAfter
 DECL|function|getHandleSize
 DECL|function|getRange
 DECL|function|getRange
-DECL|function|getStretch
 DECL|function|getWidgetSize
 DECL|function|handle
 DECL|function|handleWidth
@@ -59,11 +56,9 @@ DECL|function|setHandleWidth
 DECL|function|setOpaqueResize
 DECL|function|setOrientation
 DECL|function|setOrientation
-DECL|function|setResizeMode
 DECL|function|setRubberBand
 DECL|function|setSizes
 DECL|function|setSizes_helper
-DECL|function|setStretch
 DECL|function|setStretchFactor
 DECL|function|sizeHint
 DECL|function|sizeHint

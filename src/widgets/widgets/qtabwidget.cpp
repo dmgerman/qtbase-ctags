@@ -1,6 +1,5 @@
 DECL|class|QTabWidgetPrivate
 DECL|function|QTabWidget
-DECL|function|QTabWidget
 DECL|function|QTabWidgetPrivate
 DECL|function|_q_removeTab
 DECL|function|_q_showTab

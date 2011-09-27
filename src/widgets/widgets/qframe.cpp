@@ -1,6 +1,5 @@
 DECL|function|QFrame
 DECL|function|QFrame
-DECL|function|QFrame
 DECL|function|QFramePrivate
 DECL|function|changeEvent
 DECL|function|drawFrame

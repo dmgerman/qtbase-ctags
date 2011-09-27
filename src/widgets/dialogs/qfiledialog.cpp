@@ -87,7 +87,6 @@ DECL|function|select
 DECL|function|selectFile
 DECL|function|selectFilter
 DECL|function|selectNameFilter
-DECL|function|selectedFile
 DECL|function|selectedFiles
 DECL|function|selectedFilter
 DECL|function|selectedNameFilter

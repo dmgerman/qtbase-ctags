@@ -1,6 +1,5 @@
 DECL|function|QWidget
 DECL|function|QWidget
-DECL|function|QWidget
 DECL|function|QWidgetBackingStoreTracker
 DECL|function|QWidgetPrivate
 DECL|function|_q_delayedDestroy
@@ -19,7 +18,6 @@ DECL|function|adjustSize
 DECL|function|adjustedSize
 DECL|function|assignedInputContext
 DECL|function|autoFillBackground
-DECL|function|backgroundMode
 DECL|function|backgroundRole
 DECL|function|backingStore
 DECL|function|baseSize
@@ -37,7 +35,6 @@ DECL|function|clearMask
 DECL|function|clipRect
 DECL|function|clipRegion
 DECL|function|clipToEffectiveMask
-DECL|function|close
 DECL|function|close
 DECL|function|closeEvent
 DECL|function|close_helper
@@ -62,15 +59,12 @@ DECL|function|dragEnterEvent
 DECL|function|dragLeaveEvent
 DECL|function|dragMoveEvent
 DECL|function|draw
-DECL|function|drawText_helper
 DECL|function|drawWidget
 DECL|function|dropEvent
 DECL|function|effectiveWinId
 DECL|function|enabledChange
 DECL|function|ensurePolished
 DECL|function|enterEvent
-DECL|function|erase
-DECL|function|erase_helper
 DECL|function|event
 DECL|function|fillRegion
 DECL|function|find
@@ -103,7 +97,6 @@ DECL|function|heightForWidth
 DECL|function|hideChildren
 DECL|function|hideEvent
 DECL|function|hide_helper
-DECL|function|icon
 DECL|function|inTabWidget
 DECL|function|inheritStyle
 DECL|function|init
@@ -210,7 +203,6 @@ DECL|function|setAccessibleName
 DECL|function|setAttribute
 DECL|function|setAttribute_internal
 DECL|function|setAutoFillBackground
-DECL|function|setBackgroundMode
 DECL|function|setBackgroundRole
 DECL|function|setBackingStore
 DECL|function|setBaseSize
@@ -235,7 +227,6 @@ DECL|function|setFont
 DECL|function|setForegroundRole
 DECL|function|setGeometry
 DECL|function|setGraphicsEffect
-DECL|function|setIcon
 DECL|function|setInputContext
 DECL|function|setInputMethodHints
 DECL|function|setLayout
@@ -265,7 +256,6 @@ DECL|function|setShortcutEnabled
 DECL|function|setSizeIncrement
 DECL|function|setSizePolicy
 DECL|function|setStatusTip
-DECL|function|setStyle
 DECL|function|setStyle
 DECL|function|setStyleSheet
 DECL|function|setStyle_helper
@@ -331,7 +321,6 @@ DECL|function|updateIsOpaque
 DECL|function|updateIsTranslucent
 DECL|function|updateMicroFocus
 DECL|function|updateWidgetTransform
-DECL|function|visibleRect
 DECL|function|visibleRegion
 DECL|function|whatsThis
 DECL|function|wheelEvent
@@ -348,7 +337,6 @@ DECL|function|windowOpacity
 DECL|function|windowRole
 DECL|function|windowState
 DECL|function|windowTitle
-DECL|function|wmapper
 DECL|function|x
 DECL|function|x11Event
 DECL|function|y

@@ -1,8 +1,6 @@
 DECL|class|QCheckBoxPrivate
 DECL|function|QCheckBox
 DECL|function|QCheckBox
-DECL|function|QCheckBox
-DECL|function|QCheckBox
 DECL|function|QCheckBoxPrivate
 DECL|function|checkState
 DECL|function|checkStateSet

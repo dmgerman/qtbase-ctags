@@ -1,7 +1,5 @@
 DECL|function|QComboBox
 DECL|function|QComboBox
-DECL|function|QComboBox
-DECL|function|QComboBox
 DECL|function|QComboBoxPrivate
 DECL|function|QComboBoxPrivateContainer
 DECL|function|_q_completerActivated

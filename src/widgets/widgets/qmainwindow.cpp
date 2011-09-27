@@ -1,6 +1,5 @@
 DECL|class|QMainWindowPrivate
 DECL|function|QMainWindow
-DECL|function|QMainWindow
 DECL|function|QMainWindowPrivate
 DECL|function|addDockWidget
 DECL|function|addDockWidget

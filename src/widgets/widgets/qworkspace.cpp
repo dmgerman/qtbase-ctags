@@ -15,7 +15,6 @@ DECL|enumerator|StaysOnTopAct
 DECL|enum|WSActs
 DECL|function|QMDIControl
 DECL|function|QWorkspace
-DECL|function|QWorkspace
 DECL|function|QWorkspaceChild
 DECL|function|QWorkspaceTitleBar
 DECL|function|QWorkspaceTitleBarPrivate
@@ -104,8 +103,6 @@ DECL|function|setActiveWindow
 DECL|function|setAutoRaise
 DECL|function|setBackground
 DECL|function|setMovable
-DECL|function|setPaletteBackgroundColor
-DECL|function|setPaletteBackgroundPixmap
 DECL|function|setScrollBarsEnabled
 DECL|function|show
 DECL|function|showEvent

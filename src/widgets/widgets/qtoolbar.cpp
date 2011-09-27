@@ -1,6 +1,5 @@
 DECL|function|QToolBar
 DECL|function|QToolBar
-DECL|function|QToolBar
 DECL|function|_q_toggleView
 DECL|function|_q_updateIconSize
 DECL|function|_q_updateToolButtonStyle

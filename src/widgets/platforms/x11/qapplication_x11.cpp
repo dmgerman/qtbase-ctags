@@ -88,7 +88,6 @@ DECL|function|setDiscardCommand
 DECL|function|setDoubleClickInterval
 DECL|function|setEffectEnabled
 DECL|function|setKeyboardInputInterval
-DECL|function|setMainWidget
 DECL|function|setManagerProperty
 DECL|function|setManagerProperty
 DECL|function|setOverrideCursor

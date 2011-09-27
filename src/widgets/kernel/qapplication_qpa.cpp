@@ -20,7 +20,6 @@ DECL|function|qt_tlw_for_window
 DECL|function|qt_try_modal
 DECL|function|qt_win_display_dc
 DECL|function|setEffectEnabled
-DECL|function|setMainWidget
 DECL|function|setWheelScrollLines
 DECL|function|topLevelAt
 DECL|function|ungrabKeyboardForPopup

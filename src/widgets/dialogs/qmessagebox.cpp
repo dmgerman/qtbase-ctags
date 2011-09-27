@@ -21,8 +21,6 @@ DECL|function|DetailButton
 DECL|function|QMessageBox
 DECL|function|QMessageBox
 DECL|function|QMessageBox
-DECL|function|QMessageBox
-DECL|function|QMessageBox
 DECL|function|QMessageBoxDetailsText
 DECL|function|QMessageBoxPrivate
 DECL|function|TextEdit
@@ -98,7 +96,6 @@ DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|standardButton
 DECL|function|standardButtons
-DECL|function|standardIcon
 DECL|function|standardIcon
 DECL|function|standardIcon
 DECL|function|text

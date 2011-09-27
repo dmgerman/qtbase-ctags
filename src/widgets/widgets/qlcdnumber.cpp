@@ -1,8 +1,6 @@
 DECL|class|QLCDNumberPrivate
 DECL|function|QLCDNumber
 DECL|function|QLCDNumber
-DECL|function|QLCDNumber
-DECL|function|QLCDNumber
 DECL|function|addPoint
 DECL|function|checkOverflow
 DECL|function|checkOverflow

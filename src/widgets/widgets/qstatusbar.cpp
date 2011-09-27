@@ -1,6 +1,5 @@
 DECL|class|QStatusBarPrivate
 DECL|function|QStatusBar
-DECL|function|QStatusBar
 DECL|function|QStatusBarPrivate
 DECL|function|SBItem
 DECL|function|addPermanentWidget

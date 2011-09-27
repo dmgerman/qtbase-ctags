@@ -1,7 +1,6 @@
 DECL|class|QToolBoxButton
 DECL|class|QToolBoxPrivate
 DECL|function|QToolBox
-DECL|function|QToolBox
 DECL|function|QToolBoxButton
 DECL|function|QToolBoxPrivate
 DECL|function|_q_buttonClicked

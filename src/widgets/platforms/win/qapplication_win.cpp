@@ -61,7 +61,6 @@ DECL|function|setCursorFlashTime
 DECL|function|setDoubleClickInterval
 DECL|function|setEffectEnabled
 DECL|function|setKeyboardInputInterval
-DECL|function|setMainWidget
 DECL|function|setOverrideCursor
 DECL|function|setWheelScrollLines
 DECL|function|setWindowTitle_helper

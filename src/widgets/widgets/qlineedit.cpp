@@ -1,12 +1,8 @@
 DECL|function|QLineEdit
 DECL|function|QLineEdit
-DECL|function|QLineEdit
-DECL|function|QLineEdit
-DECL|function|QLineEdit
 DECL|function|alignment
 DECL|function|backspace
 DECL|function|changeEvent
-DECL|function|characterAt
 DECL|function|clear
 DECL|function|completer
 DECL|function|contextMenuEvent
@@ -30,12 +26,10 @@ DECL|function|dragLeaveEvent
 DECL|function|dragMoveEvent
 DECL|function|dropEvent
 DECL|function|echoMode
-DECL|function|edited
 DECL|function|end
 DECL|function|event
 DECL|function|focusInEvent
 DECL|function|focusOutEvent
-DECL|function|getSelection
 DECL|function|getTextMargins
 DECL|function|hasAcceptableInput
 DECL|function|hasFrame
@@ -70,7 +64,6 @@ DECL|function|setCursorMoveStyle
 DECL|function|setCursorPosition
 DECL|function|setDragEnabled
 DECL|function|setEchoMode
-DECL|function|setEdited
 DECL|function|setFrame
 DECL|function|setInputMask
 DECL|function|setMaxLength
@@ -86,7 +79,6 @@ DECL|function|sizeHint
 DECL|function|text
 DECL|function|textMargins
 DECL|function|undo
-DECL|function|validateAndSet
 DECL|function|validator
 DECL|function|~QLineEdit
 DECL|macro|ACCEL_KEY

@@ -4,9 +4,6 @@ DECL|enumerator|NoButtonPressed
 DECL|enumerator|ToolButtonPressed
 DECL|function|QToolButton
 DECL|function|QToolButton
-DECL|function|QToolButton
-DECL|function|QToolButton
-DECL|function|QToolButton
 DECL|function|_q_actionTriggered
 DECL|function|_q_buttonPressed
 DECL|function|_q_menuTriggered
@@ -20,7 +17,6 @@ DECL|function|enterEvent
 DECL|function|event
 DECL|function|hasMenu
 DECL|function|hitButton
-DECL|function|iconSet
 DECL|function|init
 DECL|function|initStyleOption
 DECL|function|leaveEvent
@@ -30,20 +26,13 @@ DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|newHoverControl
 DECL|function|nextCheckState
-DECL|function|offIconSet
-DECL|function|onIconSet
 DECL|function|paintEvent
-DECL|function|popupDelay
 DECL|function|popupMode
 DECL|function|popupTimerDone
 DECL|function|setArrowType
 DECL|function|setAutoRaise
 DECL|function|setDefaultAction
-DECL|function|setIconSet
 DECL|function|setMenu
-DECL|function|setOffIconSet
-DECL|function|setOnIconSet
-DECL|function|setPopupDelay
 DECL|function|setPopupMode
 DECL|function|setToolButtonStyle
 DECL|function|showMenu
@@ -62,4 +51,3 @@ DECL|member|menuAction
 DECL|member|popupMode
 DECL|member|popupTimer
 DECL|member|toolButtonStyle
-DECL|member|userDefinedPopupDelay

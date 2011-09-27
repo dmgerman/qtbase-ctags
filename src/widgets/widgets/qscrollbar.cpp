@@ -1,9 +1,6 @@
 DECL|class|QScrollBarPrivate
 DECL|function|QScrollBar
 DECL|function|QScrollBar
-DECL|function|QScrollBar
-DECL|function|QScrollBar
-DECL|function|QScrollBar
 DECL|function|activateControl
 DECL|function|contextMenuEvent
 DECL|function|event

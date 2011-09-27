@@ -1,6 +1,5 @@
 DECL|class|QSizeGripPrivate
 DECL|function|QSizeGrip
-DECL|function|QSizeGrip
 DECL|function|_q_showIfNotHidden
 DECL|function|atBottom
 DECL|function|atLeft

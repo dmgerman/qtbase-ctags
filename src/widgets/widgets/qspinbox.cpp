@@ -3,8 +3,6 @@ DECL|class|QSpinBoxPrivate
 DECL|function|QDoubleSpinBox
 DECL|function|QDoubleSpinBoxPrivate
 DECL|function|QSpinBox
-DECL|function|QSpinBox
-DECL|function|QSpinBox
 DECL|function|QSpinBoxPrivate
 DECL|function|cleanText
 DECL|function|cleanText

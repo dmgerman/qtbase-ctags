@@ -4,9 +4,6 @@ DECL|function|QGridBox
 DECL|function|QGridBox
 DECL|function|QGridLayout
 DECL|function|QGridLayout
-DECL|function|QGridLayout
-DECL|function|QGridLayout
-DECL|function|QGridLayout
 DECL|function|QGridLayoutPrivate
 DECL|function|add
 DECL|function|add
@@ -34,12 +31,10 @@ DECL|function|distribute
 DECL|function|distributeMultiBox
 DECL|function|effectiveMargins
 DECL|function|expand
-DECL|function|expand
 DECL|function|expandingDirections
 DECL|function|expandingDirections
 DECL|function|expandingDirections
 DECL|function|findSize
-DECL|function|findWidget
 DECL|function|getItemPosition
 DECL|function|getItemPosition
 DECL|function|getNextPos

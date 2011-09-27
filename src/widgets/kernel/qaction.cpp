@@ -2,9 +2,6 @@ DECL|function|QAction
 DECL|function|QAction
 DECL|function|QAction
 DECL|function|QAction
-DECL|function|QAction
-DECL|function|QAction
-DECL|function|QAction
 DECL|function|QActionPrivate
 DECL|function|actionGroup
 DECL|function|activate

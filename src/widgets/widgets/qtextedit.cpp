@@ -2,7 +2,6 @@ DECL|class|QTextEditControl
 DECL|function|QTextEdit
 DECL|function|QTextEdit
 DECL|function|QTextEdit
-DECL|function|QTextEdit
 DECL|function|QTextEditControl
 DECL|function|QTextEditPrivate
 DECL|function|_q_adjustScrollbars
@@ -33,7 +32,6 @@ DECL|function|cursorRect
 DECL|function|cursorRect
 DECL|function|cursorWidth
 DECL|function|cut
-DECL|function|doKeyboardAction
 DECL|function|document
 DECL|function|documentSize
 DECL|function|dragEnterEvent
@@ -70,8 +68,6 @@ DECL|function|mouseDoubleClickEvent
 DECL|function|mouseMoveEvent
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
-DECL|function|moveCursor
-DECL|function|moveCursor
 DECL|function|moveCursor
 DECL|function|overwriteMode
 DECL|function|pageUpDown
@@ -110,18 +106,15 @@ DECL|function|setText
 DECL|function|setTextBackgroundColor
 DECL|function|setTextColor
 DECL|function|setTextCursor
-DECL|function|setTextFormat
 DECL|function|setTextInteractionFlags
 DECL|function|setWordWrapMode
 DECL|function|shouldEnableInputMethod
 DECL|function|showEvent
 DECL|function|tabChangesFocus
 DECL|function|tabStopWidth
-DECL|function|text
 DECL|function|textBackgroundColor
 DECL|function|textColor
 DECL|function|textCursor
-DECL|function|textFormat
 DECL|function|textInteractionFlags
 DECL|function|timerEvent
 DECL|function|undo

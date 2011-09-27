@@ -1,6 +1,5 @@
 DECL|function|QDialog
 DECL|function|QDialog
-DECL|function|QDialog
 DECL|function|_q_doneAction
 DECL|function|accept
 DECL|function|adjustPosition

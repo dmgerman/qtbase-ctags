@@ -2,9 +2,6 @@ DECL|function|QPushButton
 DECL|function|QPushButton
 DECL|function|QPushButton
 DECL|function|QPushButton
-DECL|function|QPushButton
-DECL|function|QPushButton
-DECL|function|QPushButton
 DECL|function|_q_popupPressed
 DECL|function|adjustedMenuPosition
 DECL|function|autoDefault

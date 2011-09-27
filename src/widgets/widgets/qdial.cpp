@@ -1,7 +1,5 @@
 DECL|class|QDialPrivate
 DECL|function|QDial
-DECL|function|QDial
-DECL|function|QDial
 DECL|function|QDialPrivate
 DECL|function|bound
 DECL|function|event

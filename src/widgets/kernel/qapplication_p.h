@@ -87,9 +87,6 @@ DECL|typedef|PtrGetTouchInputInfo
 DECL|typedef|PtrRegisterTouchWindow
 DECL|typedef|PtrSetGestureConfig
 DECL|typedef|PtrUpdatePanningFeedback
-DECL|typedef|Ptrqt_dispatchAccelEvent
-DECL|typedef|Ptrqt_tryAccelEvent
-DECL|typedef|Ptrqt_tryComposeUnicode
 DECL|typedef|QByteArray
 DECL|typedef|QMacTabletHash
 DECL|typedef|QTabletDeviceDataList

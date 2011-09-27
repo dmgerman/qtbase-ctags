@@ -1,8 +1,6 @@
 DECL|class|QRadioButtonPrivate
 DECL|function|QRadioButton
 DECL|function|QRadioButton
-DECL|function|QRadioButton
-DECL|function|QRadioButton
 DECL|function|QRadioButtonPrivate
 DECL|function|event
 DECL|function|hitButton

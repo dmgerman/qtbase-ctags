@@ -1,7 +1,6 @@
 DECL|class|QTextBrowserPrivate
 DECL|function|HistoryEntry
 DECL|function|QTextBrowser
-DECL|function|QTextBrowser
 DECL|function|QTextBrowserPrivate
 DECL|function|_q_activateAnchor
 DECL|function|_q_documentModified
