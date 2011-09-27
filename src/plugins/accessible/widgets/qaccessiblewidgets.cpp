@@ -25,8 +25,6 @@ DECL|function|childAt
 DECL|function|childAt
 DECL|function|childAt
 DECL|function|childAt
-DECL|function|childAt
-DECL|function|childCount
 DECL|function|childCount
 DECL|function|childCount
 DECL|function|childCount
@@ -92,11 +90,9 @@ DECL|function|rect
 DECL|function|rect
 DECL|function|rect
 DECL|function|rect
-DECL|function|rect
 DECL|function|relationTo
 DECL|function|removeSelection
 DECL|function|replaceText
-DECL|function|role
 DECL|function|role
 DECL|function|role
 DECL|function|role
