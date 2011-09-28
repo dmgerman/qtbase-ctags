@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|function|accum
 DECL|function|alpha
 DECL|function|depth
@@ -10,9 +9,6 @@ DECL|function|sampleBuffers
 DECL|function|stencil
 DECL|function|stereo
 DECL|macro|QGL_H
-DECL|macro|QGL_VERSION
-DECL|macro|QGL_VERSION_STR
-DECL|variable|QGLCmap
 DECL|variable|QGLContextPrivate
 DECL|variable|QGLFormatPrivate
 DECL|variable|QGLFunctions

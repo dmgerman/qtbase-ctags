@@ -16,9 +16,6 @@ DECL|function|QGLWidget
 DECL|function|QGLWidget
 DECL|function|QGLWidget
 DECL|function|QGLWidget
-DECL|function|QGLWidget
-DECL|function|QGLWidget
-DECL|function|QGLWidget
 DECL|function|accumBufferSize
 DECL|function|addShare
 DECL|function|alphaBufferSize

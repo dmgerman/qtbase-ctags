@@ -25,7 +25,6 @@ DECL|function|_q_checkFields
 DECL|function|_q_collapseOrExpandDialog
 DECL|function|_q_printerChanged
 DECL|function|accept
-DECL|function|addButton
 DECL|function|addItemToOptions
 DECL|function|applyPrinterProperties
 DECL|function|applyPrinterProperties
@@ -45,7 +44,6 @@ DECL|function|parseChoices
 DECL|function|parseGroups
 DECL|function|parseItems
 DECL|function|parseOptions
-DECL|function|printer
 DECL|function|rowCount
 DECL|function|selectPdfPsPrinter
 DECL|function|selectPrinter
@@ -55,7 +53,6 @@ DECL|function|setCupsProperties
 DECL|function|setEditorData
 DECL|function|setModelData
 DECL|function|setOptionsPane
-DECL|function|setPrinter
 DECL|function|setTabs
 DECL|function|setVisible
 DECL|function|setupPrinter

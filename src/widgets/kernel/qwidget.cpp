@@ -61,7 +61,6 @@ DECL|function|draw
 DECL|function|drawWidget
 DECL|function|dropEvent
 DECL|function|effectiveWinId
-DECL|function|enabledChange
 DECL|function|ensurePolished
 DECL|function|enterEvent
 DECL|function|event
@@ -73,7 +72,6 @@ DECL|function|focusOutEvent
 DECL|function|focusPolicy
 DECL|function|focusProxy
 DECL|function|focusWidget
-DECL|function|fontChange
 DECL|function|foregroundRole
 DECL|function|frameGeometry
 DECL|function|frameSize
@@ -120,7 +118,6 @@ DECL|function|isVisibleTo
 DECL|function|isWindowModified
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
-DECL|function|languageChange
 DECL|function|layout
 DECL|function|layoutDirection
 DECL|function|leaveEvent
@@ -155,7 +152,6 @@ DECL|function|paintEvent
 DECL|function|paintOnScreen
 DECL|function|paintSiblingsRecursive
 DECL|function|palette
-DECL|function|paletteChange
 DECL|function|pixmap
 DECL|function|pointToRect
 DECL|function|pos
@@ -292,7 +288,6 @@ DECL|function|sizePolicy
 DECL|function|stackUnder
 DECL|function|statusTip
 DECL|function|style
-DECL|function|styleChange
 DECL|function|styleSheet
 DECL|function|subtractOpaqueChildren
 DECL|function|subtractOpaqueSiblings
@@ -326,7 +321,6 @@ DECL|function|widgetInNavigationDirection
 DECL|function|winEvent
 DECL|function|winId
 DECL|function|window
-DECL|function|windowActivationChange
 DECL|function|windowFilePath
 DECL|function|windowIcon
 DECL|function|windowIconText
