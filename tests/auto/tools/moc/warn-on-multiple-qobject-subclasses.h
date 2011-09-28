@@ -1,1 +1,1 @@
-DECL|variable|QWidget
+DECL|variable|QWindow
