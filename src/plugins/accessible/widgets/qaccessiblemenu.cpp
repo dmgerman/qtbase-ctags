@@ -10,7 +10,6 @@ DECL|function|child
 DECL|function|child
 DECL|function|childAt
 DECL|function|childAt
-DECL|function|childAt
 DECL|function|childCount
 DECL|function|childCount
 DECL|function|childCount
