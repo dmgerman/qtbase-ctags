@@ -23,7 +23,7 @@ DECL|function|child
 DECL|function|child
 DECL|function|child
 DECL|function|child
-DECL|function|childAt
+DECL|function|child
 DECL|function|childAt
 DECL|function|childAt
 DECL|function|childAt
@@ -99,7 +99,6 @@ DECL|function|rect
 DECL|function|rect
 DECL|function|rect
 DECL|function|rect
-DECL|function|rect
 DECL|function|relationTo
 DECL|function|relationTo
 DECL|function|removeInvisibleWidgetsFromList
@@ -124,15 +123,12 @@ DECL|function|setSelected
 DECL|function|setText
 DECL|function|setText
 DECL|function|setText
-DECL|function|setText
-DECL|function|state
 DECL|function|state
 DECL|function|state
 DECL|function|state
 DECL|function|state
 DECL|function|summary
 DECL|function|tabBar
-DECL|function|text
 DECL|function|text
 DECL|function|text
 DECL|function|text

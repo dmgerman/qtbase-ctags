@@ -19,7 +19,7 @@ DECL|function|characterCount
 DECL|function|characterRect
 DECL|function|child
 DECL|function|child
-DECL|function|childAt
+DECL|function|child
 DECL|function|childAt
 DECL|function|childAt
 DECL|function|childAt
@@ -86,7 +86,6 @@ DECL|function|parent
 DECL|function|pasteText
 DECL|function|qTextBlockAt
 DECL|function|qTextBlockPosition
-DECL|function|rect
 DECL|function|rect
 DECL|function|rect
 DECL|function|rect
