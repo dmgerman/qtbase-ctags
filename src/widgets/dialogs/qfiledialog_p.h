@@ -29,4 +29,5 @@ DECL|variable|QFileDialogListView
 DECL|variable|QFileDialogTreeView
 DECL|variable|QGridLayout
 DECL|variable|QHBoxLayout
+DECL|variable|QPlatformDialogHelper
 DECL|variable|Ui_QFileDialog

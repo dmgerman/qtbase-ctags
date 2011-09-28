@@ -1,5 +1,6 @@
 DECL|function|accessibility
 DECL|function|clipboard
+DECL|function|createPlatformDialogHelper
 DECL|function|createPlatformMenu
 DECL|function|createPlatformMenuBar
 DECL|function|createPlatformOpenGLContext
@@ -11,3 +12,4 @@ DECL|function|inputContext
 DECL|function|nativeInterface
 DECL|function|screenAdded
 DECL|function|styleHint
+DECL|function|usePlatformNativeDialog

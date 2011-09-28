@@ -1,0 +1,2 @@
+DECL|function|QPlatformDialogHelper
+DECL|function|~QPlatformDialogHelper

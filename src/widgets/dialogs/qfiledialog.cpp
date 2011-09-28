@@ -17,6 +17,7 @@ DECL|function|_q_navigateBackward
 DECL|function|_q_navigateForward
 DECL|function|_q_navigateToParent
 DECL|function|_q_pathChanged
+DECL|function|_q_platformRunNativeAppModalPanel
 DECL|function|_q_renameCurrent
 DECL|function|_q_rowsInserted
 DECL|function|_q_selectionChanged
@@ -128,14 +129,13 @@ DECL|function|workingDirectory
 DECL|function|~QFileDialog
 DECL|function|~QFileDialogPrivate
 DECL|macro|Q_EMBEDDED_SMALLSCREEN
+DECL|member|qt_file_dialog_filter_reg_exp
 DECL|typedef|_qt_filedialog_existing_directory_hook
 DECL|typedef|_qt_filedialog_open_filename_hook
 DECL|typedef|_qt_filedialog_open_filenames_hook
 DECL|typedef|_qt_filedialog_save_filename_hook
 DECL|variable|QFileDialogMagic
-DECL|variable|qt_file_dialog_filter_reg_exp
 DECL|variable|qt_filedialog_existing_directory_hook
 DECL|variable|qt_filedialog_open_filename_hook
 DECL|variable|qt_filedialog_open_filenames_hook
 DECL|variable|qt_filedialog_save_filename_hook
-DECL|variable|qt_use_native_dialogs

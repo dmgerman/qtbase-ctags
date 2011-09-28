@@ -6,6 +6,7 @@ DECL|variable|QMenuBar
 DECL|variable|QPlatformAccessibility
 DECL|variable|QPlatformBackingStore
 DECL|variable|QPlatformClipboard
+DECL|variable|QPlatformDialogHelper
 DECL|variable|QPlatformDrag
 DECL|variable|QPlatformFontDatabase
 DECL|variable|QPlatformInputContext
