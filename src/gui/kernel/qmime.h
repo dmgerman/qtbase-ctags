@@ -1,4 +1,0 @@
-DECL|function|QT_MODULE
-DECL|macro|QMIME_H
-DECL|typedef|FORMATETC
-DECL|typedef|STGMEDIUM

@@ -60,8 +60,6 @@ DECL|function|d_func
 DECL|function|d_func
 DECL|function|d_func
 DECL|function|d_func
-DECL|function|encodedData
-DECL|function|format
 DECL|function|id
 DECL|function|isOverride
 DECL|function|isPrimary
@@ -83,7 +81,6 @@ DECL|function|orientationInDegrees
 DECL|function|overshootDistance
 DECL|function|pos
 DECL|function|pressure
-DECL|function|provides
 DECL|function|reason
 DECL|function|reason
 DECL|function|rect

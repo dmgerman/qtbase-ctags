@@ -1,17 +1,10 @@
 DECL|function|QClipboard
-DECL|function|data
 DECL|function|emitChanged
-DECL|function|encodedData
-DECL|function|format
-DECL|function|formats
-DECL|function|hasFormat
 DECL|function|image
 DECL|function|ownsClipboard
 DECL|function|ownsFindBuffer
 DECL|function|ownsSelection
 DECL|function|pixmap
-DECL|function|retrieveData
-DECL|function|setData
 DECL|function|setImage
 DECL|function|setPixmap
 DECL|function|setText
