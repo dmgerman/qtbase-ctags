@@ -14,6 +14,7 @@ DECL|function|getSetCheck
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|keepOpenMode
+DECL|function|nonWritableCurrentDir
 DECL|function|openCloseOpenClose
 DECL|function|openOnRootDrives
 DECL|function|reOpenThroughQFile
