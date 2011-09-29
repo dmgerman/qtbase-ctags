@@ -35,6 +35,7 @@ DECL|function|endsWith
 DECL|function|endsWith
 DECL|function|endsWith
 DECL|function|endsWith
+DECL|function|escape
 DECL|function|expand
 DECL|function|fill
 DECL|function|findArgEscapes

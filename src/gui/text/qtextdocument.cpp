@@ -44,7 +44,6 @@ DECL|function|emitTable
 DECL|function|emitTextFrame
 DECL|function|emitTextLength
 DECL|function|end
-DECL|function|escape
 DECL|function|find
 DECL|function|find
 DECL|function|find
