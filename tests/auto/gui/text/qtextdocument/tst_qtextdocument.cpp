@@ -44,8 +44,6 @@ DECL|function|documentChanged
 DECL|function|documentCleanup
 DECL|function|documentSize
 DECL|function|draw
-DECL|function|escape
-DECL|function|escape_data
 DECL|function|find
 DECL|function|find2
 DECL|function|findMultiple

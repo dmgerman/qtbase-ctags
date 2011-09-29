@@ -35,7 +35,6 @@ DECL|function|endsWith
 DECL|function|endsWith
 DECL|function|endsWith
 DECL|function|endsWith
-DECL|function|escape
 DECL|function|expand
 DECL|function|fill
 DECL|function|findArgEscapes
@@ -174,6 +173,7 @@ DECL|function|toAscii
 DECL|function|toCaseFolded
 DECL|function|toDouble
 DECL|function|toFloat
+DECL|function|toHtmlEscaped
 DECL|function|toInt
 DECL|function|toLatin1
 DECL|function|toLatin1

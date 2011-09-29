@@ -134,6 +134,8 @@ DECL|function|task262677remove
 DECL|function|toDouble
 DECL|function|toDouble_data
 DECL|function|toFloat
+DECL|function|toHtmlEscaped
+DECL|function|toHtmlEscaped_data
 DECL|function|toInt
 DECL|function|toLatin1Roundtrip
 DECL|function|toLatin1Roundtrip_data
