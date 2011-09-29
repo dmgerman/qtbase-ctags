@@ -188,6 +188,7 @@ DECL|function|isComposing
 DECL|function|isObscured
 DECL|function|isObscuredBy
 DECL|function|isObscuredBy
+DECL|function|isVisibleTo
 DECL|function|itemChange
 DECL|function|itemChange
 DECL|function|itemChange
