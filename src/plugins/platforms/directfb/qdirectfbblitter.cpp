@@ -1,8 +1,11 @@
 DECL|function|QDirectFbBlitter
 DECL|function|QDirectFbBlitter
+DECL|function|alphaPixmapFormat
 DECL|function|dfb_blitter_capabilities
 DECL|function|doLock
 DECL|function|doUnlock
 DECL|function|drawPixmap
 DECL|function|fillRect
+DECL|function|pixmapFormat
+DECL|function|selectPixmapFormat
 DECL|function|~QDirectFbBlitter
