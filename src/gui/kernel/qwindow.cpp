@@ -35,6 +35,7 @@ DECL|function|parent
 DECL|function|qt_window_private
 DECL|function|raise
 DECL|function|requestActivateWindow
+DECL|function|requestedFormat
 DECL|function|resize
 DECL|function|resizeEvent
 DECL|function|screen
