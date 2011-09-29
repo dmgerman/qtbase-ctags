@@ -37,7 +37,6 @@ DECL|function|updatePageNumLabel
 DECL|function|updateZoomFactor
 DECL|function|validate
 DECL|function|~QPrintPreviewDialog
-DECL|member|closeAction
 DECL|member|facingModeAction
 DECL|member|firstPageAction
 DECL|member|fitGroup

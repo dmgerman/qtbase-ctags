@@ -1,4 +1,3 @@
-DECL|function|initWritingSystems
 DECL|function|initializeDb
 DECL|function|load
 DECL|function|load

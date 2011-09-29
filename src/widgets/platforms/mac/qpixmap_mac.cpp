@@ -22,12 +22,10 @@ DECL|function|metric
 DECL|function|paintEngine
 DECL|function|qt_conv16ToRgb
 DECL|function|qt_mac_cgimage_data_free
-DECL|function|qt_mac_create_iconref
 DECL|function|qt_mac_create_imagemask
 DECL|function|qt_mac_flipPixmap
 DECL|function|qt_mac_grabDisplayRect
 DECL|function|qt_mac_grabScreenRect
-DECL|function|qt_mac_grabScreenRect_10_3
 DECL|function|qt_mac_pixmap_get_base
 DECL|function|qt_mac_pixmap_get_bytes_per_line
 DECL|function|resize
