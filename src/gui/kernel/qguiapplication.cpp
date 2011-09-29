@@ -1,7 +1,6 @@
 DECL|function|QGuiApplication
 DECL|function|QGuiApplication
 DECL|function|QGuiApplicationPrivate
-DECL|function|activeWindow
 DECL|function|applyCursor
 DECL|function|changeOverrideCursor
 DECL|function|clipboard
@@ -12,6 +11,7 @@ DECL|function|currentKeyPlatform
 DECL|function|emitLastWindowClosed
 DECL|function|event
 DECL|function|exec
+DECL|function|focusWindow
 DECL|function|font
 DECL|function|getPixmapCursor
 DECL|function|init
@@ -63,11 +63,11 @@ DECL|function|topLevelAt
 DECL|function|topLevelWindows
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
-DECL|member|active_window
 DECL|member|app_do_modal
 DECL|member|app_font
 DECL|member|app_pal
 DECL|member|buttons
+DECL|member|focus_window
 DECL|member|modifier_buttons
 DECL|member|mousePressButton
 DECL|member|mousePressTime

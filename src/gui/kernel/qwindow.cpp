@@ -8,6 +8,8 @@ DECL|function|create
 DECL|function|destroy
 DECL|function|event
 DECL|function|exposeEvent
+DECL|function|focusInEvent
+DECL|function|focusOutEvent
 DECL|function|format
 DECL|function|frameGeometry
 DECL|function|frameMargins
@@ -16,6 +18,8 @@ DECL|function|geometry
 DECL|function|handle
 DECL|function|hideEvent
 DECL|function|inputMethodEvent
+DECL|function|isActive
+DECL|function|isAncestorOf
 DECL|function|isModal
 DECL|function|isTopLevel
 DECL|function|keyPressEvent

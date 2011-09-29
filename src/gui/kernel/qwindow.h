@@ -2,6 +2,7 @@ DECL|macro|QWINDOW_QPA_H
 DECL|variable|QAccessibleInterface
 DECL|variable|QBackingStore
 DECL|variable|QExposeEvent
+DECL|variable|QFocusEvent
 DECL|variable|QHideEvent
 DECL|variable|QInputMethodEvent
 DECL|variable|QKeyEvent
