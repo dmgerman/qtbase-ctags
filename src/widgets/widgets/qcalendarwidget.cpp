@@ -87,7 +87,7 @@ DECL|function|internalUpdate
 DECL|function|internalUpdate
 DECL|function|isDateEditEnabled
 DECL|function|isGridVisible
-DECL|function|isHeaderVisible
+DECL|function|isNavigationBarVisible
 DECL|function|keyPressEvent
 DECL|function|keyPressEvent
 DECL|function|keyboardSearch
@@ -132,7 +132,6 @@ DECL|function|setFirstDayOfWeek
 DECL|function|setFormat
 DECL|function|setGridVisible
 DECL|function|setHeaderTextFormat
-DECL|function|setHeaderVisible
 DECL|function|setHorizontalHeaderFormat
 DECL|function|setHorizontalHeaderFormat
 DECL|function|setInitialDate
