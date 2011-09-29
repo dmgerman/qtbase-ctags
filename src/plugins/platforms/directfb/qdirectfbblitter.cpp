@@ -6,6 +6,11 @@ DECL|function|doLock
 DECL|function|doUnlock
 DECL|function|drawPixmap
 DECL|function|fillRect
+DECL|function|fromDataBufferDescription
+DECL|function|fromFile
 DECL|function|pixmapFormat
 DECL|function|selectPixmapFormat
 DECL|function|~QDirectFbBlitter
+DECL|macro|QDFB_PRETTY
+DECL|macro|QDFB_STRINGIFY
+DECL|macro|QDFB_TOSTRING
