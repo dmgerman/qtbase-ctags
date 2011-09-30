@@ -27,10 +27,9 @@ DECL|function|maskString
 DECL|function|moveCursor
 DECL|function|parseInputMask
 DECL|function|paste
-DECL|function|processEvent
 DECL|function|processInputMethodEvent
 DECL|function|processKeyEvent
-DECL|function|processMouseEvent
+DECL|function|processShortcutOverrideEvent
 DECL|function|redoTextLayout
 DECL|function|removeSelectedText
 DECL|function|resetCursorBlinkTimer
