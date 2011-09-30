@@ -8,4 +8,3 @@ DECL|function|testConstructors
 DECL|function|testForDefaultPrinter
 DECL|function|testForPaperSizes
 DECL|function|testForPrinters
-DECL|macro|ACCEPTABLE_WINDOWS
