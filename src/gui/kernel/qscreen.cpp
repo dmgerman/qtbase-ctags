@@ -8,7 +8,12 @@ DECL|function|availableVirtualSize
 DECL|function|depth
 DECL|function|geometry
 DECL|function|handle
+DECL|function|logicalDotsPerInchX
+DECL|function|logicalDotsPerInchY
 DECL|function|name
+DECL|function|physicalDotsPerInchX
+DECL|function|physicalDotsPerInchY
+DECL|function|physicalSize
 DECL|function|size
 DECL|function|virtualGeometry
 DECL|function|virtualSiblings

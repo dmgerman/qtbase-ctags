@@ -1,6 +1,7 @@
 DECL|class|QPlatformScreenPrivate
 DECL|function|QPlatformScreen
 DECL|function|grabWindow
+DECL|function|logicalDpi
 DECL|function|pageFlipper
 DECL|function|physicalSize
 DECL|function|platformScreenForWindow

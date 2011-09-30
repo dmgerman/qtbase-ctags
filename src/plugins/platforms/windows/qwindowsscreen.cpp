@@ -10,5 +10,4 @@ DECL|function|screenOf
 DECL|function|screens
 DECL|function|windowAt
 DECL|function|windowUnderMouse
-DECL|typedef|DPI
 DECL|typedef|WindowsScreenDataList
