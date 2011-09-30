@@ -1,7 +1,0 @@
-DECL|function|QWaylandEglIntegration
-DECL|function|createEglWindow
-DECL|function|createGLIntegration
-DECL|function|createPlatformOpenGLContext
-DECL|function|eglDisplay
-DECL|function|initialize
-DECL|function|~QWaylandEglIntegration

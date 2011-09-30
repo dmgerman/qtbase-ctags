@@ -1,5 +1,0 @@
-DECL|macro|QWAYLANDDND_H
-DECL|variable|QObject
-DECL|variable|QSocketNotifier
-DECL|variable|QWaylandDragOfferWrapper
-DECL|variable|QWaylandDragWrapper

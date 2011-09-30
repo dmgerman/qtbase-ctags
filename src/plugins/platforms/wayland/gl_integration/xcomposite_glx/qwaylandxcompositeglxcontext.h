@@ -1,3 +1,0 @@
-DECL|macro|QWAYLANDXCOMPOSITEGLXCONTEXT_H
-DECL|variable|QWaylandShmBuffer
-DECL|variable|QWaylandXCompositeGLXWindow

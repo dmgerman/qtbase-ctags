@@ -1,2 +1,0 @@
-DECL|macro|QWAYLANDEGLWINDOW_H
-DECL|variable|QWaylandGLContext

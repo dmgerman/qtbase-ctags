@@ -1,3 +1,0 @@
-DECL|variable|wl_xcomposite_events
-DECL|variable|wl_xcomposite_interface
-DECL|variable|wl_xcomposite_requests

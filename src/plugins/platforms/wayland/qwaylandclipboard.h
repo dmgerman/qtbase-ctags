@@ -1,4 +1,0 @@
-DECL|macro|QWAYLANDCLIPBOARD_H
-DECL|variable|QWaylandClipboardMimeData
-DECL|variable|QWaylandDisplay
-DECL|variable|QWaylandSelection

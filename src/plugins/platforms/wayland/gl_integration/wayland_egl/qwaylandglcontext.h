@@ -1,3 +1,0 @@
-DECL|macro|QWAYLANDGLCONTEXT_H
-DECL|variable|QWaylandGLWindowSurface
-DECL|variable|QWaylandWindow

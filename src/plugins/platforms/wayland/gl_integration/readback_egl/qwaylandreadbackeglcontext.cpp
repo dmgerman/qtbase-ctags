@@ -1,9 +1,0 @@
-DECL|function|QWaylandReadbackEglContext
-DECL|function|doneCurrent
-DECL|function|geometryChanged
-DECL|function|getProcAddress
-DECL|function|makeCurrent
-DECL|function|qgl_byteSwapImage
-DECL|function|swapBuffers
-DECL|function|windowFormat
-DECL|function|~QWaylandReadbackEglContext
