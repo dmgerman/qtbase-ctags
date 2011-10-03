@@ -6,6 +6,7 @@ DECL|function|MyClass
 DECL|function|beginEnd
 DECL|function|clear
 DECL|function|constFind
+DECL|function|const_shared_null
 DECL|function|contains
 DECL|function|count
 DECL|function|empty

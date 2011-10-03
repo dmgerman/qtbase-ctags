@@ -9,6 +9,7 @@ DECL|function|at
 DECL|function|capacity
 DECL|function|clear
 DECL|function|constData
+DECL|function|const_shared_null
 DECL|function|constructors
 DECL|function|contains
 DECL|function|count

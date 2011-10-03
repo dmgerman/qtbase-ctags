@@ -2,6 +2,7 @@ DECL|class|tst_QList
 DECL|function|append
 DECL|function|at
 DECL|function|begin
+DECL|function|const_shared_null
 DECL|function|contains
 DECL|function|count
 DECL|function|empty

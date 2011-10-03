@@ -11,6 +11,7 @@ DECL|function|clear
 DECL|function|compare
 DECL|function|compare2
 DECL|function|constFind
+DECL|function|const_shared_null
 DECL|function|contains
 DECL|function|count
 DECL|function|dont_need_default_constructor
