@@ -100,6 +100,8 @@ DECL|function|getFromHttpIntoBuffer_data
 DECL|function|getFromHttp_data
 DECL|function|getFromUnreachableIp
 DECL|function|gotError
+DECL|function|headFromHttp
+DECL|function|headFromHttp_data
 DECL|function|httpAbort
 DECL|function|httpCanReadLine
 DECL|function|httpConnectionCount
