@@ -20,6 +20,7 @@ DECL|function|characterRect
 DECL|function|child
 DECL|function|child
 DECL|function|child
+DECL|function|child
 DECL|function|childAt
 DECL|function|childAt
 DECL|function|childAt
@@ -70,7 +71,6 @@ DECL|function|mainWindow
 DECL|function|mdiArea
 DECL|function|mdiAreaNavigate
 DECL|function|mdiSubWindow
-DECL|function|navigate
 DECL|function|navigate
 DECL|function|navigate
 DECL|function|navigate
