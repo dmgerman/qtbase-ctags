@@ -41,6 +41,7 @@ DECL|function|handleMotionNotifyEvent
 DECL|function|handleMouseEvent
 DECL|function|handleUnmapNotifyEvent
 DECL|function|hide
+DECL|function|imageFormatForDepth
 DECL|function|isTransient
 DECL|function|lower
 DECL|function|printNetWmState
