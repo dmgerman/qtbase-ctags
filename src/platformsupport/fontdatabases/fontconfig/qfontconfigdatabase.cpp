@@ -10,6 +10,7 @@ DECL|function|getFcFamilyForStyleHint
 DECL|function|populateFontDatabase
 DECL|function|queryFont
 DECL|function|requiresOpenType
+DECL|function|resolveFontFamilyAlias
 DECL|function|scriptRequiresOpenType
 DECL|macro|JapaneseCsbBit
 DECL|macro|KoreanCsbBit

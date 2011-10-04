@@ -16,6 +16,7 @@ DECL|function|populateFontDatabase
 DECL|function|registerFont
 DECL|function|registerQPF2Font
 DECL|function|releaseHandle
+DECL|function|resolveFontFamilyAlias
 DECL|function|setSupported
 DECL|function|supported
 DECL|function|~QSupportedWritingSystems
