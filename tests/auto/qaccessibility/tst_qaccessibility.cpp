@@ -27,7 +27,6 @@ DECL|function|data
 DECL|function|deletedWidget
 DECL|function|dialTest
 DECL|function|dialogButtonBoxTest
-DECL|function|doAction
 DECL|function|dockWidgetTest
 DECL|function|doubleSpinBoxTest
 DECL|function|eventName
