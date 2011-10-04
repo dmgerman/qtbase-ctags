@@ -33,7 +33,6 @@ DECL|function|testDefaultButton_data
 DECL|function|testDelete
 DECL|function|testMultipleAdd
 DECL|function|testRemove
-DECL|function|testS60SoftKeys
 DECL|function|testSignalOrder
 DECL|function|testSignals
 DECL|function|testSignals_data
