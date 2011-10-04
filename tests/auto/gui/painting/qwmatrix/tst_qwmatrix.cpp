@@ -8,8 +8,6 @@ DECL|function|mapRect_data
 DECL|function|mapToPolygon
 DECL|function|mapToPolygon_data
 DECL|function|mapping_data
-DECL|function|operator_star_qrect
-DECL|function|operator_star_qrect_data
 DECL|function|operator_star_qwmatrix
 DECL|function|scale
 DECL|function|translate
