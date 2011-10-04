@@ -31,7 +31,6 @@ DECL|function|testMotifStyle
 DECL|function|testPainting
 DECL|function|testPlastiqueStyle
 DECL|function|testProxyStyle
-DECL|function|testS60Style
 DECL|function|testScrollBarSubControls
 DECL|function|testStyleFactory
 DECL|function|testWindowsCEStyle

@@ -39,13 +39,11 @@ DECL|function|ColorWidget
 DECL|function|Composite
 DECL|function|Container
 DECL|function|ContentsPropagationWidget
-DECL|function|ContextPane
 DECL|function|CustomWidget
 DECL|function|DestroyedSlotChecker
 DECL|function|EventRecorder
 DECL|function|EventSpy
 DECL|function|GDIWidget
-DECL|function|GetStatusPaneControl
 DECL|function|MaskResizeTestWidget
 DECL|function|MaskSetWidget
 DECL|function|MaskedPainter
@@ -62,7 +60,6 @@ DECL|function|ShowHideShowWidget
 DECL|function|SiblingDeleter
 DECL|function|StaticWidget
 DECL|function|TestLayout
-DECL|function|TitlePane
 DECL|function|TopLevelFocusCheck
 DECL|function|UpdateWidget
 DECL|function|Widget
