@@ -13,8 +13,8 @@ DECL|function|handleMapEvent
 DECL|function|handleMouseEvent
 DECL|function|handleMouseEvent
 DECL|function|handleScreenAvailableGeometryChange
-DECL|function|handleScreenCountChange
 DECL|function|handleScreenGeometryChange
+DECL|function|handleScreenOrientationChange
 DECL|function|handleSynchronousExposeEvent
 DECL|function|handleSynchronousGeometryChange
 DECL|function|handleTouchEvent

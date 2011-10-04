@@ -35,6 +35,7 @@ DECL|function|mouseMoveEvent
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|moveEvent
+DECL|function|orientation
 DECL|function|parent
 DECL|function|qt_window_private
 DECL|function|raise
@@ -52,6 +53,7 @@ DECL|function|setMaximumSize
 DECL|function|setMinimumSize
 DECL|function|setMouseGrabEnabled
 DECL|function|setOpacity
+DECL|function|setOrientation
 DECL|function|setParent
 DECL|function|setScreen
 DECL|function|setSizeIncrement

@@ -13,6 +13,7 @@ DECL|function|setGeometry
 DECL|function|setKeyboardGrabEnabled
 DECL|function|setMouseGrabEnabled
 DECL|function|setOpacity
+DECL|function|setOrientation
 DECL|function|setParent
 DECL|function|setVisible
 DECL|function|setWindowFlags
