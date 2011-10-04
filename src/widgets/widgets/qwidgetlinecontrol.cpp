@@ -5,6 +5,7 @@ DECL|function|advanceToEnabledItem
 DECL|function|backspace
 DECL|function|clear
 DECL|function|clearString
+DECL|function|commitPreedit
 DECL|function|complete
 DECL|function|copy
 DECL|function|cursorRect
