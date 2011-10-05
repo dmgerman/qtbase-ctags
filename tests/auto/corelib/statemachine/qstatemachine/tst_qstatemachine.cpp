@@ -73,6 +73,7 @@ DECL|function|eventTypeReceived
 DECL|function|globalRestorePolicySetToDontRestore
 DECL|function|globalRestorePolicySetToRestore
 DECL|function|goToState
+DECL|function|goToStateFromSourceWithTransition
 DECL|function|graphicsSceneEventTransitions
 DECL|function|historyStateAfterRestart
 DECL|function|historyStateAsInitialState
