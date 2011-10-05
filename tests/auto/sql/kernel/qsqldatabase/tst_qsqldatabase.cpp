@@ -116,7 +116,6 @@ DECL|function|tst_QSqlDatabase
 DECL|function|whitespaceInIdentifiers
 DECL|function|whitespaceInIdentifiers_data
 DECL|function|~tst_QSqlDatabase
-DECL|macro|NODATABASE_SKIP
 DECL|member|dbs
 DECL|member|nullable
 DECL|member|type
