@@ -30,5 +30,4 @@ DECL|member|iaps
 DECL|member|icd_stub
 DECL|member|inProcessSessionManagementCount
 DECL|member|manager
-DECL|member|testsToRun
 DECL|variable|Type
