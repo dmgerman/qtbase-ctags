@@ -18,4 +18,3 @@ DECL|typedef|getnameinfoProto
 DECL|variable|local_freeaddrinfo
 DECL|variable|local_getaddrinfo
 DECL|variable|local_getnameinfo
-DECL|variable|qPrivCEMutex
