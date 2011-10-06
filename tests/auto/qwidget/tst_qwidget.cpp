@@ -320,6 +320,7 @@ DECL|macro|SET_SAFE_SIZE
 DECL|macro|SET_SAFE_SIZE
 DECL|macro|SPI_GETPLATFORMTYPE
 DECL|macro|VERIFY_COLOR
+DECL|macro|VERIFY_STATE
 DECL|macro|verify
 DECL|member|box
 DECL|member|button
