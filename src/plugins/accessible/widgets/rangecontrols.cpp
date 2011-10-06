@@ -7,13 +7,9 @@ DECL|function|QAccessibleSlider
 DECL|function|QAccessibleSpinBox
 DECL|function|abstractSlider
 DECL|function|abstractSpinBox
-DECL|function|actionText
 DECL|function|currentValue
 DECL|function|currentValue
-DECL|function|defaultAction
 DECL|function|dial
-DECL|function|doAction
-DECL|function|doAction
 DECL|function|doubleSpinBox
 DECL|function|invokeMethod
 DECL|function|invokeMethod

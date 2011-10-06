@@ -2,13 +2,9 @@ DECL|class|QAccessibleObjectPrivate
 DECL|function|QAccessibleApplication
 DECL|function|QAccessibleObject
 DECL|function|actionList
-DECL|function|actionText
-DECL|function|actionText
 DECL|function|child
 DECL|function|childAt
 DECL|function|childCount
-DECL|function|doAction
-DECL|function|doAction
 DECL|function|indexOfChild
 DECL|function|isValid
 DECL|function|navigate
@@ -21,9 +17,6 @@ DECL|function|setText
 DECL|function|state
 DECL|function|text
 DECL|function|topLevelObjects
-DECL|function|userActionCount
-DECL|function|userActionCount
 DECL|function|window
 DECL|function|~QAccessibleObject
 DECL|member|object
-DECL|variable|action_text

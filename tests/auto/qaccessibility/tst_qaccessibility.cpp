@@ -13,7 +13,7 @@ DECL|function|QtTestTableModel
 DECL|function|abstractScrollAreaTest
 DECL|function|accelerators
 DECL|function|accessibleName
-DECL|function|actionText
+DECL|function|actionTest
 DECL|function|applicationTest
 DECL|function|buttonTest
 DECL|function|calendarWidgetTest
@@ -73,7 +73,6 @@ DECL|function|textBrowserTest
 DECL|function|textEditTest
 DECL|function|treeWidgetTest
 DECL|function|tst_QAccessibility
-DECL|function|userActionCount
 DECL|function|verifyChild
 DECL|function|verifyHierarchy
 DECL|function|workspaceTest

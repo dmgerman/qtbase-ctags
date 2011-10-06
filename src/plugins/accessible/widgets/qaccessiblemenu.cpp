@@ -2,8 +2,7 @@ DECL|function|QAccessibleMenu
 DECL|function|QAccessibleMenuBar
 DECL|function|QAccessibleMenuItem
 DECL|function|action
-DECL|function|actionText
-DECL|function|actionText
+DECL|function|actionNames
 DECL|function|actionText
 DECL|function|child
 DECL|function|child
@@ -13,13 +12,12 @@ DECL|function|childAt
 DECL|function|childCount
 DECL|function|childCount
 DECL|function|childCount
-DECL|function|doAction
-DECL|function|doAction
 DECL|function|doAction
 DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|isValid
+DECL|function|keyBindingsForAction
 DECL|function|menu
 DECL|function|menuBar
 DECL|function|navigate
@@ -43,5 +41,4 @@ DECL|function|state
 DECL|function|text
 DECL|function|text
 DECL|function|text
-DECL|function|userActionCount
 DECL|function|~QAccessibleMenuItem

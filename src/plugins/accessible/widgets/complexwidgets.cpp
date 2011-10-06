@@ -13,9 +13,8 @@ DECL|function|abstractScrollArea
 DECL|function|accessibleAt
 DECL|function|accessibleChildren
 DECL|function|actionCount
-DECL|function|actionCount
-DECL|function|actionText
-DECL|function|actionText
+DECL|function|actionNames
+DECL|function|actionNames
 DECL|function|actionText
 DECL|function|caption
 DECL|function|cellAtIndex
@@ -49,8 +48,6 @@ DECL|function|current
 DECL|function|doAction
 DECL|function|doAction
 DECL|function|doAction
-DECL|function|doAction
-DECL|function|doAction
 DECL|function|elementType
 DECL|function|entryFromIndex
 DECL|function|header
@@ -75,15 +72,10 @@ DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValidChildRole
 DECL|function|itemView
-DECL|function|keyBindings
-DECL|function|keyBindings
-DECL|function|localizedDescription
-DECL|function|localizedDescription
-DECL|function|localizedName
-DECL|function|localizedName
+DECL|function|keyBindingsForAction
+DECL|function|keyBindingsForAction
+DECL|function|localizedActionDescription
 DECL|function|logicalFromChild
-DECL|function|name
-DECL|function|name
 DECL|function|navigate
 DECL|function|navigate
 DECL|function|navigate
@@ -140,7 +132,6 @@ DECL|function|toCursorAction
 DECL|function|treeLevel
 DECL|function|unselectColumn
 DECL|function|unselectRow
-DECL|function|userActionCount
 DECL|function|userActionCount
 DECL|function|verticalHeader
 DECL|function|verticalHeader

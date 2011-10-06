@@ -2,14 +2,12 @@ DECL|class|QACConnectionObject
 DECL|class|QAccessibleWidgetPrivate
 DECL|function|QAccessibleWidget
 DECL|function|QAccessibleWidgetPrivate
-DECL|function|actionText
 DECL|function|addControllingSignal
 DECL|function|buddyString
 DECL|function|child
 DECL|function|childAt
 DECL|function|childCount
 DECL|function|childWidgets
-DECL|function|doAction
 DECL|function|indexOfChild
 DECL|function|invokeMethod
 DECL|function|isAncestor
@@ -30,7 +28,6 @@ DECL|function|setHelp
 DECL|function|setValue
 DECL|function|state
 DECL|function|text
-DECL|function|userActionCount
 DECL|function|widget
 DECL|function|window
 DECL|function|~QAccessibleWidget
