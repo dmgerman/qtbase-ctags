@@ -1,0 +1,3 @@
+DECL|function|QColorToOLEColor
+DECL|function|QDateTimeToDATE
+DECL|function|QVariantToVARIANT
