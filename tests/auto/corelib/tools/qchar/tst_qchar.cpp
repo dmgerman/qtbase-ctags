@@ -18,6 +18,7 @@ DECL|function|isLetter_data
 DECL|function|isLower
 DECL|function|isPrint
 DECL|function|isSpace
+DECL|function|isSpaceSpecial
 DECL|function|isSpace_data
 DECL|function|isTitle
 DECL|function|isUpper
