@@ -7,7 +7,7 @@ DECL|function|MetaTypeTorturer
 DECL|function|QTBUG11316_registerStreamBuiltin
 DECL|function|RegUnreg
 DECL|function|RegUnreg
-DECL|function|construct
+DECL|function|create
 DECL|function|defined
 DECL|function|isRegistered
 DECL|function|isRegistered_data

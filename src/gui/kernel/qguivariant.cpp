@@ -9,8 +9,8 @@ DECL|function|streamDebug
 DECL|macro|Q_DECL_METATYPE_HELPER
 DECL|macro|Q_DECL_METATYPE_HELPER
 DECL|macro|Q_IMPL_METATYPE_HELPER
-DECL|member|constr
-DECL|member|destr
+DECL|member|creator
+DECL|member|deleter
 DECL|member|loadOp
 DECL|member|saveOp
 DECL|struct|QMetaTypeGuiHelper

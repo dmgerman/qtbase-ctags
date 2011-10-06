@@ -1,6 +1,6 @@
 DECL|class|QCustomTypeInfo
 DECL|function|QCustomTypeInfo
-DECL|function|construct
+DECL|function|create
 DECL|function|destroy
 DECL|function|isRegistered
 DECL|function|load
@@ -18,10 +18,10 @@ DECL|macro|NS
 DECL|macro|QT_ADD_STATIC_METATYPE
 DECL|macro|QT_NO_GEOM_VARIANT
 DECL|member|alias
-DECL|member|constr
-DECL|member|constr
-DECL|member|destr
-DECL|member|destr
+DECL|member|creator
+DECL|member|creator
+DECL|member|deleter
+DECL|member|deleter
 DECL|member|loadOp
 DECL|member|loadOp
 DECL|member|saveOp
