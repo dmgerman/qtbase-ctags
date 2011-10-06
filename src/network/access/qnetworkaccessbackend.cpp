@@ -46,4 +46,5 @@ DECL|function|~QNetworkAccessBackend
 DECL|function|~QNetworkAccessBackendFactory
 DECL|function|~QNetworkAccessBackendFactoryData
 DECL|member|mutex
-DECL|variable|factoryDataShutdown
+DECL|member|valid
+DECL|member|valid
