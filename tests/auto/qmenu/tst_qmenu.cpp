@@ -12,7 +12,6 @@ DECL|function|activateLastAction
 DECL|function|activeSubMenuPosition
 DECL|function|addActionsAndClear
 DECL|function|checkVisibility
-DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|createActions
@@ -46,7 +45,6 @@ DECL|function|task258920_mouseBorder
 DECL|function|tearOff
 DECL|function|tst_QMenu
 DECL|function|widgetActionFocus
-DECL|function|~tst_QMenu
 DECL|member|activated
 DECL|member|builtins
 DECL|member|dialogActions
