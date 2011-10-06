@@ -65,7 +65,6 @@ DECL|function|hitTest
 DECL|function|ignoreUnusedNavigationEvents
 DECL|function|indent
 DECL|function|init
-DECL|function|inputContext
 DECL|function|inputMethodEvent
 DECL|function|inputMethodQuery
 DECL|function|insertFromMimeData
