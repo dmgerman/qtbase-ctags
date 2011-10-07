@@ -71,6 +71,7 @@ DECL|function|insertFromMimeData
 DECL|function|insertHtml
 DECL|function|insertPlainText
 DECL|function|isDragEnabled
+DECL|function|isPreediting
 DECL|function|isWordSelectionEnabled
 DECL|function|keyPressEvent
 DECL|function|loadResource
