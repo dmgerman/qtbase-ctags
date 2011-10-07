@@ -39,6 +39,7 @@ DECL|function|handleLeaveNotifyEvent
 DECL|function|handleMapNotifyEvent
 DECL|function|handleMotionNotifyEvent
 DECL|function|handleMouseEvent
+DECL|function|handlePropertyNotifyEvent
 DECL|function|handleUnmapNotifyEvent
 DECL|function|hide
 DECL|function|imageFormatForDepth
