@@ -1,12 +1,10 @@
 DECL|class|tst_QCheckBox
-DECL|function|accel
 DECL|function|autoRepeat
 DECL|function|checkState
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clicked
 DECL|function|foregroundRole
-DECL|function|group
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|isChecked
@@ -22,7 +20,6 @@ DECL|function|onStateChanged
 DECL|function|onToggled
 DECL|function|pressed
 DECL|function|released
-DECL|function|setAccel
 DECL|function|setAutoRepeat
 DECL|function|setChecked
 DECL|function|setDown
