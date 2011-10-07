@@ -1,4 +1,4 @@
-DECL|macro|QBASICUNIXFONTDATABASE_H
+DECL|macro|QBASICFONTDATABASE_H
 DECL|member|fileName
 DECL|member|hintStyle
 DECL|member|indexValue

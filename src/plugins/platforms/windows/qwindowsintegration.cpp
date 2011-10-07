@@ -17,6 +17,7 @@ DECL|function|nativeInterface
 DECL|function|nativeResourceForBackingStore
 DECL|function|nativeResourceForWindow
 DECL|function|~QWindowsIntegration
+DECL|function|~QWindowsIntegrationPrivate
 DECL|member|m_accessibility
 DECL|member|m_clipboard
 DECL|member|m_context
