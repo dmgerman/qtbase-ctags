@@ -14,6 +14,7 @@ DECL|typedef|WindowMapper
 DECL|typedef|xcb_window_t
 DECL|variable|QAbstractEventDispatcher
 DECL|variable|QXcbClipboard
+DECL|variable|QXcbConnection
 DECL|variable|QXcbDrag
 DECL|variable|QXcbKeyboard
 DECL|variable|QXcbScreen
