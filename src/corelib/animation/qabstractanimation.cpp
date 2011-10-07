@@ -24,6 +24,7 @@ DECL|function|isRunning
 DECL|function|loopCount
 DECL|function|pause
 DECL|function|registerAnimation
+DECL|function|registerProfilerCallback
 DECL|function|registerRunningAnimation
 DECL|function|restartAnimationTimer
 DECL|function|resume
