@@ -75,6 +75,7 @@ DECL|function|~QXcbWindow
 DECL|macro|CHECK_WM_STATE
 DECL|macro|CHECK_WM_STATE
 DECL|macro|XCB_WM_STATE_ICONIC
+DECL|macro|XCB_WM_STATE_WITHDRAWN
 DECL|macro|XCOORD_MAX
 DECL|macro|class
 DECL|macro|class
