@@ -3,11 +3,13 @@ DECL|class|QAccessibleWidgetPrivate
 DECL|function|QAccessibleWidget
 DECL|function|QAccessibleWidgetPrivate
 DECL|function|addControllingSignal
+DECL|function|backgroundColor
 DECL|function|buddyString
 DECL|function|child
 DECL|function|childAt
 DECL|function|childCount
 DECL|function|childWidgets
+DECL|function|foregroundColor
 DECL|function|indexOfChild
 DECL|function|invokeMethod
 DECL|function|isAncestor
