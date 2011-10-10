@@ -3,6 +3,10 @@ DECL|function|constructCoreType
 DECL|function|constructCoreTypeCopy
 DECL|function|constructCoreTypeCopy_data
 DECL|function|constructCoreType_data
+DECL|function|constructInPlace
+DECL|function|constructInPlaceCopy
+DECL|function|constructInPlaceCopy_data
+DECL|function|constructInPlace_data
 DECL|function|isRegisteredBuiltin
 DECL|function|isRegisteredBuiltin_data
 DECL|function|isRegisteredCustom
