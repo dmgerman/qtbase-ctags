@@ -7,10 +7,13 @@ DECL|function|qUnregisterWidgetsVariant
 DECL|macro|Q_DECL_METATYPE_HELPER
 DECL|macro|Q_DECL_METATYPE_HELPER
 DECL|macro|Q_IMPL_METATYPE_HELPER
+DECL|member|constructor
 DECL|member|creator
 DECL|member|deleter
+DECL|member|destructor
 DECL|member|loadOp
 DECL|member|saveOp
+DECL|member|size
 DECL|struct|QMetaTypeGuiHelper
 DECL|variable|qVariantWidgetsHelper
 DECL|variable|widgets_handler
