@@ -2,6 +2,7 @@ DECL|class|QACConnectionObject
 DECL|class|QAccessibleWidgetPrivate
 DECL|function|QAccessibleWidget
 DECL|function|QAccessibleWidgetPrivate
+DECL|function|actionNames
 DECL|function|addControllingSignal
 DECL|function|backgroundColor
 DECL|function|buddyString
@@ -9,11 +10,13 @@ DECL|function|child
 DECL|function|childAt
 DECL|function|childCount
 DECL|function|childWidgets
+DECL|function|doAction
 DECL|function|foregroundColor
 DECL|function|indexOfChild
 DECL|function|invokeMethod
 DECL|function|isAncestor
 DECL|function|isSender
+DECL|function|keyBindingsForAction
 DECL|function|navigate
 DECL|function|parent
 DECL|function|parentObject

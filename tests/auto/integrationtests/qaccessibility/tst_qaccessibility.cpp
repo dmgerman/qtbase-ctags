@@ -47,6 +47,7 @@ DECL|function|menuTest
 DECL|function|navigateCovered
 DECL|function|navigateGeometric
 DECL|function|navigateHierarchy
+DECL|function|onClicked
 DECL|function|removeAllColumns
 DECL|function|removeAllRows
 DECL|function|removeLastColumn
@@ -82,6 +83,7 @@ DECL|macro|QSETCOMPARE
 DECL|macro|SPI_GETPLATFORMTYPE
 DECL|macro|interface
 DECL|member|clickCount
+DECL|member|click_count
 DECL|member|column_count
 DECL|member|row_count
 DECL|variable|Q_PI

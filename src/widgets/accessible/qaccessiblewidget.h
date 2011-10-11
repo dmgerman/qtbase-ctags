@@ -1,1 +1,2 @@
 DECL|macro|QACCESSIBLEWIDGET_H
+DECL|variable|QAccessibleObject
