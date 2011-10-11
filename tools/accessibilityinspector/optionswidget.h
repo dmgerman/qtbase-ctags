@@ -1,0 +1,1 @@
+DECL|macro|OPTIONSWIDGET_H

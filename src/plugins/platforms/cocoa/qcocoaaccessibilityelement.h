@@ -1,0 +1,3 @@
+DECL|macro|QCOCOAACCESIBILITYELEMENT_H
+DECL|variable|QCocoaAccessibleElement
+DECL|variable|anQAccessibleInterface

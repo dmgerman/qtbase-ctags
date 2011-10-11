@@ -1,0 +1,7 @@
+DECL|macro|ACCESSIBILITYINSPECTOR_H
+DECL|variable|AccessibilitySceneManager
+DECL|variable|MouseInterceptingGraphicsScene
+DECL|variable|OptionsWidget
+DECL|variable|QGraphicsScene
+DECL|variable|QGraphicsView
+DECL|variable|ScreenReader

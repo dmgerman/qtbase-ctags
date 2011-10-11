@@ -1,0 +1,11 @@
+DECL|function|AccessibilityInspector
+DECL|function|accessibilityUpdateHandler
+DECL|function|inspectWindow
+DECL|function|mouseDoubleClickEvent
+DECL|function|mousePressEvent
+DECL|function|saveWindowGeometry
+DECL|function|translateRole
+DECL|function|~AccessibilityInspector
+DECL|variable|previousUpdateHandler
+DECL|variable|sceneManager
+DECL|variable|updateHandlerRecursion
