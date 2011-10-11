@@ -1,6 +1,7 @@
 DECL|class|QEGLXcbPlatformContext
 DECL|function|QEGLXcbPlatformContext
 DECL|function|QXcbIntegration
+DECL|function|accessibility
 DECL|function|clipboard
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
