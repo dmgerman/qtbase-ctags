@@ -15,7 +15,9 @@ DECL|function|inputContext
 DECL|function|instance
 DECL|function|nativeInterface
 DECL|function|nativeResourceForBackingStore
+DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
+DECL|function|styleHint
 DECL|function|~QWindowsIntegration
 DECL|function|~QWindowsIntegrationPrivate
 DECL|member|m_accessibility

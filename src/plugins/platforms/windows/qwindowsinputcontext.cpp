@@ -4,6 +4,7 @@ DECL|enum|StandardFormat
 DECL|function|CompositionContext
 DECL|function|QWindowsInputContext
 DECL|function|composition
+DECL|function|cursorRectChanged
 DECL|function|debugComposition
 DECL|function|doneContext
 DECL|function|endComposition
@@ -16,7 +17,7 @@ DECL|function|initContext
 DECL|function|inputMethodQuery
 DECL|function|instance
 DECL|function|intermediateMarkup
-DECL|function|mouseHandler
+DECL|function|invokeAction
 DECL|function|reconvertString
 DECL|function|reset
 DECL|function|standardFormat

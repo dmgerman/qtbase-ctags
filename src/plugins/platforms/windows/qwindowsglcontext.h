@@ -1,5 +1,4 @@
 DECL|enumerator|QWindowsGLAccumBuffer
-DECL|enumerator|QWindowsGLDeprecatedFunctions
 DECL|enumerator|QWindowsGLDirectRendering
 DECL|enumerator|QWindowsGLOverlay
 DECL|enumerator|QWindowsGLRenderToPixmap
