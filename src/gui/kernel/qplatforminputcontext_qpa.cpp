@@ -1,12 +1,17 @@
 DECL|function|QPlatformInputContext
 DECL|function|commit
 DECL|function|emitAnimatingChanged
+DECL|function|emitInputPanelVisibleChanged
 DECL|function|emitKeyboardRectChanged
 DECL|function|filterEvent
+DECL|function|handlesInputPanelVisibility
+DECL|function|hideInputPanel
 DECL|function|invokeAction
 DECL|function|isAnimating
+DECL|function|isInputPanelVisible
 DECL|function|isValid
 DECL|function|keyboardRect
 DECL|function|reset
+DECL|function|showInputPanel
 DECL|function|update
 DECL|function|~QPlatformInputContext
