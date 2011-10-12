@@ -2,12 +2,11 @@ DECL|class|QShortcutMapPrivate
 DECL|function|QShortcutEntry
 DECL|function|QShortcutEntry
 DECL|function|QShortcutEntry
-DECL|function|QShortcutEntry
 DECL|function|QShortcutMap
 DECL|function|QShortcutMapPrivate
 DECL|function|addShortcut
 DECL|function|clearSequence
-DECL|function|correctContext
+DECL|function|correctActionContext
 DECL|function|correctContext
 DECL|function|correctGraphicsWidgetContext
 DECL|function|correctWidgetContext
@@ -20,6 +19,7 @@ DECL|function|matches
 DECL|function|matches
 DECL|function|nextState
 DECL|function|operator <
+DECL|function|qWidgetShortcutContextMatcher
 DECL|function|removeShortcut
 DECL|function|resetState
 DECL|function|setShortcutAutoRepeat
@@ -31,6 +31,7 @@ DECL|function|~QShortcutMap
 DECL|member|ambigCount
 DECL|member|autorepeat
 DECL|member|context
+DECL|member|contextMatcher
 DECL|member|currentId
 DECL|member|currentSequences
 DECL|member|currentState
