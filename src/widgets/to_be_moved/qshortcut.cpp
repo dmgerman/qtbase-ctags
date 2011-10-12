@@ -4,10 +4,14 @@ DECL|function|QShortcut
 DECL|function|QShortcutPrivate
 DECL|function|autoRepeat
 DECL|function|context
+DECL|function|correctActionContext
+DECL|function|correctGraphicsWidgetContext
+DECL|function|correctWidgetContext
 DECL|function|event
 DECL|function|id
 DECL|function|isEnabled
 DECL|function|key
+DECL|function|qWidgetShortcutContextMatcher
 DECL|function|redoGrab
 DECL|function|setAutoRepeat
 DECL|function|setContext

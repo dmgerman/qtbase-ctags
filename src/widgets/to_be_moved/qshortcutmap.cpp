@@ -6,10 +6,7 @@ DECL|function|QShortcutMap
 DECL|function|QShortcutMapPrivate
 DECL|function|addShortcut
 DECL|function|clearSequence
-DECL|function|correctActionContext
 DECL|function|correctContext
-DECL|function|correctGraphicsWidgetContext
-DECL|function|correctWidgetContext
 DECL|function|createNewSequences
 DECL|function|dispatchEvent
 DECL|function|dumpMap
@@ -19,7 +16,6 @@ DECL|function|matches
 DECL|function|matches
 DECL|function|nextState
 DECL|function|operator <
-DECL|function|qWidgetShortcutContextMatcher
 DECL|function|removeShortcut
 DECL|function|resetState
 DECL|function|setShortcutAutoRepeat
