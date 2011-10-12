@@ -141,6 +141,7 @@ DECL|function|~MyType
 DECL|macro|N
 DECL|macro|N
 DECL|macro|N
+DECL|macro|PLAY_WITH_VARIANT
 DECL|macro|Y
 DECL|macro|Y
 DECL|macro|Y
