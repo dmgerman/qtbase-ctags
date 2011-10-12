@@ -1,4 +1,6 @@
 DECL|class|tst_qvariant
+DECL|function|bigClassVariantCreation
+DECL|function|bigClassVariantSetValue
 DECL|function|createCoreType
 DECL|function|createCoreTypeCopy
 DECL|function|createCoreTypeCopy_data
@@ -16,6 +18,11 @@ DECL|function|rectVariantAssignment
 DECL|function|rectVariantCreation
 DECL|function|rectVariantSetValue
 DECL|function|rectVariantValue
+DECL|function|smallClassVariantCreation
+DECL|function|smallClassVariantSetValue
+DECL|function|stringListVariantAssignment
+DECL|function|stringListVariantCreation
+DECL|function|stringListVariantSetValue
 DECL|function|stringVariantAssignment
 DECL|function|stringVariantCreation
 DECL|function|stringVariantSetValue
@@ -23,5 +30,18 @@ DECL|function|stringVariantValue
 DECL|function|testBound
 DECL|function|variantAssignment
 DECL|function|variantCreation
+DECL|function|variantCreation
+DECL|function|variantCreation
 DECL|function|variantSetValue
 DECL|macro|ITERATION_COUNT
+DECL|member|b
+DECL|member|e
+DECL|member|i
+DECL|member|n
+DECL|member|o
+DECL|member|r
+DECL|member|s
+DECL|struct|BigClass
+DECL|struct|SmallClass
+DECL|variable|BigClass
+DECL|variable|SmallClass
