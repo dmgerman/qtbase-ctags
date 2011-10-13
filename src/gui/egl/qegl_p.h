@@ -1,5 +1,3 @@
-DECL|macro|Bool
-DECL|macro|CursorShape
 DECL|macro|EGLAPIENTRY
 DECL|macro|EGLNativeDisplayType
 DECL|macro|EGLNativePixmapType
@@ -9,19 +7,9 @@ DECL|macro|EGL_KHR_image_base
 DECL|macro|EGL_KHR_image_pixmap
 DECL|macro|EGL_NATIVE_PIXMAP_KHR
 DECL|macro|EGL_NO_IMAGE_KHR
-DECL|macro|FocusIn
-DECL|macro|FocusOut
-DECL|macro|FontChange
-DECL|macro|GrayScale
-DECL|macro|KeyPress
-DECL|macro|KeyRelease
-DECL|macro|None
 DECL|macro|QEGL_NATIVE_TYPES_DEFINED
 DECL|macro|QEGL_NO_CONFIG
 DECL|macro|QEGL_P_H
-DECL|macro|Status
-DECL|macro|Type
-DECL|macro|Unsorted
 DECL|typedef|EGLClientBuffer
 DECL|typedef|EGLImageKHR
 DECL|typedef|EGLNativeDisplayType

@@ -83,7 +83,6 @@ DECL|member|self
 DECL|member|window_list
 DECL|variable|copy_xpm
 DECL|variable|force_reverse
-DECL|variable|ignore_xpm
 DECL|variable|layout_direction
 DECL|variable|link_xpm
 DECL|variable|move_xpm

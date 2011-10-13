@@ -2,7 +2,6 @@ DECL|function|QFontDef
 DECL|function|operator
 DECL|function|operator
 DECL|macro|QFONT_P_H
-DECL|member|addStyle
 DECL|member|family
 DECL|member|fixedPitch
 DECL|member|fixedPitchComputed

@@ -183,6 +183,7 @@ DECL|member|pts
 DECL|member|rects
 DECL|member|scanline
 DECL|member|scanlines
+DECL|member|shared_empty
 DECL|member|x1
 DECL|member|x2
 DECL|member|ymax
@@ -203,3 +204,4 @@ DECL|typedef|OverlapFunc
 DECL|typedef|POINTBLOCK
 DECL|typedef|ScanLineList
 DECL|typedef|ScanLineListBlock
+DECL|variable|qrp

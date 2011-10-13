@@ -31,7 +31,6 @@ DECL|function|clearLineData
 DECL|function|direction
 DECL|function|elidedText
 DECL|function|embed
-DECL|function|enableHarfBuzz
 DECL|function|endOfLine
 DECL|function|findItem
 DECL|function|font
@@ -48,7 +47,6 @@ DECL|function|getClusterLength
 DECL|function|getSelectionBounds
 DECL|function|grow
 DECL|function|hasCaseChange
-DECL|function|heuristicSetGlyphAttributes
 DECL|function|indexAdditionalFormats
 DECL|function|init
 DECL|function|initWithScriptItem
@@ -80,7 +78,6 @@ DECL|function|setDefaultHeight
 DECL|function|shape
 DECL|function|shapeLine
 DECL|function|shapeText
-DECL|function|shapeTextWithCE
 DECL|function|shapeTextWithHarfbuzz
 DECL|function|skipBoundryNeutrals
 DECL|function|splitItem

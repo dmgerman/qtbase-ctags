@@ -42,7 +42,6 @@ DECL|function|drawCachedGlyphs
 DECL|function|drawEllipse
 DECL|function|drawEllipsePoints
 DECL|function|drawEllipse_midpoint_i
-DECL|function|drawGlyphsS60
 DECL|function|drawImage
 DECL|function|drawImage
 DECL|function|drawImage
@@ -75,7 +74,6 @@ DECL|function|generateGradientColorTable
 DECL|function|getBrushFunc
 DECL|function|getBrushFunc
 DECL|function|getBuffer
-DECL|function|getCGContext
 DECL|function|getDC
 DECL|function|getPenFunc
 DECL|function|init
@@ -118,7 +116,6 @@ DECL|function|releaseDC
 DECL|function|renderHintsChanged
 DECL|function|resetBuffer
 DECL|function|saveBuffer
-DECL|function|setCGContext
 DECL|function|setClipRect
 DECL|function|setClipRectInDeviceCoords
 DECL|function|setClipRegion

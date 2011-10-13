@@ -35,12 +35,10 @@ DECL|function|boundingBox
 DECL|function|canRender
 DECL|function|canRender
 DECL|function|cloneWithSize
-DECL|function|cmap
 DECL|function|collectSingleContour
 DECL|function|convertToPostscriptFontFamilyName
 DECL|function|descent
 DECL|function|descent
-DECL|function|doKerning
 DECL|function|doKerning
 DECL|function|doKerning
 DECL|function|draw

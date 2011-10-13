@@ -19,12 +19,10 @@ DECL|function|drawRects
 DECL|function|drawTextItem
 DECL|function|drawTiledPixmap
 DECL|function|font
-DECL|function|getDC
 DECL|function|paintDevice
 DECL|function|painter
 DECL|function|qt_draw_tile
 DECL|function|qt_fill_tile
-DECL|function|releaseDC
 DECL|function|renderFlags
 DECL|function|setPaintDevice
 DECL|function|setSystemClip

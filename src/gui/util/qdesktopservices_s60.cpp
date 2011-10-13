@@ -24,7 +24,6 @@ DECL|function|writableDataRoot
 DECL|function|writableExeDrive
 DECL|function|~QAutoClose
 DECL|function|~QS60DocumentHandler
-DECL|macro|USE_DOCUMENTHANDLER
 DECL|member|docHandler
 DECL|member|mPtr
 DECL|typedef|LocalizerFunc

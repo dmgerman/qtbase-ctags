@@ -8,4 +8,3 @@ DECL|variable|QScreenOrientationChangeEventPrivate
 DECL|variable|QScrollEventPrivate
 DECL|variable|QScrollPrepareEventPrivate
 DECL|variable|QTouchEventTouchPointPrivate
-DECL|variable|RFile

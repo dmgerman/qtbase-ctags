@@ -11,7 +11,6 @@ DECL|function|QDropEvent
 DECL|function|QExposeEvent
 DECL|function|QFileOpenEvent
 DECL|function|QFileOpenEvent
-DECL|function|QFileOpenEvent
 DECL|function|QFocusEvent
 DECL|function|QHelpEvent
 DECL|function|QHideEvent

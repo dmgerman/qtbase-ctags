@@ -14,7 +14,6 @@ DECL|function|cacheStatistics
 DECL|function|capitalization
 DECL|function|cleanup
 DECL|function|cleanup
-DECL|function|cleanupPrinterFonts
 DECL|function|clear
 DECL|function|decreaseCost
 DECL|function|detach
@@ -68,7 +67,6 @@ DECL|function|qt_defaultDpiX
 DECL|function|qt_defaultDpiY
 DECL|function|rawMode
 DECL|function|rawMode
-DECL|function|removeEngineForFont
 DECL|function|removeSubstitution
 DECL|function|resolve
 DECL|function|resolve
@@ -122,7 +120,6 @@ DECL|function|~QFontInfo
 DECL|function|~QFontPrivate
 DECL|macro|FC_DEBUG
 DECL|macro|FC_DEBUG
-DECL|macro|QT_FONT_ENGINE_FROM_DATA
 DECL|macro|QT_FONT_ENGINE_FROM_DATA
 DECL|member|min_cost
 DECL|typedef|QFontSubst
