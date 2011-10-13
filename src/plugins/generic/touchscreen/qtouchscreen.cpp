@@ -25,6 +25,7 @@ DECL|member|m_prevState
 DECL|member|m_slots
 DECL|member|m_state
 DECL|member|m_touchPoints
+DECL|member|maj
 DECL|member|primary
 DECL|member|q
 DECL|member|state
