@@ -14,11 +14,6 @@ DECL|function|qvariant_cast
 DECL|function|qvariant_cast_helper
 DECL|function|setValue
 DECL|macro|QVARIANT_H
-DECL|typedef|QString
-DECL|typedef|QString
-DECL|typedef|QVariantHash
-DECL|typedef|QVariantList
-DECL|typedef|QVariantMap
 DECL|variable|QDataStream
 DECL|variable|QDate
 DECL|variable|QDateTime

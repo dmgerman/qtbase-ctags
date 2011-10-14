@@ -20,6 +20,8 @@ DECL|function|typeName
 DECL|function|unregisterType
 DECL|macro|NS
 DECL|macro|QT_ADD_STATIC_METATYPE
+DECL|macro|QT_ADD_STATIC_METATYPE_ALIASES_ITER
+DECL|macro|QT_ADD_STATIC_METATYPE_HACKS_ITER
 DECL|macro|QT_NO_GEOM_VARIANT
 DECL|member|alias
 DECL|member|constructor

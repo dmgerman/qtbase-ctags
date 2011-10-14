@@ -3,6 +3,8 @@ DECL|class|MetaTypeTorturer
 DECL|class|RegUnreg
 DECL|class|tst_QMetaType
 DECL|enumerator|IsInitialized
+DECL|enumerator|Size
+DECL|enumerator|Size
 DECL|enumerator|V1
 DECL|enumerator|V2
 DECL|enumerator|V3
@@ -58,6 +60,9 @@ DECL|function|create
 DECL|function|create
 DECL|function|create
 DECL|function|create
+DECL|function|create
+DECL|function|create
+DECL|function|create
 DECL|function|createCopy
 DECL|function|createCopy_data
 DECL|function|create_data
@@ -74,8 +79,12 @@ DECL|function|setProp
 DECL|function|sizeOf
 DECL|function|sizeOf_data
 DECL|function|testConstructCopyHelper
+DECL|function|testConstructCopyHelper
+DECL|function|testConstructHelper
 DECL|function|testConstructHelper
 DECL|function|testCreateCopyHelper
+DECL|function|testCreateCopyHelper
+DECL|function|testCreateHelper
 DECL|function|testCreateHelper
 DECL|function|threadSafety
 DECL|function|tst_QMetaType
@@ -93,8 +102,6 @@ DECL|macro|DEFINE_META_ENUM_TO_TYPE
 DECL|macro|DEFINE_NON_INITIALIZED_DEFAULT_VALUE_TRAITS
 DECL|macro|DEFINE_NON_INITIALIZED_DEFAULT_VALUE_TRAITS
 DECL|macro|FOR_EACH_COMPLEX_CORE_METATYPE
-DECL|macro|FOR_EACH_COMPLEX_CORE_METATYPE2
-DECL|macro|FOR_EACH_COMPLEX_CORE_METATYPE2
 DECL|macro|FOR_EACH_CORE_METATYPE
 DECL|macro|FOR_EACH_PRIMITIVE_METATYPE
 DECL|macro|RETURN_CONSTRUCT_COPY_FUNCTION
@@ -105,6 +112,8 @@ DECL|macro|RETURN_CREATE_COPY_FUNCTION
 DECL|macro|RETURN_CREATE_COPY_FUNCTION
 DECL|macro|RETURN_CREATE_FUNCTION
 DECL|macro|RETURN_CREATE_FUNCTION
+DECL|macro|TYPENAME_DATA
+DECL|macro|TYPENAME_DATA_ALIAS
 DECL|member|d
 DECL|member|failureCount
 DECL|member|failureCount
@@ -115,11 +124,16 @@ DECL|member|t
 DECL|namespace|TestSpace
 DECL|struct|Bar
 DECL|struct|DefaultValueFactory
+DECL|struct|DefaultValueFactory
 DECL|struct|DefaultValueTraits
 DECL|struct|Foo
 DECL|struct|Foo
 DECL|struct|MetaEnumToType
 DECL|struct|RoundToNextHighestPowerOfTwo
+DECL|struct|SafeSizeOf
+DECL|struct|SafeSizeOf
+DECL|struct|TestValueFactory
+DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
@@ -160,5 +174,6 @@ DECL|struct|TestValueFactory
 DECL|struct|TypeAlignment
 DECL|struct|Whity
 DECL|typedef|CustomString
+DECL|typedef|Type
 DECL|typedef|Type
 DECL|typedef|TypeTestFunction
