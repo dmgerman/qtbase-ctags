@@ -397,6 +397,9 @@ DECL|macro|Q_SQL_EXPORT
 DECL|macro|Q_SQL_EXPORT
 DECL|macro|Q_SQL_EXPORT
 DECL|macro|Q_SQL_EXPORT
+DECL|macro|Q_STATIC_ASSERT
+DECL|macro|Q_STATIC_ASSERT_PRIVATE_JOIN
+DECL|macro|Q_STATIC_ASSERT_PRIVATE_JOIN_IMPL
 DECL|macro|Q_SVG_EXPORT
 DECL|macro|Q_SVG_EXPORT
 DECL|macro|Q_SVG_EXPORT
@@ -491,6 +494,7 @@ DECL|variable|QByteArray
 DECL|variable|QDataStream
 DECL|variable|QDebug
 DECL|variable|QNoDebug
+DECL|variable|QStaticAssertFailure
 DECL|variable|QString
 DECL|variable|QString
 DECL|variable|T
