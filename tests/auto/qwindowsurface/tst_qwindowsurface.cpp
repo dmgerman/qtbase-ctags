@@ -8,11 +8,10 @@ DECL|function|flush
 DECL|function|flushOutsidePaintEvent
 DECL|function|getSetWindowSurface
 DECL|function|grabWidget
+DECL|function|initTestCase
 DECL|function|paintDevice
 DECL|function|paintEvent
 DECL|function|reset
-DECL|function|tst_QWindowSurface
-DECL|function|~tst_QWindowSurface
 DECL|member|color
 DECL|member|image
 DECL|member|r
