@@ -1,11 +1,8 @@
 DECL|class|tst_QPrinter
 DECL|function|changingOutputFormat
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|computePageValue
 DECL|function|errorReporting
 DECL|function|getSetCheck
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|outputFormatFromSuffix
 DECL|function|printDialogCompleter
@@ -28,7 +25,5 @@ DECL|function|testPageSetupDialog
 DECL|function|testPageSize
 DECL|function|testPdfTitle
 DECL|function|testSetOptions
-DECL|function|tst_QPrinter
 DECL|function|valuePreservation
-DECL|function|~tst_QPrinter
 DECL|macro|MYCOMPARE
