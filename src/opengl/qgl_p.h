@@ -7,11 +7,6 @@ DECL|function|setMaxCost
 DECL|function|size
 DECL|macro|QGL_P_H
 DECL|macro|QT_GL_VERTEX_ARRAY_TRACKED_COUNT
-DECL|macro|old_qDebug
-DECL|macro|old_qDebug
-DECL|macro|qDebug
-DECL|macro|qDebug
-DECL|macro|qDebug
 DECL|member|group
 DECL|member|key
 DECL|struct|QGLTextureCacheKey
@@ -21,5 +16,4 @@ DECL|variable|QGLOverlayWidget
 DECL|variable|QGLTemporaryContextPrivate
 DECL|variable|QGLTexture
 DECL|variable|QGLTextureDestroyer
-DECL|variable|QMacWindowChangeEvent
 DECL|variable|QPixmap
