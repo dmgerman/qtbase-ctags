@@ -18,7 +18,6 @@ DECL|function|lookup_int_data
 DECL|function|tst_vector_vs_std
 DECL|function|~UseCases
 DECL|macro|LARGE_MAX_SIZE
-DECL|macro|LARGE_MAX_SIZE
 DECL|member|useCases_QVector_Large
 DECL|member|useCases_QVector_int
 DECL|member|useCases_stdvector_Large

@@ -7,4 +7,3 @@ DECL|function|updateClientProgress
 DECL|function|updateServerProgress
 DECL|variable|PayloadSize
 DECL|variable|TotalBytes
-DECL|variable|TotalBytes

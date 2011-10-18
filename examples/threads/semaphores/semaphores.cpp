@@ -6,6 +6,5 @@ DECL|function|run
 DECL|member|finish
 DECL|variable|BufferSize
 DECL|variable|DataSize
-DECL|variable|DataSize
 DECL|variable|buffer
 DECL|variable|usedBytes

@@ -1,9 +1,0 @@
-DECL|function|VibrationSurface
-DECL|function|applyIntensity
-DECL|function|getIntensity
-DECL|function|mouseMoveEvent
-DECL|function|mousePressEvent
-DECL|function|mouseReleaseEvent
-DECL|function|paintEvent
-DECL|variable|IntensityFactor
-DECL|variable|NumberOfLevels
