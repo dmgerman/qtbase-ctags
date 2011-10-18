@@ -8,6 +8,9 @@ DECL|class|QtTestCustomObject
 DECL|class|QtTestObject
 DECL|class|tst_QMetaObject
 DECL|enumerator|EnumType1
+DECL|enumerator|MyAnotherEnum1
+DECL|enumerator|MyAnotherEnum2
+DECL|enumerator|MyAnotherEnum3
 DECL|enumerator|MyEnum1
 DECL|enumerator|MyEnum2
 DECL|enumerator|MyEnum3
@@ -15,6 +18,7 @@ DECL|enumerator|MyFlag1
 DECL|enumerator|MyFlag2
 DECL|enumerator|MyFlag3
 DECL|enum|EnumType
+DECL|enum|MyAnotherEnum
 DECL|enum|MyEnum
 DECL|enum|MyFlag
 DECL|function|CTestObject
