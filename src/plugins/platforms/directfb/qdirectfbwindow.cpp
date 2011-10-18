@@ -2,6 +2,8 @@ DECL|function|QDirectFbWindow
 DECL|function|lower
 DECL|function|raise
 DECL|function|setGeometry
+DECL|function|setKeyboardGrabEnabled
+DECL|function|setMouseGrabEnabled
 DECL|function|setOpacity
 DECL|function|setVisible
 DECL|function|setWindowFlags
