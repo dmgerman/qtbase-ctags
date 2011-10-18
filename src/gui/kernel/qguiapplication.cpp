@@ -68,6 +68,7 @@ DECL|member|app_font
 DECL|member|app_pal
 DECL|member|buttons
 DECL|member|focus_window
+DECL|member|generic_plugin_list
 DECL|member|modifier_buttons
 DECL|member|mousePressButton
 DECL|member|mousePressTime
