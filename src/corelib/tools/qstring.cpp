@@ -49,7 +49,6 @@ DECL|function|fromRawData
 DECL|function|fromUcs4
 DECL|function|fromUtf16
 DECL|function|fromUtf8
-DECL|function|fromWCharArray
 DECL|function|getEscape
 DECL|function|grow
 DECL|function|indexOf
@@ -196,7 +195,6 @@ DECL|function|toUcs4_helper
 DECL|function|toUpper
 DECL|function|toUtf8
 DECL|function|toUtf8
-DECL|function|toWCharArray
 DECL|function|trimmed
 DECL|function|truncate
 DECL|function|ucstrcmp
