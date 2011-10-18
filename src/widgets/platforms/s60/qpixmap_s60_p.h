@@ -1,5 +1,0 @@
-DECL|macro|QPIXMAPDATA_S60_P_H
-DECL|variable|CFbsBitGc
-DECL|variable|CFbsBitmap
-DECL|variable|CFbsBitmapDevice
-DECL|variable|QSymbianBitmapDataAccess

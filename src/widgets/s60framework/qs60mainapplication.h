@@ -1,4 +1,0 @@
-DECL|function|QT_MODULE
-DECL|macro|QS60MAINAPPLICATION_H
-DECL|typedef|QS60MainApplicationBase
-DECL|typedef|QS60MainApplicationBase

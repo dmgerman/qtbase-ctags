@@ -1,9 +1,0 @@
-DECL|function|AppDllUid
-DECL|function|CreateDocumentL
-DECL|function|NewAppServerL
-DECL|function|OpenIniFileLC
-DECL|function|PreDocConstructL
-DECL|function|QS60MainApplication
-DECL|function|ResourceFileName
-DECL|function|newS60Application
-DECL|function|~QS60MainApplication

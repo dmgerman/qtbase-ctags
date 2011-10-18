@@ -1,4 +1,0 @@
-DECL|macro|QS60MAINDOCUMENT_H
-DECL|typedef|QS60MainDocumentBase
-DECL|typedef|QS60MainDocumentBase
-DECL|variable|CEikApplication

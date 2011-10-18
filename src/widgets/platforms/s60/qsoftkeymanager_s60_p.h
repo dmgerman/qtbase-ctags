@@ -1,3 +1,0 @@
-DECL|macro|QSOFTKEYMANAGER_S60_P_H
-DECL|variable|CEikButtonGroupContainer
-DECL|variable|QAction
