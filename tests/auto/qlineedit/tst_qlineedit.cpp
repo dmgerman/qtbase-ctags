@@ -22,7 +22,6 @@ DECL|function|QTBUG5786_undoPaste
 DECL|function|QTBUG697_paletteCurrentColorGroup
 DECL|function|StyleOptionTestStyle
 DECL|function|ValidatorWithFixup
-DECL|function|alignment
 DECL|function|bidiLogicalMovement
 DECL|function|bidiLogicalMovement_data
 DECL|function|bidiVisualMovement
@@ -32,8 +31,6 @@ DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|clearInputMask
-DECL|function|clearValidator
-DECL|function|copy
 DECL|function|cursor
 DECL|function|cursorPosition
 DECL|function|cursorPositionChanged
@@ -43,7 +40,6 @@ DECL|function|deleteSelectedText
 DECL|function|displayText
 DECL|function|displayText_data
 DECL|function|drawPrimitive
-DECL|function|echoMode
 DECL|function|editInvalidText
 DECL|function|edited
 DECL|function|editingFinished
@@ -57,7 +53,6 @@ DECL|function|getSetCheck
 DECL|function|hasAcceptableInputMask
 DECL|function|hasAcceptableInputMask_data
 DECL|function|hasAcceptableInputValidator
-DECL|function|hasSelectedText
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|inlineCompletion
@@ -69,8 +64,6 @@ DECL|function|inputMethodSelection
 DECL|function|insert
 DECL|function|isModified
 DECL|function|isReadOnly
-DECL|function|isRedoAvailable
-DECL|function|isUndoAvailable
 DECL|function|keepSelectionOnTabFocusIn
 DECL|function|keyPressEvent
 DECL|function|keypress_inputMask
@@ -92,7 +85,6 @@ DECL|function|onTextChanged
 DECL|function|onTextEdited
 DECL|function|passwordEchoDelay
 DECL|function|passwordEchoOnEdit
-DECL|function|paste
 DECL|function|psKeyClick
 DECL|function|psKeyClick
 DECL|function|readOnlyStyleOption
@@ -106,12 +98,8 @@ DECL|function|selectAndCursorPosition
 DECL|function|selectedText
 DECL|function|setAlignment
 DECL|function|setAlignment_data
-DECL|function|setEchoMode
-DECL|function|setEdited
 DECL|function|setInputMask
 DECL|function|setInputMask_data
-DECL|function|setMaxLength
-DECL|function|setReadOnly
 DECL|function|setReadOnly
 DECL|function|setSelection
 DECL|function|setSelection_data
@@ -152,7 +140,6 @@ DECL|function|upperAndLowercase
 DECL|function|validate
 DECL|function|validate
 DECL|function|validateOnFocusOut
-DECL|function|validator
 DECL|function|~tst_QLineEdit
 DECL|macro|NORMAL
 DECL|macro|NO_PIXMAP_TESTS

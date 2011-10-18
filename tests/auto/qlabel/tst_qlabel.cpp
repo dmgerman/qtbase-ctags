@@ -1,7 +1,6 @@
 DECL|class|Widget
 DECL|class|tst_QLabel
 DECL|function|Widget
-DECL|function|buddy
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clear
@@ -17,7 +16,6 @@ DECL|function|mnemonic
 DECL|function|mnemonic_data
 DECL|function|selection
 DECL|function|setBuddy
-DECL|function|setFont
 DECL|function|setNum
 DECL|function|setText
 DECL|function|setTextFormat
@@ -26,8 +24,6 @@ DECL|function|sizeHint
 DECL|function|task190318_sizes
 DECL|function|task226479_movieResize
 DECL|function|taskQTBUG_7902_contextMenuCrash
-DECL|function|text
-DECL|function|textFormat
 DECL|function|tst_QLabel
 DECL|function|unicodeText
 DECL|function|unicodeText_data

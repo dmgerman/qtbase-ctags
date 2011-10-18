@@ -48,9 +48,7 @@ DECL|function|join
 DECL|function|msleep
 DECL|function|nativeThreadAdoption
 DECL|function|noop
-DECL|function|priority
 DECL|function|quit
-DECL|function|run
 DECL|function|run
 DECL|function|run
 DECL|function|run
@@ -63,14 +61,12 @@ DECL|function|runWin
 DECL|function|setPriority
 DECL|function|setProp
 DECL|function|setStackSize
-DECL|function|setTerminationEnabled
 DECL|function|setWaitForStop
 DECL|function|sleep
 DECL|function|slot
 DECL|function|slot
 DECL|function|slot
 DECL|function|slowSlot
-DECL|function|stackSize
 DECL|function|start
 DECL|function|start
 DECL|function|startAndQuitCustomEventLoop
@@ -84,7 +80,6 @@ DECL|function|terminated
 DECL|function|testNativeThreadAdoption
 DECL|function|tst_QThread
 DECL|function|usleep
-DECL|function|wait
 DECL|function|wait2
 DECL|function|wait3_slowDestructor
 DECL|function|wasActivated

@@ -23,7 +23,6 @@ DECL|function|setSizes_data
 DECL|function|setStretchFactor
 DECL|function|setStretchFactor_data
 DECL|function|sizeHint
-DECL|function|sizes
 DECL|function|task169702_sizes
 DECL|function|task187373_addAbstractScrollAreas
 DECL|function|task187373_addAbstractScrollAreas_data

@@ -18,5 +18,4 @@ DECL|function|setValue
 DECL|function|setValue_data
 DECL|function|tst_QSqlField
 DECL|function|type
-DECL|function|value
 DECL|function|~tst_QSqlField

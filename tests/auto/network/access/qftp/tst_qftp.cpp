@@ -56,12 +56,10 @@ DECL|function|put_data
 DECL|function|qtbug7359Crash
 DECL|function|queueMoreCommandsInDoneSlot
 DECL|function|readyRead
-DECL|function|remove
 DECL|function|rename
 DECL|function|renameCleanup
 DECL|function|renameInit
 DECL|function|rename_data
-DECL|function|rmdir
 DECL|function|stateChanged
 DECL|function|tst_QFtp
 DECL|function|~tst_QFtp

@@ -1,19 +1,13 @@
 DECL|class|tst_QDockWidget
 DECL|function|allowedAreas
-DECL|function|allowedAreasChanged
 DECL|function|dockLocationChanged
 DECL|function|features
-DECL|function|featuresChanged
 DECL|function|getSetCheck
 DECL|function|hasFeature
-DECL|function|isAreaAllowed
 DECL|function|restoreStateOfFloating
-DECL|function|setAllowedAreas
 DECL|function|setFeature
-DECL|function|setFeatures
 DECL|function|setFloating
 DECL|function|setTitleBarWidget
-DECL|function|setWidget
 DECL|function|task165177_deleteFocusWidget
 DECL|function|task169808_setFloating
 DECL|function|task237438_setFloatingCrash
@@ -23,7 +17,6 @@ DECL|function|taskQTBUG_1665_closableChanged
 DECL|function|taskQTBUG_9758_undockedGeometry
 DECL|function|titleBarDoubleClick
 DECL|function|toggleViewAction
-DECL|function|topLevelChanged
 DECL|function|tst_QDockWidget
 DECL|function|visibilityChanged
 DECL|function|widget

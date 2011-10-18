@@ -121,8 +121,6 @@ DECL|function|setTopRight
 DECL|function|setTop_data
 DECL|function|setWidthHeight
 DECL|function|setWidthHeight_data
-DECL|function|setX
-DECL|function|setY
 DECL|function|smallRects
 DECL|function|testAdjust
 DECL|function|testAdjust_data

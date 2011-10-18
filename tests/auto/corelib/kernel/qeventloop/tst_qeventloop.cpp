@@ -30,7 +30,6 @@ DECL|function|exec
 DECL|function|exec
 DECL|function|execAfterExit
 DECL|function|exit
-DECL|function|exit
 DECL|function|exit1
 DECL|function|exit2
 DECL|function|init

@@ -6,9 +6,7 @@ DECL|class|tst_QSemaphore
 DECL|function|ThreadN
 DECL|function|ThreadOne
 DECL|function|acquire
-DECL|function|available
 DECL|function|producerConsumer
-DECL|function|release
 DECL|function|run
 DECL|function|run
 DECL|function|run

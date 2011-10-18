@@ -8,7 +8,6 @@ DECL|class|ThreadRecorderTask
 DECL|class|tst_QThreadPool
 DECL|function|ExpiryTimeoutTask
 DECL|function|FunctionPointerTask
-DECL|function|activeThreadCount
 DECL|function|createTask
 DECL|function|createThreadRunFunction
 DECL|function|destroyingWaitsForTasksToFinish
@@ -16,7 +15,6 @@ DECL|function|destruction
 DECL|function|emptyFunct
 DECL|function|exceptions
 DECL|function|expiryTimeout
-DECL|function|maxThreadCount
 DECL|function|noSleepTestFunction
 DECL|function|noSleepTestFunctionMutex
 DECL|function|releaseThread
