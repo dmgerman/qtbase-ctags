@@ -1,0 +1,2 @@
+DECL|function|ComMeegoInputmethodUiserver1Interface
+DECL|function|~ComMeegoInputmethodUiserver1Interface
