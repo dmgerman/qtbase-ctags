@@ -14,7 +14,6 @@ DECL|function|hasTouchSupport
 DECL|function|init
 DECL|function|initTouch
 DECL|function|instance
-DECL|function|isOpenGL
 DECL|function|keyGrabber
 DECL|function|mimeConverter
 DECL|function|qWindowsWndProc
@@ -36,7 +35,6 @@ DECL|member|m_creationContext
 DECL|member|m_defaultDPI
 DECL|member|m_displayContext
 DECL|member|m_instance
-DECL|member|m_isOpenGL
 DECL|member|m_keyMapper
 DECL|member|m_mimeConverter
 DECL|member|m_mouseHandler

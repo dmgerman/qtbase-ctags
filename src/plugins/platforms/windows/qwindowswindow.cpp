@@ -1,3 +1,5 @@
+DECL|enumerator|ForceChild
+DECL|enum|Flags
 DECL|function|QWindowCreationContext
 DECL|function|QWindowsGeometryHint
 DECL|function|QWindowsWindow
@@ -11,6 +13,7 @@ DECL|function|childAtScreenPoint
 DECL|function|clientSize
 DECL|function|create
 DECL|function|create
+DECL|function|debugWinExStyle
 DECL|function|debugWinStyle
 DECL|function|debugWindowFlags
 DECL|function|debugWindowStates
