@@ -3,6 +3,7 @@ DECL|function|addToList
 DECL|function|cancelDownload
 DECL|function|cdToParent
 DECL|function|connectOrDisconnect
+DECL|function|connectToFtp
 DECL|function|downloadFile
 DECL|function|enableConnectButton
 DECL|function|enableDownloadButton
