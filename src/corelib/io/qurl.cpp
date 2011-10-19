@@ -70,6 +70,7 @@ DECL|function|setPath
 DECL|function|setPort
 DECL|function|setQuery
 DECL|function|setQuery
+DECL|function|setQuery
 DECL|function|setScheme
 DECL|function|setScheme
 DECL|function|setUrl
