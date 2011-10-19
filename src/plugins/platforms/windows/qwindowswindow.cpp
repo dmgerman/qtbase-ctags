@@ -3,6 +3,7 @@ DECL|enum|Flags
 DECL|function|QWindowCreationContext
 DECL|function|QWindowsGeometryHint
 DECL|function|QWindowsWindow
+DECL|function|RECTfromQRect
 DECL|function|WindowCreationData
 DECL|function|applyCursor
 DECL|function|applyToMinMaxInfo
