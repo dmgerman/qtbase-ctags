@@ -22,4 +22,6 @@ DECL|function|setPeerVerifyDepth
 DECL|function|setPeerVerifyMode
 DECL|function|setPrivateKey
 DECL|function|setProtocol
+DECL|function|setSslOption
+DECL|function|testSslOption
 DECL|function|~QSslConfiguration
