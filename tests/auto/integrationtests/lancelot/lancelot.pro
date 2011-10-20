@@ -7,7 +7,7 @@ SOURCES += tst_lancelot.cpp \
 HEADERS += paintcommands.h
 RESOURCES += images.qrc
 
-include($$PWD/../../baselineserver/shared/qbaselinetest.pri)
+include($$PWD/../../../baselineserver/shared/qbaselinetest.pri)
 
 !wince*:DEFINES += SRCDIR=\\\"$$PWD\\\"
 linux-g++-maemo:DEFINES += USE_RUNTIME_DIR
