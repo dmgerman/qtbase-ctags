@@ -67,6 +67,7 @@ DECL|function|inlineAttributeSymmetry
 DECL|function|inlineAttributeSymmetryWithSelection
 DECL|function|inlineAttributesOnInsert
 DECL|function|inlineAttributesOnSelection
+DECL|function|inputMethodQuery
 DECL|function|inputMethodSelection
 DECL|function|insertFromMimeData
 DECL|function|layoutingLoop
