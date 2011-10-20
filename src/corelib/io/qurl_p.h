@@ -1,11 +1,4 @@
 DECL|enumerator|NormalizeAce
 DECL|enumerator|ToAceOnly
 DECL|enum|AceOperation
-DECL|function|QUrlErrorInfo
-DECL|function|setParams
 DECL|macro|QURL_P_H
-DECL|member|_expected
-DECL|member|_found
-DECL|member|_message
-DECL|member|_source
-DECL|struct|QUrlErrorInfo
