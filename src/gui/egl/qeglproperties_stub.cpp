@@ -1,6 +1,5 @@
 DECL|function|QEglProperties
 DECL|function|QEglProperties
-DECL|function|addTag
 DECL|function|noegl
 DECL|function|reduceConfiguration
 DECL|function|removeValue

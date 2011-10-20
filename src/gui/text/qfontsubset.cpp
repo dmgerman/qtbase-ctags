@@ -18,7 +18,6 @@ DECL|function|checksum
 DECL|function|convertPath
 DECL|function|convertToRelative
 DECL|function|createToUnicodeMap
-DECL|function|ft_face
 DECL|function|generateGlyph
 DECL|function|generateGlyphTables
 DECL|function|generateHead

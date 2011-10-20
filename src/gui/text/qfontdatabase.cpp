@@ -106,7 +106,6 @@ DECL|member|foundries
 DECL|member|foundry
 DECL|member|handle
 DECL|member|handle
-DECL|member|handle
 DECL|member|key
 DECL|member|memoryFont
 DECL|member|name
