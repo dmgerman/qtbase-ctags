@@ -23,7 +23,6 @@ DECL|function|autoMaximizeThreshold
 DECL|function|autoSipEnabled
 DECL|function|cancel
 DECL|function|cleanupMultitouch
-DECL|function|clipboard
 DECL|function|closeAllWindows
 DECL|function|colorSpec
 DECL|function|commitData
@@ -147,7 +146,6 @@ DECL|member|animate_toolbox
 DECL|member|animate_tooltip
 DECL|member|animate_ui
 DECL|member|app_cspec
-DECL|member|app_font
 DECL|member|app_icon
 DECL|member|app_strut
 DECL|member|app_style
@@ -165,7 +163,6 @@ DECL|member|load_testability
 DECL|member|main_widget
 DECL|member|modifier_buttons
 DECL|member|mouse_buttons
-DECL|member|navigationMode
 DECL|member|navigationMode
 DECL|member|obey_desktop_settings
 DECL|member|oldEditFocus
@@ -189,7 +186,6 @@ DECL|variable|aargv
 DECL|variable|app_do_modal
 DECL|variable|qt_antialiasing_threshold
 DECL|variable|qt_appType
-DECL|variable|qt_clipboard
 DECL|variable|qt_desktopWidget
 DECL|variable|qt_in_tab_key_event
 DECL|variable|qt_is_gui_used

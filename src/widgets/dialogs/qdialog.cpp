@@ -31,6 +31,5 @@ DECL|function|setVisible
 DECL|function|showEvent
 DECL|function|showExtension
 DECL|function|sizeHint
-DECL|function|symbianAdjustedPosition
 DECL|function|~QDialog
 DECL|macro|SPI_GETSNAPTODEFBUTTON

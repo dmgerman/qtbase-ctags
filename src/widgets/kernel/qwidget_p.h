@@ -1,9 +1,3 @@
-DECL|enumerator|Blit
-DECL|enumerator|BlitWriteAlpha
-DECL|enumerator|Default
-DECL|enumerator|Disable
-DECL|enumerator|ZeroFill
-DECL|enum|NativePaintMode
 DECL|function|QWidgetPaintContext
 DECL|function|bypassGraphicsProxyWidget
 DECL|function|extraData
@@ -14,7 +8,6 @@ DECL|function|setSharedPainter
 DECL|function|sharedPainter
 DECL|function|topData
 DECL|macro|QWIDGET_P_H
-DECL|member|activated
 DECL|member|autoFillBackground
 DECL|member|backingStore
 DECL|member|backingStore
@@ -44,7 +37,6 @@ DECL|member|icon
 DECL|member|iconPixmap
 DECL|member|iconText
 DECL|member|imageMask
-DECL|member|inExpose
 DECL|member|inRenderWithPainter
 DECL|member|inRepaint
 DECL|member|inTopLevelResize
@@ -59,8 +51,6 @@ DECL|member|maxw
 DECL|member|minh
 DECL|member|minw
 DECL|member|nativeChildrenForced
-DECL|member|nativePaintMode
-DECL|member|nativeWindowTransparencyEnabled
 DECL|member|newCounterValueHi
 DECL|member|newCounterValueLo
 DECL|member|normalGeometry
@@ -72,8 +62,6 @@ DECL|member|parentWinId
 DECL|member|pdev
 DECL|member|posFromMove
 DECL|member|proxyWidget
-DECL|member|qwsManager
-DECL|member|receiveNativePaintEvents
 DECL|member|resizer
 DECL|member|rgn
 DECL|member|role
@@ -104,15 +92,11 @@ DECL|member|xDndProxy
 DECL|struct|QTLWExtra
 DECL|struct|QWExtra
 DECL|struct|QWidgetPaintContext
-DECL|variable|CCoeControl
-DECL|variable|QCoreGraphicsPaintEnginePrivate
 DECL|variable|QGraphicsProxyWidget
 DECL|variable|QPaintEngine
 DECL|variable|QPixmap
 DECL|variable|QStyle
 DECL|variable|QUnifiedToolbarSurface
-DECL|variable|QWSManager
 DECL|variable|QWidgetBackingStore
 DECL|variable|QWidgetItemV2
 DECL|variable|QWidgetWindow
-DECL|variable|RDrawableWindow

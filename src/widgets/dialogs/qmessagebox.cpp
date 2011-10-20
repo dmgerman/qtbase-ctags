@@ -123,5 +123,4 @@ DECL|member|label
 DECL|member|memberToDisconnectOnClose
 DECL|member|receiverToDisconnectOnClose
 DECL|member|signalToDisconnectOnClose
-DECL|member|textBrowser
 DECL|member|textEdit

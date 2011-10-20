@@ -2,7 +2,6 @@ DECL|function|QWidget
 DECL|function|QWidget
 DECL|function|QWidgetBackingStoreTracker
 DECL|function|QWidgetPrivate
-DECL|function|_q_delayedDestroy
 DECL|function|_q_showIfNotHidden
 DECL|function|acceptDrops
 DECL|function|accessibleDescription
@@ -77,7 +76,6 @@ DECL|function|frameGeometry
 DECL|function|frameSize
 DECL|function|frameStrut
 DECL|function|getContentsMargins
-DECL|function|getDC
 DECL|function|getLayoutItemMargins
 DECL|function|getOpaqueChildren
 DECL|function|grab
@@ -85,7 +83,6 @@ DECL|function|grabGesture
 DECL|function|grabShortcut
 DECL|function|graphicsEffect
 DECL|function|graphicsProxyWidget
-DECL|function|handle
 DECL|function|hasBackingStoreSupport
 DECL|function|hasEditFocus
 DECL|function|hasFocus
@@ -166,7 +163,6 @@ DECL|function|qt_x11_set_global_double_buffer
 DECL|function|raise
 DECL|function|redirected
 DECL|function|registerWidget
-DECL|function|releaseDC
 DECL|function|releaseShortcut
 DECL|function|removeAction
 DECL|function|render
