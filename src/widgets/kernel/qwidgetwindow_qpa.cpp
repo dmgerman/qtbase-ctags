@@ -1,6 +1,7 @@
 DECL|function|QWidgetWindow
 DECL|function|accessibleRoot
 DECL|function|event
+DECL|function|focusObject
 DECL|function|handleCloseEvent
 DECL|function|handleDragEvent
 DECL|function|handleEnterLeaveEvent

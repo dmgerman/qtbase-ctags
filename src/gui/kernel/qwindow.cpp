@@ -9,6 +9,7 @@ DECL|function|destroy
 DECL|function|event
 DECL|function|exposeEvent
 DECL|function|focusInEvent
+DECL|function|focusObject
 DECL|function|focusOutEvent
 DECL|function|format
 DECL|function|frameGeometry
