@@ -8,4 +8,4 @@ DECL|function|attributes
 DECL|function|elementName
 DECL|function|elementType
 DECL|function|~QTestCoreElement
-DECL|macro|QTESTCOREELEMENT_H
+DECL|macro|QTESTCOREELEMENT_P_H

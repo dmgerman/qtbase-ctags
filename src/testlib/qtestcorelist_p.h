@@ -5,4 +5,4 @@ DECL|function|count
 DECL|function|nextElement
 DECL|function|previousElement
 DECL|function|~QTestCoreList
-DECL|macro|QTESTCORELIST_H
+DECL|macro|QTESTCORELIST_P_H

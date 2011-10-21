@@ -1,3 +1,3 @@
-DECL|macro|QTESTXUNITSTREAMER_H
+DECL|macro|QTESTXUNITSTREAMER_P_H
 DECL|variable|QTestElementAttribute
 DECL|variable|QXunitTestLogger
