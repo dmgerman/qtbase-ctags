@@ -1,4 +1,8 @@
+DECL|function|convertCharArray
 DECL|function|displayName
+DECL|function|resolveGetSpecialFolderPath
+DECL|function|standardLocations
 DECL|function|storageLocation
 DECL|macro|CSIDL_MYMUSIC
 DECL|macro|CSIDL_MYVIDEO
+DECL|typedef|GetSpecialFolderPath
