@@ -4,10 +4,7 @@ DECL|function|Forget
 DECL|function|HandleServerAppExit
 DECL|function|QAutoClose
 DECL|function|QS60DocumentHandler
-DECL|function|defaultLocalizedDirectoryName
-DECL|function|displayName
 DECL|function|documentHandler
-DECL|function|exeDrive
 DECL|function|handleMailtoScheme
 DECL|function|handleMailtoSchemeLX
 DECL|function|handleOtherSchemes
@@ -19,13 +16,9 @@ DECL|function|launchWebBrowser
 DECL|function|openDocument
 DECL|function|openDocument
 DECL|function|openDocumentL
-DECL|function|storageLocation
-DECL|function|writableDataRoot
-DECL|function|writableExeDrive
 DECL|function|~QAutoClose
 DECL|function|~QS60DocumentHandler
 DECL|member|docHandler
 DECL|member|mPtr
-DECL|typedef|LocalizerFunc
 DECL|variable|KUidBrowser
 DECL|variable|KUidMsgTypeSMTP
