@@ -1,3 +1,3 @@
 DECL|function|displayName
 DECL|function|standardLocations
-DECL|function|storageLocation
+DECL|function|writableLocation
