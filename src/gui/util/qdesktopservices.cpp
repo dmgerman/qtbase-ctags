@@ -1,10 +1,8 @@
 DECL|class|QOpenUrlHandlerRegistry
 DECL|function|QOpenUrlHandlerRegistry
-DECL|function|displayName
 DECL|function|handlerDestroyed
 DECL|function|openUrl
 DECL|function|setUrlHandler
-DECL|function|storageLocation
 DECL|function|unsetUrlHandler
 DECL|member|handlers
 DECL|member|mutex

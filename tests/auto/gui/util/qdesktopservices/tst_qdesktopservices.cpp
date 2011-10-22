@@ -5,10 +5,6 @@ DECL|function|handle
 DECL|function|handlers
 DECL|function|init
 DECL|function|openUrl
-DECL|function|storageLocation
-DECL|function|storageLocationDoesNotEndWithSlash
-DECL|function|storageLocationDoesNotEndWithSlash_data
-DECL|function|storageLocation_data
 DECL|function|tst_qdesktopservices
 DECL|function|~tst_qdesktopservices
 DECL|member|lastHandledUrl
