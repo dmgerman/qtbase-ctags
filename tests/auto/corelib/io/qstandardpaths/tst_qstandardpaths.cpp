@@ -1,0 +1,15 @@
+DECL|class|tst_qstandardpaths
+DECL|function|setCustomLocations
+DECL|function|testAllWritableLocations
+DECL|function|testAllWritableLocations_data
+DECL|function|testCustomLocations
+DECL|function|testCustomRuntimeDirectory
+DECL|function|testDataLocation
+DECL|function|testDefaultLocations
+DECL|function|testFindExecutable
+DECL|function|testLocateAll
+DECL|function|testRuntimeDirectory
+DECL|function|tst_qstandardpaths
+DECL|function|~tst_qstandardpaths
+DECL|member|m_globalDir
+DECL|member|m_thisDir
