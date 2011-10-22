@@ -11,10 +11,6 @@ DECL|function|currentValue
 DECL|function|currentValue
 DECL|function|dial
 DECL|function|doubleSpinBox
-DECL|function|invokeMethod
-DECL|function|invokeMethod
-DECL|function|invokeMethod
-DECL|function|invokeMethod
 DECL|function|maximumValue
 DECL|function|maximumValue
 DECL|function|minimumValue

@@ -1,9 +1,6 @@
 DECL|function|QAccessibleTable2
 DECL|function|QAccessibleTable2Cell
 DECL|function|QAccessibleTable2HeaderCell
-DECL|function|actionText
-DECL|function|actionText
-DECL|function|actionText
 DECL|function|caption
 DECL|function|cell
 DECL|function|cellAt
@@ -24,9 +21,6 @@ DECL|function|columnIndex
 DECL|function|columnsInserted
 DECL|function|columnsMoved
 DECL|function|columnsRemoved
-DECL|function|doAction
-DECL|function|doAction
-DECL|function|doAction
 DECL|function|horizontalHeader
 DECL|function|horizontalHeader
 DECL|function|indexFromLogical
@@ -91,9 +85,6 @@ DECL|function|text
 DECL|function|text
 DECL|function|unselectColumn
 DECL|function|unselectRow
-DECL|function|userActionCount
-DECL|function|userActionCount
-DECL|function|userActionCount
 DECL|function|verticalHeader
 DECL|function|verticalHeader
 DECL|function|~QAccessibleTable2

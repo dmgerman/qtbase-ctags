@@ -25,6 +25,7 @@ DECL|function|accHitTest
 DECL|function|accLocation
 DECL|function|accNavigate
 DECL|function|accSelect
+DECL|function|childPointer
 DECL|function|eventString
 DECL|function|get_accChild
 DECL|function|get_accChildCount
@@ -55,4 +56,5 @@ DECL|member|current
 DECL|member|ref
 DECL|member|ref
 DECL|typedef|NotifyMap
+DECL|typedef|QAIPointer
 DECL|variable|eventNum

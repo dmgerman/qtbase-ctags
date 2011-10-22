@@ -3,7 +3,6 @@ DECL|function|QAccessibleDisplay
 DECL|function|QAccessibleLineEdit
 DECL|function|QAccessibleProgressBar
 DECL|function|QAccessibleToolButton
-DECL|function|actionCount
 DECL|function|actionNames
 DECL|function|actionNames
 DECL|function|addSelection

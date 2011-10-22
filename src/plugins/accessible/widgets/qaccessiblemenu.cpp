@@ -3,7 +3,6 @@ DECL|function|QAccessibleMenuBar
 DECL|function|QAccessibleMenuItem
 DECL|function|action
 DECL|function|actionNames
-DECL|function|actionText
 DECL|function|child
 DECL|function|child
 DECL|function|child
@@ -28,17 +27,11 @@ DECL|function|owner
 DECL|function|parent
 DECL|function|parent
 DECL|function|rect
-DECL|function|rect
-DECL|function|rect
 DECL|function|relationTo
-DECL|function|role
 DECL|function|role
 DECL|function|role
 DECL|function|setText
 DECL|function|state
-DECL|function|state
-DECL|function|state
-DECL|function|text
 DECL|function|text
 DECL|function|text
 DECL|function|~QAccessibleMenuItem
