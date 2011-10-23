@@ -1,9 +1,5 @@
 DECL|class|QUdpSocketPrivate
 DECL|function|QUdpSocket
-DECL|function|bind
-DECL|function|bind
-DECL|function|bind
-DECL|function|bind
 DECL|function|doEnsureInitialized
 DECL|function|ensureInitialized
 DECL|function|ensureInitialized

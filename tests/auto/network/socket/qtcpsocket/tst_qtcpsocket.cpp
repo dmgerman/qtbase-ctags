@@ -23,6 +23,8 @@ DECL|function|SocketPair
 DECL|function|abortiveClose
 DECL|function|abortiveClose_abortSlot
 DECL|function|atEnd
+DECL|function|bind
+DECL|function|bind_data
 DECL|function|blockingIMAP
 DECL|function|cleanup
 DECL|function|cleanup
