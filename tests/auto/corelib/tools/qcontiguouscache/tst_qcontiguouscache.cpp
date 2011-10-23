@@ -4,10 +4,7 @@ DECL|function|RefCountingClass
 DECL|function|RefCountingClass
 DECL|function|append
 DECL|function|append_data
-DECL|function|asScrollingList
-DECL|function|cacheBenchmark
 DECL|function|complexType
-DECL|function|contiguousCacheBenchmark
 DECL|function|empty
 DECL|function|operator =
 DECL|function|operatorAt
