@@ -1,3 +1,7 @@
+DECL|enumerator|HBitmapAlpha
+DECL|enumerator|HBitmapNoAlpha
+DECL|enumerator|HBitmapPremultipliedAlpha
+DECL|enum|HBitmapFormat
 DECL|function|QWin32PrintEngine
 DECL|function|abort
 DECL|function|begin
@@ -28,6 +32,7 @@ DECL|function|mmToInches
 DECL|function|newPage
 DECL|function|printerState
 DECL|function|property
+DECL|function|qPixmapToWinHBITMAP
 DECL|function|queryDefault
 DECL|function|queryResolutions
 DECL|function|readDevmode

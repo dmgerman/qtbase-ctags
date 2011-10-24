@@ -1,0 +1,2 @@
+DECL|macro|WINDOWSPRINTERSUPPORT_H
+DECL|variable|QWin32PrintEngine
