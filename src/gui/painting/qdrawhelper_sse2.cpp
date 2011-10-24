@@ -10,6 +10,7 @@ DECL|function|qt_blend_rgb32_on_rgb32_sse2
 DECL|function|qt_fetch_radial_gradient_sse2
 DECL|function|qt_memfill16_sse2
 DECL|function|qt_memfill32_sse2
+DECL|function|qt_scale_image_argb32_on_argb32_sse2
 DECL|function|v_add
 DECL|function|v_add
 DECL|function|v_and
