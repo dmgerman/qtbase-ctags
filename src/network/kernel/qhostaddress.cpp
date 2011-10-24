@@ -13,6 +13,7 @@ DECL|function|clear
 DECL|function|clearBits
 DECL|function|isInSubnet
 DECL|function|isInSubnet
+DECL|function|isLoopback
 DECL|function|isNull
 DECL|function|operator <<
 DECL|function|operator <<

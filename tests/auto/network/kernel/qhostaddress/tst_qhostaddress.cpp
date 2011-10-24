@@ -9,6 +9,8 @@ DECL|function|hashKey
 DECL|function|init
 DECL|function|isInSubnet
 DECL|function|isInSubnet_data
+DECL|function|isLoopback
+DECL|function|isLoopback_data
 DECL|function|parseSubnet
 DECL|function|parseSubnet_data
 DECL|function|scopeId
