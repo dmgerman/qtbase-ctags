@@ -1,0 +1,10 @@
+DECL|function|CrossProduct
+DECL|function|GLWindow
+DECL|function|Normalize
+DECL|function|createGeometry
+DECL|function|extrude
+DECL|function|initializeGL
+DECL|function|paintGL
+DECL|function|paintQtLogo
+DECL|function|quad
+DECL|function|~GLWindow
