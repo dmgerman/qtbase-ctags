@@ -56,6 +56,7 @@ DECL|function|intersects
 DECL|function|intersects
 DECL|function|isEmpty
 DECL|function|isEmptyHelper
+DECL|function|isNull
 DECL|function|left
 DECL|function|loadAET
 DECL|function|merge
