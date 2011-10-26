@@ -11,7 +11,6 @@ DECL|class|ReplaceClippingGLWidget
 DECL|class|UnclippedWidget
 DECL|class|Widget
 DECL|class|tst_QGL
-DECL|class|tst_QGLDummy
 DECL|class|tst_QGLResource
 DECL|function|ColormapExtended
 DECL|function|DisplayWidget
@@ -39,9 +38,9 @@ DECL|function|glWidgetReparent
 DECL|function|glWidgetWithAlpha
 DECL|function|graphicsViewClipping
 DECL|function|handle
+DECL|function|initTestCase
 DECL|function|initializeGL
 DECL|function|initialized
-DECL|function|main
 DECL|function|multipleFBOInterleavedRendering
 DECL|function|nullRectCrash
 DECL|function|openGLVersionCheck
@@ -57,7 +56,6 @@ DECL|function|paintGL
 DECL|function|partialGLWidgetUpdates
 DECL|function|partialGLWidgetUpdates_data
 DECL|function|qglContextDefaultBindTexture
-DECL|function|qglSkipTests
 DECL|function|qt_opengl_check_test_pattern
 DECL|function|qt_opengl_draw_test_pattern
 DECL|function|replaceClipping
@@ -73,7 +71,6 @@ DECL|function|threadImages
 DECL|function|timerEvent
 DECL|function|timerEvent
 DECL|function|tst_QGL
-DECL|function|tst_QGLDummy
 DECL|function|tst_QGLResource
 DECL|function|windowCreated
 DECL|function|~tst_QGL
