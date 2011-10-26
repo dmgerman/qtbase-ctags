@@ -42,7 +42,6 @@ DECL|enum|PropertyFlags
 DECL|function|get
 DECL|function|is_ident_char
 DECL|function|is_space
-DECL|function|normalizeTypeInternal
 DECL|macro|QMETAOBJECT_P_H
 DECL|member|classInfoCount
 DECL|member|classInfoData
