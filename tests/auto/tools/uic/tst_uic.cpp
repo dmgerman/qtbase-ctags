@@ -8,4 +8,3 @@ DECL|function|run_data
 DECL|function|tst_uic
 DECL|function|workingDir
 DECL|member|command
-DECL|member|uicExists
