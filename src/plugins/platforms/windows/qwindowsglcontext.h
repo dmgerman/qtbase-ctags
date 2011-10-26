@@ -10,8 +10,13 @@ DECL|macro|QWINDOWSGLCONTEXT_H
 DECL|member|formatFlags
 DECL|member|hdc
 DECL|member|hwnd
+DECL|member|options
 DECL|member|pixmapDepth
+DECL|member|profile
 DECL|member|renderingContext
+DECL|member|swapInterval
+DECL|member|version
 DECL|struct|QOpenGLContextData
 DECL|struct|QWindowsOpenGLAdditionalFormat
+DECL|struct|QWindowsOpenGLContextFormat
 DECL|variable|QDebug

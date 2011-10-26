@@ -2,6 +2,8 @@ DECL|class|QOpenGLTemporaryContext
 DECL|function|QOpenGLStaticContext
 DECL|function|QOpenGLTemporaryContext
 DECL|function|QWindowsGLContext
+DECL|function|QWindowsOpenGLContextFormat
+DECL|function|apply
 DECL|function|choosePixelFormat
 DECL|function|choosePixelFormat
 DECL|function|create
@@ -10,6 +12,7 @@ DECL|function|createContext
 DECL|function|createDummyGLContext
 DECL|function|createDummyGLWindow
 DECL|function|createDummyWindowOpenGLContextData
+DECL|function|current
 DECL|function|currentOpenGLContextData
 DECL|function|describeFormats
 DECL|function|doneCurrent
@@ -23,6 +26,7 @@ DECL|function|initPixelFormatDescriptor
 DECL|function|isAcceptableFormat
 DECL|function|isDirectRendering
 DECL|function|makeCurrent
+DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|qPixelFormatFromSurfaceFormat
