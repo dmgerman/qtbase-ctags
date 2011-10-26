@@ -1,2 +1,3 @@
 DECL|macro|QEVENTLOOP_H
+DECL|variable|QEventLoopLockerPrivate
 DECL|variable|QEventLoopPrivate

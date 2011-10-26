@@ -35,7 +35,6 @@ DECL|function|desktopStyleKey
 DECL|function|discardCommand
 DECL|function|dispatchEnterLeave
 DECL|function|doubleClickInterval
-DECL|function|emitLastWindowClosed
 DECL|function|enterModal
 DECL|function|event
 DECL|function|exec
@@ -168,7 +167,6 @@ DECL|member|navigationMode
 DECL|member|obey_desktop_settings
 DECL|member|oldEditFocus
 DECL|member|popupWidgets
-DECL|member|quitOnLastWindowClosed
 DECL|member|restartCommand
 DECL|member|restartHint
 DECL|member|self

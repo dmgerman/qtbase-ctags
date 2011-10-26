@@ -1,6 +1,10 @@
-DECL|class|QEventLoopPrivate
+DECL|class|QEventLoopLockerPrivate
 DECL|function|QEventLoop
-DECL|function|QEventLoopPrivate
+DECL|function|QEventLoopLocker
+DECL|function|QEventLoopLocker
+DECL|function|QEventLoopLockerPrivate
+DECL|function|QEventLoopLockerPrivate
+DECL|function|event
 DECL|function|exec
 DECL|function|exit
 DECL|function|isRunning
@@ -9,6 +13,7 @@ DECL|function|processEvents
 DECL|function|quit
 DECL|function|wakeUp
 DECL|function|~QEventLoop
-DECL|member|exit
-DECL|member|inExec
-DECL|member|returnCode
+DECL|function|~QEventLoopLocker
+DECL|function|~QEventLoopLockerPrivate
+DECL|member|app
+DECL|member|loop

@@ -20,6 +20,7 @@ DECL|function|cleanupThreadData
 DECL|function|closingDown
 DECL|function|compressEvent
 DECL|function|createEventDispatcher
+DECL|function|deref
 DECL|function|event
 DECL|function|eventDispatcher
 DECL|function|exec
@@ -29,6 +30,7 @@ DECL|function|flush
 DECL|function|hasPendingEvents
 DECL|function|init
 DECL|function|installTranslator
+DECL|function|isQuitLockEnabled
 DECL|function|isTranslatorInstalled
 DECL|function|libraryPaths
 DECL|function|macMenuBarName
@@ -52,6 +54,7 @@ DECL|function|qt_call_post_routines
 DECL|function|qt_register_signal_spy_callbacks
 DECL|function|qt_startup_hook
 DECL|function|quit
+DECL|function|ref
 DECL|function|removeLibraryPath
 DECL|function|removePostedEvent
 DECL|function|removePostedEvents
@@ -70,6 +73,7 @@ DECL|function|setEventFilter
 DECL|function|setLibraryPaths
 DECL|function|setOrganizationDomain
 DECL|function|setOrganizationName
+DECL|function|setQuitLockEnabled
 DECL|function|startingUp
 DECL|function|testAttribute
 DECL|function|translate
@@ -96,3 +100,4 @@ DECL|typedef|QVFuncList
 DECL|variable|qt_application_thread_id
 DECL|variable|qt_locale_initialized
 DECL|variable|qt_signal_spy_callback_set
+DECL|variable|quitLockRefEnabled
