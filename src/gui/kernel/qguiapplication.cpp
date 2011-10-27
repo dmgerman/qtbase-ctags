@@ -2,6 +2,7 @@ DECL|function|QGuiApplication
 DECL|function|QGuiApplication
 DECL|function|QGuiApplicationPrivate
 DECL|function|applyCursor
+DECL|function|applyCursor
 DECL|function|changeOverrideCursor
 DECL|function|clipboard
 DECL|function|compressEvent
