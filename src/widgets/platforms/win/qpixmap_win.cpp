@@ -1,9 +1,0 @@
-DECL|function|fromWinHBITMAP
-DECL|function|fromWinHICON
-DECL|function|fromWinHICON
-DECL|function|grabWindow
-DECL|function|qt_createIconMask
-DECL|function|qt_fromWinHBITMAP
-DECL|function|toWinHBITMAP
-DECL|function|toWinHICON
-DECL|macro|CAPTUREBLT

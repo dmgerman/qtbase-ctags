@@ -73,4 +73,3 @@ DECL|variable|QWSRegionManager
 DECL|variable|QWheelEvent
 DECL|variable|QWidgetPrivate
 DECL|variable|QWindow
-DECL|variable|QX11Info

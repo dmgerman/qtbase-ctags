@@ -1,3 +1,0 @@
-DECL|function|qt_XCreateSimpleWindow
-DECL|function|qt_XCreateWindow
-DECL|function|qt_XDestroyWindow

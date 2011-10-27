@@ -1,3 +1,0 @@
-DECL|class|tst_QX11Info
-DECL|function|initTestCase
-DECL|function|staticFunctionsBeforeQApplication

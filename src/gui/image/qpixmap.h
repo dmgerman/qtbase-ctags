@@ -8,4 +8,3 @@ DECL|variable|QColor
 DECL|variable|QImageReader
 DECL|variable|QPlatformPixmap
 DECL|variable|QVariant
-DECL|variable|QX11Info

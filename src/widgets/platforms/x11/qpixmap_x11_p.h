@@ -1,2 +1,0 @@
-DECL|macro|QPIXMAPDATA_X11_P_H
-DECL|variable|QX11PaintEngine
