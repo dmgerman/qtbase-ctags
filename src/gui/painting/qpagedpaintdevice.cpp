@@ -1,4 +1,3 @@
-DECL|class|QPagedPaintDevicePrivate
 DECL|function|QPagedPaintDevice
 DECL|function|margins
 DECL|function|pageSize
@@ -8,8 +7,5 @@ DECL|function|setPageSize
 DECL|function|setPageSizeMM
 DECL|function|~QPagedPaintDevice
 DECL|member|height
-DECL|member|margins
-DECL|member|pageSize
-DECL|member|pageSizeMM
 DECL|member|width
 DECL|variable|pageSizes
