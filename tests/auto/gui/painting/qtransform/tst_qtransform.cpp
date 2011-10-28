@@ -15,8 +15,6 @@ DECL|function|mapToPolygon
 DECL|function|mapToPolygon_data
 DECL|function|mapping_data
 DECL|function|matrix
-DECL|function|operator_star_qrect
-DECL|function|operator_star_qrect_data
 DECL|function|projectivePathMapping
 DECL|function|scalarOps
 DECL|function|scale
