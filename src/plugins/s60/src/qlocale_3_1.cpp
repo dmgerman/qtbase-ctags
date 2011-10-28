@@ -1,8 +1,0 @@
-DECL|function|defaultFormatL
-DECL|function|defaultGetLongDateFormatSpec
-DECL|function|defaultGetShortDateFormatSpec
-DECL|function|defaultGetTimeFormatSpec
-DECL|function|initialiseDateFormat
-DECL|function|initialiseTimeFormat
-DECL|variable|dateFormat
-DECL|variable|timeFormat

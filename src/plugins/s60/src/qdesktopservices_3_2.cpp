@@ -1,2 +1,0 @@
-DECL|function|localizedDirectoryName
-DECL|function|localizedDirectoryName
