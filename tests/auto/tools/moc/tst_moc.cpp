@@ -55,6 +55,8 @@ DECL|function|c
 DECL|function|classinfoWithEscapes
 DECL|function|constructors
 DECL|function|cstyleEnums
+DECL|function|cxx11Enums
+DECL|function|cxx11Enums_data
 DECL|function|d_func
 DECL|function|defineMacroViaCmdline
 DECL|function|doAnotherThing

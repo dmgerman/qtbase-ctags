@@ -13,6 +13,7 @@ DECL|enum|ReferenceType
 DECL|enum|Specification
 DECL|function|ArgumentDef
 DECL|function|ClassDef
+DECL|function|EnumDef
 DECL|function|FunctionDef
 DECL|function|Interface
 DECL|function|PropertyDef
@@ -56,6 +57,7 @@ DECL|member|isConst
 DECL|member|isConstructor
 DECL|member|isDefault
 DECL|member|isDestructor
+DECL|member|isEnumClass
 DECL|member|isInvokable
 DECL|member|isScoped
 DECL|member|isScriptable
