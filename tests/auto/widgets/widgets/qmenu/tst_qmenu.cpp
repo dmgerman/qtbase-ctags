@@ -55,3 +55,5 @@ DECL|member|m_currentIndex
 DECL|member|menus
 DECL|member|painted
 DECL|member|statustip
+DECL|variable|Key
+DECL|variable|KeyboardModifiers
