@@ -1,5 +1,0 @@
-DECL|function|Panic
-DECL|function|SetThreadHeap
-DECL|function|qt_symbian_SetupThreadHeap
-DECL|function|qt_symbian_SetupThreadHeap
-DECL|variable|KHeapShrinkHysRatio
