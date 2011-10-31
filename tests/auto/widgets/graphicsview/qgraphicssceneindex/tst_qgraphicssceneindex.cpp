@@ -5,8 +5,6 @@ DECL|function|clear
 DECL|function|common_data
 DECL|function|connectedToSceneRectChanged
 DECL|function|createIndex
-DECL|function|customIndex
-DECL|function|customIndex_data
 DECL|function|initTestCase
 DECL|function|items
 DECL|function|movingItems
