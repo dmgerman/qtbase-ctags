@@ -2,6 +2,7 @@ DECL|class|QIBusPlatformInputContextPrivate
 DECL|enumerator|debug
 DECL|function|QIBusPlatformInputContext
 DECL|function|QIBusPlatformInputContextPrivate
+DECL|function|commit
 DECL|function|commitText
 DECL|function|createConnection
 DECL|function|cursorRectChanged
@@ -18,5 +19,6 @@ DECL|function|~QIBusPlatformInputContextPrivate
 DECL|member|bus
 DECL|member|connection
 DECL|member|context
+DECL|member|predit
 DECL|member|valid
 DECL|variable|keycode_table
