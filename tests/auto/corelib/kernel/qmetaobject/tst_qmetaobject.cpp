@@ -39,6 +39,7 @@ DECL|function|fire
 DECL|function|getValue
 DECL|function|get_value
 DECL|function|indexOfMethod
+DECL|function|indexOfMethodPMF
 DECL|function|indexOfMethod_data
 DECL|function|invokeBlockingQueuedMetaMember
 DECL|function|invokeCustomTypes
@@ -98,6 +99,7 @@ DECL|function|value7
 DECL|function|value8
 DECL|function|value9
 DECL|macro|FUNCTION
+DECL|macro|INDEXOFMETHODPMF_HELPER
 DECL|member|child
 DECL|member|child
 DECL|member|i

@@ -1,4 +1,5 @@
 DECL|enumerator|CreateInstance
+DECL|enumerator|IndexOfMethod
 DECL|enumerator|InvokeMetaMethod
 DECL|enumerator|QueryPropertyDesignable
 DECL|enumerator|QueryPropertyEditable

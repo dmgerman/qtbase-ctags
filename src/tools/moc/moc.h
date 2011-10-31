@@ -82,6 +82,7 @@ DECL|member|notifyableProperties
 DECL|member|propertyList
 DECL|member|publicList
 DECL|member|qualified
+DECL|member|rawName
 DECL|member|read
 DECL|member|referenceType
 DECL|member|reset
