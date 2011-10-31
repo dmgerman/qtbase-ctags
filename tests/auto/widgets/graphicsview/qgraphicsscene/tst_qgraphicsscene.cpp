@@ -117,7 +117,6 @@ DECL|function|sceneEvent
 DECL|function|sceneEventFilter
 DECL|function|sceneEventFilter
 DECL|function|sceneRect
-DECL|function|selection
 DECL|function|selectionChanged
 DECL|function|selectionChanged2
 DECL|function|sendEvent
