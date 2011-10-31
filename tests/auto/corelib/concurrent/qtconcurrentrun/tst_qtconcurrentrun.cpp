@@ -56,7 +56,6 @@ DECL|function|throwFunctionReturn
 DECL|function|vfn0
 DECL|function|vfn1
 DECL|function|vfn2
-DECL|macro|F
 DECL|struct|Functor
 DECL|struct|TestClass
 DECL|struct|TestConstClass
