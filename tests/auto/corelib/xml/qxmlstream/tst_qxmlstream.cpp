@@ -31,7 +31,6 @@ DECL|function|initTestCase
 DECL|function|isWellformed
 DECL|function|main
 DECL|function|makeCanonical
-DECL|function|parseXSLTTestSuite
 DECL|function|qtbug9196_crash
 DECL|function|readElementText
 DECL|function|readElementText_data
