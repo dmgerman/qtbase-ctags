@@ -5,6 +5,8 @@ DECL|function|MyData
 DECL|function|MyData
 DECL|function|MyMovable
 DECL|function|MyMovable
+DECL|function|MyNotMovable
+DECL|function|MyNotMovable
 DECL|function|MyType
 DECL|function|MyType
 DECL|function|basicUserType
@@ -42,6 +44,8 @@ DECL|function|moreCustomTypes
 DECL|function|numericalConvert
 DECL|function|operator <<
 DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==
@@ -137,6 +141,7 @@ DECL|function|writeToReadFromDataStream_data
 DECL|function|writeToReadFromOldDataStream
 DECL|function|~MyData
 DECL|function|~MyMovable
+DECL|function|~MyNotMovable
 DECL|function|~MyType
 DECL|macro|N
 DECL|macro|N
@@ -149,12 +154,16 @@ DECL|member|a
 DECL|member|b
 DECL|member|count
 DECL|member|count
+DECL|member|count
+DECL|member|count
 DECL|member|i
 DECL|member|i
+DECL|member|movable
 DECL|member|myValue
 DECL|member|number
 DECL|member|ptr
 DECL|member|text
+DECL|member|that
 DECL|member|v
 DECL|member|x
 DECL|member|x
@@ -165,7 +174,9 @@ DECL|struct|Foo
 DECL|struct|MyClass
 DECL|struct|MyData
 DECL|struct|MyMovable
+DECL|struct|MyNotMovable
 DECL|struct|MyPrimitive
+DECL|struct|MyShared
 DECL|struct|MyType
 DECL|struct|MyTypePOD
 DECL|struct|WontCompare
