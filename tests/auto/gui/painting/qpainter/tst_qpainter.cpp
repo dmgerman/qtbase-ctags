@@ -137,8 +137,6 @@ DECL|function|qHash
 DECL|function|qimageFormats
 DECL|function|qimageFormats_data
 DECL|function|qt_compose_alpha
-DECL|function|qt_format_text_boundingRect
-DECL|function|qt_format_text_clip
 DECL|function|quint24
 DECL|function|randInRect
 DECL|function|randf
