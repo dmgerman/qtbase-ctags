@@ -22,4 +22,5 @@ DECL|function|rowsAboutToBeRemoved_init
 DECL|function|task196768_sorting
 DECL|function|task244669_remove
 DECL|function|tst_QDirModel
+DECL|function|unreadable
 DECL|function|~tst_QDirModel
