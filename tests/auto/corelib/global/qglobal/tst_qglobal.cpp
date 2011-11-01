@@ -14,6 +14,7 @@ DECL|function|qtry
 DECL|function|reset
 DECL|function|~MyTrue
 DECL|member|True
+DECL|member|Value
 DECL|member|receiver
 DECL|member|sender
 DECL|member|signal
