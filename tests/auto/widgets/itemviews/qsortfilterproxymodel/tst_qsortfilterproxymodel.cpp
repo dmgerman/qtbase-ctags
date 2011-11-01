@@ -37,6 +37,7 @@ DECL|function|filterAcceptsRow
 DECL|function|filterAcceptsRow
 DECL|function|filterColumns
 DECL|function|filterColumns_data
+DECL|function|filterCurrent
 DECL|function|filterHierarchy
 DECL|function|filterHierarchy_data
 DECL|function|filterOutParentAndFilterInChild
