@@ -13,9 +13,6 @@ DECL|function|ignore
 DECL|function|interface
 DECL|function|isOpen
 DECL|function|migrate
-DECL|function|nativeOpenHostResolver
-DECL|function|nativeOpenSocket
-DECL|function|nativeSession
 DECL|function|open
 DECL|function|reject
 DECL|function|sessionProperty
