@@ -27,6 +27,7 @@ DECL|function|messageHandler
 DECL|function|outputString
 DECL|function|printUnhandledIgnoreMessages
 DECL|function|setMaxWarnings
+DECL|function|setPrintAvailableTagsMode
 DECL|function|setVerboseLevel
 DECL|function|startLogging
 DECL|function|startLogging
@@ -48,6 +49,7 @@ DECL|member|msg
 DECL|member|next
 DECL|member|next
 DECL|member|oldMessageHandler
+DECL|member|printAvailableTags
 DECL|member|type
 DECL|member|verbosity
 DECL|namespace|QTest

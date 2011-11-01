@@ -36,6 +36,7 @@ DECL|function|qInvokeTestMethod
 DECL|function|qInvokeTestMethodDataEntry
 DECL|function|qInvokeTestMethods
 DECL|function|qMedian
+DECL|function|qPrintDataTags
 DECL|function|qPrintTestSlots
 DECL|function|qSkip
 DECL|function|qSleep
