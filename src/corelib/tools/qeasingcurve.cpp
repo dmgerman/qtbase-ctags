@@ -6,24 +6,45 @@ DECL|enumerator|Out
 DECL|enumerator|OutIn
 DECL|enum|Type
 DECL|function|BackEase
+DECL|function|BezierEase
 DECL|function|BounceEase
 DECL|function|ElasticEase
 DECL|function|QEasingCurve
 DECL|function|QEasingCurve
 DECL|function|QEasingCurveFunction
 DECL|function|QEasingCurvePrivate
+DECL|function|TCBPoint
+DECL|function|TCBPoint
+DECL|function|_acos
+DECL|function|_cbrt
+DECL|function|_cos
+DECL|function|_fast_cbrt
+DECL|function|_fast_cbrt
+DECL|function|addCubicBezierSegment
+DECL|function|addTCBSegment
 DECL|function|amplitude
 DECL|function|copy
 DECL|function|copy
 DECL|function|copy
 DECL|function|copy
+DECL|function|copy
+DECL|function|cosacos
 DECL|function|curveToFunc
 DECL|function|curveToFunctionObject
 DECL|function|customType
+DECL|function|evaluateDerivateForX
+DECL|function|evaluateForX
+DECL|function|evaluateSegmentForY
+DECL|function|findTForX
+DECL|function|getBezierSegment
+DECL|function|inRange
+DECL|function|init
 DECL|function|isConfigFunction
+DECL|function|newtonIteration
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator =
+DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator >>
@@ -35,7 +56,11 @@ DECL|function|setOvershoot
 DECL|function|setPeriod
 DECL|function|setType
 DECL|function|setType_helper
+DECL|function|singleRealSolutionForCubic
+DECL|function|tcbToBezier
 DECL|function|type
+DECL|function|value
+DECL|function|value
 DECL|function|value
 DECL|function|value
 DECL|function|value
@@ -45,12 +70,36 @@ DECL|function|~QEasingCurve
 DECL|function|~QEasingCurveFunction
 DECL|function|~QEasingCurvePrivate
 DECL|member|_a
+DECL|member|_b
+DECL|member|_bezierCurves
+DECL|member|_c
+DECL|member|_curveCount
+DECL|member|_curves
+DECL|member|_init
+DECL|member|_intervals
 DECL|member|_o
 DECL|member|_p
+DECL|member|_point
 DECL|member|_t
+DECL|member|_t
+DECL|member|_tcbPoints
+DECL|member|_valid
 DECL|member|config
 DECL|member|func
+DECL|member|p0x
+DECL|member|p0y
+DECL|member|p1x
+DECL|member|p1y
+DECL|member|p2x
+DECL|member|p2y
+DECL|member|p3x
+DECL|member|p3y
 DECL|member|type
 DECL|struct|BackEase
+DECL|struct|BezierEase
 DECL|struct|BounceEase
 DECL|struct|ElasticEase
+DECL|struct|SingleCubicBezier
+DECL|struct|TCBEase
+DECL|struct|TCBPoint
+DECL|typedef|TCBPoints
