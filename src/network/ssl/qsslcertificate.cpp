@@ -5,13 +5,16 @@ DECL|function|QSslCertificate
 DECL|function|QSslCertificate_from_X509
 DECL|function|_q_SubjectInfoToString
 DECL|function|_q_mapFromX509Name
+DECL|function|asn1ObjectId
 DECL|function|asn1ObjectName
 DECL|function|certificatesFromDer
 DECL|function|certificatesFromPem
 DECL|function|clear
+DECL|function|convertExtension
 DECL|function|digest
 DECL|function|effectiveDate
 DECL|function|expiryDate
+DECL|function|extensions
 DECL|function|fromData
 DECL|function|fromDevice
 DECL|function|fromPath
@@ -40,6 +43,8 @@ DECL|function|toPem
 DECL|function|toText
 DECL|function|verify
 DECL|function|version
+DECL|function|x509ExtensionToValue
+DECL|function|x509UnknownExtensionToValue
 DECL|function|~QSslCertificate
 DECL|macro|BEGINCERTSTRING
 DECL|macro|ENDCERTSTRING
