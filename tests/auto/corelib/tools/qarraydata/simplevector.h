@@ -1,0 +1,11 @@
+DECL|function|SimpleVector
+DECL|function|SimpleVector
+DECL|function|SimpleVector
+DECL|function|~SimpleVector
+DECL|macro|QARRAY_TEST_SIMPLE_VECTOR_H
+DECL|member|operator
+DECL|member|private
+DECL|member|public
+DECL|struct|SimpleVector
+DECL|typedef|const_iterator
+DECL|typedef|iterator
