@@ -15,6 +15,7 @@ DECL|function|createTestRows
 DECL|function|digest
 DECL|function|digest_data
 DECL|function|emptyConstructor
+DECL|function|extensions
 DECL|function|firstPemCertificateFromPem
 DECL|function|fromDevice
 DECL|function|fromPath
