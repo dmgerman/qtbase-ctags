@@ -16,6 +16,7 @@ DECL|function|keyPressEvent
 DECL|function|minimumSizeHint
 DECL|function|open
 DECL|function|orientation
+DECL|function|platformHelper
 DECL|function|reject
 DECL|function|resetModalitySetByOpen
 DECL|function|resizeEvent
