@@ -14,6 +14,7 @@ DECL|function|arrayOps
 DECL|function|const_
 DECL|function|fromRawData
 DECL|function|gccBug43247
+DECL|function|literals
 DECL|function|operator =
 DECL|function|referenceCounting
 DECL|function|setSharable
@@ -22,6 +23,7 @@ DECL|function|sharedNullEmpty
 DECL|function|simpleVector
 DECL|function|staticData
 DECL|function|typedData
+DECL|function|variadicLiterals
 DECL|function|~CountedObject
 DECL|function|~Deallocator
 DECL|function|~LeakChecker

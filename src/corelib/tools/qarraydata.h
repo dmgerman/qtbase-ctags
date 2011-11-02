@@ -9,6 +9,10 @@ DECL|function|end
 DECL|function|fromRawData
 DECL|function|sharedNull
 DECL|macro|QARRAYDATA_H
+DECL|macro|Q_ARRAY_LITERAL
+DECL|macro|Q_ARRAY_LITERAL
+DECL|macro|Q_ARRAY_LITERAL
+DECL|macro|Q_ARRAY_LITERAL_IMPL
 DECL|macro|Q_STATIC_ARRAY_DATA_HEADER_INITIALIZER
 DECL|member|data
 DECL|member|header

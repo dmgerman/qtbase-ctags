@@ -1,7 +1,6 @@
 DECL|function|SimpleVector
 DECL|function|SimpleVector
 DECL|function|SimpleVector
-DECL|function|SimpleVector
 DECL|function|append
 DECL|function|at
 DECL|function|at
@@ -14,7 +13,6 @@ DECL|function|clear
 DECL|function|constBegin
 DECL|function|constEnd
 DECL|function|detach
-DECL|function|empty
 DECL|function|end
 DECL|function|end
 DECL|function|fromRawData
@@ -36,8 +34,8 @@ DECL|function|size
 DECL|function|swap
 DECL|macro|QARRAY_TEST_SIMPLE_VECTOR_H
 DECL|member|private
-DECL|member|private
 DECL|member|public
 DECL|struct|SimpleVector
 DECL|typedef|const_iterator
 DECL|typedef|iterator
+DECL|variable|d
