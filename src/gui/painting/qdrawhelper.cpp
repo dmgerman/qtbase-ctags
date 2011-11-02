@@ -15,6 +15,7 @@ DECL|enum|SpanMethod
 DECL|enum|TextureBlendType
 DECL|function|BlendSrcGeneric
 DECL|function|QBlendBase
+DECL|function|QDrawHelperGammaTables
 DECL|function|QPartialCoverage
 DECL|function|alpha_2
 DECL|function|alpha_2
@@ -250,7 +251,6 @@ DECL|function|qt_alphargbblit_quint32
 DECL|function|qt_bitmapblit_quint16
 DECL|function|qt_bitmapblit_quint32
 DECL|function|qt_bitmapblit_template
-DECL|function|qt_build_pow_tables
 DECL|function|qt_fetchPixel
 DECL|function|qt_fetchPixel
 DECL|function|qt_fetchPixel
@@ -280,6 +280,8 @@ DECL|function|qt_memfill_quint16
 DECL|function|qt_memfill_template
 DECL|function|qt_memfill_template
 DECL|function|qt_memfill_template
+DECL|function|qt_pow_gamma
+DECL|function|qt_pow_rgb_gamma
 DECL|function|qt_rectfill_nonpremul_quint32
 DECL|function|qt_rectfill_template
 DECL|function|rasterop_NotSource
@@ -379,8 +381,13 @@ DECL|member|data
 DECL|member|dest
 DECL|member|ica
 DECL|member|op
+DECL|member|qt_pow_gamma
+DECL|member|qt_pow_invgamma
+DECL|member|qt_pow_rgb_gamma
+DECL|member|qt_pow_rgb_invgamma
 DECL|member|src_buffer
 DECL|struct|QBlendBase
+DECL|struct|QDrawHelperGammaTables
 DECL|struct|QFullCoverage
 DECL|struct|QPartialCoverage
 DECL|typedef|FetchPixelProc
@@ -401,8 +408,4 @@ DECL|variable|qDrawHelper
 DECL|variable|qt_fetch_radial_gradient
 DECL|variable|qt_memfill16
 DECL|variable|qt_memfill32
-DECL|variable|qt_pow_gamma
-DECL|variable|qt_pow_invgamma
-DECL|variable|qt_pow_rgb_gamma
-DECL|variable|qt_pow_rgb_invgamma
 DECL|variable|sourceFetch
