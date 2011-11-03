@@ -12,7 +12,9 @@ DECL|macro|QARRAYDATA_H
 DECL|macro|Q_STATIC_ARRAY_DATA_HEADER_INITIALIZER
 DECL|member|data
 DECL|member|header
+DECL|member|ptr
 DECL|struct|QArrayData
+DECL|struct|QArrayDataPointerRef
 DECL|struct|QStaticArrayData
 DECL|typedef|const_iterator
 DECL|typedef|iterator
