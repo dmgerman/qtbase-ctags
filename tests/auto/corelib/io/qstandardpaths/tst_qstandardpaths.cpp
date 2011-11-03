@@ -11,5 +11,6 @@ DECL|function|testLocateAll
 DECL|function|testRuntimeDirectory
 DECL|function|tst_qstandardpaths
 DECL|function|~tst_qstandardpaths
+DECL|macro|Q_XDG_PLATFORM
 DECL|member|m_globalDir
 DECL|member|m_thisDir
