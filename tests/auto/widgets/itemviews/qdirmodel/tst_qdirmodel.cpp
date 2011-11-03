@@ -1,5 +1,4 @@
 DECL|class|tst_QDirModel
-DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|fileName
 DECL|function|fileName_data
@@ -8,7 +7,6 @@ DECL|function|filter
 DECL|function|getSetCheck
 DECL|function|hidden
 DECL|function|init
-DECL|function|initTestCase
 DECL|function|mkdir
 DECL|function|mkdir_data
 DECL|function|rmdir
@@ -21,6 +19,4 @@ DECL|function|rowsAboutToBeRemoved_data
 DECL|function|rowsAboutToBeRemoved_init
 DECL|function|task196768_sorting
 DECL|function|task244669_remove
-DECL|function|tst_QDirModel
 DECL|function|unreadable
-DECL|function|~tst_QDirModel
