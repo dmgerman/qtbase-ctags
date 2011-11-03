@@ -1,6 +1,7 @@
 DECL|class|Current_Thread
 DECL|class|Exit_Object
 DECL|class|Exit_Thread
+DECL|class|FinishedTestObject
 DECL|class|NativeThreadWrapper
 DECL|class|Quit_Object
 DECL|class|Quit_Thread
@@ -19,6 +20,7 @@ DECL|enumerator|WaitTime
 DECL|enumerator|five_minutes
 DECL|enumerator|one_minute
 DECL|enum|SleepType
+DECL|function|FinishedTestObject
 DECL|function|NativeThreadWrapper
 DECL|function|QTBUG13810_exitAndStart
 DECL|function|QTBUG15378_exitAndExec
@@ -44,6 +46,7 @@ DECL|function|finished
 DECL|function|idealThreadCount
 DECL|function|isFinished
 DECL|function|isRunning
+DECL|function|isRunningInFinished
 DECL|function|join
 DECL|function|msleep
 DECL|function|nativeThreadAdoption
@@ -66,6 +69,7 @@ DECL|function|sleep
 DECL|function|slot
 DECL|function|slot
 DECL|function|slot
+DECL|function|slotFinished
 DECL|function|slowSlot
 DECL|function|start
 DECL|function|start
@@ -106,6 +110,7 @@ DECL|member|mutex
 DECL|member|nativeThreadHandle
 DECL|member|object
 DECL|member|object
+DECL|member|ok
 DECL|member|qthread
 DECL|member|result
 DECL|member|result
