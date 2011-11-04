@@ -1,12 +1,12 @@
 DECL|class|QtFreetypeData
 DECL|function|QFontEngineFT
 DECL|function|QGlyphSet
+DECL|function|QTransformToFTMatrix
 DECL|function|QtFreetypeData
 DECL|function|addBitmapToPath
 DECL|function|addGlyphToPath
 DECL|function|addGlyphsToPath
 DECL|function|addOutlineToPath
-DECL|function|allocateServerGlyphSet
 DECL|function|alphaMapBoundingBox
 DECL|function|alphaMapForGlyph
 DECL|function|alphaRGBMapForGlyph
@@ -27,8 +27,6 @@ DECL|function|doKerning
 DECL|function|emSquareSize
 DECL|function|faceId
 DECL|function|filterPixel
-DECL|function|freeGlyphSets
-DECL|function|freeServerGlyphSet
 DECL|function|fsType
 DECL|function|getChar
 DECL|function|getFace
@@ -46,6 +44,7 @@ DECL|function|leading
 DECL|function|lineThickness
 DECL|function|loadFlags
 DECL|function|loadGlyph
+DECL|function|loadGlyphFor
 DECL|function|loadGlyphs
 DECL|function|loadTransformedGlyphSet
 DECL|function|lockFace
@@ -71,7 +70,6 @@ DECL|function|synthesized
 DECL|function|underlinePosition
 DECL|function|unlockAlphaMapForGlyph
 DECL|function|unlockFace
-DECL|function|uploadGlyphToServer
 DECL|function|xHeight
 DECL|function|~Glyph
 DECL|function|~QFontEngineFT
