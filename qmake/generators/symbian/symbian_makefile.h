@@ -1,2 +1,0 @@
-DECL|macro|SYMBIAN_MAKEFILE_H
-DECL|variable|T

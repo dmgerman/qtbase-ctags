@@ -7,7 +7,6 @@ DECL|enumerator|E_FILES
 DECL|enumerator|E_FIND
 DECL|enumerator|E_FIRST
 DECL|enumerator|E_FROMFILE
-DECL|enumerator|E_GENERATE_UID
 DECL|enumerator|E_JOIN
 DECL|enumerator|E_LAST
 DECL|enumerator|E_LIST

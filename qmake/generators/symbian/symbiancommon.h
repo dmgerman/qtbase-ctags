@@ -1,4 +1,0 @@
-DECL|macro|PRINT_FILE_CREATE_ERROR
-DECL|macro|SYMBIANCOMMON_H
-DECL|typedef|SymbianLocalizationList
-DECL|typedef|SymbianLocalizationListIterator
