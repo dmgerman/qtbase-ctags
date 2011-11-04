@@ -1,5 +1,6 @@
 DECL|function|QWindowsContext
 DECL|function|QWindowsContextPrivate
+DECL|function|QWindowsShell32DLL
 DECL|function|QWindowsUser32DLL
 DECL|function|addWindow
 DECL|function|comErrorString
@@ -11,6 +12,7 @@ DECL|function|findPlatformWindow
 DECL|function|findPlatformWindowAt
 DECL|function|findWindow
 DECL|function|hasTouchSupport
+DECL|function|init
 DECL|function|init
 DECL|function|initTouch
 DECL|function|instance
@@ -42,8 +44,10 @@ DECL|member|m_oleInitializeResult
 DECL|member|m_registeredWindowClassNames
 DECL|member|m_systemInfo
 DECL|member|m_windows
+DECL|member|shell32dll
 DECL|member|user32dll
 DECL|member|verboseBackingStore
+DECL|member|verboseDialogs
 DECL|member|verboseEvents
 DECL|member|verboseFonts
 DECL|member|verboseGL

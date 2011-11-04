@@ -3,14 +3,17 @@ DECL|member|closeTouchInputHandle
 DECL|member|getTouchInputInfo
 DECL|member|isHungAppWindow
 DECL|member|registerTouchWindow
+DECL|member|sHCreateItemFromParsingName
 DECL|member|setLayeredWindowAttributes
 DECL|member|updateLayeredWindow
 DECL|member|updateLayeredWindowIndirect
+DECL|struct|QWindowsShell32DLL
 DECL|struct|QWindowsUser32DLL
 DECL|typedef|CloseTouchInputHandle
 DECL|typedef|GetTouchInputInfo
 DECL|typedef|IsHungAppWindow
 DECL|typedef|RegisterTouchWindow
+DECL|typedef|SHCreateItemFromParsingName
 DECL|typedef|SetLayeredWindowAttributes
 DECL|typedef|UpdateLayeredWindow
 DECL|typedef|UpdateLayeredWindowIndirect

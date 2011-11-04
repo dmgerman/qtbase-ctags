@@ -4,6 +4,7 @@ DECL|function|QWindowsIntegrationPrivate
 DECL|function|accessibility
 DECL|function|clipboard
 DECL|function|createPlatformBackingStore
+DECL|function|createPlatformDialogHelper
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
@@ -18,6 +19,7 @@ DECL|function|nativeResourceForBackingStore
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
 DECL|function|styleHint
+DECL|function|usePlatformNativeDialog
 DECL|function|~QWindowsIntegration
 DECL|function|~QWindowsIntegrationPrivate
 DECL|member|m_accessibility
