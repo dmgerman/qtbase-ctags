@@ -21,3 +21,4 @@ DECL|member|xsize
 DECL|member|ysize
 DECL|struct|QFreetypeFace
 DECL|variable|QFontEngineFTRawFont
+DECL|variable|QFontconfigDatabase
