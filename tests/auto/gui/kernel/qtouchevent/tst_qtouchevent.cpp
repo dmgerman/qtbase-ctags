@@ -42,6 +42,7 @@ DECL|member|seenTouchEnd
 DECL|member|seenTouchEnd
 DECL|member|seenTouchUpdate
 DECL|member|seenTouchUpdate
+DECL|member|timestamp
 DECL|member|touchBeginCounter
 DECL|member|touchBeginPoints
 DECL|member|touchBeginPoints
