@@ -15,7 +15,7 @@ DECL|function|canonicalPath
 DECL|function|completeBaseName
 DECL|function|completeSuffix
 DECL|function|created
-DECL|function|detach
+DECL|function|d_func
 DECL|function|dir
 DECL|function|exists
 DECL|function|fileName

@@ -2,6 +2,7 @@ DECL|class|QDirSortItemComparator
 DECL|function|QDir
 DECL|function|QDir
 DECL|function|QDir
+DECL|function|QDir
 DECL|function|QDirPrivate
 DECL|function|QDirPrivate
 DECL|function|QDirSortItemComparator
@@ -17,6 +18,7 @@ DECL|function|clearFileLists
 DECL|function|convertSeparators
 DECL|function|count
 DECL|function|currentPath
+DECL|function|d_func
 DECL|function|dirName
 DECL|function|driveSpec
 DECL|function|drives
