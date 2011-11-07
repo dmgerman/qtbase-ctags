@@ -4,7 +4,6 @@ DECL|function|ace_testsuite_data
 DECL|function|assignment
 DECL|function|binaryData
 DECL|function|binaryData_data
-DECL|function|cleanup
 DECL|function|clear
 DECL|function|comparison
 DECL|function|compat_constructor_01
@@ -54,7 +53,6 @@ DECL|function|i18n
 DECL|function|i18n_data
 DECL|function|idna_testsuite
 DECL|function|idna_testsuite_data
-DECL|function|init
 DECL|function|invalidSchemeValidator
 DECL|function|ipv6
 DECL|function|ipv6_2
@@ -115,9 +113,7 @@ DECL|function|toString_constructed
 DECL|function|toString_constructed_data
 DECL|function|toString_data
 DECL|function|tolerantParser
-DECL|function|tst_QUrl
 DECL|function|ushortarray
-DECL|function|~tst_QUrl
 DECL|macro|IDNA_ACE_PREFIX
 DECL|macro|IDNA_SUCCESS
 DECL|macro|STRINGPREP_BIDI_BOTH_L_AND_RAL

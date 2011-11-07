@@ -29,7 +29,6 @@ DECL|function|stateChanged
 DECL|function|stopGroupWithRunningChild
 DECL|function|stopUncontrolledAnimations
 DECL|function|timerEvent
-DECL|function|tst_QParallelAnimationGroup
 DECL|function|updateChildrenWithRunningGroup
 DECL|function|updateCurrentValue
 DECL|function|updateCurrentValue
@@ -38,7 +37,6 @@ DECL|function|updateState
 DECL|function|updateState
 DECL|function|value
 DECL|function|zeroDurationAnimation
-DECL|function|~tst_QParallelAnimationGroup
 DECL|macro|Running
 DECL|macro|Stopped
 DECL|member|id

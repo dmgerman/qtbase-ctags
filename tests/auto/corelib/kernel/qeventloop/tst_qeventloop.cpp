@@ -23,7 +23,6 @@ DECL|function|SocketEventsTester
 DECL|function|SocketTestThread
 DECL|function|StartStopEvent
 DECL|function|TimerReceiver
-DECL|function|cleanup
 DECL|function|customEvent
 DECL|function|customEvent
 DECL|function|exec
@@ -32,7 +31,6 @@ DECL|function|execAfterExit
 DECL|function|exit
 DECL|function|exit1
 DECL|function|exit2
-DECL|function|init
 DECL|function|init
 DECL|function|nestedLoops
 DECL|function|processEvents
@@ -48,10 +46,8 @@ DECL|function|sendHello
 DECL|function|throwException
 DECL|function|throwInExec
 DECL|function|timerEvent
-DECL|function|tst_QEventLoop
 DECL|function|wakeUp
 DECL|function|~SocketEventsTester
-DECL|function|~tst_QEventLoop
 DECL|macro|EXEC_TIMEOUT
 DECL|member|cond
 DECL|member|count

@@ -31,7 +31,6 @@ DECL|function|generateStringData
 DECL|function|getSetCheck
 DECL|function|hexTest
 DECL|function|hexTest_data
-DECL|function|init
 DECL|function|int_read_with_locale
 DECL|function|int_read_with_locale_data
 DECL|function|int_write_with_locale
@@ -97,7 +96,6 @@ DECL|function|string_write_operator_ToDevice
 DECL|function|string_write_operator_ToDevice_data
 DECL|function|task178772_setCodec
 DECL|function|task180679_alignAccountingStyle
-DECL|function|tst_QTextStream
 DECL|function|unsignedInt_write_operator_ToDevice_data
 DECL|function|unsignedShort_write_operator_ToDevice_data
 DECL|function|useCase1
@@ -108,7 +106,6 @@ DECL|function|writeData
 DECL|function|writeSeekWriteNoBOM
 DECL|function|ws_manipulator
 DECL|function|zeroTermination
-DECL|function|~tst_QTextStream
 DECL|macro|IMPLEMENT_STREAM_LEFT_INT_OPERATOR_TEST
 DECL|macro|IMPLEMENT_STREAM_LEFT_REAL_OPERATOR_TEST
 DECL|macro|IMPLEMENT_STREAM_RIGHT_INT_OPERATOR_TEST

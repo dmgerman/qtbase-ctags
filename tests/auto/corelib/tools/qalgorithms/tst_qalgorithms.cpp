@@ -14,13 +14,11 @@ DECL|function|TestInt
 DECL|function|at
 DECL|function|begin
 DECL|function|binaryFindOnLargeContainer
-DECL|function|cleanup
 DECL|function|convenienceAPI
 DECL|function|createStableTestVector
 DECL|function|curPos
 DECL|function|end
 DECL|function|generateData
-DECL|function|init
 DECL|function|isSorted
 DECL|function|isSorted
 DECL|function|isStableSorted
@@ -72,8 +70,6 @@ DECL|function|test_qLowerBound
 DECL|function|test_qLowerBound_data
 DECL|function|test_qUpperBound
 DECL|function|test_qUpperBound_data
-DECL|function|tst_QAlgorithms
-DECL|function|~tst_QAlgorithms
 DECL|macro|Q_TEST_PERFORMANCE
 DECL|member|Major
 DECL|member|Minor

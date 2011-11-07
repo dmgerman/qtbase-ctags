@@ -23,7 +23,6 @@ DECL|function|run
 DECL|function|setLocalData
 DECL|function|testAdoptedThreadStorageUnix
 DECL|function|testAdoptedThreadStorageWin
-DECL|function|tst_QThreadStorage
 DECL|function|valueBased
 DECL|function|~First
 DECL|function|~Pointer

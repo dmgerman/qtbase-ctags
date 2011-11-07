@@ -12,13 +12,12 @@ DECL|function|QRegExpData
 DECL|function|SequentialBuffer
 DECL|function|bitarray
 DECL|function|boolData
-DECL|function|cleanup
+DECL|function|cleanupTestCase
 DECL|function|compatibility_Qt2
 DECL|function|compatibility_Qt3
 DECL|function|dataIndex
 DECL|function|floatingPointPrecision
 DECL|function|getSetCheck
-DECL|function|init
 DECL|function|isSequential
 DECL|function|pos
 DECL|function|qBrushData
@@ -144,7 +143,6 @@ DECL|function|stream_qint64
 DECL|function|stream_qint64_data
 DECL|function|stream_writeError
 DECL|function|stringData
-DECL|function|tst_QDataStream
 DECL|function|writeData
 DECL|function|writeHash
 DECL|function|writeMap
@@ -172,7 +170,6 @@ DECL|function|writeQString
 DECL|function|writeQTime
 DECL|function|writebool
 DECL|function|writeqint64
-DECL|function|~tst_QDataStream
 DECL|macro|LIST_TEST
 DECL|macro|MAP_TEST
 DECL|macro|MAX_EASING_DATA

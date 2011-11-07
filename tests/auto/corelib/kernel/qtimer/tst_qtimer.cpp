@@ -20,12 +20,8 @@ DECL|function|TimerHelper
 DECL|function|TimerIdPersistsAfterThreadExitThread
 DECL|function|TimerInfiniteRecursionObject
 DECL|function|cancelLongTimer
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|deleteLaterOnQTimer
 DECL|function|event
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|livelock
 DECL|function|livelock_data
 DECL|function|longLastingSlot
@@ -54,11 +50,9 @@ DECL|function|timerFiresOnlyOncePerProcessEvents_data
 DECL|function|timerIdPersistsAfterThreadExit
 DECL|function|timerInfiniteRecursion
 DECL|function|timerInfiniteRecursion_data
-DECL|function|tst_QTimer
 DECL|function|twotrigger
 DECL|function|zeroTimer
 DECL|function|~TimerIdPersistsAfterThreadExitThread
-DECL|function|~tst_QTimer
 DECL|macro|MOVETOTHREAD_TIMEOUT
 DECL|macro|MOVETOTHREAD_WAIT
 DECL|macro|TIMEOUT_TIMEOUT

@@ -20,7 +20,6 @@ DECL|function|seekTest
 DECL|function|seekTest_data
 DECL|function|signalTest
 DECL|function|signalTest_data
-DECL|function|tst_QBuffer
 DECL|function|writeAfterQByteArrayResize
 DECL|function|writeBlock
 DECL|function|writeBlock_data

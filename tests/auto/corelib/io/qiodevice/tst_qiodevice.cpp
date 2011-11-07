@@ -1,11 +1,9 @@
 DECL|class|PeekBug
 DECL|class|tst_QIODevice
 DECL|function|PeekBug
-DECL|function|cleanup
 DECL|function|constructing_QFile
 DECL|function|constructing_QTcpSocket
 DECL|function|getSetCheck
-DECL|function|init
 DECL|function|peek
 DECL|function|peekAndRead
 DECL|function|peekBug
@@ -15,9 +13,7 @@ DECL|function|readLine2
 DECL|function|readLine2_data
 DECL|function|readLine_data
 DECL|function|read_QByteArray
-DECL|function|tst_QIODevice
 DECL|function|unget
 DECL|function|writeData
-DECL|function|~tst_QIODevice
 DECL|member|alphabet
 DECL|member|counter

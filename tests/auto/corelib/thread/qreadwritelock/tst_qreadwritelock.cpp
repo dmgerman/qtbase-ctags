@@ -44,13 +44,11 @@ DECL|function|run
 DECL|function|run
 DECL|function|tryReadLock
 DECL|function|tryWriteLock
-DECL|function|tst_QReadWriteLock
 DECL|function|uncontendedLocks
 DECL|function|writeLockBlockRelease
 DECL|function|writeLockLoop
 DECL|function|writeLockUnlock
 DECL|function|writeLockUnlockLoop
-DECL|function|~tst_QReadWriteLock
 DECL|macro|RWTESTSLEEP
 DECL|macro|RWTESTSLEEP
 DECL|macro|sleep

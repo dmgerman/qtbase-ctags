@@ -6,13 +6,11 @@ DECL|function|QTBUG_7049_data
 DECL|function|Thread
 DECL|function|capturedTexts
 DECL|function|caretAnchoredOptimization
-DECL|function|cleanup
 DECL|function|exactMatch
 DECL|function|getSetCheck
 DECL|function|indexIn
 DECL|function|indexIn_addMoreRows
 DECL|function|indexIn_data
-DECL|function|init
 DECL|function|interval
 DECL|function|isEmpty
 DECL|function|lastIndexIn
@@ -32,10 +30,8 @@ DECL|function|testEscapingWildcard_data
 DECL|function|testInvalidWildcard
 DECL|function|testInvalidWildcard_data
 DECL|function|threadsafeEngineCache
-DECL|function|tst_QRegExp
 DECL|function|wildcard
 DECL|function|wildcard_data
-DECL|function|~tst_QRegExp
 DECL|member|rx
 DECL|variable|N
 DECL|variable|email

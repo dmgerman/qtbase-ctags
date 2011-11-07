@@ -17,7 +17,6 @@ DECL|function|run
 DECL|function|run
 DECL|function|sleep
 DECL|function|sleep
-DECL|function|tst_QWaitCondition
 DECL|function|wait_QMutex
 DECL|function|wait_QMutex_Thread_1
 DECL|function|wait_QMutex_Thread_2

@@ -13,10 +13,8 @@ DECL|function|prepend_data
 DECL|function|refCount
 DECL|function|setCapacity
 DECL|function|swap
-DECL|function|tst_QContiguousCache
 DECL|function|zeroCapacity
 DECL|function|~RefCountingClass
-DECL|function|~tst_QContiguousCache
 DECL|member|d
 DECL|member|ref
 DECL|member|shared_null

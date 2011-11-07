@@ -4,7 +4,6 @@ DECL|function|asciiToIscii
 DECL|function|checkAliases
 DECL|function|checkAliases_data
 DECL|function|codecForHtml
-DECL|function|codecForIndex
 DECL|function|codecForLocale
 DECL|function|codecForName
 DECL|function|codecForName_data

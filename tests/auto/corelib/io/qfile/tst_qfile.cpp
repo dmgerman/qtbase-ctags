@@ -142,7 +142,6 @@ DECL|function|task167217
 DECL|function|text
 DECL|function|textFile
 DECL|function|truncate
-DECL|function|tst_QFile
 DECL|function|ungetChar
 DECL|function|useQFileInAFileHandler
 DECL|function|virtualFile
@@ -155,7 +154,6 @@ DECL|function|writeTextFile_data
 DECL|function|writeToReadOnlyFile
 DECL|function|~AutoIgnoreInvalidParameter
 DECL|function|~MyEngine
-DECL|function|~tst_QFile
 DECL|macro|FILESIZE
 DECL|macro|QT_OPEN_BINARY
 DECL|macro|STDERR_FILENO

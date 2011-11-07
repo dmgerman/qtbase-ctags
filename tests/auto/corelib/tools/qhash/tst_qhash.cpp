@@ -31,10 +31,8 @@ DECL|function|rehash_isnt_quadratic
 DECL|function|sorted
 DECL|function|swap
 DECL|function|take
-DECL|function|tst_QHash
 DECL|function|~Foo
 DECL|function|~MyClass
-DECL|function|~tst_QHash
 DECL|member|c
 DECL|member|count
 DECL|member|count

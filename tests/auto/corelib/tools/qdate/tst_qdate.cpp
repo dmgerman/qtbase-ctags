@@ -5,12 +5,10 @@ DECL|function|addMonths
 DECL|function|addMonths_data
 DECL|function|addYears
 DECL|function|addYears_data
-DECL|function|cleanup
 DECL|function|fromString
 DECL|function|fromString_data
 DECL|function|fromString_format
 DECL|function|fromString_format_data
-DECL|function|init
 DECL|function|isLeapYear
 DECL|function|isValid
 DECL|function|isValid_data
@@ -37,10 +35,8 @@ DECL|function|standaloneShortMonthName
 DECL|function|toString
 DECL|function|toString_format
 DECL|function|toString_format_data
-DECL|function|tst_QDate
 DECL|function|weekNumber
 DECL|function|weekNumber_data
 DECL|function|weekNumber_invalid
 DECL|function|weekNumber_invalid_data
 DECL|function|yearsZeroToNinetyNine
-DECL|function|~tst_QDate

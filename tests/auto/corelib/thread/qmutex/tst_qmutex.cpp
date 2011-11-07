@@ -22,8 +22,6 @@ DECL|function|start
 DECL|function|stressTest
 DECL|function|tryLock
 DECL|function|tryLockRace
-DECL|function|tst_QMutex
-DECL|function|~tst_QMutex
 DECL|member|cond
 DECL|member|cond
 DECL|member|errorCount

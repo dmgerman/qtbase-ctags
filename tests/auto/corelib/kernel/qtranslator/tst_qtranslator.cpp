@@ -1,8 +1,6 @@
 DECL|class|TranslatorThread
 DECL|class|tst_QTranslator
-DECL|function|cleanup
 DECL|function|event
-DECL|function|init
 DECL|function|load
 DECL|function|load2
 DECL|function|loadDirectory
@@ -13,5 +11,4 @@ DECL|function|testLanguageChange
 DECL|function|threadLoad
 DECL|function|translate_qm_file_generated_with_msgfmt
 DECL|function|tst_QTranslator
-DECL|function|~tst_QTranslator
 DECL|member|languageChangeEventCounter

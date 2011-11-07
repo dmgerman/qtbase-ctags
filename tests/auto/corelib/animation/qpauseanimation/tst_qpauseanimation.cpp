@@ -13,9 +13,7 @@ DECL|function|pauseAndPropertyAnimations
 DECL|function|pauseResume
 DECL|function|sequentialGroupWithPause
 DECL|function|sequentialPauseGroup
-DECL|function|tst_QPauseAnimation
 DECL|function|updateCurrentTime
 DECL|function|zeroDuration
 DECL|function|~EnableConsistentTiming
-DECL|function|~tst_QPauseAnimation
 DECL|member|m_updateCurrentTimeCount

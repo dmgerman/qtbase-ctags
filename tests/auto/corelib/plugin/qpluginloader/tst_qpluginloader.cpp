@@ -6,8 +6,6 @@ DECL|function|loadDebugObj
 DECL|function|loadGarbage
 DECL|function|loadHints
 DECL|function|sys_qualifiedLibraryName
-DECL|function|tst_QPluginLoader
-DECL|function|~tst_QPluginLoader
 DECL|macro|PREFIX
 DECL|macro|PREFIX
 DECL|macro|PREFIX

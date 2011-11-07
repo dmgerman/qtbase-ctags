@@ -8,9 +8,7 @@ DECL|function|mixingWithTimers
 DECL|function|posixSockets
 DECL|function|socketFired
 DECL|function|timerFired
-DECL|function|tst_QSocketNotifier
 DECL|function|unexpectedDisconnection
-DECL|function|~tst_QSocketNotifier
 DECL|macro|NATIVESOCKETENGINE
 DECL|macro|max
 DECL|macro|min

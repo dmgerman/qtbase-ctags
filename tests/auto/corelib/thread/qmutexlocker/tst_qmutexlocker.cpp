@@ -3,12 +3,10 @@ DECL|class|tst_QMutexLockerThread
 DECL|function|lockerStateTest
 DECL|function|releaseThread
 DECL|function|scopeTest
-DECL|function|tst_QMutexLocker
 DECL|function|tst_QMutexLockerThread
 DECL|function|unlockAndRelockTest
 DECL|function|waitForTest
 DECL|function|waitForThread
-DECL|function|~tst_QMutexLocker
 DECL|member|mutex
 DECL|member|semaphore
 DECL|member|testSemaphore

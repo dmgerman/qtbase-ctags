@@ -121,7 +121,6 @@ DECL|function|toUInt_data
 DECL|function|toULongLong
 DECL|function|toULongLong_data
 DECL|function|transform
-DECL|function|tst_QVariant
 DECL|function|typeName
 DECL|function|typeName_data
 DECL|function|typeToName

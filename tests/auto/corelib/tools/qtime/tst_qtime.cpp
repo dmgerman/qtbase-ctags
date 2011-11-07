@@ -3,16 +3,12 @@ DECL|function|addMSecs
 DECL|function|addMSecs_data
 DECL|function|addSecs
 DECL|function|addSecs_data
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|fromString
 DECL|function|fromStringFormat
 DECL|function|fromStringFormat_data
 DECL|function|fromString_data
 DECL|function|hour
 DECL|function|hour_data
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|isNull
 DECL|function|isValid
 DECL|function|msecsTo
@@ -32,5 +28,3 @@ DECL|function|toStringLocale
 DECL|function|toString_data
 DECL|function|toString_format
 DECL|function|toString_format_data
-DECL|function|tst_QTime
-DECL|function|~tst_QTime

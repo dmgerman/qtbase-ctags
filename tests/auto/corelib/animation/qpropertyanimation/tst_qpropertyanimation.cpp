@@ -18,7 +18,6 @@ DECL|function|Number
 DECL|function|Number
 DECL|function|StartValueTester
 DECL|function|checkAnimationFinished
-DECL|function|cleanup
 DECL|function|construction
 DECL|function|deletedInUpdateCurrentTime
 DECL|function|deletion1
@@ -29,7 +28,7 @@ DECL|function|duration0
 DECL|function|easeInOutBack
 DECL|function|easingcurve
 DECL|function|easingcurve_data
-DECL|function|init
+DECL|function|initTestCase
 DECL|function|interpolated
 DECL|function|noStartValue
 DECL|function|noStartValueWithLoop
@@ -60,7 +59,6 @@ DECL|function|startWithoutStartValue
 DECL|function|statesAndSignals
 DECL|function|statesAndSignals_data
 DECL|function|totalDuration
-DECL|function|tst_QPropertyAnimation
 DECL|function|twoAnimations
 DECL|function|updateCurrentTime
 DECL|function|updateOnSetKeyValues
@@ -71,7 +69,6 @@ DECL|function|x
 DECL|function|xaxisQPointInterpolator
 DECL|function|zeroDurationStart
 DECL|function|zeroLoopCount
-DECL|function|~tst_QPropertyAnimation
 DECL|macro|Pause
 DECL|macro|Pause
 DECL|macro|Resume

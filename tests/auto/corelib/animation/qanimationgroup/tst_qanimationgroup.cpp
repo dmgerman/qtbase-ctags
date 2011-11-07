@@ -6,7 +6,6 @@ DECL|function|AnimationObject
 DECL|function|UncontrolledAnimation
 DECL|function|addChildTwice
 DECL|function|beginNestedGroup
-DECL|function|cleanup
 DECL|function|construction
 DECL|function|duration
 DECL|function|emptyGroup
@@ -15,13 +14,10 @@ DECL|function|loopWithoutStartValue
 DECL|function|setCurrentTime
 DECL|function|setParentAutoAdd
 DECL|function|setValue
-DECL|function|statesAndSignals
 DECL|function|timerEvent
-DECL|function|tst_QAnimationGroup
 DECL|function|updateCurrentValue
 DECL|function|updateRunning
 DECL|function|updateState
 DECL|function|value
-DECL|function|~tst_QAnimationGroup
 DECL|member|id
 DECL|member|v

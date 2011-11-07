@@ -1,13 +1,11 @@
 DECL|class|tst_QBitArray
 DECL|function|QStringToQBitArray
-DECL|function|cleanup
 DECL|function|countBits
 DECL|function|countBits2
 DECL|function|countBits_data
 DECL|function|datastream
 DECL|function|datastream_data
 DECL|function|fill
-DECL|function|init
 DECL|function|invertOnNull
 DECL|function|isEmpty
 DECL|function|operator_andeq
@@ -26,5 +24,3 @@ DECL|function|size_data
 DECL|function|swap
 DECL|function|toggleBit
 DECL|function|toggleBit_data
-DECL|function|tst_QBitArray
-DECL|function|~tst_QBitArray

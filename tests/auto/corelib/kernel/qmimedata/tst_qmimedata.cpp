@@ -12,4 +12,3 @@ DECL|function|removeFormat
 DECL|function|setHtml
 DECL|function|setText
 DECL|function|setUrls
-DECL|function|tst_QMimeData

@@ -40,7 +40,6 @@ DECL|function|assignProperty
 DECL|function|assignPropertyWithAnimation
 DECL|function|brokenStateIsNeverEntered
 DECL|function|cancelDelayedEvent
-DECL|function|cleanup
 DECL|function|clearError
 DECL|function|customErrorStateIsNull
 DECL|function|customErrorStateNotInGraph
@@ -79,7 +78,6 @@ DECL|function|historyStateAfterRestart
 DECL|function|historyStateAsInitialState
 DECL|function|historyStateHasNowhereToGo
 DECL|function|historyStates
-DECL|function|init
 DECL|function|machineWithParent
 DECL|function|nestedRestoreProperties
 DECL|function|nestedRestoreProperties2
@@ -135,10 +133,8 @@ DECL|function|transitionToRootState
 DECL|function|transitionToStateNotInGraph
 DECL|function|transitionWithParent
 DECL|function|transitionsFromParallelStateWithNoChildren
-DECL|function|tst_QStateMachine
 DECL|function|twoAnimatedTransitions
 DECL|function|twoAnimations
-DECL|function|~tst_QStateMachine
 DECL|macro|QCOREAPPLICATION_EXEC
 DECL|macro|QTRY_COMPARE
 DECL|member|counter

@@ -37,10 +37,8 @@ DECL|function|swap
 DECL|function|testOperators
 DECL|function|toList
 DECL|function|toStdVector
-DECL|function|tst_QVector
 DECL|function|value
 DECL|function|~Foo
-DECL|function|~tst_QVector
 DECL|member|p
 DECL|struct|Foo
 DECL|variable|fooCtor

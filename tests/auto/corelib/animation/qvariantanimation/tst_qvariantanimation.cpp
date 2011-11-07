@@ -1,16 +1,12 @@
 DECL|class|TestableQVariantAnimation
 DECL|class|tst_QVariantAnimation
-DECL|function|cleanup
 DECL|function|construction
 DECL|function|currentValue
 DECL|function|destruction
 DECL|function|duration
 DECL|function|easingCurve
 DECL|function|endValue
-DECL|function|init
 DECL|function|keyValueAt
 DECL|function|keyValues
 DECL|function|startValue
-DECL|function|tst_QVariantAnimation
 DECL|function|updateCurrentValue
-DECL|function|~tst_QVariantAnimation

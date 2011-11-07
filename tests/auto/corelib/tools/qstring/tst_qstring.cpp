@@ -49,7 +49,6 @@ DECL|function|indexOf2_data
 DECL|function|indexOf3_data
 DECL|function|indexOf_data
 DECL|function|inf
-DECL|function|init
 DECL|function|insert
 DECL|function|integer_conversion
 DECL|function|integer_conversion_data
@@ -160,7 +159,6 @@ DECL|function|truncateWithNegative
 DECL|function|tst_QString
 DECL|function|utf8
 DECL|function|utf8_data
-DECL|function|~tst_QString
 DECL|macro|CHECK_DOUBLE
 DECL|macro|CHECK_INF
 DECL|macro|CHECK_NAN

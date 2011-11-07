@@ -68,8 +68,6 @@ DECL|function|setPath
 DECL|function|setPath_data
 DECL|function|tempPath
 DECL|function|testCaching
-DECL|function|tst_QDir
 DECL|function|updateFileLists
-DECL|function|~tst_QDir
 DECL|macro|Q_NO_SYMLINKS
 DECL|macro|_WIN32_WINNT

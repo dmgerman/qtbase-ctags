@@ -17,9 +17,7 @@ DECL|function|remove
 DECL|function|setMaxCost
 DECL|function|take
 DECL|function|totalCost
-DECL|function|tst_QCache
 DECL|function|~Foo
-DECL|function|~tst_QCache
 DECL|member|c
 DECL|member|count
 DECL|member|count

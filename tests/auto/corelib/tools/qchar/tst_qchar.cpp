@@ -1,13 +1,11 @@
 DECL|class|tst_QChar
 DECL|function|category
 DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|combiningClass
 DECL|function|decomposition
 DECL|function|digitValue
 DECL|function|direction
 DECL|function|init
-DECL|function|initTestCase
 DECL|function|isDigit
 DECL|function|isDigit_data
 DECL|function|isExpectedLetter
@@ -32,7 +30,5 @@ DECL|function|toCaseFolded
 DECL|function|toLower
 DECL|function|toTitle
 DECL|function|toUpper
-DECL|function|tst_QChar
 DECL|function|unicodeVersion
-DECL|function|~tst_QChar
 DECL|member|app

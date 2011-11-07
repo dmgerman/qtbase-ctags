@@ -14,7 +14,6 @@ DECL|function|indexOf2
 DECL|function|indexOf2_data
 DECL|function|indexOf_data
 DECL|function|inf
-DECL|function|init
 DECL|function|isEmpty
 DECL|function|isLatin
 DECL|function|lastIndexOf
@@ -25,8 +24,6 @@ DECL|function|nan
 DECL|function|operator_eqeq_nullstring
 DECL|function|sign
 DECL|function|startsWith
-DECL|function|tst_QStringRef
-DECL|function|~tst_QStringRef
 DECL|macro|CREATE_REF
 DECL|macro|INFINITY
 DECL|macro|INFINITY

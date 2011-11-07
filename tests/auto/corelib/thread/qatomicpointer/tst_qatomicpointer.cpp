@@ -18,9 +18,7 @@ DECL|function|isTestAndSetWaitFree
 DECL|function|self
 DECL|function|star_operator
 DECL|function|testAndSet
-DECL|function|tst_QAtomicPointer
 DECL|function|warningFree
 DECL|function|warningFreeHelper
-DECL|function|~tst_QAtomicPointer
 DECL|struct|Type
 DECL|struct|WFHC

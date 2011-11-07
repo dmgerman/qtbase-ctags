@@ -16,11 +16,9 @@ DECL|function|operator =
 DECL|function|operator =
 DECL|function|removeLast
 DECL|function|task214223
-DECL|function|tst_QVarLengthArray
 DECL|function|~Foo
 DECL|function|~MyBase
 DECL|function|~MyPrimitive
-DECL|function|~tst_QVarLengthArray
 DECL|member|copyCount
 DECL|member|copyCount
 DECL|member|data

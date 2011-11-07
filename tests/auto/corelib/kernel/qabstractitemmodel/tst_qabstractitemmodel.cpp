@@ -6,8 +6,6 @@ DECL|function|QtTestModel
 DECL|function|QtTestModel
 DECL|function|_data
 DECL|function|changePersistentIndex
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|columnCount
 DECL|function|complexChangesWithPersistent
 DECL|function|data
@@ -58,8 +56,6 @@ DECL|function|testMoveToUncle_data
 DECL|function|testMoveWithinOwnRange
 DECL|function|testMoveWithinOwnRange_data
 DECL|function|testReset
-DECL|function|tst_QAbstractItemModel
-DECL|function|~tst_QAbstractItemModel
 DECL|macro|STRINGTABLE
 DECL|macro|STRINGTABLE
 DECL|member|cCount

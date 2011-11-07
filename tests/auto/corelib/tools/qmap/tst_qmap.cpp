@@ -22,7 +22,6 @@ DECL|function|operator_eq
 DECL|function|qmultimap_specific
 DECL|function|swap
 DECL|function|take
-DECL|function|tst_QMap
 DECL|function|~MyClass
 DECL|macro|QT_STRICT_ITERATORS
 DECL|member|count

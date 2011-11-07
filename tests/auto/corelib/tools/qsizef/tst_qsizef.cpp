@@ -1,12 +1,8 @@
 DECL|class|tst_QSizeF
 DECL|function|boundedTo
 DECL|function|boundedTo_data
-DECL|function|cleanup
 DECL|function|expandedTo
 DECL|function|expandedTo_data
-DECL|function|init
 DECL|function|scale
 DECL|function|transpose
 DECL|function|transpose_data
-DECL|function|tst_QSizeF
-DECL|function|~tst_QSizeF

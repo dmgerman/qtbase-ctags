@@ -13,7 +13,6 @@ DECL|function|testLength_data
 DECL|function|testNormalVector
 DECL|function|testNormalVector_data
 DECL|function|testSet
-DECL|function|tst_QLine
 DECL|macro|M_2PI
 DECL|macro|SQRT2
 DECL|macro|UNITX_45

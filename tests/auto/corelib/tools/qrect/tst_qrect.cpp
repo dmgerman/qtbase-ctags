@@ -37,7 +37,6 @@ DECL|function|bottomRight_data
 DECL|function|bottom_data
 DECL|function|center
 DECL|function|center_data
-DECL|function|cleanup
 DECL|function|containsPoint
 DECL|function|containsPointF
 DECL|function|containsPointF_data
@@ -53,7 +52,6 @@ DECL|function|getQPointCase
 DECL|function|getQRectCase
 DECL|function|getRect
 DECL|function|getRect_data
-DECL|function|init
 DECL|function|intersectedRect
 DECL|function|intersectedRectF
 DECL|function|intersectedRectF_data
@@ -132,7 +130,6 @@ DECL|function|topRight_data
 DECL|function|top_data
 DECL|function|translate
 DECL|function|translate_data
-DECL|function|tst_QRect
 DECL|function|unitedRect
 DECL|function|unitedRectF
 DECL|function|unitedRectF_data
@@ -141,5 +138,4 @@ DECL|function|x
 DECL|function|x_data
 DECL|function|y
 DECL|function|y_data
-DECL|function|~tst_QRect
 DECL|macro|LARGE

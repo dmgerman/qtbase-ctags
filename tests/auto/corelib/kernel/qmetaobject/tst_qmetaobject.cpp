@@ -32,8 +32,6 @@ DECL|function|QtTestObject
 DECL|function|QtTestObject
 DECL|function|checkScope
 DECL|function|classInfo
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|connectSlotsByName
 DECL|function|customPropertyType
 DECL|function|fire
@@ -42,8 +40,6 @@ DECL|function|getValue
 DECL|function|get_value
 DECL|function|indexOfMethod
 DECL|function|indexOfMethod_data
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|invokeBlockingQueuedMetaMember
 DECL|function|invokeCustomTypes
 DECL|function|invokeMetaConstructor
@@ -93,7 +89,6 @@ DECL|function|stdSet
 DECL|function|testLongLong
 DECL|function|testReference
 DECL|function|testSender
-DECL|function|tst_QMetaObject
 DECL|function|val3
 DECL|function|val4
 DECL|function|val5
@@ -102,7 +97,6 @@ DECL|function|value6
 DECL|function|value7
 DECL|function|value8
 DECL|function|value9
-DECL|function|~tst_QMetaObject
 DECL|macro|FUNCTION
 DECL|member|child
 DECL|member|child

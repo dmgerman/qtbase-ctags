@@ -42,9 +42,7 @@ DECL|function|slot5
 DECL|function|smetacall
 DECL|function|staticMetacall
 DECL|function|superClass
-DECL|function|tst_QMetaObjectBuilder
 DECL|function|~SomethingOfEverything
-DECL|function|~tst_QMetaObjectBuilder
 DECL|macro|CHECK_FLAG
 DECL|macro|CLEAR_FLAGS
 DECL|macro|COUNT_FLAGS

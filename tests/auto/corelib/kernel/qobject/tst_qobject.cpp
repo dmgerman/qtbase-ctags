@@ -75,8 +75,6 @@ DECL|function|called
 DECL|function|childDeletesItsSibling
 DECL|function|classPointerSlot
 DECL|function|classSlot
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|compatibilityChildInsertedEvents
 DECL|function|connectByMetaMethodSlotInsteadOfSignal
@@ -141,8 +139,6 @@ DECL|function|eventList
 DECL|function|findChildren
 DECL|function|floatProperty
 DECL|function|harmfullSlot
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|installEventFilter
 DECL|function|interfaceIid
 DECL|function|invoke1
@@ -235,7 +231,6 @@ DECL|function|thread
 DECL|function|thread0
 DECL|function|threadSignalEmissionCrash
 DECL|function|timerEvent
-DECL|function|tst_QObject
 DECL|function|typeConstRefSlot
 DECL|function|typePointerConstRefSlot
 DECL|function|typeRefSlot
@@ -259,7 +254,6 @@ DECL|function|~Bleh
 DECL|function|~CustomType
 DECL|function|~MoveToThreadThread
 DECL|function|~SiblingDeleter
-DECL|function|~tst_QObject
 DECL|macro|Bleh_iid
 DECL|macro|SIGNAL_INDEX
 DECL|member|aPublicSlotCalled

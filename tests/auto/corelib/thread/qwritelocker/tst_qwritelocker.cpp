@@ -3,11 +3,9 @@ DECL|class|tst_QWriteLockerThread
 DECL|function|lockerStateTest
 DECL|function|releaseThread
 DECL|function|scopeTest
-DECL|function|tst_QWriteLocker
 DECL|function|unlockAndRelockTest
 DECL|function|waitForTest
 DECL|function|waitForThread
-DECL|function|~tst_QWriteLocker
 DECL|member|lock
 DECL|member|semaphore
 DECL|member|testSemaphore

@@ -11,6 +11,7 @@ DECL|function|bundleName
 DECL|function|bundleName_data
 DECL|function|canonicalFilePath
 DECL|function|canonicalPath
+DECL|function|cleanupTestCase
 DECL|function|compare
 DECL|function|compare_data
 DECL|function|completeBaseName
@@ -69,6 +70,4 @@ DECL|function|suffix_data
 DECL|function|systemFiles
 DECL|function|testDecomposedUnicodeNames
 DECL|function|testDecomposedUnicodeNames_data
-DECL|function|tst_QFileInfo
-DECL|function|~tst_QFileInfo
 DECL|macro|_WIN32_WINNT

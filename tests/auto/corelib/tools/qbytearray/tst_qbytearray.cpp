@@ -6,8 +6,6 @@ DECL|function|base64_data
 DECL|function|byteRefDetaching
 DECL|function|chop
 DECL|function|chop_data
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|compare
 DECL|function|compareCharStar
 DECL|function|compareCharStar_data
@@ -20,8 +18,6 @@ DECL|function|fromBase64
 DECL|function|fromBase64_data
 DECL|function|indexOf
 DECL|function|indexOf_data
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|insert
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf_data
@@ -71,5 +67,4 @@ DECL|function|toULongLong
 DECL|function|toULongLong_data
 DECL|function|toULong_data
 DECL|function|tst_QByteArray
-DECL|function|~tst_QByteArray
 DECL|variable|globalChar

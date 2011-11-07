@@ -1,10 +1,8 @@
 DECL|class|tst_QStringList
-DECL|function|cleanup
 DECL|function|contains
 DECL|function|filter
 DECL|function|indexOf
 DECL|function|indexOf_regExp
-DECL|function|init
 DECL|function|initializeList
 DECL|function|join
 DECL|function|joinEmptiness
@@ -15,5 +13,3 @@ DECL|function|removeDuplicates
 DECL|function|removeDuplicates_data
 DECL|function|replaceInStrings
 DECL|function|streamingOperator
-DECL|function|tst_QStringList
-DECL|function|~tst_QStringList

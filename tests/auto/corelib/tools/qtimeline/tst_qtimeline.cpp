@@ -1,5 +1,4 @@
 DECL|class|tst_QTimeLine
-DECL|function|cleanup
 DECL|function|cosineCurve
 DECL|function|currentFrame
 DECL|function|currentTime
@@ -8,7 +7,6 @@ DECL|function|finished
 DECL|function|finishedSlot
 DECL|function|frameChanged
 DECL|function|frameRate
-DECL|function|init
 DECL|function|interpolation
 DECL|function|isRunning
 DECL|function|loopCount
@@ -22,8 +20,6 @@ DECL|function|reverse_data
 DECL|function|sineCurve
 DECL|function|stateInFinishedSignal
 DECL|function|stopped
-DECL|function|tst_QTimeLine
 DECL|function|value
-DECL|function|~tst_QTimeLine
 DECL|member|state
 DECL|member|view

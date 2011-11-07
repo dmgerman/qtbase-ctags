@@ -82,12 +82,10 @@ DECL|function|stressTest
 DECL|function|terminate
 DECL|function|terminated
 DECL|function|testNativeThreadAdoption
-DECL|function|tst_QThread
 DECL|function|usleep
 DECL|function|wait2
 DECL|function|wait3_slowDestructor
 DECL|function|wasActivated
-DECL|function|~tst_QThread
 DECL|macro|WIN_FIX_STDCALL
 DECL|macro|WIN_FIX_STDCALL
 DECL|member|activationCount

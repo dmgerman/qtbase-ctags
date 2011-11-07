@@ -8,7 +8,6 @@ DECL|function|addSecs
 DECL|function|addSecs_data
 DECL|function|addYears
 DECL|function|addYears_data
-DECL|function|cleanup
 DECL|function|ctor
 DECL|function|currentDateTime
 DECL|function|currentDateTimeUtc
@@ -72,5 +71,4 @@ DECL|function|toUTC_data
 DECL|function|tst_QDateTime
 DECL|function|utcOffset
 DECL|function|utcOffsetLessThan
-DECL|function|~tst_QDateTime
 DECL|member|europeanTimeZone

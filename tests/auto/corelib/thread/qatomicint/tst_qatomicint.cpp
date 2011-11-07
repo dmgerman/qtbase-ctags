@@ -36,9 +36,7 @@ DECL|function|run
 DECL|function|testAndSet
 DECL|function|testAndSet_data
 DECL|function|testAndSet_loop
-DECL|function|tst_QAtomicInt
 DECL|function|warningFree
 DECL|function|warningFreeHelper
-DECL|function|~tst_QAtomicInt
 DECL|member|iterations
 DECL|member|val
