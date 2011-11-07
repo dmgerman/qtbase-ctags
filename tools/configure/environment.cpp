@@ -7,7 +7,6 @@ DECL|function|execute
 DECL|function|qt_create_commandline
 DECL|function|qt_create_environment
 DECL|function|rmdir
-DECL|function|symbianEpocRoot
 DECL|member|compiler
 DECL|member|compilerStr
 DECL|member|detectedCompiler
