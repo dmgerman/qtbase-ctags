@@ -15,4 +15,3 @@ DECL|function|isClean
 DECL|function|isClean_data
 DECL|function|suffix
 DECL|function|suffix_data
-DECL|macro|WIN_STUFF
