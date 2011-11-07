@@ -1,4 +1,6 @@
 DECL|class|tst_QString
+DECL|function|EXT_mm_lddqu_si128
+DECL|function|EXT_mm_load_si128
 DECL|function|bsf_nonzero
 DECL|function|conditional_invert
 DECL|function|equals
