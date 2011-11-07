@@ -11,7 +11,6 @@ DECL|function|onTransition
 DECL|function|slot
 DECL|function|transitions
 DECL|function|tst_QState
-DECL|macro|QTRY_COMPARE
 DECL|member|called
 DECL|member|functionCalled
 DECL|member|m_type

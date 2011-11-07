@@ -136,7 +136,6 @@ DECL|function|transitionsFromParallelStateWithNoChildren
 DECL|function|twoAnimatedTransitions
 DECL|function|twoAnimations
 DECL|macro|QCOREAPPLICATION_EXEC
-DECL|macro|QTRY_COMPARE
 DECL|member|counter
 DECL|member|error
 DECL|member|errorString
