@@ -133,6 +133,8 @@ DECL|function|textCursor
 DECL|function|textInteractionFlags
 DECL|function|textWidth
 DECL|function|timerEvent
+DECL|function|toHtml
+DECL|function|toPlainText
 DECL|function|undo
 DECL|function|updateCurrentCharFormat
 DECL|function|~QWidgetTextControl

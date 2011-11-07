@@ -117,6 +117,8 @@ DECL|function|textColor
 DECL|function|textCursor
 DECL|function|textInteractionFlags
 DECL|function|timerEvent
+DECL|function|toHtml
+DECL|function|toPlainText
 DECL|function|undo
 DECL|function|updateDefaultTextOption
 DECL|function|wheelEvent
