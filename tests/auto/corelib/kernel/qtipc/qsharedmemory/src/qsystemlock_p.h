@@ -1,2 +1,0 @@
-DECL|macro|MAX_LOCKS
-DECL|macro|QSYSTEMLOCK_P_H
