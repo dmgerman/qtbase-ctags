@@ -27,6 +27,7 @@ DECL|class|OverloadObject
 DECL|class|PropertyObject
 DECL|class|QCustomTypeChecker
 DECL|class|ReceiverObject
+DECL|class|ReturnValue
 DECL|class|SenderObject
 DECL|class|SequenceObject
 DECL|class|SiblingDeleter
@@ -178,6 +179,11 @@ DECL|function|on_Sender_signalNoParams
 DECL|function|on_Sender_signalWithParams
 DECL|function|on_Sender_signalWithParams
 DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
 DECL|function|operator <<
 DECL|function|operator >>
 DECL|function|otherObjectDestroyed
@@ -201,6 +207,17 @@ DECL|function|relaySignalAndProcessEvents
 DECL|function|rememberSender
 DECL|function|reset
 DECL|function|reset
+DECL|function|return23
+DECL|function|returnCustomTypeSlot
+DECL|function|returnHello
+DECL|function|returnIntSlot
+DECL|function|returnStringSlot
+DECL|function|returnValue
+DECL|function|returnValue2
+DECL|function|returnValue2_data
+DECL|function|returnValue_data
+DECL|function|returnVariantSlot
+DECL|function|returnVoidSlot
 DECL|function|rtti
 DECL|function|rtti
 DECL|function|run
@@ -262,6 +279,7 @@ DECL|function|slot_vi
 DECL|function|slot_vii
 DECL|function|slot_viii
 DECL|function|slot_vs
+DECL|function|someFunctionReturningString
 DECL|function|start
 DECL|function|static_slot_i
 DECL|function|static_slot_ii
@@ -401,8 +419,13 @@ DECL|struct|Bar
 DECL|struct|Bleh
 DECL|struct|CheckInstanceCount
 DECL|struct|CustomType
+DECL|struct|CustomTypeFunctor
 DECL|struct|Functor
+DECL|struct|IntFunctor
+DECL|struct|StringFunctor
 DECL|struct|Struct
+DECL|struct|VariantFunctor
+DECL|struct|VoidFunctor
 DECL|typedef|CustomString
 DECL|typedef|EventList
 DECL|typedef|fptr
