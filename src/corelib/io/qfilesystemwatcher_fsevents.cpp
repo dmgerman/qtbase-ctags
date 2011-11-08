@@ -18,5 +18,6 @@ DECL|function|updateHash
 DECL|function|updateList
 DECL|function|warmUpFSEvents
 DECL|function|~QFSEventsFileSystemWatcherEngine
+DECL|macro|_DARWIN_USE_64_BIT_INODE
 DECL|variable|Latency
 DECL|variable|QtFSEventFlags
