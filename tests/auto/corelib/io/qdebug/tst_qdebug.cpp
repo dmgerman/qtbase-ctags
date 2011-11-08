@@ -2,6 +2,7 @@ DECL|class|tst_QDebug
 DECL|function|assignment
 DECL|function|criticalWithoutDebug
 DECL|function|debugWithQBool
+DECL|function|defaultMessagehandler
 DECL|function|myMessageHandler
 DECL|function|qDebugQStringRef
 DECL|function|veryLongWarningMessage

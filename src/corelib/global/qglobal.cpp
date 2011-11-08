@@ -9,6 +9,7 @@ DECL|function|mac_default_handler
 DECL|function|qBadAlloc
 DECL|function|qCritical
 DECL|function|qDebug
+DECL|function|qDefaultMsgHandler
 DECL|function|qEmergencyOut
 DECL|function|qErrnoWarning
 DECL|function|qErrnoWarning
