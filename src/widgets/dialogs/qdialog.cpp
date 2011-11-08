@@ -33,4 +33,3 @@ DECL|function|showEvent
 DECL|function|showExtension
 DECL|function|sizeHint
 DECL|function|~QDialog
-DECL|macro|SPI_GETSNAPTODEFBUTTON
