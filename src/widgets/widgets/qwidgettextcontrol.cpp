@@ -25,6 +25,7 @@ DECL|function|boundingRectOfFloatsInSelection
 DECL|function|canInsertFromMimeData
 DECL|function|canPaste
 DECL|function|clear
+DECL|function|commitPreedit
 DECL|function|contextMenuEvent
 DECL|function|copy
 DECL|function|createAutoBulletList
