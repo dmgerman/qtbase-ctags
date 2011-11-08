@@ -243,6 +243,7 @@ DECL|function|receiveCookiesFromHttpSynchronous_data
 DECL|function|receiveCookiesFromHttp_data
 DECL|function|remove
 DECL|function|remove
+DECL|function|reply
 DECL|function|replyFinished
 DECL|function|run
 DECL|function|runCustomRequest
@@ -269,6 +270,7 @@ DECL|function|startOne
 DECL|function|stateChecking
 DECL|function|storeSslConfiguration
 DECL|function|symbianOpenCDataUrlCrash
+DECL|function|synchronousAuthenticationCache
 DECL|function|synchronousRequest
 DECL|function|synchronousRequestSslFailure
 DECL|function|synchronousRequest_data
