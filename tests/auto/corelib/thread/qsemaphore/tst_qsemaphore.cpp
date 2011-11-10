@@ -16,6 +16,8 @@ DECL|function|tryAcquireWithTimeout
 DECL|function|tryAcquireWithTimeoutStarvation
 DECL|function|tryAcquireWithTimeout_data
 DECL|macro|QVERIFYGE
+DECL|macro|QVERIFYGE
+DECL|macro|QVERIFYLE
 DECL|macro|QVERIFYLE
 DECL|member|N
 DECL|variable|AlphabetSize
