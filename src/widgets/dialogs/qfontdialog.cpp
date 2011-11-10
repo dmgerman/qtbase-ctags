@@ -23,6 +23,7 @@ DECL|function|getFont
 DECL|function|getFont
 DECL|function|getFont
 DECL|function|init
+DECL|function|initHelper
 DECL|function|model
 DECL|function|open
 DECL|function|options

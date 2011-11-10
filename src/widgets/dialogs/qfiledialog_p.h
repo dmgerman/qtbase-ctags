@@ -2,6 +2,7 @@ DECL|function|QFileDialogArgs
 DECL|function|deleteNativeDialog_sys
 DECL|function|dialogResultCode_sys
 DECL|function|directory_sys
+DECL|function|initHelper
 DECL|function|mapFromSource
 DECL|function|mapToSource
 DECL|function|rootPath
@@ -12,7 +13,6 @@ DECL|function|selectedNameFilter_sys
 DECL|function|setDirectory_sys
 DECL|function|setFilter_sys
 DECL|function|setNameFilters_sys
-DECL|function|setVisible_sys
 DECL|macro|QFILEDIALOG_P_H
 DECL|macro|UrlRole
 DECL|member|caption

@@ -16,6 +16,7 @@ DECL|function|keyPressEvent
 DECL|function|minimumSizeHint
 DECL|function|open
 DECL|function|orientation
+DECL|function|parentWindow
 DECL|function|platformHelper
 DECL|function|reject
 DECL|function|resetModalitySetByOpen
@@ -25,6 +26,7 @@ DECL|function|setDefault
 DECL|function|setExtension
 DECL|function|setMainDefault
 DECL|function|setModal
+DECL|function|setNativeDialogVisible
 DECL|function|setOrientation
 DECL|function|setResult
 DECL|function|setSizeGripEnabled
@@ -32,4 +34,5 @@ DECL|function|setVisible
 DECL|function|showEvent
 DECL|function|showExtension
 DECL|function|sizeHint
+DECL|function|styleHint
 DECL|function|~QDialog

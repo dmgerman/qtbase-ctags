@@ -57,6 +57,7 @@ DECL|function|gridSize
 DECL|function|hsvEd
 DECL|function|huePt
 DECL|function|init
+DECL|function|initHelper
 DECL|function|initRGB
 DECL|function|isAlphaVisible
 DECL|function|isAlphaVisible

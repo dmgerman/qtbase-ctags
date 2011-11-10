@@ -1,2 +1,5 @@
 DECL|macro|QPLATFORMDIALOGHELPER_H
-DECL|variable|QObjectPrivate
+DECL|variable|QColor
+DECL|variable|QFont
+DECL|variable|QVariant
+DECL|variable|QWindow
