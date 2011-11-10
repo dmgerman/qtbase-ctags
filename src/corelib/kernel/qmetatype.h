@@ -1,6 +1,5 @@
 DECL|enumerator|Defined
 DECL|enumerator|Defined
-DECL|function|QT_MODULE
 DECL|function|qMetaTypeConstructHelper
 DECL|function|qMetaTypeCreateHelper
 DECL|function|qMetaTypeDeleteHelper
