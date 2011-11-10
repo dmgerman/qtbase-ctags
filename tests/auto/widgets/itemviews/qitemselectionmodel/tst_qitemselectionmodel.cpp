@@ -65,6 +65,7 @@ DECL|function|selectedRows_data
 DECL|function|selectionChanged
 DECL|function|selectionChanged
 DECL|function|setCurrentIndex
+DECL|function|setCurrentIndex
 DECL|function|setSelectionModel
 DECL|function|splitOnInsert
 DECL|function|task119433_isRowSelected
