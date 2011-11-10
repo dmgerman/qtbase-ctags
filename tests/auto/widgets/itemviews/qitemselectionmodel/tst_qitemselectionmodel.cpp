@@ -20,6 +20,7 @@ DECL|function|SelectionObserver
 DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|clearAndSelect
+DECL|function|clearCurrentIndex
 DECL|function|clear_data
 DECL|function|columnCount
 DECL|function|columnCount
@@ -76,6 +77,7 @@ DECL|function|task240734_layoutChanged
 DECL|function|task252069_rowIntersectsSelection
 DECL|function|task260134_layoutChangedWithAllSelected
 DECL|function|testChainedSelectionClear
+DECL|function|testClearCurrentIndex
 DECL|function|testDifferentModels
 DECL|function|testValidRangesInSelectionsAfterReset
 DECL|function|toggleSelection

@@ -9,6 +9,7 @@ DECL|function|_q_layoutChanged
 DECL|function|_q_rowsAboutToBeInserted
 DECL|function|_q_rowsAboutToBeRemoved
 DECL|function|clear
+DECL|function|clearCurrentIndex
 DECL|function|clearSelection
 DECL|function|columnIntersectsSelection
 DECL|function|contains
