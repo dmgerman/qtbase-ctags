@@ -1,5 +1,9 @@
 DECL|class|tst_QEasingCurve
 DECL|class|tst_QEasingProperties
+DECL|function|_fast_cbrt
+DECL|function|_fast_cbrt
+DECL|function|bezierSpline
+DECL|function|bezierSpline_data
 DECL|function|discreteEase
 DECL|function|easing
 DECL|function|fixedToString
@@ -9,6 +13,12 @@ DECL|function|properties
 DECL|function|propertyDefaults
 DECL|function|setCustomType
 DECL|function|setEasing
+DECL|function|setupBezierSpline
+DECL|function|setupTCBSpline
+DECL|function|tcbSpline
+DECL|function|tcbSpline_data
+DECL|function|testCbrtDouble
+DECL|function|testCbrtFloat
 DECL|function|tst_QEasingProperties
 DECL|function|type
 DECL|function|valueForProgress
