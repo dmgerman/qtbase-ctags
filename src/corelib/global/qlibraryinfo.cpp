@@ -5,6 +5,7 @@ DECL|function|buildDate
 DECL|function|cleanup
 DECL|function|configuration
 DECL|function|findConfiguration
+DECL|function|isDebugBuild
 DECL|function|licensedProducts
 DECL|function|licensee
 DECL|function|location
