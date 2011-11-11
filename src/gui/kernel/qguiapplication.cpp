@@ -78,6 +78,7 @@ DECL|member|mousePressY
 DECL|member|mouse_buttons
 DECL|member|mouse_double_click_distance
 DECL|member|platform_integration
+DECL|member|platform_theme
 DECL|member|qt_clipboard
 DECL|member|quitOnLastWindowClosed
 DECL|member|screen_list

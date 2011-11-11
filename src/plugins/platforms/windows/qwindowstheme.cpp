@@ -1,0 +1,3 @@
+DECL|function|QWindowsTheme
+DECL|function|createPlatformDialogHelper
+DECL|function|usePlatformNativeDialog

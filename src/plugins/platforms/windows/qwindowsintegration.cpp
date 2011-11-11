@@ -4,7 +4,6 @@ DECL|function|QWindowsIntegrationPrivate
 DECL|function|accessibility
 DECL|function|clipboard
 DECL|function|createPlatformBackingStore
-DECL|function|createPlatformDialogHelper
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
@@ -18,8 +17,8 @@ DECL|function|nativeInterface
 DECL|function|nativeResourceForBackingStore
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
+DECL|function|platformTheme
 DECL|function|styleHint
-DECL|function|usePlatformNativeDialog
 DECL|function|~QWindowsIntegration
 DECL|function|~QWindowsIntegrationPrivate
 DECL|member|m_accessibility
@@ -31,5 +30,6 @@ DECL|member|m_fontDatabase
 DECL|member|m_inputContext
 DECL|member|m_nativeInterface
 DECL|member|m_staticOpenGLContext
+DECL|member|m_theme
 DECL|struct|QWindowsIntegrationPrivate
 DECL|typedef|QOpenGLStaticContextPtr

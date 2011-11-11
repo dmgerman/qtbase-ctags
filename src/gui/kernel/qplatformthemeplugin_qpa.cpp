@@ -1,0 +1,2 @@
+DECL|function|QPlatformThemePlugin
+DECL|function|~QPlatformThemePlugin
