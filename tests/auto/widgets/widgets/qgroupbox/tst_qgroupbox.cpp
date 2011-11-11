@@ -13,6 +13,7 @@ DECL|function|setChecked_data
 DECL|function|setTitle
 DECL|function|setTitle_data
 DECL|function|sizeHint
+DECL|function|task_QTBUG_19170_ignoreMouseReleseEvent
 DECL|function|toggleTimestampSlot
 DECL|function|toggled
 DECL|function|toggledHelperSlot
