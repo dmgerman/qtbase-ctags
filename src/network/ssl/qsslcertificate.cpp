@@ -21,8 +21,8 @@ DECL|function|fromPath
 DECL|function|handle
 DECL|function|init
 DECL|function|isBlacklisted
+DECL|function|isBlacklisted
 DECL|function|isNull
-DECL|function|isValid
 DECL|function|issuerInfo
 DECL|function|issuerInfo
 DECL|function|issuerInfoAttributes
