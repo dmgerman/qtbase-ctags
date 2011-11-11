@@ -20,6 +20,8 @@ DECL|function|polish
 DECL|function|sizeFromContents
 DECL|function|standardIconImplementation
 DECL|function|standardPixmap
+DECL|function|startAnimation
+DECL|function|stopAnimation
 DECL|function|styleHint
 DECL|function|subElementRect
 DECL|function|timerEvent
