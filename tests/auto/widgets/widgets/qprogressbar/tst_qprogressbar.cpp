@@ -7,6 +7,7 @@ DECL|function|formatedText_data
 DECL|function|getSetCheck
 DECL|function|minMaxSameValue
 DECL|function|paintEvent
+DECL|function|setMinMaxRepaint
 DECL|function|setValueRepaint
 DECL|function|sizeHint
 DECL|function|task245201_testChangeStyleAndDelete
