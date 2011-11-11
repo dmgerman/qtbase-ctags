@@ -3,6 +3,7 @@ DECL|enumerator|SampleCharCount
 DECL|enumerator|SpecialCharCount
 DECL|enumerator|SpecialLanguageCount
 DECL|function|addApplicationFont
+DECL|function|defaultFont
 DECL|function|fallbacksForFamily
 DECL|function|fontEngine
 DECL|function|getFCWeight
