@@ -1,4 +1,6 @@
 DECL|class|QObjectConnectionListVector
+DECL|function|Connection
+DECL|function|Connection
 DECL|function|QConnectionSenderSwitcher
 DECL|function|QConnectionSenderSwitcher
 DECL|function|QMetaCallEvent
@@ -36,6 +38,7 @@ DECL|function|disconnect
 DECL|function|disconnect
 DECL|function|disconnect
 DECL|function|disconnect
+DECL|function|disconnect
 DECL|function|disconnectHelper
 DECL|function|disconnectNotify
 DECL|function|disconnectOne
@@ -58,6 +61,7 @@ DECL|function|moveToThread
 DECL|function|moveToThread_helper
 DECL|function|objectName
 DECL|function|operator <<
+DECL|function|operator =
 DECL|function|operator []
 DECL|function|placeMetaCall
 DECL|function|property
@@ -93,6 +97,7 @@ DECL|function|switchSender
 DECL|function|thread
 DECL|function|timerEvent
 DECL|function|userData
+DECL|function|~Connection
 DECL|function|~Connection
 DECL|function|~QConnectionSenderSwitcher
 DECL|function|~QMetaCallEvent

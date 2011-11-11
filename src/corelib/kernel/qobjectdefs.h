@@ -85,6 +85,7 @@ DECL|macro|signals
 DECL|macro|signals
 DECL|macro|slots
 DECL|macro|slots
+DECL|member|Connection
 DECL|member|d
 DECL|member|data
 DECL|member|extradata
