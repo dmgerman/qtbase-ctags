@@ -1,14 +1,9 @@
 DECL|function|Generator
-DECL|function|_generateClassInfos
-DECL|function|_generateEnums
-DECL|function|_generateFunctions
-DECL|function|_generateProperties
 DECL|function|generateClassInfos
 DECL|function|generateCode
 DECL|function|generateEnums
 DECL|function|generateFunctionRevisions
 DECL|function|generateFunctions
-DECL|function|generateMetaObject
 DECL|function|generateMetacall
 DECL|function|generateProperties
 DECL|function|generateSignal
