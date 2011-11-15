@@ -90,6 +90,7 @@ DECL|function|simpleConnectWithIgnore
 DECL|function|spontaneousWrite
 DECL|function|sslErrors
 DECL|function|sslErrors_data
+DECL|function|sslOptions
 DECL|function|startClientEncryption
 DECL|function|startServerEncryption
 DECL|function|supportedCiphers

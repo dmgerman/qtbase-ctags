@@ -21,6 +21,7 @@ DECL|function|locking_function
 DECL|function|q_X509Callback
 DECL|function|resetDefaultCiphers
 DECL|function|sessionCipher
+DECL|function|setupOpenSslOptions
 DECL|function|sslLibraryVersionNumber
 DECL|function|sslLibraryVersionString
 DECL|function|startClientEncryption
