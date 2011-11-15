@@ -4,6 +4,7 @@ DECL|function|addCommand
 DECL|function|backspace
 DECL|function|clear
 DECL|function|clearString
+DECL|function|commitPreedit
 DECL|function|copy
 DECL|function|cursorRect
 DECL|function|del
