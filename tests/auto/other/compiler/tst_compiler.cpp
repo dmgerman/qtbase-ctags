@@ -24,7 +24,9 @@ DECL|function|callOrderFunc
 DECL|function|callOrderNoCFunc
 DECL|function|charSignedness
 DECL|function|constructorSpecialization
+DECL|function|constructorSpecialization
 DECL|function|convert
+DECL|function|detectDataStream
 DECL|function|detectDataStream
 DECL|function|detectEnums
 DECL|function|foo
@@ -52,8 +54,11 @@ DECL|function|staticConstUnionWithInitializerList
 DECL|function|staticTemplateMethodSpecialization
 DECL|function|staticTemplateMethods
 DECL|function|stdSortQList
+DECL|function|stdSortQList
+DECL|function|stdSortQVector
 DECL|function|stdSortQVector
 DECL|function|templateCallOrder
+DECL|function|template_constructors
 DECL|function|template_constructors
 DECL|function|template_methods
 DECL|function|template_subclasses

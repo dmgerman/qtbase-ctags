@@ -30,6 +30,7 @@ DECL|function|showMinimized
 DECL|function|showSizeGrip
 DECL|function|throwException
 DECL|function|throwInExec
+DECL|function|throwInExec
 DECL|function|timerEvent
 DECL|function|toolDialogPosition
 DECL|function|tst_QDialog

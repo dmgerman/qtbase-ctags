@@ -15,6 +15,7 @@ DECL|function|QTBUG13079_collectionInsideCollectionAssocImpl
 DECL|function|QTBUG13079_collectionInsideCollectionImpl
 DECL|function|QTBUG13079_collectionInsidePtrImpl
 DECL|function|alignment
+DECL|function|alignment
 DECL|function|bitArray
 DECL|function|byteArray
 DECL|function|cache
