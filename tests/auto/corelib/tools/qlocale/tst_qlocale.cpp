@@ -52,6 +52,7 @@ DECL|function|weekendDays
 DECL|function|windowsDefaultLocale
 DECL|function|~RestoreLocaleHelper
 DECL|macro|MY_DOUBLE_EPSILON
+DECL|macro|QT_USE_FENV
 DECL|macro|TEST_CTOR
 DECL|macro|TEST_CTOR
 DECL|macro|TEST_CTOR
