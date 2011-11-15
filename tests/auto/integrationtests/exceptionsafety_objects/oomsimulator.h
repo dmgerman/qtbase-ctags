@@ -3,6 +3,7 @@ DECL|function|QCrtDebugRegistrator
 DECL|function|currentAllocIndex
 DECL|function|deactivate
 DECL|function|disableHooks
+DECL|function|disableHooks
 DECL|function|enableHooks
 DECL|function|initialize
 DECL|function|my_free_hook
