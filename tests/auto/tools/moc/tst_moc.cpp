@@ -91,6 +91,8 @@ DECL|function|method1
 DECL|function|method2
 DECL|function|method2
 DECL|function|multilineComments
+DECL|function|myInvokableReturningConstRef
+DECL|function|myInvokableReturningRef
 DECL|function|namespaceTypeProperty
 DECL|function|namespacedFlags
 DECL|function|notifyError
@@ -112,6 +114,7 @@ DECL|function|returnConstString
 DECL|function|returnConstString2
 DECL|function|returnConstTemplate1
 DECL|function|returnConstTemplate2
+DECL|function|returnRefs
 DECL|function|revisions
 DECL|function|revisions_T
 DECL|function|sendValue
