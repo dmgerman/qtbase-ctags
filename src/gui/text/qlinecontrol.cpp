@@ -29,12 +29,15 @@ DECL|function|processEvent
 DECL|function|processInputMethodEvent
 DECL|function|processKeyEvent
 DECL|function|processMouseEvent
+DECL|function|realText
 DECL|function|removeSelectedText
 DECL|function|resetCursorBlinkTimer
 DECL|function|selectWordAtPos
 DECL|function|setCursorBlinkPeriod
 DECL|function|setSelection
+DECL|function|setText
 DECL|function|stripString
+DECL|function|text
 DECL|function|timerEvent
 DECL|function|updateDisplayText
 DECL|function|updatePasswordEchoEditing
