@@ -7,7 +7,6 @@ DECL|function|addContext
 DECL|function|areSharing
 DECL|function|cleanup
 DECL|function|cleanup
-DECL|function|cleanup
 DECL|function|create
 DECL|function|currentContext
 DECL|function|currentContextGroup
