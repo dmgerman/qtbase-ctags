@@ -11,6 +11,5 @@ DECL|function|templateFunction
 DECL|function|valueTemplateFunction
 DECL|macro|QT_NO_DEBUG
 DECL|macro|QT_NO_DEBUG
-DECL|macro|QT_NO_DEBUG
-DECL|macro|USE_DEBUG
-DECL|macro|USE_DEBUG
+DECL|macro|UNDEF_NO_DEBUG
+DECL|macro|UNDEF_NO_DEBUG
