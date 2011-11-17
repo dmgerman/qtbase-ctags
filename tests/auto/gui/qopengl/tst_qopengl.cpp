@@ -1,5 +1,6 @@
 DECL|class|tst_QOpenGL
 DECL|function|SharedResource
+DECL|function|SharedResource
 DECL|function|SharedResourceTracker
 DECL|function|fboHandleNulledAfterContextDestroyed
 DECL|function|fboRendering
@@ -9,6 +10,7 @@ DECL|function|fuzzyCompareImages
 DECL|function|fuzzyComparePixels
 DECL|function|invalidateResource
 DECL|function|multiGroupSharedResourceCleanup
+DECL|function|multiGroupSharedResourceCleanupCustom
 DECL|function|openGLPaintDevice
 DECL|function|qt_opengl_check_test_pattern
 DECL|function|qt_opengl_draw_test_pattern
