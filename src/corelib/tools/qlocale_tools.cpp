@@ -131,6 +131,7 @@ DECL|macro|Tiny1
 DECL|macro|ULLONG_MAX
 DECL|macro|ULong
 DECL|macro|VAX
+DECL|macro|_clear87
 DECL|macro|n_bigtens
 DECL|macro|n_bigtens
 DECL|macro|n_bigtens
