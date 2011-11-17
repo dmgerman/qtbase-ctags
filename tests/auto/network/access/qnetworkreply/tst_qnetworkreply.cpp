@@ -207,6 +207,8 @@ DECL|function|newConnectionSlot
 DECL|function|onReadAndReschedule
 DECL|function|operator QNetworkReply *
 DECL|function|parentingRepliesToTheApp
+DECL|function|pipelining
+DECL|function|pipeliningHelperSlot
 DECL|function|postToHttp
 DECL|function|postToHttpMultipart
 DECL|function|postToHttpMultipart_data
