@@ -3,6 +3,7 @@ DECL|function|atEnd
 DECL|function|bytesWrittenSlot
 DECL|function|canReadLine
 DECL|function|canReadLine_data
+DECL|function|getAndUngetChar
 DECL|function|getSetCheck
 DECL|function|isClosedAfterClose
 DECL|function|isSequential
