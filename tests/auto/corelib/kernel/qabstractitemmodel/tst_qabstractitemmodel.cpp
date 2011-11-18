@@ -4,10 +4,10 @@ DECL|class|tst_QAbstractItemModel
 DECL|function|ListenerObject
 DECL|function|QtTestModel
 DECL|function|QtTestModel
-DECL|function|_data
 DECL|function|changePersistentIndex
 DECL|function|columnCount
 DECL|function|complexChangesWithPersistent
+DECL|function|data
 DECL|function|data
 DECL|function|dropMimeData
 DECL|function|dropMimeData_data
