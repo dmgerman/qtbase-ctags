@@ -29,6 +29,7 @@ DECL|function|copy
 DECL|function|copy
 DECL|function|copy
 DECL|function|cosacos
+DECL|function|cubicBezierSpline
 DECL|function|curveToFunc
 DECL|function|curveToFunctionObject
 DECL|function|customType
