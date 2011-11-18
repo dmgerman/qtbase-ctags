@@ -1,5 +1,4 @@
 DECL|function|QDirectFbIntegration
-DECL|function|QDirectFbScreen
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
