@@ -2,6 +2,7 @@ DECL|function|accessibility
 DECL|function|clipboard
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformPixmap
+DECL|function|createPlatformSharedGraphicsCache
 DECL|function|drag
 DECL|function|fontDatabase
 DECL|function|hasCapability
