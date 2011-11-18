@@ -23,6 +23,7 @@ DECL|function|check_signal_macro
 DECL|function|childEvent
 DECL|function|cleanConnectionLists
 DECL|function|clearGuards
+DECL|function|compare
 DECL|function|computeOffsets
 DECL|function|connect
 DECL|function|connect
@@ -40,6 +41,7 @@ DECL|function|disconnect
 DECL|function|disconnect
 DECL|function|disconnect
 DECL|function|disconnectHelper
+DECL|function|disconnectImpl
 DECL|function|disconnectNotify
 DECL|function|disconnectOne
 DECL|function|dumpObjectInfo

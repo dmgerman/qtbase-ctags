@@ -183,6 +183,7 @@ DECL|function|operator >>
 DECL|function|otherObjectDestroyed
 DECL|function|overloads
 DECL|function|pointerConnect
+DECL|function|pointerDisconnect
 DECL|function|priority
 DECL|function|property
 DECL|function|qMetaObjectConnect
