@@ -18,7 +18,6 @@ DECL|function|framePos
 DECL|function|geometry
 DECL|function|handle
 DECL|function|hideEvent
-DECL|function|inputMethodEvent
 DECL|function|isActive
 DECL|function|isAncestorOf
 DECL|function|isModal

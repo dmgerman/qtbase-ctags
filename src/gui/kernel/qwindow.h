@@ -4,7 +4,6 @@ DECL|variable|QBackingStore
 DECL|variable|QExposeEvent
 DECL|variable|QFocusEvent
 DECL|variable|QHideEvent
-DECL|variable|QInputMethodEvent
 DECL|variable|QKeyEvent
 DECL|variable|QMouseEvent
 DECL|variable|QMoveEvent
