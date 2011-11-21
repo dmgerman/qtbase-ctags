@@ -1,6 +1,12 @@
+DECL|class|CustomRoleModel
 DECL|class|ListenerObject
 DECL|class|QtTestModel
 DECL|class|tst_QAbstractItemModel
+DECL|enumerator|Custom1
+DECL|enumerator|Custom2
+DECL|enumerator|UserRole
+DECL|enum|Roles
+DECL|function|CustomRoleModel
 DECL|function|ListenerObject
 DECL|function|QtTestModel
 DECL|function|QtTestModel
@@ -11,6 +17,7 @@ DECL|function|data
 DECL|function|data
 DECL|function|dropMimeData
 DECL|function|dropMimeData_data
+DECL|function|emitSignals
 DECL|function|fillIndexStores
 DECL|function|hasChildren
 DECL|function|hasChildren
@@ -41,6 +48,7 @@ DECL|function|setData
 DECL|function|setPersistent
 DECL|function|slotAboutToBeReset
 DECL|function|slotReset
+DECL|function|testDataChanged
 DECL|function|testMoveSameParentDown
 DECL|function|testMoveSameParentDown_data
 DECL|function|testMoveSameParentUp
