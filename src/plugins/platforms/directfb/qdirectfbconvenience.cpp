@@ -9,5 +9,6 @@ DECL|function|keyMap
 DECL|function|keyboardModifiers
 DECL|function|mouseButton
 DECL|function|mouseButtons
+DECL|function|toDfbLayer
 DECL|function|toDfbScreen
 DECL|member|dfbKeymap
