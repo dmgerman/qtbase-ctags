@@ -1,5 +1,4 @@
 DECL|macro|QAPPLICATION_H
-DECL|macro|QApplicationBase
 DECL|macro|qApp
 DECL|macro|qApp
 DECL|variable|QApplication
