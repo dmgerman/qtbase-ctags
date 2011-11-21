@@ -20,6 +20,7 @@ DECL|function|reverse_data
 DECL|function|sineCurve
 DECL|function|stateInFinishedSignal
 DECL|function|stopped
+DECL|function|toggleDirection
 DECL|function|value
 DECL|member|state
 DECL|member|view
