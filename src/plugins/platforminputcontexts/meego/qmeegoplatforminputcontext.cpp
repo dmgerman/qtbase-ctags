@@ -22,7 +22,6 @@ DECL|function|activationLostEvent
 DECL|function|commitString
 DECL|function|contentTypeFromHints
 DECL|function|copy
-DECL|function|handlesInputPanelVisibility
 DECL|function|hideInputPanel
 DECL|function|imInitiatedHide
 DECL|function|inputItemChanged

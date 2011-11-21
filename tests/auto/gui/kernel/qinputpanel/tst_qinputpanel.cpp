@@ -8,7 +8,6 @@ DECL|function|commit
 DECL|function|cursorRectangle
 DECL|function|event
 DECL|function|filterEvent
-DECL|function|handlesInputPanelVisibility
 DECL|function|hideInputPanel
 DECL|function|initTestCase
 DECL|function|inputItem
@@ -32,7 +31,6 @@ DECL|member|m_action
 DECL|member|m_animating
 DECL|member|m_commitCallCount
 DECL|member|m_cursorPosition
-DECL|member|m_handlesInputPanelVisibility
 DECL|member|m_inputItem
 DECL|member|m_keyboardRect
 DECL|member|m_lastEventType

@@ -4,7 +4,6 @@ DECL|function|emitAnimatingChanged
 DECL|function|emitInputPanelVisibleChanged
 DECL|function|emitKeyboardRectChanged
 DECL|function|filterEvent
-DECL|function|handlesInputPanelVisibility
 DECL|function|hideInputPanel
 DECL|function|invokeAction
 DECL|function|isAnimating

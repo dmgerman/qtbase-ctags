@@ -6,7 +6,6 @@ DECL|function|commit
 DECL|function|commitText
 DECL|function|createConnection
 DECL|function|cursorRectChanged
-DECL|function|handlesInputPanelVisibility
 DECL|function|inputItemChanged
 DECL|function|invokeAction
 DECL|function|isValid
