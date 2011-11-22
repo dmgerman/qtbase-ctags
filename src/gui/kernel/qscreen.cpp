@@ -10,6 +10,7 @@ DECL|function|currentOrientation
 DECL|function|depth
 DECL|function|geometry
 DECL|function|handle
+DECL|function|log2
 DECL|function|logicalDotsPerInchX
 DECL|function|logicalDotsPerInchY
 DECL|function|mapBetween
