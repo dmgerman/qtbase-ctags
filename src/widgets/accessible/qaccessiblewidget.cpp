@@ -7,7 +7,6 @@ DECL|function|addControllingSignal
 DECL|function|backgroundColor
 DECL|function|buddyString
 DECL|function|child
-DECL|function|childAt
 DECL|function|childCount
 DECL|function|childWidgets
 DECL|function|doAction
