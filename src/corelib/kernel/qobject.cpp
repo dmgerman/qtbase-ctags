@@ -13,16 +13,13 @@ DECL|function|_q_reregisterTimers
 DECL|function|activate
 DECL|function|activate
 DECL|function|addConnection
-DECL|function|addGuard
 DECL|function|blockSignals
-DECL|function|changeGuard
 DECL|function|check_and_warn_compat
 DECL|function|check_method_code
 DECL|function|check_parent_thread
 DECL|function|check_signal_macro
 DECL|function|childEvent
 DECL|function|cleanConnectionLists
-DECL|function|clearGuards
 DECL|function|compare
 DECL|function|computeOffsets
 DECL|function|connect
@@ -80,7 +77,6 @@ DECL|function|receiverList
 DECL|function|receivers
 DECL|function|registerUserData
 DECL|function|removeEventFilter
-DECL|function|removeGuard
 DECL|function|resetDeleteWatch
 DECL|function|sender
 DECL|function|senderList
@@ -117,7 +113,6 @@ DECL|member|previousSender
 DECL|member|receiver
 DECL|member|switched
 DECL|struct|QConnectionSenderSwitcher
-DECL|typedef|GuardHash
 DECL|variable|DIRECT_CONNECTION_ONLY
 DECL|variable|_q_ObjectMutexPool
 DECL|variable|destroyed
