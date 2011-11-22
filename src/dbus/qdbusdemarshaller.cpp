@@ -17,6 +17,7 @@ DECL|function|qIterGet
 DECL|function|toBool
 DECL|function|toByte
 DECL|function|toByteArray
+DECL|function|toByteArrayUnchecked
 DECL|function|toDouble
 DECL|function|toInt
 DECL|function|toLongLong

@@ -8,6 +8,8 @@ DECL|function|cleanup
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|demarshallAsString
+DECL|function|demarshallInvalidByteArray
+DECL|function|demarshallInvalidByteArray_data
 DECL|function|demarshallInvalidStringList
 DECL|function|demarshallInvalidStringList_data
 DECL|function|demarshallPrimitiveAs
