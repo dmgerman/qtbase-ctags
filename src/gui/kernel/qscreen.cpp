@@ -11,10 +11,12 @@ DECL|function|depth
 DECL|function|geometry
 DECL|function|handle
 DECL|function|log2
+DECL|function|logicalDotsPerInch
 DECL|function|logicalDotsPerInchX
 DECL|function|logicalDotsPerInchY
 DECL|function|mapBetween
 DECL|function|name
+DECL|function|physicalDotsPerInch
 DECL|function|physicalDotsPerInchX
 DECL|function|physicalDotsPerInchY
 DECL|function|physicalSize
