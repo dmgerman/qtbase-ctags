@@ -51,6 +51,7 @@ DECL|function|qt_detectRTLLanguage
 DECL|function|quitOnLastWindowClosed
 DECL|function|reportAvailableGeometryChange
 DECL|function|reportGeometryChange
+DECL|function|reportLogicalDotsPerInchChange
 DECL|function|reportScreenOrientationChange
 DECL|function|restoreOverrideCursor
 DECL|function|screens
