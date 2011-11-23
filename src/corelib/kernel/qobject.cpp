@@ -29,6 +29,7 @@ DECL|function|connect
 DECL|function|connect
 DECL|function|connect
 DECL|function|connect
+DECL|function|connectImpl
 DECL|function|connectNotify
 DECL|function|connectSlotsByName
 DECL|function|customEvent
@@ -105,6 +106,7 @@ DECL|function|~QObject
 DECL|function|~QObjectData
 DECL|function|~QObjectPrivate
 DECL|function|~QObjectUserData
+DECL|function|~QSlotObjectBase
 DECL|member|allsignals
 DECL|member|currentSender
 DECL|member|dirty

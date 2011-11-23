@@ -5,6 +5,7 @@ DECL|class|BlehObject
 DECL|class|Class
 DECL|class|ConfusingObject
 DECL|class|ConnectToSender
+DECL|class|ConnectWithReferenceObject
 DECL|class|Constructable
 DECL|class|CustomData
 DECL|class|DefaultArguments
@@ -15,6 +16,7 @@ DECL|class|DynamicPropertyObject
 DECL|class|EmitThread
 DECL|class|EventSpy
 DECL|class|FooObject
+DECL|class|ManyArgumentObject
 DECL|class|ManySignals
 DECL|class|MoveToThreadObject
 DECL|class|MoveToThreadThread
@@ -27,6 +29,7 @@ DECL|class|ReceiverObject
 DECL|class|SenderObject
 DECL|class|SequenceObject
 DECL|class|SiblingDeleter
+DECL|class|StringVariant
 DECL|class|SuperObject
 DECL|class|Template
 DECL|class|TestObject
@@ -46,6 +49,7 @@ DECL|enum|Priority
 DECL|function|AutoConnectReceiver
 DECL|function|AutoConnectSender
 DECL|function|BaseDestroyed
+DECL|function|CheckInstanceCount
 DECL|function|ConfusingObject
 DECL|function|Constructable
 DECL|function|CustomType
@@ -70,6 +74,8 @@ DECL|function|alpha
 DECL|function|autoConnectionBehavior
 DECL|function|baseDestroyed
 DECL|function|blockingQueuedConnection
+DECL|function|boolPtrSlot
+DECL|function|boolRefSlot
 DECL|function|called
 DECL|function|called
 DECL|function|childDeletesItsSibling
@@ -81,11 +87,14 @@ DECL|function|connectByMetaMethodSlotInsteadOfSignal
 DECL|function|connectByMetaMethods
 DECL|function|connectByName
 DECL|function|connectConstructorByMetaMethod
+DECL|function|connectConvert
 DECL|function|connectDisconnectNotify
 DECL|function|connectDisconnectNotify_data
+DECL|function|connectManyArguments
 DECL|function|connectNotify
 DECL|function|connectSignalsToSignalsWithDefaultArguments
 DECL|function|connectToSender
+DECL|function|connectWithReference
 DECL|function|constClassPointerConstPointerSlot
 DECL|function|constClassPointerSlot
 DECL|function|constEnumPointerConstPointerSlot
@@ -102,6 +111,7 @@ DECL|function|custom
 DECL|function|customEvent
 DECL|function|customString
 DECL|function|customTypes
+DECL|function|customTypesPointer
 DECL|function|declareInterface
 DECL|function|deleteAndRememberSender
 DECL|function|deleteQObjectWhenDeletingEvent
@@ -118,6 +128,7 @@ DECL|function|doEmit
 DECL|function|dumpObjectInfo
 DECL|function|dynamicProperties
 DECL|function|emitInDefinedOrder
+DECL|function|emitInDefinedOrderPointer
 DECL|function|emitSignal1
 DECL|function|emitSignal1AfterRecursion
 DECL|function|emitSignal2
@@ -162,10 +173,12 @@ DECL|function|on_Sender_signalManyParams2
 DECL|function|on_Sender_signalNoParams
 DECL|function|on_Sender_signalWithParams
 DECL|function|on_Sender_signalWithParams
+DECL|function|operator ()
 DECL|function|operator <<
 DECL|function|operator >>
 DECL|function|otherObjectDestroyed
 DECL|function|overloads
+DECL|function|pointerConnect
 DECL|function|priority
 DECL|function|property
 DECL|function|qMetaObjectConnect
@@ -208,20 +221,37 @@ DECL|function|slo
 DECL|function|slo
 DECL|function|slot1
 DECL|function|slot1
+DECL|function|slot1
+DECL|function|slot1
 DECL|function|slot1_deleteNext
 DECL|function|slot1_disconnectNext
 DECL|function|slot1_disconnectThis
+DECL|function|slot2
+DECL|function|slot2
 DECL|function|slot2
 DECL|function|slot2_deleteSender
 DECL|function|slot2_reconnectNext
 DECL|function|slot2_reconnectThis
 DECL|function|slot3
+DECL|function|slot3
+DECL|function|slot3
 DECL|function|slot4
+DECL|function|slot4
+DECL|function|slot4
+DECL|function|slot5
+DECL|function|slot5
+DECL|function|slot6
+DECL|function|slot6
 DECL|function|slotLoopBack
 DECL|function|slotUseList
 DECL|function|start
 DECL|function|streamCustomTypes
 DECL|function|string
+DECL|function|stringPtrSlot
+DECL|function|stringRefSlot
+DECL|function|stringSlot1
+DECL|function|stringSlot2
+DECL|function|stringSlot3
 DECL|function|structPointerSlot
 DECL|function|structSlot
 DECL|function|testUserData
@@ -248,13 +278,16 @@ DECL|function|unsignedshortSlot
 DECL|function|uselessSlot
 DECL|function|value
 DECL|function|variant
+DECL|function|variantSlot
 DECL|function|~Bar
 DECL|function|~BaseDestroyed
 DECL|function|~Bleh
+DECL|function|~CheckInstanceCount
 DECL|function|~CustomType
 DECL|function|~MoveToThreadThread
 DECL|function|~SiblingDeleter
 DECL|macro|Bleh_iid
+DECL|macro|MANYARGUMENT_COMPARE
 DECL|macro|SIGNAL_INDEX
 DECL|member|aPublicSlotCalled
 DECL|member|called_slot1
@@ -271,6 +304,8 @@ DECL|member|changedDynamicProperties
 DECL|member|child
 DECL|member|cond
 DECL|member|count
+DECL|member|count
+DECL|member|count
 DECL|member|count_slot1
 DECL|member|count_slot2
 DECL|member|count_slot3
@@ -286,6 +321,7 @@ DECL|member|i2
 DECL|member|i2_num
 DECL|member|i3
 DECL|member|id
+DECL|member|last
 DECL|member|m_alpha
 DECL|member|m_custom
 DECL|member|m_customString
@@ -312,6 +348,7 @@ DECL|member|recursionCount
 DECL|member|result
 DECL|member|s
 DECL|member|s_num
+DECL|member|saved
 DECL|member|sender
 DECL|member|sequence
 DECL|member|sequence
@@ -324,12 +361,17 @@ DECL|member|slotThread
 DECL|member|theSender
 DECL|member|theSignalId
 DECL|member|timerEventThread
+DECL|member|var
+DECL|member|var
 DECL|namespace|Foo
+DECL|namespace|ManyArgumentNamespace
 DECL|namespace|QObjectTest
 DECL|namespace|QObjectTest
 DECL|struct|Bar
 DECL|struct|Bleh
+DECL|struct|CheckInstanceCount
 DECL|struct|CustomType
+DECL|struct|Functor
 DECL|struct|Struct
 DECL|typedef|CustomString
 DECL|typedef|EventList
