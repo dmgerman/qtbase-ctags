@@ -1,9 +1,16 @@
 DECL|class|QDBusMessageSpy
 DECL|class|tst_QDBusMarshall
 DECL|function|SetResetValue
+DECL|function|addBasicTypesColumns
+DECL|function|basicNumericTypes_data
+DECL|function|basicStringTypes_data
 DECL|function|cleanup
 DECL|function|cleanup
 DECL|function|cleanupTestCase
+DECL|function|demarshallPrimitiveAs
+DECL|function|demarshallPrimitiveAs
+DECL|function|demarshallPrimitives
+DECL|function|demarshallPrimitives_data
 DECL|function|fileDescriptorForTest
 DECL|function|initTestCase
 DECL|function|receiveUnknownType
