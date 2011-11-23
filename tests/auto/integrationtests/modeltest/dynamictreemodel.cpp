@@ -1,4 +1,5 @@
 DECL|function|DynamicTreeModel
+DECL|function|ModelChangeChildrenLayoutsCommand
 DECL|function|ModelChangeCommand
 DECL|function|ModelInsertCommand
 DECL|function|ModelMoveCommand
@@ -7,6 +8,7 @@ DECL|function|ModelResetCommandFixed
 DECL|function|clear
 DECL|function|columnCount
 DECL|function|data
+DECL|function|doCommand
 DECL|function|doCommand
 DECL|function|doCommand
 DECL|function|emitPostSignal

@@ -1,6 +1,7 @@
 DECL|class|CustomRoleModel
 DECL|class|ListenerObject
 DECL|class|QtTestModel
+DECL|class|SignalArgumentChecker
 DECL|class|tst_QAbstractItemModel
 DECL|enumerator|Custom1
 DECL|enumerator|Custom2
@@ -10,6 +11,7 @@ DECL|function|CustomRoleModel
 DECL|function|ListenerObject
 DECL|function|QtTestModel
 DECL|function|QtTestModel
+DECL|function|SignalArgumentChecker
 DECL|function|changePersistentIndex
 DECL|function|columnCount
 DECL|function|complexChangesWithPersistent
@@ -32,6 +34,8 @@ DECL|function|insertRows
 DECL|function|insertRows
 DECL|function|itemData
 DECL|function|itemFlags
+DECL|function|layoutAboutToBeChanged
+DECL|function|layoutChanged
 DECL|function|match
 DECL|function|movePersistentIndex
 DECL|function|parent
@@ -48,6 +52,7 @@ DECL|function|setData
 DECL|function|setPersistent
 DECL|function|slotAboutToBeReset
 DECL|function|slotReset
+DECL|function|testChildrenLayoutsChanged
 DECL|function|testDataChanged
 DECL|function|testMoveSameParentDown
 DECL|function|testMoveSameParentDown_data
@@ -70,6 +75,10 @@ DECL|member|cCount
 DECL|member|m_model
 DECL|member|m_model
 DECL|member|m_nonPersistentIndexes
+DECL|member|m_p1
+DECL|member|m_p1Persistent
+DECL|member|m_p2
+DECL|member|m_p2Persistent
 DECL|member|m_persistentIndexes
 DECL|member|rCount
 DECL|member|table
