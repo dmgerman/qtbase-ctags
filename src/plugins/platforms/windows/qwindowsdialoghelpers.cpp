@@ -7,6 +7,7 @@ DECL|class|QWindowsNativeFileDialogBase
 DECL|class|QWindowsNativeFileDialogEventHandler
 DECL|class|QWindowsNativeOpenFileDialog
 DECL|class|QWindowsNativeSaveFileDialog
+DECL|enumerator|CustomColorCount
 DECL|enumerator|FDAP_BOTTOM
 DECL|enumerator|FDAP_TOP
 DECL|enumerator|FDESVR_ACCEPT
@@ -103,10 +104,12 @@ DECL|function|selectedFiles_sys
 DECL|function|selectedNameFilter
 DECL|function|selectedNameFilter_sys
 DECL|function|setCurrentColor_sys
+DECL|function|setDefaultSuffix
 DECL|function|setDirectory
 DECL|function|setDirectory_sys
 DECL|function|setFilter_sys
 DECL|function|setHideFiltersDetails
+DECL|function|setLabelText
 DECL|function|setMode
 DECL|function|setNameFilters
 DECL|function|setNameFilters_sys
@@ -176,7 +179,6 @@ DECL|member|m_currentColor
 DECL|member|m_customColors
 DECL|member|m_dialog
 DECL|member|m_dialogEvents
-DECL|member|m_fileDialog
 DECL|member|m_fileDialog
 DECL|member|m_hideFiltersDetails
 DECL|member|m_nameFilters

@@ -21,7 +21,6 @@ DECL|function|_q_newColorTypedIn
 DECL|function|_q_newCustom
 DECL|function|_q_newHsv
 DECL|function|_q_newStandard
-DECL|function|_q_platformRunNativeAppModalPanel
 DECL|function|cellBrush
 DECL|function|cellGeometry
 DECL|function|cellHeight
@@ -53,11 +52,11 @@ DECL|function|focusOutEvent
 DECL|function|getColor
 DECL|function|getRgba
 DECL|function|gridSize
+DECL|function|helperPrepareShow
 DECL|function|hsvEd
 DECL|function|huePt
 DECL|function|init
 DECL|function|initHelper
-DECL|function|initRGB
 DECL|function|isAlphaVisible
 DECL|function|isAlphaVisible
 DECL|function|keyPressEvent
@@ -182,9 +181,5 @@ DECL|member|val
 DECL|member|values
 DECL|struct|QWellArrayData
 DECL|variable|DefaultWindowFlags
-DECL|variable|cusrgb
-DECL|variable|customSet
-DECL|variable|initrgb
 DECL|variable|pHeight
 DECL|variable|pWidth
-DECL|variable|stdrgb

@@ -1,6 +1,7 @@
 DECL|function|QDialog
 DECL|function|QDialog
 DECL|function|_q_doneAction
+DECL|function|_q_platformRunNativeAppModalPanel
 DECL|function|accept
 DECL|function|adjustPosition
 DECL|function|closeEvent

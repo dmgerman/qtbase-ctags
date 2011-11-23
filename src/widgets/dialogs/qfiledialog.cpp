@@ -17,7 +17,6 @@ DECL|function|_q_navigateBackward
 DECL|function|_q_navigateForward
 DECL|function|_q_navigateToParent
 DECL|function|_q_pathChanged
-DECL|function|_q_platformRunNativeAppModalPanel
 DECL|function|_q_renameCurrent
 DECL|function|_q_rowsInserted
 DECL|function|_q_selectionChanged
@@ -51,9 +50,12 @@ DECL|function|getExistingDirectory
 DECL|function|getOpenFileName
 DECL|function|getOpenFileNames
 DECL|function|getSaveFileName
+DECL|function|helperDone
+DECL|function|helperPrepareShow
 DECL|function|history
 DECL|function|iconProvider
 DECL|function|init
+DECL|function|initHelper
 DECL|function|initialSelection
 DECL|function|isNameFilterDetailsVisible
 DECL|function|isReadOnly
@@ -104,6 +106,7 @@ DECL|function|setHistory
 DECL|function|setIconProvider
 DECL|function|setItemDelegate
 DECL|function|setLabelText
+DECL|function|setLabelTextControl
 DECL|function|setLastVisitedDirectory
 DECL|function|setNameFilter
 DECL|function|setNameFilterDetailsVisible
@@ -124,6 +127,8 @@ DECL|function|sizeHint
 DECL|function|splitPath
 DECL|function|testOption
 DECL|function|typedFiles
+DECL|function|updateFileNameLabel
+DECL|function|updateOkButtonText
 DECL|function|viewMode
 DECL|function|workingDirectory
 DECL|function|~QFileDialog
