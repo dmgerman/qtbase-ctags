@@ -4,6 +4,7 @@ DECL|function|Connection
 DECL|function|QConnectionSenderSwitcher
 DECL|function|QConnectionSenderSwitcher
 DECL|function|QMetaCallEvent
+DECL|function|QMetaCallEvent
 DECL|function|QObject
 DECL|function|QObject
 DECL|function|QObjectConnectionListVector
