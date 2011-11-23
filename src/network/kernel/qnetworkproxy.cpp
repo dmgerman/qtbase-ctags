@@ -23,6 +23,8 @@ DECL|function|capabilities
 DECL|function|defaultCapabilitiesForType
 DECL|function|detach
 DECL|function|detach
+DECL|function|hasRawHeader
+DECL|function|header
 DECL|function|hostName
 DECL|function|init
 DECL|function|isCachingProxy
@@ -44,11 +46,14 @@ DECL|function|proxyForQuery
 DECL|function|proxyForQuery
 DECL|function|qt_noop_with_arg
 DECL|function|queryType
+DECL|function|rawHeader
+DECL|function|rawHeaderList
 DECL|function|setApplicationProxy
 DECL|function|setApplicationProxy
 DECL|function|setApplicationProxyFactory
 DECL|function|setApplicationProxyFactory
 DECL|function|setCapabilities
+DECL|function|setHeader
 DECL|function|setHostName
 DECL|function|setLocalPort
 DECL|function|setNetworkConfiguration
@@ -58,6 +63,7 @@ DECL|function|setPeerPort
 DECL|function|setPort
 DECL|function|setProtocolTag
 DECL|function|setQueryType
+DECL|function|setRawHeader
 DECL|function|setType
 DECL|function|setUrl
 DECL|function|setUseSystemConfiguration
@@ -75,6 +81,7 @@ DECL|member|applicationLevelProxyFactory
 DECL|member|capabilities
 DECL|member|capabilitiesSet
 DECL|member|config
+DECL|member|headers
 DECL|member|hostName
 DECL|member|httpSocketEngineHandler
 DECL|member|localPort
