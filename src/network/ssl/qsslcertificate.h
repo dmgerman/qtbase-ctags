@@ -1,5 +1,4 @@
 DECL|macro|QSSLCERTIFICATE_H
-DECL|typedef|X509
 DECL|variable|QDebug
 DECL|variable|QIODevice
 DECL|variable|QSslCertificateExtension
