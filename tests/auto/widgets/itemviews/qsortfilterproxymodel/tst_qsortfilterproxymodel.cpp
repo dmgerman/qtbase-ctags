@@ -5,6 +5,7 @@ DECL|class|MyFilteredColumnProxyModel
 DECL|class|Proxy10287
 DECL|class|QtTestModel
 DECL|class|SelectionProxyModel
+DECL|class|SignalArgumentChecker
 DECL|class|TestModel
 DECL|class|tst_QSortFilterProxyModel
 DECL|function|FilteredColumnProxyModel
@@ -13,6 +14,7 @@ DECL|function|MyFilteredColumnProxyModel
 DECL|function|Proxy10287
 DECL|function|QtTestModel
 DECL|function|SelectionProxyModel
+DECL|function|SignalArgumentChecker
 DECL|function|addEntry
 DECL|function|buildHierarchy
 DECL|function|canFetchMore
@@ -59,11 +61,14 @@ DECL|function|insertSourceRows
 DECL|function|insertSourceRows_data
 DECL|function|invalidateMappedChildren
 DECL|function|isValid
+DECL|function|layoutAboutToBeChanged
+DECL|function|layoutChanged
 DECL|function|mapFromSource
 DECL|function|mapSelectionFromSource
 DECL|function|mapToSource
 DECL|function|match
 DECL|function|match_data
+DECL|function|moveSourceRows
 DECL|function|parent
 DECL|function|parent
 DECL|function|prependRow
@@ -78,6 +83,8 @@ DECL|function|removeSourceRows_data
 DECL|function|rowCount
 DECL|function|rowCount
 DECL|function|rowCount
+DECL|function|rowsAboutToBeMoved
+DECL|function|rowsMoved
 DECL|function|selectionFilteredOut
 DECL|function|setSelectionModel
 DECL|function|setSourceModel
@@ -116,6 +123,13 @@ DECL|member|childItem2
 DECL|member|cols
 DECL|member|fetched
 DECL|member|m_model
+DECL|member|m_model
+DECL|member|m_p1PersistentAfter
+DECL|member|m_p1PersistentBefore
+DECL|member|m_p2FirstProxyChild
+DECL|member|m_p2PersistentAfter
+DECL|member|m_p2PersistentBefore
+DECL|member|m_proxy
 DECL|member|m_proxy
 DECL|member|parentHash
 DECL|member|parentItem
