@@ -10,6 +10,7 @@ DECL|function|alignment_data
 DECL|function|allocate
 DECL|function|allocate_data
 DECL|function|arrayOps
+DECL|function|const_
 DECL|function|gccBug43247
 DECL|function|operator =
 DECL|function|referenceCounting
