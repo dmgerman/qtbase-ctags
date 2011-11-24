@@ -8,6 +8,7 @@ DECL|function|end
 DECL|function|end
 DECL|function|sharedEmpty
 DECL|function|sharedNull
+DECL|function|unsharableEmpty
 DECL|macro|QARRAYDATA_H
 DECL|macro|Q_STATIC_ARRAY_DATA_HEADER_INITIALIZER
 DECL|member|data
