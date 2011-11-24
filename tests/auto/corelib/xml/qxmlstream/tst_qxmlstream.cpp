@@ -18,6 +18,7 @@ DECL|function|checkCommentIndentation
 DECL|function|checkCommentIndentation_data
 DECL|function|clear
 DECL|function|crashInUTF16Codec
+DECL|function|crashInXmlStreamReader
 DECL|function|documentElement
 DECL|function|endElement
 DECL|function|entitiesAndWhitespace_1
@@ -31,7 +32,6 @@ DECL|function|initTestCase
 DECL|function|isWellformed
 DECL|function|main
 DECL|function|makeCanonical
-DECL|function|qtbug9196_crash
 DECL|function|readElementText
 DECL|function|readElementText_data
 DECL|function|readFile

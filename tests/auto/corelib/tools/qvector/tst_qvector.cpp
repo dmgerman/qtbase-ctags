@@ -1,9 +1,6 @@
 DECL|class|tst_QVector
 DECL|function|Foo
 DECL|function|Foo
-DECL|function|QTBUG11763
-DECL|function|QTBUG11763_data
-DECL|function|QTBUG6416_reserve
 DECL|function|append
 DECL|function|at
 DECL|function|capacity
@@ -30,7 +27,10 @@ DECL|function|mid
 DECL|function|operator =
 DECL|function|outOfMemory
 DECL|function|prepend
+DECL|function|reallocAfterCopy
+DECL|function|reallocAfterCopy_data
 DECL|function|remove
+DECL|function|reserve
 DECL|function|size
 DECL|function|startsWith
 DECL|function|swap

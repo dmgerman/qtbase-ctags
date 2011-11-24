@@ -15,7 +15,6 @@ DECL|enumerator|Value
 DECL|enumerator|Value
 DECL|function|Bar
 DECL|function|MetaTypeTorturer
-DECL|function|QTBUG11316_registerStreamBuiltin
 DECL|function|RegUnreg
 DECL|function|RegUnreg
 DECL|function|construct
@@ -74,6 +73,7 @@ DECL|function|normalizedTypes
 DECL|function|prop
 DECL|function|properties
 DECL|function|qMetaTypeId
+DECL|function|registerStreamBuiltin
 DECL|function|run
 DECL|function|setProp
 DECL|function|sizeOf

@@ -25,8 +25,6 @@ DECL|enum|SleepType
 DECL|function|DummyEventDispatcher
 DECL|function|FinishedTestObject
 DECL|function|NativeThreadWrapper
-DECL|function|QTBUG13810_exitAndStart
-DECL|function|QTBUG15378_exitAndExec
 DECL|function|SignalRecorder
 DECL|function|Syncronizer
 DECL|function|adoptMultipleThreads
@@ -46,6 +44,8 @@ DECL|function|customEventDispatcher
 DECL|function|destroyFinishRace
 DECL|function|exec
 DECL|function|exit
+DECL|function|exitAndExec
+DECL|function|exitAndStart
 DECL|function|finished
 DECL|function|flush
 DECL|function|hasPendingEvents

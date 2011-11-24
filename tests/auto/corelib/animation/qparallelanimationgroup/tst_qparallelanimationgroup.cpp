@@ -6,13 +6,13 @@ DECL|class|tst_QParallelAnimationGroup
 DECL|function|AnimState
 DECL|function|AnimState
 DECL|function|AnimationObject
-DECL|function|QTBUG8910_crashWhenRemovingUncontrolledAnimation
 DECL|function|TestAnimation2
 DECL|function|TestAnimation2
 DECL|function|UncontrolledAnimation
 DECL|function|autoAdd
 DECL|function|clearGroup
 DECL|function|construction
+DECL|function|crashWhenRemovingUncontrolledAnimation
 DECL|function|deleteChildrenWithRunningGroup
 DECL|function|duration
 DECL|function|duration

@@ -1,6 +1,5 @@
 DECL|class|SomeSingleton
 DECL|class|tst_QFileSystemWatcher
-DECL|function|QTBUG15255_deadlock
 DECL|function|SomeSingleton
 DECL|function|addPath
 DECL|function|addPaths
@@ -8,6 +7,7 @@ DECL|function|basicTest
 DECL|function|basicTest_data
 DECL|function|bla
 DECL|function|cleanup
+DECL|function|destroyAfterQCoreApplication
 DECL|function|nonExistingFile
 DECL|function|removeFileAndUnWatch
 DECL|function|removePath

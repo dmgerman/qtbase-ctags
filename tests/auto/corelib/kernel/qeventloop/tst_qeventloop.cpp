@@ -69,6 +69,6 @@ DECL|member|socket
 DECL|member|testResult
 DECL|member|testResult
 DECL|member|value
-DECL|namespace|DeliverInDefinedOrder_QTBUG19637
+DECL|namespace|DeliverInDefinedOrder
 DECL|struct|CustomEvent
 DECL|struct|Object

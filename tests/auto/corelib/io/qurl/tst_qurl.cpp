@@ -1,4 +1,5 @@
 DECL|class|tst_QUrl
+DECL|function|acceptEmptyAuthoritySegments
 DECL|function|ace_testsuite
 DECL|function|ace_testsuite_data
 DECL|function|assignment
@@ -33,6 +34,7 @@ DECL|function|correctEncodedMistakes
 DECL|function|correctEncodedMistakes_data
 DECL|function|effectiveTLDs
 DECL|function|effectiveTLDs_data
+DECL|function|emptyAuthorityRemovesExistingAuthority
 DECL|function|emptyQueryOrFragment
 DECL|function|errorString
 DECL|function|fromEncoded
@@ -58,6 +60,7 @@ DECL|function|ipv6
 DECL|function|ipv6_2
 DECL|function|ipv6_2_data
 DECL|function|ipv6_data
+DECL|function|isEmptyForEncodedUrl
 DECL|function|isParentOf
 DECL|function|isParentOf_data
 DECL|function|isRelative
@@ -96,13 +99,10 @@ DECL|function|std3violations_data
 DECL|function|stripTrailingSlash
 DECL|function|swap
 DECL|function|symmetry
-DECL|function|taskQTBUG_6962
-DECL|function|taskQTBUG_8701
-DECL|function|task_199967
-DECL|function|task_240612
 DECL|function|tldRestrictions
 DECL|function|tldRestrictions_data
 DECL|function|toEncoded
+DECL|function|toEncodedNotUsingUninitializedPath
 DECL|function|toEncoded_data
 DECL|function|toLocalFile
 DECL|function|toLocalFile_data

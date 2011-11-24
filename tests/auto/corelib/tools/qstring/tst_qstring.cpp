@@ -4,8 +4,6 @@ DECL|enumerator|ByteOrder
 DECL|enumerator|LittleEndian
 DECL|function|QCharRefDetaching
 DECL|function|QCharRefMutableUnicode
-DECL|function|QTBUG10404_compareRef
-DECL|function|QTBUG9281_arg_locale
 DECL|function|STL
 DECL|function|acc_01
 DECL|function|append
@@ -14,6 +12,7 @@ DECL|function|append_bytearray_data
 DECL|function|arg
 DECL|function|arg_fillChar
 DECL|function|arg_fillChar_data
+DECL|function|arg_locale
 DECL|function|capacity
 DECL|function|capacity_data
 DECL|function|check_QDataStream
@@ -21,6 +20,7 @@ DECL|function|check_QTextIOStream
 DECL|function|check_QTextStream
 DECL|function|cleanup
 DECL|function|compare
+DECL|function|compareRef
 DECL|function|compare_data
 DECL|function|constructor
 DECL|function|constructorQByteArray

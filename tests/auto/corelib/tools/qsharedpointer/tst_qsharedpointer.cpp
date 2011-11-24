@@ -98,8 +98,8 @@ DECL|member|moreData
 DECL|member|ptr
 DECL|member|ptr
 DECL|member|weak
-DECL|namespace|QTBUG11730
 DECL|namespace|QtSharedPointer
+DECL|namespace|ReentrancyWhileDestructing
 DECL|struct|A
 DECL|struct|B
 DECL|struct|CustomDeleter

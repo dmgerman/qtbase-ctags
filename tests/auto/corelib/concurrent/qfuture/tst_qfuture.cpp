@@ -13,7 +13,6 @@ DECL|function|createDerivedExceptionFuture
 DECL|function|createExceptionFuture
 DECL|function|createExceptionResultFuture
 DECL|function|exceptions
-DECL|function|exceptions_QTBUG18149
 DECL|function|finished
 DECL|function|future
 DECL|function|futureInterface
@@ -21,6 +20,7 @@ DECL|function|implicitConversions
 DECL|function|indexedResults
 DECL|function|iterators
 DECL|function|multipleResults
+DECL|function|nestedExceptions
 DECL|function|pause
 DECL|function|progress
 DECL|function|progress

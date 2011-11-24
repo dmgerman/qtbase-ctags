@@ -8,6 +8,7 @@ DECL|function|childGroups_data
 DECL|function|childKeys
 DECL|function|childKeys_data
 DECL|function|cleanup
+DECL|function|consistentRegistryStorage
 DECL|function|contains
 DECL|function|containsSubList
 DECL|function|ctor
@@ -27,7 +28,6 @@ DECL|function|init
 DECL|function|isWritable
 DECL|function|isWritable_data
 DECL|function|populateWithFormats
-DECL|function|qtbug_13249
 DECL|function|rainersSyncBugOnMac
 DECL|function|rainersSyncBugOnMac_data
 DECL|function|readCustom1File

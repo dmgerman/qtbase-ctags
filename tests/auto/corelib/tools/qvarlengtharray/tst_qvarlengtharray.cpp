@@ -5,16 +5,16 @@ DECL|function|MyBase
 DECL|function|MyBase
 DECL|function|MyPrimitive
 DECL|function|MyPrimitive
-DECL|function|QTBUG10978_realloc
-DECL|function|QTBUG10978_test
-DECL|function|QTBUG6718_resize
 DECL|function|append
 DECL|function|countMoved
 DECL|function|hasMoved
 DECL|function|oldTests
 DECL|function|operator =
 DECL|function|operator =
+DECL|function|realloc
+DECL|function|reallocTest
 DECL|function|removeLast
+DECL|function|resize
 DECL|function|task214223
 DECL|function|~Foo
 DECL|function|~MyBase
@@ -34,6 +34,6 @@ DECL|struct|MyComplex
 DECL|struct|MyMovable
 DECL|struct|MyPrimitive
 DECL|variable|N
-DECL|variable|QTBUG10978_proceed
 DECL|variable|fooCtor
 DECL|variable|fooDtor
+DECL|variable|reallocTestProceed

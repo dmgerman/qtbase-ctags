@@ -12,7 +12,6 @@ DECL|class|tst_QTimer
 DECL|function|DontBlockEvents
 DECL|function|LiveLockTester
 DECL|function|LongLastingSlotClass
-DECL|function|QTBUG13633_dontBlockEvents
 DECL|function|RecurringTimerObject
 DECL|function|RestartedTimerFiresTooSoonObject
 DECL|function|SlotRepeater
@@ -21,6 +20,7 @@ DECL|function|TimerIdPersistsAfterThreadExitThread
 DECL|function|TimerInfiniteRecursionObject
 DECL|function|cancelLongTimer
 DECL|function|deleteLaterOnQTimer
+DECL|function|dontBlockEvents
 DECL|function|event
 DECL|function|livelock
 DECL|function|livelock_data

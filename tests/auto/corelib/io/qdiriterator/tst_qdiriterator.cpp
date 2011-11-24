@@ -12,12 +12,12 @@ DECL|function|createDirectory
 DECL|function|createFile
 DECL|function|createLink
 DECL|function|engineWithNoIterator
+DECL|function|hiddenDirs_hiddenFiles
 DECL|function|iterateRelativeDirectory
 DECL|function|iterateRelativeDirectory_data
 DECL|function|iterateResource
 DECL|function|iterateResource_data
 DECL|function|longPath
-DECL|function|qtbug15421_hiddenDirs_hiddenFiles
 DECL|function|recurseWithFilters
 DECL|function|relativePaths
 DECL|function|stopLinkLoop
