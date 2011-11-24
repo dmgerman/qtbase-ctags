@@ -108,6 +108,7 @@ DECL|function|taskQTBUG_6205_doubleProxySelectionSetSourceModel
 DECL|function|taskQTBUG_7537_appearsAndSort
 DECL|function|taskQTBUG_7716_unnecessaryDynamicSorting
 DECL|function|testMultipleProxiesWithSelection
+DECL|function|testParentLayoutChanged
 DECL|function|tst_QSortFilterProxyModel
 DECL|function|~tst_QSortFilterProxyModel
 DECL|member|childItem
