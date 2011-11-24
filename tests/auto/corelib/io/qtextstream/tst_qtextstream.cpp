@@ -39,7 +39,6 @@ DECL|function|int_write_with_locale
 DECL|function|int_write_with_locale_data
 DECL|function|lineCount
 DECL|function|lineCount_data
-DECL|function|main
 DECL|function|manipulators
 DECL|function|manipulators_data
 DECL|function|nanInf

@@ -37,6 +37,7 @@ DECL|function|filePath_data
 DECL|function|filterLinks
 DECL|function|getSetCheck
 DECL|function|homePath
+DECL|function|init
 DECL|function|isReadable
 DECL|function|isRelative
 DECL|function|isRelativePath
@@ -71,3 +72,4 @@ DECL|function|testCaching
 DECL|function|updateFileLists
 DECL|macro|Q_NO_SYMLINKS
 DECL|macro|_WIN32_WINNT
+DECL|member|m_dataPath

@@ -9,6 +9,7 @@ DECL|function|errorString
 DECL|function|errorString_data
 DECL|function|fileName
 DECL|function|fileName_data
+DECL|function|initTestCase
 DECL|function|isLibrary
 DECL|function|isLibrary_data
 DECL|function|library_data
@@ -20,13 +21,11 @@ DECL|function|multipleInstancesForOneLibrary
 DECL|function|resolve
 DECL|function|resolve_data
 DECL|function|sys_qualifiedLibraryName
-DECL|function|tst_QLibrary
 DECL|function|unload
 DECL|function|unload_after_implicit_load
 DECL|function|unload_data
 DECL|function|version
 DECL|function|version_data
-DECL|function|~tst_QLibrary
 DECL|macro|DLL_VALID
 DECL|macro|DLL_VALID
 DECL|macro|DLL_VALID
@@ -66,5 +65,4 @@ DECL|macro|so_VALID
 DECL|macro|so_VALID
 DECL|macro|so_VALID
 DECL|macro|so_VALID
-DECL|member|app
 DECL|typedef|VersionFunction

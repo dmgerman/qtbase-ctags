@@ -9,4 +9,3 @@ DECL|function|initTestCase
 DECL|function|searchPath
 DECL|function|searchPath_data
 DECL|function|setLocale
-DECL|member|builddir

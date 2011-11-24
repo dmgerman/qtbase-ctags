@@ -8,6 +8,7 @@ DECL|function|fromRfc4122
 DECL|function|fromString
 DECL|function|generate
 DECL|function|hash
+DECL|function|initTestCase
 DECL|function|isNull
 DECL|function|less
 DECL|function|more
@@ -18,7 +19,6 @@ DECL|function|threadUniqueness
 DECL|function|toByteArray
 DECL|function|toRfc4122
 DECL|function|toString
-DECL|function|tst_QUuid
 DECL|function|variants
 DECL|function|versions
 DECL|member|uuid

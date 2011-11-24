@@ -81,9 +81,11 @@ DECL|function|waitForReadyReadForNonexistantProcess
 DECL|function|waitForReadyReadInAReadyReadSlot
 DECL|function|waitForReadyReadInAReadyReadSlotSlot
 DECL|macro|QPROCESS_VERIFY
+DECL|member|bytesAvailable
 DECL|member|exitCode
 DECL|member|killing
 DECL|member|n
+DECL|member|process
 DECL|member|waitedForFinished
 DECL|variable|ExitStatus
 DECL|variable|ProcessState

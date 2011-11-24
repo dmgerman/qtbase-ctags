@@ -7,6 +7,7 @@ DECL|enum|Cleanup
 DECL|function|EngineWithNoIterator
 DECL|function|absoluteFilePathsFromRelativeIteratorPath
 DECL|function|beginEntryList
+DECL|function|cleanupTestCase
 DECL|function|create
 DECL|function|createDirectory
 DECL|function|createFile
@@ -14,6 +15,7 @@ DECL|function|createLink
 DECL|function|dirorder
 DECL|function|engineWithNoIterator
 DECL|function|hiddenDirs_hiddenFiles
+DECL|function|initTestCase
 DECL|function|iterateRelativeDirectory
 DECL|function|iterateRelativeDirectory_data
 DECL|function|iterateResource
@@ -22,10 +24,8 @@ DECL|function|longPath
 DECL|function|recurseWithFilters
 DECL|function|relativePaths
 DECL|function|stopLinkLoop
-DECL|function|tst_QDirIterator
 DECL|function|uncPaths
 DECL|function|uncPaths_data
-DECL|function|~tst_QDirIterator
 DECL|macro|Q_NO_SYMLINKS
 DECL|member|createdDirectories
 DECL|member|createdFiles
