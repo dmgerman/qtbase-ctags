@@ -1,5 +1,6 @@
 DECL|class|DerivedException
 DECL|class|IntResult
+DECL|class|MyClass
 DECL|class|ResultObject
 DECL|class|SignalSlotObject
 DECL|class|VoidResult
@@ -38,9 +39,12 @@ DECL|function|statePropagation
 DECL|function|testRefCounting
 DECL|function|throttling
 DECL|function|voidConversions
+DECL|function|~MyClass
 DECL|macro|QFUTURE_TEST
 DECL|macro|interface
 DECL|member|canceledCalled
+DECL|member|caught
+DECL|member|caught
 DECL|member|finishedCalled
 DECL|member|rangeBegin
 DECL|member|rangeEnd
