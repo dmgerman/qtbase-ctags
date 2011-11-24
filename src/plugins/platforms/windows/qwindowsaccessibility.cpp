@@ -47,6 +47,7 @@ DECL|function|put_accName
 DECL|function|put_accValue
 DECL|function|roleString
 DECL|function|showDebug
+DECL|function|window_helper
 DECL|function|~QWindowsAccessible
 DECL|function|~QWindowsEnumerate
 DECL|macro|UiaRootObjectId
