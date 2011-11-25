@@ -52,6 +52,7 @@ DECL|function|incomingConnection
 DECL|function|incomingConnection
 DECL|function|incomingConnection
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|initTestCase_data
 DECL|function|isEncrypted
 DECL|function|localCertificate

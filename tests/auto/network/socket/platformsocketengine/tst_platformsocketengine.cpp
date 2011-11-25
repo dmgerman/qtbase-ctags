@@ -4,6 +4,7 @@ DECL|function|broadcastTest
 DECL|function|cleanup
 DECL|function|construction
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|invalidSend
 DECL|function|networkError
 DECL|function|readWriteBufferSize

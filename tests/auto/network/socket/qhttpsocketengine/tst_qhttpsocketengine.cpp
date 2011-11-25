@@ -10,6 +10,7 @@ DECL|function|errorTest
 DECL|function|errorTest_data
 DECL|function|exitLoopSlot
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|passwordAuth
 DECL|function|sendData
 DECL|function|simpleConnectToIMAP

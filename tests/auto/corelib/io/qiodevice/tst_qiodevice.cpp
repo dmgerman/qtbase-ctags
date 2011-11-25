@@ -4,6 +4,7 @@ DECL|function|PeekBug
 DECL|function|constructing_QFile
 DECL|function|constructing_QTcpSocket
 DECL|function|getSetCheck
+DECL|function|initTestCase
 DECL|function|peek
 DECL|function|peekAndRead
 DECL|function|peekBug

@@ -6,6 +6,7 @@ DECL|function|blockingPipelined
 DECL|function|clearManager
 DECL|function|connectDisconnect
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|initTestCase_data
 DECL|function|namGet
 DECL|function|namGet_data

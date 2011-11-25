@@ -12,6 +12,7 @@ DECL|enum|ProxyTests
 DECL|function|QSslSocketPtr
 DECL|function|cleanup
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|initTestCase_data
 DECL|function|newSocket
 DECL|function|onDemandRootCertLoadingStaticMethods

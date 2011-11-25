@@ -31,6 +31,7 @@ DECL|function|generateStringData
 DECL|function|getSetCheck
 DECL|function|hexTest
 DECL|function|hexTest_data
+DECL|function|initTestCase
 DECL|function|int_read_with_locale
 DECL|function|int_read_with_locale_data
 DECL|function|int_write_with_locale

@@ -47,6 +47,7 @@ DECL|function|httpDownloadPerformance_data
 DECL|function|httpLatency
 DECL|function|httpUploadPerformance
 DECL|function|httpsRequestChain
+DECL|function|initTestCase
 DECL|function|isSequential
 DECL|function|isSequential
 DECL|function|newConnectionSlot

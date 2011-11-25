@@ -13,6 +13,7 @@ DECL|function|exitLoopSlot
 DECL|function|handleClientCommand
 DECL|function|handleNewConnection
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|passwordAuth
 DECL|function|passwordAuth2
 DECL|function|proxyAuthenticationRequired

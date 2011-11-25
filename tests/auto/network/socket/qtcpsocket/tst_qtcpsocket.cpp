@@ -64,6 +64,7 @@ DECL|function|hostLookupSlot
 DECL|function|hostNotFound
 DECL|function|increaseReadBufferSize
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|initTestCase_data
 DECL|function|invalidProxy
 DECL|function|invalidProxy_data

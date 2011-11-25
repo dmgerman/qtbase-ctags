@@ -9,6 +9,7 @@ DECL|function|echo_data
 DECL|function|empty_connectedSlot
 DECL|function|empty_readyReadSlot
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|initTestCase_data
 DECL|function|ipv6Loop
 DECL|function|ipv6Loop_data

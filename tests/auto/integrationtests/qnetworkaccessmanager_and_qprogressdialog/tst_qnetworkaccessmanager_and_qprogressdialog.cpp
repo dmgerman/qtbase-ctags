@@ -7,6 +7,7 @@ DECL|function|downloadCheck
 DECL|function|downloadCheck_data
 DECL|function|finishedFromReply
 DECL|function|go
+DECL|function|initTestCase
 DECL|function|tst_QNetworkAccessManager_And_QProgressDialog
 DECL|member|lateReadyRead
 DECL|member|netmanager
