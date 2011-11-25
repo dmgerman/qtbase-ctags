@@ -1,6 +1,8 @@
 DECL|class|tst_QAtomicPointer
 DECL|function|assignment_operator
 DECL|function|bar
+DECL|function|constAndVolatile
+DECL|function|constAndVolatile_helper
 DECL|function|constructor
 DECL|function|copy_constructor
 DECL|function|dereference_operator
