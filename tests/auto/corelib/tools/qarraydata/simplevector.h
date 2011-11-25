@@ -22,6 +22,7 @@ DECL|function|front
 DECL|function|insert
 DECL|function|isEmpty
 DECL|function|isNull
+DECL|function|isSharable
 DECL|function|isShared
 DECL|function|isSharedWith
 DECL|function|isStatic
@@ -29,6 +30,7 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|prepend
 DECL|function|reserve
+DECL|function|setSharable
 DECL|function|size
 DECL|function|swap
 DECL|macro|QARRAY_TEST_SIMPLE_VECTOR_H
