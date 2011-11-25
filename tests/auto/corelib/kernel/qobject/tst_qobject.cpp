@@ -316,6 +316,7 @@ DECL|function|uintPointerSlot
 DECL|function|uintSlot
 DECL|function|ulongPointerSlot
 DECL|function|uniqConnection
+DECL|function|uniqConnectionPtr
 DECL|function|unsignedSlot
 DECL|function|unsignedcharSlot
 DECL|function|unsignedintSlot
