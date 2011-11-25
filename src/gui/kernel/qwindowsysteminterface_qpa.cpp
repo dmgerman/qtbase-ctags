@@ -15,6 +15,7 @@ DECL|function|handleMouseEvent
 DECL|function|handleScreenAvailableGeometryChange
 DECL|function|handleScreenGeometryChange
 DECL|function|handleScreenOrientationChange
+DECL|function|handleSynchronousCloseEvent
 DECL|function|handleSynchronousExposeEvent
 DECL|function|handleSynchronousGeometryChange
 DECL|function|handleTouchEvent
