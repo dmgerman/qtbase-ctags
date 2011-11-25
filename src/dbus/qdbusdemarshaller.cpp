@@ -12,6 +12,7 @@ DECL|function|endCommon
 DECL|function|endMap
 DECL|function|endMapEntry
 DECL|function|endStructure
+DECL|function|isCurrentTypeStringLike
 DECL|function|qIterGet
 DECL|function|toBool
 DECL|function|toByte
@@ -20,10 +21,13 @@ DECL|function|toDouble
 DECL|function|toInt
 DECL|function|toLongLong
 DECL|function|toObjectPath
+DECL|function|toObjectPathUnchecked
 DECL|function|toShort
 DECL|function|toSignature
+DECL|function|toSignatureUnchecked
 DECL|function|toString
 DECL|function|toStringList
+DECL|function|toStringUnchecked
 DECL|function|toUInt
 DECL|function|toULongLong
 DECL|function|toUShort
