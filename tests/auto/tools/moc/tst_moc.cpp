@@ -1,4 +1,6 @@
 DECL|class|CtorTestClass
+DECL|class|EnumSourceClass
+DECL|class|EnumUserClass
 DECL|class|MyDPointer
 DECL|class|PrivateClass
 DECL|class|PrivatePropertyTest
@@ -27,6 +29,8 @@ DECL|enumerator|Three
 DECL|enumerator|Two
 DECL|enumerator|Two
 DECL|enumerator|Two
+DECL|enumerator|Value
+DECL|enum|TestEnum
 DECL|enum|TestEnum
 DECL|enum|TestEnum
 DECL|enum|TestEnum
@@ -168,6 +172,7 @@ DECL|function|supportConstSignals
 DECL|function|task87883
 DECL|function|templateGtGt
 DECL|function|testExtraData
+DECL|function|testExtraDataForEnum
 DECL|function|testSlot
 DECL|function|testSlot2
 DECL|function|testSlot3
