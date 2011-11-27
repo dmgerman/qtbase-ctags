@@ -4,4 +4,8 @@ DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
 DECL|function|fontDatabase
 DECL|function|guiThreadEventDispatcher
+DECL|function|initialize
+DECL|function|initializeDirectFB
+DECL|function|initializeInput
+DECL|function|initializeScreen
 DECL|function|~QDirectFbIntegration

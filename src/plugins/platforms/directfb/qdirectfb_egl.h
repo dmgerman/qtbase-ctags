@@ -1,0 +1,1 @@
+DECL|macro|QDIRECTFB_EGL_H
