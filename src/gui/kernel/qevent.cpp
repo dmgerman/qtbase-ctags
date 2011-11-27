@@ -58,6 +58,7 @@ DECL|function|d_func
 DECL|function|d_func
 DECL|function|d_func
 DECL|function|d_func
+DECL|function|flags
 DECL|function|id
 DECL|function|isOverride
 DECL|function|isPrimary
@@ -78,6 +79,7 @@ DECL|function|orientation
 DECL|function|overshootDistance
 DECL|function|pos
 DECL|function|pressure
+DECL|function|rawScreenPositions
 DECL|function|reason
 DECL|function|reason
 DECL|function|rect
@@ -91,6 +93,7 @@ DECL|function|setCommitString
 DECL|function|setContentPos
 DECL|function|setContentPosRange
 DECL|function|setDropAction
+DECL|function|setFlags
 DECL|function|setId
 DECL|function|setLastNormalizedPos
 DECL|function|setLastPos
@@ -99,6 +102,7 @@ DECL|function|setLastScreenPos
 DECL|function|setNormalizedPos
 DECL|function|setPos
 DECL|function|setPressure
+DECL|function|setRawScreenPositions
 DECL|function|setRect
 DECL|function|setScenePos
 DECL|function|setSceneRect
@@ -111,6 +115,7 @@ DECL|function|setStartScreenPos
 DECL|function|setState
 DECL|function|setTentativeCommitString
 DECL|function|setValue
+DECL|function|setVelocity
 DECL|function|setViewportSize
 DECL|function|source
 DECL|function|startNormalizedPos
@@ -121,6 +126,7 @@ DECL|function|startScreenPos
 DECL|function|state
 DECL|function|url
 DECL|function|value
+DECL|function|velocity
 DECL|function|viewportSize
 DECL|function|~QActionEvent
 DECL|function|~QClipboardEvent

@@ -27,6 +27,7 @@ DECL|function|handleWheelEvent
 DECL|function|handleWindowActivated
 DECL|function|handleWindowStateChanged
 DECL|function|queueWindowSystemEvent
+DECL|function|registerTouchDevice
 DECL|function|sendWindowSystemEvents
 DECL|function|windowSystemEventsQueued
 DECL|function|windowSystemEventsQueued

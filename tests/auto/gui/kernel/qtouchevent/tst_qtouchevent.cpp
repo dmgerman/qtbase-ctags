@@ -36,6 +36,7 @@ DECL|member|deleteInTouchEnd
 DECL|member|deleteInTouchEnd
 DECL|member|deleteInTouchUpdate
 DECL|member|deleteInTouchUpdate
+DECL|member|deviceFromEvent
 DECL|member|seenTouchBegin
 DECL|member|seenTouchBegin
 DECL|member|seenTouchEnd
@@ -49,6 +50,8 @@ DECL|member|touchBeginPoints
 DECL|member|touchEndCounter
 DECL|member|touchEndPoints
 DECL|member|touchEndPoints
+DECL|member|touchPadDevice
+DECL|member|touchScreenDevice
 DECL|member|touchUpdateCounter
 DECL|member|touchUpdatePoints
 DECL|member|touchUpdatePoints
