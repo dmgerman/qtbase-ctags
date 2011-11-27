@@ -1,4 +1,7 @@
 DECL|function|cleanup
+DECL|macro|QDFB_PRETTY
+DECL|macro|QDFB_STRINGIFY
+DECL|macro|QDFB_TOSTRING
 DECL|macro|QDIRECTFBCONVENIENCE_H
 DECL|struct|QDirectFBInterfaceCleanupHandler
 DECL|variable|DFBInputDeviceKeySymbol
