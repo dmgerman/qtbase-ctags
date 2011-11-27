@@ -25,3 +25,4 @@ DECL|function|setProtocol
 DECL|function|setSslOption
 DECL|function|testSslOption
 DECL|function|~QSslConfiguration
+DECL|member|defaultSslOptions
