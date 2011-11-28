@@ -44,6 +44,7 @@ DECL|function|requestedFormat
 DECL|function|resize
 DECL|function|resizeEvent
 DECL|function|screen
+DECL|function|screenDestroyed
 DECL|function|setBaseSize
 DECL|function|setFormat
 DECL|function|setFramePos
