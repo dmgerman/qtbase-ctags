@@ -81,7 +81,6 @@ DECL|function|symbianCommandLine
 DECL|function|symbianInit
 DECL|function|testAttribute
 DECL|function|translate
-DECL|function|translate
 DECL|function|unlock
 DECL|function|~QCoreApplication
 DECL|function|~QCoreApplicationData

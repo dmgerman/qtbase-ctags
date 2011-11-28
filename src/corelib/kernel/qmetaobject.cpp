@@ -80,8 +80,6 @@ DECL|function|signature
 DECL|function|static_metacall
 DECL|function|tag
 DECL|function|tr
-DECL|function|tr
-DECL|function|trUtf8
 DECL|function|trUtf8
 DECL|function|type
 DECL|function|typeName
