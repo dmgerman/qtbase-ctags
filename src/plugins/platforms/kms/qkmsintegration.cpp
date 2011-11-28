@@ -7,5 +7,4 @@ DECL|function|findDrmDevices
 DECL|function|fontDatabase
 DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
-DECL|function|printerSupport
 DECL|function|~QKmsIntegration
