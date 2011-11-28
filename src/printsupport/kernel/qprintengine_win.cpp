@@ -32,7 +32,6 @@ DECL|function|mmToInches
 DECL|function|newPage
 DECL|function|printerState
 DECL|function|property
-DECL|function|qPixmapToWinHBITMAP
 DECL|function|queryDefault
 DECL|function|queryResolutions
 DECL|function|readDevmode
