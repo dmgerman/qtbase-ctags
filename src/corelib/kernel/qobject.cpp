@@ -12,8 +12,6 @@ DECL|function|QObjectPrivate
 DECL|function|_q_reregisterTimers
 DECL|function|activate
 DECL|function|activate
-DECL|function|activate
-DECL|function|activate
 DECL|function|addConnection
 DECL|function|addGuard
 DECL|function|blockSignals
