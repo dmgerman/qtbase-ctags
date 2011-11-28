@@ -6,6 +6,8 @@ DECL|function|connect_callback
 DECL|function|disconnect_callback
 DECL|function|foo
 DECL|function|for_each
+DECL|function|qConstructorFunction
+DECL|function|qConstructorFunctionCtor
 DECL|function|qInternalCallbacks
 DECL|function|qIsNull
 DECL|function|qassert
@@ -28,3 +30,5 @@ DECL|struct|TypeDef
 DECL|typedef|DependentType
 DECL|typedef|T
 DECL|variable|connect_info
+DECL|variable|qConstructorFunctionCtor
+DECL|variable|qConstructorFunctionValue
