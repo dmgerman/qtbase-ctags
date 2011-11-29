@@ -45,12 +45,15 @@ DECL|function|moreCustomTypes
 DECL|function|movabilityTest
 DECL|function|numericalConvert
 DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==
+DECL|function|operator ==
+DECL|function|operator >>
 DECL|function|operator >>
 DECL|function|operator_eq_eq
 DECL|function|operator_eq_eq_data
@@ -161,6 +164,7 @@ DECL|member|count
 DECL|member|e
 DECL|member|i
 DECL|member|i
+DECL|member|i
 DECL|member|movable
 DECL|member|myValue
 DECL|member|number
@@ -178,6 +182,7 @@ DECL|member|y
 DECL|member|y
 DECL|member|z
 DECL|struct|Blah
+DECL|struct|CustomStreamableClass
 DECL|struct|Data
 DECL|struct|Foo
 DECL|struct|MyClass
@@ -189,6 +194,7 @@ DECL|struct|MyShared
 DECL|struct|MyType
 DECL|struct|MyTypePOD
 DECL|struct|WontCompare
+DECL|variable|CustomStreamableClass
 DECL|variable|WontCompare
 DECL|variable|instanceCount
 DECL|variable|intMax1

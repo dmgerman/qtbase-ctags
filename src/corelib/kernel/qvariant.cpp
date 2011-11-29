@@ -1,3 +1,4 @@
+DECL|class|HandlersManager
 DECL|enumerator|MapFromThreeCount
 DECL|function|QVariant
 DECL|function|QVariant
@@ -45,9 +46,22 @@ DECL|function|constData
 DECL|function|construct
 DECL|function|convert
 DECL|function|convert
+DECL|function|convert
 DECL|function|create
+DECL|function|customClear
+DECL|function|customCompare
+DECL|function|customConstruct
+DECL|function|customConvert
+DECL|function|customIsNull
+DECL|function|customStreamDebug
 DECL|function|data
 DECL|function|detach
+DECL|function|dummyClear
+DECL|function|dummyCompare
+DECL|function|dummyConstruct
+DECL|function|dummyConvert
+DECL|function|dummyIsNull
+DECL|function|dummyStreamDebug
 DECL|function|isNull
 DECL|function|isNull
 DECL|function|load
@@ -59,6 +73,7 @@ DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator >>
 DECL|function|operator >>
+DECL|function|operator []
 DECL|function|qConvertToNumber
 DECL|function|qConvertToUnsignedNumber
 DECL|function|qIsFloatingPoint
@@ -69,6 +84,8 @@ DECL|function|qNumVariantToHelper
 DECL|function|qVariantToHelper
 DECL|function|qcoreVariantHandler
 DECL|function|qt_convertToBool
+DECL|function|registerHandler
+DECL|function|registerHandler
 DECL|function|save
 DECL|function|streamDebug
 DECL|function|toBitArray
@@ -105,10 +122,14 @@ DECL|function|toUrl
 DECL|function|type
 DECL|function|typeName
 DECL|function|typeToName
+DECL|function|unregisterHandler
+DECL|function|unregisterHandler
 DECL|function|userType
 DECL|function|~QVariant
 DECL|macro|DBL_DIG
 DECL|macro|FLT_DIG
+DECL|member|Handlers
+DECL|member|Handlers
 DECL|member|IsAccepted
 DECL|member|IsAvailable
 DECL|member|IsAvailable
@@ -120,7 +141,9 @@ DECL|member|IsAvailable
 DECL|member|IsAvailable
 DECL|member|IsAvailable
 DECL|member|IsAvailable
-DECL|member|handler
+DECL|member|qt_custom_variant_handler
+DECL|member|qt_dummy_variant_handler
+DECL|member|qt_kernel_variant_handler
 DECL|struct|Acceptor
 DECL|struct|CoreTypesFilter
 DECL|struct|TypeDefiniton
@@ -133,6 +156,6 @@ DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
+DECL|variable|handlerManager
 DECL|variable|map_from_three
 DECL|variable|qCanConvertMatrix
-DECL|variable|qt_kernel_variant_handler
