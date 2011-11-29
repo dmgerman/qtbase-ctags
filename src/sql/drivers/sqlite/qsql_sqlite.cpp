@@ -42,6 +42,7 @@ DECL|member|access
 DECL|member|firstRow
 DECL|member|q
 DECL|member|rInf
+DECL|member|results
 DECL|member|skipRow
 DECL|member|skippedStatus
 DECL|member|stmt
