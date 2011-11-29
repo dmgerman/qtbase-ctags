@@ -9,6 +9,7 @@ DECL|function|referenceCounting
 DECL|function|sharedNullEmpty
 DECL|function|simpleVector
 DECL|function|staticData
+DECL|function|typedData
 DECL|function|~Deallocator
 DECL|member|alignment
 DECL|member|dummy

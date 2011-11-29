@@ -1,6 +1,7 @@
 DECL|function|SimpleVector
 DECL|function|SimpleVector
 DECL|function|SimpleVector
+DECL|function|SimpleVector
 DECL|function|~SimpleVector
 DECL|macro|QARRAY_TEST_SIMPLE_VECTOR_H
 DECL|member|operator
