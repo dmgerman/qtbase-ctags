@@ -33,6 +33,7 @@ DECL|function|dataStar
 DECL|function|data_
 DECL|function|forwardDeclare
 DECL|function|globalColor
+DECL|function|invalidDate
 DECL|function|invalidDateTime
 DECL|function|invalidQColor
 DECL|function|isNull
@@ -59,10 +60,9 @@ DECL|function|quaternion
 DECL|function|qvariant_cast_QObject
 DECL|function|qvariant_cast_QObject_data
 DECL|function|saveLoadCustomTypes
+DECL|function|setValue
 DECL|function|streamInvalidVariant
 DECL|function|swap
-DECL|function|task172061_invalidDate
-DECL|function|task256984_setValue
 DECL|function|timeToDateTime
 DECL|function|toBool
 DECL|function|toBool_data

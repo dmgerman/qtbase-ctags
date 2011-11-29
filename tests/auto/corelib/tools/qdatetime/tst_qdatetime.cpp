@@ -17,6 +17,7 @@ DECL|function|dateFromStringFormat
 DECL|function|dateFromStringFormat_data
 DECL|function|dateTimeFromStringFormat
 DECL|function|dateTimeFromStringFormat_data
+DECL|function|daylightSavingsTimeChange
 DECL|function|daysTo
 DECL|function|defDate
 DECL|function|defDateTime
@@ -50,7 +51,6 @@ DECL|function|setTimeSpec
 DECL|function|setTime_t
 DECL|function|setUtcOffset
 DECL|function|str
-DECL|function|task_137698
 DECL|function|time
 DECL|function|timeFromStringFormat
 DECL|function|timeFromStringFormat_data

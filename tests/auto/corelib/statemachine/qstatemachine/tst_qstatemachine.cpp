@@ -41,6 +41,7 @@ DECL|function|assignPropertyWithAnimation
 DECL|function|brokenStateIsNeverEntered
 DECL|function|cancelDelayedEvent
 DECL|function|clearError
+DECL|function|clonedSignals
 DECL|function|customErrorStateIsNull
 DECL|function|customErrorStateNotInGraph
 DECL|function|customGlobalErrorState
@@ -126,7 +127,6 @@ DECL|function|stopInEventTest_data
 DECL|function|stopInTransitionToFinalState
 DECL|function|targetStateDeleted
 DECL|function|targetStateWithNoParent
-DECL|function|task260403_clonedSignals
 DECL|function|transitionEntersParent
 DECL|function|transitionFromRootState
 DECL|function|transitionToRootState

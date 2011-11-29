@@ -4,6 +4,7 @@ DECL|enumerator|Defined
 DECL|function|FakeBuffer
 DECL|function|QChar_operators_FromDevice
 DECL|function|QChar_operators_FromDevice_data
+DECL|function|alignAccountingStyle
 DECL|function|binTest
 DECL|function|binTest_data
 DECL|function|byteArray_read_operator_FromDevice
@@ -79,6 +80,7 @@ DECL|function|readNewlines
 DECL|function|readNewlines_data
 DECL|function|readStdin
 DECL|function|seek
+DECL|function|setCodec
 DECL|function|setDevice
 DECL|function|setLocked
 DECL|function|signedInt_write_operator_ToDevice_data
@@ -95,8 +97,6 @@ DECL|function|stringRef_read_operator_FromDevice
 DECL|function|stringRef_read_operator_FromDevice_data
 DECL|function|string_write_operator_ToDevice
 DECL|function|string_write_operator_ToDevice_data
-DECL|function|task178772_setCodec
-DECL|function|task180679_alignAccountingStyle
 DECL|function|unsignedInt_write_operator_ToDevice_data
 DECL|function|unsignedShort_write_operator_ToDevice_data
 DECL|function|useCase1

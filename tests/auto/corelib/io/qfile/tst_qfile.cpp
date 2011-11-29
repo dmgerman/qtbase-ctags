@@ -93,6 +93,7 @@ DECL|function|owner
 DECL|function|ownerId
 DECL|function|permissions
 DECL|function|permissions_data
+DECL|function|posAfterFailedStat
 DECL|function|read
 DECL|function|readAll
 DECL|function|readAllBuffer
@@ -138,7 +139,6 @@ DECL|function|sizeNoExist
 DECL|function|size_data
 DECL|function|standarderror
 DECL|function|tailFile
-DECL|function|task167217
 DECL|function|text
 DECL|function|textFile
 DECL|function|truncate

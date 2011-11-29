@@ -6,6 +6,7 @@ DECL|function|MyBase
 DECL|function|MyPrimitive
 DECL|function|MyPrimitive
 DECL|function|append
+DECL|function|appendCausingRealloc
 DECL|function|countMoved
 DECL|function|hasMoved
 DECL|function|oldTests
@@ -15,7 +16,6 @@ DECL|function|realloc
 DECL|function|reallocTest
 DECL|function|removeLast
 DECL|function|resize
-DECL|function|task214223
 DECL|function|~Foo
 DECL|function|~MyBase
 DECL|function|~MyPrimitive

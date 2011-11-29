@@ -11,6 +11,7 @@ DECL|function|create
 DECL|function|createDirectory
 DECL|function|createFile
 DECL|function|createLink
+DECL|function|dirorder
 DECL|function|engineWithNoIterator
 DECL|function|hiddenDirs_hiddenFiles
 DECL|function|iterateRelativeDirectory
@@ -21,7 +22,6 @@ DECL|function|longPath
 DECL|function|recurseWithFilters
 DECL|function|relativePaths
 DECL|function|stopLinkLoop
-DECL|function|task185502_dirorder
 DECL|function|tst_QDirIterator
 DECL|function|uncPaths
 DECL|function|uncPaths_data
