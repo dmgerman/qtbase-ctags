@@ -32,6 +32,8 @@ DECL|function|qExec
 DECL|function|qExec
 DECL|function|qExpectFail
 DECL|function|qFail
+DECL|function|qFindTestData
+DECL|function|qFindTestData
 DECL|function|qGlobalData
 DECL|function|qInvokeTestMethod
 DECL|function|qInvokeTestMethodDataEntry
