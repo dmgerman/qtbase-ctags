@@ -55,7 +55,6 @@ DECL|function|qt_call_post_routines
 DECL|function|qt_cleanup_apa_cmd_line
 DECL|function|qt_init_symbian_apa_arguments
 DECL|function|qt_register_signal_spy_callbacks
-DECL|function|qt_set_current_thread_to_main_thread
 DECL|function|qt_startup_hook
 DECL|function|quit
 DECL|function|removeLibraryPath

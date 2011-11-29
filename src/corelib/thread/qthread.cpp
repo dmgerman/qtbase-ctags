@@ -6,7 +6,6 @@ DECL|function|QThread
 DECL|function|QThreadData
 DECL|function|QThreadPrivate
 DECL|function|cleanup
-DECL|function|createThreadForAdoption
 DECL|function|current
 DECL|function|currentThread
 DECL|function|currentThread
