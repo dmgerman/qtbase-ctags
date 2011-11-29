@@ -29,8 +29,8 @@ DECL|function|qAllocMore
 DECL|function|qCompress
 DECL|function|qCompress_data
 DECL|function|qCompressionZeroTermination
-DECL|function|qUncompress
-DECL|function|qUncompress_data
+DECL|function|qUncompressCorruptedData
+DECL|function|qUncompressCorruptedData_data
 DECL|function|qstrcpy
 DECL|function|qstricmp
 DECL|function|qstricmp_data
