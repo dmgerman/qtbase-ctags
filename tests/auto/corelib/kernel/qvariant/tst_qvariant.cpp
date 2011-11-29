@@ -142,6 +142,8 @@ DECL|function|~MyData
 DECL|function|~MyMovable
 DECL|function|~MyNotMovable
 DECL|function|~MyType
+DECL|macro|CONVERT_META_TYPE
+DECL|macro|CONVERT_META_TYPE
 DECL|macro|N
 DECL|macro|N
 DECL|macro|N
