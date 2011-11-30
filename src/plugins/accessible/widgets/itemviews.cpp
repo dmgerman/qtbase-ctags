@@ -26,6 +26,7 @@ DECL|function|horizontalHeader
 DECL|function|indexFromLogical
 DECL|function|indexOfChild
 DECL|function|indexOfChild
+DECL|function|interface_cast
 DECL|function|isColumnSelected
 DECL|function|isExpandable
 DECL|function|isRowSelected

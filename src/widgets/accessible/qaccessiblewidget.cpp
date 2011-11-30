@@ -13,6 +13,7 @@ DECL|function|childWidgets
 DECL|function|doAction
 DECL|function|foregroundColor
 DECL|function|indexOfChild
+DECL|function|interface_cast
 DECL|function|isAncestor
 DECL|function|isSender
 DECL|function|keyBindingsForAction

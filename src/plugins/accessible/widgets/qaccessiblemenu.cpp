@@ -15,6 +15,7 @@ DECL|function|doAction
 DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|indexOfChild
+DECL|function|interface_cast
 DECL|function|isValid
 DECL|function|keyBindingsForAction
 DECL|function|menu

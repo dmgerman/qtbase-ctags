@@ -19,6 +19,9 @@ DECL|function|doAction
 DECL|function|imageDescription
 DECL|function|imagePosition
 DECL|function|imageSize
+DECL|function|interface_cast
+DECL|function|interface_cast
+DECL|function|interface_cast
 DECL|function|invokeMethod
 DECL|function|isSplitButton
 DECL|function|keyBindingsForAction

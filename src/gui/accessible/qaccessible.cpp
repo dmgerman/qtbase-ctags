@@ -1,5 +1,4 @@
 DECL|function|backgroundColor
-DECL|function|cast_helper
 DECL|function|cleanup
 DECL|function|foregroundColor
 DECL|function|installFactory

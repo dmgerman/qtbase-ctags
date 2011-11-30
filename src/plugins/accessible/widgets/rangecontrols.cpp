@@ -11,6 +11,8 @@ DECL|function|currentValue
 DECL|function|currentValue
 DECL|function|dial
 DECL|function|doubleSpinBox
+DECL|function|interface_cast
+DECL|function|interface_cast
 DECL|function|maximumValue
 DECL|function|maximumValue
 DECL|function|minimumValue

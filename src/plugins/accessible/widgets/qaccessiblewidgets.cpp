@@ -52,6 +52,7 @@ DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|insertText
+DECL|function|interface_cast
 DECL|function|invokeMethod
 DECL|function|invokeMethod
 DECL|function|invokeMethod

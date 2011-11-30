@@ -1,9 +1,1 @@
-DECL|function|qAccessibleActionCastHelper
-DECL|function|qAccessibleEditableTextCastHelper
-DECL|function|qAccessibleImageCastHelper
-DECL|function|qAccessibleTable2CastHelper
-DECL|function|qAccessibleTableCastHelper
-DECL|function|qAccessibleTextCastHelper
-DECL|function|qAccessibleValueCastHelper
 DECL|macro|QACCESSIBLE2_H
-DECL|macro|Q_ACCESSIBLE_OBJECT
