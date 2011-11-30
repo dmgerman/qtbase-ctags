@@ -33,6 +33,8 @@ DECL|function|proxyFactory_data
 DECL|function|qtbug14268_peek
 DECL|function|queryProxy
 DECL|function|run
+DECL|function|serverAddress
+DECL|function|serverAddress_data
 DECL|function|setNewSocketDescriptorBlocking
 DECL|function|setSocketDescriptor
 DECL|function|tst_QTcpServer
