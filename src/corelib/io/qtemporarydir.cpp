@@ -1,0 +1,16 @@
+DECL|class|QTemporaryDirPrivate
+DECL|function|QTemporaryDir
+DECL|function|QTemporaryDir
+DECL|function|QTemporaryDirPrivate
+DECL|function|autoRemove
+DECL|function|create
+DECL|function|defaultTemplateName
+DECL|function|isValid
+DECL|function|path
+DECL|function|remove
+DECL|function|setAutoRemove
+DECL|function|~QTemporaryDir
+DECL|function|~QTemporaryDirPrivate
+DECL|member|autoRemove
+DECL|member|path
+DECL|member|success
