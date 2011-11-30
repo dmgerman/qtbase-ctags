@@ -21,8 +21,6 @@ DECL|function|prepareSourceCode
 DECL|function|programHeader
 DECL|function|qmakeSettings
 DECL|function|qtModules
-DECL|function|removeRecursive
-DECL|function|removeTemporaryDirectory
 DECL|function|runMake
 DECL|function|runQmake
 DECL|function|setApplicationType
@@ -55,4 +53,5 @@ DECL|member|sourceCode
 DECL|member|std_err
 DECL|member|std_out
 DECL|member|temporaryDir
+DECL|member|temporaryDirPath
 DECL|namespace|QTest
