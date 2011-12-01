@@ -19,6 +19,7 @@ DECL|function|multipleRelation
 DECL|function|psqlSchemaTest
 DECL|function|recreateTestTables
 DECL|function|relationModel
+DECL|function|relationOnFirstColumn
 DECL|function|removeColumn
 DECL|function|revert
 DECL|function|selectAfterUpdate
