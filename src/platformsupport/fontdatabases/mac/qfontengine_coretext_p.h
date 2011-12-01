@@ -1,3 +1,2 @@
 DECL|macro|QFONTENGINE_CORETEXT_P_H
-DECL|variable|QCoreTextFontEngineMulti
 DECL|variable|QRawFontPrivate
