@@ -56,7 +56,6 @@ DECL|function|invokeMethod
 DECL|function|invokeMethod
 DECL|function|invokeMethod
 DECL|function|invokeMethod
-DECL|function|invokeMethod
 DECL|function|isValid
 DECL|function|mainWindow
 DECL|function|mdiArea
