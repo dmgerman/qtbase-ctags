@@ -1,5 +1,5 @@
 DECL|macro|ACCESSIBLE_ITEMVIEWS_H
 DECL|variable|QAccessibleInterface
-DECL|variable|QAccessibleTable2Cell
-DECL|variable|QAccessibleTable2HeaderCell
-DECL|variable|QAccessibleTable2Interface
+DECL|variable|QAccessibleTableCell
+DECL|variable|QAccessibleTableHeaderCell
+DECL|variable|QAccessibleTableInterface

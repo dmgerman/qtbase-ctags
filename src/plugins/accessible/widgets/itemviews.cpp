@@ -1,6 +1,6 @@
-DECL|function|QAccessibleTable2
-DECL|function|QAccessibleTable2Cell
-DECL|function|QAccessibleTable2HeaderCell
+DECL|function|QAccessibleTable
+DECL|function|QAccessibleTableCell
+DECL|function|QAccessibleTableHeaderCell
 DECL|function|caption
 DECL|function|cell
 DECL|function|cellAt
@@ -89,4 +89,4 @@ DECL|function|unselectColumn
 DECL|function|unselectRow
 DECL|function|verticalHeader
 DECL|function|verticalHeader
-DECL|function|~QAccessibleTable2
+DECL|function|~QAccessibleTable

@@ -34,6 +34,7 @@ DECL|function|init
 DECL|function|initTestCase
 DECL|function|labelTest
 DECL|function|lineEditTest
+DECL|function|listTest
 DECL|function|mainWindowTest
 DECL|function|mdiAreaTest
 DECL|function|mdiSubWindowTest
@@ -50,13 +51,12 @@ DECL|function|spinBoxTest
 DECL|function|state
 DECL|function|tabTest
 DECL|function|tabWidgetTest
-DECL|function|table2ListTest
-DECL|function|table2TableTest
-DECL|function|table2TreeTest
+DECL|function|tableTest
 DECL|function|text
 DECL|function|textAttributes
 DECL|function|textBrowserTest
 DECL|function|textEditTest
+DECL|function|treeTest
 DECL|function|tst_QAccessibility
 DECL|function|verifyChild
 DECL|function|verifyHierarchy
