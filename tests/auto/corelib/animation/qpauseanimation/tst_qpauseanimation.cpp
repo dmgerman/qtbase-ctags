@@ -17,3 +17,4 @@ DECL|function|updateCurrentTime
 DECL|function|zeroDuration
 DECL|function|~EnableConsistentTiming
 DECL|member|m_updateCurrentTimeCount
+DECL|variable|winTimerError
