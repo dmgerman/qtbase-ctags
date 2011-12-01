@@ -5,6 +5,7 @@ DECL|function|alignment
 DECL|function|alignment_data
 DECL|function|allocate
 DECL|function|allocate_data
+DECL|function|gccBug43247
 DECL|function|referenceCounting
 DECL|function|sharedNullEmpty
 DECL|function|simpleVector
