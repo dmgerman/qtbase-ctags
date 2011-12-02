@@ -59,6 +59,7 @@ DECL|function|path
 DECL|function|refresh
 DECL|function|relativeFilePath
 DECL|function|remove
+DECL|function|removeRecursively
 DECL|function|rename
 DECL|function|resolveAbsoluteEntry
 DECL|function|rmdir

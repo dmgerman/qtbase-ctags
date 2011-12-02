@@ -11,6 +11,7 @@ DECL|function|cd
 DECL|function|cd_data
 DECL|function|cleanPath
 DECL|function|cleanPath_data
+DECL|function|cleanupTestCase
 DECL|function|compare
 DECL|function|construction
 DECL|function|current
@@ -57,6 +58,9 @@ DECL|function|operator_eq
 DECL|function|relativeFilePath
 DECL|function|relativeFilePath_data
 DECL|function|remove
+DECL|function|removeRecursively
+DECL|function|removeRecursivelyFailure
+DECL|function|removeRecursively_data
 DECL|function|rename
 DECL|function|rmdir
 DECL|function|rmdir_data
