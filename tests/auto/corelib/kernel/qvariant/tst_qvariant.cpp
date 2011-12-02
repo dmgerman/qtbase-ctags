@@ -42,6 +42,7 @@ DECL|function|loadUnknownUserType
 DECL|function|matrix
 DECL|function|matrix4x4
 DECL|function|moreCustomTypes
+DECL|function|movabilityTest
 DECL|function|numericalConvert
 DECL|function|operator <<
 DECL|function|operator =
