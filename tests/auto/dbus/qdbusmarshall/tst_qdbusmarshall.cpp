@@ -8,6 +8,8 @@ DECL|function|cleanup
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|demarshallAsString
+DECL|function|demarshallInvalidStringList
+DECL|function|demarshallInvalidStringList_data
 DECL|function|demarshallPrimitiveAs
 DECL|function|demarshallPrimitiveAs
 DECL|function|demarshallPrimitives

@@ -27,6 +27,7 @@ DECL|function|toSignature
 DECL|function|toSignatureUnchecked
 DECL|function|toString
 DECL|function|toStringList
+DECL|function|toStringListUnchecked
 DECL|function|toStringUnchecked
 DECL|function|toUInt
 DECL|function|toULongLong
