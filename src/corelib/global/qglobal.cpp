@@ -1,5 +1,6 @@
 DECL|class|QSymbianLeaveException
 DECL|function|QSymbianLeaveException
+DECL|function|activateCallbacks
 DECL|function|fromstrerror_helper
 DECL|function|fromstrerror_helper
 DECL|function|macVersion
@@ -35,9 +36,11 @@ DECL|function|qt_message_output
 DECL|function|qt_symbian_exception2Error
 DECL|function|qt_symbian_exception2LeaveL
 DECL|function|qt_symbian_throwIfError
+DECL|function|registerCallback
 DECL|function|s60Version
 DECL|function|symbianInitVersions
 DECL|function|symbianVersion
+DECL|function|unregisterCallback
 DECL|function|what
 DECL|function|windowsVersion
 DECL|macro|VER_PLATFORM_WIN32_CE
@@ -51,7 +54,9 @@ DECL|macro|qWarning
 DECL|member|ByteOrder
 DECL|member|MacintoshVersion
 DECL|member|WindowsVersion
+DECL|member|callbacks
 DECL|member|error
+DECL|struct|QInternal_CallBackTable
 DECL|typedef|SeedStorage
 DECL|typedef|SeedStorageType
 DECL|typedef|SeedStorageType
