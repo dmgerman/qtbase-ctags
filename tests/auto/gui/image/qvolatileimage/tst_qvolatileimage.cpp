@@ -5,6 +5,5 @@ DECL|function|dataAccess
 DECL|function|ensureFormat
 DECL|function|fill
 DECL|function|fuzzyCompareImages
-DECL|function|main
 DECL|function|sharing
 DECL|function|tst_QVolatileImage
