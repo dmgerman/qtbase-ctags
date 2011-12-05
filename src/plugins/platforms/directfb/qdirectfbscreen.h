@@ -1,2 +1,1 @@
 DECL|macro|QDIRECTFBSCREEN_H
-DECL|variable|QDirectFBCursor
