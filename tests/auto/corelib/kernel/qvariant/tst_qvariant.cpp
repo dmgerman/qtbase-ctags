@@ -1,5 +1,7 @@
+DECL|class|MessageHandler
 DECL|class|tst_QVariant
 DECL|function|Foo
+DECL|function|MessageHandler
 DECL|function|MyClass
 DECL|function|MyData
 DECL|function|MyData
@@ -31,8 +33,11 @@ DECL|function|copy_constructor
 DECL|function|copyingUserTypes
 DECL|function|dataStar
 DECL|function|data_
+DECL|function|debugStream
+DECL|function|debugStream_data
 DECL|function|forwardDeclare
 DECL|function|globalColor
+DECL|function|handler
 DECL|function|invalidDate
 DECL|function|invalidDateTime
 DECL|function|invalidQColor
@@ -67,6 +72,7 @@ DECL|function|saveLoadCustomTypes
 DECL|function|setValue
 DECL|function|streamInvalidVariant
 DECL|function|swap
+DECL|function|testPassed
 DECL|function|timeToDateTime
 DECL|function|toBool
 DECL|function|toBool_data
@@ -142,6 +148,7 @@ DECL|function|voidStar
 DECL|function|writeToReadFromDataStream
 DECL|function|writeToReadFromDataStream_data
 DECL|function|writeToReadFromOldDataStream
+DECL|function|~MessageHandler
 DECL|function|~MyData
 DECL|function|~MyMovable
 DECL|function|~MyNotMovable
@@ -161,6 +168,8 @@ DECL|member|count
 DECL|member|count
 DECL|member|count
 DECL|member|count
+DECL|member|currentId
+DECL|member|currentId
 DECL|member|e
 DECL|member|i
 DECL|member|i
@@ -168,6 +177,9 @@ DECL|member|i
 DECL|member|movable
 DECL|member|myValue
 DECL|member|number
+DECL|member|ok
+DECL|member|ok
+DECL|member|oldMsgHandler
 DECL|member|ptr
 DECL|member|q
 DECL|member|r
