@@ -51,7 +51,6 @@ DECL|function|dropEvent
 DECL|function|focusInEvent
 DECL|function|focusOutEvent
 DECL|function|getColor
-DECL|function|getColor
 DECL|function|getRgba
 DECL|function|gridSize
 DECL|function|hsvEd
