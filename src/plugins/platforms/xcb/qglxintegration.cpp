@@ -2,6 +2,8 @@ DECL|function|QGLXContext
 DECL|function|doneCurrent
 DECL|function|format
 DECL|function|getProcAddress
+DECL|function|isSharing
+DECL|function|isValid
 DECL|function|makeCurrent
 DECL|function|swapBuffers
 DECL|function|~QGLXContext
