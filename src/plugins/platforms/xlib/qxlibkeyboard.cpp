@@ -144,6 +144,9 @@ DECL|macro|XF86XK_Time
 DECL|macro|XF86XK_ToDoList
 DECL|macro|XF86XK_Tools
 DECL|macro|XF86XK_TopMenu
+DECL|macro|XF86XK_TouchpadOff
+DECL|macro|XF86XK_TouchpadOn
+DECL|macro|XF86XK_TouchpadToggle
 DECL|macro|XF86XK_Travel
 DECL|macro|XF86XK_UWB
 DECL|macro|XF86XK_Video
