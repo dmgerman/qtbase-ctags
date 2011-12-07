@@ -108,7 +108,6 @@ DECL|function|visualIndex
 DECL|function|visualIndexAt
 DECL|function|visualIndexAt_data
 DECL|function|~tst_QHeaderView
-DECL|macro|WAIT_FOR_CONDITION
 DECL|member|cols
 DECL|member|m_col_count
 DECL|member|model
