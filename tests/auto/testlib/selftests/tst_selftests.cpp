@@ -8,6 +8,7 @@ DECL|function|extractXmlAttribute
 DECL|function|logFormat
 DECL|function|logName
 DECL|function|parse
+DECL|function|processEnvironment
 DECL|function|qCompare
 DECL|function|runSubTest
 DECL|function|runSubTest_data
