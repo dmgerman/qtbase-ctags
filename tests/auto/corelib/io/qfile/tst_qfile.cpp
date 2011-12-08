@@ -83,7 +83,6 @@ DECL|function|open
 DECL|function|openDirectory
 DECL|function|openFd
 DECL|function|openFile
-DECL|function|openStandardStreams
 DECL|function|openStandardStreamsBufferedStreams
 DECL|function|openStandardStreamsFileDescriptors
 DECL|function|openStream
