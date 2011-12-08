@@ -1,6 +1,7 @@
 DECL|class|MyAbstractTextDocumentLayout
 DECL|class|tst_QAbstractTextDocumentLayout
 DECL|function|MyAbstractTextDocumentLayout
+DECL|function|anchorAt
 DECL|function|blockBoundingRect
 DECL|function|blockCountChanged
 DECL|function|documentChanged
