@@ -36,10 +36,12 @@ DECL|function|setState
 DECL|function|setTimingInterval
 DECL|function|start
 DECL|function|start
+DECL|function|startAnimations
 DECL|function|startTimer
 DECL|function|state
 DECL|function|stop
 DECL|function|stop
+DECL|function|stopTimer
 DECL|function|stopTimer
 DECL|function|timerEvent
 DECL|function|timerEvent

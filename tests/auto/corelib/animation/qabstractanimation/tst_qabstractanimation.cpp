@@ -1,6 +1,9 @@
 DECL|class|DummyQAnimationGroup
 DECL|class|TestableQAbstractAnimation
 DECL|class|tst_QAbstractAnimation
+DECL|function|TestableQAbstractAnimation
+DECL|function|avoidJumpAtStart
+DECL|function|avoidJumpAtStartWithStop
 DECL|function|construction
 DECL|function|currentLoop
 DECL|function|currentLoopTime
@@ -11,8 +14,10 @@ DECL|function|duration
 DECL|function|duration
 DECL|function|group
 DECL|function|loopCount
+DECL|function|setDuration
 DECL|function|state
 DECL|function|totalDuration
 DECL|function|updateCurrentTime
 DECL|function|updateCurrentTime
 DECL|function|~TestableQAbstractAnimation
+DECL|member|m_duration
