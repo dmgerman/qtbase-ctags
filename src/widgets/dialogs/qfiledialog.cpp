@@ -54,9 +54,6 @@ DECL|function|getSaveFileName
 DECL|function|history
 DECL|function|iconProvider
 DECL|function|init
-DECL|function|init
-DECL|function|init
-DECL|function|init
 DECL|function|initialSelection
 DECL|function|isNameFilterDetailsVisible
 DECL|function|isReadOnly
@@ -95,6 +92,9 @@ DECL|function|setAcceptMode
 DECL|function|setConfirmOverwrite
 DECL|function|setDefaultSuffix
 DECL|function|setDirectory
+DECL|function|setFileDialogPrivate
+DECL|function|setFileDialogPrivate
+DECL|function|setFileDialogPrivate
 DECL|function|setFileMode
 DECL|function|setFilter
 DECL|function|setFilter
