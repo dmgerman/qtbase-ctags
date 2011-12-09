@@ -7,6 +7,7 @@ DECL|function|QDirectFbWindowEGL
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformWindow
 DECL|function|eglDisplay
+DECL|function|eglSurface
 DECL|function|eglSurfaceForPlatformSurface
 DECL|function|format
 DECL|function|initializeEGL

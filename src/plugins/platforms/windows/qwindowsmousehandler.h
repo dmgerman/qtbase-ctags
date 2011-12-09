@@ -1,4 +1,5 @@
 DECL|function|keyStateToMouseButtons
 DECL|function|mouseButtonsToKeyState
 DECL|macro|QWINDOWSMOUSEHANDLER_H
+DECL|variable|QTouchDevice
 DECL|variable|QWindow

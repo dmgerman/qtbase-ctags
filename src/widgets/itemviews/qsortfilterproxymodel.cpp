@@ -9,8 +9,10 @@ DECL|function|QSortFilterProxyModelLessThan
 DECL|function|_q_clearMapping
 DECL|function|_q_sourceAboutToBeReset
 DECL|function|_q_sourceColumnsAboutToBeInserted
+DECL|function|_q_sourceColumnsAboutToBeMoved
 DECL|function|_q_sourceColumnsAboutToBeRemoved
 DECL|function|_q_sourceColumnsInserted
+DECL|function|_q_sourceColumnsMoved
 DECL|function|_q_sourceColumnsRemoved
 DECL|function|_q_sourceDataChanged
 DECL|function|_q_sourceHeaderDataChanged
@@ -19,8 +21,10 @@ DECL|function|_q_sourceLayoutChanged
 DECL|function|_q_sourceModelDestroyed
 DECL|function|_q_sourceReset
 DECL|function|_q_sourceRowsAboutToBeInserted
+DECL|function|_q_sourceRowsAboutToBeMoved
 DECL|function|_q_sourceRowsAboutToBeRemoved
 DECL|function|_q_sourceRowsInserted
+DECL|function|_q_sourceRowsMoved
 DECL|function|_q_sourceRowsRemoved
 DECL|function|buddy
 DECL|function|build_source_to_proxy_mapping

@@ -1,0 +1,13 @@
+DECL|function|QTouchDevice
+DECL|function|capabilities
+DECL|function|cleanupDevicesList
+DECL|function|devices
+DECL|function|isRegistered
+DECL|function|name
+DECL|function|registerDevice
+DECL|function|setCapabilities
+DECL|function|setName
+DECL|function|setType
+DECL|function|type
+DECL|function|~QTouchDevice
+DECL|typedef|TouchDevices

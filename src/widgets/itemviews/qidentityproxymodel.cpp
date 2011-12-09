@@ -36,7 +36,5 @@ DECL|function|removeRows
 DECL|function|rowCount
 DECL|function|setSourceModel
 DECL|function|~QIdentityProxyModel
-DECL|member|ignoreNextLayoutAboutToBeChanged
-DECL|member|ignoreNextLayoutChanged
 DECL|member|layoutChangePersistentIndexes
 DECL|member|proxyIndexes

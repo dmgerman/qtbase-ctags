@@ -52,6 +52,7 @@ DECL|function|downloadBigFileSlot
 DECL|function|earlySocketBytesSent
 DECL|function|earlySocketReadyRead
 DECL|function|enterLoop
+DECL|function|enterLoopSlot
 DECL|function|exitLoop
 DECL|function|exitLoop
 DECL|function|exitLoopSlot
@@ -71,8 +72,8 @@ DECL|function|invalidProxy_data
 DECL|function|linuxKernelBugLocalSocket
 DECL|function|listen
 DECL|function|localAddressEmptyOnBSD
-DECL|function|messageBoxSlot
 DECL|function|moveToThread0
+DECL|function|nestedEventLoopInErrorSlot
 DECL|function|newSocket
 DECL|function|nonBlockingIMAP
 DECL|function|nonBlockingIMAP_bytesWritten
@@ -81,7 +82,6 @@ DECL|function|nonBlockingIMAP_connected
 DECL|function|nonBlockingIMAP_hostFound
 DECL|function|nonBlockingIMAP_readyRead
 DECL|function|openCloseOpenClose
-DECL|function|openMessageBoxInErrorSlot
 DECL|function|partialRead
 DECL|function|proxyAuthenticationRequired
 DECL|function|proxyAuthenticationRequired

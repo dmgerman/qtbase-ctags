@@ -1,0 +1,1 @@
+DECL|macro|QTOUCHDEVICE_H

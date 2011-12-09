@@ -3,10 +3,12 @@ DECL|function|QAbstractItemView
 DECL|function|QAbstractItemViewPrivate
 DECL|function|_q_columnsAboutToBeRemoved
 DECL|function|_q_columnsInserted
+DECL|function|_q_columnsMoved
 DECL|function|_q_columnsRemoved
 DECL|function|_q_layoutChanged
 DECL|function|_q_modelDestroyed
 DECL|function|_q_rowsInserted
+DECL|function|_q_rowsMoved
 DECL|function|_q_rowsRemoved
 DECL|function|_q_scrollerStateChanged
 DECL|function|addEditor

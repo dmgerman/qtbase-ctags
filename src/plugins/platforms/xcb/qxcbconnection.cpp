@@ -18,6 +18,7 @@ DECL|function|initializeXRender
 DECL|function|internAtom
 DECL|function|lock
 DECL|function|log
+DECL|function|nullErrorHandler
 DECL|function|platformWindowFromId
 DECL|function|printXcbEvent
 DECL|function|processXcbEvents

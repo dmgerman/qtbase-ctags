@@ -29,7 +29,6 @@ DECL|function|qCompare
 DECL|function|qData
 DECL|function|qElementData
 DECL|function|qExec
-DECL|function|qExec
 DECL|function|qExpectFail
 DECL|function|qFail
 DECL|function|qFindTestData

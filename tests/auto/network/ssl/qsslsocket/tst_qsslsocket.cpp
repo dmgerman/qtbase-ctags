@@ -36,6 +36,7 @@ DECL|function|defaultCaCertificates
 DECL|function|defaultCiphers
 DECL|function|disconnectFromHostWhenConnected
 DECL|function|disconnectFromHostWhenConnecting
+DECL|function|encryptWithoutConnecting
 DECL|function|enterLoop
 DECL|function|exitLoop
 DECL|function|flush

@@ -6,6 +6,7 @@ DECL|function|handleGenericEvent
 DECL|function|initializeXInput2
 DECL|function|isUsingXInput2
 DECL|member|allTouchPoints
+DECL|member|qtTouchDevice
 DECL|member|use_xinput
 DECL|member|xiMaxContacts
 DECL|member|xibuttonclassinfo

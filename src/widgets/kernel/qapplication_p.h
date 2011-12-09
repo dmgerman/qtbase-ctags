@@ -97,5 +97,6 @@ DECL|variable|QGraphicsScene
 DECL|variable|QInputContext
 DECL|variable|QObject
 DECL|variable|QSocketNotifier
+DECL|variable|QTouchDevice
 DECL|variable|QWSManager
 DECL|variable|QWidget

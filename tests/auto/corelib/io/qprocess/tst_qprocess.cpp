@@ -69,6 +69,7 @@ DECL|function|spaceArgsTest
 DECL|function|spaceArgsTest_data
 DECL|function|spaceInName
 DECL|function|startDetached
+DECL|function|startFailMessage
 DECL|function|startFinishStartFinish
 DECL|function|switchReadChannels
 DECL|function|systemEnvironment

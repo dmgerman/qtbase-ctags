@@ -165,7 +165,6 @@ DECL|function|~ValueSaver
 DECL|function|~tst_QTableView
 DECL|macro|VERIFY_SPANS_CONSISTENCY
 DECL|macro|VERIFY_SPANS_CONSISTENCY
-DECL|macro|WAIT_FOR_CONDITION
 DECL|member|can_fetch_more
 DECL|member|checkSignalOrder
 DECL|member|column_count
