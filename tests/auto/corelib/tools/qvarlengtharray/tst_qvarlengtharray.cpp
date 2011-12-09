@@ -7,6 +7,7 @@ DECL|function|MyPrimitive
 DECL|function|MyPrimitive
 DECL|function|append
 DECL|function|appendCausingRealloc
+DECL|function|count
 DECL|function|countMoved
 DECL|function|hasMoved
 DECL|function|oldTests
