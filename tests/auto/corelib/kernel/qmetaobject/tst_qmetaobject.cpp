@@ -52,6 +52,7 @@ DECL|function|checkScope_data
 DECL|function|classInfo
 DECL|function|connectSlotsByName
 DECL|function|customPropertyType
+DECL|function|enumDebugStream
 DECL|function|fire
 DECL|function|fire
 DECL|function|getValue

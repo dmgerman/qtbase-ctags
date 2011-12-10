@@ -72,6 +72,7 @@ DECL|function|placeMetaCall
 DECL|function|property
 DECL|function|qDeleteInEventHandler
 DECL|function|qFlagLocation
+DECL|function|qt_QMetaEnum_debugOperator
 DECL|function|qt_addObject
 DECL|function|qt_find_obj_child
 DECL|function|qt_qFindChild_helper
