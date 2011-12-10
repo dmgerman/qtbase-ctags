@@ -27,6 +27,7 @@ DECL|function|mouseButtons
 DECL|function|notify
 DECL|function|notifyActiveWindowChange
 DECL|function|notifyLayoutDirectionChange
+DECL|function|operator ==
 DECL|function|overrideCursor
 DECL|function|palette
 DECL|function|platformNativeInterface
@@ -47,6 +48,7 @@ DECL|function|processUnmapEvent
 DECL|function|processWheelEvent
 DECL|function|processWindowStateChangedEvent
 DECL|function|processWindowSystemEvent
+DECL|function|qHash
 DECL|function|qt_detectRTLLanguage
 DECL|function|quitOnLastWindowClosed
 DECL|function|reportAvailableGeometryChange
