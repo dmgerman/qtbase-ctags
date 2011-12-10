@@ -1,5 +1,5 @@
-DECL|function|QEventDispatcherQPA
+DECL|function|QUnixEventDispatcherQPA
 DECL|function|flush
 DECL|function|hasPendingEvents
 DECL|function|processEvents
-DECL|function|~QEventDispatcherQPA
+DECL|function|~QUnixEventDispatcherQPA
