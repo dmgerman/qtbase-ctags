@@ -44,7 +44,6 @@ DECL|function|qSleep
 DECL|function|qToInt
 DECL|function|qVerify
 DECL|function|qWarn
-DECL|function|qt_snprintf
 DECL|function|qtest_qParseArgs
 DECL|function|saveCoverageTool
 DECL|function|set
