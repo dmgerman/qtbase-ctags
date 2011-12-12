@@ -5,7 +5,6 @@ DECL|class|DebugDialog
 DECL|class|MonotoneToTriangles
 DECL|class|QInt64Set
 DECL|class|QMaxHeap
-DECL|class|QRingBuffer
 DECL|class|QTriangulator
 DECL|class|SimpleToMonotone
 DECL|enumerator|EndVertex
@@ -24,7 +23,6 @@ DECL|function|DebugDialog
 DECL|function|MonotoneToTriangles
 DECL|function|QInt64Set
 DECL|function|QMaxHeap
-DECL|function|QRingBuffer
 DECL|function|QTriangulator
 DECL|function|QVertexSet
 DECL|function|QVertexSet
@@ -42,17 +40,14 @@ DECL|function|createDiagonal
 DECL|function|decompose
 DECL|function|decompose
 DECL|function|decompose
-DECL|function|dequeue
 DECL|function|edgeIsLeftOfEdge
 DECL|function|edgeIsLeftOfEdge
 DECL|function|empty
-DECL|function|enqueue
 DECL|function|fillPriorityQueue
 DECL|function|fillPriorityQueue
 DECL|function|findSector
 DECL|function|gcd
 DECL|function|hasElementIndexUint
-DECL|function|head
 DECL|function|indices
 DECL|function|initEdges
 DECL|function|initialize
@@ -61,7 +56,6 @@ DECL|function|initialize
 DECL|function|insert
 DECL|function|insertEdgeIntoVectorIfWanted
 DECL|function|isAccurate
-DECL|function|isEmpty
 DECL|function|isEmpty
 DECL|function|isOnLine
 DECL|function|isValid
@@ -129,7 +123,6 @@ DECL|function|qPolyline
 DECL|function|qTriangulate
 DECL|function|qTriangulate
 DECL|function|qTriangulate
-DECL|function|reallocate
 DECL|function|rehash
 DECL|function|removeUnusedPoints
 DECL|function|removeUnwantedEdgesAndConnect
@@ -156,7 +149,6 @@ DECL|function|upper
 DECL|function|upper
 DECL|function|wheelEvent
 DECL|function|~QInt64Set
-DECL|function|~QRingBuffer
 DECL|macro|Q_FIXED_POINT_SCALE
 DECL|member|UNUSED
 DECL|member|UNUSED
@@ -171,8 +163,6 @@ DECL|member|indices
 DECL|member|intersectionPoint
 DECL|member|leftEdge
 DECL|member|m_array
-DECL|member|m_array
-DECL|member|m_capacity
 DECL|member|m_capacity
 DECL|member|m_clockwiseOrder
 DECL|member|m_count
@@ -183,7 +173,6 @@ DECL|member|m_edges
 DECL|member|m_edges
 DECL|member|m_events
 DECL|member|m_first
-DECL|member|m_head
 DECL|member|m_hint
 DECL|member|m_indices
 DECL|member|m_initialPointCount
@@ -196,7 +185,6 @@ DECL|member|m_parent
 DECL|member|m_parent
 DECL|member|m_parent
 DECL|member|m_processedEdgePairs
-DECL|member|m_size
 DECL|member|m_splits
 DECL|member|m_topIntersection
 DECL|member|m_upperVertex
