@@ -155,6 +155,7 @@ DECL|function|eventList
 DECL|function|findChildren
 DECL|function|floatProperty
 DECL|function|harmfullSlot
+DECL|function|initTestCase
 DECL|function|installEventFilter
 DECL|function|interfaceIid
 DECL|function|invoke1
