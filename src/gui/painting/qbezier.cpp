@@ -6,6 +6,7 @@ DECL|enum|ShiftResult
 DECL|function|addCircle
 DECL|function|addIfClose
 DECL|function|addToPolygon
+DECL|function|addToPolygon
 DECL|function|bezierOnInterval
 DECL|function|bounds
 DECL|function|findInflections
