@@ -14,7 +14,6 @@ DECL|function|currentTestFunction
 DECL|function|data
 DECL|function|defaultEventDelay
 DECL|function|defaultKeyDelay
-DECL|function|defaultKeyVerbose
 DECL|function|defaultMouseDelay
 DECL|function|fetchData
 DECL|function|function
@@ -65,7 +64,6 @@ DECL|member|eventDelay
 DECL|member|function_
 DECL|member|handledSignals
 DECL|member|keyDelay
-DECL|member|keyVerbose
 DECL|member|mouseDelay
 DECL|member|noCrashHandler
 DECL|member|printAvailableFunctions
