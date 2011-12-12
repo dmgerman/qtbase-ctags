@@ -185,7 +185,6 @@ DECL|variable|aargc
 DECL|variable|aargv
 DECL|variable|app_do_modal
 DECL|variable|qt_antialiasing_threshold
-DECL|variable|qt_appType
 DECL|variable|qt_desktopWidget
 DECL|variable|qt_in_tab_key_event
 DECL|variable|qt_is_gui_used
