@@ -17,7 +17,6 @@ DECL|function|defaultKeyDelay
 DECL|function|defaultKeyVerbose
 DECL|function|defaultMouseDelay
 DECL|function|fetchData
-DECL|function|filter_unprintable
 DECL|function|function
 DECL|function|ignoreMessage
 DECL|function|installCoverageTool

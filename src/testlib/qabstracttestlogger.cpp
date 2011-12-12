@@ -1,4 +1,5 @@
 DECL|function|QAbstractTestLogger
+DECL|function|filterUnprintable
 DECL|function|outputString
 DECL|function|qt_asprintf
 DECL|function|startLogging
