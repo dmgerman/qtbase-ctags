@@ -138,7 +138,7 @@ DECL|function|updateMatrix
 DECL|function|updateMatrixData
 DECL|function|updateOutlineMapper
 DECL|function|updatePen
-DECL|function|updateState
+DECL|function|updateRasterState
 DECL|function|winClearTypeFontsEnabled
 DECL|function|~QClipData
 DECL|function|~QRasterBuffer
