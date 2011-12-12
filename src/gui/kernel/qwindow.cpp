@@ -74,6 +74,7 @@ DECL|function|showNormal
 DECL|function|sizeIncrement
 DECL|function|surfaceHandle
 DECL|function|surfaceType
+DECL|function|touchEvent
 DECL|function|transientParent
 DECL|function|visible
 DECL|function|wheelEvent
