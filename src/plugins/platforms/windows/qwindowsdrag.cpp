@@ -17,6 +17,7 @@ DECL|function|Release
 DECL|function|cancel
 DECL|function|clearCursors
 DECL|function|createCursors
+DECL|function|defaultCursor
 DECL|function|drop
 DECL|function|findDragOverWindow
 DECL|function|instance
@@ -36,5 +37,10 @@ DECL|macro|KEY_STATE_BUTTON_MASK
 DECL|member|m_currentAction
 DECL|member|m_currentButtons
 DECL|member|m_cursors
+DECL|member|m_drag
 DECL|member|m_refs
 DECL|typedef|ActionCursorMap
+DECL|variable|copyDragCursorXpmC
+DECL|variable|ignoreDragCursorXpmC
+DECL|variable|linkDragCursorXpmC
+DECL|variable|moveDragCursorXpmC
