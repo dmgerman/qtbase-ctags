@@ -22,6 +22,8 @@ DECL|function|imageFormatBeforeRead_data
 DECL|function|imageFormat_data
 DECL|function|init
 DECL|function|jpegRgbCmyk
+DECL|function|msgIgnoreFormatAndExtensionFail
+DECL|function|msgReadFromDeviceFail
 DECL|function|multiWordNamedColorXPM
 DECL|function|physicalDpi
 DECL|function|physicalDpi_data
@@ -80,6 +82,7 @@ DECL|function|~tst_QImageReader
 DECL|macro|SKIP_IF_UNSUPPORTED
 DECL|member|clientSocket
 DECL|member|data
+DECL|member|m_temporaryDir
 DECL|member|server
 DECL|member|serverSocket
 DECL|typedef|QIntList
