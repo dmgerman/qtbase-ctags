@@ -7,7 +7,6 @@ DECL|function|bytesAvailable
 DECL|function|bytesToWrite
 DECL|function|canReadLine
 DECL|function|checkPipeState
-DECL|function|checkReadyRead
 DECL|function|close
 DECL|function|completeAsyncRead
 DECL|function|connectToServer
