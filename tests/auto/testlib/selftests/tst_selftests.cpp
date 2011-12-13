@@ -5,6 +5,7 @@ DECL|function|cleanup
 DECL|function|doRunSubTest
 DECL|function|expectedResult
 DECL|function|extractXmlAttribute
+DECL|function|initTestCase
 DECL|function|logFormat
 DECL|function|logName
 DECL|function|parse
