@@ -1,6 +1,5 @@
 DECL|function|QLocalSocketPrivate
 DECL|function|_q_canWrite
-DECL|function|_q_emitReadyRead
 DECL|function|_q_notified
 DECL|function|_q_pipeClosed
 DECL|function|abort
