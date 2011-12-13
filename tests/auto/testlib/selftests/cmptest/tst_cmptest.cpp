@@ -1,6 +1,8 @@
 DECL|class|tst_Cmptest
 DECL|function|boolfunc
 DECL|function|boolfunc2
+DECL|function|compareQStringLists
+DECL|function|compareQStringLists_data
 DECL|function|compare_boolfuncs
 DECL|function|compare_pointerfuncs
 DECL|function|compare_tostring
