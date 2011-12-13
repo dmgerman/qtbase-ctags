@@ -1,3 +1,4 @@
+DECL|class|Flags
 DECL|class|QCustomTypeInfo
 DECL|class|SizeOf
 DECL|class|TypeConstructor
@@ -6,6 +7,9 @@ DECL|function|Construct
 DECL|function|Construct
 DECL|function|Destruct
 DECL|function|Destruct
+DECL|function|Flags
+DECL|function|Flags
+DECL|function|Flags
 DECL|function|Size
 DECL|function|Size
 DECL|function|SizeOf
@@ -15,7 +19,10 @@ DECL|function|construct
 DECL|function|create
 DECL|function|customTypeConstructor
 DECL|function|customTypeDestructor
+DECL|function|customTypeFlags
 DECL|function|customTypeSizeOf
+DECL|function|delegate
+DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
@@ -39,7 +46,9 @@ DECL|function|registerTypedef
 DECL|function|save
 DECL|function|sizeOf
 DECL|function|type
+DECL|function|typeFlags
 DECL|function|typeName
+DECL|function|undefinedTypeFlags
 DECL|function|unregisterType
 DECL|macro|NS
 DECL|macro|QT_ADD_STATIC_METATYPE
@@ -71,6 +80,7 @@ DECL|member|iface
 DECL|member|m_type
 DECL|member|m_type
 DECL|member|m_type
+DECL|member|m_type
 DECL|member|m_where
 DECL|member|type
 DECL|member|typeName
@@ -82,6 +92,8 @@ DECL|struct|ConstructorImpl
 DECL|struct|DefinedTypesFilter
 DECL|struct|DestructorImpl
 DECL|struct|DestructorImpl
+DECL|struct|FlagsImpl
+DECL|struct|FlagsImpl
 DECL|struct|SizeOfImpl
 DECL|struct|SizeOfImpl
 DECL|struct|TypeDefiniton

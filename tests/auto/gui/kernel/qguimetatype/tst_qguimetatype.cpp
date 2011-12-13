@@ -41,12 +41,16 @@ DECL|function|equal
 DECL|function|equal
 DECL|function|equal
 DECL|function|equal
+DECL|function|flags
+DECL|function|flags_data
 DECL|function|sizeOf
 DECL|function|sizeOf_data
 DECL|function|testConstructCopyHelper
 DECL|function|testConstructHelper
 DECL|function|testCreateCopyHelper
 DECL|function|testCreateHelper
+DECL|macro|ADD_METATYPE_TEST_ROW
+DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
