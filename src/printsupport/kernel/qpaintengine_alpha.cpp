@@ -7,7 +7,6 @@ DECL|function|begin
 DECL|function|cleanUp
 DECL|function|continueCall
 DECL|function|drawAlphaImage
-DECL|function|drawImage
 DECL|function|drawPath
 DECL|function|drawPixmap
 DECL|function|drawPolygon
