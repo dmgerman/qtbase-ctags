@@ -67,6 +67,7 @@ DECL|member|IsAvailable
 DECL|member|IsAvailable
 DECL|member|IsAvailable
 DECL|member|alias
+DECL|member|iface
 DECL|member|m_type
 DECL|member|m_type
 DECL|member|m_type
@@ -100,6 +101,7 @@ DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
+DECL|union|CheckThatItIsPod
 DECL|variable|qMetaTypeGuiHelper
 DECL|variable|qMetaTypeWidgetsHelper
 DECL|variable|types
