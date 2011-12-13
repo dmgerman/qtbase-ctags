@@ -1,3 +1,4 @@
+DECL|class|AuthenticationCacheHelper
 DECL|class|BlockingTcpServer
 DECL|class|DataReader
 DECL|class|FastSender
@@ -25,6 +26,7 @@ DECL|enumerator|Success
 DECL|enumerator|Timeout
 DECL|enum|Protocol
 DECL|enum|RunSimpleRequestReturn
+DECL|function|AuthenticationCacheHelper
 DECL|function|BlockingTcpServer
 DECL|function|DataReader
 DECL|function|FastSender
@@ -44,6 +46,9 @@ DECL|function|RateControlledReader
 DECL|function|SocketPair
 DECL|function|SslServer
 DECL|function|allCookies
+DECL|function|authenticationCacheAfterCancel
+DECL|function|authenticationCacheAfterCancel_data
+DECL|function|authenticationRequired
 DECL|function|authenticationRequired
 DECL|function|authorizationError
 DECL|function|authorizationError_data
@@ -210,6 +215,7 @@ DECL|function|postToHttp_data
 DECL|function|prepare
 DECL|function|prepare
 DECL|function|proxyAuthenticationRequired
+DECL|function|proxyAuthenticationRequired
 DECL|function|proxyChange
 DECL|function|putGetDeleteGetFromHttp
 DECL|function|putGetDeleteGetFromHttp_data
@@ -317,6 +323,8 @@ DECL|member|doSsl
 DECL|member|doSsl
 DECL|member|endPoints
 DECL|member|fillKernelBuffer
+DECL|member|httpPassword
+DECL|member|httpUserName
 DECL|member|interval
 DECL|member|ipv6
 DECL|member|lastQuery
@@ -337,6 +345,8 @@ DECL|member|port
 DECL|member|protocol
 DECL|member|proxies
 DECL|member|proxy
+DECL|member|proxyPassword
+DECL|member|proxyUserName
 DECL|member|readBufferSize
 DECL|member|ready
 DECL|member|ready
