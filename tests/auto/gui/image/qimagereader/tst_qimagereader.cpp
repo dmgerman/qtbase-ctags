@@ -83,6 +83,7 @@ DECL|macro|SKIP_IF_UNSUPPORTED
 DECL|member|clientSocket
 DECL|member|data
 DECL|member|m_temporaryDir
+DECL|member|prefix
 DECL|member|server
 DECL|member|serverSocket
 DECL|typedef|QIntList
