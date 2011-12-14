@@ -2,15 +2,10 @@ DECL|enumerator|QAquaSizeLarge
 DECL|enumerator|QAquaSizeMini
 DECL|enumerator|QAquaSizeSmall
 DECL|enumerator|QAquaSizeUnknown
-DECL|enumerator|kHIThemeFrameTextFieldRound
-DECL|enumerator|kHIThemeFrameTextFieldRoundMini
-DECL|enumerator|kHIThemeFrameTextFieldRoundSmall
-DECL|enumerator|kThemePushButtonTextured
-DECL|enumerator|kThemePushButtonTexturedMini
-DECL|enumerator|kThemePushButtonTexturedSmall
 DECL|enum|QAquaWidgetSize
 DECL|macro|CT1
 DECL|macro|CT2
 DECL|macro|QMACSTYLE_MAC_P_H
 DECL|macro|SIZE
+DECL|macro|check
 DECL|macro|return_SIZE

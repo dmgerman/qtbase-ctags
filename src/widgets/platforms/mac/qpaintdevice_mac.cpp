@@ -1,4 +1,3 @@
-DECL|function|qt_mac_cg_context
 DECL|function|qt_mac_defaultDpi_x
 DECL|function|qt_mac_defaultDpi_y
 DECL|function|qt_mac_qd_context
