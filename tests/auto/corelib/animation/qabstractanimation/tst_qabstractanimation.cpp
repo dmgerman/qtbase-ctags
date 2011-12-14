@@ -3,6 +3,7 @@ DECL|class|TestableQAbstractAnimation
 DECL|class|tst_QAbstractAnimation
 DECL|function|TestableQAbstractAnimation
 DECL|function|avoidJumpAtStart
+DECL|function|avoidJumpAtStartWithRunning
 DECL|function|avoidJumpAtStartWithStop
 DECL|function|construction
 DECL|function|currentLoop
