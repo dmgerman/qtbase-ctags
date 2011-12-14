@@ -52,6 +52,7 @@ DECL|function|getSetCheck
 DECL|function|globalStaticObjectDestruction
 DECL|function|identifierName
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|isComposing
 DECL|function|isPathListIncluded
 DECL|function|language
