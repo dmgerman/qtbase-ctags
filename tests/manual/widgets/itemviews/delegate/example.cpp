@@ -1,0 +1,11 @@
+DECL|class|ExampleDelegate
+DECL|class|ExampleEditor
+DECL|function|ExampleDelegate
+DECL|function|ExampleEditor
+DECL|function|createEditor
+DECL|function|destroyEditor
+DECL|function|main
+DECL|function|setEditorData
+DECL|function|~ExampleDelegate
+DECL|function|~ExampleEditor
+DECL|member|m_editor
