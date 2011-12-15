@@ -192,6 +192,7 @@ DECL|function|overloads
 DECL|function|pointerConnect
 DECL|function|pointerDisconnect
 DECL|function|priority
+DECL|function|processEvents
 DECL|function|property
 DECL|function|qMetaObjectConnect
 DECL|function|qMetaObjectDisconnectOne
