@@ -100,6 +100,7 @@ DECL|function|connectDisconnectNotify
 DECL|function|connectDisconnectNotify_data
 DECL|function|connectManyArguments
 DECL|function|connectNotify
+DECL|function|connectNotifyPtr
 DECL|function|connectSignalsToSignalsWithDefaultArguments
 DECL|function|connectToSender
 DECL|function|connectToStaticCxx0x
