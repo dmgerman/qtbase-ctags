@@ -19,6 +19,7 @@ DECL|function|releaseHandle
 DECL|function|resolveFontFamilyAlias
 DECL|function|setSupported
 DECL|function|supported
+DECL|function|~QPlatformFontDatabase
 DECL|function|~QSupportedWritingSystems
 DECL|member|ref
 DECL|member|vector
