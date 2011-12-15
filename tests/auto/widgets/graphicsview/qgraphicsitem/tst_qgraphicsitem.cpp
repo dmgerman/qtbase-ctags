@@ -20,8 +20,6 @@ DECL|class|MoveWhileDying
 DECL|class|MyGraphicsItemWithItemChange
 DECL|class|MyGraphicsView
 DECL|class|MyGraphicsWidget
-DECL|class|MyInputContext
-DECL|class|MyInputWidget
 DECL|class|MyItem
 DECL|class|MyProxyWidget
 DECL|class|MyRectItem
@@ -57,8 +55,6 @@ DECL|function|MoveWhileDying
 DECL|function|MyGraphicsItemWithItemChange
 DECL|function|MyGraphicsView
 DECL|function|MyGraphicsWidget
-DECL|function|MyInputContext
-DECL|function|MyInputWidget
 DECL|function|MyProxyWidget
 DECL|function|MyRectItem
 DECL|function|MyStyleOptionTester
@@ -136,7 +132,6 @@ DECL|function|deviceCoordinateCache_simpleRotations
 DECL|function|deviceTransform
 DECL|function|deviceTransform_data
 DECL|function|doNotMarkFullUpdateIfNotInScene
-DECL|function|doUpdateMicroFocus
 DECL|function|dragEnterEvent
 DECL|function|dragLeaveEvent
 DECL|function|dragMoveEvent
@@ -178,13 +173,11 @@ DECL|function|hoverLeaveEvent
 DECL|function|hoverMoveEvent
 DECL|function|hoverMoveEvent
 DECL|function|hoverMoveEvent
-DECL|function|identifierName
 DECL|function|init
 DECL|function|inputMethodEvent
 DECL|function|inputMethodHints
 DECL|function|inputMethodQuery
 DECL|function|isAncestorOf
-DECL|function|isComposing
 DECL|function|isObscured
 DECL|function|isObscuredBy
 DECL|function|isObscuredBy
@@ -214,7 +207,6 @@ DECL|function|itemTransform_unrelated
 DECL|function|itemUsesExtendedStyleOption
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
-DECL|function|language
 DECL|function|mapFromToItem
 DECL|function|mapFromToParent
 DECL|function|mapFromToScene
@@ -229,7 +221,6 @@ DECL|function|modality_mouseGrabber
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseMoveEvent
 DECL|function|mouseMoveEvent
-DECL|function|mousePressEvent
 DECL|function|mousePressEvent
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
@@ -273,7 +264,6 @@ DECL|function|pos
 DECL|function|prepareGeometryChange
 DECL|function|removeFromGroup
 DECL|function|renderSceneToImage
-DECL|function|reset
 DECL|function|reset
 DECL|function|reset
 DECL|function|scene
@@ -337,16 +327,13 @@ DECL|function|type
 DECL|function|type
 DECL|function|untransformable
 DECL|function|update
-DECL|function|update
 DECL|function|updateCachedItemAfterMove
-DECL|function|updateMicroFocus
 DECL|function|visible
 DECL|function|warpChildrenIntoGroup
 DECL|function|wheelEvent
 DECL|function|zValue
 DECL|function|~Item
 DECL|function|~MoveWhileDying
-DECL|function|~MyInputContext
 DECL|macro|COMPARE_REGIONS
 DECL|macro|QCOMPARE_TRANSFORM
 DECL|macro|Q_CHECK_PAINTEVENTS
@@ -379,7 +366,6 @@ DECL|member|ignoreEvent
 DECL|member|itemChangeReturnValue
 DECL|member|itemSceneChangeTargetScene
 DECL|member|lastExposedRect
-DECL|member|nbUpdates
 DECL|member|oldValues
 DECL|member|p
 DECL|member|painted
