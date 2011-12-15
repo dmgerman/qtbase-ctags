@@ -5,7 +5,6 @@ DECL|class|EventSpy
 DECL|class|FocusItem
 DECL|class|GraphicsItemWithHover
 DECL|class|IMItem
-DECL|class|InputContextTester
 DECL|class|LodItem
 DECL|class|MessUpPainterItem
 DECL|class|MouseMoveCounter
@@ -48,6 +47,7 @@ DECL|function|centerOnDirtyItem
 DECL|function|centerOnItem
 DECL|function|centerOnPoint
 DECL|function|changed
+DECL|function|cleanup
 DECL|function|compositionModeInDrawBackground
 DECL|function|construction
 DECL|function|count
@@ -68,14 +68,12 @@ DECL|function|fitInView
 DECL|function|focusInEvent
 DECL|function|foregroundBrush
 DECL|function|hoverLeave
-DECL|function|identifierName
 DECL|function|indirectPainting
 DECL|function|initTestCase
 DECL|function|inputContextReset
 DECL|function|inputMethodQuery
 DECL|function|inputMethodSensitivity
 DECL|function|interactive
-DECL|function|isComposing
 DECL|function|itemAt
 DECL|function|itemAt2
 DECL|function|itemsAtPoint
@@ -85,7 +83,6 @@ DECL|function|itemsInRect
 DECL|function|itemsInRect_cosmeticAdjust
 DECL|function|itemsInRect_cosmeticAdjust_data
 DECL|function|itemsUnderMouse
-DECL|function|language
 DECL|function|levelOfDetail
 DECL|function|levelOfDetail_data
 DECL|function|mapFromScenePath
@@ -125,7 +122,6 @@ DECL|function|paintEvent
 DECL|function|render
 DECL|function|renderHints
 DECL|function|replayMouseMove
-DECL|function|reset
 DECL|function|reset
 DECL|function|resizeAnchor
 DECL|function|rubberBandSelectionMode
@@ -193,6 +189,5 @@ DECL|member|presses
 DECL|member|receivedEnterEvent
 DECL|member|receivedLeaveEvent
 DECL|member|releases
-DECL|member|resets
 DECL|member|spied
 DECL|member|transform
