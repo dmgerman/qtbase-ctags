@@ -4,8 +4,8 @@ DECL|function|ElementList
 DECL|function|QTestTable
 DECL|function|QTestTablePrivate
 DECL|function|addColumn
-DECL|function|append
-DECL|function|append
+DECL|function|addColumn
+DECL|function|addRow
 DECL|function|clearGlobalTestTable
 DECL|function|currentTestTable
 DECL|function|dataAt
