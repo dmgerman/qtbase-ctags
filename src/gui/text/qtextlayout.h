@@ -3,6 +3,7 @@ DECL|variable|QFont
 DECL|variable|QPaintDevice
 DECL|variable|QPainter
 DECL|variable|QPalette
+DECL|variable|QRawFont
 DECL|variable|QRect
 DECL|variable|QRegion
 DECL|variable|QTextBlock

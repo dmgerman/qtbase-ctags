@@ -114,3 +114,4 @@ DECL|struct|QBidiControl
 DECL|struct|QBidiStatus
 DECL|struct|QJustificationPoint
 DECL|variable|directions
+DECL|variable|smallCapsFraction
