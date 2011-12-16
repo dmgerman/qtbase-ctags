@@ -4,6 +4,7 @@ DECL|function|QHttpNetworkConnection
 DECL|function|QHttpNetworkConnection
 DECL|function|QHttpNetworkConnectionPrivate
 DECL|function|QHttpNetworkConnectionPrivate
+DECL|function|_q_connectIPv4Channel
 DECL|function|_q_hostLookupFinished
 DECL|function|_q_startNextRequest
 DECL|function|cacheProxy
