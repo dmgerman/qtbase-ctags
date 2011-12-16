@@ -186,7 +186,6 @@ DECL|variable|app_do_modal
 DECL|variable|qt_antialiasing_threshold
 DECL|variable|qt_desktopWidget
 DECL|variable|qt_in_tab_key_event
-DECL|variable|qt_is_gui_used
 DECL|variable|qt_modal_stack
 DECL|variable|qt_session_manager_self
 DECL|variable|qt_tab_all_widgets
