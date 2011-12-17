@@ -1,13 +1,10 @@
 DECL|function|QT_FT_Outline_Decompose
 DECL|function|gray_compute_cbox
-DECL|function|gray_conic_to
 DECL|function|gray_convert_glyph
 DECL|function|gray_convert_glyph_inner
-DECL|function|gray_cubic_to
 DECL|function|gray_dump_cells
 DECL|function|gray_hline
 DECL|function|gray_init_cells
-DECL|function|gray_line_to
 DECL|function|gray_move_to
 DECL|function|gray_raster_done
 DECL|function|gray_raster_new
