@@ -1,6 +1,10 @@
 DECL|class|tst_Cmptest
 DECL|function|boolfunc
 DECL|function|boolfunc2
+DECL|function|compareQImages
+DECL|function|compareQImages_data
+DECL|function|compareQPixmaps
+DECL|function|compareQPixmaps_data
 DECL|function|compareQStringLists
 DECL|function|compareQStringLists_data
 DECL|function|compare_boolfuncs
@@ -11,3 +15,6 @@ DECL|function|intptr
 DECL|member|i
 DECL|struct|PhonyClass
 DECL|variable|i
+DECL|variable|xpmPixmapData1
+DECL|variable|xpmPixmapData2
+DECL|variable|xpmPixmapData3
