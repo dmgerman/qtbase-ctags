@@ -1,5 +1,13 @@
 DECL|enumerator|Defined
 DECL|enumerator|Defined
+DECL|function|Q_DECLARE_METATYPE_TEMPLATE_1ARG
+DECL|function|construct
+DECL|function|create
+DECL|function|destroy
+DECL|function|destruct
+DECL|function|flags
+DECL|function|isRegistered
+DECL|function|isValid
 DECL|function|qMetaTypeConstructHelper
 DECL|function|qMetaTypeCreateHelper
 DECL|function|qMetaTypeDeleteHelper
@@ -12,6 +20,8 @@ DECL|function|qRegisterMetaType
 DECL|function|qRegisterMetaTypeStreamOperators
 DECL|function|qRegisterMetaTypeStreamOperators
 DECL|function|qt_metatype_id
+DECL|function|sizeOf
+DECL|function|~QMetaType
 DECL|macro|QMETATYPE_H
 DECL|macro|QT_DECLARE_BUILTIN_METATYPE_ITER
 DECL|macro|QT_DECLARE_BUILTIN_METATYPE_ITER
@@ -44,6 +54,7 @@ DECL|variable|QDataStream
 DECL|variable|QHash
 DECL|variable|QLinkedList
 DECL|variable|QMap
+DECL|variable|QMetaTypeInterface
 DECL|variable|QObject
 DECL|variable|QQueue
 DECL|variable|QSet

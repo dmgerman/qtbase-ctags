@@ -2,9 +2,13 @@ DECL|class|tst_QMetaType
 DECL|function|constructCoreType
 DECL|function|constructCoreTypeCopy
 DECL|function|constructCoreTypeCopy_data
+DECL|function|constructCoreTypeStaticLess
+DECL|function|constructCoreTypeStaticLess_data
 DECL|function|constructCoreType_data
 DECL|function|constructInPlace
 DECL|function|constructInPlaceCopy
+DECL|function|constructInPlaceCopyStaticLess
+DECL|function|constructInPlaceCopyStaticLess_data
 DECL|function|constructInPlaceCopy_data
 DECL|function|constructInPlace_data
 DECL|function|isRegisteredBuiltin
@@ -25,5 +29,13 @@ DECL|function|typeNameNotRegistered
 DECL|function|typeNotRegistered
 DECL|function|typeNotRegisteredNotNormalized
 DECL|function|~tst_QMetaType
+DECL|member|b
+DECL|member|e
 DECL|member|i
+DECL|member|i
+DECL|member|n
+DECL|member|o
+DECL|member|r
+DECL|struct|BigClass
 DECL|struct|Foo
+DECL|variable|BigClass

@@ -69,8 +69,12 @@ DECL|function|createCopy_data
 DECL|function|create_data
 DECL|function|defined
 DECL|function|flags
+DECL|function|flagsStaticLess
+DECL|function|flagsStaticLess_data
 DECL|function|flags_data
 DECL|function|isRegistered
+DECL|function|isRegisteredStaticLess
+DECL|function|isRegisteredStaticLess_data
 DECL|function|isRegistered_data
 DECL|function|namespaces
 DECL|function|normalizedTypes
@@ -82,6 +86,8 @@ DECL|function|registerType
 DECL|function|run
 DECL|function|setProp
 DECL|function|sizeOf
+DECL|function|sizeOfStaticLess
+DECL|function|sizeOfStaticLess_data
 DECL|function|sizeOf_data
 DECL|function|testConstructCopyHelper
 DECL|function|testConstructCopyHelper
