@@ -78,13 +78,13 @@ DECL|function|changeEvent
 DECL|function|childAt
 DECL|function|childAt_unifiedToolBar
 DECL|function|childDeletesItsSibling
+DECL|function|childEvents
 DECL|function|clean_qt_x11_enforce_cursor
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|clear
 DECL|function|closeEvent
-DECL|function|compatibilityChildInsertedEvents
 DECL|function|count
 DECL|function|create
 DECL|function|customDpi

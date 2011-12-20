@@ -81,10 +81,10 @@ DECL|function|boolRefSlot
 DECL|function|called
 DECL|function|called
 DECL|function|childDeletesItsSibling
+DECL|function|childEvents
 DECL|function|classPointerSlot
 DECL|function|classSlot
 DECL|function|clear
-DECL|function|compatibilityChildInsertedEvents
 DECL|function|connectByMetaMethodSlotInsteadOfSignal
 DECL|function|connectByMetaMethods
 DECL|function|connectByName
