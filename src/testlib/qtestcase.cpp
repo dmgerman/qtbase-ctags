@@ -21,6 +21,7 @@ DECL|function|ignoreMessage
 DECL|function|installCoverageTool
 DECL|function|invokeMethod
 DECL|function|isValidSlot
+DECL|function|isWindowsBuildDirectory
 DECL|function|newRow
 DECL|function|qCompare
 DECL|function|qCompare
