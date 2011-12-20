@@ -42,7 +42,6 @@ DECL|function|findChar
 DECL|function|free
 DECL|function|fromAscii
 DECL|function|fromAscii_helper
-DECL|function|fromLatin1
 DECL|function|fromLatin1_helper
 DECL|function|fromLocal8Bit
 DECL|function|fromRawData
