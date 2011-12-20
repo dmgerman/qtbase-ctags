@@ -92,8 +92,6 @@ DECL|function|pixel_distance
 DECL|function|qGamma_correct_back_to_linear_cs
 DECL|function|qInitImageConversions
 DECL|function|qt_get_bitflip_array
-DECL|function|qt_image_colortable
-DECL|function|qt_image_id
 DECL|function|qt_xForm_helper
 DECL|function|rect
 DECL|function|rgbSwapped
