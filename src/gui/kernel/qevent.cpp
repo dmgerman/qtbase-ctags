@@ -81,7 +81,6 @@ DECL|function|pos
 DECL|function|pressure
 DECL|function|rawScreenPositions
 DECL|function|reason
-DECL|function|reason
 DECL|function|rect
 DECL|function|scenePos
 DECL|function|sceneRect
