@@ -1,5 +1,7 @@
 DECL|function|QTimerInfoList
 DECL|function|activateTimers
+DECL|function|operator +
+DECL|function|operator +=
 DECL|function|qAbs
 DECL|function|registerTimer
 DECL|function|registeredTimers
