@@ -17,6 +17,8 @@ DECL|function|operator <
 DECL|function|operator <
 DECL|function|operatorQString
 DECL|function|operatorQString_data
+DECL|function|parseString
+DECL|function|parseString_data
 DECL|function|standardKeys
 DECL|function|standardKeys_data
 DECL|function|streamOperators
