@@ -10,7 +10,6 @@ DECL|function|main
 DECL|function|processEvents
 DECL|function|registerSocketNotifier
 DECL|function|registerTimer
-DECL|function|registerTimer
 DECL|function|registeredTimers
 DECL|function|unregisterSocketNotifier
 DECL|function|unregisterTimer

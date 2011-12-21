@@ -11,6 +11,7 @@ DECL|member|runLoopTimer
 DECL|member|runloop
 DECL|member|session
 DECL|member|socket
+DECL|member|timerType
 DECL|member|window
 DECL|member|writeNotifier
 DECL|struct|MacSocketInfo
