@@ -27,6 +27,8 @@ DECL|function|swap
 DECL|function|symetricConstructors
 DECL|function|symetricConstructors_data
 DECL|function|toString
+DECL|function|toStringFromKeycode
+DECL|function|toStringFromKeycode_data
 DECL|function|toString_data
 DECL|function|translated
 DECL|function|translated_data
