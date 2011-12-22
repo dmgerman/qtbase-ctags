@@ -129,6 +129,7 @@ DECL|function|updateScrollBars
 DECL|function|verticalOffset
 DECL|function|viewIndex
 DECL|function|viewportEvent
+DECL|function|viewportSizeHint
 DECL|function|visualIndex
 DECL|function|visualRect
 DECL|function|visualRegionForSelection

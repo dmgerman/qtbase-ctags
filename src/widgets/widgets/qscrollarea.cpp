@@ -15,6 +15,7 @@ DECL|function|sizeHint
 DECL|function|takeWidget
 DECL|function|updateScrollBars
 DECL|function|updateWidgetPosition
+DECL|function|viewportSizeHint
 DECL|function|widget
 DECL|function|widgetResizable
 DECL|function|~QScrollArea

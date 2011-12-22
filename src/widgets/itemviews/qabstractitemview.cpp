@@ -150,6 +150,7 @@ DECL|function|updateEditorData
 DECL|function|updateEditorData
 DECL|function|updateEditorGeometries
 DECL|function|updateGeometries
+DECL|function|updateGeometry
 DECL|function|verticalScrollMode
 DECL|function|verticalScrollbarAction
 DECL|function|verticalScrollbarValueChanged

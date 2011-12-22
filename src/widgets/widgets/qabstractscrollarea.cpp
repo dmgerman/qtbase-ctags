@@ -40,12 +40,14 @@ DECL|function|setHorizontalScrollBar
 DECL|function|setHorizontalScrollBarPolicy
 DECL|function|setScrollBarTransient
 DECL|function|setSingleFingerPanEnabled
+DECL|function|setSizeAdjustPolicy
 DECL|function|setVerticalScrollBar
 DECL|function|setVerticalScrollBarPolicy
 DECL|function|setViewport
 DECL|function|setViewportMargins
 DECL|function|setViewportMargins
 DECL|function|setupViewport
+DECL|function|sizeAdjustPolicy
 DECL|function|sizeHint
 DECL|function|verticalScrollBar
 DECL|function|verticalScrollBarPolicy

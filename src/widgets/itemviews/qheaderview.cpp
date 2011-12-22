@@ -98,6 +98,7 @@ DECL|function|setSelection
 DECL|function|setSortIndicator
 DECL|function|setSortIndicatorShown
 DECL|function|setStretchLastSection
+DECL|function|setVisible
 DECL|function|setupSectionIndicator
 DECL|function|sizeHint
 DECL|function|sortIndicatorOrder
