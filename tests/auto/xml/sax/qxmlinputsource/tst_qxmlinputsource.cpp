@@ -8,7 +8,11 @@ DECL|function|requestFinished
 DECL|function|reset
 DECL|function|resetSimplified
 DECL|function|waitForReadyIODevice
+DECL|member|body
+DECL|member|bodyBytesRead
+DECL|member|bodyLength
 DECL|member|eventLoop
 DECL|member|httpClient
+DECL|member|isBody
 DECL|member|success
 DECL|member|tcpServer
