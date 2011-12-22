@@ -50,6 +50,7 @@ DECL|function|authenticationCacheAfterCancel
 DECL|function|authenticationCacheAfterCancel_data
 DECL|function|authenticationRequired
 DECL|function|authenticationRequired
+DECL|function|authenticationWithDifferentRealm
 DECL|function|authorizationError
 DECL|function|authorizationError_data
 DECL|function|bytesWrittenSlot
