@@ -7,7 +7,6 @@ DECL|macro|Q_XCB_CALL
 DECL|macro|Q_XCB_CALL
 DECL|macro|Q_XCB_CALL2
 DECL|macro|Q_XCB_CALL2
-DECL|macro|Q_XCB_DEBUG
 DECL|macro|Q_XCB_NOOP
 DECL|macro|Q_XCB_NOOP
 DECL|typedef|QXcbEventArray
