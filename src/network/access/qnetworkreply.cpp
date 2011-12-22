@@ -8,6 +8,7 @@ DECL|function|hasRawHeader
 DECL|function|header
 DECL|function|ignoreSslErrors
 DECL|function|ignoreSslErrors
+DECL|function|ignoreSslErrorsImplementation
 DECL|function|isFinished
 DECL|function|isRunning
 DECL|function|isSequential
@@ -27,8 +28,10 @@ DECL|function|setRawHeader
 DECL|function|setReadBufferSize
 DECL|function|setRequest
 DECL|function|setSslConfiguration
+DECL|function|setSslConfigurationImplementation
 DECL|function|setUrl
 DECL|function|sslConfiguration
+DECL|function|sslConfigurationImplementation
 DECL|function|url
 DECL|function|writeData
 DECL|function|~QNetworkReply
