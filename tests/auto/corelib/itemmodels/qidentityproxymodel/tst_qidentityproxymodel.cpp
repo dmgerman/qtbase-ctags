@@ -1,7 +1,6 @@
 DECL|class|tst_QIdentityProxyModel
 DECL|function|cleanup
 DECL|function|cleanupTestCase
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|insertRows
 DECL|function|moveRows
@@ -9,6 +8,5 @@ DECL|function|removeRows
 DECL|function|reset
 DECL|function|tst_QIdentityProxyModel
 DECL|function|verifyIdentity
-DECL|function|~tst_QIdentityProxyModel
 DECL|member|m_model
 DECL|member|m_proxy

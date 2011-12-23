@@ -50,7 +50,6 @@ DECL|function|getSetCheck
 DECL|function|hasChildren
 DECL|function|index
 DECL|function|index
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|insertAfterSelect
 DECL|function|insertIntoChildrenlessItem
@@ -117,7 +116,6 @@ DECL|function|taskQTBUG_7716_unnecessaryDynamicSorting
 DECL|function|testMultipleProxiesWithSelection
 DECL|function|testParentLayoutChanged
 DECL|function|tst_QSortFilterProxyModel
-DECL|function|~tst_QSortFilterProxyModel
 DECL|member|childItem
 DECL|member|childItem2
 DECL|member|cols

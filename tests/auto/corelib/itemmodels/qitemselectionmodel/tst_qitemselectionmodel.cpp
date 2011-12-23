@@ -83,7 +83,6 @@ DECL|function|testValidRangesInSelectionsAfterReset
 DECL|function|toggleSelection
 DECL|function|tst_QItemSelectionModel
 DECL|function|unselectable
-DECL|function|~tst_QItemSelectionModel
 DECL|member|column_count
 DECL|member|m_itemSelectionModel
 DECL|member|m_model

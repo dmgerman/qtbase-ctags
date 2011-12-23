@@ -10,8 +10,6 @@ DECL|enum|CustomRole
 DECL|enum|CustomRole
 DECL|function|AnotherStandardItemModelWithCustomRoleNames
 DECL|function|StandardItemModelWithCustomRoleNames
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|columnCount
 DECL|function|data
 DECL|function|data_data
@@ -20,8 +18,6 @@ DECL|function|flags_data
 DECL|function|headerData
 DECL|function|headerData_data
 DECL|function|index
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|itemData
 DECL|function|itemData_data
 DECL|function|mapFromSource
@@ -36,12 +32,9 @@ DECL|function|mapToSource
 DECL|function|mapToSource_data
 DECL|function|parent
 DECL|function|qabstractproxymodel
-DECL|function|qabstractproxymodel_data
 DECL|function|revert
-DECL|function|revert_data
 DECL|function|rowCount
 DECL|function|setSourceModel
-DECL|function|setSourceModel_data
 DECL|function|submit
 DECL|function|submit_data
 DECL|function|testRoleNames
