@@ -25,6 +25,7 @@ DECL|function|iniEscapedStringList
 DECL|function|iniUnescapedKey
 DECL|function|iniUnescapedStringList
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|isWritable
 DECL|function|isWritable_data
 DECL|function|populateWithFormats
@@ -69,7 +70,6 @@ DECL|function|testThreadSafety
 DECL|function|testUpdateRequestEvent
 DECL|function|testVariantTypes
 DECL|function|testVariantTypes_data
-DECL|function|tst_QSettings
 DECL|function|writeCustom1File
 DECL|function|writeCustom2File
 DECL|function|writeCustom3File
