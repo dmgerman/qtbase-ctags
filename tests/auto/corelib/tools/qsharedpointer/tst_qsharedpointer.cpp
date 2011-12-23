@@ -63,6 +63,7 @@ DECL|function|refCountData
 DECL|function|run
 DECL|function|run
 DECL|function|safetyCheck
+DECL|function|sharedPointerFromQObjectWithWeak
 DECL|function|swap
 DECL|function|threadStressTest
 DECL|function|threadStressTest_data
