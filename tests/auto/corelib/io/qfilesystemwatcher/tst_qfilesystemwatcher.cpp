@@ -12,11 +12,8 @@ DECL|function|nonExistingFile
 DECL|function|removeFileAndUnWatch
 DECL|function|removePath
 DECL|function|removePaths
-DECL|function|tst_QFileSystemWatcher
 DECL|function|watchDirectory
 DECL|function|watchDirectory_data
 DECL|function|watchFileAndItsDirectory
 DECL|function|watchFileAndItsDirectory_data
-DECL|member|do_force_engines
-DECL|member|do_force_native
 DECL|member|mFsWatcher

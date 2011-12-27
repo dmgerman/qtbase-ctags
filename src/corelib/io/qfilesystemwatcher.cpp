@@ -15,7 +15,6 @@ DECL|function|createNativeEngine
 DECL|function|directories
 DECL|function|files
 DECL|function|init
-DECL|function|initForcedEngine
 DECL|function|initPollerEngine
 DECL|function|operator !=
 DECL|function|operator =
