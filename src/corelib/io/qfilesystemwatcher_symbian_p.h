@@ -1,2 +1,0 @@
-DECL|macro|QFILESYSTEMWATCHER_SYMBIAN_P_H
-DECL|variable|QSymbianFileSystemWatcherEngine
