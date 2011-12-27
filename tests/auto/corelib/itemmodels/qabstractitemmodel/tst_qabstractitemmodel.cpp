@@ -1,5 +1,6 @@
 DECL|class|CustomRoleModel
 DECL|class|ListenerObject
+DECL|class|OverrideRoleNames
 DECL|class|QtTestModel
 DECL|class|SignalArgumentChecker
 DECL|class|tst_QAbstractItemModel
@@ -9,6 +10,7 @@ DECL|enumerator|UserRole
 DECL|enum|Roles
 DECL|function|CustomRoleModel
 DECL|function|ListenerObject
+DECL|function|OverrideRoleNames
 DECL|function|QtTestModel
 DECL|function|QtTestModel
 DECL|function|SignalArgumentChecker
@@ -48,6 +50,7 @@ DECL|function|removeRows
 DECL|function|removeRows
 DECL|function|reset
 DECL|function|reset
+DECL|function|roleNames
 DECL|function|rowCount
 DECL|function|setData
 DECL|function|setPersistent
@@ -70,6 +73,7 @@ DECL|function|testMoveToUncle_data
 DECL|function|testMoveWithinOwnRange
 DECL|function|testMoveWithinOwnRange_data
 DECL|function|testReset
+DECL|function|testRoleNames
 DECL|macro|STRINGTABLE
 DECL|macro|STRINGTABLE
 DECL|member|cCount

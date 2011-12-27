@@ -36,6 +36,7 @@ DECL|function|data
 DECL|function|decodeData
 DECL|function|defaultRoleNames
 DECL|function|destroy
+DECL|function|doSetRoleNames
 DECL|function|dropMimeData
 DECL|function|dropMimeData
 DECL|function|dropMimeData
@@ -102,7 +103,6 @@ DECL|function|rowsRemoved
 DECL|function|setData
 DECL|function|setHeaderData
 DECL|function|setItemData
-DECL|function|setRoleNames
 DECL|function|setSupportedDragActions
 DECL|function|sibling
 DECL|function|sort
