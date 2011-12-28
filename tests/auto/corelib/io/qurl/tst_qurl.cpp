@@ -34,7 +34,6 @@ DECL|function|effectiveTLDs
 DECL|function|effectiveTLDs_data
 DECL|function|emptyAuthorityRemovesExistingAuthority
 DECL|function|emptyQueryOrFragment
-DECL|function|errorString
 DECL|function|fromEncoded
 DECL|function|fromLocalFile
 DECL|function|fromLocalFile_data
@@ -79,6 +78,8 @@ DECL|function|setEncodedFragment
 DECL|function|setEncodedFragment_data
 DECL|function|setPort
 DECL|function|setUrl
+DECL|function|strictParser
+DECL|function|strictParser_data
 DECL|function|stripTrailingSlash
 DECL|function|swap
 DECL|function|symmetry
