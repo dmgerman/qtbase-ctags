@@ -9,7 +9,7 @@ DECL|function|beginNestedGroup
 DECL|function|construction
 DECL|function|duration
 DECL|function|emptyGroup
-DECL|function|init
+DECL|function|initTestCase
 DECL|function|loopWithoutStartValue
 DECL|function|setCurrentTime
 DECL|function|setParentAutoAdd
