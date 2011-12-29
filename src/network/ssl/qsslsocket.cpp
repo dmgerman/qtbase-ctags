@@ -28,9 +28,9 @@ DECL|function|caCertificates
 DECL|function|canReadLine
 DECL|function|ciphers
 DECL|function|close
+DECL|function|connectToHost
 DECL|function|connectToHostEncrypted
 DECL|function|connectToHostEncrypted
-DECL|function|connectToHostImplementation
 DECL|function|createPlainSocket
 DECL|function|deepCopyDefaultConfiguration
 DECL|function|defaultCaCertificates
@@ -38,7 +38,7 @@ DECL|function|defaultCaCertificates
 DECL|function|defaultCiphers
 DECL|function|defaultCiphers
 DECL|function|defaultConfiguration
-DECL|function|disconnectFromHostImplementation
+DECL|function|disconnectFromHost
 DECL|function|encryptedBytesAvailable
 DECL|function|encryptedBytesToWrite
 DECL|function|flush
