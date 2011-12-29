@@ -136,7 +136,6 @@ DECL|function|fetchUntransformed
 DECL|function|fetchUntransformedARGB32PM
 DECL|function|fetchUntransformedRGB16
 DECL|function|findNearestColor
-DECL|function|gccBug
 DECL|function|getBlendType
 DECL|function|getLinearGradientValues
 DECL|function|getOperator
@@ -257,7 +256,6 @@ DECL|macro|PRELOAD_INIT
 DECL|macro|PRELOAD_INIT
 DECL|macro|PRELOAD_INIT2
 DECL|macro|PRELOAD_INIT2
-DECL|macro|Q_IRIX_GCC3_3_WORKAROUND
 DECL|macro|comp_func_Clear_impl
 DECL|macro|interpolate_4_pixels_16_neon
 DECL|macro|interpolate_4_pixels_16_sse2
