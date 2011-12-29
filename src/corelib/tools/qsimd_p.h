@@ -1,13 +1,7 @@
 DECL|enumerator|AVX
-DECL|enumerator|CMOV
 DECL|enumerator|IWMMXT
-DECL|enumerator|MMX
-DECL|enumerator|MMX3DNOW
-DECL|enumerator|MMX3DNOWEXT
-DECL|enumerator|MMXEXT
 DECL|enumerator|NEON
 DECL|enumerator|None
-DECL|enumerator|SSE
 DECL|enumerator|SSE2
 DECL|enumerator|SSE3
 DECL|enumerator|SSE4_1
