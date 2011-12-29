@@ -43,7 +43,7 @@ DECL|function|mapper
 DECL|function|multiplyBy2
 DECL|function|multiplyBy2Immutable
 DECL|function|multiplyBy2InPlace
-DECL|function|noDetatch
+DECL|function|noDetach
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
