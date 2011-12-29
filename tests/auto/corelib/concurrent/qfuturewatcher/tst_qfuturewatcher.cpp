@@ -35,7 +35,7 @@ DECL|function|progressRangeChanged
 DECL|function|progressText
 DECL|function|progressValueChanged
 DECL|function|progressValueChanged
-DECL|function|qfutureSynchornizer
+DECL|function|qfutureSynchronizer
 DECL|function|registerProgress
 DECL|function|registerText
 DECL|function|resultAt
@@ -51,7 +51,7 @@ DECL|function|sleeper
 DECL|function|startFinish
 DECL|function|started
 DECL|function|throttling
-DECL|function|toMuchProgress
+DECL|function|tooMuchProgress
 DECL|function|warnRace
 DECL|function|watchCanceledFuture
 DECL|function|watchFinishedFuture
