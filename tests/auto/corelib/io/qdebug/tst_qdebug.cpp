@@ -1,4 +1,6 @@
+DECL|class|MessageHandlerSetter
 DECL|class|tst_QDebug
+DECL|function|MessageHandlerSetter
 DECL|function|assignment
 DECL|function|criticalWithoutDebug
 DECL|function|debugWithQBool
@@ -7,6 +9,8 @@ DECL|function|myMessageHandler
 DECL|function|qDebugQStringRef
 DECL|function|veryLongWarningMessage
 DECL|function|warningWithoutDebug
+DECL|function|~MessageHandlerSetter
+DECL|member|oldMsgHandler
 DECL|variable|s_msg
 DECL|variable|s_msgType
 DECL|variable|tst_QDebug
