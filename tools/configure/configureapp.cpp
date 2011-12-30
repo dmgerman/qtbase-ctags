@@ -52,6 +52,7 @@ DECL|function|saveCmdLine
 DECL|function|showLicense
 DECL|function|showSummary
 DECL|function|tokenLength
+DECL|function|tryCompileProject
 DECL|function|validateArgs
 DECL|function|verifyConfiguration
 DECL|function|writeToFile
