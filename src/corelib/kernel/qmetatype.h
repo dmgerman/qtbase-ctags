@@ -39,8 +39,8 @@ DECL|typedef|QVariantHash
 DECL|typedef|QVariantList
 DECL|typedef|QVariantMap
 DECL|variable|QHash
-DECL|variable|QList
 DECL|variable|QMap
 DECL|variable|QObject
+DECL|variable|QWidget
 DECL|variable|T1
 DECL|variable|T1

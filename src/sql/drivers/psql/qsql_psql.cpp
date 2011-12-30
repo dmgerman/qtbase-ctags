@@ -1,5 +1,7 @@
 DECL|class|QPSQLDriverPrivate
 DECL|class|QPSQLResultPrivate
+DECL|enumerator|Value
+DECL|enumerator|Value
 DECL|function|PQfreemem
 DECL|function|QPSQLDriver
 DECL|function|QPSQLDriver
@@ -96,3 +98,7 @@ DECL|member|q
 DECL|member|result
 DECL|member|seid
 DECL|member|sn
+DECL|namespace|QtPrivate
+DECL|namespace|QtPrivate
+DECL|struct|IsPointerToTypeDerivedFromQObject
+DECL|struct|IsPointerToTypeDerivedFromQObject

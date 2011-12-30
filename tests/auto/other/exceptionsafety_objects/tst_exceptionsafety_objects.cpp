@@ -1,5 +1,6 @@
 DECL|class|SelfTestObject
 DECL|class|tst_ExceptionSafety_Objects
+DECL|enumerator|Value
 DECL|function|Integer
 DECL|function|Integer
 DECL|function|IntegerMoveable
@@ -54,6 +55,7 @@ DECL|member|ptr
 DECL|member|testMessageHandler
 DECL|member|testMessageHandler
 DECL|member|val
+DECL|namespace|QtPrivate
 DECL|struct|AbstractTester
 DECL|struct|BitArrayCreator
 DECL|struct|ByteArrayMatcherCreator
@@ -62,6 +64,7 @@ DECL|struct|DataStreamCreator
 DECL|struct|DirCreator
 DECL|struct|Integer
 DECL|struct|IntegerMoveable
+DECL|struct|IsPointerToTypeDerivedFromQObject
 DECL|struct|ObjectCreator
 DECL|struct|WidgetCreator
 DECL|struct|WidgetCreator

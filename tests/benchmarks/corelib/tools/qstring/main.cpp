@@ -1,4 +1,7 @@
 DECL|class|tst_QString
+DECL|enumerator|Value
+DECL|enumerator|Value
+DECL|enumerator|Value
 DECL|function|EXT_mm_lddqu_si128
 DECL|function|EXT_mm_load_si128
 DECL|function|bsf_nonzero
@@ -83,6 +86,12 @@ DECL|function|ucstrncmp_ssse3_aligning2_alignr
 DECL|function|ucstrncmp_ssse3_alignr
 DECL|function|ucstrncmp_ssse3_alignr_aligned
 DECL|macro|MAP_ANONYMOUS
+DECL|namespace|QtPrivate
+DECL|namespace|QtPrivate
+DECL|namespace|QtPrivate
+DECL|struct|IsPointerToTypeDerivedFromQObject
+DECL|struct|IsPointerToTypeDerivedFromQObject
+DECL|struct|IsPointerToTypeDerivedFromQObject
 DECL|typedef|FromLatin1Function
 DECL|typedef|FromUtf8Function
 DECL|typedef|FuncPtr

@@ -1,3 +1,5 @@
+DECL|class|CustomMultiInheritanceObject
+DECL|class|CustomObject
 DECL|class|IsRegisteredDummyType
 DECL|class|MetaTypeTorturer
 DECL|class|RegUnreg
@@ -14,6 +16,8 @@ DECL|enumerator|V6
 DECL|enumerator|Value
 DECL|enumerator|Value
 DECL|function|Bar
+DECL|function|CustomMultiInheritanceObject
+DECL|function|CustomObject
 DECL|function|MetaTypeTorturer
 DECL|function|RegUnreg
 DECL|function|RegUnreg
@@ -139,6 +143,7 @@ DECL|struct|MetaEnumToType
 DECL|struct|RoundToNextHighestPowerOfTwo
 DECL|struct|SafeSizeOf
 DECL|struct|SafeSizeOf
+DECL|struct|SecondBase
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory

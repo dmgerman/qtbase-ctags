@@ -1,5 +1,6 @@
 DECL|class|MessageHandler
 DECL|class|tst_QVariant
+DECL|enumerator|Value
 DECL|function|Foo
 DECL|function|MessageHandler
 DECL|function|MyClass
@@ -193,10 +194,12 @@ DECL|member|x
 DECL|member|y
 DECL|member|y
 DECL|member|z
+DECL|namespace|QtPrivate
 DECL|struct|Blah
 DECL|struct|CustomStreamableClass
 DECL|struct|Data
 DECL|struct|Foo
+DECL|struct|IsPointerToTypeDerivedFromQObject
 DECL|struct|MyClass
 DECL|struct|MyData
 DECL|struct|MyMovable
