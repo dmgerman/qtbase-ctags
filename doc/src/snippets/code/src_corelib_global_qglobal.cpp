@@ -2,11 +2,16 @@ DECL|class|MyClass
 DECL|class|MyClass
 DECL|class|MyClass
 DECL|class|Point2D
+DECL|enumerator|Circle
 DECL|enumerator|NoOptions
+DECL|enumerator|NumShapes
+DECL|enumerator|Rectangle
 DECL|enumerator|ShowAll
 DECL|enumerator|ShowTabs
 DECL|enumerator|SqueezeBlank
+DECL|enumerator|Triangle
 DECL|enum|Option
+DECL|enum|Shapes
 DECL|function|Point2D
 DECL|function|Point2D
 DECL|function|addLabels
