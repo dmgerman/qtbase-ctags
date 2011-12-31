@@ -1,3 +1,5 @@
+DECL|function|ArchData
+DECL|function|ArchData
 DECL|function|Configure
 DECL|function|addDefine
 DECL|function|appendMakeItem
@@ -48,3 +50,8 @@ DECL|function|writeToFile
 DECL|function|~Configure
 DECL|macro|MARK_OPTION
 DECL|macro|for
+DECL|member|key
+DECL|member|qmakespec
+DECL|member|subarchKey
+DECL|member|type
+DECL|struct|ArchData
