@@ -21,6 +21,7 @@ DECL|function|CustomObject
 DECL|function|MetaTypeTorturer
 DECL|function|RegUnreg
 DECL|function|RegUnreg
+DECL|function|automaticTemplateRegistration
 DECL|function|construct
 DECL|function|constructCopy
 DECL|function|constructCopy_data
