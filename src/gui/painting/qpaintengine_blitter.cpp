@@ -43,9 +43,16 @@ DECL|function|stroke
 DECL|function|systemStateChanged
 DECL|function|transformChanged
 DECL|function|unlock
-DECL|function|updateClip
+DECL|function|updateBrushState
+DECL|function|updateClipState
+DECL|function|updateCompleteState
+DECL|function|updateCompositionModeState
+DECL|function|updateOpacityState
+DECL|function|updatePenState
+DECL|function|updateRenderHintsState
 DECL|function|updateState
 DECL|function|updateStateBits
+DECL|function|updateTransformState
 DECL|function|~QBlitterPaintEngine
 DECL|macro|STATE_ALPHA
 DECL|macro|STATE_ANTIALIASING
