@@ -63,7 +63,6 @@ DECL|member|drawPixmapMask
 DECL|member|drawRectMask
 DECL|member|fillRectMask
 DECL|member|hasXForm
-DECL|member|isBlitterLocked
 DECL|member|m_capabilities
 DECL|member|pmData
 DECL|member|raster

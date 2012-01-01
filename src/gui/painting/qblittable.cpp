@@ -2,6 +2,7 @@ DECL|class|QBlittablePrivate
 DECL|function|QBlittable
 DECL|function|QBlittablePrivate
 DECL|function|capabilities
+DECL|function|isLocked
 DECL|function|lock
 DECL|function|size
 DECL|function|unlock
