@@ -57,8 +57,8 @@ DECL|macro|STATE_CLIP_COMPLEX
 DECL|macro|STATE_PEN_ENABLED
 DECL|macro|STATE_XFORM_COMPLEX
 DECL|macro|STATE_XFORM_SCALE
-DECL|member|capabillities
 DECL|member|capabillitiesState
+DECL|member|caps
 DECL|member|drawPixmapMask
 DECL|member|drawRectMask
 DECL|member|fillRectMask
