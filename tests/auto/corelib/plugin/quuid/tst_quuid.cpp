@@ -14,6 +14,8 @@ DECL|function|less
 DECL|function|more
 DECL|function|notEqual
 DECL|function|processUniqueness
+DECL|function|qvariant
+DECL|function|qvariant_conversion
 DECL|function|run
 DECL|function|threadUniqueness
 DECL|function|toByteArray
