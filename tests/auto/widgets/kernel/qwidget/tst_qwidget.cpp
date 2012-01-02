@@ -10,13 +10,11 @@ DECL|class|DestroyedSlotChecker
 DECL|class|EventRecorder
 DECL|class|EventSpy
 DECL|class|GDIWidget
-DECL|class|InputContextTester
 DECL|class|MaskResizeTestWidget
 DECL|class|MaskSetWidget
 DECL|class|MaskedPainter
 DECL|class|MoveInResizeWidget
 DECL|class|MyEvilObject
-DECL|class|MyInputContext
 DECL|class|PaintOnScreenWidget
 DECL|class|QPropagationTestWidget
 DECL|class|RenderWidget
@@ -49,7 +47,6 @@ DECL|function|MaskSetWidget
 DECL|function|MaskedPainter
 DECL|function|MoveInResizeWidget
 DECL|function|MyEvilObject
-DECL|function|MyInputContext
 DECL|function|PaintOnScreenWidget
 DECL|function|QPropagationTestWidget
 DECL|function|QTBUG6883_reparentStaticWidget2
@@ -126,8 +123,6 @@ DECL|function|hideEvent
 DECL|function|hideOpaqueChildWhileHidden
 DECL|function|hideWhenFocusWidgetIsChild
 DECL|function|icon
-DECL|function|identifierName
-DECL|function|identifierName
 DECL|function|immediateRepaintAfterInvalidateBuffer
 DECL|function|immediateRepaintAfterShow
 DECL|function|init
@@ -135,8 +130,6 @@ DECL|function|initTestCase
 DECL|function|initialPosForDontShowOnScreenWidgets
 DECL|function|inputFocus_task257832
 DECL|function|invalidate
-DECL|function|isComposing
-DECL|function|isComposing
 DECL|function|isEnabledTo
 DECL|function|isHidden
 DECL|function|isOpaque
@@ -144,8 +137,6 @@ DECL|function|isOpaque
 DECL|function|isVisibleTo
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
-DECL|function|language
-DECL|function|language
 DECL|function|lostUpdatesOnHide
 DECL|function|lower
 DECL|function|macHasAccessToWindowsServer
@@ -214,8 +205,6 @@ DECL|function|render_worldTransform
 DECL|function|repaintWhenChildDeleted
 DECL|function|reparent
 DECL|function|reparentStaticWidget
-DECL|function|reset
-DECL|function|reset
 DECL|function|reset
 DECL|function|reset
 DECL|function|resizeDown
@@ -354,7 +343,6 @@ DECL|member|paintedRegion
 DECL|member|partial
 DECL|member|points
 DECL|member|r
-DECL|member|resets
 DECL|member|resizeInPaintEvent
 DECL|member|sibling
 DECL|member|source

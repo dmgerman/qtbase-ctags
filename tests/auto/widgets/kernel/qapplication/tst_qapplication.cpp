@@ -4,7 +4,6 @@ DECL|class|DeleteLaterWidget
 DECL|class|EventLoopNester
 DECL|class|EventSpy
 DECL|class|LineEdit
-DECL|class|MyInputContext
 DECL|class|PromptOnCloseWidget
 DECL|class|QuitOnLastWindowClosedDialog
 DECL|class|QuitOnLastWindowClosedWindow
@@ -16,7 +15,6 @@ DECL|function|CloseEventTestWindow
 DECL|function|CloseWidget
 DECL|function|DeleteLaterWidget
 DECL|function|LineEdit
-DECL|function|MyInputContext
 DECL|function|QString2cstrings
 DECL|function|QuitOnLastWindowClosedDialog
 DECL|function|QuitOnLastWindowClosedWindow
@@ -48,14 +46,10 @@ DECL|function|focusChanged
 DECL|function|focusInEvent
 DECL|function|focusOut
 DECL|function|focusOutEvent
-DECL|function|getSetCheck
 DECL|function|globalStaticObjectDestruction
-DECL|function|identifierName
 DECL|function|init
 DECL|function|initTestCase
-DECL|function|isComposing
 DECL|function|isPathListIncluded
-DECL|function|language
 DECL|function|lastWindowClosed
 DECL|function|libraryPaths
 DECL|function|libraryPaths_qt_plugin_path
@@ -69,7 +63,6 @@ DECL|function|processEventsOnly
 DECL|function|processEventsWithDeferredDeletion
 DECL|function|qtbug_12673
 DECL|function|quitOnLastWindowClosed
-DECL|function|reset
 DECL|function|reset
 DECL|function|runTest
 DECL|function|sendEventsOnProcessEvents
