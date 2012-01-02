@@ -54,8 +54,10 @@ DECL|function|nativeLanguageName
 DECL|function|negativeSign
 DECL|function|numberOptions
 DECL|function|numberToCLocale
+DECL|function|operator !=
 DECL|function|operator <<
 DECL|function|operator =
+DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|parse_locale_tag
 DECL|function|percent
