@@ -3,7 +3,9 @@ DECL|function|defaultAlignment
 DECL|function|getSetCheck
 DECL|function|getSetTabs
 DECL|function|resolveFont
+DECL|function|testFontStretch
 DECL|function|testFontStyleSetters
+DECL|function|testLetterSpacing
 DECL|function|testQTextCharFormat
 DECL|function|testTabsUsed
 DECL|function|testUnderlinePropertyPrecedence
