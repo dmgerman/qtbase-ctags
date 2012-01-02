@@ -57,4 +57,5 @@ DECL|function|updateState
 DECL|function|~QAbstractAnimation
 DECL|function|~QAnimationDriver
 DECL|macro|DEFAULT_TIMER_INTERVAL
+DECL|macro|PAUSE_TIMER_COARSE_THRESHOLD
 DECL|macro|STARTSTOP_TIMER_DELAY
