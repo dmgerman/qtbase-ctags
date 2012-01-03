@@ -86,3 +86,4 @@ DECL|macro|testVariant
 DECL|member|param
 DECL|variable|NumIterations
 DECL|variable|NumThreads
+DECL|variable|numThreadSafetyFailures
