@@ -4,6 +4,7 @@ DECL|function|CountedObject
 DECL|function|CountedObject
 DECL|function|Deallocator
 DECL|function|LeakChecker
+DECL|function|SharedNullVerifier
 DECL|function|alignment
 DECL|function|alignment_data
 DECL|function|allocate
@@ -30,3 +31,5 @@ DECL|member|previousLiveCount
 DECL|struct|CountedObject
 DECL|struct|Deallocator
 DECL|struct|LeakChecker
+DECL|struct|SharedNullVerifier
+DECL|variable|globalInit
