@@ -1,35 +1,15 @@
-DECL|class|FileInfo
-DECL|class|QPollingFileSystemWatcherEngine
-DECL|enumerator|PollingInterval
-DECL|function|FileInfo
 DECL|function|QFileSystemWatcher
 DECL|function|QFileSystemWatcher
 DECL|function|QFileSystemWatcherPrivate
-DECL|function|QPollingFileSystemWatcherEngine
 DECL|function|_q_directoryChanged
 DECL|function|_q_fileChanged
 DECL|function|addPath
-DECL|function|addPaths
 DECL|function|addPaths
 DECL|function|createNativeEngine
 DECL|function|directories
 DECL|function|files
 DECL|function|init
 DECL|function|initPollerEngine
-DECL|function|operator !=
-DECL|function|operator =
 DECL|function|removePath
 DECL|function|removePaths
-DECL|function|removePaths
-DECL|function|run
-DECL|function|stop
-DECL|function|timeout
 DECL|function|~QFileSystemWatcher
-DECL|member|directories
-DECL|member|entries
-DECL|member|files
-DECL|member|groupId
-DECL|member|lastModified
-DECL|member|mutex
-DECL|member|ownerId
-DECL|member|permissions
