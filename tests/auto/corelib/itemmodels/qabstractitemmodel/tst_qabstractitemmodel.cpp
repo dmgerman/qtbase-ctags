@@ -13,6 +13,7 @@ DECL|function|QtTestModel
 DECL|function|QtTestModel
 DECL|function|SignalArgumentChecker
 DECL|function|changePersistentIndex
+DECL|function|cleanup
 DECL|function|columnCount
 DECL|function|complexChangesWithPersistent
 DECL|function|data
