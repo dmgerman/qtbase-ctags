@@ -1,6 +1,7 @@
 DECL|class|UuidThread
 DECL|class|tst_QUuid
 DECL|function|check_QDataStream
+DECL|function|createUuidV3OrV5
 DECL|function|equal
 DECL|function|fromByteArray
 DECL|function|fromChar
@@ -26,3 +27,6 @@ DECL|function|versions
 DECL|member|uuid
 DECL|member|uuidA
 DECL|member|uuidB
+DECL|member|uuidC
+DECL|member|uuidD
+DECL|member|uuidNS

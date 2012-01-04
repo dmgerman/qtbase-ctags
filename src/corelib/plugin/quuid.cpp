@@ -5,8 +5,11 @@ DECL|function|_q_fromHex
 DECL|function|_q_toHex
 DECL|function|_q_uuidFromHex
 DECL|function|_q_uuidToHex
+DECL|function|createFromName
 DECL|function|createUuid
 DECL|function|createUuid
+DECL|function|createUuidV3
+DECL|function|createUuidV5
 DECL|function|fromRfc4122
 DECL|function|isNull
 DECL|function|operator <
