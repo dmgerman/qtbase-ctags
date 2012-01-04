@@ -121,6 +121,7 @@ DECL|function|numCaptures
 DECL|function|operator <
 DECL|function|operator <
 DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator =

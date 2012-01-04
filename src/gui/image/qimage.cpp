@@ -81,6 +81,7 @@ DECL|function|mirrored
 DECL|function|offset
 DECL|function|operator !=
 DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator >>

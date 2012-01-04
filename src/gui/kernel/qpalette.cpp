@@ -15,6 +15,7 @@ DECL|function|isBrushSet
 DECL|function|isCopyOf
 DECL|function|isEqual
 DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator >>

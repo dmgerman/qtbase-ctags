@@ -56,6 +56,7 @@ DECL|function|numberOptions
 DECL|function|numberToCLocale
 DECL|function|operator !=
 DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator >>

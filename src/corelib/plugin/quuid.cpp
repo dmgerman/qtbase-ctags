@@ -11,6 +11,7 @@ DECL|function|fromRfc4122
 DECL|function|isNull
 DECL|function|operator <
 DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|operator >
 DECL|function|operator >>
 DECL|function|qHash
