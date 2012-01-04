@@ -1,6 +1,7 @@
 DECL|function|MacSocketInfo
 DECL|function|operator
 DECL|macro|QEVENTDISPATCHER_MAC_P_H
+DECL|member|d_ptr
 DECL|member|id
 DECL|member|interval
 DECL|member|nswindow
