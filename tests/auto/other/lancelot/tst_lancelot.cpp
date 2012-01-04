@@ -18,7 +18,6 @@ DECL|function|testRasterRGB16_data
 DECL|function|testRasterRGB32
 DECL|function|testRasterRGB32_data
 DECL|function|tst_Lancelot
-DECL|macro|SRCDIR
 DECL|macro|main
 DECL|macro|main
 DECL|member|baseList
