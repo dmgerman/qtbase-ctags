@@ -1,4 +1,5 @@
 DECL|class|tst_QDom
+DECL|function|DTDNotationDecl
 DECL|function|appendChildFromToDocument
 DECL|function|appendDocumentNode
 DECL|function|browseElements
