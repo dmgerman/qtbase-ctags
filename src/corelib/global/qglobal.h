@@ -469,6 +469,7 @@ DECL|typedef|qint32
 DECL|typedef|qint64
 DECL|typedef|qint64
 DECL|typedef|qint8
+DECL|typedef|qintptr
 DECL|typedef|qlonglong
 DECL|typedef|qptrdiff
 DECL|typedef|qreal
