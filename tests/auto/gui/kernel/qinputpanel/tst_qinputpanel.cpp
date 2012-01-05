@@ -10,6 +10,8 @@ DECL|function|event
 DECL|function|filterEvent
 DECL|function|hideInputPanel
 DECL|function|initTestCase
+DECL|function|inputDirection
+DECL|function|inputDirection
 DECL|function|inputItem
 DECL|function|inputItemTransform
 DECL|function|invokeAction
@@ -18,6 +20,7 @@ DECL|function|isAnimating
 DECL|function|isInputPanelVisible
 DECL|function|keyboarRectangle
 DECL|function|keyboardRect
+DECL|function|locale
 DECL|function|query
 DECL|function|reset
 DECL|function|reset
@@ -31,11 +34,13 @@ DECL|member|m_action
 DECL|member|m_animating
 DECL|member|m_commitCallCount
 DECL|member|m_cursorPosition
+DECL|member|m_inputDirectionCallCount
 DECL|member|m_inputItem
 DECL|member|m_keyboardRect
 DECL|member|m_lastEventType
 DECL|member|m_lastQueries
 DECL|member|m_lastQueries
+DECL|member|m_localeCallCount
 DECL|member|m_platformInputContext
 DECL|member|m_resetCallCount
 DECL|member|m_updateCallCount
