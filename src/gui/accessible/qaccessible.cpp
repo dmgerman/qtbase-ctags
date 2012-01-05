@@ -7,6 +7,7 @@ DECL|function|installUpdateHandler
 DECL|function|invokeMethod
 DECL|function|isActive
 DECL|function|operator <<
+DECL|function|operator ==
 DECL|function|platformAccessibility
 DECL|function|qAccessibleCleanup
 DECL|function|qAccessibleEventString

@@ -50,6 +50,7 @@ DECL|function|scrollBarTest
 DECL|function|sliderTest
 DECL|function|spinBoxTest
 DECL|function|state
+DECL|function|statesStructTest
 DECL|function|tabTest
 DECL|function|tabWidgetTest
 DECL|function|tableTest
