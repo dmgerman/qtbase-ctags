@@ -236,6 +236,7 @@ DECL|function|qtbug12908compressedHttpReply
 DECL|function|qtbug13431replyThrottling
 DECL|function|qtbug15311doubleContentLength
 DECL|function|qtbug18232gzipContentLengthZero
+DECL|function|qtbug22660gzipNoContentLengthEmptyContent
 DECL|function|qtbug4121unknownAuthentication
 DECL|function|queryProxy
 DECL|function|rateControl
