@@ -8,6 +8,8 @@ DECL|function|QtTestAccessibleWidget
 DECL|function|QtTestAccessibleWidgetIface
 DECL|function|abstractScrollAreaTest
 DECL|function|accelerators
+DECL|function|accessibleInterfaceAbove
+DECL|function|accessibleInterfaceLeftOf
 DECL|function|accessibleName
 DECL|function|actionTest
 DECL|function|applicationTest
@@ -40,7 +42,6 @@ DECL|function|mdiAreaTest
 DECL|function|mdiSubWindowTest
 DECL|function|menuTest
 DECL|function|navigateCovered
-DECL|function|navigateGeometric
 DECL|function|navigateHierarchy
 DECL|function|onClicked
 DECL|function|rubberBandTest

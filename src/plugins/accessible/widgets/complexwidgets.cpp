@@ -37,11 +37,9 @@ DECL|function|keyBindingsForAction
 DECL|function|localizedActionDescription
 DECL|function|navigate
 DECL|function|navigate
-DECL|function|navigate
 DECL|function|object
 DECL|function|parent
 DECL|function|rect
-DECL|function|relationTo
 DECL|function|removeInvisibleWidgetsFromList
 DECL|function|role
 DECL|function|selection

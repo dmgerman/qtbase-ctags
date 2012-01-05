@@ -21,14 +21,11 @@ DECL|function|keyBindingsForAction
 DECL|function|menu
 DECL|function|menuBar
 DECL|function|navigate
-DECL|function|navigate
-DECL|function|navigate
 DECL|function|object
 DECL|function|owner
 DECL|function|parent
 DECL|function|parent
 DECL|function|rect
-DECL|function|relationTo
 DECL|function|role
 DECL|function|role
 DECL|function|setText

@@ -8,6 +8,7 @@ DECL|function|cellAt
 DECL|function|child
 DECL|function|child
 DECL|function|child
+DECL|function|child
 DECL|function|childAt
 DECL|function|childAt
 DECL|function|childCount
@@ -40,14 +41,12 @@ DECL|function|modelReset
 DECL|function|navigate
 DECL|function|navigate
 DECL|function|navigate
-DECL|function|navigate
 DECL|function|parent
 DECL|function|parent
 DECL|function|parent
 DECL|function|rect
 DECL|function|rect
 DECL|function|rect
-DECL|function|relationTo
 DECL|function|relationTo
 DECL|function|relationTo
 DECL|function|relationTo
