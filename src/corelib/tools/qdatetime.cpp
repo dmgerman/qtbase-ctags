@@ -81,7 +81,6 @@ DECL|function|getLocal
 DECL|function|getMaximum
 DECL|function|getMinimum
 DECL|function|getUTC
-DECL|function|gregorianToJulian
 DECL|function|hasUnquotedAP
 DECL|function|hour
 DECL|function|isLeapYear
@@ -93,11 +92,8 @@ DECL|function|isValid
 DECL|function|isValid
 DECL|function|julianDayFromDate
 DECL|function|julianDayFromGregorianDate
-DECL|function|julianToGregorian
 DECL|function|localToUtc
 DECL|function|longDayName
-DECL|function|longDayName
-DECL|function|longMonthName
 DECL|function|longMonthName
 DECL|function|maxChange
 DECL|function|minute
@@ -154,8 +150,6 @@ DECL|function|setTime_t
 DECL|function|setUtcOffset
 DECL|function|setYMD
 DECL|function|shortDayName
-DECL|function|shortDayName
-DECL|function|shortMonthName
 DECL|function|shortMonthName
 DECL|function|skipToNextSection
 DECL|function|start
