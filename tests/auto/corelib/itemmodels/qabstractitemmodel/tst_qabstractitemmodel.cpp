@@ -1,6 +1,6 @@
 DECL|class|CustomRoleModel
 DECL|class|ListenerObject
-DECL|class|OverrideRoleNames
+DECL|class|OverrideRoleNamesAndDragActions
 DECL|class|QtTestModel
 DECL|class|SignalArgumentChecker
 DECL|class|tst_QAbstractItemModel
@@ -10,7 +10,7 @@ DECL|enumerator|UserRole
 DECL|enum|Roles
 DECL|function|CustomRoleModel
 DECL|function|ListenerObject
-DECL|function|OverrideRoleNames
+DECL|function|OverrideRoleNamesAndDragActions
 DECL|function|QtTestModel
 DECL|function|QtTestModel
 DECL|function|SignalArgumentChecker
@@ -56,8 +56,10 @@ DECL|function|setData
 DECL|function|setPersistent
 DECL|function|slotAboutToBeReset
 DECL|function|slotReset
+DECL|function|supportedDragActions
 DECL|function|testChildrenLayoutsChanged
 DECL|function|testDataChanged
+DECL|function|testDragActions
 DECL|function|testMoveSameParentDown
 DECL|function|testMoveSameParentDown_data
 DECL|function|testMoveSameParentUp
