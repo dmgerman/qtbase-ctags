@@ -1,4 +1,3 @@
-DECL|class|SubQStringMatcher
 DECL|class|tst_QStringMatcher
 DECL|function|assignOperator
 DECL|function|caseSensitivity
