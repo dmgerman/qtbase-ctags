@@ -36,7 +36,6 @@ DECL|function|keyBindingsForAction
 DECL|function|keyBindingsForAction
 DECL|function|localizedActionDescription
 DECL|function|navigate
-DECL|function|navigate
 DECL|function|object
 DECL|function|parent
 DECL|function|rect

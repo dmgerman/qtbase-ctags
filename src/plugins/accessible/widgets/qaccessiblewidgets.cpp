@@ -41,7 +41,6 @@ DECL|function|cursorForRange
 DECL|function|cursorPosition
 DECL|function|cutText
 DECL|function|deleteText
-DECL|function|distance
 DECL|function|dockWidget
 DECL|function|dockWidget
 DECL|function|dockWidgetLayout
@@ -62,12 +61,7 @@ DECL|function|invokeMethod
 DECL|function|isValid
 DECL|function|mainWindow
 DECL|function|mdiArea
-DECL|function|mdiAreaNavigate
 DECL|function|mdiSubWindow
-DECL|function|navigate
-DECL|function|navigate
-DECL|function|navigate
-DECL|function|navigate
 DECL|function|navigate
 DECL|function|navigationBar
 DECL|function|object
