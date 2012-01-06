@@ -42,6 +42,7 @@ DECL|function|slot5
 DECL|function|smetacall
 DECL|function|staticMetacall
 DECL|function|superClass
+DECL|function|variantProperty
 DECL|function|~SomethingOfEverything
 DECL|macro|CHECK_FLAG
 DECL|macro|CLEAR_FLAGS
