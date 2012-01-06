@@ -1,0 +1,16 @@
+DECL|function|DownloadItem
+DECL|function|DownloadManager
+DECL|function|authenticationRequired
+DECL|function|checkForAllDone
+DECL|function|downloadFinished
+DECL|function|finished
+DECL|function|finished
+DECL|function|get
+DECL|function|main
+DECL|function|printShortUsage
+DECL|function|printUsage
+DECL|function|proxyAuthenticationRequired
+DECL|function|readyRead
+DECL|function|sslErrors
+DECL|function|~DownloadItem
+DECL|function|~DownloadManager
