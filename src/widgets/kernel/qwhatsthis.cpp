@@ -23,7 +23,6 @@ DECL|function|showEvent
 DECL|function|showText
 DECL|function|~QWhatsThat
 DECL|function|~QWhatsThisPrivate
-DECL|macro|SPI_GETDROPSHADOW
 DECL|member|action
 DECL|member|anchor
 DECL|member|background
