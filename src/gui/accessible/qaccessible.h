@@ -1,4 +1,3 @@
-DECL|function|QAccessibleEvent
 DECL|macro|QACCESSIBLE_H
 DECL|macro|QAccessibleInterface_iid
 DECL|variable|QAccessible2Interface
