@@ -5,7 +5,7 @@ DECL|function|ClientMessageScanner
 DECL|function|QDropData
 DECL|function|QXcbDrag
 DECL|function|cancel
-DECL|function|check
+DECL|function|checkEvent
 DECL|function|dndEnable
 DECL|function|drop
 DECL|function|endDrag
