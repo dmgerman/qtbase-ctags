@@ -5,7 +5,6 @@ DECL|function|cacheControl
 DECL|function|cacheControlSynchronous
 DECL|function|cacheControlSynchronous_data
 DECL|function|cacheControl_data
-DECL|function|check
 DECL|function|checkSynchronous
 DECL|function|data
 DECL|function|deleteCache
@@ -22,6 +21,7 @@ DECL|function|lastModified
 DECL|function|lastModifiedSynchronous
 DECL|function|lastModifiedSynchronous_data
 DECL|function|lastModified_data
+DECL|function|runTest
 DECL|function|tst_QAbstractNetworkCache
 DECL|function|~tst_QAbstractNetworkCache
 DECL|macro|TESTFILE
