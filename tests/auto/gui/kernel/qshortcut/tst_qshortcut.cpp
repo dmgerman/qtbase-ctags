@@ -2,9 +2,6 @@ DECL|class|TestEdit
 DECL|class|tst_QShortcut
 DECL|enumerator|Ambiguous
 DECL|enumerator|ClearAll
-DECL|enumerator|Defined
-DECL|enumerator|Defined
-DECL|enumerator|Defined
 DECL|enumerator|NoResult
 DECL|enumerator|NoWidget
 DECL|enumerator|SetupAccel
