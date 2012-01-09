@@ -82,7 +82,6 @@ DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid
 DECL|function|julianDayFromDate
-DECL|function|julianDayFromGregorianDate
 DECL|function|localToUtc
 DECL|function|longDayName
 DECL|function|longMonthName
