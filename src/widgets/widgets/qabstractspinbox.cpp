@@ -19,7 +19,6 @@ DECL|function|fixup
 DECL|function|fixup
 DECL|function|focusInEvent
 DECL|function|focusOutEvent
-DECL|function|getKeyboardAutoRepeatRate
 DECL|function|getZeroVariant
 DECL|function|hasAcceptableInput
 DECL|function|hasFrame

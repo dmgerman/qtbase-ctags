@@ -13,6 +13,7 @@ DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|instance
+DECL|function|keyBoardAutoRepeatRateMS
 DECL|function|nativeInterface
 DECL|function|nativeResourceForBackingStore
 DECL|function|nativeResourceForContext
