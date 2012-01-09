@@ -35,6 +35,7 @@ DECL|function|setWidth
 DECL|function|topPadding
 DECL|macro|QTEXTFORMAT_H
 DECL|variable|QFont
+DECL|variable|QString
 DECL|variable|QTextBlockFormat
 DECL|variable|QTextCharFormat
 DECL|variable|QTextCursor

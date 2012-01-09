@@ -3,6 +3,7 @@ DECL|function|fix_neg_rect
 DECL|function|setDirty
 DECL|function|testDirty
 DECL|macro|QPAINTENGINE_H
+DECL|variable|QFontEngine
 DECL|variable|QLineF
 DECL|variable|QPaintDevice
 DECL|variable|QPaintEnginePrivate

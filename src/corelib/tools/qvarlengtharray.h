@@ -18,6 +18,8 @@ DECL|function|value
 DECL|macro|QVARLENGTHARRAY_H
 DECL|variable|Prealloc1
 DECL|variable|Prealloc1
+DECL|variable|QPodList
+DECL|variable|T
 DECL|variable|T
 DECL|variable|T
 DECL|variable|T

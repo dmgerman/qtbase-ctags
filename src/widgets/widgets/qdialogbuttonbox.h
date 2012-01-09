@@ -1,3 +1,4 @@
 DECL|macro|QDIALOGBUTTONBOX_H
+DECL|variable|QAbstractButton
 DECL|variable|QDialogButtonBoxPrivate
 DECL|variable|QPushButton

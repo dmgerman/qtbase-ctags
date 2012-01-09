@@ -8,7 +8,6 @@ DECL|enumerator|ExactSize
 DECL|enumerator|ExactSize
 DECL|enumerator|ExactSize
 DECL|enumerator|ExactSize
-DECL|function|QT_MODULE
 DECL|function|appendTo
 DECL|function|appendTo
 DECL|function|appendTo
@@ -28,6 +27,9 @@ DECL|function|appendTo
 DECL|function|appendTo
 DECL|function|appendTo
 DECL|function|appendTo
+DECL|function|convertFromAscii
+DECL|function|convertToAscii
+DECL|function|convertToLatin1
 DECL|function|operator
 DECL|function|operator
 DECL|function|size
@@ -41,9 +43,13 @@ DECL|function|size
 DECL|function|size
 DECL|function|size
 DECL|macro|QSTRINGBUILDER_H
+DECL|member|len
+DECL|member|out
+DECL|member|protected
 DECL|member|type
 DECL|member|type
 DECL|struct|B
+DECL|struct|QAbstractConcatenable
 DECL|struct|QAbstractConcatenable
 DECL|struct|QAbstractConcatenable
 DECL|struct|QAbstractConcatenable

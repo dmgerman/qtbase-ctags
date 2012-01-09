@@ -161,6 +161,7 @@ DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
+DECL|variable|QBitArray
 DECL|variable|QByteArray
 DECL|variable|QString
 DECL|variable|QStringRef

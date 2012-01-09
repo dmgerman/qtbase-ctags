@@ -8,5 +8,6 @@ DECL|macro|QTEXTSTREAM_H
 DECL|typedef|QTSMFC
 DECL|typedef|QTSMFI
 DECL|typedef|QTextStreamFunction
+DECL|variable|QTextCodec
 DECL|variable|QTextDecoder
 DECL|variable|QTextStreamPrivate

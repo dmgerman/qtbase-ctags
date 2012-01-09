@@ -38,6 +38,7 @@ DECL|typedef|QString
 DECL|typedef|QVariantHash
 DECL|typedef|QVariantList
 DECL|typedef|QVariantMap
+DECL|variable|QDataStream
 DECL|variable|QHash
 DECL|variable|QMap
 DECL|variable|QObject

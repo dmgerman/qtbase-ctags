@@ -1,1 +1,2 @@
 DECL|macro|QWIDGETACTION_H
+DECL|variable|QWidgetActionPrivate

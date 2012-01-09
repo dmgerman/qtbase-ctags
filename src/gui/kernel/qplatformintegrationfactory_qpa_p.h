@@ -1,1 +1,2 @@
 DECL|macro|QPLATFORMINTEGRATIONFACTORY_H
+DECL|variable|QPlatformIntegration

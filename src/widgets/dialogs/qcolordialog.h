@@ -1,1 +1,2 @@
 DECL|macro|QCOLORDIALOG_H
+DECL|variable|QColorDialogPrivate

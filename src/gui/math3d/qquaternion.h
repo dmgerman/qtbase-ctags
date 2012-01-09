@@ -19,4 +19,5 @@ DECL|function|z
 DECL|function|zp
 DECL|macro|QQUATERNION_H
 DECL|member|operator
+DECL|variable|QMatrix4x4
 DECL|variable|QVariant

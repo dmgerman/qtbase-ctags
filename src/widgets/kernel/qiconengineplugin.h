@@ -6,4 +6,5 @@ DECL|macro|QIconEngineFactoryInterface_iid
 DECL|member|filename
 DECL|struct|QFactoryInterface
 DECL|struct|QFactoryInterface
+DECL|variable|QIconEngine
 DECL|variable|QIconEngineV2

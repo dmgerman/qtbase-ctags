@@ -1,1 +1,2 @@
 DECL|macro|QTEXTBOUNDARYFINDER_H
+DECL|variable|QTextBoundaryFinderPrivate

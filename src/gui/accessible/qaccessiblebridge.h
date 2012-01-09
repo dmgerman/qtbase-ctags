@@ -3,3 +3,4 @@ DECL|macro|QACCESSIBLEBRIDGE_H
 DECL|macro|QAccessibleBridgeFactoryInterface_iid
 DECL|member|name
 DECL|struct|QFactoryInterface
+DECL|variable|QAccessibleInterface

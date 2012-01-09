@@ -1,1 +1,2 @@
 DECL|macro|QNETWORKDISKCACHE_H
+DECL|variable|QNetworkDiskCachePrivate

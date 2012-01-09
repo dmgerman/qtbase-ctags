@@ -5,3 +5,4 @@ DECL|member|y1
 DECL|member|y2
 DECL|struct|QRealRect
 DECL|typedef|qvectorpath_cache_cleanup
+DECL|variable|QPaintEngineEx

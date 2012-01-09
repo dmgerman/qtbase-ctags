@@ -1,1 +1,2 @@
 DECL|macro|QNETWORKCONFIGURATIONMANAGER_H
+DECL|variable|QNetworkConfigurationManagerPrivate

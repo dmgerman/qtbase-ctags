@@ -1,3 +1,2 @@
-DECL|function|QT_MODULE
 DECL|macro|QTEST_GUI_H
 DECL|macro|QT_GUI_LIB

@@ -1,2 +1,3 @@
 DECL|macro|QPROGRESSBAR_H
+DECL|variable|QProgressBarPrivate
 DECL|variable|QStyleOptionProgressBar

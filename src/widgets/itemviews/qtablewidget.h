@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|function|column
 DECL|function|isSelected
 DECL|function|itemAt

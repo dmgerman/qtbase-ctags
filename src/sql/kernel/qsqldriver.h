@@ -1,4 +1,5 @@
 DECL|macro|QSQLDRIVER_H
+DECL|variable|QSqlDatabase
 DECL|variable|QSqlDriverPrivate
 DECL|variable|QSqlError
 DECL|variable|QSqlField

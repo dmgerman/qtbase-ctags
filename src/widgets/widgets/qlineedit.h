@@ -5,3 +5,4 @@ DECL|variable|QDateTimeEdit
 DECL|variable|QLineEditPrivate
 DECL|variable|QMenu
 DECL|variable|QStyleOptionFrame
+DECL|variable|QValidator

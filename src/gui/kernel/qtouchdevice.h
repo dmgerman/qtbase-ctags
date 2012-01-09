@@ -1,1 +1,2 @@
 DECL|macro|QTOUCHDEVICE_H
+DECL|variable|QTouchDevicePrivate

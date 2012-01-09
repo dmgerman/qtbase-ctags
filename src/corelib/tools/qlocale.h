@@ -9,6 +9,7 @@ DECL|function|toString
 DECL|function|toString
 DECL|function|toString
 DECL|macro|QLOCALE_H
+DECL|variable|QDataStream
 DECL|variable|QDate
 DECL|variable|QDateTime
 DECL|variable|QLocale

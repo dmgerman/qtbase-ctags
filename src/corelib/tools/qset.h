@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|function|Q_DECLARE_SEQUENTIAL_ITERATOR
 DECL|function|reserve
 DECL|function|toList

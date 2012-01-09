@@ -13,3 +13,4 @@ DECL|variable|QGLContextPrivate
 DECL|variable|QGLFormatPrivate
 DECL|variable|QGLFunctions
 DECL|variable|QGLWidgetPrivate
+DECL|variable|QPixmap

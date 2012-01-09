@@ -1,1 +1,2 @@
 DECL|macro|QPLATFORMTHEMEFACTORY_H
+DECL|variable|QPlatformTheme

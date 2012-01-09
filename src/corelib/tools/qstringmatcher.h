@@ -1,1 +1,2 @@
 DECL|macro|QSTRINGMATCHER_H
+DECL|variable|QStringMatcherPrivate

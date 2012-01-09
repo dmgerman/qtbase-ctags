@@ -1,6 +1,7 @@
 DECL|macro|QGESTURE_H
 DECL|variable|QGesture
 DECL|variable|QGestureEventPrivate
+DECL|variable|QGesturePrivate
 DECL|variable|QPanGesturePrivate
 DECL|variable|QPinchGesturePrivate
 DECL|variable|QSwipeGesturePrivate

@@ -1,2 +1,3 @@
 DECL|macro|QSESSIONMANAGER_H
+DECL|variable|QGuiApplication
 DECL|variable|QSessionManagerPrivate

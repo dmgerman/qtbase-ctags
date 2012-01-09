@@ -35,6 +35,7 @@ DECL|variable|QDomProcessingInstruction
 DECL|variable|QDomProcessingInstructionPrivate
 DECL|variable|QDomText
 DECL|variable|QDomTextPrivate
+DECL|variable|QIODevice
 DECL|variable|QTextStream
 DECL|variable|QXmlInputSource
 DECL|variable|QXmlReader

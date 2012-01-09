@@ -1,2 +1,3 @@
 DECL|macro|QGROUPBOX_H
+DECL|variable|QGroupBoxPrivate
 DECL|variable|QStyleOptionGroupBox

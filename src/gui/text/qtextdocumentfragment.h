@@ -2,3 +2,4 @@ DECL|macro|QTEXTDOCUMENTFRAGMENT_H
 DECL|variable|QTextCursor
 DECL|variable|QTextDocument
 DECL|variable|QTextDocumentFragmentPrivate
+DECL|variable|QTextStream

@@ -1,3 +1,4 @@
 DECL|macro|QGRAPHICSANCHORLAYOUT_H
 DECL|variable|QGraphicsAnchorLayout
 DECL|variable|QGraphicsAnchorLayoutPrivate
+DECL|variable|QGraphicsAnchorPrivate

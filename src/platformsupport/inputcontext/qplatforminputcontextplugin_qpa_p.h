@@ -2,3 +2,4 @@ DECL|function|Q_DECLARE_INTERFACE
 DECL|macro|QPLATFORMINPUTCONTEXTPLUGIN_H
 DECL|macro|QPlatformInputContextFactoryInterface_iid
 DECL|struct|QFactoryInterface
+DECL|variable|QPlatformInputContext

@@ -3,6 +3,7 @@ DECL|variable|QAbstractNetworkCache
 DECL|variable|QAuthenticator
 DECL|variable|QByteArray
 DECL|variable|QHttpMultiPart
+DECL|variable|QIODevice
 DECL|variable|QList
 DECL|variable|QNetworkAccessManagerPrivate
 DECL|variable|QNetworkConfiguration

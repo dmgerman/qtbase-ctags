@@ -29,6 +29,7 @@ DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
+DECL|variable|QByteArray
 DECL|variable|QDataStreamPrivate
 DECL|variable|QHash
 DECL|variable|QIODevice

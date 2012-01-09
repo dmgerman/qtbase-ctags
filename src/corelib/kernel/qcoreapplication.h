@@ -9,6 +9,7 @@ DECL|macro|qApp
 DECL|typedef|MSG
 DECL|typedef|QtCleanUpFunction
 DECL|variable|QAbstractEventDispatcher
+DECL|variable|QCoreApplicationPrivate
 DECL|variable|QPostEventList
 DECL|variable|QStringList
 DECL|variable|QTextCodec

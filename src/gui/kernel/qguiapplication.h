@@ -3,6 +3,7 @@ DECL|macro|qApp
 DECL|macro|qApp
 DECL|macro|qGuiApp
 DECL|macro|qGuiApp
+DECL|variable|QGuiApplicationPrivate
 DECL|variable|QInputPanel
 DECL|variable|QPalette
 DECL|variable|QPlatformNativeInterface

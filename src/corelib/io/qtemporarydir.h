@@ -1,1 +1,2 @@
 DECL|macro|QTEMPORARYDIR_H
+DECL|variable|QTemporaryDirPrivate

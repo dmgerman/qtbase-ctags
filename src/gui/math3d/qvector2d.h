@@ -11,4 +11,5 @@ DECL|function|y
 DECL|macro|QVECTOR2D_H
 DECL|member|operator
 DECL|variable|QVariant
+DECL|variable|QVector3D
 DECL|variable|QVector4D

@@ -27,6 +27,7 @@ DECL|function|setRect
 DECL|function|update
 DECL|macro|QGRAPHICSITEM_H
 DECL|variable|QAbstractGraphicsShapeItemPrivate
+DECL|variable|QBrush
 DECL|variable|QCursor
 DECL|variable|QFocusEvent
 DECL|variable|QGraphicsEffect

@@ -1,1 +1,2 @@
 DECL|macro|QCOMMONSTYLE_H
+DECL|variable|QCommonStylePrivate

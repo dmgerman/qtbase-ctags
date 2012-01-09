@@ -1,1 +1,2 @@
 DECL|macro|QPROPERTYANIMATION_H
+DECL|variable|QPropertyAnimationPrivate

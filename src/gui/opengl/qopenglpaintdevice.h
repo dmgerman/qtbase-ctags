@@ -1,1 +1,2 @@
 DECL|macro|QOPENGLPAINTDEVICE_H
+DECL|variable|QOpenGLPaintDevicePrivate

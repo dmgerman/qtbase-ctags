@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|function|drawComplexControl
 DECL|function|drawControl
 DECL|function|drawItemPixmap

@@ -1,1 +1,2 @@
 DECL|macro|QABSTRACTSLIDER_H
+DECL|variable|QAbstractSliderPrivate

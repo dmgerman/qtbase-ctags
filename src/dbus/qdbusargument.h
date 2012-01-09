@@ -23,3 +23,4 @@ DECL|variable|Key
 DECL|variable|QDBusArgumentPrivate
 DECL|variable|QDBusDemarshaller
 DECL|variable|QDBusMarshaller
+DECL|variable|QDBusUnixFileDescriptor

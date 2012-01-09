@@ -1,2 +1,3 @@
 DECL|macro|QPLATFORMFONTDATABASE_QPA_H
 DECL|variable|QFontRequestPrivate
+DECL|variable|QWritingSystemsPrivate

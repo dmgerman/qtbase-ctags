@@ -1,3 +1,2 @@
-DECL|function|QT_MODULE
 DECL|function|sizeof
 DECL|macro|QTESTSPONTANEEVENT_H

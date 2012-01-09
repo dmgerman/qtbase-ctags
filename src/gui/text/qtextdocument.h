@@ -11,6 +11,7 @@ DECL|variable|QTextCodec
 DECL|variable|QTextCursor
 DECL|variable|QTextDocumentPrivate
 DECL|variable|QTextFormat
+DECL|variable|QTextFormatCollection
 DECL|variable|QTextFrame
 DECL|variable|QTextListFormat
 DECL|variable|QTextObject

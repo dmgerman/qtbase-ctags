@@ -55,6 +55,7 @@ DECL|variable|QIcon
 DECL|variable|QInputContext
 DECL|variable|QInputMethodEvent
 DECL|variable|QKeyEvent
+DECL|variable|QLayout
 DECL|variable|QLocale
 DECL|variable|QMouseEvent
 DECL|variable|QMoveEvent

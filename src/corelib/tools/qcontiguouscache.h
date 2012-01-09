@@ -1,5 +1,4 @@
 DECL|function|QContiguousCache
-DECL|function|QT_MODULE
 DECL|function|clear
 DECL|function|detach_helper
 DECL|function|free
@@ -7,5 +6,13 @@ DECL|function|malloc
 DECL|function|setCapacity
 DECL|macro|QCONTIGUOUSCACHE_H
 DECL|macro|QT_QCONTIGUOUSCACHE_DEBUG
+DECL|member|alloc
 DECL|member|array
+DECL|member|count
+DECL|member|offset
+DECL|member|ref
+DECL|member|reserved
+DECL|member|sharable
+DECL|member|start
+DECL|struct|QContiguousCacheData
 DECL|struct|QContiguousCacheData

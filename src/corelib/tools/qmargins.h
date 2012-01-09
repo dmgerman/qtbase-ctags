@@ -1,6 +1,5 @@
 DECL|function|QMargins
 DECL|function|QMargins
-DECL|function|QT_MODULE
 DECL|function|bottom
 DECL|function|isNull
 DECL|function|left

@@ -20,6 +20,7 @@ DECL|function|setElementPositionAt
 DECL|function|translate
 DECL|function|translated
 DECL|macro|QPAINTERPATH_H
+DECL|variable|QFont
 DECL|variable|QPainterPathData
 DECL|variable|QPainterPathPrivate
 DECL|variable|QPainterPathStrokerPrivate

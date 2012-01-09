@@ -10,6 +10,7 @@ DECL|function|mapToScene
 DECL|function|mapToScene
 DECL|function|setSceneRect
 DECL|macro|QGRAPHICSVIEW_H
+DECL|variable|QGraphicsItem
 DECL|variable|QGraphicsViewPrivate
 DECL|variable|QPainterPath
 DECL|variable|QPolygonF

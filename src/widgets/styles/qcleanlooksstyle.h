@@ -1,1 +1,2 @@
 DECL|macro|QCLEANLOOKSSTYLE_H
+DECL|variable|QCleanlooksStylePrivate

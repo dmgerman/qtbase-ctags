@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|function|qThreadStorage_deleteData
 DECL|function|qThreadStorage_deleteData
 DECL|function|qThreadStorage_localData

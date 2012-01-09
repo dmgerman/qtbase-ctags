@@ -1,7 +1,6 @@
 DECL|function|QGenericMatrix
 DECL|function|QGenericMatrix
 DECL|function|QGenericMatrix
-DECL|function|QT_MODULE
 DECL|function|copyDataTo
 DECL|function|fill
 DECL|function|isIdentity
@@ -85,10 +84,12 @@ DECL|variable|M
 DECL|variable|M
 DECL|variable|M
 DECL|variable|M
+DECL|variable|M
 DECL|variable|M1
 DECL|variable|M1
 DECL|variable|M2
 DECL|variable|M2
+DECL|variable|N
 DECL|variable|N
 DECL|variable|N
 DECL|variable|N

@@ -1,2 +1,3 @@
 DECL|macro|QRADIOBUTTON_H
+DECL|variable|QRadioButtonPrivate
 DECL|variable|QStyleOptionButton

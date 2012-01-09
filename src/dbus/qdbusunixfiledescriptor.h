@@ -1,2 +1,2 @@
 DECL|macro|QDBUSUNIXFILEDESCRIPTOR_H
-DECL|member|~QExplicitlySharedDataPointer
+DECL|variable|QDBusUnixFileDescriptorPrivate

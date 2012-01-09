@@ -1,2 +1,3 @@
 DECL|macro|QABSTRACTPROXYMODEL_H
+DECL|variable|QAbstractProxyModelPrivate
 DECL|variable|QItemSelection

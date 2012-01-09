@@ -6,3 +6,4 @@ DECL|variable|QSqlError
 DECL|variable|QSqlQueryPrivate
 DECL|variable|QSqlRecord
 DECL|variable|QSqlResult
+DECL|variable|QVariant

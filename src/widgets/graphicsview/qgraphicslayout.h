@@ -1,3 +1,4 @@
 DECL|macro|QGRAPHICSLAYOUT_H
 DECL|variable|QGraphicsLayoutItem
+DECL|variable|QGraphicsLayoutPrivate
 DECL|variable|QGraphicsWidget

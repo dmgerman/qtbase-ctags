@@ -1,1 +1,2 @@
 DECL|macro|QINPUTDIALOG_H
+DECL|variable|QInputDialogPrivate

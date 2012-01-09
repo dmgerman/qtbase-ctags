@@ -1,4 +1,4 @@
-DECL|function|QT_MODULE
+DECL|function|cleanup
 DECL|function|cleanup
 DECL|function|cleanup
 DECL|function|operator
@@ -6,6 +6,7 @@ DECL|function|operator
 DECL|function|qSwap
 DECL|macro|QSCOPEDPOINTER_H
 DECL|struct|QScopedPointerArrayDeleter
+DECL|struct|QScopedPointerDeleter
 DECL|struct|QScopedPointerPodDeleter
 DECL|variable|Cleanup
 DECL|variable|Cleanup

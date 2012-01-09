@@ -4,6 +4,7 @@ DECL|variable|QAccessible2Interface
 DECL|variable|QAccessibleActionInterface
 DECL|variable|QAccessibleEditableTextInterface
 DECL|variable|QAccessibleImageInterface
+DECL|variable|QAccessibleInterface
 DECL|variable|QAccessibleTableCellInterface
 DECL|variable|QAccessibleTableInterface
 DECL|variable|QAccessibleTextInterface

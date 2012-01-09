@@ -7,5 +7,6 @@ DECL|function|darker
 DECL|function|isValid
 DECL|function|lighter
 DECL|macro|QCOLOR_H
+DECL|variable|QColor
 DECL|variable|QColormap
 DECL|variable|QVariant

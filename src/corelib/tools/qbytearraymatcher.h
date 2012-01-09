@@ -1,1 +1,2 @@
 DECL|macro|QBYTEARRAYMATCHER_H
+DECL|variable|QByteArrayMatcherPrivate

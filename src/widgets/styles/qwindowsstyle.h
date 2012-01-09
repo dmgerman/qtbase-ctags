@@ -1,1 +1,2 @@
 DECL|macro|QWINDOWSSTYLE_H
+DECL|variable|QWindowsStylePrivate

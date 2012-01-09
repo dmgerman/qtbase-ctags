@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|macro|QSHAREDPOINTER_H
 DECL|variable|T
 DECL|variable|T

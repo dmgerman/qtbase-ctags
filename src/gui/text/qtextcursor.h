@@ -3,6 +3,7 @@ DECL|variable|QTextBlock
 DECL|variable|QTextBlockFormat
 DECL|variable|QTextCharFormat
 DECL|variable|QTextCursorPrivate
+DECL|variable|QTextDocument
 DECL|variable|QTextDocumentFragment
 DECL|variable|QTextDocumentPrivate
 DECL|variable|QTextFrame

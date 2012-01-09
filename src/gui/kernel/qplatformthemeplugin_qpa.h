@@ -2,3 +2,4 @@ DECL|function|Q_DECLARE_INTERFACE
 DECL|macro|QPLATFORMTHEMEPLUGIN_H
 DECL|macro|QPlatformThemeFactoryInterface_iid
 DECL|struct|QFactoryInterface
+DECL|variable|QPlatformTheme

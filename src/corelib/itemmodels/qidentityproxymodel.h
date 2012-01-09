@@ -1,1 +1,2 @@
 DECL|macro|QIDENTITYPROXYMODEL_H
+DECL|variable|QIdentityProxyModelPrivate

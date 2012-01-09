@@ -1,4 +1,5 @@
 DECL|macro|QSTYLE_H
+DECL|variable|QAction
 DECL|variable|QDebug
 DECL|variable|QFontMetrics
 DECL|variable|QStyleHintReturn

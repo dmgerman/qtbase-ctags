@@ -1,1 +1,2 @@
 DECL|macro|QGRAPHICSPROXYWIDGET_H
+DECL|variable|QGraphicsProxyWidgetPrivate

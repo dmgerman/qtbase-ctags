@@ -16,4 +16,5 @@ DECL|macro|QTRY_VERIFY_WITH_TIMEOUT
 DECL|macro|QVERIFY
 DECL|macro|QVERIFY2
 DECL|macro|QWARN
+DECL|variable|QObject
 DECL|variable|QTestData

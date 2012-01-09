@@ -1,2 +1,3 @@
 DECL|macro|QVALIDATOR_H
 DECL|variable|QDoubleValidatorPrivate
+DECL|variable|QValidatorPrivate

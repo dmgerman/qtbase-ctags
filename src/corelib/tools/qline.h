@@ -4,7 +4,6 @@ DECL|function|QLine
 DECL|function|QLineF
 DECL|function|QLineF
 DECL|function|QLineF
-DECL|function|QT_MODULE
 DECL|function|dx
 DECL|function|dx
 DECL|function|dy

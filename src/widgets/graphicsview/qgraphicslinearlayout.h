@@ -1,1 +1,2 @@
 DECL|macro|QGRAPHICSLINEARLAYOUT_H
+DECL|variable|QGraphicsLinearLayoutPrivate

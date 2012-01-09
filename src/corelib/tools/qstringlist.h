@@ -15,3 +15,4 @@ DECL|function|sort
 DECL|macro|QSTRINGLIST_H
 DECL|typedef|QMutableStringListIterator
 DECL|typedef|QStringListIterator
+DECL|variable|QRegExp

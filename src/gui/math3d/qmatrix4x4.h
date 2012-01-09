@@ -22,5 +22,6 @@ DECL|variable|N
 DECL|variable|N
 DECL|variable|N
 DECL|variable|N
+DECL|variable|QMatrix
 DECL|variable|QTransform
 DECL|variable|QVariant

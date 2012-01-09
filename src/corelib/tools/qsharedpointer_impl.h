@@ -5,6 +5,7 @@ DECL|function|operator
 DECL|function|toWeakRef
 DECL|macro|QSHAREDPOINTER_VERIFY_AUTO_CAST
 DECL|variable|QSharedPointer
+DECL|variable|QWeakPointer
 DECL|variable|T
 DECL|variable|T
 DECL|variable|T

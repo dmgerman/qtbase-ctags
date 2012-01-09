@@ -1,3 +1,4 @@
 DECL|macro|QABSTRACTSCROLLAREA_H
 DECL|variable|QAbstractScrollAreaPrivate
+DECL|variable|QMargins
 DECL|variable|QScrollBar

@@ -20,6 +20,7 @@ DECL|variable|QXmlLexicalHandler
 DECL|variable|QXmlLocator
 DECL|variable|QXmlLocatorPrivate
 DECL|variable|QXmlNamespaceSupport
+DECL|variable|QXmlNamespaceSupport
 DECL|variable|QXmlNamespaceSupportPrivate
 DECL|variable|QXmlParseException
 DECL|variable|QXmlParseExceptionPrivate

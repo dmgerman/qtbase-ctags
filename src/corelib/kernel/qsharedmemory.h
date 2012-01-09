@@ -1,1 +1,2 @@
 DECL|macro|QSHAREDMEMORY_H
+DECL|variable|QSharedMemoryPrivate

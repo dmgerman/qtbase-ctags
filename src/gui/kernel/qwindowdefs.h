@@ -23,6 +23,7 @@ DECL|variable|QImage
 DECL|variable|QList
 DECL|variable|QMatrix
 DECL|variable|QMovie
+DECL|variable|QPaintDevice
 DECL|variable|QPainter
 DECL|variable|QPalette
 DECL|variable|QPen

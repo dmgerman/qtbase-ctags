@@ -9,3 +9,4 @@ DECL|function|setMinimumSize
 DECL|function|setPreferredSize
 DECL|macro|QGRAPHICSLAYOUTITEM_H
 DECL|variable|QGraphicsItem
+DECL|variable|QGraphicsLayoutItemPrivate

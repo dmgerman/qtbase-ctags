@@ -3,3 +3,4 @@ DECL|macro|QPLATFORMPRINTERSUPPORTPLUGIN_H
 DECL|macro|QPlatformPrinterSupportFactoryInterface_iid
 DECL|member|key
 DECL|struct|QFactoryInterface
+DECL|variable|QPlatformPrinterSupport

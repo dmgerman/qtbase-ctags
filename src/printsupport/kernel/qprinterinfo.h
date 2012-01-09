@@ -1,2 +1,3 @@
 DECL|macro|QPRINTERINFO_H
+DECL|variable|QPrinterInfoPrivate
 DECL|variable|QPrinterInfoPrivateDeleter

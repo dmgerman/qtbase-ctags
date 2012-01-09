@@ -37,3 +37,4 @@ DECL|member|public
 DECL|member|x
 DECL|member|y
 DECL|struct|QPathVertex
+DECL|variable|QWingedEdge

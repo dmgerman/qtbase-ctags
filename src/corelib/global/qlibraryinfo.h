@@ -1,2 +1,1 @@
-DECL|function|QT_MODULE
 DECL|macro|QLIBRARYINFO_H

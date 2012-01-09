@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|macro|QTHREADONCE_H
 DECL|macro|Q_ONCE
 DECL|macro|Q_ONCE_GV

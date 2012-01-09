@@ -3,3 +3,4 @@ DECL|macro|QACCESSIBLEPLUGIN_H
 DECL|macro|QAccessibleFactoryInterface_iid
 DECL|struct|QFactoryInterface
 DECL|variable|QAccessibleInterface
+DECL|variable|QStringList

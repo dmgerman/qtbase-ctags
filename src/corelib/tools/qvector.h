@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|function|at
 DECL|function|clear
 DECL|function|detach_helper
@@ -14,8 +13,19 @@ DECL|function|reserve
 DECL|function|resize
 DECL|macro|QVECTOR_H
 DECL|macro|Q_TEMPLATE_EXTERN
+DECL|member|alloc
 DECL|member|array
+DECL|member|capacity
+DECL|member|capacity
 DECL|member|operator
+DECL|member|ref
+DECL|member|reserved
+DECL|member|reserved
+DECL|member|sharable
+DECL|member|sharable
+DECL|member|shared_null
+DECL|member|size
+DECL|struct|QVectorData
 DECL|struct|QVectorData
 DECL|variable|QPoint
 DECL|variable|QRegion

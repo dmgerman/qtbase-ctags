@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|function|at
 DECL|function|clear
 DECL|function|insert

@@ -1,1 +1,2 @@
 DECL|macro|QPLATFORMINPUTCONTEXTFACTORY_H
+DECL|variable|QPlatformInputContext

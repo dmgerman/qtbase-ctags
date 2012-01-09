@@ -13,6 +13,7 @@ DECL|function|qVariantValue
 DECL|function|qvariant_cast
 DECL|function|setValue
 DECL|macro|QVARIANT_H
+DECL|variable|QBitArray
 DECL|variable|QDataStream
 DECL|variable|QDate
 DECL|variable|QDateTime

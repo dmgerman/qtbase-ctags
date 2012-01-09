@@ -1,1 +1,2 @@
 DECL|macro|QSPLASHSCREEN_H
+DECL|variable|QSplashScreenPrivate

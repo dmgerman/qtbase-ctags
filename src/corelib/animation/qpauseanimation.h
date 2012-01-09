@@ -1,1 +1,2 @@
 DECL|macro|QPAUSEANIMATION_P_H
+DECL|variable|QPauseAnimationPrivate

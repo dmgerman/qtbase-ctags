@@ -1,1 +1,2 @@
 DECL|macro|QLOCALSOCKET_H
+DECL|variable|QLocalSocketPrivate

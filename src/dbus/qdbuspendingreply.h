@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|macro|QDBUSPENDINGREPLY_H
 DECL|variable|T1
 DECL|variable|T2

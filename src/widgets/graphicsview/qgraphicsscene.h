@@ -28,6 +28,7 @@ DECL|variable|QHelpEvent
 DECL|variable|QInputMethodEvent
 DECL|variable|QKeyEvent
 DECL|variable|QLineF
+DECL|variable|QList
 DECL|variable|QPainterPath
 DECL|variable|QPixmap
 DECL|variable|QPointF
