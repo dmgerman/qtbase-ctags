@@ -1,3 +1,3 @@
+DECL|enumerator|TestTimeOut
 DECL|macro|QBEARERTESTCOMMON_H
 DECL|macro|QTRY_NOOP
-DECL|macro|QTRY_VERIFY
