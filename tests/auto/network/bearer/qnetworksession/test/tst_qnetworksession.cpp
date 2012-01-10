@@ -22,12 +22,5 @@ DECL|function|suitableConfiguration
 DECL|function|updateConfigurations
 DECL|function|userChoiceSession
 DECL|function|userChoiceSession_data
-DECL|macro|MAX_IAPS
-DECL|member|gprsiap
-DECL|member|iapconf
-DECL|member|iapconf2
-DECL|member|iaps
-DECL|member|icd_stub
 DECL|member|inProcessSessionManagementCount
 DECL|member|manager
-DECL|variable|Type
