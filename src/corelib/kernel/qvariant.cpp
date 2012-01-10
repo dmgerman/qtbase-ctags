@@ -141,11 +141,13 @@ DECL|member|IsAvailable
 DECL|member|IsAvailable
 DECL|member|IsAvailable
 DECL|member|IsAvailable
+DECL|member|IsAvailable
 DECL|member|qt_custom_variant_handler
 DECL|member|qt_dummy_variant_handler
 DECL|member|qt_kernel_variant_handler
 DECL|struct|Acceptor
 DECL|struct|CoreTypesFilter
+DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton

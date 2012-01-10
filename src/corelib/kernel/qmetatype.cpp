@@ -75,6 +75,7 @@ DECL|member|IsAvailable
 DECL|member|IsAvailable
 DECL|member|IsAvailable
 DECL|member|IsAvailable
+DECL|member|IsAvailable
 DECL|member|alias
 DECL|member|iface
 DECL|member|m_type
@@ -96,6 +97,7 @@ DECL|struct|FlagsImpl
 DECL|struct|FlagsImpl
 DECL|struct|SizeOfImpl
 DECL|struct|SizeOfImpl
+DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
