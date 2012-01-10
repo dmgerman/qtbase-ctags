@@ -28,7 +28,6 @@ DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|interface_cast
-DECL|function|invokeMethod
 DECL|function|isLeftToRight
 DECL|function|isValid
 DECL|function|isValid

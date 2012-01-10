@@ -4,7 +4,6 @@ DECL|function|foregroundColor
 DECL|function|installFactory
 DECL|function|installRootObjectHandler
 DECL|function|installUpdateHandler
-DECL|function|invokeMethod
 DECL|function|isActive
 DECL|function|operator <<
 DECL|function|operator ==
