@@ -55,6 +55,7 @@ DECL|function|moveSectionAndRemove
 DECL|function|moveSectionAndReset
 DECL|function|moveSection_data
 DECL|function|noModel
+DECL|function|noSectionsWithNegativeSize
 DECL|function|offset
 DECL|function|oneSectionSize
 DECL|function|parent
