@@ -17,6 +17,7 @@ DECL|function|frameMargins
 DECL|function|framePos
 DECL|function|geometry
 DECL|function|handle
+DECL|function|hide
 DECL|function|hideEvent
 DECL|function|isActive
 DECL|function|isAncestorOf
@@ -66,6 +67,7 @@ DECL|function|setWindowIcon
 DECL|function|setWindowModality
 DECL|function|setWindowState
 DECL|function|setWindowTitle
+DECL|function|show
 DECL|function|showEvent
 DECL|function|showFullScreen
 DECL|function|showMaximized
