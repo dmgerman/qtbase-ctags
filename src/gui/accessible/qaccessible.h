@@ -3,6 +3,7 @@ DECL|macro|QAccessibleInterface_iid
 DECL|variable|QAccessible2Interface
 DECL|variable|QAccessibleActionInterface
 DECL|variable|QAccessibleEditableTextInterface
+DECL|variable|QAccessibleEvent
 DECL|variable|QAccessibleImageInterface
 DECL|variable|QAccessibleInterface
 DECL|variable|QAccessibleTableCellInterface
