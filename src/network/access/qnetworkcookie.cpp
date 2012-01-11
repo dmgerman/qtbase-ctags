@@ -3,6 +3,7 @@ DECL|function|QNetworkCookie
 DECL|function|checkStaticArray
 DECL|function|domain
 DECL|function|expirationDate
+DECL|function|hasSameIdentifier
 DECL|function|isHttpOnly
 DECL|function|isNumber
 DECL|function|isSecure
@@ -12,6 +13,7 @@ DECL|function|isValueSeparator
 DECL|function|isWhitespace
 DECL|function|name
 DECL|function|nextField
+DECL|function|normalize
 DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator ==
