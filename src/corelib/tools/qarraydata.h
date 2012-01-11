@@ -6,6 +6,7 @@ DECL|function|data
 DECL|function|deallocate
 DECL|function|end
 DECL|function|end
+DECL|function|fromRawData
 DECL|function|sharedNull
 DECL|macro|QARRAYDATA_H
 DECL|macro|Q_STATIC_ARRAY_DATA_HEADER_INITIALIZER

@@ -17,6 +17,7 @@ DECL|function|detach
 DECL|function|empty
 DECL|function|end
 DECL|function|end
+DECL|function|fromRawData
 DECL|function|front
 DECL|function|front
 DECL|function|insert

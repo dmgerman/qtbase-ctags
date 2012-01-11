@@ -12,6 +12,7 @@ DECL|function|allocate_data
 DECL|function|arrayIsFilledWith
 DECL|function|arrayOps
 DECL|function|const_
+DECL|function|fromRawData
 DECL|function|gccBug43247
 DECL|function|operator =
 DECL|function|referenceCounting
