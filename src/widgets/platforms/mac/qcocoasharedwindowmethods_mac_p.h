@@ -1,9 +1,0 @@
-DECL|function|QT_END_NAMESPACE
-DECL|function|changeDraggingCursor
-DECL|function|drawRectOriginal
-DECL|function|drawRectSpecial
-DECL|function|frameViewClassForStyleMask
-DECL|function|setLevel
-DECL|function|terminate
-DECL|function|toggleToolbarShown
-DECL|variable|firstDrawingInvocation

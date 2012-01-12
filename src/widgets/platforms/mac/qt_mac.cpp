@@ -1,5 +1,0 @@
-DECL|function|CopyCTThemeFont
-DECL|function|leopardBrush
-DECL|function|qcolorForTheme
-DECL|function|qcolorForThemeTextColor
-DECL|function|qfontForThemeFont
