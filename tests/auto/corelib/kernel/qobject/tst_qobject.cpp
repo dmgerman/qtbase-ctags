@@ -128,6 +128,8 @@ DECL|function|constTemplateSlot3
 DECL|function|constTypeRefSlot
 DECL|function|constUintPointerSlot
 DECL|function|constUlongPointerSlot
+DECL|function|const_slot_v
+DECL|function|const_slot_vi
 DECL|function|createNotifyChild
 DECL|function|custom
 DECL|function|customEvent
