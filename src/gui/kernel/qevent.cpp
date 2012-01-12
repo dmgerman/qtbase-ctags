@@ -61,7 +61,6 @@ DECL|function|d_func
 DECL|function|flags
 DECL|function|id
 DECL|function|isOverride
-DECL|function|isPrimary
 DECL|function|lastNormalizedPos
 DECL|function|lastPos
 DECL|function|lastScenePos
