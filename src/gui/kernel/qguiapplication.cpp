@@ -61,6 +61,7 @@ DECL|function|setEventDispatcher
 DECL|function|setFont
 DECL|function|setLayoutDirection
 DECL|function|setOverrideCursor
+DECL|function|setPalette
 DECL|function|setQuitOnLastWindowClosed
 DECL|function|styleHints
 DECL|function|topLevelAt
