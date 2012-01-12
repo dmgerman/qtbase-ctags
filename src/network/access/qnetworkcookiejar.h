@@ -1,1 +1,2 @@
 DECL|macro|QNETWORKCOOKIEJAR_H
+DECL|variable|QNetworkCookieJarPrivate
