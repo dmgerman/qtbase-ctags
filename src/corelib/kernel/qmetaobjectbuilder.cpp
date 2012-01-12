@@ -193,7 +193,6 @@ DECL|member|properties
 DECL|member|propertyCount
 DECL|member|propertyData
 DECL|member|relatedMetaObjects
-DECL|member|relatedMetaObjects
 DECL|member|returnType
 DECL|member|revision
 DECL|member|signalCount
