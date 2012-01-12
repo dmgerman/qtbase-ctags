@@ -1,3 +1,4 @@
+DECL|class|SidCleanup
 DECL|function|absoluteName
 DECL|function|accessTime
 DECL|function|canonicalName
@@ -37,6 +38,7 @@ DECL|function|tryDriveUNCFallback
 DECL|function|tryFindFallback
 DECL|function|uncListSharesOnServer
 DECL|function|uncShareExists
+DECL|function|~SidCleanup
 DECL|macro|FSCTL_GET_REPARSE_POINT
 DECL|macro|INVALID_FILE_ATTRIBUTES
 DECL|macro|IO_REPARSE_TAG_SYMLINK
@@ -85,6 +87,7 @@ DECL|typedef|SHARE_INFO_1
 DECL|typedef|intptr_t
 DECL|typedef|intptr_t
 DECL|typedef|intptr_t
+DECL|variable|currentUserSID
 DECL|variable|currentUserTrusteeW
 DECL|variable|ptrBuildTrusteeWithSidW
 DECL|variable|ptrGetEffectiveRightsFromAclW
@@ -96,4 +99,5 @@ DECL|variable|ptrNetApiBufferFree
 DECL|variable|ptrNetShareEnum
 DECL|variable|qfsPrivateCurrentDir
 DECL|variable|qt_ntfs_permission_lookup
+DECL|variable|worldSID
 DECL|variable|worldTrusteeW
