@@ -37,6 +37,8 @@ DECL|class|Template
 DECL|class|TestObject
 DECL|class|TestThread
 DECL|class|ThreadAffinityThread
+DECL|class|VirtualSlotsObject
+DECL|class|VirtualSlotsObjectBase
 DECL|class|tst_QObject
 DECL|enumerator|Alpha0
 DECL|enumerator|Alpha1
@@ -70,6 +72,8 @@ DECL|function|SiblingDeleter
 DECL|function|SuperObject
 DECL|function|TestObject
 DECL|function|ThreadAffinityThread
+DECL|function|VirtualSlotsObject
+DECL|function|VirtualSlotsObjectBase
 DECL|function|aPublicSlot
 DECL|function|aSlot
 DECL|function|alpha
@@ -99,6 +103,7 @@ DECL|function|connectNotify
 DECL|function|connectSignalsToSignalsWithDefaultArguments
 DECL|function|connectToSender
 DECL|function|connectToStaticCxx0x
+DECL|function|connectVirtualSlots
 DECL|function|connectWithReference
 DECL|function|constClassPointerConstPointerSlot
 DECL|function|constClassPointerSlot
@@ -248,6 +253,8 @@ DECL|function|slot1
 DECL|function|slot1
 DECL|function|slot1
 DECL|function|slot1
+DECL|function|slot1
+DECL|function|slot1
 DECL|function|slot1_deleteNext
 DECL|function|slot1_disconnectNext
 DECL|function|slot1_disconnectThis
@@ -341,6 +348,7 @@ DECL|macro|Bleh_iid
 DECL|macro|MANYARGUMENT_COMPARE
 DECL|macro|SIGNAL_INDEX
 DECL|member|aPublicSlotCalled
+DECL|member|base_counter1
 DECL|member|called_slot1
 DECL|member|called_slot10
 DECL|member|called_slot2
@@ -362,6 +370,7 @@ DECL|member|count_slot2
 DECL|member|count_slot3
 DECL|member|count_slot4
 DECL|member|customEventThread
+DECL|member|derived_counter1
 DECL|member|destroyed
 DECL|member|events
 DECL|member|fooList
