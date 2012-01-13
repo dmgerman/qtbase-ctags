@@ -19,7 +19,6 @@ DECL|function|byteCount
 DECL|function|bytesPerLine
 DECL|function|cacheKey
 DECL|function|checkForAlphaPixels
-DECL|function|checkPixelSize
 DECL|function|closestMatch
 DECL|function|color
 DECL|function|colorCount
@@ -43,6 +42,7 @@ DECL|function|convert_Mono_to_X32
 DECL|function|convert_RGB_to_Indexed8
 DECL|function|convert_RGB_to_RGB16_inplace
 DECL|function|convert_X_to_Mono
+DECL|function|convert_generic
 DECL|function|convert_indexed8_to_ARGB_PM_inplace
 DECL|function|convert_indexed8_to_RGB16_inplace
 DECL|function|convert_indexed8_to_RGB_inplace
@@ -129,9 +129,6 @@ DECL|function|valid
 DECL|function|width
 DECL|function|~QImage
 DECL|function|~QImageData
-DECL|macro|CONVERT_DECL
-DECL|macro|CONVERT_DECL
-DECL|macro|CONVERT_PTR
 DECL|macro|DITHER
 DECL|macro|DITHER
 DECL|macro|DITHER

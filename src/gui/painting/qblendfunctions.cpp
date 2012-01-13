@@ -1,4 +1,3 @@
-DECL|function|Blend_ARGB24_on_RGB16_SourceAndConstAlpha
 DECL|function|Blend_ARGB32_on_ARGB32_SourceAndConstAlpha
 DECL|function|Blend_ARGB32_on_RGB16_SourceAndConstAlpha
 DECL|function|Blend_RGB16_on_RGB16_ConstAlpha
@@ -8,7 +7,6 @@ DECL|function|alpha
 DECL|function|alpha
 DECL|function|bytemul
 DECL|function|bytemul
-DECL|function|convert_argb32_to_rgb16
 DECL|function|flush
 DECL|function|flush
 DECL|function|flush
@@ -17,22 +15,16 @@ DECL|function|flush
 DECL|function|flush
 DECL|function|flush
 DECL|function|flush
-DECL|function|flush
-DECL|function|flush
-DECL|function|qt_blend_argb24_on_rgb16
-DECL|function|qt_blend_argb24_on_rgb16
 DECL|function|qt_blend_argb32_on_argb32
 DECL|function|qt_blend_argb32_on_rgb16
 DECL|function|qt_blend_argb32_on_rgb16_const_alpha
 DECL|function|qt_blend_rgb16_on_rgb16
 DECL|function|qt_blend_rgb32_on_rgb16
 DECL|function|qt_blend_rgb32_on_rgb32
-DECL|function|qt_scale_image_argb24_on_rgb16
 DECL|function|qt_scale_image_argb32_on_argb32
 DECL|function|qt_scale_image_argb32_on_rgb16
 DECL|function|qt_scale_image_rgb16_on_rgb16
 DECL|function|qt_scale_image_rgb32_on_rgb32
-DECL|function|qt_transform_image_argb24_on_rgb16
 DECL|function|qt_transform_image_argb32_on_argb32
 DECL|function|qt_transform_image_argb32_on_rgb16
 DECL|function|qt_transform_image_rgb16_on_rgb16
@@ -45,9 +37,6 @@ DECL|function|write
 DECL|function|write
 DECL|function|write
 DECL|function|write
-DECL|function|write
-DECL|function|write
-DECL|member|m_alpha
 DECL|member|m_alpha
 DECL|member|m_alpha
 DECL|member|m_alpha
@@ -57,8 +46,6 @@ DECL|member|m_alpha256
 DECL|member|m_ialpha
 DECL|member|m_ialpha
 DECL|member|m_ialpha
-DECL|struct|Blend_ARGB24_on_RGB16_SourceAlpha
-DECL|struct|Blend_ARGB24_on_RGB16_SourceAndConstAlpha
 DECL|struct|Blend_ARGB32_on_ARGB32_SourceAlpha
 DECL|struct|Blend_ARGB32_on_ARGB32_SourceAndConstAlpha
 DECL|struct|Blend_ARGB32_on_RGB16_SourceAlpha
