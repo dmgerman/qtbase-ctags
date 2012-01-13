@@ -159,5 +159,5 @@ DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
 DECL|variable|handlerManager
-DECL|variable|map_from_three
+DECL|variable|mapIdFromQt3ToCurrent
 DECL|variable|qCanConvertMatrix
