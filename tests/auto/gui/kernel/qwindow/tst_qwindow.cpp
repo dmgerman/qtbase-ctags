@@ -14,6 +14,7 @@ DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|mouseToTouchLoop
 DECL|function|mouseToTouchTranslation
+DECL|function|orientation
 DECL|function|positioning
 DECL|function|received
 DECL|function|reset

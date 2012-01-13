@@ -53,6 +53,7 @@ DECL|function|reportAvailableGeometryChange
 DECL|function|reportGeometryChange
 DECL|function|reportLogicalDotsPerInchChange
 DECL|function|reportScreenOrientationChange
+DECL|function|reportScreenOrientationChange
 DECL|function|restoreOverrideCursor
 DECL|function|screens
 DECL|function|setEventDispatcher

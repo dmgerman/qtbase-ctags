@@ -4,6 +4,7 @@ DECL|function|QWindow
 DECL|function|accessibleRoot
 DECL|function|baseSize
 DECL|function|close
+DECL|function|contentOrientation
 DECL|function|create
 DECL|function|destroy
 DECL|function|event
@@ -36,11 +37,12 @@ DECL|function|mouseMoveEvent
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|moveEvent
-DECL|function|orientation
 DECL|function|parent
 DECL|function|qt_window_private
 DECL|function|raise
+DECL|function|reportContentOrientationChange
 DECL|function|requestActivateWindow
+DECL|function|requestWindowOrientation
 DECL|function|requestedFormat
 DECL|function|resize
 DECL|function|resizeEvent
@@ -55,7 +57,6 @@ DECL|function|setMaximumSize
 DECL|function|setMinimumSize
 DECL|function|setMouseGrabEnabled
 DECL|function|setOpacity
-DECL|function|setOrientation
 DECL|function|setParent
 DECL|function|setScreen
 DECL|function|setSizeIncrement
@@ -83,6 +84,7 @@ DECL|function|wheelEvent
 DECL|function|winId
 DECL|function|windowFlags
 DECL|function|windowModality
+DECL|function|windowOrientation
 DECL|function|windowState
 DECL|function|windowTitle
 DECL|function|windowType
