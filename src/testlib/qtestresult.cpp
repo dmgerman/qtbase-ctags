@@ -15,7 +15,6 @@ DECL|function|currentTestObjectName
 DECL|function|expectFail
 DECL|function|failCount
 DECL|function|finishedCurrentTestFunction
-DECL|function|ignoreMessage
 DECL|function|isExpectFailData
 DECL|function|passCount
 DECL|function|reset
