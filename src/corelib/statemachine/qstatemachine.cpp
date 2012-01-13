@@ -116,7 +116,6 @@ DECL|macro|QT_MOC_LITERAL
 DECL|member|data
 DECL|member|handler
 DECL|member|staticMetaObject
-DECL|member|staticMetaObjectExtraData
 DECL|member|stringdata
 DECL|namespace|_QStateMachine_Internal
 DECL|struct|qt_meta_stringdata_QSignalEventGenerator_t

@@ -25,7 +25,6 @@ DECL|macro|QT_MOC_LITERAL
 DECL|macro|QT_MOC_LITERAL
 DECL|member|data
 DECL|member|staticMetaObject
-DECL|member|staticMetaObjectExtraData
 DECL|member|stringdata
 DECL|struct|qt_meta_stringdata_QDBusAdaptorConnector_t
 DECL|variable|cachedRelaySlotMethodIndex

@@ -89,13 +89,11 @@ DECL|member|Connection
 DECL|member|d
 DECL|member|data
 DECL|member|extradata
-DECL|member|objects
+DECL|member|relatedMetaObjects
 DECL|member|static_metacall
 DECL|member|stringdata
 DECL|member|superdata
 DECL|struct|QMetaObject
-DECL|struct|QMetaObjectExtraData
-DECL|typedef|QMetaObjectAccessor
 DECL|typedef|StaticMetacallFunction
 DECL|variable|QByteArray
 DECL|variable|QMetaClassInfo
