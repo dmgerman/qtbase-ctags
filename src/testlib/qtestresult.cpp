@@ -1,6 +1,5 @@
 DECL|function|addFailure
 DECL|function|addSkip
-DECL|function|allDataPassed
 DECL|function|checkStatement
 DECL|function|clearExpectFail
 DECL|function|compare
