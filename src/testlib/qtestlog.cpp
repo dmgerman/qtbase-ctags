@@ -3,7 +3,6 @@ DECL|function|IgnoreResultList
 DECL|function|addBenchmarkResult
 DECL|function|addBenchmarkResult
 DECL|function|addFail
-DECL|function|addIgnoreMessage
 DECL|function|addIncident
 DECL|function|addLogger
 DECL|function|addLogger
@@ -17,6 +16,7 @@ DECL|function|destroyLoggers
 DECL|function|enterTestFunction
 DECL|function|enterTestFunction
 DECL|function|handleIgnoredMessage
+DECL|function|ignoreMessage
 DECL|function|info
 DECL|function|leaveTestFunction
 DECL|function|leaveTestFunction
