@@ -1,5 +1,3 @@
-DECL|class|QSymbianLeaveException
-DECL|function|QSymbianLeaveException
 DECL|function|activateCallbacks
 DECL|function|fromstrerror_helper
 DECL|function|fromstrerror_helper
@@ -33,15 +31,8 @@ DECL|function|qt_mac_from_pascal_string
 DECL|function|qt_mac_to_pascal_string
 DECL|function|qt_message
 DECL|function|qt_message_output
-DECL|function|qt_symbian_exception2Error
-DECL|function|qt_symbian_exception2LeaveL
-DECL|function|qt_symbian_throwIfError
 DECL|function|registerCallback
-DECL|function|s60Version
-DECL|function|symbianInitVersions
-DECL|function|symbianVersion
 DECL|function|unregisterCallback
-DECL|function|what
 DECL|function|windowsVersion
 DECL|macro|VER_PLATFORM_WIN32_CE
 DECL|macro|VER_PLATFORM_WIN32_NT
@@ -55,12 +46,9 @@ DECL|member|ByteOrder
 DECL|member|MacintoshVersion
 DECL|member|WindowsVersion
 DECL|member|callbacks
-DECL|member|error
 DECL|struct|QInternal_CallBackTable
 DECL|typedef|SeedStorage
 DECL|typedef|SeedStorageType
 DECL|typedef|SeedStorageType
-DECL|variable|cachedS60Version
-DECL|variable|cachedSymbianVersion
 DECL|variable|handler
 DECL|variable|qt_one
