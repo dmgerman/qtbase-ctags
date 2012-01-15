@@ -28,8 +28,6 @@ DECL|function|fromUnicode
 DECL|function|hasFailure
 DECL|function|hasFailure
 DECL|function|makeDecoder
-DECL|function|makeDecoder
-DECL|function|makeEncoder
 DECL|function|makeEncoder
 DECL|function|mibEnum
 DECL|function|name
