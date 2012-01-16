@@ -47,9 +47,6 @@ DECL|function|parent
 DECL|function|rect
 DECL|function|rect
 DECL|function|rect
-DECL|function|relationTo
-DECL|function|relationTo
-DECL|function|relationTo
 DECL|function|role
 DECL|function|role
 DECL|function|role
