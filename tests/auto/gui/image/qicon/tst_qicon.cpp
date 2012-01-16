@@ -8,11 +8,9 @@ DECL|function|addFile
 DECL|function|availableSizes
 DECL|function|bestMatch
 DECL|function|cacheKey
-DECL|function|cleanup
 DECL|function|detach
 DECL|function|fromTheme
 DECL|function|haveImageFormat
-DECL|function|init
 DECL|function|isNull
 DECL|function|name
 DECL|function|operator <
@@ -30,6 +28,5 @@ DECL|function|tst_QIcon
 DECL|function|~IconEngine
 DECL|member|destructorCalled
 DECL|member|destructorCalled
-DECL|member|oldCurrentDir
 DECL|member|staticIcon
 DECL|member|staticIcon
