@@ -3,6 +3,7 @@ DECL|function|cleanup
 DECL|function|equalImageContents
 DECL|function|getSetCheck
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|initializePadding
 DECL|function|largeTiff
 DECL|function|readWriteNonDestructive
@@ -22,5 +23,6 @@ DECL|function|writeImage2_data
 DECL|function|writeImage_data
 DECL|function|writeToInvalidDevice
 DECL|function|~tst_QImageWriter
+DECL|member|prefix
 DECL|typedef|QIntList
 DECL|typedef|QStringMap
