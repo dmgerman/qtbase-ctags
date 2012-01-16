@@ -111,6 +111,7 @@ DECL|function|timerEvent
 DECL|function|toString
 DECL|function|underline
 DECL|function|underline
+DECL|function|updateHitCountAndTimeStamp
 DECL|function|weight
 DECL|function|weight
 DECL|function|wordSpacing
