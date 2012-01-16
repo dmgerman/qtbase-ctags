@@ -37,9 +37,6 @@ DECL|member|dataFailed
 DECL|member|expectFailComment
 DECL|member|expectFailMode
 DECL|member|failed
-DECL|member|fails
 DECL|member|location
-DECL|member|passes
 DECL|member|skipCurrentTest
-DECL|member|skips
 DECL|namespace|QTest
