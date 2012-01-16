@@ -3,8 +3,8 @@ DECL|function|bytesAvailable
 DECL|function|canReadLine
 DECL|function|checkPipeState
 DECL|function|completeAsyncRead
+DECL|function|notified
 DECL|function|read
-DECL|function|readEventSignalled
 DECL|function|setHandle
 DECL|function|startAsyncRead
 DECL|function|stop
