@@ -19,8 +19,6 @@ DECL|function|init
 DECL|function|init_platform
 DECL|function|init_plugins
 DECL|function|inputPanel
-DECL|function|keyboardInputDirection
-DECL|function|keyboardInputLocale
 DECL|function|keyboardModifiers
 DECL|function|layoutDirection
 DECL|function|mouseButtons

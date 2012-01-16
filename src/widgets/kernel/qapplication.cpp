@@ -59,7 +59,9 @@ DECL|function|isAlien
 DECL|function|isBlockedByModal
 DECL|function|isPhase2
 DECL|function|isSessionRestored
+DECL|function|keyboardInputDirection
 DECL|function|keyboardInputInterval
+DECL|function|keyboardInputLocale
 DECL|function|keyboardModifiers
 DECL|function|keypadNavigationEnabled
 DECL|function|leaveModal
