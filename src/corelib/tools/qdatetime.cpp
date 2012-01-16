@@ -139,7 +139,6 @@ DECL|function|setTime
 DECL|function|setTimeSpec
 DECL|function|setTime_t
 DECL|function|setUtcOffset
-DECL|function|setYMD
 DECL|function|shortDayName
 DECL|function|shortMonthName
 DECL|function|skipToNextSection
