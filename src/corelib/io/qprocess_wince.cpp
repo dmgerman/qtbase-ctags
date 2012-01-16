@@ -1,6 +1,7 @@
 DECL|function|_q_notified
 DECL|function|bytesAvailableFromStderr
 DECL|function|bytesAvailableFromStdout
+DECL|function|destroyChannel
 DECL|function|destroyPipe
 DECL|function|findExitCode
 DECL|function|flushPipeWriter

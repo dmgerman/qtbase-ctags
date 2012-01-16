@@ -10,5 +10,6 @@ DECL|typedef|Q_PIPE
 DECL|variable|QSocketNotifier
 DECL|variable|QTimer
 DECL|variable|QWinEventNotifier
+DECL|variable|QWindowsPipeReader
 DECL|variable|QWindowsPipeWriter
 DECL|variable|RProcess

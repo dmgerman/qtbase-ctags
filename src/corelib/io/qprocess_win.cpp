@@ -2,7 +2,9 @@ DECL|function|_q_notified
 DECL|function|bytesAvailableFromStderr
 DECL|function|bytesAvailableFromStdout
 DECL|function|createChannel
+DECL|function|destroyChannel
 DECL|function|destroyPipe
+DECL|function|drainOutputPipes
 DECL|function|duplicateStdWriteChannel
 DECL|function|findExitCode
 DECL|function|flushPipeWriter
