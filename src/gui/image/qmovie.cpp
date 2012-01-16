@@ -11,7 +11,6 @@ DECL|function|_q_loadNextFrame
 DECL|function|_q_loadNextFrame
 DECL|function|backgroundColor
 DECL|function|cacheMode
-DECL|function|cacheMode
 DECL|function|currentFrameNumber
 DECL|function|currentImage
 DECL|function|currentPixmap

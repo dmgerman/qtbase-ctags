@@ -73,7 +73,6 @@ DECL|function|operator ==
 DECL|function|owner
 DECL|function|ownerId
 DECL|function|pos
-DECL|function|qInitResourceIO
 DECL|function|qRegisterResourceData
 DECL|function|qUnregisterResourceData
 DECL|function|qt_resource_fixResourceRoot

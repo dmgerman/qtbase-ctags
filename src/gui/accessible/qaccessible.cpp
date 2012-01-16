@@ -4,11 +4,13 @@ DECL|function|foregroundColor
 DECL|function|installFactory
 DECL|function|installRootObjectHandler
 DECL|function|installUpdateHandler
-DECL|function|invokeMethod
 DECL|function|isActive
 DECL|function|operator <<
+DECL|function|operator ==
 DECL|function|platformAccessibility
 DECL|function|qAccessibleCleanup
+DECL|function|qAccessibleEventString
+DECL|function|qAccessibleRoleString
 DECL|function|queryAccessibleInterface
 DECL|function|relationTo
 DECL|function|relations

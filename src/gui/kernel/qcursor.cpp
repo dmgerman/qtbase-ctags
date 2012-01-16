@@ -9,6 +9,7 @@ DECL|function|hotSpot
 DECL|function|initialize
 DECL|function|mask
 DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator >>
 DECL|function|operator QVariant

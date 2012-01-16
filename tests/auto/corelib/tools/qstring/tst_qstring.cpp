@@ -129,6 +129,7 @@ DECL|function|stringRef_toLatin1Roundtrip_data
 DECL|function|stringRef_utf8
 DECL|function|stringRef_utf8_data
 DECL|function|swap
+DECL|function|toCaseFolded
 DECL|function|toDouble
 DECL|function|toDouble_data
 DECL|function|toFloat

@@ -17,6 +17,7 @@ DECL|function|fromFont
 DECL|function|fromFont_data
 DECL|function|glyphIndices
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|invalidRawFont
 DECL|function|multipleRawFontsFromData
 DECL|function|rawFontSetPixelSize
@@ -30,4 +31,6 @@ DECL|function|supportsUcs4Character_data
 DECL|function|textLayout
 DECL|function|unsupportedWritingSystem
 DECL|function|unsupportedWritingSystem_data
+DECL|member|testFont
+DECL|member|testFontBoldItalic
 DECL|typedef|WritingSystemList

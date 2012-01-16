@@ -60,6 +60,12 @@ DECL|function|fromUtf8_qt47_stateless
 DECL|function|fromUtf8_sse2_optimised_for_ascii
 DECL|function|fromUtf8_sse2_trusted_no_bom
 DECL|function|isUnicodeNonCharacter
+DECL|function|toCaseFolded
+DECL|function|toCaseFolded_data
+DECL|function|toLower
+DECL|function|toLower_data
+DECL|function|toUpper
+DECL|function|toUpper_data
 DECL|function|tst_QString
 DECL|function|ucstrncmp
 DECL|function|ucstrncmp_data

@@ -62,10 +62,14 @@ DECL|function|create
 DECL|function|create
 DECL|function|create
 DECL|function|create
+DECL|function|create
+DECL|function|create
 DECL|function|createCopy
 DECL|function|createCopy_data
 DECL|function|create_data
 DECL|function|defined
+DECL|function|flags
+DECL|function|flags_data
 DECL|function|isRegistered
 DECL|function|isRegistered_data
 DECL|function|namespaces
@@ -97,6 +101,8 @@ DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
+DECL|macro|ADD_METATYPE_TEST_ROW
+DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|DEFINE_META_ENUM_TO_TYPE
 DECL|macro|DEFINE_META_ENUM_TO_TYPE
 DECL|macro|DEFINE_NON_INITIALIZED_DEFAULT_VALUE_TRAITS
@@ -123,6 +129,7 @@ DECL|member|propList
 DECL|member|t
 DECL|namespace|TestSpace
 DECL|struct|Bar
+DECL|struct|CustomMovable
 DECL|struct|DefaultValueFactory
 DECL|struct|DefaultValueFactory
 DECL|struct|DefaultValueTraits
@@ -132,6 +139,8 @@ DECL|struct|MetaEnumToType
 DECL|struct|RoundToNextHighestPowerOfTwo
 DECL|struct|SafeSizeOf
 DECL|struct|SafeSizeOf
+DECL|struct|TestValueFactory
+DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory

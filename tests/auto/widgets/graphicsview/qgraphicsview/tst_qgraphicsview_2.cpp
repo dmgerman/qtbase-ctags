@@ -1,6 +1,5 @@
+DECL|function|_scrollBarRangesMotif_data_1
+DECL|function|_scrollBarRangesMotif_data_2
 DECL|function|_scrollBarRanges_data
 DECL|function|_scrollBarRanges_data_1
 DECL|function|_scrollBarRanges_data_2
-DECL|function|_scrollBarRanges_data_3
-DECL|function|_scrollBarRanges_data_4
-DECL|function|qt_wince_is_high_dpi

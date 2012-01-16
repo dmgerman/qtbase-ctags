@@ -27,6 +27,7 @@ DECL|function|mouseButtons
 DECL|function|notify
 DECL|function|notifyActiveWindowChange
 DECL|function|notifyLayoutDirectionChange
+DECL|function|operator ==
 DECL|function|overrideCursor
 DECL|function|palette
 DECL|function|platformNativeInterface
@@ -47,6 +48,7 @@ DECL|function|processUnmapEvent
 DECL|function|processWheelEvent
 DECL|function|processWindowStateChangedEvent
 DECL|function|processWindowSystemEvent
+DECL|function|qHash
 DECL|function|qt_detectRTLLanguage
 DECL|function|quitOnLastWindowClosed
 DECL|function|reportAvailableGeometryChange
@@ -59,6 +61,7 @@ DECL|function|setEventDispatcher
 DECL|function|setFont
 DECL|function|setLayoutDirection
 DECL|function|setOverrideCursor
+DECL|function|setPalette
 DECL|function|setQuitOnLastWindowClosed
 DECL|function|styleHints
 DECL|function|topLevelAt
@@ -71,6 +74,7 @@ DECL|member|app_pal
 DECL|member|buttons
 DECL|member|focus_window
 DECL|member|generic_plugin_list
+DECL|member|m_fakeTouchDevice
 DECL|member|modifier_buttons
 DECL|member|mousePressButton
 DECL|member|mousePressTime

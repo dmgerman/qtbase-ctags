@@ -1,5 +1,4 @@
 DECL|function|QReadWriteLock
-DECL|function|QReadWriteLock
 DECL|function|lockForRead
 DECL|function|lockForWrite
 DECL|function|tryLockForRead

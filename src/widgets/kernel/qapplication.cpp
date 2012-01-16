@@ -39,7 +39,7 @@ DECL|function|emitLastWindowClosed
 DECL|function|enterModal
 DECL|function|event
 DECL|function|exec
-DECL|function|findClosestTouchPointId
+DECL|function|findClosestTouchPointTarget
 DECL|function|focusNextPrevChild_helper
 DECL|function|focusWidget
 DECL|function|font
@@ -77,7 +77,6 @@ DECL|function|qt_app_fonts_hash
 DECL|function|qt_app_palettes_hash
 DECL|function|qt_matchLibraryName
 DECL|function|qt_sendSpontaneousEvent
-DECL|function|qt_translateRawTouchEvent
 DECL|function|qt_tryModalHelper
 DECL|function|queryKeyboardModifiers
 DECL|function|quitOnLastWindowClosed
@@ -185,10 +184,8 @@ DECL|variable|aargc
 DECL|variable|aargv
 DECL|variable|app_do_modal
 DECL|variable|qt_antialiasing_threshold
-DECL|variable|qt_appType
 DECL|variable|qt_desktopWidget
 DECL|variable|qt_in_tab_key_event
-DECL|variable|qt_is_gui_used
 DECL|variable|qt_modal_stack
 DECL|variable|qt_session_manager_self
 DECL|variable|qt_tab_all_widgets

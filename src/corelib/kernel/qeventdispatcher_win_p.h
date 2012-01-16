@@ -7,6 +7,7 @@ DECL|member|interval
 DECL|member|obj
 DECL|member|obj
 DECL|member|timerId
+DECL|member|timerType
 DECL|struct|QSockNot
 DECL|struct|WinTimerInfo
 DECL|typedef|QSNDict

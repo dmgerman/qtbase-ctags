@@ -14,7 +14,6 @@ DECL|class|HoverItem
 DECL|class|InputMethodTester
 DECL|class|PolishItem
 DECL|class|Scene
-DECL|class|TestInputContext
 DECL|class|tst_QGraphicsScene
 DECL|function|ClearTestItem
 DECL|function|ContextMenuItem
@@ -29,7 +28,6 @@ DECL|function|ExposedPixmapItem
 DECL|function|FocusWidget
 DECL|function|HoverItem
 DECL|function|PolishItem
-DECL|function|TestInputContext
 DECL|function|addEllipse
 DECL|function|addItem
 DECL|function|addLine
@@ -41,6 +39,7 @@ DECL|function|bspTreeDepth
 DECL|function|changed
 DECL|function|changedSignal
 DECL|function|changedSignal_data
+DECL|function|cleanup
 DECL|function|clear
 DECL|function|construction
 DECL|function|contextMenuEvent
@@ -67,7 +66,6 @@ DECL|function|focusOutEvent
 DECL|function|focusOutEvent
 DECL|function|hoverEvents_parentChild
 DECL|function|hoverEvents_siblings
-DECL|function|identifierName
 DECL|function|initTestCase
 DECL|function|initialFocus
 DECL|function|initialFocus_data
@@ -76,7 +74,6 @@ DECL|function|inputMethodEvent
 DECL|function|inputMethodQuery
 DECL|function|inputMethod_data
 DECL|function|isActive
-DECL|function|isComposing
 DECL|function|itemChange
 DECL|function|itemIndexMethod
 DECL|function|items
@@ -91,7 +88,6 @@ DECL|function|items_QPolygonF_2
 DECL|function|items_QRectF
 DECL|function|items_QRectF_2
 DECL|function|items_QRectF_2_data
-DECL|function|language
 DECL|function|mouseEventPropagation
 DECL|function|mouseEventPropagation_doubleclick
 DECL|function|mouseEventPropagation_focus
@@ -110,7 +106,6 @@ DECL|function|removeItem
 DECL|function|render
 DECL|function|renderItemsWithNegativeWidthOrHeight
 DECL|function|render_data
-DECL|function|reset
 DECL|function|sceneEvent
 DECL|function|sceneEvent
 DECL|function|sceneEvent
@@ -175,7 +170,6 @@ DECL|member|queryCalls
 DECL|member|receivedSceneEventFilters
 DECL|member|receivedSceneEvents
 DECL|member|repaints
-DECL|member|resetCalls
 DECL|member|spied
 DECL|member|tabs
 DECL|variable|randomX

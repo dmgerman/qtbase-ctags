@@ -7,8 +7,6 @@ DECL|function|inotify_init1
 DECL|function|inotify_rm_watch
 DECL|function|readFromInotify
 DECL|function|removePaths
-DECL|function|run
-DECL|function|stop
 DECL|function|syscall
 DECL|function|~QInotifyFileSystemWatcherEngine
 DECL|macro|IN_ACCESS

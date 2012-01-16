@@ -7,10 +7,11 @@ DECL|macro|Q_XCB_CALL
 DECL|macro|Q_XCB_CALL
 DECL|macro|Q_XCB_CALL2
 DECL|macro|Q_XCB_CALL2
-DECL|macro|Q_XCB_DEBUG
 DECL|macro|Q_XCB_NOOP
 DECL|macro|Q_XCB_NOOP
+DECL|typedef|QXcbEventArray
 DECL|typedef|WindowMapper
+DECL|typedef|xcb_generic_event_t
 DECL|typedef|xcb_window_t
 DECL|variable|QAbstractEventDispatcher
 DECL|variable|QXcbClipboard

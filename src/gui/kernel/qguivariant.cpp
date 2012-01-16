@@ -37,8 +37,10 @@ DECL|member|IsAvailable
 DECL|member|IsAvailable
 DECL|member|IsAvailable
 DECL|member|IsAvailable
+DECL|member|qVariantGuiHelper
+DECL|member|qt_gui_variant_handler
 DECL|struct|Acceptor
-DECL|struct|CoreAndGuiTypesFilter
+DECL|struct|GuiTypesFilter
 DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
@@ -57,7 +59,3 @@ DECL|struct|TypeDefiniton
 DECL|struct|TypeDefiniton
 DECL|typedef|Base
 DECL|typedef|Base
-DECL|variable|qVariantGuiHelper
-DECL|variable|qt_gui_variant_handler
-DECL|variable|qt_guivariant_last_handler
-DECL|variable|qt_widgets_variant_handler

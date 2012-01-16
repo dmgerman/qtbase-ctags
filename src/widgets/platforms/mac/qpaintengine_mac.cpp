@@ -15,7 +15,6 @@ DECL|enumerator|kCGCompositeModeXOR
 DECL|enum|CGCompositeMode
 DECL|function|QCoreGraphicsPaintEngine
 DECL|function|QCoreGraphicsPaintEngine
-DECL|function|QMacCGContext
 DECL|function|QMacPattern
 DECL|function|adjustPenWidth
 DECL|function|begin
@@ -41,8 +40,6 @@ DECL|function|initialize
 DECL|function|macGenericColorSpace
 DECL|function|qt_mac_cg_features
 DECL|function|qt_mac_cg_transform_path_apply
-DECL|function|qt_mac_clip_cg
-DECL|function|qt_mac_colorSpaceForDeviceType
 DECL|function|qt_mac_color_gradient_function
 DECL|function|qt_mac_compose_path
 DECL|function|qt_mac_compose_rect

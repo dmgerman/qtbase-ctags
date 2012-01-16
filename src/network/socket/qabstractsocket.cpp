@@ -18,10 +18,8 @@ DECL|function|canWriteNotification
 DECL|function|close
 DECL|function|connectToHost
 DECL|function|connectToHost
-DECL|function|connectToHostImplementation
 DECL|function|connectionNotification
 DECL|function|disconnectFromHost
-DECL|function|disconnectFromHostImplementation
 DECL|function|error
 DECL|function|fetchConnectionParameters
 DECL|function|flush

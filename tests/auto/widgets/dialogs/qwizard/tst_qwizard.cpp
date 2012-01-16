@@ -43,7 +43,6 @@ DECL|function|apply
 DECL|function|apply
 DECL|function|applyOperations
 DECL|function|buttonText
-DECL|function|check
 DECL|function|cleanup
 DECL|function|cleanupPage
 DECL|function|combinations
@@ -71,6 +70,7 @@ DECL|function|options
 DECL|function|registerField
 DECL|function|removePage
 DECL|function|reset
+DECL|function|sanityCheck
 DECL|function|setButton
 DECL|function|setButtonLayout
 DECL|function|setButtonText

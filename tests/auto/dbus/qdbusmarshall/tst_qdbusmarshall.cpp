@@ -7,10 +7,17 @@ DECL|function|basicStringTypes_data
 DECL|function|cleanup
 DECL|function|cleanup
 DECL|function|cleanupTestCase
+DECL|function|demarshallAsString
+DECL|function|demarshallInvalidByteArray
+DECL|function|demarshallInvalidByteArray_data
+DECL|function|demarshallInvalidStringList
+DECL|function|demarshallInvalidStringList_data
 DECL|function|demarshallPrimitiveAs
 DECL|function|demarshallPrimitiveAs
 DECL|function|demarshallPrimitives
 DECL|function|demarshallPrimitives_data
+DECL|function|demarshallStrings
+DECL|function|demarshallStrings_data
 DECL|function|fileDescriptorForTest
 DECL|function|initTestCase
 DECL|function|receiveUnknownType

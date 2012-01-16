@@ -60,6 +60,7 @@ DECL|function|relativeFilePath_data
 DECL|function|remove
 DECL|function|removeRecursively
 DECL|function|removeRecursivelyFailure
+DECL|function|removeRecursivelySymlink
 DECL|function|removeRecursively_data
 DECL|function|rename
 DECL|function|rmdir

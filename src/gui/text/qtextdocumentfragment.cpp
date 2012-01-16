@@ -24,6 +24,5 @@ DECL|function|processBlockNode
 DECL|function|processSpecialNodes
 DECL|function|scanTable
 DECL|function|toHtml
-DECL|function|toHtml
 DECL|function|toPlainText
 DECL|function|~QTextDocumentFragment

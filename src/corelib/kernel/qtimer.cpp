@@ -3,6 +3,7 @@ DECL|function|QSingleShotTimer
 DECL|function|QTimer
 DECL|function|setInterval
 DECL|function|singleShot
+DECL|function|singleShot
 DECL|function|start
 DECL|function|start
 DECL|function|stop

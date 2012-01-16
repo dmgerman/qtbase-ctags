@@ -1,5 +1,3 @@
-DECL|function|operator
-DECL|function|operator
 DECL|function|toCurrencyString
 DECL|function|toCurrencyString
 DECL|function|toCurrencyString

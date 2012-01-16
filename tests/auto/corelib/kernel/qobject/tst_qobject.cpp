@@ -81,10 +81,10 @@ DECL|function|boolRefSlot
 DECL|function|called
 DECL|function|called
 DECL|function|childDeletesItsSibling
+DECL|function|childEvents
 DECL|function|classPointerSlot
 DECL|function|classSlot
 DECL|function|clear
-DECL|function|compatibilityChildInsertedEvents
 DECL|function|connectByMetaMethodSlotInsteadOfSignal
 DECL|function|connectByMetaMethods
 DECL|function|connectByName
@@ -155,6 +155,7 @@ DECL|function|eventList
 DECL|function|findChildren
 DECL|function|floatProperty
 DECL|function|harmfullSlot
+DECL|function|initTestCase
 DECL|function|installEventFilter
 DECL|function|interfaceIid
 DECL|function|invoke1
@@ -191,6 +192,7 @@ DECL|function|overloads
 DECL|function|pointerConnect
 DECL|function|pointerDisconnect
 DECL|function|priority
+DECL|function|processEvents
 DECL|function|property
 DECL|function|qMetaObjectConnect
 DECL|function|qMetaObjectDisconnectOne

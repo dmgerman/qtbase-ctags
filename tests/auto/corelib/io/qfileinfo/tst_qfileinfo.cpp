@@ -1,5 +1,7 @@
+DECL|class|NativeFileCreator
 DECL|class|tst_QFileInfo
 DECL|function|IsUserAdmin
+DECL|function|NativeFileCreator
 DECL|function|absFilePath
 DECL|function|absFilePath_data
 DECL|function|absolutePath
@@ -21,12 +23,12 @@ DECL|function|completeSuffix_data
 DECL|function|consistent
 DECL|function|consistent_data
 DECL|function|copy
-DECL|function|createFileNative
 DECL|function|detachingOperations
 DECL|function|dir
 DECL|function|dir_data
 DECL|function|equalOperator
 DECL|function|equalOperatorWithDifferentSlashes
+DECL|function|error
 DECL|function|exists
 DECL|function|exists_data
 DECL|function|fileName
@@ -62,7 +64,6 @@ DECL|function|owner
 DECL|function|permission
 DECL|function|permission_data
 DECL|function|refresh
-DECL|function|removeFileNative
 DECL|function|size
 DECL|function|size_data
 DECL|function|suffix
@@ -70,4 +71,7 @@ DECL|function|suffix_data
 DECL|function|systemFiles
 DECL|function|testDecomposedUnicodeNames
 DECL|function|testDecomposedUnicodeNames_data
+DECL|function|~NativeFileCreator
 DECL|macro|_WIN32_WINNT
+DECL|member|m_error
+DECL|member|m_filePath

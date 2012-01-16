@@ -1,2 +1,2 @@
-DECL|function|check
-DECL|function|check
+DECL|function|doCheck
+DECL|function|doCheck

@@ -24,7 +24,6 @@ DECL|function|qt_tokenize
 DECL|function|qt_try_versioninfo
 DECL|function|qt_unix_query
 DECL|function|release
-DECL|function|releaseCoverageTool
 DECL|function|resolve
 DECL|function|resolve
 DECL|function|resolve

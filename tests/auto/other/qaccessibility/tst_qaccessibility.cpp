@@ -8,6 +8,8 @@ DECL|function|QtTestAccessibleWidget
 DECL|function|QtTestAccessibleWidgetIface
 DECL|function|abstractScrollAreaTest
 DECL|function|accelerators
+DECL|function|accessibleInterfaceAbove
+DECL|function|accessibleInterfaceLeftOf
 DECL|function|accessibleName
 DECL|function|actionTest
 DECL|function|applicationTest
@@ -40,7 +42,6 @@ DECL|function|mdiAreaTest
 DECL|function|mdiSubWindowTest
 DECL|function|menuTest
 DECL|function|navigateCovered
-DECL|function|navigateGeometric
 DECL|function|navigateHierarchy
 DECL|function|onClicked
 DECL|function|rubberBandTest
@@ -49,6 +50,7 @@ DECL|function|scrollBarTest
 DECL|function|sliderTest
 DECL|function|spinBoxTest
 DECL|function|state
+DECL|function|statesStructTest
 DECL|function|tabTest
 DECL|function|tabWidgetTest
 DECL|function|tableTest
@@ -68,4 +70,5 @@ DECL|macro|SPI_GETPLATFORMTYPE
 DECL|macro|interface
 DECL|member|clickCount
 DECL|member|click_count
+DECL|typedef|QAIPtr
 DECL|variable|Q_PI

@@ -1,12 +1,6 @@
 DECL|macro|QEVENTDISPATCHER_UNIX_P_H
-DECL|member|activateRef
 DECL|member|fd
-DECL|member|id
-DECL|member|interval
-DECL|member|obj
 DECL|member|obj
 DECL|member|queue
-DECL|member|timeout
 DECL|struct|QSockNot
-DECL|struct|QTimerInfo
 DECL|variable|QEventDispatcherUNIXPrivate

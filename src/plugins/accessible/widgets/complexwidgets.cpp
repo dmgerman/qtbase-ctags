@@ -14,6 +14,7 @@ DECL|function|child
 DECL|function|child
 DECL|function|childAt
 DECL|function|childAt
+DECL|function|childAt
 DECL|function|childCount
 DECL|function|childCount
 DECL|function|childCount
@@ -27,7 +28,6 @@ DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|interface_cast
-DECL|function|invokeMethod
 DECL|function|isLeftToRight
 DECL|function|isValid
 DECL|function|isValid
@@ -35,12 +35,9 @@ DECL|function|keyBindingsForAction
 DECL|function|keyBindingsForAction
 DECL|function|localizedActionDescription
 DECL|function|navigate
-DECL|function|navigate
-DECL|function|navigate
 DECL|function|object
 DECL|function|parent
 DECL|function|rect
-DECL|function|relationTo
 DECL|function|removeInvisibleWidgetsFromList
 DECL|function|role
 DECL|function|selection

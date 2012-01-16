@@ -24,6 +24,7 @@ DECL|function|minimumHeightForWidth
 DECL|function|minimumSize
 DECL|function|minimumSize
 DECL|function|minimumSize
+DECL|function|operator <<
 DECL|function|operator QVariant
 DECL|function|setAlignment
 DECL|function|setGeometry

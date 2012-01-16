@@ -4,3 +4,4 @@ DECL|variable|QMenuBar
 DECL|variable|QPlatformDialogHelper
 DECL|variable|QPlatformMenu
 DECL|variable|QPlatformMenuBar
+DECL|variable|QVariant

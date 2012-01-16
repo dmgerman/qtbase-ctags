@@ -29,6 +29,7 @@ DECL|function|QtTestModel
 DECL|function|RepaintTreeView
 DECL|function|TestDelegate
 DECL|function|addRowsWhileSectionsAreHidden
+DECL|function|aiv_priv
 DECL|function|alternatingRowColors
 DECL|function|bindView
 DECL|function|canFetchMore

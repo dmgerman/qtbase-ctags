@@ -1,3 +1,4 @@
+DECL|function|convertTouchPoints
 DECL|function|getWindowSystemEvent
 DECL|function|handleCloseEvent
 DECL|function|handleDrag

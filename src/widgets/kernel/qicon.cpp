@@ -28,6 +28,7 @@ DECL|function|isNull
 DECL|function|key
 DECL|function|name
 DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator >>
 DECL|function|operator QVariant

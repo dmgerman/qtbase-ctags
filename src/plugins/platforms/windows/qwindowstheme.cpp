@@ -1,3 +1,6 @@
 DECL|function|QWindowsTheme
+DECL|function|booleanSystemParametersInfo
 DECL|function|createPlatformDialogHelper
+DECL|function|dWordSystemParametersInfo
+DECL|function|themeHint
 DECL|function|usePlatformNativeDialog

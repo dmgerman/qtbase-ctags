@@ -17,6 +17,8 @@ DECL|function|operator <
 DECL|function|operator <
 DECL|function|operatorQString
 DECL|function|operatorQString_data
+DECL|function|parseString
+DECL|function|parseString_data
 DECL|function|standardKeys
 DECL|function|standardKeys_data
 DECL|function|streamOperators
@@ -25,6 +27,8 @@ DECL|function|swap
 DECL|function|symetricConstructors
 DECL|function|symetricConstructors_data
 DECL|function|toString
+DECL|function|toStringFromKeycode
+DECL|function|toStringFromKeycode_data
 DECL|function|toString_data
 DECL|function|translated
 DECL|function|translated_data

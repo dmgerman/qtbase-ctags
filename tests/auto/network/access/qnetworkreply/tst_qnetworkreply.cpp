@@ -1,3 +1,4 @@
+DECL|class|AuthenticationCacheHelper
 DECL|class|BlockingTcpServer
 DECL|class|DataReader
 DECL|class|FastSender
@@ -25,6 +26,7 @@ DECL|enumerator|Success
 DECL|enumerator|Timeout
 DECL|enum|Protocol
 DECL|enum|RunSimpleRequestReturn
+DECL|function|AuthenticationCacheHelper
 DECL|function|BlockingTcpServer
 DECL|function|DataReader
 DECL|function|FastSender
@@ -44,7 +46,11 @@ DECL|function|RateControlledReader
 DECL|function|SocketPair
 DECL|function|SslServer
 DECL|function|allCookies
+DECL|function|authenticationCacheAfterCancel
+DECL|function|authenticationCacheAfterCancel_data
 DECL|function|authenticationRequired
+DECL|function|authenticationRequired
+DECL|function|authenticationWithDifferentRealm
 DECL|function|authorizationError
 DECL|function|authorizationError_data
 DECL|function|bytesWrittenSlot
@@ -201,6 +207,8 @@ DECL|function|newConnectionSlot
 DECL|function|onReadAndReschedule
 DECL|function|operator QNetworkReply *
 DECL|function|parentingRepliesToTheApp
+DECL|function|pipelining
+DECL|function|pipeliningHelperSlot
 DECL|function|postToHttp
 DECL|function|postToHttpMultipart
 DECL|function|postToHttpMultipart_data
@@ -209,6 +217,7 @@ DECL|function|postToHttpSynchronous_data
 DECL|function|postToHttp_data
 DECL|function|prepare
 DECL|function|prepare
+DECL|function|proxyAuthenticationRequired
 DECL|function|proxyAuthenticationRequired
 DECL|function|proxyChange
 DECL|function|putGetDeleteGetFromHttp
@@ -227,6 +236,7 @@ DECL|function|qtbug12908compressedHttpReply
 DECL|function|qtbug13431replyThrottling
 DECL|function|qtbug15311doubleContentLength
 DECL|function|qtbug18232gzipContentLengthZero
+DECL|function|qtbug22660gzipNoContentLengthEmptyContent
 DECL|function|qtbug4121unknownAuthentication
 DECL|function|queryProxy
 DECL|function|rateControl
@@ -317,6 +327,8 @@ DECL|member|doSsl
 DECL|member|doSsl
 DECL|member|endPoints
 DECL|member|fillKernelBuffer
+DECL|member|httpPassword
+DECL|member|httpUserName
 DECL|member|interval
 DECL|member|ipv6
 DECL|member|lastQuery
@@ -337,6 +349,8 @@ DECL|member|port
 DECL|member|protocol
 DECL|member|proxies
 DECL|member|proxy
+DECL|member|proxyPassword
+DECL|member|proxyUserName
 DECL|member|readBufferSize
 DECL|member|ready
 DECL|member|ready

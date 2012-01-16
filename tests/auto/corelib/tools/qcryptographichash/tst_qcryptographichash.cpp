@@ -1,6 +1,9 @@
 DECL|class|tst_QCryptographicHash
+DECL|function|files
+DECL|function|files_data
 DECL|function|intermediary_result
 DECL|function|intermediary_result_data
 DECL|function|repeated_result
 DECL|function|repeated_result_data
 DECL|function|sha1
+DECL|variable|Algorithm

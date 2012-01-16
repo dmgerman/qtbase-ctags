@@ -1,4 +1,5 @@
 DECL|function|createPlatformDialogHelper
 DECL|function|createPlatformMenu
 DECL|function|createPlatformMenuBar
+DECL|function|themeHint
 DECL|function|usePlatformNativeDialog

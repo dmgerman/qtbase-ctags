@@ -1,0 +1,3 @@
+DECL|class|QCoreApplicationBenchmark
+DECL|function|event_posting_benchmark
+DECL|function|event_posting_benchmark_data

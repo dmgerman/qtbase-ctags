@@ -13,7 +13,6 @@ DECL|macro|q_BIO_pending
 DECL|macro|q_EVP_PKEY_assign_DSA
 DECL|macro|q_EVP_PKEY_assign_RSA
 DECL|macro|q_OpenSSL_add_all_algorithms
-DECL|macro|q_OpenSSL_add_all_algorithms
 DECL|macro|q_PEM_read_bio_DSAPrivateKey
 DECL|macro|q_PEM_read_bio_RSAPrivateKey
 DECL|macro|q_PEM_write_bio_DSAPrivateKey

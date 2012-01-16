@@ -39,9 +39,6 @@ DECL|function|unregisterTimer
 DECL|function|unregisterTimer
 DECL|function|unregisterTimers
 DECL|function|wakeUp
-DECL|function|winGetMessage
-DECL|function|winPeekMessage
-DECL|function|winPostMessage
 DECL|function|~QEventDispatcherWin32
 DECL|function|~QEventDispatcherWin32Private
 DECL|function|~SocketAsyncHandler

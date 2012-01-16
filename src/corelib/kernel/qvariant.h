@@ -11,7 +11,6 @@ DECL|function|qVariantFromValue
 DECL|function|qVariantSetValue
 DECL|function|qVariantValue
 DECL|function|qvariant_cast
-DECL|function|qvariant_cast_helper
 DECL|function|setValue
 DECL|macro|QVARIANT_H
 DECL|variable|QDataStream

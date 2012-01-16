@@ -2,6 +2,7 @@ DECL|class|QCryptographicHashPrivate
 DECL|function|QCryptographicHash
 DECL|function|addData
 DECL|function|addData
+DECL|function|addData
 DECL|function|hash
 DECL|function|reset
 DECL|function|result

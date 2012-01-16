@@ -1,6 +1,4 @@
-DECL|class|QScreenPrivate
 DECL|function|QScreen
-DECL|function|QScreenPrivate
 DECL|function|angleBetween
 DECL|function|availableGeometry
 DECL|function|availableSize
@@ -26,4 +24,3 @@ DECL|function|transformBetween
 DECL|function|virtualGeometry
 DECL|function|virtualSiblings
 DECL|function|virtualSize
-DECL|member|platformScreen

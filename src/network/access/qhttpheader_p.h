@@ -1,0 +1,2 @@
+DECL|macro|QHTTP_H
+DECL|variable|QHttpResponseHeaderPrivate

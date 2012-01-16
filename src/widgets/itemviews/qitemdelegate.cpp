@@ -2,9 +2,9 @@ DECL|class|QItemDelegatePrivate
 DECL|function|QItemDelegate
 DECL|function|QItemDelegatePrivate
 DECL|function|_q_commitDataAndCloseEditor
-DECL|function|check
 DECL|function|createEditor
 DECL|function|decoration
+DECL|function|doCheck
 DECL|function|doLayout
 DECL|function|doTextLayout
 DECL|function|drawBackground

@@ -35,6 +35,7 @@ DECL|function|loadFromData
 DECL|function|mask
 DECL|function|metric
 DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator >>
 DECL|function|operator QVariant

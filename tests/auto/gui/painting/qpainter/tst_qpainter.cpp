@@ -75,6 +75,7 @@ DECL|function|drawRoundRect
 DECL|function|drawRoundRect_data
 DECL|function|drawTextOpacity
 DECL|function|drawTextOutsideGuiThread
+DECL|function|drawTextWithComplexBrush
 DECL|function|drawText_subPixelPositionsInRaster_qtbug5053
 DECL|function|drawhelper_blend_color
 DECL|function|drawhelper_blend_tiled_untransformed

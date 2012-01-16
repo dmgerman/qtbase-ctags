@@ -1,5 +1,7 @@
 DECL|class|tst_bench_QUuid
 DECL|function|createUuid
+DECL|function|createUuidV3
+DECL|function|createUuidV5
 DECL|function|fromByteArray
 DECL|function|fromChar
 DECL|function|fromDataStream

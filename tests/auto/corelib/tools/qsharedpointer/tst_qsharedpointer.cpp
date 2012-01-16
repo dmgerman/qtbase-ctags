@@ -21,7 +21,6 @@ DECL|function|VirtualDerived
 DECL|function|alsoDelete
 DECL|function|basics
 DECL|function|basics_data
-DECL|function|check
 DECL|function|classLevel
 DECL|function|classLevel
 DECL|function|classLevel
@@ -63,6 +62,7 @@ DECL|function|ref
 DECL|function|refCountData
 DECL|function|run
 DECL|function|run
+DECL|function|safetyCheck
 DECL|function|swap
 DECL|function|threadStressTest
 DECL|function|threadStressTest_data

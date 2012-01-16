@@ -1,3 +1,4 @@
+DECL|class|WindowTouchEventFilter
 DECL|class|tst_QTouchEvent
 DECL|class|tst_QTouchEventGraphicsItem
 DECL|class|tst_QTouchEventWidget
@@ -7,6 +8,7 @@ DECL|function|crashInQGraphicsSceneAfterNotHandlingTouchBegin
 DECL|function|deleteInEventHandler
 DECL|function|deleteInRawEventTranslation
 DECL|function|event
+DECL|function|eventFilter
 DECL|function|multiPointRawEventTranslationOnTouchPad
 DECL|function|multiPointRawEventTranslationOnTouchScreen
 DECL|function|normalized
@@ -14,6 +16,8 @@ DECL|function|paint
 DECL|function|reset
 DECL|function|reset
 DECL|function|sceneEvent
+DECL|function|testMultiDevice
+DECL|function|testQGuiAppDelivery
 DECL|function|touchBeginPropagatesWhenIgnored
 DECL|function|touchBeginWithGraphicsWidget
 DECL|function|touchDisabledByDefault
@@ -30,6 +34,7 @@ DECL|member|acceptTouchEnd
 DECL|member|acceptTouchEnd
 DECL|member|acceptTouchUpdate
 DECL|member|acceptTouchUpdate
+DECL|member|d
 DECL|member|deleteInTouchBegin
 DECL|member|deleteInTouchBegin
 DECL|member|deleteInTouchEnd
@@ -37,6 +42,8 @@ DECL|member|deleteInTouchEnd
 DECL|member|deleteInTouchUpdate
 DECL|member|deleteInTouchUpdate
 DECL|member|deviceFromEvent
+DECL|member|lastSeenType
+DECL|member|points
 DECL|member|seenTouchBegin
 DECL|member|seenTouchBegin
 DECL|member|seenTouchEnd
@@ -56,3 +63,4 @@ DECL|member|touchUpdateCounter
 DECL|member|touchUpdatePoints
 DECL|member|touchUpdatePoints
 DECL|member|weakpointer
+DECL|struct|TouchInfo

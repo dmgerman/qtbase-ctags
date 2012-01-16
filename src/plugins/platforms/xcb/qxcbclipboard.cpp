@@ -6,8 +6,8 @@ DECL|function|Notify
 DECL|function|QXcbClipboard
 DECL|function|QXcbClipboardMime
 DECL|function|atomForMode
-DECL|function|check
-DECL|function|check
+DECL|function|checkEvent
+DECL|function|checkEvent
 DECL|function|clipboardReadIncrementalProperty
 DECL|function|clipboardReadProperty
 DECL|function|empty

@@ -26,7 +26,6 @@ DECL|function|accLocation
 DECL|function|accNavigate
 DECL|function|accSelect
 DECL|function|childPointer
-DECL|function|eventString
 DECL|function|get_accChild
 DECL|function|get_accChildCount
 DECL|function|get_accDefaultAction
@@ -45,7 +44,6 @@ DECL|function|handleAccessibleObjectFromWindowRequest
 DECL|function|notifyAccessibilityUpdate
 DECL|function|put_accName
 DECL|function|put_accValue
-DECL|function|roleString
 DECL|function|showDebug
 DECL|function|window_helper
 DECL|function|~QWindowsAccessible

@@ -3,5 +3,8 @@ DECL|function|markRasterOverlay
 DECL|function|markRasterOverlay
 DECL|function|markRasterOverlay
 DECL|function|markRasterOverlay
+DECL|function|markRasterOverlay
+DECL|function|markRasterOverlay
+DECL|function|markRasterOverlay
 DECL|function|unmarkRasterOverlay
 DECL|macro|QPIXMAP_BLITTER_P_H

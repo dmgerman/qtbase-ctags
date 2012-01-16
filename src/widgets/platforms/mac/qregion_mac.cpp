@@ -1,4 +1,1 @@
-DECL|function|fromHIShapeRef
-DECL|function|shape2QRegionHelper
-DECL|function|toHIMutableShape
 DECL|member|shared_empty

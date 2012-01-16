@@ -21,7 +21,6 @@ DECL|function|data
 DECL|function|defineIOHandler
 DECL|function|description
 DECL|function|detach
-DECL|function|detach_helper
 DECL|function|devType
 DECL|function|exec
 DECL|function|fileName

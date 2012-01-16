@@ -6,10 +6,12 @@ DECL|function|_q_endAnimatedOperation
 DECL|function|_q_modelAboutToBeReset
 DECL|function|_q_modelDestroyed
 DECL|function|_q_sortIndicatorChanged
+DECL|function|adjustViewOptionsForIndex
 DECL|function|allColumnsShowFocus
 DECL|function|ancestorOf
 DECL|function|autoExpandDelay
 DECL|function|beginAnimatedOperation
+DECL|function|calcLogicalIndices
 DECL|function|collapse
 DECL|function|collapse
 DECL|function|collapseAll

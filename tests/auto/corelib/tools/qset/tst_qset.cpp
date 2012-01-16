@@ -21,5 +21,3 @@ DECL|function|stlIterator
 DECL|function|stlMutableIterator
 DECL|function|swap
 DECL|function|toNumber
-DECL|function|tst_QSet
-DECL|function|~tst_QSet
