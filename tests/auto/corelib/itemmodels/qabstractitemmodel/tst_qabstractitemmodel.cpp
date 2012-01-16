@@ -1,5 +1,6 @@
 DECL|class|CustomRoleModel
 DECL|class|ListenerObject
+DECL|class|ModelWithCustomRole
 DECL|class|OverrideRoleNamesAndDragActions
 DECL|class|QtTestModel
 DECL|class|SignalArgumentChecker
@@ -10,6 +11,7 @@ DECL|enumerator|UserRole
 DECL|enum|Roles
 DECL|function|CustomRoleModel
 DECL|function|ListenerObject
+DECL|function|ModelWithCustomRole
 DECL|function|OverrideRoleNamesAndDragActions
 DECL|function|QtTestModel
 DECL|function|QtTestModel
