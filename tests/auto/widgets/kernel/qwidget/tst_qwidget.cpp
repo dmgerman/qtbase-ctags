@@ -217,7 +217,6 @@ DECL|function|resizeMe
 DECL|function|resizeUp
 DECL|function|restoreVersion1Geometry
 DECL|function|restoreVersion1Geometry_data
-DECL|function|retainHIView
 DECL|function|saveRestoreGeometry
 DECL|function|scroll
 DECL|function|scrollWithoutBackingStore
