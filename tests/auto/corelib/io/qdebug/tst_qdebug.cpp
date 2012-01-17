@@ -10,7 +10,10 @@ DECL|function|qDebugQStringRef
 DECL|function|veryLongWarningMessage
 DECL|function|warningWithoutDebug
 DECL|function|~MessageHandlerSetter
-DECL|member|oldMsgHandler
+DECL|member|oldMessageHandler
+DECL|variable|s_file
+DECL|variable|s_function
+DECL|variable|s_line
 DECL|variable|s_msg
 DECL|variable|s_msgType
 DECL|variable|tst_QDebug

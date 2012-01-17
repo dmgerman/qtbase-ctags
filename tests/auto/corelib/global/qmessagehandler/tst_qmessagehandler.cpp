@@ -1,0 +1,13 @@
+DECL|class|tst_qmessagehandler
+DECL|function|cleanup
+DECL|function|customMessageHandler
+DECL|function|customMsgHandler
+DECL|function|defaultHandler
+DECL|function|installBothHandler
+DECL|function|installMessageHandler
+DECL|function|installMsgHandler
+DECL|variable|s_file
+DECL|variable|s_function
+DECL|variable|s_line
+DECL|variable|s_message
+DECL|variable|s_type

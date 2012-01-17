@@ -1,9 +1,3 @@
-DECL|enumerator|QtCriticalMsg
-DECL|enumerator|QtDebugMsg
-DECL|enumerator|QtFatalMsg
-DECL|enumerator|QtSystemMsg
-DECL|enumerator|QtWarningMsg
-DECL|enum|QtMsgType
 DECL|function|QFlag
 DECL|function|QIncompatibleFlag
 DECL|function|Q_DECLARE_MOVABLE_CONTAINER
@@ -101,9 +95,7 @@ DECL|macro|QT_NO_LPR
 DECL|macro|QT_NO_PAINT_DEBUG
 DECL|macro|QT_NO_PROCESS
 DECL|macro|QT_NO_PROCESS
-DECL|macro|QT_NO_QDEBUG_MACRO
 DECL|macro|QT_NO_QFUTURE
-DECL|macro|QT_NO_QWARNING_MACRO
 DECL|macro|QT_NO_QWS_MULTIPROCESS
 DECL|macro|QT_NO_QWS_MULTIPROCESS
 DECL|macro|QT_NO_QWS_SHARE_FONTS
@@ -409,9 +401,7 @@ DECL|macro|dynamic_cast
 DECL|macro|for
 DECL|macro|foreach
 DECL|macro|forever
-DECL|macro|qDebug
 DECL|macro|qPrintable
-DECL|macro|qWarning
 DECL|struct|QForeachContainerBase
 DECL|struct|QIntegerForSize
 DECL|struct|QIntegerForSize
@@ -419,7 +409,6 @@ DECL|struct|QIntegerForSize
 DECL|struct|QIntegerForSize
 DECL|typedef|QFunctionPointer
 DECL|typedef|QNoImplicitBoolCast
-DECL|typedef|QtMsgHandler
 DECL|typedef|Signed
 DECL|typedef|Signed
 DECL|typedef|Signed
@@ -453,8 +442,6 @@ DECL|typedef|ushort
 DECL|variable|QBasicAtomicPointer
 DECL|variable|QByteArray
 DECL|variable|QDataStream
-DECL|variable|QDebug
-DECL|variable|QNoDebug
 DECL|variable|QStaticAssertFailure
 DECL|variable|QString
 DECL|variable|QString
