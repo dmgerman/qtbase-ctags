@@ -57,6 +57,7 @@ DECL|function|setMotifWmHints
 DECL|function|setMouseGrabEnabled
 DECL|function|setNetWmState
 DECL|function|setNetWmWindowFlags
+DECL|function|setOrientation
 DECL|function|setParent
 DECL|function|setTransparentForMouseEvents
 DECL|function|setVisible
