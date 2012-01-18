@@ -1,0 +1,1 @@
+DECL|macro|QJSONPARSER_P_H

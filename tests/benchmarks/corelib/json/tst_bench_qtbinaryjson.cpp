@@ -1,0 +1,9 @@
+DECL|class|BenchmarkQtBinaryJson
+DECL|function|BenchmarkQtBinaryJson
+DECL|function|cleanup
+DECL|function|cleanupTestCase
+DECL|function|init
+DECL|function|initTestCase
+DECL|function|parseJson
+DECL|function|parseJsonToVariant
+DECL|function|parseNumbers
