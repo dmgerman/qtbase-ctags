@@ -1,9 +1,10 @@
 DECL|function|QDBusXmlParser
-DECL|function|QDBusXmlParser
-DECL|function|interfaces
-DECL|function|object
-DECL|function|objectTree
-DECL|function|parseAnnotations
-DECL|function|parseArgs
+DECL|function|parseAnnotation
+DECL|function|parseArg
+DECL|function|parseMethod
+DECL|function|parseProperty
+DECL|function|parseSignal
+DECL|function|readInterface
+DECL|function|readNode
 DECL|macro|qDBusParserError
 DECL|macro|qDBusParserError

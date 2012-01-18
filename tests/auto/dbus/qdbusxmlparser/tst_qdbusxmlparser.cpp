@@ -1,8 +1,6 @@
 DECL|class|tst_QDBusXmlParser
 DECL|function|methods
 DECL|function|methods_data
-DECL|function|objectWithContent
-DECL|function|objectWithContent_data
 DECL|function|parsing
 DECL|function|parsingWithDoctype
 DECL|function|parsingWithDoctype_data
