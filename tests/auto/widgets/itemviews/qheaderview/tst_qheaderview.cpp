@@ -3,6 +3,7 @@ DECL|class|SimpleModel
 DECL|class|protected_QHeaderView
 DECL|class|tst_QHeaderView
 DECL|function|QTBUG12268_hiddenMovedSectionSorting
+DECL|function|QTBUG14242_hideSectionAutoSize
 DECL|function|QTBUG6058_reset
 DECL|function|QTBUG7833_sectionClicked
 DECL|function|QTBUG8650_crashOnInsertSections
