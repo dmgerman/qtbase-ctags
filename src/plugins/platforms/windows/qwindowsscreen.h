@@ -4,6 +4,7 @@ DECL|member|depth
 DECL|member|dpi
 DECL|member|format
 DECL|member|geometry
+DECL|member|name
 DECL|member|physicalSizeMM
 DECL|member|primary
 DECL|struct|QWindowsScreenData
