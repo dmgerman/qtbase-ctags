@@ -2,7 +2,6 @@ DECL|function|activateCallbacks
 DECL|function|fromstrerror_helper
 DECL|function|fromstrerror_helper
 DECL|function|macVersion
-DECL|function|mac_default_handler
 DECL|function|qBadAlloc
 DECL|function|qCritical
 DECL|function|qDebug
