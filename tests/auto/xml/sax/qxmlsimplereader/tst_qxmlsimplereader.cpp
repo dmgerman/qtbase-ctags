@@ -9,6 +9,7 @@ DECL|function|findXmlFiles
 DECL|function|fromByteArray
 DECL|function|idsInParseException1
 DECL|function|idsInParseException2
+DECL|function|initTestCase
 DECL|function|inputFromQIODevice
 DECL|function|inputFromSocket
 DECL|function|inputFromSocket_data
@@ -30,6 +31,7 @@ DECL|function|warning
 DECL|function|~tst_QXmlSimpleReader
 DECL|macro|CHUNK_SIZE
 DECL|macro|TEST_PORT
+DECL|member|prefix
 DECL|member|publicId
 DECL|member|quit_soon
 DECL|member|server
