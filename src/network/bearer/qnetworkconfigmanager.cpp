@@ -3,7 +3,6 @@ DECL|function|addPostRoutine
 DECL|function|allConfigurations
 DECL|function|capabilities
 DECL|function|configurationFromIdentifier
-DECL|function|connManager
 DECL|function|connManager_cleanup
 DECL|function|defaultConfiguration
 DECL|function|isOnline
