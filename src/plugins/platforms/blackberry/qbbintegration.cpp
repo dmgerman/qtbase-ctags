@@ -1,0 +1,17 @@
+DECL|function|QBBIntegration
+DECL|function|addWindow
+DECL|function|clipboard
+DECL|function|createPlatformBackingStore
+DECL|function|createPlatformOpenGLContext
+DECL|function|createPlatformWindow
+DECL|function|guiThreadEventDispatcher
+DECL|function|hasCapability
+DECL|function|inputContext
+DECL|function|moveToScreen
+DECL|function|removeWindow
+DECL|function|screens
+DECL|function|styleHint
+DECL|function|window
+DECL|function|~QBBIntegration
+DECL|member|ms_windowMapper
+DECL|member|ms_windowMapperMutex

@@ -1,0 +1,14 @@
+DECL|function|QBBGLContext
+DECL|function|checkEGLError
+DECL|function|contextAttrs
+DECL|function|createSurface
+DECL|function|destroySurface
+DECL|function|doneCurrent
+DECL|function|getProcAddress
+DECL|function|initialize
+DECL|function|isCurrent
+DECL|function|makeCurrent
+DECL|function|shutdown
+DECL|function|swapBuffers
+DECL|function|~QBBGLContext
+DECL|member|ms_eglDisplay

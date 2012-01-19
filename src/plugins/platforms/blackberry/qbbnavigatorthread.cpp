@@ -1,0 +1,10 @@
+DECL|function|QBBNavigatorThread
+DECL|function|handleMessage
+DECL|function|parsePPS
+DECL|function|readData
+DECL|function|replyPPS
+DECL|function|run
+DECL|function|shutdown
+DECL|function|~QBBNavigatorThread
+DECL|variable|navigatorControlPath
+DECL|variable|ppsBufferSize
