@@ -10,6 +10,7 @@ DECL|function|child
 DECL|function|childCount
 DECL|function|childWidgets
 DECL|function|doAction
+DECL|function|focusChild
 DECL|function|foregroundColor
 DECL|function|indexOfChild
 DECL|function|interface_cast

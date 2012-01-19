@@ -20,7 +20,6 @@ DECL|function|isValid
 DECL|function|keyBindingsForAction
 DECL|function|menu
 DECL|function|menuBar
-DECL|function|navigate
 DECL|function|object
 DECL|function|owner
 DECL|function|parent
