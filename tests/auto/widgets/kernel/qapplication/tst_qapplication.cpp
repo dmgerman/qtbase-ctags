@@ -33,8 +33,7 @@ DECL|function|closeEvent
 DECL|function|cstrings2QString
 DECL|function|deleteLaterAndEnterLoop
 DECL|function|deleteLaterAndExitLoop
-DECL|function|deleteLaterAndProcessEvents1
-DECL|function|deleteLaterAndProcessEvents2
+DECL|function|deleteLaterAndProcessEvents
 DECL|function|desktopSettingsAware
 DECL|function|doTest
 DECL|function|event
@@ -60,7 +59,6 @@ DECL|function|multiple_data
 DECL|function|nonGui
 DECL|function|ok_clicked
 DECL|function|processEventsOnly
-DECL|function|processEventsWithDeferredDeletion
 DECL|function|qtbug_12673
 DECL|function|quitOnLastWindowClosed
 DECL|function|reset
