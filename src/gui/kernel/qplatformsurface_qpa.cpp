@@ -1,2 +1,2 @@
 DECL|function|QPlatformSurface
-DECL|function|surfaceType
+DECL|function|surfaceClass

@@ -1,2 +1,2 @@
 DECL|function|QSurface
-DECL|function|surfaceType
+DECL|function|surfaceClass
