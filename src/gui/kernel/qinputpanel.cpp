@@ -10,6 +10,8 @@ DECL|function|invokeAction
 DECL|function|isAnimating
 DECL|function|keyboardRectangle
 DECL|function|locale
+DECL|function|q_checkFocusObject
+DECL|function|q_connectFocusObject
 DECL|function|reset
 DECL|function|setInputItem
 DECL|function|setInputItemTransform

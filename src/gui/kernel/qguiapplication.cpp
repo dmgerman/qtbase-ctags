@@ -12,6 +12,7 @@ DECL|function|currentKeyPlatform
 DECL|function|emitLastWindowClosed
 DECL|function|event
 DECL|function|exec
+DECL|function|focusObject
 DECL|function|focusWindow
 DECL|function|font
 DECL|function|getPixmapCursor
