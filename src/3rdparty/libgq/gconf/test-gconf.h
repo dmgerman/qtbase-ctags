@@ -1,1 +1,0 @@
-DECL|macro|QVERIFY_TIMEOUT
