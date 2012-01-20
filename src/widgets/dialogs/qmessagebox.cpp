@@ -65,6 +65,7 @@ DECL|function|layoutMinimumWidth
 DECL|function|newButton
 DECL|function|oldButton
 DECL|function|open
+DECL|function|qt_getWindowsSystemMenu
 DECL|function|question
 DECL|function|question
 DECL|function|question
