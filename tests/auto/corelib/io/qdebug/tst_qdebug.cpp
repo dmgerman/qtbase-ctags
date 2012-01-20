@@ -3,7 +3,7 @@ DECL|class|tst_QDebug
 DECL|function|MessageHandlerSetter
 DECL|function|assignment
 DECL|function|criticalWithoutDebug
-DECL|function|debugWithQBool
+DECL|function|debugWithBool
 DECL|function|defaultMessagehandler
 DECL|function|myMessageHandler
 DECL|function|qDebugQStringRef

@@ -12,12 +12,6 @@ DECL|enum|QtMsgType
 DECL|function|QFlag
 DECL|function|QIncompatibleFlag
 DECL|function|QT_LICENSED_MODULE
-DECL|function|operator
-DECL|function|operator
-DECL|function|operator
-DECL|function|operator
-DECL|function|operator
-DECL|function|operator
 DECL|function|qAbs
 DECL|function|qBound
 DECL|function|qForeachContainer
