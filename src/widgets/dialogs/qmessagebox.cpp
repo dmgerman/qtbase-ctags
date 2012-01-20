@@ -93,7 +93,6 @@ DECL|function|showNewMessageBox
 DECL|function|showOldMessageBox
 DECL|function|showOldMessageBox
 DECL|function|sizeHint
-DECL|function|sizeHint
 DECL|function|standardButton
 DECL|function|standardButtons
 DECL|function|standardIcon
