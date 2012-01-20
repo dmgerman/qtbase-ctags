@@ -31,6 +31,7 @@ DECL|function|resolveTimerAPI
 DECL|function|run
 DECL|function|safeRemove
 DECL|function|select
+DECL|function|sendPostedEvents
 DECL|function|sendTimerEvent
 DECL|function|startingUp
 DECL|function|unregisterEventNotifier

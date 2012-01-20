@@ -2,6 +2,7 @@ DECL|function|QWindowsGuiEventDispatcher
 DECL|function|currentDispatchContext
 DECL|function|messageDebugEntry
 DECL|function|processEvents
+DECL|function|sendPostedEvents
 DECL|function|windowsMessageName
 DECL|function|~QWindowsGuiEventDispatcher
 DECL|member|description
