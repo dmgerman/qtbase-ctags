@@ -3,6 +3,7 @@ DECL|class|Window
 DECL|class|tst_QWindow
 DECL|function|InputTestWindow
 DECL|function|Window
+DECL|function|close
 DECL|function|event
 DECL|function|initTestCase
 DECL|function|isActive
