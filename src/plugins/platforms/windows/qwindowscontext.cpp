@@ -23,6 +23,7 @@ DECL|function|registerWindowClass
 DECL|function|registerWindowClass
 DECL|function|removeWindow
 DECL|function|screenDepth
+DECL|function|screenManager
 DECL|function|setKeyGrabber
 DECL|function|setWindowCreationContext
 DECL|function|systemInfo
@@ -42,6 +43,7 @@ DECL|member|m_mimeConverter
 DECL|member|m_mouseHandler
 DECL|member|m_oleInitializeResult
 DECL|member|m_registeredWindowClassNames
+DECL|member|m_screenManager
 DECL|member|m_systemInfo
 DECL|member|m_windows
 DECL|member|shell32dll
