@@ -1,3 +1,6 @@
+DECL|enumerator|EventFilterTypeCount
+DECL|enumerator|GenericWindowsEventFilter
+DECL|enum|EventFilterType
 DECL|function|QWindowsContext
 DECL|function|QWindowsContextPrivate
 DECL|function|QWindowsShell32DLL
@@ -24,6 +27,7 @@ DECL|function|registerWindowClass
 DECL|function|removeWindow
 DECL|function|screenDepth
 DECL|function|screenManager
+DECL|function|setEventFilter
 DECL|function|setKeyGrabber
 DECL|function|setWindowCreationContext
 DECL|function|systemInfo
@@ -37,6 +41,7 @@ DECL|macro|LANG_SYRIAC
 DECL|member|m_creationContext
 DECL|member|m_defaultDPI
 DECL|member|m_displayContext
+DECL|member|m_eventFilters
 DECL|member|m_instance
 DECL|member|m_keyMapper
 DECL|member|m_mimeConverter
@@ -58,4 +63,5 @@ DECL|member|verboseIntegration
 DECL|member|verboseOLE
 DECL|member|verboseWindows
 DECL|struct|QWindowsContextPrivate
+DECL|typedef|EventFilter
 DECL|typedef|HandleBaseWindowHash
