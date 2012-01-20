@@ -3,6 +3,7 @@ DECL|function|QOpenSslLocks
 DECL|function|QSslCipher_from_SSL_CIPHER
 DECL|function|QSslSocketBackendPrivate
 DECL|function|_q_OpenSSL_to_QSslError
+DECL|function|continueHandshake
 DECL|function|deinitialize
 DECL|function|disconnectFromHost
 DECL|function|disconnected
