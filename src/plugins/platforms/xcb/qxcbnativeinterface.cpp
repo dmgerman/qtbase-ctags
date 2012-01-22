@@ -1,10 +1,10 @@
 DECL|class|QXcbResourceMap
+DECL|function|QXcbNativeInterface
 DECL|function|QXcbResourceMap
 DECL|function|connectionForWindow
 DECL|function|displayForWindow
 DECL|function|eglContextForContext
 DECL|function|eglDisplayForWindow
-DECL|function|eventFilterForEventType
 DECL|function|graphicsDeviceForWindow
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
