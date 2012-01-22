@@ -35,7 +35,6 @@ DECL|macro|QLOCALE_P_H
 DECL|member|public
 DECL|struct|QLocalePrivate
 DECL|typedef|CharBuff
-DECL|variable|CEnvironmentChangeNotifier
 DECL|variable|m_alternate_quotation_end
 DECL|variable|m_alternate_quotation_start
 DECL|variable|m_am_idx

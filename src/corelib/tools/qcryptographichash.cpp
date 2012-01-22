@@ -7,7 +7,6 @@ DECL|function|hash
 DECL|function|reset
 DECL|function|result
 DECL|function|~QCryptographicHash
-DECL|macro|_MD5_H_
 DECL|member|md4Context
 DECL|member|md5Context
 DECL|member|method
