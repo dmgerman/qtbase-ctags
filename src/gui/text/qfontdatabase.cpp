@@ -101,7 +101,6 @@ DECL|member|familyIndex
 DECL|member|fileName
 DECL|member|fixedPitch
 DECL|member|fixedPitchComputed
-DECL|member|fontStoreFontFileUid
 DECL|member|foundries
 DECL|member|foundry
 DECL|member|handle
@@ -114,7 +113,6 @@ DECL|member|pitch
 DECL|member|pixelSize
 DECL|member|pixelSizes
 DECL|member|reregisterAppFonts
-DECL|member|screenDeviceFontFileId
 DECL|member|signatures
 DECL|member|size
 DECL|member|smoothScalable
@@ -123,7 +121,6 @@ DECL|member|style
 DECL|member|style
 DECL|member|styleName
 DECL|member|styles
-DECL|member|temporaryFileName
 DECL|member|weight
 DECL|member|writingSystems
 DECL|member|xpoint
