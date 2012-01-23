@@ -1,1 +1,0 @@
-DECL|macro|QLINECONTROL_P_H
