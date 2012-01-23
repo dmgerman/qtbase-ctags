@@ -1,0 +1,9 @@
+DECL|function|call_with_args
+DECL|function|emit_do_imm
+DECL|function|emit_x86_instruction
+DECL|function|generate_far_jump_code
+DECL|function|sljit_emit_enter
+DECL|function|sljit_emit_fast_enter
+DECL|function|sljit_emit_fast_return
+DECL|function|sljit_emit_return
+DECL|function|sljit_set_context

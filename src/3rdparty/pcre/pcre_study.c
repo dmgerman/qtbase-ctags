@@ -1,0 +1,12 @@
+DECL|enumerator|SSB_CONTINUE
+DECL|enumerator|SSB_DONE
+DECL|enumerator|SSB_FAIL
+DECL|enumerator|SSB_UNKNOWN
+DECL|function|find_minlength
+DECL|function|pcre_free_study
+DECL|function|pcre_study
+DECL|function|set_nottype_bits
+DECL|function|set_start_bits
+DECL|function|set_table_bit
+DECL|function|set_type_bits
+DECL|macro|SET_BIT

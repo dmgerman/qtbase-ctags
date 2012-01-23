@@ -1,0 +1,2 @@
+DECL|function|pcre16_utf16_to_host_byte_order
+DECL|macro|COMPILE_PCRE16

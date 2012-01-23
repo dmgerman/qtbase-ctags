@@ -1,0 +1,10 @@
+DECL|function|get_first_set
+DECL|function|pcre_copy_named_substring
+DECL|function|pcre_copy_substring
+DECL|function|pcre_free_substring
+DECL|function|pcre_free_substring_list
+DECL|function|pcre_get_named_substring
+DECL|function|pcre_get_stringnumber
+DECL|function|pcre_get_stringtable_entries
+DECL|function|pcre_get_substring
+DECL|function|pcre_get_substring_list
