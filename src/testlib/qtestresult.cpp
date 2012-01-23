@@ -4,6 +4,7 @@ DECL|function|checkStatement
 DECL|function|clearExpectFail
 DECL|function|compare
 DECL|function|compare
+DECL|function|currentAppname
 DECL|function|currentDataTag
 DECL|function|currentGlobalDataTag
 DECL|function|currentGlobalTestData
@@ -16,6 +17,7 @@ DECL|function|expectFail
 DECL|function|finishedCurrentTestFunction
 DECL|function|isExpectFailData
 DECL|function|reset
+DECL|function|setCurrentAppname
 DECL|function|setCurrentGlobalTestData
 DECL|function|setCurrentTestData
 DECL|function|setCurrentTestFunction
@@ -25,6 +27,7 @@ DECL|function|setSkipCurrentTest
 DECL|function|skipCurrentTest
 DECL|function|testFailed
 DECL|function|verify
+DECL|member|currentAppname
 DECL|member|currentGlobalTestData
 DECL|member|currentTestData
 DECL|member|currentTestFunc

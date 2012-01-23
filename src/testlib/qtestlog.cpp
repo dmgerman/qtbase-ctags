@@ -29,6 +29,7 @@ DECL|function|outputString
 DECL|function|passCount
 DECL|function|printUnhandledIgnoreMessages
 DECL|function|resetCounters
+DECL|function|saveCoverageTool
 DECL|function|setMaxWarnings
 DECL|function|setPrintAvailableTagsMode
 DECL|function|setVerboseLevel
