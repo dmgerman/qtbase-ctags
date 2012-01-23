@@ -6,10 +6,8 @@ DECL|function|drives
 DECL|function|fileFlags
 DECL|function|fileName
 DECL|function|fileTime
-DECL|function|getMapHandle
 DECL|function|homePath
 DECL|function|isRelativePath
-DECL|function|isRelativePathSymbian
 DECL|function|isSymlink
 DECL|function|link
 DECL|function|map
@@ -19,14 +17,12 @@ DECL|function|nativeFlush
 DECL|function|nativeHandle
 DECL|function|nativeIsSequential
 DECL|function|nativeOpen
-DECL|function|nativeOpen
 DECL|function|nativePos
 DECL|function|nativeRead
 DECL|function|nativeReadLine
 DECL|function|nativeSeek
 DECL|function|nativeSize
 DECL|function|nativeWrite
-DECL|function|open
 DECL|function|openModeToFopenMode
 DECL|function|openModeToOpenFlags
 DECL|function|owner
@@ -38,7 +34,6 @@ DECL|function|rootPath
 DECL|function|setCloseOnExec
 DECL|function|setCurrentPath
 DECL|function|setPermissions
-DECL|function|setSize
 DECL|function|setSize
 DECL|function|tempPath
 DECL|function|unmap

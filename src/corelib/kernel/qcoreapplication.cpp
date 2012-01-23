@@ -18,7 +18,6 @@ DECL|function|arguments
 DECL|function|argv
 DECL|function|checkInstance
 DECL|function|checkReceiverThread
-DECL|function|checkReceiverThread
 DECL|function|cleanupThreadData
 DECL|function|closingDown
 DECL|function|compressEvent
@@ -52,8 +51,6 @@ DECL|function|qGlobalPostedEventsCount
 DECL|function|qRemovePostRoutine
 DECL|function|qtTrId
 DECL|function|qt_call_post_routines
-DECL|function|qt_cleanup_apa_cmd_line
-DECL|function|qt_init_symbian_apa_arguments
 DECL|function|qt_register_signal_spy_callbacks
 DECL|function|qt_startup_hook
 DECL|function|quit
@@ -76,8 +73,6 @@ DECL|function|setLibraryPaths
 DECL|function|setOrganizationDomain
 DECL|function|setOrganizationName
 DECL|function|startingUp
-DECL|function|symbianCommandLine
-DECL|function|symbianInit
 DECL|function|testAttribute
 DECL|function|translate
 DECL|function|unlock
@@ -100,11 +95,6 @@ DECL|member|self
 DECL|member|theMainThread
 DECL|struct|QCoreApplicationData
 DECL|typedef|QVFuncList
-DECL|typedef|SystemDriveFunc
-DECL|variable|PtrGetSystemDrive
-DECL|variable|apaArgv
-DECL|variable|apaCommandLine
-DECL|variable|apaTail
 DECL|variable|qt_application_thread_id
 DECL|variable|qt_locale_initialized
 DECL|variable|qt_signal_spy_callback_set

@@ -1,5 +1,3 @@
 DECL|macro|QCOREAPPLICATION_P_H
 DECL|typedef|QTranslatorList
-DECL|variable|CApaCommandLine
 DECL|variable|QAbstractEventDispatcher
-DECL|variable|QEnvironmentChangeNotifier

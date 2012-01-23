@@ -12,4 +12,3 @@ DECL|variable|QTimer
 DECL|variable|QWinEventNotifier
 DECL|variable|QWindowsPipeReader
 DECL|variable|QWindowsPipeWriter
-DECL|variable|RProcess
