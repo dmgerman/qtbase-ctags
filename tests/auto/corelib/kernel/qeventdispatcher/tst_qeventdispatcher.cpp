@@ -3,6 +3,7 @@ DECL|enumerator|CoarseTimerInterval
 DECL|enumerator|PreciseTimerInterval
 DECL|enumerator|VeryCoarseTimerInterval
 DECL|function|event
+DECL|function|initTestCase
 DECL|function|registerTimer
 DECL|function|sendPostedEvents
 DECL|function|tst_QEventDispatcher
