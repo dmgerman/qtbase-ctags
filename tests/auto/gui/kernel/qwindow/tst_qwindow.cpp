@@ -9,6 +9,7 @@ DECL|function|isActive
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
 DECL|function|mapGlobal
+DECL|function|mouseMoveEvent
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|mouseToTouchLoop
@@ -24,7 +25,10 @@ DECL|member|ignoreTouch
 DECL|member|keyPressCode
 DECL|member|keyReleaseCode
 DECL|member|m_received
+DECL|member|mouseMoveButton
+DECL|member|mouseMoveScreenPos
 DECL|member|mousePressButton
+DECL|member|mousePressScreenPos
 DECL|member|mouseReleaseButton
 DECL|member|touchDevice
 DECL|member|touchPressedCount

@@ -72,6 +72,7 @@ DECL|member|app_pal
 DECL|member|buttons
 DECL|member|focus_window
 DECL|member|generic_plugin_list
+DECL|member|m_fakeMouseSourcePointId
 DECL|member|m_fakeTouchDevice
 DECL|member|modifier_buttons
 DECL|member|mousePressButton
