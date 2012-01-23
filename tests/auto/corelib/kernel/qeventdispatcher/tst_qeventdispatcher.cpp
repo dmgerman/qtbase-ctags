@@ -1,0 +1,13 @@
+DECL|class|tst_QEventDispatcher
+DECL|enumerator|CoarseTimerInterval
+DECL|enumerator|PreciseTimerInterval
+DECL|enumerator|VeryCoarseTimerInterval
+DECL|function|event
+DECL|function|registerTimer
+DECL|function|sendPostedEvents
+DECL|function|tst_QEventDispatcher
+DECL|macro|FIND_TIMERS
+DECL|macro|FIND_TIMERS
+DECL|member|eventDispatcher
+DECL|member|receivedEventType
+DECL|member|timerIdFromEvent
