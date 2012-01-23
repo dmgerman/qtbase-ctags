@@ -131,7 +131,6 @@ DECL|function|~QColorDialog
 DECL|function|~QColorLuminancePicker
 DECL|function|~QColorPicker
 DECL|function|~QWellArray
-DECL|macro|QT_SMALL_COLORDIALOG
 DECL|member|alphaEd
 DECL|member|alphaLab
 DECL|member|bEd
