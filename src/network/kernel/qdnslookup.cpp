@@ -1,0 +1,67 @@
+DECL|function|QDnsDomainNameRecord
+DECL|function|QDnsDomainNameRecord
+DECL|function|QDnsHostAddressRecord
+DECL|function|QDnsHostAddressRecord
+DECL|function|QDnsLookup
+DECL|function|QDnsLookup
+DECL|function|QDnsLookupThreadPool
+DECL|function|QDnsMailExchangeRecord
+DECL|function|QDnsMailExchangeRecord
+DECL|function|QDnsServiceRecord
+DECL|function|QDnsServiceRecord
+DECL|function|QDnsTextRecord
+DECL|function|QDnsTextRecord
+DECL|function|_q_applicationDestroyed
+DECL|function|_q_lookupFinished
+DECL|function|abort
+DECL|function|canonicalNameRecords
+DECL|function|error
+DECL|function|errorString
+DECL|function|exchange
+DECL|function|hostAddressRecords
+DECL|function|isFinished
+DECL|function|lookup
+DECL|function|mailExchangeRecords
+DECL|function|name
+DECL|function|name
+DECL|function|name
+DECL|function|name
+DECL|function|name
+DECL|function|name
+DECL|function|nameServerRecords
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|pointerRecords
+DECL|function|port
+DECL|function|preference
+DECL|function|priority
+DECL|function|qt_qdnsmailexchangerecord_less_than
+DECL|function|qt_qdnsmailexchangerecord_sort
+DECL|function|qt_qdnsservicerecord_less_than
+DECL|function|qt_qdnsservicerecord_sort
+DECL|function|run
+DECL|function|serviceRecords
+DECL|function|setName
+DECL|function|setType
+DECL|function|start
+DECL|function|target
+DECL|function|textRecords
+DECL|function|timeToLive
+DECL|function|timeToLive
+DECL|function|timeToLive
+DECL|function|timeToLive
+DECL|function|timeToLive
+DECL|function|type
+DECL|function|value
+DECL|function|value
+DECL|function|values
+DECL|function|weight
+DECL|function|~QDnsDomainNameRecord
+DECL|function|~QDnsHostAddressRecord
+DECL|function|~QDnsLookup
+DECL|function|~QDnsMailExchangeRecord
+DECL|function|~QDnsServiceRecord
+DECL|function|~QDnsTextRecord
