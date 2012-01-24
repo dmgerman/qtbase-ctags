@@ -1,6 +1,6 @@
 DECL|class|InputItem
 DECL|class|PlatformInputContext
-DECL|class|tst_qinputpanel
+DECL|class|tst_qinputmethod
 DECL|function|PlatformInputContext
 DECL|function|animating
 DECL|function|commit
@@ -25,11 +25,11 @@ DECL|function|query
 DECL|function|reset
 DECL|function|reset
 DECL|function|showInputPanel
-DECL|function|tst_qinputpanel
+DECL|function|tst_qinputmethod
 DECL|function|update
 DECL|function|update
 DECL|function|visible
-DECL|function|~tst_qinputpanel
+DECL|function|~tst_qinputmethod
 DECL|member|m_action
 DECL|member|m_animating
 DECL|member|m_commitCallCount

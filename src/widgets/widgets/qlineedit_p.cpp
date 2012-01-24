@@ -10,7 +10,7 @@ DECL|function|adjustedControlRect
 DECL|function|cursorRect
 DECL|function|drag
 DECL|function|init
-DECL|function|resetInputPanel
+DECL|function|resetInputMethod
 DECL|function|sendMouseEventToInputContext
 DECL|function|setCursorVisible
 DECL|function|updatePasswordEchoEditing

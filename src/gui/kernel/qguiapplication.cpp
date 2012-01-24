@@ -20,6 +20,7 @@ DECL|function|getPixmapCursor
 DECL|function|init
 DECL|function|init_platform
 DECL|function|init_plugins
+DECL|function|inputMethod
 DECL|function|inputPanel
 DECL|function|keyboardModifiers
 DECL|function|layoutDirection

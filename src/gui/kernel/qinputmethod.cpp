@@ -1,4 +1,4 @@
-DECL|function|QInputPanel
+DECL|function|QInputMethod
 DECL|function|commit
 DECL|function|cursorRectangle
 DECL|function|hide
@@ -19,4 +19,4 @@ DECL|function|setVisible
 DECL|function|show
 DECL|function|update
 DECL|function|visible
-DECL|function|~QInputPanel
+DECL|function|~QInputMethod
