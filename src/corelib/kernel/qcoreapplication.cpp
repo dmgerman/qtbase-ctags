@@ -13,9 +13,7 @@ DECL|function|applicationFilePath
 DECL|function|applicationName
 DECL|function|applicationPid
 DECL|function|applicationVersion
-DECL|function|argc
 DECL|function|arguments
-DECL|function|argv
 DECL|function|checkInstance
 DECL|function|checkReceiverThread
 DECL|function|cleanupThreadData

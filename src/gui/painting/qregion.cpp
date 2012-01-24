@@ -72,7 +72,6 @@ DECL|function|miSubtractNonO1
 DECL|function|miSubtractO
 DECL|function|miUnionNonO
 DECL|function|miUnionO
-DECL|function|numRects
 DECL|function|operator &
 DECL|function|operator &
 DECL|function|operator &=
