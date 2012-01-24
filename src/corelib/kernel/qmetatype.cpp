@@ -13,6 +13,7 @@ DECL|function|Destruct
 DECL|function|Flags
 DECL|function|Flags
 DECL|function|Flags
+DECL|function|QCustomTypeInfo
 DECL|function|Size
 DECL|function|Size
 DECL|function|SizeOf
@@ -26,6 +27,7 @@ DECL|function|customTypeDestroyer
 DECL|function|customTypeDestructor
 DECL|function|customTypeFlags
 DECL|function|customTypeSizeOf
+DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
@@ -55,7 +57,6 @@ DECL|function|sizeOf
 DECL|function|type
 DECL|function|typeFlags
 DECL|function|typeName
-DECL|function|undefinedTypeFlags
 DECL|macro|NS
 DECL|macro|QT_ADD_STATIC_METATYPE
 DECL|macro|QT_ADD_STATIC_METATYPE_ALIASES_ITER
