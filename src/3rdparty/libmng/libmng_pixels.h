@@ -1,1 +1,0 @@
-DECL|macro|_libmng_pixels_h_
