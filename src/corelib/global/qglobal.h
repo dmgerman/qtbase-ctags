@@ -1,8 +1,3 @@
-DECL|enumerator|Q_COMPLEX_TYPE
-DECL|enumerator|Q_DUMMY_TYPE
-DECL|enumerator|Q_MOVABLE_TYPE
-DECL|enumerator|Q_PRIMITIVE_TYPE
-DECL|enumerator|Q_STATIC_TYPE
 DECL|enumerator|QtCriticalMsg
 DECL|enumerator|QtDebugMsg
 DECL|enumerator|QtFatalMsg
@@ -11,6 +6,7 @@ DECL|enumerator|QtWarningMsg
 DECL|enum|QtMsgType
 DECL|function|QFlag
 DECL|function|QIncompatibleFlag
+DECL|function|Q_DECLARE_MOVABLE_CONTAINER
 DECL|function|qAbs
 DECL|function|qBound
 DECL|function|qForeachContainer
@@ -227,6 +223,8 @@ DECL|macro|Q_DECLARATIVE_EXPORT
 DECL|macro|Q_DECLARE_FLAGS
 DECL|macro|Q_DECLARE_FLAGS
 DECL|macro|Q_DECLARE_INCOMPATIBLE_FLAGS
+DECL|macro|Q_DECLARE_MOVABLE_CONTAINER
+DECL|macro|Q_DECLARE_MOVABLE_CONTAINER
 DECL|macro|Q_DECLARE_OPERATORS_FOR_FLAGS
 DECL|macro|Q_DECLARE_OPERATORS_FOR_FLAGS
 DECL|macro|Q_DECLARE_PRIVATE
