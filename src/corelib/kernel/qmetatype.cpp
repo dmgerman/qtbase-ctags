@@ -31,7 +31,6 @@ DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
-DECL|function|delegate
 DECL|function|destroy
 DECL|function|destruct
 DECL|function|isRegistered

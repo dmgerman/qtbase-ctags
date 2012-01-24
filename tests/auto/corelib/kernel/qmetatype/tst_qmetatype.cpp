@@ -5,8 +5,6 @@ DECL|class|MetaTypeTorturer
 DECL|class|RegUnreg
 DECL|class|tst_QMetaType
 DECL|enumerator|IsInitialized
-DECL|enumerator|Size
-DECL|enumerator|Size
 DECL|enumerator|V1
 DECL|enumerator|V2
 DECL|enumerator|V3
@@ -142,8 +140,6 @@ DECL|struct|Foo
 DECL|struct|Foo
 DECL|struct|MetaEnumToType
 DECL|struct|RoundToNextHighestPowerOfTwo
-DECL|struct|SafeSizeOf
-DECL|struct|SafeSizeOf
 DECL|struct|SecondBase
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
