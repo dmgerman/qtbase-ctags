@@ -19,6 +19,7 @@ DECL|function|beginRemoveColumns
 DECL|function|beginRemoveRows
 DECL|function|beginResetModel
 DECL|function|buddy
+DECL|function|canDropMimeData
 DECL|function|canFetchMore
 DECL|function|changePersistentIndex
 DECL|function|changePersistentIndexList

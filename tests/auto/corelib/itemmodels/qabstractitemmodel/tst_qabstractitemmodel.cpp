@@ -16,6 +16,8 @@ DECL|function|OverrideRoleNamesAndDragActions
 DECL|function|QtTestModel
 DECL|function|QtTestModel
 DECL|function|SignalArgumentChecker
+DECL|function|canDropMimeData
+DECL|function|canDropMimeData
 DECL|function|changePersistentIndex
 DECL|function|cleanup
 DECL|function|columnCount
