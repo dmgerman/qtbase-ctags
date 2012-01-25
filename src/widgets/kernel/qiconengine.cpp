@@ -2,7 +2,6 @@ DECL|function|actualSize
 DECL|function|addFile
 DECL|function|addPixmap
 DECL|function|availableSizes
-DECL|function|clone
 DECL|function|iconName
 DECL|function|key
 DECL|function|pixmap
