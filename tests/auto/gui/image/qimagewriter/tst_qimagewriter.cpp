@@ -5,11 +5,6 @@ DECL|function|getSetCheck
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|initializePadding
-DECL|function|largeTiff
-DECL|function|readWriteNonDestructive
-DECL|function|readWriteNonDestructive_data
-DECL|function|resolution
-DECL|function|resolution_data
 DECL|function|saveToTemporaryFile
 DECL|function|saveWithNoFormat
 DECL|function|saveWithNoFormat_data
@@ -23,6 +18,7 @@ DECL|function|writeImage2_data
 DECL|function|writeImage_data
 DECL|function|writeToInvalidDevice
 DECL|function|~tst_QImageWriter
+DECL|macro|SKIP_IF_UNSUPPORTED
 DECL|member|prefix
 DECL|typedef|QIntList
 DECL|typedef|QStringMap

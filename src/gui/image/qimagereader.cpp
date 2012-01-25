@@ -8,7 +8,6 @@ DECL|enumerator|_qt_PbmFormat
 DECL|enumerator|_qt_PgmFormat
 DECL|enumerator|_qt_PngFormat
 DECL|enumerator|_qt_PpmFormat
-DECL|enumerator|_qt_TifFormat
 DECL|enumerator|_qt_XbmFormat
 DECL|enumerator|_qt_XpmFormat
 DECL|enum|_qt_BuiltInFormatType

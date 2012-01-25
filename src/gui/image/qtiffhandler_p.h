@@ -1,1 +1,0 @@
-DECL|macro|QTIFFHANDLER_P_H
