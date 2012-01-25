@@ -160,6 +160,7 @@ DECL|function|toHex
 DECL|function|toLocalFile
 DECL|function|toPercentEncoding
 DECL|function|toPercentEncodingHelper
+DECL|function|toPrettyPercentEncoding
 DECL|function|toPunycode
 DECL|function|toPunycodeHelper
 DECL|function|toString
