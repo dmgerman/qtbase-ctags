@@ -51,7 +51,6 @@ DECL|macro|TMT_ENUM
 DECL|macro|TMT_ENUMDEF
 DECL|macro|TMT_ENUMVAL
 DECL|member|handleMap
-DECL|member|limboWidget
 DECL|member|propName
 DECL|member|propType
 DECL|member|propValue
