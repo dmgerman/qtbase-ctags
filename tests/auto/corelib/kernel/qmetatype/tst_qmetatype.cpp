@@ -188,3 +188,11 @@ DECL|typedef|CustomString
 DECL|typedef|Type
 DECL|typedef|Type
 DECL|typedef|TypeTestFunction
+DECL|typedef|UndefinedFunction0
+DECL|typedef|UndefinedFunction1
+DECL|typedef|UndefinedFunction2
+DECL|typedef|UndefinedFunction3
+DECL|variable|UndefinedFunction0
+DECL|variable|UndefinedFunction1
+DECL|variable|UndefinedFunction2
+DECL|variable|UndefinedFunction3
