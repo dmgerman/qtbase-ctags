@@ -68,7 +68,6 @@ DECL|function|equal
 DECL|function|errorString
 DECL|function|fragment
 DECL|function|fromAce
-DECL|function|fromEncoded
 DECL|function|fromLocalFile
 DECL|function|fromPercentEncoding
 DECL|function|fromPercentEncodingHelper
@@ -165,6 +164,7 @@ DECL|function|toPunycode
 DECL|function|toPunycodeHelper
 DECL|function|toString
 DECL|function|topLevelDomain
+DECL|function|url
 DECL|function|userInfo
 DECL|function|userInfo
 DECL|function|userName
