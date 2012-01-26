@@ -10,6 +10,7 @@ DECL|function|cleanup
 DECL|function|create
 DECL|function|currentContext
 DECL|function|currentContextGroup
+DECL|function|defaultFramebufferObject
 DECL|function|deletePendingResources
 DECL|function|deleteQGLContext
 DECL|function|destroy
@@ -44,5 +45,8 @@ DECL|function|~QOpenGLContext
 DECL|function|~QOpenGLContextGroup
 DECL|function|~QOpenGLMultiGroupSharedResource
 DECL|function|~QOpenGLSharedResource
+DECL|macro|GL_FRAMEBUFFER_BINDING
 DECL|member|context
+DECL|member|makeCurrentTracker
+DECL|member|makeCurrentTrackerMutex
 DECL|variable|qwindow_context_storage
