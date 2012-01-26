@@ -66,7 +66,6 @@ DECL|function|currentColor_sys
 DECL|function|defaultNameFilterDisables
 DECL|function|deleteNativeDialog_sys
 DECL|function|dialogResultCode_sys
-DECL|function|dialogType
 DECL|function|directory
 DECL|function|directory_sys
 DECL|function|eatMouseMove
