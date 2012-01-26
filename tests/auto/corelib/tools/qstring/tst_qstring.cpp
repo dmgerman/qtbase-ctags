@@ -74,6 +74,7 @@ DECL|function|nan
 DECL|function|nanAndInf
 DECL|function|nullFromUtf8
 DECL|function|number
+DECL|function|operatorGreaterWithQLatin1String
 DECL|function|operator_eqeq_nullstring
 DECL|function|operator_pluseq_bytearray
 DECL|function|operator_pluseq_bytearray_data

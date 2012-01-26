@@ -32,6 +32,7 @@ DECL|function|testObjectIteration
 DECL|function|testObjectNested
 DECL|function|testObjectNestedEmpty
 DECL|function|testObjectSimple
+DECL|function|testObjectSmallKeys
 DECL|function|testParser
 DECL|function|testValueArray
 DECL|function|testValueObject
