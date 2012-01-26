@@ -45,6 +45,7 @@ DECL|function|showInputPanel
 DECL|function|update
 DECL|function|updateInputMethodArea
 DECL|function|updatePreedit
+DECL|function|updateServerWindowOrientation
 DECL|function|~QMeeGoPlatformInputContext
 DECL|function|~QMeeGoPlatformInputContextPrivate
 DECL|member|active
@@ -58,3 +59,4 @@ DECL|member|q
 DECL|member|server
 DECL|member|valid
 DECL|member|visibility
+DECL|member|window
