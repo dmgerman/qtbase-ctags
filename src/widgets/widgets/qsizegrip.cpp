@@ -19,7 +19,6 @@ DECL|function|showEvent
 DECL|function|sizeHint
 DECL|function|updateMacSizer
 DECL|function|updateTopLevelWidget
-DECL|function|winEvent
 DECL|function|~QSizeGrip
 DECL|macro|SZ_SIZEBOTTOMLEFT
 DECL|macro|SZ_SIZEBOTTOMRIGHT
