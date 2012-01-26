@@ -1,5 +1,4 @@
 DECL|function|qDBusCheckAsyncTag
 DECL|function|qDBusInterfaceFromMetaObject
 DECL|function|qDBusInterfaceInObject
-DECL|function|qDBusNameToTypeId
 DECL|function|qDBusParametersForMethod
