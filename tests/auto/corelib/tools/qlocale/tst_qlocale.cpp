@@ -1,5 +1,4 @@
 DECL|class|RestoreLocaleHelper
-DECL|class|SystemLocale
 DECL|class|tst_QLocale
 DECL|function|GetThreadLocale
 DECL|function|RestoreLocaleHelper
@@ -32,8 +31,6 @@ DECL|function|monthName
 DECL|function|negativeNumbers
 DECL|function|negativeZero
 DECL|function|numberOptions
-DECL|function|query
-DECL|function|queryDateTime
 DECL|function|quoteString
 DECL|function|setWinLocaleInfo
 DECL|function|standaloneDayName
