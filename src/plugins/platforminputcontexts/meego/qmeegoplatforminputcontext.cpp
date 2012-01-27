@@ -30,6 +30,7 @@ DECL|function|isInputPanelVisible
 DECL|function|isValid
 DECL|function|keyEvent
 DECL|function|keyboardRect
+DECL|function|maliitServerAddress
 DECL|function|orientationAngle
 DECL|function|paste
 DECL|function|preeditRectangle

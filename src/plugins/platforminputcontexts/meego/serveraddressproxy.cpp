@@ -1,0 +1,2 @@
+DECL|function|OrgMaliitServerAddressInterface
+DECL|function|~OrgMaliitServerAddressInterface
