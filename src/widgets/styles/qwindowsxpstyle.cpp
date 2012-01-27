@@ -1,5 +1,6 @@
 DECL|function|QWindowsXPStyle
 DECL|function|QWindowsXPStyle
+DECL|function|backingStoreForWidget
 DECL|function|buffer
 DECL|function|buttonVisible
 DECL|function|cleanup
@@ -15,6 +16,7 @@ DECL|function|fixAlphaChannel
 DECL|function|handle
 DECL|function|hasAlphaChannel
 DECL|function|hasAnyData
+DECL|function|hdcForWidgetBackingStore
 DECL|function|init
 DECL|function|isTransparent
 DECL|function|isValid
