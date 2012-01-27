@@ -1,7 +1,9 @@
 DECL|class|DummyWindow
 DECL|class|tst_QGuiApplication
 DECL|function|DummyWindow
+DECL|function|allWindows
 DECL|function|focusObject
 DECL|function|focusObject
 DECL|function|setFocusObject
+DECL|function|topLevelWindows
 DECL|member|m_focusObject

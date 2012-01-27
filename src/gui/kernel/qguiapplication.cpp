@@ -1,6 +1,7 @@
 DECL|function|QGuiApplication
 DECL|function|QGuiApplication
 DECL|function|QGuiApplicationPrivate
+DECL|function|allWindows
 DECL|function|applyCursor
 DECL|function|applyCursor
 DECL|function|changeOverrideCursor
