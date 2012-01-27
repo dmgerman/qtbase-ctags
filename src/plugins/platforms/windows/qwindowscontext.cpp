@@ -42,6 +42,7 @@ DECL|member|m_creationContext
 DECL|member|m_defaultDPI
 DECL|member|m_displayContext
 DECL|member|m_eventFilters
+DECL|member|m_eventType
 DECL|member|m_instance
 DECL|member|m_keyMapper
 DECL|member|m_mimeConverter

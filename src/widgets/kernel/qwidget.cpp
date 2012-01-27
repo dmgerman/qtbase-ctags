@@ -119,7 +119,6 @@ DECL|function|layoutDirection
 DECL|function|leaveEvent
 DECL|function|locale
 DECL|function|lower
-DECL|function|macEvent
 DECL|function|mapFrom
 DECL|function|mapFromParent
 DECL|function|mapTo
@@ -134,6 +133,7 @@ DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|move
 DECL|function|moveEvent
+DECL|function|nativeEvent
 DECL|function|nativeParentWidget
 DECL|function|naturalWidgetFont
 DECL|function|naturalWidgetPalette
@@ -313,7 +313,6 @@ DECL|function|visibleRegion
 DECL|function|whatsThis
 DECL|function|wheelEvent
 DECL|function|widgetInNavigationDirection
-DECL|function|winEvent
 DECL|function|winId
 DECL|function|window
 DECL|function|windowFilePath
@@ -325,7 +324,6 @@ DECL|function|windowRole
 DECL|function|windowState
 DECL|function|windowTitle
 DECL|function|x
-DECL|function|x11Event
 DECL|function|y
 DECL|function|~QWidget
 DECL|function|~QWidgetBackingStoreTracker

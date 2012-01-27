@@ -13,6 +13,7 @@ DECL|function|handleLeaveEvent
 DECL|function|handleMapEvent
 DECL|function|handleMouseEvent
 DECL|function|handleMouseEvent
+DECL|function|handleNativeEvent
 DECL|function|handleScreenAvailableGeometryChange
 DECL|function|handleScreenGeometryChange
 DECL|function|handleScreenLogicalDotsPerInchChange
