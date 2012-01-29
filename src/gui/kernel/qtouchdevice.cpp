@@ -11,3 +11,4 @@ DECL|function|setType
 DECL|function|type
 DECL|function|~QTouchDevice
 DECL|typedef|TouchDevices
+DECL|variable|devicesMutex

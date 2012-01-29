@@ -91,6 +91,7 @@ DECL|member|qt_clipboard
 DECL|member|screen_list
 DECL|member|self
 DECL|member|window_list
+DECL|variable|applicationFontMutex
 DECL|variable|copy_xpm
 DECL|variable|force_reverse
 DECL|variable|layout_direction

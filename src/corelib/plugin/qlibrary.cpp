@@ -51,3 +51,4 @@ DECL|struct|qt_token_info
 DECL|typedef|LibraryMap
 DECL|typedef|QtPluginQueryVerificationDataFunction
 DECL|typedef|QtPluginQueryVerificationDataFunction
+DECL|variable|qt_library_mutex

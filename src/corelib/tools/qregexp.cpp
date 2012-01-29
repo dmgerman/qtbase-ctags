@@ -305,3 +305,4 @@ DECL|variable|InftyRep
 DECL|variable|NoOccurrence
 DECL|variable|NumBadChars
 DECL|variable|categoriesRangeMap
+DECL|variable|globalEngineCacheMutex
