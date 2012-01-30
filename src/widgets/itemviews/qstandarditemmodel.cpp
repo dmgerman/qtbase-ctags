@@ -107,6 +107,7 @@ DECL|function|setItem
 DECL|function|setItemData
 DECL|function|setItemData
 DECL|function|setItemPrototype
+DECL|function|setItemRoleNames
 DECL|function|setModel
 DECL|function|setRowCount
 DECL|function|setRowCount
