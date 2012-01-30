@@ -1,0 +1,4 @@
+DECL|macro|QMALIITPLATFORMINPUTCONTEXT_H
+DECL|variable|QDBusMessage
+DECL|variable|QDBusVariant
+DECL|variable|QMaliitPlatformInputContextPrivate

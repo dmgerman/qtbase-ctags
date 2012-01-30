@@ -1,4 +1,4 @@
-DECL|class|QMeeGoPlatformInputContextPrivate
+DECL|class|QMaliitPlatformInputContextPrivate
 DECL|enumerator|Angle0
 DECL|enumerator|Angle180
 DECL|enumerator|Angle270
@@ -16,8 +16,8 @@ DECL|enumerator|debug
 DECL|enum|InputPanelVisibility
 DECL|enum|MaliitOrientationAngle
 DECL|enum|TextContentType
-DECL|function|QMeeGoPlatformInputContext
-DECL|function|QMeeGoPlatformInputContextPrivate
+DECL|function|QMaliitPlatformInputContext
+DECL|function|QMaliitPlatformInputContextPrivate
 DECL|function|activationLostEvent
 DECL|function|commitString
 DECL|function|contentTypeFromHints
@@ -47,8 +47,8 @@ DECL|function|update
 DECL|function|updateInputMethodArea
 DECL|function|updatePreedit
 DECL|function|updateServerWindowOrientation
-DECL|function|~QMeeGoPlatformInputContext
-DECL|function|~QMeeGoPlatformInputContextPrivate
+DECL|function|~QMaliitPlatformInputContext
+DECL|function|~QMaliitPlatformInputContextPrivate
 DECL|member|active
 DECL|member|adaptor
 DECL|member|connection
