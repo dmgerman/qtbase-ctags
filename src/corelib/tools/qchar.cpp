@@ -7,8 +7,6 @@ DECL|enumerator|Hangul_TBase
 DECL|enumerator|Hangul_TCount
 DECL|enumerator|Hangul_VBase
 DECL|enumerator|Hangul_VCount
-DECL|function|QChar
-DECL|function|QChar
 DECL|function|canonicalOrderHelper
 DECL|function|category
 DECL|function|category
@@ -33,7 +31,6 @@ DECL|function|direction
 DECL|function|foldCase
 DECL|function|foldCase
 DECL|function|foldCase
-DECL|function|fromAscii
 DECL|function|hasMirrored
 DECL|function|isDigit
 DECL|function|isLetter
@@ -55,7 +52,6 @@ DECL|function|operator <
 DECL|function|operator <
 DECL|function|operator <<
 DECL|function|operator >>
-DECL|function|toAscii
 DECL|function|toCaseFolded
 DECL|function|toCaseFolded
 DECL|function|toCaseFolded
