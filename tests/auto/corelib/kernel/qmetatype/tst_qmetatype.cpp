@@ -78,6 +78,7 @@ DECL|function|prop
 DECL|function|properties
 DECL|function|qMetaTypeId
 DECL|function|registerStreamBuiltin
+DECL|function|registerType
 DECL|function|run
 DECL|function|setProp
 DECL|function|sizeOf
