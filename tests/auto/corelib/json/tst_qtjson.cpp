@@ -41,6 +41,7 @@ DECL|function|testValueSimple
 DECL|function|toAndFromBinary
 DECL|function|toAndFromBinary_data
 DECL|function|toJson
+DECL|function|toVariantList
 DECL|function|toVariantMap
 DECL|function|undefinedValues
 DECL|function|validation
