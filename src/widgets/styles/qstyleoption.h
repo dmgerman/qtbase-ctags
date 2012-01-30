@@ -3,4 +3,16 @@ DECL|function|qstyleoption_cast
 DECL|function|qstyleoption_cast
 DECL|function|qstyleoption_cast
 DECL|macro|QSTYLEOPTION_H
+DECL|typedef|QStyleOptionDockWidgetV2
+DECL|typedef|QStyleOptionFrameV2
+DECL|typedef|QStyleOptionFrameV3
+DECL|typedef|QStyleOptionProgressBarV2
+DECL|typedef|QStyleOptionTabBarBaseV2
+DECL|typedef|QStyleOptionTabV2
+DECL|typedef|QStyleOptionTabV3
+DECL|typedef|QStyleOptionTabWidgetFrameV2
+DECL|typedef|QStyleOptionToolBoxV2
+DECL|typedef|QStyleOptionViewItemV2
+DECL|typedef|QStyleOptionViewItemV3
+DECL|typedef|QStyleOptionViewItemV4
 DECL|variable|QDebug
