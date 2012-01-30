@@ -30,6 +30,15 @@ DECL|macro|always_inline
 DECL|macro|always_inline
 DECL|member|AddScale
 DECL|member|AddScale
+DECL|member|T
+DECL|member|T
+DECL|member|T
+DECL|member|T
+DECL|member|T
+DECL|member|T
+DECL|member|T
+DECL|member|T
+DECL|member|T
 DECL|struct|AtomicType
 DECL|struct|QAtomicAdditiveType
 DECL|struct|QAtomicIntegerTraits
