@@ -3,7 +3,6 @@ DECL|function|QString
 DECL|function|QString
 DECL|function|QString
 DECL|function|QString
-DECL|function|QString
 DECL|function|append
 DECL|function|append
 DECL|function|append
