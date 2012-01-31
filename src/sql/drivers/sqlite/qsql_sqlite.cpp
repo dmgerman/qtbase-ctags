@@ -1,7 +1,5 @@
 DECL|class|QSQLiteDriverPrivate
 DECL|class|QSQLiteResultPrivate
-DECL|enumerator|Value
-DECL|enumerator|Value
 DECL|function|QSQLiteDriver
 DECL|function|QSQLiteDriver
 DECL|function|QSQLiteDriverPrivate
@@ -48,7 +46,3 @@ DECL|member|results
 DECL|member|skipRow
 DECL|member|skippedStatus
 DECL|member|stmt
-DECL|namespace|QtPrivate
-DECL|namespace|QtPrivate
-DECL|struct|IsPointerToTypeDerivedFromQObject
-DECL|struct|IsPointerToTypeDerivedFromQObject
