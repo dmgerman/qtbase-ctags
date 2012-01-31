@@ -5,6 +5,9 @@ DECL|enumerator|Angle270
 DECL|enumerator|Angle90
 DECL|enumerator|CustomContentType
 DECL|enumerator|EmailContentType
+DECL|enumerator|EventRequestBoth
+DECL|enumerator|EventRequestEventOnly
+DECL|enumerator|EventRequestSignalOnly
 DECL|enumerator|FreeTextContentType
 DECL|enumerator|InputPanelHidden
 DECL|enumerator|InputPanelShowRequested
@@ -14,6 +17,7 @@ DECL|enumerator|PhoneNumberContentType
 DECL|enumerator|UrlContentType
 DECL|enumerator|debug
 DECL|enum|InputPanelVisibility
+DECL|enum|MaliitEventRequestType
 DECL|enum|MaliitOrientationAngle
 DECL|enum|TextContentType
 DECL|function|QMaliitPlatformInputContext
