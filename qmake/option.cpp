@@ -72,6 +72,8 @@ DECL|member|ui_ext
 DECL|member|user_template
 DECL|member|user_template_prefix
 DECL|member|warn_level
+DECL|member|xqmakespec
+DECL|member|xqmakespec_commandline
 DECL|member|yacc_ext
 DECL|member|yacc_mod
 DECL|variable|cache_items

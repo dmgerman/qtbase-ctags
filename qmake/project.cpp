@@ -60,6 +60,7 @@ DECL|function|ParsableBlock
 DECL|function|Parse
 DECL|function|QMakeProject
 DECL|function|Test
+DECL|function|cleanup
 DECL|function|continueBlock
 DECL|function|continueBlock
 DECL|function|deref
