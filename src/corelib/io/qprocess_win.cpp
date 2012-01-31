@@ -28,3 +28,4 @@ DECL|function|waitForStarted
 DECL|function|waitForWrite
 DECL|function|writeToStdin
 DECL|macro|NOTIFYTIMEOUT
+DECL|macro|PIPE_REJECT_REMOTE_CLIENTS
