@@ -23,6 +23,8 @@ DECL|function|lastIndexOf
 DECL|function|lastIndexOf_data
 DECL|function|leftJustified
 DECL|function|literals
+DECL|function|movablity
+DECL|function|movablity_data
 DECL|function|number
 DECL|function|prepend
 DECL|function|qAllocMore
