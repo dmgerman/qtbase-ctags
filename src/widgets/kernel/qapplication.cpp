@@ -80,7 +80,6 @@ DECL|function|qt_matchLibraryName
 DECL|function|qt_sendSpontaneousEvent
 DECL|function|qt_tryModalHelper
 DECL|function|queryKeyboardModifiers
-DECL|function|quitOnLastWindowClosed
 DECL|function|release
 DECL|function|requestPhase2
 DECL|function|restartCommand
@@ -111,7 +110,6 @@ DECL|function|setManagerProperty
 DECL|function|setNavigationMode
 DECL|function|setPalette
 DECL|function|setPalette_helper
-DECL|function|setQuitOnLastWindowClosed
 DECL|function|setRestartCommand
 DECL|function|setRestartHint
 DECL|function|setStartDragDistance
