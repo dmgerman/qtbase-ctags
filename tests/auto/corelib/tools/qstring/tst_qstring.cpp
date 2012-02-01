@@ -38,6 +38,7 @@ DECL|function|fromLatin1Roundtrip
 DECL|function|fromLatin1Roundtrip_data
 DECL|function|fromLocal8Bit
 DECL|function|fromLocal8Bit_data
+DECL|function|fromQLatin1StringWithLength
 DECL|function|fromRawData
 DECL|function|fromStdString
 DECL|function|fromUtf16
