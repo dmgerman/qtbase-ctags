@@ -11,6 +11,7 @@ DECL|function|addPass
 DECL|function|addSkip
 DECL|function|addXFail
 DECL|function|addXPass
+DECL|function|clearIgnoreMessages
 DECL|function|clearList
 DECL|function|destroyLoggers
 DECL|function|enterTestFunction
