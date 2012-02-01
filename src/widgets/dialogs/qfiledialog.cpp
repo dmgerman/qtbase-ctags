@@ -65,6 +65,7 @@ DECL|function|keyPressEvent
 DECL|function|keyPressEvent
 DECL|function|labelText
 DECL|function|lineEdit
+DECL|function|maxNameLength
 DECL|function|nameFilters
 DECL|function|open
 DECL|function|options

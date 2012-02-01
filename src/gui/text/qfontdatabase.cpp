@@ -104,16 +104,13 @@ DECL|member|fixedPitchComputed
 DECL|member|foundries
 DECL|member|foundry
 DECL|member|handle
-DECL|member|handle
 DECL|member|key
-DECL|member|memoryFont
 DECL|member|name
 DECL|member|name
 DECL|member|pitch
 DECL|member|pixelSize
 DECL|member|pixelSizes
 DECL|member|reregisterAppFonts
-DECL|member|signatures
 DECL|member|size
 DECL|member|smoothScalable
 DECL|member|stretch
