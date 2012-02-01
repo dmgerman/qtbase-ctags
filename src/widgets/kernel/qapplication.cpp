@@ -52,7 +52,6 @@ DECL|function|inPopupMode
 DECL|function|initResources
 DECL|function|initialize
 DECL|function|initializeMultitouch
-DECL|function|inputContext
 DECL|function|instance
 DECL|function|isAlien
 DECL|function|isBlockedByModal
@@ -102,7 +101,6 @@ DECL|function|setDoubleClickInterval
 DECL|function|setFocusWidget
 DECL|function|setFont
 DECL|function|setGlobalStrut
-DECL|function|setInputContext
 DECL|function|setKeyboardInputInterval
 DECL|function|setKeypadNavigationEnabled
 DECL|function|setManagerProperty
@@ -155,7 +153,6 @@ DECL|member|fade_menu
 DECL|member|fade_tooltip
 DECL|member|focus_widget
 DECL|member|hidden_focus_widget
-DECL|member|inputContext
 DECL|member|leaveAfterRelease
 DECL|member|load_testability
 DECL|member|main_widget

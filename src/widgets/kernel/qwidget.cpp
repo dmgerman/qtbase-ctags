@@ -95,7 +95,6 @@ DECL|function|inTabWidget
 DECL|function|inheritStyle
 DECL|function|init
 DECL|function|init
-DECL|function|inputContext
 DECL|function|inputMethodEvent
 DECL|function|inputMethodHints
 DECL|function|inputMethodQuery

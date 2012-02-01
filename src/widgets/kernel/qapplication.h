@@ -6,7 +6,6 @@ DECL|variable|QApplicationPrivate
 DECL|variable|QDesktopWidget
 DECL|variable|QEventLoop
 DECL|variable|QIcon
-DECL|variable|QInputContext
 DECL|variable|QList
 DECL|variable|QLocale
 DECL|variable|QPlatformNativeInterface

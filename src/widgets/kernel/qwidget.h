@@ -52,7 +52,6 @@ DECL|variable|QGraphicsProxyWidget
 DECL|variable|QHideEvent
 DECL|variable|QHoverEvent
 DECL|variable|QIcon
-DECL|variable|QInputContext
 DECL|variable|QInputMethodEvent
 DECL|variable|QKeyEvent
 DECL|variable|QLayout
