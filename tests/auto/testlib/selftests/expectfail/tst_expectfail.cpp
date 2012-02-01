@@ -9,6 +9,8 @@ DECL|function|xfailOnWrongRow
 DECL|function|xfailOnWrongRow_data
 DECL|function|xfailTwice
 DECL|function|xfailWithQString
+DECL|function|xfailWithoutVerify
+DECL|function|xfailWithoutVerify_data
 DECL|function|xpass
 DECL|function|xpassDataDriven
 DECL|function|xpassDataDriven_data

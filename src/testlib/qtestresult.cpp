@@ -14,6 +14,7 @@ DECL|function|currentTestFunction
 DECL|function|currentTestLocation
 DECL|function|currentTestObjectName
 DECL|function|expectFail
+DECL|function|finishedCurrentTestData
 DECL|function|finishedCurrentTestFunction
 DECL|function|isExpectFailData
 DECL|function|reset
