@@ -6,6 +6,7 @@ DECL|function|criticalWithoutDebug
 DECL|function|debugWithBool
 DECL|function|defaultMessagehandler
 DECL|function|myMessageHandler
+DECL|function|qDebugQLatin1String
 DECL|function|qDebugQStringRef
 DECL|function|veryLongWarningMessage
 DECL|function|warningWithoutDebug
