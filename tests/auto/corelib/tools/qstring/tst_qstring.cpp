@@ -20,6 +20,7 @@ DECL|function|check_QTextIOStream
 DECL|function|check_QTextStream
 DECL|function|cleanup
 DECL|function|compare
+DECL|function|compareQLatin1Strings
 DECL|function|compareRef
 DECL|function|compare_data
 DECL|function|constructor
