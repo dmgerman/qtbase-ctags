@@ -13,6 +13,7 @@ DECL|function|arg
 DECL|function|arg_fillChar
 DECL|function|arg_fillChar_data
 DECL|function|arg_locale
+DECL|function|assignQLatin1String
 DECL|function|capacity
 DECL|function|capacity_data
 DECL|function|check_QDataStream
