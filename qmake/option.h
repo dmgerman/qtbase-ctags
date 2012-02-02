@@ -103,7 +103,6 @@ DECL|member|sysenv_mod
 DECL|member|target_mode
 DECL|member|target_mode_overridden
 DECL|member|ui_ext
-DECL|member|user_configs
 DECL|member|user_template
 DECL|member|user_template_prefix
 DECL|member|warn_level
