@@ -20,6 +20,7 @@ DECL|function|failCount
 DECL|function|handleIgnoredMessage
 DECL|function|ignoreMessage
 DECL|function|info
+DECL|function|installedTestCoverage
 DECL|function|leaveTestFunction
 DECL|function|leaveTestFunction
 DECL|function|loggerCount
@@ -31,6 +32,7 @@ DECL|function|passCount
 DECL|function|printUnhandledIgnoreMessages
 DECL|function|resetCounters
 DECL|function|saveCoverageTool
+DECL|function|setInstalledTestCoverage
 DECL|function|setMaxWarnings
 DECL|function|setPrintAvailableTagsMode
 DECL|function|setVerboseLevel
@@ -47,6 +49,7 @@ DECL|macro|FOREACH_LOGGER
 DECL|macro|FOREACH_LOGGER
 DECL|member|fails
 DECL|member|ignoreResultList
+DECL|member|installedTestCoverage
 DECL|member|logger
 DECL|member|loggerUsingStdout
 DECL|member|loggers
