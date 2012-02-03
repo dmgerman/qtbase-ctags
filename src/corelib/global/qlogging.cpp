@@ -1,0 +1,13 @@
+DECL|function|QMessagePattern
+DECL|function|qCleanupFuncinfo
+DECL|function|qMessageFormatString
+DECL|function|~QMessagePattern
+DECL|member|literals
+DECL|member|tokens
+DECL|struct|QMessagePattern
+DECL|variable|emptyTokenC
+DECL|variable|fileTokenC
+DECL|variable|functionTokenC
+DECL|variable|lineTokenC
+DECL|variable|messageTokenC
+DECL|variable|typeTokenC
