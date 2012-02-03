@@ -8,6 +8,5 @@ SUBDIRS=\
    qtconcurrentmap \
    qtconcurrentresultstore \
    qtconcurrentrun \
-   qtconcurrentthreadengine \
-   qthreadpool
+   qtconcurrentthreadengine
 
