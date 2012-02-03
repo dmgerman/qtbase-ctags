@@ -2,13 +2,8 @@ DECL|function|deref
 DECL|function|deref
 DECL|function|deref
 DECL|function|deref
-DECL|function|deref
 DECL|function|fetchAndAddRelaxed
 DECL|function|fetchAndAddRelaxed
-DECL|function|fetchAndAddRelaxed
-DECL|function|fetchAndAddRelaxed
-DECL|function|fetchAndStoreRelaxed
-DECL|function|fetchAndStoreRelaxed
 DECL|function|fetchAndStoreRelaxed
 DECL|function|fetchAndStoreRelaxed
 DECL|function|isFetchAndAddNative
@@ -23,10 +18,7 @@ DECL|function|ref
 DECL|function|ref
 DECL|function|ref
 DECL|function|ref
-DECL|function|ref
 DECL|function|sizeof
-DECL|function|testAndSetRelaxed
-DECL|function|testAndSetRelaxed
 DECL|function|testAndSetRelaxed
 DECL|function|testAndSetRelaxed
 DECL|macro|QATOMIC_X86_64_H

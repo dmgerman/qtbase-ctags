@@ -1,11 +1,8 @@
 DECL|function|deref
 DECL|function|deref
 DECL|function|deref
-DECL|function|deref
 DECL|function|fetchAndAddRelaxed
 DECL|function|fetchAndAddRelaxed
-DECL|function|fetchAndAddRelaxed
-DECL|function|fetchAndStoreRelaxed
 DECL|function|fetchAndStoreRelaxed
 DECL|function|fetchAndStoreRelaxed
 DECL|function|isFetchAndAddNative
@@ -21,9 +18,7 @@ DECL|function|isTestAndSetWaitFree
 DECL|function|ref
 DECL|function|ref
 DECL|function|ref
-DECL|function|ref
 DECL|function|sizeof
-DECL|function|testAndSetRelaxed
 DECL|function|testAndSetRelaxed
 DECL|function|testAndSetRelaxed
 DECL|function|testAndSetRelaxed
