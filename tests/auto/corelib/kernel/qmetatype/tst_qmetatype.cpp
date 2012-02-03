@@ -2,7 +2,6 @@ DECL|class|CustomMultiInheritanceObject
 DECL|class|CustomObject
 DECL|class|IsRegisteredDummyType
 DECL|class|MetaTypeTorturer
-DECL|class|RegUnreg
 DECL|class|tst_QMetaType
 DECL|enumerator|IsInitialized
 DECL|enumerator|V1
@@ -17,8 +16,6 @@ DECL|function|Bar
 DECL|function|CustomMultiInheritanceObject
 DECL|function|CustomObject
 DECL|function|MetaTypeTorturer
-DECL|function|RegUnreg
-DECL|function|RegUnreg
 DECL|function|automaticTemplateRegistration
 DECL|function|construct
 DECL|function|constructCopy
@@ -98,8 +95,6 @@ DECL|function|tst_QMetaType
 DECL|function|typeName
 DECL|function|typeName_data
 DECL|function|typedefs
-DECL|function|unregisterType
-DECL|function|~RegUnreg
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW

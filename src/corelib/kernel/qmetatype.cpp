@@ -56,7 +56,6 @@ DECL|function|type
 DECL|function|typeFlags
 DECL|function|typeName
 DECL|function|undefinedTypeFlags
-DECL|function|unregisterType
 DECL|macro|NS
 DECL|macro|QT_ADD_STATIC_METATYPE
 DECL|macro|QT_ADD_STATIC_METATYPE_ALIASES_ITER
