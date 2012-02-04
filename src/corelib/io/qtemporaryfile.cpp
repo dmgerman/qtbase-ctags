@@ -14,7 +14,7 @@ DECL|function|close
 DECL|function|createFileFromTemplate
 DECL|function|createLocalFile
 DECL|function|defaultTemplateName
-DECL|function|fileEngine
+DECL|function|engine
 DECL|function|fileName
 DECL|function|fileTemplate
 DECL|function|isReallyOpen

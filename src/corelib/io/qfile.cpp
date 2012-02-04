@@ -14,11 +14,11 @@ DECL|function|copy
 DECL|function|copy
 DECL|function|decodeName
 DECL|function|encodeName
+DECL|function|engine
 DECL|function|ensureFlushed
 DECL|function|error
 DECL|function|exists
 DECL|function|exists
-DECL|function|fileEngine
 DECL|function|fileName
 DECL|function|flush
 DECL|function|handle
