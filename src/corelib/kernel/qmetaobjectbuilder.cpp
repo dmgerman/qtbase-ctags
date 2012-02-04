@@ -45,6 +45,8 @@ DECL|function|flag
 DECL|function|flags
 DECL|function|fromRelocatableData
 DECL|function|hasNotifySignal
+DECL|function|hasRevisionedMethods
+DECL|function|hasRevisionedProperties
 DECL|function|hasStdCppSet
 DECL|function|index
 DECL|function|indexOfClassInfo
@@ -93,6 +95,8 @@ DECL|function|removeProperty
 DECL|function|removeRelatedMetaObject
 DECL|function|resolveClassName
 DECL|function|returnType
+DECL|function|revision
+DECL|function|revision
 DECL|function|serialize
 DECL|function|setAccess
 DECL|function|setAccess
@@ -111,6 +115,8 @@ DECL|function|setParameterNames
 DECL|function|setReadable
 DECL|function|setResettable
 DECL|function|setReturnType
+DECL|function|setRevision
+DECL|function|setRevision
 DECL|function|setScriptable
 DECL|function|setStaticMetacallFunction
 DECL|function|setStdCppSet
@@ -147,6 +153,8 @@ DECL|member|parameterNames
 DECL|member|properties
 DECL|member|relatedMetaObjects
 DECL|member|returnType
+DECL|member|revision
+DECL|member|revision
 DECL|member|signature
 DECL|member|staticMetacallFunction
 DECL|member|superClass
