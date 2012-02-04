@@ -73,5 +73,5 @@ DECL|macro|COUNT_FLAGS
 DECL|member|m_intProp
 DECL|member|m_metaObject
 DECL|member|m_voidSlotIntArg
-DECL|member|staticMetaObjectExtraData
-DECL|member|staticMetaObjectExtraData
+DECL|member|staticMetaObject
+DECL|member|staticMetaObject
