@@ -47,6 +47,7 @@ DECL|function|parseFontName
 DECL|function|parseFontName
 DECL|function|pixelSize
 DECL|function|pointSizes
+DECL|function|qt_cleanupFontDatabase
 DECL|function|qt_determine_writing_systems_from_truetype_bits
 DECL|function|qt_fontdata_from_index
 DECL|function|qt_fontdatabase_mutex
