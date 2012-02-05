@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|function|QTestCoreList
 DECL|function|addToList
 DECL|function|count

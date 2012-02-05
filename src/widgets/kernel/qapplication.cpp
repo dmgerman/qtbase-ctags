@@ -35,7 +35,6 @@ DECL|function|desktopStyleKey
 DECL|function|discardCommand
 DECL|function|dispatchEnterLeave
 DECL|function|doubleClickInterval
-DECL|function|emitLastWindowClosed
 DECL|function|enterModal
 DECL|function|event
 DECL|function|exec
@@ -53,13 +52,14 @@ DECL|function|inPopupMode
 DECL|function|initResources
 DECL|function|initialize
 DECL|function|initializeMultitouch
-DECL|function|inputContext
 DECL|function|instance
 DECL|function|isAlien
 DECL|function|isBlockedByModal
 DECL|function|isPhase2
 DECL|function|isSessionRestored
+DECL|function|keyboardInputDirection
 DECL|function|keyboardInputInterval
+DECL|function|keyboardInputLocale
 DECL|function|keyboardModifiers
 DECL|function|keypadNavigationEnabled
 DECL|function|leaveModal
@@ -79,7 +79,6 @@ DECL|function|qt_matchLibraryName
 DECL|function|qt_sendSpontaneousEvent
 DECL|function|qt_tryModalHelper
 DECL|function|queryKeyboardModifiers
-DECL|function|quitOnLastWindowClosed
 DECL|function|release
 DECL|function|requestPhase2
 DECL|function|restartCommand
@@ -102,7 +101,6 @@ DECL|function|setDoubleClickInterval
 DECL|function|setFocusWidget
 DECL|function|setFont
 DECL|function|setGlobalStrut
-DECL|function|setInputContext
 DECL|function|setKeyboardInputInterval
 DECL|function|setKeypadNavigationEnabled
 DECL|function|setManagerProperty
@@ -110,7 +108,6 @@ DECL|function|setManagerProperty
 DECL|function|setNavigationMode
 DECL|function|setPalette
 DECL|function|setPalette_helper
-DECL|function|setQuitOnLastWindowClosed
 DECL|function|setRestartCommand
 DECL|function|setRestartHint
 DECL|function|setStartDragDistance
@@ -156,7 +153,6 @@ DECL|member|fade_menu
 DECL|member|fade_tooltip
 DECL|member|focus_widget
 DECL|member|hidden_focus_widget
-DECL|member|inputContext
 DECL|member|leaveAfterRelease
 DECL|member|load_testability
 DECL|member|main_widget
@@ -166,7 +162,6 @@ DECL|member|navigationMode
 DECL|member|obey_desktop_settings
 DECL|member|oldEditFocus
 DECL|member|popupWidgets
-DECL|member|quitOnLastWindowClosed
 DECL|member|restartCommand
 DECL|member|restartHint
 DECL|member|self

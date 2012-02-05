@@ -3,8 +3,8 @@ DECL|function|_keyClick
 DECL|function|_keyClick
 DECL|function|getDouble
 DECL|function|getDouble_data
-DECL|function|getInteger
-DECL|function|getInteger_data
+DECL|function|getInt
+DECL|function|getInt_data
 DECL|function|getItem
 DECL|function|getItem_data
 DECL|function|getText
@@ -15,7 +15,7 @@ DECL|function|stripFraction
 DECL|function|task255502getDouble
 DECL|function|task256299_getTextReturnNullStringOnRejected
 DECL|function|testFuncGetDouble
-DECL|function|testFuncGetInteger
+DECL|function|testFuncGetInt
 DECL|function|testFuncGetItem
 DECL|function|testFuncGetText
 DECL|function|testGetItem

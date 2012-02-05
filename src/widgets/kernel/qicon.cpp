@@ -4,7 +4,6 @@ DECL|function|QIcon
 DECL|function|QIcon
 DECL|function|QIcon
 DECL|function|QIcon
-DECL|function|QIcon
 DECL|function|QIconPrivate
 DECL|function|QPixmapIconEngine
 DECL|function|QPixmapIconEngine

@@ -9,6 +9,7 @@ DECL|macro|QOBJECT_H
 DECL|macro|Q_DECLARE_INTERFACE
 DECL|typedef|QObjectList
 DECL|variable|QChildEvent
+DECL|variable|QEvent
 DECL|variable|QObject
 DECL|variable|QObjectPrivate
 DECL|variable|QObjectUserData

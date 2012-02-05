@@ -4,16 +4,18 @@ DECL|function|availableGeometry
 DECL|function|availableSize
 DECL|function|availableVirtualGeometry
 DECL|function|availableVirtualSize
-DECL|function|currentOrientation
 DECL|function|depth
 DECL|function|geometry
 DECL|function|handle
+DECL|function|isLandscape
+DECL|function|isPortrait
 DECL|function|log2
 DECL|function|logicalDotsPerInch
 DECL|function|logicalDotsPerInchX
 DECL|function|logicalDotsPerInchY
 DECL|function|mapBetween
 DECL|function|name
+DECL|function|orientation
 DECL|function|physicalDotsPerInch
 DECL|function|physicalDotsPerInchX
 DECL|function|physicalDotsPerInchY
@@ -21,6 +23,7 @@ DECL|function|physicalSize
 DECL|function|primaryOrientation
 DECL|function|size
 DECL|function|transformBetween
+DECL|function|updatePrimaryOrientation
 DECL|function|virtualGeometry
 DECL|function|virtualSiblings
 DECL|function|virtualSize

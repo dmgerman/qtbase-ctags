@@ -1,17 +1,8 @@
-DECL|function|QSymbianMenuAction
 DECL|function|QWceMenuAction
 DECL|macro|QMENU_P_H
-DECL|macro|QT_SYMBIAN_FIRST_MENU_ITEM
-DECL|macro|QT_SYMBIAN_LAST_MENU_ITEM
 DECL|member|action
-DECL|member|action
-DECL|member|command
 DECL|member|command
 DECL|member|menuHandle
-DECL|member|menuPane
-DECL|member|parent
-DECL|struct|QSymbianMenuAction
 DECL|struct|QWceMenuAction
-DECL|variable|CEikMenuPane
 DECL|variable|QEventLoop
 DECL|variable|QTornOffMenu

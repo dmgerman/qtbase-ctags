@@ -117,7 +117,6 @@ DECL|function|matchHere
 DECL|function|matchedLength
 DECL|function|mergeInto
 DECL|function|negative
-DECL|function|numCaptures
 DECL|function|operator <
 DECL|function|operator <
 DECL|function|operator <<
@@ -306,3 +305,4 @@ DECL|variable|InftyRep
 DECL|variable|NoOccurrence
 DECL|variable|NumBadChars
 DECL|variable|categoriesRangeMap
+DECL|variable|globalEngineCacheMutex

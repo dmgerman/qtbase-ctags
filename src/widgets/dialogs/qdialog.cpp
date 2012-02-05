@@ -36,4 +36,5 @@ DECL|function|showEvent
 DECL|function|showExtension
 DECL|function|sizeHint
 DECL|function|styleHint
+DECL|function|themeDialogType
 DECL|function|~QDialog

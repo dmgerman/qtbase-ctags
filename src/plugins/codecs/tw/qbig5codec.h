@@ -1,1 +1,0 @@
-DECL|macro|QBIG5CODEC_H

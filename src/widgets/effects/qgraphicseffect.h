@@ -4,6 +4,7 @@ DECL|variable|QGraphicsColorizeEffectPrivate
 DECL|variable|QGraphicsDropShadowEffectPrivate
 DECL|variable|QGraphicsEffectPrivate
 DECL|variable|QGraphicsEffectSource
+DECL|variable|QGraphicsItem
 DECL|variable|QGraphicsOpacityEffectPrivate
 DECL|variable|QPainter
 DECL|variable|QPixmap

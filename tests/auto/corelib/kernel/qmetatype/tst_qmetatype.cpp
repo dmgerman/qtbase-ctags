@@ -1,10 +1,10 @@
+DECL|class|CustomMultiInheritanceObject
+DECL|class|CustomObject
 DECL|class|IsRegisteredDummyType
 DECL|class|MetaTypeTorturer
 DECL|class|RegUnreg
 DECL|class|tst_QMetaType
 DECL|enumerator|IsInitialized
-DECL|enumerator|Size
-DECL|enumerator|Size
 DECL|enumerator|V1
 DECL|enumerator|V2
 DECL|enumerator|V3
@@ -14,9 +14,12 @@ DECL|enumerator|V6
 DECL|enumerator|Value
 DECL|enumerator|Value
 DECL|function|Bar
+DECL|function|CustomMultiInheritanceObject
+DECL|function|CustomObject
 DECL|function|MetaTypeTorturer
 DECL|function|RegUnreg
 DECL|function|RegUnreg
+DECL|function|automaticTemplateRegistration
 DECL|function|construct
 DECL|function|constructCopy
 DECL|function|constructCopy_data
@@ -137,8 +140,7 @@ DECL|struct|Foo
 DECL|struct|Foo
 DECL|struct|MetaEnumToType
 DECL|struct|RoundToNextHighestPowerOfTwo
-DECL|struct|SafeSizeOf
-DECL|struct|SafeSizeOf
+DECL|struct|SecondBase
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
@@ -186,3 +188,11 @@ DECL|typedef|CustomString
 DECL|typedef|Type
 DECL|typedef|Type
 DECL|typedef|TypeTestFunction
+DECL|typedef|UndefinedFunction0
+DECL|typedef|UndefinedFunction1
+DECL|typedef|UndefinedFunction2
+DECL|typedef|UndefinedFunction3
+DECL|variable|UndefinedFunction0
+DECL|variable|UndefinedFunction1
+DECL|variable|UndefinedFunction2
+DECL|variable|UndefinedFunction3

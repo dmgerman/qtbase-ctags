@@ -8,6 +8,7 @@ DECL|typedef|res_init_proto
 DECL|typedef|res_nclose_proto
 DECL|typedef|res_ninit_proto
 DECL|typedef|res_state_ptr
+DECL|variable|getHostByNameMutex
 DECL|variable|local_res
 DECL|variable|local_res_init
 DECL|variable|local_res_nclose

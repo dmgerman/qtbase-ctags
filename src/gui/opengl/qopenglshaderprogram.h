@@ -3,6 +3,7 @@ DECL|macro|GL_LINE_STRIP_ADJACENCY_EXT
 DECL|macro|GL_TRIANGLES_ADJACENCY_EXT
 DECL|macro|GL_TRIANGLE_STRIP_ADJACENCY_EXT
 DECL|macro|QOPENGLSHADERPROGRAM_H
+DECL|variable|QOpenGLContext
 DECL|variable|QOpenGLShaderPrivate
 DECL|variable|QOpenGLShaderProgram
 DECL|variable|QOpenGLShaderProgramPrivate

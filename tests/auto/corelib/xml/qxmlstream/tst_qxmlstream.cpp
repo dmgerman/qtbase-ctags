@@ -16,6 +16,7 @@ DECL|function|checkBaseline
 DECL|function|checkBaseline_data
 DECL|function|checkCommentIndentation
 DECL|function|checkCommentIndentation_data
+DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|crashInUTF16Codec
 DECL|function|crashInXmlStreamReader

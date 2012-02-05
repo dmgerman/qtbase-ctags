@@ -8,6 +8,7 @@ DECL|variable|QGraphicsSceneMouseEventPrivate
 DECL|variable|QGraphicsSceneMoveEventPrivate
 DECL|variable|QGraphicsSceneResizeEventPrivate
 DECL|variable|QGraphicsSceneWheelEventPrivate
+DECL|variable|QMimeData
 DECL|variable|QPointF
 DECL|variable|QSizeF
 DECL|variable|QWidget

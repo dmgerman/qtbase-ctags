@@ -13,6 +13,7 @@ DECL|function|arg
 DECL|function|arg_fillChar
 DECL|function|arg_fillChar_data
 DECL|function|arg_locale
+DECL|function|assignQLatin1String
 DECL|function|capacity
 DECL|function|capacity_data
 DECL|function|check_QDataStream
@@ -20,6 +21,7 @@ DECL|function|check_QTextIOStream
 DECL|function|check_QTextStream
 DECL|function|cleanup
 DECL|function|compare
+DECL|function|compareQLatin1Strings
 DECL|function|compareRef
 DECL|function|compare_data
 DECL|function|constructor
@@ -37,6 +39,7 @@ DECL|function|fromLatin1Roundtrip
 DECL|function|fromLatin1Roundtrip_data
 DECL|function|fromLocal8Bit
 DECL|function|fromLocal8Bit_data
+DECL|function|fromQLatin1StringWithLength
 DECL|function|fromRawData
 DECL|function|fromStdString
 DECL|function|fromUtf16
@@ -74,6 +77,7 @@ DECL|function|nan
 DECL|function|nanAndInf
 DECL|function|nullFromUtf8
 DECL|function|number
+DECL|function|operatorGreaterWithQLatin1String
 DECL|function|operator_eqeq_nullstring
 DECL|function|operator_pluseq_bytearray
 DECL|function|operator_pluseq_bytearray_data

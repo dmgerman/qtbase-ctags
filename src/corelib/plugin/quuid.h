@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|macro|GUID_DEFINED
 DECL|macro|QUUID_H
 DECL|member|Data1

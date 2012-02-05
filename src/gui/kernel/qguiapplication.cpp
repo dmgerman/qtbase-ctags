@@ -1,6 +1,7 @@
 DECL|function|QGuiApplication
 DECL|function|QGuiApplication
 DECL|function|QGuiApplicationPrivate
+DECL|function|allWindows
 DECL|function|applyCursor
 DECL|function|applyCursor
 DECL|function|changeOverrideCursor
@@ -12,15 +13,15 @@ DECL|function|currentKeyPlatform
 DECL|function|emitLastWindowClosed
 DECL|function|event
 DECL|function|exec
+DECL|function|focusObject
 DECL|function|focusWindow
 DECL|function|font
 DECL|function|getPixmapCursor
 DECL|function|init
 DECL|function|init_platform
 DECL|function|init_plugins
+DECL|function|inputMethod
 DECL|function|inputPanel
-DECL|function|keyboardInputDirection
-DECL|function|keyboardInputLocale
 DECL|function|keyboardModifiers
 DECL|function|layoutDirection
 DECL|function|mouseButtons
@@ -43,6 +44,7 @@ DECL|function|processKeyEvent
 DECL|function|processLeaveEvent
 DECL|function|processMapEvent
 DECL|function|processMouseEvent
+DECL|function|processNativeEvent
 DECL|function|processTouchEvent
 DECL|function|processUnmapEvent
 DECL|function|processWheelEvent
@@ -54,6 +56,7 @@ DECL|function|quitOnLastWindowClosed
 DECL|function|reportAvailableGeometryChange
 DECL|function|reportGeometryChange
 DECL|function|reportLogicalDotsPerInchChange
+DECL|function|reportScreenOrientationChange
 DECL|function|reportScreenOrientationChange
 DECL|function|restoreOverrideCursor
 DECL|function|screens
@@ -74,6 +77,7 @@ DECL|member|app_pal
 DECL|member|buttons
 DECL|member|focus_window
 DECL|member|generic_plugin_list
+DECL|member|m_fakeMouseSourcePointId
 DECL|member|m_fakeTouchDevice
 DECL|member|modifier_buttons
 DECL|member|mousePressButton
@@ -85,10 +89,10 @@ DECL|member|mouse_double_click_distance
 DECL|member|platform_integration
 DECL|member|platform_theme
 DECL|member|qt_clipboard
-DECL|member|quitOnLastWindowClosed
 DECL|member|screen_list
 DECL|member|self
 DECL|member|window_list
+DECL|variable|applicationFontMutex
 DECL|variable|copy_xpm
 DECL|variable|force_reverse
 DECL|variable|layout_direction

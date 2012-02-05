@@ -1,3 +1,0 @@
-DECL|variable|TIFFFaxBlackTable
-DECL|variable|TIFFFaxMainTable
-DECL|variable|TIFFFaxWhiteTable

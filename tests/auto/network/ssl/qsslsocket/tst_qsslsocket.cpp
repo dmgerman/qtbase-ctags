@@ -73,6 +73,8 @@ DECL|function|readFromClosedSocket
 DECL|function|readyReadSlot
 DECL|function|resetDefaultCiphers
 DECL|function|resetProxy
+DECL|function|resume
+DECL|function|resume_data
 DECL|function|run
 DECL|function|sessionCipher
 DECL|function|setCaCertificates

@@ -4,7 +4,6 @@ DECL|function|cleanupHash
 DECL|function|createAction
 DECL|function|createKeyedAction
 DECL|function|event
-DECL|function|handleCommand
 DECL|function|handleUpdateSoftKeys
 DECL|function|instance
 DECL|function|isChildOf

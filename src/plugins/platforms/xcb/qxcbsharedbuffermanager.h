@@ -1,0 +1,2 @@
+DECL|macro|XCBSHAREDBUFFERMANAGER_H
+DECL|variable|wl_resource

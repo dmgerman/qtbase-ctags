@@ -1,0 +1,7 @@
+DECL|macro|QDNSLOOKUP_H
+DECL|variable|QDnsDomainNameRecordPrivate
+DECL|variable|QDnsHostAddressRecordPrivate
+DECL|variable|QDnsLookupPrivate
+DECL|variable|QDnsMailExchangeRecordPrivate
+DECL|variable|QDnsServiceRecordPrivate
+DECL|variable|QDnsTextRecordPrivate

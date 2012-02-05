@@ -65,6 +65,7 @@ DECL|function|layoutMinimumWidth
 DECL|function|newButton
 DECL|function|oldButton
 DECL|function|open
+DECL|function|qt_getWindowsSystemMenu
 DECL|function|question
 DECL|function|question
 DECL|function|question
@@ -92,7 +93,6 @@ DECL|function|showEvent
 DECL|function|showNewMessageBox
 DECL|function|showOldMessageBox
 DECL|function|showOldMessageBox
-DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|standardButton
 DECL|function|standardButtons

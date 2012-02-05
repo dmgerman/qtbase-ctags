@@ -7,3 +7,4 @@ DECL|member|event
 DECL|member|object
 DECL|struct|QTestAccessibilityEvent
 DECL|typedef|EventList
+DECL|variable|QObject

@@ -30,10 +30,8 @@ DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator >>
-DECL|function|operator QString
 DECL|function|operator QVariant
 DECL|function|operator []
-DECL|function|operator int
 DECL|function|qt_macSymbolForQtKey
 DECL|function|qt_set_sequence_auto_mnemonic
 DECL|function|qtkeyForMacSymbol

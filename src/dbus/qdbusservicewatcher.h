@@ -1,2 +1,3 @@
 DECL|macro|QDBUSSERVICEWATCHER_H
+DECL|variable|QDBusConnection
 DECL|variable|QDBusServiceWatcherPrivate

@@ -73,6 +73,7 @@ DECL|function|isVistaThemeEnabled
 DECL|function|isVistaThemeEnabled
 DECL|function|layoutInfoForCurrentPage
 DECL|function|minimumSizeHint
+DECL|function|nativeEvent
 DECL|function|next
 DECL|function|nextId
 DECL|function|nextId
@@ -142,7 +143,6 @@ DECL|function|validatePage
 DECL|function|visitedPages
 DECL|function|vistaDisabled
 DECL|function|vistaDisabled
-DECL|function|winEvent
 DECL|function|wizard
 DECL|function|wizardStyle
 DECL|function|~QWizard

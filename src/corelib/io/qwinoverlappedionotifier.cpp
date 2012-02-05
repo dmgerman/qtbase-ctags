@@ -1,0 +1,16 @@
+DECL|class|QWinIoCompletionPort
+DECL|function|QWinIoCompletionPort
+DECL|function|QWinOverlappedIoNotifier
+DECL|function|_q_notified
+DECL|function|notify
+DECL|function|registerNotifier
+DECL|function|run
+DECL|function|setEnabled
+DECL|function|setHandle
+DECL|function|unregisterNotifier
+DECL|function|waitForNotified
+DECL|function|~QWinIoCompletionPort
+DECL|function|~QWinOverlappedIoNotifier
+DECL|member|hPort
+DECL|member|mutex
+DECL|member|notifiers

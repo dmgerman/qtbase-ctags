@@ -1,4 +1,4 @@
-DECL|function|QT_MODULE
 DECL|function|Q_DECLARE_INTERFACE
 DECL|macro|QBEARERPLUGIN_P_H
 DECL|macro|QBearerEngineFactoryInterface_iid
+DECL|struct|QFactoryInterface

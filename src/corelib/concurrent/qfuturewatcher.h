@@ -1,3 +1,0 @@
-DECL|function|setFuture
-DECL|macro|QFUTUREWATCHER_H
-DECL|variable|QFutureWatcherBasePrivate

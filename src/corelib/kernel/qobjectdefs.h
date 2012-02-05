@@ -95,6 +95,7 @@ DECL|struct|QMetaObject
 DECL|struct|QMetaObjectExtraData
 DECL|typedef|QMetaObjectAccessor
 DECL|typedef|StaticMetacallFunction
+DECL|variable|QByteArray
 DECL|variable|QMetaClassInfo
 DECL|variable|QMetaEnum
 DECL|variable|QMetaMethod

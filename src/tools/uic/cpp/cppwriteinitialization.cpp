@@ -32,6 +32,7 @@ DECL|function|addStringInitializer
 DECL|function|addWizardPage
 DECL|function|autoTrCall
 DECL|function|autoTrOutput
+DECL|function|autoTrOutput
 DECL|function|checkProperty
 DECL|function|closeIfndef
 DECL|function|compare
@@ -86,6 +87,7 @@ DECL|function|writeSetupUIScriptVariableDeclarations
 DECL|function|writeSetupUi
 DECL|function|writeSizePolicy
 DECL|function|writeSpacerItem
+DECL|function|writeStringListProperty
 DECL|function|~Item
 DECL|member|accessibilityDefineC
 DECL|member|shortcutDefineC

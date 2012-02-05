@@ -13,6 +13,7 @@ DECL|function|setToolTip
 DECL|function|setWhatsThis
 DECL|macro|QLISTWIDGET_H
 DECL|variable|QListModel
+DECL|variable|QListWidget
 DECL|variable|QListWidgetItemPrivate
 DECL|variable|QListWidgetPrivate
 DECL|variable|QWidgetItemData

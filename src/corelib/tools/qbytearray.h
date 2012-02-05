@@ -23,6 +23,7 @@ DECL|function|operator
 DECL|function|qCompress
 DECL|function|qUncompress
 DECL|function|qstrcmp
+DECL|function|qstrlen
 DECL|function|qstrncmp
 DECL|function|qstrnlen
 DECL|function|reserve

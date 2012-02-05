@@ -16,7 +16,6 @@ DECL|function|fitToWidth
 DECL|function|generatePreview
 DECL|function|init
 DECL|function|layoutPages
-DECL|function|numPages
 DECL|function|orientation
 DECL|function|pageCount
 DECL|function|pageNumber

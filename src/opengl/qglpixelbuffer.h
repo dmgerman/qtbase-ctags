@@ -1,1 +1,2 @@
 DECL|macro|QGLPIXELBUFFER_H
+DECL|variable|QGLPixelBufferPrivate

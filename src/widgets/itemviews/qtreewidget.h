@@ -20,6 +20,7 @@ DECL|function|setToolTip
 DECL|function|setWhatsThis
 DECL|macro|QTREEWIDGET_H
 DECL|variable|QTreeModel
+DECL|variable|QTreeWidget
 DECL|variable|QTreeWidgetItemPrivate
 DECL|variable|QTreeWidgetPrivate
 DECL|variable|QWidgetItemData

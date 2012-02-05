@@ -21,6 +21,7 @@ DECL|function|blockCountChanged
 DECL|function|capitalizationHtmlInExport
 DECL|function|characterAt
 DECL|function|cleanup
+DECL|function|cleanupTestCase
 DECL|function|clearResources
 DECL|function|clonePreservesDefaultFont
 DECL|function|clonePreservesIndentWidth

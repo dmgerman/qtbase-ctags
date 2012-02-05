@@ -15,7 +15,6 @@ DECL|function|cd
 DECL|function|cdUp
 DECL|function|cleanPath
 DECL|function|clearFileLists
-DECL|function|convertSeparators
 DECL|function|count
 DECL|function|currentPath
 DECL|function|d_func

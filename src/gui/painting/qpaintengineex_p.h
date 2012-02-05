@@ -7,5 +7,6 @@ DECL|member|y1
 DECL|member|y2
 DECL|struct|QIntRect
 DECL|variable|QPaintEngineExPrivate
+DECL|variable|QPainterState
 DECL|variable|QPixmapFilter
 DECL|variable|QStaticTextItem

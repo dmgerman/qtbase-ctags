@@ -3,7 +3,9 @@ DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
+DECL|variable|Key
 DECL|variable|Prealloc
+DECL|variable|QCache
 DECL|variable|QHash
 DECL|variable|QLinkedList
 DECL|variable|QList

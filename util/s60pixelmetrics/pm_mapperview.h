@@ -1,4 +1,0 @@
-DECL|macro|PMMAPPERVIEW_H
-DECL|variable|CAknSettingStyleListBox
-DECL|variable|CAknSingleStyleListBox
-DECL|variable|CCoeControl

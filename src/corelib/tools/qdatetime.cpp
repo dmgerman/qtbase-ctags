@@ -1,6 +1,3 @@
-DECL|enumerator|FIRST_DAY
-DECL|enumerator|FIRST_MONTH
-DECL|enumerator|FIRST_YEAR
 DECL|enumerator|JULIAN_DAY_FOR_EPOCH
 DECL|enumerator|MSECS_PER_DAY
 DECL|enumerator|MSECS_PER_HOUR
@@ -33,17 +30,12 @@ DECL|function|appendSeparator
 DECL|function|countRepeat
 DECL|function|currentDate
 DECL|function|currentDate
-DECL|function|currentDate
-DECL|function|currentDateTime
 DECL|function|currentDateTime
 DECL|function|currentDateTime
 DECL|function|currentDateTimeUtc
 DECL|function|currentDateTimeUtc
-DECL|function|currentDateTimeUtc
 DECL|function|currentMSecsSinceEpoch
 DECL|function|currentMSecsSinceEpoch
-DECL|function|currentMSecsSinceEpoch
-DECL|function|currentTime
 DECL|function|currentTime
 DECL|function|currentTime
 DECL|function|date
@@ -89,9 +81,7 @@ DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid
-DECL|function|isValid
 DECL|function|julianDayFromDate
-DECL|function|julianDayFromGregorianDate
 DECL|function|localToUtc
 DECL|function|longDayName
 DECL|function|longMonthName
@@ -119,10 +109,6 @@ DECL|function|parse
 DECL|function|parseFormat
 DECL|function|parseSection
 DECL|function|potentialValue
-DECL|function|qt_symbian_QDateTime_To_TTime
-DECL|function|qt_symbian_TTime_To_QDateTime
-DECL|function|qt_symbian_TTime_To_time_t
-DECL|function|qt_symbian_time_t_To_TTime
 DECL|function|restart
 DECL|function|second
 DECL|function|secsTo
@@ -148,7 +134,6 @@ DECL|function|setTime
 DECL|function|setTimeSpec
 DECL|function|setTime_t
 DECL|function|setUtcOffset
-DECL|function|setYMD
 DECL|function|shortDayName
 DECL|function|shortMonthName
 DECL|function|skipToNextSection

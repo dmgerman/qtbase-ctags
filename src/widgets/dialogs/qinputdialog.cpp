@@ -25,10 +25,7 @@ DECL|function|ensureLineEdit
 DECL|function|ensureListView
 DECL|function|getDouble
 DECL|function|getInt
-DECL|function|getInteger
 DECL|function|getItem
-DECL|function|getItem
-DECL|function|getText
 DECL|function|getText
 DECL|function|inputMode
 DECL|function|intMaximum

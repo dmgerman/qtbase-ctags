@@ -1,0 +1,3 @@
+DECL|function|QMeeGoIntegration
+DECL|function|updateScreenOrientation
+DECL|function|~QMeeGoIntegration

@@ -1,1 +1,2 @@
 DECL|macro|QFSFILEENGINE_H
+DECL|variable|QFSFileEnginePrivate

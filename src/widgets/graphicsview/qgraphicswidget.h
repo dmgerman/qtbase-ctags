@@ -1,5 +1,6 @@
 DECL|function|setGeometry
 DECL|macro|QGRAPHICSWIDGET_H
+DECL|variable|QFont
 DECL|variable|QFontMetrics
 DECL|variable|QGraphicsLayout
 DECL|variable|QGraphicsObject

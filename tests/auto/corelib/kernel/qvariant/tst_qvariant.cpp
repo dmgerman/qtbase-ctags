@@ -1,5 +1,6 @@
 DECL|class|MessageHandler
 DECL|class|tst_QVariant
+DECL|enumerator|Value
 DECL|function|Foo
 DECL|function|MessageHandler
 DECL|function|MyClass
@@ -32,6 +33,7 @@ DECL|function|convertToQUint8
 DECL|function|copy_constructor
 DECL|function|copyingUserTypes
 DECL|function|dataStar
+DECL|function|dataStream_data
 DECL|function|data_
 DECL|function|debugStream
 DECL|function|debugStream_data
@@ -43,6 +45,11 @@ DECL|function|invalidDateTime
 DECL|function|invalidQColor
 DECL|function|isNull
 DECL|function|loadBrokenUserType
+DECL|function|loadQVariantFromDataStream
+DECL|function|loadQt4Stream
+DECL|function|loadQt4Stream_data
+DECL|function|loadQt5Stream
+DECL|function|loadQt5Stream_data
 DECL|function|loadUnknownUserType
 DECL|function|matrix
 DECL|function|matrix4x4
@@ -69,6 +76,11 @@ DECL|function|quaternion
 DECL|function|qvariant_cast_QObject
 DECL|function|qvariant_cast_QObject_data
 DECL|function|saveLoadCustomTypes
+DECL|function|saveQVariantFromDataStream
+DECL|function|saveQt4Stream
+DECL|function|saveQt4Stream_data
+DECL|function|saveQt5Stream
+DECL|function|saveQt5Stream_data
 DECL|function|setValue
 DECL|function|streamInvalidVariant
 DECL|function|swap
@@ -193,10 +205,12 @@ DECL|member|x
 DECL|member|y
 DECL|member|y
 DECL|member|z
+DECL|namespace|QtPrivate
 DECL|struct|Blah
 DECL|struct|CustomStreamableClass
 DECL|struct|Data
 DECL|struct|Foo
+DECL|struct|IsPointerToTypeDerivedFromQObject
 DECL|struct|MyClass
 DECL|struct|MyData
 DECL|struct|MyMovable

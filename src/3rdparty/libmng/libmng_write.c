@@ -1,2 +1,0 @@
-DECL|function|mng_drop_chunks
-DECL|function|mng_write_graphic

@@ -1,1 +1,2 @@
 DECL|macro|QFILESYSTEMWATCHER_H
+DECL|variable|QFileSystemWatcherPrivate

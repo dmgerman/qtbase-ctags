@@ -4,4 +4,5 @@ DECL|variable|QMimeData
 DECL|variable|QPagedPaintDevice
 DECL|variable|QPlainTextDocumentLayoutPrivate
 DECL|variable|QPlainTextEditPrivate
+DECL|variable|QStyleSheet
 DECL|variable|QTextDocument

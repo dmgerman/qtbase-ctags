@@ -32,7 +32,6 @@ DECL|function|option
 DECL|function|options
 DECL|function|parseDigestAuthenticationChallenge
 DECL|function|parseHttpResponse
-DECL|function|parseHttpResponse
 DECL|function|password
 DECL|function|qCreatev2Hash
 DECL|function|qEncodeHmacMd5

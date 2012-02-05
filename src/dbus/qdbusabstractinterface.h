@@ -1,3 +1,4 @@
 DECL|macro|QDBUSABSTRACTINTERFACE_H
 DECL|variable|QDBusAbstractInterfacePrivate
+DECL|variable|QDBusError
 DECL|variable|QDBusPendingCall

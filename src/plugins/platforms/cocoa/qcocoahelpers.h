@@ -1,6 +1,4 @@
-DECL|function|qt_mac_NSStringToQString
 DECL|function|qt_mac_QStringListToNSMutableArray
-DECL|function|qt_mac_QStringToNSString
 DECL|function|qt_mac_flipPoint
 DECL|function|qt_mac_flipPoint
 DECL|function|qt_mac_flipPoint

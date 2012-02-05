@@ -1,4 +1,8 @@
+DECL|class|LoadAndConvert
+DECL|class|LoadAndConvertMIB
 DECL|class|tst_QTextCodec
+DECL|function|LoadAndConvert
+DECL|function|LoadAndConvertMIB
 DECL|function|aliasForUTF16
 DECL|function|asciiToIscii
 DECL|function|checkAliases
@@ -17,11 +21,11 @@ DECL|function|fromInvalidUtf8Sequence
 DECL|function|fromUnicode
 DECL|function|fromUnicode_data
 DECL|function|invalidNames
-DECL|function|loadAndConvert
-DECL|function|loadAndConvertMIB
 DECL|function|mibForTSCII
 DECL|function|moreToFromUnicode
 DECL|function|moreToFromUnicode_data
+DECL|function|run
+DECL|function|run
 DECL|function|shiftJis
 DECL|function|threadSafety
 DECL|function|toLocal8Bit
@@ -36,5 +40,9 @@ DECL|function|utf8bom_data
 DECL|function|utfHeaders
 DECL|function|utfHeaders_data
 DECL|function|~DontCrashAtExit
+DECL|member|codecName
+DECL|member|mib
+DECL|member|target
+DECL|member|target
 DECL|struct|DontCrashAtExit
 DECL|variable|dontCrashAtExit

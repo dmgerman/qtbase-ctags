@@ -22,6 +22,7 @@ DECL|function|_q_sourceRowsMoved
 DECL|function|_q_sourceRowsRemoved
 DECL|function|columnCount
 DECL|function|dropMimeData
+DECL|function|headerData
 DECL|function|index
 DECL|function|insertColumns
 DECL|function|insertRows

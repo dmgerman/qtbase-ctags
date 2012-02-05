@@ -7,3 +7,4 @@ DECL|variable|QFileDialog
 DECL|variable|QFileInfo
 DECL|variable|QIcon
 DECL|variable|QPalette
+DECL|variable|QStyle

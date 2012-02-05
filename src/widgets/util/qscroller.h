@@ -3,3 +3,4 @@ DECL|variable|QFlickGestureRecognizer
 DECL|variable|QMouseFlickGestureRecognizer
 DECL|variable|QScrollerPrivate
 DECL|variable|QScrollerProperties
+DECL|variable|QWidget

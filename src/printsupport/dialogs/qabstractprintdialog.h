@@ -1,2 +1,3 @@
 DECL|macro|QABSTRACTPRINTDIALOG_H
+DECL|variable|QAbstractPrintDialogPrivate
 DECL|variable|QPrinter

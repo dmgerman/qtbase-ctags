@@ -33,8 +33,6 @@ DECL|function|open
 DECL|function|open
 DECL|function|open
 DECL|function|open
-DECL|function|open
-DECL|function|openExternalFile
 DECL|function|openExternalFile
 DECL|function|openExternalFile
 DECL|function|permissions

@@ -2,7 +2,6 @@ DECL|function|calculateSubPixelPositionCount
 DECL|function|createTextureData
 DECL|function|fillInPendingGlyphs
 DECL|function|fillTexture
-DECL|function|glyphMargin
 DECL|function|populate
 DECL|function|qt_next_power_of_two
 DECL|function|resizeTextureData

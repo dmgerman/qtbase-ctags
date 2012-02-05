@@ -21,3 +21,4 @@ DECL|member|shared_null
 DECL|struct|Data
 DECL|struct|QListData
 DECL|variable|QSet
+DECL|variable|QVector

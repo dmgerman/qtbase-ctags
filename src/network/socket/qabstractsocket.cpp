@@ -33,6 +33,7 @@ DECL|function|localAddress
 DECL|function|localPort
 DECL|function|operator <<
 DECL|function|operator <<
+DECL|function|pauseMode
 DECL|function|pauseSocketNotifiers
 DECL|function|peerAddress
 DECL|function|peerName
@@ -46,9 +47,11 @@ DECL|function|readFromSocket
 DECL|function|readLineData
 DECL|function|resetSocketLayer
 DECL|function|resolveProxy
+DECL|function|resume
 DECL|function|resumeSocketNotifiers
 DECL|function|setLocalAddress
 DECL|function|setLocalPort
+DECL|function|setPauseMode
 DECL|function|setPeerAddress
 DECL|function|setPeerName
 DECL|function|setPeerPort

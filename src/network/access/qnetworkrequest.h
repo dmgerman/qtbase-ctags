@@ -1,2 +1,3 @@
 DECL|macro|QNETWORKREQUEST_H
 DECL|variable|QNetworkRequestPrivate
+DECL|variable|QSslConfiguration

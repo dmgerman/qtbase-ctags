@@ -7,6 +7,8 @@ DECL|function|data
 DECL|function|flags
 DECL|function|insertColumn
 DECL|function|insertRow
+DECL|function|moveColumn
+DECL|function|moveRow
 DECL|function|parent
 DECL|function|qHash
 DECL|function|qHash
@@ -16,6 +18,7 @@ DECL|function|sibling
 DECL|macro|QABSTRACTITEMMODEL_H
 DECL|typedef|QModelIndexList
 DECL|variable|Key
+DECL|variable|QAbstractItemModel
 DECL|variable|QAbstractItemModelPrivate
 DECL|variable|QList
 DECL|variable|QMap

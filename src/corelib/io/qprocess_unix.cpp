@@ -8,6 +8,7 @@ DECL|function|bytesAvailableFromStderr
 DECL|function|bytesAvailableFromStdout
 DECL|function|catchDeadChildren
 DECL|function|createChannel
+DECL|function|destroyChannel
 DECL|function|destroyPipe
 DECL|function|execChild
 DECL|function|findExitCode

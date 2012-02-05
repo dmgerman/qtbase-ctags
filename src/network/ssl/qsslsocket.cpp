@@ -10,6 +10,7 @@ DECL|function|_q_flushReadBuffer
 DECL|function|_q_flushWriteBuffer
 DECL|function|_q_hostFoundSlot
 DECL|function|_q_readyReadSlot
+DECL|function|_q_resumeImplementation
 DECL|function|_q_stateChangedSlot
 DECL|function|abort
 DECL|function|addCaCertificate
@@ -46,6 +47,7 @@ DECL|function|ignoreSslErrors
 DECL|function|ignoreSslErrors
 DECL|function|init
 DECL|function|isEncrypted
+DECL|function|isPaused
 DECL|function|localCertificate
 DECL|function|mode
 DECL|function|pauseSocketNotifiers
@@ -58,6 +60,7 @@ DECL|function|privateKey
 DECL|function|protocol
 DECL|function|qt_timeout_value
 DECL|function|readData
+DECL|function|resume
 DECL|function|resumeSocketNotifiers
 DECL|function|sessionCipher
 DECL|function|setCaCertificates
@@ -93,6 +96,7 @@ DECL|function|supportedCiphers
 DECL|function|supportsSsl
 DECL|function|systemCaCertificates
 DECL|function|unixRootCertDirectories
+DECL|function|verifyErrorsHaveBeenIgnored
 DECL|function|waitForBytesWritten
 DECL|function|waitForConnected
 DECL|function|waitForDisconnected

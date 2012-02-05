@@ -1,5 +1,6 @@
 DECL|function|QWindowsXPStyle
 DECL|function|QWindowsXPStyle
+DECL|function|backingStoreForWidget
 DECL|function|buffer
 DECL|function|buttonVisible
 DECL|function|cleanup
@@ -15,6 +16,7 @@ DECL|function|fixAlphaChannel
 DECL|function|handle
 DECL|function|hasAlphaChannel
 DECL|function|hasAnyData
+DECL|function|hdcForWidgetBackingStore
 DECL|function|init
 DECL|function|isTransparent
 DECL|function|isValid
@@ -51,7 +53,6 @@ DECL|macro|TMT_ENUM
 DECL|macro|TMT_ENUMDEF
 DECL|macro|TMT_ENUMVAL
 DECL|member|handleMap
-DECL|member|limboWidget
 DECL|member|propName
 DECL|member|propType
 DECL|member|propValue

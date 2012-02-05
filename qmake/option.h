@@ -2,6 +2,7 @@ DECL|enumerator|FixEnvVars
 DECL|enumerator|FixNone
 DECL|enumerator|FixPathCanonicalize
 DECL|enumerator|FixPathToLocalSeparators
+DECL|enumerator|FixPathToNormalSeparators
 DECL|enumerator|FixPathToTargetSeparators
 DECL|enumerator|HOST_MACX_MODE
 DECL|enumerator|HOST_UNIX_MODE
@@ -42,6 +43,7 @@ DECL|function|fixEnvVariables
 DECL|function|fixPathToLocalOS
 DECL|function|fixPathToTargetOS
 DECL|function|hasFileExtension
+DECL|function|normalizePath
 DECL|function|splitPathList
 DECL|macro|OPTION_H
 DECL|macro|QMAKE_VERSION_MAJOR

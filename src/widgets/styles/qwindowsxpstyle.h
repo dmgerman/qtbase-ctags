@@ -1,1 +1,2 @@
 DECL|macro|QWINDOWSXPSTYLE_H
+DECL|variable|QWindowsXPStylePrivate

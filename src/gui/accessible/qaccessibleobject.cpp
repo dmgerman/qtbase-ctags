@@ -11,7 +11,6 @@ DECL|function|navigate
 DECL|function|object
 DECL|function|parent
 DECL|function|rect
-DECL|function|relationTo
 DECL|function|role
 DECL|function|setText
 DECL|function|state

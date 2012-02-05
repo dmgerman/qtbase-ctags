@@ -1,5 +1,6 @@
 DECL|macro|QGUIGLCONTEXT_P_H
 DECL|variable|QOpenGLContext
 DECL|variable|QOpenGLFunctions
+DECL|variable|QOpenGLFunctions
 DECL|variable|QOpenGLMultiGroupSharedResource
 DECL|variable|QPaintEngineEx

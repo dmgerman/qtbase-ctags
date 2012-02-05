@@ -2,14 +2,12 @@ DECL|class|QImageReaderPrivate
 DECL|enumerator|_qt_BmpFormat
 DECL|enumerator|_qt_GifFormat
 DECL|enumerator|_qt_JpgFormat
-DECL|enumerator|_qt_MngFormat
 DECL|enumerator|_qt_NoFormat
 DECL|enumerator|_qt_NumFormats
 DECL|enumerator|_qt_PbmFormat
 DECL|enumerator|_qt_PgmFormat
 DECL|enumerator|_qt_PngFormat
 DECL|enumerator|_qt_PpmFormat
-DECL|enumerator|_qt_TifFormat
 DECL|enumerator|_qt_XbmFormat
 DECL|enumerator|_qt_XpmFormat
 DECL|enum|_qt_BuiltInFormatType

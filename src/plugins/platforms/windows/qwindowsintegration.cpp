@@ -19,6 +19,7 @@ DECL|function|nativeResourceForBackingStore
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
 DECL|function|platformTheme
+DECL|function|setEventFilter
 DECL|function|styleHint
 DECL|function|~QWindowsIntegration
 DECL|function|~QWindowsIntegrationPrivate

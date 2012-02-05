@@ -149,4 +149,3 @@ DECL|typedef|OLE_COLOR
 DECL|typedef|UWORD
 DECL|typedef|mode_t
 DECL|typedef|time_t
-DECL|variable|qt_wince__putenv_s

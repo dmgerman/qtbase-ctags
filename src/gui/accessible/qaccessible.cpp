@@ -1,3 +1,4 @@
+DECL|function|accessibleInterface
 DECL|function|backgroundColor
 DECL|function|cleanup
 DECL|function|foregroundColor
@@ -16,6 +17,7 @@ DECL|function|relationTo
 DECL|function|relations
 DECL|function|removeFactory
 DECL|function|setRootObject
+DECL|function|updateAccessibility
 DECL|function|updateAccessibility
 DECL|function|virtual_hook
 DECL|function|window

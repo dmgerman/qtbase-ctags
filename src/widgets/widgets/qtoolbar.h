@@ -4,3 +4,4 @@ DECL|variable|QAction
 DECL|variable|QIcon
 DECL|variable|QMainWindow
 DECL|variable|QStyleOptionToolBar
+DECL|variable|QToolBarPrivate

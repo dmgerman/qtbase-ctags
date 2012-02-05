@@ -2,6 +2,8 @@ DECL|function|qt_depthForFormat
 DECL|macro|QIMAGE_P_H
 DECL|member|QString
 DECL|member|bytes_per_line
+DECL|member|cleanupFunction
+DECL|member|cleanupInfo
 DECL|member|colortable
 DECL|member|data
 DECL|member|depth

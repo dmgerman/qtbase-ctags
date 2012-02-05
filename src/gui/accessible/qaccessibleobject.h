@@ -1,2 +1,3 @@
 DECL|macro|QACCESSIBLEOBJECT_H
+DECL|variable|QAccessibleObjectPrivate
 DECL|variable|QObject

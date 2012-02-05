@@ -1,1 +1,0 @@
-DECL|function|mng_dither_a_row

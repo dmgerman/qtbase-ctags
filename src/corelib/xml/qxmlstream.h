@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|macro|QXMLSTREAM_H
 DECL|typedef|QXmlStreamEntityDeclarations
 DECL|typedef|QXmlStreamNamespaceDeclarations

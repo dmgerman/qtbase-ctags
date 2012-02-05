@@ -1,3 +1,4 @@
 DECL|macro|QABSTRACTSPINBOX_H
 DECL|variable|QAbstractSpinBoxPrivate
+DECL|variable|QLineEdit
 DECL|variable|QStyleOptionSpinBox

@@ -1,2 +1,0 @@
-DECL|macro|HAVE_GETOPT
-DECL|macro|_LIBPORT_

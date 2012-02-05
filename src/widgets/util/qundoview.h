@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|macro|QUNDOVIEW_H
 DECL|variable|QIcon
 DECL|variable|QUndoGroup

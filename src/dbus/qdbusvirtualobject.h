@@ -1,3 +1,4 @@
 DECL|macro|QDBUSTREENODE_H
 DECL|variable|QDBusConnection
+DECL|variable|QDBusMessage
 DECL|variable|QDBusVirtualObjectPrivate

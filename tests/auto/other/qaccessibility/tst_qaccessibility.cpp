@@ -41,7 +41,6 @@ DECL|function|mainWindowTest
 DECL|function|mdiAreaTest
 DECL|function|mdiSubWindowTest
 DECL|function|menuTest
-DECL|function|navigateCovered
 DECL|function|navigateHierarchy
 DECL|function|onClicked
 DECL|function|rubberBandTest

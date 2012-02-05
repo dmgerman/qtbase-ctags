@@ -8,6 +8,7 @@ DECL|typedef|HRESULT
 DECL|typedef|MSG
 DECL|variable|HBITMAP
 DECL|variable|HBRUSH
+DECL|variable|HDC
 DECL|variable|HFONT
 DECL|variable|HICON
 DECL|variable|HMONITOR
@@ -15,4 +16,3 @@ DECL|variable|HPALETTE
 DECL|variable|HPEN
 DECL|variable|HRGN
 DECL|variable|HWND
-DECL|variable|Q_DECLARE_HANDLE

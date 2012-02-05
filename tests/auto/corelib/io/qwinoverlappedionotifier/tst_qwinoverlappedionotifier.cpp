@@ -1,0 +1,16 @@
+DECL|class|NotifierSink
+DECL|class|tst_QWinOverlappedIoNotifier
+DECL|function|NotifierSink
+DECL|function|brokenPipe
+DECL|function|initTestCase
+DECL|function|notified
+DECL|function|readFile
+DECL|function|readFile_data
+DECL|function|waitForNotified
+DECL|function|waitForNotified_data
+DECL|member|notifications
+DECL|member|notifiedBytesRead
+DECL|member|notifiedBytesRead
+DECL|member|notifiedErrorCode
+DECL|member|notifiedErrorCode
+DECL|member|sourceFileInfo

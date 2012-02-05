@@ -2,6 +2,7 @@ DECL|class|tst_QPainterPath
 DECL|function|angleAtPercent
 DECL|function|arcWinding
 DECL|function|arcWinding_data
+DECL|function|cleanupTestCase
 DECL|function|closing
 DECL|function|connectPathDuplicatePoint
 DECL|function|connectPathMoveTo

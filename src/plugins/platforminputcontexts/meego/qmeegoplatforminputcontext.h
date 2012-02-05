@@ -1,4 +1,0 @@
-DECL|macro|QMEEGOPLATFORMINPUTCONTEXT_H
-DECL|variable|QDBusMessage
-DECL|variable|QDBusVariant
-DECL|variable|QMeeGoPlatformInputContextPrivate

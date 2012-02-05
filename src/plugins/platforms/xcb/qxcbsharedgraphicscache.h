@@ -1,0 +1,2 @@
+DECL|macro|QXCBSHAREDGRAPHICSCACHE
+DECL|variable|QXcbSharedBufferManager

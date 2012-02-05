@@ -1,2 +1,1 @@
-DECL|function|QT_MODULE
 DECL|macro|QTESTELEMENT_P_H

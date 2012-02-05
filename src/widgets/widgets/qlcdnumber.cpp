@@ -19,7 +19,6 @@ DECL|function|int2string
 DECL|function|intValue
 DECL|function|internalSetString
 DECL|function|mode
-DECL|function|numDigits
 DECL|function|paintEvent
 DECL|function|segmentStyle
 DECL|function|setBinMode
@@ -27,7 +26,6 @@ DECL|function|setDecMode
 DECL|function|setDigitCount
 DECL|function|setHexMode
 DECL|function|setMode
-DECL|function|setNumDigits
 DECL|function|setOctMode
 DECL|function|setSegmentStyle
 DECL|function|setSmallDecimalPoint

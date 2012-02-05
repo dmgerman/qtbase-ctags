@@ -2,5 +2,6 @@ DECL|function|operator
 DECL|function|operator
 DECL|macro|QTREEWIDGETITEMITERATOR_H
 DECL|variable|QTreeModel
+DECL|variable|QTreeWidget
 DECL|variable|QTreeWidgetItem
 DECL|variable|QTreeWidgetItemIteratorPrivate

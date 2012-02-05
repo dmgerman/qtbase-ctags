@@ -60,6 +60,7 @@ DECL|function|inputMask
 DECL|function|inputMaskAndValidator
 DECL|function|inputMaskAndValidator_data
 DECL|function|inputMask_data
+DECL|function|inputMethod
 DECL|function|inputMethodSelection
 DECL|function|inputMethodTentativeCommit
 DECL|function|insert

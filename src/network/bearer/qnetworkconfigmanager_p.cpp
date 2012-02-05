@@ -1,6 +1,7 @@
 DECL|function|QNetworkConfigurationManagerPrivate
 DECL|function|allConfigurations
 DECL|function|capabilities
+DECL|function|cleanup
 DECL|function|configurationAdded
 DECL|function|configurationChanged
 DECL|function|configurationFromIdentifier
@@ -9,6 +10,7 @@ DECL|function|defaultConfiguration
 DECL|function|disablePolling
 DECL|function|enablePolling
 DECL|function|engines
+DECL|function|initialize
 DECL|function|isOnline
 DECL|function|performAsyncConfigurationUpdate
 DECL|function|pollEngines

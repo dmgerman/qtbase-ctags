@@ -1,5 +1,6 @@
 DECL|class|tst_QTextDocumentLayout
 DECL|function|cleanup
+DECL|function|cleanupTestCase
 DECL|function|clippedTableCell
 DECL|function|defaultPageSizeHandling
 DECL|function|floatingTablePageBreak

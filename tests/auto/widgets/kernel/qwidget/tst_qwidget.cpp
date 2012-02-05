@@ -217,7 +217,6 @@ DECL|function|resizeMe
 DECL|function|resizeUp
 DECL|function|restoreVersion1Geometry
 DECL|function|restoreVersion1Geometry_data
-DECL|function|retainHIView
 DECL|function|saveRestoreGeometry
 DECL|function|scroll
 DECL|function|scrollWithoutBackingStore
@@ -310,7 +309,6 @@ DECL|macro|SET_SAFE_SIZE
 DECL|macro|SPI_GETPLATFORMTYPE
 DECL|macro|VERIFY_COLOR
 DECL|macro|VERIFY_STATE
-DECL|macro|verify
 DECL|member|box
 DECL|member|button
 DECL|member|color

@@ -1,1 +1,0 @@
-DECL|macro|_libmng_object_prc_h_

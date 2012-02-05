@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|function|qBinaryFind
 DECL|function|qBinaryFind
 DECL|function|qBinaryFind

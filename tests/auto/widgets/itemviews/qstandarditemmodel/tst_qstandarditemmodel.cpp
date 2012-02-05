@@ -42,6 +42,7 @@ DECL|function|insertRowsItems
 DECL|function|itemDataChanged
 DECL|function|itemFromIndex
 DECL|function|itemFromText
+DECL|function|itemRoleNames
 DECL|function|modelChanged
 DECL|function|persistentIndexes
 DECL|function|removeColumns

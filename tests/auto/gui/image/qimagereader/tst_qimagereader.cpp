@@ -9,8 +9,6 @@ DECL|function|cleanup
 DECL|function|connected
 DECL|function|devicePosition
 DECL|function|devicePosition_data
-DECL|function|dotsPerMeter
-DECL|function|dotsPerMeter_data
 DECL|function|fileNameProbing
 DECL|function|getSetCheck
 DECL|function|gifHandlerBugs
@@ -25,8 +23,6 @@ DECL|function|jpegRgbCmyk
 DECL|function|msgIgnoreFormatAndExtensionFail
 DECL|function|msgReadFromDeviceFail
 DECL|function|multiWordNamedColorXPM
-DECL|function|physicalDpi
-DECL|function|physicalDpi_data
 DECL|function|pixelCompareWithBaseline
 DECL|function|pixelCompareWithBaseline_data
 DECL|function|preserveTexts
@@ -70,12 +66,6 @@ DECL|function|task255627_setNullScaledSize
 DECL|function|task255627_setNullScaledSize_data
 DECL|function|testIgnoresFormatAndExtension
 DECL|function|testIgnoresFormatAndExtension_data
-DECL|function|tiffCompression
-DECL|function|tiffCompression_data
-DECL|function|tiffEndianness
-DECL|function|tiffGrayscale
-DECL|function|tiffOrientation
-DECL|function|tiffOrientation_data
 DECL|function|transparentXPM
 DECL|function|tst_QImageReader
 DECL|function|~tst_QImageReader

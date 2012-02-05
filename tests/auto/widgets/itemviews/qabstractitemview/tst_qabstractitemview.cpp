@@ -30,6 +30,7 @@ DECL|function|columnDelegate
 DECL|function|createEditor
 DECL|function|ctrlA
 DECL|function|ctrlRubberbandSelection
+DECL|function|destroyEditor
 DECL|function|dragSelect
 DECL|function|emptyModels
 DECL|function|emptyModels_data
@@ -55,6 +56,7 @@ DECL|function|task200665_itemEntered
 DECL|function|task221955_selectedEditor
 DECL|function|task250754_fontChange
 DECL|function|task257481_emptyEditor
+DECL|function|testDelegateDestroyEditor
 DECL|function|tst_QAbstractItemView
 DECL|function|tst_closeEditor
 DECL|function|tst_commitData
@@ -93,5 +95,7 @@ DECL|function|tst_viewOptions
 DECL|function|tst_visualRegionForSelection
 DECL|function|~tst_QAbstractItemView
 DECL|macro|TRY_COMPARE
+DECL|member|calledVirtualDtor
+DECL|member|openedEditor
 DECL|member|setData_count
 DECL|typedef|IntList

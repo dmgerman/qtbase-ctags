@@ -3,7 +3,6 @@ DECL|function|QSize
 DECL|function|QSizeF
 DECL|function|QSizeF
 DECL|function|QSizeF
-DECL|function|QT_MODULE
 DECL|function|height
 DECL|function|height
 DECL|function|isEmpty

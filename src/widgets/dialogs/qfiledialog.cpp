@@ -44,7 +44,6 @@ DECL|function|done
 DECL|function|emitFilesSelected
 DECL|function|fileMode
 DECL|function|filter
-DECL|function|filters
 DECL|function|getEnvironmentVariable
 DECL|function|getExistingDirectory
 DECL|function|getOpenFileName
@@ -66,6 +65,7 @@ DECL|function|keyPressEvent
 DECL|function|keyPressEvent
 DECL|function|labelText
 DECL|function|lineEdit
+DECL|function|maxNameLength
 DECL|function|nameFilters
 DECL|function|open
 DECL|function|options
@@ -85,10 +85,8 @@ DECL|function|rootIndex
 DECL|function|saveState
 DECL|function|select
 DECL|function|selectFile
-DECL|function|selectFilter
 DECL|function|selectNameFilter
 DECL|function|selectedFiles
-DECL|function|selectedFilter
 DECL|function|selectedNameFilter
 DECL|function|setAcceptMode
 DECL|function|setConfirmOverwrite
@@ -99,8 +97,6 @@ DECL|function|setFileDialogPrivate
 DECL|function|setFileDialogPrivate
 DECL|function|setFileMode
 DECL|function|setFilter
-DECL|function|setFilter
-DECL|function|setFilters
 DECL|function|setHistory
 DECL|function|setHistory
 DECL|function|setIconProvider

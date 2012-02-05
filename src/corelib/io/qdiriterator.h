@@ -1,1 +1,2 @@
 DECL|macro|QDIRITERATOR_H
+DECL|variable|QDirIteratorPrivate

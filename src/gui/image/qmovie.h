@@ -1,4 +1,5 @@
 DECL|macro|QMOVIE_H
+DECL|variable|QByteArray
 DECL|variable|QColor
 DECL|variable|QIODevice
 DECL|variable|QImage

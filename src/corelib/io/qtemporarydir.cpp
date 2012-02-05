@@ -6,6 +6,7 @@ DECL|function|autoRemove
 DECL|function|create
 DECL|function|defaultTemplateName
 DECL|function|isValid
+DECL|function|mkdtemp
 DECL|function|path
 DECL|function|remove
 DECL|function|setAutoRemove

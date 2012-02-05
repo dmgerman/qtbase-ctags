@@ -68,6 +68,7 @@ DECL|function|softExitInSlots_data
 DECL|function|spaceArgsTest
 DECL|function|spaceArgsTest_data
 DECL|function|spaceInName
+DECL|function|start
 DECL|function|startDetached
 DECL|function|startFailMessage
 DECL|function|startFinishStartFinish
@@ -81,8 +82,11 @@ DECL|function|waitForFinishedWithTimeout
 DECL|function|waitForReadyReadForNonexistantProcess
 DECL|function|waitForReadyReadInAReadyReadSlot
 DECL|function|waitForReadyReadInAReadyReadSlotSlot
+DECL|function|writeAfterStart
+DECL|function|writePendingData
 DECL|macro|QPROCESS_VERIFY
 DECL|member|bytesAvailable
+DECL|member|dataToWrite
 DECL|member|exitCode
 DECL|member|killing
 DECL|member|n

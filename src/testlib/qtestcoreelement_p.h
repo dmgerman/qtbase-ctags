@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|function|QTestCoreElement
 DECL|function|addAttribute
 DECL|function|attribute

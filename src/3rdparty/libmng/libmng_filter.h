@@ -1,1 +1,0 @@
-DECL|macro|_libmng_filter_h_

@@ -137,3 +137,4 @@ DECL|typedef|PathHash
 DECL|variable|charTraits
 DECL|variable|globalDefaultFormat
 DECL|variable|hexDigits
+DECL|variable|settingsGlobalMutex

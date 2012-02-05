@@ -134,6 +134,8 @@ DECL|function|sqlite_constraint
 DECL|function|sqlite_constraint_data
 DECL|function|sqlite_finish
 DECL|function|sqlite_finish_data
+DECL|function|sqlite_real
+DECL|function|sqlite_real_data
 DECL|function|storedProceduresIBase
 DECL|function|storedProceduresIBase_data
 DECL|function|synonyms

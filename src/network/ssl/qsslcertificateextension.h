@@ -1,1 +1,2 @@
 DECL|macro|QSSLCERTIFICATEEXTENSION_H
+DECL|variable|QSslCertificateExtensionPrivate

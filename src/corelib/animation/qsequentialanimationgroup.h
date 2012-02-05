@@ -1,2 +1,3 @@
 DECL|macro|QSEQUENTIALANIMATIONGROUP_H
+DECL|variable|QPauseAnimation
 DECL|variable|QSequentialAnimationGroupPrivate

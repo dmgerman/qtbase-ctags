@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|function|qFromBigEndian
 DECL|function|qFromBigEndian
 DECL|function|qFromBigEndian
@@ -27,6 +26,7 @@ DECL|function|qToLittleEndian
 DECL|function|qToLittleEndian
 DECL|function|qToUnaligned
 DECL|function|qbswap
+DECL|function|qbswap_helper
 DECL|function|qint16
 DECL|function|qint16
 DECL|function|qint16

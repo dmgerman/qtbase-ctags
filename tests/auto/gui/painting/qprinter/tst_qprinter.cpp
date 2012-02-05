@@ -1,4 +1,6 @@
+DECL|class|TempFileCleanup
 DECL|class|tst_QPrinter
+DECL|function|TempFileCleanup
 DECL|function|changingOutputFormat
 DECL|function|computePageValue
 DECL|function|errorReporting
@@ -26,4 +28,6 @@ DECL|function|testPageSize
 DECL|function|testPdfTitle
 DECL|function|testSetOptions
 DECL|function|valuePreservation
+DECL|function|~TempFileCleanup
 DECL|macro|MYCOMPARE
+DECL|member|m_file

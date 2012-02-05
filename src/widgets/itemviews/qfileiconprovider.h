@@ -1,1 +1,2 @@
 DECL|macro|QFILEICONPROVIDER_H
+DECL|variable|QFileIconProviderPrivate

@@ -20,8 +20,6 @@ DECL|function|codecForUtfText
 DECL|function|convertFromUnicode
 DECL|function|convertToUnicode
 DECL|function|convertToUnicodeCharByChar
-DECL|function|createForMib
-DECL|function|createForName
 DECL|function|fromUnicode
 DECL|function|fromUnicode
 DECL|function|fromUnicode

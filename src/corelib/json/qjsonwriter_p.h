@@ -1,0 +1,1 @@
+DECL|macro|QJSONWRITER_P_H

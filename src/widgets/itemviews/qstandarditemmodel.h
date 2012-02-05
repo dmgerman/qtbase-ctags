@@ -20,6 +20,7 @@ DECL|function|setTextAlignment
 DECL|function|setToolTip
 DECL|function|setWhatsThis
 DECL|macro|QSTANDARDITEMMODEL_H
+DECL|variable|QList
 DECL|variable|QStandardItemModel
 DECL|variable|QStandardItemModelPrivate
 DECL|variable|QStandardItemPrivate

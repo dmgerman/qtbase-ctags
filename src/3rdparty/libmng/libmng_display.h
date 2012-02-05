@@ -1,1 +1,0 @@
-DECL|macro|_libmng_display_h_

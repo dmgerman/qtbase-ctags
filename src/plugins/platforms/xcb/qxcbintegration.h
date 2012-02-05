@@ -1,3 +1,4 @@
 DECL|macro|QXCBINTEGRATION_H
 DECL|variable|QAbstractEventDispatcher
 DECL|variable|QXcbConnection
+DECL|variable|QXcbNativeInterface

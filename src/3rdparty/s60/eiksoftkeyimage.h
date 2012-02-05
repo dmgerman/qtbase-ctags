@@ -1,2 +1,0 @@
-DECL|macro|EIKSOFTKEYIMAGE_H
-DECL|variable|CEikButtonGroupContainer

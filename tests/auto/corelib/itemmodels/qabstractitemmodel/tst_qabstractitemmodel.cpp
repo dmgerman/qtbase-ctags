@@ -1,5 +1,6 @@
 DECL|class|CustomRoleModel
 DECL|class|ListenerObject
+DECL|class|ModelWithCustomRole
 DECL|class|OverrideRoleNamesAndDragActions
 DECL|class|QtTestModel
 DECL|class|SignalArgumentChecker
@@ -10,10 +11,13 @@ DECL|enumerator|UserRole
 DECL|enum|Roles
 DECL|function|CustomRoleModel
 DECL|function|ListenerObject
+DECL|function|ModelWithCustomRole
 DECL|function|OverrideRoleNamesAndDragActions
 DECL|function|QtTestModel
 DECL|function|QtTestModel
 DECL|function|SignalArgumentChecker
+DECL|function|canDropMimeData
+DECL|function|canDropMimeData
 DECL|function|changePersistentIndex
 DECL|function|cleanup
 DECL|function|columnCount
@@ -40,7 +44,11 @@ DECL|function|itemFlags
 DECL|function|layoutAboutToBeChanged
 DECL|function|layoutChanged
 DECL|function|match
+DECL|function|moveColumns
+DECL|function|moveColumns
 DECL|function|movePersistentIndex
+DECL|function|moveRows
+DECL|function|moveRows
 DECL|function|parent
 DECL|function|parent
 DECL|function|qStringTableRow

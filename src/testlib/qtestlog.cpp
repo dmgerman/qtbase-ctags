@@ -15,6 +15,7 @@ DECL|function|clearList
 DECL|function|destroyLoggers
 DECL|function|enterTestFunction
 DECL|function|enterTestFunction
+DECL|function|failCount
 DECL|function|handleIgnoredMessage
 DECL|function|ignoreMessage
 DECL|function|info
@@ -25,10 +26,13 @@ DECL|function|loggerCount
 DECL|function|loggerUsingStdout
 DECL|function|messageHandler
 DECL|function|outputString
+DECL|function|passCount
 DECL|function|printUnhandledIgnoreMessages
+DECL|function|resetCounters
 DECL|function|setMaxWarnings
 DECL|function|setPrintAvailableTagsMode
 DECL|function|setVerboseLevel
+DECL|function|skipCount
 DECL|function|startLogging
 DECL|function|startLogging
 DECL|function|stopLogging
@@ -39,6 +43,7 @@ DECL|function|warn
 DECL|function|~IgnoreResultList
 DECL|macro|FOREACH_LOGGER
 DECL|macro|FOREACH_LOGGER
+DECL|member|fails
 DECL|member|ignoreResultList
 DECL|member|logger
 DECL|member|loggerUsingStdout
@@ -49,7 +54,9 @@ DECL|member|msg
 DECL|member|next
 DECL|member|next
 DECL|member|oldMessageHandler
+DECL|member|passes
 DECL|member|printAvailableTags
+DECL|member|skips
 DECL|member|type
 DECL|member|verbosity
 DECL|namespace|QTest

@@ -22,6 +22,7 @@ DECL|function|blendOverFlow_data
 DECL|function|checkCompositionMode
 DECL|function|childWidgetViewport
 DECL|function|cleanup
+DECL|function|cleanupTestCase
 DECL|function|clipBoundingRect
 DECL|function|clipRectSaveRestore
 DECL|function|clippedFillPath

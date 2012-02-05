@@ -1,1 +1,2 @@
 DECL|macro|QSTACKEDWIDGET_H
+DECL|variable|QStackedWidgetPrivate

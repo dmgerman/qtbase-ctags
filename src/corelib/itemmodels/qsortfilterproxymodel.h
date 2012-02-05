@@ -1,3 +1,4 @@
 DECL|macro|QSORTFILTERPROXYMODEL_H
 DECL|variable|QSortFilterProxyModelGreaterThan
 DECL|variable|QSortFilterProxyModelLessThan
+DECL|variable|QSortFilterProxyModelPrivate

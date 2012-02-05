@@ -1,6 +1,8 @@
 DECL|class|tst_QImage
 DECL|function|alphaChannel
 DECL|function|cacheKey
+DECL|function|cleanupFunction
+DECL|function|cleanupFunctions
 DECL|function|compareIndexed
 DECL|function|convertToFormat
 DECL|function|convertToFormatPreserveDotsPrMeter

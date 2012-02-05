@@ -1,0 +1,12 @@
+DECL|function|QXcbSharedGraphicsCache
+DECL|function|dereferenceBuffer
+DECL|function|ensureCacheInitialized
+DECL|function|insertItems
+DECL|function|processPendingItems
+DECL|function|referenceBuffer
+DECL|function|releaseItems
+DECL|function|requestItems
+DECL|function|serializeBuffer
+DECL|function|textureIdForBuffer
+DECL|macro|GL_GLEXT_PROTOTYPES
+DECL|macro|SHAREDGRAPHICSCACHE_DEBUG

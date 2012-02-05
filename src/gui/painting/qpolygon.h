@@ -8,6 +8,7 @@ DECL|function|translate
 DECL|function|translated
 DECL|function|translated
 DECL|macro|QPOLYGON_H
+DECL|variable|QMatrix
 DECL|variable|QRect
 DECL|variable|QRectF
 DECL|variable|QTransform

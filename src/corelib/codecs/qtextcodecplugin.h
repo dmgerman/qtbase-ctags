@@ -1,5 +1,0 @@
-DECL|function|Q_DECLARE_INTERFACE
-DECL|macro|QTEXTCODECPLUGIN_H
-DECL|macro|QTextCodecFactoryInterface_iid
-DECL|member|key
-DECL|struct|QFactoryInterface

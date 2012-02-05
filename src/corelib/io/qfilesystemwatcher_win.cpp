@@ -1,3 +1,4 @@
+DECL|function|Handle
 DECL|function|QWindowsFileSystemWatcherEngineThread
 DECL|function|addPaths
 DECL|function|msgFindNextFailed

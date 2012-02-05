@@ -13,6 +13,7 @@ DECL|function|handleResizeEvent
 DECL|function|handleTouchEvent
 DECL|function|handleWheelEvent
 DECL|function|handleWindowStateChangedEvent
+DECL|function|nativeEvent
 DECL|function|updateGeometry
 DECL|variable|qt_button_down
 DECL|variable|qt_last_mouse_receiver

@@ -1,2 +1,1 @@
-DECL|function|QT_MODULE
 DECL|macro|QCDESTYLE_H

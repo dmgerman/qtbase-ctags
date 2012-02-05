@@ -1,1 +1,2 @@
 DECL|macro|QTEXTBROWSER_H
+DECL|variable|QTextBrowserPrivate

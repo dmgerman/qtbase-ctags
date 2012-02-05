@@ -1,5 +1,4 @@
 DECL|function|QCache
-DECL|function|QT_MODULE
 DECL|function|clear
 DECL|function|insert
 DECL|function|object
@@ -9,6 +8,7 @@ DECL|function|setMaxCost
 DECL|function|take
 DECL|function|trim
 DECL|macro|QCACHE_H
+DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key

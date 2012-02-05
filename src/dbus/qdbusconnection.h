@@ -1,4 +1,3 @@
-DECL|function|QT_MODULE
 DECL|macro|QDBUSCONNECTION_H
 DECL|variable|QDBusAbstractInterfacePrivate
 DECL|variable|QDBusConnectionInterface

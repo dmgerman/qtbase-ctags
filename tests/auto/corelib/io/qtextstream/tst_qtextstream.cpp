@@ -37,6 +37,7 @@ DECL|function|int_read_with_locale
 DECL|function|int_read_with_locale_data
 DECL|function|int_write_with_locale
 DECL|function|int_write_with_locale_data
+DECL|function|latin1String_write_operator_ToDevice
 DECL|function|lineCount
 DECL|function|lineCount_data
 DECL|function|manipulators

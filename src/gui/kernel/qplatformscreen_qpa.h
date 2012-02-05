@@ -1,6 +1,7 @@
 DECL|macro|QPLATFORMSCREEN_H
 DECL|typedef|QDpi
 DECL|typedef|qreal
+DECL|variable|QPlatformBackingStore
 DECL|variable|QPlatformOpenGLContext
 DECL|variable|QPlatformScreenPrivate
 DECL|variable|QPlatformWindow

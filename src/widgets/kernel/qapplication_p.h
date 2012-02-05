@@ -25,7 +25,6 @@ DECL|variable|QClipboard
 DECL|variable|QDirectPainter
 DECL|variable|QGestureManager
 DECL|variable|QGraphicsScene
-DECL|variable|QInputContext
 DECL|variable|QObject
 DECL|variable|QSocketNotifier
 DECL|variable|QTouchDevice

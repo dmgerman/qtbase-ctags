@@ -5,7 +5,6 @@ DECL|function|FakeBuffer
 DECL|function|HashData
 DECL|function|MapData
 DECL|function|QBitArrayData
-DECL|function|QBoolData
 DECL|function|QColorData
 DECL|function|QEasingCurveData
 DECL|function|QRegExpData
@@ -39,7 +38,6 @@ DECL|function|readData
 DECL|function|readHash
 DECL|function|readMap
 DECL|function|readQBitArray
-DECL|function|readQBool
 DECL|function|readQBrush
 DECL|function|readQByteArray
 DECL|function|readQColor
@@ -90,9 +88,6 @@ DECL|function|stream_Map
 DECL|function|stream_Map_data
 DECL|function|stream_QBitArray
 DECL|function|stream_QBitArray_data
-DECL|function|stream_QBool
-DECL|function|stream_QBool_data
-DECL|function|stream_QBool_in_4_0
 DECL|function|stream_QBrush
 DECL|function|stream_QBrush_data
 DECL|function|stream_QByteArray
@@ -147,7 +142,6 @@ DECL|function|writeData
 DECL|function|writeHash
 DECL|function|writeMap
 DECL|function|writeQBitArray
-DECL|function|writeQBool
 DECL|function|writeQBrush
 DECL|function|writeQByteArray
 DECL|function|writeQColor

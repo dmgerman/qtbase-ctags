@@ -13,11 +13,8 @@ DECL|function|currentTestFunction
 DECL|function|currentTestLocation
 DECL|function|currentTestObjectName
 DECL|function|expectFail
-DECL|function|failCount
 DECL|function|finishedCurrentTestFunction
-DECL|function|ignoreMessage
 DECL|function|isExpectFailData
-DECL|function|passCount
 DECL|function|reset
 DECL|function|setCurrentGlobalTestData
 DECL|function|setCurrentTestData
@@ -25,7 +22,6 @@ DECL|function|setCurrentTestFunction
 DECL|function|setCurrentTestLocation
 DECL|function|setCurrentTestObject
 DECL|function|setSkipCurrentTest
-DECL|function|skipCount
 DECL|function|skipCurrentTest
 DECL|function|testFailed
 DECL|function|verify
@@ -37,9 +33,6 @@ DECL|member|dataFailed
 DECL|member|expectFailComment
 DECL|member|expectFailMode
 DECL|member|failed
-DECL|member|fails
 DECL|member|location
-DECL|member|passes
 DECL|member|skipCurrentTest
-DECL|member|skips
 DECL|namespace|QTest

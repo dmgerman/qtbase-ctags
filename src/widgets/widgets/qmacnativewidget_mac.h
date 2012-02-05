@@ -1,1 +1,2 @@
 DECL|macro|QMACNATIVEWIDGET_H
+DECL|variable|QMacNativeWidgetPrivate

@@ -2,3 +2,4 @@ DECL|macro|QNETWORKPROXY_H
 DECL|variable|QNetworkConfiguration
 DECL|variable|QNetworkProxyPrivate
 DECL|variable|QNetworkProxyQueryPrivate
+DECL|variable|QUrl

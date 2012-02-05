@@ -16,7 +16,6 @@ DECL|function|getWord0
 DECL|function|getWord1
 DECL|function|hi0bits
 DECL|function|i2b
-DECL|function|isascii
 DECL|function|lo0bits
 DECL|function|lshift
 DECL|function|mult

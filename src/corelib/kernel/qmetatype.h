@@ -31,6 +31,7 @@ DECL|macro|QT_FOR_EACH_STATIC_TYPE
 DECL|macro|QT_FOR_EACH_STATIC_WIDGETS_CLASS
 DECL|macro|Q_DECLARE_BUILTIN_METATYPE
 DECL|macro|Q_DECLARE_METATYPE
+DECL|macro|Q_DECLARE_METATYPE_TEMPLATE_1ARG
 DECL|struct|QMetaTypeId
 DECL|struct|QMetaTypeId2
 DECL|typedef|QString
@@ -38,9 +39,16 @@ DECL|typedef|QString
 DECL|typedef|QVariantHash
 DECL|typedef|QVariantList
 DECL|typedef|QVariantMap
+DECL|variable|QDataStream
 DECL|variable|QHash
-DECL|variable|QList
+DECL|variable|QLinkedList
 DECL|variable|QMap
 DECL|variable|QObject
+DECL|variable|QQueue
+DECL|variable|QSet
+DECL|variable|QSharedPointer
+DECL|variable|QStack
+DECL|variable|QVector
+DECL|variable|QWidget
 DECL|variable|T1
 DECL|variable|T1

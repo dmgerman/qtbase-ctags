@@ -1,6 +1,7 @@
 DECL|function|nativeResourceForBackingStore
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
+DECL|function|setEventFilter
 DECL|function|setWindowProperty
 DECL|function|windowProperties
 DECL|function|windowProperty

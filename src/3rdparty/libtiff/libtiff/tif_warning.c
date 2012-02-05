@@ -1,5 +1,0 @@
-DECL|function|TIFFSetWarningHandler
-DECL|function|TIFFSetWarningHandlerExt
-DECL|function|TIFFWarning
-DECL|function|TIFFWarningExt
-DECL|variable|_TIFFwarningHandlerExt

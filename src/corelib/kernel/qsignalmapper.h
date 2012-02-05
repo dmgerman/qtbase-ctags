@@ -1,1 +1,2 @@
 DECL|macro|QSIGNALMAPPER_H
+DECL|variable|QSignalMapperPrivate

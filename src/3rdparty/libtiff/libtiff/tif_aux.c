@@ -1,5 +1,0 @@
-DECL|function|TIFFDefaultTransferFunction
-DECL|function|TIFFGetFieldDefaulted
-DECL|function|TIFFVGetFieldDefaulted
-DECL|function|_TIFFCheckMalloc
-DECL|function|_TIFFCheckRealloc

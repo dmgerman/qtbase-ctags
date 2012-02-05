@@ -1,4 +1,5 @@
 DECL|macro|QPIXMAPFILTER_H
+DECL|variable|QPainter
 DECL|variable|QPixmapBlurFilterPrivate
 DECL|variable|QPixmapColorizeFilterPrivate
 DECL|variable|QPixmapConvolutionFilterPrivate

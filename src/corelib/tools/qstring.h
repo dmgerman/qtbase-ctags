@@ -82,6 +82,7 @@ DECL|struct|QStaticStringData
 DECL|struct|QStaticStringDataPtr
 DECL|struct|QStringData
 DECL|typedef|QLatin1Literal
+DECL|variable|QCharRef
 DECL|variable|QLatin1String
 DECL|variable|QRegExp
 DECL|variable|QStringList

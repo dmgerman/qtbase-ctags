@@ -1,1 +1,2 @@
 DECL|macro|QFONTCOMBOBOX_H
+DECL|variable|QFontComboBoxPrivate

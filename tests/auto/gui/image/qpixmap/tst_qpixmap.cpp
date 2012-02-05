@@ -2,6 +2,7 @@ DECL|class|tst_QPixmap
 DECL|function|bitmapMask
 DECL|function|cacheKey
 DECL|function|cleanup
+DECL|function|cleanupTestCase
 DECL|function|compareImages
 DECL|function|convertFromImage
 DECL|function|convertFromImageDetach

@@ -6,6 +6,7 @@ DECL|variable|QPalette
 DECL|variable|QRect
 DECL|variable|QRegion
 DECL|variable|QTextBlock
+DECL|variable|QTextEngine
 DECL|variable|QTextFormat
 DECL|variable|QTextFormat
 DECL|variable|QTextLine

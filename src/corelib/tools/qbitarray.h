@@ -10,3 +10,4 @@ DECL|function|setBit
 DECL|function|testBit
 DECL|function|toggleBit
 DECL|macro|QBITARRAY_H
+DECL|variable|QBitRef

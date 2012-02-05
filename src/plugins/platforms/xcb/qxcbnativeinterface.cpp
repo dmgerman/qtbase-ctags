@@ -1,4 +1,5 @@
 DECL|class|QXcbResourceMap
+DECL|function|QXcbNativeInterface
 DECL|function|QXcbResourceMap
 DECL|function|connectionForWindow
 DECL|function|displayForWindow
@@ -9,3 +10,4 @@ DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
 DECL|function|qPlatformScreenForWindow
 DECL|function|screenForWindow
+DECL|function|setEventFilter

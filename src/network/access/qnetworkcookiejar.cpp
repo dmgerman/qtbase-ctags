@@ -1,8 +1,12 @@
 DECL|function|QNetworkCookieJar
 DECL|function|allCookies
 DECL|function|cookiesForUrl
+DECL|function|deleteCookie
+DECL|function|insertCookie
 DECL|function|isParentDomain
 DECL|function|isParentPath
 DECL|function|setAllCookies
 DECL|function|setCookiesFromUrl
+DECL|function|updateCookie
+DECL|function|validateCookie
 DECL|function|~QNetworkCookieJar

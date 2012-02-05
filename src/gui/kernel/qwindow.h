@@ -15,3 +15,4 @@ DECL|variable|QScreen
 DECL|variable|QShowEvent
 DECL|variable|QTouchEvent
 DECL|variable|QWheelEvent
+DECL|variable|QWindowPrivate

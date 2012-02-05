@@ -1,1 +1,2 @@
 DECL|macro|QSTACKEDLAYOUT_H
+DECL|variable|QStackedLayoutPrivate

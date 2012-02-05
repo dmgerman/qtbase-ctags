@@ -9,7 +9,6 @@ DECL|function|clear
 DECL|function|clearCache
 DECL|function|clearChanges
 DECL|function|clearDictionary
-DECL|function|clearEditBuffer
 DECL|function|data
 DECL|function|init
 DECL|function|insertRowIntoTable

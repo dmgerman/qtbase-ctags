@@ -6,3 +6,4 @@ DECL|function|set
 DECL|function|~QThreadStorageData
 DECL|macro|DEBUG_MSG
 DECL|typedef|DestructorMap
+DECL|variable|destructorsMutex

@@ -1,2 +1,3 @@
 DECL|macro|QABSTRACTBUTTON_H
 DECL|variable|QAbstractButtonPrivate
+DECL|variable|QButtonGroup

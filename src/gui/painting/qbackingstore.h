@@ -4,3 +4,4 @@ DECL|variable|QImage
 DECL|variable|QPlatformBackingStore
 DECL|variable|QPoint
 DECL|variable|QRect
+DECL|variable|QRegion

@@ -19,6 +19,7 @@ DECL|function|beginRemoveColumns
 DECL|function|beginRemoveRows
 DECL|function|beginResetModel
 DECL|function|buddy
+DECL|function|canDropMimeData
 DECL|function|canFetchMore
 DECL|function|changePersistentIndex
 DECL|function|changePersistentIndexList
@@ -74,7 +75,9 @@ DECL|function|match
 DECL|function|mimeData
 DECL|function|mimeTypes
 DECL|function|model
+DECL|function|moveColumns
 DECL|function|movePersistentIndexes
+DECL|function|moveRows
 DECL|function|operator !=
 DECL|function|operator <
 DECL|function|operator <<
@@ -92,7 +95,6 @@ DECL|function|persistentIndexList
 DECL|function|removeColumns
 DECL|function|removePersistentIndexData
 DECL|function|removeRows
-DECL|function|reset
 DECL|function|revert
 DECL|function|roleNames
 DECL|function|row

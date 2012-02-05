@@ -1,1 +1,2 @@
 DECL|macro|QERRORMESSAGE_H
+DECL|variable|QErrorMessagePrivate

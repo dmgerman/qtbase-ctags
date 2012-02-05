@@ -1,5 +1,7 @@
 DECL|class|QSQLite2DriverPrivate
 DECL|class|QSQLite2ResultPrivate
+DECL|enumerator|Value
+DECL|enumerator|Value
 DECL|function|QSQLite2Driver
 DECL|function|QSQLite2Driver
 DECL|function|QSQLite2DriverPrivate
@@ -42,5 +44,8 @@ DECL|member|skipRow
 DECL|member|skippedStatus
 DECL|member|utf8
 DECL|member|utf8
+DECL|namespace|QtPrivate
+DECL|struct|IsPointerToTypeDerivedFromQObject
+DECL|struct|IsPointerToTypeDerivedFromQObject
 DECL|typedef|sqlite_vm
 DECL|variable|initial_cache_size

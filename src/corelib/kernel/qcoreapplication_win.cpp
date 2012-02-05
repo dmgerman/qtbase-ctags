@@ -13,6 +13,7 @@ DECL|function|qWinAppCmdShow
 DECL|function|qWinAppInst
 DECL|function|qWinAppPrevInst
 DECL|function|qWinMain
+DECL|function|qWinMessageHandler
 DECL|function|qWinMsgHandler
 DECL|function|removePostedTimerEvent
 DECL|function|unlock

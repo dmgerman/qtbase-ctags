@@ -183,7 +183,6 @@ DECL|function|doctype
 DECL|function|doctype
 DECL|function|documentElement
 DECL|function|documentElement
-DECL|function|dummy
 DECL|function|elementById
 DECL|function|elementsByTagName
 DECL|function|elementsByTagName

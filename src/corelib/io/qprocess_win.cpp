@@ -2,7 +2,9 @@ DECL|function|_q_notified
 DECL|function|bytesAvailableFromStderr
 DECL|function|bytesAvailableFromStdout
 DECL|function|createChannel
+DECL|function|destroyChannel
 DECL|function|destroyPipe
+DECL|function|drainOutputPipes
 DECL|function|duplicateStdWriteChannel
 DECL|function|findExitCode
 DECL|function|flushPipeWriter
@@ -26,3 +28,4 @@ DECL|function|waitForStarted
 DECL|function|waitForWrite
 DECL|function|writeToStdin
 DECL|macro|NOTIFYTIMEOUT
+DECL|macro|PIPE_REJECT_REMOTE_CLIENTS

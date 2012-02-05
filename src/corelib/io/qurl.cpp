@@ -13,7 +13,6 @@ DECL|enum|State
 DECL|function|QUrl
 DECL|function|QUrl
 DECL|function|QUrl
-DECL|function|QUrl
 DECL|function|QUrlErrorInfo
 DECL|function|QUrlPrivate
 DECL|function|QUrlPrivate
@@ -69,8 +68,6 @@ DECL|function|equal
 DECL|function|errorString
 DECL|function|fragment
 DECL|function|fromAce
-DECL|function|fromEncoded
-DECL|function|fromEncoded
 DECL|function|fromLocalFile
 DECL|function|fromPercentEncoding
 DECL|function|fromPercentEncodingHelper
@@ -113,7 +110,6 @@ DECL|function|parse
 DECL|function|password
 DECL|function|path
 DECL|function|port
-DECL|function|port
 DECL|function|qt_ACE_do
 DECL|function|qt_check_std3rules
 DECL|function|qt_is_idn_enabled
@@ -139,7 +135,6 @@ DECL|function|setEncodedPath
 DECL|function|setEncodedQuery
 DECL|function|setEncodedQueryItems
 DECL|function|setEncodedUrl
-DECL|function|setEncodedUrl
 DECL|function|setEncodedUserInfo
 DECL|function|setEncodedUserName
 DECL|function|setFragment
@@ -153,7 +148,6 @@ DECL|function|setQueryDelimiters
 DECL|function|setQueryItems
 DECL|function|setScheme
 DECL|function|setUrl
-DECL|function|setUrl
 DECL|function|setUserInfo
 DECL|function|setUserInfo
 DECL|function|setUserName
@@ -165,10 +159,12 @@ DECL|function|toHex
 DECL|function|toLocalFile
 DECL|function|toPercentEncoding
 DECL|function|toPercentEncodingHelper
+DECL|function|toPrettyPercentEncoding
 DECL|function|toPunycode
 DECL|function|toPunycodeHelper
 DECL|function|toString
 DECL|function|topLevelDomain
+DECL|function|url
 DECL|function|userInfo
 DECL|function|userInfo
 DECL|function|userName

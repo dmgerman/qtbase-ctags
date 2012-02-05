@@ -34,5 +34,3 @@ DECL|member|filePathIsTemplate
 DECL|member|templateName
 DECL|typedef|Char
 DECL|typedef|NativeFileHandle
-DECL|typedef|NativeFileHandle
-DECL|typedef|NativeFileHandle

@@ -3,7 +3,6 @@ DECL|function|QPoint
 DECL|function|QPointF
 DECL|function|QPointF
 DECL|function|QPointF
-DECL|function|QT_MODULE
 DECL|function|isNull
 DECL|function|isNull
 DECL|function|rx

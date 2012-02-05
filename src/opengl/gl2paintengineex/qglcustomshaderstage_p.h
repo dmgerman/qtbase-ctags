@@ -1,1 +1,2 @@
 DECL|macro|QGL_CUSTOM_SHADER_STAGE_H
+DECL|variable|QGLCustomShaderStagePrivate

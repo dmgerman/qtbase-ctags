@@ -49,6 +49,7 @@ DECL|function|hasQuery
 DECL|function|hasQueryItem
 DECL|function|hasQueryItem_data
 DECL|function|hasQuery_data
+DECL|function|hashInPath
 DECL|function|hosts
 DECL|function|hosts_data
 DECL|function|i18n
@@ -91,6 +92,7 @@ DECL|function|setAuthority_data
 DECL|function|setEncodedFragment
 DECL|function|setEncodedFragment_data
 DECL|function|setPort
+DECL|function|setQueryItems
 DECL|function|setUrl
 DECL|function|std3deviations
 DECL|function|std3deviations_data
@@ -113,6 +115,7 @@ DECL|function|toString_constructed
 DECL|function|toString_constructed_data
 DECL|function|toString_data
 DECL|function|tolerantParser
+DECL|function|unc
 DECL|function|ushortarray
 DECL|macro|IDNA_ACE_PREFIX
 DECL|macro|IDNA_SUCCESS

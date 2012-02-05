@@ -1,1 +1,2 @@
 DECL|macro|QEVENTTRANSITION_H
+DECL|variable|QEventTransitionPrivate
