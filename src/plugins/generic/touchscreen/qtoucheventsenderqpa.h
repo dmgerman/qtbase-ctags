@@ -1,2 +1,0 @@
-DECL|macro|QTOUCHEVENTSENDERQPA_H
-DECL|variable|QTouchDevice

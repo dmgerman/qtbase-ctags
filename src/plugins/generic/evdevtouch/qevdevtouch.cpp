@@ -3,13 +3,13 @@ DECL|function|Contact
 DECL|function|QTouchScreenData
 DECL|function|QTouchScreenHandler
 DECL|function|QTouchScreenHandlerThread
-DECL|function|addObserver
 DECL|function|assignIds
 DECL|function|findClosestContact
 DECL|function|processInputEvent
 DECL|function|readData
+DECL|function|registerDevice
+DECL|function|reportPoints
 DECL|function|run
-DECL|function|try_udev
 DECL|function|~QTouchScreenHandler
 DECL|function|~QTouchScreenHandlerThread
 DECL|member|flags
@@ -22,9 +22,10 @@ DECL|member|hw_range_y_max
 DECL|member|hw_range_y_min
 DECL|member|m_contacts
 DECL|member|m_currentData
+DECL|member|m_device
+DECL|member|m_forceToActiveWindow
 DECL|member|m_lastContacts
 DECL|member|m_lastEventType
-DECL|member|m_observers
 DECL|member|m_touchPoints
 DECL|member|maj
 DECL|member|pressure
