@@ -11,6 +11,7 @@ DECL|enumerator|Editable
 DECL|enumerator|EnumOrFlag
 DECL|enumerator|Final
 DECL|enumerator|Invalid
+DECL|enumerator|MetaObjectPrivateFieldCount
 DECL|enumerator|MethodCloned
 DECL|enumerator|MethodCompatibility
 DECL|enumerator|MethodConstructor
