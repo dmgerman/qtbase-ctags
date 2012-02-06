@@ -6,6 +6,7 @@ DECL|function|event
 DECL|function|initTestCase
 DECL|function|registerTimer
 DECL|function|sendPostedEvents
+DECL|function|sendPostedEvents_data
 DECL|function|tst_QEventDispatcher
 DECL|macro|FIND_TIMERS
 DECL|macro|FIND_TIMERS
