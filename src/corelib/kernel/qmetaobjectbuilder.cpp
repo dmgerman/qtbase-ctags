@@ -82,6 +82,8 @@ DECL|function|name
 DECL|function|name
 DECL|function|notifySignal
 DECL|function|parameterNames
+DECL|function|parameterTypes
+DECL|function|parameterTypes
 DECL|function|preferredAlignment
 DECL|function|priv
 DECL|function|property
