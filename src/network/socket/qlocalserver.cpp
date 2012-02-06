@@ -12,5 +12,7 @@ DECL|function|removeServer
 DECL|function|serverError
 DECL|function|serverName
 DECL|function|setMaxPendingConnections
+DECL|function|setSocketOptions
+DECL|function|socketOptions
 DECL|function|waitForNewConnection
 DECL|function|~QLocalServer

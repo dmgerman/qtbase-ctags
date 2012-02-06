@@ -46,6 +46,8 @@ DECL|function|socket_basic
 DECL|function|syncDisconnectNotify
 DECL|function|threadedConnection
 DECL|function|threadedConnection_data
+DECL|function|verifySocketOptions
+DECL|function|verifySocketOptions_data
 DECL|function|waitForDisconnect
 DECL|function|waitForDisconnectByServer
 DECL|function|writeOnlySocket
