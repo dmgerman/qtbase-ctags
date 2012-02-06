@@ -41,6 +41,7 @@ DECL|function|setRecord
 DECL|function|setSort
 DECL|function|setTable
 DECL|function|sort
+DECL|function|strippedFieldName
 DECL|function|submit
 DECL|function|submitAll
 DECL|function|tableName
