@@ -2,8 +2,10 @@ DECL|class|QFactoryLoaderPrivate
 DECL|function|QFactoryLoader
 DECL|function|QFactoryLoaderPrivate
 DECL|function|instance
+DECL|function|instance
 DECL|function|keys
 DECL|function|library
+DECL|function|metaData
 DECL|function|refreshAll
 DECL|function|update
 DECL|function|~QFactoryLoader

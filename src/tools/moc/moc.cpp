@@ -16,6 +16,7 @@ DECL|function|parseFunction
 DECL|function|parseFunctionArguments
 DECL|function|parseInterfaces
 DECL|function|parseMaybeFunction
+DECL|function|parsePluginData
 DECL|function|parsePrivateProperty
 DECL|function|parseProperty
 DECL|function|parseSignals
