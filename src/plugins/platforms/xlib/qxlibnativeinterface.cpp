@@ -3,7 +3,9 @@ DECL|function|QXlibResourceMap
 DECL|function|displayForWindow
 DECL|function|eglContextForWindow
 DECL|function|eglDisplayForWindow
+DECL|function|eventFilterForEventType
 DECL|function|graphicsDeviceForWindow
 DECL|function|nativeResourceForWindow
 DECL|function|qPlatformScreenForWindow
 DECL|function|screenForWindow
+DECL|function|setEventFilter
