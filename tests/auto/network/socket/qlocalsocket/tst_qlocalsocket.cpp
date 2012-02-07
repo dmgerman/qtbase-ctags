@@ -46,12 +46,11 @@ DECL|function|socket_basic
 DECL|function|syncDisconnectNotify
 DECL|function|threadedConnection
 DECL|function|threadedConnection_data
-DECL|function|tst_QLocalSocket
 DECL|function|waitForDisconnect
 DECL|function|waitForDisconnectByServer
 DECL|function|writeOnlySocket
 DECL|function|writeToClientAndDisconnect
-DECL|function|~tst_QLocalSocket
+DECL|macro|EXE_SUFFIX
 DECL|member|clients
 DECL|member|hits
 DECL|member|mutex
