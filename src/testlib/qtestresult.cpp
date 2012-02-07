@@ -11,7 +11,6 @@ DECL|function|currentGlobalTestData
 DECL|function|currentTestData
 DECL|function|currentTestFailed
 DECL|function|currentTestFunction
-DECL|function|currentTestLocation
 DECL|function|currentTestObjectName
 DECL|function|expectFail
 DECL|function|finishedCurrentTestData
@@ -23,7 +22,6 @@ DECL|function|setCurrentAppname
 DECL|function|setCurrentGlobalTestData
 DECL|function|setCurrentTestData
 DECL|function|setCurrentTestFunction
-DECL|function|setCurrentTestLocation
 DECL|function|setCurrentTestObject
 DECL|function|setSkipCurrentTest
 DECL|function|skipCurrentTest
@@ -36,6 +34,5 @@ DECL|member|currentTestObjectName
 DECL|member|expectFailComment
 DECL|member|expectFailMode
 DECL|member|failed
-DECL|member|location
 DECL|member|skipCurrentTest
 DECL|namespace|QTest
