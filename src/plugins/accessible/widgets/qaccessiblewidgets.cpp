@@ -63,8 +63,6 @@ DECL|function|object
 DECL|function|offsetAtPoint
 DECL|function|parent
 DECL|function|pasteText
-DECL|function|qTextBlockAt
-DECL|function|qTextBlockPosition
 DECL|function|rect
 DECL|function|rect
 DECL|function|rect
