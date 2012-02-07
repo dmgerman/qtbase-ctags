@@ -162,6 +162,7 @@ DECL|macro|GPS_MASK_VALID
 DECL|macro|GPS_OPENSLOWITEM
 DECL|macro|GPS_READWRITE
 DECL|macro|GPS_TEMPORARY
+DECL|macro|IID_IShellItem
 DECL|macro|STRICT_TYPED_ITEMIDS
 DECL|member|abID
 DECL|member|cb
@@ -222,3 +223,4 @@ DECL|variable|IID_IFileDialogEvents
 DECL|variable|IID_IFileOpenDialog
 DECL|variable|IID_IFileSaveDialog
 DECL|variable|IID_IShellItem
+DECL|variable|q_IID_IShellItem
