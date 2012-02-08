@@ -10,4 +10,5 @@ DECL|function|inputContext
 DECL|function|nativeInterface
 DECL|function|platformTheme
 DECL|function|screenAdded
+DECL|function|services
 DECL|function|styleHint

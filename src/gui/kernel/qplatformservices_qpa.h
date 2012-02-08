@@ -1,0 +1,2 @@
+DECL|macro|QPLATFORMSERVICES_QPA_H
+DECL|variable|QUrl
