@@ -10,6 +10,7 @@ DECL|function|current
 DECL|function|currentThread
 DECL|function|currentThread
 DECL|function|deref
+DECL|function|event
 DECL|function|eventDispatcher
 DECL|function|exec
 DECL|function|exit
