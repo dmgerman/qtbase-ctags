@@ -35,6 +35,7 @@ DECL|function|qt_metacall
 DECL|function|qt_metacast
 DECL|function|qt_static_metacall
 DECL|function|relatedMetaObject
+DECL|function|relocatableData
 DECL|function|removeNotifySignal
 DECL|function|sameEnumerator
 DECL|function|sameMetaObject
