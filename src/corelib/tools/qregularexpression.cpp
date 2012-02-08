@@ -35,6 +35,7 @@ DECL|function|hasMatch
 DECL|function|hasNext
 DECL|function|hasNext
 DECL|function|hasPartialMatch
+DECL|function|isJitEnabled
 DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid
