@@ -153,6 +153,7 @@ DECL|function|setUserInfo
 DECL|function|setUserName
 DECL|function|stripProhibitedOutput
 DECL|function|toAce
+DECL|function|toDisplayString
 DECL|function|toEncoded
 DECL|function|toEncoded
 DECL|function|toHex
