@@ -6,6 +6,7 @@ DECL|function|hasPendingConnections
 DECL|function|incomingConnection
 DECL|function|isListening
 DECL|function|listen
+DECL|function|listen
 DECL|function|maxPendingConnections
 DECL|function|nextPendingConnection
 DECL|function|removeServer
