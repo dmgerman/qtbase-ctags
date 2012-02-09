@@ -20,6 +20,8 @@ DECL|function|positioning
 DECL|function|received
 DECL|function|reset
 DECL|function|testInputEvents
+DECL|function|touchCancel
+DECL|function|touchCancelWithTouchToMouse
 DECL|function|touchEvent
 DECL|function|touchToMouseTranslation
 DECL|member|ignoreMouse
@@ -33,6 +35,8 @@ DECL|member|mousePressButton
 DECL|member|mousePressScreenPos
 DECL|member|mouseReleaseButton
 DECL|member|touchDevice
+DECL|member|touchEventType
+DECL|member|touchMovedCount
 DECL|member|touchPressedCount
 DECL|member|touchReleasedCount
 DECL|variable|tst_QWindow

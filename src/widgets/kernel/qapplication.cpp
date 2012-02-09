@@ -126,6 +126,7 @@ DECL|function|styleSheet
 DECL|function|syncX
 DECL|function|topLevelWidgets
 DECL|function|translateRawTouchEvent
+DECL|function|translateTouchCancel
 DECL|function|tryModalHelper
 DECL|function|type
 DECL|function|updateTouchPointsForWidget
