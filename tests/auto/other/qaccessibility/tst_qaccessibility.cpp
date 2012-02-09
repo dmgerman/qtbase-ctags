@@ -43,6 +43,7 @@ DECL|function|mdiSubWindowTest
 DECL|function|menuTest
 DECL|function|navigateHierarchy
 DECL|function|onClicked
+DECL|function|relatedInterface
 DECL|function|rubberBandTest
 DECL|function|scrollAreaTest
 DECL|function|scrollBarTest

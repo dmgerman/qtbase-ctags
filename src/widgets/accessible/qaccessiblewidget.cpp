@@ -17,14 +17,13 @@ DECL|function|interface_cast
 DECL|function|isAncestor
 DECL|function|isSender
 DECL|function|keyBindingsForAction
-DECL|function|navigate
 DECL|function|parent
 DECL|function|parentObject
 DECL|function|qt_accHotKey
 DECL|function|qt_accStripAmp
 DECL|function|receiverList
 DECL|function|rect
-DECL|function|relationTo
+DECL|function|relations
 DECL|function|role
 DECL|function|senderList
 DECL|function|setAccelerator
