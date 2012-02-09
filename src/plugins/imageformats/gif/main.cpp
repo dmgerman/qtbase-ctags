@@ -1,4 +1,3 @@
-DECL|class|QGifPlugin
 DECL|function|QGifPlugin
 DECL|function|capabilities
 DECL|function|create
