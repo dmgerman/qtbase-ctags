@@ -14,6 +14,7 @@ DECL|function|flags
 DECL|function|headerData
 DECL|function|indexInQuery
 DECL|function|initRecordAndPrimaryIndex
+DECL|function|insertCount
 DECL|function|insertRecord
 DECL|function|insertRowIntoTable
 DECL|function|insertRows
