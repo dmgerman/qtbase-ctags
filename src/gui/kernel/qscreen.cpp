@@ -6,6 +6,7 @@ DECL|function|availableVirtualGeometry
 DECL|function|availableVirtualSize
 DECL|function|depth
 DECL|function|geometry
+DECL|function|grabWindow
 DECL|function|handle
 DECL|function|isLandscape
 DECL|function|isPortrait

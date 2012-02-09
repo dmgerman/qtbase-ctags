@@ -23,6 +23,7 @@ DECL|function|fill
 DECL|function|fromImage
 DECL|function|fromImageReader
 DECL|function|grabWidget
+DECL|function|grabWindow
 DECL|function|handle
 DECL|function|hasAlpha
 DECL|function|hasAlphaChannel
