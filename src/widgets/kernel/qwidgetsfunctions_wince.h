@@ -1,0 +1,2 @@
+DECL|macro|QWIDGETSFUNCTIONS_WCE_H
+DECL|macro|ShellExecute
