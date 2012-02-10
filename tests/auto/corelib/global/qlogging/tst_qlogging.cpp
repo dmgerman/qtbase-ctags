@@ -21,6 +21,7 @@ DECL|function|func_KPKVvoid
 DECL|function|func_KPchar
 DECL|function|func_KVPKVull
 DECL|function|func_Pchar
+DECL|function|func_Rchar
 DECL|function|func_VKPchar
 DECL|function|func_aaptr
 DECL|function|func_aenum
@@ -69,6 +70,7 @@ DECL|function|operator >=
 DECL|function|qMessagePattern
 DECL|function|~TestClass4
 DECL|macro|ADD
+DECL|member|c
 DECL|member|c1
 DECL|member|foo
 DECL|member|x
