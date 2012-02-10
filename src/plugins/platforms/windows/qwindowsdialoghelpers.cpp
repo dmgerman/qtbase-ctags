@@ -26,7 +26,6 @@ DECL|enumerator|SIGDN_PARENTRELATIVEFORADDRESSBAR
 DECL|enumerator|SIGDN_PARENTRELATIVEPARSING
 DECL|enumerator|SIGDN_URL
 DECL|function|AddRef
-DECL|function|COLORREFToQColor
 DECL|function|DECLARE_INTERFACE_
 DECL|function|DECLARE_INTERFACE_
 DECL|function|DECLARE_INTERFACE_
@@ -90,7 +89,6 @@ DECL|function|onTypeChange
 DECL|function|openFileDialog
 DECL|function|operator <<
 DECL|function|platformNativeDialogModalHelp
-DECL|function|qColorToCOLORREF
 DECL|function|result
 DECL|function|result
 DECL|function|run

@@ -17,6 +17,7 @@ DECL|function|inputContext
 DECL|function|makeCurrent
 DECL|function|moveToScreen
 DECL|function|nativeInterface
+DECL|function|platformTheme
 DECL|function|services
 DECL|function|sharedGraphicsCacheDisabled
 DECL|function|swapBuffers

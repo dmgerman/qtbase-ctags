@@ -22,6 +22,8 @@ DECL|function|pixmap
 DECL|function|read
 DECL|function|setThemeName
 DECL|function|setThemeSearchPath
+DECL|function|systemIconSearchPaths
+DECL|function|systemThemeName
 DECL|function|themeSearchPaths
 DECL|function|updateSystemTheme
 DECL|function|virtual_hook
