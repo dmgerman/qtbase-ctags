@@ -23,7 +23,6 @@ DECL|member|org_ptr
 DECL|struct|internal_state
 DECL|struct|ptr_table_s
 DECL|typedef|ptr_table
-DECL|variable|errno
 DECL|variable|next_ptr
 DECL|variable|table
 DECL|variable|z_errmsg
