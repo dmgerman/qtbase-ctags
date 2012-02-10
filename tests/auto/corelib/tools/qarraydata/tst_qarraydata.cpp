@@ -12,10 +12,12 @@ DECL|function|allocate_data
 DECL|function|arrayIsFilledWith
 DECL|function|arrayOps
 DECL|function|const_
+DECL|function|cxx11Move
 DECL|function|fromRawData
 DECL|function|gccBug43247
 DECL|function|literals
 DECL|function|operator =
+DECL|function|rValueReferences
 DECL|function|referenceCounting
 DECL|function|setSharable
 DECL|function|setSharable_data
@@ -38,5 +40,9 @@ DECL|member|previousLiveCount
 DECL|struct|CountedObject
 DECL|struct|Deallocator
 DECL|struct|LeakChecker
+DECL|struct|RemoveReference
+DECL|struct|RemoveReference
 DECL|struct|SharedNullVerifier
+DECL|typedef|Type
+DECL|typedef|Type
 DECL|variable|globalInit
