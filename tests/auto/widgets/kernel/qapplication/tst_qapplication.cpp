@@ -14,6 +14,7 @@ DECL|class|QuitOnLastWindowClosedDialog
 DECL|class|QuitOnLastWindowClosedWindow
 DECL|class|Result
 DECL|class|SendPostedEventsTester
+DECL|class|ShowCloseShowWidget
 DECL|class|TestApplication
 DECL|class|TouchEventPropagationTestWidget
 DECL|class|tst_QApplication
@@ -31,8 +32,10 @@ DECL|function|QuitLockRefTester
 DECL|function|QuitOnLastWindowClosedDialog
 DECL|function|QuitOnLastWindowClosedWindow
 DECL|function|Result
+DECL|function|ShowCloseShowWidget
 DECL|function|TestApplication
 DECL|function|TouchEventPropagationTestWidget
+DECL|function|abortQuitOnShow
 DECL|function|alert
 DECL|function|allWidgets
 DECL|function|args
@@ -48,6 +51,7 @@ DECL|function|deleteLaterAndEnterLoop
 DECL|function|deleteLaterAndExitLoop
 DECL|function|deleteLaterAndProcessEvents
 DECL|function|desktopSettingsAware
+DECL|function|doClose
 DECL|function|doTest
 DECL|function|doTest
 DECL|function|event
@@ -55,6 +59,7 @@ DECL|function|event
 DECL|function|eventFilter
 DECL|function|execAfterExit
 DECL|function|execDialogThenShow
+DECL|function|exitApp
 DECL|function|focusChanged
 DECL|function|focusInEvent
 DECL|function|focusOut
@@ -136,4 +141,5 @@ DECL|member|okButton
 DECL|member|recordedEvents
 DECL|member|seenMouseEvent
 DECL|member|seenTouchEvent
+DECL|member|showAgain
 DECL|variable|argv0

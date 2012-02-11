@@ -1,9 +1,15 @@
 DECL|class|DummyWindow
+DECL|class|ShowCloseShowWindow
 DECL|class|tst_QGuiApplication
 DECL|function|DummyWindow
+DECL|function|ShowCloseShowWindow
+DECL|function|abortQuitOnShow
 DECL|function|allWindows
+DECL|function|doClose
+DECL|function|exitApp
 DECL|function|focusObject
 DECL|function|focusObject
 DECL|function|setFocusObject
 DECL|function|topLevelWindows
 DECL|member|m_focusObject
+DECL|member|showAgain
