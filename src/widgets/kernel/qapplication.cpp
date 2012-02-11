@@ -116,6 +116,7 @@ DECL|function|setStyleSheet
 DECL|function|setSystemFont
 DECL|function|setSystemPalette
 DECL|function|setWindowIcon
+DECL|function|shouldQuit
 DECL|function|shouldSetFocus
 DECL|function|startDragDistance
 DECL|function|startDragTime

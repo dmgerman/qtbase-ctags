@@ -69,6 +69,7 @@ DECL|function|setLayoutDirection
 DECL|function|setOverrideCursor
 DECL|function|setPalette
 DECL|function|setQuitOnLastWindowClosed
+DECL|function|shouldQuit
 DECL|function|styleHints
 DECL|function|topLevelAt
 DECL|function|topLevelWindows

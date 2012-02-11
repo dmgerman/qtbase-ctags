@@ -35,6 +35,7 @@ DECL|function|isTranslatorInstalled
 DECL|function|libraryPaths
 DECL|function|macMenuBarName
 DECL|function|mainThread
+DECL|function|maybeQuit
 DECL|function|notify
 DECL|function|notifyInternal
 DECL|function|notify_helper
