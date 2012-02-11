@@ -161,8 +161,12 @@ DECL|function|threadSafety
 DECL|function|toString
 DECL|function|toString
 DECL|function|tst_QMetaType
+DECL|function|type
 DECL|function|typeName
 DECL|function|typeName_data
+DECL|function|type_data
+DECL|function|type_fromSubString
+DECL|function|type_fromSubString_data
 DECL|function|typedefs
 DECL|function|~CustomConvertibleType
 DECL|function|~CustomConvertibleType2
@@ -216,8 +220,12 @@ DECL|macro|TEST_NONOWNING_SMARTPOINTER
 DECL|macro|TEST_OWNING_SMARTPOINTER
 DECL|macro|TEST_OWNING_SMARTPOINTER
 DECL|macro|TEST_SEQUENTIAL_CONTAINER
+DECL|macro|TST_METATYPE_TYPE_DATA_ALIAS
 DECL|macro|TST_QMETATYPE_BROKEN_COMPILER
 DECL|macro|TST_QMETATYPE_BROKEN_COMPILER
+DECL|macro|TST_QMETATYPE_TYPE_DATA
+DECL|macro|TST_QMETATYPE_TYPE_DATA
+DECL|macro|TST_QMETATYPE_TYPE_DATA_ALIAS
 DECL|macro|TYPENAME_DATA
 DECL|member|_
 DECL|member|_

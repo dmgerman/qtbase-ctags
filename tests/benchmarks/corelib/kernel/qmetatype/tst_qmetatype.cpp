@@ -13,6 +13,8 @@ DECL|function|tst_QMetaType
 DECL|function|typeBuiltin
 DECL|function|typeBuiltinNotNormalized
 DECL|function|typeBuiltinNotNormalized_data
+DECL|function|typeBuiltin_QByteArray
+DECL|function|typeBuiltin_QByteArray_data
 DECL|function|typeBuiltin_data
 DECL|function|typeCustom
 DECL|function|typeCustomNotNormalized
