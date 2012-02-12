@@ -26,6 +26,7 @@ DECL|macro|qWarning
 DECL|member|literals
 DECL|member|tokens
 DECL|struct|QMessagePattern
+DECL|variable|appnameTokenC
 DECL|variable|emptyTokenC
 DECL|variable|fileTokenC
 DECL|variable|functionTokenC
@@ -33,4 +34,6 @@ DECL|variable|lineTokenC
 DECL|variable|messageHandler
 DECL|variable|messageTokenC
 DECL|variable|msgHandler
+DECL|variable|pidTokenC
+DECL|variable|threadidTokenC
 DECL|variable|typeTokenC
