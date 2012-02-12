@@ -84,6 +84,7 @@ DECL|typedef|QLatin1Literal
 DECL|variable|QCharRef
 DECL|variable|QLatin1String
 DECL|variable|QRegExp
+DECL|variable|QRegularExpression
 DECL|variable|QStringList
 DECL|variable|QStringRef
 DECL|variable|QTextCodec

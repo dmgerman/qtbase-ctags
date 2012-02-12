@@ -122,6 +122,7 @@ DECL|function|simplified_data
 DECL|function|split
 DECL|function|split_data
 DECL|function|split_regexp
+DECL|function|split_regexp_data
 DECL|function|sprintf
 DECL|function|sprintfZU
 DECL|function|startsWith

@@ -19,6 +19,8 @@ DECL|function|compare
 DECL|function|compare
 DECL|function|compare_helper
 DECL|function|compare_helper
+DECL|function|contains
+DECL|function|count
 DECL|function|count
 DECL|function|count
 DECL|function|count
@@ -35,6 +37,7 @@ DECL|function|endsWith
 DECL|function|endsWith
 DECL|function|endsWith
 DECL|function|expand
+DECL|function|extractSections
 DECL|function|fill
 DECL|function|findArgEscapes
 DECL|function|findChar
@@ -58,11 +61,13 @@ DECL|function|indexOf
 DECL|function|indexOf
 DECL|function|indexOf
 DECL|function|indexOf
+DECL|function|indexOf
 DECL|function|insert
 DECL|function|insert
 DECL|function|insert
 DECL|function|isRightToLeft
 DECL|function|isSimpleText
+DECL|function|lastIndexOf
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
@@ -138,6 +143,7 @@ DECL|function|replace
 DECL|function|replace
 DECL|function|replace
 DECL|function|replace
+DECL|function|replace
 DECL|function|replaceArgEscapes
 DECL|function|replace_helper
 DECL|function|resize
@@ -146,12 +152,14 @@ DECL|function|rightJustified
 DECL|function|rightRef
 DECL|function|section
 DECL|function|section
+DECL|function|section
 DECL|function|setNum
 DECL|function|setNum
 DECL|function|setNum
 DECL|function|setRawData
 DECL|function|setUnicode
 DECL|function|simplified
+DECL|function|split
 DECL|function|split
 DECL|function|split
 DECL|function|split
