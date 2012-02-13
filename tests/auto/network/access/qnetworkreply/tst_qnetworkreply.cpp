@@ -325,6 +325,7 @@ DECL|member|doClose
 DECL|member|doSsl
 DECL|member|doSsl
 DECL|member|doSsl
+DECL|member|echoProcessDir
 DECL|member|endPoints
 DECL|member|fillKernelBuffer
 DECL|member|httpPassword

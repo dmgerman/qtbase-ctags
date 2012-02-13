@@ -164,6 +164,7 @@ DECL|member|serverPort
 DECL|member|sock
 DECL|member|socket
 DECL|member|socketData
+DECL|member|stressTestDir
 DECL|member|timer
 DECL|member|tmpSocket
 DECL|member|toReturn

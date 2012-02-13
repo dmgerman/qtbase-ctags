@@ -44,6 +44,7 @@ DECL|function|~tst_QTcpServer
 DECL|macro|INVALID_SOCKET
 DECL|macro|SOCKET
 DECL|member|callCount
+DECL|member|crashingServerDir
 DECL|member|host
 DECL|member|lastDataPeeked
 DECL|member|lastQuery

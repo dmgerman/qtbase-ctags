@@ -23,4 +23,5 @@ DECL|function|updateConfigurations
 DECL|function|userChoiceSession
 DECL|function|userChoiceSession_data
 DECL|member|inProcessSessionManagementCount
+DECL|member|lackeyDir
 DECL|member|manager
