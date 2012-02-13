@@ -40,6 +40,7 @@ DECL|function|isScalable
 DECL|function|isSmoothlyScalable
 DECL|function|italic
 DECL|function|match
+DECL|function|matchFamilyName
 DECL|function|operator !=
 DECL|function|operator <
 DECL|function|operator ==
@@ -80,6 +81,7 @@ DECL|macro|KoreanCsbBit
 DECL|macro|SMOOTH_SCALABLE
 DECL|macro|SimplifiedChineseCsbBit
 DECL|macro|TraditionalChineseCsbBit
+DECL|member|aliases
 DECL|member|antialiased
 DECL|member|applicationFonts
 DECL|member|askedForFallback

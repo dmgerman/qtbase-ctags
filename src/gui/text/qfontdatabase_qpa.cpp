@@ -5,6 +5,7 @@ DECL|function|load
 DECL|function|load
 DECL|function|loadEngine
 DECL|function|loadSingleEngine
+DECL|function|qt_registerAliasToFontFamily
 DECL|function|qt_registerFont
 DECL|function|registerFont
 DECL|function|removeAllApplicationFonts
