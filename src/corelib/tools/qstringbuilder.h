@@ -22,14 +22,7 @@ DECL|function|appendTo
 DECL|function|appendTo
 DECL|function|appendTo
 DECL|function|appendTo
-DECL|function|appendTo
-DECL|function|appendTo
-DECL|function|appendTo
-DECL|function|appendTo
-DECL|function|appendTo
 DECL|function|convertFromAscii
-DECL|function|convertToAscii
-DECL|function|convertToLatin1
 DECL|function|operator
 DECL|function|operator
 DECL|function|size
