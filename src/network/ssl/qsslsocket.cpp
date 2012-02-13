@@ -105,7 +105,6 @@ DECL|function|waitForReadyRead
 DECL|function|writeData
 DECL|function|~QSslSocket
 DECL|function|~QSslSocketPrivate
-DECL|macro|d
 DECL|member|config
 DECL|member|mutex
 DECL|member|supportedCiphers
