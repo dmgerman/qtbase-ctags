@@ -31,7 +31,6 @@ DECL|member|signature
 DECL|member|tag
 DECL|member|type
 DECL|member|typeName
-DECL|member|typeName
 DECL|struct|Method
 DECL|struct|Property
 DECL|struct|QDBusMetaObjectPrivate
