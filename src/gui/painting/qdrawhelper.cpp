@@ -277,7 +277,6 @@ DECL|struct|QDrawHelperGammaTables
 DECL|struct|QFullCoverage
 DECL|struct|QPartialCoverage
 DECL|typedef|FetchPixelFunc
-DECL|typedef|StorePixelFunc
 DECL|typedef|qt_memfill16_func
 DECL|typedef|qt_memfill32_func
 DECL|variable|L2CacheLineLength
@@ -294,7 +293,6 @@ DECL|variable|qDrawHelper
 DECL|variable|qFetchPixel
 DECL|variable|qFetchPixels
 DECL|variable|qPixelLayouts
-DECL|variable|qStorePixel
 DECL|variable|qStorePixels
 DECL|variable|qt_fetch_radial_gradient
 DECL|variable|qt_memfill16
