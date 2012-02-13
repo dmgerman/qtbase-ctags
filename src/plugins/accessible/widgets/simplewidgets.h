@@ -4,6 +4,7 @@ DECL|variable|QAccessibleDisplay
 DECL|variable|QAccessibleTextInterface
 DECL|variable|QAccessibleWidget
 DECL|variable|QAccessibleWidget
+DECL|variable|QGroupBox
 DECL|variable|QLineEdit
 DECL|variable|QProgressBar
 DECL|variable|QToolButton
