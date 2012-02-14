@@ -23,6 +23,7 @@ DECL|function|handle
 DECL|function|hasOpenGLFramebufferBlit
 DECL|function|hasOpenGLFramebufferObjects
 DECL|function|init
+DECL|function|initAttachments
 DECL|function|internalTextureFormat
 DECL|function|isBound
 DECL|function|isValid
@@ -33,6 +34,7 @@ DECL|function|operator ==
 DECL|function|qt_gl_read_framebuffer
 DECL|function|release
 DECL|function|samples
+DECL|function|setAttachment
 DECL|function|setAttachment
 DECL|function|setInternalTextureFormat
 DECL|function|setMipmap
