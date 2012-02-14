@@ -66,6 +66,8 @@ DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|clear
 DECL|function|clear
+DECL|function|closeDuringDownload
+DECL|function|closeDuringDownload_data
 DECL|function|compressedHttpReplyBrokenGzip
 DECL|function|connectSocketSignals
 DECL|function|connectToIPv6Address
