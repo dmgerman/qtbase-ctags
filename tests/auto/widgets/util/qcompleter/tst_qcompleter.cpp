@@ -64,6 +64,8 @@ DECL|function|unsortedEngineMapFromSource
 DECL|function|unsortedEngineRowCount
 DECL|function|unsortedEngineRowCount_data
 DECL|function|~tst_QCompleter
+DECL|macro|ROWNAME
+DECL|macro|ROWNAME
 DECL|member|columnCount
 DECL|member|completer
 DECL|member|completer
