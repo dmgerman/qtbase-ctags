@@ -296,6 +296,7 @@ DECL|function|updateMetaData
 DECL|function|updateMetaData
 DECL|function|uploadProgress
 DECL|function|uploadProgress_data
+DECL|function|waitForFinish
 DECL|function|waitForNextConnectionSocket
 DECL|function|wrapUp
 DECL|function|writeLastData
@@ -376,6 +377,7 @@ DECL|member|sslSocket
 DECL|member|storedExpectedSslErrors
 DECL|member|storedSslConfiguration
 DECL|member|tag
+DECL|member|testDataDir
 DECL|member|testFileName
 DECL|member|toReturn
 DECL|member|totalBytes
