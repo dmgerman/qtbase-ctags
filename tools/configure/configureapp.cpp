@@ -11,6 +11,7 @@ DECL|function|defaultTo
 DECL|function|desc
 DECL|function|desc
 DECL|function|desc
+DECL|function|detectArch
 DECL|function|displayConfig
 DECL|function|displayHelp
 DECL|function|escapeSeparators
@@ -26,6 +27,7 @@ DECL|function|generateConfigfiles
 DECL|function|generateHeaders
 DECL|function|generateMakefiles
 DECL|function|generateOutputVars
+DECL|function|generateQConfigPri
 DECL|function|isDone
 DECL|function|isOk
 DECL|function|locateFile

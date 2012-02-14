@@ -4,6 +4,7 @@ DECL|function|detectCompiler
 DECL|function|detectExecutable
 DECL|function|detectQMakeSpec
 DECL|function|execute
+DECL|function|execute
 DECL|function|qt_create_commandline
 DECL|function|qt_create_environment
 DECL|function|rmdir
