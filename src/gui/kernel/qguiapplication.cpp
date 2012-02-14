@@ -10,6 +10,7 @@ DECL|function|compressEvent
 DECL|function|createEventDispatcher
 DECL|function|createPlatformIntegration
 DECL|function|currentKeyPlatform
+DECL|function|desktopSettingsAware
 DECL|function|emitLastWindowClosed
 DECL|function|event
 DECL|function|exec
@@ -60,6 +61,7 @@ DECL|function|reportScreenOrientationChange
 DECL|function|reportScreenOrientationChange
 DECL|function|restoreOverrideCursor
 DECL|function|screens
+DECL|function|setDesktopSettingsAware
 DECL|function|setEventDispatcher
 DECL|function|setFont
 DECL|function|setLayoutDirection
@@ -86,6 +88,7 @@ DECL|member|mousePressX
 DECL|member|mousePressY
 DECL|member|mouse_buttons
 DECL|member|mouse_double_click_distance
+DECL|member|obey_desktop_settings
 DECL|member|platform_integration
 DECL|member|platform_theme
 DECL|member|qt_clipboard

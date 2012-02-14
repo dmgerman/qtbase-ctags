@@ -30,7 +30,6 @@ DECL|function|compressEvent
 DECL|function|construct
 DECL|function|cursorFlashTime
 DECL|function|desktop
-DECL|function|desktopSettingsAware
 DECL|function|desktopStyleKey
 DECL|function|discardCommand
 DECL|function|dispatchEnterLeave
@@ -95,7 +94,6 @@ DECL|function|setAutoMaximizeThreshold
 DECL|function|setAutoSipEnabled
 DECL|function|setColorSpec
 DECL|function|setCursorFlashTime
-DECL|function|setDesktopSettingsAware
 DECL|function|setDiscardCommand
 DECL|function|setDoubleClickInterval
 DECL|function|setFocusWidget
@@ -160,7 +158,6 @@ DECL|member|main_widget
 DECL|member|modifier_buttons
 DECL|member|mouse_buttons
 DECL|member|navigationMode
-DECL|member|obey_desktop_settings
 DECL|member|oldEditFocus
 DECL|member|popupWidgets
 DECL|member|restartCommand
