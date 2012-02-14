@@ -21,6 +21,7 @@ DECL|function|handleScreenOrientationChange
 DECL|function|handleSynchronousCloseEvent
 DECL|function|handleSynchronousExposeEvent
 DECL|function|handleSynchronousGeometryChange
+DECL|function|handleThemeChange
 DECL|function|handleTouchCancelEvent
 DECL|function|handleTouchCancelEvent
 DECL|function|handleTouchEvent

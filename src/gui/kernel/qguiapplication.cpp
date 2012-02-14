@@ -46,6 +46,7 @@ DECL|function|processLeaveEvent
 DECL|function|processMapEvent
 DECL|function|processMouseEvent
 DECL|function|processNativeEvent
+DECL|function|processThemeChanged
 DECL|function|processTouchEvent
 DECL|function|processUnmapEvent
 DECL|function|processWheelEvent
