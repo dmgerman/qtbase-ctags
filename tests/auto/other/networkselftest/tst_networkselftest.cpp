@@ -18,7 +18,6 @@ DECL|function|dnsResolution_data
 DECL|function|doSocketFlush
 DECL|function|doSocketRead
 DECL|function|expect
-DECL|function|fileLineEndingTest
 DECL|function|ftpChat
 DECL|function|ftpProxyServer
 DECL|function|ftpServer
