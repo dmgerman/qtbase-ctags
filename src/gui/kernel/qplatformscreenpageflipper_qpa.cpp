@@ -1,0 +1,7 @@
+DECL|function|QPlatformScreenBuffer
+DECL|function|QPlatformScreenPageFlipper
+DECL|function|aboutToBeDisplayed
+DECL|function|displayed
+DECL|function|isDestroyed
+DECL|function|isReady
+DECL|function|~QPlatformScreenBuffer

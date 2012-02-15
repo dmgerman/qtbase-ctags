@@ -3,6 +3,7 @@ DECL|typedef|QDpi
 DECL|typedef|qreal
 DECL|variable|QPlatformBackingStore
 DECL|variable|QPlatformOpenGLContext
+DECL|variable|QPlatformScreenPageFlipper
 DECL|variable|QPlatformScreenPrivate
 DECL|variable|QPlatformWindow
 DECL|variable|QScreen
