@@ -45,3 +45,4 @@ DECL|function|toVariantList
 DECL|function|toVariantMap
 DECL|function|undefinedValues
 DECL|function|validation
+DECL|member|testDataDir
