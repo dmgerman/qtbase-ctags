@@ -67,6 +67,7 @@ DECL|function|qt_defaultDpiX
 DECL|function|qt_defaultDpiY
 DECL|function|rawMode
 DECL|function|rawMode
+DECL|function|removeEngine
 DECL|function|removeSubstitution
 DECL|function|resolve
 DECL|function|resolve

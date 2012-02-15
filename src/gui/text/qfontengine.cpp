@@ -83,6 +83,7 @@ DECL|function|recalcAdvances
 DECL|function|recalcAdvances
 DECL|function|removeGlyphFromCache
 DECL|function|setGlyphCache
+DECL|function|shouldLoadFontEngineForCharacter
 DECL|function|stringToCMap
 DECL|function|stringToCMap
 DECL|function|stripped
@@ -91,6 +92,7 @@ DECL|function|tightBoundingBox
 DECL|function|type
 DECL|function|underlinePosition
 DECL|function|underlinePosition
+DECL|function|unloadEngine
 DECL|function|unlockAlphaMapForGlyph
 DECL|function|xHeight
 DECL|function|xHeight

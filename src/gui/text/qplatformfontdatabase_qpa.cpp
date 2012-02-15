@@ -11,6 +11,7 @@ DECL|function|fallbacksForFamily
 DECL|function|fontDir
 DECL|function|fontEngine
 DECL|function|fontEngine
+DECL|function|fontEngineMulti
 DECL|function|operator =
 DECL|function|populateFontDatabase
 DECL|function|registerFont
