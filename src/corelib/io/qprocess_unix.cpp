@@ -10,6 +10,7 @@ DECL|function|catchDeadChildren
 DECL|function|createChannel
 DECL|function|destroyChannel
 DECL|function|destroyPipe
+DECL|function|doSpawn
 DECL|function|execChild
 DECL|function|findExitCode
 DECL|function|initializeProcessManager
@@ -18,7 +19,6 @@ DECL|function|lock
 DECL|function|processManager
 DECL|function|processStarted
 DECL|function|qt_create_pipe
-DECL|function|qt_fork
 DECL|function|qt_ignore_sigpipe
 DECL|function|qt_prettyDebug
 DECL|function|qt_sa_sigchld_handler
@@ -28,6 +28,8 @@ DECL|function|readFromStdout
 DECL|function|remove
 DECL|function|run
 DECL|function|select_msecs
+DECL|function|spawnChild
+DECL|function|startDetached
 DECL|function|startDetached
 DECL|function|startProcess
 DECL|function|strdup
