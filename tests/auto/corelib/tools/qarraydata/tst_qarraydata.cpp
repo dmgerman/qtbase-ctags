@@ -23,6 +23,8 @@ DECL|function|setSharable
 DECL|function|setSharable_data
 DECL|function|sharedNullEmpty
 DECL|function|simpleVector
+DECL|function|simpleVectorReserve
+DECL|function|simpleVectorReserve_data
 DECL|function|staticData
 DECL|function|typedData
 DECL|function|variadicLiterals
