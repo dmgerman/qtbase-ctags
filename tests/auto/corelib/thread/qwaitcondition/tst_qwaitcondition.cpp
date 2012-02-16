@@ -66,5 +66,4 @@ DECL|member|timeout
 DECL|member|waitCondition
 DECL|member|waitCondition
 DECL|variable|ThreadCount
-DECL|variable|ThreadCount
 DECL|variable|iterations
