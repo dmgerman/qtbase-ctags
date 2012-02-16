@@ -30,6 +30,7 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|prepend
 DECL|function|reserve
+DECL|function|resize
 DECL|function|setSharable
 DECL|function|size
 DECL|function|swap

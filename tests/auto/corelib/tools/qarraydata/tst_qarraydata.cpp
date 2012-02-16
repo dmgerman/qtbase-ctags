@@ -20,9 +20,9 @@ DECL|function|alignment
 DECL|function|alignment_data
 DECL|function|allocate
 DECL|function|allocate_data
-DECL|function|appendInitialize
 DECL|function|arrayIsFilledWith
 DECL|function|arrayOps
+DECL|function|arrayOps2
 DECL|function|const_
 DECL|function|cxx11Move
 DECL|function|fromRawData
