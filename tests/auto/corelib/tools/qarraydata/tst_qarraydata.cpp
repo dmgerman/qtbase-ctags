@@ -1,9 +1,13 @@
 DECL|class|Unaligned
 DECL|class|tst_QArrayData
+DECL|enumerator|CopyAssigned
+DECL|enumerator|CopyConstructed
 DECL|enumerator|CopyConstructor
+DECL|enumerator|DefaultConstructed
 DECL|enumerator|DefaultConstructor
 DECL|enumerator|MoveConstructor
 DECL|enum|Constructor
+DECL|enum|ObjectFlags
 DECL|function|CountedObject
 DECL|function|CountedObject
 DECL|function|Deallocator
@@ -16,6 +20,7 @@ DECL|function|alignment
 DECL|function|alignment_data
 DECL|function|allocate
 DECL|function|allocate_data
+DECL|function|appendInitialize
 DECL|function|arrayIsFilledWith
 DECL|function|arrayOps
 DECL|function|const_
@@ -43,6 +48,7 @@ DECL|function|~LeakChecker
 DECL|member|alignment
 DECL|member|constructor
 DECL|member|dummy
+DECL|member|flags
 DECL|member|headers
 DECL|member|id
 DECL|member|liveCount

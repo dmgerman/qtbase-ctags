@@ -1,6 +1,7 @@
 DECL|function|SimpleVector
 DECL|function|SimpleVector
 DECL|function|SimpleVector
+DECL|function|SimpleVector
 DECL|function|append
 DECL|function|at
 DECL|function|at
