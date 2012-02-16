@@ -1,5 +1,6 @@
 DECL|enumerator|CapacityReserved
 DECL|enumerator|Default
+DECL|enumerator|Grow
 DECL|enumerator|RawData
 DECL|enumerator|Unsharable
 DECL|enum|AllocationOption

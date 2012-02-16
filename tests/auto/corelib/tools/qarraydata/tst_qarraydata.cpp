@@ -15,6 +15,7 @@ DECL|function|const_
 DECL|function|cxx11Move
 DECL|function|fromRawData
 DECL|function|gccBug43247
+DECL|function|grow
 DECL|function|literals
 DECL|function|operator =
 DECL|function|rValueReferences
