@@ -49,6 +49,7 @@ DECL|function|func_uglypmf2
 DECL|function|func_ull
 DECL|function|func_unsigned
 DECL|function|func_void
+DECL|function|initTestCase
 DECL|function|installBothHandler
 DECL|function|installMessageHandler
 DECL|function|installMsgHandler
@@ -73,6 +74,7 @@ DECL|macro|ADD
 DECL|member|c
 DECL|member|c1
 DECL|member|foo
+DECL|member|m_appDir
 DECL|member|x
 DECL|struct|Foo
 DECL|typedef|fptr
