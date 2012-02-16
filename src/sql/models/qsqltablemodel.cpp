@@ -32,6 +32,7 @@ DECL|function|revertCachedRow
 DECL|function|revertRow
 DECL|function|rowCount
 DECL|function|select
+DECL|function|selectRow
 DECL|function|selectStatement
 DECL|function|setData
 DECL|function|setEditStrategy
