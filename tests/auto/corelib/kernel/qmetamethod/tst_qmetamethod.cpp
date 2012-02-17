@@ -14,6 +14,7 @@ DECL|function|customTypeInvokable
 DECL|function|customTypeSlot
 DECL|function|customUnregisteredTypeInvokable
 DECL|function|customUnregisteredTypeSlot
+DECL|function|invalidMethod
 DECL|function|method
 DECL|function|method_data
 DECL|function|qrealInvokable
