@@ -21,6 +21,7 @@ DECL|function|debugWindowStates
 DECL|function|destroyWindow
 DECL|function|frame
 DECL|function|frameGeometry
+DECL|function|frameGeometry_sys
 DECL|function|frameMargins
 DECL|function|fromWindow
 DECL|function|geometry_sys
