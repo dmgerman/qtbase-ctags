@@ -24,6 +24,7 @@ DECL|function|isActive
 DECL|function|isAncestorOf
 DECL|function|isModal
 DECL|function|isTopLevel
+DECL|function|isVisible
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
 DECL|function|lower
