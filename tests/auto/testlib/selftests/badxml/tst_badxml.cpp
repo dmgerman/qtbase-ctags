@@ -9,5 +9,7 @@ DECL|function|badStrings
 DECL|function|failWithNoFile
 DECL|function|main
 DECL|function|metaObject
+DECL|function|tst_BadXmlSub
+DECL|function|~tst_BadXmlSub
 DECL|member|className
-DECL|member|className
+DECL|member|mo
