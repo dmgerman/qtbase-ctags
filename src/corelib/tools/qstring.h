@@ -62,7 +62,6 @@ DECL|macro|QT_UNICODE_LITERAL_II
 DECL|macro|QT_UNICODE_LITERAL_II
 DECL|member|alloc
 DECL|member|capacityReserved
-DECL|member|d
 DECL|member|data
 DECL|member|data
 DECL|member|data
