@@ -39,7 +39,6 @@ DECL|macro|QT_USE_QSTRINGBUILDER
 DECL|member|alloc
 DECL|member|ba
 DECL|member|capacityReserved
-DECL|member|d
 DECL|member|data
 DECL|member|offset
 DECL|member|operator
