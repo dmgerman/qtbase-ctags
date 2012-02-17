@@ -1,2 +1,17 @@
+DECL|enumerator|EndOfNumber
+DECL|enumerator|EndOfString
+DECL|enumerator|IllegalNumber
+DECL|enumerator|IllegalValue
+DECL|enumerator|MissingNameSeparator
+DECL|enumerator|MissingValueSeparator
+DECL|enumerator|NoError
+DECL|enumerator|StringEscapeSequence
+DECL|enumerator|StringUTF8Scan
+DECL|enumerator|UnterminatedArray
+DECL|enumerator|UnterminatedObject
+DECL|enum|ParseError
 DECL|macro|QJSONDOCUMENT_H
+DECL|member|error
+DECL|member|offset
+DECL|struct|QJsonParseError
 DECL|variable|QDebug
