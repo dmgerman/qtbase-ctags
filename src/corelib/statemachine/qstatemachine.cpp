@@ -37,6 +37,7 @@ DECL|function|event
 DECL|function|eventFilter
 DECL|function|eventTest
 DECL|function|eventTest
+DECL|function|execute
 DECL|function|executeTransitionContent
 DECL|function|exitStates
 DECL|function|findErrorState
@@ -77,6 +78,7 @@ DECL|function|properAncestors
 DECL|function|qcoreStateMachineHandler
 DECL|function|qt_metacall
 DECL|function|qt_metacast
+DECL|function|qt_static_metacall
 DECL|function|registerEventTransition
 DECL|function|registerRestorable
 DECL|function|registerSignalTransition
@@ -111,6 +113,7 @@ DECL|function|~SignalEvent
 DECL|function|~WrappedEvent
 DECL|member|handler
 DECL|member|staticMetaObject
+DECL|member|staticMetaObjectExtraData
 DECL|namespace|_QStateMachine_Internal
 DECL|variable|qt_kernel_statemachine_handler
 DECL|variable|qt_meta_data_QSignalEventGenerator
