@@ -1,0 +1,7 @@
+DECL|function|QMimeGlobMatchResult
+DECL|macro|QMIMEGLOBPATTERN_P_H
+DECL|member|m_foundSuffix
+DECL|member|m_matchingMimeTypes
+DECL|member|m_matchingPatternLength
+DECL|member|m_weight
+DECL|struct|QMimeGlobMatchResult

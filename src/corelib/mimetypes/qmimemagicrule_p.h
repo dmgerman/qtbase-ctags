@@ -1,0 +1,2 @@
+DECL|macro|QMIMEMAGICRULE_P_H
+DECL|variable|QMimeMagicRulePrivate
