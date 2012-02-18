@@ -1,15 +1,14 @@
-DECL|class|MetaStringTable
 DECL|class|QMetaEnumBuilderPrivate
 DECL|class|QMetaMethodBuilderPrivate
 DECL|class|QMetaObjectBuilderPrivate
 DECL|class|QMetaPropertyBuilderPrivate
-DECL|function|MetaStringTable
 DECL|function|QMetaEnumBuilderPrivate
 DECL|function|QMetaMethodBuilderPrivate
 DECL|function|QMetaObjectBuilder
 DECL|function|QMetaObjectBuilder
 DECL|function|QMetaObjectBuilderPrivate
 DECL|function|QMetaPropertyBuilderPrivate
+DECL|function|QMetaStringTable
 DECL|function|access
 DECL|function|access
 DECL|function|addClassInfo
@@ -152,8 +151,6 @@ DECL|member|flags
 DECL|member|flags
 DECL|member|isFlag
 DECL|member|keys
-DECL|member|m_entries
-DECL|member|m_index
 DECL|member|methods
 DECL|member|name
 DECL|member|name
@@ -170,4 +167,3 @@ DECL|member|superClass
 DECL|member|tag
 DECL|member|type
 DECL|member|values
-DECL|typedef|Entries
