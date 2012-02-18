@@ -27,16 +27,14 @@ DECL|function|addProperty
 DECL|function|addRelatedMetaObject
 DECL|function|addSignal
 DECL|function|addSlot
-DECL|function|arraySize
 DECL|function|attributes
+DECL|function|blobSize
 DECL|function|buildMetaObject
 DECL|function|buildParameterNames
 DECL|function|classInfoCount
 DECL|function|classInfoName
 DECL|function|classInfoValue
 DECL|function|className
-DECL|function|constBegin
-DECL|function|constEnd
 DECL|function|constructor
 DECL|function|constructorCount
 DECL|function|d_func
@@ -84,6 +82,7 @@ DECL|function|name
 DECL|function|name
 DECL|function|notifySignal
 DECL|function|parameterNames
+DECL|function|preferredAlignment
 DECL|function|priv
 DECL|function|property
 DECL|function|propertyCount
@@ -138,6 +137,7 @@ DECL|function|toMetaObject
 DECL|function|toRelocatableData
 DECL|function|type
 DECL|function|value
+DECL|function|writeBlob
 DECL|function|~QMetaObjectBuilder
 DECL|macro|ALIGN
 DECL|member|attributes
@@ -151,7 +151,7 @@ DECL|member|flags
 DECL|member|isFlag
 DECL|member|keys
 DECL|member|m_entries
-DECL|member|m_offset
+DECL|member|m_index
 DECL|member|methods
 DECL|member|name
 DECL|member|name
@@ -169,4 +169,3 @@ DECL|member|tag
 DECL|member|type
 DECL|member|values
 DECL|typedef|Entries
-DECL|typedef|const_iterator
