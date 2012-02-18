@@ -4,6 +4,7 @@ DECL|function|_fast_cbrt
 DECL|function|_fast_cbrt
 DECL|function|bezierSpline
 DECL|function|bezierSpline_data
+DECL|function|cpp11
 DECL|function|discreteEase
 DECL|function|easing
 DECL|function|fixedToString
