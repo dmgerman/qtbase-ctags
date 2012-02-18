@@ -7,7 +7,6 @@ DECL|function|installFactory
 DECL|function|installRootObjectHandler
 DECL|function|installUpdateHandler
 DECL|function|isActive
-DECL|function|navigate
 DECL|function|operator <<
 DECL|function|operator ==
 DECL|function|platformAccessibility
