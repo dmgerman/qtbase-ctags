@@ -9,6 +9,7 @@ DECL|function|checkConnectArgs
 DECL|function|classInfo
 DECL|function|classInfoCount
 DECL|function|classInfoOffset
+DECL|function|className
 DECL|function|constructor
 DECL|function|constructorCount
 DECL|function|enumerator
@@ -46,6 +47,7 @@ DECL|function|key
 DECL|function|keyCount
 DECL|function|keyToValue
 DECL|function|keysToValue
+DECL|function|legacyString
 DECL|function|metacall
 DECL|function|method
 DECL|function|methodCount
@@ -72,6 +74,8 @@ DECL|function|propertyOffset
 DECL|function|qNormalizeType
 DECL|function|qRemoveWhitespace
 DECL|function|qualifiedName
+DECL|function|rawStringData
+DECL|function|rawStringData
 DECL|function|read
 DECL|function|reset
 DECL|function|revision
@@ -79,6 +83,8 @@ DECL|function|revision
 DECL|function|scope
 DECL|function|signature
 DECL|function|static_metacall
+DECL|function|stringData
+DECL|function|stringSize
 DECL|function|tag
 DECL|function|tr
 DECL|function|trUtf8

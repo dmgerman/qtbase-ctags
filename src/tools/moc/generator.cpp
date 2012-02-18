@@ -13,5 +13,10 @@ DECL|function|isQRealType
 DECL|function|isVariantType
 DECL|function|lengthOfEscapeSequence
 DECL|function|qvariant_nameToType
+DECL|function|registerClassInfoStrings
+DECL|function|registerEnumStrings
+DECL|function|registerFunctionStrings
+DECL|function|registerPropertyStrings
+DECL|function|stridx
 DECL|function|strreg
 DECL|function|writePluginMetaData
