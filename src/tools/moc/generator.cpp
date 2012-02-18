@@ -1,7 +1,9 @@
 DECL|function|Generator
+DECL|function|aggregateParameterCount
 DECL|function|generateClassInfos
 DECL|function|generateCode
 DECL|function|generateEnums
+DECL|function|generateFunctionParameters
 DECL|function|generateFunctionRevisions
 DECL|function|generateFunctions
 DECL|function|generateMetacall
@@ -9,10 +11,10 @@ DECL|function|generatePluginMetaData
 DECL|function|generateProperties
 DECL|function|generateSignal
 DECL|function|generateStaticMetacall
-DECL|function|isQRealType
-DECL|function|isVariantType
+DECL|function|isBuiltinType
 DECL|function|lengthOfEscapeSequence
-DECL|function|qvariant_nameToType
+DECL|function|metaTypeEnumValueString
+DECL|function|nameToBuiltinType
 DECL|function|registerClassInfoStrings
 DECL|function|registerEnumStrings
 DECL|function|registerFunctionStrings
@@ -20,3 +22,5 @@ DECL|function|registerPropertyStrings
 DECL|function|stridx
 DECL|function|strreg
 DECL|function|writePluginMetaData
+DECL|macro|RETURN_METATYPENAME_STRING
+DECL|macro|RETURN_METATYPENAME_STRING
