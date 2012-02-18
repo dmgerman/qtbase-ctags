@@ -53,6 +53,7 @@ DECL|function|method
 DECL|function|methodCount
 DECL|function|methodIndex
 DECL|function|methodOffset
+DECL|function|methodSignature
 DECL|function|methodType
 DECL|function|name
 DECL|function|name
@@ -81,11 +82,11 @@ DECL|function|reset
 DECL|function|revision
 DECL|function|revision
 DECL|function|scope
-DECL|function|signature
 DECL|function|static_metacall
 DECL|function|stringData
 DECL|function|stringSize
 DECL|function|tag
+DECL|function|toByteArray
 DECL|function|tr
 DECL|function|trUtf8
 DECL|function|type
