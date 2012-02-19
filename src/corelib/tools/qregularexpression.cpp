@@ -10,6 +10,7 @@ DECL|function|QRegularExpressionMatchIteratorPrivate
 DECL|function|QRegularExpressionMatchPrivate
 DECL|function|QRegularExpressionPrivate
 DECL|function|QRegularExpressionPrivate
+DECL|function|captureCount
 DECL|function|captureIndexForName
 DECL|function|captured
 DECL|function|captured

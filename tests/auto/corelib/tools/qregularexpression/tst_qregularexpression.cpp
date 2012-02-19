@@ -1,5 +1,7 @@
 DECL|class|tst_QRegularExpression
 DECL|function|Match
+DECL|function|captureCount
+DECL|function|captureCount_data
 DECL|function|clear
 DECL|function|consistencyCheck
 DECL|function|consistencyCheck
