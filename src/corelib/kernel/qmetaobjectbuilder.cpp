@@ -26,10 +26,10 @@ DECL|function|addProperty
 DECL|function|addRelatedMetaObject
 DECL|function|addSignal
 DECL|function|addSlot
+DECL|function|aggregateParameterCount
 DECL|function|attributes
 DECL|function|blobSize
 DECL|function|buildMetaObject
-DECL|function|buildParameterNames
 DECL|function|classInfoCount
 DECL|function|classInfoName
 DECL|function|classInfoValue
@@ -58,6 +58,7 @@ DECL|function|indexOfMethod
 DECL|function|indexOfProperty
 DECL|function|indexOfSignal
 DECL|function|indexOfSlot
+DECL|function|isBuiltinType
 DECL|function|isConstant
 DECL|function|isDesignable
 DECL|function|isEditable
@@ -69,7 +70,6 @@ DECL|function|isResettable
 DECL|function|isScriptable
 DECL|function|isStored
 DECL|function|isUser
-DECL|function|isVariantType
 DECL|function|isWritable
 DECL|function|key
 DECL|function|keyCount
@@ -79,7 +79,9 @@ DECL|function|methodType
 DECL|function|methodType
 DECL|function|name
 DECL|function|name
+DECL|function|name
 DECL|function|notifySignal
+DECL|function|parameterCount
 DECL|function|parameterNames
 DECL|function|parameterTypes
 DECL|function|parameterTypes
@@ -87,7 +89,6 @@ DECL|function|preferredAlignment
 DECL|function|priv
 DECL|function|property
 DECL|function|propertyCount
-DECL|function|qvariant_nameToType
 DECL|function|relatedMetaObject
 DECL|function|relatedMetaObjectCount
 DECL|function|removeClassInfo
