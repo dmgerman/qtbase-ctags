@@ -44,7 +44,6 @@ DECL|function|isConfigFunction
 DECL|function|newtonIteration
 DECL|function|operator <<
 DECL|function|operator <<
-DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==
