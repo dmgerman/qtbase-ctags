@@ -394,7 +394,6 @@ DECL|function|save
 DECL|function|save
 DECL|function|save
 DECL|function|save
-DECL|function|save
 DECL|function|saveDocument
 DECL|function|setAppendToParent
 DECL|function|setAttribute
