@@ -37,7 +37,6 @@ DECL|function|event
 DECL|function|exec
 DECL|function|exec
 DECL|function|exec
-DECL|function|exec
 DECL|function|focusNextPrevChild
 DECL|function|getLastVisibleAction
 DECL|function|hasMouseMoved
