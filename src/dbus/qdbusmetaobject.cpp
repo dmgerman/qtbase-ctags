@@ -1,8 +1,8 @@
 DECL|class|QDBusMetaObjectGenerator
 DECL|function|QDBusMetaObject
 DECL|function|QDBusMetaObjectGenerator
+DECL|function|aggregateParameterCount
 DECL|function|createMetaObject
-DECL|function|dbusNameForMethod
 DECL|function|findType
 DECL|function|inputTypesForMethod
 DECL|function|outputTypesForMethod
@@ -23,7 +23,7 @@ DECL|member|methods
 DECL|member|name
 DECL|member|name
 DECL|member|outputTypes
-DECL|member|parameters
+DECL|member|parameterNames
 DECL|member|properties
 DECL|member|propertyDBusData
 DECL|member|signals_

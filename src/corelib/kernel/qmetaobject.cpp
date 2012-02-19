@@ -104,7 +104,6 @@ DECL|function|qRemoveWhitespace
 DECL|function|qualifiedName
 DECL|function|rawReturnTypeName
 DECL|function|rawStringData
-DECL|function|rawStringData
 DECL|function|rawTypeNameFromTypeInfo
 DECL|function|read
 DECL|function|reset
