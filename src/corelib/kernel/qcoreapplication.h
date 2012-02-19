@@ -1,5 +1,4 @@
 DECL|function|sendEvent
-DECL|function|sendPostedEvents
 DECL|function|sendSpontaneousEvent
 DECL|function|translate
 DECL|function|translate

@@ -42,7 +42,6 @@ DECL|function|notify_helper
 DECL|function|organizationDomain
 DECL|function|organizationName
 DECL|function|postEvent
-DECL|function|postEvent
 DECL|function|processCommandLineArguments
 DECL|function|processEvents
 DECL|function|processEvents
@@ -58,7 +57,6 @@ DECL|function|quit
 DECL|function|ref
 DECL|function|removeLibraryPath
 DECL|function|removePostedEvent
-DECL|function|removePostedEvents
 DECL|function|removePostedEvents
 DECL|function|removeTranslator
 DECL|function|replacePercentN
