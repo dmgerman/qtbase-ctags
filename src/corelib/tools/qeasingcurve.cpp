@@ -13,6 +13,7 @@ DECL|function|QEasingCurve
 DECL|function|QEasingCurve
 DECL|function|QEasingCurveFunction
 DECL|function|QEasingCurvePrivate
+DECL|function|QEasingCurvePrivate
 DECL|function|TCBPoint
 DECL|function|TCBPoint
 DECL|function|_acos
