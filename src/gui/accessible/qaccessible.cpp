@@ -14,7 +14,6 @@ DECL|function|qAccessibleCleanup
 DECL|function|qAccessibleEventString
 DECL|function|qAccessibleRoleString
 DECL|function|queryAccessibleInterface
-DECL|function|relationTo
 DECL|function|relations
 DECL|function|removeFactory
 DECL|function|setRootObject
