@@ -1,8 +1,10 @@
 DECL|class|tst_ExpectFail
 DECL|function|xfailAndAbort
 DECL|function|xfailAndContinue
-DECL|function|xfailDataDriven
-DECL|function|xfailDataDriven_data
+DECL|function|xfailDataDrivenWithQCompare
+DECL|function|xfailDataDrivenWithQCompare_data
+DECL|function|xfailDataDrivenWithQVerify
+DECL|function|xfailDataDrivenWithQVerify_data
 DECL|function|xfailOnAnyRow
 DECL|function|xfailOnAnyRow_data
 DECL|function|xfailOnWrongRow
@@ -12,5 +14,7 @@ DECL|function|xfailWithQString
 DECL|function|xfailWithoutVerify
 DECL|function|xfailWithoutVerify_data
 DECL|function|xpass
-DECL|function|xpassDataDriven
-DECL|function|xpassDataDriven_data
+DECL|function|xpassDataDrivenWithQCompare
+DECL|function|xpassDataDrivenWithQCompare_data
+DECL|function|xpassDataDrivenWithQVerify
+DECL|function|xpassDataDrivenWithQVerify_data
