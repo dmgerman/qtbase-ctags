@@ -105,6 +105,7 @@ DECL|function|run
 DECL|function|run
 DECL|function|setInvalidSocketDescriptor
 DECL|function|setSocketDescriptor
+DECL|function|setSocketOption
 DECL|function|socketDescriptor
 DECL|function|socketInAThread
 DECL|function|socketsConstructedBeforeEventLoop
