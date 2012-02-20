@@ -381,5 +381,4 @@ DECL|variable|QByteArray
 DECL|variable|QDataStream
 DECL|variable|QStaticAssertFailure
 DECL|variable|QString
-DECL|variable|QString
 DECL|variable|T
