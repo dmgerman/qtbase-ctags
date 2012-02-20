@@ -1,1 +1,2 @@
 DECL|macro|QMUTEX_P_H
+DECL|macro|Q_MUTEX_LINUX
