@@ -15,7 +15,6 @@ DECL|function|qIntCast
 DECL|function|qIntCast
 DECL|function|qIsNull
 DECL|function|qIsNull
-DECL|function|qMacVersion
 DECL|function|qMax
 DECL|function|qMin
 DECL|function|qRound
