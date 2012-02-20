@@ -17,6 +17,7 @@ DECL|function|arg
 DECL|function|arg
 DECL|function|arg
 DECL|function|arg
+DECL|function|asprintf
 DECL|function|assignArgumentNumberToEachOfTheNs
 DECL|function|caseDiff
 DECL|function|caseDiff
@@ -257,6 +258,7 @@ DECL|function|ucstrncmp
 DECL|function|ucstrncmp
 DECL|function|ucstrnicmp
 DECL|function|utf16
+DECL|function|vasprintf
 DECL|function|vsprintf
 DECL|macro|CSTR_EQUAL
 DECL|macro|CSTR_GREATER_THAN
