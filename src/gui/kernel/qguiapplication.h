@@ -5,6 +5,7 @@ DECL|macro|qGuiApp
 DECL|macro|qGuiApp
 DECL|variable|QGuiApplicationPrivate
 DECL|variable|QPalette
+DECL|variable|QPlatformIntegration
 DECL|variable|QPlatformNativeInterface
 DECL|variable|QScreen
 DECL|variable|QStyleHints
