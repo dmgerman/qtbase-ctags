@@ -16,7 +16,6 @@ DECL|member|begin
 DECL|member|d
 DECL|member|end
 DECL|member|ref
-DECL|member|sharable
 DECL|member|shared_null
 DECL|struct|Data
 DECL|struct|QListData
