@@ -1,3 +1,6 @@
+DECL|enumerator|ApplicationFontExplicitlySet
+DECL|enumerator|ApplicationPaletteExplicitlySet
+DECL|enum|ApplicationResourceFlags
 DECL|function|QGuiApplication
 DECL|function|QGuiApplication
 DECL|function|QGuiApplicationPrivate
@@ -5,6 +8,8 @@ DECL|function|allWindows
 DECL|function|applyCursor
 DECL|function|applyCursor
 DECL|function|changeOverrideCursor
+DECL|function|clearFontUnlocked
+DECL|function|clearPalette
 DECL|function|clipboard
 DECL|function|compressEvent
 DECL|function|createEventDispatcher
@@ -18,6 +23,8 @@ DECL|function|focusWindow
 DECL|function|font
 DECL|function|getPixmapCursor
 DECL|function|init
+DECL|function|initFontUnlocked
+DECL|function|initPalette
 DECL|function|init_platform
 DECL|function|init_plugins
 DECL|function|inputMethod
@@ -28,6 +35,7 @@ DECL|function|mouseButtons
 DECL|function|notify
 DECL|function|notifyActiveWindowChange
 DECL|function|notifyLayoutDirectionChange
+DECL|function|notifyThemeChanged
 DECL|function|operator ==
 DECL|function|overrideCursor
 DECL|function|palette
@@ -97,6 +105,7 @@ DECL|member|screen_list
 DECL|member|self
 DECL|member|window_list
 DECL|variable|applicationFontMutex
+DECL|variable|applicationResourceFlags
 DECL|variable|copy_xpm
 DECL|variable|force_reverse
 DECL|variable|layout_direction

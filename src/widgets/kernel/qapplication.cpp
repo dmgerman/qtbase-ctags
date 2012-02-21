@@ -14,6 +14,7 @@ DECL|function|allWidgets
 DECL|function|autoMaximizeThreshold
 DECL|function|autoSipEnabled
 DECL|function|cleanupMultitouch
+DECL|function|clearSystemPalette
 DECL|function|closeAllWindows
 DECL|function|colorSpec
 DECL|function|commitData
@@ -38,6 +39,7 @@ DECL|function|giveFocusAccordingToFocusPolicy
 DECL|function|globalStrut
 DECL|function|inPopupMode
 DECL|function|initResources
+DECL|function|initSystemPalette
 DECL|function|initialize
 DECL|function|initializeMultitouch
 DECL|function|instance
@@ -54,6 +56,7 @@ DECL|function|mouseButtons
 DECL|function|navigationMode
 DECL|function|notify
 DECL|function|notifyLayoutDirectionChange
+DECL|function|notifyThemeChanged
 DECL|function|notify_helper
 DECL|function|palette
 DECL|function|palette
