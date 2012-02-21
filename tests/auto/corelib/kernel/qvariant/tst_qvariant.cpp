@@ -1,6 +1,12 @@
+DECL|class|CustomNonQObject
+DECL|class|CustomQObject
+DECL|class|CustomQObjectDerived
+DECL|class|CustomQWidget
 DECL|class|MessageHandler
 DECL|class|tst_QVariant
-DECL|enumerator|Value
+DECL|function|CustomQObject
+DECL|function|CustomQObjectDerived
+DECL|function|CustomQWidget
 DECL|function|Foo
 DECL|function|MessageHandler
 DECL|function|MyClass
@@ -19,6 +25,7 @@ DECL|function|canConvertQStringList
 DECL|function|canConvertQStringList_data
 DECL|function|canConvert_data
 DECL|function|checkDataStream
+DECL|function|cleanupTestCase
 DECL|function|colorInteger
 DECL|function|compareCustomTypes
 DECL|function|comparePointers
@@ -75,6 +82,7 @@ DECL|function|podUserType
 DECL|function|quaternion
 DECL|function|qvariant_cast_QObject
 DECL|function|qvariant_cast_QObject_data
+DECL|function|qvariant_cast_QObject_derived
 DECL|function|saveLoadCustomTypes
 DECL|function|saveQVariantFromDataStream
 DECL|function|saveQt4Stream
@@ -143,6 +151,7 @@ DECL|function|toUInt_data
 DECL|function|toULongLong
 DECL|function|toULongLong_data
 DECL|function|transform
+DECL|function|tst_QVariant
 DECL|function|typeName
 DECL|function|typeName_data
 DECL|function|typeToName
@@ -182,6 +191,7 @@ DECL|member|count
 DECL|member|count
 DECL|member|currentId
 DECL|member|currentId
+DECL|member|customNonQObjectPointer
 DECL|member|e
 DECL|member|i
 DECL|member|i
@@ -189,6 +199,7 @@ DECL|member|i
 DECL|member|movable
 DECL|member|myValue
 DECL|member|number
+DECL|member|objectPointerTestData
 DECL|member|ok
 DECL|member|ok
 DECL|member|oldMsgHandler
@@ -205,12 +216,10 @@ DECL|member|x
 DECL|member|y
 DECL|member|y
 DECL|member|z
-DECL|namespace|QtPrivate
 DECL|struct|Blah
 DECL|struct|CustomStreamableClass
 DECL|struct|Data
 DECL|struct|Foo
-DECL|struct|IsPointerToTypeDerivedFromQObject
 DECL|struct|MyClass
 DECL|struct|MyData
 DECL|struct|MyMovable

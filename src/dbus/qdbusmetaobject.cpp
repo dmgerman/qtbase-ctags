@@ -4,9 +4,7 @@ DECL|function|QDBusMetaObjectGenerator
 DECL|function|createMetaObject
 DECL|function|dbusNameForMethod
 DECL|function|findType
-DECL|function|inputSignatureForMethod
 DECL|function|inputTypesForMethod
-DECL|function|outputSignatureForMethod
 DECL|function|outputTypesForMethod
 DECL|function|parseMethods
 DECL|function|parseProperties
@@ -18,14 +16,12 @@ DECL|member|data
 DECL|member|flags
 DECL|member|flags
 DECL|member|id
-DECL|member|inputSignature
 DECL|member|inputTypes
 DECL|member|interface
 DECL|member|methodDBusData
 DECL|member|methods
 DECL|member|name
 DECL|member|name
-DECL|member|outputSignature
 DECL|member|outputTypes
 DECL|member|parameters
 DECL|member|properties

@@ -1,0 +1,4 @@
+DECL|class|tst_BenchlibCounting
+DECL|function|failingBenchmark
+DECL|function|passingBenchmark
+DECL|function|skippingBenchmark

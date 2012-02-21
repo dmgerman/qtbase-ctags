@@ -5,6 +5,7 @@ DECL|function|generateEnums
 DECL|function|generateFunctionRevisions
 DECL|function|generateFunctions
 DECL|function|generateMetacall
+DECL|function|generatePluginMetaData
 DECL|function|generateProperties
 DECL|function|generateSignal
 DECL|function|generateStaticMetacall

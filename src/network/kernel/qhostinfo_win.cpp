@@ -1,6 +1,7 @@
 DECL|function|fromName
 DECL|function|localHostName
 DECL|function|resolveLibrary
+DECL|function|translateWSAError
 DECL|macro|NI_MAXHOST
 DECL|macro|QT_SOCKLEN_T
 DECL|member|ai_addr

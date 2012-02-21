@@ -1,0 +1,2 @@
+DECL|macro|QMIMEPROVIDER_P_H
+DECL|variable|QMimeMagicRuleMatcher

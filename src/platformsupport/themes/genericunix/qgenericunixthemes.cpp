@@ -1,0 +1,13 @@
+DECL|function|QKdeTheme
+DECL|function|clearPalettes
+DECL|function|createKdeTheme
+DECL|function|createUnixTheme
+DECL|function|globalSettingsFile
+DECL|function|kdeColor
+DECL|function|kdeIconThemeSearchPaths
+DECL|function|readKdeSystemPalette
+DECL|function|refresh
+DECL|function|themeHint
+DECL|function|themeHint
+DECL|function|themeHint
+DECL|function|xdgIconThemePaths

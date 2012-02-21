@@ -37,6 +37,8 @@ DECL|function|sort
 DECL|function|sort_data
 DECL|function|tst_QFileSystemModel
 DECL|function|~tst_QFileSystemModel
+DECL|macro|ROWNAME
+DECL|macro|ROWNAME
 DECL|macro|TRY_WAIT
 DECL|macro|WAITTIME
 DECL|member|dvd

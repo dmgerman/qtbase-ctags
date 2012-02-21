@@ -46,6 +46,7 @@ DECL|member|flagAliases
 DECL|member|gspec
 DECL|member|hasQGadget
 DECL|member|hasQObject
+DECL|member|iid
 DECL|member|inPrivateClass
 DECL|member|inPrivateClass
 DECL|member|inlineCode
@@ -66,6 +67,7 @@ DECL|member|isSlot
 DECL|member|isStatic
 DECL|member|isVirtual
 DECL|member|isVolatile
+DECL|member|metaData
 DECL|member|methodList
 DECL|member|name
 DECL|member|name
@@ -79,6 +81,7 @@ DECL|member|normalizedType
 DECL|member|notify
 DECL|member|notifyId
 DECL|member|notifyableProperties
+DECL|member|pluginData
 DECL|member|propertyList
 DECL|member|publicList
 DECL|member|qualified
@@ -114,5 +117,6 @@ DECL|struct|EnumDef
 DECL|struct|FunctionDef
 DECL|struct|Interface
 DECL|struct|NamespaceDef
+DECL|struct|PluginData
 DECL|struct|PropertyDef
 DECL|struct|Type

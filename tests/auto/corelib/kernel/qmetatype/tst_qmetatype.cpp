@@ -2,7 +2,6 @@ DECL|class|CustomMultiInheritanceObject
 DECL|class|CustomObject
 DECL|class|IsRegisteredDummyType
 DECL|class|MetaTypeTorturer
-DECL|class|RegUnreg
 DECL|class|tst_QMetaType
 DECL|enumerator|IsInitialized
 DECL|enumerator|V1
@@ -17,8 +16,6 @@ DECL|function|Bar
 DECL|function|CustomMultiInheritanceObject
 DECL|function|CustomObject
 DECL|function|MetaTypeTorturer
-DECL|function|RegUnreg
-DECL|function|RegUnreg
 DECL|function|automaticTemplateRegistration
 DECL|function|construct
 DECL|function|constructCopy
@@ -72,8 +69,12 @@ DECL|function|createCopy_data
 DECL|function|create_data
 DECL|function|defined
 DECL|function|flags
+DECL|function|flagsStaticLess
+DECL|function|flagsStaticLess_data
 DECL|function|flags_data
 DECL|function|isRegistered
+DECL|function|isRegisteredStaticLess
+DECL|function|isRegisteredStaticLess_data
 DECL|function|isRegistered_data
 DECL|function|namespaces
 DECL|function|normalizedTypes
@@ -81,9 +82,12 @@ DECL|function|prop
 DECL|function|properties
 DECL|function|qMetaTypeId
 DECL|function|registerStreamBuiltin
+DECL|function|registerType
 DECL|function|run
 DECL|function|setProp
 DECL|function|sizeOf
+DECL|function|sizeOfStaticLess
+DECL|function|sizeOfStaticLess_data
 DECL|function|sizeOf_data
 DECL|function|testConstructCopyHelper
 DECL|function|testConstructCopyHelper
@@ -98,8 +102,6 @@ DECL|function|tst_QMetaType
 DECL|function|typeName
 DECL|function|typeName_data
 DECL|function|typedefs
-DECL|function|unregisterType
-DECL|function|~RegUnreg
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW

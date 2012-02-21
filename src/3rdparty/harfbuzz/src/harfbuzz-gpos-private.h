@@ -14,6 +14,7 @@ DECL|macro|HB_GPOS_FORMAT_HAVE_Y_ID_ADVANCE
 DECL|macro|HB_GPOS_FORMAT_HAVE_Y_ID_PLACEMENT
 DECL|macro|HB_GPOS_FORMAT_HAVE_Y_PLACEMENT
 DECL|macro|HB_GPOS_FORMAT_HAVE_Y_PLACEMENT_DEVICE
+DECL|macro|HB_USE_FLEXIBLE_VALUE_RECORD
 DECL|macro|VR_X_ADVANCE_DEVICE
 DECL|macro|VR_X_PLACEMENT_DEVICE
 DECL|macro|VR_Y_ADVANCE_DEVICE
@@ -78,6 +79,7 @@ DECL|member|InputCoverage
 DECL|member|InputGlyphCount
 DECL|member|InputGlyphCount
 DECL|member|InputGlyphCount
+DECL|member|IsFlexible
 DECL|member|LigatureAnchor
 DECL|member|LigatureArray
 DECL|member|LigatureAttach
@@ -154,6 +156,7 @@ DECL|member|ValueCount
 DECL|member|ValueFormat
 DECL|member|ValueFormat1
 DECL|member|ValueFormat2
+DECL|member|ValueRecords
 DECL|member|XAdvance
 DECL|member|XCoordinate
 DECL|member|XCoordinate
@@ -175,6 +178,7 @@ DECL|member|af1
 DECL|member|af2
 DECL|member|af3
 DECL|member|af4
+DECL|member|c2r
 DECL|member|ccpf
 DECL|member|ccpf1
 DECL|member|ccpf2

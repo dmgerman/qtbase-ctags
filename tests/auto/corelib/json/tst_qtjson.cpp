@@ -7,6 +7,7 @@ DECL|function|compactArray
 DECL|function|compactObject
 DECL|function|fromBinary
 DECL|function|fromJson
+DECL|function|fromJsonErrors
 DECL|function|fromVariantMap
 DECL|function|init
 DECL|function|initTestCase
@@ -45,3 +46,4 @@ DECL|function|toVariantList
 DECL|function|toVariantMap
 DECL|function|undefinedValues
 DECL|function|validation
+DECL|member|testDataDir

@@ -62,6 +62,7 @@ DECL|member|verboseGL
 DECL|member|verboseInputMethods
 DECL|member|verboseIntegration
 DECL|member|verboseOLE
+DECL|member|verboseTheming
 DECL|member|verboseWindows
 DECL|struct|QWindowsContextPrivate
 DECL|typedef|EventFilter

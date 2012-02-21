@@ -26,7 +26,6 @@ DECL|function|detach
 DECL|function|hasRawHeader
 DECL|function|header
 DECL|function|hostName
-DECL|function|init
 DECL|function|isCachingProxy
 DECL|function|isTransparentProxy
 DECL|function|localPort

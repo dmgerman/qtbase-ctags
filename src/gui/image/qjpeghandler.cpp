@@ -12,6 +12,7 @@ DECL|function|ensureValidImage
 DECL|function|my_error_exit
 DECL|function|my_jpeg_destination_mgr
 DECL|function|my_jpeg_source_mgr
+DECL|function|my_output_message
 DECL|function|name
 DECL|function|option
 DECL|function|qt_empty_output_buffer

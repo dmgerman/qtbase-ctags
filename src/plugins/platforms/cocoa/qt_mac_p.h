@@ -19,5 +19,3 @@ DECL|variable|QDragMoveEvent
 DECL|variable|QMacPasteboardMime
 DECL|variable|QMimeData
 DECL|variable|QWidget
-DECL|variable|kEventClassQt
-DECL|variable|kEventClassQt

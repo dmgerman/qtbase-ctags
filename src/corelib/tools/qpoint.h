@@ -5,6 +5,8 @@ DECL|function|QPointF
 DECL|function|QPointF
 DECL|function|isNull
 DECL|function|isNull
+DECL|function|manhattanLength
+DECL|function|manhattanLength
 DECL|function|rx
 DECL|function|rx
 DECL|function|ry

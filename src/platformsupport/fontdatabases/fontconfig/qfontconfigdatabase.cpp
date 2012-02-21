@@ -6,6 +6,7 @@ DECL|function|addApplicationFont
 DECL|function|defaultFont
 DECL|function|fallbacksForFamily
 DECL|function|fontEngine
+DECL|function|fontEngineMulti
 DECL|function|getFCWeight
 DECL|function|getFcFamilyForStyleHint
 DECL|function|populateFontDatabase

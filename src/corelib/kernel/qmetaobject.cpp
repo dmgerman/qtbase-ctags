@@ -62,6 +62,7 @@ DECL|function|notifySignal
 DECL|function|notifySignalIndex
 DECL|function|originalClone
 DECL|function|parameterNames
+DECL|function|parameterTypeNamesFromSignature
 DECL|function|parameterTypes
 DECL|function|priv
 DECL|function|property

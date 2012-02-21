@@ -38,9 +38,6 @@ DECL|function|isValid
 DECL|function|logicalIndex
 DECL|function|modelChange
 DECL|function|modelReset
-DECL|function|navigate
-DECL|function|navigate
-DECL|function|navigate
 DECL|function|parent
 DECL|function|parent
 DECL|function|parent

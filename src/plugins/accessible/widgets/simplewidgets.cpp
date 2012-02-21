@@ -27,10 +27,9 @@ DECL|function|keyBindingsForAction
 DECL|function|lineEdit
 DECL|function|maximumValue
 DECL|function|minimumValue
-DECL|function|navigate
 DECL|function|offsetAtPoint
 DECL|function|progressBar
-DECL|function|relationTo
+DECL|function|relations
 DECL|function|removeSelection
 DECL|function|role
 DECL|function|scrollToSubstring

@@ -13,7 +13,6 @@ DECL|function|createHeuristicMask
 DECL|function|createMaskFromColor
 DECL|function|defaultDepth
 DECL|function|depth
-DECL|function|deref
 DECL|function|detach
 DECL|function|devType
 DECL|function|doImageIO
@@ -23,6 +22,7 @@ DECL|function|fill
 DECL|function|fromImage
 DECL|function|fromImageReader
 DECL|function|grabWidget
+DECL|function|grabWindow
 DECL|function|handle
 DECL|function|hasAlpha
 DECL|function|hasAlphaChannel

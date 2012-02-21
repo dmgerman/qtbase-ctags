@@ -1,3 +1,4 @@
+DECL|function|Calculate_Class2RecordSize
 DECL|function|Do_ContextPos
 DECL|function|Free_Anchor
 DECL|function|Free_BaseArray
@@ -34,6 +35,7 @@ DECL|function|Free_ValueRecord
 DECL|function|GPOS_Do_Glyph_Lookup
 DECL|function|GPOS_Do_String_Lookup
 DECL|function|Get_Anchor
+DECL|function|Get_FlexibleValueRecord
 DECL|function|Get_ValueRecord
 DECL|function|HB_Done_GPOS_Table
 DECL|function|HB_GPOS_Add_Feature

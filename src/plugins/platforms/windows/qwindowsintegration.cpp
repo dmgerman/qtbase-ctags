@@ -19,6 +19,7 @@ DECL|function|nativeResourceForBackingStore
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
 DECL|function|platformTheme
+DECL|function|services
 DECL|function|setEventFilter
 DECL|function|styleHint
 DECL|function|~QWindowsIntegration
@@ -31,6 +32,7 @@ DECL|member|m_eventDispatcher
 DECL|member|m_fontDatabase
 DECL|member|m_inputContext
 DECL|member|m_nativeInterface
+DECL|member|m_services
 DECL|member|m_staticOpenGLContext
 DECL|member|m_theme
 DECL|struct|QWindowsIntegrationPrivate

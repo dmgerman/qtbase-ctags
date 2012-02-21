@@ -1,0 +1,12 @@
+DECL|class|tst_qmimetype
+DECL|function|buildQMimeTypeFilenameExtensions
+DECL|function|genericIconName
+DECL|function|iconName
+DECL|function|initTestCase
+DECL|function|isValid
+DECL|function|name
+DECL|function|qMimeTypeGenericIconName
+DECL|function|qMimeTypeGlobPatterns
+DECL|function|qMimeTypeIconName
+DECL|function|qMimeTypeName
+DECL|function|suffixes

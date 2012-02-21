@@ -1,0 +1,1 @@
+DECL|function|q_udev_devicePath

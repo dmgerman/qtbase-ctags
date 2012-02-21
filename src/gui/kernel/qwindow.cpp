@@ -22,8 +22,10 @@ DECL|function|hide
 DECL|function|hideEvent
 DECL|function|isActive
 DECL|function|isAncestorOf
+DECL|function|isExposed
 DECL|function|isModal
 DECL|function|isTopLevel
+DECL|function|isVisible
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
 DECL|function|lower

@@ -6,11 +6,14 @@ DECL|function|hasPendingConnections
 DECL|function|incomingConnection
 DECL|function|isListening
 DECL|function|listen
+DECL|function|listen
 DECL|function|maxPendingConnections
 DECL|function|nextPendingConnection
 DECL|function|removeServer
 DECL|function|serverError
 DECL|function|serverName
 DECL|function|setMaxPendingConnections
+DECL|function|setSocketOptions
+DECL|function|socketOptions
 DECL|function|waitForNewConnection
 DECL|function|~QLocalServer

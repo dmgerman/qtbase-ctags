@@ -27,6 +27,7 @@ DECL|function|instance
 DECL|function|isRunning
 DECL|function|localRestart
 DECL|function|loopCount
+DECL|function|maybeUpdateAnimationsToCurrentTime
 DECL|function|pause
 DECL|function|pauseAnimationTimer
 DECL|function|registerAnimation

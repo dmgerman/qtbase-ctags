@@ -1,8 +1,6 @@
 DECL|class|DBusServerThread
-DECL|class|WaitForQPinger
 DECL|class|tst_QDBusAbstractInterface
 DECL|function|DBusServerThread
-DECL|function|WaitForQPinger
 DECL|function|asyncCallErrors
 DECL|function|asyncCallErrorsPeer
 DECL|function|asyncCallErrorsPeer_data
@@ -12,7 +10,7 @@ DECL|function|callErrorsPeer
 DECL|function|callErrorsPeer_data
 DECL|function|callErrors_data
 DECL|function|callWithTimeout
-DECL|function|cleanupTestCase
+DECL|function|cleanup
 DECL|function|complexPropDirectRead
 DECL|function|complexPropDirectReadPeer
 DECL|function|complexPropDirectWrite
@@ -48,6 +46,7 @@ DECL|function|getVoidSignal
 DECL|function|getVoidSignalPeer
 DECL|function|getVoidSignalPeer_data
 DECL|function|getVoidSignal_data
+DECL|function|init
 DECL|function|initTestCase
 DECL|function|makeAsyncComplexCall
 DECL|function|makeAsyncComplexCallPeer
@@ -65,8 +64,6 @@ DECL|function|makeStringCall
 DECL|function|makeStringCallPeer
 DECL|function|makeVoidCall
 DECL|function|makeVoidCallPeer
-DECL|function|ok
-DECL|function|ownerChange
 DECL|function|propertyReadErrors
 DECL|function|propertyReadErrorsPeer
 DECL|function|propertyReadErrorsPeer_data
@@ -95,7 +92,6 @@ DECL|function|variantPropReadPeer
 DECL|function|variantPropWrite
 DECL|function|variantPropWritePeer
 DECL|function|~DBusServerThread
-DECL|member|loop
 DECL|member|m_ready
 DECL|member|proc
 DECL|member|targetObj

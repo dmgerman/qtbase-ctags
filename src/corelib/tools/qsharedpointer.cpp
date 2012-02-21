@@ -1,4 +1,5 @@
 DECL|class|KnownPointers
+DECL|function|checkQObjectShared
 DECL|function|getAndRef
 DECL|function|internalSafetyCheckAdd
 DECL|function|internalSafetyCheckAdd2

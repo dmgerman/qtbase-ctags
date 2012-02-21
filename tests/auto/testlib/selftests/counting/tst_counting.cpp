@@ -3,9 +3,15 @@ DECL|enumerator|Fail
 DECL|enumerator|Pass
 DECL|enumerator|Skip
 DECL|enum|TestResult
+DECL|function|cleanup
 DECL|function|helper
+DECL|function|init
 DECL|function|testFailFail
 DECL|function|testFailFail_data
+DECL|function|testFailInCleanup
+DECL|function|testFailInCleanup_data
+DECL|function|testFailInInit
+DECL|function|testFailInInit_data
 DECL|function|testFailPass
 DECL|function|testFailPass_data
 DECL|function|testFailSkip
@@ -18,6 +24,10 @@ DECL|function|testPassSkip
 DECL|function|testPassSkip_data
 DECL|function|testSkipFail
 DECL|function|testSkipFail_data
+DECL|function|testSkipInCleanup
+DECL|function|testSkipInCleanup_data
+DECL|function|testSkipInInit
+DECL|function|testSkipInInit_data
 DECL|function|testSkipPass
 DECL|function|testSkipPass_data
 DECL|function|testSkipSkip

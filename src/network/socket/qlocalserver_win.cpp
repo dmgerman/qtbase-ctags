@@ -3,6 +3,7 @@ DECL|function|addListener
 DECL|function|closeServer
 DECL|function|init
 DECL|function|listen
+DECL|function|listen
 DECL|function|removeServer
 DECL|function|setError
 DECL|function|waitForNewConnection

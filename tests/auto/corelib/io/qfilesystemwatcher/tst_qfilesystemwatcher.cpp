@@ -6,14 +6,15 @@ DECL|function|addPaths
 DECL|function|basicTest
 DECL|function|basicTest_data
 DECL|function|bla
-DECL|function|cleanup
 DECL|function|destroyAfterQCoreApplication
 DECL|function|nonExistingFile
 DECL|function|removeFileAndUnWatch
 DECL|function|removePath
 DECL|function|removePaths
+DECL|function|tst_QFileSystemWatcher
 DECL|function|watchDirectory
 DECL|function|watchDirectory_data
 DECL|function|watchFileAndItsDirectory
 DECL|function|watchFileAndItsDirectory_data
 DECL|member|mFsWatcher
+DECL|member|m_tempDirPattern

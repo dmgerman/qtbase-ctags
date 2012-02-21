@@ -6,10 +6,11 @@ DECL|function|instance
 DECL|function|isLoaded
 DECL|function|load
 DECL|function|loadHints
-DECL|function|qRegisterStaticPluginInstanceFunction
+DECL|function|qRegisterStaticPluginFunction
 DECL|function|setFileName
 DECL|function|setLoadHints
 DECL|function|staticInstances
+DECL|function|staticPlugins
 DECL|function|unload
 DECL|function|~QPluginLoader
-DECL|typedef|StaticInstanceFunctionList
+DECL|typedef|StaticPluginList

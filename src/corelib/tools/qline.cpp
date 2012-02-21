@@ -3,7 +3,6 @@ DECL|function|angle
 DECL|function|angleTo
 DECL|function|fromPolar
 DECL|function|intersect
-DECL|function|isNull
 DECL|function|length
 DECL|function|operator <<
 DECL|function|operator <<

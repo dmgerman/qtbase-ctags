@@ -16,7 +16,6 @@ DECL|function|fillPermissions
 DECL|function|getFindData
 DECL|function|getLinkTarget
 DECL|function|homePath
-DECL|function|isCaseSensitive
 DECL|function|isDirPath
 DECL|function|mkDir
 DECL|function|modificationTime

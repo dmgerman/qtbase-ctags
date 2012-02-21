@@ -1,6 +1,19 @@
 DECL|function|QWindowsTheme
 DECL|function|booleanSystemParametersInfo
+DECL|function|clearPalettes
 DECL|function|createPlatformDialogHelper
 DECL|function|dWordSystemParametersInfo
+DECL|function|getSysColor
+DECL|function|iconThemeSearchPaths
+DECL|function|instance
+DECL|function|mixColors
+DECL|function|operator <<
+DECL|function|paletteToString
+DECL|function|refresh
+DECL|function|styleNames
+DECL|function|systemPalette
 DECL|function|themeHint
+DECL|function|toolTipPalette
 DECL|function|usePlatformNativeDialog
+DECL|function|windowsThemeChanged
+DECL|function|~QWindowsTheme

@@ -1,7 +1,5 @@
 DECL|class|QTDSDriverPrivate
 DECL|class|QTDSResultPrivate
-DECL|enumerator|Value
-DECL|enumerator|Value
 DECL|function|QTDSDriver
 DECL|function|QTDSDriver
 DECL|function|QTDSDriverPrivate
@@ -76,8 +74,4 @@ DECL|member|lastError
 DECL|member|login
 DECL|member|login
 DECL|member|rec
-DECL|namespace|QtPrivate
-DECL|namespace|QtPrivate
-DECL|struct|IsPointerToTypeDerivedFromQObject
-DECL|struct|IsPointerToTypeDerivedFromQObject
 DECL|typedef|QTDSErrorHash

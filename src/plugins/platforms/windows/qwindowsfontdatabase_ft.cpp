@@ -1,12 +1,17 @@
 DECL|function|LOGFONT_to_QFont
 DECL|function|addApplicationFont
 DECL|function|addFontToDatabase
+DECL|function|createFontFile
 DECL|function|defaultFont
 DECL|function|defaultFonts
 DECL|function|fallbacksForFamily
 DECL|function|fontDir
 DECL|function|fontEngine
 DECL|function|fontEngine
+DECL|function|getEnglishName
+DECL|function|getEnglishName
+DECL|function|getUShort
+DECL|function|localizedName
 DECL|function|populate
 DECL|function|populateFontDatabase
 DECL|function|scriptRequiresOpenType
@@ -15,6 +20,8 @@ DECL|function|systemFont
 DECL|function|verticalDPI
 DECL|function|weightFromInteger
 DECL|function|writingSystemFromScript
+DECL|macro|MAKE_TAG
+DECL|macro|MAKE_TAG
 DECL|variable|ch_CN_tryFonts
 DECL|variable|ch_TW_tryFonts
 DECL|variable|jp_tryFonts

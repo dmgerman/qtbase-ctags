@@ -5,9 +5,9 @@ DECL|function|actionList
 DECL|function|child
 DECL|function|childAt
 DECL|function|childCount
+DECL|function|focusChild
 DECL|function|indexOfChild
 DECL|function|isValid
-DECL|function|navigate
 DECL|function|object
 DECL|function|parent
 DECL|function|rect

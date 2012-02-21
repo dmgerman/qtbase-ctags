@@ -46,7 +46,6 @@ DECL|function|qToInt
 DECL|function|qVerify
 DECL|function|qWarn
 DECL|function|qtest_qParseArgs
-DECL|function|saveCoverageTool
 DECL|function|set
 DECL|function|signal
 DECL|function|testObject

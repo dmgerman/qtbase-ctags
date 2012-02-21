@@ -30,6 +30,7 @@ DECL|function|defaultSizeTest
 DECL|function|defaultSizeTest_data
 DECL|function|emptyModel
 DECL|function|emptySectionSpan
+DECL|function|ensureNoIndexAtLength
 DECL|function|event
 DECL|function|focusPolicy
 DECL|function|getSetCheck

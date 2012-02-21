@@ -9,7 +9,6 @@ DECL|function|currentPath
 DECL|function|fillMetaData
 DECL|function|getLinkTarget
 DECL|function|homePath
-DECL|function|isCaseSensitive
 DECL|function|removeDirectory
 DECL|function|removeFile
 DECL|function|renameFile

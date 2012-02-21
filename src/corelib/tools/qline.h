@@ -9,6 +9,7 @@ DECL|function|dx
 DECL|function|dy
 DECL|function|dy
 DECL|function|isNull
+DECL|function|isNull
 DECL|function|normalVector
 DECL|function|operator
 DECL|function|operator

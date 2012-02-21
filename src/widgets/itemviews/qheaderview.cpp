@@ -53,6 +53,7 @@ DECL|function|orientation
 DECL|function|paintEvent
 DECL|function|paintSection
 DECL|function|read
+DECL|function|recalcSectionStartPos
 DECL|function|removeSectionsFromSpans
 DECL|function|reset
 DECL|function|resizeMode

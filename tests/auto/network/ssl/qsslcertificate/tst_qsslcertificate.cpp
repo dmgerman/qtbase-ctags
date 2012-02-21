@@ -3,7 +3,7 @@ DECL|function|CertInfo
 DECL|function|blacklistedCertificates
 DECL|function|certInfo
 DECL|function|certInfoQByteArray
-DECL|function|cleanup
+DECL|function|cleanupTestCase
 DECL|function|compareCertificates
 DECL|function|constructingGarbage
 DECL|function|constructor
@@ -20,8 +20,7 @@ DECL|function|firstPemCertificateFromPem
 DECL|function|fromDevice
 DECL|function|fromPath
 DECL|function|fromPath_data
-DECL|function|init
-DECL|function|initTestCase_data
+DECL|function|initTestCase
 DECL|function|largeExpirationDate
 DECL|function|largeSerialNumber
 DECL|function|multipleCommonNames
@@ -38,10 +37,8 @@ DECL|function|toPemOrDer
 DECL|function|toPemOrDer_data
 DECL|function|toString
 DECL|function|toText
-DECL|function|tst_QSslCertificate
 DECL|function|utf8SubjectNames
 DECL|function|verify
-DECL|function|~tst_QSslCertificate
 DECL|macro|VERIFY_VERBOSE
 DECL|macro|VERIFY_VERBOSE
 DECL|member|certInfoList
@@ -54,6 +51,7 @@ DECL|member|oldCurrentDir
 DECL|member|pubkeyMap
 DECL|member|sha1Map
 DECL|member|subjAltNameMap
+DECL|member|testDataDir
 DECL|struct|CertInfo
 DECL|variable|BeginCertString
 DECL|variable|EncodingFormat

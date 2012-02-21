@@ -10,6 +10,7 @@ DECL|variable|QPlatformFontDatabase
 DECL|variable|QPlatformInputContext
 DECL|variable|QPlatformNativeInterface
 DECL|variable|QPlatformOpenGLContext
+DECL|variable|QPlatformServices
 DECL|variable|QPlatformSharedGraphicsCache
 DECL|variable|QPlatformTheme
 DECL|variable|QPlatformWindow

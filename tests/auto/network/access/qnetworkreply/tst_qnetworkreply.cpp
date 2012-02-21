@@ -66,6 +66,8 @@ DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|clear
 DECL|function|clear
+DECL|function|closeDuringDownload
+DECL|function|closeDuringDownload_data
 DECL|function|compressedHttpReplyBrokenGzip
 DECL|function|connectSocketSignals
 DECL|function|connectToIPv6Address
@@ -294,6 +296,7 @@ DECL|function|updateMetaData
 DECL|function|updateMetaData
 DECL|function|uploadProgress
 DECL|function|uploadProgress_data
+DECL|function|waitForFinish
 DECL|function|waitForNextConnectionSocket
 DECL|function|wrapUp
 DECL|function|writeLastData
@@ -325,6 +328,7 @@ DECL|member|doClose
 DECL|member|doSsl
 DECL|member|doSsl
 DECL|member|doSsl
+DECL|member|echoProcessDir
 DECL|member|endPoints
 DECL|member|fillKernelBuffer
 DECL|member|httpPassword
@@ -373,6 +377,7 @@ DECL|member|sslSocket
 DECL|member|storedExpectedSslErrors
 DECL|member|storedSslConfiguration
 DECL|member|tag
+DECL|member|testDataDir
 DECL|member|testFileName
 DECL|member|toReturn
 DECL|member|totalBytes

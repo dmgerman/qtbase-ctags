@@ -1,0 +1,2 @@
+DECL|macro|MIMETYPEPARSER_P_H
+DECL|variable|QIODevice

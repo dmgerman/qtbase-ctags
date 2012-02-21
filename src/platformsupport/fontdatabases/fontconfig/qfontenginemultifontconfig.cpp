@@ -1,0 +1,2 @@
+DECL|function|QFontEngineMultiFontConfig
+DECL|function|shouldLoadFontEngineForCharacter

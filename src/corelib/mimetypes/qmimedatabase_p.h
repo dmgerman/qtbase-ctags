@@ -1,0 +1,3 @@
+DECL|macro|QMIMEDATABASE_P_H
+DECL|variable|QMimeDatabase
+DECL|variable|QMimeProviderBase

@@ -1,6 +1,7 @@
 DECL|function|accessibleInterface
 DECL|function|backgroundColor
 DECL|function|cleanup
+DECL|function|focusChild
 DECL|function|foregroundColor
 DECL|function|installFactory
 DECL|function|installRootObjectHandler
@@ -13,7 +14,6 @@ DECL|function|qAccessibleCleanup
 DECL|function|qAccessibleEventString
 DECL|function|qAccessibleRoleString
 DECL|function|queryAccessibleInterface
-DECL|function|relationTo
 DECL|function|relations
 DECL|function|removeFactory
 DECL|function|setRootObject

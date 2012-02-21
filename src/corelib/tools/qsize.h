@@ -17,10 +17,16 @@ DECL|function|rwidth
 DECL|function|rwidth
 DECL|function|scale
 DECL|function|scale
+DECL|function|scale
+DECL|function|scale
+DECL|function|scaled
+DECL|function|scaled
 DECL|function|setHeight
 DECL|function|setHeight
 DECL|function|setWidth
 DECL|function|setWidth
+DECL|function|transposed
+DECL|function|transposed
 DECL|function|width
 DECL|function|width
 DECL|macro|QSIZE_H

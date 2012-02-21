@@ -8,6 +8,7 @@ DECL|function|arrayOperator
 DECL|function|canonicalPath
 DECL|function|canonicalPath_data
 DECL|function|cd
+DECL|function|cdBelowRoot
 DECL|function|cd_data
 DECL|function|cleanPath
 DECL|function|cleanPath_data
@@ -75,6 +76,9 @@ DECL|function|setPath_data
 DECL|function|tempPath
 DECL|function|testCaching
 DECL|function|updateFileLists
+DECL|macro|CD_INTO
+DECL|macro|DIR
 DECL|macro|Q_NO_SYMLINKS
+DECL|macro|ROOT
 DECL|macro|_WIN32_WINNT
 DECL|member|m_dataPath

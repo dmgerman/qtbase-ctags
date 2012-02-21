@@ -17,6 +17,7 @@ DECL|function|loadHints
 DECL|function|loadPlugin
 DECL|function|qt_debug_component
 DECL|function|qt_find_pattern
+DECL|function|qt_get_metadata
 DECL|function|qt_get_verificationdata
 DECL|function|qt_parse_pattern
 DECL|function|qt_token_info
@@ -49,6 +50,5 @@ DECL|member|results
 DECL|struct|LibraryData
 DECL|struct|qt_token_info
 DECL|typedef|LibraryMap
-DECL|typedef|QtPluginQueryVerificationDataFunction
 DECL|typedef|QtPluginQueryVerificationDataFunction
 DECL|variable|qt_library_mutex

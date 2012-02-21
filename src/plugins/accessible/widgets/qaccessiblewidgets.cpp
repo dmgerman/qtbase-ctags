@@ -58,14 +58,11 @@ DECL|function|isValid
 DECL|function|mainWindow
 DECL|function|mdiArea
 DECL|function|mdiSubWindow
-DECL|function|navigate
 DECL|function|navigationBar
 DECL|function|object
 DECL|function|offsetAtPoint
 DECL|function|parent
 DECL|function|pasteText
-DECL|function|qTextBlockAt
-DECL|function|qTextBlockPosition
 DECL|function|rect
 DECL|function|rect
 DECL|function|rect

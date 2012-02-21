@@ -1,2 +1,0 @@
-DECL|function|qt_atomic_yield
-DECL|variable|qt_atomic_lock

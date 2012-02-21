@@ -31,6 +31,7 @@ DECL|function|isDir
 DECL|function|isExecutable
 DECL|function|isFile
 DECL|function|isHidden
+DECL|function|isNativePath
 DECL|function|isReadable
 DECL|function|isRelative
 DECL|function|isRoot

@@ -40,6 +40,7 @@ DECL|function|isScalable
 DECL|function|isSmoothlyScalable
 DECL|function|italic
 DECL|function|match
+DECL|function|matchFamilyName
 DECL|function|operator !=
 DECL|function|operator <
 DECL|function|operator ==
@@ -47,6 +48,7 @@ DECL|function|parseFontName
 DECL|function|parseFontName
 DECL|function|pixelSize
 DECL|function|pointSizes
+DECL|function|qt_cleanupFontDatabase
 DECL|function|qt_determine_writing_systems_from_truetype_bits
 DECL|function|qt_fontdata_from_index
 DECL|function|qt_fontdatabase_mutex
@@ -79,6 +81,7 @@ DECL|macro|KoreanCsbBit
 DECL|macro|SMOOTH_SCALABLE
 DECL|macro|SimplifiedChineseCsbBit
 DECL|macro|TraditionalChineseCsbBit
+DECL|member|aliases
 DECL|member|antialiased
 DECL|member|applicationFonts
 DECL|member|askedForFallback

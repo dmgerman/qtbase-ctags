@@ -50,8 +50,8 @@ DECL|function|isFile_data
 DECL|function|isHidden
 DECL|function|isHiddenFromFinder
 DECL|function|isHidden_data
-DECL|function|isLocalFs
-DECL|function|isLocalFs_data
+DECL|function|isNativePath
+DECL|function|isNativePath_data
 DECL|function|isRoot
 DECL|function|isRoot_data
 DECL|function|isSymLink

@@ -29,7 +29,6 @@ DECL|function|copy
 DECL|function|copy
 DECL|function|copy
 DECL|function|cosacos
-DECL|function|cubicBezierSpline
 DECL|function|curveToFunc
 DECL|function|curveToFunctionObject
 DECL|function|customType
@@ -59,6 +58,7 @@ DECL|function|setType
 DECL|function|setType_helper
 DECL|function|singleRealSolutionForCubic
 DECL|function|tcbToBezier
+DECL|function|toCubicSpline
 DECL|function|type
 DECL|function|value
 DECL|function|value

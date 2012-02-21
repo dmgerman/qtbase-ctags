@@ -16,8 +16,6 @@ DECL|function|operator <
 DECL|function|sizeLess
 DECL|function|streamAvailableSizes
 DECL|function|streamAvailableSizes_data
-DECL|function|svg
-DECL|function|svgActualSize
 DECL|function|swap
 DECL|function|task184901_badCache
 DECL|function|task223279_inconsistentAddFile
