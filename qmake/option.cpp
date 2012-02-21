@@ -20,7 +20,6 @@ DECL|function|resolveSpec
 DECL|function|usage
 DECL|function|warn_msg
 DECL|function|~QMakeCacheClearItem
-DECL|member|after_user_configs
 DECL|member|after_user_vars
 DECL|member|application_argv0
 DECL|member|before_user_vars

@@ -50,7 +50,6 @@ DECL|macro|QMAKE_VERSION_MAJOR
 DECL|macro|QMAKE_VERSION_MINOR
 DECL|macro|QMAKE_VERSION_PATCH
 DECL|macro|debug_msg
-DECL|member|after_user_configs
 DECL|member|after_user_vars
 DECL|member|application_argv0
 DECL|member|before_user_vars
