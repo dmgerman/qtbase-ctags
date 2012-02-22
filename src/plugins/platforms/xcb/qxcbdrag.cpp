@@ -34,6 +34,7 @@ DECL|function|timerEvent
 DECL|function|toDropAction
 DECL|function|toXdndAction
 DECL|function|translateCoordinates
+DECL|function|windowInteractsWithPosition
 DECL|function|xcb_window
 DECL|function|xdndObtainData
 DECL|function|xdndProxy
