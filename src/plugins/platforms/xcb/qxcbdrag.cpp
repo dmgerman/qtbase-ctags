@@ -1,9 +1,9 @@
 DECL|class|ClientMessageScanner
-DECL|class|QDropData
+DECL|class|QXcbDropData
 DECL|enumerator|XdndDropTransactionTimeout
 DECL|function|ClientMessageScanner
-DECL|function|QDropData
 DECL|function|QXcbDrag
+DECL|function|QXcbDropData
 DECL|function|cancel
 DECL|function|checkEvent
 DECL|function|dndEnable
@@ -37,8 +37,8 @@ DECL|function|translateCoordinates
 DECL|function|xcb_window
 DECL|function|xdndObtainData
 DECL|function|xdndProxy
-DECL|function|~QDropData
 DECL|function|~QXcbDrag
+DECL|function|~QXcbDropData
 DECL|macro|DEBUG
 DECL|macro|DNDDEBUG
 DECL|member|atom

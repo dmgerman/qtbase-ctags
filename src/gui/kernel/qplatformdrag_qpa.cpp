@@ -1,0 +1,15 @@
+DECL|class|QPlatformDragPrivate
+DECL|function|QPlatformDrag
+DECL|function|QPlatformDragPrivate
+DECL|function|QPlatformDragQtResponse
+DECL|function|QPlatformDropQtResponse
+DECL|function|acceptedAction
+DECL|function|answerRect
+DECL|function|currentDrag
+DECL|function|defaultAction
+DECL|function|defaultPixmap
+DECL|function|isAccepted
+DECL|function|updateAction
+DECL|function|~QPlatformDrag
+DECL|member|cursor_drop_action
+DECL|variable|default_pm
