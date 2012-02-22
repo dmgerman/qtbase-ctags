@@ -1,4 +1,3 @@
-DECL|class|tst_QRegularExpression
 DECL|function|Match
 DECL|function|captureCount
 DECL|function|captureCount_data

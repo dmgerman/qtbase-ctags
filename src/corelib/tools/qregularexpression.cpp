@@ -97,4 +97,4 @@ DECL|member|usingCrLfNewlines
 DECL|struct|QRegularExpressionMatchIteratorPrivate
 DECL|struct|QRegularExpressionMatchPrivate
 DECL|struct|QRegularExpressionPrivate
-DECL|variable|OPTIMIZE_AFTER_USE_COUNT
+DECL|variable|qt_qregularexpression_optimize_after_use_count
