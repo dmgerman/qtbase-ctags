@@ -1,1 +1,2 @@
 DECL|macro|QPLATFORMTHEME_COCOA_H
+DECL|variable|QPalette
