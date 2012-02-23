@@ -3,6 +3,7 @@ DECL|class|tst_QAbstractSlider
 DECL|function|Slider
 DECL|function|actionTriggered
 DECL|function|cleanupTestCase
+DECL|function|connectedSliders
 DECL|function|initTestCase
 DECL|function|keyPressed
 DECL|function|keyPressed_data
