@@ -11,6 +11,7 @@ DECL|function|isAnimating
 DECL|function|isVisible
 DECL|function|keyboardRectangle
 DECL|function|locale
+DECL|function|objectAcceptsInputMethod
 DECL|function|q_checkFocusObject
 DECL|function|q_connectFocusObject
 DECL|function|reset

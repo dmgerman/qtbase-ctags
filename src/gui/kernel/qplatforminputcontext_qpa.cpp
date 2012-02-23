@@ -8,6 +8,7 @@ DECL|function|emitLocaleChanged
 DECL|function|filterEvent
 DECL|function|hideInputPanel
 DECL|function|inputDirection
+DECL|function|inputMethodAccepted
 DECL|function|invokeAction
 DECL|function|isAnimating
 DECL|function|isInputPanelVisible
@@ -15,6 +16,9 @@ DECL|function|isValid
 DECL|function|keyboardRect
 DECL|function|locale
 DECL|function|reset
+DECL|function|setFocusObject
+DECL|function|setInputMethodAccepted
 DECL|function|showInputPanel
 DECL|function|update
 DECL|function|~QPlatformInputContext
+DECL|member|s_inputMethodAccepted

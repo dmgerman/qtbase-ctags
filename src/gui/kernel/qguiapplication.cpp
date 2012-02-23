@@ -62,6 +62,7 @@ DECL|function|processWheelEvent
 DECL|function|processWindowStateChangedEvent
 DECL|function|processWindowSystemEvent
 DECL|function|qHash
+DECL|function|q_updateFocusObject
 DECL|function|qt_detectRTLLanguage
 DECL|function|queryKeyboardModifiers
 DECL|function|quitOnLastWindowClosed
