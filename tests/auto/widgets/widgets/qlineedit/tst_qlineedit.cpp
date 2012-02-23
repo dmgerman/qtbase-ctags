@@ -155,6 +155,7 @@ DECL|member|lastCursorPos
 DECL|member|lineEdit
 DECL|member|lineEdit1
 DECL|member|lineEdit2
+DECL|member|m_keyboardScheme
 DECL|member|newCursorPos
 DECL|member|readOnly
 DECL|member|return_count
