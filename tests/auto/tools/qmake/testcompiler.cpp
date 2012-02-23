@@ -2,6 +2,7 @@ DECL|function|TestCompiler
 DECL|function|addToEnvironment
 DECL|function|clearCommandOutput
 DECL|function|commandOutput
+DECL|function|errorOut
 DECL|function|exists
 DECL|function|make
 DECL|function|makeClean
