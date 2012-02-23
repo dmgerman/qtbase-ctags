@@ -9,6 +9,7 @@ DECL|function|fixString
 DECL|function|init
 DECL|function|parseCommandLine
 DECL|function|postProcessProject
+DECL|function|prepareProject
 DECL|function|qmakeAddCacheClear
 DECL|function|qmakeClearCaches
 DECL|function|qmake_libraryInfoFile
@@ -55,6 +56,7 @@ DECL|member|pkgcfg_ext
 DECL|member|prf_ext
 DECL|member|prl_ext
 DECL|member|pro_ext
+DECL|member|project_build_root
 DECL|member|project_dirs
 DECL|member|project_files
 DECL|member|properties
