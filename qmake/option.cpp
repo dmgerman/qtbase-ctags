@@ -60,6 +60,7 @@ DECL|member|pro_ext
 DECL|member|project_build_root
 DECL|member|project_dirs
 DECL|member|project_files
+DECL|member|project_root
 DECL|member|properties
 DECL|member|qmake_abslocation
 DECL|member|qmake_mode
