@@ -22,6 +22,7 @@ DECL|function|tst_qinputmethod
 DECL|function|update
 DECL|function|visible
 DECL|function|~tst_qinputmethod
+DECL|member|cursorRectangle
 DECL|member|m_enabled
 DECL|member|m_focusObject
 DECL|member|m_inputItem
