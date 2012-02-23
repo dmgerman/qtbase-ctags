@@ -40,6 +40,7 @@ DECL|function|reexec
 DECL|function|registerSocketNotifier
 DECL|function|registerTimer
 DECL|function|registeredTimers
+DECL|function|remainingTime
 DECL|function|removePostedEvents
 DECL|function|run
 DECL|function|sendEventsOnProcessEvents

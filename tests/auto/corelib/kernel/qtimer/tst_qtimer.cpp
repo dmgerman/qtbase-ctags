@@ -32,6 +32,7 @@ DECL|function|postedEventsShouldNotStarveTimers
 DECL|function|recurringTimer
 DECL|function|recurringTimer_data
 DECL|function|recurseOnTimeoutAndStopTimer
+DECL|function|remainingTime
 DECL|function|repeatThisSlot
 DECL|function|restartedTimerFiresTooSoon
 DECL|function|run

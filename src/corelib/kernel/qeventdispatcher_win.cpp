@@ -26,6 +26,7 @@ DECL|function|registerSocketNotifier
 DECL|function|registerTimer
 DECL|function|registerTimer
 DECL|function|registeredTimers
+DECL|function|remainingTime
 DECL|function|removeSelect
 DECL|function|resolveTimerAPI
 DECL|function|run

@@ -67,6 +67,7 @@ DECL|function|quitLock
 DECL|function|registerSocketNotifier
 DECL|function|registerTimer
 DECL|function|registeredTimers
+DECL|function|remainingTime
 DECL|function|run
 DECL|function|run
 DECL|function|run

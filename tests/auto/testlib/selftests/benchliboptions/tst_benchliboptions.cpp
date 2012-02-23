@@ -11,6 +11,7 @@ DECL|function|processEvents
 DECL|function|registerSocketNotifier
 DECL|function|registerTimer
 DECL|function|registeredTimers
+DECL|function|remainingTime
 DECL|function|threeEvents
 DECL|function|unregisterSocketNotifier
 DECL|function|unregisterTimer
