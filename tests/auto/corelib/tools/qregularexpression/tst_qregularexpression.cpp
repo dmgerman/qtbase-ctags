@@ -26,6 +26,8 @@ DECL|function|partialMatch
 DECL|function|partialMatch_data
 DECL|function|patternOptions
 DECL|function|patternOptions_data
+DECL|function|pcreJitStackUsage
+DECL|function|pcreJitStackUsage_data
 DECL|function|provideRegularExpressions
 DECL|function|serialize
 DECL|function|serialize_data

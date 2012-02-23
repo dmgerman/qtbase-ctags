@@ -1,3 +1,5 @@
+DECL|class|QPcreJitStackPointer
+DECL|function|QPcreJitStackPointer
 DECL|function|QRegularExpression
 DECL|function|QRegularExpression
 DECL|function|QRegularExpression
@@ -61,11 +63,14 @@ DECL|function|optimizePattern
 DECL|function|pattern
 DECL|function|patternErrorOffset
 DECL|function|patternOptions
+DECL|function|pcre16SafeExec
 DECL|function|peekNext
+DECL|function|qtPcreCallback
 DECL|function|regularExpression
 DECL|function|regularExpression
 DECL|function|setPattern
 DECL|function|setPatternOptions
+DECL|function|~QPcreJitStackPointer
 DECL|function|~QRegularExpression
 DECL|function|~QRegularExpressionMatch
 DECL|function|~QRegularExpressionMatchIterator
@@ -90,6 +95,7 @@ DECL|member|pattern
 DECL|member|patternOptions
 DECL|member|regularExpression
 DECL|member|regularExpression
+DECL|member|stack
 DECL|member|studyData
 DECL|member|subject
 DECL|member|usedCount
