@@ -1,1 +1,2 @@
 DECL|macro|QCOCOASYSTEMSETTINGS_H
+DECL|member|Palette
