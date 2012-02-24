@@ -71,8 +71,6 @@ DECL|macro|DONT_TEST_TEMPLATE_CONSTRUCTORS
 DECL|member|HasDataStream
 DECL|member|c
 DECL|member|c
-DECL|member|c
-DECL|member|d
 DECL|member|d
 DECL|member|d
 DECL|member|i
@@ -91,8 +89,6 @@ DECL|struct|OuterClass
 DECL|struct|QTestTypeInfo
 DECL|struct|Qxxx
 DECL|variable|indicator
-DECL|variable|qt_armfpa_inf_bytes
-DECL|variable|qt_armfpa_inf_bytes
 DECL|variable|qt_be_inf_bytes
 DECL|variable|qt_be_inf_bytes
 DECL|variable|qt_le_inf_bytes

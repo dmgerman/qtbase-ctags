@@ -1,11 +1,7 @@
 DECL|function|Balloc
 DECL|function|Bfree
 DECL|function|Storeinc
-DECL|function|_getWord0
-DECL|function|_getWord1
 DECL|function|_qdtoa
-DECL|function|_setWord0
-DECL|function|_setWord1
 DECL|function|b2d
 DECL|function|cmp
 DECL|function|d2b
