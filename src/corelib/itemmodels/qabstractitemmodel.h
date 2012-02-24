@@ -1,7 +1,5 @@
-DECL|function|QModelIndex
 DECL|function|Q_DECLARE_SHARED
 DECL|function|child
-DECL|function|createIndex
 DECL|function|createIndex
 DECL|function|createIndex
 DECL|function|data
