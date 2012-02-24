@@ -6,6 +6,7 @@ DECL|function|autoDetection
 DECL|function|buildHostTools
 DECL|function|buildQmake
 DECL|function|checkAvailability
+DECL|function|copySpec
 DECL|function|defaultTo
 DECL|function|desc
 DECL|function|desc
