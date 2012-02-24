@@ -1,0 +1,13 @@
+DECL|function|exists
+DECL|function|isDestroyed
+DECL|function|operator
+DECL|function|operator
+DECL|macro|QGLOBALSTATIC_H
+DECL|macro|Q_GLOBAL_STATIC
+DECL|macro|Q_GLOBAL_STATIC_INTERNAL
+DECL|macro|Q_GLOBAL_STATIC_INTERNAL
+DECL|macro|Q_GLOBAL_STATIC_WITH_ARGS
+DECL|struct|QGlobalStatic
+DECL|typedef|Type
+DECL|variable|T
+DECL|variable|innerFunction

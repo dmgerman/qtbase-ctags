@@ -155,12 +155,6 @@ DECL|macro|Q_FOREACH
 DECL|macro|Q_FOREACH
 DECL|macro|Q_FOREACH
 DECL|macro|Q_FOREVER
-DECL|macro|Q_GLOBAL_STATIC
-DECL|macro|Q_GLOBAL_STATIC
-DECL|macro|Q_GLOBAL_STATIC_WITH_ARGS
-DECL|macro|Q_GLOBAL_STATIC_WITH_ARGS
-DECL|macro|Q_GLOBAL_STATIC_WITH_INITIALIZER
-DECL|macro|Q_GLOBAL_STATIC_WITH_INITIALIZER
 DECL|macro|Q_GUI_EXPORT
 DECL|macro|Q_GUI_EXPORT
 DECL|macro|Q_GUI_EXPORT
@@ -228,7 +222,6 @@ DECL|typedef|uchar
 DECL|typedef|uint
 DECL|typedef|ulong
 DECL|typedef|ushort
-DECL|variable|QBasicAtomicPointer
 DECL|variable|QByteArray
 DECL|variable|QDataStream
 DECL|variable|QStaticAssertFailure

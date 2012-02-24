@@ -71,6 +71,7 @@ DECL|function|MoveToThreadObject
 DECL|function|NotifyObject
 DECL|function|PropertyObject
 DECL|function|QCustomTypeChecker
+DECL|function|QObjectCreatedOnShutdown
 DECL|function|ReceiverObject
 DECL|function|SenderObject
 DECL|function|SequenceObject
@@ -380,6 +381,7 @@ DECL|function|~CheckInstanceCount
 DECL|function|~CountedStruct
 DECL|function|~CustomType
 DECL|function|~MoveToThreadThread
+DECL|function|~QObjectCreatedOnShutdown
 DECL|function|~SiblingDeleter
 DECL|macro|Bleh_iid
 DECL|macro|MANYARGUMENT_COMPARE
@@ -480,6 +482,7 @@ DECL|struct|Funct5
 DECL|struct|Funct6
 DECL|struct|Functor
 DECL|struct|IntFunctor
+DECL|struct|QObjectCreatedOnShutdown
 DECL|struct|SlotFunctor
 DECL|struct|SlotFunctorString
 DECL|struct|StringFunctor
@@ -492,3 +495,4 @@ DECL|typedef|fptr
 DECL|variable|countedStructObjectsCount
 DECL|variable|instanceCount
 DECL|variable|receivedCount
+DECL|variable|s_qobjectCreatedOnShutdown
