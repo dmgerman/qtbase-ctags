@@ -106,7 +106,6 @@ DECL|function|scaledToHeight
 DECL|function|scaledToWidth
 DECL|function|scanLine
 DECL|function|scanLine
-DECL|function|serialNumber
 DECL|function|setAlphaChannel
 DECL|function|setColor
 DECL|function|setColorCount

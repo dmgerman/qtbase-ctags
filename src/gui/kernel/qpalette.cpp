@@ -24,7 +24,6 @@ DECL|function|qt_mix_colors
 DECL|function|qt_palette_from_color
 DECL|function|readV1ColorGroup
 DECL|function|resolve
-DECL|function|serialNumber
 DECL|function|setBrush
 DECL|function|setColorGroup
 DECL|function|setColorGroup

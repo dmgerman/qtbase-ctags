@@ -37,7 +37,6 @@ DECL|function|pixmap
 DECL|function|pixmap
 DECL|function|qt_cleanup_icon_cache
 DECL|function|read
-DECL|function|serialNumber
 DECL|function|setThemeName
 DECL|function|setThemeSearchPaths
 DECL|function|themeName

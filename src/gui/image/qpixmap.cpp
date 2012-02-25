@@ -48,7 +48,6 @@ DECL|function|scaled
 DECL|function|scaledToHeight
 DECL|function|scaledToWidth
 DECL|function|scroll
-DECL|function|serialNumber
 DECL|function|setMask
 DECL|function|size
 DECL|function|toImage
