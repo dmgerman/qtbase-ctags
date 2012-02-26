@@ -23,6 +23,3 @@ DECL|function|parentMimeTypes
 DECL|function|preferredSuffix
 DECL|function|suffixes
 DECL|function|~QMimeType
-DECL|macro|DBG
-DECL|macro|DBG
-DECL|macro|DBG

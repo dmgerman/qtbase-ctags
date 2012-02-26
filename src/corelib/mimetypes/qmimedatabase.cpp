@@ -23,6 +23,3 @@ DECL|function|setProvider
 DECL|function|suffixForFileName
 DECL|function|~QMimeDatabase
 DECL|function|~QMimeDatabasePrivate
-DECL|macro|DBG
-DECL|macro|DBG
-DECL|macro|DBG
