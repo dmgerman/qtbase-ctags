@@ -29,6 +29,8 @@ DECL|function|patternOptions_data
 DECL|function|pcreJitStackUsage
 DECL|function|pcreJitStackUsage_data
 DECL|function|provideRegularExpressions
+DECL|function|regularExpressionMatch
+DECL|function|regularExpressionMatch_data
 DECL|function|serialize
 DECL|function|serialize_data
 DECL|function|validity
