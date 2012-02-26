@@ -30,6 +30,8 @@ DECL|function|testEscapingWildcard_data
 DECL|function|testInvalidWildcard
 DECL|function|testInvalidWildcard_data
 DECL|function|threadsafeEngineCache
+DECL|function|validityCheck
+DECL|function|validityCheck_data
 DECL|function|wildcard
 DECL|function|wildcard_data
 DECL|member|rx
