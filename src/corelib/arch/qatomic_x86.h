@@ -13,6 +13,8 @@ DECL|function|isFetchAndStoreWaitFree
 DECL|function|isReferenceCountingNative
 DECL|function|isReferenceCountingWaitFree
 DECL|function|isTestAndSetNative
+DECL|function|isTestAndSetNative
+DECL|function|isTestAndSetWaitFree
 DECL|function|isTestAndSetWaitFree
 DECL|function|ref
 DECL|function|ref
@@ -21,7 +23,12 @@ DECL|function|ref
 DECL|function|sizeof
 DECL|function|testAndSetRelaxed
 DECL|function|testAndSetRelaxed
-DECL|macro|QATOMIC_X86_64_H
+DECL|function|testAndSetRelaxed
+DECL|macro|EBX_load
+DECL|macro|EBX_load
+DECL|macro|EBX_reg
+DECL|macro|EBX_reg
+DECL|macro|QATOMIC_X86_H
 DECL|macro|Q_ATOMIC_INT16_FETCH_AND_ADD_IS_ALWAYS_NATIVE
 DECL|macro|Q_ATOMIC_INT16_FETCH_AND_ADD_IS_WAIT_FREE
 DECL|macro|Q_ATOMIC_INT16_FETCH_AND_STORE_IS_ALWAYS_NATIVE
@@ -72,4 +79,5 @@ DECL|macro|Q_ATOMIC_POINTER_FETCH_AND_STORE_IS_ALWAYS_NATIVE
 DECL|macro|Q_ATOMIC_POINTER_FETCH_AND_STORE_IS_WAIT_FREE
 DECL|macro|Q_ATOMIC_POINTER_TEST_AND_SET_IS_ALWAYS_NATIVE
 DECL|macro|Q_ATOMIC_POINTER_TEST_AND_SET_IS_WAIT_FREE
+DECL|struct|QBasicAtomicOps
 DECL|struct|size
