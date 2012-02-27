@@ -29,6 +29,7 @@ DECL|function|focusFirstAction
 DECL|function|focusInEvent
 DECL|function|focusOutEvent
 DECL|function|getNextAction
+DECL|function|getPlatformMenu
 DECL|function|handleReparent
 DECL|function|heightForWidth
 DECL|function|init

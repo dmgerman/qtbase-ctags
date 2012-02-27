@@ -31,6 +31,7 @@ DECL|function|calcCausedStack
 DECL|function|changeEvent
 DECL|function|clear
 DECL|function|columnCount
+DECL|function|copyActionToPlatformItem
 DECL|function|defaultAction
 DECL|function|enterEvent
 DECL|function|event

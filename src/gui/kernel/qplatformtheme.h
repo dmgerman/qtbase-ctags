@@ -6,4 +6,5 @@ DECL|variable|QPalette
 DECL|variable|QPlatformDialogHelper
 DECL|variable|QPlatformMenu
 DECL|variable|QPlatformMenuBar
+DECL|variable|QPlatformMenuItem
 DECL|variable|QVariant
