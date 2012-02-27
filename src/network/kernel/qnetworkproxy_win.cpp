@@ -1,8 +1,10 @@
 DECL|class|QWindowsSystemProxy
 DECL|function|QWindowsSystemProxy
+DECL|function|filterProxyListByCapabilities
 DECL|function|init
 DECL|function|isBypassed
 DECL|function|parseServerList
+DECL|function|removeDuplicateProxies
 DECL|function|splitSpaceSemicolon
 DECL|function|systemProxyForQuery
 DECL|function|~QWindowsSystemProxy
