@@ -9,6 +9,7 @@ DECL|function|queryProxy
 DECL|function|run
 DECL|function|systemProxyForQuery
 DECL|function|systemProxyForQueryCalledFromThread
+DECL|function|systemProxyForQuery_data
 DECL|function|tst_QNetworkProxyFactory
 DECL|member|factory
 DECL|member|proxies
