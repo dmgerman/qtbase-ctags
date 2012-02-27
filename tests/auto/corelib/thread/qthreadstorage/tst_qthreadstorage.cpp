@@ -15,11 +15,13 @@ DECL|function|autoDelete
 DECL|function|crashOnExit
 DECL|function|ensureCleanupOrder
 DECL|function|hasLocalData
+DECL|function|initTestCase
 DECL|function|leakInDestructor
 DECL|function|localData
 DECL|function|localData_const
 DECL|function|resetInDestructor
 DECL|function|run
+DECL|function|runCrashOnExit
 DECL|function|setLocalData
 DECL|function|testAdoptedThreadStorageUnix
 DECL|function|testAdoptedThreadStorageWin
@@ -35,6 +37,7 @@ DECL|member|count
 DECL|member|count
 DECL|member|count
 DECL|member|count
+DECL|member|m_crashOnExit
 DECL|member|member
 DECL|member|member
 DECL|member|mutex
