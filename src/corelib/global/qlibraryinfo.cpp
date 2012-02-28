@@ -11,6 +11,9 @@ DECL|function|licensee
 DECL|function|location
 DECL|function|qt_core_boilerplate
 DECL|macro|BOOTSTRAPPING
+DECL|member|key
 DECL|member|settings
+DECL|member|value
 DECL|struct|QLibrarySettings
+DECL|variable|qtConfEntries
 DECL|variable|qt_core_interpreter
