@@ -10,6 +10,7 @@ DECL|function|licensedProducts
 DECL|function|licensee
 DECL|function|location
 DECL|function|qt_core_boilerplate
+DECL|function|rawLocation
 DECL|member|key
 DECL|member|settings
 DECL|member|value
