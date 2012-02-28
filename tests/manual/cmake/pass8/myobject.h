@@ -1,0 +1,1 @@
+DECL|macro|MYOBJECT_H

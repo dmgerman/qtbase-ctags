@@ -43,6 +43,7 @@ DECL|member|MacMeta
 DECL|member|MacShift
 DECL|member|MacShift
 DECL|member|key
+DECL|member|m_keyboardScheme
 DECL|member|macSymbol
 DECL|member|ourTranslator
 DECL|member|qtTranslator

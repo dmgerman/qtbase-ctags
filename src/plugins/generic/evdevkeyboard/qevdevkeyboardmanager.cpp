@@ -1,9 +1,4 @@
 DECL|function|QEvdevKeyboardManager
 DECL|function|addKeyboard
-DECL|function|checkDevice
-DECL|function|deviceDetected
-DECL|function|parseConnectedDevices
 DECL|function|removeKeyboard
-DECL|function|startWatching
-DECL|function|stopWatching
 DECL|function|~QEvdevKeyboardManager

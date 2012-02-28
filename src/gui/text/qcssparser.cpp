@@ -28,6 +28,7 @@ DECL|function|extractPosition
 DECL|function|extractStyleFeatures
 DECL|function|findKnownValue
 DECL|function|handleCommentStart
+DECL|function|iconValue
 DECL|function|init
 DECL|function|intValue
 DECL|function|intValueHelper

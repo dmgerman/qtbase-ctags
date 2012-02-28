@@ -3,6 +3,7 @@ DECL|class|DummyEventDispatcher
 DECL|class|Exit_Object
 DECL|class|Exit_Thread
 DECL|class|FinishedTestObject
+DECL|class|Job
 DECL|class|NativeThreadWrapper
 DECL|class|Quit_Object
 DECL|class|Quit_Thread
@@ -24,6 +25,7 @@ DECL|enumerator|one_minute
 DECL|enum|SleepType
 DECL|function|DummyEventDispatcher
 DECL|function|FinishedTestObject
+DECL|function|Job
 DECL|function|NativeThreadWrapper
 DECL|function|SignalRecorder
 DECL|function|Syncronizer
@@ -46,6 +48,7 @@ DECL|function|exec
 DECL|function|exit
 DECL|function|exitAndExec
 DECL|function|exitAndStart
+DECL|function|exitThread
 DECL|function|finished
 DECL|function|flush
 DECL|function|hasPendingEvents
@@ -60,6 +63,7 @@ DECL|function|nativeThreadAdoption
 DECL|function|noop
 DECL|function|processEvents
 DECL|function|quit
+DECL|function|quitLock
 DECL|function|registerSocketNotifier
 DECL|function|registerTimer
 DECL|function|registeredTimers
@@ -113,6 +117,7 @@ DECL|member|cond1
 DECL|member|cond2
 DECL|member|data
 DECL|member|elapsed
+DECL|member|exitThreadCalled
 DECL|member|functionPointer
 DECL|member|id
 DECL|member|interval
@@ -126,6 +131,7 @@ DECL|member|object
 DECL|member|object
 DECL|member|ok
 DECL|member|qthread
+DECL|member|quitLocker
 DECL|member|result
 DECL|member|result
 DECL|member|sleepType

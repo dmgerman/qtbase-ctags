@@ -1,0 +1,1 @@
+DECL|macro|QBBBUFFER_H

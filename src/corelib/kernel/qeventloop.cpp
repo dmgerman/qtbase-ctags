@@ -1,7 +1,13 @@
 DECL|class|QEventLoopLockerPrivate
+DECL|enumerator|Application
+DECL|enumerator|EventLoop
+DECL|enumerator|Thread
+DECL|enum|Type
 DECL|function|QEventLoop
 DECL|function|QEventLoopLocker
 DECL|function|QEventLoopLocker
+DECL|function|QEventLoopLocker
+DECL|function|QEventLoopLockerPrivate
 DECL|function|QEventLoopLockerPrivate
 DECL|function|QEventLoopLockerPrivate
 DECL|function|event
@@ -17,3 +23,5 @@ DECL|function|~QEventLoopLocker
 DECL|function|~QEventLoopLockerPrivate
 DECL|member|app
 DECL|member|loop
+DECL|member|thread
+DECL|member|type

@@ -162,7 +162,6 @@ DECL|member|shadeRestoreMin
 DECL|member|shortcutMap
 DECL|member|titlebar
 DECL|member|toolPopup
-DECL|member|toolTip
 DECL|member|topTitle
 DECL|member|vbar
 DECL|member|widgetResizeHandler

@@ -1,4 +1,7 @@
+DECL|macro|BrushInterface_iid
+DECL|macro|FilterInterface_iid
 DECL|macro|INTERFACES_H
+DECL|macro|ShapeInterface_iid
 DECL|variable|QImage
 DECL|variable|QPainter
 DECL|variable|QPainterPath
