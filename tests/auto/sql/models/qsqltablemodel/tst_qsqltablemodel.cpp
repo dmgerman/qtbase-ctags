@@ -23,6 +23,8 @@ DECL|function|insertRecordsInLoop
 DECL|function|insertRecordsInLoop_data
 DECL|function|insertRow
 DECL|function|insertRow_data
+DECL|function|isDirty
+DECL|function|isDirty_data
 DECL|function|primaryKeyOrder
 DECL|function|primaryKeyOrder_data
 DECL|function|recreateTestTables
