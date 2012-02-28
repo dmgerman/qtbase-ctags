@@ -22,6 +22,7 @@ DECL|function|formatTime
 DECL|function|formatTime_data
 DECL|function|fpExceptions
 DECL|function|getWinLocaleInfo
+DECL|function|initTestCase
 DECL|function|listPatterns
 DECL|function|long_long_conversion
 DECL|function|long_long_conversion_data
@@ -32,6 +33,8 @@ DECL|function|negativeNumbers
 DECL|function|negativeZero
 DECL|function|numberOptions
 DECL|function|quoteString
+DECL|function|runSysApp
+DECL|function|runSysAppTest
 DECL|function|setWinLocaleInfo
 DECL|function|standaloneDayName
 DECL|function|standaloneDayName_data
@@ -69,6 +72,7 @@ DECL|member|m_ldate
 DECL|member|m_ldate
 DECL|member|m_sdate
 DECL|member|m_sdate
+DECL|member|m_sysapp
 DECL|member|m_thousand
 DECL|member|m_thousand
 DECL|member|m_time
