@@ -1,11 +1,6 @@
 DECL|macro|check
-DECL|macro|old_qDebug
-DECL|macro|old_qDebug
 DECL|macro|old_slots
 DECL|macro|old_slots
-DECL|macro|qDebug
-DECL|macro|qDebug
-DECL|macro|qDebug
 DECL|macro|slots
 DECL|macro|slots
 DECL|macro|slots
