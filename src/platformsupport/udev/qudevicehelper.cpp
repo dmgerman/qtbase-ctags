@@ -1,0 +1,6 @@
+DECL|function|QUDeviceHelper
+DECL|function|checkDeviceType
+DECL|function|createUDeviceHelper
+DECL|function|handleUDevNotification
+DECL|function|scanConnectedDevices
+DECL|function|~QUDeviceHelper

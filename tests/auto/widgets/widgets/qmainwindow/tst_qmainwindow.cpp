@@ -15,6 +15,7 @@ DECL|function|MoveSeparator
 DECL|function|MoveSeparator
 DECL|function|MyDockWidget
 DECL|function|MyWidget
+DECL|function|QTBUG15080_restoreState
 DECL|function|QTBUG2774_stylechange
 DECL|function|addDockWidget
 DECL|function|addToolBar

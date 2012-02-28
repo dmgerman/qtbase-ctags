@@ -211,7 +211,6 @@ DECL|macro|QT_MAX_FLOAT
 DECL|macro|REHASH
 DECL|macro|ULLONG_MAX
 DECL|macro|truncate
-DECL|member|codecForCStrings
 DECL|member|escape_len
 DECL|member|len
 DECL|member|length

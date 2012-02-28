@@ -1,0 +1,1 @@
+DECL|macro|QBBCLIPBOARD_H

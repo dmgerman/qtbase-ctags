@@ -1,0 +1,11 @@
+DECL|function|QBBGLBackingStore
+DECL|function|QBBGLPaintDevice
+DECL|function|beginPaint
+DECL|function|endPaint
+DECL|function|flush
+DECL|function|paintEngine
+DECL|function|resize
+DECL|function|resizeSurface
+DECL|function|size
+DECL|function|~QBBGLBackingStore
+DECL|function|~QBBGLPaintDevice

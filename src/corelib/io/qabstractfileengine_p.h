@@ -1,1 +1,5 @@
 DECL|macro|QABSTRACTFILEENGINE_P_H
+DECL|variable|QAbstractFileEngineIterator
+DECL|variable|QAbstractFileEngineIteratorPrivate
+DECL|variable|QAbstractFileEnginePrivate
+DECL|variable|QVariant

@@ -1,3 +1,11 @@
+DECL|enumerator|KB_All
+DECL|enumerator|KB_CDE
+DECL|enumerator|KB_Gnome
+DECL|enumerator|KB_KDE
+DECL|enumerator|KB_Mac
+DECL|enumerator|KB_Win
+DECL|enumerator|KB_X11
+DECL|enum|KeyPlatform
 DECL|function|QKeySequence
 DECL|function|QKeySequence
 DECL|function|QKeySequence
@@ -11,6 +19,7 @@ DECL|function|addKey
 DECL|function|assign
 DECL|function|assign
 DECL|function|count
+DECL|function|currentKeyPlatforms
 DECL|function|decodeString
 DECL|function|decodeString
 DECL|function|encodeString

@@ -75,6 +75,7 @@ DECL|function|moveSection_data
 DECL|function|noModel
 DECL|function|noSectionsWithNegativeSize
 DECL|function|offset
+DECL|function|offsetConsistent
 DECL|function|oneSectionSize
 DECL|function|parent
 DECL|function|preserveHiddenSectionWidth

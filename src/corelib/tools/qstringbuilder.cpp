@@ -1,2 +1,1 @@
 DECL|function|convertFromAscii
-DECL|function|convertToAscii

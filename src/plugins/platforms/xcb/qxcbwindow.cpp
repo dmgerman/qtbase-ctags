@@ -67,6 +67,7 @@ DECL|function|setWindowTitle
 DECL|function|show
 DECL|function|translateMouseButton
 DECL|function|translateMouseButtons
+DECL|function|updateDoesNotAcceptFocus
 DECL|function|updateMotifWmHintsBeforeMap
 DECL|function|updateNetWmStateBeforeMap
 DECL|function|updateNetWmUserTime
@@ -92,6 +93,7 @@ DECL|macro|xcb_size_hints_set_resize_inc
 DECL|macro|xcb_size_hints_set_size
 DECL|macro|xcb_size_hints_set_win_gravity
 DECL|macro|xcb_wm_hints_set_iconic
+DECL|macro|xcb_wm_hints_set_input
 DECL|macro|xcb_wm_hints_set_normal
 DECL|macro|xcb_wm_hints_t
 DECL|member|decorations

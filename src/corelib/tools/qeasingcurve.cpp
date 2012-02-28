@@ -13,6 +13,7 @@ DECL|function|QEasingCurve
 DECL|function|QEasingCurve
 DECL|function|QEasingCurveFunction
 DECL|function|QEasingCurvePrivate
+DECL|function|QEasingCurvePrivate
 DECL|function|TCBPoint
 DECL|function|TCBPoint
 DECL|function|_acos
@@ -43,7 +44,6 @@ DECL|function|isConfigFunction
 DECL|function|newtonIteration
 DECL|function|operator <<
 DECL|function|operator <<
-DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==

@@ -1,0 +1,10 @@
+DECL|macro|QBBINTEGRATION_H
+DECL|typedef|QBBWindowMapper
+DECL|typedef|screen_window_t
+DECL|variable|K
+DECL|variable|QBBClipboard
+DECL|variable|QBBEventThread
+DECL|variable|QBBInputContext
+DECL|variable|QBBNavigatorThread
+DECL|variable|QBBWindow
+DECL|variable|QHash

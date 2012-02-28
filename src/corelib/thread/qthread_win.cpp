@@ -31,6 +31,6 @@ DECL|typedef|THREADNAME_INFO
 DECL|variable|qt_adopted_qthreads
 DECL|variable|qt_adopted_thread_handles
 DECL|variable|qt_adopted_thread_wakeup
-DECL|variable|qt_adopted_thread_watcher_handle
+DECL|variable|qt_adopted_thread_watcher_id
 DECL|variable|qt_adopted_thread_watcher_mutex
 DECL|variable|qt_current_thread_data_tls_index

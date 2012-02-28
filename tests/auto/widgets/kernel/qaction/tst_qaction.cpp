@@ -19,6 +19,7 @@ DECL|function|task229128TriggeredSignalWithoutActiongroup
 DECL|function|tst_QAction
 DECL|function|updateState
 DECL|function|~tst_QAction
+DECL|member|m_keyboardScheme
 DECL|member|m_lastAction
 DECL|member|m_lastEventType
 DECL|member|m_tstWidget

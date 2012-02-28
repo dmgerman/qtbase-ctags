@@ -13,7 +13,6 @@ DECL|function|func_variables
 DECL|function|functions
 DECL|function|include_dir
 DECL|function|includefunction
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|install_depends
 DECL|function|install_files

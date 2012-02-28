@@ -1,2 +1,3 @@
 DECL|macro|QFSFILEENGINE_P_H
 DECL|macro|Q_USE_DEPRECATED_MAP_API
+DECL|variable|QFSFileEnginePrivate

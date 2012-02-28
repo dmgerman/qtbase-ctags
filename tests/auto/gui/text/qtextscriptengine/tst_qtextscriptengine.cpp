@@ -21,6 +21,7 @@ DECL|function|sinhala
 DECL|function|tamil
 DECL|function|telugu
 DECL|function|thaiIsolatedSaraAm
+DECL|function|thaiWithZWJ
 DECL|function|tst_QTextScriptEngine
 DECL|function|~tst_QTextScriptEngine
 DECL|macro|private

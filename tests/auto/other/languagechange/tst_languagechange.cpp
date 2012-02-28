@@ -20,6 +20,7 @@ DECL|function|start
 DECL|function|timeout
 DECL|function|translate
 DECL|function|tst_languageChange
+DECL|member|m_layout
 DECL|member|m_state
 DECL|member|m_timer
 DECL|member|m_translations
