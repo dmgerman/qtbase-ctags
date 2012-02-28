@@ -18,3 +18,7 @@ DECL|member|sha224Context
 DECL|member|sha256Context
 DECL|member|sha384Context
 DECL|member|sha512Context
+DECL|typedef|int_least16_t
+DECL|typedef|uint32_t
+DECL|typedef|uint64_t
+DECL|typedef|uint8_t
