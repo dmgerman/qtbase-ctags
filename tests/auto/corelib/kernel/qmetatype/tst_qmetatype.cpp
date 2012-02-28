@@ -1,7 +1,10 @@
+DECL|class|C
 DECL|class|CustomMultiInheritanceObject
 DECL|class|CustomObject
 DECL|class|IsRegisteredDummyType
+DECL|class|M
 DECL|class|MetaTypeTorturer
+DECL|class|P
 DECL|class|tst_QMetaType
 DECL|enumerator|IsInitialized
 DECL|enumerator|V1
@@ -125,6 +128,9 @@ DECL|macro|RETURN_CREATE_FUNCTION
 DECL|macro|RETURN_CREATE_FUNCTION
 DECL|macro|TYPENAME_DATA
 DECL|macro|TYPENAME_DATA_ALIAS
+DECL|member|_
+DECL|member|_
+DECL|member|_
 DECL|member|d
 DECL|member|failureCount
 DECL|member|failureCount
@@ -187,6 +193,15 @@ DECL|struct|TestValueFactory
 DECL|struct|TypeAlignment
 DECL|struct|Whity
 DECL|typedef|CustomString
+DECL|typedef|QPairCC
+DECL|typedef|QPairCM
+DECL|typedef|QPairCP
+DECL|typedef|QPairMC
+DECL|typedef|QPairMM
+DECL|typedef|QPairMP
+DECL|typedef|QPairPC
+DECL|typedef|QPairPM
+DECL|typedef|QPairPP
 DECL|typedef|Type
 DECL|typedef|Type
 DECL|typedef|TypeTestFunction
