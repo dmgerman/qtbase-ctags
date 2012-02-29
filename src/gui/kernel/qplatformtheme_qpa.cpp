@@ -4,3 +4,4 @@ DECL|function|createPlatformMenuBar
 DECL|function|palette
 DECL|function|themeHint
 DECL|function|usePlatformNativeDialog
+DECL|function|~QPlatformTheme
