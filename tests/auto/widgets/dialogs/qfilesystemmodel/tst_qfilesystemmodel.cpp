@@ -18,6 +18,7 @@ DECL|function|icon
 DECL|function|iconProvider
 DECL|function|indexPath
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|mkdir
 DECL|function|nameFilters
 DECL|function|naturalCompare
@@ -36,12 +37,12 @@ DECL|function|setData_data
 DECL|function|sort
 DECL|function|sort_data
 DECL|function|tst_QFileSystemModel
-DECL|function|~tst_QFileSystemModel
 DECL|macro|ROWNAME
 DECL|macro|ROWNAME
 DECL|macro|TRY_WAIT
 DECL|macro|WAITTIME
 DECL|member|dvd
 DECL|member|flatDirTestPath
+DECL|member|m_tempDir
 DECL|member|mb
 DECL|member|model
