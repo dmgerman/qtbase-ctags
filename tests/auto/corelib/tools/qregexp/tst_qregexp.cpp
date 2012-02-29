@@ -4,6 +4,7 @@ DECL|class|tst_QRegExp
 DECL|function|Thread
 DECL|function|capturedTexts
 DECL|function|caretAnchoredOptimization
+DECL|function|escapeSequences
 DECL|function|exactMatch
 DECL|function|getSetCheck
 DECL|function|indexIn
