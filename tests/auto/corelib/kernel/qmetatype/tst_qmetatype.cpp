@@ -1,3 +1,4 @@
+DECL|class|AutoMetaTypeObject
 DECL|class|C
 DECL|class|CustomMultiInheritanceObject
 DECL|class|CustomObject
@@ -15,7 +16,9 @@ DECL|enumerator|V5
 DECL|enumerator|V6
 DECL|enumerator|Value
 DECL|enumerator|Value
+DECL|function|AutoMetaTypeObject
 DECL|function|Bar
+DECL|function|CustomComparable
 DECL|function|CustomMultiInheritanceObject
 DECL|function|CustomObject
 DECL|function|MetaTypeTorturer
@@ -81,6 +84,7 @@ DECL|function|isRegisteredStaticLess_data
 DECL|function|isRegistered_data
 DECL|function|namespaces
 DECL|function|normalizedTypes
+DECL|function|operator ==
 DECL|function|prop
 DECL|function|properties
 DECL|function|qMetaTypeId
@@ -92,6 +96,8 @@ DECL|function|sizeOf
 DECL|function|sizeOfStaticLess
 DECL|function|sizeOfStaticLess_data
 DECL|function|sizeOf_data
+DECL|function|someHash
+DECL|function|someInt
 DECL|function|testConstructCopyHelper
 DECL|function|testConstructCopyHelper
 DECL|function|testConstructHelper
@@ -136,10 +142,14 @@ DECL|member|failureCount
 DECL|member|failureCount
 DECL|member|failureCount
 DECL|member|i
+DECL|member|i
+DECL|member|m_hash
+DECL|member|m_int
 DECL|member|propList
 DECL|member|t
 DECL|namespace|TestSpace
 DECL|struct|Bar
+DECL|struct|CustomComparable
 DECL|struct|CustomMovable
 DECL|struct|DefaultValueFactory
 DECL|struct|DefaultValueFactory
@@ -191,8 +201,17 @@ DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TypeAlignment
+DECL|struct|UnregisteredType
 DECL|struct|Whity
 DECL|typedef|CustomString
+DECL|typedef|IntComparableHash
+DECL|typedef|IntComparableMap
+DECL|typedef|IntComparablePair
+DECL|typedef|IntIntHash
+DECL|typedef|IntUIntHash
+DECL|typedef|IntUIntMap
+DECL|typedef|IntUIntPair
+DECL|typedef|NaturalNumber
 DECL|typedef|QPairCC
 DECL|typedef|QPairCM
 DECL|typedef|QPairCP
