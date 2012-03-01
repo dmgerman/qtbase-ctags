@@ -322,6 +322,7 @@ DECL|function|setPriority
 DECL|function|setString
 DECL|function|setVariant
 DECL|function|signal1
+DECL|function|signalBlocking
 DECL|function|sinvoke1
 DECL|function|sinvoke2
 DECL|function|sinvoke3
