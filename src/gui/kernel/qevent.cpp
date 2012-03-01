@@ -74,7 +74,6 @@ DECL|function|nativeVirtualKey
 DECL|function|normalizedPos
 DECL|function|openFile
 DECL|function|operator <<
-DECL|function|operator =
 DECL|function|orientation
 DECL|function|overshootDistance
 DECL|function|pos
