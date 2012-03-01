@@ -1,6 +1,7 @@
 DECL|enumerator|E_BASENAME
 DECL|enumerator|E_CAT
 DECL|enumerator|E_DIRNAME
+DECL|enumerator|E_ENUMERATE_VARS
 DECL|enumerator|E_ESCAPE_EXPAND
 DECL|enumerator|E_EVAL
 DECL|enumerator|E_FILES
