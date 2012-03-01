@@ -301,6 +301,7 @@ DECL|function|unsetLocale
 DECL|function|update
 DECL|function|update
 DECL|function|update
+DECL|function|updateFocusChild
 DECL|function|updateFont
 DECL|function|updateGeometry
 DECL|function|updateGeometry_helper
