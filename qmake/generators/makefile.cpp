@@ -38,7 +38,6 @@ DECL|function|setProjectFile
 DECL|function|specdir
 DECL|function|unescapeFilePath
 DECL|function|unescapeFilePaths
-DECL|function|usePlatformDir
 DECL|function|val
 DECL|function|valGlue
 DECL|function|valList
