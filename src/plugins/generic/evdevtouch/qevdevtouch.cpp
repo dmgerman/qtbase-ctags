@@ -10,8 +10,12 @@ DECL|function|readData
 DECL|function|registerDevice
 DECL|function|reportPoints
 DECL|function|run
+DECL|function|testBit
 DECL|function|~QTouchScreenHandler
 DECL|function|~QTouchScreenHandlerThread
+DECL|macro|ABS_MT_SLOT
+DECL|macro|LONG_BITS
+DECL|macro|NUM_LONGS
 DECL|member|flags
 DECL|member|hw_name
 DECL|member|hw_pressure_max
@@ -22,11 +26,13 @@ DECL|member|hw_range_y_max
 DECL|member|hw_range_y_min
 DECL|member|m_contacts
 DECL|member|m_currentData
+DECL|member|m_currentSlot
 DECL|member|m_device
 DECL|member|m_forceToActiveWindow
 DECL|member|m_lastContacts
 DECL|member|m_lastEventType
 DECL|member|m_touchPoints
+DECL|member|m_typeB
 DECL|member|maj
 DECL|member|pressure
 DECL|member|q
