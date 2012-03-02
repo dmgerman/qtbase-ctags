@@ -1,7 +1,9 @@
 DECL|class|AutoMetaTypeObject
 DECL|class|C
 DECL|class|CustomMultiInheritanceObject
+DECL|class|CustomNonQObject
 DECL|class|CustomObject
+DECL|class|CustomQObject
 DECL|class|IsRegisteredDummyType
 DECL|class|M
 DECL|class|MetaTypeTorturer
@@ -21,6 +23,7 @@ DECL|function|Bar
 DECL|function|CustomComparable
 DECL|function|CustomMultiInheritanceObject
 DECL|function|CustomObject
+DECL|function|CustomQObject
 DECL|function|MetaTypeTorturer
 DECL|function|automaticTemplateRegistration
 DECL|function|construct
