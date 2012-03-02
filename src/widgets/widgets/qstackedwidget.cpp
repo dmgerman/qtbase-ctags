@@ -1,6 +1,4 @@
-DECL|class|QStackedLayoutHFW
 DECL|class|QStackedWidgetPrivate
-DECL|function|QStackedLayoutHFW
 DECL|function|QStackedWidget
 DECL|function|QStackedWidgetPrivate
 DECL|function|addWidget
@@ -8,8 +6,6 @@ DECL|function|count
 DECL|function|currentIndex
 DECL|function|currentWidget
 DECL|function|event
-DECL|function|hasHeightForWidth
-DECL|function|heightForWidth
 DECL|function|indexOf
 DECL|function|insertWidget
 DECL|function|removeWidget
