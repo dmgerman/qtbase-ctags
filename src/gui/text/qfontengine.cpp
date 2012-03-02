@@ -60,6 +60,7 @@ DECL|function|hb_getPointInOutline
 DECL|function|hb_getSFntTable
 DECL|function|hb_stringToGlyphs
 DECL|function|highByte
+DECL|function|initializedHarfbuzzFace
 DECL|function|kerning
 DECL|function|lastRightBearing
 DECL|function|leading
