@@ -19,6 +19,8 @@ DECL|function|QTBUG_6618_data
 DECL|function|QTBUG_6852
 DECL|function|QTBUG_6852_data
 DECL|function|ResultHelper
+DECL|function|aggregateFunctionTypes
+DECL|function|aggregateFunctionTypes_data
 DECL|function|batchExec
 DECL|function|batchExec_data
 DECL|function|bindWithDoubleColonCastOperator
