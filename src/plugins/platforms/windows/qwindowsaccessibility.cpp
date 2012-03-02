@@ -27,6 +27,7 @@ DECL|function|accNavigate
 DECL|function|accSelect
 DECL|function|accessibleDebugClientCalls_helper
 DECL|function|childPointer
+DECL|function|compareAccessible
 DECL|function|debug_accessibility
 DECL|function|get_accChild
 DECL|function|get_accChildCount
