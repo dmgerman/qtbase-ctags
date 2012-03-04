@@ -1,6 +1,12 @@
 DECL|class|tst_QFlags
+DECL|enumerator|Four
+DECL|enumerator|One
+DECL|enumerator|Two
+DECL|enumerator|Zero
+DECL|enum|MyEnum
 DECL|function|constExpr
 DECL|function|testFlag
 DECL|function|testFlagMultiBits
 DECL|function|testFlagZeroFlag
 DECL|function|verifyConstExpr
+DECL|variable|MyFlags

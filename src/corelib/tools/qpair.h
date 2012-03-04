@@ -24,4 +24,6 @@ DECL|variable|T1
 DECL|variable|T1
 DECL|variable|T1
 DECL|variable|T1
+DECL|variable|T1
+DECL|variable|T1
 DECL|variable|operator
