@@ -31,6 +31,7 @@ DECL|function|blob
 DECL|function|blob_data
 DECL|function|blobsPreparedQuery
 DECL|function|blobsPreparedQuery_data
+DECL|function|boundValueName
 DECL|function|char1Select
 DECL|function|char1SelectUnicode
 DECL|function|char1SelectUnicode_data
