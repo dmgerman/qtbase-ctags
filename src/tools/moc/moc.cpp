@@ -2,6 +2,11 @@ DECL|function|checkProperties
 DECL|function|checkSuperClasses
 DECL|function|createPropertyDef
 DECL|function|generate
+DECL|function|getNameSubstitution
+DECL|function|getSubstitution
+DECL|function|getTokenSubstitution
+DECL|function|getTypeSubstitution
+DECL|function|getWordSubstitution
 DECL|function|lexemUntil
 DECL|function|normalizeType
 DECL|function|parse

@@ -7,3 +7,7 @@ DECL|function|remove
 DECL|function|setValue
 DECL|function|value
 DECL|function|~QMakeProperty
+DECL|member|loc
+DECL|member|name
+DECL|member|raw
+DECL|variable|propList

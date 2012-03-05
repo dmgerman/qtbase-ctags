@@ -1,4 +1,3 @@
-DECL|class|QRgbGreyPalette
 DECL|enumerator|EdgeDown
 DECL|enumerator|EdgeLeft
 DECL|enumerator|EdgeRight
@@ -6,7 +5,6 @@ DECL|enumerator|EdgeUp
 DECL|function|QFontEngine
 DECL|function|QFontEngineBox
 DECL|function|QFontEngineMulti
-DECL|function|QRgbGreyPalette
 DECL|function|addBitmapFontToPath
 DECL|function|addGlyphsToPath
 DECL|function|addOutlineToPath
@@ -52,7 +50,6 @@ DECL|function|getTrueTypeGlyphIndex
 DECL|function|getUnscaledGlyph
 DECL|function|glyphCache
 DECL|function|glyphCount
-DECL|function|grayPalette
 DECL|function|harfbuzzFace
 DECL|function|harfbuzzFont
 DECL|function|hb_canRender
