@@ -88,7 +88,6 @@ DECL|function|populateDeps
 DECL|function|qmake_error_msg
 DECL|function|qmake_expandFunctions
 DECL|function|qmake_feature_paths
-DECL|function|qmake_mkspec_paths
 DECL|function|qmake_testFunctions
 DECL|function|read
 DECL|function|read

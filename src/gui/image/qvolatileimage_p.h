@@ -1,2 +1,0 @@
-DECL|macro|QVOLATILEIMAGE_P_H
-DECL|variable|QVolatileImageData

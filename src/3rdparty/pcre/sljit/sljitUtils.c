@@ -1,0 +1,17 @@
+DECL|function|allocator_grab_lock
+DECL|function|allocator_grab_lock
+DECL|function|allocator_release_lock
+DECL|function|allocator_release_lock
+DECL|function|sljit_allocate_stack
+DECL|function|sljit_free_stack
+DECL|function|sljit_grab_lock
+DECL|function|sljit_grab_lock
+DECL|function|sljit_release_lock
+DECL|function|sljit_release_lock
+DECL|function|sljit_stack_resize
+DECL|macro|PAGE_ALIGN
+DECL|variable|allocator_mutex
+DECL|variable|allocator_mutex
+DECL|variable|global_mutex
+DECL|variable|global_mutex
+DECL|variable|sljit_page_align

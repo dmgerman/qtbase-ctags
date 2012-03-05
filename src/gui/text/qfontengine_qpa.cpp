@@ -1,4 +1,5 @@
 DECL|function|QFontEngineMultiQPA
+DECL|function|QFontEngineMultiQPA
 DECL|function|QFontEngineQPA
 DECL|function|addOutlineToPath
 DECL|function|alphaMapForGlyph
@@ -6,12 +7,14 @@ DECL|function|ascent
 DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|canRender
+DECL|function|createMultiFontEngine
 DECL|function|descent
 DECL|function|extractHeaderField
 DECL|function|findGlyph
 DECL|function|generate
 DECL|function|getChar
 DECL|function|getSfntTableData
+DECL|function|init
 DECL|function|isValid
 DECL|function|leading
 DECL|function|lineThickness

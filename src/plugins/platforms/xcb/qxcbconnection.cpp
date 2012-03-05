@@ -15,6 +15,7 @@ DECL|function|initializeAllAtoms
 DECL|function|initializeDri2
 DECL|function|initializeXFixes
 DECL|function|initializeXRender
+DECL|function|initializeXShape
 DECL|function|internAtom
 DECL|function|lock
 DECL|function|log

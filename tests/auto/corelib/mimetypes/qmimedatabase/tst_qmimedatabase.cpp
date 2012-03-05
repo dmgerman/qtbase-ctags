@@ -1,7 +1,6 @@
 DECL|function|aliases
 DECL|function|allMimeTypes
 DECL|function|checkHasMimeType
-DECL|function|cleanupTestCase
 DECL|function|findByData
 DECL|function|findByData_data
 DECL|function|findByFile
@@ -28,7 +27,11 @@ DECL|function|mimeTypeForName
 DECL|function|mimeTypeForUrl
 DECL|function|mimeTypesForFileName
 DECL|function|mimeTypesForFileName_data
+DECL|function|msgMimeTypeForFileNameFailed
 DECL|function|runUpdateMimeDatabase
 DECL|function|suffixes
 DECL|function|suffixes_data
+DECL|function|testSuiteWarning
+DECL|function|tst_QMimeDatabase
 DECL|function|waitAndRunUpdateMimeDatabase
+DECL|variable|yastFileName

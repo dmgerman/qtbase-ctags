@@ -1,10 +1,10 @@
 DECL|macro|QXCBDRAG_H
 DECL|variable|QDrag
-DECL|variable|QDropData
 DECL|variable|QMouseEvent
-DECL|variable|QObject
+DECL|variable|QShapedPixmapWindow
 DECL|variable|QWindow
 DECL|variable|QXcbConnection
+DECL|variable|QXcbDropData
 DECL|variable|QXcbObject
 DECL|variable|QXcbScreen
 DECL|variable|QXcbWindow

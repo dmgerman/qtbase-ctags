@@ -1,6 +1,6 @@
 DECL|function|JavaString
 DECL|function|JavaString
-DECL|function|String
-DECL|function|String
+DECL|function|Qt4String
+DECL|function|Qt4String
 DECL|struct|QString
 DECL|struct|QString

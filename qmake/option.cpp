@@ -8,6 +8,7 @@ DECL|function|detectProjectFile
 DECL|function|detectShellPath
 DECL|function|fixString
 DECL|function|init
+DECL|function|mkspecPaths
 DECL|function|parseCommandLine
 DECL|function|postProcessProject
 DECL|function|prepareProject
@@ -15,10 +16,10 @@ DECL|function|qmakeAddCacheClear
 DECL|function|qmakeClearCaches
 DECL|function|qmake_libraryInfoFile
 DECL|function|qmake_version
+DECL|function|resolveSpec
 DECL|function|usage
 DECL|function|warn_msg
 DECL|function|~QMakeCacheClearItem
-DECL|member|after_user_configs
 DECL|member|after_user_vars
 DECL|member|application_argv0
 DECL|member|before_user_vars
@@ -60,6 +61,7 @@ DECL|member|pro_ext
 DECL|member|project_build_root
 DECL|member|project_dirs
 DECL|member|project_files
+DECL|member|project_root
 DECL|member|properties
 DECL|member|qmake_abslocation
 DECL|member|qmake_mode
@@ -72,7 +74,6 @@ DECL|member|sysenv_mod
 DECL|member|target_mode
 DECL|member|target_mode_overridden
 DECL|member|ui_ext
-DECL|member|user_configs
 DECL|member|user_template
 DECL|member|user_template_prefix
 DECL|member|warn_level
