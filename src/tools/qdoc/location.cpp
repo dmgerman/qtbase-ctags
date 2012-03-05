@@ -1,0 +1,23 @@
+DECL|function|Location
+DECL|function|Location
+DECL|function|Location
+DECL|function|advance
+DECL|function|emitMessage
+DECL|function|error
+DECL|function|fatal
+DECL|function|fileName
+DECL|function|information
+DECL|function|initialize
+DECL|function|internalError
+DECL|function|operator =
+DECL|function|pop
+DECL|function|push
+DECL|function|start
+DECL|function|terminate
+DECL|function|toString
+DECL|function|top
+DECL|function|warning
+DECL|member|null
+DECL|member|programName
+DECL|member|spuriousRegExp
+DECL|member|tabSize

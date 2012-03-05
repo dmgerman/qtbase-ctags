@@ -1,0 +1,1 @@
+DECL|macro|QQMLJSGRAMMAR_P_H

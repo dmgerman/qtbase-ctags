@@ -1,0 +1,17 @@
+DECL|enumerator|Alnum
+DECL|enumerator|Colon
+DECL|enumerator|Comma
+DECL|enumerator|Gizmo
+DECL|enumerator|LParen
+DECL|enumerator|Other
+DECL|enumerator|RAngle
+DECL|enumerator|RParen
+DECL|function|CodeChunk
+DECL|function|CodeChunk
+DECL|function|append
+DECL|function|appendHotspot
+DECL|function|category
+DECL|function|toPath
+DECL|function|toString
+DECL|variable|charCategory
+DECL|variable|needSpace
