@@ -1,6 +1,7 @@
 DECL|function|QXlibScreen
 DECL|function|blackPixel
 DECL|function|checkForClipboardEvents
+DECL|function|cursor
 DECL|function|defaultVisual
 DECL|function|display
 DECL|function|eventDispatcher

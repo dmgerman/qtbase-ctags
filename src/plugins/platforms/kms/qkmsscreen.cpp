@@ -1,5 +1,6 @@
 DECL|function|QKmsScreen
 DECL|function|bindFramebuffer
+DECL|function|cursor
 DECL|function|depth
 DECL|function|device
 DECL|function|format

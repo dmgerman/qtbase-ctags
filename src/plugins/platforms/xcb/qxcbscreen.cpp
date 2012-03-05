@@ -1,4 +1,5 @@
 DECL|function|QXcbScreen
+DECL|function|cursor
 DECL|function|depth
 DECL|function|format
 DECL|function|geometry
