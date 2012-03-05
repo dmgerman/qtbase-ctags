@@ -77,6 +77,8 @@ DECL|function|emitProtectedSignals
 DECL|function|escapesInStringLiterals
 DECL|function|expressionEvaluationShortcut1
 DECL|function|expressionEvaluationShortcut2
+DECL|function|finalClasses
+DECL|function|finalClasses_data
 DECL|function|foo
 DECL|function|foo
 DECL|function|foo
