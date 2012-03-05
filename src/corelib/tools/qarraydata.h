@@ -13,6 +13,7 @@ DECL|function|data
 DECL|function|data
 DECL|function|data
 DECL|function|deallocate
+DECL|function|detachFlags
 DECL|function|end
 DECL|function|end
 DECL|function|fromRawData
