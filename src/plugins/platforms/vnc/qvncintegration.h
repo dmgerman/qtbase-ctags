@@ -1,6 +1,0 @@
-DECL|macro|QGRAPHICSSYSTEM_VNC_H
-DECL|variable|QAbstractEventDispatcher
-DECL|variable|QVNCDirtyMap
-DECL|variable|QVNCIntegrationPrivate
-DECL|variable|QVNCScreenPrivate
-DECL|variable|QVNCServer
