@@ -11,7 +11,6 @@ DECL|function|QKeySequence
 DECL|function|QKeySequence
 DECL|function|QKeySequence
 DECL|function|QKeySequence
-DECL|function|QKeySequence
 DECL|function|QModifKeyName
 DECL|function|QModifKeyName
 DECL|function|QModifKeyName
