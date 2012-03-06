@@ -1,4 +1,3 @@
-DECL|class|QSslSocketPtr
 DECL|class|SetReadBufferSize_task_250027_handler
 DECL|class|SslServer
 DECL|class|SslServer2
@@ -15,7 +14,6 @@ DECL|enumerator|NoProxy
 DECL|enumerator|Socks5Proxy
 DECL|enumerator|TypeMask
 DECL|enum|ProxyTests
-DECL|function|QSslSocketPtr
 DECL|function|SslServer
 DECL|function|SslServer3
 DECL|function|ThreadedSslServer
@@ -59,7 +57,6 @@ DECL|function|isEncrypted
 DECL|function|localCertificate
 DECL|function|mode
 DECL|function|newSocket
-DECL|function|operator QSslSocket *
 DECL|function|peerCertificate
 DECL|function|peerCertificateChain
 DECL|function|peerVerifyError
@@ -130,4 +127,5 @@ DECL|member|socket
 DECL|member|socket
 DECL|member|socket
 DECL|member|storedExpectedSslErrors
+DECL|typedef|QSslSocketPtr
 DECL|typedef|SslErrorList
