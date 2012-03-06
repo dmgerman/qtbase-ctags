@@ -13,7 +13,6 @@ DECL|class|MyMemoryCache
 DECL|class|MyProxyFactory
 DECL|class|MySpyMemoryCache
 DECL|class|ProxyChangeHelper
-DECL|class|QNetworkReplyPtr
 DECL|class|QtBug13431Helper
 DECL|class|RateControlledReader
 DECL|class|SocketPair
@@ -29,6 +28,7 @@ DECL|enum|RunSimpleRequestReturn
 DECL|function|AuthenticationCacheHelper
 DECL|function|BlockingTcpServer
 DECL|function|DataReader
+DECL|function|DataReader
 DECL|function|FastSender
 DECL|function|FastSender
 DECL|function|GetFromHttpIntoBuffer2Client
@@ -41,7 +41,6 @@ DECL|function|MyProxyFactory
 DECL|function|MySpyMemoryCache
 DECL|function|ProxyChangeHelper
 DECL|function|ProxyData
-DECL|function|QNetworkReplyPtr
 DECL|function|RateControlledReader
 DECL|function|SocketPair
 DECL|function|SslServer
@@ -69,6 +68,8 @@ DECL|function|clear
 DECL|function|closeDuringDownload
 DECL|function|closeDuringDownload_data
 DECL|function|compressedHttpReplyBrokenGzip
+DECL|function|connect
+DECL|function|connect
 DECL|function|connectSocketSignals
 DECL|function|connectToIPv6Address
 DECL|function|connectToIPv6Address_data
@@ -207,7 +208,6 @@ DECL|function|nestedEventLoops
 DECL|function|nestedEventLoops_slot
 DECL|function|newConnectionSlot
 DECL|function|onReadAndReschedule
-DECL|function|operator QNetworkReply *
 DECL|function|parentingRepliesToTheApp
 DECL|function|pipelining
 DECL|function|pipeliningHelperSlot
@@ -396,3 +396,4 @@ DECL|struct|QDeleteLaterCleanup
 DECL|struct|QThreadCleanup
 DECL|typedef|CacheData
 DECL|typedef|CachedContent
+DECL|typedef|QNetworkReplyPtr
