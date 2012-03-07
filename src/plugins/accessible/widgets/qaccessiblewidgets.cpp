@@ -33,10 +33,8 @@ DECL|function|childCount
 DECL|function|childCount
 DECL|function|childCount
 DECL|function|childWidgets
-DECL|function|copyText
 DECL|function|cursorForRange
 DECL|function|cursorPosition
-DECL|function|cutText
 DECL|function|deleteText
 DECL|function|dockWidget
 DECL|function|dockWidget
@@ -58,7 +56,6 @@ DECL|function|navigationBar
 DECL|function|object
 DECL|function|offsetAtPoint
 DECL|function|parent
-DECL|function|pasteText
 DECL|function|rect
 DECL|function|rect
 DECL|function|rect
@@ -70,13 +67,13 @@ DECL|function|role
 DECL|function|scrollToSubstring
 DECL|function|selection
 DECL|function|selectionCount
-DECL|function|setAttributes
 DECL|function|setCursorPosition
 DECL|function|setSelection
 DECL|function|setText
 DECL|function|setText
 DECL|function|setText
 DECL|function|stackedWidget
+DECL|function|state
 DECL|function|state
 DECL|function|state
 DECL|function|text

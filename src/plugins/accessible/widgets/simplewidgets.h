@@ -1,7 +1,6 @@
 DECL|macro|SIMPLEWIDGETS_H
 DECL|variable|QAbstractButton
 DECL|variable|QAccessibleDisplay
-DECL|variable|QAccessibleTextInterface
 DECL|variable|QAccessibleWidget
 DECL|variable|QAccessibleWidget
 DECL|variable|QGroupBox

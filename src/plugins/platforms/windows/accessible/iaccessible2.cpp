@@ -11,6 +11,9 @@ DECL|function|Release
 DECL|function|Release
 DECL|function|Release
 DECL|function|addSelection
+DECL|function|copyText
+DECL|function|cutText
+DECL|function|deleteText
 DECL|function|doAction
 DECL|function|getRelationsHelper
 DECL|function|get_appName
@@ -85,8 +88,12 @@ DECL|function|get_toolkitName
 DECL|function|get_toolkitVersion
 DECL|function|get_uniqueID
 DECL|function|get_windowHandle
+DECL|function|insertText
 DECL|function|nActions
+DECL|function|pasteText
 DECL|function|removeSelection
+DECL|function|replaceText
+DECL|function|replaceTextFallback
 DECL|function|role
 DECL|function|scrollSubstringTo
 DECL|function|scrollSubstringToPoint
@@ -94,9 +101,11 @@ DECL|function|scrollTo
 DECL|function|scrollToPoint
 DECL|function|selectColumn
 DECL|function|selectRow
+DECL|function|setAttributes
 DECL|function|setCaretOffset
 DECL|function|setCurrentValue
 DECL|function|setSelection
+DECL|function|textForRange
 DECL|function|uniqueID
 DECL|function|unselectColumn
 DECL|function|unselectRow
