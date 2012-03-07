@@ -6,6 +6,8 @@ DECL|function|QTBUG_16967
 DECL|function|QTBUG_16967_data
 DECL|function|QTBUG_21884
 DECL|function|QTBUG_21884_data
+DECL|function|QTBUG_23895
+DECL|function|QTBUG_23895_data
 DECL|function|QTBUG_5251
 DECL|function|QTBUG_5251_data
 DECL|function|QTBUG_551
