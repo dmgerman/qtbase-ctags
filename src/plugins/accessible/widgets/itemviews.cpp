@@ -19,9 +19,6 @@ DECL|function|columnDescription
 DECL|function|columnExtent
 DECL|function|columnHeaderCells
 DECL|function|columnIndex
-DECL|function|columnsInserted
-DECL|function|columnsMoved
-DECL|function|columnsRemoved
 DECL|function|horizontalHeader
 DECL|function|horizontalHeader
 DECL|function|indexFromLogical
@@ -36,8 +33,6 @@ DECL|function|isSelected
 DECL|function|isValid
 DECL|function|isValid
 DECL|function|logicalIndex
-DECL|function|modelChange
-DECL|function|modelReset
 DECL|function|parent
 DECL|function|parent
 DECL|function|parent
@@ -55,9 +50,6 @@ DECL|function|rowDescription
 DECL|function|rowExtent
 DECL|function|rowHeaderCells
 DECL|function|rowIndex
-DECL|function|rowsInserted
-DECL|function|rowsMoved
-DECL|function|rowsRemoved
 DECL|function|selectColumn
 DECL|function|selectRow
 DECL|function|selectRow
