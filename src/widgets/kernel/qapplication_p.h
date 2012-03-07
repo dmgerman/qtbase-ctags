@@ -13,14 +13,14 @@ DECL|member|minTanPressure
 DECL|member|minX
 DECL|member|minY
 DECL|member|minZ
-DECL|struct|QFont
 DECL|struct|QTabletDeviceData
 DECL|struct|QWSServerCleaner
+DECL|typedef|FontHash
 DECL|typedef|PaletteHash
+DECL|typedef|QByteArray
 DECL|typedef|QByteArray
 DECL|typedef|QMacTabletHash
 DECL|typedef|QTabletDeviceDataList
-DECL|variable|QByteArray
 DECL|variable|QClipboard
 DECL|variable|QDirectPainter
 DECL|variable|QGestureManager

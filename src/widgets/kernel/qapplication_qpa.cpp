@@ -7,6 +7,7 @@ DECL|function|createEventDispatcher
 DECL|function|enterModal_sys
 DECL|function|grabForPopup
 DECL|function|initializeMultitouch_sys
+DECL|function|initializeWidgetFontHash
 DECL|function|initializeWidgetPaletteHash
 DECL|function|isEffectEnabled
 DECL|function|leaveModal_sys

@@ -9,7 +9,6 @@ DECL|function|addApplicationFont
 DECL|function|addFontToDatabase
 DECL|function|createEngine
 DECL|function|defaultFont
-DECL|function|defaultFonts
 DECL|function|fallbacksForFamily
 DECL|function|fontDir
 DECL|function|fontEngine
