@@ -39,9 +39,9 @@ DECL|function|convertMetaType
 DECL|function|convertToQUint8
 DECL|function|copy_constructor
 DECL|function|copyingUserTypes
+DECL|function|data
 DECL|function|dataStar
 DECL|function|dataStream_data
-DECL|function|data_
 DECL|function|debugStream
 DECL|function|debugStream_data
 DECL|function|forwardDeclare
