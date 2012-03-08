@@ -10,7 +10,6 @@ DECL|enumerator|ReadProperty
 DECL|enumerator|ResetProperty
 DECL|enumerator|WriteProperty
 DECL|enum|Call
-DECL|function|className
 DECL|function|invokeMethod
 DECL|function|invokeMethod
 DECL|function|invokeMethod

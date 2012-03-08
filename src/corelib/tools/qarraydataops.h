@@ -1,0 +1,2 @@
+DECL|macro|QARRAYDATAOPS_H
+DECL|struct|Type

@@ -39,7 +39,6 @@ DECL|macro|QT_USE_QSTRINGBUILDER
 DECL|member|alloc
 DECL|member|ba
 DECL|member|capacityReserved
-DECL|member|d
 DECL|member|data
 DECL|member|offset
 DECL|member|operator
@@ -47,8 +46,8 @@ DECL|member|ptr
 DECL|member|ref
 DECL|member|size
 DECL|struct|QByteArrayData
-DECL|struct|QConstByteArrayData
-DECL|struct|QConstByteArrayDataPtr
+DECL|struct|QStaticByteArrayData
+DECL|struct|QStaticByteArrayDataPtr
 DECL|variable|QByteRef
 DECL|variable|QDataStream
 DECL|variable|QList

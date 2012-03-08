@@ -1,14 +1,22 @@
 DECL|class|tst_QList
+DECL|function|Complex
+DECL|function|Complex
+DECL|function|Guard
 DECL|function|append
 DECL|function|at
 DECL|function|begin
+DECL|function|check
+DECL|function|cleanup
 DECL|function|const_shared_null
 DECL|function|contains
 DECL|function|count
 DECL|function|empty
 DECL|function|end
 DECL|function|endsWith
+DECL|function|errors
 DECL|function|first
+DECL|function|generateSetSharableData
+DECL|function|init
 DECL|function|initializeList
 DECL|function|last
 DECL|function|lastIndexOf
@@ -16,11 +24,20 @@ DECL|function|length
 DECL|function|lengthSignature
 DECL|function|mid
 DECL|function|move
+DECL|function|operator =
+DECL|function|operator ==
+DECL|function|operator int
 DECL|function|prepend
 DECL|function|removeAll
 DECL|function|removeAt
 DECL|function|removeOne
 DECL|function|replace
+DECL|function|resetErrors
+DECL|function|runSetSharableTest
+DECL|function|setSharable1
+DECL|function|setSharable1_data
+DECL|function|setSharable2
+DECL|function|setSharable2_data
 DECL|function|startsWith
 DECL|function|swap
 DECL|function|takeAt
@@ -32,3 +49,17 @@ DECL|function|toSet
 DECL|function|toStdList
 DECL|function|toVector
 DECL|function|value
+DECL|function|~Complex
+DECL|function|~Guard
+DECL|member|checkSum
+DECL|member|dummyForGuard
+DECL|member|errorCount
+DECL|member|errorCount
+DECL|member|initialLiveCount
+DECL|member|liveCount
+DECL|member|liveCount
+DECL|member|value
+DECL|struct|Complex
+DECL|struct|Guard
+DECL|variable|QList
+DECL|variable|QList
