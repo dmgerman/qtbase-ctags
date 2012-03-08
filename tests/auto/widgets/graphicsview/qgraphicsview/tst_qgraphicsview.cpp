@@ -3,6 +3,7 @@ DECL|class|CountPaintItem
 DECL|class|CustomView
 DECL|class|EventSpy
 DECL|class|FocusItem
+DECL|class|FriendlyGraphicsScene
 DECL|class|GraphicsItemWithHover
 DECL|class|IMItem
 DECL|class|LodItem
@@ -77,6 +78,8 @@ DECL|function|interactive
 DECL|function|itemAt
 DECL|function|itemAt2
 DECL|function|itemsAtPoint
+DECL|function|itemsAtPosition
+DECL|function|itemsAtPosition_data
 DECL|function|itemsInPath
 DECL|function|itemsInPoly
 DECL|function|itemsInRect

@@ -1,4 +1,6 @@
 DECL|function|QDrag
+DECL|function|defaultAction
+DECL|function|dragCursor
 DECL|function|exec
 DECL|function|exec
 DECL|function|hotSpot
@@ -10,5 +12,6 @@ DECL|function|setMimeData
 DECL|function|setPixmap
 DECL|function|source
 DECL|function|start
+DECL|function|supportedActions
 DECL|function|target
 DECL|function|~QDrag

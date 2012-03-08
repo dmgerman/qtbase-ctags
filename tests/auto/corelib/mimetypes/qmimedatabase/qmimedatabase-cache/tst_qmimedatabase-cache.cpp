@@ -1,1 +1,1 @@
-DECL|function|tst_QMimeDatabase
+DECL|function|init

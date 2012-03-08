@@ -14,5 +14,6 @@ DECL|function|resetEnvironment
 DECL|function|runCommand
 DECL|function|setArguments
 DECL|function|setBaseCommands
+DECL|function|systemEnvironment
 DECL|function|targetName
 DECL|function|~TestCompiler

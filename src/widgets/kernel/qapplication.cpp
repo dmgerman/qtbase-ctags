@@ -1,4 +1,3 @@
-DECL|function|FontHash
 DECL|function|QApplication
 DECL|function|QApplication
 DECL|function|QApplication

@@ -1,0 +1,1 @@
+DECL|macro|QCOCOADRAG_H

@@ -1,11 +1,13 @@
 DECL|class|CustomNonQObject
 DECL|class|CustomQObject
 DECL|class|CustomQObjectDerived
+DECL|class|CustomQObjectDerivedNoMetaType
 DECL|class|CustomQWidget
 DECL|class|MessageHandler
 DECL|class|tst_QVariant
 DECL|function|CustomQObject
 DECL|function|CustomQObjectDerived
+DECL|function|CustomQObjectDerivedNoMetaType
 DECL|function|CustomQWidget
 DECL|function|Foo
 DECL|function|MessageHandler

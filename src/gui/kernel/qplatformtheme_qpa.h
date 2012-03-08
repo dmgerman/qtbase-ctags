@@ -1,4 +1,5 @@
 DECL|macro|QPLATFORMTHEME_H
+DECL|variable|QFont
 DECL|variable|QMenu
 DECL|variable|QMenuBar
 DECL|variable|QPalette

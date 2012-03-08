@@ -25,7 +25,10 @@ DECL|function|accHitTest
 DECL|function|accLocation
 DECL|function|accNavigate
 DECL|function|accSelect
+DECL|function|accessibleDebugClientCalls_helper
 DECL|function|childPointer
+DECL|function|compareAccessible
+DECL|function|debug_accessibility
 DECL|function|get_accChild
 DECL|function|get_accChildCount
 DECL|function|get_accDefaultAction
@@ -45,11 +48,13 @@ DECL|function|notifyAccessibilityUpdate
 DECL|function|put_accName
 DECL|function|put_accValue
 DECL|function|relatedInterface
-DECL|function|showDebug
 DECL|function|window_helper
 DECL|function|~QWindowsAccessible
 DECL|function|~QWindowsEnumerate
 DECL|macro|UiaRootObjectId
+DECL|macro|accessibleDebug
+DECL|macro|accessibleDebugClientCalls
+DECL|macro|accessibleDebugClientCalls
 DECL|member|accessible
 DECL|member|array
 DECL|member|current

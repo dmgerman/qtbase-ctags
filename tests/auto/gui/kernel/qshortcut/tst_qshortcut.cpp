@@ -43,9 +43,6 @@ DECL|function|initTestCase
 DECL|function|keypressConsumption
 DECL|function|number
 DECL|function|number_data
-DECL|function|qt_metatype_id
-DECL|function|qt_metatype_id
-DECL|function|qt_metatype_id
 DECL|function|sendKeyEvents
 DECL|function|sendKeyEvents
 DECL|function|setupShortcut
@@ -75,6 +72,6 @@ DECL|member|edit
 DECL|member|mainW
 DECL|member|sbText
 DECL|member|shortcuts
-DECL|struct|QMetaTypeId
-DECL|struct|QMetaTypeId
-DECL|struct|QMetaTypeId
+DECL|variable|Action
+DECL|variable|Result
+DECL|variable|Widget

@@ -1,6 +1,7 @@
 DECL|class|QObjectConnectionListVector
 DECL|function|Connection
 DECL|function|Connection
+DECL|function|ExtraData
 DECL|function|QConnectionSenderSwitcher
 DECL|function|QConnectionSenderSwitcher
 DECL|function|QMetaCallEvent
@@ -109,8 +110,12 @@ DECL|member|dirty
 DECL|member|inUse
 DECL|member|orphaned
 DECL|member|previousSender
+DECL|member|propertyNames
+DECL|member|propertyValues
 DECL|member|receiver
 DECL|member|switched
+DECL|member|userData
+DECL|struct|ExtraData
 DECL|struct|QConnectionSenderSwitcher
 DECL|variable|DIRECT_CONNECTION_ONLY
 DECL|variable|_q_ObjectMutexPool

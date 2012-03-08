@@ -1,0 +1,13 @@
+DECL|function|emit_const
+DECL|function|emit_single_op
+DECL|function|load_immediate
+DECL|function|sljit_set_const
+DECL|function|sljit_set_function_context
+DECL|function|sljit_set_jump_addr
+DECL|macro|ASM_SLJIT_CLZ
+DECL|macro|BIN_EXTS
+DECL|macro|BIN_IMM_EXTS
+DECL|macro|INS_CLEAR_LEFT
+DECL|macro|PUSH_RLDICR
+DECL|macro|RLDI
+DECL|macro|UN_EXTS

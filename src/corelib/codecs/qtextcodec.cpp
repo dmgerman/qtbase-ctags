@@ -50,7 +50,6 @@ DECL|function|~QTextDecoder
 DECL|function|~QTextEncoder
 DECL|function|~QWindowsLocalCodec
 DECL|macro|QT_NO_SETLOCALE
-DECL|member|cftr
 DECL|typedef|QTextCodecCache
 DECL|variable|all
 DECL|variable|cp_1251locales

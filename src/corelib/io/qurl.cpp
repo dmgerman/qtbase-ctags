@@ -87,6 +87,7 @@ DECL|function|isDotDelimiter
 DECL|function|isEmpty
 DECL|function|isHex
 DECL|function|isLocalFile
+DECL|function|isLocalFile
 DECL|function|isMappedToNothing
 DECL|function|isParentOf
 DECL|function|isRelative

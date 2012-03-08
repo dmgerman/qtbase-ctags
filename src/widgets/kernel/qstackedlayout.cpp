@@ -9,6 +9,8 @@ DECL|function|addWidget
 DECL|function|count
 DECL|function|currentIndex
 DECL|function|currentWidget
+DECL|function|hasHeightForWidth
+DECL|function|heightForWidth
 DECL|function|insertWidget
 DECL|function|itemAt
 DECL|function|minimumSize

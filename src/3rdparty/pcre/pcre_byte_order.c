@@ -1,0 +1,3 @@
+DECL|function|pcre_pattern_to_host_byte_order
+DECL|function|swap_uint16
+DECL|function|swap_uint32

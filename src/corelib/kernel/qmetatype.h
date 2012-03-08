@@ -20,6 +20,7 @@ DECL|function|qRegisterMetaType
 DECL|function|qRegisterMetaTypeStreamOperators
 DECL|function|qRegisterMetaTypeStreamOperators
 DECL|function|qt_metatype_id
+DECL|function|qt_metatype_id
 DECL|function|sizeOf
 DECL|function|~QMetaType
 DECL|macro|QMETATYPE_H
@@ -42,9 +43,11 @@ DECL|macro|QT_FOR_EACH_STATIC_WIDGETS_CLASS
 DECL|macro|Q_DECLARE_BUILTIN_METATYPE
 DECL|macro|Q_DECLARE_METATYPE
 DECL|macro|Q_DECLARE_METATYPE_TEMPLATE_1ARG
+DECL|macro|Q_DECLARE_METATYPE_TEMPLATE_2ARG
 DECL|macro|Q_DECLARE_OPAQUE_POINTER
-DECL|struct|QMetaTypeId
 DECL|struct|QMetaTypeId2
+DECL|struct|T
+DECL|struct|true
 DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QVariantHash
@@ -62,5 +65,8 @@ DECL|variable|QSharedPointer
 DECL|variable|QStack
 DECL|variable|QVector
 DECL|variable|QWidget
+DECL|variable|T
 DECL|variable|T1
 DECL|variable|T1
+DECL|variable|T1
+DECL|variable|bool

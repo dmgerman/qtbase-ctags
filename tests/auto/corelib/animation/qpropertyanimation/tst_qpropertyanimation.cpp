@@ -4,6 +4,7 @@ DECL|class|MyComposedAnimation
 DECL|class|MyErrorObject
 DECL|class|MyObject
 DECL|class|MySyncObject
+DECL|class|RecursiveObject
 DECL|class|StartValueTester
 DECL|class|UncontrolledAnimation
 DECL|class|tst_QPropertyAnimation
@@ -16,6 +17,7 @@ DECL|function|MySyncObject
 DECL|function|Number
 DECL|function|Number
 DECL|function|Number
+DECL|function|RecursiveObject
 DECL|function|StartValueTester
 DECL|function|checkAnimationFinished
 DECL|function|construction
@@ -42,6 +44,7 @@ DECL|function|operator =
 DECL|function|operator ==
 DECL|function|playForwardBackward
 DECL|function|realValue
+DECL|function|recursiveAnimations
 DECL|function|restart
 DECL|function|setCurrentTime
 DECL|function|setCurrentTime_data
@@ -52,6 +55,8 @@ DECL|function|setStartEndValues
 DECL|function|setStartEndValues_data
 DECL|function|setValue
 DECL|function|setX
+DECL|function|setX
+DECL|function|setY
 DECL|function|start
 DECL|function|startBackwardWithoutEndValue
 DECL|function|startWhenAnotherIsRunning
@@ -66,7 +71,9 @@ DECL|function|updateState
 DECL|function|value
 DECL|function|valueChanged
 DECL|function|x
+DECL|function|x
 DECL|function|xaxisQPointInterpolator
+DECL|function|y
 DECL|function|zeroDurationStart
 DECL|function|zeroLoopCount
 DECL|macro|Pause
@@ -79,9 +86,12 @@ DECL|macro|Stop
 DECL|macro|Stop
 DECL|member|ErrorValue
 DECL|member|anim
+DECL|member|animation
 DECL|member|innerAnim
 DECL|member|m_ole
 DECL|member|m_x
+DECL|member|m_x
+DECL|member|m_y
 DECL|member|n
 DECL|member|o
 DECL|member|o

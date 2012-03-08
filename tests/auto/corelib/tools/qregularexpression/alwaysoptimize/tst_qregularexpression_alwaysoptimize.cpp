@@ -1,0 +1,2 @@
+DECL|class|tst_QRegularExpression_AlwaysOptimize
+DECL|function|initTestCase

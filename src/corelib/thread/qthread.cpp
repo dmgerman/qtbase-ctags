@@ -5,7 +5,6 @@ DECL|function|QThread
 DECL|function|QThread
 DECL|function|QThreadData
 DECL|function|QThreadPrivate
-DECL|function|cleanup
 DECL|function|current
 DECL|function|currentThread
 DECL|function|currentThread
@@ -14,7 +13,6 @@ DECL|function|event
 DECL|function|eventDispatcher
 DECL|function|exec
 DECL|function|exit
-DECL|function|initialize
 DECL|function|isFinished
 DECL|function|isRunning
 DECL|function|priority

@@ -1,0 +1,12 @@
+DECL|function|call_with_args
+DECL|function|emit_do_imm32
+DECL|function|emit_load_imm64
+DECL|function|emit_mov_int
+DECL|function|emit_x86_instruction
+DECL|function|generate_far_jump_code
+DECL|function|generate_fixed_jump
+DECL|function|sljit_emit_enter
+DECL|function|sljit_emit_fast_enter
+DECL|function|sljit_emit_fast_return
+DECL|function|sljit_emit_return
+DECL|function|sljit_set_context

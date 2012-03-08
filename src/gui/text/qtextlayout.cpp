@@ -78,6 +78,7 @@ DECL|function|setPenAndDrawBackground
 DECL|function|setPosition
 DECL|function|setPosition
 DECL|function|setPreeditArea
+DECL|function|setRawFont
 DECL|function|setText
 DECL|function|setTextOption
 DECL|function|setWidth

@@ -1,11 +1,11 @@
 DECL|function|QPlatformCursor
 DECL|function|createSystemCursor
+DECL|function|getInstances
 DECL|function|pos
 DECL|function|set
 DECL|function|set
 DECL|function|set
 DECL|function|setPos
-DECL|member|instances
 DECL|variable|busy_bits
 DECL|variable|busym_bits
 DECL|variable|closedhand_bits

@@ -24,6 +24,7 @@ DECL|enumerator|SB_Upper
 DECL|enum|BreakRule
 DECL|enum|SentenceBreakStates
 DECL|enum|break_class
+DECL|function|HB_AllocFace
 DECL|function|HB_BasicShape
 DECL|function|HB_ConvertStringToGlyphIndices
 DECL|function|HB_FreeFace
@@ -32,6 +33,7 @@ DECL|function|HB_GetSentenceBoundaries
 DECL|function|HB_GetWordBoundaries
 DECL|function|HB_HeuristicPosition
 DECL|function|HB_HeuristicSetGlyphAttributes
+DECL|function|HB_LoadFace
 DECL|function|HB_NewFace
 DECL|function|HB_OpenTypePosition
 DECL|function|HB_OpenTypeShape
