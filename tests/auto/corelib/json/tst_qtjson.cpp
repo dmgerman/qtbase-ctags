@@ -18,6 +18,7 @@ DECL|function|nullValues
 DECL|function|parseDuplicateKeys
 DECL|function|parseNumbers
 DECL|function|parseStrings
+DECL|function|parseUnicodeEscapes
 DECL|function|testArrayIteration
 DECL|function|testArrayNested
 DECL|function|testArrayNestedEmpty

@@ -1,5 +1,3 @@
-DECL|function|codecForTr
-DECL|function|setCodecForTr
 DECL|macro|QTEXTCODEC_H
 DECL|variable|QIODevice
 DECL|variable|QTextCodec

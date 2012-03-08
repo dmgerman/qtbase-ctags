@@ -10,5 +10,6 @@ DECL|function|HB_GetWordClass
 DECL|function|HB_Library_Resolve
 DECL|function|qGetCharAttributes
 DECL|function|qHBFreeFace
+DECL|function|qHBLoadFace
 DECL|function|qHBNewFace
 DECL|function|qShapeItem

@@ -2,8 +2,6 @@ DECL|function|LOGFONT_to_QFont
 DECL|function|addApplicationFont
 DECL|function|addFontToDatabase
 DECL|function|createFontFile
-DECL|function|defaultFont
-DECL|function|defaultFonts
 DECL|function|fallbacksForFamily
 DECL|function|fontDir
 DECL|function|fontEngine
@@ -12,6 +10,7 @@ DECL|function|populate
 DECL|function|populateFontDatabase
 DECL|function|scriptRequiresOpenType
 DECL|function|storeFont
+DECL|function|systemDefaultFont
 DECL|function|systemFont
 DECL|function|verticalDPI
 DECL|function|weightFromInteger

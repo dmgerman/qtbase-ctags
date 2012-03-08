@@ -64,11 +64,13 @@ DECL|member|current_script
 DECL|member|dontPrint
 DECL|member|face
 DECL|member|font
+DECL|member|font_for_init
 DECL|member|gdef
 DECL|member|getFontMetric
 DECL|member|getGlyphAdvances
 DECL|member|getGlyphMetrics
 DECL|member|getPointInOutline
+DECL|member|get_font_table_func
 DECL|member|glyphIndicesPresent
 DECL|member|glyphs
 DECL|member|glyphs_substituted

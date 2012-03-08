@@ -15,6 +15,7 @@ DECL|function|monitorData
 DECL|function|monitorEnumCallback
 DECL|function|operator <<
 DECL|function|screenOf
+DECL|function|sharedCursor
 DECL|function|virtualSiblings
 DECL|function|windowAt
 DECL|function|windowUnderMouse

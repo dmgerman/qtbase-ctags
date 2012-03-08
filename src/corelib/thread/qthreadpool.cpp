@@ -18,7 +18,6 @@ DECL|function|run
 DECL|function|setExpiryTimeout
 DECL|function|setMaxThreadCount
 DECL|function|start
-DECL|function|startFrontRunnable
 DECL|function|startThread
 DECL|function|stealRunnable
 DECL|function|tooManyThreadsActive

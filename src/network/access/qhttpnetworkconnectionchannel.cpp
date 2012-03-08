@@ -17,6 +17,8 @@ DECL|function|detectPipeliningSupport
 DECL|function|ensureConnection
 DECL|function|handleStatus
 DECL|function|handleUnexpectedEOF
+DECL|function|ignoreSslErrors
+DECL|function|ignoreSslErrors
 DECL|function|init
 DECL|function|isSocketBusy
 DECL|function|isSocketReading
@@ -28,3 +30,5 @@ DECL|function|requeueCurrentlyPipelinedRequests
 DECL|function|resetUploadData
 DECL|function|sendRequest
 DECL|function|setConnection
+DECL|function|setProxy
+DECL|function|setSslConfiguration

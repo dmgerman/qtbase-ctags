@@ -7,6 +7,7 @@ DECL|function|createEventDispatcher
 DECL|function|enterModal_sys
 DECL|function|grabForPopup
 DECL|function|initializeMultitouch_sys
+DECL|function|initializeWidgetFontHash
 DECL|function|initializeWidgetPaletteHash
 DECL|function|isEffectEnabled
 DECL|function|leaveModal_sys
@@ -20,6 +21,7 @@ DECL|function|qt_tlw_for_window
 DECL|function|qt_try_modal
 DECL|function|qt_win_display_dc
 DECL|function|setEffectEnabled
+DECL|function|setPossiblePalette
 DECL|function|setWheelScrollLines
 DECL|function|topLevelAt
 DECL|function|ungrabKeyboardForPopup

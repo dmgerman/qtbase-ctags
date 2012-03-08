@@ -36,3 +36,4 @@ DECL|function|updateState
 DECL|function|valueAt
 DECL|function|~QVariantAnimation
 DECL|typedef|QInterpolatorVector
+DECL|variable|registeredInterpolatorsMutex

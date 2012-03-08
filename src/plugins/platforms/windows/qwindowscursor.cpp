@@ -1,5 +1,4 @@
 DECL|class|QWindowsWindowCursorData
-DECL|function|QWindowsCursor
 DECL|function|QWindowsWindowCursor
 DECL|function|QWindowsWindowCursor
 DECL|function|QWindowsWindowCursorData

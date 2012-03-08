@@ -2,6 +2,7 @@ DECL|macro|QPLATFORMSCREEN_H
 DECL|typedef|QDpi
 DECL|typedef|qreal
 DECL|variable|QPlatformBackingStore
+DECL|variable|QPlatformCursor
 DECL|variable|QPlatformOpenGLContext
 DECL|variable|QPlatformScreenPageFlipper
 DECL|variable|QPlatformScreenPrivate

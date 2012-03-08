@@ -1,5 +1,7 @@
 DECL|function|QPlatformPrinterSupport
 DECL|function|availablePrinters
+DECL|function|convertPaperSizeToQSizeF
+DECL|function|convertQSizeFToPaperSize
 DECL|function|createNativePrintEngine
 DECL|function|createPaintEngine
 DECL|function|defaultPrinter

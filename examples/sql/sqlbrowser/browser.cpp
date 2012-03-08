@@ -5,6 +5,12 @@ DECL|function|addConnection
 DECL|function|deleteRow
 DECL|function|exec
 DECL|function|insertRow
+DECL|function|on_fieldStrategyAction_triggered
+DECL|function|on_manualStrategyAction_triggered
+DECL|function|on_revertAction_triggered
+DECL|function|on_rowStrategyAction_triggered
+DECL|function|on_selectAction_triggered
+DECL|function|on_submitAction_triggered
 DECL|function|showMetaData
 DECL|function|showTable
 DECL|function|updateActions
