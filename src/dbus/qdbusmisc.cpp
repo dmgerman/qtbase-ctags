@@ -2,3 +2,4 @@ DECL|function|qDBusCheckAsyncTag
 DECL|function|qDBusInterfaceFromMetaObject
 DECL|function|qDBusInterfaceInObject
 DECL|function|qDBusParametersForMethod
+DECL|function|qDBusParametersForMethod
