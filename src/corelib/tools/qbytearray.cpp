@@ -1,7 +1,6 @@
 DECL|function|QByteArray
 DECL|function|QByteArray
 DECL|function|QByteArray
-DECL|function|QByteArray
 DECL|function|append
 DECL|function|append
 DECL|function|append

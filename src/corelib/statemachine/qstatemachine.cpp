@@ -111,10 +111,15 @@ DECL|function|~QStateMachine
 DECL|function|~QStateMachinePrivate
 DECL|function|~SignalEvent
 DECL|function|~WrappedEvent
+DECL|macro|QT_MOC_LITERAL
+DECL|macro|QT_MOC_LITERAL
+DECL|member|data
 DECL|member|handler
 DECL|member|staticMetaObject
 DECL|member|staticMetaObjectExtraData
+DECL|member|stringdata
 DECL|namespace|_QStateMachine_Internal
+DECL|struct|qt_meta_stringdata_QSignalEventGenerator_t
 DECL|variable|qt_kernel_statemachine_handler
 DECL|variable|qt_meta_data_QSignalEventGenerator
 DECL|variable|qt_meta_stringdata_QSignalEventGenerator

@@ -3,7 +3,6 @@ DECL|function|QString
 DECL|function|QString
 DECL|function|QString
 DECL|function|QString
-DECL|function|QString
 DECL|function|append
 DECL|function|append
 DECL|function|append
@@ -205,6 +204,7 @@ DECL|function|vsprintf
 DECL|macro|CSTR_EQUAL
 DECL|macro|CSTR_GREATER_THAN
 DECL|macro|CSTR_LESS_THAN
+DECL|macro|IS_RAW_DATA
 DECL|macro|LLONG_MAX
 DECL|macro|LLONG_MIN
 DECL|macro|QT_MAX_FLOAT

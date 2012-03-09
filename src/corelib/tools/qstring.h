@@ -62,7 +62,6 @@ DECL|macro|QT_UNICODE_LITERAL_II
 DECL|macro|QT_UNICODE_LITERAL_II
 DECL|member|alloc
 DECL|member|capacityReserved
-DECL|member|d
 DECL|member|data
 DECL|member|data
 DECL|member|data
@@ -76,10 +75,10 @@ DECL|member|size
 DECL|member|str
 DECL|member|str
 DECL|member|str
-DECL|struct|QConstStringData
-DECL|struct|QConstStringData
-DECL|struct|QConstStringData
-DECL|struct|QConstStringDataPtr
+DECL|struct|QStaticStringData
+DECL|struct|QStaticStringData
+DECL|struct|QStaticStringData
+DECL|struct|QStaticStringDataPtr
 DECL|struct|QStringData
 DECL|typedef|QLatin1Literal
 DECL|variable|QCharRef
