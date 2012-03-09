@@ -1,4 +1,4 @@
-DECL|function|QBBVirtualKeyboard
+DECL|function|QQnxVirtualKeyboard
 DECL|function|addDefaultModeOptions
 DECL|function|addEmailModeOptions
 DECL|function|addNumPuncModeOptions
@@ -22,7 +22,7 @@ DECL|function|run
 DECL|function|setKeyboardMode
 DECL|function|showKeyboard
 DECL|function|updateAvailableScreenGeometry
-DECL|function|~QBBVirtualKeyboard
+DECL|function|~QQnxVirtualKeyboard
 DECL|macro|KEYBOARD_SHADOW_HEIGHT
 DECL|member|ms_PPSPath
 DECL|member|ms_bufferSize

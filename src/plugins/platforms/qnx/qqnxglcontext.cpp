@@ -1,4 +1,4 @@
-DECL|function|QBBGLContext
+DECL|function|QQnxGLContext
 DECL|function|checkEGLError
 DECL|function|contextAttrs
 DECL|function|createSurface
@@ -10,5 +10,5 @@ DECL|function|isCurrent
 DECL|function|makeCurrent
 DECL|function|shutdown
 DECL|function|swapBuffers
-DECL|function|~QBBGLContext
+DECL|function|~QQnxGLContext
 DECL|member|ms_eglDisplay

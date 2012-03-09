@@ -1,0 +1,10 @@
+DECL|macro|QQNXINTEGRATION_H
+DECL|typedef|QQnxWindowMapper
+DECL|typedef|screen_window_t
+DECL|variable|K
+DECL|variable|QHash
+DECL|variable|QQnxClipboard
+DECL|variable|QQnxEventThread
+DECL|variable|QQnxInputContext
+DECL|variable|QQnxNavigatorThread
+DECL|variable|QQnxWindow

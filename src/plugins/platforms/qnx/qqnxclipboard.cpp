@@ -1,6 +1,6 @@
 DECL|class|MimeData
 DECL|function|MimeData
-DECL|function|QBBClipboard
+DECL|function|QQnxClipboard
 DECL|function|addFormatToCheck
 DECL|function|formats
 DECL|function|hasFormat
@@ -12,7 +12,7 @@ DECL|function|setMimeData
 DECL|function|setUserMimeData
 DECL|function|userMimeData
 DECL|function|~MimeData
-DECL|function|~QBBClipboard
+DECL|function|~QQnxClipboard
 DECL|member|m_clipboard
 DECL|member|m_formatsToCheck
 DECL|member|m_userMimeData

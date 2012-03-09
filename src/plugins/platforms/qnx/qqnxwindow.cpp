@@ -1,4 +1,4 @@
-DECL|function|QBBWindow
+DECL|function|QQnxWindow
 DECL|function|copyBack
 DECL|function|gainedFocus
 DECL|function|lower
@@ -19,4 +19,4 @@ DECL|function|setScreen
 DECL|function|setVisible
 DECL|function|updateVisibility
 DECL|function|updateZorder
-DECL|function|~QBBWindow
+DECL|function|~QQnxWindow

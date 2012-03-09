@@ -22,7 +22,7 @@ DECL|enumerator|ImfSetSelection
 DECL|enum|ImfEventType
 DECL|function|ImfEvent
 DECL|function|ImfEventResult
-DECL|function|QBBInputContext
+DECL|function|QQnxInputContext
 DECL|function|closeSession
 DECL|function|dispatchCloseSoftwareInputPanel
 DECL|function|dispatchFocusEvent
@@ -94,7 +94,7 @@ DECL|function|update
 DECL|function|wait
 DECL|function|~ImfEvent
 DECL|function|~ImfEventResult
-DECL|function|~QBBInputContext
+DECL|function|~QQnxInputContext
 DECL|macro|STR
 DECL|macro|STRX
 DECL|macro|getarg

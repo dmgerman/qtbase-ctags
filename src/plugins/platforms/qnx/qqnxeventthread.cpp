@@ -1,4 +1,4 @@
-DECL|function|QBBEventThread
+DECL|function|QQnxEventThread
 DECL|function|dispatchEvent
 DECL|function|handleCloseEvent
 DECL|function|handleKeyboardEvent
@@ -7,4 +7,4 @@ DECL|function|handleTouchEvent
 DECL|function|injectKeyboardEvent
 DECL|function|run
 DECL|function|shutdown
-DECL|function|~QBBEventThread
+DECL|function|~QQnxEventThread

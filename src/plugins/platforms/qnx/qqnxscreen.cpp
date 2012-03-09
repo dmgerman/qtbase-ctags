@@ -1,4 +1,4 @@
-DECL|function|QBBScreen
+DECL|function|QQnxScreen
 DECL|function|addWindow
 DECL|function|availableGeometry
 DECL|function|createDisplays
@@ -11,6 +11,6 @@ DECL|function|raiseWindow
 DECL|function|removeWindow
 DECL|function|setRotation
 DECL|function|updateHierarchy
-DECL|function|~QBBScreen
+DECL|function|~QQnxScreen
 DECL|member|ms_childWindows
 DECL|member|ms_screens

@@ -1,2 +1,0 @@
-DECL|macro|QBBRASTERWINDOWSURFACE_H
-DECL|variable|QBBWindow

@@ -1,3 +1,3 @@
 DECL|function|isKeypadKey
 DECL|function|keyTranslator
-DECL|macro|QBBKEYTRANSLATOR_H
+DECL|macro|QQNXKEYTRANSLATOR_H

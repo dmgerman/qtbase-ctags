@@ -1,4 +1,4 @@
-DECL|function|QBBIntegration
+DECL|function|QQnxIntegration
 DECL|function|addWindow
 DECL|function|clipboard
 DECL|function|createPlatformBackingStore
@@ -12,6 +12,6 @@ DECL|function|removeWindow
 DECL|function|screens
 DECL|function|styleHint
 DECL|function|window
-DECL|function|~QBBIntegration
+DECL|function|~QQnxIntegration
 DECL|member|ms_windowMapper
 DECL|member|ms_windowMapperMutex

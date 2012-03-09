@@ -1,4 +1,4 @@
-DECL|function|QBBInputContext
+DECL|function|QQnxInputContext
 DECL|function|filterEvent
 DECL|function|handleKeyboardEvent
 DECL|function|hasPhysicalKeyboard
@@ -11,4 +11,4 @@ DECL|function|keyboardVisibilityChanged
 DECL|function|locale
 DECL|function|reset
 DECL|function|showInputPanel
-DECL|function|~QBBInputContext
+DECL|function|~QQnxInputContext
