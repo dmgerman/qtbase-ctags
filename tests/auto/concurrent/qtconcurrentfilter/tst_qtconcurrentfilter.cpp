@@ -4,7 +4,6 @@ DECL|function|filtered
 DECL|function|filteredReduced
 DECL|function|filterfn
 DECL|function|incrementalResults
-DECL|function|initTestCase
 DECL|function|noDetach
 DECL|function|resultAt
 DECL|function|stlContainers
