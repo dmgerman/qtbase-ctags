@@ -37,6 +37,7 @@ DECL|function|QVariant
 DECL|function|QVariant
 DECL|function|QVariant
 DECL|function|QVariant
+DECL|function|QVariant
 DECL|function|canConvert
 DECL|function|clear
 DECL|function|clear
@@ -111,6 +112,7 @@ DECL|function|toReal
 DECL|function|toRect
 DECL|function|toRectF
 DECL|function|toRegExp
+DECL|function|toRegularExpression
 DECL|function|toSize
 DECL|function|toSizeF
 DECL|function|toString
@@ -142,11 +144,13 @@ DECL|member|IsAvailable
 DECL|member|IsAvailable
 DECL|member|IsAvailable
 DECL|member|IsAvailable
+DECL|member|IsAvailable
 DECL|member|qt_custom_variant_handler
 DECL|member|qt_dummy_variant_handler
 DECL|member|qt_kernel_variant_handler
 DECL|struct|Acceptor
 DECL|struct|CoreTypesFilter
+DECL|struct|TypeDefinition
 DECL|struct|TypeDefinition
 DECL|struct|TypeDefinition
 DECL|struct|TypeDefinition

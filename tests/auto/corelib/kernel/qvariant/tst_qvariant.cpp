@@ -140,6 +140,7 @@ DECL|function|toRectF
 DECL|function|toRectF_data
 DECL|function|toRect_data
 DECL|function|toRegExp
+DECL|function|toRegularExpression
 DECL|function|toSize
 DECL|function|toSizeF
 DECL|function|toSizeF_data
