@@ -12,6 +12,7 @@ DECL|function|isADeadKey
 DECL|function|isModifierKey
 DECL|function|messageKeyText
 DECL|function|qt_translateKeyCode
+DECL|function|queryKeyboardModifiers
 DECL|function|sendExtendedPressRelease
 DECL|function|setKbdState
 DECL|function|showSystemMenu

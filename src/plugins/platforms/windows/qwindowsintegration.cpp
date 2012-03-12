@@ -20,6 +20,7 @@ DECL|function|nativeResourceForBackingStore
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
 DECL|function|platformTheme
+DECL|function|queryKeyboardModifiers
 DECL|function|services
 DECL|function|setEventFilter
 DECL|function|styleHint
