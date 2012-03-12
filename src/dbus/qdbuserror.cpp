@@ -10,6 +10,7 @@ DECL|function|message
 DECL|function|name
 DECL|function|operator <<
 DECL|function|operator =
+DECL|function|operator =
 DECL|function|type
 DECL|variable|errorMessages_count
 DECL|variable|errorMessages_indices
