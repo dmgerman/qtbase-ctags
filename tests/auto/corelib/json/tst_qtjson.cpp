@@ -1,5 +1,7 @@
 DECL|class|TestQtJson
 DECL|function|TestQtJson
+DECL|function|assignArrays
+DECL|function|assignObjects
 DECL|function|assignToDocument
 DECL|function|cleanup
 DECL|function|cleanupTestCase

@@ -1,0 +1,17 @@
+DECL|function|QmlCodeMarker
+DECL|function|addMarkUp
+DECL|function|atomType
+DECL|function|extractPragmas
+DECL|function|functionBeginRegExp
+DECL|function|functionEndRegExp
+DECL|function|markedUpCode
+DECL|function|markedUpFullName
+DECL|function|markedUpIncludes
+DECL|function|markedUpName
+DECL|function|plainFullName
+DECL|function|plainName
+DECL|function|recognizeCode
+DECL|function|recognizeExtension
+DECL|function|recognizeLanguage
+DECL|function|replaceWithSpace
+DECL|function|~QmlCodeMarker

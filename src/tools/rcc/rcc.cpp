@@ -4,8 +4,12 @@ DECL|enumerator|CONSTANT_COMPRESSTHRESHOLD_DEFAULT
 DECL|enumerator|CONSTANT_USENAMESPACE
 DECL|enumerator|Compressed
 DECL|enumerator|Directory
+DECL|enumerator|FileTag
 DECL|enumerator|NoFlags
+DECL|enumerator|RccTag
+DECL|enumerator|ResourceTag
 DECL|enum|Flags
+DECL|enum|RCCXmlTag
 DECL|function|RCCFileInfo
 DECL|function|RCCResourceLibrary
 DECL|function|Strings

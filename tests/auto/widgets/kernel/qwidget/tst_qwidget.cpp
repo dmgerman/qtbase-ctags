@@ -117,6 +117,7 @@ DECL|function|gdiPainting
 DECL|function|getDC
 DECL|function|getProperty
 DECL|function|getSetCheck
+DECL|function|grab
 DECL|function|heightForWidth
 DECL|function|hideEvent
 DECL|function|hideEvent
@@ -137,6 +138,7 @@ DECL|function|isOpaque
 DECL|function|isVisibleTo
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
+DECL|function|lenientCompare
 DECL|function|lostUpdatesOnHide
 DECL|function|lower
 DECL|function|macHasAccessToWindowsServer

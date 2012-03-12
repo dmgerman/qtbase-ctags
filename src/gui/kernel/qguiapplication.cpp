@@ -61,6 +61,7 @@ DECL|function|processWindowStateChangedEvent
 DECL|function|processWindowSystemEvent
 DECL|function|qHash
 DECL|function|qt_detectRTLLanguage
+DECL|function|queryKeyboardModifiers
 DECL|function|quitOnLastWindowClosed
 DECL|function|reportAvailableGeometryChange
 DECL|function|reportGeometryChange

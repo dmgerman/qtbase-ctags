@@ -107,6 +107,7 @@ DECL|function|qt_mapRect_non_normalizing
 DECL|function|qt_span_clip
 DECL|function|qt_span_fill_clipRect
 DECL|function|qt_span_fill_clipped
+DECL|function|rasterBuffer
 DECL|function|rasterize
 DECL|function|rasterize
 DECL|function|rasterizeLine_dashed

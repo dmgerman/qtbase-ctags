@@ -1,0 +1,14 @@
+DECL|function|Engine
+DECL|function|addComment
+DECL|function|comments
+DECL|function|integerFromString
+DECL|function|integerFromString
+DECL|function|lexer
+DECL|function|newStringRef
+DECL|function|newStringRef
+DECL|function|pool
+DECL|function|setCode
+DECL|function|setLexer
+DECL|function|toDigit
+DECL|function|~Engine
+DECL|namespace|QQmlJS

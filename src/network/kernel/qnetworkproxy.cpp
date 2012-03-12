@@ -30,6 +30,7 @@ DECL|function|isCachingProxy
 DECL|function|isTransparentProxy
 DECL|function|localPort
 DECL|function|networkConfiguration
+DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator ==

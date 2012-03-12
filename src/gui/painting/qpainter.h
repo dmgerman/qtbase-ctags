@@ -88,5 +88,6 @@ DECL|variable|QPainterPrivateDeleter
 DECL|variable|QPen
 DECL|variable|QPolygon
 DECL|variable|QStaticText
+DECL|variable|QTextEngine
 DECL|variable|QTextItem
 DECL|variable|QTransform

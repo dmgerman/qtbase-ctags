@@ -1,0 +1,11 @@
+DECL|function|Window
+DECL|function|closeEvent
+DECL|function|createActions
+DECL|function|createIconGroupBox
+DECL|function|createMessageGroupBox
+DECL|function|createTrayIcon
+DECL|function|iconActivated
+DECL|function|messageClicked
+DECL|function|setIcon
+DECL|function|setVisible
+DECL|function|showMessage

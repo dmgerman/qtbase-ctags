@@ -1,0 +1,11 @@
+DECL|macro|WINDOW_H
+DECL|variable|QAction
+DECL|variable|QCheckBox
+DECL|variable|QComboBox
+DECL|variable|QGroupBox
+DECL|variable|QLabel
+DECL|variable|QLineEdit
+DECL|variable|QMenu
+DECL|variable|QPushButton
+DECL|variable|QSpinBox
+DECL|variable|QTextEdit

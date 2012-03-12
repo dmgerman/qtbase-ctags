@@ -1,0 +1,2 @@
+DECL|macro|QQNXRASTERWINDOWSURFACE_H
+DECL|variable|QQnxWindow

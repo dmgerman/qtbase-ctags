@@ -90,7 +90,6 @@ DECL|function|tightBoundingBox
 DECL|function|type
 DECL|function|underlinePosition
 DECL|function|underlinePosition
-DECL|function|unloadEngine
 DECL|function|unlockAlphaMapForGlyph
 DECL|function|xHeight
 DECL|function|xHeight
