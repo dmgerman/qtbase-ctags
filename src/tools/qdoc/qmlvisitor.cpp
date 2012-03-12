@@ -8,7 +8,6 @@ DECL|function|endVisit
 DECL|function|endVisit
 DECL|function|endVisit
 DECL|function|precedingComment
-DECL|function|reconstituteFieldMemberExpression
 DECL|function|splitQmlPropertyArg
 DECL|function|visit
 DECL|function|visit
@@ -40,6 +39,3 @@ DECL|macro|COMMAND_QMLPROPERTY
 DECL|macro|COMMAND_QMLREADONLY
 DECL|macro|COMMAND_QMLSIGNAL
 DECL|macro|COMMAND_SINCE
-DECL|typedef|EN
-DECL|typedef|FME
-DECL|typedef|IE
