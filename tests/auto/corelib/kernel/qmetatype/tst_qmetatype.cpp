@@ -10,14 +10,6 @@ DECL|class|MetaTypeTorturer
 DECL|class|P
 DECL|class|tst_QMetaType
 DECL|enumerator|IsInitialized
-DECL|enumerator|V1
-DECL|enumerator|V2
-DECL|enumerator|V3
-DECL|enumerator|V4
-DECL|enumerator|V5
-DECL|enumerator|V6
-DECL|enumerator|Value
-DECL|enumerator|Value
 DECL|enumerator|isStreamable
 DECL|enum|A
 DECL|enum|FlagsDataEnum
@@ -185,7 +177,6 @@ DECL|struct|DefaultValueTraits
 DECL|struct|Foo
 DECL|struct|Foo
 DECL|struct|MetaEnumToType
-DECL|struct|RoundToNextHighestPowerOfTwo
 DECL|struct|SecondBase
 DECL|struct|StreamingTraits
 DECL|struct|TestValueFactory
@@ -234,7 +225,6 @@ DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
-DECL|struct|TypeAlignment
 DECL|struct|UnregisteredType
 DECL|struct|Whity
 DECL|struct|isEnumTest_Struct0
