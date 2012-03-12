@@ -1,0 +1,17 @@
+DECL|function|PlainCodeMarker
+DECL|function|atomType
+DECL|function|functionBeginRegExp
+DECL|function|functionEndRegExp
+DECL|function|markedUpCode
+DECL|function|markedUpEnumValue
+DECL|function|markedUpFullName
+DECL|function|markedUpIncludes
+DECL|function|markedUpName
+DECL|function|markedUpSynopsis
+DECL|function|plainFullName
+DECL|function|plainName
+DECL|function|recognizeCode
+DECL|function|recognizeExtension
+DECL|function|recognizeLanguage
+DECL|function|sections
+DECL|function|~PlainCodeMarker

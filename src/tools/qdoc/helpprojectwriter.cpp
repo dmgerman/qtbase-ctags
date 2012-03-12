@@ -1,0 +1,10 @@
+DECL|function|HelpProjectWriter
+DECL|function|addExtraFile
+DECL|function|addExtraFiles
+DECL|function|generate
+DECL|function|generateProject
+DECL|function|generateSection
+DECL|function|generateSections
+DECL|function|keywordDetails
+DECL|function|readSelectors
+DECL|function|writeNode

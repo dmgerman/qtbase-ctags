@@ -48,10 +48,8 @@ DECL|function|isSessionRestored
 DECL|function|keyboardInputDirection
 DECL|function|keyboardInputInterval
 DECL|function|keyboardInputLocale
-DECL|function|keyboardModifiers
 DECL|function|keypadNavigationEnabled
 DECL|function|leaveModal
-DECL|function|mouseButtons
 DECL|function|navigationMode
 DECL|function|notify
 DECL|function|notifyLayoutDirectionChange
@@ -65,7 +63,6 @@ DECL|function|qt_app_fonts_hash
 DECL|function|qt_app_palettes_hash
 DECL|function|qt_sendSpontaneousEvent
 DECL|function|qt_tryModalHelper
-DECL|function|queryKeyboardModifiers
 DECL|function|saveState
 DECL|function|sendMouseEvent
 DECL|function|sendSyntheticEnterLeave
@@ -130,8 +127,6 @@ DECL|member|hidden_focus_widget
 DECL|member|leaveAfterRelease
 DECL|member|load_testability
 DECL|member|main_widget
-DECL|member|modifier_buttons
-DECL|member|mouse_buttons
 DECL|member|navigationMode
 DECL|member|oldEditFocus
 DECL|member|popupWidgets

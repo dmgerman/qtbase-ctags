@@ -1,0 +1,1 @@
+DECL|macro|QQNXCLIPBOARD_H

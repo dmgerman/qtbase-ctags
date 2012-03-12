@@ -74,6 +74,7 @@ DECL|function|drawText
 DECL|function|drawText
 DECL|function|drawText
 DECL|function|drawTextItem
+DECL|function|drawTextItem
 DECL|function|drawTextItemDecoration
 DECL|function|drawTiledPixmap
 DECL|function|draw_helper

@@ -1,0 +1,2 @@
+DECL|macro|QISENUM_H
+DECL|macro|Q_IS_ENUM

@@ -1,0 +1,15 @@
+DECL|function|Quoter
+DECL|function|commentForCode
+DECL|function|failedAtEnd
+DECL|function|getLine
+DECL|function|match
+DECL|function|quoteFromFile
+DECL|function|quoteLine
+DECL|function|quoteSnippet
+DECL|function|quoteTo
+DECL|function|quoteUntil
+DECL|function|removeSpecialLines
+DECL|function|replaceMultipleNewlines
+DECL|function|reset
+DECL|function|splitLines
+DECL|function|trimWhiteSpace

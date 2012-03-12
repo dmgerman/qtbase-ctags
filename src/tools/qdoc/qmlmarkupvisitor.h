@@ -1,0 +1,1 @@
+DECL|macro|QMLVISITOR_H

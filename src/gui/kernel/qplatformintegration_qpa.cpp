@@ -1,5 +1,6 @@
 DECL|function|accessibility
 DECL|function|clipboard
+DECL|function|createImagePaintEngine
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformPixmap
 DECL|function|createPlatformSharedGraphicsCache
@@ -9,6 +10,7 @@ DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|nativeInterface
 DECL|function|platformTheme
+DECL|function|queryKeyboardModifiers
 DECL|function|screenAdded
 DECL|function|services
 DECL|function|styleHint

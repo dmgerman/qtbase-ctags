@@ -1,0 +1,1 @@
+DECL|macro|QMLCODEMARKER_H

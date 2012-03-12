@@ -1,2 +1,0 @@
-DECL|macro|QBBROOTWINDOW_H
-DECL|variable|QBBScreen

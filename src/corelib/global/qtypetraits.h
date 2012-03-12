@@ -1,0 +1,1 @@
+DECL|macro|QTYPETRAITS_H

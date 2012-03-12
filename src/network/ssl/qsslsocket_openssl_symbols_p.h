@@ -20,6 +20,7 @@ DECL|macro|q_PEM_write_bio_RSAPrivateKey
 DECL|macro|q_SKM_sk_num
 DECL|macro|q_SKM_sk_value
 DECL|macro|q_SSL_CTX_add_extra_chain_cert
+DECL|macro|q_SSL_CTX_set_mode
 DECL|macro|q_SSL_CTX_set_options
 DECL|macro|q_X509_dup
 DECL|macro|q_X509_get_notAfter

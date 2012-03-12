@@ -13,7 +13,13 @@ DECL|function|QTextEngine
 DECL|function|QTextItemInt
 DECL|function|QTextItemInt
 DECL|function|QTextLineItemIterator
+DECL|function|addItemDecoration
+DECL|function|addOverline
 DECL|function|addRequiredBoundaries
+DECL|function|addStrikeOut
+DECL|function|addUnderline
+DECL|function|adjustUnderlines
+DECL|function|adjustUnderlines
 DECL|function|alignLine
 DECL|function|appendItems
 DECL|function|atSpace
@@ -27,8 +33,11 @@ DECL|function|bidiReorder
 DECL|function|boundingBox
 DECL|function|calculateTabWidth
 DECL|function|canPop
+DECL|function|clearDecorations
 DECL|function|clearLineData
 DECL|function|direction
+DECL|function|drawDecorations
+DECL|function|drawItemDecorationList
 DECL|function|elidedText
 DECL|function|embed
 DECL|function|endOfLine

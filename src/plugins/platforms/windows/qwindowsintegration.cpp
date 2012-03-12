@@ -3,6 +3,7 @@ DECL|function|QWindowsIntegration
 DECL|function|QWindowsIntegrationPrivate
 DECL|function|accessibility
 DECL|function|clipboard
+DECL|function|createMessageWindow
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformPixmap
@@ -19,6 +20,7 @@ DECL|function|nativeResourceForBackingStore
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
 DECL|function|platformTheme
+DECL|function|queryKeyboardModifiers
 DECL|function|services
 DECL|function|setEventFilter
 DECL|function|styleHint

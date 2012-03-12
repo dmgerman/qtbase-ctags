@@ -16,6 +16,10 @@ DECL|function|fillLine
 DECL|function|fillLine
 DECL|function|fillLine
 DECL|function|fillLines
+DECL|function|imageHasNarrowOutlines
 DECL|function|makeDistanceField
 DECL|function|qt_fontHasNarrowOutlines
+DECL|function|qt_fontHasNarrowOutlines
 DECL|function|qt_renderDistanceFieldGlyph
+DECL|function|qt_renderDistanceFieldGlyph
+DECL|function|renderDistanceFieldPath

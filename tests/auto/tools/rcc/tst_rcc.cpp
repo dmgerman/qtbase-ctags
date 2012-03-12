@@ -1,6 +1,12 @@
 DECL|class|tst_rcc
+DECL|function|binary
+DECL|function|binary_data
+DECL|function|cleanupTestCase
+DECL|function|createRccBinaryData
 DECL|function|doCompare
 DECL|function|findExpectedFile
 DECL|function|rcc
 DECL|function|rcc_data
-DECL|function|tst_rcc
+DECL|function|readExpectedFiles
+DECL|function|readLinesFromFile
+DECL|typedef|QStringMap

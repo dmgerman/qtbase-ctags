@@ -39,6 +39,7 @@ DECL|function|vector
 DECL|function|vector_data
 DECL|function|widgets
 DECL|function|widgets_data
+DECL|function|~AbstractTester
 DECL|function|~Integer
 DECL|function|~IntegerMoveable
 DECL|function|~SelfTestObject

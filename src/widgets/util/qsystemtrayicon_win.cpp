@@ -2,11 +2,14 @@ DECL|class|QSystemTrayIconSys
 DECL|function|QSystemTrayIconSys
 DECL|function|allowsMessages
 DECL|function|createIcon
+DECL|function|createTrayIconMessageWindow
 DECL|function|findIconGeometry
 DECL|function|geometry_sys
 DECL|function|iconFlag
 DECL|function|install_sys
 DECL|function|isSystemTrayAvailable_sys
+DECL|function|qStringToLimitedWCharArray
+DECL|function|qWindowsTrayconWndProc
 DECL|function|remove_sys
 DECL|function|setIconContents
 DECL|function|showMessage
@@ -24,7 +27,6 @@ DECL|macro|NIN_BALLOONTIMEOUT
 DECL|macro|NIN_BALLOONUSERCLICK
 DECL|macro|NIN_KEYSELECT
 DECL|macro|NIN_SELECT
-DECL|macro|NOTIFYICON_VERSION_4
 DECL|macro|Q_MSGFLT_ALLOW
 DECL|macro|_WIN32_IE
 DECL|macro|_WIN32_WINNT
@@ -34,12 +36,13 @@ DECL|member|guidItem
 DECL|member|hIcon
 DECL|member|hWnd
 DECL|member|ignoreNextMouseRelease
-DECL|member|maxTipLength
+DECL|member|m_hwnd
 DECL|member|notifyIconSize
 DECL|member|q
 DECL|member|uID
 DECL|member|version
 DECL|struct|Q_NOTIFYICONIDENTIFIER
+DECL|typedef|HandleTrayIconHash
 DECL|typedef|PtrChangeWindowMessageFilter
 DECL|typedef|PtrChangeWindowMessageFilterEx
 DECL|typedef|PtrShell_NotifyIconGetRect

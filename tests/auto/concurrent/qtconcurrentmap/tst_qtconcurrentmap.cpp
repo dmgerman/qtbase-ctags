@@ -33,7 +33,6 @@ DECL|function|functionOverloads
 DECL|function|ic_fn
 DECL|function|increment
 DECL|function|incrementalResults
-DECL|function|initTestCase
 DECL|function|intSquare
 DECL|function|intToDouble
 DECL|function|map

@@ -1,13 +1,16 @@
 DECL|class|QWindowsSystemProxy
 DECL|function|QWindowsSystemProxy
+DECL|function|filterProxyListByCapabilities
 DECL|function|init
 DECL|function|isBypassed
 DECL|function|parseServerList
+DECL|function|removeDuplicateProxies
 DECL|function|splitSpaceSemicolon
 DECL|function|systemProxyForQuery
 DECL|function|~QWindowsSystemProxy
 DECL|macro|ERROR_WINHTTP_AUTODETECTION_FAILED
 DECL|macro|ERROR_WINHTTP_LOGIN_FAILURE
+DECL|macro|ERROR_WINHTTP_UNABLE_TO_DOWNLOAD_SCRIPT
 DECL|macro|WINHTTP_ACCESS_TYPE_DEFAULT_PROXY
 DECL|macro|WINHTTP_ACCESS_TYPE_NAMED_PROXY
 DECL|macro|WINHTTP_ACCESS_TYPE_NO_PROXY

@@ -18,6 +18,9 @@ DECL|enumerator|V5
 DECL|enumerator|V6
 DECL|enumerator|Value
 DECL|enumerator|Value
+DECL|enum|A
+DECL|enum|isEnumTest_Enum0
+DECL|enum|isEnumTest_Enum1
 DECL|function|AutoMetaTypeObject
 DECL|function|Bar
 DECL|function|CustomComparable
@@ -81,6 +84,7 @@ DECL|function|flags
 DECL|function|flagsStaticLess
 DECL|function|flagsStaticLess_data
 DECL|function|flags_data
+DECL|function|isEnum
 DECL|function|isRegistered
 DECL|function|isRegisteredStaticLess
 DECL|function|isRegisteredStaticLess_data
@@ -136,7 +140,6 @@ DECL|macro|RETURN_CREATE_COPY_FUNCTION
 DECL|macro|RETURN_CREATE_FUNCTION
 DECL|macro|RETURN_CREATE_FUNCTION
 DECL|macro|TYPENAME_DATA
-DECL|macro|TYPENAME_DATA_ALIAS
 DECL|member|_
 DECL|member|_
 DECL|member|_
@@ -206,6 +209,8 @@ DECL|struct|TestValueFactory
 DECL|struct|TypeAlignment
 DECL|struct|UnregisteredType
 DECL|struct|Whity
+DECL|struct|isEnumTest_Struct0
+DECL|struct|isEnumTest_Struct1
 DECL|typedef|CustomString
 DECL|typedef|IntComparableHash
 DECL|typedef|IntComparableMap
