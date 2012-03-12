@@ -3,6 +3,7 @@ DECL|enumerator|EndOfString
 DECL|enumerator|IllegalNumber
 DECL|enumerator|IllegalValue
 DECL|enumerator|MissingNameSeparator
+DECL|enumerator|MissingObject
 DECL|enumerator|MissingValueSeparator
 DECL|enumerator|NoError
 DECL|enumerator|StringEscapeSequence
