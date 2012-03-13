@@ -125,6 +125,7 @@ DECL|function|selectedIndexes
 DECL|function|selection
 DECL|function|selectionSignal
 DECL|function|selection_data
+DECL|function|setCurrentIndex
 DECL|function|setHeaders
 DECL|function|setModel
 DECL|function|setSelection
@@ -140,6 +141,7 @@ DECL|function|spansAfterColumnRemoval
 DECL|function|spansAfterRowInsertion
 DECL|function|spansAfterRowRemoval
 DECL|function|spans_data
+DECL|function|submit
 DECL|function|tabFocus
 DECL|function|task173773_EventFilter
 DECL|function|task173773_updateVerticalHeader
@@ -178,6 +180,7 @@ DECL|member|hint
 DECL|member|paintEventCount_
 DECL|member|row_count
 DECL|member|rows
+DECL|member|submit_count
 DECL|member|value
 DECL|member|var
 DECL|struct|ValueSaver
