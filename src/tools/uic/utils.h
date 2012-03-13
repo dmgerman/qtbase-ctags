@@ -1,3 +1,6 @@
+DECL|enumerator|MultiLineString
+DECL|enumerator|Utf8String
+DECL|enum|StringFlags
 DECL|function|fixString
 DECL|function|toBool
 DECL|function|toString
