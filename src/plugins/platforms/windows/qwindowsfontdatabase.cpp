@@ -8,7 +8,6 @@ DECL|function|QWindowsFontEngineData
 DECL|function|addApplicationFont
 DECL|function|addFontToDatabase
 DECL|function|createEngine
-DECL|function|defaultFont
 DECL|function|fallbacksForFamily
 DECL|function|fontDir
 DECL|function|fontEngine
@@ -24,6 +23,7 @@ DECL|function|populateFontDatabase
 DECL|function|releaseHandle
 DECL|function|scriptRequiresOpenType
 DECL|function|storeFont
+DECL|function|systemDefaultFont
 DECL|function|systemFont
 DECL|function|verticalDPI
 DECL|function|weightFromInteger
