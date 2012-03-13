@@ -71,6 +71,8 @@ DECL|function|qt_addObject
 DECL|function|qt_find_obj_child
 DECL|function|qt_qFindChild_helper
 DECL|function|qt_qFindChildren_helper
+DECL|function|qt_qFindChildren_helper
+DECL|function|qt_qFindChildren_helper
 DECL|function|qt_removeObject
 DECL|function|queuedConnectionTypes
 DECL|function|queuedConnectionTypes
