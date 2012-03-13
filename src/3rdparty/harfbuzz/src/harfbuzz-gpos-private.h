@@ -157,6 +157,7 @@ DECL|member|ValueFormat
 DECL|member|ValueFormat1
 DECL|member|ValueFormat2
 DECL|member|ValueRecords
+DECL|member|ValueRecords
 DECL|member|XAdvance
 DECL|member|XCoordinate
 DECL|member|XCoordinate
