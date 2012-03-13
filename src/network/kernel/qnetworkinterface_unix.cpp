@@ -7,5 +7,6 @@ DECL|function|interfaceListing
 DECL|function|interfaceNames
 DECL|function|scan
 DECL|macro|IP_MULTICAST
+DECL|macro|QT_NO_GETIFADDRS
 DECL|macro|SIOCGIFBRDADDR
 DECL|variable|STORAGEBUFFER_GROWTH
