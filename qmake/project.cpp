@@ -26,6 +26,7 @@ DECL|enumerator|E_SPRINTF
 DECL|enumerator|E_SYSTEM
 DECL|enumerator|E_UNIQUE
 DECL|enumerator|E_UPPER
+DECL|enumerator|E_VAL_ESCAPE
 DECL|enumerator|T_BREAK
 DECL|enumerator|T_CACHE
 DECL|enumerator|T_CLEAR
