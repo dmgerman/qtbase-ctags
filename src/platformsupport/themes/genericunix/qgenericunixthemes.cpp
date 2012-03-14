@@ -12,4 +12,8 @@ DECL|function|refresh
 DECL|function|themeHint
 DECL|function|themeHint
 DECL|function|themeHint
+DECL|function|themeNames
 DECL|function|xdgIconThemePaths
+DECL|member|name
+DECL|member|name
+DECL|member|name
