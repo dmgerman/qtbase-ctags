@@ -2,6 +2,7 @@ DECL|function|QWindowsAccessibility
 DECL|function|getCachedObject
 DECL|function|handleAccessibleObjectFromWindowRequest
 DECL|function|notifyAccessibilityUpdate
+DECL|function|windowHelper
 DECL|function|wrap
 DECL|macro|UiaRootObjectId
 DECL|typedef|NotifyMap

@@ -38,7 +38,6 @@ DECL|function|get_accValue
 DECL|function|put_accName
 DECL|function|put_accValue
 DECL|function|relatedInterface
-DECL|function|window_helper
 DECL|function|~QWindowsEnumerate
 DECL|macro|UiaRootObjectId
 DECL|member|array
