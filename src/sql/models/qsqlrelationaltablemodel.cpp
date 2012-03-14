@@ -1,5 +1,6 @@
 DECL|class|QRelatedTableModel
 DECL|class|QSqlRelationalTableModelPrivate
+DECL|class|QSqlRelationalTableModelSql
 DECL|function|QRelatedTableModel
 DECL|function|QRelation
 DECL|function|QSqlRelationalTableModel
@@ -19,7 +20,7 @@ DECL|function|nameToIndex
 DECL|function|orderByClause
 DECL|function|populateDictionary
 DECL|function|populateModel
-DECL|function|qAppendWhereClause
+DECL|function|relTablePrefix
 DECL|function|relation
 DECL|function|relationModel
 DECL|function|removeColumns
@@ -46,3 +47,4 @@ DECL|member|rel
 DECL|member|relation
 DECL|member|relations
 DECL|struct|QRelation
+DECL|typedef|Sql
