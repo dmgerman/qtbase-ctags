@@ -34,15 +34,12 @@ DECL|function|indexOfEnumerator
 DECL|function|indexOfMethod
 DECL|function|indexOfMethod
 DECL|function|indexOfMethodRelative
-DECL|function|indexOfMethodRelative
 DECL|function|indexOfProperty
 DECL|function|indexOfSignal
 DECL|function|indexOfSignal
 DECL|function|indexOfSignalRelative
-DECL|function|indexOfSignalRelative
 DECL|function|indexOfSlot
 DECL|function|indexOfSlot
-DECL|function|indexOfSlotRelative
 DECL|function|indexOfSlotRelative
 DECL|function|invoke
 DECL|function|invokeMethod
@@ -63,7 +60,6 @@ DECL|function|key
 DECL|function|keyCount
 DECL|function|keyToValue
 DECL|function|keysToValue
-DECL|function|legacyString
 DECL|function|metacall
 DECL|function|method
 DECL|function|methodCount
