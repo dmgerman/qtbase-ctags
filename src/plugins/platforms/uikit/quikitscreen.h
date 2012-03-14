@@ -1,1 +1,0 @@
-DECL|macro|QUIKITSCREEN_H
