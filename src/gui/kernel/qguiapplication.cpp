@@ -51,12 +51,10 @@ DECL|function|processExposeEvent
 DECL|function|processGeometryChangeEvent
 DECL|function|processKeyEvent
 DECL|function|processLeaveEvent
-DECL|function|processMapEvent
 DECL|function|processMouseEvent
 DECL|function|processNativeEvent
 DECL|function|processThemeChanged
 DECL|function|processTouchEvent
-DECL|function|processUnmapEvent
 DECL|function|processWheelEvent
 DECL|function|processWindowStateChangedEvent
 DECL|function|processWindowSystemEvent

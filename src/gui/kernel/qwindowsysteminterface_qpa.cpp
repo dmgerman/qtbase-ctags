@@ -1,16 +1,17 @@
+DECL|function|ExposeEvent
 DECL|function|convertTouchPoints
 DECL|function|getWindowSystemEvent
 DECL|function|handleCloseEvent
 DECL|function|handleDrag
 DECL|function|handleDrop
 DECL|function|handleEnterEvent
+DECL|function|handleExposeEvent
 DECL|function|handleExtendedKeyEvent
 DECL|function|handleExtendedKeyEvent
 DECL|function|handleGeometryChange
 DECL|function|handleKeyEvent
 DECL|function|handleKeyEvent
 DECL|function|handleLeaveEvent
-DECL|function|handleMapEvent
 DECL|function|handleMouseEvent
 DECL|function|handleMouseEvent
 DECL|function|handleNativeEvent
@@ -26,7 +27,6 @@ DECL|function|handleTouchCancelEvent
 DECL|function|handleTouchCancelEvent
 DECL|function|handleTouchEvent
 DECL|function|handleTouchEvent
-DECL|function|handleUnmapEvent
 DECL|function|handleWheelEvent
 DECL|function|handleWheelEvent
 DECL|function|handleWheelEvent
