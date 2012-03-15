@@ -79,6 +79,10 @@ DECL|function|create
 DECL|function|create
 DECL|function|create
 DECL|function|create
+DECL|function|create
+DECL|function|create
+DECL|function|create
+DECL|function|create
 DECL|function|createCopy
 DECL|function|createCopy_data
 DECL|function|create_data
@@ -184,6 +188,10 @@ DECL|struct|MetaEnumToType
 DECL|struct|RoundToNextHighestPowerOfTwo
 DECL|struct|SecondBase
 DECL|struct|StreamingTraits
+DECL|struct|TestValueFactory
+DECL|struct|TestValueFactory
+DECL|struct|TestValueFactory
+DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
