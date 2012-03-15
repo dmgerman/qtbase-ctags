@@ -1,3 +1,0 @@
-DECL|macro|QGRAPHICSSYSTEM_TESTLITE_H
-DECL|variable|QXlibNativeInterface
-DECL|variable|QXlibScreen

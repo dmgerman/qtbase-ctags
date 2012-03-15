@@ -1,5 +1,0 @@
-DECL|macro|QWINDOWSURFACE_TESTLITE_H
-DECL|variable|QXlibIntegration
-DECL|variable|QXlibScreen
-DECL|variable|QXlibShmImageInfo
-DECL|variable|QXlibWindow
