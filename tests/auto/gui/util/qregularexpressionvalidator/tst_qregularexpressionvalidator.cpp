@@ -1,0 +1,3 @@
+DECL|class|tst_QRegularExpressionValidator
+DECL|function|validate
+DECL|function|validate_data

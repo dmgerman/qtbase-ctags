@@ -1,9 +1,13 @@
 DECL|variable|edit
 DECL|variable|edit
+DECL|variable|edit
+DECL|variable|pos
 DECL|variable|pos
 DECL|variable|pos
 DECL|variable|pos
 DECL|variable|s
+DECL|variable|s
 DECL|variable|str
+DECL|variable|validator
 DECL|variable|validator
 DECL|variable|validator
