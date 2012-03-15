@@ -18,6 +18,7 @@ DECL|enumerator|V5
 DECL|enumerator|V6
 DECL|enumerator|Value
 DECL|enumerator|Value
+DECL|enumerator|isStreamable
 DECL|enum|A
 DECL|enum|FlagsDataEnum
 DECL|enum|isEnumTest_Enum0
@@ -93,13 +94,18 @@ DECL|function|isRegisteredStaticLess_data
 DECL|function|isRegistered_data
 DECL|function|namespaces
 DECL|function|normalizedTypes
+DECL|function|operator <<
 DECL|function|operator ==
+DECL|function|operator >>
 DECL|function|prop
 DECL|function|properties
 DECL|function|qMetaTypeId
 DECL|function|registerStreamBuiltin
 DECL|function|registerType
 DECL|function|run
+DECL|function|saveAndLoadBuiltin
+DECL|function|saveAndLoadBuiltin_data
+DECL|function|saveAndLoadCustom
 DECL|function|setProp
 DECL|function|sizeOf
 DECL|function|sizeOfStaticLess
@@ -126,6 +132,14 @@ DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
+DECL|macro|ADD_METATYPE_TEST_ROW
+DECL|macro|ADD_METATYPE_TEST_ROW
+DECL|macro|DECLARE_GUI_CLASS_NONSTREAMABLE
+DECL|macro|DECLARE_GUI_CLASS_NONSTREAMABLE
+DECL|macro|DECLARE_NONSTREAMABLE
+DECL|macro|DECLARE_NONSTREAMABLE
+DECL|macro|DECLARE_WIDGETS_CLASS_NONSTREAMABLE
+DECL|macro|DECLARE_WIDGETS_CLASS_NONSTREAMABLE
 DECL|macro|DEFINE_META_ENUM_TO_TYPE
 DECL|macro|DEFINE_META_ENUM_TO_TYPE
 DECL|macro|DEFINE_NON_INITIALIZED_DEFAULT_VALUE_TRAITS
@@ -145,6 +159,7 @@ DECL|macro|TYPENAME_DATA
 DECL|member|_
 DECL|member|_
 DECL|member|_
+DECL|member|a
 DECL|member|d
 DECL|member|failureCount
 DECL|member|failureCount
@@ -159,6 +174,7 @@ DECL|namespace|TestSpace
 DECL|struct|Bar
 DECL|struct|CustomComparable
 DECL|struct|CustomMovable
+DECL|struct|CustomStreamableType
 DECL|struct|DefaultValueFactory
 DECL|struct|DefaultValueFactory
 DECL|struct|DefaultValueTraits
@@ -167,6 +183,7 @@ DECL|struct|Foo
 DECL|struct|MetaEnumToType
 DECL|struct|RoundToNextHighestPowerOfTwo
 DECL|struct|SecondBase
+DECL|struct|StreamingTraits
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
