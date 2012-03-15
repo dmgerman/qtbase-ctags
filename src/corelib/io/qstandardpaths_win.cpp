@@ -1,5 +1,4 @@
 DECL|function|convertCharArray
-DECL|function|displayName
 DECL|function|resolveGetSpecialFolderPath
 DECL|function|standardLocations
 DECL|function|writableLocation

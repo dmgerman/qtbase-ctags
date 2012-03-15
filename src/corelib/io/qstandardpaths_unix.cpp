@@ -1,5 +1,4 @@
 DECL|function|appendOrganizationAndApp
-DECL|function|displayName
 DECL|function|standardLocations
 DECL|function|writableLocation
 DECL|function|xdgDataDirs
