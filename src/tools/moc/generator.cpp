@@ -11,6 +11,7 @@ DECL|function|generatePluginMetaData
 DECL|function|generateProperties
 DECL|function|generateSignal
 DECL|function|generateStaticMetacall
+DECL|function|generateTypeInfo
 DECL|function|isBuiltinType
 DECL|function|lengthOfEscapeSequence
 DECL|function|metaTypeEnumValueString
