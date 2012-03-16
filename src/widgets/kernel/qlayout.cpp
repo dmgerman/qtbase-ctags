@@ -13,6 +13,7 @@ DECL|function|closestAcceptableSize
 DECL|function|contentsMargins
 DECL|function|contentsRect
 DECL|function|controlType
+DECL|function|controlTypes
 DECL|function|createSpacerItem
 DECL|function|createWidgetItem
 DECL|function|doResize
