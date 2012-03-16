@@ -4,13 +4,14 @@ DECL|function|createImagePaintEngine
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformPixmap
 DECL|function|createPlatformSharedGraphicsCache
+DECL|function|createPlatformTheme
 DECL|function|drag
 DECL|function|fontDatabase
 DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|nativeInterface
-DECL|function|platformTheme
 DECL|function|queryKeyboardModifiers
 DECL|function|screenAdded
 DECL|function|services
 DECL|function|styleHint
+DECL|function|themeNames

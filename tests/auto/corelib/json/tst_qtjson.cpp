@@ -38,6 +38,7 @@ DECL|function|testObjectNestedEmpty
 DECL|function|testObjectSimple
 DECL|function|testObjectSmallKeys
 DECL|function|testParser
+DECL|function|testTrailingComma
 DECL|function|testValueArray
 DECL|function|testValueObject
 DECL|function|testValueRef

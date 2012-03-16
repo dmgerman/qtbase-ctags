@@ -19,6 +19,7 @@ DECL|function|insertRecord
 DECL|function|insertRowIntoTable
 DECL|function|insertRows
 DECL|function|isDirty
+DECL|function|isDirty
 DECL|function|nameToIndex
 DECL|function|orderByClause
 DECL|function|primaryKey

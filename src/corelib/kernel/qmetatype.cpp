@@ -2,11 +2,14 @@ DECL|class|Flags
 DECL|class|QCustomTypeInfo
 DECL|class|SizeOf
 DECL|class|TypeConstructor
+DECL|class|TypeCreator
 DECL|class|TypeDestroyer
 DECL|class|TypeDestructor
 DECL|class|TypeInfo
 DECL|function|Construct
 DECL|function|Construct
+DECL|function|Create
+DECL|function|Create
 DECL|function|Destroy
 DECL|function|Destroy
 DECL|function|Destruct
@@ -21,6 +24,7 @@ DECL|function|Size
 DECL|function|Size
 DECL|function|SizeOf
 DECL|function|TypeConstructor
+DECL|function|TypeCreator
 DECL|function|TypeDestroyer
 DECL|function|TypeDestructor
 DECL|function|TypeInfo
@@ -37,6 +41,10 @@ DECL|function|customTypeDestructor
 DECL|function|customTypeFlags
 DECL|function|customTypeInfo
 DECL|function|customTypeSizeOf
+DECL|function|delegate
+DECL|function|delegate
+DECL|function|delegate
+DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
@@ -119,6 +127,7 @@ DECL|member|m_type
 DECL|member|m_type
 DECL|member|m_type
 DECL|member|m_type
+DECL|member|m_type
 DECL|member|m_where
 DECL|member|type
 DECL|member|typeName
@@ -127,6 +136,8 @@ DECL|member|typeNameLength
 DECL|struct|Acceptor
 DECL|struct|ConstructorImpl
 DECL|struct|ConstructorImpl
+DECL|struct|CreatorImpl
+DECL|struct|CreatorImpl
 DECL|struct|DefinedTypesFilter
 DECL|struct|DestroyerImpl
 DECL|struct|DestroyerImpl

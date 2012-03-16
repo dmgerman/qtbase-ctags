@@ -6,6 +6,7 @@ DECL|function|clipboard
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformSharedGraphicsCache
+DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|doneCurrent
 DECL|function|drag
@@ -17,9 +18,9 @@ DECL|function|inputContext
 DECL|function|makeCurrent
 DECL|function|moveToScreen
 DECL|function|nativeInterface
-DECL|function|platformTheme
 DECL|function|services
 DECL|function|sharedGraphicsCacheDisabled
 DECL|function|swapBuffers
+DECL|function|themeNames
 DECL|function|~QXcbIntegration
 DECL|member|m_connection

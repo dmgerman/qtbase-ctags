@@ -6,7 +6,6 @@ DECL|function|createPlatformDialogHelper
 DECL|function|dWordSystemParametersInfo
 DECL|function|getSysColor
 DECL|function|iconThemeSearchPaths
-DECL|function|instance
 DECL|function|menuBarPalette
 DECL|function|menuPalette
 DECL|function|mixColors
@@ -21,3 +20,5 @@ DECL|function|toolTipPalette
 DECL|function|usePlatformNativeDialog
 DECL|function|windowsThemeChanged
 DECL|function|~QWindowsTheme
+DECL|member|m_instance
+DECL|member|name

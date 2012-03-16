@@ -19,6 +19,7 @@ DECL|enumerator|V6
 DECL|enumerator|Value
 DECL|enumerator|Value
 DECL|enum|A
+DECL|enum|FlagsDataEnum
 DECL|enum|isEnumTest_Enum0
 DECL|enum|isEnumTest_Enum1
 DECL|function|AutoMetaTypeObject
@@ -238,6 +239,7 @@ DECL|typedef|UndefinedFunction0
 DECL|typedef|UndefinedFunction1
 DECL|typedef|UndefinedFunction2
 DECL|typedef|UndefinedFunction3
+DECL|variable|FlagsDataEnum
 DECL|variable|UndefinedFunction0
 DECL|variable|UndefinedFunction1
 DECL|variable|UndefinedFunction2

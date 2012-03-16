@@ -9,6 +9,7 @@ DECL|function|boundingBox
 DECL|function|canRender
 DECL|function|createMultiFontEngine
 DECL|function|descent
+DECL|function|ensureFallbackFamiliesQueried
 DECL|function|extractHeaderField
 DECL|function|findGlyph
 DECL|function|generate
@@ -24,6 +25,7 @@ DECL|function|minLeftBearing
 DECL|function|minRightBearing
 DECL|function|readValue
 DECL|function|recalcAdvances
+DECL|function|setFallbackFamiliesList
 DECL|function|stringToCMap
 DECL|function|type
 DECL|function|underlinePosition

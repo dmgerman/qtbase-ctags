@@ -39,6 +39,7 @@ DECL|function|notifyThemeChanged
 DECL|function|operator ==
 DECL|function|overrideCursor
 DECL|function|palette
+DECL|function|platformName
 DECL|function|platformNativeInterface
 DECL|function|primaryScreen
 DECL|function|processActivatedEvent
@@ -100,6 +101,7 @@ DECL|member|mouse_buttons
 DECL|member|mouse_double_click_distance
 DECL|member|obey_desktop_settings
 DECL|member|platform_integration
+DECL|member|platform_name
 DECL|member|platform_theme
 DECL|member|qt_clipboard
 DECL|member|screen_list

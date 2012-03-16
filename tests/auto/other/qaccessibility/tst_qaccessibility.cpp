@@ -26,7 +26,6 @@ DECL|function|dialTest
 DECL|function|dialogButtonBoxTest
 DECL|function|dockWidgetTest
 DECL|function|doubleSpinBoxTest
-DECL|function|eventName
 DECL|function|eventTest
 DECL|function|hideShowTest
 DECL|function|ifaceFactory

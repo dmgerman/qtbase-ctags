@@ -7,6 +7,7 @@ DECL|function|createMessageWindow
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformPixmap
+DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|drag
 DECL|function|fontDatabase
@@ -19,11 +20,11 @@ DECL|function|nativeInterface
 DECL|function|nativeResourceForBackingStore
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
-DECL|function|platformTheme
 DECL|function|queryKeyboardModifiers
 DECL|function|services
 DECL|function|setEventFilter
 DECL|function|styleHint
+DECL|function|themeNames
 DECL|function|~QWindowsIntegration
 DECL|function|~QWindowsIntegrationPrivate
 DECL|member|m_accessibility
@@ -36,6 +37,5 @@ DECL|member|m_inputContext
 DECL|member|m_nativeInterface
 DECL|member|m_services
 DECL|member|m_staticOpenGLContext
-DECL|member|m_theme
 DECL|struct|QWindowsIntegrationPrivate
 DECL|typedef|QOpenGLStaticContextPtr
