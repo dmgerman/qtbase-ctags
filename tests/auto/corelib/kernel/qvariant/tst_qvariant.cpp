@@ -11,6 +11,7 @@ DECL|function|CustomQObjectDerivedNoMetaType
 DECL|function|CustomQWidget
 DECL|function|Foo
 DECL|function|MessageHandler
+DECL|function|MessageHandlerType
 DECL|function|MyClass
 DECL|function|MyData
 DECL|function|MyData
@@ -45,9 +46,12 @@ DECL|function|data
 DECL|function|dataStar
 DECL|function|dataStream_data
 DECL|function|debugStream
+DECL|function|debugStreamType
+DECL|function|debugStreamType_data
 DECL|function|debugStream_data
 DECL|function|forwardDeclare
 DECL|function|globalColor
+DECL|function|handler
 DECL|function|handler
 DECL|function|invalidDate
 DECL|function|invalidDateTime
@@ -223,6 +227,7 @@ DECL|struct|Blah
 DECL|struct|CustomStreamableClass
 DECL|struct|Data
 DECL|struct|Foo
+DECL|struct|MessageHandlerType
 DECL|struct|MyClass
 DECL|struct|MyData
 DECL|struct|MyMovable
