@@ -16,7 +16,6 @@ DECL|function|delegate
 DECL|function|delegate
 DECL|function|isNull
 DECL|function|qRegisterGuiVariant
-DECL|function|qUnregisterGuiVariant
 DECL|function|streamDebug
 DECL|macro|QT_IMPL_METATYPEINTERFACE_GUI_TYPES
 DECL|macro|QT_IMPL_METATYPEINTERFACE_GUI_TYPES

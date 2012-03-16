@@ -51,6 +51,7 @@ DECL|function|debugStreamType_data
 DECL|function|debugStream_data
 DECL|function|forwardDeclare
 DECL|function|globalColor
+DECL|function|guiVariantAtExit
 DECL|function|handler
 DECL|function|handler
 DECL|function|invalidDate
@@ -173,6 +174,7 @@ DECL|function|vector2D
 DECL|function|vector3D
 DECL|function|vector4D
 DECL|function|voidStar
+DECL|function|widgetsVariantAtExit
 DECL|function|writeToReadFromDataStream
 DECL|function|writeToReadFromDataStream_data
 DECL|function|writeToReadFromOldDataStream

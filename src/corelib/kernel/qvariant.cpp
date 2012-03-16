@@ -124,8 +124,6 @@ DECL|function|toUrl
 DECL|function|type
 DECL|function|typeName
 DECL|function|typeToName
-DECL|function|unregisterHandler
-DECL|function|unregisterHandler
 DECL|function|userType
 DECL|function|~QVariant
 DECL|macro|DBL_DIG
