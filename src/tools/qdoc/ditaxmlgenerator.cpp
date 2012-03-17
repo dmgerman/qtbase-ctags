@@ -41,7 +41,6 @@ DECL|function|generateLegaleseList
 DECL|function|generateLink
 DECL|function|generateLowStatusMembers
 DECL|function|generateOverviewList
-DECL|function|generateQmlInheritedBy
 DECL|function|generateQmlInherits
 DECL|function|generateQmlInstantiates
 DECL|function|generateQmlItem
