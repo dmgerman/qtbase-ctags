@@ -33,7 +33,6 @@ DECL|function|generateFakeNode
 DECL|function|generateFullName
 DECL|function|generateFunctionIndex
 DECL|function|generateHeader
-DECL|function|generateIncludes
 DECL|function|generateIndex
 DECL|function|generateInnerNode
 DECL|function|generateInstantiatedBy
