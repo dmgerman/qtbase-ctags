@@ -10,6 +10,7 @@ DECL|function|inputContext
 DECL|function|moveToScreen
 DECL|function|removeWindow
 DECL|function|screens
+DECL|function|services
 DECL|function|styleHint
 DECL|function|window
 DECL|function|~QQnxIntegration
