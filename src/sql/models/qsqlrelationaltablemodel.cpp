@@ -10,6 +10,7 @@ DECL|function|clearCache
 DECL|function|clearChanges
 DECL|function|clearDictionary
 DECL|function|data
+DECL|function|fullyQualifiedFieldName
 DECL|function|init
 DECL|function|insertRowIntoTable
 DECL|function|isDictionaryInitialized
@@ -20,7 +21,6 @@ DECL|function|populateDictionary
 DECL|function|populateModel
 DECL|function|qAppendWhereClause
 DECL|function|relation
-DECL|function|relationField
 DECL|function|relationModel
 DECL|function|removeColumns
 DECL|function|revertCachedRow
