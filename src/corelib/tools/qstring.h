@@ -5,6 +5,8 @@ DECL|function|Q_DECLARE_SHARED
 DECL|function|at
 DECL|function|begin
 DECL|function|begin
+DECL|function|cbegin
+DECL|function|cend
 DECL|function|constBegin
 DECL|function|constData
 DECL|function|constEnd

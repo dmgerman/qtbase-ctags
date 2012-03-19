@@ -4,6 +4,8 @@ DECL|function|at
 DECL|function|begin
 DECL|function|begin
 DECL|function|capacity
+DECL|function|cbegin
+DECL|function|cend
 DECL|function|constBegin
 DECL|function|constData
 DECL|function|constEnd

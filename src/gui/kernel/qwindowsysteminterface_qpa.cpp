@@ -36,6 +36,10 @@ DECL|function|handleWindowStateChanged
 DECL|function|queueWindowSystemEvent
 DECL|function|registerTouchDevice
 DECL|function|sendWindowSystemEvents
+DECL|function|tryHandleSynchronousExtendedShortcutEvent
+DECL|function|tryHandleSynchronousExtendedShortcutEvent
+DECL|function|tryHandleSynchronousShortcutEvent
+DECL|function|tryHandleSynchronousShortcutEvent
 DECL|function|windowSystemEventsQueued
 DECL|function|windowSystemEventsQueued
 DECL|member|eventTime

@@ -1,7 +1,6 @@
 DECL|function|QMimeType
 DECL|function|QMimeType
 DECL|function|QMimeType
-DECL|function|QMimeType
 DECL|function|QMimeTypePrivate
 DECL|function|QMimeTypePrivate
 DECL|function|addGlobPattern
