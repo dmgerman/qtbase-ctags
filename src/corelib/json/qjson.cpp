@@ -7,7 +7,6 @@ DECL|function|isValid
 DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator >=
-DECL|function|operator >=
 DECL|function|removeItems
 DECL|function|requiredStorage
 DECL|function|reserveSpace
