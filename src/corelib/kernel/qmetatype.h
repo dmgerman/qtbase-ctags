@@ -57,7 +57,6 @@ DECL|variable|QDataStream
 DECL|variable|QHash
 DECL|variable|QLinkedList
 DECL|variable|QMap
-DECL|variable|QMetaObject
 DECL|variable|QMetaTypeInterface
 DECL|variable|QObject
 DECL|variable|QQueue
