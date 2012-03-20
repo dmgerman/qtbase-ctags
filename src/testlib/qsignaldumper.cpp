@@ -2,7 +2,6 @@ DECL|enumerator|IndentSpacesCount
 DECL|function|clearIgnoredClasses
 DECL|function|endDump
 DECL|function|ignoreClass
-DECL|function|memberName
 DECL|function|qPrintMessage
 DECL|function|qSignalDumperCallback
 DECL|function|qSignalDumperCallbackEndSignal
