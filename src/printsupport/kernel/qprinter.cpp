@@ -15,7 +15,6 @@ DECL|function|duplex
 DECL|function|fontEmbeddingEnabled
 DECL|function|fromPage
 DECL|function|fullPage
-DECL|function|getDC
 DECL|function|getPageMargins
 DECL|function|init
 DECL|function|isValid
@@ -46,7 +45,6 @@ DECL|function|qSizeFTopaperSize
 DECL|function|qt_multiplierForUnit
 DECL|function|qt_paperSizeToQSizeF
 DECL|function|qt_printerPaperSize
-DECL|function|releaseDC
 DECL|function|resolution
 DECL|function|setCollateCopies
 DECL|function|setColorMode

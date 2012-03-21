@@ -33,6 +33,7 @@ DECL|function|newPage
 DECL|function|printerState
 DECL|function|property
 DECL|function|queryDefault
+DECL|function|queryDefaultPrinter
 DECL|function|queryResolutions
 DECL|function|readDevmode
 DECL|function|readDevnames
