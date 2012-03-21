@@ -50,8 +50,6 @@ DECL|function|indexToListViewItem
 DECL|function|initBspTree
 DECL|function|initDynamicLayout
 DECL|function|initStaticLayout
-DECL|function|internalDrag
-DECL|function|internalDrop
 DECL|function|intersectingSet
 DECL|function|intersectingSet
 DECL|function|isIndexHidden
