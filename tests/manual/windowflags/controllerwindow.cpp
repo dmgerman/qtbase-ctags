@@ -2,5 +2,6 @@ DECL|function|ControllerWindow
 DECL|function|createCheckBox
 DECL|function|createHintsGroupBox
 DECL|function|createRadioButton
+DECL|function|createStateGroupBox
 DECL|function|createTypeGroupBox
 DECL|function|updatePreview
