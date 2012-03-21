@@ -17,6 +17,7 @@ DECL|function|TestItemModel
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|columnCount
+DECL|function|comboBox
 DECL|function|data
 DECL|function|dateTimeEditor
 DECL|function|dateTimeEditor_data
