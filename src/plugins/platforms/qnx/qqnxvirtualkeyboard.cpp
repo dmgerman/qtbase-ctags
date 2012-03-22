@@ -18,9 +18,9 @@ DECL|function|instance
 DECL|function|notifyClientActiveStateChange
 DECL|function|ppsDataReady
 DECL|function|queryPPSInfo
-DECL|function|run
 DECL|function|setKeyboardMode
 DECL|function|showKeyboard
+DECL|function|start
 DECL|function|updateAvailableScreenGeometry
 DECL|function|~QQnxVirtualKeyboard
 DECL|macro|KEYBOARD_SHADOW_HEIGHT
