@@ -5,12 +5,14 @@ DECL|function|copyFont
 DECL|function|defaultFamily
 DECL|function|defaultFamily_data
 DECL|function|exactMatch
+DECL|function|getPlatformGenericFont
 DECL|function|getSetCheck
 DECL|function|init
 DECL|function|insertAndRemoveSubstitutions
 DECL|function|isCopyOf
 DECL|function|italicOblique
 DECL|function|lastResortFont
+DECL|function|msgNotAcceptableFont
 DECL|function|resetFont
 DECL|function|resolve
 DECL|function|serializeSpacing
