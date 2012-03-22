@@ -1,0 +1,10 @@
+DECL|function|DownloadItem
+DECL|function|TransferItem
+DECL|function|UploadItem
+DECL|function|finished
+DECL|function|finished
+DECL|function|progress
+DECL|function|readyRead
+DECL|function|start
+DECL|function|~DownloadItem
+DECL|function|~UploadItem
