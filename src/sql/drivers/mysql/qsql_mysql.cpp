@@ -28,7 +28,7 @@ DECL|function|handle
 DECL|function|handle
 DECL|function|hasFeature
 DECL|function|init
-DECL|function|isIdentifierEscapedImplementation
+DECL|function|isIdentifierEscaped
 DECL|function|isNull
 DECL|function|lastInsertId
 DECL|function|nextResult

@@ -57,10 +57,10 @@ DECL|function|rollbackTransaction
 DECL|function|setDatestyle
 DECL|function|setEncodingUtf8
 DECL|function|size
-DECL|function|subscribeToNotificationImplementation
-DECL|function|subscribedToNotificationsImplementation
+DECL|function|subscribeToNotification
+DECL|function|subscribedToNotifications
 DECL|function|tables
-DECL|function|unsubscribeFromNotificationImplementation
+DECL|function|unsubscribeFromNotification
 DECL|function|virtual_hook
 DECL|function|~QPSQLDriver
 DECL|function|~QPSQLResult
