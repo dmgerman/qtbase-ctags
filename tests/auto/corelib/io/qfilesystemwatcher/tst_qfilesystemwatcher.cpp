@@ -1,5 +1,7 @@
 DECL|class|SomeSingleton
 DECL|class|tst_QFileSystemWatcher
+DECL|function|QTBUG2331
+DECL|function|QTBUG2331_data
 DECL|function|SomeSingleton
 DECL|function|addPath
 DECL|function|addPaths

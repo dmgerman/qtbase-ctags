@@ -6,5 +6,5 @@ DECL|variable|QHash
 DECL|variable|QQnxClipboard
 DECL|variable|QQnxEventThread
 DECL|variable|QQnxInputContext
-DECL|variable|QQnxNavigatorThread
+DECL|variable|QQnxNavigatorEventHandler
 DECL|variable|QQnxWindow

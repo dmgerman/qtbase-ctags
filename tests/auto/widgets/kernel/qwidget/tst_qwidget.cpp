@@ -9,6 +9,7 @@ DECL|class|CustomWidget
 DECL|class|DestroyedSlotChecker
 DECL|class|EventRecorder
 DECL|class|EventSpy
+DECL|class|FocusWidget
 DECL|class|GDIWidget
 DECL|class|MaskResizeTestWidget
 DECL|class|MaskSetWidget
@@ -41,6 +42,7 @@ DECL|function|CustomWidget
 DECL|function|DestroyedSlotChecker
 DECL|function|EventRecorder
 DECL|function|EventSpy
+DECL|function|FocusWidget
 DECL|function|GDIWidget
 DECL|function|MaskResizeTestWidget
 DECL|function|MaskSetWidget
@@ -101,12 +103,14 @@ DECL|function|ensureCreated
 DECL|function|ensureScreenSize
 DECL|function|event
 DECL|function|event
+DECL|function|event
 DECL|function|eventFilter
 DECL|function|eventFilter
 DECL|function|eventFilter
 DECL|function|eventList
 DECL|function|focusChainOnHide
 DECL|function|focusChainOnReparent
+DECL|function|focusOutEvent
 DECL|function|focusOutEvent
 DECL|function|focusProxyAndInputMethods
 DECL|function|focusWidget_task254563
@@ -351,4 +355,6 @@ DECL|member|testWidget
 DECL|member|updateOnActivationChangeAndFocusIn
 DECL|member|wasQWidget
 DECL|member|widget
+DECL|member|widgetDuringFocusAboutToChange
+DECL|member|widgetDuringFocusOut
 DECL|typedef|EventList

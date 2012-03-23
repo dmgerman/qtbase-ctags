@@ -1,5 +1,6 @@
 DECL|class|QRelatedTableModel
 DECL|class|QSqlRelationalTableModelPrivate
+DECL|class|QSqlRelationalTableModelSql
 DECL|function|QRelatedTableModel
 DECL|function|QRelation
 DECL|function|QSqlRelationalTableModel
@@ -10,6 +11,7 @@ DECL|function|clearCache
 DECL|function|clearChanges
 DECL|function|clearDictionary
 DECL|function|data
+DECL|function|fullyQualifiedFieldName
 DECL|function|init
 DECL|function|insertRowIntoTable
 DECL|function|isDictionaryInitialized
@@ -18,9 +20,8 @@ DECL|function|nameToIndex
 DECL|function|orderByClause
 DECL|function|populateDictionary
 DECL|function|populateModel
-DECL|function|qAppendWhereClause
+DECL|function|relTablePrefix
 DECL|function|relation
-DECL|function|relationField
 DECL|function|relationModel
 DECL|function|removeColumns
 DECL|function|revertCachedRow
@@ -46,3 +47,4 @@ DECL|member|rel
 DECL|member|relation
 DECL|member|relations
 DECL|struct|QRelation
+DECL|typedef|Sql

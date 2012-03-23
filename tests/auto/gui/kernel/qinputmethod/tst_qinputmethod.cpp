@@ -13,6 +13,7 @@ DECL|function|inputDirection
 DECL|function|inputItem
 DECL|function|inputItemTransform
 DECL|function|invokeAction
+DECL|function|isVisible
 DECL|function|keyboarRectangle
 DECL|function|query
 DECL|function|reset
@@ -20,7 +21,6 @@ DECL|function|setEnabled
 DECL|function|setFocusObject
 DECL|function|tst_qinputmethod
 DECL|function|update
-DECL|function|visible
 DECL|function|~tst_qinputmethod
 DECL|member|cursorRectangle
 DECL|member|m_enabled

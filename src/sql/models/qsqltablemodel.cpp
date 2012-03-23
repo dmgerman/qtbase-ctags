@@ -50,3 +50,4 @@ DECL|function|submitAll
 DECL|function|tableName
 DECL|function|updateRowInTable
 DECL|function|~QSqlTableModel
+DECL|typedef|Sql

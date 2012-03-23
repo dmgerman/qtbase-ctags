@@ -33,7 +33,6 @@ DECL|function|generateFakeNode
 DECL|function|generateFullName
 DECL|function|generateFunctionIndex
 DECL|function|generateHeader
-DECL|function|generateIncludes
 DECL|function|generateIndex
 DECL|function|generateInnerNode
 DECL|function|generateInstantiatedBy
@@ -41,7 +40,6 @@ DECL|function|generateLegaleseList
 DECL|function|generateLink
 DECL|function|generateLowStatusMembers
 DECL|function|generateOverviewList
-DECL|function|generateQmlInheritedBy
 DECL|function|generateQmlInherits
 DECL|function|generateQmlInstantiates
 DECL|function|generateQmlItem

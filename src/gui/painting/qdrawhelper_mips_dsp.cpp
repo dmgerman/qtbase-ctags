@@ -1,0 +1,5 @@
+DECL|function|comp_func_Source_mips_dsp
+DECL|function|qt_blend_argb32_on_argb32_mips_dsp
+DECL|function|qt_blend_rgb32_on_rgb32_mips_dsp
+DECL|function|qt_destFetchARGB32_mips_dsp
+DECL|function|qt_destStoreARGB32_mips_dsp
