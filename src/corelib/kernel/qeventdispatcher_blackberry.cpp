@@ -1,0 +1,16 @@
+DECL|function|QEventDispatcherBlackberry
+DECL|function|QEventDispatcherBlackberry
+DECL|function|QEventDispatcherBlackberryPrivate
+DECL|function|bpsIOHandler
+DECL|function|bpsIOHandlerData
+DECL|function|registerSocketNotifier
+DECL|function|select
+DECL|function|unregisterSocketNotifier
+DECL|function|~QEventDispatcherBlackberry
+DECL|function|~QEventDispatcherBlackberryPrivate
+DECL|member|count
+DECL|member|exceptfds
+DECL|member|readfds
+DECL|member|writefds
+DECL|struct|bpsIOHandlerData
+DECL|variable|bpsIOReadyDomain
