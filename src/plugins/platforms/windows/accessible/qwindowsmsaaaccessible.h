@@ -4,4 +4,4 @@ DECL|macro|accessibleDebug
 DECL|macro|accessibleDebugClientCalls
 DECL|macro|accessibleDebugClientCalls
 DECL|typedef|QAIPointer
-DECL|variable|IAccessible2
+DECL|variable|IAccessible
