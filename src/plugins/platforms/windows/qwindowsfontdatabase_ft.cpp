@@ -1,5 +1,4 @@
 DECL|function|LOGFONT_to_QFont
-DECL|function|addApplicationFont
 DECL|function|addFontToDatabase
 DECL|function|createFontFile
 DECL|function|defaultFont
