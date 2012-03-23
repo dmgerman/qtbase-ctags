@@ -41,6 +41,7 @@ DECL|function|noConnection
 DECL|function|oneSlot
 DECL|function|registerObject
 DECL|function|registerObject
+DECL|function|registerObject
 DECL|function|registerObject2
 DECL|function|registerObjectPeer
 DECL|function|registerObjectPeer2
@@ -71,7 +72,7 @@ DECL|member|count
 DECL|member|func
 DECL|member|lastMessage
 DECL|member|m_conn
-DECL|member|m_conn
+DECL|member|m_connections
 DECL|member|m_obj
 DECL|member|m_obj
 DECL|member|m_path
