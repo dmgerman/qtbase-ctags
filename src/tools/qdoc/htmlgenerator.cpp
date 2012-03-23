@@ -44,10 +44,6 @@ DECL|function|generateMacRef
 DECL|function|generateManifestFile
 DECL|function|generateManifestFiles
 DECL|function|generateOverviewList
-DECL|function|generatePageElement
-DECL|function|generatePageElements
-DECL|function|generatePageIndex
-DECL|function|generateQmlInheritedBy
 DECL|function|generateQmlInherits
 DECL|function|generateQmlInstantiates
 DECL|function|generateQmlItem

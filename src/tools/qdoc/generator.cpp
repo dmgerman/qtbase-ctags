@@ -4,7 +4,11 @@ DECL|function|appendFullName
 DECL|function|appendFullNames
 DECL|function|appendSortedNames
 DECL|function|appendSortedQmlNames
+DECL|function|beginSubPage
+DECL|function|endSubPage
 DECL|function|endText
+DECL|function|fileBase
+DECL|function|fileName
 DECL|function|findAllSince
 DECL|function|formattingLeftMap
 DECL|function|formattingRightMap
@@ -19,7 +23,9 @@ DECL|function|generateFakeNode
 DECL|function|generateFileList
 DECL|function|generateInheritedBy
 DECL|function|generateInherits
+DECL|function|generateInnerNode
 DECL|function|generateMaintainerList
+DECL|function|generateQmlInheritedBy
 DECL|function|generateQmlInherits
 DECL|function|generateQmlText
 DECL|function|generateReimplementedFrom
@@ -27,6 +33,7 @@ DECL|function|generateSince
 DECL|function|generateStatus
 DECL|function|generateText
 DECL|function|generateThreadSafeness
+DECL|function|generateTree
 DECL|function|generatorForFormat
 DECL|function|getMetadataElement
 DECL|function|getMetadataElements
@@ -35,7 +42,9 @@ DECL|function|indent
 DECL|function|initialize
 DECL|function|initializeGenerator
 DECL|function|matchAhead
+DECL|function|out
 DECL|function|outputPrefix
+DECL|function|parseArg
 DECL|function|plainCode
 DECL|function|setImageFileExtensions
 DECL|function|singularPlural
@@ -48,6 +57,9 @@ DECL|function|trimmedTrailing
 DECL|function|typeString
 DECL|function|unknownAtom
 DECL|function|~Generator
+DECL|macro|SKIP_CHAR
+DECL|macro|SKIP_CHAR
+DECL|macro|SKIP_SPACE
 DECL|member|baseDir_
 DECL|member|exampleDirs
 DECL|member|exampleImgExts

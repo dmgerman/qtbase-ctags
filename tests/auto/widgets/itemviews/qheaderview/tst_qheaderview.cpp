@@ -25,6 +25,7 @@ DECL|function|data
 DECL|function|defaultAlignment
 DECL|function|defaultAlignment_data
 DECL|function|defaultSectionSize
+DECL|function|defaultSectionSizeTest
 DECL|function|defaultSectionSize_data
 DECL|function|defaultSizeTest
 DECL|function|defaultSizeTest_data

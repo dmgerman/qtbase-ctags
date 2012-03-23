@@ -8,3 +8,4 @@ DECL|function|stop
 DECL|function|wakeup
 DECL|function|~QWindowsFileSystemWatcherEngine
 DECL|function|~QWindowsFileSystemWatcherEngineThread
+DECL|macro|DEBUG

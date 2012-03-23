@@ -1,10 +1,12 @@
 DECL|function|QSystemLocaleData
 DECL|function|fallbackLocale
 DECL|function|query
+DECL|function|readEnvironment
 DECL|member|lc_measurement_var
 DECL|member|lc_messages
 DECL|member|lc_messages_var
 DECL|member|lc_monetary
 DECL|member|lc_numeric
 DECL|member|lc_time
+DECL|member|lock
 DECL|struct|QSystemLocaleData

@@ -8,6 +8,7 @@ DECL|function|inputItemTransform
 DECL|function|inputWindow
 DECL|function|invokeAction
 DECL|function|isAnimating
+DECL|function|isVisible
 DECL|function|keyboardRectangle
 DECL|function|locale
 DECL|function|q_checkFocusObject
@@ -18,5 +19,4 @@ DECL|function|setInputItemTransform
 DECL|function|setVisible
 DECL|function|show
 DECL|function|update
-DECL|function|visible
 DECL|function|~QInputMethod

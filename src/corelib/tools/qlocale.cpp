@@ -1,3 +1,4 @@
+DECL|class|QSystemLocaleSingleton
 DECL|function|QLocale
 DECL|function|QLocale
 DECL|function|QLocale
@@ -5,6 +6,7 @@ DECL|function|QLocale
 DECL|function|QLocale
 DECL|function|QSystemLocale
 DECL|function|QSystemLocale
+DECL|function|QSystemLocaleSingleton
 DECL|function|amText
 DECL|function|bcp47Name
 DECL|function|bcp47Name

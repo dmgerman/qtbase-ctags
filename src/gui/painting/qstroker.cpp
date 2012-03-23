@@ -37,6 +37,7 @@ DECL|function|qt_t_for_arc_angle
 DECL|function|strokeEllipse
 DECL|function|strokePath
 DECL|function|strokePolygon
+DECL|function|~QDashStroker
 DECL|function|~QStroker
 DECL|function|~QStrokerOps
 DECL|member|m_curve
