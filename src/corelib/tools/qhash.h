@@ -42,6 +42,7 @@ DECL|function|qHash
 DECL|function|qHash
 DECL|function|qHash
 DECL|function|qHash
+DECL|function|qHash
 DECL|function|remove
 DECL|function|remove
 DECL|function|reserve
