@@ -11,6 +11,8 @@ DECL|function|isActive
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
 DECL|function|mapGlobal
+DECL|function|mouseDoubleClickEvent
+DECL|function|mouseEventSequence
 DECL|function|mouseMoveEvent
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
@@ -20,6 +22,7 @@ DECL|function|orientation
 DECL|function|positioning
 DECL|function|received
 DECL|function|reset
+DECL|function|resetCounters
 DECL|function|testInputEvents
 DECL|function|touchCancel
 DECL|function|touchCancelWithTouchToMouse
@@ -30,14 +33,17 @@ DECL|member|ignoreTouch
 DECL|member|keyPressCode
 DECL|member|keyReleaseCode
 DECL|member|m_received
+DECL|member|mouseDoubleClickedCount
 DECL|member|mouseMoveButton
 DECL|member|mouseMoveScreenPos
 DECL|member|mousePressButton
 DECL|member|mousePressScreenPos
+DECL|member|mousePressedCount
 DECL|member|mouseReleaseButton
+DECL|member|mouseReleasedCount
+DECL|member|mouseSequenceSignature
 DECL|member|touchDevice
 DECL|member|touchEventType
 DECL|member|touchMovedCount
 DECL|member|touchPressedCount
 DECL|member|touchReleasedCount
-DECL|variable|tst_QWindow
