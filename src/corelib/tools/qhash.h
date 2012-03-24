@@ -73,6 +73,7 @@ DECL|member|numBuckets
 DECL|member|operator
 DECL|member|ref
 DECL|member|reserved
+DECL|member|seed
 DECL|member|sharable
 DECL|member|shared_null
 DECL|member|size

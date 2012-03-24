@@ -14,8 +14,12 @@ DECL|function|qHash
 DECL|function|qHash
 DECL|function|qHash
 DECL|function|qHash
+DECL|function|qt_create_qhash_seed
+DECL|function|qt_initialize_qhash_seed
 DECL|function|rehash
+DECL|macro|_CRT_RAND_S
 DECL|macro|truncate
 DECL|member|shared_null
 DECL|variable|MinNumBits
 DECL|variable|prime_deltas
+DECL|variable|qt_qhash_seed
