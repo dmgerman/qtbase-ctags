@@ -14,6 +14,7 @@ DECL|function|qHash
 DECL|function|qHash
 DECL|function|qHash
 DECL|function|qHash
+DECL|function|qHash
 DECL|function|qt_create_qhash_seed
 DECL|function|qt_initialize_qhash_seed
 DECL|function|rehash
