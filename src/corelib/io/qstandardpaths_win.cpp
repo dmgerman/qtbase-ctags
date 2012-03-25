@@ -1,7 +1,9 @@
 DECL|function|convertCharArray
+DECL|function|enableTestMode
 DECL|function|resolveGetSpecialFolderPath
 DECL|function|standardLocations
 DECL|function|writableLocation
 DECL|macro|CSIDL_MYMUSIC
 DECL|macro|CSIDL_MYVIDEO
 DECL|typedef|GetSpecialFolderPath
+DECL|variable|qsp_testMode
