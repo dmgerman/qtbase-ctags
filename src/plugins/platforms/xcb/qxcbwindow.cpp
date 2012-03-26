@@ -83,6 +83,7 @@ DECL|macro|class
 DECL|macro|class
 DECL|macro|xcb_get_wm_hints
 DECL|macro|xcb_get_wm_hints_reply
+DECL|macro|xcb_get_wm_hints_unchecked
 DECL|macro|xcb_set_wm_hints
 DECL|macro|xcb_set_wm_normal_hints
 DECL|macro|xcb_size_hints_set_base_size
