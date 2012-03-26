@@ -2,5 +2,7 @@ DECL|function|QQnxBpsEventFilter
 DECL|function|bpsEventFilter
 DECL|function|dispatcherEventFilter
 DECL|function|installOnEventDispatcher
+DECL|function|registerForScreenEvents
+DECL|function|unregisterForScreenEvents
 DECL|function|~QQnxBpsEventFilter
 DECL|variable|s_instance

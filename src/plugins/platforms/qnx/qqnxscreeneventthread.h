@@ -1,2 +1,2 @@
-DECL|macro|QQNXEVENTTHREAD_H
+DECL|macro|QQNXSCREENEVENTTHREAD_H
 DECL|variable|QQnxScreenEventHandler
