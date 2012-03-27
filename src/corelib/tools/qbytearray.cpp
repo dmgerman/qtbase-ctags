@@ -112,6 +112,4 @@ DECL|function|trimmed
 DECL|function|truncate
 DECL|macro|IS_RAW_DATA
 DECL|macro|REHASH
-DECL|member|shared_empty
-DECL|member|shared_null
 DECL|variable|crc_tbl

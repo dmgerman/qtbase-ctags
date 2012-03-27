@@ -57,3 +57,7 @@ DECL|variable|QByteRef
 DECL|variable|QDataStream
 DECL|variable|QList
 DECL|variable|QString
+DECL|variable|offsetof
+DECL|variable|offsetof
+DECL|variable|offsetof
+DECL|variable|sizeof
