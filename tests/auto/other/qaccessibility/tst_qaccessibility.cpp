@@ -13,6 +13,7 @@ DECL|function|accessibleInterfaceLeftOf
 DECL|function|accessibleName
 DECL|function|actionTest
 DECL|function|applicationTest
+DECL|function|bridgeTest
 DECL|function|buttonTest
 DECL|function|calendarWidgetTest
 DECL|function|childRect
