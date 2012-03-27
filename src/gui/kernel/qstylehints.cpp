@@ -1,5 +1,6 @@
 DECL|function|QStyleHints
 DECL|function|cursorFlashTime
+DECL|function|fontSmoothingGamma
 DECL|function|hint
 DECL|function|keyboardAutoRepeatRate
 DECL|function|keyboardInputInterval

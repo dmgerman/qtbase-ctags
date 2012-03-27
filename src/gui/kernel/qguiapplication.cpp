@@ -21,6 +21,7 @@ DECL|function|exec
 DECL|function|focusObject
 DECL|function|focusWindow
 DECL|function|font
+DECL|function|gammaTables
 DECL|function|getPixmapCursor
 DECL|function|init
 DECL|function|initFontUnlocked

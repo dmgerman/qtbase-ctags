@@ -12,6 +12,7 @@ DECL|function|fallbacksForFamily
 DECL|function|fontDir
 DECL|function|fontEngine
 DECL|function|fontEngine
+DECL|function|fontSmoothingGamma
 DECL|function|getEnglishName
 DECL|function|getEnglishName
 DECL|function|getUShort

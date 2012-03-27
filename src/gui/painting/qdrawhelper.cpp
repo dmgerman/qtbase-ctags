@@ -12,7 +12,6 @@ DECL|enumerator|half_point
 DECL|enum|TextureBlendType
 DECL|function|BlendSrcGeneric
 DECL|function|QBlendBase
-DECL|function|QDrawHelperGammaTables
 DECL|function|QPartialCoverage
 DECL|function|blend_color_argb
 DECL|function|blend_color_generic
@@ -172,8 +171,6 @@ DECL|function|qt_memfill_quint16
 DECL|function|qt_memfill_template
 DECL|function|qt_memfill_template
 DECL|function|qt_memfill_template
-DECL|function|qt_pow_gamma
-DECL|function|qt_pow_rgb_gamma
 DECL|function|qt_rectfill_nonpremul_quint32
 DECL|function|qt_rectfill_quint16
 DECL|function|qt_rectfill_quint32
@@ -265,13 +262,8 @@ DECL|member|data
 DECL|member|dest
 DECL|member|ica
 DECL|member|op
-DECL|member|qt_pow_gamma
-DECL|member|qt_pow_invgamma
-DECL|member|qt_pow_rgb_gamma
-DECL|member|qt_pow_rgb_invgamma
 DECL|member|src_buffer
 DECL|struct|QBlendBase
-DECL|struct|QDrawHelperGammaTables
 DECL|struct|QFullCoverage
 DECL|struct|QPartialCoverage
 DECL|typedef|FetchPixelFunc
