@@ -88,6 +88,8 @@ DECL|function|finishedSlot
 DECL|function|finishedSlot
 DECL|function|finishedSlot
 DECL|function|finishedSlot
+DECL|function|ftpAuthentication
+DECL|function|ftpAuthentication_data
 DECL|function|getAndThenDeleteObject
 DECL|function|getAndThenDeleteObject_data
 DECL|function|getErrors
