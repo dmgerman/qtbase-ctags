@@ -12,7 +12,6 @@ DECL|function|compare
 DECL|function|compare
 DECL|function|compare
 DECL|function|compare
-DECL|function|compare
 DECL|function|compareFileDescriptors
 DECL|function|compareToArgument
 DECL|function|mapName
@@ -53,6 +52,5 @@ DECL|typedef|SignalMap
 DECL|typedef|SignatureStringMap
 DECL|typedef|StringStringMap
 DECL|typedef|qlonglong
-DECL|variable|Key
 DECL|variable|Key
 DECL|variable|QString
