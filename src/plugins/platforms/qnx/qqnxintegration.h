@@ -7,4 +7,5 @@ DECL|variable|QQnxClipboard
 DECL|variable|QQnxEventThread
 DECL|variable|QQnxInputContext
 DECL|variable|QQnxNavigatorEventHandler
+DECL|variable|QQnxServices
 DECL|variable|QQnxWindow

@@ -4,6 +4,7 @@ DECL|function|hint
 DECL|function|keyboardAutoRepeatRate
 DECL|function|keyboardInputInterval
 DECL|function|mouseDoubleClickInterval
+DECL|function|passwordMaskDelay
 DECL|function|showIsFullScreen
 DECL|function|startDragDistance
 DECL|function|startDragTime

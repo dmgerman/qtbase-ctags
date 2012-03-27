@@ -1,15 +1,19 @@
 DECL|class|QWindowsEnumerate
 DECL|function|AddRef
+DECL|function|AddRef
 DECL|function|Clone
 DECL|function|ContextSensitiveHelp
 DECL|function|GetIDsOfNames
 DECL|function|GetTypeInfo
 DECL|function|GetTypeInfoCount
 DECL|function|GetWindow
+DECL|function|IIDToString
 DECL|function|Invoke
 DECL|function|Next
 DECL|function|QWindowsEnumerate
 DECL|function|QueryInterface
+DECL|function|QueryInterface
+DECL|function|Release
 DECL|function|Release
 DECL|function|Reset
 DECL|function|Skip
@@ -39,6 +43,7 @@ DECL|function|put_accName
 DECL|function|put_accValue
 DECL|function|relatedInterface
 DECL|function|~QWindowsEnumerate
+DECL|macro|IF_EQUAL_RETURN_IIDSTRING
 DECL|macro|UiaRootObjectId
 DECL|member|array
 DECL|member|current

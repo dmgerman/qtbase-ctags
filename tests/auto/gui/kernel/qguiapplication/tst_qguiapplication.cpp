@@ -14,6 +14,7 @@ DECL|function|exitApp
 DECL|function|focusObject
 DECL|function|focusObject
 DECL|function|focusOutEvent
+DECL|function|keyboardModifiers
 DECL|function|setFocusObject
 DECL|function|topLevelWindows
 DECL|member|m_focusObject

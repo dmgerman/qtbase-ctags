@@ -1,6 +1,7 @@
 DECL|macro|QLOCALE_DATA_P_H
 DECL|member|countryId
 DECL|member|languageId
+DECL|member|system
 DECL|struct|CountryLanguage
 DECL|variable|ImperialMeasurementSystems
 DECL|variable|ImperialMeasurementSystemsCount
