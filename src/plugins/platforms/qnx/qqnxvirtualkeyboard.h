@@ -1,2 +1,0 @@
-DECL|macro|VIRTUALKEYBOARD_H_
-DECL|variable|QSocketNotifier

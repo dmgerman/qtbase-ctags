@@ -1,0 +1,7 @@
+DECL|function|QQnxVirtualKeyboardBps
+DECL|function|applyKeyboardMode
+DECL|function|handleEvent
+DECL|function|handleLocaleEvent
+DECL|function|handleVirtualKeyboardEvent
+DECL|function|hideKeyboard
+DECL|function|showKeyboard

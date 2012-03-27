@@ -3,3 +3,4 @@ DECL|variable|QAbstractEventDispatcher
 DECL|variable|QQnxNavigatorEventHandler
 DECL|variable|QQnxScreen
 DECL|variable|QQnxScreenEventHandler
+DECL|variable|QQnxVirtualKeyboardBps

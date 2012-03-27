@@ -1,4 +1,4 @@
-DECL|function|QQnxVirtualKeyboard
+DECL|function|QQnxVirtualKeyboardPps
 DECL|function|addDefaultModeOptions
 DECL|function|addEmailModeOptions
 DECL|function|addNumPuncModeOptions
@@ -17,7 +17,7 @@ DECL|function|ppsDataReady
 DECL|function|queryPPSInfo
 DECL|function|showKeyboard
 DECL|function|start
-DECL|function|~QQnxVirtualKeyboard
+DECL|function|~QQnxVirtualKeyboardPps
 DECL|macro|KEYBOARD_SHADOW_HEIGHT
 DECL|member|ms_PPSPath
 DECL|member|ms_bufferSize
