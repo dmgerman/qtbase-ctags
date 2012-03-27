@@ -18,6 +18,7 @@ DECL|function|end
 DECL|function|fromRawData
 DECL|function|isMutable
 DECL|function|sharedNull
+DECL|function|sharedNull
 DECL|macro|QARRAYDATA_H
 DECL|macro|Q_ARRAY_LITERAL
 DECL|macro|Q_ARRAY_LITERAL
