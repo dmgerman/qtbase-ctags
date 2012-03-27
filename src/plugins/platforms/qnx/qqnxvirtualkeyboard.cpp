@@ -7,16 +7,14 @@ DECL|function|addPinModeOptions
 DECL|function|addSymbolModeOptions
 DECL|function|addUrlModeOptions
 DECL|function|addWebModeOptions
+DECL|function|applyKeyboardMode
 DECL|function|applyKeyboardModeOptions
 DECL|function|close
 DECL|function|connect
 DECL|function|handleKeyboardInfoMessage
-DECL|function|handleKeyboardStateChangeMessage
 DECL|function|hideKeyboard
-DECL|function|notifyClientActiveStateChange
 DECL|function|ppsDataReady
 DECL|function|queryPPSInfo
-DECL|function|setKeyboardMode
 DECL|function|showKeyboard
 DECL|function|start
 DECL|function|~QQnxVirtualKeyboard
