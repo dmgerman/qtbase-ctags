@@ -1,0 +1,6 @@
+DECL|function|QQnxBpsEventFilter
+DECL|function|bpsEventFilter
+DECL|function|dispatcherEventFilter
+DECL|function|installOnEventDispatcher
+DECL|function|~QQnxBpsEventFilter
+DECL|variable|s_instance

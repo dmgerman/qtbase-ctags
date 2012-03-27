@@ -1,0 +1,2 @@
+DECL|macro|QQNXBPSEVENTFILTER_H
+DECL|variable|QAbstractEventDispatcher
