@@ -1,3 +1,4 @@
+DECL|macro|QGLOBAL_H
 DECL|macro|alpha
 DECL|macro|arm
 DECL|macro|avr32
