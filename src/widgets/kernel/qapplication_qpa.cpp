@@ -4,13 +4,11 @@ DECL|function|beep
 DECL|function|cleanupMultitouch_sys
 DECL|function|closePopup
 DECL|function|createEventDispatcher
-DECL|function|enterModal_sys
 DECL|function|grabForPopup
 DECL|function|initializeMultitouch_sys
 DECL|function|initializeWidgetFontHash
 DECL|function|initializeWidgetPaletteHash
 DECL|function|isEffectEnabled
-DECL|function|leaveModal_sys
 DECL|function|modalState
 DECL|function|notifyActiveWindowChange
 DECL|function|openPopup

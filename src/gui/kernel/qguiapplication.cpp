@@ -23,6 +23,7 @@ DECL|function|focusWindow
 DECL|function|font
 DECL|function|gammaTables
 DECL|function|getPixmapCursor
+DECL|function|hideModalWindow
 DECL|function|init
 DECL|function|initFontUnlocked
 DECL|function|initPalette
@@ -30,8 +31,10 @@ DECL|function|init_platform
 DECL|function|init_plugins
 DECL|function|inputMethod
 DECL|function|inputPanel
+DECL|function|isWindowBlocked
 DECL|function|keyboardModifiers
 DECL|function|layoutDirection
+DECL|function|modalWindow
 DECL|function|mouseButtons
 DECL|function|notify
 DECL|function|notifyActiveWindowChange
@@ -81,12 +84,12 @@ DECL|function|setOverrideCursor
 DECL|function|setPalette
 DECL|function|setQuitOnLastWindowClosed
 DECL|function|shouldQuit
+DECL|function|showModalWindow
 DECL|function|styleHints
 DECL|function|topLevelAt
 DECL|function|topLevelWindows
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
-DECL|member|app_do_modal
 DECL|member|app_font
 DECL|member|app_pal
 DECL|member|buttons
