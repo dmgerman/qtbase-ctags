@@ -5,6 +5,8 @@ DECL|function|binaryData
 DECL|function|binaryData_data
 DECL|function|clear
 DECL|function|comparison
+DECL|function|comparison2
+DECL|function|comparison2_data
 DECL|function|compat_constructor_01
 DECL|function|compat_constructor_01_data
 DECL|function|compat_constructor_02
