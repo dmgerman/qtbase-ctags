@@ -25,6 +25,7 @@ DECL|function|elfHash_finish
 DECL|function|find_translation
 DECL|function|getMessage
 DECL|function|isEmpty
+DECL|function|isValidNumerusRules
 DECL|function|load
 DECL|function|load
 DECL|function|load
@@ -35,7 +36,6 @@ DECL|function|read32
 DECL|function|read8
 DECL|function|translate
 DECL|function|~QTranslator
-DECL|macro|CHECK_RANGE
 DECL|macro|MAP_FAILED
 DECL|macro|MAP_FILE
 DECL|macro|QT_USE_MMAP
