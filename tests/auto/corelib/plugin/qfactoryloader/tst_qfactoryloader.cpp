@@ -1,0 +1,4 @@
+DECL|class|tst_QFactoryLoader
+DECL|function|initTestCase
+DECL|function|usingTwoFactoriesFromSameDir
+DECL|variable|binFolderC
