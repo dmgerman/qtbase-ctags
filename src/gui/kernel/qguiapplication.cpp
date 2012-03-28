@@ -111,6 +111,7 @@ DECL|member|window_list
 DECL|variable|applicationFontMutex
 DECL|variable|applicationResourceFlags
 DECL|variable|copy_xpm
+DECL|variable|fontSmoothingGamma
 DECL|variable|force_reverse
 DECL|variable|layout_direction
 DECL|variable|link_xpm
