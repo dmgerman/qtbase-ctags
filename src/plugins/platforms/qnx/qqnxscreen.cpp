@@ -5,6 +5,7 @@ DECL|function|createDisplays
 DECL|function|defaultDepth
 DECL|function|destroyDisplays
 DECL|function|isOrthogonal
+DECL|function|keyboardHeightChanged
 DECL|function|lowerWindow
 DECL|function|onWindowPost
 DECL|function|raiseWindow

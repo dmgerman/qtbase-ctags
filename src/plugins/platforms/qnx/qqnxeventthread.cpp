@@ -1,9 +1,4 @@
 DECL|function|QQnxEventThread
-DECL|function|dispatchEvent
-DECL|function|handleCloseEvent
-DECL|function|handleKeyboardEvent
-DECL|function|handlePointerEvent
-DECL|function|handleTouchEvent
 DECL|function|injectKeyboardEvent
 DECL|function|run
 DECL|function|shutdown
