@@ -9,5 +9,6 @@ DECL|variable|QQnxEventThread
 DECL|variable|QQnxInputContext
 DECL|variable|QQnxNavigatorEventHandler
 DECL|variable|QQnxScreen
+DECL|variable|QQnxScreenEventHandler
 DECL|variable|QQnxServices
 DECL|variable|QQnxWindow

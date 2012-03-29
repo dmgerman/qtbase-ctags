@@ -1,4 +1,5 @@
 DECL|function|QQnxScreen
+DECL|function|addOverlayWindow
 DECL|function|addWindow
 DECL|function|availableGeometry
 DECL|function|defaultDepth
@@ -7,9 +8,12 @@ DECL|function|findWindow
 DECL|function|isOrthogonal
 DECL|function|keyboardHeightChanged
 DECL|function|lowerWindow
+DECL|function|newWindowCreated
 DECL|function|onWindowPost
 DECL|function|raiseWindow
+DECL|function|removeOverlayWindow
 DECL|function|removeWindow
 DECL|function|setRotation
 DECL|function|updateHierarchy
+DECL|function|windowClosed
 DECL|function|~QQnxScreen
