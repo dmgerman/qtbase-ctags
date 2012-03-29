@@ -5,6 +5,7 @@ DECL|function|QWindowsGeometryHint
 DECL|function|QWindowsWindow
 DECL|function|RECTfromQRect
 DECL|function|WindowCreationData
+DECL|function|alertWindow
 DECL|function|applyCursor
 DECL|function|applyToMinMaxInfo
 DECL|function|applyToMinMaxInfo
@@ -36,6 +37,7 @@ DECL|function|handleWindowStateChange
 DECL|function|handleWmPaint
 DECL|function|hide_sys
 DECL|function|initialize
+DECL|function|isEnabled
 DECL|function|isVisible
 DECL|function|lower
 DECL|function|operator <<
@@ -50,6 +52,7 @@ DECL|function|registerDropSite
 DECL|function|releaseDC
 DECL|function|requestActivateWindow
 DECL|function|setCursor
+DECL|function|setEnabled
 DECL|function|setExStyle
 DECL|function|setGeometry
 DECL|function|setGeometry_sys
@@ -69,9 +72,11 @@ DECL|function|setWindowState_sys
 DECL|function|setWindowTitle
 DECL|function|shouldShowMaximizeButton
 DECL|function|show_sys
+DECL|function|stopAlertWindow
 DECL|function|topLevelOf
 DECL|function|unregisterDropSite
 DECL|function|validSize
+DECL|function|windowEvent
 DECL|function|windowState_sys
 DECL|function|windowStates_sys
 DECL|function|~QWindowsWindow
