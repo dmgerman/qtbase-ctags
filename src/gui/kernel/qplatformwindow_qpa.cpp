@@ -23,6 +23,7 @@ DECL|function|setWindowState
 DECL|function|setWindowTitle
 DECL|function|winId
 DECL|function|window
+DECL|function|windowEvent
 DECL|function|~QPlatformWindow
 DECL|member|rect
 DECL|member|window

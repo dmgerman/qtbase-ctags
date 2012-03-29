@@ -76,6 +76,7 @@ DECL|function|reportScreenOrientationChange
 DECL|function|reportScreenOrientationChange
 DECL|function|restoreOverrideCursor
 DECL|function|screens
+DECL|function|sendQWindowEventToQPlatformWindow
 DECL|function|setDesktopSettingsAware
 DECL|function|setEventDispatcher
 DECL|function|setFont
