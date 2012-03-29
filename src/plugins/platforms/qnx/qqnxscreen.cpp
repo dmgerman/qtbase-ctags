@@ -1,9 +1,9 @@
 DECL|function|QQnxScreen
 DECL|function|addWindow
 DECL|function|availableGeometry
-DECL|function|createDisplays
 DECL|function|defaultDepth
-DECL|function|destroyDisplays
+DECL|function|depth
+DECL|function|findWindow
 DECL|function|isOrthogonal
 DECL|function|keyboardHeightChanged
 DECL|function|lowerWindow
@@ -13,5 +13,3 @@ DECL|function|removeWindow
 DECL|function|setRotation
 DECL|function|updateHierarchy
 DECL|function|~QQnxScreen
-DECL|member|ms_childWindows
-DECL|member|ms_screens

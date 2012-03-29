@@ -1,5 +1,6 @@
 DECL|function|QQnxWindow
 DECL|function|copyBack
+DECL|function|findWindow
 DECL|function|gainedFocus
 DECL|function|lower
 DECL|function|offset
