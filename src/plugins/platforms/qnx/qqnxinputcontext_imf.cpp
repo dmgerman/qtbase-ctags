@@ -55,7 +55,6 @@ DECL|function|imfSetComposingRegion
 DECL|function|imfSetComposingText
 DECL|function|imfSetSelection
 DECL|function|initEvent
-DECL|function|inputItemChanged
 DECL|function|isInputPanelVisible
 DECL|function|isSessionOkay
 DECL|function|isValid
@@ -86,6 +85,7 @@ DECL|function|processEvent
 DECL|function|reset
 DECL|function|result
 DECL|function|setComposingText
+DECL|function|setFocusObject
 DECL|function|setResult
 DECL|function|showInputPanel
 DECL|function|signal
