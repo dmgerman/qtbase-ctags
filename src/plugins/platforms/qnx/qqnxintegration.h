@@ -7,6 +7,7 @@ DECL|variable|QQnxAbstractVirtualKeyboard
 DECL|variable|QQnxClipboard
 DECL|variable|QQnxEventThread
 DECL|variable|QQnxInputContext
+DECL|variable|QQnxNativeInterface
 DECL|variable|QQnxNavigatorEventHandler
 DECL|variable|QQnxScreen
 DECL|variable|QQnxScreenEventHandler

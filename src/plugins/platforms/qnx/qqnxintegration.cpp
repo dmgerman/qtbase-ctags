@@ -10,6 +10,7 @@ DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|moveToScreen
+DECL|function|nativeInterface
 DECL|function|primaryDisplay
 DECL|function|removeWindow
 DECL|function|services
