@@ -181,6 +181,7 @@ DECL|variable|TypesTest17_xml
 DECL|variable|TypesTest18_xml
 DECL|variable|TypesTest19_xml
 DECL|variable|TypesTest1_xml
+DECL|variable|TypesTest20_oldxml
 DECL|variable|TypesTest20_xml
 DECL|variable|TypesTest2_xml
 DECL|variable|TypesTest3_xml
