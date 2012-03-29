@@ -8,14 +8,10 @@ DECL|function|dialogRejected
 DECL|function|event
 DECL|function|event
 DECL|function|main
-DECL|function|newChildWidget
-DECL|function|newChildWidget
 DECL|function|newDialog
 DECL|function|newDialog
 DECL|function|on_applicationModalButton_clicked
 DECL|function|on_applicationModalButton_clicked
-DECL|function|on_applicationModalChildButton_clicked
-DECL|function|on_applicationModalChildButton_clicked
 DECL|function|on_applicationModalNoParentButton_clicked
 DECL|function|on_applicationModalNoParentButton_clicked
 DECL|function|on_groupLeaderButton_clicked
@@ -28,7 +24,5 @@ DECL|function|on_siblingWindowModalButton_clicked
 DECL|function|on_windowButton_clicked
 DECL|function|on_windowModalButton_clicked
 DECL|function|on_windowModalButton_clicked
-DECL|function|on_windowModalChildButton_clicked
-DECL|function|on_windowModalChildButton_clicked
 DECL|function|on_windowModalNoParentButton_clicked
 DECL|function|on_windowModalNoParentButton_clicked
