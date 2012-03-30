@@ -15,3 +15,6 @@ DECL|function|recode
 DECL|function|toUpperHex
 DECL|function|unicodeToEncodedUtf8
 DECL|variable|defaultActionTable
+DECL|variable|delimsMask
+DECL|variable|reservedMask
+DECL|variable|uchar
