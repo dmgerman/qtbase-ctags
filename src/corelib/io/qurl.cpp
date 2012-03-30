@@ -53,7 +53,6 @@ DECL|function|path
 DECL|function|port
 DECL|function|qHash
 DECL|function|query
-DECL|function|recode
 DECL|function|recodeFromUser
 DECL|function|removeDotsFromPath
 DECL|function|resolved
