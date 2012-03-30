@@ -27,6 +27,7 @@ DECL|function|generateAtom
 DECL|function|generateBrief
 DECL|function|generateClassHierarchy
 DECL|function|generateClassLikeNode
+DECL|function|generateCollisionPages
 DECL|function|generateCompactList
 DECL|function|generateDetailedQmlMember
 DECL|function|generateFakeNode
@@ -50,7 +51,6 @@ DECL|function|generateStatus
 DECL|function|generateTableOfContents
 DECL|function|generateTableOfContents
 DECL|function|generateTree
-DECL|function|getDisambiguationLink
 DECL|function|getLink
 DECL|function|getMarkedUpSynopsis
 DECL|function|getMetadataElement

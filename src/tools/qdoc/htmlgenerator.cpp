@@ -23,10 +23,10 @@ DECL|function|generateBreadCrumbs
 DECL|function|generateBrief
 DECL|function|generateClassHierarchy
 DECL|function|generateClassLikeNode
+DECL|function|generateCollisionPages
 DECL|function|generateCompactList
 DECL|function|generateDetailedMember
 DECL|function|generateDetailedQmlMember
-DECL|function|generateDisambiguationPages
 DECL|function|generateExtractionMark
 DECL|function|generateFakeNode
 DECL|function|generateFooter
@@ -56,7 +56,6 @@ DECL|function|generateSynopsis
 DECL|function|generateTableOfContents
 DECL|function|generateTitle
 DECL|function|generateTree
-DECL|function|getDisambiguationLink
 DECL|function|getLink
 DECL|function|hOffset
 DECL|function|highlightedCode
