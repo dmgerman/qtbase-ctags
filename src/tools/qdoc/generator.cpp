@@ -43,6 +43,7 @@ DECL|function|initialize
 DECL|function|initializeGenerator
 DECL|function|matchAhead
 DECL|function|out
+DECL|function|outFileName
 DECL|function|outputPrefix
 DECL|function|parseArg
 DECL|function|plainCode
