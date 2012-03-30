@@ -102,6 +102,8 @@ DECL|variable|decodedPasswordInUrlActions
 DECL|variable|decodedPasswordInUserInfoActions
 DECL|variable|decodedPathInIsolationActions
 DECL|variable|decodedPathInUrlActions
+DECL|variable|decodedQueryInIsolationActions
+DECL|variable|decodedQueryInUrlActions
 DECL|variable|decodedUserNameInAuthorityActions
 DECL|variable|decodedUserNameInIsolationActions
 DECL|variable|decodedUserNameInUrlActions
