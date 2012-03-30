@@ -11,6 +11,7 @@ DECL|function|fontDir
 DECL|function|fontEngine
 DECL|function|fontEngine
 DECL|function|fontEngineMulti
+DECL|function|fontsAlwaysScalable
 DECL|function|operator =
 DECL|function|populateFontDatabase
 DECL|function|registerFont
@@ -18,6 +19,7 @@ DECL|function|registerQPF2Font
 DECL|function|releaseHandle
 DECL|function|resolveFontFamilyAlias
 DECL|function|setSupported
+DECL|function|standardSizes
 DECL|function|supported
 DECL|function|~QPlatformFontDatabase
 DECL|function|~QSupportedWritingSystems
