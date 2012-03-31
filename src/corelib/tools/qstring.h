@@ -17,6 +17,7 @@ DECL|function|data
 DECL|function|data
 DECL|function|data
 DECL|function|data
+DECL|function|data_ptr
 DECL|function|detach
 DECL|function|end
 DECL|function|end
@@ -75,8 +76,8 @@ DECL|member|ref
 DECL|member|size
 DECL|member|str
 DECL|struct|QStaticStringData
-DECL|struct|QStaticStringDataPtr
 DECL|struct|QStringData
+DECL|struct|QStringDataPtr
 DECL|typedef|QLatin1Literal
 DECL|typedef|qunicodechar
 DECL|typedef|qunicodechar

@@ -13,6 +13,7 @@ DECL|function|data
 DECL|function|data
 DECL|function|data
 DECL|function|data
+DECL|function|data_ptr
 DECL|function|detach
 DECL|function|end
 DECL|function|end
@@ -48,8 +49,8 @@ DECL|member|ptr
 DECL|member|ref
 DECL|member|size
 DECL|struct|QByteArrayData
+DECL|struct|QByteArrayDataPtr
 DECL|struct|QStaticByteArrayData
-DECL|struct|QStaticByteArrayDataPtr
 DECL|variable|QByteRef
 DECL|variable|QDataStream
 DECL|variable|QList
