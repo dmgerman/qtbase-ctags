@@ -7,6 +7,7 @@ DECL|function|destruct
 DECL|function|flags
 DECL|function|isRegistered
 DECL|function|isValid
+DECL|function|metaObject
 DECL|function|qMetaTypeConstructHelper
 DECL|function|qMetaTypeCreateHelper
 DECL|function|qMetaTypeDeleteHelper

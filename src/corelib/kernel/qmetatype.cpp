@@ -1,4 +1,5 @@
 DECL|class|Flags
+DECL|class|MetaObject
 DECL|class|QCustomTypeInfo
 DECL|class|SizeOf
 DECL|class|TypeConstructor
@@ -17,6 +18,7 @@ DECL|function|Destruct
 DECL|function|Flags
 DECL|function|Flags
 DECL|function|Flags
+DECL|function|MetaObject
 DECL|function|QCustomTypeInfo
 DECL|function|QMetaType
 DECL|function|QMetaType
@@ -35,12 +37,17 @@ DECL|function|constructExtended
 DECL|function|create
 DECL|function|createExtended
 DECL|function|ctor
+DECL|function|customMetaObject
 DECL|function|customTypeConstructor
 DECL|function|customTypeDestroyer
 DECL|function|customTypeDestructor
 DECL|function|customTypeFlags
 DECL|function|customTypeInfo
 DECL|function|customTypeSizeOf
+DECL|function|delegate
+DECL|function|delegate
+DECL|function|delegate
+DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
@@ -75,6 +82,9 @@ DECL|function|dtor
 DECL|function|flagsExtended
 DECL|function|isRegistered
 DECL|function|load
+DECL|function|metaObjectExtended
+DECL|function|metaObjectForQWidget
+DECL|function|metaObjectForType
 DECL|function|operator =
 DECL|function|qMetaTypeCustomType_unlocked
 DECL|function|qMetaTypeStaticType
@@ -109,11 +119,13 @@ DECL|member|m_type
 DECL|member|m_type
 DECL|member|m_type
 DECL|member|m_type
+DECL|member|m_type
 DECL|member|m_where
 DECL|member|type
 DECL|member|typeName
 DECL|member|typeName
 DECL|member|typeNameLength
+DECL|namespace|QtPrivate
 DECL|struct|Acceptor
 DECL|struct|ConstructorImpl
 DECL|struct|ConstructorImpl
@@ -136,6 +148,7 @@ DECL|variable|creator
 DECL|variable|deleter
 DECL|variable|destructor
 DECL|variable|flags
+DECL|variable|qMetaObjectWidgetsHelper
 DECL|variable|qMetaTypeGuiHelper
 DECL|variable|qMetaTypeWidgetsHelper
 DECL|variable|size

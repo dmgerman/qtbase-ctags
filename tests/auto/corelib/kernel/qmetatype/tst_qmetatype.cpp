@@ -91,6 +91,7 @@ DECL|function|isRegistered
 DECL|function|isRegisteredStaticLess
 DECL|function|isRegisteredStaticLess_data
 DECL|function|isRegistered_data
+DECL|function|metaObject
 DECL|function|namespaces
 DECL|function|normalizedTypes
 DECL|function|operator <<
