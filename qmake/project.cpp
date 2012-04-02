@@ -51,6 +51,7 @@ DECL|enumerator|T_OPTION
 DECL|enumerator|T_REQUIRES
 DECL|enumerator|T_RETURN
 DECL|enumerator|T_SYSTEM
+DECL|enumerator|T_TOUCH
 DECL|enumerator|T_UNSET
 DECL|enumerator|T_WARNING
 DECL|enumerator|T_WRITE_FILE
@@ -112,6 +113,7 @@ DECL|function|test
 DECL|function|validateModes
 DECL|function|values
 DECL|function|varMap
+DECL|function|windowsErrorCode
 DECL|function|writeFile
 DECL|function|~ParsableBlock
 DECL|function|~QMakeProject
