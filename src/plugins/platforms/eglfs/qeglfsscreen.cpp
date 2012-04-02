@@ -8,6 +8,7 @@ DECL|function|eglSurfaceForPlatformSurface
 DECL|function|format
 DECL|function|geometry
 DECL|function|platformContext
+DECL|function|~QEglFSScreen
 DECL|member|attr
 DECL|member|name
 DECL|struct|AttrInfo
