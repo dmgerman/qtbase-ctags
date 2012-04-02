@@ -51,6 +51,7 @@ DECL|enumerator|CMD_FOOTNOTE
 DECL|enumerator|CMD_GENERATELIST
 DECL|enumerator|CMD_GRANULARITY
 DECL|enumerator|CMD_HEADER
+DECL|enumerator|CMD_HR
 DECL|enumerator|CMD_I
 DECL|enumerator|CMD_IF
 DECL|enumerator|CMD_IMAGE
