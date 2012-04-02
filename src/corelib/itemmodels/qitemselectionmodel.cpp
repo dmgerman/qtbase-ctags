@@ -21,7 +21,7 @@ DECL|function|indexes
 DECL|function|indexes
 DECL|function|indexesFromRange
 DECL|function|initModel
-DECL|function|intersect
+DECL|function|intersected
 DECL|function|intersects
 DECL|function|isColumnSelected
 DECL|function|isEmpty
