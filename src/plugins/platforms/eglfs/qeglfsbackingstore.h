@@ -1,3 +1,3 @@
-DECL|macro|QEGLWINDOWSURFACE_H
+DECL|macro|QEGLFSBACKINGSTORE_H
 DECL|variable|QOpenGLContext
 DECL|variable|QOpenGLPaintDevice

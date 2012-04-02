@@ -1,2 +1,2 @@
-DECL|macro|QEGLSCREEN_H
+DECL|macro|QEGLFSSCREEN_H
 DECL|variable|QPlatformOpenGLContext
