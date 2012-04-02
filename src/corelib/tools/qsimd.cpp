@@ -1,6 +1,6 @@
 DECL|function|detectProcessorFeatures
 DECL|function|ffs
-DECL|function|qDetectCPUFeatures
+DECL|function|qDetectCpuFeatures
 DECL|function|qDumpCPUFeatures
 DECL|macro|AT_HWCAP
 DECL|macro|HWCAP_CRUNCH
@@ -14,3 +14,4 @@ DECL|variable|features_count
 DECL|variable|features_indices
 DECL|variable|features_string
 DECL|variable|minFeature
+DECL|variable|qt_cpu_features

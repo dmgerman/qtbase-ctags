@@ -3,7 +3,7 @@ DECL|enumerator|AVX2
 DECL|enumerator|HLE
 DECL|enumerator|IWMMXT
 DECL|enumerator|NEON
-DECL|enumerator|None
+DECL|enumerator|QSimdInitialized
 DECL|enumerator|RTM
 DECL|enumerator|SSE2
 DECL|enumerator|SSE3
@@ -11,6 +11,8 @@ DECL|enumerator|SSE4_1
 DECL|enumerator|SSE4_2
 DECL|enumerator|SSSE3
 DECL|enum|CPUFeatures
+DECL|function|qCpuFeatures
+DECL|function|qCpuHasFeature
 DECL|macro|ALIGNMENT_PROLOGUE_16BYTES
 DECL|macro|QSIMD_P_H
 DECL|macro|QT_COMPILER_SUPPORTS_X86INTRIN
@@ -26,3 +28,4 @@ DECL|macro|__SSE__
 DECL|macro|__SSSE3__
 DECL|macro|posix_memalign
 DECL|macro|posix_memalign
+DECL|variable|qCompilerCpuFeatures
