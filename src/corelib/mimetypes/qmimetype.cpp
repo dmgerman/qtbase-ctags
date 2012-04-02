@@ -18,7 +18,6 @@ DECL|function|isValid
 DECL|function|name
 DECL|function|operator =
 DECL|function|operator ==
-DECL|function|operator ==
 DECL|function|parentMimeTypes
 DECL|function|preferredSuffix
 DECL|function|suffixes
