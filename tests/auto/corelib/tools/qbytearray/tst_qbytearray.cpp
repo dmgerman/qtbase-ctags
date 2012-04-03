@@ -83,9 +83,6 @@ DECL|function|toULongLong
 DECL|function|toULongLong_data
 DECL|function|toULong_data
 DECL|function|tst_QByteArray
-DECL|function|zeroTermination
-DECL|function|zeroTermination_data
-DECL|macro|VERIFY_ZERO_TERMINATION
 DECL|member|data
 DECL|member|data
 DECL|member|data
