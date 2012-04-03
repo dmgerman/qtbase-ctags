@@ -67,7 +67,6 @@ DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
-DECL|function|delegate
 DECL|function|destroy
 DECL|function|destroyExtended
 DECL|function|destruct
