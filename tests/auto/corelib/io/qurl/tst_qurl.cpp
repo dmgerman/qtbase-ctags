@@ -26,6 +26,8 @@ DECL|function|compat_isValid_02_data
 DECL|function|compat_legacy
 DECL|function|compat_path
 DECL|function|compat_path_data
+DECL|function|componentEncodings
+DECL|function|componentEncodings_data
 DECL|function|constructing
 DECL|function|copying
 DECL|function|correctDecodedMistakes
