@@ -83,6 +83,12 @@ DECL|function|toULongLong
 DECL|function|toULongLong_data
 DECL|function|toULong_data
 DECL|function|tst_QByteArray
+DECL|function|verifyZeroTermination
+DECL|function|verifyZeroTermination
+DECL|macro|QCOMPARE
+DECL|macro|QCOMPARE
+DECL|macro|QTEST
+DECL|macro|QTEST
 DECL|member|data
 DECL|member|data
 DECL|member|data

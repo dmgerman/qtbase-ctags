@@ -164,6 +164,8 @@ DECL|function|truncateWithNegative
 DECL|function|tst_QString
 DECL|function|utf8
 DECL|function|utf8_data
+DECL|function|verifyZeroTermination
+DECL|function|verifyZeroTermination
 DECL|macro|CHECK_DOUBLE
 DECL|macro|CHECK_INF
 DECL|macro|CHECK_NAN
@@ -176,6 +178,10 @@ DECL|macro|MY_DOUBLE_EPSILON
 DECL|macro|NAN
 DECL|macro|NAN
 DECL|macro|NAN
+DECL|macro|QCOMPARE
+DECL|macro|QCOMPARE
+DECL|macro|QTEST
+DECL|macro|QTEST
 DECL|macro|TEST_BAD
 DECL|macro|TEST_BAD
 DECL|macro|TEST_BAD_ALL
