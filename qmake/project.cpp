@@ -81,6 +81,7 @@ DECL|function|exec
 DECL|function|expand
 DECL|function|expand
 DECL|function|expand
+DECL|function|getCommandOutput
 DECL|function|init
 DECL|function|isActiveConfig
 DECL|function|isEmpty
