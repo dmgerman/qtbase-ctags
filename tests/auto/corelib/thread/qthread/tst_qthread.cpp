@@ -64,6 +64,7 @@ DECL|function|noop
 DECL|function|processEvents
 DECL|function|quit
 DECL|function|quitLock
+DECL|function|registerEventNotifier
 DECL|function|registerSocketNotifier
 DECL|function|registerTimer
 DECL|function|registeredTimers
@@ -98,6 +99,7 @@ DECL|function|stressTest
 DECL|function|terminate
 DECL|function|terminated
 DECL|function|testNativeThreadAdoption
+DECL|function|unregisterEventNotifier
 DECL|function|unregisterSocketNotifier
 DECL|function|unregisterTimer
 DECL|function|unregisterTimers

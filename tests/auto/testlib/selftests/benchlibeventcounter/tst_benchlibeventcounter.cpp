@@ -8,10 +8,12 @@ DECL|function|hasPendingEvents
 DECL|function|interrupt
 DECL|function|main
 DECL|function|processEvents
+DECL|function|registerEventNotifier
 DECL|function|registerSocketNotifier
 DECL|function|registerTimer
 DECL|function|registeredTimers
 DECL|function|remainingTime
+DECL|function|unregisterEventNotifier
 DECL|function|unregisterSocketNotifier
 DECL|function|unregisterTimer
 DECL|function|unregisterTimers

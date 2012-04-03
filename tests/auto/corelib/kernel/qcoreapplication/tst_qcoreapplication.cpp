@@ -37,6 +37,7 @@ DECL|function|processEvents
 DECL|function|processEventsAlwaysSendsPostedEvents
 DECL|function|qAppName
 DECL|function|reexec
+DECL|function|registerEventNotifier
 DECL|function|registerSocketNotifier
 DECL|function|registerTimer
 DECL|function|registeredTimers
@@ -51,6 +52,7 @@ DECL|function|threadDestroyed
 DECL|function|threadFinished
 DECL|function|threadProgress
 DECL|function|timeout
+DECL|function|unregisterEventNotifier
 DECL|function|unregisterSocketNotifier
 DECL|function|unregisterTimer
 DECL|function|unregisterTimers
