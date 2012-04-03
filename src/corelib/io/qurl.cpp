@@ -3,6 +3,7 @@ DECL|function|QUrl
 DECL|function|QUrl
 DECL|function|QUrlPrivate
 DECL|function|QUrlPrivate
+DECL|function|adjustFtpPath
 DECL|function|appendAuthority
 DECL|function|appendFragment
 DECL|function|appendHost
