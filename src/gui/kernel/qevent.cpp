@@ -22,8 +22,7 @@ DECL|function|QInputMethodEvent
 DECL|function|QInputMethodEvent
 DECL|function|QInputMethodQueryEvent
 DECL|function|QKeyEvent
-DECL|function|QKeyEventEx
-DECL|function|QKeyEventEx
+DECL|function|QKeyEvent
 DECL|function|QMouseEvent
 DECL|function|QMouseEvent
 DECL|function|QMouseEvent
@@ -52,7 +51,6 @@ DECL|function|TouchPoint
 DECL|function|contentPos
 DECL|function|contentPos
 DECL|function|contentPosRange
-DECL|function|createExtendedKeyEvent
 DECL|function|d_func
 DECL|function|d_func
 DECL|function|d_func
@@ -68,9 +66,6 @@ DECL|function|lastScenePos
 DECL|function|lastScreenPos
 DECL|function|matches
 DECL|function|modifiers
-DECL|function|nativeModifiers
-DECL|function|nativeScanCode
-DECL|function|nativeVirtualKey
 DECL|function|normalizedPos
 DECL|function|openFile
 DECL|function|operator <<
@@ -145,7 +140,6 @@ DECL|function|~QIconDragEvent
 DECL|function|~QInputEvent
 DECL|function|~QInputMethodQueryEvent
 DECL|function|~QKeyEvent
-DECL|function|~QKeyEventEx
 DECL|function|~QMouseEvent
 DECL|function|~QMoveEvent
 DECL|function|~QPaintEvent
