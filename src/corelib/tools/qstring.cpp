@@ -50,7 +50,6 @@ DECL|function|fromUcs4
 DECL|function|fromUtf16
 DECL|function|fromUtf8_helper
 DECL|function|getEscape
-DECL|function|grow
 DECL|function|indexOf
 DECL|function|indexOf
 DECL|function|indexOf
