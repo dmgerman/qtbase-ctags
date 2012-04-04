@@ -1,4 +1,6 @@
+DECL|function|cfurlErrorDescription
 DECL|function|isHostExcluded
 DECL|function|macQueryInternal
+DECL|function|proxyFromDictionary
 DECL|function|proxyFromDictionary
 DECL|function|systemProxyForQuery
