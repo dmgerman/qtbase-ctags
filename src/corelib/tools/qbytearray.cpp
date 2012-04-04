@@ -69,7 +69,7 @@ DECL|function|qstrdup
 DECL|function|qstricmp
 DECL|function|qstrncpy
 DECL|function|qstrnicmp
-DECL|function|realloc
+DECL|function|reallocData
 DECL|function|remove
 DECL|function|repeated
 DECL|function|replace
