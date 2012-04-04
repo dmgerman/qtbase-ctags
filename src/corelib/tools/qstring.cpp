@@ -88,7 +88,6 @@ DECL|function|mid
 DECL|function|midRef
 DECL|function|multiArg
 DECL|function|normalized
-DECL|function|normalized
 DECL|function|number
 DECL|function|number
 DECL|function|number
