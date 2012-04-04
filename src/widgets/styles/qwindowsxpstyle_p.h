@@ -51,13 +51,13 @@ DECL|member|dwSize
 DECL|member|hadInvalidAlpha
 DECL|member|hasAlphaChannel
 DECL|member|hasAnyData
-DECL|member|name
 DECL|member|noBorder
 DECL|member|noContent
 DECL|member|partId
 DECL|member|partIsTransparent
 DECL|member|rcClip
 DECL|member|stateId
+DECL|member|theme
 DECL|member|wasAlphaSwapped
 DECL|struct|ThemeMapData
 DECL|struct|ThemeMapKey
