@@ -126,7 +126,6 @@ DECL|function|qt_string_count
 DECL|function|qt_string_count
 DECL|function|qt_string_normalize
 DECL|function|realloc
-DECL|function|realloc
 DECL|function|remove
 DECL|function|remove
 DECL|function|remove
