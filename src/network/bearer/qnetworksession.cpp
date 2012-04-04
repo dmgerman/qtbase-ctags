@@ -17,7 +17,9 @@ DECL|function|open
 DECL|function|reject
 DECL|function|sessionProperty
 DECL|function|setSessionProperty
+DECL|function|setUsagePolicies
 DECL|function|state
 DECL|function|stop
+DECL|function|usagePolicies
 DECL|function|waitForOpened
 DECL|function|~QNetworkSession
