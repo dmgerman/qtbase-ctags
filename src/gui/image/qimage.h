@@ -1,3 +1,4 @@
+DECL|function|Q_DECLARE_SHARED
 DECL|function|numBytes
 DECL|function|numColors
 DECL|function|pixel
