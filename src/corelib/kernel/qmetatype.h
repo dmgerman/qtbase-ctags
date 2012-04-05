@@ -1,5 +1,4 @@
 DECL|enumerator|Defined
-DECL|enumerator|Defined
 DECL|function|Q_DECLARE_METATYPE_TEMPLATE_1ARG
 DECL|function|construct
 DECL|function|create
@@ -12,14 +11,9 @@ DECL|function|qMetaTypeConstructHelper
 DECL|function|qMetaTypeCreateHelper
 DECL|function|qMetaTypeDeleteHelper
 DECL|function|qMetaTypeDestructHelper
-DECL|function|qMetaTypeId
 DECL|function|qMetaTypeLoadHelper
 DECL|function|qMetaTypeSaveHelper
-DECL|function|qRegisterMetaType
-DECL|function|qRegisterMetaType
 DECL|function|qRegisterMetaTypeStreamOperators
-DECL|function|qRegisterMetaTypeStreamOperators
-DECL|function|qt_metatype_id
 DECL|function|qt_metatype_id
 DECL|function|sizeOf
 DECL|function|~QMetaType
@@ -47,7 +41,6 @@ DECL|macro|Q_DECLARE_METATYPE_TEMPLATE_2ARG
 DECL|macro|Q_DECLARE_OPAQUE_POINTER
 DECL|struct|QMetaTypeId2
 DECL|struct|T
-DECL|struct|true
 DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QVariantHash

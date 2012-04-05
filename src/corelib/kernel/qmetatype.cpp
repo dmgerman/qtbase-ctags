@@ -130,6 +130,12 @@ DECL|struct|SizeOfImpl
 DECL|struct|TypeInfoImpl
 DECL|struct|TypeInfoImpl
 DECL|union|CheckThatItIsPod
+DECL|variable|constructor
+DECL|variable|creator
+DECL|variable|deleter
+DECL|variable|destructor
+DECL|variable|flags
 DECL|variable|qMetaTypeGuiHelper
 DECL|variable|qMetaTypeWidgetsHelper
+DECL|variable|size
 DECL|variable|types
