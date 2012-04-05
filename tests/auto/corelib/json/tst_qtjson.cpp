@@ -51,6 +51,7 @@ DECL|function|toVariantList
 DECL|function|toVariantMap
 DECL|function|undefinedValues
 DECL|function|validation
+DECL|function|valueEquals
 DECL|macro|INVALID_UNICODE
 DECL|macro|UNICODE_DJE
 DECL|member|testDataDir
