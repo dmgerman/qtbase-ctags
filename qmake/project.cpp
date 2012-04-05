@@ -45,6 +45,7 @@ DECL|enumerator|T_INFILE
 DECL|enumerator|T_ISEMPTY
 DECL|enumerator|T_LESSTHAN
 DECL|enumerator|T_LOAD
+DECL|enumerator|T_LOG
 DECL|enumerator|T_MESSAGE
 DECL|enumerator|T_NEXT
 DECL|enumerator|T_OPTION
