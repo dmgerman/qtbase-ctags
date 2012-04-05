@@ -51,6 +51,7 @@ DECL|function|processDrag
 DECL|function|processDrop
 DECL|function|processEnterEvent
 DECL|function|processExposeEvent
+DECL|function|processFileOpenEvent
 DECL|function|processGeometryChangeEvent
 DECL|function|processKeyEvent
 DECL|function|processLeaveEvent

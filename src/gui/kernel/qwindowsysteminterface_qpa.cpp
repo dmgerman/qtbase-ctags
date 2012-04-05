@@ -8,6 +8,7 @@ DECL|function|handleEnterEvent
 DECL|function|handleExposeEvent
 DECL|function|handleExtendedKeyEvent
 DECL|function|handleExtendedKeyEvent
+DECL|function|handleFileOpenEvent
 DECL|function|handleGeometryChange
 DECL|function|handleKeyEvent
 DECL|function|handleKeyEvent
