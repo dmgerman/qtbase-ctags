@@ -7,6 +7,7 @@ DECL|function|isAvailable
 DECL|function|isMeasurementAccepted
 DECL|function|metricType
 DECL|function|perf_event_open
+DECL|function|readValue
 DECL|function|start
 DECL|function|stop
 DECL|function|~QBenchmarkPerfEventsMeasurer
