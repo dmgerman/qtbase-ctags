@@ -1,0 +1,12 @@
+DECL|function|QBenchmarkPerfEventsMeasurer
+DECL|function|adjustIterationCount
+DECL|function|adjustMedianCount
+DECL|function|checkpoint
+DECL|function|init
+DECL|function|isAvailable
+DECL|function|isMeasurementAccepted
+DECL|function|metricType
+DECL|function|perf_event_open
+DECL|function|start
+DECL|function|stop
+DECL|function|~QBenchmarkPerfEventsMeasurer
