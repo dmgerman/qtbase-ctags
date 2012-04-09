@@ -1,0 +1,11 @@
+DECL|function|QEglFSCursor
+DECL|function|changeCursor
+DECL|function|createCursorTexture
+DECL|function|createShaderPrograms
+DECL|function|initCursorAtlas
+DECL|function|pointerEvent
+DECL|function|pos
+DECL|function|render
+DECL|function|setPos
+DECL|function|~QEglFSCursor
+DECL|macro|CURSORS_PER_ROW
