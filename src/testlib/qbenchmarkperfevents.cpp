@@ -3,6 +3,7 @@ DECL|function|adjustIterationCount
 DECL|function|adjustMedianCount
 DECL|function|checkpoint
 DECL|function|init
+DECL|function|initPerf
 DECL|function|isAvailable
 DECL|function|isMeasurementAccepted
 DECL|function|listCounters
@@ -38,7 +39,6 @@ DECL|member|metric
 DECL|member|offset
 DECL|member|type
 DECL|struct|Events
-DECL|variable|event_id
-DECL|variable|event_type
+DECL|variable|attr
 DECL|variable|eventlist
 DECL|variable|eventlist_strings
