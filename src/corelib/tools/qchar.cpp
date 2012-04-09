@@ -10,8 +10,6 @@ DECL|enumerator|Hangul_VCount
 DECL|function|canonicalOrderHelper
 DECL|function|category
 DECL|function|category
-DECL|function|category
-DECL|function|combiningClass
 DECL|function|combiningClass
 DECL|function|combiningClass
 DECL|function|composeHelper
@@ -24,8 +22,6 @@ DECL|function|decompositionTag
 DECL|function|decompositionTag
 DECL|function|digitValue
 DECL|function|digitValue
-DECL|function|digitValue
-DECL|function|direction
 DECL|function|direction
 DECL|function|direction
 DECL|function|foldCase
@@ -43,9 +39,7 @@ DECL|function|isSpace
 DECL|function|isSymbol
 DECL|function|joining
 DECL|function|joining
-DECL|function|joining
 DECL|function|ligatureHelper
-DECL|function|mirroredChar
 DECL|function|mirroredChar
 DECL|function|mirroredChar
 DECL|function|operator <
@@ -54,17 +48,16 @@ DECL|function|operator <<
 DECL|function|operator >>
 DECL|function|toCaseFolded
 DECL|function|toCaseFolded
-DECL|function|toCaseFolded
+DECL|function|toCaseFolded_helper
 DECL|function|toLower
 DECL|function|toLower
-DECL|function|toLower
+DECL|function|toLowerCase_helper
 DECL|function|toTitleCase
 DECL|function|toTitleCase
-DECL|function|toTitleCase
+DECL|function|toTitleCase_helper
 DECL|function|toUpper
 DECL|function|toUpper
-DECL|function|toUpper
-DECL|function|unicodeVersion
+DECL|function|toUpperCase_helper
 DECL|function|unicodeVersion
 DECL|function|unicodeVersion
 DECL|macro|FLAG
