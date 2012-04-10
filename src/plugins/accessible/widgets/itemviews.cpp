@@ -73,4 +73,5 @@ DECL|function|unselectColumn
 DECL|function|unselectRow
 DECL|function|verticalHeader
 DECL|function|verticalHeader
+DECL|function|view
 DECL|function|~QAccessibleTable
