@@ -52,6 +52,8 @@ DECL|function|authenticationRequired
 DECL|function|authenticationWithDifferentRealm
 DECL|function|authorizationError
 DECL|function|authorizationError_data
+DECL|function|backgroundRequest
+DECL|function|backgroundRequest_data
 DECL|function|bytesWrittenSlot
 DECL|function|bytesWrittenSlot
 DECL|function|cacheSize
