@@ -13,4 +13,3 @@ DECL|member|attr
 DECL|member|name
 DECL|struct|AttrInfo
 DECL|variable|attrs
-DECL|variable|hooks
