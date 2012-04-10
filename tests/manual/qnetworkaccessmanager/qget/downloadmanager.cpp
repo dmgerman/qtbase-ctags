@@ -1,0 +1,12 @@
+DECL|function|DownloadManager
+DECL|function|authenticationRequired
+DECL|function|checkForAllDone
+DECL|function|downloadFinished
+DECL|function|findTransfer
+DECL|function|finished
+DECL|function|get
+DECL|function|proxyAuthenticationRequired
+DECL|function|setQueueMode
+DECL|function|sslErrors
+DECL|function|upload
+DECL|function|~DownloadManager

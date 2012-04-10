@@ -158,6 +158,10 @@ DECL|member|mode
 DECL|member|off
 DECL|member|origin
 DECL|member|premultiplied
+DECL|member|qt_pow_gamma
+DECL|member|qt_pow_invgamma
+DECL|member|qt_pow_rgb_gamma
+DECL|member|qt_pow_rgb_invgamma
 DECL|member|radial
 DECL|member|radial
 DECL|member|radius
@@ -194,6 +198,7 @@ DECL|struct|DrawHelper
 DECL|struct|LinearGradientValues
 DECL|struct|Operator
 DECL|struct|QConicalGradientData
+DECL|struct|QDrawHelperGammaTables
 DECL|struct|QGradientData
 DECL|struct|QLinearGradientData
 DECL|struct|QPixelLayout

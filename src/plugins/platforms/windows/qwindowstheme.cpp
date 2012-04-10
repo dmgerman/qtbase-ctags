@@ -10,9 +10,11 @@ DECL|function|menuBarPalette
 DECL|function|menuPalette
 DECL|function|mixColors
 DECL|function|operator <<
+DECL|function|paletteRoleToString
 DECL|function|paletteToString
 DECL|function|refreshFonts
 DECL|function|refreshPalettes
+DECL|function|standardPalette
 DECL|function|styleNames
 DECL|function|systemPalette
 DECL|function|themeHint

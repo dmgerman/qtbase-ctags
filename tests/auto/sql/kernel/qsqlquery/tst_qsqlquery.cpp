@@ -6,6 +6,8 @@ DECL|function|QTBUG_16967
 DECL|function|QTBUG_16967_data
 DECL|function|QTBUG_21884
 DECL|function|QTBUG_21884_data
+DECL|function|QTBUG_23895
+DECL|function|QTBUG_23895_data
 DECL|function|QTBUG_5251
 DECL|function|QTBUG_5251_data
 DECL|function|QTBUG_551
@@ -31,6 +33,7 @@ DECL|function|blob
 DECL|function|blob_data
 DECL|function|blobsPreparedQuery
 DECL|function|blobsPreparedQuery_data
+DECL|function|boundValueName
 DECL|function|char1Select
 DECL|function|char1SelectUnicode
 DECL|function|char1SelectUnicode_data

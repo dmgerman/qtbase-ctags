@@ -21,6 +21,7 @@ DECL|function|exec
 DECL|function|focusObject
 DECL|function|focusWindow
 DECL|function|font
+DECL|function|gammaTables
 DECL|function|getPixmapCursor
 DECL|function|init
 DECL|function|initFontUnlocked
@@ -59,6 +60,7 @@ DECL|function|processWheelEvent
 DECL|function|processWindowStateChangedEvent
 DECL|function|processWindowSystemEvent
 DECL|function|qHash
+DECL|function|q_updateFocusObject
 DECL|function|qt_detectRTLLanguage
 DECL|function|queryKeyboardModifiers
 DECL|function|quitOnLastWindowClosed
@@ -108,6 +110,7 @@ DECL|member|window_list
 DECL|variable|applicationFontMutex
 DECL|variable|applicationResourceFlags
 DECL|variable|copy_xpm
+DECL|variable|fontSmoothingGamma
 DECL|variable|force_reverse
 DECL|variable|layout_direction
 DECL|variable|link_xpm

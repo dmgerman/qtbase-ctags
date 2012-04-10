@@ -37,6 +37,7 @@ DECL|macro|SKIP_SPACES
 DECL|member|accum
 DECL|member|dot
 DECL|member|extractedDirs
+DECL|member|generateExamples
 DECL|member|next
 DECL|member|numInstances
 DECL|member|overrideOutputDir

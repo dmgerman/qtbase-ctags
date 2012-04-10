@@ -1,1 +1,0 @@
-DECL|macro|Q_GLX_CONTEXT_H

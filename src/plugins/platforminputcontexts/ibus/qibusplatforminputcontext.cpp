@@ -6,10 +6,10 @@ DECL|function|commit
 DECL|function|commitText
 DECL|function|createConnection
 DECL|function|cursorRectChanged
-DECL|function|inputItemChanged
 DECL|function|invokeAction
 DECL|function|isValid
 DECL|function|reset
+DECL|function|setFocusObject
 DECL|function|update
 DECL|function|updatePreeditText
 DECL|function|x11FilterEvent

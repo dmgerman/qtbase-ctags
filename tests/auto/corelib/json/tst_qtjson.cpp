@@ -28,6 +28,7 @@ DECL|function|testArraySimple
 DECL|function|testCompaction
 DECL|function|testCompactionError
 DECL|function|testDebugStream
+DECL|function|testDetachBug
 DECL|function|testDocument
 DECL|function|testDuplicateKeys
 DECL|function|testNumbers

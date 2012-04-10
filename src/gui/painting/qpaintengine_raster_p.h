@@ -1,7 +1,7 @@
 DECL|function|appendSpan
 DECL|function|appendSpans
 DECL|function|clip
-DECL|function|clip
+DECL|function|clipData
 DECL|function|ensureOutlineMapper
 DECL|macro|QPAINTENGINE_RASTER_P_H
 DECL|variable|QClipData

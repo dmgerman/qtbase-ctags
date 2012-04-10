@@ -31,6 +31,7 @@ DECL|function|touchCancel
 DECL|function|touchCancelWithTouchToMouse
 DECL|function|touchEvent
 DECL|function|touchToMouseTranslation
+DECL|function|windowModality
 DECL|member|ignoreMouse
 DECL|member|ignoreTouch
 DECL|member|keyPressCode

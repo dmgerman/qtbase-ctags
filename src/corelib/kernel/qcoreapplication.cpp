@@ -50,6 +50,7 @@ DECL|function|qAppName
 DECL|function|qGlobalPostedEventsCount
 DECL|function|qRemovePostRoutine
 DECL|function|qtTrId
+DECL|function|qt_applicationName_noFallback
 DECL|function|qt_call_post_routines
 DECL|function|qt_register_signal_spy_callbacks
 DECL|function|qt_startup_hook

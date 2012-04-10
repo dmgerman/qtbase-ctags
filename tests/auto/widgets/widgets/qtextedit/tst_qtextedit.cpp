@@ -31,6 +31,7 @@ DECL|function|canPaste
 DECL|function|charFormat
 DECL|function|charFormatChanged
 DECL|function|cleanup
+DECL|function|cleanupTestCase
 DECL|function|clearMustNotChangeClipboard
 DECL|function|clearMustNotResetRootFrameMarginToDefault
 DECL|function|clearShouldClearExtraSelections
@@ -63,6 +64,7 @@ DECL|function|getSetCheck
 DECL|function|hitTest
 DECL|function|implicitClear
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|inlineAttributeSymmetry
 DECL|function|inlineAttributeSymmetryWithSelection
 DECL|function|inlineAttributesOnInsert
@@ -137,6 +139,7 @@ DECL|member|insertCallCount
 DECL|member|iterationCounter
 DECL|member|lastRedoEnabled
 DECL|member|lastUndoEnabled
+DECL|member|m_platformInputContext
 DECL|member|received
 DECL|member|redoCount
 DECL|member|redoRepetitions

@@ -12,8 +12,12 @@ DECL|function|fallbacksForFamily
 DECL|function|fontDir
 DECL|function|fontEngine
 DECL|function|fontEngine
+DECL|function|fontSmoothingGamma
 DECL|function|getEnglishName
 DECL|function|getEnglishName
+DECL|function|getFamiliesAndSignatures
+DECL|function|getFontTable
+DECL|function|getTrueTypeFontOffsets
 DECL|function|getUShort
 DECL|function|initDirectWrite
 DECL|function|localizedName
@@ -21,6 +25,7 @@ DECL|function|operator <<
 DECL|function|populate
 DECL|function|populateFontDatabase
 DECL|function|releaseHandle
+DECL|function|removeApplicationFonts
 DECL|function|scriptRequiresOpenType
 DECL|function|storeFont
 DECL|function|systemDefaultFont

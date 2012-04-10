@@ -14,7 +14,6 @@ DECL|function|addSeparator
 DECL|function|addWidget
 DECL|function|allowedAreas
 DECL|function|changeEvent
-DECL|function|childEvent
 DECL|function|clear
 DECL|function|endDrag
 DECL|function|event
@@ -34,7 +33,6 @@ DECL|function|orientation
 DECL|function|paintEvent
 DECL|function|plug
 DECL|function|qt_mac_updateToolBarButtonHint
-DECL|function|resizeEvent
 DECL|function|setAllowedAreas
 DECL|function|setFloatable
 DECL|function|setIconSize

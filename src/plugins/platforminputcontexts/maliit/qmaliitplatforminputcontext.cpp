@@ -28,7 +28,6 @@ DECL|function|contentTypeFromHints
 DECL|function|copy
 DECL|function|hideInputPanel
 DECL|function|imInitiatedHide
-DECL|function|inputItemChanged
 DECL|function|invokeAction
 DECL|function|isInputPanelVisible
 DECL|function|isValid
@@ -42,6 +41,7 @@ DECL|function|reset
 DECL|function|selection
 DECL|function|sendStateUpdate
 DECL|function|setDetectableAutoRepeat
+DECL|function|setFocusObject
 DECL|function|setGlobalCorrectionEnabled
 DECL|function|setLanguage
 DECL|function|setRedirectKeys

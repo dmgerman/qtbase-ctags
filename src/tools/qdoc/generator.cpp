@@ -35,6 +35,7 @@ DECL|function|generateText
 DECL|function|generateThreadSafeness
 DECL|function|generateTree
 DECL|function|generatorForFormat
+DECL|function|getCollisionLink
 DECL|function|getMetadataElement
 DECL|function|getMetadataElements
 DECL|function|imageFileName
@@ -43,6 +44,7 @@ DECL|function|initialize
 DECL|function|initializeGenerator
 DECL|function|matchAhead
 DECL|function|out
+DECL|function|outFileName
 DECL|function|outputPrefix
 DECL|function|parseArg
 DECL|function|plainCode

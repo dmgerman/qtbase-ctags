@@ -1,9 +1,0 @@
-DECL|function|QXlibMime
-DECL|function|mimeAtomForFormat
-DECL|function|mimeAtomToString
-DECL|function|mimeAtomsForFormat
-DECL|function|mimeConvertToFormat
-DECL|function|mimeDataForAtom
-DECL|function|mimeFormatsForAtom
-DECL|function|mimeStringToAtom
-DECL|function|~QXlibMime

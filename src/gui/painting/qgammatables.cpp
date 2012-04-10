@@ -1,0 +1,2 @@
+DECL|function|QDrawHelperGammaTables
+DECL|function|refresh

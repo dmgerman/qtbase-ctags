@@ -51,6 +51,7 @@ DECL|enumerator|CMD_FOOTNOTE
 DECL|enumerator|CMD_GENERATELIST
 DECL|enumerator|CMD_GRANULARITY
 DECL|enumerator|CMD_HEADER
+DECL|enumerator|CMD_HR
 DECL|enumerator|CMD_I
 DECL|enumerator|CMD_IF
 DECL|enumerator|CMD_IMAGE
@@ -105,6 +106,7 @@ DECL|enumerator|CMD_TABLEOFCONTENTS
 DECL|enumerator|CMD_TARGET
 DECL|enumerator|CMD_TOPICREF
 DECL|enumerator|CMD_TT
+DECL|enumerator|CMD_UICONTROL
 DECL|enumerator|CMD_UNDERLINE
 DECL|enumerator|CMD_UNICODE
 DECL|enumerator|CMD_VALUE

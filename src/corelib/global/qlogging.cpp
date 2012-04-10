@@ -1,4 +1,5 @@
 DECL|function|QMessagePattern
+DECL|function|copy
 DECL|function|critical
 DECL|function|critical
 DECL|function|debug
@@ -27,6 +28,7 @@ DECL|member|literals
 DECL|member|tokens
 DECL|struct|QMessagePattern
 DECL|variable|appnameTokenC
+DECL|variable|categoryTokenC
 DECL|variable|emptyTokenC
 DECL|variable|fileTokenC
 DECL|variable|functionTokenC

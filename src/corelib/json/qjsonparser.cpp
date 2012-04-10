@@ -12,6 +12,7 @@ DECL|enumerator|ValueSeparator
 DECL|function|Parser
 DECL|function|addHexDigit
 DECL|function|eatSpace
+DECL|function|errorString
 DECL|function|insert
 DECL|function|isUnicodeNonCharacter
 DECL|function|nextToken
@@ -30,4 +31,16 @@ DECL|macro|DEBUG
 DECL|macro|DEBUG
 DECL|macro|END
 DECL|macro|END
+DECL|macro|JSONERR_END_OF_NUM
+DECL|macro|JSONERR_ILLEGAL_NUM
+DECL|macro|JSONERR_ILLEGAL_VAL
+DECL|macro|JSONERR_MISS_NSEP
+DECL|macro|JSONERR_MISS_OBJ
+DECL|macro|JSONERR_MISS_VSEP
+DECL|macro|JSONERR_OK
+DECL|macro|JSONERR_STR_ESC_SEQ
+DECL|macro|JSONERR_STR_UTF8
+DECL|macro|JSONERR_UNTERM_AR
+DECL|macro|JSONERR_UNTERM_OBJ
+DECL|macro|JSONERR_UTERM_STR
 DECL|variable|indent

@@ -1,3 +1,2 @@
 DECL|macro|QQNXNAVIGATOREVENTHANDLER_H
-DECL|variable|QQnxScreen
 DECL|variable|QSocketNotifier

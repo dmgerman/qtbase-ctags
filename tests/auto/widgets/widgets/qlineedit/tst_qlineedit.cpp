@@ -62,7 +62,6 @@ DECL|function|inputMaskAndValidator_data
 DECL|function|inputMask_data
 DECL|function|inputMethod
 DECL|function|inputMethodSelection
-DECL|function|inputMethodTentativeCommit
 DECL|function|insert
 DECL|function|isModified
 DECL|function|isReadOnly
@@ -156,6 +155,7 @@ DECL|member|lineEdit
 DECL|member|lineEdit1
 DECL|member|lineEdit2
 DECL|member|m_keyboardScheme
+DECL|member|m_platformInputContext
 DECL|member|newCursorPos
 DECL|member|readOnly
 DECL|member|return_count

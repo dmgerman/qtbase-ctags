@@ -31,6 +31,8 @@ DECL|function|onServerReadyRead
 DECL|function|proxyFactory
 DECL|function|proxyFactory_data
 DECL|function|qtbug14268_peek
+DECL|function|qtbug6305
+DECL|function|qtbug6305_data
 DECL|function|queryProxy
 DECL|function|run
 DECL|function|serverAddress

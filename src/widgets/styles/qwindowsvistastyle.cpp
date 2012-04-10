@@ -2,12 +2,14 @@ DECL|function|QWindowsVistaStyle
 DECL|function|QWindowsVistaStylePrivate
 DECL|function|buttonStateId
 DECL|function|buttonVisible
+DECL|function|createTreeViewHelperWindow
 DECL|function|drawBlendedImage
 DECL|function|drawComplexControl
 DECL|function|drawControl
 DECL|function|drawPrimitive
 DECL|function|event
 DECL|function|hitTestComplexControl
+DECL|function|initTreeViewTheming
 DECL|function|paint
 DECL|function|paint
 DECL|function|paint
@@ -27,7 +29,6 @@ DECL|function|subControlRect
 DECL|function|subElementRect
 DECL|function|timerEvent
 DECL|function|transitionsEnabled
-DECL|function|treeViewHelper
 DECL|function|unpolish
 DECL|function|unpolish
 DECL|function|useVista

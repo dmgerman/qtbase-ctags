@@ -12,6 +12,7 @@ DECL|function|initTestCase
 DECL|function|inputDirection
 DECL|function|inputItem
 DECL|function|inputItemTransform
+DECL|function|inputMethodAccepted
 DECL|function|invokeAction
 DECL|function|isVisible
 DECL|function|keyboarRectangle

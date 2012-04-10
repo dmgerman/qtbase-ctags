@@ -16,6 +16,8 @@ DECL|function|createResult
 DECL|function|data
 DECL|function|escapeIdentifier
 DECL|function|exec
+DECL|function|exec
+DECL|function|exec
 DECL|function|fetch
 DECL|function|fetchFirst
 DECL|function|fetchLast
@@ -89,9 +91,11 @@ DECL|member|connection
 DECL|member|currentSize
 DECL|member|driver
 DECL|member|isUtf8
+DECL|member|pendingNotifyCheck
 DECL|member|preparedQueriesEnabled
 DECL|member|preparedStmtId
 DECL|member|pro
+DECL|member|q
 DECL|member|q
 DECL|member|result
 DECL|member|seid
