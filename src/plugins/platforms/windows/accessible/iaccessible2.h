@@ -4,6 +4,7 @@ DECL|function|Release
 DECL|function|get_localizedRelationType
 DECL|function|get_nTargets
 DECL|function|get_relationType
+DECL|function|~AccessibleRelation
 DECL|macro|IACCESSIBLE2_H
 DECL|member|private
 DECL|struct|IAccessibleRelation
