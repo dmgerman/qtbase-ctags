@@ -51,12 +51,6 @@ DECL|function|TouchPoint
 DECL|function|contentPos
 DECL|function|contentPos
 DECL|function|contentPosRange
-DECL|function|d_func
-DECL|function|d_func
-DECL|function|d_func
-DECL|function|d_func
-DECL|function|d_func
-DECL|function|d_func
 DECL|function|flags
 DECL|function|id
 DECL|function|isOverride
@@ -117,7 +111,6 @@ DECL|function|startPos
 DECL|function|startScenePos
 DECL|function|startScreenPos
 DECL|function|state
-DECL|function|url
 DECL|function|value
 DECL|function|velocity
 DECL|function|viewportSize
@@ -131,7 +124,6 @@ DECL|function|~QDragMoveEvent
 DECL|function|~QDropEvent
 DECL|function|~QExposeEvent
 DECL|function|~QFileOpenEvent
-DECL|function|~QFileOpenEventPrivate
 DECL|function|~QFocusEvent
 DECL|function|~QHelpEvent
 DECL|function|~QHideEvent
