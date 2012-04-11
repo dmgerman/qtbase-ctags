@@ -1,4 +1,5 @@
 DECL|class|QGradientCache
+DECL|class|QRectVectorPath
 DECL|enumerator|LineDrawClipped
 DECL|enumerator|LineDrawIncludeLastPixel
 DECL|enumerator|LineDrawNormal
@@ -15,6 +16,9 @@ DECL|function|QRasterPaintEngine
 DECL|function|QRasterPaintEnginePrivate
 DECL|function|QRasterPaintEngineState
 DECL|function|QRasterPaintEngineState
+DECL|function|QRectVectorPath
+DECL|function|QRectVectorPath
+DECL|function|QRectVectorPath
 DECL|function|addCacheElement
 DECL|function|adjustSpanMethods
 DECL|function|alignAddress
@@ -117,6 +121,8 @@ DECL|function|releaseDC
 DECL|function|renderHintsChanged
 DECL|function|resetBuffer
 DECL|function|saveBuffer
+DECL|function|set
+DECL|function|set
 DECL|function|setClipRect
 DECL|function|setClipRectInDeviceCoords
 DECL|function|setClipRegion
@@ -163,6 +169,7 @@ DECL|member|newClip
 DECL|member|oldClip
 DECL|member|opacity
 DECL|member|operation
+DECL|member|pts
 DECL|member|stops
 DECL|member|x
 DECL|member|y
