@@ -1,0 +1,2 @@
+DECL|macro|QQNXABSTRACTNAVIGATOR_H
+DECL|variable|QUrl

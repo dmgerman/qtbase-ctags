@@ -3,6 +3,7 @@ DECL|typedef|QQnxWindowMapper
 DECL|typedef|screen_window_t
 DECL|variable|K
 DECL|variable|QHash
+DECL|variable|QQnxAbstractNavigator
 DECL|variable|QQnxAbstractVirtualKeyboard
 DECL|variable|QQnxClipboard
 DECL|variable|QQnxEventThread

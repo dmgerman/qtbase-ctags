@@ -1,1 +1,2 @@
 DECL|macro|QQNXSERVICES_H
+DECL|variable|QQnxAbstractNavigator
