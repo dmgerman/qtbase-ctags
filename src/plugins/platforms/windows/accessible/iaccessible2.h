@@ -1,13 +1,4 @@
-DECL|function|AddRef
-DECL|function|QueryInterface
-DECL|function|Release
-DECL|function|get_localizedRelationType
-DECL|function|get_nTargets
-DECL|function|get_relationType
-DECL|function|~AccessibleRelation
 DECL|macro|IACCESSIBLE2_H
-DECL|member|private
-DECL|struct|IAccessibleRelation
 DECL|variable|IAccessibleAction
 DECL|variable|IAccessibleComponent
 DECL|variable|IAccessibleTable2
@@ -15,6 +6,3 @@ DECL|variable|IAccessibleTableCell
 DECL|variable|IAccessibleText
 DECL|variable|IAccessibleValue
 DECL|variable|QWindowsMsaaAccessible
-DECL|variable|m_ref
-DECL|variable|m_relation
-DECL|variable|m_targets
