@@ -32,7 +32,6 @@ DECL|function|get_extended_font_bits
 DECL|function|get_font_bits
 DECL|function|hintingPreference
 DECL|function|increaseCost
-DECL|function|initFontSubst
 DECL|function|insertEngine
 DECL|function|insertEngineData
 DECL|function|insertSubstitution
@@ -67,7 +66,7 @@ DECL|function|qt_defaultDpiX
 DECL|function|qt_defaultDpiY
 DECL|function|rawMode
 DECL|function|rawMode
-DECL|function|removeSubstitution
+DECL|function|removeSubstitutions
 DECL|function|resolve
 DECL|function|resolve
 DECL|function|setCapitalization
