@@ -12,4 +12,5 @@ DECL|function|lastIndexOf_regExp
 DECL|function|removeDuplicates
 DECL|function|removeDuplicates_data
 DECL|function|replaceInStrings
+DECL|function|sort
 DECL|function|streamingOperator
