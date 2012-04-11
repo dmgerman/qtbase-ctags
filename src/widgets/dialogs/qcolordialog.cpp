@@ -122,6 +122,7 @@ DECL|function|showAlpha
 DECL|function|showCurrentColor
 DECL|function|sizeHint
 DECL|function|sizeHint
+DECL|function|standardColor
 DECL|function|testOption
 DECL|function|updateCell
 DECL|function|updateQColor
