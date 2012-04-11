@@ -1,4 +1,3 @@
-DECL|function|polygonFlags
 DECL|function|set
 DECL|macro|QPAINTENGINEEX_P_H
 DECL|member|x1
