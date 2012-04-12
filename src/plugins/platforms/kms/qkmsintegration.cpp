@@ -1,9 +1,9 @@
 DECL|function|QKmsIntegration
 DECL|function|addScreen
+DECL|function|createDevice
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformWindow
-DECL|function|findDrmDevices
 DECL|function|fontDatabase
 DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
