@@ -4,6 +4,8 @@ DECL|function|QTBUG_14132
 DECL|function|QTBUG_14132_data
 DECL|function|QTBUG_16967
 DECL|function|QTBUG_16967_data
+DECL|function|QTBUG_18435
+DECL|function|QTBUG_18435_data
 DECL|function|QTBUG_21884
 DECL|function|QTBUG_21884_data
 DECL|function|QTBUG_23895
