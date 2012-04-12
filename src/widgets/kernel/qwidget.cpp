@@ -263,6 +263,7 @@ DECL|function|setWindowIconText_helper
 DECL|function|setWindowIcon_helper
 DECL|function|setWindowModality
 DECL|function|setWindowModified
+DECL|function|setWindowModified_helper
 DECL|function|setWindowOpacity
 DECL|function|setWindowRole
 DECL|function|setWindowTitle
