@@ -12,7 +12,6 @@ DECL|function|isEffectEnabled
 DECL|function|modalState
 DECL|function|notifyActiveWindowChange
 DECL|function|openPopup
-DECL|function|platformNativeInterface
 DECL|function|qt_cleanup
 DECL|function|qt_init
 DECL|function|qt_tlw_for_window
