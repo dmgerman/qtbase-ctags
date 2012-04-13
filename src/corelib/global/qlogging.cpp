@@ -17,9 +17,11 @@ DECL|function|qInstallMessageHandler
 DECL|function|qInstallMessageHandler
 DECL|function|qInstallMsgHandler
 DECL|function|qMessageFormatString
+DECL|function|qSetMessagePattern
 DECL|function|qWinMessageHandler2
 DECL|function|qt_message
 DECL|function|qt_message_output
+DECL|function|setPattern
 DECL|function|warning
 DECL|function|warning
 DECL|function|~QMessagePattern
@@ -27,11 +29,15 @@ DECL|macro|qCritical
 DECL|macro|qDebug
 DECL|macro|qFatal
 DECL|macro|qWarning
+DECL|member|fromEnvironment
 DECL|member|literals
+DECL|member|mutex
+DECL|member|mutex
 DECL|member|tokens
 DECL|struct|QMessagePattern
 DECL|variable|appnameTokenC
 DECL|variable|categoryTokenC
+DECL|variable|defaultPattern
 DECL|variable|emptyTokenC
 DECL|variable|fileTokenC
 DECL|variable|functionTokenC
