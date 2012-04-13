@@ -8,6 +8,7 @@ DECL|function|cleanRef
 DECL|function|collectNodesByTypeAndSubtype
 DECL|function|countTableColumns
 DECL|function|currentTag
+DECL|function|debugPara
 DECL|function|endLink
 DECL|function|endSubPage
 DECL|function|enterApiDesc
