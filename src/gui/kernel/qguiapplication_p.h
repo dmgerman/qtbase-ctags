@@ -1,3 +1,3 @@
-DECL|macro|QGUIAPPLICATION_QPA_P_H
+DECL|macro|QGUIAPPLICATION_P_H
 DECL|variable|QPlatformIntegration
 DECL|variable|QPlatformTheme
