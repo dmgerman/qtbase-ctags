@@ -82,7 +82,6 @@ DECL|function|surfaceHandle
 DECL|function|surfaceType
 DECL|function|touchEvent
 DECL|function|transientParent
-DECL|function|visible
 DECL|function|wheelEvent
 DECL|function|winId
 DECL|function|windowFlags
