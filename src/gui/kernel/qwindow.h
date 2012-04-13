@@ -1,4 +1,4 @@
-DECL|macro|QWINDOW_QPA_H
+DECL|macro|QWINDOW_H
 DECL|variable|QAccessibleInterface
 DECL|variable|QBackingStore
 DECL|variable|QExposeEvent
