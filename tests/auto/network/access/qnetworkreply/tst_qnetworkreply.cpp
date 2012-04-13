@@ -53,6 +53,8 @@ DECL|function|authenticationWithDifferentRealm
 DECL|function|authorizationError
 DECL|function|authorizationError_data
 DECL|function|backgroundRequest
+DECL|function|backgroundRequestInterruption
+DECL|function|backgroundRequestInterruption_data
 DECL|function|backgroundRequest_data
 DECL|function|bytesWrittenSlot
 DECL|function|bytesWrittenSlot
