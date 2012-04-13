@@ -32,13 +32,17 @@ DECL|function|currentPosition
 DECL|function|curveThreshold
 DECL|function|dashOffset
 DECL|function|dashPattern
+DECL|function|detach
 DECL|function|detach_helper
+DECL|function|elementAt
+DECL|function|elementCount
 DECL|function|ensureData_helper
 DECL|function|epsilonCompare
 DECL|function|fillRule
 DECL|function|intersected
 DECL|function|intersects
 DECL|function|intersects
+DECL|function|isEmpty
 DECL|function|joinStyle
 DECL|function|length
 DECL|function|lineTo
@@ -79,6 +83,7 @@ DECL|function|setDashOffset
 DECL|function|setDashPattern
 DECL|function|setDashPattern
 DECL|function|setDirty
+DECL|function|setElementPositionAt
 DECL|function|setFillRule
 DECL|function|setJoinStyle
 DECL|function|setMiterLimit
