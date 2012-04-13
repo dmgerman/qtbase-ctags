@@ -7,6 +7,7 @@ DECL|function|_q_copyReadChannelFinished
 DECL|function|_q_copyReadyRead
 DECL|function|_q_networkSessionConnected
 DECL|function|_q_networkSessionFailed
+DECL|function|_q_networkSessionUsagePoliciesChanged
 DECL|function|_q_startOperation
 DECL|function|abort
 DECL|function|appendDownstreamData

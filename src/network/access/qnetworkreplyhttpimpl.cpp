@@ -7,6 +7,7 @@ DECL|function|_q_error
 DECL|function|_q_finished
 DECL|function|_q_networkSessionConnected
 DECL|function|_q_networkSessionFailed
+DECL|function|_q_networkSessionUsagePoliciesChanged
 DECL|function|_q_startOperation
 DECL|function|abort
 DECL|function|bytesAvailable
