@@ -60,6 +60,8 @@ DECL|function|sizeHint
 DECL|function|sizeHint_data
 DECL|function|task257859_finalizeEdit
 DECL|function|testEventFilter
+DECL|function|testLineEditValidation
+DECL|function|testLineEditValidation_data
 DECL|function|textRectangle
 DECL|function|textRectangle
 DECL|function|textRectangle_data

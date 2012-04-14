@@ -14,6 +14,7 @@ DECL|function|setEditorData
 DECL|function|setItemEditorFactory
 DECL|function|setModelData
 DECL|function|sizeHint
+DECL|function|tryFixup
 DECL|function|updateEditorGeometry
 DECL|function|widget
 DECL|function|~QStyledItemDelegate
