@@ -139,6 +139,7 @@ DECL|member|insertCallCount
 DECL|member|iterationCounter
 DECL|member|lastRedoEnabled
 DECL|member|lastUndoEnabled
+DECL|member|m_fullWidthSelectionImagesFolder
 DECL|member|m_platformInputContext
 DECL|member|received
 DECL|member|redoCount

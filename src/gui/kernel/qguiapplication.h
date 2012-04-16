@@ -1,4 +1,4 @@
-DECL|macro|QGUIAPPLICATION_QPA_H
+DECL|macro|QGUIAPPLICATION_H
 DECL|macro|qApp
 DECL|macro|qApp
 DECL|macro|qGuiApp

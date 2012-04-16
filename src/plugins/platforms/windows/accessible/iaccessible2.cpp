@@ -1,9 +1,13 @@
+DECL|function|AccessibleRelation
+DECL|function|AddRef
 DECL|function|AddRef
 DECL|function|AddRef
 DECL|function|IIDToString
 DECL|function|QueryInterface
 DECL|function|QueryInterface
+DECL|function|QueryInterface
 DECL|function|QueryService
+DECL|function|Release
 DECL|function|Release
 DECL|function|Release
 DECL|function|addSelection
@@ -37,6 +41,7 @@ DECL|function|get_locale
 DECL|function|get_localizedExtendedRole
 DECL|function|get_localizedExtendedStates
 DECL|function|get_localizedName
+DECL|function|get_localizedRelationType
 DECL|function|get_locationInParent
 DECL|function|get_maximumValue
 DECL|function|get_minimumValue
@@ -50,11 +55,13 @@ DECL|function|get_nSelectedCells
 DECL|function|get_nSelectedColumns
 DECL|function|get_nSelectedRows
 DECL|function|get_nSelections
+DECL|function|get_nTargets
 DECL|function|get_name
 DECL|function|get_newText
 DECL|function|get_offsetAtPoint
 DECL|function|get_oldText
 DECL|function|get_relation
+DECL|function|get_relationType
 DECL|function|get_relations
 DECL|function|get_rowColumnExtents
 DECL|function|get_rowDescription

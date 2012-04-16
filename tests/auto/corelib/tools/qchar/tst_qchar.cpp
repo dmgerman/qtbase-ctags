@@ -22,6 +22,7 @@ DECL|function|isTitle
 DECL|function|isUpper
 DECL|function|joining
 DECL|function|lineBreakClass
+DECL|function|mirroredChar
 DECL|function|normalization
 DECL|function|normalizationCorrections
 DECL|function|normalization_data

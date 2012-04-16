@@ -1,4 +1,8 @@
 DECL|class|QWindowsNativeInterface
+DECL|enumerator|FontDatabaseAuto
+DECL|enumerator|FontDatabaseFreeType
+DECL|enumerator|FontDatabaseNative
+DECL|enum|FontDatabaseOption
 DECL|function|QWindowsIntegration
 DECL|function|QWindowsIntegrationPrivate
 DECL|function|accessibility
@@ -11,6 +15,7 @@ DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|drag
 DECL|function|fontDatabase
+DECL|function|fontDatabaseOption
 DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
 DECL|function|inputContext

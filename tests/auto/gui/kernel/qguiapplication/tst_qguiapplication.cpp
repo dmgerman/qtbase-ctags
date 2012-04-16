@@ -1,7 +1,9 @@
+DECL|class|BlockableWindow
 DECL|class|DummyWindow
 DECL|class|FocusChangeWindow
 DECL|class|ShowCloseShowWindow
 DECL|class|tst_QGuiApplication
+DECL|function|BlockableWindow
 DECL|function|DummyWindow
 DECL|function|FocusChangeWindow
 DECL|function|ShowCloseShowWindow
@@ -10,13 +12,16 @@ DECL|function|allWindows
 DECL|function|changeFocusWindow
 DECL|function|doClose
 DECL|function|event
+DECL|function|event
 DECL|function|exitApp
 DECL|function|focusObject
 DECL|function|focusObject
 DECL|function|focusOutEvent
 DECL|function|keyboardModifiers
+DECL|function|modalWindow
 DECL|function|setFocusObject
 DECL|function|topLevelWindows
+DECL|member|blocked
 DECL|member|m_focusObject
 DECL|member|showAgain
 DECL|member|windowDuringFocusAboutToChange

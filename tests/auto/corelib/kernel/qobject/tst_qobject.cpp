@@ -220,6 +220,8 @@ DECL|function|returnCustomTypeSlot
 DECL|function|returnHello
 DECL|function|returnIntSlot
 DECL|function|returnStringSlot
+DECL|function|returnThisSlot1
+DECL|function|returnThisSlot2
 DECL|function|returnValue
 DECL|function|returnValue2
 DECL|function|returnValue2_data

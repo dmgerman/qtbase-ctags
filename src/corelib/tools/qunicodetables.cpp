@@ -1,3 +1,4 @@
+DECL|enumerator|NormalizationCorrectionsVersionMax
 DECL|enumerator|NumNormalizationCorrections
 DECL|enumerator|UnicodeBlockCount
 DECL|enumerator|UnicodeBlockSize

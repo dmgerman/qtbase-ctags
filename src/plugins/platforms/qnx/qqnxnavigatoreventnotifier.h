@@ -1,0 +1,3 @@
+DECL|macro|QQNXNAVIGATOREVENTNOTIFIER_H
+DECL|variable|QQnxNavigatorEventHandler
+DECL|variable|QSocketNotifier

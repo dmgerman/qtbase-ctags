@@ -8,7 +8,7 @@ DECL|function|cascadingResize
 DECL|function|cascadingSectionResizes
 DECL|function|clear
 DECL|function|count
-DECL|function|createSectionSpan
+DECL|function|createSectionItems
 DECL|function|currentChanged
 DECL|function|dataChanged
 DECL|function|defaultAlignment
@@ -52,10 +52,10 @@ DECL|function|paintEvent
 DECL|function|paintSection
 DECL|function|read
 DECL|function|recalcSectionStartPos
-DECL|function|removeSectionsFromSpans
+DECL|function|removeSectionsFromSectionItems
 DECL|function|reset
 DECL|function|resizeSection
-DECL|function|resizeSectionSpan
+DECL|function|resizeSectionItem
 DECL|function|resizeSections
 DECL|function|resizeSections
 DECL|function|resizeSections

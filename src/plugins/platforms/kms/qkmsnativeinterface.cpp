@@ -1,0 +1,6 @@
+DECL|class|QKmsResourceMap
+DECL|function|QKmsResourceMap
+DECL|function|eglContextForWindow
+DECL|function|eglDisplayForWindow
+DECL|function|nativeResourceForWindow
+DECL|function|qPlatformScreenForWindow

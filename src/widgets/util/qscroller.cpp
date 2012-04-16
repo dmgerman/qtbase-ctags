@@ -6,6 +6,7 @@ DECL|function|activeScrollers
 DECL|function|clampToRect
 DECL|function|createScrollToSegments
 DECL|function|createScrollingSegments
+DECL|function|createScrollingSegments
 DECL|function|differentialForProgress
 DECL|function|dpi
 DECL|function|duration

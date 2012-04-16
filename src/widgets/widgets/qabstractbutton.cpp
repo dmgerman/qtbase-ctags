@@ -5,7 +5,6 @@ DECL|function|QAbstractButtonPrivate
 DECL|function|QButtonGroup
 DECL|function|QButtonGroupPrivate
 DECL|function|addButton
-DECL|function|addButton
 DECL|function|animateClick
 DECL|function|autoExclusive
 DECL|function|autoRepeat

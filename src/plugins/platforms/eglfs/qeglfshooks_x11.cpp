@@ -1,0 +1,11 @@
+DECL|class|QEglFSX11Hooks
+DECL|function|createNativeWindow
+DECL|function|destroyNativeWindow
+DECL|function|hasCapability
+DECL|function|platformDestroy
+DECL|function|platformDisplay
+DECL|function|platformInit
+DECL|function|screenSize
+DECL|variable|display
+DECL|variable|eglFSX11Hooks
+DECL|variable|platformHooks

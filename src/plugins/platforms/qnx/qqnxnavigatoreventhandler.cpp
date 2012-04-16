@@ -1,9 +1,5 @@
 DECL|function|QQnxNavigatorEventHandler
-DECL|function|handleMessage
-DECL|function|parsePPS
-DECL|function|readData
-DECL|function|replyPPS
-DECL|function|start
-DECL|function|~QQnxNavigatorEventHandler
-DECL|variable|navigatorControlPath
-DECL|variable|ppsBufferSize
+DECL|function|handleExit
+DECL|function|handleOrientationChange
+DECL|function|handleOrientationCheck
+DECL|function|handleSwipeDown

@@ -70,7 +70,6 @@ DECL|function|unicodeVersion
 DECL|macro|FLAG
 DECL|macro|QT_NO_CAST_FROM_ASCII
 DECL|macro|QT_NO_CAST_TO_ASCII
-DECL|macro|QT_NO_CODEC_FOR_C_STRINGS
 DECL|member|u1
 DECL|member|u2
 DECL|struct|UCS2Pair

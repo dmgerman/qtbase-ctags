@@ -1,0 +1,2 @@
+DECL|macro|QDIRECTFBEGL_HOOKS_H
+DECL|struct|QDirectFBEGLHooks
