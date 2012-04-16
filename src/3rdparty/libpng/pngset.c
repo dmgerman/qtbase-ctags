@@ -4,7 +4,10 @@ DECL|function|png_set_PLTE
 DECL|function|png_set_bKGD
 DECL|function|png_set_benign_errors
 DECL|function|png_set_cHRM
+DECL|function|png_set_cHRM_XYZ
+DECL|function|png_set_cHRM_XYZ_fixed
 DECL|function|png_set_cHRM_fixed
+DECL|function|png_set_check_for_invalid_index
 DECL|function|png_set_chunk_cache_max
 DECL|function|png_set_chunk_malloc_max
 DECL|function|png_set_compression_buffer_size

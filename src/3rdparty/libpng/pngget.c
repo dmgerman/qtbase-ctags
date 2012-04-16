@@ -4,6 +4,8 @@ DECL|function|png_get_PLTE
 DECL|function|png_get_bKGD
 DECL|function|png_get_bit_depth
 DECL|function|png_get_cHRM
+DECL|function|png_get_cHRM_XYZ
+DECL|function|png_get_cHRM_XYZ_fixed
 DECL|function|png_get_cHRM_fixed
 DECL|function|png_get_channels
 DECL|function|png_get_chunk_cache_max

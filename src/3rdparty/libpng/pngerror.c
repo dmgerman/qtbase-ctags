@@ -9,11 +9,17 @@ DECL|function|png_chunk_benign_error
 DECL|function|png_chunk_warning
 DECL|function|png_default_warning
 DECL|function|png_format_buffer
+DECL|function|png_format_number
+DECL|function|png_formatted_warning
 DECL|function|png_get_error_ptr
+DECL|function|png_safecat
 DECL|function|png_set_error_fn
 DECL|function|png_set_longjmp_fn
 DECL|function|png_set_strip_error_numbers
 DECL|function|png_warning
+DECL|function|png_warning_parameter
+DECL|function|png_warning_parameter_signed
+DECL|function|png_warning_parameter_unsigned
 DECL|macro|PNG_MAX_ERROR_TEXT
 DECL|macro|fixed_message
 DECL|macro|fixed_message_ln

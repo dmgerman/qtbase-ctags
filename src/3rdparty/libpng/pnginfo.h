@@ -42,7 +42,6 @@ DECL|member|splt_palettes
 DECL|member|splt_palettes_num
 DECL|member|srgb_intent
 DECL|member|text
-DECL|member|trans
 DECL|member|trans_alpha
 DECL|member|trans_color
 DECL|member|unknown_chunks

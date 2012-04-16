@@ -14,6 +14,11 @@ DECL|function|png_set_filter
 DECL|function|png_set_filter_heuristics
 DECL|function|png_set_filter_heuristics_fixed
 DECL|function|png_set_flush
+DECL|function|png_set_text_compression_level
+DECL|function|png_set_text_compression_mem_level
+DECL|function|png_set_text_compression_method
+DECL|function|png_set_text_compression_strategy
+DECL|function|png_set_text_compression_window_bits
 DECL|function|png_set_write_status_fn
 DECL|function|png_set_write_user_transform_fn
 DECL|function|png_write_destroy

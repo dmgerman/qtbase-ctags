@@ -13,7 +13,9 @@ DECL|function|png_write_cHRM_fixed
 DECL|function|png_write_chunk
 DECL|function|png_write_chunk_data
 DECL|function|png_write_chunk_end
+DECL|function|png_write_chunk_header
 DECL|function|png_write_chunk_start
+DECL|function|png_write_complete_chunk
 DECL|function|png_write_compressed_data_out
 DECL|function|png_write_filtered_row
 DECL|function|png_write_find_filter
@@ -35,6 +37,8 @@ DECL|function|png_write_tEXt
 DECL|function|png_write_tIME
 DECL|function|png_write_tRNS
 DECL|function|png_write_zTXt
+DECL|function|png_zlib_claim
+DECL|function|png_zlib_release
 DECL|macro|PNG_HIMASK
 DECL|macro|PNG_HISHIFT
 DECL|macro|PNG_LOMASK

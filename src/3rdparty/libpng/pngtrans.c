@@ -1,7 +1,8 @@
 DECL|function|png_do_bgr
+DECL|function|png_do_check_palette_indexes
 DECL|function|png_do_invert
 DECL|function|png_do_packswap
-DECL|function|png_do_strip_filler
+DECL|function|png_do_strip_channel
 DECL|function|png_do_swap
 DECL|function|png_get_current_pass_number
 DECL|function|png_get_current_row_number
