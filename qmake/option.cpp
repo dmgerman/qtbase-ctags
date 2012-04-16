@@ -1,6 +1,5 @@
 DECL|class|QMakeCacheClearItem
 DECL|function|QMakeCacheClearItem
-DECL|function|applyHostMode
 DECL|function|cleanSpec
 DECL|function|debug_msg_internal
 DECL|function|default_mode
