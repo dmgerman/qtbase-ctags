@@ -1,4 +1,5 @@
 DECL|function|first
+DECL|function|intValue
 DECL|function|isSet
 DECL|function|projectFile
 DECL|function|values
