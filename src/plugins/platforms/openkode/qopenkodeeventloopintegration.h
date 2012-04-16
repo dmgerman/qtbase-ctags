@@ -1,3 +1,0 @@
-DECL|macro|QOPENKODEEVENTLOOPINTEGRATION_H
-DECL|variable|KDEvent
-DECL|variable|KDThread

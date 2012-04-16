@@ -1,2 +1,0 @@
-DECL|macro|QGRAPHICSSYSTEM_OPENKODE_H
-DECL|variable|QOpenKODECursor

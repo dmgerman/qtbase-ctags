@@ -1,3 +1,0 @@
-DECL|macro|QGRAPHICSSYSTEM_VGLITE_H
-DECL|variable|QGraphicsSystem
-DECL|variable|QVGLiteWindowSurface

@@ -1,3 +1,0 @@
-DECL|macro|QOPENKODEWINDOW_H
-DECL|variable|QEGLPlatformContext
-DECL|variable|QPlatformEventLoopIntegration
