@@ -1,6 +1,9 @@
 DECL|class|QStandardPathsPrivate
 DECL|function|QStandardPathsPrivate
+DECL|function|appendOrganizationAndApp
+DECL|function|enableTestMode
 DECL|function|standardLocations
 DECL|function|writableLocation
 DECL|function|~QStandardPathsPrivate
 DECL|member|object
+DECL|variable|qsp_testMode

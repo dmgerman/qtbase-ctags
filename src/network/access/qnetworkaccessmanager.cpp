@@ -16,6 +16,7 @@ DECL|function|createSession
 DECL|function|deleteResource
 DECL|function|ensureInitialized
 DECL|function|get
+DECL|function|getNetworkSession
 DECL|function|getProxyAuth
 DECL|function|head
 DECL|function|networkAccessible

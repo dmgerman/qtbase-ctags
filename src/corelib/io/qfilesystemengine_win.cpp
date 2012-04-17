@@ -48,7 +48,6 @@ DECL|macro|REPARSE_DATA_BUFFER_HEADER_SIZE
 DECL|macro|SECURITY_WIN32
 DECL|macro|SPI_GETPLATFORMTYPE
 DECL|macro|_INTPTR_T_DEFINED
-DECL|macro|_POSIX_
 DECL|member|DataBuffer
 DECL|member|Flags
 DECL|member|GenericReparseBuffer

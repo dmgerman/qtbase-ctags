@@ -3,7 +3,6 @@ DECL|function|addSkip
 DECL|function|checkStatement
 DECL|function|clearExpectFail
 DECL|function|compare
-DECL|function|compare
 DECL|function|currentAppname
 DECL|function|currentDataTag
 DECL|function|currentGlobalDataTag

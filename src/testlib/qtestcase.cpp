@@ -6,7 +6,6 @@ DECL|function|TestFunction
 DECL|function|addColumnInternal
 DECL|function|cleanup
 DECL|function|compare_helper
-DECL|function|compare_helper
 DECL|function|compare_string_helper
 DECL|function|currentDataTag
 DECL|function|currentTestFailed

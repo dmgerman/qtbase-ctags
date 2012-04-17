@@ -1,6 +1,7 @@
 DECL|class|QSingleShotTimer
 DECL|function|QSingleShotTimer
 DECL|function|QTimer
+DECL|function|remainingTime
 DECL|function|setInterval
 DECL|function|singleShot
 DECL|function|singleShot

@@ -1,4 +1,3 @@
-DECL|class|QSslSocketPtr
 DECL|class|tst_QSslSocket_onDemandCertificates_member
 DECL|enumerator|AuthBasic
 DECL|enumerator|AuthMask
@@ -9,16 +8,15 @@ DECL|enumerator|NoProxy
 DECL|enumerator|Socks5Proxy
 DECL|enumerator|TypeMask
 DECL|enum|ProxyTests
-DECL|function|QSslSocketPtr
 DECL|function|cleanup
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|initTestCase_data
 DECL|function|newSocket
 DECL|function|onDemandRootCertLoadingMemberMethods
-DECL|function|operator QSslSocket *
 DECL|function|proxyAuthenticationRequired
 DECL|function|tst_QSslSocket_onDemandCertificates_member
 DECL|function|~tst_QSslSocket_onDemandCertificates_member
 DECL|member|proxyAuthCalled
 DECL|member|socket
+DECL|typedef|QSslSocketPtr

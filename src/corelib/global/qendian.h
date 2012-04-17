@@ -36,6 +36,9 @@ DECL|function|qint32
 DECL|function|qint64
 DECL|function|qint64
 DECL|function|qint64
+DECL|function|qint8
+DECL|function|qint8
+DECL|function|qint8
 DECL|function|quint16
 DECL|function|quint16
 DECL|function|quint16
@@ -48,5 +51,7 @@ DECL|function|quint64
 DECL|function|quint64
 DECL|function|quint64
 DECL|function|quint64
+DECL|function|quint8
+DECL|function|quint8
 DECL|function|quint8
 DECL|macro|QENDIAN_H

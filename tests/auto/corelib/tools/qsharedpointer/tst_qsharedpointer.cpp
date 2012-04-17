@@ -2,7 +2,6 @@ DECL|class|Data
 DECL|class|DerivedData
 DECL|class|DiffPtrDerivedData
 DECL|class|OtherObject
-DECL|class|RefCountHack
 DECL|class|StrongThread
 DECL|class|Stuffing
 DECL|class|ThreadData

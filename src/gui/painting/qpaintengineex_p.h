@@ -1,11 +1,4 @@
-DECL|function|polygonFlags
-DECL|function|set
 DECL|macro|QPAINTENGINEEX_P_H
-DECL|member|x1
-DECL|member|x2
-DECL|member|y1
-DECL|member|y2
-DECL|struct|QIntRect
 DECL|variable|QPaintEngineExPrivate
 DECL|variable|QPainterState
 DECL|variable|QPixmapFilter

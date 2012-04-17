@@ -1,5 +1,7 @@
 DECL|class|FetchAndAddThread
 DECL|class|tst_QAtomicInt
+DECL|function|alignment
+DECL|function|assemblyMarker
 DECL|function|assignment_operator
 DECL|function|assignment_operator_data
 DECL|function|constructor
@@ -30,5 +32,8 @@ DECL|function|testAndSet_data
 DECL|function|testAndSet_loop
 DECL|function|warningFree
 DECL|function|warningFreeHelper
+DECL|function|warningFreeHelperTemplate
 DECL|member|iterations
+DECL|member|type
 DECL|member|val
+DECL|struct|TypeInStruct

@@ -24,12 +24,6 @@ DECL|function|QStyleOptionMenuItem
 DECL|function|QStyleOptionMenuItem
 DECL|function|QStyleOptionProgressBar
 DECL|function|QStyleOptionProgressBar
-DECL|function|QStyleOptionQ3DockWindow
-DECL|function|QStyleOptionQ3DockWindow
-DECL|function|QStyleOptionQ3ListView
-DECL|function|QStyleOptionQ3ListView
-DECL|function|QStyleOptionQ3ListViewItem
-DECL|function|QStyleOptionQ3ListViewItem
 DECL|function|QStyleOptionRubberBand
 DECL|function|QStyleOptionRubberBand
 DECL|function|QStyleOptionSizeGrip

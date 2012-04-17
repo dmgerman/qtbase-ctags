@@ -42,6 +42,7 @@ DECL|function|handlePropertyNotifyEvent
 DECL|function|handleUnmapNotifyEvent
 DECL|function|hide
 DECL|function|imageFormatForDepth
+DECL|function|isExposed
 DECL|function|isTransient
 DECL|function|lower
 DECL|function|netWmStates

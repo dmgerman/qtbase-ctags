@@ -13,4 +13,3 @@ DECL|variable|QStackedWidget
 DECL|variable|QTextBrowser
 DECL|variable|QTextEdit
 DECL|variable|QToolBox
-DECL|variable|QWorkspace

@@ -1,6 +1,9 @@
+DECL|function|appendOrganizationAndApp
 DECL|function|displayName
+DECL|function|enableTestMode
 DECL|function|getFullPath
 DECL|function|macLocation
 DECL|function|standardLocations
 DECL|function|translateLocation
 DECL|function|writableLocation
+DECL|variable|qsp_testMode

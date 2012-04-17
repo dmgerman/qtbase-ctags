@@ -1,0 +1,10 @@
+DECL|function|checkedToAscii
+DECL|function|number
+DECL|function|parseIp4
+DECL|function|parseIp4Internal
+DECL|function|parseIp6
+DECL|function|toHex
+DECL|function|toString
+DECL|function|toString
+DECL|namespace|QIPAddressUtils
+DECL|typedef|Buffer

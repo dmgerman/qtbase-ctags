@@ -1,0 +1,33 @@
+DECL|class|tst_QUrlQuery
+DECL|function|addRemove
+DECL|function|basicParsing
+DECL|function|basicParsing_data
+DECL|function|compare
+DECL|function|constructing
+DECL|function|differentDelimiters
+DECL|function|emptyQuery
+DECL|function|encodedParsing
+DECL|function|encodedParsing_data
+DECL|function|encodedSetQueryItems
+DECL|function|encodedSetQueryItems_data
+DECL|function|multiAddRemove
+DECL|function|multiplyAddSamePair
+DECL|function|old_hasQueryItem
+DECL|function|old_hasQueryItem_data
+DECL|function|old_queryItems
+DECL|function|operator +
+DECL|function|operator +
+DECL|function|prettyElement
+DECL|function|prettyList
+DECL|function|prettyPair
+DECL|function|qItem
+DECL|function|qItem
+DECL|function|qItem
+DECL|function|qItem
+DECL|function|reconstructQuery
+DECL|function|reconstructQuery_data
+DECL|function|setQueryItems
+DECL|function|setQueryItems_data
+DECL|function|tst_QUrlQuery
+DECL|macro|COMPARE_ITEMS
+DECL|typedef|QueryItems

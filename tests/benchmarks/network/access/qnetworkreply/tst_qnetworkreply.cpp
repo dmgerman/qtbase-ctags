@@ -5,7 +5,6 @@ DECL|class|HttpDownloadPerformanceClient
 DECL|class|HttpDownloadPerformanceClientDownloadBuffer
 DECL|class|HttpDownloadPerformanceServer
 DECL|class|HttpsRequestChainHelper
-DECL|class|QNetworkReplyPtr
 DECL|class|ThreadedDataReader
 DECL|class|ThreadedDataReaderHttpServer
 DECL|class|TimedSender
@@ -22,18 +21,19 @@ DECL|enumerator|Stopped
 DECL|enum|HttpDownloadPerformanceDownloadBufferTestType
 DECL|function|DataGenerator
 DECL|function|DataReader
+DECL|function|DataReader
 DECL|function|FixedSizeDataGenerator
 DECL|function|HttpDownloadPerformanceClient
 DECL|function|HttpDownloadPerformanceClientDownloadBuffer
 DECL|function|HttpDownloadPerformanceServer
 DECL|function|HttpsRequestChainHelper
-DECL|function|QNetworkReplyPtr
 DECL|function|ThreadedDataReader
 DECL|function|ThreadedDataReaderHttpServer
 DECL|function|TimedSender
 DECL|function|bytesAvailable
 DECL|function|bytesAvailable
 DECL|function|bytesWrittenSlot
+DECL|function|connect
 DECL|function|doNextRequest
 DECL|function|doRead
 DECL|function|downloadPerformance
@@ -51,7 +51,6 @@ DECL|function|initTestCase
 DECL|function|isSequential
 DECL|function|isSequential
 DECL|function|newConnectionSlot
-DECL|function|operator QNetworkReply *
 DECL|function|performanceControlRate
 DECL|function|readData
 DECL|function|readData
@@ -118,3 +117,4 @@ DECL|member|transferRate
 DECL|member|transferRate
 DECL|member|transferRate
 DECL|member|uploadSize
+DECL|typedef|QNetworkReplyPtr

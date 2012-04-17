@@ -56,8 +56,8 @@ DECL|function|record
 DECL|function|reset
 DECL|function|rollbackTransaction
 DECL|function|size
-DECL|function|subscribeToNotificationImplementation
-DECL|function|subscribedToNotificationsImplementation
+DECL|function|subscribeToNotification
+DECL|function|subscribedToNotifications
 DECL|function|tables
 DECL|function|toDate
 DECL|function|toList
@@ -65,7 +65,7 @@ DECL|function|toList
 DECL|function|toTime
 DECL|function|toTimeStamp
 DECL|function|transaction
-DECL|function|unsubscribeFromNotificationImplementation
+DECL|function|unsubscribeFromNotification
 DECL|function|writeArray
 DECL|function|writeBlob
 DECL|function|~QIBaseDriver

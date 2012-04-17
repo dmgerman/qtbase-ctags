@@ -65,7 +65,6 @@ DECL|function|index
 DECL|function|index
 DECL|function|indexFromItem
 DECL|function|indexOfTopLevelItem
-DECL|function|indexOfTopLevelItem
 DECL|function|insertChild
 DECL|function|insertChildren
 DECL|function|insertColumns
@@ -79,7 +78,6 @@ DECL|function|isFirstItemColumnSpanned
 DECL|function|isItemExpanded
 DECL|function|isItemHidden
 DECL|function|isItemSelected
-DECL|function|isSortingEnabled
 DECL|function|item
 DECL|function|itemAbove
 DECL|function|itemAt
@@ -130,7 +128,6 @@ DECL|function|setItemSelected
 DECL|function|setItemWidget
 DECL|function|setModel
 DECL|function|setSelectionModel
-DECL|function|setSortingEnabled
 DECL|function|sort
 DECL|function|sortChildren
 DECL|function|sortChildren

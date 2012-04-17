@@ -31,6 +31,8 @@ DECL|function|reallocAfterCopy
 DECL|function|reallocAfterCopy_data
 DECL|function|remove
 DECL|function|reserve
+DECL|function|setSharable
+DECL|function|setSharable_data
 DECL|function|size
 DECL|function|startsWith
 DECL|function|swap
@@ -41,5 +43,6 @@ DECL|function|value
 DECL|function|~Foo
 DECL|member|p
 DECL|struct|Foo
+DECL|variable|QVector
 DECL|variable|fooCtor
 DECL|variable|fooDtor

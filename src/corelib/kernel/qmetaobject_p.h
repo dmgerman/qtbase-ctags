@@ -11,6 +11,7 @@ DECL|enumerator|Editable
 DECL|enumerator|EnumOrFlag
 DECL|enumerator|Final
 DECL|enumerator|Invalid
+DECL|enumerator|IsUnresolvedType
 DECL|enumerator|MetaObjectPrivateFieldCount
 DECL|enumerator|MethodCloned
 DECL|enumerator|MethodCompatibility
@@ -35,9 +36,11 @@ DECL|enumerator|Revisioned
 DECL|enumerator|Scriptable
 DECL|enumerator|StdCppSet
 DECL|enumerator|Stored
+DECL|enumerator|TypeNameIndexMask
 DECL|enumerator|User
 DECL|enumerator|Writable
 DECL|enum|DisconnectType
+DECL|enum|MetaDataFlags
 DECL|enum|MetaObjectFlags
 DECL|enum|MethodFlags
 DECL|enum|PropertyFlags
@@ -60,4 +63,9 @@ DECL|member|propertyData
 DECL|member|revision
 DECL|member|signalCount
 DECL|struct|QMetaObjectPrivate
+DECL|typedef|QArgumentType
+DECL|typedef|QArgumentTypeArray
+DECL|variable|QMetaMethodPrivate
 DECL|variable|QMutex
+DECL|variable|QVarLengthArray
+DECL|variable|T

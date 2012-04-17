@@ -14,6 +14,7 @@ DECL|function|repairTimersIfNeeded
 DECL|function|roundToMillisecond
 DECL|function|timeChanged
 DECL|function|timerInsert
+DECL|function|timerRemainingTime
 DECL|function|timerRepair
 DECL|function|timerWait
 DECL|function|unregisterTimer

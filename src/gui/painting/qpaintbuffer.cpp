@@ -8,7 +8,6 @@ DECL|function|QPaintBuffer
 DECL|function|QPaintBuffer
 DECL|function|QPaintBufferEngine
 DECL|function|QPaintBufferPrivate
-DECL|function|QPaintBufferResource
 DECL|function|QTextItemIntCopy
 DECL|function|backgroundModeChanged
 DECL|function|begin
@@ -51,8 +50,6 @@ DECL|function|fillRect
 DECL|function|fillRect
 DECL|function|frameEndIndex
 DECL|function|frameStartIndex
-DECL|function|insert
-DECL|function|instance
 DECL|function|isEmpty
 DECL|function|metric
 DECL|function|metric
@@ -76,7 +73,6 @@ DECL|function|processCommands
 DECL|function|processCommands
 DECL|function|qRegisterPaintBufferMetaTypes
 DECL|function|qpaintbuffer_storable_image
-DECL|function|remove
 DECL|function|renderHintsChanged
 DECL|function|setBoundingRect
 DECL|function|setDpiX
@@ -87,10 +83,8 @@ DECL|function|stroke
 DECL|function|systemStateChanged
 DECL|function|transformChanged
 DECL|function|updateBoundingRect
-DECL|function|value
 DECL|function|~QPaintBuffer
 DECL|function|~QPaintBufferPrivate
-DECL|function|~QPaintBufferResource
 DECL|function|~QTextItemIntCopy
 DECL|member|bits
 DECL|member|cacheKey

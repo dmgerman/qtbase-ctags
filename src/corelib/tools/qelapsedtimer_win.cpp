@@ -6,6 +6,7 @@ DECL|function|msecsSinceReference
 DECL|function|msecsTo
 DECL|function|nsecsElapsed
 DECL|function|operator <
+DECL|function|qt_msectime
 DECL|function|resolveLibs
 DECL|function|restart
 DECL|function|secsTo

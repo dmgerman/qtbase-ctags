@@ -37,4 +37,3 @@ DECL|function|tempPath
 DECL|function|unmap
 DECL|macro|PATH_MAX
 DECL|macro|SECURITY_WIN32
-DECL|macro|_POSIX_

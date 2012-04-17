@@ -9,7 +9,6 @@ DECL|function|QAccessibleTextBrowser
 DECL|function|QAccessibleTextEdit
 DECL|function|QAccessibleTitleBar
 DECL|function|QAccessibleToolBox
-DECL|function|QAccessibleWorkspace
 DECL|function|addSelection
 DECL|function|attributes
 DECL|function|calendarView
@@ -23,11 +22,9 @@ DECL|function|child
 DECL|function|child
 DECL|function|child
 DECL|function|child
-DECL|function|child
 DECL|function|childAt
 DECL|function|childAt
 DECL|function|childAt
-DECL|function|childCount
 DECL|function|childCount
 DECL|function|childCount
 DECL|function|childCount
@@ -44,7 +41,6 @@ DECL|function|deleteText
 DECL|function|dockWidget
 DECL|function|dockWidget
 DECL|function|dockWidgetLayout
-DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|indexOfChild
@@ -92,4 +88,3 @@ DECL|function|textAtOffset
 DECL|function|textBeforeOffset
 DECL|function|textEdit
 DECL|function|toolBox
-DECL|function|workspace

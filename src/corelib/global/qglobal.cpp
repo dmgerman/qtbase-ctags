@@ -26,8 +26,6 @@ DECL|macro|VER_PLATFORM_WIN32_CE
 DECL|macro|VER_PLATFORM_WIN32_NT
 DECL|macro|VER_PLATFORM_WIN32_WINDOWS
 DECL|macro|VER_PLATFORM_WIN32s
-DECL|macro|qMemCopy
-DECL|macro|qMemSet
 DECL|member|ByteOrder
 DECL|member|MacintoshVersion
 DECL|member|WindowsVersion

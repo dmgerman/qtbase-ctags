@@ -26,5 +26,4 @@ DECL|variable|pm_data
 DECL|variable|script_code_list
 DECL|variable|script_name_index
 DECL|variable|script_name_list
-DECL|variable|standalone_months_data
 DECL|variable|time_format_data

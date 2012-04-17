@@ -23,7 +23,6 @@ DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|parse
-DECL|function|parseIp4
 DECL|function|parseIp6
 DECL|function|parseMappedAddress
 DECL|function|parseSubnet

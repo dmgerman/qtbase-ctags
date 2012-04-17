@@ -1,5 +1,6 @@
 DECL|class|tst_qstandardpaths
 DECL|function|createTestFile
+DECL|function|enableTestMode
 DECL|function|setCustomLocations
 DECL|function|setDefaultLocations
 DECL|function|testAllWritableLocations

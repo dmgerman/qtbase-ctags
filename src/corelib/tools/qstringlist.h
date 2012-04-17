@@ -1,9 +1,12 @@
 DECL|function|contains
 DECL|function|filter
 DECL|function|filter
+DECL|function|filter
+DECL|function|indexOf
 DECL|function|indexOf
 DECL|function|indexOf
 DECL|function|join
+DECL|function|lastIndexOf
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
 DECL|function|operator
@@ -11,8 +14,10 @@ DECL|function|operator
 DECL|function|removeDuplicates
 DECL|function|replaceInStrings
 DECL|function|replaceInStrings
+DECL|function|replaceInStrings
 DECL|function|sort
 DECL|macro|QSTRINGLIST_H
 DECL|typedef|QMutableStringListIterator
 DECL|typedef|QStringListIterator
 DECL|variable|QRegExp
+DECL|variable|QRegularExpression

@@ -1,0 +1,2 @@
+DECL|function|loadInvalidUtf8Rows
+DECL|function|loadNonCharactersRows
