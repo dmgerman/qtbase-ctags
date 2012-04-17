@@ -27,6 +27,7 @@ DECL|variable|QPointF
 DECL|variable|QRect
 DECL|variable|QRectF
 DECL|variable|QRegExp
+DECL|variable|QRegularExpression
 DECL|variable|QSize
 DECL|variable|QSizeF
 DECL|variable|QStringList

@@ -5,6 +5,7 @@ DECL|function|cleanupTestCase
 DECL|function|createRccBinaryData
 DECL|function|doCompare
 DECL|function|findExpectedFile
+DECL|function|initTestCase
 DECL|function|rcc
 DECL|function|rcc_data
 DECL|function|readExpectedFiles

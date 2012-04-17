@@ -13,6 +13,7 @@ DECL|function|data
 DECL|function|data
 DECL|function|data
 DECL|function|data
+DECL|function|data_ptr
 DECL|function|detach
 DECL|function|end
 DECL|function|end
@@ -38,10 +39,11 @@ DECL|macro|QByteArrayLiteral
 DECL|macro|QByteArrayLiteral
 DECL|macro|QT_USE_FAST_OPERATOR_PLUS
 DECL|macro|QT_USE_QSTRINGBUILDER
+DECL|macro|Q_STATIC_BYTE_ARRAY_DATA_HEADER_INITIALIZER
+DECL|macro|Q_STATIC_BYTE_ARRAY_DATA_HEADER_INITIALIZER_WITH_OFFSET
 DECL|member|alloc
 DECL|member|ba
 DECL|member|capacityReserved
-DECL|member|d
 DECL|member|data
 DECL|member|offset
 DECL|member|operator
@@ -49,9 +51,13 @@ DECL|member|ptr
 DECL|member|ref
 DECL|member|size
 DECL|struct|QByteArrayData
-DECL|struct|QConstByteArrayData
-DECL|struct|QConstByteArrayDataPtr
+DECL|struct|QByteArrayDataPtr
+DECL|struct|QStaticByteArrayData
 DECL|variable|QByteRef
 DECL|variable|QDataStream
 DECL|variable|QList
 DECL|variable|QString
+DECL|variable|offsetof
+DECL|variable|offsetof
+DECL|variable|offsetof
+DECL|variable|sizeof

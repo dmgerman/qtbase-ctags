@@ -1,0 +1,1 @@
+DECL|macro|_CRT_RAND_S

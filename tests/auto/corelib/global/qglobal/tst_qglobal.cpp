@@ -16,6 +16,7 @@ DECL|function|checkptr
 DECL|function|foo
 DECL|function|for_each
 DECL|function|isEnum
+DECL|function|qAlignOf
 DECL|function|qConstructorFunction
 DECL|function|qConstructorFunctionCtor
 DECL|function|qIsNull
@@ -27,9 +28,19 @@ DECL|macro|IS_ENUM_FALSE
 DECL|macro|IS_ENUM_FALSE
 DECL|macro|IS_ENUM_TRUE
 DECL|macro|IS_ENUM_TRUE
+DECL|macro|TEST_AlignOf
+DECL|macro|TEST_AlignOf
+DECL|macro|TEST_AlignOf_RValueRef
+DECL|macro|TEST_AlignOf_RValueRef
+DECL|macro|TEST_AlignOf_RValueRef
+DECL|macro|TEST_AlignOf_impl
+DECL|macro|TEST_AlignOf_impl
 DECL|member|True
 DECL|member|Value
+DECL|member|dummy
 DECL|member|n_
+DECL|struct|AlignmentInStruct
+DECL|struct|Empty
 DECL|struct|MyExpresion
 DECL|struct|MyTemplate
 DECL|struct|Template
@@ -37,6 +48,8 @@ DECL|struct|TypeDef
 DECL|struct|isEnum_A
 DECL|typedef|DependentType
 DECL|typedef|T
+DECL|typedef|fun
+DECL|typedef|memFun
 DECL|union|isEnum_C
 DECL|variable|qConstructorFunctionCtor
 DECL|variable|qConstructorFunctionValue

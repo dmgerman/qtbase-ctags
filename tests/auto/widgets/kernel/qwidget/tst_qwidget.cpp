@@ -184,7 +184,6 @@ DECL|function|paintEvent
 DECL|function|paintEvent
 DECL|function|paintEvent
 DECL|function|paintOnScreenPossible
-DECL|function|paintOutsidePaintEvent
 DECL|function|palettePropagation
 DECL|function|palettePropagation2
 DECL|function|persistentWinId

@@ -6,3 +6,4 @@ DECL|typedef|MacroName
 DECL|typedef|MacroName
 DECL|typedef|MacroSafeSet
 DECL|typedef|Macros
+DECL|variable|QIODevice

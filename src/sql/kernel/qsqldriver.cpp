@@ -7,7 +7,6 @@ DECL|function|escapeIdentifier
 DECL|function|formatValue
 DECL|function|handle
 DECL|function|isIdentifierEscaped
-DECL|function|isIdentifierEscapedImplementation
 DECL|function|isOpen
 DECL|function|isOpenError
 DECL|function|lastError
@@ -22,14 +21,10 @@ DECL|function|setOpen
 DECL|function|setOpenError
 DECL|function|sqlStatement
 DECL|function|stripDelimiters
-DECL|function|stripDelimitersImplementation
 DECL|function|subscribeToNotification
-DECL|function|subscribeToNotificationImplementation
 DECL|function|subscribedToNotifications
-DECL|function|subscribedToNotificationsImplementation
 DECL|function|tables
 DECL|function|unsubscribeFromNotification
-DECL|function|unsubscribeFromNotificationImplementation
 DECL|function|~QSqlDriver
 DECL|function|~QSqlDriverPrivate
 DECL|member|error

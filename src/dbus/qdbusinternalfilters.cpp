@@ -1,4 +1,5 @@
 DECL|enumerator|PropertyNotFound
+DECL|enumerator|PropertyReadOnly
 DECL|enumerator|PropertyTypeMismatch
 DECL|enumerator|PropertyWriteFailed
 DECL|enumerator|PropertyWriteSuccess

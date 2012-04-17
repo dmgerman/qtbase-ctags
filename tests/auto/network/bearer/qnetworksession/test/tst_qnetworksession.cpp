@@ -20,6 +20,7 @@ DECL|function|sessionProperties
 DECL|function|sessionProperties_data
 DECL|function|suitableConfiguration
 DECL|function|updateConfigurations
+DECL|function|usagePolicies
 DECL|function|userChoiceSession
 DECL|function|userChoiceSession_data
 DECL|member|inProcessSessionManagementCount

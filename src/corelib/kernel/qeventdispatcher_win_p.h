@@ -6,6 +6,7 @@ DECL|member|inTimerEvent
 DECL|member|interval
 DECL|member|obj
 DECL|member|obj
+DECL|member|timeout
 DECL|member|timerId
 DECL|member|timerType
 DECL|struct|QSockNot

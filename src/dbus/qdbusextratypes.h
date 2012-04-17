@@ -6,7 +6,15 @@ DECL|function|QDBusSignature
 DECL|function|QDBusSignature
 DECL|function|QDBusVariant
 DECL|function|operator
+DECL|function|operator
+DECL|function|operator
+DECL|function|operator
+DECL|function|operator
+DECL|function|operator
+DECL|function|operator
+DECL|function|qHash
+DECL|function|qHash
+DECL|function|setPath
+DECL|function|setSignature
 DECL|function|setVariant
 DECL|macro|QDBUSEXTRATYPES_H
-DECL|member|operator
-DECL|member|operator

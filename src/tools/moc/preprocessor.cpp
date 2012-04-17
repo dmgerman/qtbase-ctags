@@ -18,6 +18,7 @@ DECL|function|logical_OR_expression
 DECL|function|multiplicative_expression
 DECL|function|preprocess
 DECL|function|preprocessed
+DECL|function|preprocessed
 DECL|function|primary_expression
 DECL|function|primary_expression_lookup
 DECL|function|relational_expression

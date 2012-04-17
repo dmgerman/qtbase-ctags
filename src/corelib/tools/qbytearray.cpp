@@ -1,7 +1,6 @@
 DECL|function|QByteArray
 DECL|function|QByteArray
 DECL|function|QByteArray
-DECL|function|QByteArray
 DECL|function|append
 DECL|function|append
 DECL|function|append
@@ -70,7 +69,7 @@ DECL|function|qstrdup
 DECL|function|qstricmp
 DECL|function|qstrncpy
 DECL|function|qstrnicmp
-DECL|function|realloc
+DECL|function|reallocData
 DECL|function|remove
 DECL|function|repeated
 DECL|function|replace
@@ -113,6 +112,4 @@ DECL|function|trimmed
 DECL|function|truncate
 DECL|macro|IS_RAW_DATA
 DECL|macro|REHASH
-DECL|member|shared_empty
-DECL|member|shared_null
 DECL|variable|crc_tbl

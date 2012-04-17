@@ -10,8 +10,6 @@ DECL|function|qmlPropertyWriteUseCase
 DECL|function|relativeUrl
 DECL|function|resolved
 DECL|function|resolved_data
-DECL|function|toEncoded
-DECL|function|toEncoded_data
 DECL|function|toLocalFile
 DECL|function|toLocalFile_data
 DECL|function|toString

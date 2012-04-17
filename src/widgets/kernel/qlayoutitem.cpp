@@ -1,6 +1,7 @@
 DECL|function|QWidgetItemV2
 DECL|function|changeSize
 DECL|function|controlTypes
+DECL|function|controlTypes
 DECL|function|expandingDirections
 DECL|function|expandingDirections
 DECL|function|fromLayoutItemRect

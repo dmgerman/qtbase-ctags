@@ -14,6 +14,7 @@ DECL|variable|QObject
 DECL|variable|QObjectPrivate
 DECL|variable|QObjectUserData
 DECL|variable|QRegExp
+DECL|variable|QRegularExpression
 DECL|variable|QThread
 DECL|variable|QTimerEvent
 DECL|variable|QVariant

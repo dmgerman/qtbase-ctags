@@ -21,8 +21,10 @@ DECL|function|open
 DECL|function|reject
 DECL|function|sessionProperty
 DECL|function|setSessionProperty
+DECL|function|setUsagePolicies
 DECL|function|stop
 DECL|function|syncStateWithInterface
 DECL|function|updateStateFromActiveConfig
 DECL|function|updateStateFromServiceNetwork
+DECL|function|usagePolicies
 DECL|function|~QNetworkSessionManagerPrivate

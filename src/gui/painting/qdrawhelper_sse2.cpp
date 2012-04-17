@@ -36,5 +36,5 @@ DECL|typedef|Float32x4
 DECL|typedef|Int32x4
 DECL|union|Vect_buffer_f
 DECL|union|Vect_buffer_i
-DECL|variable|qt_functionForModeSolid_onlySSE2
-DECL|variable|qt_functionForMode_onlySSE2
+DECL|variable|qt_functionForModeSolid_SSE2
+DECL|variable|qt_functionForMode_SSE2

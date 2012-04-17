@@ -2,10 +2,8 @@ DECL|class|KnownPointers
 DECL|function|checkQObjectShared
 DECL|function|getAndRef
 DECL|function|internalSafetyCheckAdd
-DECL|function|internalSafetyCheckAdd2
 DECL|function|internalSafetyCheckCleanCheck
 DECL|function|internalSafetyCheckRemove
-DECL|function|internalSafetyCheckRemove2
 DECL|function|printBacktrace
 DECL|function|saveBacktrace
 DECL|function|setQObjectShared

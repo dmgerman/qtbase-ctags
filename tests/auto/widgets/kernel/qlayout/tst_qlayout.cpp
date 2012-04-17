@@ -7,6 +7,7 @@ DECL|function|SizeHinterFrame
 DECL|function|addItem
 DECL|function|adjustSizeShouldMakeSureLayoutIsActivated
 DECL|function|controlTypes
+DECL|function|controlTypes2
 DECL|function|count
 DECL|function|eventFilter
 DECL|function|geometry

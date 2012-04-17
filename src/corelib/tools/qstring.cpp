@@ -3,7 +3,6 @@ DECL|function|QString
 DECL|function|QString
 DECL|function|QString
 DECL|function|QString
-DECL|function|QString
 DECL|function|append
 DECL|function|append
 DECL|function|append
@@ -20,6 +19,8 @@ DECL|function|compare
 DECL|function|compare
 DECL|function|compare_helper
 DECL|function|compare_helper
+DECL|function|contains
+DECL|function|count
 DECL|function|count
 DECL|function|count
 DECL|function|count
@@ -36,6 +37,7 @@ DECL|function|endsWith
 DECL|function|endsWith
 DECL|function|endsWith
 DECL|function|expand
+DECL|function|extractSections
 DECL|function|fill
 DECL|function|findArgEscapes
 DECL|function|findChar
@@ -48,7 +50,7 @@ DECL|function|fromUcs4
 DECL|function|fromUtf16
 DECL|function|fromUtf8_helper
 DECL|function|getEscape
-DECL|function|grow
+DECL|function|indexOf
 DECL|function|indexOf
 DECL|function|indexOf
 DECL|function|indexOf
@@ -74,6 +76,7 @@ DECL|function|lastIndexOf
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
+DECL|function|lastIndexOf
 DECL|function|lastIndexOfHelper
 DECL|function|left
 DECL|function|leftJustified
@@ -84,7 +87,6 @@ DECL|function|mergeQuestionMarks
 DECL|function|mid
 DECL|function|midRef
 DECL|function|multiArg
-DECL|function|normalized
 DECL|function|normalized
 DECL|function|number
 DECL|function|number
@@ -121,12 +123,12 @@ DECL|function|qt_starts_with
 DECL|function|qt_string_count
 DECL|function|qt_string_count
 DECL|function|qt_string_normalize
-DECL|function|realloc
-DECL|function|realloc
+DECL|function|reallocData
 DECL|function|remove
 DECL|function|remove
 DECL|function|remove
 DECL|function|repeated
+DECL|function|replace
 DECL|function|replace
 DECL|function|replace
 DECL|function|replace
@@ -147,12 +149,14 @@ DECL|function|rightJustified
 DECL|function|rightRef
 DECL|function|section
 DECL|function|section
+DECL|function|section
 DECL|function|setNum
 DECL|function|setNum
 DECL|function|setNum
 DECL|function|setRawData
 DECL|function|setUnicode
 DECL|function|simplified
+DECL|function|split
 DECL|function|split
 DECL|function|split
 DECL|function|split
@@ -205,6 +209,7 @@ DECL|function|vsprintf
 DECL|macro|CSTR_EQUAL
 DECL|macro|CSTR_GREATER_THAN
 DECL|macro|CSTR_LESS_THAN
+DECL|macro|IS_RAW_DATA
 DECL|macro|LLONG_MAX
 DECL|macro|LLONG_MIN
 DECL|macro|QT_MAX_FLOAT

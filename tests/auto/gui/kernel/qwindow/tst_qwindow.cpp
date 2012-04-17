@@ -6,8 +6,11 @@ DECL|function|Window
 DECL|function|activateAndClose
 DECL|function|close
 DECL|function|event
+DECL|function|eventIndex
+DECL|function|eventOrderOnShow
 DECL|function|initTestCase
 DECL|function|isActive
+DECL|function|isExposed
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
 DECL|function|mapGlobal
@@ -33,6 +36,7 @@ DECL|member|ignoreMouse
 DECL|member|ignoreTouch
 DECL|member|keyPressCode
 DECL|member|keyReleaseCode
+DECL|member|m_order
 DECL|member|m_received
 DECL|member|mouseDoubleClickedCount
 DECL|member|mouseMoveButton

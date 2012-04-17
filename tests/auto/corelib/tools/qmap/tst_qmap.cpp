@@ -6,20 +6,25 @@ DECL|function|MyClass
 DECL|function|beginEnd
 DECL|function|clear
 DECL|function|constFind
+DECL|function|const_
 DECL|function|const_shared_null
 DECL|function|contains
 DECL|function|count
 DECL|function|empty
+DECL|function|equal_range
 DECL|function|find
 DECL|function|init
+DECL|function|insert
 DECL|function|iterators
 DECL|function|key
 DECL|function|keys_values_uniqueKeys
 DECL|function|lowerUpperBound
 DECL|function|mergeCompare
+DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator_eq
 DECL|function|qmultimap_specific
+DECL|function|setSharable
 DECL|function|swap
 DECL|function|take
 DECL|function|~MyClass

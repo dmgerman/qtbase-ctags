@@ -1,4 +1,6 @@
 DECL|function|appendOrganizationAndApp
+DECL|function|enableTestMode
 DECL|function|standardLocations
 DECL|function|writableLocation
 DECL|function|xdgDataDirs
+DECL|variable|qsp_testMode

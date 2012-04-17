@@ -1,0 +1,4 @@
+DECL|macro|QDBUSCPP2XML_TEST1_H
+DECL|variable|QDBusObjectPath
+DECL|variable|QDBusSignature
+DECL|variable|QDBusUnixFileDescriptor

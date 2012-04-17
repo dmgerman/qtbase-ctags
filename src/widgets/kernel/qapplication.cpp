@@ -1,9 +1,6 @@
 DECL|function|QApplication
 DECL|function|QApplication
 DECL|function|QApplication
-DECL|function|QApplication
-DECL|function|QApplication
-DECL|function|QApplication
 DECL|function|QApplicationPrivate
 DECL|function|aboutQt
 DECL|function|activeModalWidget

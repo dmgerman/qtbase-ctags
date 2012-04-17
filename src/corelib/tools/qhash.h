@@ -42,6 +42,7 @@ DECL|function|qHash
 DECL|function|qHash
 DECL|function|qHash
 DECL|function|qHash
+DECL|function|qHash
 DECL|function|remove
 DECL|function|remove
 DECL|function|reserve
@@ -55,8 +56,6 @@ DECL|function|values
 DECL|function|values
 DECL|function|willGrow
 DECL|macro|QHASH_H
-DECL|macro|Q_HASH_DECLARE_INT_NODES
-DECL|macro|Q_HASH_DECLARE_INT_NODES
 DECL|member|buckets
 DECL|member|fakeNext
 DECL|member|h
@@ -73,6 +72,7 @@ DECL|member|numBuckets
 DECL|member|operator
 DECL|member|ref
 DECL|member|reserved
+DECL|member|seed
 DECL|member|sharable
 DECL|member|shared_null
 DECL|member|size
@@ -166,5 +166,3 @@ DECL|variable|QByteArray
 DECL|variable|QString
 DECL|variable|QStringRef
 DECL|variable|T1
-DECL|variable|uint
-DECL|variable|ushort

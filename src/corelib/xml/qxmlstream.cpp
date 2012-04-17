@@ -97,7 +97,6 @@ DECL|function|raiseError
 DECL|function|raiseError
 DECL|function|raiseWellFormedError
 DECL|function|readElementText
-DECL|function|readElementText
 DECL|function|readNext
 DECL|function|readNextStartElement
 DECL|function|reallocateStack
