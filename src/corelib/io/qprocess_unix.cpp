@@ -32,7 +32,6 @@ DECL|function|spawnChild
 DECL|function|startDetached
 DECL|function|startDetached
 DECL|function|startProcess
-DECL|function|strdup
 DECL|function|systemEnvironment
 DECL|function|terminateProcess
 DECL|function|unlock
