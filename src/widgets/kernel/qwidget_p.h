@@ -60,7 +60,7 @@ DECL|member|opacity
 DECL|member|painter
 DECL|member|parentWinId
 DECL|member|pdev
-DECL|member|posFromMove
+DECL|member|posIncludesFrame
 DECL|member|proxyWidget
 DECL|member|resizer
 DECL|member|rgn

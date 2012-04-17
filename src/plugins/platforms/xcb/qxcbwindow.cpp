@@ -47,6 +47,7 @@ DECL|function|isExposed
 DECL|function|isTransient
 DECL|function|lower
 DECL|function|netWmStates
+DECL|function|positionIncludesFrame
 DECL|function|propagateSizeHints
 DECL|function|raise
 DECL|function|requestActivateWindow
@@ -73,6 +74,7 @@ DECL|function|updateNetWmStateBeforeMap
 DECL|function|updateNetWmUserTime
 DECL|function|updateSyncRequestCounter
 DECL|function|winId
+DECL|function|windowToWmGeometry
 DECL|function|~QXcbWindow
 DECL|macro|XCB_WM_STATE_ICONIC
 DECL|macro|XCB_WM_STATE_WITHDRAWN

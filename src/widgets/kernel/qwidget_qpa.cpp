@@ -7,6 +7,7 @@ DECL|function|deleteSysExtra
 DECL|function|deleteTLSysExtra
 DECL|function|destroy
 DECL|function|effectiveState
+DECL|function|fixPosIncludesFrame
 DECL|function|grabKeyboard
 DECL|function|grabMouse
 DECL|function|grabMouse
