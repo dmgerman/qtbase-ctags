@@ -125,6 +125,8 @@ DECL|function|removeCols
 DECL|function|removeLastColumn
 DECL|function|removeLastRow
 DECL|function|removeRows
+DECL|function|renderToPixmap
+DECL|function|renderToPixmap_data
 DECL|function|resizeColumnToContents
 DECL|function|rootIndex
 DECL|function|rowCount
