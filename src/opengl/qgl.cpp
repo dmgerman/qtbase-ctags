@@ -263,6 +263,4 @@ DECL|struct|DDSFormat
 DECL|struct|PvrHeader
 DECL|struct|QGLContextGroupList
 DECL|struct|QGLThreadContext
-DECL|typedef|_qt_image_cleanup_hook_64
-DECL|typedef|_qt_pixmap_cleanup_hook_64
 DECL|typedef|qt_glGetStringi

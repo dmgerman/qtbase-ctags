@@ -13,10 +13,3 @@ DECL|function|isPixmapCached
 DECL|function|removeImageHook
 DECL|function|removePlatformPixmapDestructionHook
 DECL|function|removePlatformPixmapModificationHook
-DECL|typedef|_qt_image_cleanup_hook
-DECL|typedef|_qt_pixmap_cleanup_hook
-DECL|typedef|_qt_pixmap_cleanup_hook_64
-DECL|variable|qt_image_cleanup_hook
-DECL|variable|qt_image_cleanup_hook_64
-DECL|variable|qt_pixmap_cleanup_hook
-DECL|variable|qt_pixmap_cleanup_hook_64
