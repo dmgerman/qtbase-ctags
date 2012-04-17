@@ -8,7 +8,6 @@ DECL|function|createMakefileGenerator
 DECL|function|createMetaGenerator
 DECL|function|init
 DECL|function|init
-DECL|function|modeForGenerator
 DECL|function|processBuild
 DECL|function|type
 DECL|function|type

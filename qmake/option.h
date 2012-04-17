@@ -22,10 +22,6 @@ DECL|enumerator|QMAKE_RECURSIVE_NO
 DECL|enumerator|QMAKE_RECURSIVE_YES
 DECL|enumerator|QMAKE_SET_PROPERTY
 DECL|enumerator|QMAKE_UNSET_PROPERTY
-DECL|enumerator|TARG_MACX_MODE
-DECL|enumerator|TARG_UNIX_MODE
-DECL|enumerator|TARG_UNKNOWN_MODE
-DECL|enumerator|TARG_WIN_MODE
 DECL|enumerator|WarnAll
 DECL|enumerator|WarnDeprecated
 DECL|enumerator|WarnLogic
@@ -37,7 +33,6 @@ DECL|enum|QMAKE_MODE
 DECL|enum|QMAKE_RECURSIVE
 DECL|enum|QMakeWarn
 DECL|enum|StringFixFlags
-DECL|enum|TARG_MODE
 DECL|function|fixEnvVariables
 DECL|function|fixPathToLocalOS
 DECL|function|fixPathToTargetOS
@@ -97,7 +92,6 @@ DECL|member|res_ext
 DECL|member|shellPath
 DECL|member|source_root
 DECL|member|sysenv_mod
-DECL|member|target_mode
 DECL|member|ui_ext
 DECL|member|user_template
 DECL|member|user_template_prefix

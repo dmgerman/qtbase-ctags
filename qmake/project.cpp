@@ -105,9 +105,9 @@ DECL|function|isEmpty
 DECL|function|isSpecialChar
 DECL|function|parse
 DECL|function|populateDeps
+DECL|function|qmakeFeaturePaths
 DECL|function|qmake_error_msg
 DECL|function|qmake_expandFunctions
-DECL|function|qmake_feature_paths
 DECL|function|qmake_mkspec_paths
 DECL|function|qmake_testFunctions
 DECL|function|quoteValue
@@ -125,7 +125,6 @@ DECL|function|split_value_list
 DECL|function|subAll
 DECL|function|test
 DECL|function|test
-DECL|function|validateModes
 DECL|function|values
 DECL|function|varMap
 DECL|function|windowsErrorCode
