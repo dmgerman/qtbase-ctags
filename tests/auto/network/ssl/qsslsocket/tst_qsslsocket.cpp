@@ -2,8 +2,11 @@ DECL|class|SetReadBufferSize_task_250027_handler
 DECL|class|SslServer
 DECL|class|SslServer2
 DECL|class|SslServer3
+DECL|class|SslServer4
+DECL|class|SslServer5
 DECL|class|ThreadedSslServer
 DECL|class|VerifyServer
+DECL|class|WebSocket
 DECL|class|tst_QSslSocket
 DECL|enumerator|AuthBasic
 DECL|enumerator|AuthMask
@@ -16,8 +19,12 @@ DECL|enumerator|TypeMask
 DECL|enum|ProxyTests
 DECL|function|SslServer
 DECL|function|SslServer3
+DECL|function|SslServer4
+DECL|function|SslServer5
 DECL|function|ThreadedSslServer
 DECL|function|VerifyServer
+DECL|function|WebSocket
+DECL|function|_startServerEncryption
 DECL|function|addCaCertificate
 DECL|function|addCaCertificates
 DECL|function|addCaCertificates2
@@ -50,6 +57,8 @@ DECL|function|incomingConnection
 DECL|function|incomingConnection
 DECL|function|incomingConnection
 DECL|function|incomingConnection
+DECL|function|incomingConnection
+DECL|function|incomingConnection
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|initTestCase_data
@@ -57,6 +66,7 @@ DECL|function|isEncrypted
 DECL|function|localCertificate
 DECL|function|mode
 DECL|function|newSocket
+DECL|function|onReadyReadFirstBytes
 DECL|function|peerCertificate
 DECL|function|peerCertificateChain
 DECL|function|peerVerifyError
@@ -66,6 +76,8 @@ DECL|function|protocol
 DECL|function|protocolServerSide
 DECL|function|protocolServerSide_data
 DECL|function|proxyAuthenticationRequired
+DECL|function|qtbug18498_peek
+DECL|function|qtbug18498_peek2
 DECL|function|readFromClosedSocket
 DECL|function|readyReadSlot
 DECL|function|resetDefaultCiphers
@@ -117,11 +129,15 @@ DECL|member|dataReadSemaphore
 DECL|member|loopLevel
 DECL|member|loopLevel
 DECL|member|m_certFile
+DECL|member|m_certFile
+DECL|member|m_keyFile
 DECL|member|m_keyFile
 DECL|member|ok
 DECL|member|protocol
 DECL|member|proxyAuthCalled
 DECL|member|serverPort
+DECL|member|socket
+DECL|member|socket
 DECL|member|socket
 DECL|member|socket
 DECL|member|socket

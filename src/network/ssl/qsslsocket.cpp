@@ -51,6 +51,8 @@ DECL|function|isPaused
 DECL|function|localCertificate
 DECL|function|mode
 DECL|function|pauseSocketNotifiers
+DECL|function|peek
+DECL|function|peek
 DECL|function|peerCertificate
 DECL|function|peerCertificateChain
 DECL|function|peerVerifyDepth
