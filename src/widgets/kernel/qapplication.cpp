@@ -21,7 +21,6 @@ DECL|function|desktop
 DECL|function|desktopStyleKey
 DECL|function|dispatchEnterLeave
 DECL|function|doubleClickInterval
-DECL|function|enterModal
 DECL|function|event
 DECL|function|exec
 DECL|function|findClosestTouchPointTarget
@@ -42,11 +41,11 @@ DECL|function|instance
 DECL|function|isAlien
 DECL|function|isBlockedByModal
 DECL|function|isSessionRestored
+DECL|function|isWindowBlocked
 DECL|function|keyboardInputDirection
 DECL|function|keyboardInputInterval
 DECL|function|keyboardInputLocale
 DECL|function|keypadNavigationEnabled
-DECL|function|leaveModal
 DECL|function|navigationMode
 DECL|function|notify
 DECL|function|notifyLayoutDirectionChange
@@ -136,10 +135,8 @@ DECL|member|sys_font
 DECL|member|sys_pal
 DECL|member|wheel_scroll_lines
 DECL|member|widgetCount
-DECL|variable|app_do_modal
 DECL|variable|qt_antialiasing_threshold
 DECL|variable|qt_desktopWidget
 DECL|variable|qt_in_tab_key_event
-DECL|variable|qt_modal_stack
 DECL|variable|qt_tab_all_widgets
 DECL|variable|qt_tabletChokeMouse

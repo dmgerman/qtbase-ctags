@@ -91,5 +91,4 @@ DECL|function|windowOrientation
 DECL|function|windowState
 DECL|function|windowTitle
 DECL|function|windowType
-DECL|function|~QSurface
 DECL|function|~QWindow

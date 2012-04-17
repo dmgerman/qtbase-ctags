@@ -2,6 +2,7 @@ DECL|class|InputMaskValidator
 DECL|class|LineEdit
 DECL|class|QIntFixValidator
 DECL|class|StyleOptionTestStyle
+DECL|class|UpdateRegionLineEdit
 DECL|class|ValidatorWithFixup
 DECL|class|task180999_Widget
 DECL|class|task198789_Widget
@@ -20,6 +21,7 @@ DECL|function|QIntFixValidator
 DECL|function|QTBUG13520_textNotVisible
 DECL|function|QTBUG5786_undoPaste
 DECL|function|QTBUG697_paletteCurrentColorGroup
+DECL|function|QTBUG7174_inputMaskCursorBlink
 DECL|function|StyleOptionTestStyle
 DECL|function|ValidatorWithFixup
 DECL|function|bidiLogicalMovement
@@ -84,6 +86,7 @@ DECL|function|onReturnPressed
 DECL|function|onSelectionChanged
 DECL|function|onTextChanged
 DECL|function|onTextEdited
+DECL|function|paintEvent
 DECL|function|passwordEchoDelay
 DECL|function|passwordEchoOnEdit
 DECL|function|psKeyClick
@@ -162,6 +165,7 @@ DECL|member|return_count
 DECL|member|selection_count
 DECL|member|state
 DECL|member|testWidget
+DECL|member|updateRegion
 DECL|member|validInput
 DECL|member|validatePos
 DECL|member|validateText

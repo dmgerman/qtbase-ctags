@@ -1,4 +1,5 @@
 DECL|function|QKmsContext
+DECL|function|defaultFramebufferObject
 DECL|function|doneCurrent
 DECL|function|eglContext
 DECL|function|format

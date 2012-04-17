@@ -26,7 +26,6 @@ DECL|function|focusInPeeker
 DECL|function|format
 DECL|function|frameMargins
 DECL|function|getMotifWmHints
-DECL|function|getNetWmState
 DECL|function|handleButtonPressEvent
 DECL|function|handleButtonReleaseEvent
 DECL|function|handleClientMessageEvent
@@ -46,7 +45,7 @@ DECL|function|imageFormatForDepth
 DECL|function|isExposed
 DECL|function|isTransient
 DECL|function|lower
-DECL|function|printNetWmState
+DECL|function|netWmStates
 DECL|function|propagateSizeHints
 DECL|function|raise
 DECL|function|requestActivateWindow
@@ -56,7 +55,7 @@ DECL|function|setKeyboardGrabEnabled
 DECL|function|setMotifWindowFlags
 DECL|function|setMotifWmHints
 DECL|function|setMouseGrabEnabled
-DECL|function|setNetWmState
+DECL|function|setNetWmStates
 DECL|function|setNetWmWindowFlags
 DECL|function|setOrientation
 DECL|function|setParent
@@ -75,8 +74,6 @@ DECL|function|updateNetWmUserTime
 DECL|function|updateSyncRequestCounter
 DECL|function|winId
 DECL|function|~QXcbWindow
-DECL|macro|CHECK_WM_STATE
-DECL|macro|CHECK_WM_STATE
 DECL|macro|XCB_WM_STATE_ICONIC
 DECL|macro|XCB_WM_STATE_WITHDRAWN
 DECL|macro|XCOORD_MAX

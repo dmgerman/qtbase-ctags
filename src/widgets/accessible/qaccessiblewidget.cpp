@@ -19,6 +19,7 @@ DECL|function|isSender
 DECL|function|keyBindingsForAction
 DECL|function|parent
 DECL|function|parentObject
+DECL|function|qt_accAmpIndex
 DECL|function|qt_accHotKey
 DECL|function|qt_accStripAmp
 DECL|function|receiverList

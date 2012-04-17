@@ -13,6 +13,7 @@ DECL|function|fontDir
 DECL|function|fontEngine
 DECL|function|fontEngine
 DECL|function|fontSmoothingGamma
+DECL|function|fontsAlwaysScalable
 DECL|function|getEnglishName
 DECL|function|getEnglishName
 DECL|function|getFamiliesAndSignatures

@@ -58,8 +58,7 @@ DECL|function|findNodes
 DECL|function|findPropertyNode
 DECL|function|findQmlBaseNode
 DECL|function|fixBaseClasses
-DECL|function|fromTrool
-DECL|function|fromTrool
+DECL|function|fromFlagValue
 DECL|function|fullDocumentName
 DECL|function|fullTitle
 DECL|function|guid
@@ -122,8 +121,7 @@ DECL|function|subclasses
 DECL|function|terminate
 DECL|function|threadSafeness
 DECL|function|title
-DECL|function|toTrool
-DECL|function|toTrool
+DECL|function|toFlagValue
 DECL|function|url
 DECL|function|~InnerNode
 DECL|function|~NameCollisionNode

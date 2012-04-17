@@ -1,8 +1,13 @@
 DECL|class|QOpenSslLocks
+DECL|class|QWindowsCaRootFetcherThread
 DECL|function|QOpenSslLocks
 DECL|function|QSslCipher_from_SSL_CIPHER
 DECL|function|QSslSocketBackendPrivate
+DECL|function|QWindowsCaRootFetcher
+DECL|function|QWindowsCaRootFetcherThread
 DECL|function|_q_OpenSSL_to_QSslError
+DECL|function|_q_caRootLoaded
+DECL|function|checkSslErrors
 DECL|function|continueHandshake
 DECL|function|deinitialize
 DECL|function|destroySslContext
@@ -11,6 +16,7 @@ DECL|function|disconnected
 DECL|function|ensureCiphersAndCertsLoaded
 DECL|function|ensureInitialized
 DECL|function|ensureLibraryLoaded
+DECL|function|fetchCaRootForCert
 DECL|function|getErrorsFromOpenSsl
 DECL|function|globalLock
 DECL|function|id_function
@@ -26,6 +32,7 @@ DECL|function|sessionCipher
 DECL|function|setupOpenSslOptions
 DECL|function|sslLibraryVersionNumber
 DECL|function|sslLibraryVersionString
+DECL|function|start
 DECL|function|startClientEncryption
 DECL|function|startHandshake
 DECL|function|startServerEncryption
@@ -35,6 +42,8 @@ DECL|function|transmit
 DECL|function|verify
 DECL|function|~QOpenSslLocks
 DECL|function|~QSslSocketBackendPrivate
+DECL|function|~QWindowsCaRootFetcher
+DECL|function|~QWindowsCaRootFetcherThread
 DECL|macro|kSecTrustSettingsDomainSystem
 DECL|member|errors
 DECL|member|initLocker
@@ -48,3 +57,4 @@ DECL|member|s_libraryLoaded
 DECL|member|s_loadRootCertsOnDemand
 DECL|member|s_loadedCiphersAndCerts
 DECL|struct|QSslErrorList
+DECL|variable|QSslCertificate

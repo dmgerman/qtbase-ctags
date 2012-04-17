@@ -9,14 +9,9 @@ DECL|function|addText
 DECL|function|arcMoveTo
 DECL|function|arcTo
 DECL|function|cubicTo
-DECL|function|detach
-DECL|function|elementAt
-DECL|function|elementCount
-DECL|function|isEmpty
 DECL|function|lineTo
 DECL|function|moveTo
 DECL|function|quadTo
-DECL|function|setElementPositionAt
 DECL|function|translate
 DECL|function|translated
 DECL|macro|QPAINTERPATH_H
