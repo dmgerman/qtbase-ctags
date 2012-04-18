@@ -1,6 +1,6 @@
 DECL|function|QKmsIntegration
+DECL|function|addDevice
 DECL|function|addScreen
-DECL|function|createDevice
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformWindow
@@ -8,4 +8,5 @@ DECL|function|fontDatabase
 DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
 DECL|function|nativeInterface
+DECL|function|removeDevice
 DECL|function|~QKmsIntegration
