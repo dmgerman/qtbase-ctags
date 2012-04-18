@@ -10,11 +10,13 @@ DECL|enumerator|RestoreImage
 DECL|enumerator|Unspecified
 DECL|enum|DisposalMethod
 DECL|enum|State
+DECL|function|AllocatedMemoryPointers
 DECL|function|QPNGImageWriter
 DECL|function|QPngHandler
 DECL|function|QPngHandlerPrivate
 DECL|function|canRead
 DECL|function|canRead
+DECL|function|deallocate
 DECL|function|device
 DECL|function|iod_read_fn
 DECL|function|name
@@ -27,6 +29,7 @@ DECL|function|readImageFormat
 DECL|function|readPngHeader
 DECL|function|readPngImage
 DECL|function|readPngTexts
+DECL|function|read_image_scaled
 DECL|function|setDisposalMethod
 DECL|function|setFrameDelay
 DECL|function|setGamma
@@ -50,6 +53,8 @@ DECL|macro|Q_INTERNAL_WIN_NO_THROW
 DECL|macro|png_jmpbuf
 DECL|macro|png_jmpbuf
 DECL|macro|png_jmpbuf
+DECL|member|accRow
+DECL|member|amp
 DECL|member|description
 DECL|member|dev
 DECL|member|disposal
@@ -57,12 +62,16 @@ DECL|member|end_info
 DECL|member|frames_written
 DECL|member|gamma
 DECL|member|gamma
+DECL|member|inRow
 DECL|member|info_ptr
 DECL|member|looping
 DECL|member|ms_delay
+DECL|member|outRow
 DECL|member|png_ptr
 DECL|member|q
 DECL|member|quality
 DECL|member|readTexts
 DECL|member|row_pointers
+DECL|member|scaledSize
 DECL|member|state
+DECL|struct|AllocatedMemoryPointers
