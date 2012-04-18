@@ -11,6 +11,7 @@ DECL|function|CustomQObjectDerivedNoMetaType
 DECL|function|CustomQWidget
 DECL|function|Foo
 DECL|function|MessageHandler
+DECL|function|MessageHandlerInvalidType
 DECL|function|MessageHandlerType
 DECL|function|MyClass
 DECL|function|MyData
@@ -34,6 +35,8 @@ DECL|function|compareCustomTypes
 DECL|function|comparePointers
 DECL|function|constData
 DECL|function|constructor
+DECL|function|constructor_invalid
+DECL|function|constructor_invalid_data
 DECL|function|convertBoolToByteArray
 DECL|function|convertBoolToByteArray_data
 DECL|function|convertByteArrayToBool
@@ -52,6 +55,7 @@ DECL|function|debugStream_data
 DECL|function|forwardDeclare
 DECL|function|globalColor
 DECL|function|guiVariantAtExit
+DECL|function|handler
 DECL|function|handler
 DECL|function|handler
 DECL|function|invalidDate
@@ -179,6 +183,7 @@ DECL|function|writeToReadFromDataStream
 DECL|function|writeToReadFromDataStream_data
 DECL|function|writeToReadFromOldDataStream
 DECL|function|~MessageHandler
+DECL|function|~MessageHandlerInvalidType
 DECL|function|~MyData
 DECL|function|~MyMovable
 DECL|function|~MyNotMovable
@@ -211,6 +216,9 @@ DECL|member|number
 DECL|member|objectPointerTestData
 DECL|member|ok
 DECL|member|ok
+DECL|member|ok
+DECL|member|ok
+DECL|member|oldMsgHandler
 DECL|member|oldMsgHandler
 DECL|member|ptr
 DECL|member|q
@@ -229,6 +237,7 @@ DECL|struct|Blah
 DECL|struct|CustomStreamableClass
 DECL|struct|Data
 DECL|struct|Foo
+DECL|struct|MessageHandlerInvalidType
 DECL|struct|MessageHandlerType
 DECL|struct|MyClass
 DECL|struct|MyData
