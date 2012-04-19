@@ -118,8 +118,6 @@ DECL|function|fontPropagation
 DECL|function|fontPropagation2
 DECL|function|fonts
 DECL|function|gdiPainting
-DECL|function|getDC
-DECL|function|getProperty
 DECL|function|getSetCheck
 DECL|function|grab
 DECL|function|heightForWidth
@@ -165,6 +163,7 @@ DECL|function|moveWindowInShowEvent_data
 DECL|function|movedAndResizedAttributes
 DECL|function|multipleToplevelFocusCheck
 DECL|function|nativeChildFocus
+DECL|function|nativeEvent
 DECL|function|normalGeometry
 DECL|function|opaqueChildren
 DECL|function|openModal_taskQTBUG_5804
@@ -189,6 +188,8 @@ DECL|function|palettePropagation2
 DECL|function|persistentWinId
 DECL|function|qobject_castInDestroyedSlot
 DECL|function|qt_wince_is_platform
+DECL|function|qt_wince_is_platform
+DECL|function|qt_wince_is_smartphone
 DECL|function|qt_wince_is_smartphone
 DECL|function|quitOnCloseAttribute
 DECL|function|raise
@@ -252,7 +253,7 @@ DECL|function|showEvent
 DECL|function|showFullScreen
 DECL|function|showHideEvent
 DECL|function|showHideEvent_data
-DECL|function|showHideShow
+DECL|function|showHideShowX11
 DECL|function|showMaximized
 DECL|function|showMinimized
 DECL|function|showMinimizedKeepsFocus
@@ -273,7 +274,6 @@ DECL|function|taskQTBUG_7532_tabOrderWithFocusProxy
 DECL|function|testContentsPropagation
 DECL|function|testDeletionInEventHandlers
 DECL|function|testWindowIconChangeEventPropagation
-DECL|function|textPropertyToString
 DECL|function|timerEvent
 DECL|function|toplevelLineEditFocus
 DECL|function|translucentWidget
@@ -282,7 +282,6 @@ DECL|function|update
 DECL|function|updateGeometry
 DECL|function|updateGeometry_data
 DECL|function|updateOnDestroyedSignal
-DECL|function|updateOutsideSurfaceClip
 DECL|function|updateWhileMinimized
 DECL|function|verifyWidgetMask
 DECL|function|visible
@@ -298,10 +297,8 @@ DECL|function|windowMoveResize_data
 DECL|function|windowOpacity
 DECL|function|windowState
 DECL|function|workaroundPaletteIssue
-DECL|function|x11Event
 DECL|function|~SiblingDeleter
 DECL|function|~tst_QWidget
-DECL|macro|Bool
 DECL|macro|CLEAR_MASK
 DECL|macro|NUM_WIDGETS
 DECL|macro|Q_CHECK_PAINTEVENTS
@@ -309,8 +306,7 @@ DECL|macro|Q_CHECK_PAINTEVENTS
 DECL|macro|Q_CHECK_PAINTEVENTS
 DECL|macro|RESET_EVENT_COUNTS
 DECL|macro|RESET_WIDGETS
-DECL|macro|SET_SAFE_SIZE
-DECL|macro|SET_SAFE_SIZE
+DECL|macro|SPI_GETPLATFORMTYPE
 DECL|macro|SPI_GETPLATFORMTYPE
 DECL|macro|VERIFY_COLOR
 DECL|macro|VERIFY_STATE
@@ -328,6 +324,7 @@ DECL|member|gotPaintEvent
 DECL|member|invalidated
 DECL|member|lineEdit
 DECL|member|m_count
+DECL|member|m_platform
 DECL|member|m_resizeEventCount
 DECL|member|m_widget
 DECL|member|m_winIdList
