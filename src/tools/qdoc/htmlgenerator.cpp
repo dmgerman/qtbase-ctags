@@ -15,7 +15,6 @@ DECL|function|findAllLegaleseTexts
 DECL|function|findAllNamespaces
 DECL|function|findNodeForTarget
 DECL|function|format
-DECL|function|fullDocumentLocation
 DECL|function|generateAllQmlMembersFile
 DECL|function|generateAnnotatedList
 DECL|function|generateAtom

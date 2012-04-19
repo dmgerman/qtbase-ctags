@@ -12,6 +12,7 @@ DECL|function|fileName
 DECL|function|findAllSince
 DECL|function|formattingLeftMap
 DECL|function|formattingRightMap
+DECL|function|fullDocumentLocation
 DECL|function|fullName
 DECL|function|generateAlsoList
 DECL|function|generateAtom
@@ -63,6 +64,7 @@ DECL|macro|SKIP_CHAR
 DECL|macro|SKIP_CHAR
 DECL|macro|SKIP_SPACE
 DECL|member|baseDir_
+DECL|member|currentGenerator_
 DECL|member|exampleDirs
 DECL|member|exampleImgExts
 DECL|member|fmtLeftMaps
