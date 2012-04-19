@@ -61,6 +61,7 @@ DECL|function|init
 DECL|function|initWithScriptItem
 DECL|function|insertionPointsForLine
 DECL|function|invalidate
+DECL|function|isRetainableControlCode
 DECL|function|isRightToLeft
 DECL|function|itemize
 DECL|function|justify
@@ -91,6 +92,7 @@ DECL|function|shapeText
 DECL|function|shapeTextWithHarfbuzz
 DECL|function|skipBoundryNeutrals
 DECL|function|splitItem
+DECL|function|stringMidRetainingBidiCC
 DECL|function|stringToGlyphs
 DECL|function|tightBoundingBox
 DECL|function|transformed
