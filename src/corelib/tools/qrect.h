@@ -37,6 +37,7 @@ DECL|function|moveBottomLeft
 DECL|function|moveBottomRight
 DECL|function|moveBottomRight
 DECL|function|moveCenter
+DECL|function|moveCenter
 DECL|function|moveLeft
 DECL|function|moveLeft
 DECL|function|moveRight
