@@ -45,7 +45,6 @@ DECL|function|QWheelEvent
 DECL|function|QWheelEvent
 DECL|function|QWheelEvent
 DECL|function|QWindowStateChangeEvent
-DECL|function|QWindowStateChangeEvent
 DECL|function|TouchPoint
 DECL|function|TouchPoint
 DECL|function|contentPos
