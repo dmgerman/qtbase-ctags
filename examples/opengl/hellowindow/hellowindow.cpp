@@ -1,6 +1,7 @@
 DECL|function|HelloWindow
 DECL|function|Renderer
 DECL|function|createGeometry
+DECL|function|exposeEvent
 DECL|function|extrude
 DECL|function|initialize
 DECL|function|mousePressEvent
