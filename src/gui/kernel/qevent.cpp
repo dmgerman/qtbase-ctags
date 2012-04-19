@@ -1,5 +1,4 @@
 DECL|function|QActionEvent
-DECL|function|QClipboardEvent
 DECL|function|QCloseEvent
 DECL|function|QContextMenuEvent
 DECL|function|QContextMenuEvent
@@ -122,7 +121,6 @@ DECL|function|value
 DECL|function|velocity
 DECL|function|viewportSize
 DECL|function|~QActionEvent
-DECL|function|~QClipboardEvent
 DECL|function|~QCloseEvent
 DECL|function|~QContextMenuEvent
 DECL|function|~QDragEnterEvent
