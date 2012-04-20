@@ -25,6 +25,7 @@ DECL|enumerator|E_RESOLVE_DEPENDS
 DECL|enumerator|E_RE_ESCAPE
 DECL|enumerator|E_SECTION
 DECL|enumerator|E_SHADOWED
+DECL|enumerator|E_SHELL_QUOTE
 DECL|enumerator|E_SIZE
 DECL|enumerator|E_SORT_DEPENDS
 DECL|enumerator|E_SPLIT
@@ -95,10 +96,12 @@ DECL|function|expand
 DECL|function|expand
 DECL|function|expand
 DECL|function|getCommandOutput
+DECL|function|hasSpecialChars
 DECL|function|init
 DECL|function|invalidateFeatureRoots
 DECL|function|isActiveConfig
 DECL|function|isEmpty
+DECL|function|isSpecialChar
 DECL|function|parse
 DECL|function|populateDeps
 DECL|function|qmake_error_msg
@@ -115,6 +118,7 @@ DECL|function|ref
 DECL|function|remove_quotes
 DECL|function|reset
 DECL|function|resolveSpec
+DECL|function|shellQuote
 DECL|function|split_arg_list
 DECL|function|split_value_list
 DECL|function|subAll
