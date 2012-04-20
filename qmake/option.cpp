@@ -4,7 +4,6 @@ DECL|function|cleanSpec
 DECL|function|debug_msg_internal
 DECL|function|default_mode
 DECL|function|detectProjectFile
-DECL|function|detectShellPath
 DECL|function|fixString
 DECL|function|init
 DECL|function|parseCommandLine
