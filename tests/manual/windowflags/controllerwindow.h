@@ -1,7 +1,10 @@
 DECL|macro|CONTROLLERWINDOW_H
+DECL|variable|HintControl
 DECL|variable|QCheckBox
 DECL|variable|QGroupBox
 DECL|variable|QLabel
 DECL|variable|QMainWindow
 DECL|variable|QPushButton
 DECL|variable|QRadioButton
+DECL|variable|TypeControl
+DECL|variable|WindowStatesControl
