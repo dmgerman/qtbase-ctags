@@ -53,7 +53,6 @@ DECL|member|cachefile
 DECL|member|cachefile_depth
 DECL|member|cpp_ext
 DECL|member|cpp_moc_ext
-DECL|member|cpp_moc_mod
 DECL|member|debug_level
 DECL|member|dir_sep
 DECL|member|dirlist_sep
@@ -66,7 +65,6 @@ DECL|member|do_pwd
 DECL|member|do_stub_makefile
 DECL|member|field_sep
 DECL|member|h_ext
-DECL|member|h_moc_ext
 DECL|member|h_moc_mod
 DECL|member|host_mode
 DECL|member|lex_ext
