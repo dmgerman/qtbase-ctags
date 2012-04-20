@@ -7,6 +7,7 @@ DECL|member|value
 DECL|variable|defaults
 DECL|variable|defines
 DECL|variable|highlighting
+DECL|variable|indexDirs
 DECL|variable|obsoleteLinks
 DECL|variable|showInternal
 DECL|variable|trees
