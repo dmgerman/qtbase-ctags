@@ -1,5 +1,4 @@
 DECL|class|QWindowsNativeInterface
-DECL|enumerator|FontDatabaseAuto
 DECL|enumerator|FontDatabaseFreeType
 DECL|enumerator|FontDatabaseNative
 DECL|enum|FontDatabaseOption
