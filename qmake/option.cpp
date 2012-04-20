@@ -65,7 +65,6 @@ DECL|member|recursive
 DECL|member|res_ext
 DECL|member|shellPath
 DECL|member|source_root
-DECL|member|sysenv_mod
 DECL|member|ui_ext
 DECL|member|user_template
 DECL|member|user_template_prefix
