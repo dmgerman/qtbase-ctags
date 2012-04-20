@@ -15,6 +15,7 @@ DECL|enumerator|E_LAST
 DECL|enumerator|E_LIST
 DECL|enumerator|E_LOWER
 DECL|enumerator|E_MEMBER
+DECL|enumerator|E_NATIVE_PATH
 DECL|enumerator|E_PROMPT
 DECL|enumerator|E_QUOTE
 DECL|enumerator|E_REPLACE
