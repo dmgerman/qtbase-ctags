@@ -109,6 +109,7 @@ DECL|function|returnType
 DECL|function|revision
 DECL|function|revision
 DECL|function|scope
+DECL|function|signal
 DECL|function|signature
 DECL|function|static_metacall
 DECL|function|stringData

@@ -29,6 +29,7 @@ DECL|function|connect
 DECL|function|connect
 DECL|function|connectImpl
 DECL|function|connectNotify
+DECL|function|connectNotify
 DECL|function|connectSlotsByName
 DECL|function|customEvent
 DECL|function|deleteChildren
@@ -40,6 +41,7 @@ DECL|function|disconnect
 DECL|function|disconnect
 DECL|function|disconnectHelper
 DECL|function|disconnectImpl
+DECL|function|disconnectNotify
 DECL|function|disconnectNotify
 DECL|function|disconnectOne
 DECL|function|dumpObjectInfo

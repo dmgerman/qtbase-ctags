@@ -4,6 +4,9 @@ DECL|class|BaseDestroyed
 DECL|class|BlehObject
 DECL|class|Class
 DECL|class|ConfusingObject
+DECL|class|ConnectByNameNotifyReceiverObject
+DECL|class|ConnectByNameNotifySenderObject
+DECL|class|ConnectDisconnectNotifyShadowObject
 DECL|class|ConnectToSender
 DECL|class|ConnectWithReferenceObject
 DECL|class|Constructable
@@ -22,6 +25,7 @@ DECL|class|ManySignals
 DECL|class|MoveToThreadObject
 DECL|class|MoveToThreadThread
 DECL|class|NormalizeObject
+DECL|class|NotifyMethodObject
 DECL|class|NotifyObject
 DECL|class|OverloadObject
 DECL|class|PropertyObject
@@ -55,6 +59,7 @@ DECL|function|AutoConnectSender
 DECL|function|BaseDestroyed
 DECL|function|CheckInstanceCount
 DECL|function|ConfusingObject
+DECL|function|ConnectByNameNotifyReceiverObject
 DECL|function|Constructable
 DECL|function|CustomType
 DECL|function|CustomType
@@ -62,6 +67,7 @@ DECL|function|DestroyedListener
 DECL|function|DynamicPropertyObject
 DECL|function|EventSpy
 DECL|function|MoveToThreadObject
+DECL|function|NotifyMethodObject
 DECL|function|NotifyObject
 DECL|function|PropertyObject
 DECL|function|QCustomTypeChecker
@@ -89,6 +95,8 @@ DECL|function|childEvents
 DECL|function|classPointerSlot
 DECL|function|classSlot
 DECL|function|clear
+DECL|function|clearNotifications
+DECL|function|clearNotifications
 DECL|function|connectByMetaMethodSlotInsteadOfSignal
 DECL|function|connectByMetaMethods
 DECL|function|connectByName
@@ -97,9 +105,17 @@ DECL|function|connectConvert
 DECL|function|connectCxx0x
 DECL|function|connectCxx0xTypeMatching
 DECL|function|connectDisconnectNotify
+DECL|function|connectDisconnectNotifyMethod
+DECL|function|connectDisconnectNotifyMethodPMF
+DECL|function|connectDisconnectNotifyMethod_data
+DECL|function|connectDisconnectNotifyMethod_shadowing
+DECL|function|connectDisconnectNotifyTestSlot
 DECL|function|connectDisconnectNotify_data
 DECL|function|connectManyArguments
 DECL|function|connectNotify
+DECL|function|connectNotify
+DECL|function|connectNotify
+DECL|function|connectNotifyMethod_connectSlotsByName
 DECL|function|connectNotifyPtr
 DECL|function|connectSignalsToSignalsWithDefaultArguments
 DECL|function|connectToSender
@@ -118,6 +134,7 @@ DECL|function|constTemplateSlot3
 DECL|function|constTypeRefSlot
 DECL|function|constUintPointerSlot
 DECL|function|constUlongPointerSlot
+DECL|function|createNotifyChild
 DECL|function|custom
 DECL|function|customEvent
 DECL|function|customString
@@ -132,6 +149,9 @@ DECL|function|disconnect
 DECL|function|disconnectByMetaMethod
 DECL|function|disconnectNotSignalMetaMethod
 DECL|function|disconnectNotify
+DECL|function|disconnectNotify
+DECL|function|disconnectNotify
+DECL|function|disconnectNotifyMethod_receiverDestroyed
 DECL|function|disconnectSelf
 DECL|function|disconnectSelfInSlotAndDeleteAfterEmit
 DECL|function|doEmit
@@ -185,6 +205,9 @@ DECL|function|on_Sender_signalManyParams2
 DECL|function|on_Sender_signalNoParams
 DECL|function|on_Sender_signalWithParams
 DECL|function|on_Sender_signalWithParams
+DECL|function|on_bar_signal1
+DECL|function|on_baz_signal1
+DECL|function|on_foo_signal1
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
@@ -252,6 +275,7 @@ DECL|function|sinvoke3
 DECL|function|slo
 DECL|function|slo
 DECL|function|slo
+DECL|function|slot1
 DECL|function|slot1
 DECL|function|slot1
 DECL|function|slot1
@@ -365,6 +389,8 @@ DECL|member|called_slot9
 DECL|member|changedDynamicProperties
 DECL|member|child
 DECL|member|cond
+DECL|member|connectedSignals
+DECL|member|connectedSignals
 DECL|member|count
 DECL|member|count
 DECL|member|count
@@ -375,6 +401,8 @@ DECL|member|count_slot4
 DECL|member|customEventThread
 DECL|member|derived_counter1
 DECL|member|destroyed
+DECL|member|disconnectedSignals
+DECL|member|disconnectedSignals
 DECL|member|events
 DECL|member|fooList
 DECL|member|i
