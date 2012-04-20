@@ -78,7 +78,6 @@ DECL|member|host_mode
 DECL|member|lex_ext
 DECL|member|lex_mod
 DECL|member|libtool_ext
-DECL|member|mmp_ext
 DECL|member|obj_ext
 DECL|member|output
 DECL|member|output_dir
