@@ -2,6 +2,7 @@ DECL|function|QQnxWindow
 DECL|function|copyBack
 DECL|function|findWindow
 DECL|function|gainedFocus
+DECL|function|isExposed
 DECL|function|lower
 DECL|function|platformWindowFormatToNativeFormat
 DECL|function|post
