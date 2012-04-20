@@ -1,1 +1,2 @@
 DECL|macro|QSOCKETNOTIFIER_H
+DECL|variable|QSocketNotifierPrivate

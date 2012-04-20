@@ -1,4 +1,11 @@
+DECL|class|QSocketNotifierPrivate
 DECL|function|QSocketNotifier
 DECL|function|event
+DECL|function|isEnabled
 DECL|function|setEnabled
+DECL|function|socket
+DECL|function|type
 DECL|function|~QSocketNotifier
+DECL|member|snenabled
+DECL|member|sntype
+DECL|member|sockfd
