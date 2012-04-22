@@ -51,6 +51,7 @@ DECL|function|list
 DECL|function|list_stl
 DECL|function|list_stl_data
 DECL|function|map
+DECL|function|newInstance
 DECL|function|operator <
 DECL|function|operator ==
 DECL|function|operator ==
