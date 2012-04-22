@@ -1,9 +1,11 @@
 DECL|function|QSqlQueryModel
 DECL|function|QSqlQueryModel
+DECL|function|beginResetModel
 DECL|function|canFetchMore
 DECL|function|clear
 DECL|function|columnCount
 DECL|function|data
+DECL|function|endResetModel
 DECL|function|fetchMore
 DECL|function|headerData
 DECL|function|indexInQuery
