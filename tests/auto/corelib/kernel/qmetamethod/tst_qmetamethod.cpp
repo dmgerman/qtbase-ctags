@@ -15,6 +15,7 @@ DECL|function|customTypeInvokable
 DECL|function|customTypeSlot
 DECL|function|customUnregisteredTypeInvokable
 DECL|function|customUnregisteredTypeSlot
+DECL|function|fromSignal
 DECL|function|invalidMethod
 DECL|function|method
 DECL|function|method_data
@@ -38,5 +39,7 @@ DECL|function|voidSlotInt
 DECL|function|voidSlotNoParameterNames
 DECL|function|voidSlotQReal
 DECL|function|voidSlotQString
+DECL|macro|FROMSIGNAL_HELPER
+DECL|macro|FROMSIGNAL_HELPER
 DECL|struct|CustomType
 DECL|struct|CustomUnregisteredType

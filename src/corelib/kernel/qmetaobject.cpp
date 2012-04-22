@@ -22,6 +22,7 @@ DECL|function|enumerator
 DECL|function|enumerator
 DECL|function|enumeratorCount
 DECL|function|enumeratorOffset
+DECL|function|fromSignalImpl
 DECL|function|get
 DECL|function|getParameterTypes
 DECL|function|getParameterTypes
