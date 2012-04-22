@@ -10,6 +10,7 @@ DECL|function|MethodTestObject
 DECL|function|MethodTestObject
 DECL|function|boolInvokable
 DECL|function|boolSlot
+DECL|function|comparisonOperators
 DECL|function|customTypeInvokable
 DECL|function|customTypeSlot
 DECL|function|customUnregisteredTypeInvokable
