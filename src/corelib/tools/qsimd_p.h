@@ -1,7 +1,10 @@
 DECL|enumerator|AVX
+DECL|enumerator|AVX2
+DECL|enumerator|HLE
 DECL|enumerator|IWMMXT
 DECL|enumerator|NEON
 DECL|enumerator|None
+DECL|enumerator|RTM
 DECL|enumerator|SSE2
 DECL|enumerator|SSE3
 DECL|enumerator|SSE4_1
