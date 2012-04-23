@@ -103,6 +103,7 @@ DECL|function|invalidateFeatureRoots
 DECL|function|isActiveConfig
 DECL|function|isEmpty
 DECL|function|isSpecialChar
+DECL|function|loadDefaults
 DECL|function|parse
 DECL|function|populateDeps
 DECL|function|qmakeFeaturePaths
