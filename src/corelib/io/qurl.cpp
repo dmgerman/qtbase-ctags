@@ -15,7 +15,6 @@ DECL|function|appendUserInfo
 DECL|function|appendUserName
 DECL|function|authority
 DECL|function|clear
-DECL|function|clear
 DECL|function|detach
 DECL|function|errorString
 DECL|function|fileScheme
