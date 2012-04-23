@@ -1,1 +1,2 @@
+DECL|function|ignoreProxyFor
 DECL|function|systemProxyForQuery
