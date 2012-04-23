@@ -45,7 +45,6 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
-DECL|function|qStringComparisonHelper
 DECL|function|reserve
 DECL|function|setCell
 DECL|function|setRow
