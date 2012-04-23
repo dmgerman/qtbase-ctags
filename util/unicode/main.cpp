@@ -103,6 +103,7 @@ DECL|function|createNormalizationCorrections
 DECL|function|createPropertyInfo
 DECL|function|createScriptEnumDeclaration
 DECL|function|createScriptTableDeclaration
+DECL|function|createSpecialCaseMap
 DECL|function|initAgeMap
 DECL|function|initCategoryMap
 DECL|function|initDecompositionMap
@@ -192,7 +193,7 @@ DECL|variable|highestComposedCharacter
 DECL|variable|highestLigature
 DECL|variable|joining_map
 DECL|variable|ligatureHashes
-DECL|variable|lineBreakClass
+DECL|variable|line_break_class_string
 DECL|variable|line_break_map
 DECL|variable|maxCaseFoldDiff
 DECL|variable|maxLowerCaseDiff
@@ -209,7 +210,6 @@ DECL|variable|scriptSentinel
 DECL|variable|sentence_break_map
 DECL|variable|sentence_break_string
 DECL|variable|specialCaseMap
-DECL|variable|specialCaseMaxLen
 DECL|variable|unicodeData
 DECL|variable|uniqueProperties
 DECL|variable|word_break_map
