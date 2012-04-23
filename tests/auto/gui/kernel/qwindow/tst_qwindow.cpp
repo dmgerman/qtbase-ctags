@@ -9,6 +9,7 @@ DECL|function|event
 DECL|function|eventIndex
 DECL|function|eventOrderOnShow
 DECL|function|initTestCase
+DECL|function|inputReentrancy
 DECL|function|isActive
 DECL|function|isExposed
 DECL|function|keyPressEvent
@@ -41,12 +42,14 @@ DECL|member|m_received
 DECL|member|mouseDoubleClickedCount
 DECL|member|mouseMoveButton
 DECL|member|mouseMoveScreenPos
+DECL|member|mouseMovedCount
 DECL|member|mousePressButton
 DECL|member|mousePressScreenPos
 DECL|member|mousePressedCount
 DECL|member|mouseReleaseButton
 DECL|member|mouseReleasedCount
 DECL|member|mouseSequenceSignature
+DECL|member|spinLoopWhenPressed
 DECL|member|touchDevice
 DECL|member|touchEventType
 DECL|member|touchMovedCount
