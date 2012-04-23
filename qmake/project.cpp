@@ -90,6 +90,7 @@ DECL|function|doProjectTest
 DECL|function|doProjectTest
 DECL|function|doVariableReplace
 DECL|function|doVariableReplaceExpand
+DECL|function|dump
 DECL|function|eval
 DECL|function|exec
 DECL|function|exec
