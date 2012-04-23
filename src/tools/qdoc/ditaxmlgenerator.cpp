@@ -11,7 +11,7 @@ DECL|function|currentTag
 DECL|function|debugPara
 DECL|function|endLink
 DECL|function|endSubPage
-DECL|function|enterApiDesc
+DECL|function|enterDesc
 DECL|function|enterSection
 DECL|function|fileBase
 DECL|function|fileExtension
@@ -42,9 +42,12 @@ DECL|function|generateLegaleseList
 DECL|function|generateLink
 DECL|function|generateLowStatusMembers
 DECL|function|generateOverviewList
+DECL|function|generateQmlInheritedBy
 DECL|function|generateQmlInherits
 DECL|function|generateQmlInstantiates
 DECL|function|generateQmlItem
+DECL|function|generateQmlModuleDef
+DECL|function|generateQmlSince
 DECL|function|generateQmlSummary
 DECL|function|generateSection
 DECL|function|generateSectionInheritedList
@@ -72,6 +75,7 @@ DECL|function|protectEnc
 DECL|function|refForAtom
 DECL|function|registerRef
 DECL|function|replaceTypesWithLinks
+DECL|function|startQmlProperty
 DECL|function|startText
 DECL|function|stripMarkup
 DECL|function|terminateGenerator
@@ -98,6 +102,8 @@ DECL|function|writeParameters
 DECL|function|writeProlog
 DECL|function|writeProperties
 DECL|function|writePropertyParameter
+DECL|function|writeQmlDesc
+DECL|function|writeQmlRef
 DECL|function|writeRelatedLinks
 DECL|function|writeStartTag
 DECL|function|writeText
