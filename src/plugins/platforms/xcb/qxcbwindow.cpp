@@ -30,6 +30,7 @@ DECL|function|handleButtonPressEvent
 DECL|function|handleButtonReleaseEvent
 DECL|function|handleClientMessageEvent
 DECL|function|handleConfigureNotifyEvent
+DECL|function|handleContentOrientationChange
 DECL|function|handleEnterNotifyEvent
 DECL|function|handleExposeEvent
 DECL|function|handleFocusInEvent
@@ -57,7 +58,6 @@ DECL|function|setMotifWmHints
 DECL|function|setMouseGrabEnabled
 DECL|function|setNetWmStates
 DECL|function|setNetWmWindowFlags
-DECL|function|setOrientation
 DECL|function|setParent
 DECL|function|setTransparentForMouseEvents
 DECL|function|setVisible
