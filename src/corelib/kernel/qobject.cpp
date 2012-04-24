@@ -56,6 +56,7 @@ DECL|function|extract_code
 DECL|function|extract_location
 DECL|function|installEventFilter
 DECL|function|isSender
+DECL|function|isSignalConnected
 DECL|function|killTimer
 DECL|function|memberIndexes
 DECL|function|methodIndexToSignalIndex
