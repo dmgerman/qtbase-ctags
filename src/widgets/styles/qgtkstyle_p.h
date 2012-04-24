@@ -11,6 +11,7 @@ DECL|macro|QGTKSTYLE_P_H
 DECL|macro|QLS
 DECL|macro|Q_GTK_IS_WIDGET
 DECL|macro|signals
+DECL|typedef|Display
 DECL|typedef|GnomeIconLookupFlags
 DECL|typedef|GnomeIconLookupResultFlags
 DECL|typedef|Ptr_gconf_client_get_bool

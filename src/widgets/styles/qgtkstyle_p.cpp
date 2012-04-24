@@ -37,6 +37,12 @@ DECL|function|setupGtkWidget
 DECL|function|updateTheme
 DECL|function|update_toolbar_style
 DECL|function|~QGtkStylePrivate
+DECL|macro|XRegisterIMInstantiateCallback
+DECL|macro|XRegisterIMInstantiateCallback
+DECL|macro|XSetIMValues
+DECL|macro|XSetIMValues
+DECL|macro|XUnregisterIMInstantiateCallback
+DECL|macro|XUnregisterIMInstantiateCallback
 DECL|member|gconf_client_get_bool
 DECL|member|gconf_client_get_default
 DECL|member|gconf_client_get_string
