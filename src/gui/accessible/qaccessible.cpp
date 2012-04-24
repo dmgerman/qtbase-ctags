@@ -8,6 +8,7 @@ DECL|function|installRootObjectHandler
 DECL|function|installUpdateHandler
 DECL|function|isActive
 DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|operator ==
 DECL|function|platformAccessibility
 DECL|function|qAccessibleCleanup
