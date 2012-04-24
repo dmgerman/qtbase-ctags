@@ -114,7 +114,6 @@ DECL|function|stringData
 DECL|function|stringSize
 DECL|function|tag
 DECL|function|tag
-DECL|function|toByteArray
 DECL|function|tr
 DECL|function|trUtf8
 DECL|function|type
