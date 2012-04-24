@@ -4,6 +4,7 @@ DECL|function|clipboard
 DECL|function|createDisplays
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
+DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|destroyDisplays
 DECL|function|guiThreadEventDispatcher
@@ -15,6 +16,7 @@ DECL|function|primaryDisplay
 DECL|function|removeWindow
 DECL|function|services
 DECL|function|styleHint
+DECL|function|themeNames
 DECL|function|window
 DECL|function|~QQnxIntegration
 DECL|member|ms_windowMapper

@@ -1,0 +1,2 @@
+DECL|macro|QQNXTHEME_H
+DECL|variable|QPlatformFontDatabase
