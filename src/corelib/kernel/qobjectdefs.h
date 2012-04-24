@@ -94,7 +94,9 @@ DECL|member|static_metacall
 DECL|member|stringdata
 DECL|member|superdata
 DECL|struct|QMetaObject
+DECL|typedef|QByteArrayData
 DECL|typedef|StaticMetacallFunction
+DECL|variable|QArrayData
 DECL|variable|QByteArray
 DECL|variable|QMetaClassInfo
 DECL|variable|QMetaEnum
