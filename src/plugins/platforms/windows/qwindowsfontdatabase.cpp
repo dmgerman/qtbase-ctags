@@ -49,8 +49,6 @@ DECL|function|initDirectWrite
 DECL|function|loader
 DECL|function|localizedName
 DECL|function|operator <<
-DECL|function|operator =
-DECL|function|operator T
 DECL|function|populate
 DECL|function|populateFontDatabase
 DECL|function|refUniqueFont
@@ -80,7 +78,6 @@ DECL|member|capHeight
 DECL|member|checkSum
 DECL|member|codepageRanges
 DECL|member|count
-DECL|member|data
 DECL|member|defaultChar
 DECL|member|encodingID
 DECL|member|entrySelector
@@ -133,7 +130,6 @@ DECL|member|weightClass
 DECL|member|widthClass
 DECL|member|winAscent
 DECL|member|winDescent
-DECL|struct|BigEndian
 DECL|struct|NameRecord
 DECL|struct|NameTable
 DECL|struct|OS2Table
