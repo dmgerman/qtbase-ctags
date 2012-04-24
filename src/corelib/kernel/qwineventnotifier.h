@@ -1,1 +1,2 @@
 DECL|macro|QWINEVENTNOTIFIER_H
+DECL|variable|QWinEventNotifierPrivate
