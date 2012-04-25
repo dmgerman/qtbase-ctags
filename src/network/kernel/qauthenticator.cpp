@@ -5,6 +5,7 @@ DECL|class|QNtlmPhase2Block
 DECL|class|QNtlmPhase2BlockBase
 DECL|class|QNtlmPhase3Block
 DECL|class|QNtlmPhase3BlockBase
+DECL|class|QNtlmWindowsHandles
 DECL|enumerator|Size
 DECL|enumerator|Size
 DECL|enumerator|Size
@@ -44,11 +45,14 @@ DECL|function|qEncodeNtlmv2Response
 DECL|function|qExtractServerTime
 DECL|function|qNtlmDecodePhase2
 DECL|function|qNtlmPhase1
+DECL|function|qNtlmPhase1_SSPI
 DECL|function|qNtlmPhase3
+DECL|function|qNtlmPhase3_SSPI
 DECL|function|qStreamNtlmBuffer
 DECL|function|qStreamNtlmString
 DECL|function|qStringAsUcs2Le
 DECL|function|qStringFromUcs2Le
+DECL|function|q_NTLM_SSPI_library_load
 DECL|function|realm
 DECL|function|setOption
 DECL|function|setPassword
@@ -78,8 +82,11 @@ DECL|macro|NTLMSSP_REQUEST_TARGET
 DECL|macro|NTLMSSP_TARGET_TYPE_DOMAIN
 DECL|macro|NTLMSSP_TARGET_TYPE_SERVER
 DECL|macro|NTLMSSP_TARGET_TYPE_SHARE
+DECL|macro|SECURITY_WIN32
 DECL|member|challenge
 DECL|member|context
+DECL|member|credHandle
+DECL|member|ctxHandle
 DECL|member|domain
 DECL|member|domain
 DECL|member|domainStr
@@ -117,4 +124,6 @@ DECL|member|workstationStr
 DECL|variable|blockSize
 DECL|variable|hirespversion
 DECL|variable|nDigestLen
+DECL|variable|pSecurityFunctionTable
 DECL|variable|respversion
+DECL|variable|securityDLLHandle
