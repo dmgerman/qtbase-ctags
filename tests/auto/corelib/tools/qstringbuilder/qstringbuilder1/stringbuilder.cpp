@@ -2,6 +2,7 @@ DECL|function|runScenario
 DECL|macro|LITERAL
 DECL|macro|LITERAL_EXTRA
 DECL|macro|LITERAL_LEN
+DECL|macro|P
 DECL|macro|Q
 DECL|macro|Q
 DECL|macro|UNICODE_LITERAL
