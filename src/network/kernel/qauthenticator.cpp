@@ -53,8 +53,10 @@ DECL|function|realm
 DECL|function|setOption
 DECL|function|setPassword
 DECL|function|setUser
+DECL|function|updateCredentials
 DECL|function|user
 DECL|function|~QAuthenticator
+DECL|function|~QAuthenticatorPrivate
 DECL|macro|AVTIMESTAMP
 DECL|macro|NTLMSSP_NEGOTIATE_128
 DECL|macro|NTLMSSP_NEGOTIATE_56
