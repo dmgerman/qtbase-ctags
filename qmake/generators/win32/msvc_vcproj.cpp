@@ -1,5 +1,5 @@
 DECL|function|VcprojGenerator
-DECL|function|collectSubDirs
+DECL|function|collectDependencies
 DECL|function|createProjectWriter
 DECL|function|fixFilename
 DECL|function|getProjectUUID
