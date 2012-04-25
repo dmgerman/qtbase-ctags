@@ -31,6 +31,8 @@ DECL|function|contains
 DECL|function|count
 DECL|function|double_conversion
 DECL|function|double_conversion_data
+DECL|function|eightBitLiterals
+DECL|function|eightBitLiterals_data
 DECL|function|endsWith
 DECL|function|fill
 DECL|function|fromAscii
@@ -78,6 +80,8 @@ DECL|function|nanAndInf
 DECL|function|nullFromUtf8
 DECL|function|number
 DECL|function|operatorGreaterWithQLatin1String
+DECL|function|operator_eqeq_bytearray
+DECL|function|operator_eqeq_bytearray_data
 DECL|function|operator_eqeq_nullstring
 DECL|function|operator_pluseq_bytearray
 DECL|function|operator_pluseq_bytearray_data
