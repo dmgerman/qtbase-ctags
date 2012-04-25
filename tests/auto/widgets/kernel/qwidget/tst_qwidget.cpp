@@ -262,6 +262,7 @@ DECL|function|shrinkMask
 DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|sizeHint
+DECL|function|slotTimer
 DECL|function|stackUnder
 DECL|function|subtractOpaqueSiblings
 DECL|function|syntheticEnterLeave
