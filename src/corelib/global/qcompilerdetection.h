@@ -242,3 +242,5 @@ DECL|macro|Q_UNREACHABLE
 DECL|macro|__is_empty
 DECL|macro|__is_pod
 DECL|macro|for
+DECL|macro|qMove
+DECL|macro|qMove
