@@ -1,6 +1,0 @@
-DECL|function|BorlandMakefileGenerator
-DECL|function|init
-DECL|function|writeBorlandParts
-DECL|function|writeBuildRulesPart
-DECL|function|writeCleanParts
-DECL|function|writeMakefile
