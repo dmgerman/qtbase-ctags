@@ -1,5 +1,6 @@
 DECL|macro|QQNXBPSEVENTFILTER_H
 DECL|variable|QAbstractEventDispatcher
+DECL|variable|QQnxFileDialogHelper
 DECL|variable|QQnxNavigatorEventHandler
 DECL|variable|QQnxScreen
 DECL|variable|QQnxScreenEventHandler

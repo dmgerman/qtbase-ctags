@@ -3,7 +3,9 @@ DECL|function|bpsEventFilter
 DECL|function|dispatcherEventFilter
 DECL|function|handleNavigatorEvent
 DECL|function|installOnEventDispatcher
+DECL|function|registerForDialogEvents
 DECL|function|registerForScreenEvents
+DECL|function|unregisterForDialogEvents
 DECL|function|unregisterForScreenEvents
 DECL|function|~QQnxBpsEventFilter
 DECL|macro|qBpsEventFilterDebug

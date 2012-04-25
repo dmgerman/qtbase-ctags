@@ -1,2 +1,3 @@
 DECL|macro|QQNXTHEME_H
 DECL|variable|QPlatformFontDatabase
+DECL|variable|QQnxBpsEventFilter
