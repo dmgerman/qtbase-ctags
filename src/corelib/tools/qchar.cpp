@@ -44,6 +44,8 @@ DECL|function|mirroredChar
 DECL|function|mirroredChar
 DECL|function|operator <
 DECL|function|operator <
+DECL|function|operator <
+DECL|function|operator <
 DECL|function|operator <<
 DECL|function|operator >>
 DECL|function|toCaseFolded
@@ -63,6 +65,9 @@ DECL|function|unicodeVersion
 DECL|macro|FLAG
 DECL|macro|QT_NO_CAST_FROM_ASCII
 DECL|macro|QT_NO_CAST_TO_ASCII
+DECL|member|p1
+DECL|member|p2
 DECL|member|u1
 DECL|member|u2
 DECL|struct|UCS2Pair
+DECL|struct|UCS2SurrogatePair
