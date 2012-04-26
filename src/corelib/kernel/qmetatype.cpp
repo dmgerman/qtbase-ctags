@@ -79,6 +79,8 @@ DECL|function|load
 DECL|function|operator =
 DECL|function|qMetaTypeCustomType_unlocked
 DECL|function|qMetaTypeStaticType
+DECL|function|qMetaTypeTypeImpl
+DECL|function|qMetaTypeTypeInternal
 DECL|function|registerStreamOperators
 DECL|function|registerStreamOperators
 DECL|function|registerType
