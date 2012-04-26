@@ -1,5 +1,8 @@
 DECL|function|at
+DECL|function|begin
 DECL|function|clear
+DECL|function|data
+DECL|function|end
 DECL|function|insert
 DECL|function|insert
 DECL|function|operator
@@ -10,4 +13,13 @@ DECL|function|remove
 DECL|function|replace
 DECL|function|reserve
 DECL|function|resize
+DECL|function|sharedNull
 DECL|macro|QRAWVECTOR_H
+DECL|member|alloc
+DECL|member|capacityReserved
+DECL|member|offset
+DECL|member|ref
+DECL|member|shared_null
+DECL|member|size
+DECL|struct|QVectorData
+DECL|struct|QVectorData
