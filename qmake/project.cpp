@@ -1,3 +1,4 @@
+DECL|enumerator|E_ABSOLUTE_PATH
 DECL|enumerator|E_BASENAME
 DECL|enumerator|E_CAT
 DECL|enumerator|E_CLEAN_PATH
@@ -18,6 +19,7 @@ DECL|enumerator|E_MEMBER
 DECL|enumerator|E_NATIVE_PATH
 DECL|enumerator|E_PROMPT
 DECL|enumerator|E_QUOTE
+DECL|enumerator|E_RELATIVE_PATH
 DECL|enumerator|E_REPLACE
 DECL|enumerator|E_RESOLVE_DEPENDS
 DECL|enumerator|E_RE_ESCAPE
