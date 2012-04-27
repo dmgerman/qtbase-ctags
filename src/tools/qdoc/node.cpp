@@ -34,6 +34,7 @@ DECL|function|borrowParameterNames
 DECL|function|cleanId
 DECL|function|clearCurrentChild
 DECL|function|clearCurrentChildPointers
+DECL|function|clearPropertyGroupCount
 DECL|function|correspondingProperty
 DECL|function|debug
 DECL|function|declarativeCppNode
@@ -63,6 +64,8 @@ DECL|function|fullDocumentName
 DECL|function|fullTitle
 DECL|function|guid
 DECL|function|idForNode
+DECL|function|idNumber
+DECL|function|incPropertyGroupCount
 DECL|function|inheritedStatus
 DECL|function|inheritedThreadSafeness
 DECL|function|isInternal
@@ -131,4 +134,5 @@ DECL|member|exampleNodeMap
 DECL|member|inheritedBy
 DECL|member|moduleMap
 DECL|member|operators_
+DECL|member|propertyGroupCount_
 DECL|member|qmlOnly
