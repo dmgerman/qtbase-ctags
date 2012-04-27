@@ -53,6 +53,7 @@ DECL|enumerator|T_RETURN
 DECL|enumerator|T_SYSTEM
 DECL|enumerator|T_UNSET
 DECL|enumerator|T_WARNING
+DECL|enumerator|T_WRITE_FILE
 DECL|enum|ExpandFunc
 DECL|enum|TestFunc
 DECL|function|FunctionBlock
