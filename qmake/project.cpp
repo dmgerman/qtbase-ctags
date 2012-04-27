@@ -22,6 +22,7 @@ DECL|enumerator|E_QUOTE
 DECL|enumerator|E_RELATIVE_PATH
 DECL|enumerator|E_REPLACE
 DECL|enumerator|E_RESOLVE_DEPENDS
+DECL|enumerator|E_REVERSE
 DECL|enumerator|E_RE_ESCAPE
 DECL|enumerator|E_SECTION
 DECL|enumerator|E_SHADOWED
