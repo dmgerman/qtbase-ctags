@@ -26,6 +26,7 @@ DECL|enumerator|E_SYSTEM
 DECL|enumerator|E_UNIQUE
 DECL|enumerator|E_UPPER
 DECL|enumerator|T_BREAK
+DECL|enumerator|T_CACHE
 DECL|enumerator|T_CLEAR
 DECL|enumerator|T_CONFIG
 DECL|enumerator|T_CONTAINS
@@ -83,6 +84,7 @@ DECL|function|expand
 DECL|function|expand
 DECL|function|getCommandOutput
 DECL|function|init
+DECL|function|invalidateFeatureRoots
 DECL|function|isActiveConfig
 DECL|function|isEmpty
 DECL|function|parse
@@ -92,6 +94,7 @@ DECL|function|qmake_expandFunctions
 DECL|function|qmake_feature_paths
 DECL|function|qmake_mkspec_paths
 DECL|function|qmake_testFunctions
+DECL|function|quoteValue
 DECL|function|read
 DECL|function|read
 DECL|function|read
@@ -102,11 +105,13 @@ DECL|function|reset
 DECL|function|resolveSpec
 DECL|function|split_arg_list
 DECL|function|split_value_list
+DECL|function|subAll
 DECL|function|test
 DECL|function|test
 DECL|function|validateModes
 DECL|function|values
 DECL|function|varMap
+DECL|function|writeFile
 DECL|function|~ParsableBlock
 DECL|function|~QMakeProject
 DECL|function|~ScopeBlock
@@ -145,6 +150,7 @@ DECL|struct|ParsableBlock
 DECL|struct|Parse
 DECL|struct|Test
 DECL|struct|parser_info
+DECL|variable|all_feature_roots
 DECL|variable|parser
 DECL|variable|project_build_root
 DECL|variable|project_root
