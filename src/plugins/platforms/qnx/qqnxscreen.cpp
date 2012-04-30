@@ -1,7 +1,9 @@
 DECL|function|QQnxScreen
+DECL|function|activateWindowGroup
 DECL|function|addOverlayWindow
 DECL|function|addWindow
 DECL|function|availableGeometry
+DECL|function|deactivateWindowGroup
 DECL|function|defaultDepth
 DECL|function|depth
 DECL|function|findWindow
