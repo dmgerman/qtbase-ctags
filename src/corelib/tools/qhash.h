@@ -56,6 +56,7 @@ DECL|function|values
 DECL|function|values
 DECL|function|willGrow
 DECL|macro|QHASH_H
+DECL|member|Key
 DECL|member|buckets
 DECL|member|fakeNext
 DECL|member|h
