@@ -53,7 +53,6 @@ DECL|function|QWindowsNativeFileDialogBase
 DECL|function|QWindowsNativeFileDialogEventHandler
 DECL|function|QueryInterface
 DECL|function|Release
-DECL|function|_q_platformRunNativeAppModalPanel
 DECL|function|close
 DECL|function|close
 DECL|function|create
@@ -64,13 +63,13 @@ DECL|function|createNativeDialog
 DECL|function|currentColor_sys
 DECL|function|defaultNameFilterDisables
 DECL|function|deleteNativeDialog_sys
-DECL|function|dialogResultCode_sys
 DECL|function|directory
 DECL|function|directory_sys
 DECL|function|eatMouseMove
 DECL|function|ensureNativeDialog
 DECL|function|exec
 DECL|function|exec
+DECL|function|exec_sys
 DECL|function|fileDialog
 DECL|function|fileResult
 DECL|function|fileResult
@@ -88,7 +87,6 @@ DECL|function|onSelectionChange
 DECL|function|onTypeChange
 DECL|function|openFileDialog
 DECL|function|operator <<
-DECL|function|platformNativeDialogModalHelp
 DECL|function|result
 DECL|function|result
 DECL|function|run

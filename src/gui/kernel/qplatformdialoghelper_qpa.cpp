@@ -21,7 +21,6 @@ DECL|function|customColorCount
 DECL|function|customColors
 DECL|function|defaultStyleHint
 DECL|function|defaultSuffix
-DECL|function|emitLaunchNativeAppModalPanel
 DECL|function|fileMode
 DECL|function|filter
 DECL|function|history
