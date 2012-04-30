@@ -105,7 +105,6 @@ DECL|function|setStartPos
 DECL|function|setStartScenePos
 DECL|function|setStartScreenPos
 DECL|function|setState
-DECL|function|setTentativeCommitString
 DECL|function|setValue
 DECL|function|setVelocity
 DECL|function|setViewportSize

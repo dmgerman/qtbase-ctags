@@ -30,7 +30,6 @@ DECL|function|initPalette
 DECL|function|init_platform
 DECL|function|init_plugins
 DECL|function|inputMethod
-DECL|function|inputPanel
 DECL|function|isWindowBlocked
 DECL|function|keyboardModifiers
 DECL|function|layoutDirection

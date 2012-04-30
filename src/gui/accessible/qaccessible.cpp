@@ -19,7 +19,6 @@ DECL|function|relations
 DECL|function|removeFactory
 DECL|function|setRootObject
 DECL|function|updateAccessibility
-DECL|function|updateAccessibility
 DECL|function|virtual_hook
 DECL|function|window
 DECL|member|rootObjectHandler

@@ -42,9 +42,7 @@ DECL|function|isAlien
 DECL|function|isBlockedByModal
 DECL|function|isSessionRestored
 DECL|function|isWindowBlocked
-DECL|function|keyboardInputDirection
 DECL|function|keyboardInputInterval
-DECL|function|keyboardInputLocale
 DECL|function|keypadNavigationEnabled
 DECL|function|navigationMode
 DECL|function|notify
@@ -92,7 +90,6 @@ DECL|function|startDragDistance
 DECL|function|startDragTime
 DECL|function|style
 DECL|function|styleSheet
-DECL|function|syncX
 DECL|function|topLevelWidgets
 DECL|function|translateRawTouchEvent
 DECL|function|translateTouchCancel
