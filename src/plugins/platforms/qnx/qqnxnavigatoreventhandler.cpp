@@ -3,3 +3,5 @@ DECL|function|handleExit
 DECL|function|handleOrientationChange
 DECL|function|handleOrientationCheck
 DECL|function|handleSwipeDown
+DECL|function|handleWindowGroupActivated
+DECL|function|handleWindowGroupDeactivated
