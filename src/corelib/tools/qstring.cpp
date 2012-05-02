@@ -172,8 +172,6 @@ DECL|function|startsWith
 DECL|function|startsWith
 DECL|function|startsWith
 DECL|function|startsWith
-DECL|function|toAscii
-DECL|function|toAscii
 DECL|function|toCaseFolded
 DECL|function|toDouble
 DECL|function|toFloat
