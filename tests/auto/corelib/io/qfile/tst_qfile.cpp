@@ -91,6 +91,8 @@ DECL|function|open_data
 DECL|function|owner
 DECL|function|ownerId
 DECL|function|permissions
+DECL|function|permissionsNtfs
+DECL|function|permissionsNtfs_data
 DECL|function|permissions_data
 DECL|function|posAfterFailedStat
 DECL|function|read
