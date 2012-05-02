@@ -9,4 +9,5 @@ DECL|member|lc_monetary
 DECL|member|lc_numeric
 DECL|member|lc_time
 DECL|member|lock
+DECL|member|uiLanguages
 DECL|struct|QSystemLocaleData
