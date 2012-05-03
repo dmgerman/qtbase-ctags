@@ -60,7 +60,6 @@ DECL|member|qmakespec
 DECL|member|qmakespec_commandline
 DECL|member|recursive
 DECL|member|res_ext
-DECL|member|shellPath
 DECL|member|source_root
 DECL|member|ui_ext
 DECL|member|user_template
