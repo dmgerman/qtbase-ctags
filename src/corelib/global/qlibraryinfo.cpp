@@ -5,12 +5,15 @@ DECL|function|buildDate
 DECL|function|cleanup
 DECL|function|configuration
 DECL|function|findConfiguration
+DECL|function|haveGroup
 DECL|function|isDebugBuild
 DECL|function|licensedProducts
 DECL|function|licensee
 DECL|function|location
 DECL|function|qt_core_boilerplate
 DECL|function|rawLocation
+DECL|member|haveEffectivePaths
+DECL|member|havePaths
 DECL|member|key
 DECL|member|settings
 DECL|member|value
