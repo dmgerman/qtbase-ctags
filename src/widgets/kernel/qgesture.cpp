@@ -13,8 +13,6 @@ DECL|function|activeGestures
 DECL|function|canceledGestures
 DECL|function|centerPoint
 DECL|function|changeFlags
-DECL|function|d_func
-DECL|function|d_func
 DECL|function|delta
 DECL|function|gesture
 DECL|function|gestureCancelPolicy

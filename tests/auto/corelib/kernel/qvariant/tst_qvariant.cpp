@@ -53,7 +53,6 @@ DECL|function|debugStreamType
 DECL|function|debugStreamType_data
 DECL|function|debugStream_data
 DECL|function|forwardDeclare
-DECL|function|globalColor
 DECL|function|guiVariantAtExit
 DECL|function|handler
 DECL|function|handler

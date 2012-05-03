@@ -41,7 +41,6 @@ DECL|function|extractSections
 DECL|function|fill
 DECL|function|findArgEscapes
 DECL|function|findChar
-DECL|function|free
 DECL|function|fromAscii_helper
 DECL|function|fromLatin1_helper
 DECL|function|fromLocal8Bit_helper
@@ -225,8 +224,6 @@ DECL|member|no
 DECL|member|null
 DECL|member|occurrences
 DECL|member|pos
-DECL|member|shared_empty
-DECL|member|shared_null
 DECL|member|string
 DECL|struct|ArgEscapeData
 DECL|struct|QStringCapture
