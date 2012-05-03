@@ -16,6 +16,7 @@ DECL|macro|qWarning
 DECL|macro|qWarning
 DECL|macro|qWarning
 DECL|typedef|QMessageHandler
+DECL|typedef|QtMessageHandler
 DECL|typedef|QtMsgHandler
 DECL|variable|QDebug
 DECL|variable|QNoDebug

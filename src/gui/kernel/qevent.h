@@ -5,7 +5,4 @@ DECL|variable|QAction
 DECL|variable|QGesture
 DECL|variable|QMimeData
 DECL|variable|QScreen
-DECL|variable|QScreenOrientationChangeEventPrivate
-DECL|variable|QScrollEventPrivate
-DECL|variable|QScrollPrepareEventPrivate
 DECL|variable|QTouchEventTouchPointPrivate

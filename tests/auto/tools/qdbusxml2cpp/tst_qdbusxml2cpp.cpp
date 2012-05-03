@@ -1,0 +1,12 @@
+DECL|class|tst_qdbusxml2cpp
+DECL|enumerator|Adaptor
+DECL|enumerator|Interface
+DECL|function|initTestCase_data
+DECL|function|process
+DECL|function|process_data
+DECL|function|stripHeader
+DECL|member|cppType
+DECL|member|dbusType
+DECL|struct|BasicTypeList
+DECL|variable|basicTypeCount
+DECL|variable|basicTypeList
