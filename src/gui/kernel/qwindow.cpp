@@ -6,6 +6,7 @@ DECL|function|baseSize
 DECL|function|close
 DECL|function|contentOrientation
 DECL|function|create
+DECL|function|cursor
 DECL|function|destroy
 DECL|function|event
 DECL|function|exposeEvent
@@ -52,6 +53,7 @@ DECL|function|resizeEvent
 DECL|function|screen
 DECL|function|screenDestroyed
 DECL|function|setBaseSize
+DECL|function|setCursor
 DECL|function|setFormat
 DECL|function|setFramePos
 DECL|function|setGeometry
@@ -82,6 +84,7 @@ DECL|function|surfaceHandle
 DECL|function|surfaceType
 DECL|function|touchEvent
 DECL|function|transientParent
+DECL|function|unsetCursor
 DECL|function|wheelEvent
 DECL|function|winId
 DECL|function|windowFlags
