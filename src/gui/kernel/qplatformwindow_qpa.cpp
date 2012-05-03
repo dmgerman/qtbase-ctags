@@ -4,6 +4,7 @@ DECL|function|format
 DECL|function|frameMargins
 DECL|function|geometry
 DECL|function|handleContentOrientationChange
+DECL|function|isActive
 DECL|function|isExposed
 DECL|function|lower
 DECL|function|parent

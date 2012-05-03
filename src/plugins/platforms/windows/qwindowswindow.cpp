@@ -41,6 +41,7 @@ DECL|function|handleWindowStateChange
 DECL|function|handleWmPaint
 DECL|function|hide_sys
 DECL|function|initialize
+DECL|function|isActive
 DECL|function|isEnabled
 DECL|function|isVisible
 DECL|function|lower
