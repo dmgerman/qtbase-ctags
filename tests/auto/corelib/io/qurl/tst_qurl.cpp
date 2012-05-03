@@ -85,6 +85,7 @@ DECL|function|setUrl
 DECL|function|strictParser
 DECL|function|strictParser_data
 DECL|function|stripTrailingSlash
+DECL|function|stripTrailingSlash_data
 DECL|function|swap
 DECL|function|symmetry
 DECL|function|tldRestrictions
