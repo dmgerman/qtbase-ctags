@@ -40,7 +40,6 @@ DECL|member|field_sep
 DECL|member|func
 DECL|member|h_ext
 DECL|member|h_moc_mod
-DECL|member|host_mode
 DECL|member|lex_ext
 DECL|member|lex_mod
 DECL|member|libtool_ext

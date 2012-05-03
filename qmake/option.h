@@ -4,10 +4,6 @@ DECL|enumerator|FixPathCanonicalize
 DECL|enumerator|FixPathToLocalSeparators
 DECL|enumerator|FixPathToNormalSeparators
 DECL|enumerator|FixPathToTargetSeparators
-DECL|enumerator|HOST_MACX_MODE
-DECL|enumerator|HOST_UNIX_MODE
-DECL|enumerator|HOST_UNKNOWN_MODE
-DECL|enumerator|HOST_WIN_MODE
 DECL|enumerator|QMAKE_CMDLINE_BAIL
 DECL|enumerator|QMAKE_CMDLINE_ERROR
 DECL|enumerator|QMAKE_CMDLINE_SHOW_USAGE
@@ -28,7 +24,6 @@ DECL|enumerator|WarnLogic
 DECL|enumerator|WarnNone
 DECL|enumerator|WarnParser
 DECL|enum|CmdLineFlags
-DECL|enum|HOST_MODE
 DECL|enum|QMAKE_MODE
 DECL|enum|QMAKE_RECURSIVE
 DECL|enum|QMakeWarn
@@ -66,7 +61,6 @@ DECL|member|do_stub_makefile
 DECL|member|field_sep
 DECL|member|h_ext
 DECL|member|h_moc_mod
-DECL|member|host_mode
 DECL|member|lex_ext
 DECL|member|lex_mod
 DECL|member|libtool_ext
