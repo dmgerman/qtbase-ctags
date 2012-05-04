@@ -1,8 +1,10 @@
 DECL|class|QFactoryLoaderPrivate
 DECL|function|QFactoryLoader
 DECL|function|QFactoryLoaderPrivate
+DECL|function|indexOf
 DECL|function|instance
 DECL|function|instance
+DECL|function|keyMap
 DECL|function|keys
 DECL|function|library
 DECL|function|metaData

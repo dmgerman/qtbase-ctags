@@ -1,2 +1,7 @@
+DECL|function|qLoadPlugin
+DECL|function|qLoadPlugin1
 DECL|macro|QFACTORYLOADER_P_H
+DECL|variable|FactoryInterface
+DECL|variable|PluginInterface
+DECL|variable|PluginInterface
 DECL|variable|QFactoryLoaderPrivate
