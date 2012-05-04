@@ -1,4 +1,5 @@
 DECL|function|QModelIndex
+DECL|function|Q_DECLARE_SHARED
 DECL|function|child
 DECL|function|createIndex
 DECL|function|createIndex
@@ -10,7 +11,6 @@ DECL|function|insertRow
 DECL|function|moveColumn
 DECL|function|moveRow
 DECL|function|parent
-DECL|function|qHash
 DECL|function|qHash
 DECL|function|removeColumn
 DECL|function|removeRow

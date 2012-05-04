@@ -1,3 +1,4 @@
 DECL|macro|QREGULAREXPRESSION_H
 DECL|variable|QRegularExpressionMatch
 DECL|variable|QRegularExpressionMatchIterator
+DECL|variable|operator
