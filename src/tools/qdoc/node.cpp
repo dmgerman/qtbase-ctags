@@ -68,12 +68,16 @@ DECL|function|idNumber
 DECL|function|incPropertyGroupCount
 DECL|function|inheritedStatus
 DECL|function|inheritedThreadSafeness
+DECL|function|insertQmlModuleMember
+DECL|function|insertQmlModuleNode
 DECL|function|isInternal
 DECL|function|isQmlNode
 DECL|function|isSameSignature
 DECL|function|isWritable
 DECL|function|itemAccess
 DECL|function|itemValue
+DECL|function|lookupQmlModuleNode
+DECL|function|lookupQmlTypeNode
 DECL|function|makeUndocumentedChildrenInternal
 DECL|function|moduleName
 DECL|function|nodeSubtypeString
@@ -109,7 +113,7 @@ DECL|function|setOverload
 DECL|function|setOverload
 DECL|function|setOverriddenFrom
 DECL|function|setPageType
-DECL|function|setQmlModuleName
+DECL|function|setQmlModule
 DECL|function|setReimp
 DECL|function|setReimplementedFrom
 DECL|function|setRelates
@@ -130,7 +134,8 @@ DECL|function|~Node
 DECL|function|~QmlClassNode
 DECL|member|exampleNodeMap
 DECL|member|inheritedBy
-DECL|member|moduleMap
 DECL|member|operators_
 DECL|member|propertyGroupCount_
+DECL|member|qmlModuleMap_
+DECL|member|qmlModuleMemberMap_
 DECL|member|qmlOnly

@@ -7,7 +7,6 @@ DECL|function|addExternalLink
 DECL|function|addPropertyFunction
 DECL|function|addToGroup
 DECL|function|addToPublicGroup
-DECL|function|addToQmlModule
 DECL|function|allBaseClasses
 DECL|function|checkForCollision
 DECL|function|compareNodes
@@ -41,7 +40,6 @@ DECL|function|generateTagFileCompounds
 DECL|function|generateTagFileMembers
 DECL|function|groups
 DECL|function|publicGroups
-DECL|function|qmlModules
 DECL|function|readIndexFile
 DECL|function|readIndexSection
 DECL|function|readIndexText
@@ -53,7 +51,6 @@ DECL|function|resolveInheritance
 DECL|function|resolveInheritance
 DECL|function|resolveProperties
 DECL|function|resolveQmlInheritance
-DECL|function|resolveQmlModules
 DECL|function|resolveTargets
 DECL|function|~Tree
 DECL|member|access
@@ -67,7 +64,6 @@ DECL|member|node
 DECL|member|parent
 DECL|member|priority
 DECL|member|publicGroupMap
-DECL|member|qmlModuleMap
 DECL|member|relatedList
 DECL|member|targetHash
 DECL|member|unresolvedInheritanceMap
