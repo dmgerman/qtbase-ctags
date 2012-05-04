@@ -2,6 +2,7 @@ DECL|function|QWindowsVistaStyle
 DECL|function|QWindowsVistaStylePrivate
 DECL|function|buttonStateId
 DECL|function|buttonVisible
+DECL|function|cleanupTreeViewTheming
 DECL|function|createTreeViewHelperWindow
 DECL|function|drawBlendedImage
 DECL|function|drawComplexControl
