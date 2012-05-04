@@ -22,6 +22,7 @@ DECL|function|physicalDotsPerInchX
 DECL|function|physicalDotsPerInchY
 DECL|function|physicalSize
 DECL|function|primaryOrientation
+DECL|function|refreshRate
 DECL|function|size
 DECL|function|transformBetween
 DECL|function|updatePrimaryOrientation

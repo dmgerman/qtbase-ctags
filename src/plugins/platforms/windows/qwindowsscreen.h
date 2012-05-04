@@ -11,4 +11,5 @@ DECL|member|geometry
 DECL|member|name
 DECL|member|orientation
 DECL|member|physicalSizeMM
+DECL|member|refreshRateHz
 DECL|struct|QWindowsScreenData

@@ -19,6 +19,7 @@ DECL|function|handleScreenAvailableGeometryChange
 DECL|function|handleScreenGeometryChange
 DECL|function|handleScreenLogicalDotsPerInchChange
 DECL|function|handleScreenOrientationChange
+DECL|function|handleScreenRefreshRateChange
 DECL|function|handleSynchronousCloseEvent
 DECL|function|handleSynchronousExposeEvent
 DECL|function|handleSynchronousGeometryChange

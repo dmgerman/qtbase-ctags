@@ -6,7 +6,9 @@ DECL|function|geometry
 DECL|function|grabWindow
 DECL|function|name
 DECL|function|physicalSize
+DECL|function|refreshRate
 DECL|function|screenNumber
 DECL|function|topLevelAt
+DECL|function|updateRefreshRate
 DECL|function|visualForId
 DECL|function|~QXcbScreen

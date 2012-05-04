@@ -69,6 +69,7 @@ DECL|function|quitOnLastWindowClosed
 DECL|function|reportAvailableGeometryChange
 DECL|function|reportGeometryChange
 DECL|function|reportLogicalDotsPerInchChange
+DECL|function|reportRefreshRateChange
 DECL|function|reportScreenOrientationChange
 DECL|function|reportScreenOrientationChange
 DECL|function|restoreOverrideCursor
