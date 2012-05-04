@@ -81,8 +81,6 @@ DECL|function|nodeSubtypeString
 DECL|function|nodeTypeString
 DECL|function|nodeTypeString
 DECL|function|normalizeOverloads
-DECL|function|numOverloads
-DECL|function|numOverloads
 DECL|function|operator =
 DECL|function|overloadNumber
 DECL|function|overloadNumber
