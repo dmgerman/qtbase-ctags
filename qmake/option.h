@@ -13,9 +13,6 @@ DECL|enumerator|QMAKE_GENERATE_NOTHING
 DECL|enumerator|QMAKE_GENERATE_PRL
 DECL|enumerator|QMAKE_GENERATE_PROJECT
 DECL|enumerator|QMAKE_QUERY_PROPERTY
-DECL|enumerator|QMAKE_RECURSIVE_DEFAULT
-DECL|enumerator|QMAKE_RECURSIVE_NO
-DECL|enumerator|QMAKE_RECURSIVE_YES
 DECL|enumerator|QMAKE_SET_PROPERTY
 DECL|enumerator|QMAKE_UNSET_PROPERTY
 DECL|enumerator|WarnAll
@@ -25,7 +22,6 @@ DECL|enumerator|WarnNone
 DECL|enumerator|WarnParser
 DECL|enum|CmdLineFlags
 DECL|enum|QMAKE_MODE
-DECL|enum|QMAKE_RECURSIVE
 DECL|enum|QMakeWarn
 DECL|enum|StringFixFlags
 DECL|function|fixEnvVariables
