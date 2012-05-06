@@ -24,6 +24,4 @@ DECL|function|stationaryYPoints
 DECL|function|tAtLength
 DECL|function|tForY
 DECL|function|toPolygon
-DECL|macro|INV_EPS
 DECL|macro|KAPPA
-DECL|macro|M_SQRT2
