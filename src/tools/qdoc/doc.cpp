@@ -46,7 +46,6 @@ DECL|enumerator|CMD_ENDSECTION4
 DECL|enumerator|CMD_ENDSIDEBAR
 DECL|enumerator|CMD_ENDTABLE
 DECL|enumerator|CMD_ENDTOPICREF
-DECL|enumerator|CMD_EXPIRE
 DECL|enumerator|CMD_FOOTNOTE
 DECL|enumerator|CMD_GENERATELIST
 DECL|enumerator|CMD_GRANULARITY
@@ -135,7 +134,6 @@ DECL|function|baseName
 DECL|function|body
 DECL|function|briefText
 DECL|function|canonicalTitle
-DECL|function|checkExpiry
 DECL|function|cleanLink
 DECL|function|closeCommand
 DECL|function|cmdName
