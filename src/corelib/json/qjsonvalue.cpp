@@ -14,6 +14,7 @@ DECL|function|operator !=
 DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator =
+DECL|function|operator =
 DECL|function|operator ==
 DECL|function|toArray
 DECL|function|toArray
