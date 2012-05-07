@@ -1,4 +1,4 @@
-DECL|function|bold
+DECL|function|Q_DECLARE_SHARED
 DECL|function|italic
 DECL|function|setBold
 DECL|function|setItalic

@@ -1,3 +1,6 @@
+DECL|function|Q_DECLARE_SHARED
+DECL|function|Q_DECLARE_SHARED
+DECL|function|Q_DECLARE_SHARED
 DECL|macro|QPLATFORMDIALOGHELPER_H
 DECL|variable|QColor
 DECL|variable|QColorDialogOptionsPrivate
