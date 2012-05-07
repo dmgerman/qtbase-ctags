@@ -115,6 +115,7 @@ DECL|function|show_sys
 DECL|function|snapToDefaultButtonHint
 DECL|function|styleHint
 DECL|function|supportsNonModalDialog
+DECL|function|supportsNonModalDialog
 DECL|function|toBuffer
 DECL|function|useHelper
 DECL|function|~QWindowsNativeFileDialogBase
