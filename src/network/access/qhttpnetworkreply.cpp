@@ -27,6 +27,7 @@ DECL|function|minorVersion
 DECL|function|parseHeader
 DECL|function|parseHeader
 DECL|function|parseStatus
+DECL|function|read
 DECL|function|readAll
 DECL|function|readAny
 DECL|function|readAnyAvailable
@@ -44,12 +45,14 @@ DECL|function|setContentLength
 DECL|function|setDownstreamLimited
 DECL|function|setErrorString
 DECL|function|setHeaderField
+DECL|function|setReadBufferSize
 DECL|function|setRequest
 DECL|function|setSslConfiguration
 DECL|function|setStatusCode
 DECL|function|setUrl
 DECL|function|setUserProvidedDownloadBuffer
 DECL|function|shouldEmitSignals
+DECL|function|sizeNextBlock
 DECL|function|sslConfiguration
 DECL|function|statusCode
 DECL|function|supportsUserProvidedDownloadBuffer

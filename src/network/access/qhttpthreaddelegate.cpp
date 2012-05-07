@@ -10,6 +10,8 @@ DECL|function|finishedSlot
 DECL|function|finishedWithErrorSlot
 DECL|function|headerChangedSlot
 DECL|function|makeCacheKey
+DECL|function|readBufferFreed
+DECL|function|readBufferSizeChanged
 DECL|function|readyReadSlot
 DECL|function|sslErrorsSlot
 DECL|function|startRequest
