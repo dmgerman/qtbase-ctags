@@ -1,3 +1,8 @@
+DECL|function|Q_DECLARE_SHARED
+DECL|function|Q_DECLARE_SHARED
+DECL|function|Q_DECLARE_SHARED
+DECL|function|Q_DECLARE_SHARED
+DECL|function|Q_DECLARE_SHARED
 DECL|macro|QDNSLOOKUP_H
 DECL|variable|QDnsDomainNameRecordPrivate
 DECL|variable|QDnsHostAddressRecordPrivate

@@ -5,3 +5,4 @@ DECL|variable|QIODevice
 DECL|variable|QList
 DECL|variable|QNetworkCacheMetaDataPrivate
 DECL|variable|QUrl
+DECL|variable|operator
