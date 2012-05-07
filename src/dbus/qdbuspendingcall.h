@@ -3,5 +3,4 @@ DECL|variable|QDBusConnection
 DECL|variable|QDBusError
 DECL|variable|QDBusPendingCallPrivate
 DECL|variable|QDBusPendingCallWatcher
-DECL|variable|QDBusPendingCallWatcherPrivate
 DECL|variable|QObject
