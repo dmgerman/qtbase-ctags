@@ -5,7 +5,7 @@ DECL|function|acceptNewConnection
 DECL|function|animatedGif
 DECL|function|autoDetectImageFormat
 DECL|function|blackXPM
-DECL|function|cleanup
+DECL|function|cleanupTestCase
 DECL|function|connected
 DECL|function|devicePosition
 DECL|function|devicePosition_data
@@ -18,7 +18,7 @@ DECL|function|imageFormat
 DECL|function|imageFormatBeforeRead
 DECL|function|imageFormatBeforeRead_data
 DECL|function|imageFormat_data
-DECL|function|init
+DECL|function|initTestCase
 DECL|function|jpegRgbCmyk
 DECL|function|msgIgnoreFormatAndExtensionFail
 DECL|function|msgReadFromDeviceFail

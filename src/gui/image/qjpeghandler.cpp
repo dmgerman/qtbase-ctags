@@ -29,6 +29,7 @@ DECL|function|read_jpeg_format
 DECL|function|read_jpeg_image
 DECL|function|read_jpeg_size
 DECL|function|setOption
+DECL|function|set_text
 DECL|function|supportsOption
 DECL|function|write
 DECL|function|write_jpeg_image
@@ -43,6 +44,7 @@ DECL|macro|const
 DECL|member|buffer
 DECL|member|buffer
 DECL|member|clipRect
+DECL|member|description
 DECL|member|device
 DECL|member|device
 DECL|member|err
@@ -52,6 +54,7 @@ DECL|member|iod_src
 DECL|member|memDevice
 DECL|member|q
 DECL|member|quality
+DECL|member|readTexts
 DECL|member|scaledClipRect
 DECL|member|scaledSize
 DECL|member|setjmp_buffer
