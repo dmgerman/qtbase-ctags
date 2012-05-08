@@ -284,6 +284,7 @@ DECL|member|text
 DECL|member|topics
 DECL|struct|Macro
 DECL|struct|Shared
+DECL|typedef|CommandMap
 DECL|typedef|QHash_QString_Macro
 DECL|typedef|QHash_QString_int
 DECL|variable|cmds

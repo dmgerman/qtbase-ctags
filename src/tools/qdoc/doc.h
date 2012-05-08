@@ -3,8 +3,9 @@ DECL|macro|DOC_H
 DECL|member|args
 DECL|member|topic
 DECL|struct|Topic
+DECL|typedef|ArgList
+DECL|typedef|ArgLocPair
 DECL|typedef|DitaRefList
-DECL|typedef|QCommandMap
 DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QString
