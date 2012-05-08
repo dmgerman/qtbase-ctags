@@ -34,7 +34,6 @@ DECL|function|isOutsideSelection
 DECL|function|isValid
 DECL|function|mid
 DECL|function|operator
-DECL|function|qIsControlChar
 DECL|function|setInstance
 DECL|function|spaceNeededForGlyphLayout
 DECL|macro|QTEXTENGINE_P_H
