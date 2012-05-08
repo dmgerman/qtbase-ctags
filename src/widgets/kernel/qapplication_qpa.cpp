@@ -21,6 +21,7 @@ DECL|function|setEffectEnabled
 DECL|function|setPossiblePalette
 DECL|function|setWheelScrollLines
 DECL|function|topLevelAt
+DECL|function|uiEffectToFlag
 DECL|function|ungrabKeyboardForPopup
 DECL|function|ungrabMouseForPopup
 DECL|function|wheelScrollLines

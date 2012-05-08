@@ -101,11 +101,6 @@ DECL|function|windowIcon
 DECL|function|~QApplication
 DECL|function|~QApplicationPrivate
 DECL|member|active_window
-DECL|member|animate_combo
-DECL|member|animate_menu
-DECL|member|animate_toolbox
-DECL|member|animate_tooltip
-DECL|member|animate_ui
 DECL|member|app_cspec
 DECL|member|app_icon
 DECL|member|app_strut
@@ -113,8 +108,7 @@ DECL|member|app_style
 DECL|member|autoMaximizeThreshold
 DECL|member|autoSipEnabled
 DECL|member|autoSipEnabled
-DECL|member|fade_menu
-DECL|member|fade_tooltip
+DECL|member|enabledAnimations
 DECL|member|focus_widget
 DECL|member|hidden_focus_widget
 DECL|member|leaveAfterRelease

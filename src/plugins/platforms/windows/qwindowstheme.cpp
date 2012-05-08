@@ -19,6 +19,7 @@ DECL|function|styleNames
 DECL|function|systemPalette
 DECL|function|themeHint
 DECL|function|toolTipPalette
+DECL|function|uiEffects
 DECL|function|usePlatformNativeDialog
 DECL|function|windowsThemeChanged
 DECL|function|~QWindowsTheme
