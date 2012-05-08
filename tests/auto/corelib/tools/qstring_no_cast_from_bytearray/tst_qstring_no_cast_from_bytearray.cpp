@@ -1,0 +1,2 @@
+DECL|class|tst_QString_NoCastFromByteArray
+DECL|function|initTestCase
