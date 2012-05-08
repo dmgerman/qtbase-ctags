@@ -1,5 +1,4 @@
 DECL|function|QFileDialogArgs
-DECL|function|deleteNativeDialog_sys
 DECL|function|dialogResultCode_sys
 DECL|function|directory_sys
 DECL|function|mapFromSource

@@ -6,6 +6,7 @@ DECL|function|accept
 DECL|function|adjustPosition
 DECL|function|closeEvent
 DECL|function|contextMenuEvent
+DECL|function|deleteNativeDialog
 DECL|function|done
 DECL|function|event
 DECL|function|eventFilter
