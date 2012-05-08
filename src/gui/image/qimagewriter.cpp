@@ -23,6 +23,7 @@ DECL|function|setGamma
 DECL|function|setQuality
 DECL|function|setText
 DECL|function|supportedImageFormats
+DECL|function|supportedImageHandlerFormats
 DECL|function|supportsOption
 DECL|function|write
 DECL|function|~QImageWriter
