@@ -1,0 +1,16 @@
+DECL|enumerator|Continue
+DECL|enumerator|NotFound
+DECL|enumerator|Return
+DECL|enumerator|Success
+DECL|enumerator|TryAgain
+DECL|enumerator|Unavail
+DECL|function|QPrinterDescription
+DECL|function|samePrinter
+DECL|macro|BOOL_DEFINED
+DECL|macro|QPRINTERINFO_UNIX_P_H
+DECL|macro|Success
+DECL|member|aliases
+DECL|member|comment
+DECL|member|host
+DECL|member|name
+DECL|struct|QPrinterDescription

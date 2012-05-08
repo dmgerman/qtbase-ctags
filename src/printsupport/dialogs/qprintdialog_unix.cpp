@@ -82,6 +82,7 @@ DECL|member|cupsPrinters
 DECL|member|description
 DECL|member|filePrintersAdded
 DECL|member|index
+DECL|member|lprPrinters
 DECL|member|m_buttons
 DECL|member|m_cups
 DECL|member|m_cupsOptionsModel
