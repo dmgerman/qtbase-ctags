@@ -130,6 +130,7 @@ DECL|function|readSentenceBreak
 DECL|function|readSpecialCasing
 DECL|function|readUnicodeData
 DECL|function|readWordBreak
+DECL|function|valueRef
 DECL|macro|DATA_VERSION_S
 DECL|macro|DATA_VERSION_STR
 DECL|macro|LAST_CODEPOINT
