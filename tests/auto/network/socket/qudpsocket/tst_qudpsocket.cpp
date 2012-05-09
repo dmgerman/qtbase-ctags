@@ -15,6 +15,8 @@ DECL|function|initTestCase
 DECL|function|initTestCase_data
 DECL|function|ipv6Loop
 DECL|function|ipv6Loop_data
+DECL|function|linkLocalIPv4
+DECL|function|linkLocalIPv6
 DECL|function|loop
 DECL|function|loop_data
 DECL|function|multicast
