@@ -53,6 +53,7 @@ DECL|macro|debug_msg
 DECL|member|after_user_vars
 DECL|member|application_argv0
 DECL|member|before_user_vars
+DECL|member|build_root
 DECL|member|c_ext
 DECL|member|cachefile
 DECL|member|cachefile_depth
@@ -97,6 +98,7 @@ DECL|member|qmakespec_commandline
 DECL|member|recursive
 DECL|member|res_ext
 DECL|member|shellPath
+DECL|member|source_root
 DECL|member|sysenv_mod
 DECL|member|target_mode
 DECL|member|target_mode_overridden
