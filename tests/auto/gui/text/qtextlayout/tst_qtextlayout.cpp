@@ -18,11 +18,17 @@ DECL|function|cursorMovementFromInvalidPositions
 DECL|function|cursorMovementInsideSpaces
 DECL|function|cursorToXForInlineObjects
 DECL|function|cursorToXForSetColumns
+DECL|function|cursorToXForTrailingSpaces
+DECL|function|cursorToXForTrailingSpaces_data
 DECL|function|defaultWordSeparators
 DECL|function|defaultWordSeparators_data
 DECL|function|forcedBreaks
 DECL|function|getSetCheck
 DECL|function|glyphLessItems
+DECL|function|horizontalAlignment
+DECL|function|horizontalAlignmentMultiline
+DECL|function|horizontalAlignmentMultiline_data
+DECL|function|horizontalAlignment_data
 DECL|function|init
 DECL|function|integerOverflow
 DECL|function|lineBreaking
