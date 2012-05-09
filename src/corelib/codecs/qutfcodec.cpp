@@ -19,7 +19,6 @@ DECL|function|convertToUnicode
 DECL|function|convertToUnicode
 DECL|function|convertToUnicode
 DECL|function|convertToUnicode
-DECL|function|isUnicodeNonCharacter
 DECL|function|mibEnum
 DECL|function|mibEnum
 DECL|function|mibEnum

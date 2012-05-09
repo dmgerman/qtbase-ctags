@@ -2,12 +2,15 @@ DECL|enumerator|NormalizationCorrectionsVersionMax
 DECL|enumerator|NumNormalizationCorrections
 DECL|enumerator|UnicodeBlockCount
 DECL|enumerator|UnicodeBlockSize
+DECL|function|graphemeBreakClass
 DECL|function|lineBreakClass
 DECL|function|properties
 DECL|function|properties
 DECL|function|qGetProp
 DECL|function|qGetProp
 DECL|function|script
+DECL|function|sentenceBreakClass
+DECL|function|wordBreakClass
 DECL|macro|GET_DECOMPOSITION_INDEX
 DECL|macro|GET_LIGATURE_INDEX
 DECL|macro|GET_PROP_INDEX

@@ -14,7 +14,6 @@ DECL|function|addHexDigit
 DECL|function|eatSpace
 DECL|function|errorString
 DECL|function|insert
-DECL|function|isUnicodeNonCharacter
 DECL|function|nextToken
 DECL|function|parse
 DECL|function|parseArray

@@ -187,6 +187,7 @@ DECL|variable|decompositionLength
 DECL|variable|decompositionMap
 DECL|variable|directionMap
 DECL|variable|extraBlockList
+DECL|variable|generated_methods
 DECL|variable|grapheme_break_map
 DECL|variable|grapheme_break_string
 DECL|variable|highestComposedCharacter
