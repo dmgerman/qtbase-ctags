@@ -8,7 +8,6 @@ DECL|function|detectProjectFile
 DECL|function|detectShellPath
 DECL|function|fixString
 DECL|function|init
-DECL|function|mkspecPaths
 DECL|function|parseCommandLine
 DECL|function|postProcessProject
 DECL|function|prepareProject
@@ -16,7 +15,6 @@ DECL|function|qmakeAddCacheClear
 DECL|function|qmakeClearCaches
 DECL|function|qmake_libraryInfoFile
 DECL|function|qmake_version
-DECL|function|resolveSpec
 DECL|function|usage
 DECL|function|warn_msg
 DECL|function|~QMakeCacheClearItem
