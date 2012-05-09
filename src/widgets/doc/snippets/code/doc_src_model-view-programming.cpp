@@ -1,0 +1,10 @@
+DECL|variable|index
+DECL|variable|index
+DECL|variable|indexA
+DECL|variable|indexA
+DECL|variable|indexB
+DECL|variable|indexB
+DECL|variable|indexC
+DECL|variable|indexC
+DECL|variable|model
+DECL|variable|value
