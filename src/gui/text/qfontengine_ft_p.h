@@ -8,7 +8,6 @@ DECL|function|~QFreetypeFace
 DECL|macro|QFONTENGINE_FT_P_H
 DECL|member|QFreetypeFace
 DECL|member|_lock
-DECL|member|charset
 DECL|member|cmapCache
 DECL|member|face
 DECL|member|fontData
