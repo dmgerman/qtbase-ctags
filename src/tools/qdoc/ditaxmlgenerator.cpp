@@ -102,7 +102,6 @@ DECL|function|writeParameters
 DECL|function|writeProlog
 DECL|function|writeProperties
 DECL|function|writePropertyParameter
-DECL|function|writeQmlDesc
 DECL|function|writeQmlRef
 DECL|function|writeRelatedLinks
 DECL|function|writeStartTag
