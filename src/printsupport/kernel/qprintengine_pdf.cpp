@@ -1,7 +1,7 @@
 DECL|function|QPdfPrintEngine
+DECL|function|QPdfPrintEngine
 DECL|function|QPdfPrintEnginePrivate
 DECL|function|begin
-DECL|function|closeAllOpenFds
 DECL|function|closePrintDevice
 DECL|function|end
 DECL|function|metric

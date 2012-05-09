@@ -10,10 +10,13 @@ DECL|function|currentPrinterIndex
 DECL|function|getCupsPrinterPaperSizes
 DECL|function|isAvailable
 DECL|function|markOption
+DECL|function|operator <
+DECL|function|operator <
 DECL|function|options
 DECL|function|pageRect
 DECL|function|pageSizes
 DECL|function|paperRect
+DECL|function|paperSize2String
 DECL|function|ppdOption
 DECL|function|printFile
 DECL|function|printerHasPPD
@@ -21,9 +24,13 @@ DECL|function|printerOption
 DECL|function|resolveCups
 DECL|function|saveOptions
 DECL|function|setCurrentPrinter
+DECL|function|string2PaperSize
 DECL|function|tempFd
 DECL|function|unicodeString
 DECL|function|~QCUPSSupport
+DECL|member|name
+DECL|member|size
+DECL|struct|NamedPaperSize
 DECL|typedef|CupsAddOption
 DECL|typedef|CupsFreeDests
 DECL|typedef|CupsFreeOptions
@@ -56,4 +63,5 @@ DECL|variable|_ppdMarkDefaults
 DECL|variable|_ppdMarkOption
 DECL|variable|_ppdOpenFile
 DECL|variable|cupsLoaded
+DECL|variable|named_sizes_map
 DECL|variable|qt_cups_num_printers

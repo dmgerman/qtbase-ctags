@@ -1,0 +1,2 @@
+DECL|macro|QCUPSPRINTENGINE_P_H
+DECL|variable|QCupsPrintEnginePrivate

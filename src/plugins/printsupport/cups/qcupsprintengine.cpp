@@ -1,0 +1,9 @@
+DECL|function|QCupsPrintEngine
+DECL|function|QCupsPrintEnginePrivate
+DECL|function|closePrintDevice
+DECL|function|openPrintDevice
+DECL|function|property
+DECL|function|setProperty
+DECL|function|updatePaperSize
+DECL|function|~QCupsPrintEngine
+DECL|function|~QCupsPrintEnginePrivate

@@ -1,0 +1,8 @@
+DECL|function|QCupsPrinterSupport
+DECL|function|availablePrinters
+DECL|function|createNativePrintEngine
+DECL|function|createPaintEngine
+DECL|function|printerInfoCupsPrinterIndex
+DECL|function|setPrinterInfoCupsPrinterIndex
+DECL|function|supportedPaperSizes
+DECL|function|~QCupsPrinterSupport
