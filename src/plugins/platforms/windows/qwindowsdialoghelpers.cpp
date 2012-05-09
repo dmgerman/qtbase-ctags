@@ -62,7 +62,6 @@ DECL|function|createNativeDialog
 DECL|function|createNativeDialog
 DECL|function|currentColor
 DECL|function|defaultNameFilterDisables
-DECL|function|deleteNativeDialog
 DECL|function|directory
 DECL|function|directory
 DECL|function|eatMouseMove
@@ -118,6 +117,7 @@ DECL|function|supportsNonModalDialog
 DECL|function|supportsNonModalDialog
 DECL|function|toBuffer
 DECL|function|useHelper
+DECL|function|~QWindowsDialogHelperBase
 DECL|function|~QWindowsNativeFileDialogBase
 DECL|function|~QWindowsNativeFileDialogEventHandler
 DECL|macro|BFFM_ENABLEOK
