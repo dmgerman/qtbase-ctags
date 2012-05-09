@@ -144,3 +144,5 @@ DECL|struct|Parse
 DECL|struct|Test
 DECL|struct|parser_info
 DECL|variable|parser
+DECL|variable|project_build_root
+DECL|variable|project_root
