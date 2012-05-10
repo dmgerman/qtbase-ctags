@@ -23,6 +23,7 @@ DECL|function|invalidProxy
 DECL|function|invalidProxy_data
 DECL|function|ipv6Server
 DECL|function|ipv6ServerMapped
+DECL|function|linkLocal
 DECL|function|listenError
 DECL|function|listenWhileListening
 DECL|function|maxPendingConnections
