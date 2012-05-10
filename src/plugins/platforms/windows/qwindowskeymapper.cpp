@@ -1,7 +1,10 @@
+DECL|function|GetKeyboardState
 DECL|function|KeyRecord
 DECL|function|KeyRecord
 DECL|function|KeyRecorder
 DECL|function|QWindowsKeyMapper
+DECL|function|ToAscii
+DECL|function|ToUnicode
 DECL|function|asciiToKeycode
 DECL|function|changeKeyboard
 DECL|function|clearKeys

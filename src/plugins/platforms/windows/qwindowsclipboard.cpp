@@ -1,8 +1,6 @@
 DECL|function|QWindowsClipboard
 DECL|function|clear
 DECL|function|clipboardViewerWndProc
-DECL|function|formats_sys
-DECL|function|hasFormat_sys
 DECL|function|mimeData
 DECL|function|operator <<
 DECL|function|ownsClipboard
@@ -13,7 +11,6 @@ DECL|function|registerViewer
 DECL|function|releaseDataObject
 DECL|function|releaseIData
 DECL|function|retrieveDataObject
-DECL|function|retrieveData_sys
 DECL|function|setMimeData
 DECL|function|supportsMode
 DECL|function|unregisterViewer
