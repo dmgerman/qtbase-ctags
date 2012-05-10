@@ -1,5 +1,6 @@
 DECL|function|load_sys
 DECL|function|qdlerror
+DECL|function|qt_linux_find_symbol_sys
 DECL|function|qt_mac_resolve_sys
 DECL|function|resolve_sys
 DECL|function|unload_sys
