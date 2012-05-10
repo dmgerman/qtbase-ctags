@@ -60,6 +60,8 @@ DECL|function|integer_conversion_data
 DECL|function|isEmpty
 DECL|function|isLatin
 DECL|function|isNull
+DECL|function|isRightToLeft
+DECL|function|isRightToLeft_data
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf_data
 DECL|function|latin1String
