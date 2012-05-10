@@ -1,0 +1,6 @@
+DECL|macro|QSPIACCESSIBLEBRIDGE_H
+DECL|variable|AtSpiAdaptor
+DECL|variable|DBusConnection
+DECL|variable|DeviceEventControllerAdaptor
+DECL|variable|QObject
+DECL|variable|QSpiDBusCache

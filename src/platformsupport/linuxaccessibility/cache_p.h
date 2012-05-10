@@ -1,0 +1,1 @@
+DECL|macro|Q_SPI_CACHE_H

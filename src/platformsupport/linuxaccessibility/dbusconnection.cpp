@@ -1,0 +1,4 @@
+DECL|function|DBusConnection
+DECL|function|connectDBus
+DECL|function|connection
+DECL|function|getAccessibilityBusAddress

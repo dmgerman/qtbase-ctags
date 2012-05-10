@@ -1,0 +1,4 @@
+DECL|function|qAccessibleRelationToAtSpiRelation
+DECL|function|spiStateSetFromSpiStates
+DECL|function|spiStatesFromQState
+DECL|variable|qSpiRoleMapping

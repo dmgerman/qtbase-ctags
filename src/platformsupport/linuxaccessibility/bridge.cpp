@@ -1,0 +1,12 @@
+DECL|function|QSpiAccessibleBridge
+DECL|function|dBusConnection
+DECL|function|initializeConstantMappings
+DECL|function|notifyAccessibilityUpdate
+DECL|function|setRootObject
+DECL|function|~QSpiAccessibleBridge
+DECL|member|localizedName
+DECL|member|name
+DECL|member|role
+DECL|member|spiRole
+DECL|struct|RoleMapping
+DECL|variable|map

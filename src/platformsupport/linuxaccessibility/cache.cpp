@@ -1,0 +1,5 @@
+DECL|function|GetItems
+DECL|function|QSpiDBusCache
+DECL|function|emitAddAccessible
+DECL|function|emitRemoveAccessible
+DECL|macro|QSPI_OBJECT_PATH_CACHE

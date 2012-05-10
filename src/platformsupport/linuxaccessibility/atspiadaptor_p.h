@@ -1,0 +1,5 @@
+DECL|macro|ATSPIADAPTOR_H
+DECL|typedef|QAIPointer
+DECL|variable|QAccessibleInterface
+DECL|variable|QSpiAccessibleInterface
+DECL|variable|QSpiApplicationAdaptor
