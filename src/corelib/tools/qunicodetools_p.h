@@ -1,0 +1,4 @@
+DECL|enumerator|GetSentenceBreaks
+DECL|enumerator|GetWordBreaks
+DECL|enum|QCharAttributeOption
+DECL|macro|QUNICODETOOLS_P_H

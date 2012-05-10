@@ -1,9 +1,5 @@
-DECL|function|HB_GetGraphemeAndLineBreakClass
-DECL|function|HB_GetLineBreakClass
 DECL|function|HB_GetMirroredChar
-DECL|function|HB_GetSentenceClass
 DECL|function|HB_GetUnicodeCharCategory
 DECL|function|HB_GetUnicodeCharCombiningClass
 DECL|function|HB_GetUnicodeCharProperties
-DECL|function|HB_GetWordClass
 DECL|function|HB_Library_Resolve
