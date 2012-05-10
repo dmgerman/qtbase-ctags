@@ -42,12 +42,14 @@ DECL|function|setCurrentTime
 DECL|function|setDirection
 DECL|function|setLoopCount
 DECL|function|setPaused
+DECL|function|setStartTime
 DECL|function|setState
 DECL|function|setTimingInterval
 DECL|function|start
 DECL|function|start
 DECL|function|startAnimationTimer
 DECL|function|startAnimations
+DECL|function|startTime
 DECL|function|startTimer
 DECL|function|startTimers
 DECL|function|state
