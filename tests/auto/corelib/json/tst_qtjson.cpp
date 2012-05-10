@@ -3,6 +3,7 @@ DECL|function|TestQtJson
 DECL|function|assignArrays
 DECL|function|assignObjects
 DECL|function|assignToDocument
+DECL|function|bom
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|compactArray

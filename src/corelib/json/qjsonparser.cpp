@@ -11,6 +11,7 @@ DECL|enumerator|Tab
 DECL|enumerator|ValueSeparator
 DECL|function|Parser
 DECL|function|addHexDigit
+DECL|function|eatBOM
 DECL|function|eatSpace
 DECL|function|errorString
 DECL|function|insert
