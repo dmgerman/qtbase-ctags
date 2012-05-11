@@ -3,6 +3,7 @@ DECL|class|QX11SystemTrayContext
 DECL|enumerator|SYSTEM_TRAY_BEGIN_MESSAGE
 DECL|enumerator|SYSTEM_TRAY_CANCEL_MESSAGE
 DECL|enumerator|SYSTEM_TRAY_REQUEST_DOCK
+DECL|function|QSystemTrayIconPrivate
 DECL|function|QSystemTrayIconSys
 DECL|function|QX11SystemTrayContext
 DECL|function|display
@@ -25,6 +26,7 @@ DECL|function|updateIcon
 DECL|function|updateIcon_sys
 DECL|function|updateMenu_sys
 DECL|function|updateToolTip_sys
+DECL|function|~QSystemTrayIconPrivate
 DECL|function|~QX11SystemTrayContext
 DECL|member|m_display
 DECL|member|m_screenNumber

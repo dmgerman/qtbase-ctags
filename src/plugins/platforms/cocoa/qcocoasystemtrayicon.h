@@ -1,0 +1,2 @@
+DECL|macro|QCOCOASYSTEMTRAYICON_P_H
+DECL|variable|QSystemTrayIconSys

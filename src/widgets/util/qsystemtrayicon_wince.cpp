@@ -1,4 +1,5 @@
 DECL|class|QSystemTrayIconSys
+DECL|function|QSystemTrayIconPrivate
 DECL|function|QSystemTrayIconSys
 DECL|function|createIcon
 DECL|function|findTrayGeometry
@@ -14,6 +15,7 @@ DECL|function|updateIcon_sys
 DECL|function|updateMenu_sys
 DECL|function|updateToolTip_sys
 DECL|function|winEvent
+DECL|function|~QSystemTrayIconPrivate
 DECL|function|~QSystemTrayIconSys
 DECL|macro|MYWM_NOTIFYICON
 DECL|macro|_WIN32_IE

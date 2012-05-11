@@ -7,4 +7,5 @@ DECL|variable|QPlatformDialogHelper
 DECL|variable|QPlatformMenu
 DECL|variable|QPlatformMenuBar
 DECL|variable|QPlatformMenuItem
+DECL|variable|QPlatformSystemTrayIcon
 DECL|variable|QVariant

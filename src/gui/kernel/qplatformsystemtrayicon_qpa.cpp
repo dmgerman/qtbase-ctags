@@ -1,0 +1,2 @@
+DECL|function|QPlatformSystemTrayIcon
+DECL|function|~QPlatformSystemTrayIcon

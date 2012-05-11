@@ -3,6 +3,7 @@ DECL|function|QSystemTrayIcon
 DECL|function|QSystemTrayIcon
 DECL|function|balloon
 DECL|function|contextMenu
+DECL|function|emitActivated
 DECL|function|event
 DECL|function|geometry
 DECL|function|hideBalloon
@@ -12,7 +13,6 @@ DECL|function|isSystemTrayAvailable
 DECL|function|isVisible
 DECL|function|mousePressEvent
 DECL|function|paintEvent
-DECL|function|qtsystray_sendActivated
 DECL|function|resizeEvent
 DECL|function|setContextMenu
 DECL|function|setIcon
