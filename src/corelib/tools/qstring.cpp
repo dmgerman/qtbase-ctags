@@ -19,6 +19,7 @@ DECL|function|compare
 DECL|function|compare
 DECL|function|compare_helper
 DECL|function|compare_helper
+DECL|function|compare_helper
 DECL|function|contains
 DECL|function|count
 DECL|function|count
@@ -111,10 +112,6 @@ DECL|function|qFindString
 DECL|function|qIsDigit
 DECL|function|qIsUpper
 DECL|function|qMemEquals
-DECL|function|qStringComparisonHelper
-DECL|function|qStringComparisonHelper
-DECL|function|qStringComparisonHelper
-DECL|function|qStringComparisonHelper
 DECL|function|qToLower
 DECL|function|qt_ends_with
 DECL|function|qt_ends_with
