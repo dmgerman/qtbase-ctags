@@ -18,7 +18,7 @@ DECL|function|isPrint
 DECL|function|isSpace
 DECL|function|isSpaceSpecial
 DECL|function|isSpace_data
-DECL|function|isTitle
+DECL|function|isTitleCase
 DECL|function|isUpper
 DECL|function|joining
 DECL|function|lineBreakClass
