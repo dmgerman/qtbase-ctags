@@ -109,6 +109,7 @@ DECL|function|task177716_disableCommitButton
 DECL|function|task183550_stretchFactor
 DECL|function|task248107_backButton
 DECL|function|task255350_fieldObjectDestroyed
+DECL|function|taskQTBUG_25691_fieldObjectDestroyed2
 DECL|function|treeWidgetHeight
 DECL|function|treeWidgetSizeHintHeight
 DECL|function|tst_QWizard

@@ -1,0 +1,15 @@
+DECL|class|taskQTBUG_25691
+DECL|class|taskQTBUG_25691Page1
+DECL|class|taskQTBUG_25691Page2
+DECL|function|initializePage
+DECL|function|taskQTBUG_25691
+DECL|function|taskQTBUG_25691Page1
+DECL|function|taskQTBUG_25691Page2
+DECL|function|taskQTBUG_25691_fieldObjectDestroyed2
+DECL|function|~taskQTBUG_25691
+DECL|function|~taskQTBUG_25691Page1
+DECL|function|~taskQTBUG_25691Page2
+DECL|member|field0_value
+DECL|member|field1_value
+DECL|member|field2_value
+DECL|member|layout
