@@ -14,6 +14,7 @@ DECL|function|displayContext
 DECL|function|findPlatformWindow
 DECL|function|findPlatformWindowAt
 DECL|function|findWindow
+DECL|function|handleFocusEvent
 DECL|function|hasTouchSupport
 DECL|function|init
 DECL|function|init
@@ -45,6 +46,7 @@ DECL|member|m_eventFilters
 DECL|member|m_eventType
 DECL|member|m_instance
 DECL|member|m_keyMapper
+DECL|member|m_lastActiveWindow
 DECL|member|m_mimeConverter
 DECL|member|m_mouseHandler
 DECL|member|m_oleInitializeResult
