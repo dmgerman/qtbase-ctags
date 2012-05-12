@@ -1,3 +1,4 @@
+DECL|enumerator|DeepNesting
 DECL|enumerator|IllegalEscapeSequence
 DECL|enumerator|IllegalNumber
 DECL|enumerator|IllegalUTF8String
