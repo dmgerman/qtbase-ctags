@@ -29,6 +29,7 @@ DECL|function|filterEvent
 DECL|function|flush
 DECL|function|hasPendingEvents
 DECL|function|init
+DECL|function|initLocale
 DECL|function|installTranslator
 DECL|function|isQuitLockEnabled
 DECL|function|isTranslatorInstalled
