@@ -7,6 +7,7 @@ DECL|function|defaultPrinter
 DECL|function|isDefault
 DECL|function|isNull
 DECL|function|operator =
+DECL|function|printerInfo
 DECL|function|printerName
 DECL|function|supportedPaperSizes
 DECL|function|~QPrinterInfo
