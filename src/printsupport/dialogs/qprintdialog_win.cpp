@@ -2,13 +2,6 @@ DECL|class|QPrintDialogPrivate
 DECL|function|QPrintDialog
 DECL|function|QPrintDialog
 DECL|function|QPrintDialogPrivate
-DECL|function|_q_btnBrowseClicked
-DECL|function|_q_btnPropertiesClicked
-DECL|function|_q_chbPrintLastFirstToggled
-DECL|function|_q_paperSizeChanged
-DECL|function|_q_printToFileChanged
-DECL|function|_q_printerChanged
-DECL|function|_q_rbPrintRangeToggled
 DECL|function|exec
 DECL|function|openWindowsPrintDialogModally
 DECL|function|qt_win_read_back_PRINTDLGEX

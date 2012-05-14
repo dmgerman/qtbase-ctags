@@ -3,6 +3,7 @@ DECL|class|QPPDOptionsEditor
 DECL|class|QPPDOptionsModel
 DECL|class|QPrintDialogPrivate
 DECL|class|QPrintPropertiesDialog
+DECL|class|QUnixPrintWidget
 DECL|class|QUnixPrintWidgetPrivate
 DECL|enumerator|Choice
 DECL|enumerator|Group
@@ -79,6 +80,7 @@ DECL|member|cups
 DECL|member|cupsPPD
 DECL|member|cupsPrinterCount
 DECL|member|cupsPrinters
+DECL|member|d
 DECL|member|description
 DECL|member|filePrintersAdded
 DECL|member|index
