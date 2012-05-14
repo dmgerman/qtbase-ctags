@@ -19,6 +19,7 @@ DECL|function|focusObject
 DECL|function|focusOutEvent
 DECL|function|keyboardModifiers
 DECL|function|modalWindow
+DECL|function|quitOnLastWindowClosed
 DECL|function|setFocusObject
 DECL|function|topLevelWindows
 DECL|member|blocked
