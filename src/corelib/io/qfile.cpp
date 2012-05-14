@@ -9,16 +9,12 @@ DECL|function|QFile
 DECL|function|QFilePrivate
 DECL|function|copy
 DECL|function|copy
-DECL|function|decodeName
-DECL|function|encodeName
 DECL|function|engine
 DECL|function|exists
 DECL|function|exists
 DECL|function|fileName
 DECL|function|link
 DECL|function|link
-DECL|function|locale_decode
-DECL|function|locale_encode
 DECL|function|open
 DECL|function|open
 DECL|function|open
@@ -34,8 +30,6 @@ DECL|function|rename
 DECL|function|rename
 DECL|function|resize
 DECL|function|resize
-DECL|function|setDecodingFunction
-DECL|function|setEncodingFunction
 DECL|function|setFileName
 DECL|function|setPermissions
 DECL|function|setPermissions
@@ -43,5 +37,3 @@ DECL|function|size
 DECL|function|~QFile
 DECL|function|~QFilePrivate
 DECL|macro|tr
-DECL|member|decoder
-DECL|member|encoder
