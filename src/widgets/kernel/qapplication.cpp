@@ -7,6 +7,7 @@ DECL|function|activeModalWidget
 DECL|function|activePopupWidget
 DECL|function|activeWindow
 DECL|function|allWidgets
+DECL|function|applyQIconStyleHelper
 DECL|function|autoMaximizeThreshold
 DECL|function|autoSipEnabled
 DECL|function|cleanupMultitouch
