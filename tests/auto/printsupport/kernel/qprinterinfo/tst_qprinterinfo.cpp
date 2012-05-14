@@ -3,7 +3,6 @@ DECL|function|getDefaultPrinterFromSystem
 DECL|function|getOutputFromCommand
 DECL|function|getPrintersFromSystem
 DECL|function|initTestCase
-DECL|function|macFixNameFormat
 DECL|function|testAssignment
 DECL|function|testConstructors
 DECL|function|testForDefaultPrinter
