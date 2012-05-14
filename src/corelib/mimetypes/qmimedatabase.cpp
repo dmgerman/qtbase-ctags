@@ -11,11 +11,11 @@ DECL|function|mimeTypeForData
 DECL|function|mimeTypeForFile
 DECL|function|mimeTypeForFile
 DECL|function|mimeTypeForFileName
+DECL|function|mimeTypeForFileNameAndData
+DECL|function|mimeTypeForFileNameAndData
+DECL|function|mimeTypeForFileNameAndData
 DECL|function|mimeTypeForName
 DECL|function|mimeTypeForName
-DECL|function|mimeTypeForNameAndData
-DECL|function|mimeTypeForNameAndData
-DECL|function|mimeTypeForNameAndData
 DECL|function|mimeTypeForUrl
 DECL|function|mimeTypesForFileName
 DECL|function|provider
