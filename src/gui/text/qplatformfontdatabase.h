@@ -1,4 +1,4 @@
-DECL|macro|QPLATFORMFONTDATABASE_QPA_H
+DECL|macro|QPLATFORMFONTDATABASE_H
 DECL|variable|QFontEngineMulti
 DECL|variable|QFontRequestPrivate
 DECL|variable|QWritingSystemsPrivate

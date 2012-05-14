@@ -1,4 +1,4 @@
-DECL|macro|QPLATFORMNATIVEINTERFACE_QPA_H
+DECL|macro|QPLATFORMNATIVEINTERFACE_H
 DECL|variable|QBackingStore
 DECL|variable|QOpenGLContext
 DECL|variable|QPlatformWindow

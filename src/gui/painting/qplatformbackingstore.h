@@ -1,4 +1,4 @@
-DECL|macro|QPLATFORMBACKINGSTORE_QPA_H
+DECL|macro|QPLATFORMBACKINGSTORE_H
 DECL|variable|QImage
 DECL|variable|QPlatformBackingStorePrivate
 DECL|variable|QPlatformWindow

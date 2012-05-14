@@ -1,2 +1,2 @@
-DECL|macro|QPLATFORMCURSOR_QPA_H
+DECL|macro|QPLATFORMCURSOR_H
 DECL|variable|QPlatformCursor
