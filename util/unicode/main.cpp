@@ -133,8 +133,6 @@ DECL|function|readWordBreak
 DECL|function|valueRef
 DECL|macro|DATA_VERSION_S
 DECL|macro|DATA_VERSION_STR
-DECL|macro|LAST_CODEPOINT
-DECL|macro|LAST_CODEPOINT_STR
 DECL|member|age
 DECL|member|block
 DECL|member|caseFoldDiff
@@ -188,7 +186,6 @@ DECL|variable|decompositionLength
 DECL|variable|decompositionMap
 DECL|variable|directionMap
 DECL|variable|extraBlockList
-DECL|variable|generated_methods
 DECL|variable|grapheme_break_map
 DECL|variable|grapheme_break_string
 DECL|variable|highestComposedCharacter

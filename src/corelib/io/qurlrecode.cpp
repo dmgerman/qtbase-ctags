@@ -8,7 +8,6 @@ DECL|function|encodeNibble
 DECL|function|encodedUtf8ToUtf16
 DECL|function|ensureDetached
 DECL|function|isHex
-DECL|function|isUnicodeNonCharacter
 DECL|function|isUpperHex
 DECL|function|qt_urlRecode
 DECL|function|recode

@@ -59,7 +59,6 @@ DECL|function|fromUtf8_qt47
 DECL|function|fromUtf8_qt47_stateless
 DECL|function|fromUtf8_sse2_optimised_for_ascii
 DECL|function|fromUtf8_sse2_trusted_no_bom
-DECL|function|isUnicodeNonCharacter
 DECL|function|toCaseFolded
 DECL|function|toCaseFolded_data
 DECL|function|toLower
