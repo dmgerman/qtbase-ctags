@@ -14,6 +14,7 @@ DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
+DECL|function|delegate
 DECL|function|isNull
 DECL|function|qRegisterGuiVariant
 DECL|function|streamDebug
