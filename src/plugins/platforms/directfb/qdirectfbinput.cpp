@@ -1,8 +1,11 @@
 DECL|function|QDirectFbInput
 DECL|function|addWindow
 DECL|function|globalPoint
+DECL|function|handleCloseEvent
 DECL|function|handleEnterLeaveEvents
 DECL|function|handleEvents
+DECL|function|handleGeometryEvent
+DECL|function|handleGotFocusEvent
 DECL|function|handleKeyEvents
 DECL|function|handleMouseEvents
 DECL|function|handleWheelEvent
