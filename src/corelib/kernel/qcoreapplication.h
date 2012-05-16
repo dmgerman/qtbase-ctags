@@ -1,6 +1,7 @@
 DECL|function|sendEvent
 DECL|function|sendSpontaneousEvent
 DECL|function|translate
+DECL|function|translate
 DECL|macro|QCOREAPPLICATION_H
 DECL|macro|Q_DECLARE_TR_FUNCTIONS
 DECL|macro|qApp

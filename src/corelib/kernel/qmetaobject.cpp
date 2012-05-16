@@ -117,7 +117,6 @@ DECL|function|stringSize
 DECL|function|tag
 DECL|function|tag
 DECL|function|tr
-DECL|function|trUtf8
 DECL|function|type
 DECL|function|typeFromTypeInfo
 DECL|function|typeName
