@@ -81,13 +81,7 @@ DECL|function|isActive
 DECL|function|isSortCacheEnabled
 DECL|function|itemAcceptsHoverEvents_helper
 DECL|function|itemAt
-DECL|function|itemAt
 DECL|function|itemIndexMethod
-DECL|function|items
-DECL|function|items
-DECL|function|items
-DECL|function|items
-DECL|function|items
 DECL|function|items
 DECL|function|items
 DECL|function|items
@@ -144,8 +138,6 @@ DECL|function|setPalette
 DECL|function|setPalette_helper
 DECL|function|setScenePosItemEnabled
 DECL|function|setSceneRect
-DECL|function|setSelectionArea
-DECL|function|setSelectionArea
 DECL|function|setSelectionArea
 DECL|function|setSelectionArea
 DECL|function|setSortCacheEnabled
