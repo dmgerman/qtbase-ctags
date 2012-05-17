@@ -88,6 +88,7 @@ DECL|function|unsetCursor
 DECL|function|wheelEvent
 DECL|function|winId
 DECL|function|windowFlags
+DECL|function|windowIcon
 DECL|function|windowModality
 DECL|function|windowOrientation
 DECL|function|windowState
