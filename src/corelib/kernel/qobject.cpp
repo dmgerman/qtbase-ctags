@@ -45,6 +45,7 @@ DECL|function|disconnectOne
 DECL|function|dumpObjectInfo
 DECL|function|dumpObjectTree
 DECL|function|dumpRecursive
+DECL|function|dynamicMetaObject
 DECL|function|dynamicPropertyNames
 DECL|function|err_info_about_objects
 DECL|function|err_method_notfound
