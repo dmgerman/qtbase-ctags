@@ -14,6 +14,10 @@ DECL|function|TestInt
 DECL|function|at
 DECL|function|begin
 DECL|function|binaryFindOnLargeContainer
+DECL|function|bitsSetInByte
+DECL|function|bitsSetInInt
+DECL|function|bitsSetInInt64
+DECL|function|bitsSetInShort
 DECL|function|convenienceAPI
 DECL|function|createStableTestVector
 DECL|function|curPos
@@ -43,6 +47,16 @@ DECL|function|operator <<
 DECL|function|operator ==
 DECL|function|operator []
 DECL|function|performance
+DECL|function|popCount08
+DECL|function|popCount08_data
+DECL|function|popCount16
+DECL|function|popCount16_data
+DECL|function|popCount32
+DECL|function|popCount32_data
+DECL|function|popCount64
+DECL|function|popCount64_data
+DECL|function|popCount_data_impl
+DECL|function|popCount_impl
 DECL|function|pos
 DECL|function|print
 DECL|function|printHeader
@@ -87,4 +101,5 @@ DECL|member|searchedVal_
 DECL|namespace|SwapTest
 DECL|struct|ResultSet
 DECL|struct|ST
+DECL|variable|bitsSetInNibble
 DECL|variable|dataSetTypes
