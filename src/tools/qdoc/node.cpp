@@ -63,6 +63,8 @@ DECL|function|fromFlagValue
 DECL|function|fullDocumentName
 DECL|function|fullTitle
 DECL|function|guid
+DECL|function|hasProperty
+DECL|function|hasProperty
 DECL|function|idForNode
 DECL|function|idNumber
 DECL|function|incPropertyGroupCount
