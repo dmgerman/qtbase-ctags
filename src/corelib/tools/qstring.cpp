@@ -7,6 +7,7 @@ DECL|function|append
 DECL|function|append
 DECL|function|append
 DECL|function|append
+DECL|function|append
 DECL|function|appendTo
 DECL|function|arg
 DECL|function|arg
