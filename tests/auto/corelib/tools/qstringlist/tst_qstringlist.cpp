@@ -5,6 +5,8 @@ DECL|function|indexOf
 DECL|function|indexOf_regExp
 DECL|function|initializeList
 DECL|function|join
+DECL|function|joinChar
+DECL|function|joinChar_data
 DECL|function|joinEmptiness
 DECL|function|join_data
 DECL|function|lastIndexOf

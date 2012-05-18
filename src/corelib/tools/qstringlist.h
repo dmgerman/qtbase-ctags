@@ -6,6 +6,7 @@ DECL|function|indexOf
 DECL|function|indexOf
 DECL|function|indexOf
 DECL|function|join
+DECL|function|join
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
