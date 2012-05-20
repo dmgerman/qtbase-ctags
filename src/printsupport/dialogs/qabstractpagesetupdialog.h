@@ -1,3 +1,0 @@
-DECL|macro|QABSTRACTPAGESETUPDIALOG_H
-DECL|variable|QAbstractPageSetupDialogPrivate
-DECL|variable|QPrinter

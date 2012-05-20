@@ -1,2 +1,3 @@
 DECL|macro|QPAGESETUPDIALOG_H
 DECL|variable|QPageSetupDialogPrivate
+DECL|variable|QPrinter

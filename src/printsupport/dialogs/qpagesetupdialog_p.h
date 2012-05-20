@@ -1,0 +1,2 @@
+DECL|macro|QPAGESETUPDIALOG_P_H
+DECL|variable|QPrinter

@@ -1,10 +1,11 @@
 DECL|class|QPagePreview
-DECL|class|QPageSetupDialogPrivate
+DECL|class|QUnixPageSetupDialogPrivate
 DECL|function|PaperSourceNames
 DECL|function|QPagePreview
 DECL|function|QPageSetupDialog
 DECL|function|QPageSetupDialog
 DECL|function|QPageSetupWidget
+DECL|function|QUnixPageSetupDialogPrivate
 DECL|function|_q_pageOrientationChanged
 DECL|function|_q_paperSizeChanged
 DECL|function|exec
@@ -23,7 +24,7 @@ DECL|function|setTopMargin
 DECL|function|setupPrinter
 DECL|function|sizeForOrientation
 DECL|function|unitChanged
-DECL|function|~QPageSetupDialogPrivate
+DECL|function|~QUnixPageSetupDialogPrivate
 DECL|member|cups
 DECL|member|m_bottom
 DECL|member|m_left

@@ -1,2 +1,7 @@
-DECL|class|QPageSetupDialogPrivate
+DECL|function|QPageSetupDialogPrivate
+DECL|function|done
+DECL|function|init
 DECL|function|open
+DECL|function|printer
+DECL|function|setPrinter
+DECL|function|~QPageSetupDialog
