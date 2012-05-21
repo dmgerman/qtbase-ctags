@@ -63,6 +63,8 @@ DECL|function|inputMaskAndValidator
 DECL|function|inputMaskAndValidator_data
 DECL|function|inputMask_data
 DECL|function|inputMethod
+DECL|function|inputMethodQueryImHints
+DECL|function|inputMethodQueryImHints_data
 DECL|function|inputMethodSelection
 DECL|function|insert
 DECL|function|isModified
