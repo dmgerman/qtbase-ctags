@@ -7,6 +7,5 @@ DECL|function|platformDisplay
 DECL|function|platformInit
 DECL|function|screenSize
 DECL|variable|dispman_display
-DECL|variable|dispman_update
 DECL|variable|eglFSPiHooks
 DECL|variable|platformHooks
