@@ -12,6 +12,7 @@ DECL|function|keyboardHeightChanged
 DECL|function|lowerWindow
 DECL|function|newWindowCreated
 DECL|function|onWindowPost
+DECL|function|orientation
 DECL|function|raiseWindow
 DECL|function|removeOverlayWindow
 DECL|function|removeWindow
