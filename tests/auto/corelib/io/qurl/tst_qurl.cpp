@@ -1,4 +1,17 @@
 DECL|class|tst_QUrl
+DECL|enumerator|Authority
+DECL|enumerator|Fragment
+DECL|enumerator|FullUrl
+DECL|enumerator|Hierarchy
+DECL|enumerator|Host
+DECL|enumerator|Password
+DECL|enumerator|Path
+DECL|enumerator|Port
+DECL|enumerator|Query
+DECL|enumerator|Scheme
+DECL|enumerator|UserInfo
+DECL|enumerator|UserName
+DECL|enum|Component
 DECL|function|acceptEmptyAuthoritySegments
 DECL|function|assignment
 DECL|function|binaryData
@@ -78,6 +91,8 @@ DECL|function|schemeValidator
 DECL|function|schemeValidator_data
 DECL|function|setAuthority
 DECL|function|setAuthority_data
+DECL|function|setComponents
+DECL|function|setComponents_data
 DECL|function|setEncodedFragment
 DECL|function|setEncodedFragment_data
 DECL|function|setPort

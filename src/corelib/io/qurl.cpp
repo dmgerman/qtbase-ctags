@@ -47,6 +47,7 @@ DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|parse
+DECL|function|parseDecodedComponent
 DECL|function|parseIp6
 DECL|function|parseIpFuture
 DECL|function|password
