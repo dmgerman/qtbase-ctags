@@ -1,6 +1,6 @@
-DECL|function|QUDeviceHelper
+DECL|function|QDeviceDiscovery
 DECL|function|checkDeviceType
-DECL|function|createUDeviceHelper
+DECL|function|create
 DECL|function|handleUDevNotification
 DECL|function|scanConnectedDevices
-DECL|function|~QUDeviceHelper
+DECL|function|~QDeviceDiscovery
