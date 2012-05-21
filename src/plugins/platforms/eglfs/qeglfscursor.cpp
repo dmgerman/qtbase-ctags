@@ -1,6 +1,8 @@
 DECL|function|QEglFSCursor
 DECL|function|changeCursor
 DECL|function|createCursorTexture
+DECL|function|createProgram
+DECL|function|createShader
 DECL|function|createShaderPrograms
 DECL|function|cursorRect
 DECL|function|initCursorAtlas
