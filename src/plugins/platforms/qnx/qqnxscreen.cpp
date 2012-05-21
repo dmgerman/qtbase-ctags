@@ -14,6 +14,7 @@ DECL|function|newWindowCreated
 DECL|function|onWindowPost
 DECL|function|orientation
 DECL|function|raiseWindow
+DECL|function|refreshRate
 DECL|function|removeOverlayWindow
 DECL|function|removeWindow
 DECL|function|setRotation
