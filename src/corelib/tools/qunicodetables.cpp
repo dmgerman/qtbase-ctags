@@ -1,5 +1,6 @@
 DECL|enumerator|NormalizationCorrectionsVersionMax
 DECL|enumerator|NumNormalizationCorrections
+DECL|enumerator|ScriptSentinel
 DECL|enumerator|UnicodeBlockCount
 DECL|enumerator|UnicodeBlockSize
 DECL|function|graphemeBreakClass
