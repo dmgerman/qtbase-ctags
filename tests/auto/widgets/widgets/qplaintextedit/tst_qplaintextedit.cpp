@@ -47,6 +47,8 @@ DECL|function|hitTest
 DECL|function|implicitClear
 DECL|function|init
 DECL|function|initTestCase
+DECL|function|inputMethodQueryImHints
+DECL|function|inputMethodQueryImHints_data
 DECL|function|insertAndScrollToBottom
 DECL|function|insertFromMimeData
 DECL|function|lineCount

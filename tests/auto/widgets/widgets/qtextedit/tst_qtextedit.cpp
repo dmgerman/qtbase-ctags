@@ -71,6 +71,8 @@ DECL|function|inlineAttributesOnInsert
 DECL|function|inlineAttributesOnSelection
 DECL|function|inputMethodEvent
 DECL|function|inputMethodQuery
+DECL|function|inputMethodQueryImHints
+DECL|function|inputMethodQueryImHints_data
 DECL|function|inputMethodSelection
 DECL|function|insertFromMimeData
 DECL|function|layoutingLoop
