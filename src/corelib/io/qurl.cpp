@@ -21,7 +21,6 @@ DECL|function|fileScheme
 DECL|function|fragment
 DECL|function|fromAce
 DECL|function|fromEncoded
-DECL|function|fromHex
 DECL|function|fromLocalFile
 DECL|function|fromPercentEncoding
 DECL|function|fromUserInput
@@ -83,7 +82,6 @@ DECL|function|setUserName
 DECL|function|toAce
 DECL|function|toDisplayString
 DECL|function|toEncoded
-DECL|function|toHex
 DECL|function|toLocalFile
 DECL|function|toPercentEncoding
 DECL|function|toString

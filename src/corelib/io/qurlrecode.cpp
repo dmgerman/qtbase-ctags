@@ -2,6 +2,7 @@ DECL|enumerator|DecodeCharacter
 DECL|enumerator|EncodeCharacter
 DECL|enumerator|LeaveCharacter
 DECL|enum|EncodingAction
+DECL|function|decode
 DECL|function|decodeNibble
 DECL|function|decodePercentEncoding
 DECL|function|encodeNibble
