@@ -41,8 +41,6 @@ DECL|function|dontMergePreAndNonPre
 DECL|function|dontRemoveInitialBlockIfItHoldsObjectIndexedCharFormat
 DECL|function|dosLineFeed
 DECL|function|doubleRowClose
-DECL|function|dumpTable
-DECL|function|dumpTable
 DECL|function|emptyTable
 DECL|function|emptyTable2
 DECL|function|emptyTable3
