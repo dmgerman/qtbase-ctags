@@ -7,6 +7,7 @@ DECL|function|pageFlipper
 DECL|function|physicalSize
 DECL|function|platformScreenForWindow
 DECL|function|refreshRate
+DECL|function|resizeMaximizedWindows
 DECL|function|screen
 DECL|function|topLevelAt
 DECL|function|virtualSiblings
