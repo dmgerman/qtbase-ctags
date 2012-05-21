@@ -124,7 +124,6 @@ DECL|function|containerWidget
 DECL|function|contentsRect
 DECL|function|contentsSize
 DECL|function|contentsSize
-DECL|function|cssIconValueToIcon
 DECL|function|declarations
 DECL|function|defaultOrigin
 DECL|function|defaultPosition
