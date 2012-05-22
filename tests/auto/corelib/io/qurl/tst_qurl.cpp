@@ -97,6 +97,8 @@ DECL|function|setEncodedFragment
 DECL|function|setEncodedFragment_data
 DECL|function|setPort
 DECL|function|setUrl
+DECL|function|streaming
+DECL|function|streaming_data
 DECL|function|strictParser
 DECL|function|strictParser_data
 DECL|function|stripTrailingSlash
