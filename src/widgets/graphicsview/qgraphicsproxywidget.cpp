@@ -19,7 +19,8 @@ DECL|function|hoverEnterEvent
 DECL|function|hoverLeaveEvent
 DECL|function|hoverMoveEvent
 DECL|function|init
-DECL|function|inputMethodQueryHelper
+DECL|function|inputMethodEvent
+DECL|function|inputMethodQuery
 DECL|function|isProxyWidget
 DECL|function|itemChange
 DECL|function|keyPressEvent

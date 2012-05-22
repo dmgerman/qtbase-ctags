@@ -170,7 +170,6 @@ DECL|function|inputMethodEvent
 DECL|function|inputMethodHints
 DECL|function|inputMethodQuery
 DECL|function|inputMethodQuery
-DECL|function|inputMethodQueryHelper
 DECL|function|installSceneEventFilter
 DECL|function|invalidateChildGraphicsEffectsRecursively
 DECL|function|invalidateDepthRecursively
