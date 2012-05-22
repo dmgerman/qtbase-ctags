@@ -35,6 +35,8 @@ DECL|function|keyboardModifiers
 DECL|function|layoutDirection
 DECL|function|modalWindow
 DECL|function|mouseButtons
+DECL|function|mouseEventCaps
+DECL|function|mouseEventVelocity
 DECL|function|notify
 DECL|function|notifyActiveWindowChange
 DECL|function|notifyLayoutDirectionChange
@@ -80,6 +82,8 @@ DECL|function|setDesktopSettingsAware
 DECL|function|setEventDispatcher
 DECL|function|setFont
 DECL|function|setLayoutDirection
+DECL|function|setMouseEventCapsAndVelocity
+DECL|function|setMouseEventCapsAndVelocity
 DECL|function|setOverrideCursor
 DECL|function|setPalette
 DECL|function|setQuitOnLastWindowClosed
