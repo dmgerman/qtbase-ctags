@@ -18,6 +18,7 @@ DECL|function|replaceText
 DECL|function|setFocusAction
 DECL|function|showMenuAction
 DECL|function|textForRange
+DECL|function|toggleAction
 DECL|function|uncheckAction
 DECL|member|checkAction
 DECL|member|decreaseAction
@@ -25,5 +26,6 @@ DECL|member|increaseAction
 DECL|member|pressAction
 DECL|member|setFocusAction
 DECL|member|showMenuAction
+DECL|member|toggleAction
 DECL|member|uncheckAction
 DECL|struct|QAccessibleActionStrings
