@@ -15,6 +15,7 @@ DECL|function|HB_OpenTypeShape
 DECL|function|HB_SelectScript
 DECL|function|HB_ShapeItem
 DECL|function|checkScript
+DECL|function|containsSurrogates
 DECL|function|dump_string
 DECL|function|getTableStream
 DECL|function|positionCluster
