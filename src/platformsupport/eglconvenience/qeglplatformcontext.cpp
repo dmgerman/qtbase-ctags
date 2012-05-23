@@ -1,6 +1,8 @@
 DECL|function|QEGLPlatformContext
 DECL|function|doneCurrent
+DECL|function|eglConfig
 DECL|function|eglContext
+DECL|function|eglDisplay
 DECL|function|format
 DECL|function|getProcAddress
 DECL|function|makeCurrent
