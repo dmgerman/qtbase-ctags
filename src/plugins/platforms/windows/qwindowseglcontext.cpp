@@ -1,0 +1,8 @@
+DECL|function|QWindowsEGLContext
+DECL|function|QWindowsEGLStaticContext
+DECL|function|create
+DECL|function|eglSurfaceForPlatformSurface
+DECL|function|hasThreadedOpenGLCapability
+DECL|function|makeCurrent
+DECL|function|~QWindowsEGLContext
+DECL|function|~QWindowsEGLStaticContext

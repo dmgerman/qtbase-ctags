@@ -20,6 +20,7 @@ DECL|function|debugWinStyle
 DECL|function|debugWindowFlags
 DECL|function|debugWindowStates
 DECL|function|destroyWindow
+DECL|function|ensureEglSurfaceHandle
 DECL|function|frame
 DECL|function|frameGeometry
 DECL|function|frameGeometry_sys

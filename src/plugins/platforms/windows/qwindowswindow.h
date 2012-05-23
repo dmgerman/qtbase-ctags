@@ -26,4 +26,5 @@ DECL|member|style
 DECL|struct|QWindowCreationContext
 DECL|struct|QWindowsGeometryHint
 DECL|variable|QDebug
+DECL|variable|QWindowsEGLStaticContext
 DECL|variable|QWindowsOleDropTarget
