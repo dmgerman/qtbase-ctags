@@ -45,6 +45,7 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
+DECL|function|operator
 DECL|function|reserve
 DECL|function|setCell
 DECL|function|setRow
@@ -77,9 +78,9 @@ DECL|typedef|qunicodechar
 DECL|typedef|qunicodechar
 DECL|typedef|qunicodechar
 DECL|variable|QCharRef
-DECL|variable|QLatin1String
 DECL|variable|QRegExp
 DECL|variable|QRegularExpression
+DECL|variable|QString
 DECL|variable|QStringList
 DECL|variable|QStringRef
 DECL|variable|QTextCodec
