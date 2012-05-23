@@ -44,6 +44,7 @@ DECL|member|mouseMoveButton
 DECL|member|mouseMoveScreenPos
 DECL|member|mouseMovedCount
 DECL|member|mousePressButton
+DECL|member|mousePressLocalPos
 DECL|member|mousePressScreenPos
 DECL|member|mousePressedCount
 DECL|member|mouseReleaseButton
