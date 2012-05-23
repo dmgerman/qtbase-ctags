@@ -8,11 +8,12 @@ DECL|enumerator|Beh
 DECL|enumerator|Beth
 DECL|enumerator|Center
 DECL|enumerator|Dal
-DECL|enumerator|Dalath
+DECL|enumerator|DalathRish
 DECL|enumerator|Dummy
+DECL|enumerator|FarsiYeh
 DECL|enumerator|Fe
 DECL|enumerator|Feh
-DECL|enumerator|FinalSemakh
+DECL|enumerator|FinalSemkath
 DECL|enumerator|Gaf
 DECL|enumerator|Gamal
 DECL|enumerator|Hah
@@ -27,8 +28,8 @@ DECL|enumerator|JNone
 DECL|enumerator|JRight
 DECL|enumerator|JTransparent
 DECL|enumerator|Kaf
-DECL|enumerator|Kaph
 DECL|enumerator|Kashida
+DECL|enumerator|Khaph
 DECL|enumerator|KnottedHeh
 DECL|enumerator|Lam
 DECL|enumerator|Lamadh
@@ -36,6 +37,7 @@ DECL|enumerator|Meem
 DECL|enumerator|Mim
 DECL|enumerator|Noon
 DECL|enumerator|Nun
+DECL|enumerator|Nya
 DECL|enumerator|Pe
 DECL|enumerator|Qaf
 DECL|enumerator|Qaph
@@ -44,7 +46,7 @@ DECL|enumerator|ReversedPe
 DECL|enumerator|Sad
 DECL|enumerator|Sadhe
 DECL|enumerator|Seen
-DECL|enumerator|Semakh
+DECL|enumerator|Semkath
 DECL|enumerator|Shin
 DECL|enumerator|SwashKaf
 DECL|enumerator|SyriacE
@@ -52,6 +54,7 @@ DECL|enumerator|SyriacWaw
 DECL|enumerator|Tah
 DECL|enumerator|Taw
 DECL|enumerator|TehMarbuta
+DECL|enumerator|TehMarbutaGoal
 DECL|enumerator|Teth
 DECL|enumerator|Transparent
 DECL|enumerator|Waw
@@ -61,11 +64,11 @@ DECL|enumerator|XInitial
 DECL|enumerator|XIsolated
 DECL|enumerator|XMedial
 DECL|enumerator|Yeh
-DECL|enumerator|YehBarre
+DECL|enumerator|YehBarree
 DECL|enumerator|YehWithTail
 DECL|enumerator|Yudh
 DECL|enumerator|YudhHe
-DECL|enumerator|Zain
+DECL|enumerator|Zhain
 DECL|function|HB_ArabicShape
 DECL|function|arabicGroup
 DECL|function|arabicSyriacOpenTypeShape
