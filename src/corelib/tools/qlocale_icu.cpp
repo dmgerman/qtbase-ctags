@@ -7,8 +7,6 @@ DECL|function|qt_u_strToCase
 DECL|function|qt_u_strToLower
 DECL|function|qt_u_strToUpper
 DECL|function|qt_ucol_strcoll
-DECL|macro|STRINGIFY
-DECL|macro|STRINGIFY2
 DECL|typedef|Ptr_u_strToCase
 DECL|typedef|Ptr_ucol_close
 DECL|typedef|Ptr_ucol_open
