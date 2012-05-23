@@ -7,6 +7,7 @@ DECL|function|_q_canReadStandardOutput
 DECL|function|_q_canWrite
 DECL|function|_q_processDied
 DECL|function|_q_startupNotification
+DECL|function|arguments
 DECL|function|atEnd
 DECL|function|bytesAvailable
 DECL|function|bytesToWrite
@@ -41,6 +42,7 @@ DECL|function|parseCombinedArgString
 DECL|function|pid
 DECL|function|processChannelMode
 DECL|function|processEnvironment
+DECL|function|program
 DECL|function|qt_prettyDebug
 DECL|function|readAllStandardError
 DECL|function|readAllStandardOutput
