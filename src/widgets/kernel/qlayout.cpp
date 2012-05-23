@@ -58,5 +58,6 @@ DECL|function|totalSizeHint
 DECL|function|update
 DECL|function|widgetEvent
 DECL|function|~QLayout
+DECL|macro|VALUE_OF_BITS
 DECL|member|spacerItemFactoryMethod
 DECL|member|widgetItemFactoryMethod
