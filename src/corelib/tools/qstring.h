@@ -44,8 +44,6 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
-DECL|function|operator
-DECL|function|operator
 DECL|function|reserve
 DECL|function|setCell
 DECL|function|setRow
@@ -67,7 +65,6 @@ DECL|macro|Q_STATIC_STRING_DATA_HEADER_INITIALIZER_WITH_OFFSET
 DECL|member|data
 DECL|member|operator
 DECL|member|operator
-DECL|member|operator
 DECL|member|ptr
 DECL|member|str
 DECL|struct|QStaticStringData
@@ -85,3 +82,4 @@ DECL|variable|QStringList
 DECL|variable|QStringRef
 DECL|variable|QTextCodec
 DECL|variable|QVector
+DECL|variable|operator
