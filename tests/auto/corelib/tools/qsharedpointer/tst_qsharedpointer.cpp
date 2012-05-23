@@ -34,12 +34,11 @@ DECL|function|customQObjectDeleterFn
 DECL|function|differentPointers
 DECL|function|doDelete
 DECL|function|downCast
+DECL|function|dropLastReferenceOfForwardDeclared
 DECL|function|dynamicCast
 DECL|function|dynamicCastDifferentPointers
 DECL|function|dynamicCastFailure
 DECL|function|dynamicCastVirtualBase
-DECL|function|forwardDeclaration1
-DECL|function|forwardDeclaration2
 DECL|function|functionCallDownCast
 DECL|function|functionDataByRef
 DECL|function|functionDataByValue
@@ -68,6 +67,7 @@ DECL|function|swap
 DECL|function|threadStressTest
 DECL|function|threadStressTest_data
 DECL|function|upCast
+DECL|function|useOfForwardDeclared
 DECL|function|validConstructs
 DECL|function|virtualBaseDifferentPointers
 DECL|function|virtualDelete
