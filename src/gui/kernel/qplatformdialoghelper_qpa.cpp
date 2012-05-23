@@ -16,6 +16,7 @@ DECL|function|QFontDialogOptions
 DECL|function|QFontDialogOptionsPrivate
 DECL|function|QPlatformDialogHelper
 DECL|function|acceptMode
+DECL|function|cleanFilterList
 DECL|function|customColor
 DECL|function|customColorCount
 DECL|function|customColors
@@ -88,6 +89,7 @@ DECL|member|customRgb
 DECL|member|customSet
 DECL|member|defaultSuffix
 DECL|member|fileMode
+DECL|member|filterRegExp
 DECL|member|filters
 DECL|member|history
 DECL|member|initialDirectory

@@ -72,7 +72,6 @@ DECL|function|options
 DECL|function|paintEvent
 DECL|function|pathFromIndex
 DECL|function|proxyModel
-DECL|function|qt_clean_filter_list
 DECL|function|qt_make_filter_list
 DECL|function|qt_strip_filters
 DECL|function|qt_tildeExpansion
@@ -130,7 +129,6 @@ DECL|function|workingDirectory
 DECL|function|~QFileDialog
 DECL|function|~QFileDialogPrivate
 DECL|macro|Q_EMBEDDED_SMALLSCREEN
-DECL|member|qt_file_dialog_filter_reg_exp
 DECL|typedef|_qt_filedialog_existing_directory_hook
 DECL|typedef|_qt_filedialog_open_filename_hook
 DECL|typedef|_qt_filedialog_open_filenames_hook
