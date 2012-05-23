@@ -82,6 +82,7 @@ DECL|function|showNormal
 DECL|function|sizeIncrement
 DECL|function|surfaceHandle
 DECL|function|surfaceType
+DECL|function|tabletEvent
 DECL|function|touchEvent
 DECL|function|transientParent
 DECL|function|unsetCursor

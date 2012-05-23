@@ -24,6 +24,12 @@ DECL|function|handleScreenRefreshRateChange
 DECL|function|handleSynchronousCloseEvent
 DECL|function|handleSynchronousExposeEvent
 DECL|function|handleSynchronousGeometryChange
+DECL|function|handleTabletEnterProximityEvent
+DECL|function|handleTabletEnterProximityEvent
+DECL|function|handleTabletEvent
+DECL|function|handleTabletEvent
+DECL|function|handleTabletLeaveProximityEvent
+DECL|function|handleTabletLeaveProximityEvent
 DECL|function|handleThemeChange
 DECL|function|handleTouchCancelEvent
 DECL|function|handleTouchCancelEvent

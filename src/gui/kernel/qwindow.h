@@ -13,6 +13,7 @@ DECL|variable|QPlatformWindow
 DECL|variable|QResizeEvent
 DECL|variable|QScreen
 DECL|variable|QShowEvent
+DECL|variable|QTabletEvent
 DECL|variable|QTouchEvent
 DECL|variable|QWheelEvent
 DECL|variable|QWindowPrivate

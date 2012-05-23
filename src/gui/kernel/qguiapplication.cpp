@@ -59,6 +59,9 @@ DECL|function|processKeyEvent
 DECL|function|processLeaveEvent
 DECL|function|processMouseEvent
 DECL|function|processNativeEvent
+DECL|function|processTabletEnterProximityEvent
+DECL|function|processTabletEvent
+DECL|function|processTabletLeaveProximityEvent
 DECL|function|processThemeChanged
 DECL|function|processTouchEvent
 DECL|function|processWheelEvent
@@ -115,6 +118,8 @@ DECL|member|platform_theme
 DECL|member|qt_clipboard
 DECL|member|screen_list
 DECL|member|self
+DECL|member|tabletPressTarget
+DECL|member|tabletState
 DECL|member|window_list
 DECL|variable|applicationFontMutex
 DECL|variable|applicationResourceFlags
