@@ -2,11 +2,16 @@ DECL|enumerator|ErrorLoading
 DECL|enumerator|Loaded
 DECL|enumerator|NotLoaded
 DECL|enum|LibLoadStatus
+DECL|function|loadIcuLibrary
 DECL|function|qt_initIcu
 DECL|function|qt_u_strToCase
 DECL|function|qt_u_strToLower
 DECL|function|qt_u_strToUpper
 DECL|function|qt_ucol_strcoll
+DECL|function|~Libraries
+DECL|member|libicui18n
+DECL|member|libicuuc
+DECL|struct|Libraries
 DECL|typedef|Ptr_u_strToCase
 DECL|typedef|Ptr_ucol_close
 DECL|typedef|Ptr_ucol_open
