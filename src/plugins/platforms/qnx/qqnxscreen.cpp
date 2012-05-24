@@ -21,3 +21,5 @@ DECL|function|setRotation
 DECL|function|updateHierarchy
 DECL|function|windowClosed
 DECL|function|~QQnxScreen
+DECL|macro|qScreenDebug
+DECL|macro|qScreenDebug

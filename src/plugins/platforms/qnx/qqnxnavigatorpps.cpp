@@ -4,5 +4,7 @@ DECL|function|parsePPS
 DECL|function|requestInvokeUrl
 DECL|function|sendPpsMessage
 DECL|function|~QQnxNavigatorPps
+DECL|macro|qNavigatorDebug
+DECL|macro|qNavigatorDebug
 DECL|variable|navigatorControlPath
 DECL|variable|ppsBufferSize

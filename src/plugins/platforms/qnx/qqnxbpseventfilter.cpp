@@ -6,4 +6,6 @@ DECL|function|installOnEventDispatcher
 DECL|function|registerForScreenEvents
 DECL|function|unregisterForScreenEvents
 DECL|function|~QQnxBpsEventFilter
+DECL|macro|qBpsEventFilterDebug
+DECL|macro|qBpsEventFilterDebug
 DECL|variable|s_instance

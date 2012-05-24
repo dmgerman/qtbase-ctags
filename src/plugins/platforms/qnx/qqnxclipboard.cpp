@@ -13,6 +13,8 @@ DECL|function|setUserMimeData
 DECL|function|userMimeData
 DECL|function|~MimeData
 DECL|function|~QQnxClipboard
+DECL|macro|qClipboardDebug
+DECL|macro|qClipboardDebug
 DECL|member|m_clipboard
 DECL|member|m_formatsToCheck
 DECL|member|m_userMimeData

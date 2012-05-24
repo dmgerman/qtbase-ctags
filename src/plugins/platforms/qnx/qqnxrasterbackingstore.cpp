@@ -6,3 +6,5 @@ DECL|function|paintDevice
 DECL|function|resize
 DECL|function|scroll
 DECL|function|~QQnxRasterBackingStore
+DECL|macro|qRasterBackingStoreDebug
+DECL|macro|qRasterBackingStoreDebug

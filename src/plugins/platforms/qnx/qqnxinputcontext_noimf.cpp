@@ -12,3 +12,5 @@ DECL|function|reset
 DECL|function|setFocusObject
 DECL|function|showInputPanel
 DECL|function|~QQnxInputContext
+DECL|macro|qInputContextDebug
+DECL|macro|qInputContextDebug

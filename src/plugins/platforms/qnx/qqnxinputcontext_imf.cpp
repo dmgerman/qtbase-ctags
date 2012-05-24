@@ -101,6 +101,10 @@ DECL|macro|getarg
 DECL|macro|getparg
 DECL|macro|iarg
 DECL|macro|parg
+DECL|macro|qInputContextDebug
+DECL|macro|qInputContextDebug
+DECL|macro|qInputContextIMFEventDebug
+DECL|macro|qInputContextIMFEventDebug
 DECL|macro|qs
 DECL|member|ic_funcs
 DECL|member|m_args

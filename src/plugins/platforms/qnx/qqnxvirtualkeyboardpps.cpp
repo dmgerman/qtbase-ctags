@@ -19,5 +19,7 @@ DECL|function|showKeyboard
 DECL|function|start
 DECL|function|~QQnxVirtualKeyboardPps
 DECL|macro|KEYBOARD_SHADOW_HEIGHT
+DECL|macro|qVirtualKeyboardDebug
+DECL|macro|qVirtualKeyboardDebug
 DECL|member|ms_PPSPath
 DECL|member|ms_bufferSize

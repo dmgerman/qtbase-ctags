@@ -22,3 +22,5 @@ DECL|function|setVisible
 DECL|function|updateVisibility
 DECL|function|updateZorder
 DECL|function|~QQnxWindow
+DECL|macro|qWindowDebug
+DECL|macro|qWindowDebug

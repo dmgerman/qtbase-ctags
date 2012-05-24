@@ -5,3 +5,5 @@ DECL|function|handleLocaleEvent
 DECL|function|handleVirtualKeyboardEvent
 DECL|function|hideKeyboard
 DECL|function|showKeyboard
+DECL|macro|qVirtualKeyboardDebug
+DECL|macro|qVirtualKeyboardDebug

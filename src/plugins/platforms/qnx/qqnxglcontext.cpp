@@ -11,4 +11,6 @@ DECL|function|makeCurrent
 DECL|function|shutdown
 DECL|function|swapBuffers
 DECL|function|~QQnxGLContext
+DECL|macro|qGLContextDebug
+DECL|macro|qGLContextDebug
 DECL|member|ms_eglDisplay

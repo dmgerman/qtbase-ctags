@@ -9,3 +9,5 @@ DECL|function|resizeSurface
 DECL|function|size
 DECL|function|~QQnxGLBackingStore
 DECL|function|~QQnxGLPaintDevice
+DECL|macro|qGLBackingStoreDebug
+DECL|macro|qGLBackingStoreDebug

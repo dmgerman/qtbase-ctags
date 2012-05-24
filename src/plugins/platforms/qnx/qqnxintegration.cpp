@@ -19,5 +19,7 @@ DECL|function|styleHint
 DECL|function|themeNames
 DECL|function|window
 DECL|function|~QQnxIntegration
+DECL|macro|qIntegrationDebug
+DECL|macro|qIntegrationDebug
 DECL|member|ms_windowMapper
 DECL|member|ms_windowMapperMutex
