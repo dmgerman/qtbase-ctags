@@ -7,6 +7,7 @@ DECL|class|CustomQObject
 DECL|class|IsRegisteredDummyType
 DECL|class|M
 DECL|class|MetaTypeTorturer
+DECL|class|MyObject
 DECL|class|P
 DECL|class|tst_QMetaType
 DECL|enumerator|IsInitialized
@@ -22,6 +23,7 @@ DECL|function|CustomMultiInheritanceObject
 DECL|function|CustomObject
 DECL|function|CustomQObject
 DECL|function|MetaTypeTorturer
+DECL|function|MyObject
 DECL|function|automaticTemplateRegistration
 DECL|function|construct
 DECL|function|constructCopy
@@ -161,6 +163,8 @@ DECL|macro|RETURN_CREATE_COPY_FUNCTION
 DECL|macro|RETURN_CREATE_COPY_FUNCTION
 DECL|macro|RETURN_CREATE_FUNCTION
 DECL|macro|RETURN_CREATE_FUNCTION
+DECL|macro|TEST_QSHAREDPOINTER
+DECL|macro|TEST_QSHAREDPOINTER
 DECL|macro|TST_QMETATYPE_BROKEN_COMPILER
 DECL|macro|TYPENAME_DATA
 DECL|member|_
@@ -249,6 +253,7 @@ DECL|typedef|IntIntHash
 DECL|typedef|IntUIntHash
 DECL|typedef|IntUIntMap
 DECL|typedef|IntUIntPair
+DECL|typedef|MyObjectPtr
 DECL|typedef|NaturalNumber
 DECL|typedef|QPairCC
 DECL|typedef|QPairCM
