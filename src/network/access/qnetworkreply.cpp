@@ -35,3 +35,4 @@ DECL|function|sslConfigurationImplementation
 DECL|function|url
 DECL|function|writeData
 DECL|function|~QNetworkReply
+DECL|member|progressSignalInterval
