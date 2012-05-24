@@ -8,6 +8,8 @@ DECL|function|Q_DECLARE_FLAGS
 DECL|function|begin
 DECL|function|begin
 DECL|function|cloneFlags
+DECL|function|constBegin
+DECL|function|constEnd
 DECL|function|data
 DECL|function|data
 DECL|function|data
@@ -32,8 +34,10 @@ DECL|macro|Q_STATIC_ARRAY_DATA_HEADER_INITIALIZER_WITH_OFFSET
 DECL|member|Q_REQUIRED_RESULT
 DECL|member|alloc
 DECL|member|capacityReserved
+DECL|member|const_iterator
 DECL|member|data
 DECL|member|header
+DECL|member|iterator
 DECL|member|offset
 DECL|member|ptr
 DECL|member|ref
@@ -43,6 +47,4 @@ DECL|struct|QArrayData
 DECL|struct|QArrayData
 DECL|struct|QArrayDataPointerRef
 DECL|struct|QStaticArrayData
-DECL|typedef|const_iterator
-DECL|typedef|iterator
 DECL|variable|T
