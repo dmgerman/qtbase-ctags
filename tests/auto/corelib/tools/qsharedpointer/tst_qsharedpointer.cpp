@@ -48,6 +48,7 @@ DECL|function|hash
 DECL|function|hashAndMapTest
 DECL|function|invalidConstructs
 DECL|function|invalidConstructs_data
+DECL|function|lambdaCustomDeleter
 DECL|function|map
 DECL|function|memoryManagement
 DECL|function|mixTrackingPointerCode
