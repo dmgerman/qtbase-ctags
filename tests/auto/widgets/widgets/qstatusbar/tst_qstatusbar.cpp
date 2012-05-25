@@ -1,4 +1,5 @@
 DECL|class|tst_QStatusBar
+DECL|function|QTBUG25492_msgtimeout
 DECL|function|QTBUG4334_hiddenOnMaximizedWindow
 DECL|function|cleanup
 DECL|function|cleanupTestCase
