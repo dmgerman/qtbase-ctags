@@ -2,6 +2,7 @@ DECL|function|QPlatformScreen
 DECL|function|cursor
 DECL|function|grabWindow
 DECL|function|logicalDpi
+DECL|function|nativeOrientation
 DECL|function|orientation
 DECL|function|pageFlipper
 DECL|function|physicalSize
