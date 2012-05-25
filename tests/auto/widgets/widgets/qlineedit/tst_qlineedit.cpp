@@ -19,6 +19,7 @@ DECL|function|InputMaskValidator
 DECL|function|LineEdit
 DECL|function|QIntFixValidator
 DECL|function|QTBUG13520_textNotVisible
+DECL|function|QTBUG16850_setSelection
 DECL|function|QTBUG5786_undoPaste
 DECL|function|QTBUG697_paletteCurrentColorGroup
 DECL|function|QTBUG7174_inputMaskCursorBlink
