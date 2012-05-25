@@ -1,5 +1,5 @@
 DECL|function|QEvdevKeyboardHandler
-DECL|function|createLinuxInputKeyboardHandler
+DECL|function|create
 DECL|function|loadKeymap
 DECL|function|processKeyEvent
 DECL|function|processKeycode
