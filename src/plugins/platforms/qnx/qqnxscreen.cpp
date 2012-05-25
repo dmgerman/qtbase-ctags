@@ -10,6 +10,7 @@ DECL|function|findWindow
 DECL|function|isOrthogonal
 DECL|function|keyboardHeightChanged
 DECL|function|lowerWindow
+DECL|function|nativeOrientation
 DECL|function|newWindowCreated
 DECL|function|onWindowPost
 DECL|function|orientation
