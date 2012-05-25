@@ -63,6 +63,7 @@ DECL|function|setParent
 DECL|function|setTransparentForMouseEvents
 DECL|function|setVisible
 DECL|function|setWindowFlags
+DECL|function|setWindowIcon
 DECL|function|setWindowState
 DECL|function|setWindowTitle
 DECL|function|show
