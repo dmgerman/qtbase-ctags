@@ -34,7 +34,6 @@ DECL|member|group
 DECL|member|hasMask
 DECL|member|hotkeyRegistered
 DECL|member|icon
-DECL|member|iconPixmap
 DECL|member|iconText
 DECL|member|imageMask
 DECL|member|inRenderWithPainter
