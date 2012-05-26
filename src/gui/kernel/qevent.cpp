@@ -38,7 +38,6 @@ DECL|function|QStatusTipEvent
 DECL|function|QTabletEvent
 DECL|function|QToolBarChangeEvent
 DECL|function|QTouchEvent
-DECL|function|QUpdateLaterEvent
 DECL|function|QWhatsThisClickedEvent
 DECL|function|QWheelEvent
 DECL|function|QWheelEvent
@@ -141,7 +140,6 @@ DECL|function|~QStatusTipEvent
 DECL|function|~QTabletEvent
 DECL|function|~QToolBarChangeEvent
 DECL|function|~QTouchEvent
-DECL|function|~QUpdateLaterEvent
 DECL|function|~QWhatsThisClickedEvent
 DECL|function|~QWheelEvent
 DECL|function|~QWindowStateChangeEvent
