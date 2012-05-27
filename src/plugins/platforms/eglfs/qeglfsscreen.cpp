@@ -11,7 +11,3 @@ DECL|function|geometry
 DECL|function|platformContext
 DECL|function|swapBuffers
 DECL|function|~QEglFSScreen
-DECL|member|attr
-DECL|member|name
-DECL|struct|AttrInfo
-DECL|variable|attrs

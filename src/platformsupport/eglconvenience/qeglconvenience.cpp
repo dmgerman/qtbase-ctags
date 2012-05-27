@@ -2,4 +2,9 @@ DECL|function|q_configFromGLFormat
 DECL|function|q_createConfigAttributesFromFormat
 DECL|function|q_glFormatFromConfig
 DECL|function|q_hasEglExtension
+DECL|function|q_printEglConfig
 DECL|function|q_reduceConfigAttributes
+DECL|member|attr
+DECL|member|name
+DECL|struct|AttrInfo
+DECL|variable|attrs
