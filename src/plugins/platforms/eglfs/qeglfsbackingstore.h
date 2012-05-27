@@ -1,4 +1,3 @@
-DECL|macro|EGLFS_BACKINGSTORE_USE_IMAGE
 DECL|macro|QEGLFSBACKINGSTORE_H
 DECL|variable|QOpenGLContext
 DECL|variable|QOpenGLPaintDevice
