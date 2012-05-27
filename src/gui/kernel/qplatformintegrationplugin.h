@@ -1,5 +1,3 @@
-DECL|function|Q_DECLARE_INTERFACE
 DECL|macro|QPLATFORMINTEGRATIONPLUGIN_H
 DECL|macro|QPlatformIntegrationFactoryInterface_iid
-DECL|struct|QFactoryInterface
 DECL|variable|QPlatformIntegration
