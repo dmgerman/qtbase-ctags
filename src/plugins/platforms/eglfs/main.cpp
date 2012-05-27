@@ -1,3 +1,3 @@
-DECL|class|QEglIntegrationPlugin
+DECL|class|QEglFSIntegrationPlugin
 DECL|function|create
 DECL|function|keys
