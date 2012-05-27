@@ -1,0 +1,2 @@
+DECL|macro|QMINIMALEGLSCREEN_H
+DECL|variable|QPlatformOpenGLContext

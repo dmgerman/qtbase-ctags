@@ -1,0 +1,9 @@
+DECL|function|QMinimalEglIntegration
+DECL|function|createPlatformBackingStore
+DECL|function|createPlatformOpenGLContext
+DECL|function|createPlatformWindow
+DECL|function|fontDatabase
+DECL|function|guiThreadEventDispatcher
+DECL|function|hasCapability
+DECL|function|styleHint
+DECL|function|~QMinimalEglIntegration
