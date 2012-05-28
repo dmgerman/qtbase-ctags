@@ -86,6 +86,7 @@ DECL|function|removeEventFilter
 DECL|function|sender
 DECL|function|senderList
 DECL|function|senderSignalIndex
+DECL|function|senderSignalIndex
 DECL|function|setObjectName
 DECL|function|setParent
 DECL|function|setParent_helper
