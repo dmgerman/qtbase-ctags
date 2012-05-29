@@ -4,6 +4,7 @@ DECL|class|QDirectFbWindowEGL
 DECL|function|QDirectFbEGLContext
 DECL|function|QDirectFbScreenEGL
 DECL|function|QDirectFbWindowEGL
+DECL|function|createDirectFBWindow
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformWindow
 DECL|function|eglDisplay
