@@ -1,4 +1,5 @@
 DECL|function|QDirectFbWindow
+DECL|function|createDirectFBWindow
 DECL|function|dfbSurface
 DECL|function|dfbWindow
 DECL|function|lower
