@@ -24,7 +24,7 @@ DECL|enum|WordBreakRule
 DECL|function|calcGraphemeAndLineBreaks
 DECL|function|calcSentenceBreaks
 DECL|function|calcWordBreaks
-DECL|function|qGetCharAttributes
+DECL|function|initCharAttributes
 DECL|macro|CI
 DECL|macro|CI
 DECL|macro|CP
@@ -39,3 +39,5 @@ DECL|member|graphemeBreakTable
 DECL|member|lineBreakTable
 DECL|member|sentenceBreakTable
 DECL|member|wordBreakTable
+DECL|namespace|QUnicodeTools
+DECL|variable|qt_initcharattributes_default_algorithm_only
