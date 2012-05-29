@@ -28,4 +28,3 @@ DECL|function|window
 DECL|function|windowEvent
 DECL|function|~QPlatformWindow
 DECL|member|rect
-DECL|member|window

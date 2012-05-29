@@ -1,3 +1,3 @@
 DECL|function|QPlatformSurface
-DECL|function|surfaceClass
+DECL|function|surface
 DECL|function|~QPlatformSurface
