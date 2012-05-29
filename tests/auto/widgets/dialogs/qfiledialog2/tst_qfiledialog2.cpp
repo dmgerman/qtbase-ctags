@@ -48,5 +48,6 @@ DECL|function|unc
 DECL|function|~FilterDirModel
 DECL|function|~tst_QFileDialog2
 DECL|member|m_root
+DECL|member|tempDir
 DECL|member|userSettings
 DECL|struct|FriendlyQFileDialog
