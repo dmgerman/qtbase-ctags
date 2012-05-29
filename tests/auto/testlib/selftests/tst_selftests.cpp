@@ -16,10 +16,12 @@ DECL|function|runSubTest
 DECL|function|runSubTest_data
 DECL|function|splitLines
 DECL|function|toString
+DECL|function|tst_Selftests
 DECL|member|arguments
 DECL|member|iterations
 DECL|member|loggers
 DECL|member|name
+DECL|member|tempDir
 DECL|member|total
 DECL|member|unit
 DECL|namespace|QTest
