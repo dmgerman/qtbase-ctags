@@ -2,6 +2,7 @@ DECL|class|QMetaMethodPrivate
 DECL|enumerator|MaximumParamCount
 DECL|function|QMetaObject_findMetaObject
 DECL|function|QMetaProperty
+DECL|function|absoluteSignalCount
 DECL|function|access
 DECL|function|argumentTypesFromString
 DECL|function|attributes
@@ -110,6 +111,8 @@ DECL|function|revision
 DECL|function|revision
 DECL|function|scope
 DECL|function|signal
+DECL|function|signalIndex
+DECL|function|signalOffset
 DECL|function|signature
 DECL|function|static_metacall
 DECL|function|stringData

@@ -71,6 +71,18 @@ DECL|function|setVal5
 DECL|function|setVal7
 DECL|function|setValue
 DECL|function|set_value
+DECL|function|signal
+DECL|function|signal
+DECL|function|signalCount
+DECL|function|signalCount
+DECL|function|signalCount_data
+DECL|function|signalIndex
+DECL|function|signalIndex
+DECL|function|signalIndex_data
+DECL|function|signalOffset
+DECL|function|signalOffset
+DECL|function|signalOffset_data
+DECL|function|signal_data
 DECL|function|sl0
 DECL|function|sl1
 DECL|function|sl1
@@ -118,6 +130,7 @@ DECL|member|value4
 DECL|member|value5
 DECL|namespace|MyNamespace
 DECL|namespace|NamespaceWithConstructibleClass
+DECL|namespace|SignalTestHelper
 DECL|struct|MyStruct
 DECL|struct|MyType
 DECL|typedef|CustomString
