@@ -31,6 +31,7 @@ DECL|function|~QTemporaryFileEngine
 DECL|function|~QTemporaryFilePrivate
 DECL|member|autoRemove
 DECL|member|filePathIsTemplate
+DECL|member|filePathWasTemplate
 DECL|member|templateName
 DECL|typedef|Char
 DECL|typedef|NativeFileHandle

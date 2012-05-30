@@ -16,6 +16,7 @@ DECL|function|nonWritableCurrentDir
 DECL|function|openCloseOpenClose
 DECL|function|openOnRootDrives
 DECL|function|reOpenThroughQFile
+DECL|function|removeAndReOpen
 DECL|function|rename
 DECL|function|renameFdLeak
 DECL|function|resetTemplateAfterError
