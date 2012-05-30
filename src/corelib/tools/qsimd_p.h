@@ -14,6 +14,5 @@ DECL|enum|CPUFeatures
 DECL|macro|ALIGNMENT_PROLOGUE_16BYTES
 DECL|macro|QSIMD_P_H
 DECL|macro|QT_ALWAYS_HAVE_NEON
-DECL|macro|QT_ALWAYS_HAVE_SSE2
 DECL|macro|posix_memalign
 DECL|macro|posix_memalign
