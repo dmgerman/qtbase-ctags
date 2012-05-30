@@ -13,6 +13,15 @@ DECL|enumerator|SSSE3
 DECL|enum|CPUFeatures
 DECL|macro|ALIGNMENT_PROLOGUE_16BYTES
 DECL|macro|QSIMD_P_H
-DECL|macro|QT_ALWAYS_HAVE_NEON
+DECL|macro|__AVX2__
+DECL|macro|__AVX__
+DECL|macro|__BMI__
+DECL|macro|__FMA__
+DECL|macro|__SSE2__
+DECL|macro|__SSE3__
+DECL|macro|__SSE4_1__
+DECL|macro|__SSE4_2__
+DECL|macro|__SSE__
+DECL|macro|__SSSE3__
 DECL|macro|posix_memalign
 DECL|macro|posix_memalign
