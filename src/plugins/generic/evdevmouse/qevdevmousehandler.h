@@ -1,2 +1,0 @@
-DECL|macro|QEVDEVMOUSEHANDLER_H
-DECL|variable|QSocketNotifier

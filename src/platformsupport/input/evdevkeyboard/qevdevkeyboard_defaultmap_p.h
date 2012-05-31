@@ -1,3 +1,3 @@
-DECL|macro|QEVDEVKEYBOARDHANDLER_DEFAULTMAP_H
+DECL|macro|QEVDEVKEYBOARDHANDLER_DEFAULTMAP_P_H
 DECL|member|s_keycompose_default
 DECL|member|s_keymap_default
