@@ -23,6 +23,7 @@ DECL|enumerator|LineBreak_B2
 DECL|enumerator|LineBreak_BA
 DECL|enumerator|LineBreak_BB
 DECL|enumerator|LineBreak_BK
+DECL|enumerator|LineBreak_CB
 DECL|enumerator|LineBreak_CL
 DECL|enumerator|LineBreak_CM
 DECL|enumerator|LineBreak_CP
