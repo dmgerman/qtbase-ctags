@@ -79,6 +79,7 @@ DECL|function|historyStateAfterRestart
 DECL|function|historyStateAsInitialState
 DECL|function|historyStateHasNowhereToGo
 DECL|function|historyStates
+DECL|function|initialStateIsEnteredBeforeStartedEmitted
 DECL|function|machineWithParent
 DECL|function|nestedRestoreProperties
 DECL|function|nestedRestoreProperties2
