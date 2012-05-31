@@ -9,11 +9,4 @@ DECL|function|qSignalDumperCallbackSlot
 DECL|function|startDump
 DECL|member|iLevel
 DECL|member|ignoreLevel
-DECL|member|signal_begin_callback
-DECL|member|signal_end_callback
-DECL|member|slot_begin_callback
-DECL|member|slot_end_callback
 DECL|namespace|QTest
-DECL|struct|QSignalSpyCallbackSet
-DECL|typedef|BeginCallback
-DECL|typedef|EndCallback
