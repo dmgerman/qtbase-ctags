@@ -29,5 +29,6 @@ DECL|member|gotData
 DECL|member|netConfMan
 DECL|member|networkConfiguration
 DECL|member|networkSession
+DECL|member|tempDir
 DECL|variable|AlwaysFalse
 DECL|variable|AlwaysTrue
