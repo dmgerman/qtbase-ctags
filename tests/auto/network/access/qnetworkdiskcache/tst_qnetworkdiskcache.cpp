@@ -32,10 +32,12 @@ DECL|function|setCacheDirectory
 DECL|function|setCacheDirectory_data
 DECL|function|setupWithOne
 DECL|function|sync
+DECL|function|tst_QNetworkDiskCache
 DECL|function|updateMetaData
 DECL|function|~SubQNetworkDiskCache
 DECL|macro|EXAMPLE_URL
 DECL|macro|NUM_SUBDIRECTORIES
+DECL|member|cachePath
 DECL|member|client
 DECL|member|dataToTransmit
 DECL|member|doClose
@@ -43,5 +45,6 @@ DECL|member|dt
 DECL|member|multiple
 DECL|member|other
 DECL|member|receivedData
+DECL|member|tempDir
 DECL|member|totalConnections
 DECL|member|write
