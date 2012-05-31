@@ -97,6 +97,7 @@ DECL|function|stringRef_read_operator_FromDevice
 DECL|function|stringRef_read_operator_FromDevice_data
 DECL|function|string_write_operator_ToDevice
 DECL|function|string_write_operator_ToDevice_data
+DECL|function|tst_QTextStream
 DECL|function|unsignedInt_write_operator_ToDevice_data
 DECL|function|unsignedShort_write_operator_ToDevice_data
 DECL|function|useCase1
@@ -112,6 +113,7 @@ DECL|macro|IMPLEMENT_STREAM_LEFT_REAL_OPERATOR_TEST
 DECL|macro|IMPLEMENT_STREAM_RIGHT_INT_OPERATOR_TEST
 DECL|macro|IMPLEMENT_STREAM_RIGHT_REAL_OPERATOR_TEST
 DECL|member|m_lock
+DECL|member|tempDir
+DECL|member|testFileName
 DECL|struct|QMetaTypeId
 DECL|variable|QTextStreamFunction
-DECL|variable|TestFileName
