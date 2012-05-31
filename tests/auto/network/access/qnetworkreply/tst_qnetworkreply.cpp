@@ -15,6 +15,7 @@ DECL|class|MySpyMemoryCache
 DECL|class|ProxyChangeHelper
 DECL|class|QtBug13431Helper
 DECL|class|RateControlledReader
+DECL|class|SlowReader
 DECL|class|SocketPair
 DECL|class|SslServer
 DECL|class|tst_QNetworkReply
@@ -42,6 +43,7 @@ DECL|function|MySpyMemoryCache
 DECL|function|ProxyChangeHelper
 DECL|function|ProxyData
 DECL|function|RateControlledReader
+DECL|function|SlowReader
 DECL|function|SocketPair
 DECL|function|SslServer
 DECL|function|allCookies
@@ -85,6 +87,8 @@ DECL|function|data
 DECL|function|data
 DECL|function|deleteFromHttp
 DECL|function|deleteFromHttp_data
+DECL|function|deviceReady
+DECL|function|doRead
 DECL|function|doRead
 DECL|function|dontInsertPartialContentIntoTheCache
 DECL|function|downloadProgress
@@ -330,6 +334,7 @@ DECL|member|dataSent
 DECL|member|dataSize
 DECL|member|dataToTransmit
 DECL|member|dataToTransmit
+DECL|member|device
 DECL|member|device
 DECL|member|device
 DECL|member|doClose
