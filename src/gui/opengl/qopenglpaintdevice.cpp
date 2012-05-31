@@ -2,6 +2,7 @@ DECL|class|QOpenGLEngineThreadStorage
 DECL|class|QOpenGLPaintDevicePrivate
 DECL|function|QOpenGLPaintDevice
 DECL|function|QOpenGLPaintDevice
+DECL|function|QOpenGLPaintDevice
 DECL|function|QOpenGLPaintDevicePrivate
 DECL|function|context
 DECL|function|dotsPerMeterX
@@ -13,6 +14,7 @@ DECL|function|paintFlipped
 DECL|function|setDotsPerMeterX
 DECL|function|setDotsPerMeterY
 DECL|function|setPaintFlipped
+DECL|function|setSize
 DECL|function|size
 DECL|function|~QOpenGLPaintDevice
 DECL|member|ctx
