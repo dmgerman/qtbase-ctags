@@ -1,0 +1,2 @@
+DECL|macro|QEVDEVTABLET_P_H
+DECL|variable|QEvdevTabletData
