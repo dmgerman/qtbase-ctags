@@ -4,9 +4,9 @@ DECL|function|convertPaperSizeToQSizeF
 DECL|function|convertQSizeFToPaperSize
 DECL|function|createNativePrintEngine
 DECL|function|createPaintEngine
+DECL|function|createPrinterInfo
 DECL|function|defaultPrinter
+DECL|function|printerIndex
 DECL|function|printerInfo
-DECL|function|printerInfoIsDefault
-DECL|function|setPrinterInfoDefault
 DECL|function|supportedPaperSizes
 DECL|function|~QPlatformPrinterSupport
