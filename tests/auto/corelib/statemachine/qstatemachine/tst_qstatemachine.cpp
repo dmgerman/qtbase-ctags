@@ -2,6 +2,7 @@ DECL|class|CloneSignalTransition
 DECL|class|CustomErrorState
 DECL|class|EventPosterThread
 DECL|class|EventTransition
+DECL|class|IncrementReceiversTest
 DECL|class|SignalEmitter
 DECL|class|SlotCalledCounter
 DECL|class|StopInEventTestTransition
@@ -42,6 +43,7 @@ DECL|function|brokenStateIsNeverEntered
 DECL|function|cancelDelayedEvent
 DECL|function|clearError
 DECL|function|clonedSignals
+DECL|function|connectNotify
 DECL|function|customErrorStateIsNull
 DECL|function|customErrorStateNotInGraph
 DECL|function|customGlobalErrorState
@@ -128,6 +130,7 @@ DECL|function|stopInEventTest_data
 DECL|function|stopInTransitionToFinalState
 DECL|function|targetStateDeleted
 DECL|function|targetStateWithNoParent
+DECL|function|testIncrementReceivers
 DECL|function|transitionEntersParent
 DECL|function|transitionFromRootState
 DECL|function|transitionToRootState
@@ -155,6 +158,7 @@ DECL|member|m_signalIndex
 DECL|member|m_type
 DECL|member|m_value
 DECL|member|m_value
+DECL|member|signalList
 DECL|member|triggers
 DECL|member|value
 DECL|struct|StringEvent
