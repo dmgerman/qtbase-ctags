@@ -8,5 +8,7 @@ DECL|function|createPrinterInfo
 DECL|function|defaultPrinter
 DECL|function|printerIndex
 DECL|function|printerInfo
+DECL|function|printerOption
+DECL|function|printerOptions
 DECL|function|supportedPaperSizes
 DECL|function|~QPlatformPrinterSupport
