@@ -118,7 +118,6 @@ DECL|function|read
 DECL|function|ref
 DECL|function|remove_quotes
 DECL|function|reset
-DECL|function|resolveSpec
 DECL|function|shellQuote
 DECL|function|split_arg_list
 DECL|function|split_value_list
