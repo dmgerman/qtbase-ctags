@@ -1,9 +1,12 @@
 DECL|function|createCursor
 DECL|function|createNativeWindow
+DECL|function|defaultSurfaceFormat
 DECL|function|destroyNativeWindow
 DECL|function|hasCapability
 DECL|function|platformDestroy
 DECL|function|platformDisplay
 DECL|function|platformInit
+DECL|function|screenDepth
+DECL|function|screenFormat
 DECL|function|screenSize
 DECL|variable|stubHooks
