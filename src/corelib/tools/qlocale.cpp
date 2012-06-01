@@ -4,6 +4,7 @@ DECL|function|QLocale
 DECL|function|QLocale
 DECL|function|QLocale
 DECL|function|QLocale
+DECL|function|QLocale
 DECL|function|QSystemLocale
 DECL|function|QSystemLocale
 DECL|function|QSystemLocaleSingleton
@@ -22,7 +23,7 @@ DECL|function|countryCode
 DECL|function|countryToString
 DECL|function|createSeparatedList
 DECL|function|currencySymbol
-DECL|function|dataPointerHelper
+DECL|function|dataPointerForIndex
 DECL|function|dateFormat
 DECL|function|dateTimeFormat
 DECL|function|dateTimeToString
