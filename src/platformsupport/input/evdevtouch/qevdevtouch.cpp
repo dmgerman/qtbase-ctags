@@ -1,8 +1,8 @@
-DECL|class|QTouchScreenData
+DECL|class|QEvdevTouchScreenData
 DECL|function|Contact
-DECL|function|QTouchScreenData
-DECL|function|QTouchScreenHandler
-DECL|function|QTouchScreenHandlerThread
+DECL|function|QEvdevTouchScreenData
+DECL|function|QEvdevTouchScreenHandler
+DECL|function|QEvdevTouchScreenHandlerThread
 DECL|function|assignIds
 DECL|function|findClosestContact
 DECL|function|processInputEvent
@@ -11,8 +11,8 @@ DECL|function|registerDevice
 DECL|function|reportPoints
 DECL|function|run
 DECL|function|testBit
-DECL|function|~QTouchScreenHandler
-DECL|function|~QTouchScreenHandlerThread
+DECL|function|~QEvdevTouchScreenHandler
+DECL|function|~QEvdevTouchScreenHandlerThread
 DECL|macro|ABS_MT_SLOT
 DECL|macro|LONG_BITS
 DECL|macro|NUM_LONGS
