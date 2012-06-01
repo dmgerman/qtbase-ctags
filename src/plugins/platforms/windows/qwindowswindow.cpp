@@ -62,13 +62,13 @@ DECL|function|setKeyboardGrabEnabled
 DECL|function|setMouseGrabEnabled
 DECL|function|setMouseGrabEnabled_sys
 DECL|function|setOpacity
-DECL|function|setOpacity_sys
 DECL|function|setParent
 DECL|function|setParent_sys
 DECL|function|setStyle
 DECL|function|setVisible
 DECL|function|setWindowFlags
 DECL|function|setWindowFlags_sys
+DECL|function|setWindowOpacity
 DECL|function|setWindowState
 DECL|function|setWindowState_sys
 DECL|function|setWindowTitle
