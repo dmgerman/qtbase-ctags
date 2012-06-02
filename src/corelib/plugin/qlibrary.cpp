@@ -18,10 +18,6 @@ DECL|function|loadPlugin
 DECL|function|qt_debug_component
 DECL|function|qt_find_pattern
 DECL|function|qt_get_metadata
-DECL|function|qt_get_verificationdata
-DECL|function|qt_parse_pattern
-DECL|function|qt_token_info
-DECL|function|qt_tokenize
 DECL|function|qt_try_versioninfo
 DECL|function|qt_unix_query
 DECL|function|release
@@ -41,14 +37,9 @@ DECL|function|~QLibraryPrivate
 DECL|macro|QLIBRARY_AS_DEBUG
 DECL|macro|QT_NO_DEBUG_PLUGIN_CHECK
 DECL|macro|QT_USE_MS_STD_EXCEPTION
-DECL|member|field_count
-DECL|member|fields
-DECL|member|lengths
 DECL|member|libraryMap
 DECL|member|loadedLibs
-DECL|member|results
 DECL|struct|LibraryData
-DECL|struct|qt_token_info
 DECL|typedef|LibraryMap
 DECL|typedef|QtPluginQueryVerificationDataFunction
 DECL|variable|qt_library_mutex
