@@ -1,7 +1,11 @@
+DECL|class|B
+DECL|class|C
+DECL|class|D
 DECL|class|MyClass
 DECL|class|MyClass
 DECL|class|MyClass
 DECL|class|Point2D
+DECL|class|QTypeInfo
 DECL|enumerator|Circle
 DECL|enumerator|NoOptions
 DECL|enumerator|NumShapes
@@ -32,10 +36,13 @@ DECL|function|readConfiguration
 DECL|function|x
 DECL|function|y
 DECL|function|~Point2D
+DECL|member|c
+DECL|member|d
 DECL|member|data
 DECL|member|x
 DECL|member|y
 DECL|namespace|QT_NAMESPACE
+DECL|struct|A
 DECL|struct|Point2D
 DECL|typedef|Flags
 DECL|variable|a
