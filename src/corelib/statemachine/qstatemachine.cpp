@@ -11,8 +11,10 @@ DECL|function|SignalEvent
 DECL|function|StartState
 DECL|function|WrappedEvent
 DECL|function|_q_animationFinished
+DECL|function|_q_killDelayedEventTimer
 DECL|function|_q_process
 DECL|function|_q_start
+DECL|function|_q_startDelayedEventTimer
 DECL|function|addDefaultAnimation
 DECL|function|addState
 DECL|function|addStatesToEnter

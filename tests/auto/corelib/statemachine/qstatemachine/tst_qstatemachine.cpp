@@ -1,5 +1,6 @@
 DECL|class|CloneSignalTransition
 DECL|class|CustomErrorState
+DECL|class|DelayedEventPosterThread
 DECL|class|EventPosterThread
 DECL|class|EventTransition
 DECL|class|IncrementReceiversTest
@@ -18,6 +19,7 @@ DECL|enumerator|Exit
 DECL|enum|Event
 DECL|function|CloneSignalTransition
 DECL|function|CustomErrorState
+DECL|function|DelayedEventPosterThread
 DECL|function|EventPosterThread
 DECL|function|EventTransition
 DECL|function|SignalEmitter
@@ -105,6 +107,8 @@ DECL|function|parallelStateTransition
 DECL|function|parallelStates
 DECL|function|playAnimationTwice
 DECL|function|postDelayedEventAndStop
+DECL|function|postDelayedEventFromThread
+DECL|function|postEvent
 DECL|function|postEvent
 DECL|function|postEvent
 DECL|function|postEventFromOtherThread
@@ -145,12 +149,15 @@ DECL|member|error
 DECL|member|errorString
 DECL|member|eventSignalIndex
 DECL|member|events
+DECL|member|firstEventWasCancelled
 DECL|member|m_args
 DECL|member|m_cond
+DECL|member|m_count
 DECL|member|m_count
 DECL|member|m_delay
 DECL|member|m_eventSource
 DECL|member|m_eventType
+DECL|member|m_machine
 DECL|member|m_machine
 DECL|member|m_machine
 DECL|member|m_sender
