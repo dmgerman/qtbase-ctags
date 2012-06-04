@@ -1,5 +1,5 @@
 DECL|function|QSystemLocaleData
-DECL|function|fallbackLocale
+DECL|function|fallbackUiLocale
 DECL|function|query
 DECL|function|readEnvironment
 DECL|member|lc_measurement_var

@@ -10,7 +10,7 @@ DECL|function|dateFormat
 DECL|function|dateTimeFormat
 DECL|function|dayName
 DECL|function|decimalPoint
-DECL|function|fallbackLocale
+DECL|function|fallbackUiLocale
 DECL|function|firstDayOfWeek
 DECL|function|getLocaleInfo
 DECL|function|getLocaleInfo_int
