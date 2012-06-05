@@ -1,0 +1,9 @@
+DECL|function|finalizeXInput2
+DECL|function|initializeXInput2
+DECL|function|q_xi2_is_tablet
+DECL|function|xi2HandleEvent
+DECL|function|xi2HandleTabletEvent
+DECL|function|xi2QueryTabletData
+DECL|function|xi2ReportTabletEvent
+DECL|function|xi2Select
+DECL|function|xi2SetupTabletDevices

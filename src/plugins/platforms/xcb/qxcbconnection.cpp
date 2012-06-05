@@ -29,6 +29,9 @@ DECL|function|run
 DECL|function|sendConnectionEvent
 DECL|function|sync
 DECL|function|unlock
+DECL|function|xi2CountBits
+DECL|function|xi2GetValuatorValueIfSet
+DECL|function|xi2PrepareXIGenericDeviceEvent
 DECL|function|~QXcbConnection
 DECL|macro|EGL_EGLEXT_PROTOTYPES
 DECL|macro|HANDLE_KEYBOARD_EVENT
