@@ -85,6 +85,7 @@ DECL|function|~QWindowsWindow
 DECL|macro|QWINDOWSIZE_MAX
 DECL|member|desktop
 DECL|member|dialog
+DECL|member|embedded
 DECL|member|exStyle
 DECL|member|flags
 DECL|member|isGL
