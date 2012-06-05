@@ -57,6 +57,7 @@ DECL|function|isRoot_data
 DECL|function|isSymLink
 DECL|function|isSymLink_data
 DECL|function|isWritable
+DECL|function|nonExistingFileDates
 DECL|function|notEqualOperator
 DECL|function|ntfsJunctionPointsAndSymlinks
 DECL|function|ntfsJunctionPointsAndSymlinks_data
