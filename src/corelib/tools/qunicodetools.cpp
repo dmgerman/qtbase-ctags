@@ -24,6 +24,7 @@ DECL|enum|WordBreakRule
 DECL|function|calcGraphemeAndLineBreaks
 DECL|function|calcSentenceBreaks
 DECL|function|calcWordBreaks
+DECL|function|getWhiteSpaces
 DECL|function|initCharAttributes
 DECL|macro|CI
 DECL|macro|CI
