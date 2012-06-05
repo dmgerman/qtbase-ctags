@@ -10,6 +10,7 @@ DECL|function|platformScreenForWindow
 DECL|function|refreshRate
 DECL|function|resizeMaximizedWindows
 DECL|function|screen
+DECL|function|setOrientationUpdateMask
 DECL|function|topLevelAt
 DECL|function|virtualSiblings
 DECL|function|~QPlatformScreen

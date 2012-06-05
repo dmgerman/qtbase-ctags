@@ -17,12 +17,14 @@ DECL|function|logicalDotsPerInchY
 DECL|function|mapBetween
 DECL|function|name
 DECL|function|orientation
+DECL|function|orientationUpdateMask
 DECL|function|physicalDotsPerInch
 DECL|function|physicalDotsPerInchX
 DECL|function|physicalDotsPerInchY
 DECL|function|physicalSize
 DECL|function|primaryOrientation
 DECL|function|refreshRate
+DECL|function|setOrientationUpdateMask
 DECL|function|size
 DECL|function|transformBetween
 DECL|function|updatePrimaryOrientation

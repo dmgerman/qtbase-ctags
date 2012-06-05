@@ -95,6 +95,7 @@ DECL|function|showModalWindow
 DECL|function|styleHints
 DECL|function|topLevelAt
 DECL|function|topLevelWindows
+DECL|function|updateFilteredScreenOrientation
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
 DECL|member|app_font
