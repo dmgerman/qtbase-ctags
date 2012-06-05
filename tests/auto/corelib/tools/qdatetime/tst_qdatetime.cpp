@@ -52,6 +52,8 @@ DECL|function|setTime_t
 DECL|function|setUtcOffset
 DECL|function|str
 DECL|function|time
+DECL|function|timeFromStringDateFormat
+DECL|function|timeFromStringDateFormat_data
 DECL|function|timeFromStringFormat
 DECL|function|timeFromStringFormat_data
 DECL|function|timeSpec
