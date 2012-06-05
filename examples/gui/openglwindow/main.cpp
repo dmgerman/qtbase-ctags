@@ -1,0 +1,13 @@
+DECL|class|TriangleWindow
+DECL|function|TriangleWindow
+DECL|function|initialize
+DECL|function|loadShader
+DECL|function|main
+DECL|function|render
+DECL|member|m_colAttr
+DECL|member|m_frame
+DECL|member|m_matrixUniform
+DECL|member|m_posAttr
+DECL|member|m_program
+DECL|variable|fragmentShaderSource
+DECL|variable|vertexShaderSource
