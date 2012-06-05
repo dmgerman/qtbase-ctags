@@ -25,6 +25,7 @@ DECL|function|commitTransaction
 DECL|function|createResult
 DECL|function|data
 DECL|function|defaultCase
+DECL|function|detachFromResultSet
 DECL|function|dpDbc
 DECL|function|dpEnv
 DECL|function|endTrans

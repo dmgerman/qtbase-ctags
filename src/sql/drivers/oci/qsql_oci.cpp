@@ -25,6 +25,7 @@ DECL|function|createResult
 DECL|function|escapeIdentifier
 DECL|function|exec
 DECL|function|execBatch
+DECL|function|execBatch
 DECL|function|fieldFromDefine
 DECL|function|formatValue
 DECL|function|getValues

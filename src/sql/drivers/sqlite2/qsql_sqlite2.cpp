@@ -10,6 +10,7 @@ DECL|function|cleanup
 DECL|function|close
 DECL|function|commitTransaction
 DECL|function|createResult
+DECL|function|detachFromResultSet
 DECL|function|escapeIdentifier
 DECL|function|fetchNext
 DECL|function|finalize

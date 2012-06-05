@@ -11,6 +11,7 @@ DECL|function|close
 DECL|function|commitTransaction
 DECL|function|createResult
 DECL|function|data
+DECL|function|detachFromResultSet
 DECL|function|emptyValueCache
 DECL|function|escapeIdentifier
 DECL|function|exec

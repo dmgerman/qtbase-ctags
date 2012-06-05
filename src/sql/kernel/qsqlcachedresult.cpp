@@ -10,6 +10,7 @@ DECL|function|cleanup
 DECL|function|clearValues
 DECL|function|colCount
 DECL|function|data
+DECL|function|detachFromResultSet
 DECL|function|fetch
 DECL|function|fetchFirst
 DECL|function|fetchLast
@@ -20,6 +21,7 @@ DECL|function|init
 DECL|function|isNull
 DECL|function|nextIndex
 DECL|function|revertLast
+DECL|function|setNumericalPrecisionPolicy
 DECL|function|virtual_hook
 DECL|function|~QSqlCachedResult
 DECL|member|atEnd
