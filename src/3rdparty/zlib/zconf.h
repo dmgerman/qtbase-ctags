@@ -48,6 +48,7 @@ DECL|macro|ZEXTERN
 DECL|macro|ZEXTERN
 DECL|macro|ZEXTERN
 DECL|macro|Z_HAVE_UNISTD_H
+DECL|macro|Z_PREFIX
 DECL|macro|_LARGEFILE64_SOURCE
 DECL|macro|_dist_code
 DECL|macro|_length_code
