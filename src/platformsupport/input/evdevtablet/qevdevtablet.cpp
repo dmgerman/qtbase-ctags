@@ -9,6 +9,7 @@ DECL|function|report
 DECL|function|reportProximityEnter
 DECL|function|reportProximityLeave
 DECL|function|run
+DECL|function|testGrab
 DECL|function|~QEvdevTabletHandler
 DECL|function|~QEvdevTabletHandlerThread
 DECL|member|d
