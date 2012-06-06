@@ -1,1 +1,2 @@
 DECL|macro|QSQL_H
+DECL|macro|Q_SQL_EXPORT
