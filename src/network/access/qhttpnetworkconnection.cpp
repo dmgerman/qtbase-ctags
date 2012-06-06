@@ -24,6 +24,7 @@ DECL|function|ignoreSslErrors
 DECL|function|indexOf
 DECL|function|init
 DECL|function|isSsl
+DECL|function|networkLayerDetected
 DECL|function|pauseConnection
 DECL|function|port
 DECL|function|predictNextRequest
