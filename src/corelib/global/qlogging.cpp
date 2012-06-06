@@ -14,7 +14,6 @@ DECL|function|qEmergencyOut
 DECL|function|qErrnoWarning
 DECL|function|qErrnoWarning
 DECL|function|qInstallMessageHandler
-DECL|function|qInstallMessageHandler
 DECL|function|qInstallMsgHandler
 DECL|function|qMessageFormatString
 DECL|function|qSetMessagePattern
@@ -43,7 +42,6 @@ DECL|variable|fileTokenC
 DECL|variable|functionTokenC
 DECL|variable|lineTokenC
 DECL|variable|messageHandler
-DECL|variable|messageHandler2
 DECL|variable|messageTokenC
 DECL|variable|msgHandler
 DECL|variable|pidTokenC
