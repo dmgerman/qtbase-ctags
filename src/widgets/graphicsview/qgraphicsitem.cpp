@@ -51,7 +51,6 @@ DECL|function|acceptDrops
 DECL|function|acceptHoverEvents
 DECL|function|acceptTouchEvents
 DECL|function|acceptedMouseButtons
-DECL|function|acceptsHoverEvents
 DECL|function|addChild
 DECL|function|addToGroup
 DECL|function|addToIndex
@@ -73,7 +72,6 @@ DECL|function|boundingRegionGranularity
 DECL|function|brush
 DECL|function|cacheMode
 DECL|function|childItems
-DECL|function|children
 DECL|function|childrenBoundingRect
 DECL|function|childrenBoundingRectHelper
 DECL|function|childrenList
@@ -179,7 +177,6 @@ DECL|function|isAncestorOf
 DECL|function|isBlockedByModalPanel
 DECL|function|isClipped
 DECL|function|isEnabled
-DECL|function|isObscured
 DECL|function|isObscured
 DECL|function|isObscuredBy
 DECL|function|isObscuredBy
@@ -309,9 +306,7 @@ DECL|function|resetMatrix
 DECL|function|resetTransform
 DECL|function|resetWidth
 DECL|function|resolveDepth
-DECL|function|rotate
 DECL|function|rotation
-DECL|function|scale
 DECL|function|scale
 DECL|function|scene
 DECL|function|sceneBoundingRect
@@ -329,7 +324,6 @@ DECL|function|setAcceptDrops
 DECL|function|setAcceptHoverEvents
 DECL|function|setAcceptTouchEvents
 DECL|function|setAcceptedMouseButtons
-DECL|function|setAcceptsHoverEvents
 DECL|function|setActive
 DECL|function|setBoundingRegionGranularity
 DECL|function|setBrush
@@ -418,7 +412,6 @@ DECL|function|shape
 DECL|function|shape
 DECL|function|shape
 DECL|function|shapeMode
-DECL|function|shear
 DECL|function|siblingOrderChange
 DECL|function|spanAngle
 DECL|function|stackBefore
@@ -450,7 +443,6 @@ DECL|function|transform
 DECL|function|transformOriginPoint
 DECL|function|transformationMode
 DECL|function|transformations
-DECL|function|translate
 DECL|function|type
 DECL|function|type
 DECL|function|type
