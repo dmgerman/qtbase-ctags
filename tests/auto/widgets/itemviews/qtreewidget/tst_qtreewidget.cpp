@@ -94,6 +94,7 @@ DECL|function|sortedIndexOfChild_data
 DECL|function|takeItem
 DECL|function|takeItem_data
 DECL|function|task191552_rtl
+DECL|function|task20345_sortChildren
 DECL|function|task203673_selection
 DECL|function|task206367_duplication
 DECL|function|task217309
