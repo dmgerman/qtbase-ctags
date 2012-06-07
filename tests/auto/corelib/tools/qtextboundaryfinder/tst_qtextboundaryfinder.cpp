@@ -8,6 +8,8 @@ DECL|function|init
 DECL|function|init_libthai
 DECL|function|isAtSoftHyphen
 DECL|function|isAtSoftHyphen_data
+DECL|function|lineBoundariesDefault
+DECL|function|lineBoundariesDefault_data
 DECL|function|lineBoundaries_manual
 DECL|function|lineBoundaries_manual_data
 DECL|function|sentenceBoundariesDefault
