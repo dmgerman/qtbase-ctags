@@ -169,6 +169,8 @@ DECL|struct|Parse
 DECL|struct|Test
 DECL|struct|parser_info
 DECL|variable|all_feature_roots
+DECL|variable|cached_qmakefeatures
+DECL|variable|cached_qmakepath
 DECL|variable|parser
 DECL|variable|project_build_root
 DECL|variable|project_root
