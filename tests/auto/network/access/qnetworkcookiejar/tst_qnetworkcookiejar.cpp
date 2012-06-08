@@ -6,6 +6,8 @@ DECL|function|cookiesForUrl_data
 DECL|function|effectiveTLDs
 DECL|function|effectiveTLDs_data
 DECL|function|getterSetter
+DECL|function|rfc6265
+DECL|function|rfc6265_data
 DECL|function|setAllCookies
 DECL|function|setCookiesFromUrl
 DECL|function|setCookiesFromUrl_data
