@@ -1,6 +1,5 @@
 DECL|enumerator|Defined
-DECL|enumerator|Defined
-DECL|function|QMetaType
+DECL|function|Q_DECLARE_METATYPE_TEMPLATE_1ARG
 DECL|function|construct
 DECL|function|create
 DECL|function|destroy
@@ -15,7 +14,6 @@ DECL|function|qMetaTypeDestructHelper
 DECL|function|qMetaTypeLoadHelper
 DECL|function|qMetaTypeSaveHelper
 DECL|function|qRegisterMetaTypeStreamOperators
-DECL|function|qt_metatype_id
 DECL|function|qt_metatype_id
 DECL|function|sizeOf
 DECL|function|~QMetaType
@@ -41,10 +39,9 @@ DECL|macro|Q_DECLARE_METATYPE
 DECL|macro|Q_DECLARE_METATYPE_TEMPLATE_1ARG
 DECL|macro|Q_DECLARE_METATYPE_TEMPLATE_2ARG
 DECL|macro|Q_DECLARE_OPAQUE_POINTER
+DECL|macro|Q_DECLARE_SMART_POINTER_METATYPE
 DECL|struct|QMetaTypeId2
 DECL|struct|T
-DECL|struct|T
-DECL|struct|true
 DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QVariantHash
@@ -56,13 +53,14 @@ DECL|variable|QLinkedList
 DECL|variable|QMap
 DECL|variable|QMetaTypeInterface
 DECL|variable|QObject
+DECL|variable|QPointer
 DECL|variable|QQueue
 DECL|variable|QSet
 DECL|variable|QSharedPointer
 DECL|variable|QStack
 DECL|variable|QVector
+DECL|variable|QWeakPointer
 DECL|variable|QWidget
-DECL|variable|T
 DECL|variable|T
 DECL|variable|T1
 DECL|variable|T1
