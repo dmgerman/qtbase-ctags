@@ -13,8 +13,6 @@ DECL|function|currentDateTime
 DECL|function|currentDateTimeUtc
 DECL|function|currentDateTimeUtc2
 DECL|function|date
-DECL|function|dateTimeFromStringFormat
-DECL|function|dateTimeFromStringFormat_data
 DECL|function|daylightSavingsTimeChange
 DECL|function|daysTo
 DECL|function|defDate
@@ -22,9 +20,12 @@ DECL|function|defDateTime
 DECL|function|defTime
 DECL|function|dt
 DECL|function|fewDigitsInYear
-DECL|function|fromString
-DECL|function|fromStringTextDate
-DECL|function|fromStringTextDate_data
+DECL|function|fromStringDateFormat
+DECL|function|fromStringDateFormat_data
+DECL|function|fromStringStringFormat
+DECL|function|fromStringStringFormat_data
+DECL|function|fromStringToStringLocale
+DECL|function|fromStringToStringLocale_data
 DECL|function|fromString_LOCALE_ILDATE
 DECL|function|getDate
 DECL|function|init
