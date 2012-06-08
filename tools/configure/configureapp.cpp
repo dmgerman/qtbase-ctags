@@ -1,3 +1,8 @@
+DECL|enumerator|BLACKBERRY
+DECL|enumerator|QNX
+DECL|enumerator|WINDOWS
+DECL|enumerator|WINDOWS_CE
+DECL|enum|Platforms
 DECL|function|ArchData
 DECL|function|ArchData
 DECL|function|Configure
@@ -37,7 +42,10 @@ DECL|function|locateFileInPaths
 DECL|function|mingwPaths
 DECL|function|operator <<
 DECL|function|parseCmdLine
+DECL|function|platform
+DECL|function|platformName
 DECL|function|projectType
+DECL|function|qpaPlatformName
 DECL|function|readLicense
 DECL|function|reloadCmdLine
 DECL|function|saveCmdLine
