@@ -46,7 +46,8 @@ DECL|function|standaloneLongDayName
 DECL|function|standaloneLongMonthName
 DECL|function|standaloneShortDayName
 DECL|function|standaloneShortMonthName
-DECL|function|toString
+DECL|function|toStringDateFormat
+DECL|function|toStringDateFormat_data
 DECL|function|toStringFormat
 DECL|function|toStringFormat_data
 DECL|function|weekNumber
