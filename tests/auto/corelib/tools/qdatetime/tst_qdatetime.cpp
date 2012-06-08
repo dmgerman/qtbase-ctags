@@ -13,8 +13,6 @@ DECL|function|currentDateTime
 DECL|function|currentDateTimeUtc
 DECL|function|currentDateTimeUtc2
 DECL|function|date
-DECL|function|dateFromStringFormat
-DECL|function|dateFromStringFormat_data
 DECL|function|dateTimeFromStringFormat
 DECL|function|dateTimeFromStringFormat_data
 DECL|function|daylightSavingsTimeChange
@@ -52,10 +50,6 @@ DECL|function|setTime_t
 DECL|function|setUtcOffset
 DECL|function|str
 DECL|function|time
-DECL|function|timeFromStringDateFormat
-DECL|function|timeFromStringDateFormat_data
-DECL|function|timeFromStringFormat
-DECL|function|timeFromStringFormat_data
 DECL|function|timeSpec
 DECL|function|toLocalTime
 DECL|function|toLocalTime_data
