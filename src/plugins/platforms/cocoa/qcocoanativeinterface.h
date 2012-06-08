@@ -1,2 +1,4 @@
 DECL|macro|QCOCOANATIVEINTERFACE_H
+DECL|variable|QPlatformPrinterSupport
+DECL|variable|QPrintEngine
 DECL|variable|QWidget
