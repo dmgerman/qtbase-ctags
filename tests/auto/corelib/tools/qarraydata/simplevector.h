@@ -16,6 +16,7 @@ DECL|function|constEnd
 DECL|function|detach
 DECL|function|end
 DECL|function|end
+DECL|function|erase
 DECL|function|fromRawData
 DECL|function|front
 DECL|function|front
