@@ -48,7 +48,6 @@ DECL|function|~QOpenGLContext
 DECL|function|~QOpenGLContextGroup
 DECL|function|~QOpenGLMultiGroupSharedResource
 DECL|function|~QOpenGLSharedResource
-DECL|macro|GL_FRAMEBUFFER_BINDING
 DECL|member|context
 DECL|member|makeCurrentTracker
 DECL|member|makeCurrentTrackerMutex
