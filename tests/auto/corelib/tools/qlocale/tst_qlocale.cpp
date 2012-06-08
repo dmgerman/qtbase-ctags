@@ -1,6 +1,7 @@
 DECL|class|RestoreLocaleHelper
 DECL|class|tst_QLocale
 DECL|function|GetThreadLocale
+DECL|function|QTBUG_26035_positivesign
 DECL|function|RestoreLocaleHelper
 DECL|function|ampm
 DECL|function|ctor
