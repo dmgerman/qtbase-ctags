@@ -1,3 +1,5 @@
+DECL|class|CMainWindowTimer
+DECL|class|CToolBarTimer
 DECL|class|MainWindow
 DECL|class|MyDockWidget
 DECL|class|MyWidget
@@ -10,12 +12,15 @@ DECL|function|AddDockWidget
 DECL|function|AddDockWidget
 DECL|function|AddDockWidget
 DECL|function|AddDockWidget
+DECL|function|CMainWindowTimer
+DECL|function|CToolBarTimer
 DECL|function|MoveSeparator
 DECL|function|MoveSeparator
 DECL|function|MoveSeparator
 DECL|function|MyDockWidget
 DECL|function|MyWidget
 DECL|function|QTBUG15080_restoreState
+DECL|function|QTBUG21378_animationFinished
 DECL|function|QTBUG2774_stylechange
 DECL|function|addDockWidget
 DECL|function|addToolBar
@@ -49,6 +54,8 @@ DECL|function|setCursor
 DECL|function|sizeHint
 DECL|function|splitDockWidget
 DECL|function|statusBar
+DECL|function|timerEvent
+DECL|function|timerEvent
 DECL|function|toggleUnifiedTitleAndToolBarOnMac
 DECL|function|toolBarArea
 DECL|function|toolButtonStyle
@@ -57,6 +64,10 @@ DECL|macro|COMPARE_DOCK_WIDGET_GEOS
 DECL|member|a
 DECL|member|area
 DECL|member|delta
+DECL|member|m_tb
+DECL|member|m_timerId
+DECL|member|m_timerId
+DECL|member|m_w
 DECL|member|mode
 DECL|member|name
 DECL|member|name
