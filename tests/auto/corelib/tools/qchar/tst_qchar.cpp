@@ -27,6 +27,7 @@ DECL|function|normalization
 DECL|function|normalizationCorrections
 DECL|function|normalization_data
 DECL|function|normalization_manual
+DECL|function|script
 DECL|function|toCaseFolded
 DECL|function|toLower
 DECL|function|toTitle
