@@ -56,6 +56,7 @@ DECL|function|objectCast
 DECL|function|operator ()
 DECL|function|operators
 DECL|function|qobjectWeakManagement
+DECL|function|qvariantCast
 DECL|function|reentrancyWhileDestructing
 DECL|function|ref
 DECL|function|refCountData

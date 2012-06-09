@@ -7,6 +7,8 @@ DECL|function|internalSafetyCheckRemove
 DECL|function|printBacktrace
 DECL|function|saveBacktrace
 DECL|function|setQObjectShared
+DECL|function|sharedPointerFromVariant_internal
+DECL|function|weakPointerFromVariant_internal
 DECL|macro|BACKTRACE_SUPPORTED
 DECL|member|backtrace
 DECL|member|dPointers

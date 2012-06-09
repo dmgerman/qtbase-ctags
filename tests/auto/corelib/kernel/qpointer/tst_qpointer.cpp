@@ -17,6 +17,7 @@ DECL|function|disconnect
 DECL|function|equality_operators
 DECL|function|isNull
 DECL|function|me
+DECL|function|qvariantCast
 DECL|function|run
 DECL|function|threadSafety
 DECL|function|~ChildObject
