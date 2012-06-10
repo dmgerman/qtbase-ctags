@@ -8,6 +8,7 @@ DECL|enumerator|XShortVector
 DECL|enumerator|YSame
 DECL|enumerator|YShortPositive
 DECL|enumerator|YShortVector
+DECL|enumerator|unicode_to_agl_map_size
 DECL|enum|Flags
 DECL|function|QTtfStream
 DECL|function|addGlyph
@@ -31,6 +32,8 @@ DECL|function|getReverseMap
 DECL|function|glyphName
 DECL|function|glyphName
 DECL|function|offset
+DECL|function|operator <
+DECL|function|operator <
 DECL|function|operator <
 DECL|function|operator <
 DECL|function|operator <<
@@ -85,7 +88,7 @@ DECL|member|postscript_name
 DECL|member|start
 DECL|member|subfamily
 DECL|member|tag
-DECL|member|u
+DECL|member|uc
 DECL|member|value
 DECL|member|x
 DECL|member|xMax
@@ -98,6 +101,7 @@ DECL|member|yMax
 DECL|member|yMax
 DECL|member|yMin
 DECL|member|yMin
+DECL|struct|AGLEntry
 DECL|struct|QTtfGlyph
 DECL|struct|QTtfNameRecord
 DECL|struct|QTtfTable
@@ -111,6 +115,6 @@ DECL|typedef|F2DOT14
 DECL|typedef|GlyphID
 DECL|typedef|Offset
 DECL|typedef|Tag
-DECL|variable|agl
+DECL|variable|glyph_names
 DECL|variable|symbol_map
-DECL|variable|unicode_to_aglindex
+DECL|variable|unicode_to_agl_map
