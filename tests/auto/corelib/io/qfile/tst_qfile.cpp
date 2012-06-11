@@ -1,4 +1,5 @@
 DECL|class|AutoIgnoreInvalidParameter
+DECL|class|MessageHandler
 DECL|class|MyEngine
 DECL|class|MyHandler
 DECL|class|MyHandler2
@@ -11,6 +12,7 @@ DECL|enumerator|OpenStream
 DECL|enum|FileType
 DECL|function|AutoIgnoreInvalidParameter
 DECL|function|FILEReadWrite
+DECL|function|MessageHandler
 DECL|function|MyEngine
 DECL|function|absolutePathLinkToRelativePath
 DECL|function|append
@@ -51,6 +53,7 @@ DECL|function|getLargeDataBlock
 DECL|function|getWorkingDirectoryForLink
 DECL|function|getch
 DECL|function|handle
+DECL|function|handler
 DECL|function|i18nFileName
 DECL|function|i18nFileName_data
 DECL|function|ignore_invalid_parameter
@@ -143,6 +146,7 @@ DECL|function|streamCurrentPosition
 DECL|function|streamCurrentPosition
 DECL|function|streamExpectedSize
 DECL|function|tailFile
+DECL|function|testPassed
 DECL|function|text
 DECL|function|textFile
 DECL|function|truncate
@@ -157,6 +161,7 @@ DECL|function|writeTextFile
 DECL|function|writeTextFile_data
 DECL|function|writeToReadOnlyFile
 DECL|function|~AutoIgnoreInvalidParameter
+DECL|function|~MessageHandler
 DECL|function|~MyEngine
 DECL|macro|FILESIZE
 DECL|macro|QT_OPEN_BINARY
@@ -166,6 +171,10 @@ DECL|macro|STDOUT_FILENO
 DECL|member|fd_
 DECL|member|name
 DECL|member|number
+DECL|member|ok
+DECL|member|ok
 DECL|member|oldHandler
+DECL|member|oldMessageHandler
+DECL|member|oldMessageHandler
 DECL|member|oldReportMode
 DECL|member|stream_
