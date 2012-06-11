@@ -1,8 +1,5 @@
 DECL|enumerator|NormalizationCorrectionsVersionMax
 DECL|enumerator|NumNormalizationCorrections
-DECL|enumerator|ScriptSentinel
-DECL|enumerator|UnicodeBlockCount
-DECL|enumerator|UnicodeBlockSize
 DECL|function|graphemeBreakClass
 DECL|function|lineBreakClass
 DECL|function|properties
@@ -25,7 +22,6 @@ DECL|member|uc_ligature_trie
 DECL|member|uc_normalization_corrections
 DECL|member|uc_properties
 DECL|member|uc_property_trie
-DECL|member|uc_scripts
 DECL|member|ucs4
 DECL|member|version
 DECL|namespace|QUnicodeTables
