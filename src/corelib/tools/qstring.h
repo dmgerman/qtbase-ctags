@@ -54,7 +54,6 @@ DECL|function|~QString
 DECL|macro|QSTRING_H
 DECL|macro|QStringLiteral
 DECL|macro|QStringLiteral
-DECL|macro|QStringLiteral
 DECL|macro|QT_NO_UNICODE_LITERAL
 DECL|macro|QT_UNICODE_LITERAL
 DECL|macro|QT_UNICODE_LITERAL_II
