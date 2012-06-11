@@ -6,6 +6,9 @@ DECL|function|extractPageLinkAndDesc
 DECL|function|headerFileNameFilter
 DECL|function|initialize
 DECL|function|initializeParser
+DECL|function|isParsingCpp
+DECL|function|isParsingH
+DECL|function|isParsingQdoc
 DECL|function|parseHeaderFile
 DECL|function|parserForHeaderFile
 DECL|function|parserForLanguage

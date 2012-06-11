@@ -144,6 +144,7 @@ DECL|function|detailsUnknownCommand
 DECL|function|ditamap
 DECL|function|endCmdFor
 DECL|function|endCmdName
+DECL|function|endLocation
 DECL|function|endSection
 DECL|function|enterPara
 DECL|function|enumItemNames
@@ -201,6 +202,7 @@ DECL|function|skipToNextPreprocessorCommand
 DECL|function|slashed
 DECL|function|source
 DECL|function|startFormat
+DECL|function|startLocation
 DECL|function|startNewPara
 DECL|function|startSection
 DECL|function|tableOfContents
