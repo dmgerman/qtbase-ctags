@@ -1,7 +1,6 @@
 DECL|class|QEglFSPiCursor
 DECL|class|QEglFSPiHooks
 DECL|function|QEglFSPiCursor
-DECL|function|changeCursor
 DECL|function|createContext
 DECL|function|createCursor
 DECL|function|createDispmanxLayer
@@ -12,13 +11,10 @@ DECL|function|destroyNativeWindow
 DECL|function|drawInLayer
 DECL|function|hasCapability
 DECL|function|moveDispmanxLayer
-DECL|function|paintOnScreen
 DECL|function|platformDestroy
 DECL|function|platformDisplay
 DECL|function|platformInit
-DECL|function|pointerEvent
 DECL|function|screenSize
-DECL|function|setPos
 DECL|function|~QEglFSPiCursor
 DECL|macro|ELEMENT_CHANGE_DEST_RECT
 DECL|macro|ELEMENT_CHANGE_LAYER
