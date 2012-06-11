@@ -6,6 +6,7 @@ DECL|member|key
 DECL|member|value
 DECL|variable|defaults
 DECL|variable|defines
+DECL|variable|dependModules
 DECL|variable|highlighting
 DECL|variable|indexDirs
 DECL|variable|obsoleteLinks
