@@ -97,6 +97,7 @@ DECL|enumerator|WordBreakNewline
 DECL|enumerator|WordBreakNumeric
 DECL|enumerator|WordBreakOther
 DECL|enumerator|WordBreak_Unassigned
+DECL|enumerator|specialScriptsCount
 DECL|enum|GraphemeBreak
 DECL|enum|Joining
 DECL|enum|LineBreakClass
@@ -114,7 +115,6 @@ DECL|function|createLigatureInfo
 DECL|function|createNormalizationCorrections
 DECL|function|createPropertyInfo
 DECL|function|createScriptEnumDeclaration
-DECL|function|createScriptTableDeclaration
 DECL|function|createSpecialCaseMap
 DECL|function|initAgeMap
 DECL|function|initCategoryMap
@@ -146,7 +146,6 @@ DECL|function|valueRef
 DECL|macro|DATA_VERSION_S
 DECL|macro|DATA_VERSION_STR
 DECL|member|age
-DECL|member|block
 DECL|member|caseFoldDiff
 DECL|member|caseFoldSpecial
 DECL|member|category
@@ -172,6 +171,7 @@ DECL|member|mirroredChar
 DECL|member|p
 DECL|member|properties
 DECL|member|propertyIndex
+DECL|member|script
 DECL|member|sentenceBreak
 DECL|member|specialFolding
 DECL|member|titleCaseDiff
@@ -180,11 +180,9 @@ DECL|member|u1
 DECL|member|u2
 DECL|member|upperCaseDiff
 DECL|member|upperCaseSpecial
-DECL|member|vector
 DECL|member|version
 DECL|member|wordBreak
 DECL|struct|DecompositionBlock
-DECL|struct|ExtraBlock
 DECL|struct|Ligature
 DECL|struct|NormalizationCorrection
 DECL|struct|PropertyBlock
@@ -197,7 +195,6 @@ DECL|variable|combiningClassUsage
 DECL|variable|decompositionLength
 DECL|variable|decompositionMap
 DECL|variable|directionMap
-DECL|variable|extraBlockList
 DECL|variable|grapheme_break_map
 DECL|variable|grapheme_break_string
 DECL|variable|highestComposedCharacter
@@ -214,13 +211,12 @@ DECL|variable|maxUpperCaseDiff
 DECL|variable|methods
 DECL|variable|numLigatures
 DECL|variable|property_string
-DECL|variable|scriptAssignment
-DECL|variable|scriptHash
+DECL|variable|scriptMap
 DECL|variable|scriptNames
-DECL|variable|scriptSentinel
 DECL|variable|sentence_break_map
 DECL|variable|sentence_break_string
 DECL|variable|specialCaseMap
+DECL|variable|specialScripts
 DECL|variable|unicodeData
 DECL|variable|uniqueProperties
 DECL|variable|word_break_map
