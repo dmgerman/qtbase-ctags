@@ -14,6 +14,7 @@ DECL|function|constructing
 DECL|function|crashTests
 DECL|function|dualStack
 DECL|function|dualStack_data
+DECL|function|eagainBlockingAccept
 DECL|function|getSetCheck
 DECL|function|incomingConnection
 DECL|function|init

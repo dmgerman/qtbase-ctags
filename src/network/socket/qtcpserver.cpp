@@ -13,10 +13,12 @@ DECL|function|isListening
 DECL|function|listen
 DECL|function|maxPendingConnections
 DECL|function|nextPendingConnection
+DECL|function|pauseAccepting
 DECL|function|proxy
 DECL|function|proxyAuthenticationRequired
 DECL|function|readNotification
 DECL|function|resolveProxy
+DECL|function|resumeAccepting
 DECL|function|serverAddress
 DECL|function|serverError
 DECL|function|serverPort
