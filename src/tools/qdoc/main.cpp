@@ -1,3 +1,4 @@
+DECL|function|creationTimeBefore
 DECL|function|main
 DECL|function|printHelp
 DECL|function|printVersion
