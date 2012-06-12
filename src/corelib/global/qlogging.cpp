@@ -8,7 +8,6 @@ DECL|function|fatal
 DECL|function|noDebug
 DECL|function|qCleanupFuncinfo
 DECL|function|qDefaultMessageHandler
-DECL|function|qDefaultMessageHandler2
 DECL|function|qDefaultMsgHandler
 DECL|function|qEmergencyOut
 DECL|function|qErrnoWarning
