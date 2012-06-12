@@ -17,7 +17,7 @@ DECL|function|functionResolver
 DECL|function|functionResolverWithFallback
 DECL|function|hasOpenGLExtension
 DECL|function|hasOpenGLFeature
-DECL|function|initializeGLFunctions
+DECL|function|initializeOpenGLFunctions
 DECL|function|invalidateResource
 DECL|function|openGLExtensions
 DECL|function|openGLFeatures
