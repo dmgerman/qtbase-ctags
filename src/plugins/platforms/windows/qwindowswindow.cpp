@@ -13,6 +13,7 @@ DECL|function|applyWindowFlags
 DECL|function|childAt
 DECL|function|childAtScreenPoint
 DECL|function|clientSize
+DECL|function|cornerToWinOrientation
 DECL|function|create
 DECL|function|create
 DECL|function|debugWinExStyle
@@ -74,6 +75,7 @@ DECL|function|setWindowState_sys
 DECL|function|setWindowTitle
 DECL|function|shouldShowMaximizeButton
 DECL|function|show_sys
+DECL|function|startSystemResize
 DECL|function|stopAlertWindow
 DECL|function|topLevelOf
 DECL|function|unregisterDropSite

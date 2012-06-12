@@ -1,5 +1,6 @@
 DECL|class|QSizeGripPrivate
 DECL|function|QSizeGrip
+DECL|function|QSizeGripPrivate
 DECL|function|_q_showIfNotHidden
 DECL|function|atBottom
 DECL|function|atLeft
@@ -20,15 +21,12 @@ DECL|function|sizeHint
 DECL|function|updateMacSizer
 DECL|function|updateTopLevelWidget
 DECL|function|~QSizeGrip
-DECL|macro|SZ_SIZEBOTTOMLEFT
-DECL|macro|SZ_SIZEBOTTOMRIGHT
-DECL|macro|SZ_SIZETOPLEFT
-DECL|macro|SZ_SIZETOPRIGHT
 DECL|member|d
 DECL|member|dxMax
 DECL|member|dyMax
 DECL|member|gotMousePress
 DECL|member|m_corner
+DECL|member|m_platformSizeGrip
 DECL|member|p
 DECL|member|r
 DECL|member|tlw

@@ -23,6 +23,7 @@ DECL|function|setWindowIcon
 DECL|function|setWindowModified
 DECL|function|setWindowState
 DECL|function|setWindowTitle
+DECL|function|startSystemResize
 DECL|function|winId
 DECL|function|window
 DECL|function|windowEvent
