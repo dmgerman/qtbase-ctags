@@ -134,6 +134,7 @@ DECL|function|~Foo
 DECL|function|~ReceiverThread
 DECL|function|~tst_QTcpSocket
 DECL|macro|INVALID_SOCKET
+DECL|macro|NOMINMAX
 DECL|macro|SOCKET
 DECL|member|attemptedToConnect
 DECL|member|bytesAvailable

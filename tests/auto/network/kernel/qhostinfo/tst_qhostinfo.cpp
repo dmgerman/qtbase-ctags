@@ -31,6 +31,7 @@ DECL|function|threadSafety
 DECL|function|threadSafetyAsynchronousAPI
 DECL|function|tst_QHostInfo
 DECL|function|~tst_QHostInfo
+DECL|macro|NOMINMAX
 DECL|macro|QT_NO_GETADDRINFO
 DECL|member|id
 DECL|member|ipv6Available

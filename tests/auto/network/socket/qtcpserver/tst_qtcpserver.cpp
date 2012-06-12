@@ -45,6 +45,7 @@ DECL|function|waitForConnectionTest
 DECL|function|~ThreadConnector
 DECL|function|~tst_QTcpServer
 DECL|macro|INVALID_SOCKET
+DECL|macro|NOMINMAX
 DECL|macro|SOCKET
 DECL|member|callCount
 DECL|member|crashingServerDir
