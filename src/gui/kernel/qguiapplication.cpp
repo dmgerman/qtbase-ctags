@@ -95,6 +95,7 @@ DECL|function|showModalWindow
 DECL|function|styleHints
 DECL|function|topLevelAt
 DECL|function|topLevelWindows
+DECL|function|updateBlockedStatus
 DECL|function|updateFilteredScreenOrientation
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
