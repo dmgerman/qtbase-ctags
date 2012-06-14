@@ -33,6 +33,7 @@ DECL|function|generateConfigfiles
 DECL|function|generateHeaders
 DECL|function|generateMakefiles
 DECL|function|generateOutputVars
+DECL|function|generateQConfigCpp
 DECL|function|generateQConfigPri
 DECL|function|isDone
 DECL|function|isOk
