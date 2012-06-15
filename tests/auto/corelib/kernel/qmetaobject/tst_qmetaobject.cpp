@@ -98,6 +98,7 @@ DECL|function|sl6
 DECL|function|sl7
 DECL|function|sl8
 DECL|function|sl9
+DECL|function|slotWithUnregisteredParameterType
 DECL|function|stdSet
 DECL|function|testLongLong
 DECL|function|testReference
@@ -133,4 +134,5 @@ DECL|namespace|NamespaceWithConstructibleClass
 DECL|namespace|SignalTestHelper
 DECL|struct|MyStruct
 DECL|struct|MyType
+DECL|struct|MyUnregisteredType
 DECL|typedef|CustomString
