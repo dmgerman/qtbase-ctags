@@ -69,21 +69,6 @@ DECL|enumerator|SentenceBreakSep
 DECL|enumerator|SentenceBreakSp
 DECL|enumerator|SentenceBreakUpper
 DECL|enumerator|SentenceBreak_Unassigned
-DECL|enumerator|UD_BidiCategory
-DECL|enumerator|UD_Category
-DECL|enumerator|UD_CombiningClass
-DECL|enumerator|UD_Comment
-DECL|enumerator|UD_DecimalDigitValue
-DECL|enumerator|UD_Decomposition
-DECL|enumerator|UD_DigitValue
-DECL|enumerator|UD_LowerCase
-DECL|enumerator|UD_Mirrored
-DECL|enumerator|UD_Name
-DECL|enumerator|UD_NumericValue
-DECL|enumerator|UD_OldName
-DECL|enumerator|UD_TitleCase
-DECL|enumerator|UD_UpperCase
-DECL|enumerator|UD_Value
 DECL|enumerator|WordBreakALetter
 DECL|enumerator|WordBreakCR
 DECL|enumerator|WordBreakExtendNumLet
@@ -102,11 +87,9 @@ DECL|enum|GraphemeBreak
 DECL|enum|Joining
 DECL|enum|LineBreakClass
 DECL|enum|SentenceBreak
-DECL|enum|UniDataFields
 DECL|enum|WordBreak
-DECL|function|DecompositionBlock
-DECL|function|PropertyBlock
 DECL|function|UnicodeData
+DECL|function|UniqueBlock
 DECL|function|appendToSpecialCaseMap
 DECL|function|computeUniqueProperties
 DECL|function|createCasingInfo
@@ -127,7 +110,6 @@ DECL|function|initSentenceBreak
 DECL|function|initWordBreak
 DECL|function|main
 DECL|function|operator <
-DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|readArabicShaping
@@ -152,13 +134,11 @@ DECL|member|category
 DECL|member|codepoint
 DECL|member|combiningClass
 DECL|member|decomposition
-DECL|member|decompositionPositions
 DECL|member|decompositionType
 DECL|member|digitValue
 DECL|member|direction
 DECL|member|excludedComposition
 DECL|member|graphemeBreak
-DECL|member|index
 DECL|member|index
 DECL|member|joining
 DECL|member|ligature
@@ -169,7 +149,6 @@ DECL|member|mapped
 DECL|member|mirrorDiff
 DECL|member|mirroredChar
 DECL|member|p
-DECL|member|properties
 DECL|member|propertyIndex
 DECL|member|script
 DECL|member|sentenceBreak
@@ -180,14 +159,14 @@ DECL|member|u1
 DECL|member|u2
 DECL|member|upperCaseDiff
 DECL|member|upperCaseSpecial
+DECL|member|values
 DECL|member|version
 DECL|member|wordBreak
-DECL|struct|DecompositionBlock
 DECL|struct|Ligature
 DECL|struct|NormalizationCorrection
-DECL|struct|PropertyBlock
 DECL|struct|PropertyFlags
 DECL|struct|UnicodeData
+DECL|struct|UniqueBlock
 DECL|variable|SizeOfPropertiesStruct
 DECL|variable|age_map
 DECL|variable|categoryMap
