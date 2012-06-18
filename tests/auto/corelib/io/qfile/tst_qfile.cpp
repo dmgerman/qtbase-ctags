@@ -139,6 +139,9 @@ DECL|function|size
 DECL|function|sizeNoExist
 DECL|function|size_data
 DECL|function|standarderror
+DECL|function|streamCurrentPosition
+DECL|function|streamCurrentPosition
+DECL|function|streamExpectedSize
 DECL|function|tailFile
 DECL|function|text
 DECL|function|textFile
