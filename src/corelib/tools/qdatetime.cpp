@@ -63,6 +63,7 @@ DECL|function|fromString
 DECL|function|fromString
 DECL|function|fromString
 DECL|function|fromString
+DECL|function|fromStringImpl
 DECL|function|fromTime_t
 DECL|function|getAmPmText
 DECL|function|getDate
@@ -76,6 +77,7 @@ DECL|function|getUTC
 DECL|function|hasUnquotedAP
 DECL|function|hour
 DECL|function|isLeapYear
+DECL|function|isMidnight
 DECL|function|isNull
 DECL|function|isValid
 DECL|function|isValid
