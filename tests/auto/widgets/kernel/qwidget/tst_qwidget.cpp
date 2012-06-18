@@ -186,6 +186,7 @@ DECL|function|paintOnScreenPossible
 DECL|function|palettePropagation
 DECL|function|palettePropagation2
 DECL|function|persistentWinId
+DECL|function|popupEnterLeave
 DECL|function|qobject_castInDestroyedSlot
 DECL|function|qt_wince_is_platform
 DECL|function|qt_wince_is_platform
