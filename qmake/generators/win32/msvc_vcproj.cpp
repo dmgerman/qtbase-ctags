@@ -1,7 +1,6 @@
 DECL|function|VcprojGenerator
 DECL|function|collectSubDirs
 DECL|function|createProjectWriter
-DECL|function|findTemplate
 DECL|function|fixFilename
 DECL|function|getProjectUUID
 DECL|function|hasBuiltinCompiler
