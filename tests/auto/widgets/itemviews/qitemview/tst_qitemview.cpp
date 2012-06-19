@@ -41,6 +41,7 @@ DECL|function|visualRect_data
 DECL|function|walkIndex
 DECL|function|walkScreen
 DECL|function|~tst_QItemView
+DECL|macro|SPI_GETPLATFORMTYPE
 DECL|macro|random
 DECL|macro|srandom
 DECL|member|end

@@ -119,6 +119,7 @@ DECL|function|yyTest
 DECL|function|~RestoreLayoutDirectioner
 DECL|function|~RestoreLocaler
 DECL|function|~tst_QDateTimeEdit
+DECL|macro|SPI_GETPLATFORMTYPE
 DECL|macro|max
 DECL|macro|min
 DECL|member|old
