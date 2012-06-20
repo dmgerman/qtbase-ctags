@@ -21,13 +21,13 @@ DECL|function|desc
 DECL|function|detectArch
 DECL|function|displayConfig
 DECL|function|displayHelp
-DECL|function|escapeSeparators
 DECL|function|filesDiffer
 DECL|function|findFile
 DECL|function|findFileInPaths
 DECL|function|findProjects
 DECL|function|firstLicensePath
-DECL|function|fixSeparators
+DECL|function|formatPath
+DECL|function|formatPaths
 DECL|function|generateBuildKey
 DECL|function|generateCachefile
 DECL|function|generateConfigfiles

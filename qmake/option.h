@@ -53,6 +53,7 @@ DECL|macro|debug_msg
 DECL|member|after_user_vars
 DECL|member|application_argv0
 DECL|member|before_user_vars
+DECL|member|build_root
 DECL|member|c_ext
 DECL|member|cachefile
 DECL|member|cachefile_depth
@@ -74,11 +75,9 @@ DECL|member|h_ext
 DECL|member|h_moc_ext
 DECL|member|h_moc_mod
 DECL|member|host_mode
-DECL|member|js_ext
 DECL|member|lex_ext
 DECL|member|lex_mod
 DECL|member|libtool_ext
-DECL|member|mmp_ext
 DECL|member|obj_ext
 DECL|member|output
 DECL|member|output_dir
@@ -87,10 +86,8 @@ DECL|member|prf_ext
 DECL|member|private
 DECL|member|prl_ext
 DECL|member|pro_ext
-DECL|member|project_build_root
 DECL|member|project_dirs
 DECL|member|project_files
-DECL|member|project_root
 DECL|member|properties
 DECL|member|qmake_abslocation
 DECL|member|qmake_mode
@@ -99,6 +96,7 @@ DECL|member|qmakespec_commandline
 DECL|member|recursive
 DECL|member|res_ext
 DECL|member|shellPath
+DECL|member|source_root
 DECL|member|sysenv_mod
 DECL|member|target_mode
 DECL|member|target_mode_overridden
@@ -106,6 +104,8 @@ DECL|member|ui_ext
 DECL|member|user_template
 DECL|member|user_template_prefix
 DECL|member|warn_level
+DECL|member|xqmakespec
+DECL|member|xqmakespec_commandline
 DECL|member|yacc_ext
 DECL|member|yacc_mod
 DECL|struct|Option
