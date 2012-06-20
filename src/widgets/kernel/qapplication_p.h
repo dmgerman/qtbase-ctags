@@ -1,16 +1,13 @@
 DECL|macro|QAPPLICATION_P_H
 DECL|macro|QApplicationPrivateBase
-DECL|struct|QWSServerCleaner
 DECL|typedef|FontHash
 DECL|typedef|PaletteHash
 DECL|typedef|QByteArray
 DECL|typedef|QByteArray
 DECL|variable|QClipboard
-DECL|variable|QDirectPainter
 DECL|variable|QGestureManager
 DECL|variable|QGraphicsScene
 DECL|variable|QObject
 DECL|variable|QSocketNotifier
 DECL|variable|QTouchDevice
-DECL|variable|QWSManager
 DECL|variable|QWidget
