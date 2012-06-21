@@ -4,8 +4,8 @@ DECL|function|createBitmapCursor
 DECL|function|createFontCursor
 DECL|function|createNonStandardCursor
 DECL|function|cursorIdForShape
-DECL|function|getPosAndRoot
 DECL|function|pos
+DECL|function|queryPointer
 DECL|function|setPos
 DECL|function|~QXcbCursor
 DECL|typedef|PtrXcursorLibraryLoadCursor
