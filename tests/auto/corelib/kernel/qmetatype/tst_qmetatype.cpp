@@ -85,6 +85,8 @@ DECL|function|createCopy_data
 DECL|function|create_data
 DECL|function|defined
 DECL|function|flags
+DECL|function|flagsBinaryCompatibility5_0
+DECL|function|flagsBinaryCompatibility5_0_data
 DECL|function|flagsStaticLess
 DECL|function|flagsStaticLess_data
 DECL|function|flags_data
