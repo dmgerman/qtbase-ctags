@@ -16,4 +16,5 @@ DECL|function|qDBusPropertySet
 DECL|function|readAllProperties
 DECL|function|writeProperty
 DECL|variable|introspectableInterfaceXml
+DECL|variable|peerInterfaceXml
 DECL|variable|propertiesInterfaceXml
