@@ -10,7 +10,6 @@ DECL|function|addDefine
 DECL|function|appendMakeItem
 DECL|function|applySpecSpecifics
 DECL|function|autoDetection
-DECL|function|buildHostTools
 DECL|function|buildQmake
 DECL|function|checkAvailability
 DECL|function|copySpec
