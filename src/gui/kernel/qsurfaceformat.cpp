@@ -18,6 +18,7 @@ DECL|function|operator =
 DECL|function|operator ==
 DECL|function|profile
 DECL|function|redBufferSize
+DECL|function|renderableType
 DECL|function|samples
 DECL|function|setAlphaBufferSize
 DECL|function|setBlueBufferSize
@@ -28,6 +29,7 @@ DECL|function|setMinorVersion
 DECL|function|setOption
 DECL|function|setProfile
 DECL|function|setRedBufferSize
+DECL|function|setRenderableType
 DECL|function|setSamples
 DECL|function|setStencilBufferSize
 DECL|function|setStereo
@@ -49,5 +51,6 @@ DECL|member|opts
 DECL|member|profile
 DECL|member|redBufferSize
 DECL|member|ref
+DECL|member|renderableType
 DECL|member|stencilSize
 DECL|member|swapBehavior

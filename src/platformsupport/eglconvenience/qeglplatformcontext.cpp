@@ -1,4 +1,5 @@
 DECL|function|QEGLPlatformContext
+DECL|function|bindApi
 DECL|function|doneCurrent
 DECL|function|eglConfig
 DECL|function|eglContext
