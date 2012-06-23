@@ -26,7 +26,6 @@ DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
 DECL|function|queryKeyboardModifiers
 DECL|function|services
-DECL|function|setEventFilter
 DECL|function|styleHint
 DECL|function|themeNames
 DECL|function|~QWindowsIntegration

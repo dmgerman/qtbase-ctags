@@ -1,1 +1,2 @@
 DECL|macro|QBENCHMARKEVENT_P_H
+DECL|variable|QBenchmarkMeasurerBase

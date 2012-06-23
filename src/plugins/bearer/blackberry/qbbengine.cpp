@@ -8,13 +8,12 @@ DECL|function|createSessionBackend
 DECL|function|defaultConfiguration
 DECL|function|disconnectFromId
 DECL|function|doRequestUpdate
-DECL|function|filterEvent
-DECL|function|filterEvent
 DECL|function|getInterfaceFromId
 DECL|function|hasIdentifier
 DECL|function|idForName
 DECL|function|initialize
 DECL|function|interfaceType
+DECL|function|nativeEventFilter
 DECL|function|removeConfiguration
 DECL|function|requestUpdate
 DECL|function|requiresPolling

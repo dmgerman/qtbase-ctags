@@ -1,4 +1,5 @@
 DECL|macro|QABSTRACTEVENTDISPATCHER_H
 DECL|variable|QAbstractEventDispatcherPrivate
+DECL|variable|QAbstractNativeEventFilter
 DECL|variable|QSocketNotifier
 DECL|variable|QWinEventNotifier

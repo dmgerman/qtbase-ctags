@@ -1,0 +1,2 @@
+DECL|function|QAbstractNativeEventFilter
+DECL|function|~QAbstractNativeEventFilter

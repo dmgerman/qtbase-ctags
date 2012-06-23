@@ -25,11 +25,12 @@ DECL|function|event
 DECL|function|eventDispatcher
 DECL|function|exec
 DECL|function|exit
-DECL|function|filterEvent
+DECL|function|filterNativeEvent
 DECL|function|flush
 DECL|function|hasPendingEvents
 DECL|function|init
 DECL|function|initLocale
+DECL|function|installNativeEventFilter
 DECL|function|installTranslator
 DECL|function|isQuitLockEnabled
 DECL|function|isTranslatorInstalled
@@ -58,6 +59,7 @@ DECL|function|qt_startup_hook
 DECL|function|quit
 DECL|function|ref
 DECL|function|removeLibraryPath
+DECL|function|removeNativeEventFilter
 DECL|function|removePostedEvent
 DECL|function|removePostedEvents
 DECL|function|removeTranslator
@@ -70,7 +72,6 @@ DECL|function|setApplicationName
 DECL|function|setApplicationVersion
 DECL|function|setAttribute
 DECL|function|setEventDispatcher
-DECL|function|setEventFilter
 DECL|function|setLibraryPaths
 DECL|function|setOrganizationDomain
 DECL|function|setOrganizationName

@@ -11,4 +11,3 @@ DECL|function|nativeResourceForWindow
 DECL|function|nativeResourceFunctionForContext
 DECL|function|qPlatformScreenForWindow
 DECL|function|screenForWindow
-DECL|function|setEventFilter

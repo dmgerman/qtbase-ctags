@@ -1,0 +1,2 @@
+DECL|macro|QABSTRACTNATIVEEVENTFILTER_H
+DECL|variable|QAbstractNativeEventFilterPrivate

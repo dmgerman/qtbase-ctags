@@ -135,6 +135,7 @@ DECL|function|inputFocus_task257832
 DECL|function|invalidate
 DECL|function|isEnabledTo
 DECL|function|isHidden
+DECL|function|isMapNotify
 DECL|function|isOpaque
 DECL|function|isOpaque
 DECL|function|isVisibleTo
@@ -321,6 +322,7 @@ DECL|member|edit
 DECL|member|ellipse
 DECL|member|eventToSpy
 DECL|member|events
+DECL|member|gotExpectedGlobalEvent
 DECL|member|gotExpectedMapNotify
 DECL|member|gotPaintEvent
 DECL|member|invalidated

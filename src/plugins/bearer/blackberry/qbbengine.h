@@ -1,3 +1,4 @@
 DECL|macro|QBBENGINE_H
+DECL|variable|QBearerEngineImpl
 DECL|variable|QNetworkConfigurationPrivate
 DECL|variable|QNetworkSessionPrivate
