@@ -5,6 +5,7 @@ DECL|function|QGuiApplication
 DECL|function|QGuiApplication
 DECL|function|QGuiApplicationPrivate
 DECL|function|allWindows
+DECL|function|applicationDisplayName
 DECL|function|applyCursor
 DECL|function|applyCursor
 DECL|function|changeOverrideCursor
@@ -81,6 +82,7 @@ DECL|function|reportScreenOrientationChange
 DECL|function|restoreOverrideCursor
 DECL|function|screens
 DECL|function|sendQWindowEventToQPlatformWindow
+DECL|function|setApplicationDisplayName
 DECL|function|setDesktopSettingsAware
 DECL|function|setEventDispatcher
 DECL|function|setFont
@@ -102,6 +104,7 @@ DECL|function|~QGuiApplicationPrivate
 DECL|member|app_font
 DECL|member|app_pal
 DECL|member|buttons
+DECL|member|displayName
 DECL|member|focus_window
 DECL|member|generic_plugin_list
 DECL|member|m_fakeMouseSourcePointId

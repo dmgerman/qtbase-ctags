@@ -10,6 +10,7 @@ DECL|function|ShowCloseShowWindow
 DECL|function|abortQuitOnShow
 DECL|function|allWindows
 DECL|function|changeFocusWindow
+DECL|function|displayName
 DECL|function|doClose
 DECL|function|event
 DECL|function|event
