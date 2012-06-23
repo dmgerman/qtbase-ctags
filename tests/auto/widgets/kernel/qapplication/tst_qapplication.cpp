@@ -27,6 +27,7 @@ DECL|function|TouchEventPropagationTestWidget
 DECL|function|abortQuitOnShow
 DECL|function|alert
 DECL|function|allWidgets
+DECL|function|appName
 DECL|function|args
 DECL|function|args_data
 DECL|function|checkDeleteLater

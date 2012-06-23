@@ -1,5 +1,4 @@
 DECL|function|alert
-DECL|function|appName
 DECL|function|beep
 DECL|function|cleanupMultitouch_sys
 DECL|function|closePopup
@@ -27,7 +26,6 @@ DECL|function|ungrabKeyboardForPopup
 DECL|function|ungrabMouseForPopup
 DECL|function|wheelScrollLines
 DECL|variable|appFont
-DECL|variable|appName
 DECL|variable|autoGrabber
 DECL|variable|displayDC
 DECL|variable|openPopupCount
