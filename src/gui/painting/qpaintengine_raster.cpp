@@ -138,7 +138,6 @@ DECL|function|supportsTransformations
 DECL|function|systemStateChanged
 DECL|function|toAlignedRect_positive
 DECL|function|toNormalizedFillRect
-DECL|function|toRect_normalized
 DECL|function|transformChanged
 DECL|function|updateBrush
 DECL|function|updateMatrix
