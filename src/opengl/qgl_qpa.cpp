@@ -25,7 +25,6 @@ DECL|function|reset
 DECL|function|resizeEvent
 DECL|function|setColormap
 DECL|function|setContext
-DECL|function|setMouseTracking
 DECL|function|setupSharing
 DECL|function|swapBuffers
 DECL|function|toSurfaceFormat
