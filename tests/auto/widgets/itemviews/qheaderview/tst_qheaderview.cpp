@@ -129,6 +129,7 @@ DECL|function|task236450_hidden
 DECL|function|task236450_hidden_data
 DECL|function|task248050_hideRow
 DECL|function|testEvent
+DECL|function|testStreamWithHide
 DECL|function|testhorizontalOffset
 DECL|function|testverticalOffset
 DECL|function|tst_QHeaderView
