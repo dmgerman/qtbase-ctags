@@ -3,7 +3,6 @@ DECL|enumerator|Supported
 DECL|enumerator|Unknown
 DECL|enumerator|Unsupported
 DECL|enumerator|UnsupportedFT
-DECL|enumerator|UnsupportedXLFD
 DECL|enum|WritingSystemStatus
 DECL|function|Key
 DECL|function|Key
