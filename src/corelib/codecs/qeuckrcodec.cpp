@@ -1,14 +1,9 @@
-DECL|function|QFontKsc5601Codec
-DECL|function|_mibEnum
 DECL|function|_mibEnum
 DECL|function|_mibEnum
 DECL|function|_name
 DECL|function|_name
-DECL|function|_name
 DECL|function|convertFromUnicode
 DECL|function|convertFromUnicode
-DECL|function|convertFromUnicode
-DECL|function|convertToUnicode
 DECL|function|convertToUnicode
 DECL|function|convertToUnicode
 DECL|function|ksc2unicode
