@@ -7,6 +7,7 @@ DECL|function|dynamic_property_benchmark
 DECL|function|operator ()
 DECL|function|qproperty_benchmark
 DECL|function|qproperty_benchmark_data
+DECL|function|receiver_destroyed_benchmark
 DECL|function|signal_slot_benchmark
 DECL|function|signal_slot_benchmark_data
 DECL|struct|Functor
