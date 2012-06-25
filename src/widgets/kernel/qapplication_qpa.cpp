@@ -5,6 +5,7 @@ DECL|function|cleanupMultitouch_sys
 DECL|function|closePopup
 DECL|function|createEventDispatcher
 DECL|function|grabForPopup
+DECL|function|handleAutomaticMouseGrab
 DECL|function|initializeMultitouch_sys
 DECL|function|initializeWidgetFontHash
 DECL|function|initializeWidgetPaletteHash
@@ -27,6 +28,7 @@ DECL|function|ungrabMouseForPopup
 DECL|function|wheelScrollLines
 DECL|variable|appFont
 DECL|variable|appName
+DECL|variable|autoGrabber
 DECL|variable|displayDC
 DECL|variable|openPopupCount
 DECL|variable|popupGrabOk
