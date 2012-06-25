@@ -6,6 +6,7 @@ DECL|function|boundingRectWithLongLineAndNoWrap
 DECL|function|breakAny
 DECL|function|capitalization_allLowerCase
 DECL|function|capitalization_allUpperCase
+DECL|function|capitalization_allUpperCase_newline
 DECL|function|capitalization_capitalize
 DECL|function|capitalization_smallCaps
 DECL|function|charStopForSurrogatePairs
