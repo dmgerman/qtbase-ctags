@@ -5,6 +5,7 @@ DECL|function|QWindowsGeometryHint
 DECL|function|QWindowsWindow
 DECL|function|RECTfromQRect
 DECL|function|WindowCreationData
+DECL|function|addRectToWinRegion
 DECL|function|alertWindow
 DECL|function|applyCursor
 DECL|function|applyToMinMaxInfo
@@ -16,6 +17,7 @@ DECL|function|clientSize
 DECL|function|cornerToWinOrientation
 DECL|function|create
 DECL|function|create
+DECL|function|createRectRegion
 DECL|function|debugWinExStyle
 DECL|function|debugWinStyle
 DECL|function|debugWindowFlags
@@ -48,6 +50,7 @@ DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|positionIncludesFrame
 DECL|function|propagateSizeHints
+DECL|function|qRegionToWinRegion
 DECL|function|qSizeOfRect
 DECL|function|qrectFromRECT
 DECL|function|raise
@@ -60,6 +63,7 @@ DECL|function|setExStyle
 DECL|function|setGeometry
 DECL|function|setGeometry_sys
 DECL|function|setKeyboardGrabEnabled
+DECL|function|setMask
 DECL|function|setMouseGrabEnabled
 DECL|function|setMouseGrabEnabled_sys
 DECL|function|setOpacity

@@ -49,11 +49,14 @@ DECL|function|lower
 DECL|function|netWmStates
 DECL|function|positionIncludesFrame
 DECL|function|propagateSizeHints
+DECL|function|qRectToX11Rectangle
+DECL|function|qRegionToX11Region
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|setCursor
 DECL|function|setGeometry
 DECL|function|setKeyboardGrabEnabled
+DECL|function|setMask
 DECL|function|setMotifWindowFlags
 DECL|function|setMotifWmHints
 DECL|function|setMouseGrabEnabled

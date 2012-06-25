@@ -14,6 +14,7 @@ DECL|function|requestWindowOrientation
 DECL|function|screen
 DECL|function|setGeometry
 DECL|function|setKeyboardGrabEnabled
+DECL|function|setMask
 DECL|function|setMouseGrabEnabled
 DECL|function|setOpacity
 DECL|function|setParent
