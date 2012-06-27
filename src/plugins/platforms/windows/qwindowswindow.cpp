@@ -61,6 +61,7 @@ DECL|function|requestActivateWindow
 DECL|function|setCursor
 DECL|function|setEnabled
 DECL|function|setExStyle
+DECL|function|setFrameStrutEventsEnabled
 DECL|function|setGeometry
 DECL|function|setGeometry_sys
 DECL|function|setKeyboardGrabEnabled

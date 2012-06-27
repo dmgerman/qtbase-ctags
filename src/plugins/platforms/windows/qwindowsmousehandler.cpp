@@ -1,5 +1,6 @@
 DECL|function|QWindowsMouseHandler
 DECL|function|compressMouseMove
+DECL|function|queryMouseButtons
 DECL|function|translateMouseEvent
 DECL|function|translateMouseWheelEvent
 DECL|function|translateTouchEvent

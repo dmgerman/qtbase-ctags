@@ -2,6 +2,7 @@ DECL|class|QPlatformWindowPrivate
 DECL|function|QPlatformWindow
 DECL|function|format
 DECL|function|frameMargins
+DECL|function|frameStrutEventsEnabled
 DECL|function|geometry
 DECL|function|handleContentOrientationChange
 DECL|function|isActive
@@ -13,6 +14,7 @@ DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|requestWindowOrientation
 DECL|function|screen
+DECL|function|setFrameStrutEventsEnabled
 DECL|function|setGeometry
 DECL|function|setKeyboardGrabEnabled
 DECL|function|setMask

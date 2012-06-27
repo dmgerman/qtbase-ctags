@@ -9,6 +9,7 @@ DECL|function|handleExposeEvent
 DECL|function|handleKeyEvent
 DECL|function|handleMouseEvent
 DECL|function|handleMoveEvent
+DECL|function|handleNonClientAreaMouseEvent
 DECL|function|handleResizeEvent
 DECL|function|handleTabletEvent
 DECL|function|handleTouchEvent
