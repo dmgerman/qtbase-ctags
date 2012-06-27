@@ -19,6 +19,7 @@ DECL|function|setParent
 DECL|function|setPlatformOpenGLContext
 DECL|function|setScreen
 DECL|function|setVisible
+DECL|function|setWindowState
 DECL|function|updateVisibility
 DECL|function|updateZorder
 DECL|function|~QQnxWindow
