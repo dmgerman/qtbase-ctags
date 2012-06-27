@@ -88,6 +88,7 @@ DECL|function|hasEditFocus
 DECL|function|hasFocus
 DECL|function|hasHeightForWidth
 DECL|function|heightForWidth
+DECL|function|hide
 DECL|function|hideChildren
 DECL|function|hideEvent
 DECL|function|hide_helper
@@ -216,6 +217,7 @@ DECL|function|setFont
 DECL|function|setForegroundRole
 DECL|function|setGeometry
 DECL|function|setGraphicsEffect
+DECL|function|setHidden
 DECL|function|setInputMethodHints
 DECL|function|setLayout
 DECL|function|setLayoutDirection
@@ -269,6 +271,7 @@ DECL|function|setWindowRole
 DECL|function|setWindowTitle
 DECL|function|setWindowTitle_helper
 DECL|function|sharedPainter
+DECL|function|show
 DECL|function|showChildren
 DECL|function|showEvent
 DECL|function|showFullScreen
