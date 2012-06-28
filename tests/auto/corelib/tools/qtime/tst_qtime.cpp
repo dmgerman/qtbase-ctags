@@ -15,11 +15,11 @@ DECL|function|isValid
 DECL|function|msecsTo
 DECL|function|msecsTo_data
 DECL|function|operator_eq_eq
+DECL|function|operator_eq_eq_data
 DECL|function|operator_gt
 DECL|function|operator_gt_eq
 DECL|function|operator_lt
 DECL|function|operator_lt_eq
-DECL|function|operator_not_eq
 DECL|function|secsTo
 DECL|function|secsTo_data
 DECL|function|setHMS

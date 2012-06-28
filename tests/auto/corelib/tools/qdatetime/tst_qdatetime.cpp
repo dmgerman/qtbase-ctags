@@ -38,6 +38,7 @@ DECL|function|msecsTo
 DECL|function|msecsTo_data
 DECL|function|operator_eq
 DECL|function|operator_eqeq
+DECL|function|operator_eqeq_data
 DECL|function|printNegativeYear
 DECL|function|roundtripGermanLocale
 DECL|function|secsTo
