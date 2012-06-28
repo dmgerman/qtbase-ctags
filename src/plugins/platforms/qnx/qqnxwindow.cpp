@@ -10,6 +10,7 @@ DECL|function|raise
 DECL|function|removeFromParent
 DECL|function|renderBuffer
 DECL|function|requestActivateWindow
+DECL|function|requestedBufferSize
 DECL|function|scroll
 DECL|function|setBufferSize
 DECL|function|setGeometry

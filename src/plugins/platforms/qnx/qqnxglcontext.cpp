@@ -8,6 +8,7 @@ DECL|function|getProcAddress
 DECL|function|initialize
 DECL|function|isCurrent
 DECL|function|makeCurrent
+DECL|function|requestSurfaceChange
 DECL|function|shutdown
 DECL|function|swapBuffers
 DECL|function|~QQnxGLContext
