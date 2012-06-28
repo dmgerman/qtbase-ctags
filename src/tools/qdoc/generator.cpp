@@ -59,6 +59,7 @@ DECL|function|terminateGenerator
 DECL|function|trimmedTrailing
 DECL|function|typeString
 DECL|function|unknownAtom
+DECL|function|writeOutFileNames
 DECL|function|~Generator
 DECL|macro|SKIP_CHAR
 DECL|macro|SKIP_CHAR
@@ -82,3 +83,4 @@ DECL|member|scriptFiles
 DECL|member|sinceTitles
 DECL|member|styleDirs
 DECL|member|styleFiles
+DECL|variable|outFileNames
