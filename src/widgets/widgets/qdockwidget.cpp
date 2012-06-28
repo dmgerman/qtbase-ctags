@@ -21,6 +21,7 @@ DECL|function|init
 DECL|function|initDrag
 DECL|function|initStyleOption
 DECL|function|isAnimating
+DECL|function|isXcb
 DECL|function|itemAt
 DECL|function|itemForRole
 DECL|function|leaveEvent
