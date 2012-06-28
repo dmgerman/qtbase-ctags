@@ -3,6 +3,7 @@ DECL|function|QEventDispatcherBlackberry
 DECL|function|QEventDispatcherBlackberryPrivate
 DECL|function|bpsIOHandler
 DECL|function|bpsIOHandlerData
+DECL|function|ioEvents
 DECL|function|registerSocketNotifier
 DECL|function|select
 DECL|function|unregisterSocketNotifier
