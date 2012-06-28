@@ -29,6 +29,7 @@ DECL|function|setIconSize_data
 DECL|function|setUsesScrollButtons
 DECL|function|setUsesScrollButtons_data
 DECL|function|sizeHints
+DECL|function|tabBarClicked
 DECL|function|tabButton
 DECL|function|tabButton_data
 DECL|function|task251184_removeTab

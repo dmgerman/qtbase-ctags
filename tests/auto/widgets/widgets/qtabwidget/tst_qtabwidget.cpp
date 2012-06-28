@@ -24,6 +24,7 @@ DECL|function|paintEvent
 DECL|function|paintEventCount
 DECL|function|removePage
 DECL|function|removeTab
+DECL|function|tabBarClicked
 DECL|function|tabEnabled
 DECL|function|tabIcon
 DECL|function|tabInserted
