@@ -9,7 +9,6 @@ DECL|function|findLibraries
 DECL|function|fixTargetExt
 DECL|function|getLibTarget
 DECL|function|init
-DECL|function|isWindowsShell
 DECL|function|processPrlVariable
 DECL|function|writeBuildRulesPart
 DECL|function|writeIncPart

@@ -1,11 +1,9 @@
 DECL|class|QMakeCacheClearItem
 DECL|function|QMakeCacheClearItem
-DECL|function|applyHostMode
 DECL|function|cleanSpec
 DECL|function|debug_msg_internal
 DECL|function|default_mode
 DECL|function|detectProjectFile
-DECL|function|detectShellPath
 DECL|function|fixString
 DECL|function|init
 DECL|function|parseCommandLine
@@ -27,7 +25,6 @@ DECL|member|cachefile
 DECL|member|cachefile_depth
 DECL|member|cpp_ext
 DECL|member|cpp_moc_ext
-DECL|member|cpp_moc_mod
 DECL|member|data
 DECL|member|debug_level
 DECL|member|dir_sep
@@ -42,9 +39,7 @@ DECL|member|do_stub_makefile
 DECL|member|field_sep
 DECL|member|func
 DECL|member|h_ext
-DECL|member|h_moc_ext
 DECL|member|h_moc_mod
-DECL|member|host_mode
 DECL|member|lex_ext
 DECL|member|lex_mod
 DECL|member|libtool_ext
@@ -64,11 +59,7 @@ DECL|member|qmakespec
 DECL|member|qmakespec_commandline
 DECL|member|recursive
 DECL|member|res_ext
-DECL|member|shellPath
 DECL|member|source_root
-DECL|member|sysenv_mod
-DECL|member|target_mode
-DECL|member|target_mode_overridden
 DECL|member|ui_ext
 DECL|member|user_template
 DECL|member|user_template_prefix
