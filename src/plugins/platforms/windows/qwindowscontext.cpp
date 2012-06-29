@@ -34,6 +34,7 @@ DECL|function|setKeyGrabber
 DECL|function|setWindowCreationContext
 DECL|function|systemInfo
 DECL|function|unregisterWindowClasses
+DECL|function|useRTLExtensions
 DECL|function|useRTL_Extensions
 DECL|function|windowUnderMouse
 DECL|function|windowsErrorMessage
