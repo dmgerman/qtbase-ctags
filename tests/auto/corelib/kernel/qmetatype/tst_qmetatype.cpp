@@ -11,6 +11,7 @@ DECL|class|MyObject
 DECL|class|P
 DECL|class|tst_QMetaType
 DECL|enumerator|IsInitialized
+DECL|enumerator|Value
 DECL|enumerator|isStreamable
 DECL|enum|A
 DECL|enum|FlagsDataEnum
@@ -25,6 +26,7 @@ DECL|function|CustomQObject
 DECL|function|MetaTypeTorturer
 DECL|function|MyObject
 DECL|function|automaticTemplateRegistration
+DECL|function|constexprMetaTypeIds
 DECL|function|construct
 DECL|function|constructCopy
 DECL|function|constructCopy_data
@@ -152,6 +154,8 @@ DECL|macro|FOR_EACH_CORE_METATYPE
 DECL|macro|FOR_EACH_PRIMITIVE_METATYPE
 DECL|macro|FOR_EACH_STATIC_PRIMITIVE_TYPE
 DECL|macro|FOR_EACH_STATIC_PRIMITIVE_TYPE2
+DECL|macro|METATYPE_ID_FUNCTION
+DECL|macro|METATYPE_ID_STRUCT
 DECL|macro|PRINT_1ARG_TEMPLATE
 DECL|macro|PRINT_2ARG_TEMPLATE
 DECL|macro|PRINT_2ARG_TEMPLATE_INTERNAL
@@ -193,6 +197,8 @@ DECL|struct|DefaultValueTraits
 DECL|struct|Foo
 DECL|struct|Foo
 DECL|struct|MetaEnumToType
+DECL|struct|MetaTypeIdStruct
+DECL|struct|MetaTypeIdStructDefaultTemplateValue
 DECL|struct|SecondBase
 DECL|struct|StreamingTraits
 DECL|struct|TestValueFactory
