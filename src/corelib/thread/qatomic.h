@@ -1,3 +1,4 @@
 DECL|function|qAtomicAssign
 DECL|function|qAtomicDetach
 DECL|macro|QATOMIC_H
+DECL|macro|QT_BASIC_ATOMIC_HAS_CONSTRUCTORS
