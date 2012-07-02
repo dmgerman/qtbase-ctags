@@ -68,6 +68,7 @@ DECL|member|isSlot
 DECL|member|isStatic
 DECL|member|isVirtual
 DECL|member|isVolatile
+DECL|member|member
 DECL|member|metaData
 DECL|member|methodList
 DECL|member|name

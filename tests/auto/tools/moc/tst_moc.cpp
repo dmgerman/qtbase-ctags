@@ -80,6 +80,7 @@ DECL|function|autoSignalSpyMetaTypeRegistration
 DECL|function|bar
 DECL|function|baz
 DECL|function|blackslashNewlines
+DECL|function|blub
 DECL|function|blub1
 DECL|function|blub2
 DECL|function|bu1
@@ -145,6 +146,9 @@ DECL|function|listIntSlot
 DECL|function|listObject
 DECL|function|longDoubleProperty
 DECL|function|longIntProperty
+DECL|function|member2
+DECL|function|memberProperties
+DECL|function|memberProperties_data
 DECL|function|method1
 DECL|function|method1
 DECL|function|method2
@@ -191,7 +195,9 @@ DECL|function|sendValue
 DECL|function|sendValue
 DECL|function|setBar
 DECL|function|setBaz
+DECL|function|setBlub
 DECL|function|setFoo
+DECL|function|setMember3
 DECL|function|setPlop
 DECL|function|setPoints
 DECL|function|setValue
@@ -292,6 +298,8 @@ DECL|member|doNotConfuseMoc
 DECL|member|intCallCount
 DECL|member|mBar
 DECL|member|mBaz
+DECL|member|mBlub
+DECL|member|mConst
 DECL|member|mFoo
 DECL|member|mPlop
 DECL|member|m_points
@@ -300,7 +308,10 @@ DECL|member|m_value
 DECL|member|m_value2
 DECL|member|p1
 DECL|member|p2
+DECL|member|pPPTest
 DECL|member|qtIncludePath
+DECL|member|sConst
+DECL|member|sMember
 DECL|member|stringCallCount
 DECL|member|testPassed
 DECL|namespace|Int
