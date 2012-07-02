@@ -1,3 +1,4 @@
-DECL|macro|QGRAPHICSSYSTEM_LINUXFB_H
+DECL|macro|QLINUXFBINTEGRATION_H
 DECL|variable|QAbstractEventDispatcher
 DECL|variable|QLinuxFbIntegrationPrivate
+DECL|variable|QLinuxFbScreen
