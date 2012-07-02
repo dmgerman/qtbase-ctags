@@ -55,6 +55,8 @@ DECL|function|customLocalErrorStateInParentOfBrokenState
 DECL|function|customLocalErrorStateOverridesParent
 DECL|function|defaultErrorState
 DECL|function|defaultGlobalRestorePolicy
+DECL|function|deletePropertyAssignmentObjectBeforeEntry
+DECL|function|deletePropertyAssignmentObjectBeforeRestore
 DECL|function|emitSignalWithDefaultArg
 DECL|function|emitSignalWithIntArg
 DECL|function|emitSignalWithNoArg

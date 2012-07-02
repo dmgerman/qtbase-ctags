@@ -77,6 +77,7 @@ DECL|function|postExternalEvent
 DECL|function|postInternalEvent
 DECL|function|processEvents
 DECL|function|properAncestors
+DECL|function|qHash
 DECL|function|qcoreStateMachineHandler
 DECL|function|qt_metacall
 DECL|function|qt_metacast
