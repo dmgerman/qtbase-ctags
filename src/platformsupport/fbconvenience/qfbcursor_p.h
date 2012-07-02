@@ -1,0 +1,1 @@
+DECL|macro|QFBCURSOR_P_H
