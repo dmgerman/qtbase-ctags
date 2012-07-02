@@ -16,6 +16,7 @@ DECL|function|clear
 DECL|function|clearUndoRedoStacks
 DECL|function|clone
 DECL|function|codecForHtml
+DECL|function|colorValue
 DECL|function|convertFromPlainText
 DECL|function|createObject
 DECL|function|defaultCursorMoveStyle
