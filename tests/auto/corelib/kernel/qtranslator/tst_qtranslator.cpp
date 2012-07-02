@@ -1,5 +1,6 @@
 DECL|class|TranslatorThread
 DECL|class|tst_QTranslator
+DECL|function|dependencies
 DECL|function|eventFilter
 DECL|function|initTestCase
 DECL|function|load

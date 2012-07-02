@@ -1,5 +1,6 @@
 DECL|class|QTranslatorPrivate
 DECL|enumerator|Contexts
+DECL|enumerator|Dependencies
 DECL|enumerator|Hashes
 DECL|enumerator|Messages
 DECL|enumerator|NumerusRules
@@ -47,6 +48,7 @@ DECL|member|numerusRulesArray
 DECL|member|numerusRulesLength
 DECL|member|offsetArray
 DECL|member|offsetLength
+DECL|member|subTranslators
 DECL|member|unmapLength
 DECL|member|unmapPointer
 DECL|variable|MagicLength
