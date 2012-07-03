@@ -1,2 +1,2 @@
-DECL|macro|QGENERICPLUGIN_QPA_H
+DECL|macro|QGENERICPLUGIN_H
 DECL|macro|QGenericPluginFactoryInterface_iid
