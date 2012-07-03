@@ -24,6 +24,7 @@ DECL|function|handle
 DECL|function|insert
 DECL|function|isValid
 DECL|function|makeCurrent
+DECL|function|maxTextureSize
 DECL|function|qGLContextHandle
 DECL|function|removeContext
 DECL|function|resources
