@@ -7,6 +7,7 @@ DECL|function|qobject_cast
 DECL|function|qobject_interface_iid
 DECL|macro|QOBJECT_H
 DECL|macro|Q_DECLARE_INTERFACE
+DECL|macro|Q_SET_OBJECT_NAME
 DECL|typedef|QObjectList
 DECL|variable|QChildEvent
 DECL|variable|QEvent
