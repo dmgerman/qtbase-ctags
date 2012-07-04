@@ -143,6 +143,8 @@ DECL|function|transitionEntersParent
 DECL|function|transitionFromRootState
 DECL|function|transitionToRootState
 DECL|function|transitionToStateNotInGraph
+DECL|function|transitionWithNoTarget
+DECL|function|transitionWithNoTarget_data
 DECL|function|transitionWithParent
 DECL|function|transitionsFromParallelStateWithNoChildren
 DECL|function|twoAnimatedTransitions
