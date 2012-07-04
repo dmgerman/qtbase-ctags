@@ -92,6 +92,7 @@ DECL|function|removeState
 DECL|function|restorableValue
 DECL|function|restorablesToPropertyList
 DECL|function|rootState
+DECL|function|selectAnimations
 DECL|function|selectTransitions
 DECL|function|setAnimated
 DECL|function|setError
