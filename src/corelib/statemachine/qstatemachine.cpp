@@ -26,6 +26,8 @@ DECL|function|cancelDelayedEvent
 DECL|function|clearError
 DECL|function|clearHistory
 DECL|function|cloneEvent
+DECL|function|computeStatesToEnter
+DECL|function|computeStatesToExit
 DECL|function|configuration
 DECL|function|defaultAnimations
 DECL|function|dequeueExternalEvent
