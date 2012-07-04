@@ -1,5 +1,6 @@
 DECL|function|QPropertyAssignment
 DECL|function|QPropertyAssignment
+DECL|function|hasTarget
 DECL|function|objectDeleted
 DECL|function|write
 DECL|macro|QSTATE_P_H
