@@ -122,6 +122,7 @@ DECL|function|rootState
 DECL|function|run
 DECL|function|senderReceived
 DECL|function|setDelay
+DECL|function|setPropertyAfterRestore
 DECL|function|setString
 DECL|function|signalIndexReceived
 DECL|function|signalTransitions
