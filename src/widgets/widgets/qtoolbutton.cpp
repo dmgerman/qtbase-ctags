@@ -3,7 +3,6 @@ DECL|enumerator|MenuButtonPressed
 DECL|enumerator|NoButtonPressed
 DECL|enumerator|ToolButtonPressed
 DECL|function|QToolButton
-DECL|function|QToolButton
 DECL|function|_q_actionTriggered
 DECL|function|_q_buttonPressed
 DECL|function|_q_menuTriggered
