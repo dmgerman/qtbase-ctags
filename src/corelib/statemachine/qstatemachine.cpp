@@ -18,7 +18,6 @@ DECL|function|_q_startDelayedEventTimer
 DECL|function|addDefaultAnimation
 DECL|function|addState
 DECL|function|addStatesToEnter
-DECL|function|applyProperties
 DECL|function|beginMicrostep
 DECL|function|beginSelectTransitions
 DECL|function|cancelAllDelayedEvents
@@ -26,6 +25,8 @@ DECL|function|cancelDelayedEvent
 DECL|function|clearError
 DECL|function|clearHistory
 DECL|function|cloneEvent
+DECL|function|computePendingRestorables
+DECL|function|computePropertyAssignments
 DECL|function|computeStatesToEnter
 DECL|function|computeStatesToExit
 DECL|function|configuration
@@ -54,6 +55,7 @@ DECL|function|handleTransitionSignal
 DECL|function|hasRestorable
 DECL|function|indexOfDescendant
 DECL|function|initializeAnimation
+DECL|function|initializeAnimations
 DECL|function|isAnimated
 DECL|function|isAtomic
 DECL|function|isCompound
@@ -91,9 +93,9 @@ DECL|function|registerTransitions
 DECL|function|removeDefaultAnimation
 DECL|function|removeStartState
 DECL|function|removeState
-DECL|function|restorableValue
 DECL|function|restorablesToPropertyList
 DECL|function|rootState
+DECL|function|savedValueForRestorable
 DECL|function|selectAnimations
 DECL|function|selectTransitions
 DECL|function|setAnimated
@@ -104,13 +106,14 @@ DECL|function|startState
 DECL|function|stateEntryLessThan
 DECL|function|stateExitLessThan
 DECL|function|stop
+DECL|function|terminateActiveAnimations
 DECL|function|toFinalState
 DECL|function|toHistoryState
 DECL|function|toStandardState
 DECL|function|toStandardState
 DECL|function|unregisterAllTransitions
 DECL|function|unregisterEventTransition
-DECL|function|unregisterRestorable
+DECL|function|unregisterRestorables
 DECL|function|unregisterSignalTransition
 DECL|function|unregisterTransition
 DECL|function|~QStateMachine
