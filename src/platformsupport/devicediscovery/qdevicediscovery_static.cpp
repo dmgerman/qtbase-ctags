@@ -4,5 +4,8 @@ DECL|function|create
 DECL|function|scanConnectedDevices
 DECL|function|testBit
 DECL|function|~QDeviceDiscovery
+DECL|macro|ABS_CNT
+DECL|macro|KEY_CNT
 DECL|macro|LONG_BITS
 DECL|macro|LONG_FIELD_SIZE
+DECL|macro|REL_CNT

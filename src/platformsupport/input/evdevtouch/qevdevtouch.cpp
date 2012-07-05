@@ -13,9 +13,15 @@ DECL|function|run
 DECL|function|testBit
 DECL|function|~QEvdevTouchScreenHandler
 DECL|function|~QEvdevTouchScreenHandlerThread
+DECL|macro|ABS_CNT
+DECL|macro|ABS_MT_POSITION_X
+DECL|macro|ABS_MT_POSITION_Y
 DECL|macro|ABS_MT_SLOT
+DECL|macro|ABS_MT_TOUCH_MAJOR
+DECL|macro|ABS_MT_TRACKING_ID
 DECL|macro|LONG_BITS
 DECL|macro|NUM_LONGS
+DECL|macro|SYN_MT_REPORT
 DECL|member|flags
 DECL|member|hw_name
 DECL|member|hw_pressure_max
