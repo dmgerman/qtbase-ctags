@@ -1,14 +1,11 @@
-DECL|class|tst_QPoint
-DECL|enumerator|Double
-DECL|enumerator|Float
-DECL|enumerator|Int
-DECL|enum|PrimitiveType
+DECL|class|tst_QPointF
+DECL|function|division
+DECL|function|dot
 DECL|function|getSet
 DECL|function|getSet_data
 DECL|function|isNull
 DECL|function|manhattanLength
 DECL|function|manhattanLength_data
-DECL|function|multiplyTest
 DECL|function|operator_add
 DECL|function|operator_add_data
 DECL|function|operator_divide
@@ -25,3 +22,8 @@ DECL|function|rx
 DECL|function|ry
 DECL|function|stream
 DECL|function|stream_data
+DECL|function|toPoint
+DECL|function|toPoint_data
+DECL|function|tst_QPointF
+DECL|member|QREAL_MAX
+DECL|member|QREAL_MIN
