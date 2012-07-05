@@ -8,6 +8,7 @@ DECL|function|eglDisplayForWindow
 DECL|function|graphicsDeviceForWindow
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
+DECL|function|nativeResourceFunctionForContext
 DECL|function|qPlatformScreenForWindow
 DECL|function|screenForWindow
 DECL|function|setEventFilter
