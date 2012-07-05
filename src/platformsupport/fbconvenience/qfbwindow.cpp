@@ -1,5 +1,6 @@
 DECL|function|QFbWindow
 DECL|function|lower
+DECL|function|platformScreen
 DECL|function|raise
 DECL|function|repaint
 DECL|function|setGeometry
