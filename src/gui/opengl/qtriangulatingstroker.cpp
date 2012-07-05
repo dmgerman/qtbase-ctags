@@ -10,4 +10,5 @@ DECL|function|process
 DECL|function|qdashprocessor_cubicTo
 DECL|function|qdashprocessor_lineTo
 DECL|function|qdashprocessor_moveTo
+DECL|function|skipDuplicatePoints
 DECL|macro|CURVE_FLATNESS

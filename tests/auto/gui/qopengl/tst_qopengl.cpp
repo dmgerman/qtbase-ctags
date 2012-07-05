@@ -1,4 +1,5 @@
 DECL|class|tst_QOpenGL
+DECL|function|QTBUG15621_triangulatingStrokerDivZero
 DECL|function|SharedResource
 DECL|function|SharedResource
 DECL|function|SharedResourceTracker
