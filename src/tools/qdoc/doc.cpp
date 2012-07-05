@@ -8,6 +8,7 @@ DECL|enumerator|CMD_B
 DECL|enumerator|CMD_BADCODE
 DECL|enumerator|CMD_BASENAME
 DECL|enumerator|CMD_BOLD
+DECL|enumerator|CMD_BR
 DECL|enumerator|CMD_BRIEF
 DECL|enumerator|CMD_C
 DECL|enumerator|CMD_CAPTION
