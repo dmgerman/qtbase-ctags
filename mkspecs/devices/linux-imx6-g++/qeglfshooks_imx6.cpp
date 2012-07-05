@@ -1,0 +1,9 @@
+DECL|class|QEglFSImx6Hooks
+DECL|function|QEglFSImx6Hooks
+DECL|function|createNativeWindow
+DECL|function|destroyNativeWindow
+DECL|function|screenSize
+DECL|member|mNativeDisplay
+DECL|member|mScreenSize
+DECL|variable|eglFSImx6Hooks
+DECL|variable|platformHooks
