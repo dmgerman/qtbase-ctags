@@ -1,5 +1,6 @@
 DECL|function|QVariant
 DECL|function|QVariant
+DECL|function|Q_DECLARE_METATYPE
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
@@ -11,7 +12,6 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
-DECL|function|qdbus_cast
 DECL|function|qdbus_cast
 DECL|macro|QDBUSARGUMENT_H
 DECL|variable|Container
