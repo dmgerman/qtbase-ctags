@@ -1,0 +1,2 @@
+DECL|macro|QKEYSEQUENCEEDIT_H
+DECL|variable|QKeySequenceEditPrivate
