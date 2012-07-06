@@ -18,6 +18,8 @@ DECL|function|operator_subtract
 DECL|function|operator_subtract_data
 DECL|function|operator_unary_minus
 DECL|function|operator_unary_minus_data
+DECL|function|operator_unary_plus
+DECL|function|operator_unary_plus_data
 DECL|function|rx
 DECL|function|ry
 DECL|function|stream
