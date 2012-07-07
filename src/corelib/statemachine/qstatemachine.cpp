@@ -1,6 +1,5 @@
 DECL|class|GoToStateTransition
 DECL|class|InitialTransition
-DECL|class|StartState
 DECL|function|GoToStateTransition
 DECL|function|InitialTransition
 DECL|function|QSignalEventGenerator
@@ -8,7 +7,6 @@ DECL|function|QStateMachine
 DECL|function|QStateMachine
 DECL|function|QStateMachinePrivate
 DECL|function|SignalEvent
-DECL|function|StartState
 DECL|function|WrappedEvent
 DECL|function|_q_animationFinished
 DECL|function|_q_killDelayedEventTimer
@@ -70,8 +68,6 @@ DECL|function|isRunning
 DECL|function|metaObject
 DECL|function|microstep
 DECL|function|onEntry
-DECL|function|onEntry
-DECL|function|onExit
 DECL|function|onExit
 DECL|function|onTransition
 DECL|function|onTransition
@@ -91,7 +87,6 @@ DECL|function|registerRestorable
 DECL|function|registerSignalTransition
 DECL|function|registerTransitions
 DECL|function|removeDefaultAnimation
-DECL|function|removeStartState
 DECL|function|removeState
 DECL|function|restorablesToPropertyList
 DECL|function|rootState
@@ -102,7 +97,6 @@ DECL|function|setAnimated
 DECL|function|setError
 DECL|function|setGlobalRestorePolicy
 DECL|function|start
-DECL|function|startState
 DECL|function|stateEntryLessThan
 DECL|function|stateExitLessThan
 DECL|function|stop
