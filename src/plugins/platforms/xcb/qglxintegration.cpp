@@ -7,3 +7,4 @@ DECL|function|isValid
 DECL|function|makeCurrent
 DECL|function|swapBuffers
 DECL|function|~QGLXContext
+DECL|typedef|glXCreateContextAttribsARBProc
