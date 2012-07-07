@@ -1,7 +1,5 @@
 DECL|class|GoToStateTransition
-DECL|class|InitialTransition
 DECL|function|GoToStateTransition
-DECL|function|InitialTransition
 DECL|function|QSignalEventGenerator
 DECL|function|QStateMachine
 DECL|function|QStateMachine
@@ -28,6 +26,7 @@ DECL|function|computePropertyAssignments
 DECL|function|computeStatesToEnter
 DECL|function|computeStatesToExit
 DECL|function|configuration
+DECL|function|createInitialTransition
 DECL|function|defaultAnimations
 DECL|function|dequeueExternalEvent
 DECL|function|dequeueInternalEvent
@@ -38,7 +37,6 @@ DECL|function|error
 DECL|function|errorString
 DECL|function|event
 DECL|function|eventFilter
-DECL|function|eventTest
 DECL|function|eventTest
 DECL|function|execute
 DECL|function|executeTransitionContent
@@ -69,7 +67,6 @@ DECL|function|metaObject
 DECL|function|microstep
 DECL|function|onEntry
 DECL|function|onExit
-DECL|function|onTransition
 DECL|function|onTransition
 DECL|function|postDelayedEvent
 DECL|function|postEvent
