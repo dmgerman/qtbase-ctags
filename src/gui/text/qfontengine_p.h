@@ -6,4 +6,3 @@ DECL|typedef|glyph_t
 DECL|variable|QChar
 DECL|variable|QGlyph
 DECL|variable|QPainterPath
-DECL|variable|QTextEngine
