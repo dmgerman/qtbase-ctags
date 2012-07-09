@@ -4,6 +4,7 @@ DECL|class|ModelWithCustomRole
 DECL|class|OverrideRoleNamesAndDragActions
 DECL|class|QtTestModel
 DECL|class|SignalArgumentChecker
+DECL|class|SignalConnectionTester
 DECL|class|tst_QAbstractItemModel
 DECL|enumerator|Custom1
 DECL|enumerator|Custom2
@@ -16,6 +17,7 @@ DECL|function|OverrideRoleNamesAndDragActions
 DECL|function|QtTestModel
 DECL|function|QtTestModel
 DECL|function|SignalArgumentChecker
+DECL|function|SignalConnectionTester
 DECL|function|canDropMimeData
 DECL|function|canDropMimeData
 DECL|function|changePersistentIndex
@@ -68,6 +70,7 @@ DECL|function|supportedDragActions
 DECL|function|testChildrenLayoutsChanged
 DECL|function|testDataChanged
 DECL|function|testDragActions
+DECL|function|testFunctionPointerSignalConnection
 DECL|function|testMoveSameParentDown
 DECL|function|testMoveSameParentDown_data
 DECL|function|testMoveSameParentUp
@@ -84,6 +87,10 @@ DECL|function|testMoveWithinOwnRange
 DECL|function|testMoveWithinOwnRange_data
 DECL|function|testReset
 DECL|function|testRoleNames
+DECL|function|testSlot
+DECL|function|testSlotWithParam_1
+DECL|function|testSlotWithParam_2
+DECL|function|testSlotWithParam_3
 DECL|macro|STRINGTABLE
 DECL|macro|STRINGTABLE
 DECL|member|cCount
@@ -97,6 +104,7 @@ DECL|member|m_p2Persistent
 DECL|member|m_persistentIndexes
 DECL|member|rCount
 DECL|member|table
+DECL|member|testPassed
 DECL|member|wrongIndex
 DECL|typedef|Position
 DECL|typedef|Selection
