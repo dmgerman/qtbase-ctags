@@ -40,6 +40,7 @@ DECL|function|mouseEventCaps
 DECL|function|mouseEventVelocity
 DECL|function|notify
 DECL|function|notifyActiveWindowChange
+DECL|function|notifyDragStarted
 DECL|function|notifyLayoutDirectionChange
 DECL|function|notifyThemeChanged
 DECL|function|operator ==

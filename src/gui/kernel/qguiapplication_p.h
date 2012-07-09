@@ -1,4 +1,5 @@
 DECL|macro|QGUIAPPLICATION_P_H
+DECL|variable|QDrag
 DECL|variable|QPlatformDragQtResponse
 DECL|variable|QPlatformIntegration
 DECL|variable|QPlatformTheme
