@@ -34,6 +34,7 @@ DECL|function|data
 DECL|function|derefUniqueFont
 DECL|function|fallbacksForFamily
 DECL|function|familyName
+DECL|function|fontDefToLOGFONT
 DECL|function|fontDir
 DECL|function|fontEngine
 DECL|function|fontEngine
