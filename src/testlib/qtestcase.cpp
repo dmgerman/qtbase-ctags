@@ -56,7 +56,6 @@ DECL|function|~QTestDataSetter
 DECL|function|~TestFuncCleanup
 DECL|function|~TestFunction
 DECL|macro|TO_STRING_IMPL
-DECL|macro|verify
 DECL|member|currentTestObject
 DECL|member|data_
 DECL|member|eventDelay
