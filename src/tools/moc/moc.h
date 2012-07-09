@@ -60,6 +60,7 @@ DECL|member|isDefault
 DECL|member|isDestructor
 DECL|member|isEnumClass
 DECL|member|isInvokable
+DECL|member|isPrivateSignal
 DECL|member|isScoped
 DECL|member|isScriptable
 DECL|member|isSignal

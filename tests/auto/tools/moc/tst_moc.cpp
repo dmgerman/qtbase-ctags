@@ -1,3 +1,4 @@
+DECL|class|ClassWithPrivateSignals
 DECL|class|CtorTestClass
 DECL|class|EnumSourceClass
 DECL|class|EnumUserClass
@@ -15,6 +16,8 @@ DECL|class|QTBUG9354_constInName
 DECL|class|QTBUG_17635_InvokableAndProperty
 DECL|class|Receiver
 DECL|class|Sender
+DECL|class|SignalConnectionTester
+DECL|class|SubClassFromPrivateSignals
 DECL|class|TestClass
 DECL|class|TestClassinfoWithEscapes
 DECL|class|TestSuperClass
@@ -34,6 +37,7 @@ DECL|enum|TestEnum
 DECL|enum|TestEnum
 DECL|enum|TestEnum
 DECL|enum|TestEnum
+DECL|function|ClassWithPrivateSignals
 DECL|function|CtorTestClass
 DECL|function|CtorTestClass
 DECL|function|CtorTestClass
@@ -47,6 +51,8 @@ DECL|function|QTBUG17635_invokableAndProperty
 DECL|function|QTBUG5590_PropertyObject
 DECL|function|QTBUG5590_dummyProperty
 DECL|function|Receiver
+DECL|function|SignalConnectionTester
+DECL|function|SubClassFromPrivateSignals
 DECL|function|TestClass
 DECL|function|TestSuperClass
 DECL|function|arrayArguments
@@ -66,6 +72,8 @@ DECL|function|defineMacroViaCmdline
 DECL|function|doAnotherThing
 DECL|function|doSomething
 DECL|function|dontStripNamespaces
+DECL|function|emitPrivateSignals
+DECL|function|emitProtectedSignals
 DECL|function|escapesInStringLiterals
 DECL|function|expressionEvaluationShortcut1
 DECL|function|expressionEvaluationShortcut2
@@ -109,6 +117,7 @@ DECL|function|points
 DECL|function|ppExpressionEvaluation
 DECL|function|preprocessorConditionals
 DECL|function|privateClass
+DECL|function|privateSignalConnection
 DECL|function|qprivateproperties
 DECL|function|qprivateslots
 DECL|function|receive
@@ -174,8 +183,11 @@ DECL|function|templateGtGt
 DECL|function|testExtraData
 DECL|function|testExtraDataForEnum
 DECL|function|testSlot
+DECL|function|testSlot
 DECL|function|testSlot2
 DECL|function|testSlot3
+DECL|function|testSlotWith1Arg
+DECL|function|testSlotWith2Args
 DECL|function|trNoopInClassInfo
 DECL|function|tst_Moc
 DECL|function|typenameWithUnsigned
@@ -217,6 +229,7 @@ DECL|member|p1
 DECL|member|p2
 DECL|member|qtIncludePath
 DECL|member|stringCallCount
+DECL|member|testPassed
 DECL|namespace|Int
 DECL|namespace|MyNamespace
 DECL|namespace|String
