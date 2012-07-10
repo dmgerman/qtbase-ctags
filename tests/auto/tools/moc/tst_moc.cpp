@@ -75,6 +75,8 @@ DECL|function|dontStripNamespaces
 DECL|function|emitPrivateSignals
 DECL|function|emitProtectedSignals
 DECL|function|escapesInStringLiterals
+DECL|function|explicitOverrideControl
+DECL|function|explicitOverrideControl_data
 DECL|function|expressionEvaluationShortcut1
 DECL|function|expressionEvaluationShortcut2
 DECL|function|finalClasses
@@ -210,6 +212,8 @@ DECL|function|warnOnVirtualSignal
 DECL|function|warnings
 DECL|function|warnings_data
 DECL|function|winNewline
+DECL|macro|ADD
+DECL|macro|ADD
 DECL|macro|DONT_CONFUSE_MOC
 DECL|macro|DONT_CONFUSE_MOC_EVEN_MORE
 DECL|macro|MACRO_DEFINED
