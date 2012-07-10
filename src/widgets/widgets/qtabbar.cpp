@@ -9,6 +9,7 @@ DECL|function|at
 DECL|function|autoHide
 DECL|function|autoHideTabs
 DECL|function|calculateNewPosition
+DECL|function|changeCurrentOnDrag
 DECL|function|changeEvent
 DECL|function|computeElidedText
 DECL|function|count
@@ -30,6 +31,7 @@ DECL|function|insertTab
 DECL|function|isMovable
 DECL|function|isTabEnabled
 DECL|function|keyPressEvent
+DECL|function|killSwitchTabTimer
 DECL|function|layoutTab
 DECL|function|layoutTabs
 DECL|function|layoutWidgets
@@ -50,6 +52,7 @@ DECL|function|removeTab
 DECL|function|resizeEvent
 DECL|function|selectionBehaviorOnRemove
 DECL|function|setAutoHide
+DECL|function|setChangeCurrentOnDrag
 DECL|function|setCurrentIndex
 DECL|function|setCurrentNextEnabledIndex
 DECL|function|setDocumentMode
@@ -90,6 +93,7 @@ DECL|function|tabTextColor
 DECL|function|tabToolTip
 DECL|function|tabWhatsThis
 DECL|function|tabsClosable
+DECL|function|timerEvent
 DECL|function|updateCurrentValue
 DECL|function|updateMacBorderMetrics
 DECL|function|updateState
