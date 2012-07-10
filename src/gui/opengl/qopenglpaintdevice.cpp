@@ -8,6 +8,7 @@ DECL|function|context
 DECL|function|dotsPerMeterX
 DECL|function|dotsPerMeterY
 DECL|function|engine
+DECL|function|ensureActiveTarget
 DECL|function|metric
 DECL|function|paintEngine
 DECL|function|paintFlipped
