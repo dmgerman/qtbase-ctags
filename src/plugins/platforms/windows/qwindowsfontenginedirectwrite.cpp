@@ -36,6 +36,7 @@ DECL|function|recalcAdvances
 DECL|function|stringToCMap
 DECL|function|supportsSubPixelPositions
 DECL|function|type
+DECL|function|underlinePosition
 DECL|function|xHeight
 DECL|function|~QWindowsFontEngineDirectWrite
 DECL|macro|DESIGN_TO_LOGICAL
