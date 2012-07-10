@@ -43,5 +43,3 @@ DECL|member|r
 DECL|member|s
 DECL|struct|BigClass
 DECL|struct|SmallClass
-DECL|variable|BigClass
-DECL|variable|SmallClass
