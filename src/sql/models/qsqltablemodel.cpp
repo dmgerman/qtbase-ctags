@@ -25,6 +25,8 @@ DECL|function|orderByClause
 DECL|function|primaryKey
 DECL|function|primaryValues
 DECL|function|record
+DECL|function|record
+DECL|function|record
 DECL|function|removeColumns
 DECL|function|removeRows
 DECL|function|revert
