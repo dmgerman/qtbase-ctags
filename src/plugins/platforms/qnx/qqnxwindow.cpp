@@ -1,6 +1,6 @@
 DECL|function|QQnxWindow
 DECL|function|blitHelper
-DECL|function|copyBack
+DECL|function|blitPreviousToCurrent
 DECL|function|findWindow
 DECL|function|gainedFocus
 DECL|function|isExposed
