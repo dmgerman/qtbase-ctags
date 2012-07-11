@@ -3,6 +3,7 @@ DECL|function|QAbstractSocketEngine
 DECL|function|QAbstractSocketEngine
 DECL|function|QAbstractSocketEnginePrivate
 DECL|function|QSocketEngineHandler
+DECL|function|closeNotification
 DECL|function|connectionNotification
 DECL|function|createSocketEngine
 DECL|function|createSocketEngine

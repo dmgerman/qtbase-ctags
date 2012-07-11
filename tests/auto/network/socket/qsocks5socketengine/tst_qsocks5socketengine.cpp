@@ -4,6 +4,7 @@ DECL|class|tst_QSocks5SocketEngine
 DECL|function|MiniSocks5ResponseHandler
 DECL|function|MiniSocks5Server
 DECL|function|cleanup
+DECL|function|closeNotification
 DECL|function|connectionNotification
 DECL|function|construction
 DECL|function|downloadBigFile

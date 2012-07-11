@@ -3,6 +3,7 @@ DECL|function|QTcpServer
 DECL|function|QTcpServerPrivate
 DECL|function|addPendingConnection
 DECL|function|close
+DECL|function|closeNotification
 DECL|function|connectionNotification
 DECL|function|errorString
 DECL|function|exceptionNotification

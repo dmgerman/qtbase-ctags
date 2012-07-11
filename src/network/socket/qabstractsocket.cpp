@@ -12,6 +12,7 @@ DECL|function|bind
 DECL|function|bind
 DECL|function|bytesAvailable
 DECL|function|bytesToWrite
+DECL|function|canCloseNotification
 DECL|function|canReadLine
 DECL|function|canReadNotification
 DECL|function|canWriteNotification
