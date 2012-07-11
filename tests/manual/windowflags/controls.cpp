@@ -2,7 +2,9 @@ DECL|function|HintControl
 DECL|function|TypeControl
 DECL|function|WindowStateControl
 DECL|function|WindowStatesControl
+DECL|function|activeValue
 DECL|function|hints
+DECL|function|setActiveValue
 DECL|function|setHints
 DECL|function|setState
 DECL|function|setStates
