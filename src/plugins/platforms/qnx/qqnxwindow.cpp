@@ -1,4 +1,5 @@
 DECL|function|QQnxWindow
+DECL|function|adjustBufferSize
 DECL|function|blitHelper
 DECL|function|blitPreviousToCurrent
 DECL|function|findWindow
