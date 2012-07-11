@@ -1,4 +1,5 @@
 DECL|function|QQnxWindow
+DECL|function|blitHelper
 DECL|function|copyBack
 DECL|function|findWindow
 DECL|function|gainedFocus
