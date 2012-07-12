@@ -3,6 +3,7 @@ DECL|function|createPlatformMenu
 DECL|function|createPlatformMenuBar
 DECL|function|createPlatformMenuItem
 DECL|function|createPlatformSystemTrayIcon
+DECL|function|defaultThemeHint
 DECL|function|font
 DECL|function|palette
 DECL|function|themeHint
