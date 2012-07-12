@@ -7,4 +7,7 @@ DECL|function|isValid
 DECL|function|makeCurrent
 DECL|function|swapBuffers
 DECL|function|~QGLXContext
+DECL|macro|GLX_CONTEXT_COMPATIBILITY_PROFILE_BIT_ARB
+DECL|macro|GLX_CONTEXT_CORE_PROFILE_BIT_ARB
+DECL|macro|GLX_CONTEXT_PROFILE_MASK_ARB
 DECL|typedef|glXCreateContextAttribsARBProc
