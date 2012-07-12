@@ -11,6 +11,7 @@ DECL|function|fileFixify
 DECL|function|fileFixify
 DECL|function|fileInfo
 DECL|function|filePrefixRoot
+DECL|function|fileVarGlue
 DECL|function|filterIncludedFiles
 DECL|function|findDependencies
 DECL|function|findFileForDep
