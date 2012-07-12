@@ -251,5 +251,4 @@ DECL|variable|CustomStreamableClass
 DECL|variable|WontCompare
 DECL|variable|instanceCount
 DECL|variable|intMax1
-DECL|variable|qint8
 DECL|variable|uintMax1
