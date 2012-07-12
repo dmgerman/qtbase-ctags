@@ -8,6 +8,7 @@ DECL|class|IncrementReceiversTest
 DECL|class|PropertyObject
 DECL|class|SignalEmitter
 DECL|class|SignalEmitterThread
+DECL|class|SignalTransitionMutatorThread
 DECL|class|SlotCalledCounter
 DECL|class|StopInEventTestTransition
 DECL|class|StringEventPoster
@@ -30,6 +31,7 @@ DECL|function|EventTransition
 DECL|function|PropertyObject
 DECL|function|SignalEmitter
 DECL|function|SignalEmitterThread
+DECL|function|SignalTransitionMutatorThread
 DECL|function|SlotCalledCounter
 DECL|function|StringEvent
 DECL|function|StringEventPoster
@@ -147,11 +149,13 @@ DECL|function|restorePropertiesSelfTransition
 DECL|function|restorePropertiesSimple
 DECL|function|rootState
 DECL|function|run
+DECL|function|run
 DECL|function|setDelay
 DECL|function|setProp
 DECL|function|setPropertyAfterRestore
 DECL|function|setString
 DECL|function|signalTransitionNormalizeSignature
+DECL|function|signalTransitionRegistrationThreadSafety
 DECL|function|signalTransitionSenderInDifferentThread
 DECL|function|signalTransitions
 DECL|function|simpleAnimation
@@ -202,6 +206,7 @@ DECL|member|m_machine
 DECL|member|m_machine
 DECL|member|m_propValue
 DECL|member|m_propWriteCount
+DECL|member|m_transition
 DECL|member|m_transitionArgs
 DECL|member|m_transitionSender
 DECL|member|m_transitionSignalIndex
