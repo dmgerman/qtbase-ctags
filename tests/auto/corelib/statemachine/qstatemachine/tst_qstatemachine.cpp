@@ -7,6 +7,7 @@ DECL|class|EventTransition
 DECL|class|IncrementReceiversTest
 DECL|class|PropertyObject
 DECL|class|SignalEmitter
+DECL|class|SignalEmitterThread
 DECL|class|SlotCalledCounter
 DECL|class|StopInEventTestTransition
 DECL|class|StringEventPoster
@@ -28,6 +29,7 @@ DECL|function|EventTransition
 DECL|function|EventTransition
 DECL|function|PropertyObject
 DECL|function|SignalEmitter
+DECL|function|SignalEmitterThread
 DECL|function|SlotCalledCounter
 DECL|function|StringEvent
 DECL|function|StringEventPoster
@@ -69,6 +71,7 @@ DECL|function|emitSignalWithDefaultArg
 DECL|function|emitSignalWithIntArg
 DECL|function|emitSignalWithNoArg
 DECL|function|emitSignalWithStringArg
+DECL|function|emitSignals
 DECL|function|errorStateEntersParentFirst
 DECL|function|errorStateHasChildren
 DECL|function|errorStateHasErrors
@@ -149,6 +152,7 @@ DECL|function|setProp
 DECL|function|setPropertyAfterRestore
 DECL|function|setString
 DECL|function|signalTransitionNormalizeSignature
+DECL|function|signalTransitionSenderInDifferentThread
 DECL|function|signalTransitions
 DECL|function|simpleAnimation
 DECL|function|slot
