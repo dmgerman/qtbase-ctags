@@ -1,6 +1,7 @@
 DECL|class|tst_QTextTable
 DECL|function|QTBUG11282_insertBeforeMergedEnding
 DECL|function|QTBUG11282_insertBeforeMergedEnding_data
+DECL|function|QTBUG22011_insertBeforeRowSpan
 DECL|function|blocksForTableShouldHaveEmptyFormat
 DECL|function|cleanup
 DECL|function|create2x2Table
