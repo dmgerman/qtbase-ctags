@@ -25,6 +25,7 @@ DECL|function|CustomErrorState
 DECL|function|DelayedEventPosterThread
 DECL|function|EventPosterThread
 DECL|function|EventTransition
+DECL|function|EventTransition
 DECL|function|PropertyObject
 DECL|function|SignalEmitter
 DECL|function|SlotCalledCounter
@@ -94,6 +95,7 @@ DECL|function|historyStates
 DECL|function|initialStateIsEnteredBeforeStartedEmitted
 DECL|function|initialStateIsFinal
 DECL|function|machineWithParent
+DECL|function|multiTargetTransitionInsideParallelStateGroup
 DECL|function|nestedRestoreProperties
 DECL|function|nestedRestoreProperties2
 DECL|function|nestedStateMachines

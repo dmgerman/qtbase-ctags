@@ -11,6 +11,7 @@ DECL|function|_q_killDelayedEventTimer
 DECL|function|_q_process
 DECL|function|_q_start
 DECL|function|_q_startDelayedEventTimer
+DECL|function|addAncestorStatesToEnter
 DECL|function|addDefaultAnimation
 DECL|function|addState
 DECL|function|addStatesToEnter
