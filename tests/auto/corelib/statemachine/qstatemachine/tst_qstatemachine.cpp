@@ -51,6 +51,8 @@ DECL|function|changeStateWhileAnimatingProperty
 DECL|function|clearError
 DECL|function|clonedSignals
 DECL|function|connectNotify
+DECL|function|createEventTransitionWhenRunning
+DECL|function|createSignalTransitionWhenRunning
 DECL|function|customErrorStateIsNull
 DECL|function|customErrorStateNotInGraph
 DECL|function|customGlobalErrorState
