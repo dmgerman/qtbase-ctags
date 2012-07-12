@@ -64,6 +64,9 @@ DECL|function|isInternalEventQueueEmpty
 DECL|function|isParallel
 DECL|function|isPreempted
 DECL|function|isRunning
+DECL|function|maybeRegisterEventTransition
+DECL|function|maybeRegisterSignalTransition
+DECL|function|maybeRegisterTransition
 DECL|function|metaObject
 DECL|function|microstep
 DECL|function|onEntry
@@ -83,6 +86,7 @@ DECL|function|qt_static_metacall
 DECL|function|registerEventTransition
 DECL|function|registerRestorable
 DECL|function|registerSignalTransition
+DECL|function|registerTransition
 DECL|function|registerTransitions
 DECL|function|removeDefaultAnimation
 DECL|function|removeState
