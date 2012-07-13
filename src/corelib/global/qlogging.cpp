@@ -16,7 +16,6 @@ DECL|function|qInstallMessageHandler
 DECL|function|qInstallMsgHandler
 DECL|function|qMessageFormatString
 DECL|function|qSetMessagePattern
-DECL|function|qWinMessageHandler2
 DECL|function|qt_message
 DECL|function|qt_message_output
 DECL|function|setPattern
