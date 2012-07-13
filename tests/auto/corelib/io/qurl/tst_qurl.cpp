@@ -1,3 +1,4 @@
+DECL|class|UrlStorage
 DECL|class|tst_QUrl
 DECL|enumerator|Authority
 DECL|enumerator|Fragment
@@ -12,6 +13,7 @@ DECL|enumerator|Scheme
 DECL|enumerator|UserInfo
 DECL|enumerator|UserName
 DECL|enum|Component
+DECL|function|UrlStorage
 DECL|function|acceptEmptyAuthoritySegments
 DECL|function|assignment
 DECL|function|binaryData
@@ -47,6 +49,7 @@ DECL|function|correctDecodedMistakes
 DECL|function|correctDecodedMistakes_data
 DECL|function|correctEncodedMistakes
 DECL|function|correctEncodedMistakes_data
+DECL|function|detach
 DECL|function|effectiveTLDs
 DECL|function|effectiveTLDs_data
 DECL|function|emptyAuthorityRemovesExistingAuthority
@@ -105,6 +108,8 @@ DECL|function|stripTrailingSlash
 DECL|function|stripTrailingSlash_data
 DECL|function|swap
 DECL|function|symmetry
+DECL|function|testThreading
+DECL|function|testThreadingHelper
 DECL|function|tldRestrictions
 DECL|function|tldRestrictions_data
 DECL|function|toEncoded
@@ -122,3 +127,5 @@ DECL|function|tolerantParser
 DECL|function|unc
 DECL|macro|QT_DEPRECATED
 DECL|macro|QT_DISABLE_DEPRECATED_BEFORE
+DECL|member|m_urls
+DECL|variable|s_urlStorage
