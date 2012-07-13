@@ -9,4 +9,9 @@ DECL|function|spyWithPointers
 DECL|function|spyWithQtClasses
 DECL|function|spyWithQtTypedefs
 DECL|function|spyWithoutArgs
+DECL|function|wait_signalEmitted
+DECL|function|wait_signalEmittedLater
+DECL|function|wait_signalEmittedMultipleTimes
+DECL|function|wait_signalEmittedTooLate
+DECL|function|wait_timeout
 DECL|member|slotResult
