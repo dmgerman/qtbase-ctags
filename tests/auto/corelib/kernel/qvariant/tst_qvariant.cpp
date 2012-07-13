@@ -5,6 +5,7 @@ DECL|class|CustomQObjectDerivedNoMetaType
 DECL|class|CustomQWidget
 DECL|class|MessageHandler
 DECL|class|tst_QVariant
+DECL|function|CustomComparable
 DECL|function|CustomQObject
 DECL|function|CustomQObjectDerived
 DECL|function|CustomQObjectDerivedNoMetaType
@@ -77,6 +78,7 @@ DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator =
+DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==
@@ -211,6 +213,7 @@ DECL|member|i
 DECL|member|i
 DECL|member|movable
 DECL|member|myValue
+DECL|member|myValue
 DECL|member|number
 DECL|member|objectPointerTestData
 DECL|member|ok
@@ -233,6 +236,7 @@ DECL|member|y
 DECL|member|y
 DECL|member|z
 DECL|struct|Blah
+DECL|struct|CustomComparable
 DECL|struct|CustomStreamableClass
 DECL|struct|Data
 DECL|struct|Foo
