@@ -52,6 +52,7 @@ DECL|function|assignPropertyWithAnimation
 DECL|function|brokenStateIsNeverEntered
 DECL|function|cancelDelayedEvent
 DECL|function|changeStateWhileAnimatingProperty
+DECL|function|childModeConstructor
 DECL|function|clearError
 DECL|function|clonedSignals
 DECL|function|connectNotify

@@ -3,6 +3,7 @@ DECL|function|GoToStateTransition
 DECL|function|QSignalEventGenerator
 DECL|function|QStateMachine
 DECL|function|QStateMachine
+DECL|function|QStateMachine
 DECL|function|QStateMachinePrivate
 DECL|function|SignalEvent
 DECL|function|WrappedEvent
