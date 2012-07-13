@@ -12,6 +12,7 @@ DECL|function|QODBCPrivate
 DECL|function|QODBCResult
 DECL|function|adjustCase
 DECL|function|beginTransaction
+DECL|function|checkDateTimePrecision
 DECL|function|checkDriver
 DECL|function|checkHasMultiResults
 DECL|function|checkHasSQLFetchScroll
@@ -82,6 +83,7 @@ DECL|function|virtual_hook
 DECL|function|~QODBCDriver
 DECL|function|~QODBCResult
 DECL|macro|ODBC_CHECK_DRIVER
+DECL|member|datetime_precision
 DECL|member|disconnectCount
 DECL|member|disconnectCount
 DECL|member|driverPrivate
