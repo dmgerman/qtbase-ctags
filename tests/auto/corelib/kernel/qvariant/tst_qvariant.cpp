@@ -2,17 +2,12 @@ DECL|class|CustomNonQObject
 DECL|class|CustomQObject
 DECL|class|CustomQObjectDerived
 DECL|class|CustomQObjectDerivedNoMetaType
-DECL|class|CustomQWidget
-DECL|class|MessageHandler
 DECL|class|tst_QVariant
 DECL|function|CustomComparable
 DECL|function|CustomQObject
 DECL|function|CustomQObjectDerived
 DECL|function|CustomQObjectDerivedNoMetaType
-DECL|function|CustomQWidget
 DECL|function|Foo
-DECL|function|MessageHandler
-DECL|function|MessageHandlerInvalidType
 DECL|function|MessageHandlerType
 DECL|function|MyClass
 DECL|function|MyData
@@ -55,8 +50,6 @@ DECL|function|debugStreamType_data
 DECL|function|debugStream_data
 DECL|function|forwardDeclare
 DECL|function|guiVariantAtExit
-DECL|function|handler
-DECL|function|handler
 DECL|function|handler
 DECL|function|invalidDate
 DECL|function|invalidDateTime
@@ -104,7 +97,6 @@ DECL|function|saveQt5Stream_data
 DECL|function|setValue
 DECL|function|streamInvalidVariant
 DECL|function|swap
-DECL|function|testPassed
 DECL|function|timeToDateTime
 DECL|function|toBool
 DECL|function|toBool_data
@@ -179,12 +171,9 @@ DECL|function|vector2D
 DECL|function|vector3D
 DECL|function|vector4D
 DECL|function|voidStar
-DECL|function|widgetsVariantAtExit
 DECL|function|writeToReadFromDataStream
 DECL|function|writeToReadFromDataStream_data
 DECL|function|writeToReadFromOldDataStream
-DECL|function|~MessageHandler
-DECL|function|~MessageHandlerInvalidType
 DECL|function|~MyData
 DECL|function|~MyMovable
 DECL|function|~MyNotMovable
@@ -204,8 +193,6 @@ DECL|member|count
 DECL|member|count
 DECL|member|count
 DECL|member|count
-DECL|member|currentId
-DECL|member|currentId
 DECL|member|customNonQObjectPointer
 DECL|member|e
 DECL|member|i
@@ -216,12 +203,6 @@ DECL|member|myValue
 DECL|member|myValue
 DECL|member|number
 DECL|member|objectPointerTestData
-DECL|member|ok
-DECL|member|ok
-DECL|member|ok
-DECL|member|ok
-DECL|member|oldMsgHandler
-DECL|member|oldMsgHandler
 DECL|member|ptr
 DECL|member|q
 DECL|member|r
@@ -240,7 +221,6 @@ DECL|struct|CustomComparable
 DECL|struct|CustomStreamableClass
 DECL|struct|Data
 DECL|struct|Foo
-DECL|struct|MessageHandlerInvalidType
 DECL|struct|MessageHandlerType
 DECL|struct|MyClass
 DECL|struct|MyData
