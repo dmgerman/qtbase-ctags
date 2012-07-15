@@ -59,6 +59,7 @@ DECL|function|fromEncoded
 DECL|function|fromEncodedComponent_helper
 DECL|function|fromLocalFile
 DECL|function|fromPercentEncoding
+DECL|function|fromStringList
 DECL|function|fromUserInput
 DECL|function|ftpScheme
 DECL|function|hasAuthority
@@ -132,6 +133,7 @@ DECL|function|toEncoded
 DECL|function|toLocalFile
 DECL|function|toPercentEncoding
 DECL|function|toString
+DECL|function|toStringList
 DECL|function|topLevelDomain
 DECL|function|url
 DECL|function|userInfo
