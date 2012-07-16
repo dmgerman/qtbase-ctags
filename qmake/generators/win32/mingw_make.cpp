@@ -9,7 +9,6 @@ DECL|function|getLibTarget
 DECL|function|init
 DECL|function|writeBuildRulesPart
 DECL|function|writeIncPart
-DECL|function|writeLibDirPart
 DECL|function|writeLibsPart
 DECL|function|writeMakefile
 DECL|function|writeMingwParts

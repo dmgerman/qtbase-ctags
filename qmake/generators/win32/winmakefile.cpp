@@ -13,7 +13,6 @@ DECL|function|writeBuildRulesPart
 DECL|function|writeCleanParts
 DECL|function|writeImplicitRulesPart
 DECL|function|writeIncPart
-DECL|function|writeLibDirPart
 DECL|function|writeLibsPart
 DECL|function|writeObjectsPart
 DECL|function|writeRcFilePart
