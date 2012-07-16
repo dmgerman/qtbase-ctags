@@ -5,7 +5,6 @@ DECL|function|createRvctObjectScriptFile
 DECL|function|escapeDependencyPath
 DECL|function|findDependencies
 DECL|function|findLibraries
-DECL|function|fixTargetExt
 DECL|function|getLibTarget
 DECL|function|init
 DECL|function|writeBuildRulesPart
