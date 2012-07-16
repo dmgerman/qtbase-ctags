@@ -67,5 +67,3 @@ DECL|typedef|QArgumentType
 DECL|typedef|QArgumentTypeArray
 DECL|variable|QMetaMethodPrivate
 DECL|variable|QMutex
-DECL|variable|QVarLengthArray
-DECL|variable|T
