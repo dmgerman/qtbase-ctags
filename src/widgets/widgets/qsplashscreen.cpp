@@ -11,6 +11,7 @@ DECL|function|pixmap
 DECL|function|repaint
 DECL|function|setPixmap
 DECL|function|showMessage
+DECL|function|waitForWindowExposed
 DECL|function|~QSplashScreen
 DECL|member|currAlign
 DECL|member|currColor
