@@ -1,7 +1,9 @@
+DECL|class|WidgetAttributeSaver
 DECL|function|QApplication
 DECL|function|QApplication
 DECL|function|QApplication
 DECL|function|QApplicationPrivate
+DECL|function|WidgetAttributeSaver
 DECL|function|aboutQt
 DECL|function|activeModalWidget
 DECL|function|activePopupWidget
@@ -95,6 +97,7 @@ DECL|function|styleSheet
 DECL|function|topLevelWidgets
 DECL|function|translateRawTouchEvent
 DECL|function|translateTouchCancel
+DECL|function|translateTouchToMouse
 DECL|function|tryModalHelper
 DECL|function|type
 DECL|function|updateTouchPointsForWidget
@@ -102,6 +105,7 @@ DECL|function|widgetAt
 DECL|function|windowIcon
 DECL|function|~QApplication
 DECL|function|~QApplicationPrivate
+DECL|function|~WidgetAttributeSaver
 DECL|member|active_window
 DECL|member|app_cspec
 DECL|member|app_icon
@@ -115,6 +119,9 @@ DECL|member|focus_widget
 DECL|member|hidden_focus_widget
 DECL|member|leaveAfterRelease
 DECL|member|load_testability
+DECL|member|m_attribute
+DECL|member|m_savedValue
+DECL|member|m_widget
 DECL|member|main_widget
 DECL|member|navigationMode
 DECL|member|oldEditFocus

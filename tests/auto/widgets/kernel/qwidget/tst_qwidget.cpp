@@ -26,6 +26,7 @@ DECL|class|SiblingDeleter
 DECL|class|StaticWidget
 DECL|class|TestLayout
 DECL|class|TopLevelFocusCheck
+DECL|class|TouchMouseWidget
 DECL|class|UpdateWidget
 DECL|class|Widget
 DECL|class|WinIdChangeWidget
@@ -60,6 +61,7 @@ DECL|function|SiblingDeleter
 DECL|function|StaticWidget
 DECL|function|TestLayout
 DECL|function|TopLevelFocusCheck
+DECL|function|TouchMouseWidget
 DECL|function|UpdateWidget
 DECL|function|Widget
 DECL|function|WinIdChangeWidget
@@ -101,6 +103,7 @@ DECL|function|enabledPropagation
 DECL|function|enlargeMask
 DECL|function|ensureCreated
 DECL|function|ensureScreenSize
+DECL|function|event
 DECL|function|event
 DECL|function|event
 DECL|function|event
@@ -229,6 +232,8 @@ DECL|function|saveRestoreGeometry
 DECL|function|scroll
 DECL|function|scrollWithoutBackingStore
 DECL|function|sendUpdateRequestImmediately
+DECL|function|setAcceptMouse
+DECL|function|setAcceptTouch
 DECL|function|setClearAndResizeMask
 DECL|function|setContentsMargins
 DECL|function|setContentsPropagation
@@ -279,6 +284,7 @@ DECL|function|testDeletionInEventHandlers
 DECL|function|testWindowIconChangeEventPropagation
 DECL|function|timerEvent
 DECL|function|toplevelLineEditFocus
+DECL|function|touchEventSynthesizedMouseEvent
 DECL|function|translucentWidget
 DECL|function|tst_QWidget
 DECL|function|update
@@ -327,9 +333,13 @@ DECL|member|gotExpectedMapNotify
 DECL|member|gotPaintEvent
 DECL|member|invalidated
 DECL|member|lineEdit
+DECL|member|m_acceptMouse
+DECL|member|m_acceptTouch
 DECL|member|m_count
+DECL|member|m_mouseEventCount
 DECL|member|m_platform
 DECL|member|m_resizeEventCount
+DECL|member|m_touchEventCount
 DECL|member|m_widget
 DECL|member|m_winIdList
 DECL|member|mask
