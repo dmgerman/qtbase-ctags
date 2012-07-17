@@ -49,8 +49,7 @@ DECL|function|lower
 DECL|function|netWmStates
 DECL|function|positionIncludesFrame
 DECL|function|propagateSizeHints
-DECL|function|qRectToX11Rectangle
-DECL|function|qRegionToX11Region
+DECL|function|qRectToXCBRectangle
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|setCursor
