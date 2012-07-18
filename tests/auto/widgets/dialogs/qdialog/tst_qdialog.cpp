@@ -1,13 +1,10 @@
 DECL|class|Dialog
 DECL|class|DummyDialog
-DECL|class|ExceptionDialog
-DECL|class|QDialogTestException
 DECL|class|TestRejectDialog
 DECL|class|ToolDialog
 DECL|class|tst_QDialog
 DECL|function|Dialog
 DECL|function|DummyDialog
-DECL|function|ExceptionDialog
 DECL|function|TestRejectDialog
 DECL|function|ToolDialog
 DECL|function|cleanupTestCase
@@ -28,9 +25,6 @@ DECL|function|showFullScreen
 DECL|function|showMaximized
 DECL|function|showMinimized
 DECL|function|showSizeGrip
-DECL|function|throwException
-DECL|function|throwInExec
-DECL|function|throwInExec
 DECL|function|timerEvent
 DECL|function|toolDialogPosition
 DECL|function|tst_QDialog
