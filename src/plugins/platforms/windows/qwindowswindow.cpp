@@ -88,8 +88,6 @@ DECL|function|topLevelOf
 DECL|function|unregisterDropSite
 DECL|function|validSize
 DECL|function|windowEvent
-DECL|function|windowState_sys
-DECL|function|windowStates_sys
 DECL|function|~QWindowsWindow
 DECL|macro|QWINDOWSIZE_MAX
 DECL|member|desktop
