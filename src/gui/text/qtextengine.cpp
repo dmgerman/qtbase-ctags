@@ -1,7 +1,11 @@
+DECL|class|FormatRangeComparatorByEnd
+DECL|class|FormatRangeComparatorByStart
 DECL|class|Itemizer
 DECL|enumerator|MaxBidiLevel
 DECL|enumerator|MaxItemLength
 DECL|function|FontEngineCache
+DECL|function|FormatRangeComparatorByEnd
+DECL|function|FormatRangeComparatorByStart
 DECL|function|Itemizer
 DECL|function|LayoutData
 DECL|function|LayoutData
@@ -73,6 +77,8 @@ DECL|function|next
 DECL|function|nextCharJoins
 DECL|function|nextLogicalPosition
 DECL|function|offsetInLigature
+DECL|function|operator ()
+DECL|function|operator ()
 DECL|function|pdf
 DECL|function|positionAfterVisualMovement
 DECL|function|positionInLigature
@@ -114,6 +120,8 @@ DECL|member|last
 DECL|member|lastStrong
 DECL|member|level
 DECL|member|level
+DECL|member|list
+DECL|member|list
 DECL|member|m_analysis
 DECL|member|m_items
 DECL|member|m_splitter
