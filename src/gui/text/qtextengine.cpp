@@ -79,6 +79,8 @@ DECL|function|nextLogicalPosition
 DECL|function|offsetInLigature
 DECL|function|operator ()
 DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
 DECL|function|pdf
 DECL|function|positionAfterVisualMovement
 DECL|function|positionInLigature
@@ -132,5 +134,6 @@ DECL|member|type
 DECL|struct|QBidiControl
 DECL|struct|QBidiStatus
 DECL|struct|QJustificationPoint
+DECL|struct|QScriptItemComparator
 DECL|variable|directions
 DECL|variable|smallCapsFraction
