@@ -7,6 +7,7 @@ DECL|enumerator|V5
 DECL|enumerator|V6
 DECL|enumerator|Value
 DECL|enumerator|Value
+DECL|enumerator|value
 DECL|function|construct
 DECL|function|constructCopy
 DECL|function|constructCopy_data
@@ -55,6 +56,8 @@ DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
+DECL|macro|CHECK_BUILTIN
+DECL|macro|CHECK_BUILTIN
 DECL|macro|DEFINE_META_ENUM_TO_TYPE
 DECL|macro|DEFINE_META_ENUM_TO_TYPE
 DECL|macro|FOR_EACH_GUI_METATYPE
@@ -96,6 +99,7 @@ DECL|struct|TypeComparator
 DECL|struct|TypeComparator
 DECL|struct|TypeComparator
 DECL|struct|TypeComparator
+DECL|struct|static_assert_trigger
 DECL|typedef|Type
 DECL|typedef|Type
 DECL|typedef|TypeTestFunction

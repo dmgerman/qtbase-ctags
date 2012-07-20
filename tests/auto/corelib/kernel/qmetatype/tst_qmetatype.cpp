@@ -14,6 +14,7 @@ DECL|enumerator|IsInitialized
 DECL|enumerator|Value
 DECL|enumerator|Value
 DECL|enumerator|isStreamable
+DECL|enumerator|value
 DECL|enum|A
 DECL|enum|FlagsDataEnum
 DECL|enum|isEnumTest_Enum0
@@ -139,6 +140,8 @@ DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
+DECL|macro|CHECK_BUILTIN
+DECL|macro|CHECK_BUILTIN
 DECL|macro|CREATE_AND_VERIFY_CONTAINER
 DECL|macro|DECLARE_GUI_CLASS_NONSTREAMABLE
 DECL|macro|DECLARE_GUI_CLASS_NONSTREAMABLE
@@ -259,6 +262,7 @@ DECL|struct|UnregisteredType
 DECL|struct|Whity
 DECL|struct|isEnumTest_Struct0
 DECL|struct|isEnumTest_Struct1
+DECL|struct|static_assert_trigger
 DECL|typedef|CustomString
 DECL|typedef|IntComparableHash
 DECL|typedef|IntComparableMap

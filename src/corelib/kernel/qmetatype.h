@@ -1,4 +1,5 @@
 DECL|enumerator|Defined
+DECL|enumerator|IsBuiltIn
 DECL|function|Q_DECLARE_METATYPE_TEMPLATE_1ARG
 DECL|function|construct
 DECL|function|create
