@@ -22,6 +22,7 @@ DECL|function|hasFailure
 DECL|function|makeDecoder
 DECL|function|makeEncoder
 DECL|function|nameMatch
+DECL|function|qTextCodecsMutex
 DECL|function|qisalnum
 DECL|function|qtolower
 DECL|function|setCodecForLocale
