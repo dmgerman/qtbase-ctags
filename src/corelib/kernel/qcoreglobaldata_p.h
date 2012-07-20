@@ -1,5 +1,10 @@
 DECL|macro|QCOREGLOBALDATA_P_H
 DECL|member|QString
+DECL|member|allCodecs
+DECL|member|codecCache
+DECL|member|codecForLocale
 DECL|member|dirSearchPaths
 DECL|member|dirSearchPathsLock
 DECL|struct|QCoreGlobalData
+DECL|typedef|QByteArray
+DECL|typedef|QTextCodecCache

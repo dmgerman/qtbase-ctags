@@ -1,4 +1,3 @@
-DECL|class|QTextCodecCleanup
 DECL|function|QTextCodec
 DECL|function|QTextDecoder
 DECL|function|QTextEncoder
@@ -35,16 +34,11 @@ DECL|function|toUnicode
 DECL|function|toUnicode
 DECL|function|toUnicode
 DECL|function|try_locale_list
-DECL|function|validCodecs
 DECL|function|~ConverterState
 DECL|function|~QTextCodec
-DECL|function|~QTextCodecCleanup
 DECL|function|~QTextDecoder
 DECL|function|~QTextEncoder
-DECL|typedef|QTextCodecCache
-DECL|variable|all
 DECL|variable|cp_1251locales
-DECL|variable|destroying_is_ok
 DECL|variable|iso8859_13locales
 DECL|variable|iso8859_15locales
 DECL|variable|iso8859_2locales
@@ -56,7 +50,6 @@ DECL|variable|iso8859_7locales
 DECL|variable|iso8859_8locales
 DECL|variable|iso8859_9locales
 DECL|variable|koi8_ulocales
-DECL|variable|localeMapper
 DECL|variable|probably_koi8_rlocales
 DECL|variable|pt_154locales
 DECL|variable|tis_620locales
