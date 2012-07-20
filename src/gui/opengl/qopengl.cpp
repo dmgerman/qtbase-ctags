@@ -1,5 +1,3 @@
 DECL|function|QOpenGLExtensionMatcher
-DECL|function|QOpenGLExtensionMatcher
-DECL|function|init
 DECL|macro|GL_NUM_EXTENSIONS
 DECL|typedef|qt_glGetStringi
