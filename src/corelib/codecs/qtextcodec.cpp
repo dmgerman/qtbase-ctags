@@ -1,9 +1,7 @@
 DECL|class|QTextCodecCleanup
-DECL|class|QWindowsLocalCodec
 DECL|function|QTextCodec
 DECL|function|QTextDecoder
 DECL|function|QTextEncoder
-DECL|function|QWindowsLocalCodec
 DECL|function|aliases
 DECL|function|availableCodecs
 DECL|function|availableMibs
@@ -17,9 +15,6 @@ DECL|function|codecForMib
 DECL|function|codecForName
 DECL|function|codecForUtfText
 DECL|function|codecForUtfText
-DECL|function|convertFromUnicode
-DECL|function|convertToUnicode
-DECL|function|convertToUnicodeCharByChar
 DECL|function|fromUnicode
 DECL|function|fromUnicode
 DECL|function|fromUnicode
@@ -27,8 +22,6 @@ DECL|function|hasFailure
 DECL|function|hasFailure
 DECL|function|makeDecoder
 DECL|function|makeEncoder
-DECL|function|mibEnum
-DECL|function|name
 DECL|function|nameMatch
 DECL|function|qisalnum
 DECL|function|qtolower
@@ -48,8 +41,6 @@ DECL|function|~QTextCodec
 DECL|function|~QTextCodecCleanup
 DECL|function|~QTextDecoder
 DECL|function|~QTextEncoder
-DECL|function|~QWindowsLocalCodec
-DECL|macro|QT_NO_SETLOCALE
 DECL|typedef|QTextCodecCache
 DECL|variable|all
 DECL|variable|cp_1251locales
