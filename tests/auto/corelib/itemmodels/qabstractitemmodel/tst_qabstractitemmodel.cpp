@@ -36,7 +36,6 @@ DECL|function|headerData
 DECL|function|index
 DECL|function|index
 DECL|function|init
-DECL|function|initTestCase
 DECL|function|insertColumns
 DECL|function|insertColumns
 DECL|function|insertRows
