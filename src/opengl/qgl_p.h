@@ -1,3 +1,4 @@
+DECL|function|Q_DECLARE_METATYPE
 DECL|function|createSharedResourceGuard
 DECL|function|getTexture
 DECL|function|maxCost
