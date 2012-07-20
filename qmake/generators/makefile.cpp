@@ -33,7 +33,6 @@ DECL|function|pkgConfigPrefix
 DECL|function|prlFileName
 DECL|function|processPrlFile
 DECL|function|processPrlFiles
-DECL|function|processPrlVariable
 DECL|function|projectFile
 DECL|function|replaceExtraCompilerVariables
 DECL|function|setProjectFile
