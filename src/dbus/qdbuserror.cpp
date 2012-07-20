@@ -2,6 +2,7 @@ DECL|function|QDBusError
 DECL|function|QDBusError
 DECL|function|QDBusError
 DECL|function|QDBusError
+DECL|function|QDBusError
 DECL|function|errorString
 DECL|function|get
 DECL|function|get
