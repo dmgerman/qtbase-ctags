@@ -1,7 +1,6 @@
 DECL|function|AddFontResourceExW
 DECL|function|GetGlyphOutline
 DECL|function|IsIconic
-DECL|function|IsZoomed
 DECL|function|OleUninitialize
 DECL|function|RemoveFontResourceExW
 DECL|macro|ALTERNATE
