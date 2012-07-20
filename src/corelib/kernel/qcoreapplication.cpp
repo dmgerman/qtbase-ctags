@@ -25,7 +25,6 @@ DECL|function|event
 DECL|function|eventDispatcher
 DECL|function|exec
 DECL|function|exit
-DECL|function|filterNativeEvent
 DECL|function|flush
 DECL|function|hasPendingEvents
 DECL|function|init

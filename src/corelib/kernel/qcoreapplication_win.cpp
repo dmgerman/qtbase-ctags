@@ -12,7 +12,6 @@ DECL|function|qWinAppPrevInst
 DECL|function|qWinMain
 DECL|function|removePostedTimerEvent
 DECL|function|valueCheck
-DECL|function|winEventFilter
 DECL|macro|FLGSTR
 DECL|macro|GET_X_LPARAM
 DECL|macro|GET_Y_LPARAM
