@@ -57,4 +57,3 @@ DECL|member|s_libraryLoaded
 DECL|member|s_loadRootCertsOnDemand
 DECL|member|s_loadedCiphersAndCerts
 DECL|struct|QSslErrorList
-DECL|variable|QSslCertificate

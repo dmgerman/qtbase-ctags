@@ -16,5 +16,3 @@ DECL|member|proxies
 DECL|member|query
 DECL|member|requestCounter
 DECL|member|returnedList
-DECL|variable|QList
-DECL|variable|QNetworkConfiguration
