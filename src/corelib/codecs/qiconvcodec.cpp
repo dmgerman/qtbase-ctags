@@ -3,6 +3,7 @@ DECL|function|QIconvCodec
 DECL|function|convertFromUnicode
 DECL|function|convertToUnicode
 DECL|function|createIconv_t
+DECL|function|init
 DECL|function|mibEnum
 DECL|function|name
 DECL|function|qIconvCodecStateFree
