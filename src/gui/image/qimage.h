@@ -12,6 +12,7 @@ DECL|function|textLanguages
 DECL|function|textList
 DECL|macro|QIMAGE_H
 DECL|typedef|QImageCleanupFunction
+DECL|variable|QColorProfile
 DECL|variable|QIODevice
 DECL|variable|QImageDataMisc
 DECL|variable|QList
