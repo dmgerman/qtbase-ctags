@@ -39,10 +39,7 @@ DECL|function|correspondingProperty
 DECL|function|debug
 DECL|function|declarativeCppNode
 DECL|function|deleteChildren
-DECL|function|ditaXmlHref
 DECL|function|extractClassName
-DECL|function|fileBase
-DECL|function|fileBase
 DECL|function|findAny
 DECL|function|findChildNodeByName
 DECL|function|findChildNodeByName

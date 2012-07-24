@@ -28,4 +28,5 @@ DECL|struct|HelpProject
 DECL|struct|SubProject
 DECL|typedef|QString
 DECL|typedef|QStringNodePair
+DECL|variable|Generator
 DECL|variable|Tree

@@ -9,6 +9,7 @@ DECL|function|collectNodesByTypeAndSubtype
 DECL|function|countTableColumns
 DECL|function|currentTag
 DECL|function|debugPara
+DECL|function|ditaXmlHref
 DECL|function|endLink
 DECL|function|endSubPage
 DECL|function|enterDesc
