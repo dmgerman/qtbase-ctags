@@ -12,6 +12,7 @@ DECL|class|P
 DECL|class|tst_QMetaType
 DECL|enumerator|IsInitialized
 DECL|enumerator|Value
+DECL|enumerator|Value
 DECL|enumerator|isStreamable
 DECL|enum|A
 DECL|enum|FlagsDataEnum
@@ -161,6 +162,8 @@ DECL|macro|METATYPE_ID_STRUCT
 DECL|macro|PRINT_1ARG_TEMPLATE
 DECL|macro|PRINT_2ARG_TEMPLATE
 DECL|macro|PRINT_2ARG_TEMPLATE_INTERNAL
+DECL|macro|REGISTER_METATYPE_FUNCTION
+DECL|macro|REGISTER_METATYPE_STRUCT
 DECL|macro|REGISTER_TYPEDEF
 DECL|macro|RETURN_CONSTRUCT_COPY_FUNCTION
 DECL|macro|RETURN_CONSTRUCT_COPY_FUNCTION
@@ -201,6 +204,8 @@ DECL|struct|Foo
 DECL|struct|MetaEnumToType
 DECL|struct|MetaTypeIdStruct
 DECL|struct|MetaTypeIdStructDefaultTemplateValue
+DECL|struct|RegisterMetaTypeStruct
+DECL|struct|RegisterMetaTypeStructDefaultTemplateValue
 DECL|struct|SecondBase
 DECL|struct|StreamingTraits
 DECL|struct|TestValueFactory
