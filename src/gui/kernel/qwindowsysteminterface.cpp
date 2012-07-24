@@ -1,5 +1,6 @@
 DECL|function|ExposeEvent
 DECL|function|convertTouchPoints
+DECL|function|flushWindowSystemEvents
 DECL|function|getWindowSystemEvent
 DECL|function|handleCloseEvent
 DECL|function|handleDrag
@@ -46,6 +47,7 @@ DECL|function|handleWindowStateChanged
 DECL|function|queueWindowSystemEvent
 DECL|function|registerTouchDevice
 DECL|function|sendWindowSystemEvents
+DECL|function|sendWindowSystemEventsImplementation
 DECL|function|tryHandleSynchronousExtendedShortcutEvent
 DECL|function|tryHandleSynchronousExtendedShortcutEvent
 DECL|function|tryHandleSynchronousShortcutEvent
