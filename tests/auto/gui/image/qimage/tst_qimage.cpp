@@ -23,6 +23,7 @@ DECL|function|dotsPerMeterZero
 DECL|function|fillColor
 DECL|function|fillColorWithAlpha
 DECL|function|fillColor_data
+DECL|function|fillRGB888
 DECL|function|formatHandlersInput
 DECL|function|formatHandlersInput_data
 DECL|function|nullSize
