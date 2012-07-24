@@ -49,6 +49,7 @@ DECL|function|debugStreamType_data
 DECL|function|debugStream_data
 DECL|function|forwardDeclare
 DECL|function|handler
+DECL|function|implicitConstruction
 DECL|function|invalidDate
 DECL|function|invalidDateTime
 DECL|function|isNull
@@ -156,8 +157,12 @@ DECL|function|~MyData
 DECL|function|~MyMovable
 DECL|function|~MyNotMovable
 DECL|function|~MyType
+DECL|macro|CONSTRUCT
+DECL|macro|CONSTRUCT
 DECL|macro|CONVERT_META_TYPE
 DECL|macro|CONVERT_META_TYPE
+DECL|macro|FOR_EACH_CORE_CLASS
+DECL|macro|FOR_EACH_CORE_CLASS
 DECL|macro|N
 DECL|macro|N
 DECL|macro|N

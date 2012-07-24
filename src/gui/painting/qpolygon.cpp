@@ -15,6 +15,7 @@ DECL|function|operator <<
 DECL|function|operator >>
 DECL|function|operator >>
 DECL|function|operator QVariant
+DECL|function|operator QVariant
 DECL|function|point
 DECL|function|putPoints
 DECL|function|putPoints

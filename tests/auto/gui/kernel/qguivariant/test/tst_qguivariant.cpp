@@ -7,6 +7,7 @@ DECL|function|constructor_invalid_data
 DECL|function|debugStream
 DECL|function|debugStream_data
 DECL|function|guiVariantAtExit
+DECL|function|implicitConstruction
 DECL|function|invalidQColor
 DECL|function|matrix
 DECL|function|matrix4x4
@@ -33,6 +34,10 @@ DECL|function|vector3D
 DECL|function|vector4D
 DECL|function|writeToReadFromDataStream
 DECL|function|writeToReadFromDataStream_data
+DECL|macro|CONSTRUCT
+DECL|macro|CONSTRUCT
+DECL|macro|FOR_EACH_GUI_CLASS
+DECL|macro|FOR_EACH_GUI_CLASS
 DECL|macro|N
 DECL|macro|N
 DECL|macro|N

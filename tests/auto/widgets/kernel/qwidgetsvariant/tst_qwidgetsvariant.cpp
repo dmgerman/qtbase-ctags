@@ -7,12 +7,17 @@ DECL|function|constructor_invalid
 DECL|function|constructor_invalid_data
 DECL|function|debugStream
 DECL|function|debugStream_data
+DECL|function|implicitConstruction
 DECL|function|qvariant_cast_QObject
 DECL|function|qvariant_cast_QObject_data
 DECL|function|qvariant_cast_QObject_derived
 DECL|function|widgetsVariantAtExit
 DECL|function|writeToReadFromDataStream
 DECL|function|writeToReadFromDataStream_data
+DECL|macro|CONSTRUCT
+DECL|macro|CONSTRUCT
+DECL|macro|FOR_EACH_WIDGETS_CLASS
+DECL|macro|FOR_EACH_WIDGETS_CLASS
 DECL|macro|N
 DECL|macro|N
 DECL|macro|N
