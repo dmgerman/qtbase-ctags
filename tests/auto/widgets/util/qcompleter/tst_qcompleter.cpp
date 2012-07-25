@@ -1,4 +1,6 @@
 DECL|class|CsvCompleter
+DECL|class|DebugFunction
+DECL|class|SearchFunction
 DECL|class|task189564_StringListModel
 DECL|class|task246056_ComboBox
 DECL|class|task250064_TextEdit
@@ -11,7 +13,9 @@ DECL|enumerator|FILESYSTEM_MODEL
 DECL|enumerator|HISTORY_MODEL
 DECL|enum|ModelType
 DECL|function|CsvCompleter
+DECL|function|DebugFunction
 DECL|function|QTBUG_14292_filesystem
+DECL|function|SearchFunction
 DECL|function|changingModel
 DECL|function|changingModel_data
 DECL|function|ciMatchingOnCiSortedModel
@@ -37,7 +41,12 @@ DECL|function|historySearch
 DECL|function|keyPressEvent
 DECL|function|modelDeletion
 DECL|function|multipleWidgets
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator <<
 DECL|function|pathFromIndex
+DECL|function|recurseTreeModel
+DECL|function|recurseTreeModelIndex
 DECL|function|setCompletionModel
 DECL|function|setCompletionPrefix
 DECL|function|setCsvCompletion
@@ -58,6 +67,7 @@ DECL|function|task250064_Widget
 DECL|function|task250064_lostFocus
 DECL|function|task253125_lineEditCompletion
 DECL|function|task253125_lineEditCompletion_data
+DECL|function|testFileSystemReady
 DECL|function|testRowCount
 DECL|function|tst_QCompleter
 DECL|function|unsortedEngineMapFromSource
@@ -71,6 +81,11 @@ DECL|member|completer
 DECL|member|completer
 DECL|member|completionColumn
 DECL|member|csv
+DECL|member|m_d
+DECL|member|m_needle
+DECL|member|m_role
 DECL|member|omitString
 DECL|member|textEdit
 DECL|member|treeWidget
+DECL|variable|testDir1
+DECL|variable|testDir2
