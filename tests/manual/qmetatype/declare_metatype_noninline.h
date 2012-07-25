@@ -1,0 +1,2 @@
+DECL|macro|DECLARE_METATYPE_NONINLINE_H
+DECL|struct|ToBeDeclaredMetaTypeNonInline
