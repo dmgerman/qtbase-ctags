@@ -3,3 +3,4 @@ DECL|variable|QKmsDevice
 DECL|variable|QKmsScreen
 DECL|variable|QKmsUdevDRMHandler
 DECL|variable|QKmsUdevListener
+DECL|variable|QKmsVTHandler

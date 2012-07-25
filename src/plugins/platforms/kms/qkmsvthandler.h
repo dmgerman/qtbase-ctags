@@ -1,0 +1,1 @@
+DECL|macro|QKMSVTHANDLER_H
