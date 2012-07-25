@@ -6,6 +6,7 @@ DECL|function|codecForMib
 DECL|function|codecForName
 DECL|function|convertFromUnicode
 DECL|function|convertToUnicode
+DECL|function|defaultCodec
 DECL|function|getConverter
 DECL|function|mibEnum
 DECL|function|name
