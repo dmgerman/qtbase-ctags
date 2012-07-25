@@ -3,6 +3,9 @@ DECL|function|operator
 DECL|function|operator
 DECL|macro|QURL_H
 DECL|variable|E1
+DECL|variable|E1
+DECL|variable|E1
+DECL|variable|E2
 DECL|variable|QDataStream
 DECL|variable|QUrlPrivate
 DECL|variable|QUrlQuery
