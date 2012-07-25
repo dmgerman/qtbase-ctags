@@ -16,7 +16,6 @@ DECL|enumerator|E_LAST
 DECL|enumerator|E_LIST
 DECL|enumerator|E_LOWER
 DECL|enumerator|E_MEMBER
-DECL|enumerator|E_NATIVE_PATH
 DECL|enumerator|E_PROMPT
 DECL|enumerator|E_QUOTE
 DECL|enumerator|E_RELATIVE_PATH
@@ -26,12 +25,15 @@ DECL|enumerator|E_REVERSE
 DECL|enumerator|E_RE_ESCAPE
 DECL|enumerator|E_SECTION
 DECL|enumerator|E_SHADOWED
+DECL|enumerator|E_SHELL_PATH
 DECL|enumerator|E_SHELL_QUOTE
 DECL|enumerator|E_SIZE
 DECL|enumerator|E_SORT_DEPENDS
 DECL|enumerator|E_SPLIT
 DECL|enumerator|E_SPRINTF
 DECL|enumerator|E_SYSTEM
+DECL|enumerator|E_SYSTEM_PATH
+DECL|enumerator|E_SYSTEM_QUOTE
 DECL|enumerator|E_UNIQUE
 DECL|enumerator|E_UPPER
 DECL|enumerator|E_VAL_ESCAPE
@@ -103,7 +105,6 @@ DECL|function|init
 DECL|function|invalidateFeatureRoots
 DECL|function|isActiveConfig
 DECL|function|isEmpty
-DECL|function|isSpecialChar
 DECL|function|loadDefaults
 DECL|function|magicValues
 DECL|function|parse
@@ -123,7 +124,8 @@ DECL|function|remove_quotes
 DECL|function|reset
 DECL|function|setTemplate
 DECL|function|setupProject
-DECL|function|shellQuote
+DECL|function|shellQuoteUnix
+DECL|function|shellQuoteWin
 DECL|function|split_arg_list
 DECL|function|split_value_list
 DECL|function|subAll
