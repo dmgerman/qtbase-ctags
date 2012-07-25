@@ -11,6 +11,7 @@ DECL|member|fileName
 DECL|member|files
 DECL|member|filterAttributes
 DECL|member|helpNamespace
+DECL|member|includeIndexNodes
 DECL|member|indexRoot
 DECL|member|indexTitle
 DECL|member|indexTitle
