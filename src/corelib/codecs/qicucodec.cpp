@@ -8,10 +8,11 @@ DECL|function|convertFromUnicode
 DECL|function|convertToUnicode
 DECL|function|defaultCodec
 DECL|function|getConverter
+DECL|function|loadQtCodec
 DECL|function|mibEnum
 DECL|function|name
-DECL|function|nameMatch
 DECL|function|qIcuCodecStateFree
+DECL|function|qTextCodecNameMatch
 DECL|function|~QIcuCodec
 DECL|member|index
 DECL|member|mib

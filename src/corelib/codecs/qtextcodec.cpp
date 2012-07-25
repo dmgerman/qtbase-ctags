@@ -21,11 +21,12 @@ DECL|function|hasFailure
 DECL|function|hasFailure
 DECL|function|makeDecoder
 DECL|function|makeEncoder
-DECL|function|nameMatch
+DECL|function|qTextCodecNameMatch
 DECL|function|qTextCodecsMutex
 DECL|function|qisalnum
 DECL|function|qtolower
 DECL|function|setCodecForLocale
+DECL|function|setup
 DECL|function|setup
 DECL|function|setupLocaleMapper
 DECL|function|toUnicode
