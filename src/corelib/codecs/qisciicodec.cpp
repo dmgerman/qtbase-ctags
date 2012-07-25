@@ -1,5 +1,6 @@
 DECL|function|convertFromUnicode
 DECL|function|convertToUnicode
+DECL|function|create
 DECL|function|mibEnum
 DECL|function|name
 DECL|function|~QIsciiCodec
