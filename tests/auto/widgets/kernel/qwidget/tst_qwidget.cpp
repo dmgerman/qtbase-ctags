@@ -120,6 +120,7 @@ DECL|function|focusWidget_task254563
 DECL|function|fontPropagation
 DECL|function|fontPropagation2
 DECL|function|fonts
+DECL|function|formatEventList
 DECL|function|gdiPainting
 DECL|function|getSetCheck
 DECL|function|grab
@@ -165,6 +166,8 @@ DECL|function|moveRect
 DECL|function|moveWindowInShowEvent
 DECL|function|moveWindowInShowEvent_data
 DECL|function|movedAndResizedAttributes
+DECL|function|msgEventListMismatch
+DECL|function|msgExpectFailQtBug26424
 DECL|function|multipleToplevelFocusCheck
 DECL|function|nativeChildFocus
 DECL|function|nativeEvent
@@ -363,9 +366,11 @@ DECL|member|sibling
 DECL|member|source
 DECL|member|state
 DECL|member|testWidget
+DECL|member|timer
 DECL|member|updateOnActivationChangeAndFocusIn
 DECL|member|wasQWidget
 DECL|member|widget
 DECL|member|widgetDuringFocusAboutToChange
 DECL|member|widgetDuringFocusOut
 DECL|typedef|EventList
+DECL|typedef|WidgetEventTypePair
