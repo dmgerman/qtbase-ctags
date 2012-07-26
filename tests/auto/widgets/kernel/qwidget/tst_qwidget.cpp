@@ -336,6 +336,7 @@ DECL|member|lineEdit
 DECL|member|m_acceptMouse
 DECL|member|m_acceptTouch
 DECL|member|m_count
+DECL|member|m_lastMouseEventPos
 DECL|member|m_mouseEventCount
 DECL|member|m_platform
 DECL|member|m_resizeEventCount
