@@ -44,10 +44,15 @@ DECL|function|handleWheelEvent
 DECL|function|handleWheelEvent
 DECL|function|handleWindowActivated
 DECL|function|handleWindowStateChanged
+DECL|function|qt_handleKeyEvent
+DECL|function|qt_handleMouseEvent
+DECL|function|qt_handleTouchEvent
 DECL|function|queueWindowSystemEvent
 DECL|function|registerTouchDevice
 DECL|function|sendWindowSystemEvents
 DECL|function|sendWindowSystemEventsImplementation
+DECL|function|touchPoint
+DECL|function|touchPointList
 DECL|function|tryHandleSynchronousExtendedShortcutEvent
 DECL|function|tryHandleSynchronousExtendedShortcutEvent
 DECL|function|tryHandleSynchronousShortcutEvent

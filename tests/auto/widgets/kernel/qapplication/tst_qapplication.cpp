@@ -90,6 +90,8 @@ DECL|function|timerEvent
 DECL|function|timerEvent
 DECL|function|topLevelWidgets
 DECL|function|touchEventPropagation
+DECL|function|touchPoint
+DECL|function|touchPointList
 DECL|function|tst_QApplication
 DECL|function|wheelScrollLines
 DECL|function|windowsCommandLine
