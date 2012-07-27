@@ -1,4 +1,3 @@
-DECL|function|Q_DECLARE_SHARED
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator

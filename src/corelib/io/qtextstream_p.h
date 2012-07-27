@@ -1,0 +1,1 @@
+DECL|macro|QTEXTSTREAM_P_H
