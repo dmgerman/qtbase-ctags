@@ -25,6 +25,7 @@ DECL|function|modeForAtom
 DECL|function|owner
 DECL|function|ownsMode
 DECL|function|requestor
+DECL|function|reset
 DECL|function|retrieveData_sys
 DECL|function|sendSelection
 DECL|function|sendTargetsSelection
