@@ -1,3 +1,4 @@
+DECL|function|_aliases
 DECL|function|_mibEnum
 DECL|function|_mibEnum
 DECL|function|_name
