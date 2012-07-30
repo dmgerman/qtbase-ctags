@@ -75,5 +75,5 @@ DECL|macro|OWNERDOCUMENT_IMPORTNODE_TEST
 DECL|macro|PARENTNODE_CREATE_TEST
 DECL|macro|TEST_NULL_DOCUMENT
 DECL|macro|TEST_NULL_DOCUMENT
-DECL|member|m_excludedCodecs
+DECL|member|m_testCodecs
 DECL|variable|umlautName
