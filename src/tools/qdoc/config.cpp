@@ -9,6 +9,7 @@ DECL|function|findFile
 DECL|function|getAllFiles
 DECL|function|getBool
 DECL|function|getCleanPathList
+DECL|function|getExampleQdocFiles
 DECL|function|getExpanded
 DECL|function|getFilesHere
 DECL|function|getInt
