@@ -17,6 +17,7 @@ DECL|function|requestedBufferSize
 DECL|function|scroll
 DECL|function|setBufferSize
 DECL|function|setGeometry
+DECL|function|setGeometryHelper
 DECL|function|setOffset
 DECL|function|setOpacity
 DECL|function|setParent
