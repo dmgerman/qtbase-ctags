@@ -1,5 +1,6 @@
 DECL|function|convertCharArray
 DECL|function|enableTestMode
+DECL|function|isTestModeEnabled
 DECL|function|resolveGetSpecialFolderPath
 DECL|function|standardLocations
 DECL|function|writableLocation

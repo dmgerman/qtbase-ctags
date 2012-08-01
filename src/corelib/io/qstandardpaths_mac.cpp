@@ -2,6 +2,7 @@ DECL|function|appendOrganizationAndApp
 DECL|function|displayName
 DECL|function|enableTestMode
 DECL|function|getFullPath
+DECL|function|isTestModeEnabled
 DECL|function|macLocation
 DECL|function|standardLocations
 DECL|function|translateLocation

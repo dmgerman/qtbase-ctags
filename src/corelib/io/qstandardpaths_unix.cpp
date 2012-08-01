@@ -1,5 +1,6 @@
 DECL|function|appendOrganizationAndApp
 DECL|function|enableTestMode
+DECL|function|isTestModeEnabled
 DECL|function|standardLocations
 DECL|function|writableLocation
 DECL|function|xdgDataDirs
