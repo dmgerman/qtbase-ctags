@@ -159,6 +159,7 @@ DECL|function|setString
 DECL|function|signalTransitionNormalizeSignature
 DECL|function|signalTransitionRegistrationThreadSafety
 DECL|function|signalTransitionSenderInDifferentThread
+DECL|function|signalTransitionSenderInDifferentThread2
 DECL|function|signalTransitions
 DECL|function|simpleAnimation
 DECL|function|slot

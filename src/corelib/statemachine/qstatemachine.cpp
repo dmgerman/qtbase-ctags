@@ -85,6 +85,7 @@ DECL|function|qt_metacall
 DECL|function|qt_metacast
 DECL|function|qt_static_metacall
 DECL|function|registerEventTransition
+DECL|function|registerMultiThreadedSignalTransitions
 DECL|function|registerRestorable
 DECL|function|registerSignalTransition
 DECL|function|registerTransition
