@@ -41,6 +41,7 @@ DECL|function|TestEventTransition
 DECL|function|TestSignalTransition
 DECL|function|TestSignalTransition
 DECL|function|TestState
+DECL|function|TestState
 DECL|function|TestTransition
 DECL|function|addAndRemoveState
 DECL|function|addDefaultAnimation
