@@ -1,2 +1,0 @@
-DECL|function|OrgExampleExamplesCarInterfaceInterface
-DECL|function|~OrgExampleExamplesCarInterfaceInterface

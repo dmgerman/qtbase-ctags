@@ -1,2 +1,0 @@
-DECL|function|OrgExampleChatInterface
-DECL|function|~OrgExampleChatInterface
