@@ -1,8 +1,13 @@
+DECL|enumerator|defaultSystemFontSize
+DECL|function|QGenericUnixTheme
+DECL|function|QGnomeTheme
 DECL|function|QKdeTheme
 DECL|function|ResourceHelper
 DECL|function|clear
 DECL|function|createKdeTheme
 DECL|function|createUnixTheme
+DECL|function|font
+DECL|function|font
 DECL|function|globalSettingsFile
 DECL|function|kdeColor
 DECL|function|kdeIconThemeSearchPaths
@@ -17,3 +22,4 @@ DECL|function|xdgIconThemePaths
 DECL|member|name
 DECL|member|name
 DECL|member|name
+DECL|variable|defaultSystemFontNameC
