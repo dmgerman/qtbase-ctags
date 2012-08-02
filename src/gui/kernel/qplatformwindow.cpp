@@ -1,4 +1,3 @@
-DECL|class|QPlatformWindowPrivate
 DECL|function|QPlatformWindow
 DECL|function|format
 DECL|function|frameMargins
@@ -32,4 +31,3 @@ DECL|function|winId
 DECL|function|window
 DECL|function|windowEvent
 DECL|function|~QPlatformWindow
-DECL|member|rect
