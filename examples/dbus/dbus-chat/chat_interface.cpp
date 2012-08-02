@@ -1,2 +1,2 @@
-DECL|function|ComTrolltechChatInterface
-DECL|function|~ComTrolltechChatInterface
+DECL|function|OrgExampleChatInterface
+DECL|function|~OrgExampleChatInterface

@@ -1,2 +1,2 @@
-DECL|function|ComTrolltechExamplesCarInterfaceInterface
-DECL|function|~ComTrolltechExamplesCarInterfaceInterface
+DECL|function|OrgExampleExamplesCarInterfaceInterface
+DECL|function|~OrgExampleExamplesCarInterfaceInterface
