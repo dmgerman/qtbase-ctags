@@ -2,16 +2,8 @@ DECL|enumerator|BlockCount
 DECL|enumerator|MaxIndex
 DECL|function|QMutex
 DECL|function|allocate
-DECL|function|derefWaiters
 DECL|function|isRecursive
-DECL|function|lock
-DECL|function|lock
-DECL|function|lockInternal
 DECL|function|release
-DECL|function|tryLock
-DECL|function|unlock
-DECL|function|unlock
-DECL|function|unlockInternal
 DECL|function|~QMutex
 DECL|member|Sizes
 DECL|member|Sizes

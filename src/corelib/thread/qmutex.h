@@ -1,2 +1,3 @@
 DECL|macro|QMUTEX_H
+DECL|macro|QT_MUTEX_LOCK_NOEXCEPT
 DECL|variable|QMutexData
