@@ -110,8 +110,6 @@ DECL|function|parseFormat
 DECL|function|parseSection
 DECL|function|potentialValue
 DECL|function|qHash
-DECL|function|qHash
-DECL|function|qHash
 DECL|function|restart
 DECL|function|second
 DECL|function|secsTo

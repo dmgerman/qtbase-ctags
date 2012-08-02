@@ -52,7 +52,6 @@ DECL|function|parseIpFuture
 DECL|function|password
 DECL|function|path
 DECL|function|port
-DECL|function|qHash
 DECL|function|query
 DECL|function|recodeFromUser
 DECL|function|removeDotsFromPath
