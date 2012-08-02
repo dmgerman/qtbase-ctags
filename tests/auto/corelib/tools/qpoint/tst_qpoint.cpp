@@ -3,6 +3,8 @@ DECL|enumerator|Double
 DECL|enumerator|Float
 DECL|enumerator|Int
 DECL|enum|PrimitiveType
+DECL|function|dotProduct
+DECL|function|dotProduct_data
 DECL|function|getSet
 DECL|function|getSet_data
 DECL|function|isNull

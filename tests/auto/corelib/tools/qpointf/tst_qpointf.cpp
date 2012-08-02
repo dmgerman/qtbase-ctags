@@ -1,6 +1,8 @@
 DECL|class|tst_QPointF
 DECL|function|division
 DECL|function|dot
+DECL|function|dotProduct
+DECL|function|dotProduct_data
 DECL|function|getSet
 DECL|function|getSet_data
 DECL|function|isNull
