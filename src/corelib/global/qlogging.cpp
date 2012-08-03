@@ -9,7 +9,6 @@ DECL|function|noDebug
 DECL|function|qCleanupFuncinfo
 DECL|function|qDefaultMessageHandler
 DECL|function|qDefaultMsgHandler
-DECL|function|qEmergencyOut
 DECL|function|qErrnoWarning
 DECL|function|qErrnoWarning
 DECL|function|qInstallMessageHandler
