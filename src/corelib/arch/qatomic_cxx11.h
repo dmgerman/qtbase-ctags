@@ -1,4 +1,3 @@
-DECL|function|acquireMemoryFence
 DECL|function|deref
 DECL|function|fetchAndAddAcquire
 DECL|function|fetchAndAddOrdered
@@ -20,9 +19,7 @@ DECL|function|load
 DECL|function|load
 DECL|function|loadAcquire
 DECL|function|loadAcquire
-DECL|function|orderedMemoryFence
 DECL|function|ref
-DECL|function|releaseMemoryFence
 DECL|function|store
 DECL|function|storeRelease
 DECL|function|testAndSetAcquire
