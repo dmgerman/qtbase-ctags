@@ -2,11 +2,11 @@ DECL|function|QIcuCodec
 DECL|function|aliases
 DECL|function|availableCodecs
 DECL|function|availableMibs
-DECL|function|codecForMib
-DECL|function|codecForName
+DECL|function|codecForMibUnlocked
+DECL|function|codecForNameUnlocked
 DECL|function|convertFromUnicode
 DECL|function|convertToUnicode
-DECL|function|defaultCodec
+DECL|function|defaultCodecUnlocked
 DECL|function|getConverter
 DECL|function|loadQtCodec
 DECL|function|mibEnum
