@@ -4,7 +4,6 @@ DECL|function|critical
 DECL|function|critical
 DECL|function|debug
 DECL|function|debug
-DECL|function|noDebug
 DECL|function|qCleanupFuncinfo
 DECL|function|qDefaultMessageHandler
 DECL|function|qDefaultMsgHandler
