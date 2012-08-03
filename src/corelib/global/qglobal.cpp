@@ -11,8 +11,6 @@ DECL|function|qgetenv
 DECL|function|qputenv
 DECL|function|qrand
 DECL|function|qsrand
-DECL|function|qt_assert
-DECL|function|qt_assert_x
 DECL|function|qt_check_pointer
 DECL|function|qt_error_string
 DECL|function|qt_int_sqrt
