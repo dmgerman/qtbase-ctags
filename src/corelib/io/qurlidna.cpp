@@ -28,6 +28,7 @@ DECL|variable|NameprepCaseFolding
 DECL|variable|base
 DECL|variable|damp
 DECL|variable|idn_whitelist
+DECL|variable|idn_whitelist_size
 DECL|variable|initial_bias
 DECL|variable|initial_n
 DECL|variable|skew
