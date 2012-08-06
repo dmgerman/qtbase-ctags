@@ -4,6 +4,8 @@ DECL|function|alignment
 DECL|function|assemblyMarker
 DECL|function|assignment_operator
 DECL|function|assignment_operator_data
+DECL|function|booleanHelper
+DECL|function|constexprFunctionsHelperTemplate
 DECL|function|constructor
 DECL|function|constructor_data
 DECL|function|copy_constructor
