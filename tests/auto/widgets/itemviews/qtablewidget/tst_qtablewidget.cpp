@@ -19,6 +19,7 @@ DECL|function|itemData
 DECL|function|itemOwnership
 DECL|function|itemStreaming
 DECL|function|itemStreaming_data
+DECL|function|itemWithHeaderItems
 DECL|function|item_data
 DECL|function|removeColumn
 DECL|function|removeColumn_data
