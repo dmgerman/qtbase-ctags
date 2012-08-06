@@ -1,3 +1,5 @@
+DECL|enumerator|IsInteger
+DECL|enumerator|IsInteger
 DECL|function|ref
 DECL|macro|QATOMIC_CXX11_H
 DECL|macro|Q_ATOMIC_INT16_FETCH_AND_ADD_IS_ALWAYS_NATIVE
@@ -32,5 +34,7 @@ DECL|macro|Q_BASIC_ATOMIC_INITIALIZER
 DECL|macro|Q_BASIC_ATOMIC_INITIALIZER
 DECL|member|AddScale
 DECL|struct|QAtomicOps
+DECL|struct|char16_t
+DECL|struct|char32_t
 DECL|typedef|Type
 DECL|typedef|_AdditiveType

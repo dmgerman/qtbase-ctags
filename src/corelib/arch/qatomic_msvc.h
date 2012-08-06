@@ -1,3 +1,4 @@
+DECL|enumerator|IsInteger
 DECL|function|sizeof
 DECL|macro|QATOMIC_MSVC_H
 DECL|macro|QT_INTERLOCKED_COMPARE_EXCHANGE
@@ -76,5 +77,6 @@ DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
 DECL|struct|QAtomicOpsBySize
 DECL|struct|T
+DECL|struct|char32_t
 DECL|typedef|Type
 DECL|typedef|Type
