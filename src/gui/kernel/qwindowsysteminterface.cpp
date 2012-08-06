@@ -60,5 +60,4 @@ DECL|function|tryHandleSynchronousShortcutEvent
 DECL|function|windowSystemEventsQueued
 DECL|function|windowSystemEventsQueued
 DECL|member|eventTime
-DECL|member|queueMutex
 DECL|member|windowSystemEventQueue
