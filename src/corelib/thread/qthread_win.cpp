@@ -1,8 +1,6 @@
 DECL|function|createEventDispatcher
 DECL|function|current
-DECL|function|currentThreadId
 DECL|function|finish
-DECL|function|idealThreadCount
 DECL|function|init
 DECL|function|msleep
 DECL|function|qt_adopted_thread_watcher_function

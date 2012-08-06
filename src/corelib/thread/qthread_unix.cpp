@@ -4,12 +4,10 @@ DECL|function|clear_thread_data
 DECL|function|createEventDispatcher
 DECL|function|create_current_thread_data_key
 DECL|function|current
-DECL|function|currentThreadId
 DECL|function|destroy_current_thread_data
 DECL|function|destroy_current_thread_data_key
 DECL|function|finish
 DECL|function|get_thread_data
-DECL|function|idealThreadCount
 DECL|function|init
 DECL|function|msleep
 DECL|function|setCurrentThreadName
