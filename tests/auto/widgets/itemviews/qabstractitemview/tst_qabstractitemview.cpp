@@ -56,6 +56,7 @@ DECL|function|task200665_itemEntered
 DECL|function|task221955_selectedEditor
 DECL|function|task250754_fontChange
 DECL|function|task257481_emptyEditor
+DECL|function|testClickedSignal
 DECL|function|testDelegateDestroyEditor
 DECL|function|tst_QAbstractItemView
 DECL|function|tst_closeEditor
