@@ -10,7 +10,6 @@ DECL|function|checkEvent
 DECL|function|checkEvent
 DECL|function|clipboardReadIncrementalProperty
 DECL|function|clipboardReadProperty
-DECL|function|empty
 DECL|function|formats_sys
 DECL|function|getDataInFormat
 DECL|function|getSelection
@@ -19,6 +18,7 @@ DECL|function|handleSelectionClearRequest
 DECL|function|handleSelectionRequest
 DECL|function|handleXFixesSelectionRequest
 DECL|function|hasFormat_sys
+DECL|function|isEmpty
 DECL|function|maxSelectionIncr
 DECL|function|mimeData
 DECL|function|modeForAtom
