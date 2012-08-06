@@ -34,8 +34,6 @@ DECL|function|currentDateTime
 DECL|function|currentDateTime
 DECL|function|currentDateTimeUtc
 DECL|function|currentDateTimeUtc
-DECL|function|currentMSecsSinceEpoch
-DECL|function|currentMSecsSinceEpoch
 DECL|function|currentTime
 DECL|function|currentTime
 DECL|function|date

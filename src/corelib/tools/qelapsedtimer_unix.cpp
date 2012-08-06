@@ -1,17 +1,6 @@
-DECL|function|clockType
 DECL|function|do_gettime
-DECL|function|elapsed
 DECL|function|elapsedAndRestart
 DECL|function|fractionAdjustment
-DECL|function|isMonotonic
-DECL|function|msecsSinceReference
-DECL|function|msecsTo
-DECL|function|nsecsElapsed
-DECL|function|operator <
-DECL|function|qt_gettime
-DECL|function|restart
-DECL|function|secsTo
-DECL|function|start
 DECL|function|unixCheckClockType
 DECL|macro|_POSIX_MONOTONIC_CLOCK
 DECL|macro|_POSIX_MONOTONIC_CLOCK
