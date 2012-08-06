@@ -1,7 +1,4 @@
-DECL|function|isTestAndSetNative
-DECL|function|isTestAndSetWaitFree
 DECL|function|nocv
-DECL|function|testAndSetRelaxed
 DECL|macro|QATOMIC_UNIX_H
 DECL|macro|Q_ATOMIC_INT32_IS_SUPPORTED
 DECL|macro|Q_ATOMIC_INT_FETCH_AND_ADD_IS_NOT_NATIVE

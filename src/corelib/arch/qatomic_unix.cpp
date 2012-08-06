@@ -1,3 +1,1 @@
-DECL|function|testAndSetRelaxed
-DECL|function|testAndSetRelaxed
 DECL|variable|qAtomicMutex

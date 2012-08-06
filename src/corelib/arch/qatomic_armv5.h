@@ -1,15 +1,4 @@
-DECL|function|_q_cmpxchg
-DECL|function|_q_dmb
-DECL|function|deref
-DECL|function|fetchAndAddRelaxed
-DECL|function|fetchAndStoreRelaxed
-DECL|function|fetchAndStoreRelaxed
-DECL|function|isTestAndSetNative
-DECL|function|isTestAndSetWaitFree
-DECL|function|orderedMemoryFence
-DECL|function|ref
 DECL|function|sizeof
-DECL|function|testAndSetRelaxed
 DECL|macro|QATOMIC_ARMV5_H
 DECL|macro|Q_ATOMIC_INT_FETCH_AND_ADD_IS_NOT_NATIVE
 DECL|macro|Q_ATOMIC_INT_FETCH_AND_STORE_IS_ALWAYS_NATIVE
@@ -20,4 +9,9 @@ DECL|macro|Q_ATOMIC_POINTER_FETCH_AND_ADD_IS_NOT_NATIVE
 DECL|macro|Q_ATOMIC_POINTER_FETCH_AND_STORE_IS_ALWAYS_NATIVE
 DECL|macro|Q_ATOMIC_POINTER_FETCH_AND_STORE_IS_WAIT_FREE
 DECL|macro|Q_ATOMIC_POINTER_TEST_AND_SET_IS_NOT_NATIVE
+DECL|member|Q_DECL_NOTHROW
+DECL|member|Q_DECL_NOTHROW
+DECL|member|Q_DECL_NOTHROW
+DECL|member|Q_DECL_NOTHROW
+DECL|member|Q_DECL_NOTHROW
 DECL|struct|size
