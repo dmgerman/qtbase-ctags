@@ -140,6 +140,8 @@ DECL|function|textMask_data
 DECL|function|text_data
 DECL|function|tst_QLineEdit
 DECL|function|undo
+DECL|function|undoRedoAndEchoModes
+DECL|function|undoRedoAndEchoModes_data
 DECL|function|undo_data
 DECL|function|undo_keypressevents
 DECL|function|undo_keypressevents_data

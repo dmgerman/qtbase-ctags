@@ -23,6 +23,8 @@ DECL|function|internalInsert
 DECL|function|internalRedo
 DECL|function|internalSetText
 DECL|function|internalUndo
+DECL|function|isRedoAvailable
+DECL|function|isUndoAvailable
 DECL|function|isValidInput
 DECL|function|maskString
 DECL|function|moveCursor
