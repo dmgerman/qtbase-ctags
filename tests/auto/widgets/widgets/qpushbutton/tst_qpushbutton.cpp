@@ -22,6 +22,7 @@ DECL|function|setAccel
 DECL|function|setDown
 DECL|function|sizeHint
 DECL|function|sizeHint_data
+DECL|function|taskQTBUG_20191_shortcutWithKeypadModifer
 DECL|function|toggle
 DECL|function|toggled
 DECL|function|tst_QPushButton
