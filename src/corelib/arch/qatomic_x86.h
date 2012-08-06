@@ -62,6 +62,7 @@ DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
+DECL|member|Q_DECL_NOTHROW
 DECL|struct|QAtomicOpsSupport
 DECL|struct|QAtomicOpsSupport
 DECL|struct|QAtomicOpsSupport

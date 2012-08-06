@@ -26,6 +26,7 @@ DECL|function|isReferenceCountingNative
 DECL|function|isReferenceCountingWaitFree
 DECL|function|isTestAndSetNative
 DECL|function|isTestAndSetWaitFree
+DECL|function|operators
 DECL|function|ref
 DECL|function|ref_data
 DECL|function|run

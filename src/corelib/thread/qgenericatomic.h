@@ -14,6 +14,9 @@ DECL|member|T
 DECL|member|T
 DECL|member|T
 DECL|member|T
+DECL|member|T
+DECL|member|T
+DECL|member|T
 DECL|struct|AtomicType
 DECL|struct|QAtomicAdditiveType
 DECL|struct|QAtomicOpsSupport
