@@ -5,8 +5,6 @@ DECL|function|macVersion
 DECL|function|qBadAlloc
 DECL|function|qMemCopy
 DECL|function|qMemSet
-DECL|function|qSharedBuild
-DECL|function|qVersion
 DECL|function|qgetenv
 DECL|function|qputenv
 DECL|function|qrand
