@@ -274,6 +274,7 @@ DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|slotTimer
 DECL|function|stackUnder
+DECL|function|styleSheetPropagation
 DECL|function|subtractOpaqueSiblings
 DECL|function|syntheticEnterLeave
 DECL|function|tab
