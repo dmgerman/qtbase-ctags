@@ -15,12 +15,14 @@ DECL|function|deletePendingResources
 DECL|function|deleteQGLContext
 DECL|function|destroy
 DECL|function|doneCurrent
+DECL|function|extensions
 DECL|function|format
 DECL|function|free
 DECL|function|freeResource
 DECL|function|functions
 DECL|function|getProcAddress
 DECL|function|handle
+DECL|function|hasExtension
 DECL|function|insert
 DECL|function|isValid
 DECL|function|makeCurrent
