@@ -1,10 +1,10 @@
 DECL|enumerator|CC_BORLAND
 DECL|enumerator|CC_INTEL
 DECL|enumerator|CC_MINGW
-DECL|enumerator|CC_NET11
 DECL|enumerator|CC_NET2003
 DECL|enumerator|CC_NET2005
 DECL|enumerator|CC_NET2008
 DECL|enumerator|CC_NET2010
+DECL|enumerator|CC_NET2012
 DECL|enumerator|CC_UNKNOWN
 DECL|enum|Compiler
