@@ -6,6 +6,7 @@ DECL|class|sortProxy
 DECL|class|tst_QFileDialog2
 DECL|function|CrashDialog
 DECL|function|FilterDirModel
+DECL|function|MenuCloser
 DECL|function|MyQSideBar
 DECL|function|QNonNativeFileDialog
 DECL|function|QTBUG4419_lineEditSelectAll
@@ -22,9 +23,12 @@ DECL|function|heapCorruption
 DECL|function|init
 DECL|function|lessThan
 DECL|function|listRoot
+DECL|function|openContextMenu
+DECL|function|operator ()
 DECL|function|removeSelection
 DECL|function|showNameFilterDetails
 DECL|function|sortProxy
+DECL|function|task143519_deleteAndRenameActionBehavior
 DECL|function|task178897_minimumSize
 DECL|function|task180459_lastDirectory
 DECL|function|task180459_lastDirectory_data
@@ -50,4 +54,6 @@ DECL|function|~tst_QFileDialog2
 DECL|member|m_root
 DECL|member|tempDir
 DECL|member|userSettings
+DECL|member|w
 DECL|struct|FriendlyQFileDialog
+DECL|struct|MenuCloser
