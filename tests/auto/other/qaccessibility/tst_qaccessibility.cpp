@@ -16,6 +16,7 @@ DECL|function|applicationTest
 DECL|function|bridgeTest
 DECL|function|buttonTest
 DECL|function|calendarWidgetTest
+DECL|function|characterRect
 DECL|function|childRect
 DECL|function|cleanup
 DECL|function|cleanupTestCase

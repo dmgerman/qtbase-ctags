@@ -7,6 +7,7 @@ DECL|function|QAccessibleMdiSubWindow
 DECL|function|QAccessibleStackedWidget
 DECL|function|QAccessibleTextBrowser
 DECL|function|QAccessibleTextEdit
+DECL|function|QAccessibleTextWidget
 DECL|function|QAccessibleTitleBar
 DECL|function|QAccessibleToolBox
 DECL|function|addSelection
@@ -33,12 +34,12 @@ DECL|function|childCount
 DECL|function|childCount
 DECL|function|childCount
 DECL|function|childWidgets
-DECL|function|cursorForRange
 DECL|function|cursorPosition
 DECL|function|deleteText
 DECL|function|dockWidget
 DECL|function|dockWidget
 DECL|function|dockWidgetLayout
+DECL|function|getBoundaries
 DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|indexOfChild
@@ -64,6 +65,8 @@ DECL|function|replaceText
 DECL|function|role
 DECL|function|role
 DECL|function|role
+DECL|function|scrollBarsCurrentPosition
+DECL|function|scrollBarsCurrentPosition
 DECL|function|scrollToSubstring
 DECL|function|selection
 DECL|function|selectionCount
@@ -72,6 +75,7 @@ DECL|function|setSelection
 DECL|function|setText
 DECL|function|setText
 DECL|function|setText
+DECL|function|setTextCursor
 DECL|function|stackedWidget
 DECL|function|state
 DECL|function|state
@@ -83,5 +87,9 @@ DECL|function|text
 DECL|function|textAfterOffset
 DECL|function|textAtOffset
 DECL|function|textBeforeOffset
+DECL|function|textCursor
+DECL|function|textCursorForRange
+DECL|function|textDocument
 DECL|function|textEdit
 DECL|function|toolBox
+DECL|function|viewport

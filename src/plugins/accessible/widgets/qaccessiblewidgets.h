@@ -11,5 +11,7 @@ DECL|variable|QMdiSubWindow
 DECL|variable|QRubberBand
 DECL|variable|QStackedWidget
 DECL|variable|QTextBrowser
+DECL|variable|QTextCursor
+DECL|variable|QTextDocument
 DECL|variable|QTextEdit
 DECL|variable|QToolBox
