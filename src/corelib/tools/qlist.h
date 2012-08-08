@@ -1,6 +1,7 @@
 DECL|enumerator|DataHeaderSize
 DECL|function|at
 DECL|function|begin
+DECL|function|dispose
 DECL|function|end
 DECL|function|isEmpty
 DECL|function|node_construct
