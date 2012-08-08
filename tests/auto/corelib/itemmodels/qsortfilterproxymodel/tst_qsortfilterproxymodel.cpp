@@ -1,3 +1,4 @@
+DECL|class|ChangableHeaderData
 DECL|class|EvenOddFilterModel
 DECL|class|FilterProxy
 DECL|class|FilteredColumnProxyModel
@@ -9,6 +10,7 @@ DECL|class|SelectionProxyModel
 DECL|class|SignalArgumentChecker
 DECL|class|TestModel
 DECL|class|tst_QSortFilterProxyModel
+DECL|function|ChangableHeaderData
 DECL|function|FilterProxy
 DECL|function|FilteredColumnProxyModel
 DECL|function|Model10287
@@ -36,6 +38,7 @@ DECL|function|data
 DECL|function|data
 DECL|function|doubleProxySelectionSetSourceModel
 DECL|function|dynamicSorting
+DECL|function|emitHeaderDataChanged
 DECL|function|fetchMore
 DECL|function|fetchMore
 DECL|function|filter
@@ -55,6 +58,7 @@ DECL|function|filter_data
 DECL|function|filteredColumns
 DECL|function|getSetCheck
 DECL|function|hasChildren
+DECL|function|headerDataChanged
 DECL|function|hiddenChildren
 DECL|function|hiddenColumns
 DECL|function|hierarchyFilterInvalidation

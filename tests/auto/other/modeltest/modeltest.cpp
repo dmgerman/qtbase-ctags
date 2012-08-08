@@ -2,7 +2,9 @@ DECL|function|ModelTest
 DECL|function|checkChildren
 DECL|function|columnCount
 DECL|function|data
+DECL|function|dataChanged
 DECL|function|hasIndex
+DECL|function|headerDataChanged
 DECL|function|index
 DECL|function|layoutAboutToBeChanged
 DECL|function|layoutChanged
