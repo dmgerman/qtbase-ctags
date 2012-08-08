@@ -46,7 +46,6 @@ DECL|macro|QT_TSTAT
 DECL|macro|QT_TSTAT
 DECL|macro|QT_VSNPRINTF
 DECL|macro|QT_WRITE
-DECL|macro|Q_FS_FAT
 DECL|macro|R_OK
 DECL|macro|W_OK
 DECL|macro|X_OK
