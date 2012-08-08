@@ -1,10 +1,8 @@
-DECL|function|KeyboardModifiersToString
 DECL|function|QDragManager
 DECL|function|QInternalMimeData
 DECL|function|canReadData
 DECL|function|currentTarget
 DECL|function|drag
-DECL|function|dragActionsToString
 DECL|function|formats
 DECL|function|formatsHelper
 DECL|function|hasFormat
