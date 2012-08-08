@@ -1,7 +1,7 @@
 DECL|function|QLinkedListNode
 DECL|function|clear
 DECL|function|detach_helper
-DECL|function|free
+DECL|function|freeData
 DECL|function|~QLinkedList
 DECL|macro|QLINKEDLIST_H
 DECL|member|n
