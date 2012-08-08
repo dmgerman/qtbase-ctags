@@ -1,3 +1,3 @@
-DECL|function|allocate
+DECL|function|allocateData
 DECL|function|dump
-DECL|function|free
+DECL|function|freeData

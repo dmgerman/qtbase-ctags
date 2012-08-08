@@ -1,8 +1,8 @@
 DECL|function|QContiguousCache
+DECL|function|allocateData
 DECL|function|clear
 DECL|function|detach_helper
-DECL|function|free
-DECL|function|malloc
+DECL|function|freeData
 DECL|function|setCapacity
 DECL|macro|QCONTIGUOUSCACHE_H
 DECL|macro|QT_QCONTIGUOUSCACHE_DEBUG
