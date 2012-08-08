@@ -1,7 +1,10 @@
 DECL|function|checkExecutable
 DECL|function|displayName
+DECL|function|enableTestMode
 DECL|function|executableExtensions
 DECL|function|existsAsSpecified
 DECL|function|findExecutable
+DECL|function|isTestModeEnabled
 DECL|function|locate
 DECL|function|locateAll
+DECL|variable|qsp_testMode
