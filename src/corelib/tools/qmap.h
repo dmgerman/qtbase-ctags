@@ -17,6 +17,7 @@ DECL|function|count
 DECL|function|create
 DECL|function|createNode
 DECL|function|deleteNode
+DECL|function|destroy
 DECL|function|destroySubTree
 DECL|function|detach_helper
 DECL|function|dump
@@ -27,7 +28,6 @@ DECL|function|erase
 DECL|function|find
 DECL|function|find
 DECL|function|findNode
-DECL|function|free
 DECL|function|insert
 DECL|function|insertMulti
 DECL|function|key
