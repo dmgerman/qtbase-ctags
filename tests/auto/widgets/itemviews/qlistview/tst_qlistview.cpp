@@ -36,6 +36,8 @@ DECL|function|contentsSize
 DECL|function|contentsSize
 DECL|function|cursorMove
 DECL|function|data
+DECL|function|draggablePaintPairs
+DECL|function|draggablePaintPairs_data
 DECL|function|emptyItemSize
 DECL|function|emptyModel
 DECL|function|getHWNDForWidget
