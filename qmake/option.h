@@ -72,9 +72,9 @@ DECL|member|project_dirs
 DECL|member|project_files
 DECL|member|properties
 DECL|member|qmake_abslocation
+DECL|member|qmake_args
 DECL|member|qmake_mode
 DECL|member|qmakespec
-DECL|member|qmakespec_commandline
 DECL|member|recursive
 DECL|member|res_ext
 DECL|member|source_root
@@ -83,7 +83,6 @@ DECL|member|user_template
 DECL|member|user_template_prefix
 DECL|member|warn_level
 DECL|member|xqmakespec
-DECL|member|xqmakespec_commandline
 DECL|member|yacc_ext
 DECL|member|yacc_mod
 DECL|struct|Option
