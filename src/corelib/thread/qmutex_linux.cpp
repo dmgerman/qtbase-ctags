@@ -1,2 +1,4 @@
+DECL|function|checkFutexPrivateSupport
 DECL|function|dummyFutexValue
 DECL|function|futexFlags
+DECL|variable|futexFlagSupport
