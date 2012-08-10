@@ -62,6 +62,7 @@ DECL|function|rowCount
 DECL|function|rowCount
 DECL|function|rowIntersectsSelection1
 DECL|function|rowIntersectsSelection2
+DECL|function|rowIntersectsSelection3
 DECL|function|select
 DECL|function|select
 DECL|function|select_data
