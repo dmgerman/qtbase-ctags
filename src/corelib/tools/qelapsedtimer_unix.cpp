@@ -4,8 +4,6 @@ DECL|function|fractionAdjustment
 DECL|function|unixCheckClockType
 DECL|macro|_POSIX_MONOTONIC_CLOCK
 DECL|macro|_POSIX_MONOTONIC_CLOCK
-DECL|macro|is_likely
-DECL|macro|is_likely
 DECL|macro|load_acquire
 DECL|macro|store_release
 DECL|variable|monotonicClockAvailable
