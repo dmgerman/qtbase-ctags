@@ -21,7 +21,7 @@ DECL|function|check_parent_thread
 DECL|function|check_signal_macro
 DECL|function|childEvent
 DECL|function|cleanConnectionLists
-DECL|function|compare
+DECL|function|cleanup
 DECL|function|computeOffsets
 DECL|function|connect
 DECL|function|connect
@@ -108,7 +108,6 @@ DECL|function|~QObject
 DECL|function|~QObjectData
 DECL|function|~QObjectPrivate
 DECL|function|~QObjectUserData
-DECL|function|~QSlotObjectBase
 DECL|member|allsignals
 DECL|member|currentSender
 DECL|member|dirty
@@ -118,6 +117,7 @@ DECL|member|previousSender
 DECL|member|receiver
 DECL|member|switched
 DECL|struct|QConnectionSenderSwitcher
+DECL|struct|QSlotObjectBaseDeleter
 DECL|variable|DIRECT_CONNECTION_ONLY
 DECL|variable|_q_ObjectMutexPool
 DECL|variable|destroyed
