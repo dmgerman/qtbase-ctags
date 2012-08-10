@@ -1,4 +1,4 @@
-DECL|function|normalizedTimeval
+DECL|function|normalizedTimespec
 DECL|function|operator
 DECL|function|operator
 DECL|macro|EINTR_LOOP
