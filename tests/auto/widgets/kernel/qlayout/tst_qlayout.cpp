@@ -24,6 +24,7 @@ DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|smartMaxSize
 DECL|function|takeAt
+DECL|function|testRetainSizeWhenHidden
 DECL|function|tst_QLayout
 DECL|function|warnIfWrongParent
 DECL|function|~tst_QLayout
