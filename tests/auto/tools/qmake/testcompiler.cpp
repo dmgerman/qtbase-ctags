@@ -8,7 +8,10 @@ DECL|function|make
 DECL|function|makeClean
 DECL|function|makeDistClean
 DECL|function|qmake
+DECL|function|qmakeProject
+DECL|function|removeFile
 DECL|function|removeMakefile
+DECL|function|removeProject
 DECL|function|resetArguments
 DECL|function|resetEnvironment
 DECL|function|runCommand
