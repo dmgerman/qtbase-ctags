@@ -2,6 +2,7 @@ DECL|function|do_gettime
 DECL|function|elapsedAndRestart
 DECL|function|fractionAdjustment
 DECL|function|unixCheckClockType
+DECL|macro|_POSIX_C_SOURCE
 DECL|macro|_POSIX_MONOTONIC_CLOCK
 DECL|macro|_POSIX_MONOTONIC_CLOCK
 DECL|macro|load_acquire
