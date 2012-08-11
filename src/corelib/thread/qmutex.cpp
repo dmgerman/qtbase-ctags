@@ -3,6 +3,7 @@ DECL|enumerator|MaxIndex
 DECL|function|QMutex
 DECL|function|allocate
 DECL|function|isRecursive
+DECL|function|isRecursive
 DECL|function|release
 DECL|function|~QMutex
 DECL|member|Sizes
