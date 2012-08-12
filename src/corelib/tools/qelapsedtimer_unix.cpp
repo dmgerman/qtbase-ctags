@@ -1,6 +1,7 @@
 DECL|function|do_gettime
 DECL|function|elapsedAndRestart
 DECL|function|fractionAdjustment
+DECL|function|qt_nanosleep
 DECL|function|unixCheckClockType
 DECL|macro|_POSIX_C_SOURCE
 DECL|macro|_POSIX_MONOTONIC_CLOCK

@@ -9,6 +9,7 @@ DECL|function|destroy_current_thread_data_key
 DECL|function|finish
 DECL|function|get_thread_data
 DECL|function|init
+DECL|function|makeTimespec
 DECL|function|msleep
 DECL|function|setCurrentThreadName
 DECL|function|setPriority
@@ -18,7 +19,6 @@ DECL|function|sleep
 DECL|function|start
 DECL|function|start
 DECL|function|terminate
-DECL|function|thread_sleep
 DECL|function|usleep
 DECL|function|wait
 DECL|function|yieldCurrentThread
