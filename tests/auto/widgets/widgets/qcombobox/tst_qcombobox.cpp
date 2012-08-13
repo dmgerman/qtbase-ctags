@@ -26,6 +26,7 @@ DECL|function|flaggedItems_data
 DECL|function|getSetCheck
 DECL|function|hasChildren
 DECL|function|hide
+DECL|function|highlightedSignal
 DECL|function|horizontalOffset
 DECL|function|index
 DECL|function|indexAt
