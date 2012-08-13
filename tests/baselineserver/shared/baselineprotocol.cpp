@@ -5,6 +5,7 @@ DECL|function|acceptConnection
 DECL|function|addOverride
 DECL|function|computeChecksum
 DECL|function|connect
+DECL|function|disconnect
 DECL|function|errorMessage
 DECL|function|isAdHocRun
 DECL|function|localHostInfo
@@ -21,6 +22,7 @@ DECL|function|requestBaselineChecksums
 DECL|function|sendBlock
 DECL|function|sendItem
 DECL|function|setAdHocRun
+DECL|function|submitMatch
 DECL|function|submitMismatch
 DECL|function|submitNewBaseline
 DECL|function|sysSleep

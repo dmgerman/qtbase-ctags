@@ -1,4 +1,6 @@
 DECL|enumerator|BaselineNotFound
+DECL|enumerator|Error
+DECL|enumerator|FuzzyMatch
 DECL|enumerator|IgnoreItem
 DECL|enumerator|Mismatch
 DECL|enumerator|Ok

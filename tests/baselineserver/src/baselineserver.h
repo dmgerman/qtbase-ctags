@@ -1,3 +1,5 @@
 DECL|macro|BASELINESERVER_H
 DECL|macro|HEARTBEAT
+DECL|macro|IDLE_CLIENT_TIMEOUT
 DECL|macro|MetadataFileExt
+DECL|macro|ThumbnailExt
