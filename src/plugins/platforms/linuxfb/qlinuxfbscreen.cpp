@@ -1,6 +1,5 @@
 DECL|function|QLinuxFbScreen
 DECL|function|blankScreen
-DECL|function|debug
 DECL|function|determineDepth
 DECL|function|determineFormat
 DECL|function|determineGeometry
