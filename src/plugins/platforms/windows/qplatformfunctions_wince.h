@@ -1,4 +1,5 @@
 DECL|function|AddFontResourceExW
+DECL|function|GetAncestor
 DECL|function|GetGlyphOutline
 DECL|function|IsIconic
 DECL|function|OleUninitialize
@@ -14,6 +15,7 @@ DECL|macro|ChangeClipboardChain
 DECL|macro|ChildWindowFromPointEx
 DECL|macro|DEVICE_FONTTYPE
 DECL|macro|FE_FONTSMOOTHINGCLEARTYPE
+DECL|macro|GA_PARENT
 DECL|macro|GET_XBUTTON_WPARAM
 DECL|macro|GGO_GLYPH_INDEX
 DECL|macro|GGO_NATIVE
