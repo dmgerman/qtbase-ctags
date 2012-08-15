@@ -12,6 +12,7 @@ DECL|function|get_thread_data
 DECL|function|idealThreadCount
 DECL|function|init
 DECL|function|msleep
+DECL|function|setCurrentThreadName
 DECL|function|setPriority
 DECL|function|setTerminationEnabled
 DECL|function|set_thread_data
