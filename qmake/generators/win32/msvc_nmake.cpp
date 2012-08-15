@@ -6,6 +6,7 @@ DECL|function|init
 DECL|function|var
 DECL|function|writeBuildRulesPart
 DECL|function|writeImplicitRulesPart
+DECL|function|writeLinkCommand
 DECL|function|writeMakefile
 DECL|function|writeNmakeParts
 DECL|function|writeSubMakeCall
