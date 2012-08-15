@@ -1,1 +1,0 @@
-DECL|macro|MODEL_H
