@@ -10,3 +10,4 @@ DECL|function|sizeSpeedWithoutFileInfoList
 DECL|function|sizeSpeedWithoutFilter
 DECL|function|sizeSpeedWithoutFilterIterator
 DECL|function|sizeSpeedWithoutFilterLowLevel
+DECL|function|sorted_byTime
