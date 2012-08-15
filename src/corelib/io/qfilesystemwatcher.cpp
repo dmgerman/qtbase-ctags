@@ -13,3 +13,4 @@ DECL|function|initPollerEngine
 DECL|function|removePath
 DECL|function|removePaths
 DECL|function|~QFileSystemWatcher
+DECL|macro|USE_INOTIFY
