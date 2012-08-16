@@ -11,6 +11,7 @@ DECL|function|ensureDetached
 DECL|function|isHex
 DECL|function|isUpperHex
 DECL|function|qt_urlRecode
+DECL|function|qt_urlRecodeByteArray
 DECL|function|recode
 DECL|function|toUpperHex
 DECL|function|unicodeToEncodedUtf8

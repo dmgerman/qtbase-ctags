@@ -21,6 +21,7 @@ DECL|function|fileScheme
 DECL|function|fragment
 DECL|function|fromAce
 DECL|function|fromEncoded
+DECL|function|fromEncodedComponent_helper
 DECL|function|fromLocalFile
 DECL|function|fromPercentEncoding
 DECL|function|fromUserInput

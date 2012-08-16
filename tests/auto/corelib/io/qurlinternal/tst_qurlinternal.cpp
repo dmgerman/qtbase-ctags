@@ -14,6 +14,8 @@ DECL|function|nameprep_highcodes
 DECL|function|nameprep_highcodes_data
 DECL|function|nameprep_testsuite
 DECL|function|nameprep_testsuite_data
+DECL|function|recodeByteArray
+DECL|function|recodeByteArray_data
 DECL|function|std3deviations
 DECL|function|std3deviations_data
 DECL|function|std3violations
