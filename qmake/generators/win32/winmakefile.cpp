@@ -5,7 +5,6 @@ DECL|function|findHighestVersion
 DECL|function|findLibraries
 DECL|function|fixTargetExt
 DECL|function|getLibTarget
-DECL|function|processFileTagsVar
 DECL|function|processPrlFiles
 DECL|function|processRcFileVar
 DECL|function|processVars
