@@ -1,5 +1,6 @@
 DECL|function|Generator
 DECL|function|aggregateParameterCount
+DECL|function|automaticPropertyMetaTypesHelper
 DECL|function|generateClassInfos
 DECL|function|generateCode
 DECL|function|generateEnums
@@ -20,8 +21,13 @@ DECL|function|registerClassInfoStrings
 DECL|function|registerEnumStrings
 DECL|function|registerFunctionStrings
 DECL|function|registerPropertyStrings
+DECL|function|registerableMetaType
 DECL|function|stridx
 DECL|function|strreg
 DECL|function|writePluginMetaData
 DECL|macro|RETURN_METATYPENAME_STRING
 DECL|macro|RETURN_METATYPENAME_STRING
+DECL|macro|STREAM_1ARG_TEMPLATE
+DECL|macro|STREAM_1ARG_TEMPLATE
+DECL|macro|STREAM_SMART_POINTER
+DECL|macro|STREAM_SMART_POINTER

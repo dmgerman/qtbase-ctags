@@ -7,6 +7,7 @@ DECL|enumerator|QueryPropertyScriptable
 DECL|enumerator|QueryPropertyStored
 DECL|enumerator|QueryPropertyUser
 DECL|enumerator|ReadProperty
+DECL|enumerator|RegisterPropertyMetaType
 DECL|enumerator|ResetProperty
 DECL|enumerator|WriteProperty
 DECL|enum|Call
