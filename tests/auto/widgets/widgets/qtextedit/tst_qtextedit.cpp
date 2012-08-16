@@ -61,6 +61,7 @@ DECL|function|fullWidthSelection
 DECL|function|fullWidthSelection2
 DECL|function|fullWidthSelection_data
 DECL|function|getSetCheck
+DECL|function|highlightLongLine
 DECL|function|hitTest
 DECL|function|implicitClear
 DECL|function|init
