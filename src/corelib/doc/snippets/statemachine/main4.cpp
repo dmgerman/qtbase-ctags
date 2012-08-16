@@ -1,0 +1,9 @@
+DECL|class|StringTransition
+DECL|function|StringEvent
+DECL|function|StringTransition
+DECL|function|eventTest
+DECL|function|main
+DECL|function|onTransition
+DECL|member|m_value
+DECL|member|value
+DECL|struct|StringEvent
