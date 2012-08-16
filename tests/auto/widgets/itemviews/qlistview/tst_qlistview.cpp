@@ -78,6 +78,8 @@ DECL|function|showEvent
 DECL|function|singleSelectionRemoveColumn
 DECL|function|singleSelectionRemoveRow
 DECL|function|sizeHint
+DECL|function|spacing
+DECL|function|spacing_data
 DECL|function|styleOptionViewItem
 DECL|function|task196118_visualRegionForSelection
 DECL|function|task203585_selectAll
