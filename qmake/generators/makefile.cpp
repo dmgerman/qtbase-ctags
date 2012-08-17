@@ -3,7 +3,6 @@ DECL|function|ReplaceExtraCompilerCacheKey
 DECL|function|buildArgs
 DECL|function|build_args
 DECL|function|canExecute
-DECL|function|checkMultipleDefinition
 DECL|function|createObjectList
 DECL|function|escapeDependencyPaths
 DECL|function|escapeFilePaths
