@@ -8,6 +8,7 @@ DECL|function|QTestDocumentLayout
 DECL|function|StateTestHighlighter
 DECL|function|TestHighlighter
 DECL|function|TestHighlighter
+DECL|function|TestHighlighter
 DECL|function|avoidUnnecessaryRehighlight
 DECL|function|basic
 DECL|function|basicTwo
@@ -38,6 +39,7 @@ DECL|function|reset
 DECL|function|setCharFormat
 DECL|function|stopHighlightingWhenStateDoesNotChange
 DECL|function|task108530
+DECL|function|textEditParent
 DECL|function|tst_QSyntaxHighlighter
 DECL|function|unindent
 DECL|member|callCount
