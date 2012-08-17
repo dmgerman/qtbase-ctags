@@ -42,6 +42,7 @@ DECL|function|handleWmPaint
 DECL|function|hide_sys
 DECL|function|initialize
 DECL|function|isActive
+DECL|function|isEmbedded
 DECL|function|isEnabled
 DECL|function|isFullScreen_sys
 DECL|function|isVisible

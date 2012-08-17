@@ -5,6 +5,7 @@ DECL|function|frameStrutEventsEnabled
 DECL|function|geometry
 DECL|function|handleContentOrientationChange
 DECL|function|isActive
+DECL|function|isEmbedded
 DECL|function|isExposed
 DECL|function|lower
 DECL|function|parent
