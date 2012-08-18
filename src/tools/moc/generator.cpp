@@ -16,6 +16,7 @@ DECL|function|generateTypeInfo
 DECL|function|isBuiltinType
 DECL|function|lengthOfEscapeSequence
 DECL|function|metaTypeEnumValueString
+DECL|function|methodsWithAutomaticTypesHelper
 DECL|function|nameToBuiltinType
 DECL|function|registerClassInfoStrings
 DECL|function|registerEnumStrings
