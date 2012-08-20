@@ -7,6 +7,7 @@ DECL|function|completeBaseName
 DECL|function|completeBaseName_data
 DECL|function|completeSuffix
 DECL|function|completeSuffix_data
+DECL|function|defaultCtor
 DECL|function|getSetCheck
 DECL|function|getSetCheck
 DECL|function|getSetCheck_data
