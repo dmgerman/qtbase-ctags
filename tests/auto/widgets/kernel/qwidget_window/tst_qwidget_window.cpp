@@ -5,6 +5,8 @@ DECL|function|event
 DECL|function|initTestCase
 DECL|function|reset
 DECL|function|tst_QWidget_window
+DECL|function|tst_min_max_size
+DECL|function|tst_min_max_size_data
 DECL|function|tst_move_show
 DECL|function|tst_paintEventOnSecondShow
 DECL|function|tst_resize_show
