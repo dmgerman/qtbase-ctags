@@ -23,7 +23,6 @@ DECL|function|mouseMoveEvent
 DECL|function|mousePressEvent
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
-DECL|function|multMatrix
 DECL|function|newItem
 DECL|function|paint
 DECL|function|pixelPosToViewPos

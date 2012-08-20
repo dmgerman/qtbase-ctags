@@ -200,11 +200,8 @@ DECL|macro|ctx
 DECL|macro|ctx
 DECL|macro|ctx
 DECL|macro|ctx
-DECL|macro|setUniformGenericMatrix
-DECL|macro|setUniformGenericMatrix
 DECL|macro|setUniformGenericMatrixArray
 DECL|macro|setUniformGenericMatrixArray
-DECL|macro|setUniformMatrix
 DECL|macro|setUniformMatrixArray
 DECL|member|anonShaders
 DECL|member|compiled

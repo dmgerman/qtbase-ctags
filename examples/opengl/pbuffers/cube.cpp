@@ -9,7 +9,6 @@ DECL|function|initialize
 DECL|function|loadArrays
 DECL|function|newCube
 DECL|function|newTile
-DECL|function|qMultMatrix
 DECL|function|qSetColor
 DECL|function|removeBounce
 DECL|function|setAltitude

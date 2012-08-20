@@ -19,7 +19,6 @@ DECL|function|draw
 DECL|function|extrude
 DECL|function|finalize
 DECL|function|loadArrays
-DECL|function|qMultMatrix
 DECL|function|qSetColor
 DECL|function|rotate
 DECL|function|rotate

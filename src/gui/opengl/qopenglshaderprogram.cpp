@@ -177,9 +177,7 @@ DECL|function|~QOpenGLShaderProgram
 DECL|function|~QOpenGLShaderProgramPrivate
 DECL|macro|QOpenGL_DEFINE_QUALIFIERS
 DECL|macro|QOpenGL_REDEFINE_HIGHP
-DECL|macro|setUniformGenericMatrix
 DECL|macro|setUniformGenericMatrixArray
-DECL|macro|setUniformMatrix
 DECL|macro|setUniformMatrixArray
 DECL|member|anonShaders
 DECL|member|compiled

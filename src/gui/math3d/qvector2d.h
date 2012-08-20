@@ -2,7 +2,6 @@ DECL|function|QVector2D
 DECL|function|QVector2D
 DECL|function|QVector2D
 DECL|function|QVector2D
-DECL|function|QVector2D
 DECL|function|isNull
 DECL|function|setX
 DECL|function|setY

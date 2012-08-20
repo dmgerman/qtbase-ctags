@@ -10,7 +10,6 @@ DECL|function|divide
 DECL|function|divide_data
 DECL|function|fromAxisAndAngle
 DECL|function|fromAxisAndAngle_data
-DECL|function|fuzzyCompare
 DECL|function|length
 DECL|function|length_data
 DECL|function|metaTypes

@@ -39,7 +39,6 @@ DECL|function|fill
 DECL|function|flipCoordinates
 DECL|function|frustum
 DECL|function|fuzzyCompare
-DECL|function|fuzzyCompare
 DECL|function|inverted4x4
 DECL|function|inverted4x4_data
 DECL|function|isIdentity

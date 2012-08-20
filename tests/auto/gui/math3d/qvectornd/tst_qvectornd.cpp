@@ -30,7 +30,6 @@ DECL|function|dotProduct3
 DECL|function|dotProduct3_data
 DECL|function|dotProduct4
 DECL|function|dotProduct4_data
-DECL|function|fuzzyCompare
 DECL|function|length2
 DECL|function|length2_data
 DECL|function|length3
