@@ -1,7 +1,7 @@
 DECL|function|ClassNode
+DECL|function|DocNode
 DECL|function|EnumNode
 DECL|function|ExampleNode
-DECL|function|FakeNode
 DECL|function|FunctionNode
 DECL|function|FunctionNode
 DECL|function|InnerNode

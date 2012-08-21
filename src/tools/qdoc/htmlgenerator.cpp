@@ -26,8 +26,8 @@ DECL|function|generateCollisionPages
 DECL|function|generateCompactList
 DECL|function|generateDetailedMember
 DECL|function|generateDetailedQmlMember
+DECL|function|generateDocNode
 DECL|function|generateExtractionMark
-DECL|function|generateFakeNode
 DECL|function|generateFooter
 DECL|function|generateFullName
 DECL|function|generateFunctionIndex

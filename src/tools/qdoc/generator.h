@@ -12,7 +12,7 @@ DECL|typedef|QString
 DECL|variable|ClassNode
 DECL|variable|CodeMarker
 DECL|variable|Config
-DECL|variable|FakeNode
+DECL|variable|DocNode
 DECL|variable|FunctionNode
 DECL|variable|InnerNode
 DECL|variable|Location

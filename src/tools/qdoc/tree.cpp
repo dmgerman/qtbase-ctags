@@ -12,8 +12,8 @@ DECL|function|checkForCollision
 DECL|function|compareNodes
 DECL|function|findClassNode
 DECL|function|findCollisionNode
+DECL|function|findDocNodeByTitle
 DECL|function|findEnumNode
-DECL|function|findFakeNodeByTitle
 DECL|function|findFunctionNode
 DECL|function|findFunctionNode
 DECL|function|findFunctionNode
@@ -58,7 +58,7 @@ DECL|member|atom
 DECL|member|basePath
 DECL|member|basesList
 DECL|member|dataTypeWithTemplateArgs
-DECL|member|fakeNodesByTitle
+DECL|member|docNodesByTitle
 DECL|member|groupMap
 DECL|member|node
 DECL|member|parent
@@ -70,7 +70,7 @@ DECL|member|unresolvedInheritanceMap
 DECL|member|unresolvedPropertyMap
 DECL|struct|InheritanceBound
 DECL|struct|Target
-DECL|typedef|FakeNodeHash
+DECL|typedef|DocNodeHash
 DECL|typedef|PropertyMap
 DECL|typedef|RoleMap
 DECL|typedef|TargetHash

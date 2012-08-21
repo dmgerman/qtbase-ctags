@@ -17,6 +17,5 @@ DECL|variable|CodeMarker
 DECL|variable|Config
 DECL|variable|DitaRef
 DECL|variable|DocPrivate
-DECL|variable|FakeNode
 DECL|variable|Quoter
 DECL|variable|Text

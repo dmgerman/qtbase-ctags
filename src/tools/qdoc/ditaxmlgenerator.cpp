@@ -32,7 +32,7 @@ DECL|function|generateClassLikeNode
 DECL|function|generateCollisionPages
 DECL|function|generateCompactList
 DECL|function|generateDetailedQmlMember
-DECL|function|generateFakeNode
+DECL|function|generateDocNode
 DECL|function|generateFullName
 DECL|function|generateFunctionIndex
 DECL|function|generateHeader
