@@ -29,6 +29,8 @@ DECL|function|currentSection
 DECL|function|currentSection_data
 DECL|function|cursorPos
 DECL|function|cursorPositionOnInit
+DECL|function|dateEditCorrectSectionSize
+DECL|function|dateEditCorrectSectionSize_data
 DECL|function|dateEditTimeEditFormats
 DECL|function|dateSignalChecking
 DECL|function|dateSignalChecking_data
@@ -47,6 +49,7 @@ DECL|function|getSetCheck
 DECL|function|hour12Test
 DECL|function|init
 DECL|function|initTestCase
+DECL|function|key
 DECL|function|keypadAutoAdvance
 DECL|function|keypadAutoAdvance_data
 DECL|function|lineEdit
@@ -127,6 +130,8 @@ DECL|member|old
 DECL|member|testFocusWidget
 DECL|member|testWidget
 DECL|typedef|KeyList
+DECL|typedef|KeyPair
+DECL|typedef|KeyPairList
 DECL|typedef|TimeList
 DECL|variable|Key
 DECL|variable|KeyboardModifier
