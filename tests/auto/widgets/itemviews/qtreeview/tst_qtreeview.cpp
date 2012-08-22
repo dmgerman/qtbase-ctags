@@ -102,6 +102,7 @@ DECL|function|itemDelegateForColumnOrRow
 DECL|function|keyboardNavigation
 DECL|function|keyboardNavigationWithDisabled
 DECL|function|keyboardSearch
+DECL|function|keyboardSearchMultiColumn
 DECL|function|kill
 DECL|function|level
 DECL|function|mouseDoubleClick
