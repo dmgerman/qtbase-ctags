@@ -11,6 +11,7 @@ DECL|function|codecForHtml
 DECL|function|codecForLocale
 DECL|function|codecForName
 DECL|function|codecForName_data
+DECL|function|codecForTSCII
 DECL|function|codecForUtfText
 DECL|function|codecForUtfText_data
 DECL|function|decode0D
