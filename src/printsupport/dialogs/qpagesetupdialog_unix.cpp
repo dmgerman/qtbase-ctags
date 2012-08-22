@@ -25,7 +25,6 @@ DECL|function|setupPrinter
 DECL|function|sizeForOrientation
 DECL|function|unitChanged
 DECL|function|~QUnixPageSetupDialogPrivate
-DECL|member|cups
 DECL|member|m_bottom
 DECL|member|m_left
 DECL|member|m_right
