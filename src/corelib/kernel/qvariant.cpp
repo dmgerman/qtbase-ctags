@@ -43,6 +43,7 @@ DECL|function|QVariant
 DECL|function|QVariant
 DECL|function|QVariant
 DECL|function|QVariant
+DECL|function|QVariant
 DECL|function|canConvert
 DECL|function|canConvertMetaObject
 DECL|function|canConvertMetaObject
