@@ -3,6 +3,8 @@ DECL|function|QCupsPrintEnginePrivate
 DECL|function|closePrintDevice
 DECL|function|openPrintDevice
 DECL|function|property
+DECL|function|setCupsDefaults
+DECL|function|setPaperSize
 DECL|function|setProperty
 DECL|function|updatePaperSize
 DECL|function|~QCupsPrintEngine
