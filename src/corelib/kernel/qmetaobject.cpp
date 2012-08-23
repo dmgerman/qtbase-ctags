@@ -81,6 +81,7 @@ DECL|function|normalizedType
 DECL|function|notifySignal
 DECL|function|notifySignalIndex
 DECL|function|originalClone
+DECL|function|ownMethodIndex
 DECL|function|parameterCount
 DECL|function|parameterCount
 DECL|function|parameterNames
