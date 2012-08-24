@@ -15,6 +15,8 @@ DECL|function|DetectConstructor
 DECL|function|DetectConstructor
 DECL|function|DetectConstructor
 DECL|function|LeakChecker
+DECL|function|ResetOnDtor
+DECL|function|ResetOnDtor
 DECL|function|SharedNullVerifier
 DECL|function|alignment
 DECL|function|alignment_data
@@ -26,10 +28,13 @@ DECL|function|arrayOps2
 DECL|function|const_
 DECL|function|cxx11Move
 DECL|function|fromRawData
+DECL|function|fromRawData_data
+DECL|function|fromRawData_impl
 DECL|function|gccBug43247
 DECL|function|grow
 DECL|function|literals
 DECL|function|operator =
+DECL|function|operator ==
 DECL|function|rValueReferences
 DECL|function|referenceCounting
 DECL|function|setSharable
@@ -45,6 +50,7 @@ DECL|function|variadicLiterals
 DECL|function|~CountedObject
 DECL|function|~Deallocator
 DECL|function|~LeakChecker
+DECL|function|~ResetOnDtor
 DECL|member|alignment
 DECL|member|constructor
 DECL|member|dummy
@@ -55,6 +61,7 @@ DECL|member|liveCount
 DECL|member|liveCount
 DECL|member|objectSize
 DECL|member|previousLiveCount
+DECL|member|value_
 DECL|struct|CompilerHasCxx11ImplicitMoves
 DECL|struct|CountedObject
 DECL|struct|Deallocator
@@ -63,6 +70,7 @@ DECL|struct|DetectImplicitMove
 DECL|struct|LeakChecker
 DECL|struct|RemoveReference
 DECL|struct|RemoveReference
+DECL|struct|ResetOnDtor
 DECL|struct|SharedNullVerifier
 DECL|typedef|Type
 DECL|typedef|Type
