@@ -6,8 +6,6 @@ DECL|function|drawItemPixmap
 DECL|function|drawItemText
 DECL|function|itemPixmapRect
 DECL|function|itemTextRect
-DECL|function|layoutSpacing
-DECL|function|layoutSpacingImplementation
 DECL|function|operator <<
 DECL|function|polish
 DECL|function|polish
@@ -16,8 +14,6 @@ DECL|function|proxy
 DECL|function|setProxy
 DECL|function|sliderPositionFromValue
 DECL|function|sliderValueFromPosition
-DECL|function|standardIcon
-DECL|function|standardIconImplementation
 DECL|function|standardPalette
 DECL|function|unpackControlTypes
 DECL|function|unpolish
