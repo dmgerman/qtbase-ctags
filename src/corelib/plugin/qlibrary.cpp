@@ -32,6 +32,7 @@ DECL|function|setFileNameAndVersion
 DECL|function|setLoadHints
 DECL|function|unload
 DECL|function|unload
+DECL|function|updatePluginState
 DECL|function|~QLibrary
 DECL|function|~QLibraryPrivate
 DECL|macro|QLIBRARY_AS_DEBUG
