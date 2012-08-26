@@ -6,12 +6,9 @@ DECL|enumerator|HB_Arabic_Normal
 DECL|enumerator|HB_Arabic_Seen
 DECL|enumerator|HB_Arabic_Space
 DECL|enumerator|HB_Arabic_Waw
-DECL|enumerator|HB_Break
 DECL|enumerator|HB_Character
 DECL|enumerator|HB_FontAscent
-DECL|enumerator|HB_ForcedBreak
 DECL|enumerator|HB_LeftToRight
-DECL|enumerator|HB_NoBreak
 DECL|enumerator|HB_NoJustification
 DECL|enumerator|HB_RightToLeft
 DECL|enumerator|HB_ScriptCount
@@ -47,7 +44,6 @@ DECL|enumerator|HB_Script_Tibetan
 DECL|enumerator|HB_ShaperFlag_Default
 DECL|enumerator|HB_ShaperFlag_NoKerning
 DECL|enumerator|HB_ShaperFlag_UseDesignMetrics
-DECL|enumerator|HB_SoftHyphen
 DECL|enumerator|HB_Space
 DECL|macro|HARFBUZZ_SHAPER_H
 DECL|member|advances
@@ -55,7 +51,6 @@ DECL|member|attributes
 DECL|member|bidiLevel
 DECL|member|buffer
 DECL|member|canRender
-DECL|member|charStop
 DECL|member|clusterStart
 DECL|member|combiningClass
 DECL|member|convertStringToGlyphIndices
@@ -75,6 +70,7 @@ DECL|member|glyphIndicesPresent
 DECL|member|glyphs
 DECL|member|glyphs_substituted
 DECL|member|gpos
+DECL|member|graphemeBoundary
 DECL|member|gsub
 DECL|member|has_opentype_kerning
 DECL|member|height
@@ -86,7 +82,7 @@ DECL|member|kerning_applied
 DECL|member|klass
 DECL|member|length
 DECL|member|length
-DECL|member|lineBreakType
+DECL|member|lineBreak
 DECL|member|log_clusters
 DECL|member|mark
 DECL|member|num_glyphs
@@ -105,7 +101,7 @@ DECL|member|unused
 DECL|member|userData
 DECL|member|whiteSpace
 DECL|member|width
-DECL|member|wordBoundary
+DECL|member|wordBreak
 DECL|member|x
 DECL|member|xOffset
 DECL|member|x_ppem
@@ -127,7 +123,6 @@ DECL|typedef|HB_GetFontTableFunc
 DECL|typedef|HB_GlyphAttributes
 DECL|typedef|HB_GlyphMetrics
 DECL|typedef|HB_JustificationClass
-DECL|typedef|HB_LineBreakType
 DECL|typedef|HB_Script
 DECL|typedef|HB_ScriptItem
 DECL|typedef|HB_ShaperFlag

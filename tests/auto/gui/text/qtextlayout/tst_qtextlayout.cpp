@@ -9,7 +9,6 @@ DECL|function|capitalization_allUpperCase
 DECL|function|capitalization_allUpperCase_newline
 DECL|function|capitalization_capitalize
 DECL|function|capitalization_smallCaps
-DECL|function|charStopForSurrogatePairs
 DECL|function|charWordStopOnLineSeparator
 DECL|function|cleanup
 DECL|function|columnWrapWithTabs
@@ -26,6 +25,7 @@ DECL|function|defaultWordSeparators_data
 DECL|function|forcedBreaks
 DECL|function|getSetCheck
 DECL|function|glyphLessItems
+DECL|function|graphemeBoundaryForSurrogatePairs
 DECL|function|horizontalAlignment
 DECL|function|horizontalAlignmentMultiline
 DECL|function|horizontalAlignmentMultiline_data
