@@ -25,4 +25,4 @@ DECL|function|syncPendingResults
 DECL|function|syncResultCount
 DECL|function|updateInsertIndex
 DECL|function|vectorIndex
-DECL|namespace|QtConcurrent
+DECL|namespace|QtPrivate
