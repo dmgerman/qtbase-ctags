@@ -176,7 +176,6 @@ DECL|function|isTransparent
 DECL|function|itemPixmapRect
 DECL|function|itemTextRect
 DECL|function|layoutSpacing
-DECL|function|layoutSpacingImplementation
 DECL|function|minimumContentsSize
 DECL|function|minimumSize
 DECL|function|nativeFrameWidth
@@ -214,7 +213,7 @@ DECL|function|setProperties
 DECL|function|size
 DECL|function|size
 DECL|function|sizeFromContents
-DECL|function|standardIconImplementation
+DECL|function|standardIcon
 DECL|function|standardPalette
 DECL|function|standardPixmap
 DECL|function|styleDestroyed

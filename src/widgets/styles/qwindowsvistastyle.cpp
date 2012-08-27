@@ -20,7 +20,7 @@ DECL|function|polish
 DECL|function|polish
 DECL|function|resolveSymbols
 DECL|function|sizeFromContents
-DECL|function|standardIconImplementation
+DECL|function|standardIcon
 DECL|function|standardPalette
 DECL|function|standardPixmap
 DECL|function|startAnimation

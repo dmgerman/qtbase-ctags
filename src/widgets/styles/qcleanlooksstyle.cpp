@@ -22,7 +22,7 @@ DECL|function|qt_cleanlooks_draw_buttongradient
 DECL|function|qt_cleanlooks_draw_gradient
 DECL|function|qt_cleanlooks_draw_mdibutton
 DECL|function|sizeFromContents
-DECL|function|standardIconImplementation
+DECL|function|standardIcon
 DECL|function|standardPalette
 DECL|function|standardPixmap
 DECL|function|styleHint

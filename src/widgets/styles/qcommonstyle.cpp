@@ -7,13 +7,14 @@ DECL|function|drawControl
 DECL|function|drawPrimitive
 DECL|function|generatedIconPixmap
 DECL|function|hitTestComplexControl
+DECL|function|layoutSpacing
 DECL|function|pixelMetric
 DECL|function|polish
 DECL|function|polish
 DECL|function|polish
 DECL|function|qt_intensity
 DECL|function|sizeFromContents
-DECL|function|standardIconImplementation
+DECL|function|standardIcon
 DECL|function|standardPixmap
 DECL|function|styleHint
 DECL|function|subControlRect

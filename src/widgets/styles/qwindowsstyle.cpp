@@ -18,7 +18,7 @@ DECL|function|polish
 DECL|function|polish
 DECL|function|polish
 DECL|function|sizeFromContents
-DECL|function|standardIconImplementation
+DECL|function|standardIcon
 DECL|function|standardPixmap
 DECL|function|startAnimation
 DECL|function|stopAnimation

@@ -8,7 +8,7 @@ DECL|function|drawPrimitive
 DECL|function|elliditide
 DECL|function|eventFilter
 DECL|function|hitTestComplexControl
-DECL|function|layoutSpacingImplementation
+DECL|function|layoutSpacing
 DECL|function|mergedColors
 DECL|function|pixelMetric
 DECL|function|polish
@@ -26,7 +26,7 @@ DECL|function|qt_plastique_draw_gradient
 DECL|function|qt_plastique_draw_handle
 DECL|function|qt_plastique_draw_mdibutton
 DECL|function|sizeFromContents
-DECL|function|standardIconImplementation
+DECL|function|standardIcon
 DECL|function|standardPalette
 DECL|function|standardPixmap
 DECL|function|styleHint

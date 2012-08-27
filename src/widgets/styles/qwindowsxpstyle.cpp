@@ -35,7 +35,7 @@ DECL|function|setTransparency
 DECL|function|showProperties
 DECL|function|showProperty
 DECL|function|sizeFromContents
-DECL|function|standardIconImplementation
+DECL|function|standardIcon
 DECL|function|standardPalette
 DECL|function|standardPixmap
 DECL|function|styleHint
