@@ -8,7 +8,6 @@ DECL|class|tst_QFuture
 DECL|function|SignalSlotObject
 DECL|function|cancel
 DECL|function|canceled
-DECL|function|clone
 DECL|function|createDerivedExceptionFuture
 DECL|function|createExceptionFuture
 DECL|function|createExceptionResultFuture
@@ -26,7 +25,6 @@ DECL|function|progress
 DECL|function|progress
 DECL|function|progressRange
 DECL|function|progressText
-DECL|function|raise
 DECL|function|refcounting
 DECL|function|resultReady
 DECL|function|resultReady
