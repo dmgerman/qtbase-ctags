@@ -17,5 +17,4 @@ DECL|function|~Base
 DECL|function|~ExceptionHolder
 DECL|member|exception
 DECL|member|hasThrown
-DECL|namespace|QtConcurrent
-DECL|namespace|internal
+DECL|namespace|QtPrivate
