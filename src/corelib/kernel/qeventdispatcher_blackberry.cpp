@@ -7,6 +7,7 @@ DECL|function|ioEvents
 DECL|function|registerSocketNotifier
 DECL|function|select
 DECL|function|unregisterSocketNotifier
+DECL|function|updateTimeout
 DECL|function|~QEventDispatcherBlackberry
 DECL|function|~QEventDispatcherBlackberryPrivate
 DECL|macro|qEventDispatcherDebug
