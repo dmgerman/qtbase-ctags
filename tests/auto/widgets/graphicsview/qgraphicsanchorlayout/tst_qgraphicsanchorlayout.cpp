@@ -20,7 +20,7 @@ DECL|function|infiniteMaxSizes
 DECL|function|invalidHierarchyCheck
 DECL|function|layoutDirection
 DECL|function|layoutHasConflict
-DECL|function|layoutSpacingImplementation
+DECL|function|layoutSpacing
 DECL|function|paint
 DECL|function|parallel
 DECL|function|parallel2

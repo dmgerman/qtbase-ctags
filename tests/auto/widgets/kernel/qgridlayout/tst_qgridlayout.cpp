@@ -24,9 +24,9 @@ DECL|function|init
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|itemAtPosition
-DECL|function|layoutSpacingImplementation
-DECL|function|layoutSpacingImplementation
-DECL|function|layoutSpacingImplementation_data
+DECL|function|layoutSpacing
+DECL|function|layoutSpacing
+DECL|function|layoutSpacing_data
 DECL|function|minMaxSize
 DECL|function|minMaxSize_data
 DECL|function|minimumSizeHint

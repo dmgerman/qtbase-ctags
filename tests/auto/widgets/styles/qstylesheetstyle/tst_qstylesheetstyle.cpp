@@ -40,6 +40,7 @@ DECL|function|generatedIconPixmap
 DECL|function|hitTestComplexControl
 DECL|function|hoverColors
 DECL|function|layoutSpacing
+DECL|function|layoutSpacing
 DECL|function|minmaxSizes
 DECL|function|namespaces
 DECL|function|numinstances
@@ -54,6 +55,7 @@ DECL|function|reparentWithChildStyleSheet
 DECL|function|reparentWithNoChildStyleSheet
 DECL|function|repolish
 DECL|function|sizeFromContents
+DECL|function|standardIcon
 DECL|function|standardPixmap
 DECL|function|styleHint
 DECL|function|subControlRect
