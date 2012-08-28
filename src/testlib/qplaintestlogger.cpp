@@ -16,5 +16,4 @@ DECL|function|printMessage
 DECL|function|startLogging
 DECL|function|stopLogging
 DECL|function|~QPlainTestLogger
-DECL|member|outputCriticalSection
 DECL|namespace|QTest
