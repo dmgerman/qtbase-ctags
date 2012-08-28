@@ -32,6 +32,7 @@ DECL|function|cursorRect
 DECL|function|cursorRect
 DECL|function|cursorWidth
 DECL|function|cut
+DECL|function|doSetTextCursor
 DECL|function|document
 DECL|function|documentSize
 DECL|function|dragEnterEvent

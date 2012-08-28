@@ -41,6 +41,7 @@ DECL|function|cursorRect
 DECL|function|cursorWidth
 DECL|function|cursorWidth
 DECL|function|cut
+DECL|function|doSetTextCursor
 DECL|function|document
 DECL|function|documentChanged
 DECL|function|documentSize
