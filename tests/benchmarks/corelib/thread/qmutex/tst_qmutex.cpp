@@ -4,11 +4,15 @@ DECL|class|QMutexThread
 DECL|class|tst_QMutex
 DECL|function|NativeMutexDestroy
 DECL|function|NativeMutexDestroy
+DECL|function|NativeMutexDestroy
 DECL|function|NativeMutexInitialize
 DECL|function|NativeMutexInitialize
+DECL|function|NativeMutexInitialize
+DECL|function|NativeMutexLock
 DECL|function|NativeMutexLock
 DECL|function|NativeMutexLock
 DECL|function|NativeMutexThread
+DECL|function|NativeMutexUnlock
 DECL|function|NativeMutexUnlock
 DECL|function|NativeMutexUnlock
 DECL|function|QMutexLockerThread
@@ -58,5 +62,6 @@ DECL|member|threadCount
 DECL|member|use2mutexes
 DECL|member|use2mutexes
 DECL|member|use2mutexes
+DECL|typedef|NativeMutexType
 DECL|typedef|NativeMutexType
 DECL|typedef|NativeMutexType
