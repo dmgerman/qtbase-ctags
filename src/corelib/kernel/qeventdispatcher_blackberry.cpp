@@ -9,6 +9,8 @@ DECL|function|select
 DECL|function|unregisterSocketNotifier
 DECL|function|~QEventDispatcherBlackberry
 DECL|function|~QEventDispatcherBlackberryPrivate
+DECL|macro|qEventDispatcherDebug
+DECL|macro|qEventDispatcherDebug
 DECL|member|count
 DECL|member|exceptfds
 DECL|member|readfds
