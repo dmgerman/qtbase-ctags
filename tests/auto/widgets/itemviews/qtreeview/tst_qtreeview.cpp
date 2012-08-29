@@ -118,6 +118,7 @@ DECL|function|parent
 DECL|function|parent
 DECL|function|parent
 DECL|function|populate
+DECL|function|quickExpandCollapse
 DECL|function|removeAfterSelect
 DECL|function|removeAllColumns
 DECL|function|removeAllRows
