@@ -1,6 +1,8 @@
 DECL|class|DBTestModel
+DECL|class|NestedResetsTest
 DECL|class|tst_QSqlQueryModel
 DECL|function|DBTestModel
+DECL|function|NestedResetsTest
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|createTestTables
@@ -13,6 +15,10 @@ DECL|function|init
 DECL|function|initTestCase
 DECL|function|insertColumn
 DECL|function|insertColumn_data
+DECL|function|modelAboutToBeResetSlot
+DECL|function|modelResetSlot
+DECL|function|nestedResets
+DECL|function|nestedResets_data
 DECL|function|populateTestTables
 DECL|function|record
 DECL|function|record_data
@@ -27,8 +33,11 @@ DECL|function|setQueryWithNoRowsInResultSet_data
 DECL|function|task_180617
 DECL|function|task_180617_data
 DECL|function|task_QTBUG_4963_setHeaderDataWithProxyModel
+DECL|function|testme
 DECL|function|tst_QSqlQueryModel
 DECL|function|withSortFilterProxyModel
 DECL|function|withSortFilterProxyModel_data
 DECL|function|~tst_QSqlQueryModel
 DECL|member|dbs
+DECL|member|gotAboutToBeReset
+DECL|member|gotReset
