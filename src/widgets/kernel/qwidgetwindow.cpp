@@ -3,7 +3,9 @@ DECL|function|accessibleRoot
 DECL|function|event
 DECL|function|focusObject
 DECL|function|handleCloseEvent
-DECL|function|handleDragEvent
+DECL|function|handleDragEnterMoveEvent
+DECL|function|handleDragLeaveEvent
+DECL|function|handleDropEvent
 DECL|function|handleEnterLeaveEvent
 DECL|function|handleExposeEvent
 DECL|function|handleKeyEvent
