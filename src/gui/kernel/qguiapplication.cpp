@@ -4,6 +4,7 @@ DECL|enum|ApplicationResourceFlags
 DECL|function|QGuiApplication
 DECL|function|QGuiApplication
 DECL|function|QGuiApplicationPrivate
+DECL|function|_q_updateFocusObject
 DECL|function|allWindows
 DECL|function|applicationDisplayName
 DECL|function|applyCursor
@@ -70,7 +71,6 @@ DECL|function|processWheelEvent
 DECL|function|processWindowStateChangedEvent
 DECL|function|processWindowSystemEvent
 DECL|function|qHash
-DECL|function|q_updateFocusObject
 DECL|function|qt_detectRTLLanguage
 DECL|function|queryKeyboardModifiers
 DECL|function|quitOnLastWindowClosed

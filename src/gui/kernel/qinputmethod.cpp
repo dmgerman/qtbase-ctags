@@ -1,4 +1,6 @@
 DECL|function|QInputMethod
+DECL|function|_q_checkFocusObject
+DECL|function|_q_connectFocusObject
 DECL|function|commit
 DECL|function|cursorRectangle
 DECL|function|hide
@@ -12,8 +14,6 @@ DECL|function|isVisible
 DECL|function|keyboardRectangle
 DECL|function|locale
 DECL|function|objectAcceptsInputMethod
-DECL|function|q_checkFocusObject
-DECL|function|q_connectFocusObject
 DECL|function|reset
 DECL|function|setInputItem
 DECL|function|setInputItemTransform
