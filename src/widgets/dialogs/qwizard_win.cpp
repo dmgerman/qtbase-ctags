@@ -79,6 +79,7 @@ DECL|member|iColorPropId
 DECL|member|iFontPropId
 DECL|member|iGlowSize
 DECL|member|iStateId
+DECL|member|instanceCount
 DECL|member|is_vista
 DECL|member|ptShadowOffset
 DECL|typedef|PtrCloseThemeData
