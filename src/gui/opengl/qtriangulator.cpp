@@ -136,8 +136,6 @@ DECL|function|searchEdgeLeftOfEdge
 DECL|function|searchEdgeLeftOfPoint
 DECL|function|setupDataStructures
 DECL|function|size
-DECL|function|sort
-DECL|function|sort
 DECL|function|sortEdgeList
 DECL|function|splitEdge
 DECL|function|splitEdgeListRange
