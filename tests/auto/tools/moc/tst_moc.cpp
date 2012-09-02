@@ -172,6 +172,10 @@ DECL|function|qprivateproperties
 DECL|function|qprivateslots
 DECL|function|receive
 DECL|function|receive
+DECL|function|ref1
+DECL|function|ref2
+DECL|function|ref3
+DECL|function|ref4
 DECL|function|returnConstInt
 DECL|function|returnConstString
 DECL|function|returnConstString2
