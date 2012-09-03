@@ -135,7 +135,6 @@ DECL|function|immediateRepaintAfterShow
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|initialPosForDontShowOnScreenWidgets
-DECL|function|inputFocus_task257832
 DECL|function|invalidate
 DECL|function|isEnabledTo
 DECL|function|isHidden
