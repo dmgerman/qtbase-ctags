@@ -4,6 +4,7 @@ DECL|function|document
 DECL|function|fontResolution
 DECL|function|formatManipulation
 DECL|function|formattedLayout
+DECL|function|formattedLayout_data
 DECL|function|layout
 DECL|function|layout_data
 DECL|function|loadHtml
