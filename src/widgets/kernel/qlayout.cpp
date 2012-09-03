@@ -39,6 +39,7 @@ DECL|function|removeItem
 DECL|function|removeWidget
 DECL|function|removeWidgetRecursively
 DECL|function|reparentChildWidgets
+DECL|function|replaceWidget
 DECL|function|setAlignment
 DECL|function|setAlignment
 DECL|function|setContentsMargins

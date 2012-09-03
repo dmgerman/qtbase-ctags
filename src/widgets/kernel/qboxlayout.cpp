@@ -37,6 +37,7 @@ DECL|function|maximumSize
 DECL|function|mhfw
 DECL|function|minimumHeightForWidth
 DECL|function|minimumSize
+DECL|function|replaceAt
 DECL|function|setDirection
 DECL|function|setDirty
 DECL|function|setGeometry
@@ -55,6 +56,7 @@ DECL|function|~QBoxLayoutItem
 DECL|function|~QBoxLayoutPrivate
 DECL|function|~QHBoxLayout
 DECL|function|~QVBoxLayout
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|bottomMargin
 DECL|member|dir
 DECL|member|expanding

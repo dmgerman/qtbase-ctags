@@ -16,6 +16,7 @@ DECL|function|isEmpty
 DECL|function|maximumSize
 DECL|function|minimumSize
 DECL|function|pixelMetric
+DECL|function|replaceWidget
 DECL|function|setFrameless
 DECL|function|setGeometry
 DECL|function|setGeometry

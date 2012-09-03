@@ -83,6 +83,7 @@ DECL|function|setDirty
 DECL|function|setGeometry
 DECL|function|setGeometry
 DECL|function|setHorizontalSpacing
+DECL|function|setItem
 DECL|function|setNextPosAfter
 DECL|function|setOriginCorner
 DECL|function|setReversed

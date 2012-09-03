@@ -15,6 +15,7 @@ DECL|function|insertWidget
 DECL|function|itemAt
 DECL|function|minimumSize
 DECL|function|qt_wasDeleted
+DECL|function|replaceAt
 DECL|function|setCurrentIndex
 DECL|function|setCurrentWidget
 DECL|function|setGeometry
@@ -25,6 +26,7 @@ DECL|function|takeAt
 DECL|function|wasDeleted
 DECL|function|widget
 DECL|function|~QStackedLayout
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|index
 DECL|member|list
 DECL|member|stackingMode

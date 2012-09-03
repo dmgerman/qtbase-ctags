@@ -13,6 +13,7 @@ DECL|function|initTestCase
 DECL|function|isSingleFocusWidget
 DECL|function|keepFocusAfterSetCurrent
 DECL|function|removeWidget
+DECL|function|replaceWidget
 DECL|function|testCase
 DECL|function|tst_QStackedLayout
 DECL|function|~tst_QStackedLayout

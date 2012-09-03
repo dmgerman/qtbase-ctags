@@ -20,6 +20,7 @@ DECL|function|insertRow_QWidget_QWidget
 DECL|function|itemAt
 DECL|function|layoutAlone
 DECL|function|pixelMetric
+DECL|function|replaceWidget
 DECL|function|rowCount
 DECL|function|setFieldGrowthPolicy
 DECL|function|setFormAlignment

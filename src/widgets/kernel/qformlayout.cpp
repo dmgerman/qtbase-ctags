@@ -60,6 +60,7 @@ DECL|function|operator ()
 DECL|function|operator ==
 DECL|function|recalcHFW
 DECL|function|removeRow
+DECL|function|replaceAt
 DECL|function|resetFieldGrowthPolicy
 DECL|function|resetFormAlignment
 DECL|function|resetLabelAlignment
@@ -100,6 +101,7 @@ DECL|function|widget
 DECL|function|~QFormLayout
 DECL|function|~QFormLayoutItem
 DECL|function|~QFormLayoutPrivate
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|formAlignment
 DECL|member|formMaxWidth
 DECL|member|fullRow
