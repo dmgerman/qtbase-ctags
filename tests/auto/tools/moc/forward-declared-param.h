@@ -1,0 +1,3 @@
+DECL|function|Q_DECLARE_METATYPE
+DECL|struct|FullyDefined
+DECL|variable|ForwardDeclaredContainer

@@ -1,6 +1,7 @@
 DECL|function|checkProperties
 DECL|function|checkSuperClasses
 DECL|function|createPropertyDef
+DECL|function|findRequiredContainers
 DECL|function|generate
 DECL|function|lexemUntil
 DECL|function|normalizeType
@@ -27,3 +28,7 @@ DECL|function|testFunctionAttribute
 DECL|function|testFunctionAttribute
 DECL|function|testFunctionRevision
 DECL|function|until
+DECL|macro|STREAM_1ARG_TEMPLATE
+DECL|macro|STREAM_1ARG_TEMPLATE
+DECL|macro|STREAM_SMART_POINTER
+DECL|macro|STREAM_SMART_POINTER
