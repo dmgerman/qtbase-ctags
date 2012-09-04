@@ -1,0 +1,10 @@
+DECL|function|QQnxButtonEventNotifier
+DECL|function|close
+DECL|function|parsePPS
+DECL|function|start
+DECL|function|updateButtonStates
+DECL|function|~QQnxButtonEventNotifier
+DECL|macro|qButtonDebug
+DECL|macro|qButtonDebug
+DECL|variable|ppsBufferSize
+DECL|variable|ppsPath

@@ -1,0 +1,2 @@
+DECL|macro|QQNXBUTTONSEVENTNOTIFIER_H
+DECL|variable|QSocketNotifier
