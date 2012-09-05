@@ -69,7 +69,6 @@ DECL|function|setGeometry_sys
 DECL|function|setKeyboardGrabEnabled
 DECL|function|setMask
 DECL|function|setMouseGrabEnabled
-DECL|function|setMouseGrabEnabled_sys
 DECL|function|setOpacity
 DECL|function|setParent
 DECL|function|setParent_sys
