@@ -1,1 +1,1 @@
-DECL|macro|QDBUSUTIL_H
+DECL|macro|QDBUSUTIL_P_H

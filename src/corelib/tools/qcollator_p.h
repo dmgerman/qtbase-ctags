@@ -1,2 +1,2 @@
-DECL|macro|QCOLLATOR_H
+DECL|macro|QCOLLATOR_P_H
 DECL|variable|QCollatorPrivate

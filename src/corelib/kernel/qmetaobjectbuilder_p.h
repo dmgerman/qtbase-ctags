@@ -1,4 +1,4 @@
-DECL|macro|QMETAOBJECTBUILDER_H
+DECL|macro|QMETAOBJECTBUILDER_P_H
 DECL|variable|QMetaEnumBuilder
 DECL|variable|QMetaEnumBuilderPrivate
 DECL|variable|QMetaMethodBuilder

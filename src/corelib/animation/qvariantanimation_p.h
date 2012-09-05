@@ -1,3 +1,3 @@
 DECL|function|_q_interpolate
 DECL|function|_q_interpolateVariant
-DECL|macro|QANIMATION_P_H
+DECL|macro|QVARIANTANIMATION_P_H

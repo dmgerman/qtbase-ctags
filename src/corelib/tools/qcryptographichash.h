@@ -1,3 +1,3 @@
-DECL|macro|QCRYPTOGRAPHICSHASH_H
+DECL|macro|QCRYPTOGRAPHICHASH_H
 DECL|variable|QCryptographicHashPrivate
 DECL|variable|QIODevice

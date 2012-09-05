@@ -1,5 +1,5 @@
 DECL|function|~QDBusMetaObject
-DECL|macro|QDBUSMETAOBJECTPRIVATE_H
+DECL|macro|QDBUSMETAOBJECT_P_H
 DECL|member|cached
 DECL|member|private
 DECL|struct|QMetaObject

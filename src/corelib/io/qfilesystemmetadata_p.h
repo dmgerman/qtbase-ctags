@@ -14,5 +14,5 @@ DECL|function|ownerId
 DECL|function|userId
 DECL|function|userId
 DECL|macro|IO_REPARSE_TAG_SYMLINK
-DECL|macro|QFILESYSTEMMETADATA_P_H_INCLUDED
+DECL|macro|QFILESYSTEMMETADATA_P_H
 DECL|variable|QFileSystemEngine
