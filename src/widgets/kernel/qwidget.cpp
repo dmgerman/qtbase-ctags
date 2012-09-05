@@ -95,7 +95,7 @@ DECL|function|hide_helper
 DECL|function|inTabWidget
 DECL|function|inheritStyle
 DECL|function|init
-DECL|function|init
+DECL|function|initPainter
 DECL|function|inputMethodEvent
 DECL|function|inputMethodHints
 DECL|function|inputMethodQuery
