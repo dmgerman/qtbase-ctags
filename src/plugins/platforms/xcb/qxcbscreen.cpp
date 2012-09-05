@@ -1,14 +1,10 @@
 DECL|function|QXcbScreen
 DECL|function|cursor
-DECL|function|depth
 DECL|function|format
-DECL|function|geometry
 DECL|function|grabWindow
-DECL|function|name
-DECL|function|physicalSize
-DECL|function|refreshRate
-DECL|function|screenNumber
+DECL|function|handleScreenChange
 DECL|function|topLevelAt
+DECL|function|updateGeometry
 DECL|function|updateRefreshRate
 DECL|function|visualForId
 DECL|function|~QXcbScreen

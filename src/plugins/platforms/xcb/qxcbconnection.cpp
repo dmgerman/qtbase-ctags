@@ -5,6 +5,7 @@ DECL|function|addWindow
 DECL|function|atom
 DECL|function|atomName
 DECL|function|checkEvent
+DECL|function|createScreenWithFabricatedName
 DECL|function|formatForDepth
 DECL|function|handleClientMessageEvent
 DECL|function|handleXcbError
