@@ -5,6 +5,9 @@ DECL|function|build_args
 DECL|function|canExecute
 DECL|function|createObjectList
 DECL|function|escapeDependencyPaths
+DECL|function|escapeDependencyPaths
+DECL|function|escapeFilePath
+DECL|function|escapeFilePaths
 DECL|function|escapeFilePaths
 DECL|function|fileFixify
 DECL|function|fileFixify
@@ -37,9 +40,14 @@ DECL|function|replaceExtraCompilerVariables
 DECL|function|setProjectFile
 DECL|function|specdir
 DECL|function|unescapeFilePath
+DECL|function|unescapeFilePath
+DECL|function|unescapeFilePaths
 DECL|function|unescapeFilePaths
 DECL|function|val
+DECL|function|val
 DECL|function|valGlue
+DECL|function|valGlue
+DECL|function|valList
 DECL|function|valList
 DECL|function|var
 DECL|function|varGlue

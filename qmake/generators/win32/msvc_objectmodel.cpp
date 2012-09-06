@@ -15,6 +15,7 @@ DECL|function|addExtraCompiler
 DECL|function|addFile
 DECL|function|addFile
 DECL|function|addFiles
+DECL|function|addFiles
 DECL|function|attrE
 DECL|function|attrE
 DECL|function|attrL
