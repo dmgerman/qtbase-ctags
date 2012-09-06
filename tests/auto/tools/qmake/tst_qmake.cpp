@@ -12,6 +12,7 @@ DECL|function|func_export
 DECL|function|func_variables
 DECL|function|functions
 DECL|function|include_dir
+DECL|function|include_pwd
 DECL|function|includefunction
 DECL|function|initTestCase
 DECL|function|install_depends
