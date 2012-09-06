@@ -14,6 +14,7 @@ DECL|class|MyProxyFactory
 DECL|class|MySpyMemoryCache
 DECL|class|ProxyChangeHelper
 DECL|class|QtBug13431Helper
+DECL|class|QtBug27161Helper
 DECL|class|RateControlledReader
 DECL|class|SlowReader
 DECL|class|SocketPair
@@ -42,6 +43,7 @@ DECL|function|MyProxyFactory
 DECL|function|MySpyMemoryCache
 DECL|function|ProxyChangeHelper
 DECL|function|ProxyData
+DECL|function|QtBug27161Helper
 DECL|function|RateControlledReader
 DECL|function|SlowReader
 DECL|function|SocketPair
@@ -60,6 +62,7 @@ DECL|function|backgroundRequestConnectInBackground_data
 DECL|function|backgroundRequestInterruption
 DECL|function|backgroundRequestInterruption_data
 DECL|function|backgroundRequest_data
+DECL|function|bytesWrittenSlot
 DECL|function|bytesWrittenSlot
 DECL|function|bytesWrittenSlot
 DECL|function|cacheSize
@@ -219,6 +222,7 @@ DECL|function|metaDataChangedSlot
 DECL|function|nestedEventLoops
 DECL|function|nestedEventLoops_slot
 DECL|function|newConnectionSlot
+DECL|function|newConnectionSlot
 DECL|function|onReadAndReschedule
 DECL|function|parentingRepliesToTheApp
 DECL|function|pipelining
@@ -251,6 +255,8 @@ DECL|function|qtbug13431replyThrottling
 DECL|function|qtbug15311doubleContentLength
 DECL|function|qtbug18232gzipContentLengthZero
 DECL|function|qtbug22660gzipNoContentLengthEmptyContent
+DECL|function|qtbug27161httpHeaderMayBeDamaged
+DECL|function|qtbug27161httpHeaderMayBeDamaged_data
 DECL|function|qtbug4121unknownAuthentication
 DECL|function|queryProxy
 DECL|function|rateControl
@@ -299,6 +305,7 @@ DECL|function|synchronousRequest
 DECL|function|synchronousRequestSslFailure
 DECL|function|synchronousRequest_data
 DECL|function|threadStartedSlot
+DECL|function|timeoutSlot
 DECL|function|timerEvent
 DECL|function|toString
 DECL|function|toString
@@ -351,10 +358,13 @@ DECL|member|ipv6
 DECL|member|lastQuery
 DECL|member|loop
 DECL|member|mReply
+DECL|member|m_Timer
 DECL|member|m_buffers
+DECL|member|m_data
 DECL|member|m_dlTimer
 DECL|member|m_insertedUrls
 DECL|member|m_reply
+DECL|member|m_server
 DECL|member|manager
 DECL|member|manager
 DECL|member|manager
