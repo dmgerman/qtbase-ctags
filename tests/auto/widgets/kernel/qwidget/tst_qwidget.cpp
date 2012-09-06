@@ -11,6 +11,7 @@ DECL|class|EventRecorder
 DECL|class|EventSpy
 DECL|class|FocusWidget
 DECL|class|GDIWidget
+DECL|class|GrabLoggerWidget
 DECL|class|MaskResizeTestWidget
 DECL|class|MaskSetWidget
 DECL|class|MaskedPainter
@@ -45,6 +46,7 @@ DECL|function|EventRecorder
 DECL|function|EventSpy
 DECL|function|FocusWidget
 DECL|function|GDIWidget
+DECL|function|GrabLoggerWidget
 DECL|function|MaskResizeTestWidget
 DECL|function|MaskSetWidget
 DECL|function|MaskedPainter
@@ -107,6 +109,7 @@ DECL|function|event
 DECL|function|event
 DECL|function|event
 DECL|function|event
+DECL|function|event
 DECL|function|eventFilter
 DECL|function|eventFilter
 DECL|function|eventFilter
@@ -124,6 +127,7 @@ DECL|function|formatEventList
 DECL|function|gdiPainting
 DECL|function|getSetCheck
 DECL|function|grab
+DECL|function|grabMouse
 DECL|function|heightForWidth
 DECL|function|hideEvent
 DECL|function|hideEvent
@@ -155,6 +159,7 @@ DECL|function|metric
 DECL|function|minAndMaxSizeWithX11BypassWindowManagerHint
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseDoubleClickEvent
+DECL|function|mouseEventLogEntry
 DECL|function|mouseMoveEvent
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
@@ -340,6 +345,7 @@ DECL|member|m_acceptMouse
 DECL|member|m_acceptTouch
 DECL|member|m_count
 DECL|member|m_lastMouseEventPos
+DECL|member|m_log
 DECL|member|m_mouseEventCount
 DECL|member|m_platform
 DECL|member|m_resizeEventCount

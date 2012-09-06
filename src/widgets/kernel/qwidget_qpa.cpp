@@ -11,6 +11,7 @@ DECL|function|fixPosIncludesFrame
 DECL|function|grabKeyboard
 DECL|function|grabMouse
 DECL|function|grabMouse
+DECL|function|grabberWindow
 DECL|function|hide_sys
 DECL|function|keyboardGrabber
 DECL|function|lower_sys
