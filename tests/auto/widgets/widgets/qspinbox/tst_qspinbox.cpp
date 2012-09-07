@@ -2,11 +2,9 @@ DECL|class|SpinBox
 DECL|class|sizeHint_SpinBox
 DECL|class|tst_QSpinBox
 DECL|function|SpinBox
-DECL|function|cleanupTestCase
 DECL|function|editingFinished
 DECL|function|getSetCheck
 DECL|function|init
-DECL|function|initTestCase
 DECL|function|lineEdit
 DECL|function|locale
 DECL|function|locale_data
@@ -42,9 +40,7 @@ DECL|function|valueChangedHelper
 DECL|function|valueFromText
 DECL|function|valueFromTextAndValidate
 DECL|function|valueFromTextAndValidate_data
-DECL|function|~tst_QSpinBox
 DECL|member|actualTexts
 DECL|member|actualValues
 DECL|member|sizeHintRequests
-DECL|member|testFocusWidget
 DECL|typedef|IntList
