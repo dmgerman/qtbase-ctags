@@ -5,7 +5,6 @@ DECL|function|changingOutputFormat
 DECL|function|computePageValue
 DECL|function|errorReporting
 DECL|function|getSetCheck
-DECL|function|initTestCase
 DECL|function|outputFormatFromSuffix
 DECL|function|printDialogCompleter
 DECL|function|printPage
