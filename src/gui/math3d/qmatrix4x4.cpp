@@ -2,7 +2,6 @@ DECL|function|QMatrix4x4
 DECL|function|QMatrix4x4
 DECL|function|QMatrix4x4
 DECL|function|QMatrix4x4
-DECL|function|QMatrix4x4
 DECL|function|copyDataTo
 DECL|function|copyToDoubles
 DECL|function|determinant
