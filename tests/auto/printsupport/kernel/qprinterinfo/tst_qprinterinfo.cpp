@@ -1,7 +1,9 @@
 DECL|class|tst_QPrinterInfo
+DECL|function|cleanupTestCase
 DECL|function|getDefaultPrinterFromSystem
 DECL|function|getOutputFromCommand
 DECL|function|getPrintersFromSystem
+DECL|function|initTestCase
 DECL|function|namedPrinter
 DECL|function|testAssignment
 DECL|function|testConstructors

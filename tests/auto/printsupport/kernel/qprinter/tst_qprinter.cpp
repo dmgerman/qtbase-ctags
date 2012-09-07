@@ -2,9 +2,11 @@ DECL|class|TempFileCleanup
 DECL|class|tst_QPrinter
 DECL|function|TempFileCleanup
 DECL|function|changingOutputFormat
+DECL|function|cleanupTestCase
 DECL|function|computePageValue
 DECL|function|errorReporting
 DECL|function|getSetCheck
+DECL|function|initTestCase
 DECL|function|outputFormatFromSuffix
 DECL|function|printDialogCompleter
 DECL|function|printPage
