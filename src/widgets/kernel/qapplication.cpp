@@ -14,6 +14,7 @@ DECL|function|autoMaximizeThreshold
 DECL|function|autoSipEnabled
 DECL|function|cleanupMultitouch
 DECL|function|clearSystemPalette
+DECL|function|closeAllPopups
 DECL|function|closeAllWindows
 DECL|function|colorSpec
 DECL|function|commitData
