@@ -1,6 +1,8 @@
 DECL|class|PP_Expression
+DECL|enumerator|PrepareDefine
 DECL|enumerator|PreparePreprocessorStatement
 DECL|enumerator|TokenizeCpp
+DECL|enumerator|TokenizeDefine
 DECL|enumerator|TokenizeInclude
 DECL|enumerator|TokenizePreprocessor
 DECL|enumerator|TokenizePreprocessorStatement
@@ -15,6 +17,7 @@ DECL|function|exclusive_OR_expression
 DECL|function|inclusive_OR_expression
 DECL|function|logical_AND_expression
 DECL|function|logical_OR_expression
+DECL|function|macroExpandIdentifier
 DECL|function|multiplicative_expression
 DECL|function|preprocess
 DECL|function|preprocessed
