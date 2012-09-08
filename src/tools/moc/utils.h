@@ -2,6 +2,7 @@ DECL|function|is_digit_char
 DECL|function|is_hex_char
 DECL|function|is_ident_char
 DECL|function|is_ident_start
+DECL|function|is_identifier
 DECL|function|is_octal_char
 DECL|function|is_space
 DECL|function|is_whitespace

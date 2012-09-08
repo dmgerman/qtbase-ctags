@@ -1,4 +1,7 @@
 DECL|macro|PREPROCESSOR_H
+DECL|member|arguments
+DECL|member|isFunction
+DECL|member|isVariadic
 DECL|member|symbols
 DECL|struct|Macro
 DECL|typedef|MacroName
