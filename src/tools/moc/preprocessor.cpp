@@ -18,6 +18,7 @@ DECL|function|inclusive_OR_expression
 DECL|function|logical_AND_expression
 DECL|function|logical_OR_expression
 DECL|function|macroExpandIdentifier
+DECL|function|macroExpandSymbols
 DECL|function|multiplicative_expression
 DECL|function|parseDefineArguments
 DECL|function|preprocess

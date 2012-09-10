@@ -1,3 +1,4 @@
+DECL|function|Macro
 DECL|macro|PREPROCESSOR_H
 DECL|member|arguments
 DECL|member|isFunction
