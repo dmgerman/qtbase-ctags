@@ -5,6 +5,7 @@ DECL|function|QBlitterPaintEngine
 DECL|function|QBlitterPaintEnginePrivate
 DECL|function|begin
 DECL|function|brushChanged
+DECL|function|canBlitterAlphaFillRect
 DECL|function|canBlitterDrawPixmap
 DECL|function|canBlitterDrawRectMask
 DECL|function|canBlitterFillRect
@@ -37,6 +38,7 @@ DECL|function|lock
 DECL|function|opacityChanged
 DECL|function|penChanged
 DECL|function|renderHintsChanged
+DECL|function|setAlphaFillRectMask
 DECL|function|setFillRectMask
 DECL|function|setSourceOverPixmapMask
 DECL|function|setSourceOverScaledPixmapMask
@@ -65,6 +67,7 @@ DECL|macro|STATE_CLIP_COMPLEX
 DECL|macro|STATE_PEN_ENABLED
 DECL|macro|STATE_XFORM_COMPLEX
 DECL|macro|STATE_XFORM_SCALE
+DECL|member|alphaFillRectMask
 DECL|member|capabillitiesState
 DECL|member|caps
 DECL|member|drawPixmapMask
