@@ -162,6 +162,7 @@ DECL|function|object
 DECL|function|objectSlot
 DECL|function|oldStyleCasts
 DECL|function|os9Newline
+DECL|function|parseDefines
 DECL|function|plop
 DECL|function|points
 DECL|function|ppExpressionEvaluation
