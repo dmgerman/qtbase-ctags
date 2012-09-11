@@ -21,6 +21,9 @@ DECL|function|append
 DECL|function|appendCustom
 DECL|function|appendInt
 DECL|function|appendMovable
+DECL|function|assignmentCustom
+DECL|function|assignmentInt
+DECL|function|assignmentMovable
 DECL|function|at
 DECL|function|at
 DECL|function|capacity
@@ -150,6 +153,7 @@ DECL|function|swap
 DECL|function|swapCustom
 DECL|function|swapInt
 DECL|function|swapMovable
+DECL|function|testAssignment
 DECL|function|testOperators
 DECL|function|toList
 DECL|function|toStdVector
