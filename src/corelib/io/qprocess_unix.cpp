@@ -19,7 +19,6 @@ DECL|function|lock
 DECL|function|processManager
 DECL|function|processStarted
 DECL|function|qt_create_pipe
-DECL|function|qt_ignore_sigpipe
 DECL|function|qt_prettyDebug
 DECL|function|qt_sa_sigchld_handler
 DECL|function|qt_timeout_value

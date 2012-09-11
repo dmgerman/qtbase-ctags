@@ -20,7 +20,6 @@ DECL|function|nativeSendDatagram
 DECL|function|nativeSetMulticastInterface
 DECL|function|nativeWrite
 DECL|function|option
-DECL|function|qt_ignore_sigpipe
 DECL|function|qt_prettyDebug
 DECL|function|qt_socket_getPortAndAddress
 DECL|function|setOption
