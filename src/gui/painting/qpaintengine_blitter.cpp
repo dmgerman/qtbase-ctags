@@ -7,6 +7,7 @@ DECL|function|begin
 DECL|function|brushChanged
 DECL|function|canBlitterAlphaFillRect
 DECL|function|canBlitterDrawPixmap
+DECL|function|canBlitterDrawPixmapOpacity
 DECL|function|canBlitterDrawRectMask
 DECL|function|canBlitterFillRect
 DECL|function|checkStateAgainstMask
@@ -40,6 +41,7 @@ DECL|function|penChanged
 DECL|function|renderHintsChanged
 DECL|function|setAlphaFillRectMask
 DECL|function|setFillRectMask
+DECL|function|setOpacityPixmapMask
 DECL|function|setSourceOverPixmapMask
 DECL|function|setSourceOverScaledPixmapMask
 DECL|function|setSourcePixmapMask
@@ -75,4 +77,5 @@ DECL|member|drawRectMask
 DECL|member|fillRectMask
 DECL|member|hasXForm
 DECL|member|m_capabilities
+DECL|member|opacityPixmapMask
 DECL|member|pmData
