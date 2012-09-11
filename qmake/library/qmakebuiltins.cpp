@@ -38,7 +38,6 @@ DECL|enumerator|E_SYSTEM_QUOTE
 DECL|enumerator|E_UNIQUE
 DECL|enumerator|E_UPPER
 DECL|enumerator|E_VAL_ESCAPE
-DECL|enumerator|T_BREAK
 DECL|enumerator|T_CACHE
 DECL|enumerator|T_CLEAR
 DECL|enumerator|T_CONFIG
@@ -62,9 +61,7 @@ DECL|enumerator|T_LOAD
 DECL|enumerator|T_LOG
 DECL|enumerator|T_MESSAGE
 DECL|enumerator|T_MKPATH
-DECL|enumerator|T_NEXT
 DECL|enumerator|T_REQUIRES
-DECL|enumerator|T_RETURN
 DECL|enumerator|T_SYSTEM
 DECL|enumerator|T_TOUCH
 DECL|enumerator|T_UNSET

@@ -4,6 +4,7 @@ DECL|enumerator|TokAppendUnique
 DECL|enumerator|TokArgSeparator
 DECL|enumerator|TokAssign
 DECL|enumerator|TokBranch
+DECL|enumerator|TokBreak
 DECL|enumerator|TokCondition
 DECL|enumerator|TokEnvVar
 DECL|enumerator|TokForLoop
@@ -14,6 +15,7 @@ DECL|enumerator|TokLine
 DECL|enumerator|TokLiteral
 DECL|enumerator|TokMask
 DECL|enumerator|TokNewStr
+DECL|enumerator|TokNext
 DECL|enumerator|TokNot
 DECL|enumerator|TokOr
 DECL|enumerator|TokProperty
@@ -21,6 +23,7 @@ DECL|enumerator|TokQuoted
 DECL|enumerator|TokRemove
 DECL|enumerator|TokReplace
 DECL|enumerator|TokReplaceDef
+DECL|enumerator|TokReturn
 DECL|enumerator|TokTerminator
 DECL|enumerator|TokTestCall
 DECL|enumerator|TokTestDef

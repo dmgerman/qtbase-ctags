@@ -38,9 +38,12 @@ DECL|member|strLINE
 DECL|member|strLITERAL_DOLLAR
 DECL|member|strLITERAL_HASH
 DECL|member|strLITERAL_WHITESPACE
+DECL|member|strbreak
 DECL|member|strdefineReplace
 DECL|member|strdefineTest
 DECL|member|strelse
 DECL|member|strfor
 DECL|member|strhost_build
+DECL|member|strnext
 DECL|member|stroption
+DECL|member|strreturn
