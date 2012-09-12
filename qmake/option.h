@@ -31,9 +31,7 @@ DECL|function|hasFileExtension
 DECL|function|normalizePath
 DECL|function|splitPathList
 DECL|macro|OPTION_H
-DECL|macro|QMAKE_VERSION_MAJOR
-DECL|macro|QMAKE_VERSION_MINOR
-DECL|macro|QMAKE_VERSION_PATCH
+DECL|macro|QMAKE_VERSION_STR
 DECL|macro|debug_msg
 DECL|member|application_argv0
 DECL|member|c_ext
