@@ -6,6 +6,7 @@ DECL|class|TestSyntaxHighlighter
 DECL|class|tst_QTextDocument
 DECL|function|CursorPosSignalSpy
 DECL|function|MyAbstractTextDocumentLayout
+DECL|function|QTBUG25778_pixelSizeFromHtml
 DECL|function|TestDocument
 DECL|function|TestSyntaxHighlighter
 DECL|function|adjustSize
