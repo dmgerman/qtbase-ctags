@@ -47,6 +47,8 @@ DECL|function|isEnabled
 DECL|function|isFullScreen_sys
 DECL|function|isVisible
 DECL|function|lower
+DECL|function|mapFromGlobal
+DECL|function|mapToGlobal
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator <<
