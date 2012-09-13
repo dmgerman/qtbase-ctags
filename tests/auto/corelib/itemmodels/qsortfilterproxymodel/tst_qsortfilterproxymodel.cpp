@@ -1,6 +1,7 @@
 DECL|class|ChangableHeaderData
 DECL|class|EvenOddFilterModel
 DECL|class|FilterProxy
+DECL|class|FilterProxy2
 DECL|class|FilteredColumnProxyModel
 DECL|class|Model10287
 DECL|class|MyFilteredColumnProxyModel
@@ -12,6 +13,7 @@ DECL|class|TestModel
 DECL|class|tst_QSortFilterProxyModel
 DECL|function|ChangableHeaderData
 DECL|function|FilterProxy
+DECL|function|FilterProxy2
 DECL|function|FilteredColumnProxyModel
 DECL|function|Model10287
 DECL|function|MyFilteredColumnProxyModel
@@ -44,6 +46,7 @@ DECL|function|fetchMore
 DECL|function|filter
 DECL|function|filterAcceptsColumn
 DECL|function|filterAcceptsColumn
+DECL|function|filterAcceptsRow
 DECL|function|filterAcceptsRow
 DECL|function|filterAcceptsRow
 DECL|function|filterAcceptsRow
@@ -105,8 +108,10 @@ DECL|function|rowsAboutToBeMoved
 DECL|function|rowsMoved
 DECL|function|selectionFilteredOut
 DECL|function|setMode
+DECL|function|setMode
 DECL|function|setSelectionModel
 DECL|function|setSourceModel
+DECL|function|simpleFilterInvalidation
 DECL|function|sort
 DECL|function|sortColumnTracking1
 DECL|function|sortColumnTracking2
@@ -138,6 +143,7 @@ DECL|member|m_p2PersistentAfter
 DECL|member|m_p2PersistentBefore
 DECL|member|m_proxy
 DECL|member|m_proxy
+DECL|member|mode
 DECL|member|mode
 DECL|member|parentHash
 DECL|member|parentItem
