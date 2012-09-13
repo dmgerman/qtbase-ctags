@@ -14,16 +14,11 @@ DECL|typedef|ExampleNodeMap
 DECL|typedef|ImportList
 DECL|typedef|NodeList
 DECL|typedef|NodeMap
-DECL|typedef|NodeMap
-DECL|typedef|NodeMultiMap
 DECL|typedef|NodeMultiMap
 DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QString
-DECL|typedef|QString
-DECL|typedef|QString
-DECL|variable|ClassNode
 DECL|variable|ClassNode
 DECL|variable|ClassNode
 DECL|variable|EnumNode
@@ -34,7 +29,7 @@ DECL|variable|NameCollisionNode
 DECL|variable|Node
 DECL|variable|PropertyNode
 DECL|variable|PropertyNode
+DECL|variable|QDocDatabase
 DECL|variable|QmlClassNode
 DECL|variable|QmlPropertyNode
-DECL|variable|Tree
 DECL|variable|TypedefNode

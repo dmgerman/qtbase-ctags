@@ -10,13 +10,10 @@ DECL|function|markedUpIncludes
 DECL|function|markedUpName
 DECL|function|markedUpQmlItem
 DECL|function|markedUpSynopsis
-DECL|function|plainFullName
-DECL|function|plainName
 DECL|function|qmlSections
 DECL|function|recognizeCode
 DECL|function|recognizeExtension
 DECL|function|recognizeLanguage
-DECL|function|resolveTarget
 DECL|function|sections
 DECL|function|~CppCodeMarker
 DECL|macro|readChar

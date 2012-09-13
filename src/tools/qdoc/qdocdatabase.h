@@ -1,0 +1,13 @@
+DECL|macro|QDOCDATABASE_H
+DECL|typedef|DocNodeMap
+DECL|typedef|NodeMapMap
+DECL|typedef|NodeMultiMapMap
+DECL|typedef|QDocMultiMap
+DECL|typedef|QString
+DECL|typedef|QString
+DECL|typedef|QString
+DECL|typedef|QString
+DECL|typedef|QString
+DECL|typedef|QmlTypeMap
+DECL|typedef|Text
+DECL|typedef|TextToNodeMap

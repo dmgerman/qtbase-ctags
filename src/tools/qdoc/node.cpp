@@ -58,8 +58,14 @@ DECL|function|findQmlBaseNode
 DECL|function|fixBaseClasses
 DECL|function|fromFlagValue
 DECL|function|fullDocumentName
+DECL|function|fullName
 DECL|function|fullTitle
+DECL|function|getMemberClasses
+DECL|function|getMemberNamespaces
 DECL|function|guid
+DECL|function|hasClasses
+DECL|function|hasMembers
+DECL|function|hasNamespaces
 DECL|function|hasProperty
 DECL|function|hasProperty
 DECL|function|idForNode
@@ -67,16 +73,12 @@ DECL|function|idNumber
 DECL|function|incPropertyGroupCount
 DECL|function|inheritedStatus
 DECL|function|inheritedThreadSafeness
-DECL|function|insertQmlModuleMember
-DECL|function|insertQmlModuleNode
 DECL|function|isInternal
 DECL|function|isQmlNode
 DECL|function|isSameSignature
 DECL|function|isWritable
 DECL|function|itemAccess
 DECL|function|itemValue
-DECL|function|lookupQmlModuleNode
-DECL|function|lookupQmlTypeNode
 DECL|function|makeUndocumentedChildrenInternal
 DECL|function|moduleName
 DECL|function|nodeSubtypeString
@@ -91,7 +93,11 @@ DECL|function|overloads
 DECL|function|pageTypeString
 DECL|function|pageTypeString
 DECL|function|parameterNames
+DECL|function|plainFullName
+DECL|function|plainName
 DECL|function|primaryKeys
+DECL|function|printChildren
+DECL|function|printMembers
 DECL|function|qmlClassNode
 DECL|function|qualifiedDataType
 DECL|function|rawParameters
@@ -100,7 +106,6 @@ DECL|function|reconstructParams
 DECL|function|removeChild
 DECL|function|removeFromRelated
 DECL|function|removeRelated
-DECL|function|resolveInheritance
 DECL|function|secondaryKeys
 DECL|function|setAssociatedEnum
 DECL|function|setAssociatedProperty
@@ -112,7 +117,7 @@ DECL|function|setOverload
 DECL|function|setOverload
 DECL|function|setOverriddenFrom
 DECL|function|setPageType
-DECL|function|setQmlModule
+DECL|function|setQmlModuleInfo
 DECL|function|setReimp
 DECL|function|setReimplementedFrom
 DECL|function|setRelates
@@ -135,6 +140,4 @@ DECL|member|exampleNodeMap
 DECL|member|inheritedBy
 DECL|member|operators_
 DECL|member|propertyGroupCount_
-DECL|member|qmlModuleMap_
-DECL|member|qmlModuleMemberMap_
 DECL|member|qmlOnly

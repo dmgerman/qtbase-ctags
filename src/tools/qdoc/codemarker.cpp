@@ -15,7 +15,6 @@ DECL|function|markerForLanguage
 DECL|function|nodeForString
 DECL|function|protect
 DECL|function|qmlSections
-DECL|function|resolveTarget
 DECL|function|sortName
 DECL|function|stringForNode
 DECL|function|taggedNode

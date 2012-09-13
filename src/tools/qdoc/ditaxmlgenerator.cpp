@@ -17,11 +17,6 @@ DECL|function|enterSection
 DECL|function|fileBase
 DECL|function|fileExtension
 DECL|function|fileName
-DECL|function|findAllClasses
-DECL|function|findAllFunctions
-DECL|function|findAllLegaleseTexts
-DECL|function|findAllNamespaces
-DECL|function|findNodeForTarget
 DECL|function|format
 DECL|function|fullQualification
 DECL|function|generateAnnotatedList
@@ -54,7 +49,6 @@ DECL|function|generateSection
 DECL|function|generateSectionInheritedList
 DECL|function|generateStatus
 DECL|function|generateTableOfContents
-DECL|function|generateTableOfContents
 DECL|function|generateTree
 DECL|function|getLink
 DECL|function|getMarkedUpSynopsis
@@ -77,7 +71,6 @@ DECL|function|refForAtom
 DECL|function|registerRef
 DECL|function|replaceTypesWithLinks
 DECL|function|startQmlProperty
-DECL|function|startText
 DECL|function|stripMarkup
 DECL|function|terminateGenerator
 DECL|function|writeApiDesc

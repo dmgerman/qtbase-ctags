@@ -6,14 +6,11 @@ DECL|function|appendSortedNames
 DECL|function|appendSortedQmlNames
 DECL|function|beginSubPage
 DECL|function|endSubPage
-DECL|function|endText
 DECL|function|fileBase
 DECL|function|fileName
-DECL|function|findAllSince
 DECL|function|formattingLeftMap
 DECL|function|formattingRightMap
 DECL|function|fullDocumentLocation
-DECL|function|fullName
 DECL|function|generateAlsoList
 DECL|function|generateAtom
 DECL|function|generateAtomList
@@ -43,6 +40,7 @@ DECL|function|imageFileName
 DECL|function|indent
 DECL|function|initialize
 DECL|function|initializeGenerator
+DECL|function|initializeTextOutput
 DECL|function|matchAhead
 DECL|function|out
 DECL|function|outFileName
@@ -52,7 +50,6 @@ DECL|function|plainCode
 DECL|function|setImageFileExtensions
 DECL|function|singularPlural
 DECL|function|skipAtoms
-DECL|function|startText
 DECL|function|supplementAlsoList
 DECL|function|terminate
 DECL|function|terminateGenerator

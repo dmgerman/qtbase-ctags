@@ -8,8 +8,6 @@ DECL|function|markedUpFullName
 DECL|function|markedUpIncludes
 DECL|function|markedUpName
 DECL|function|markedUpSynopsis
-DECL|function|plainFullName
-DECL|function|plainName
 DECL|function|recognizeCode
 DECL|function|recognizeExtension
 DECL|function|recognizeLanguage

@@ -9,11 +9,6 @@ DECL|function|endLink
 DECL|function|fileBase
 DECL|function|fileExtension
 DECL|function|fileName
-DECL|function|findAllClasses
-DECL|function|findAllFunctions
-DECL|function|findAllLegaleseTexts
-DECL|function|findAllNamespaces
-DECL|function|findNodeForTarget
 DECL|function|format
 DECL|function|generateAllQmlMembersFile
 DECL|function|generateAnnotatedList
@@ -67,7 +62,6 @@ DECL|function|refForAtom
 DECL|function|refForNode
 DECL|function|registerRef
 DECL|function|reportOrphans
-DECL|function|startText
 DECL|function|terminateGenerator
 DECL|function|writeDitaMap
 DECL|function|writeDitaRefs

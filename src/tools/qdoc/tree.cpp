@@ -24,9 +24,8 @@ DECL|function|findNode
 DECL|function|findNode
 DECL|function|findNodeByNameAndType
 DECL|function|findNodeRecursive
-DECL|function|findQmlClassNode
-DECL|function|findQmlClassNode
 DECL|function|findQmlModuleNode
+DECL|function|findQmlTypeNode
 DECL|function|findTarget
 DECL|function|findUnambiguousTarget
 DECL|function|findVirtualFunctionInBaseClasses
@@ -50,7 +49,6 @@ DECL|function|resolveIndex
 DECL|function|resolveInheritance
 DECL|function|resolveInheritance
 DECL|function|resolveProperties
-DECL|function|resolveQmlInheritance
 DECL|function|resolveTargets
 DECL|function|~Tree
 DECL|member|access

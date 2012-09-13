@@ -30,4 +30,4 @@ DECL|struct|SubProject
 DECL|typedef|QString
 DECL|typedef|QStringNodePair
 DECL|variable|Generator
-DECL|variable|Tree
+DECL|variable|QDocDatabase

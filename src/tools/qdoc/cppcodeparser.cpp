@@ -1,9 +1,7 @@
 DECL|function|CppCodeParser
-DECL|function|cleanType
 DECL|function|createExampleFileNodes
 DECL|function|doneParsingHeaderFiles
 DECL|function|doneParsingSourceFiles
-DECL|function|findFunctionNode
 DECL|function|headerFileNameFilter
 DECL|function|initializeParser
 DECL|function|instantiateIteratorMacro
