@@ -8,5 +8,7 @@ DECL|function|initTestCase
 DECL|function|postKeyReturn
 DECL|function|setFont
 DECL|function|task256466_wrongStyle
+DECL|function|testGetFont
+DECL|function|testSetFont
 DECL|function|tst_QFontDialog
 DECL|function|~tst_QFontDialog

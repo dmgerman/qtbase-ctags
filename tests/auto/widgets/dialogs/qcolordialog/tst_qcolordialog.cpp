@@ -9,6 +9,8 @@ DECL|function|initTestCase
 DECL|function|native_activeModalWidget
 DECL|function|postKeyReturn
 DECL|function|task247349_alpha
+DECL|function|testGetRgba
+DECL|function|testNativeActiveModalWidget
 DECL|function|test_activeModalWidgetSignal
 DECL|function|tst_QColorDialog
 DECL|function|~tst_QColorDialog
