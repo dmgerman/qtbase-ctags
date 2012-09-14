@@ -1,4 +1,5 @@
 DECL|function|NmakeMakefileGenerator
+DECL|function|cQuoted
 DECL|function|defaultInstall
 DECL|function|findDependencies
 DECL|function|getPdbTarget
