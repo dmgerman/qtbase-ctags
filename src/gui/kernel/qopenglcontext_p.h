@@ -1,4 +1,4 @@
-DECL|macro|QGUIGLCONTEXT_P_H
+DECL|macro|QOPENGLCONTEXT_P_H
 DECL|variable|QOpenGLContext
 DECL|variable|QOpenGLFunctions
 DECL|variable|QOpenGLFunctions

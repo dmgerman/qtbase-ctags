@@ -1,2 +1,2 @@
-DECL|macro|QOpenGLYPHRUN_H
+DECL|macro|QGLYPHRUN_H
 DECL|variable|QGlyphRunPrivate

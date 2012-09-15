@@ -3,7 +3,7 @@ DECL|enumerator|Scalable
 DECL|enumerator|Threshold
 DECL|enum|Type
 DECL|function|QIconDirInfo
-DECL|macro|QDESKTOPICON_P_H
+DECL|macro|QICONLOADER_P_H
 DECL|member|basePixmap
 DECL|member|maxSize
 DECL|member|minSize

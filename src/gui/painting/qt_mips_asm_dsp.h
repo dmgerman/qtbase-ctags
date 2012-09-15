@@ -3,7 +3,7 @@ DECL|macro|END
 DECL|macro|LEAF_MIPS32R2
 DECL|macro|LEAF_MIPS_DSP
 DECL|macro|LEAF_MIPS_DSPR2
-DECL|macro|QT_MIPS_DSP_H__
+DECL|macro|QT_MIPS_ASM_DSP_H
 DECL|macro|a0
 DECL|macro|a1
 DECL|macro|a2

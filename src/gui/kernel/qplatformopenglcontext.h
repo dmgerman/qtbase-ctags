@@ -1,2 +1,2 @@
-DECL|macro|QPLATFORMGLCONTEXT_H
+DECL|macro|QPLATFORMOPENGLCONTEXT_H
 DECL|variable|QPlatformOpenGLContextPrivate
