@@ -44,6 +44,8 @@ DECL|function|removeRows
 DECL|function|removeRows_data
 DECL|function|repopulateTestTables
 DECL|function|select
+DECL|function|selectRow
+DECL|function|selectRow_data
 DECL|function|select_data
 DECL|function|setFilter
 DECL|function|setFilter_data
