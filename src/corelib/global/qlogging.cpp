@@ -19,9 +19,11 @@ DECL|function|qt_message_fatal
 DECL|function|qt_message_output
 DECL|function|qt_message_print
 DECL|function|setPattern
+DECL|function|slog2_default_handler
 DECL|function|warning
 DECL|function|warning
 DECL|function|~QMessagePattern
+DECL|macro|QT_LOG_CODE
 DECL|macro|qCritical
 DECL|macro|qDebug
 DECL|macro|qFatal
