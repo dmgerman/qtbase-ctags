@@ -5,6 +5,7 @@ DECL|function|QUrlPrivate
 DECL|function|QUrlPrivate
 DECL|function|adjustFtpPath
 DECL|function|appendAuthority
+DECL|function|appendComponentIfPresent
 DECL|function|appendFragment
 DECL|function|appendHost
 DECL|function|appendPassword
@@ -16,6 +17,7 @@ DECL|function|appendUserName
 DECL|function|authority
 DECL|function|clear
 DECL|function|detach
+DECL|function|errorMessage
 DECL|function|errorString
 DECL|function|fileScheme
 DECL|function|fragment
