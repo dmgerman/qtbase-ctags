@@ -1,0 +1,2 @@
+DECL|class|tst_QProcessNoApplication
+DECL|function|initializationDeadlock
