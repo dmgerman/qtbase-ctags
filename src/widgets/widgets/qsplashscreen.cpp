@@ -6,6 +6,7 @@ DECL|function|clearMessage
 DECL|function|drawContents
 DECL|function|event
 DECL|function|finish
+DECL|function|message
 DECL|function|mousePressEvent
 DECL|function|pixmap
 DECL|function|repaint
