@@ -2,6 +2,7 @@ DECL|class|ChangedListener
 DECL|class|CountPaintItem
 DECL|class|CustomView
 DECL|class|EventSpy
+DECL|class|FauxMotifStyle
 DECL|class|FocusItem
 DECL|class|FriendlyGraphicsScene
 DECL|class|GraphicsItemWithHover
@@ -122,6 +123,7 @@ DECL|function|paint
 DECL|function|paint
 DECL|function|paint
 DECL|function|paintEvent
+DECL|function|pixelMetric
 DECL|function|render
 DECL|function|renderHints
 DECL|function|replayMouseMove
@@ -143,6 +145,7 @@ DECL|function|sendMousePress
 DECL|function|sendMouseRelease
 DECL|function|setScene
 DECL|function|setSceneRect
+DECL|function|styleHint
 DECL|function|task172231_untransformableItems
 DECL|function|task180429_mouseReleaseDragMode
 DECL|function|task186827_deleteReplayedItem

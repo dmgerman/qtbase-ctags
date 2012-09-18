@@ -26,12 +26,10 @@ DECL|function|qt_wince_is_smartphone
 DECL|function|readImage
 DECL|function|styleHint
 DECL|function|testAllFunctions
-DECL|function|testCDEStyle
 DECL|function|testCleanlooksStyle
 DECL|function|testDrawingShortcuts
 DECL|function|testFrameOnlyAroundContents
 DECL|function|testMacStyle
-DECL|function|testMotifStyle
 DECL|function|testPainting
 DECL|function|testPlastiqueStyle
 DECL|function|testProxyStyle
