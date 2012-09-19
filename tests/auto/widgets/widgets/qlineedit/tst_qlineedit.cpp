@@ -82,7 +82,6 @@ DECL|function|maxLengthAndInputMask
 DECL|function|maxLength_data
 DECL|function|maxLength_mask
 DECL|function|maxLength_mask_data
-DECL|function|nativeClipboardWorking
 DECL|function|noTextEditedOnClear
 DECL|function|onCursorPositionChanged
 DECL|function|onReturnPressed

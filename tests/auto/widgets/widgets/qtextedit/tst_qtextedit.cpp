@@ -84,8 +84,6 @@ DECL|function|mergeCurrentCharFormat
 DECL|function|mimeDataReimplementations
 DECL|function|mouseCursorShape
 DECL|function|moveCursor
-DECL|function|nativeClipboardWorking
-DECL|function|nativeClipboardWorking
 DECL|function|noPropertiesOnDefaultTextEditCharFormat
 DECL|function|noWrapBackgrounds
 DECL|function|numPadKeyNavigation

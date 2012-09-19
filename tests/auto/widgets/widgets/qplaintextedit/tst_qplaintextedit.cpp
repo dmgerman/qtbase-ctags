@@ -57,7 +57,6 @@ DECL|function|lineWrapProperty
 DECL|function|mimeDataReimplementations
 DECL|function|mouseCursorShape
 DECL|function|moveCursor
-DECL|function|nativeClipboardWorking
 DECL|function|noPropertiesOnDefaultTextEditCharFormat
 DECL|function|numPadKeyNavigation
 DECL|function|overwriteMode
