@@ -89,6 +89,7 @@ DECL|function|topLevelDomain
 DECL|function|url
 DECL|function|userInfo
 DECL|function|userName
+DECL|function|validityError
 DECL|function|~QUrl
 DECL|macro|decode
 DECL|macro|encode
