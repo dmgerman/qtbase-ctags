@@ -14,6 +14,7 @@ DECL|function|ProString
 DECL|function|ProString
 DECL|function|ProString
 DECL|function|ProStringList
+DECL|function|ProStringList_join
 DECL|function|append
 DECL|function|append
 DECL|function|append
@@ -21,6 +22,7 @@ DECL|function|append
 DECL|function|contains
 DECL|function|contains
 DECL|function|hash
+DECL|function|join
 DECL|function|join
 DECL|function|mid
 DECL|function|operator +
