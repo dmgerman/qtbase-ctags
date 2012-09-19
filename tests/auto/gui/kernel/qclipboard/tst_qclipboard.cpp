@@ -1,10 +1,11 @@
 DECL|class|tst_QClipboard
 DECL|function|capabilityFunctions
+DECL|function|cleanupTestCase
 DECL|function|clearBeforeSetText
 DECL|function|copy_exit_paste
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|modes
-DECL|function|nativeClipboardWorking
 DECL|function|runHelper
 DECL|function|setMimeData
 DECL|function|testSignals
