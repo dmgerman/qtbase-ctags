@@ -102,7 +102,9 @@ DECL|function|taskQTBUG_5877_skippingItemInPageDownUp
 DECL|function|taskQTBUG_633_changeModelData
 DECL|function|taskQTBUG_9455_wrongScrollbarRanges
 DECL|function|testScrollToWithHidden
+DECL|function|testViewOptions
 DECL|function|tst_QListView
+DECL|function|viewOptions
 DECL|function|wordWrap
 DECL|function|~tst_QListView
 DECL|member|colCount

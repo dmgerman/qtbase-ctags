@@ -132,6 +132,7 @@ DECL|function|verticalScrollToValue
 DECL|function|verticalScrollToValue
 DECL|function|viewMode
 DECL|function|viewOptions
+DECL|function|viewOptions
 DECL|function|visualIndex
 DECL|function|visualRect
 DECL|function|visualRegionForSelection
