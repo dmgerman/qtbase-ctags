@@ -5,7 +5,7 @@ DECL|function|addWindow
 DECL|function|atom
 DECL|function|atomName
 DECL|function|checkEvent
-DECL|function|createScreenWithFabricatedName
+DECL|function|findOrCreateScreen
 DECL|function|formatForDepth
 DECL|function|handleClientMessageEvent
 DECL|function|handleXcbError
@@ -30,6 +30,7 @@ DECL|function|run
 DECL|function|sendConnectionEvent
 DECL|function|sync
 DECL|function|unlock
+DECL|function|updateScreens
 DECL|function|xi2CountBits
 DECL|function|xi2GetValuatorValueIfSet
 DECL|function|xi2PrepareXIGenericDeviceEvent
