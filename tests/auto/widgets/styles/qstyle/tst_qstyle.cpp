@@ -1,5 +1,6 @@
 DECL|class|CustomProxy
 DECL|class|DrawTextStyle
+DECL|class|FrameTestStyle
 DECL|class|MyWidget
 DECL|class|Qt42Style
 DECL|class|tst_QStyle
@@ -19,13 +20,16 @@ DECL|function|paintEvent
 DECL|function|pixelMetric
 DECL|function|pixelMetric
 DECL|function|pixelMetric
+DECL|function|pixelMetric
 DECL|function|progressBarChangeStyle
 DECL|function|qt_wince_is_smartphone
 DECL|function|readImage
+DECL|function|styleHint
 DECL|function|testAllFunctions
 DECL|function|testCDEStyle
 DECL|function|testCleanlooksStyle
 DECL|function|testDrawingShortcuts
+DECL|function|testFrameOnlyAroundContents
 DECL|function|testMacStyle
 DECL|function|testMotifStyle
 DECL|function|testPainting
@@ -41,6 +45,7 @@ DECL|function|testWindowsXPStyle
 DECL|function|tst_QStyle
 DECL|function|writeImage
 DECL|function|~tst_QStyle
+DECL|macro|SCROLLBAR_SPACING
 DECL|member|alignment
 DECL|member|margin
 DECL|member|margin_toplevel
