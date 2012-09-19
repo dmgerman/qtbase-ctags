@@ -1,5 +1,6 @@
 DECL|function|QMakeProject
 DECL|function|QMakeProject
+DECL|function|boolRet
 DECL|function|dump
 DECL|function|expand
 DECL|function|expand
