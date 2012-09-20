@@ -46,6 +46,7 @@ DECL|member|uuid
 DECL|member|vcprojFile
 DECL|member|version
 DECL|member|versionStr
+DECL|struct|DotNetCombo
 DECL|struct|VcsolutionDepend
 DECL|variable|_GUIDExtraCompilerFiles
 DECL|variable|_GUIDFormFiles
