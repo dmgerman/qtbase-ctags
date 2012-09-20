@@ -1,4 +1,6 @@
 DECL|function|operator
+DECL|function|operator
+DECL|function|operator
 DECL|macro|QNETWORKACCESSAUTHENTICATIONMANAGER_P_H
 DECL|variable|QAbstractNetworkCache
 DECL|variable|QAuthenticator
