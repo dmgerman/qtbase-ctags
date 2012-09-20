@@ -5,8 +5,8 @@ DECL|enumerator|Two
 DECL|enumerator|Zero
 DECL|enum|MyEnum
 DECL|function|constExpr
+DECL|function|signedness
 DECL|function|testFlag
 DECL|function|testFlagMultiBits
 DECL|function|testFlagZeroFlag
 DECL|function|verifyConstExpr
-DECL|variable|MyFlags
