@@ -12,6 +12,7 @@ DECL|function|applySpecSpecifics
 DECL|function|autoDetection
 DECL|function|buildQmake
 DECL|function|checkAvailability
+DECL|function|compilerSupportsFlag
 DECL|function|copySpec
 DECL|function|defaultTo
 DECL|function|desc
