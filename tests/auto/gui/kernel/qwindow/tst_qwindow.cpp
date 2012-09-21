@@ -38,6 +38,7 @@ DECL|function|touchCancelWithTouchToMouse
 DECL|function|touchEvent
 DECL|function|touchToMouseTranslation
 DECL|function|windowModality
+DECL|function|windowModality_QTBUG27039
 DECL|member|eventDevice
 DECL|member|eventGlobal
 DECL|member|eventLocal
