@@ -59,6 +59,7 @@ DECL|variable|_slnExtSections
 DECL|variable|_slnGlobalBeg
 DECL|variable|_slnGlobalEnd
 DECL|variable|_slnHeader100
+DECL|variable|_slnHeader110
 DECL|variable|_slnHeader70
 DECL|variable|_slnHeader71
 DECL|variable|_slnHeader80
