@@ -9,12 +9,6 @@ DECL|function|flags
 DECL|function|isRegistered
 DECL|function|isValid
 DECL|function|metaObject
-DECL|function|qMetaTypeConstructHelper
-DECL|function|qMetaTypeCreateHelper
-DECL|function|qMetaTypeDeleteHelper
-DECL|function|qMetaTypeDestructHelper
-DECL|function|qMetaTypeLoadHelper
-DECL|function|qMetaTypeSaveHelper
 DECL|function|qRegisterMetaTypeStreamOperators
 DECL|function|qt_metatype_id
 DECL|function|sizeOf
