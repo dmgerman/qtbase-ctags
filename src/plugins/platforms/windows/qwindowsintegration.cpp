@@ -1,4 +1,5 @@
 DECL|class|QWindowsNativeInterface
+DECL|enumerator|FontDatabaseAuto
 DECL|enumerator|FontDatabaseFreeType
 DECL|enumerator|FontDatabaseNative
 DECL|enum|FontDatabaseOption
@@ -19,6 +20,7 @@ DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|instance
+DECL|function|isQMLApplication
 DECL|function|keyBoardAutoRepeatRateMS
 DECL|function|nativeInterface
 DECL|function|nativeResourceForBackingStore
