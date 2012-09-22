@@ -1,0 +1,5 @@
+DECL|function|QOpenGLFunctions_3_1
+DECL|function|initializeOpenGLFunctions
+DECL|function|isContextCompatible
+DECL|function|versionProfile
+DECL|function|~QOpenGLFunctions_3_1
