@@ -17,20 +17,6 @@ DECL|enumerator|Tiled
 DECL|enum|BPP
 DECL|enum|Type
 DECL|enum|Type
-DECL|function|BPP16
-DECL|function|BPP16
-DECL|function|BPP1LSB
-DECL|function|BPP1LSB
-DECL|function|BPP1MSB
-DECL|function|BPP1MSB
-DECL|function|BPP24
-DECL|function|BPP24
-DECL|function|BPP32
-DECL|function|BPP32
-DECL|function|BPP32
-DECL|function|BPP32
-DECL|function|BPP8
-DECL|function|BPP8
 DECL|function|BYTE_MUL
 DECL|function|BYTE_MUL
 DECL|function|BYTE_MUL_RGB16
@@ -43,7 +29,6 @@ DECL|function|PREMUL
 DECL|function|QSpanData
 DECL|function|comp_func_Plus_one_pixel
 DECL|function|comp_func_Plus_one_pixel_const_alpha
-DECL|function|fetchPixels
 DECL|function|qBlue565
 DECL|function|qConvertRgb16To32
 DECL|function|qConvertRgb32To16
@@ -61,7 +46,6 @@ DECL|function|qt_memfill
 DECL|function|qt_rectfill
 DECL|function|quint24
 DECL|function|scanLine
-DECL|function|storePixels
 DECL|function|uint
 DECL|function|~QSpanData
 DECL|macro|AMIX
