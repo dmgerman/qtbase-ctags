@@ -1,0 +1,13 @@
+DECL|function|QDocIndexFiles
+DECL|function|compareNodes
+DECL|function|destroyQDocIndexFiles
+DECL|function|generateIndex
+DECL|function|generateIndexSection
+DECL|function|generateIndexSections
+DECL|function|qdocIndexFiles
+DECL|function|readIndexFile
+DECL|function|readIndexSection
+DECL|function|readIndexes
+DECL|function|resolveIndex
+DECL|function|~QDocIndexFiles
+DECL|member|qdocIndexFiles_

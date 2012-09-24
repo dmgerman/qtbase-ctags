@@ -1,4 +1,9 @@
+DECL|enumerator|NonFunction
+DECL|enumerator|SearchBaseClasses
+DECL|enumerator|SearchEnumValues
+DECL|enum|FindFlag
 DECL|macro|QDOCDATABASE_H
+DECL|typedef|DocNodeHash
 DECL|typedef|DocNodeMap
 DECL|typedef|NodeMapMap
 DECL|typedef|NodeMultiMapMap
@@ -8,6 +13,9 @@ DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QString
+DECL|typedef|QString
 DECL|typedef|QmlTypeMap
 DECL|typedef|Text
 DECL|typedef|TextToNodeMap
+DECL|variable|Atom
+DECL|variable|Generator

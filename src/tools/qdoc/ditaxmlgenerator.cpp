@@ -31,7 +31,6 @@ DECL|function|generateDocNode
 DECL|function|generateFullName
 DECL|function|generateFunctionIndex
 DECL|function|generateHeader
-DECL|function|generateIndex
 DECL|function|generateInnerNode
 DECL|function|generateInstantiatedBy
 DECL|function|generateLegaleseList

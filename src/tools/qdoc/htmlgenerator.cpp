@@ -28,7 +28,6 @@ DECL|function|generateFullName
 DECL|function|generateFunctionIndex
 DECL|function|generateHeader
 DECL|function|generateIncludes
-DECL|function|generateIndex
 DECL|function|generateInstantiatedBy
 DECL|function|generateLegaleseList
 DECL|function|generateLink
