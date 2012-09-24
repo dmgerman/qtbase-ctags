@@ -29,9 +29,6 @@ DECL|function|enableAttributeArray
 DECL|function|enableAttributeArray
 DECL|function|freeProgramFunc
 DECL|function|freeShaderFunc
-DECL|function|geometryInputType
-DECL|function|geometryOutputType
-DECL|function|geometryOutputVertexCount
 DECL|function|hasOpenGLShaderPrograms
 DECL|function|hasOpenGLShaders
 DECL|function|hasShader
@@ -41,7 +38,6 @@ DECL|function|isLinked
 DECL|function|link
 DECL|function|log
 DECL|function|log
-DECL|function|maxGeometryOutputVertices
 DECL|function|programId
 DECL|function|release
 DECL|function|removeAllShaders
@@ -76,9 +72,6 @@ DECL|function|setAttributeValue
 DECL|function|setAttributeValue
 DECL|function|setAttributeValue
 DECL|function|setAttributeValue
-DECL|function|setGeometryInputType
-DECL|function|setGeometryOutputType
-DECL|function|setGeometryOutputVertexCount
 DECL|function|setUniformValue
 DECL|function|setUniformValue
 DECL|function|setUniformValue
@@ -181,9 +174,6 @@ DECL|macro|setUniformGenericMatrixArray
 DECL|macro|setUniformMatrixArray
 DECL|member|anonShaders
 DECL|member|compiled
-DECL|member|geometryInputType
-DECL|member|geometryOutputType
-DECL|member|geometryVertexCount
 DECL|member|glfuncs
 DECL|member|glfuncs
 DECL|member|inited
