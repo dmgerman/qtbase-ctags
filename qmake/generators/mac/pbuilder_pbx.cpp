@@ -19,6 +19,7 @@ DECL|function|pbxbuild
 DECL|function|projectSuffix
 DECL|function|qtMD5
 DECL|function|reftypeForFile
+DECL|function|sourceTreeForFile
 DECL|function|writeMakeParts
 DECL|function|writeMakefile
 DECL|function|writeSettings
