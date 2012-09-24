@@ -1,6 +1,7 @@
 DECL|function|QAccessibleTable
 DECL|function|QAccessibleTableCell
 DECL|function|QAccessibleTableHeaderCell
+DECL|function|actionNames
 DECL|function|caption
 DECL|function|cell
 DECL|function|cellAt
@@ -19,6 +20,7 @@ DECL|function|columnDescription
 DECL|function|columnExtent
 DECL|function|columnHeaderCells
 DECL|function|columnIndex
+DECL|function|doAction
 DECL|function|horizontalHeader
 DECL|function|horizontalHeader
 DECL|function|indexFromLogical
@@ -32,6 +34,7 @@ DECL|function|isRowSelected
 DECL|function|isSelected
 DECL|function|isValid
 DECL|function|isValid
+DECL|function|keyBindingsForAction
 DECL|function|logicalIndex
 DECL|function|parent
 DECL|function|parent
@@ -50,6 +53,7 @@ DECL|function|rowDescription
 DECL|function|rowExtent
 DECL|function|rowHeaderCells
 DECL|function|rowIndex
+DECL|function|selectCell
 DECL|function|selectColumn
 DECL|function|selectRow
 DECL|function|selectRow
@@ -69,6 +73,7 @@ DECL|function|table
 DECL|function|text
 DECL|function|text
 DECL|function|text
+DECL|function|unselectCell
 DECL|function|unselectColumn
 DECL|function|unselectRow
 DECL|function|verticalHeader
