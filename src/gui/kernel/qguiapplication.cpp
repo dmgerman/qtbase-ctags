@@ -62,6 +62,7 @@ DECL|function|processKeyEvent
 DECL|function|processLeaveEvent
 DECL|function|processMouseEvent
 DECL|function|processNativeEvent
+DECL|function|processPlatformPanelEvent
 DECL|function|processTabletEnterProximityEvent
 DECL|function|processTabletEvent
 DECL|function|processTabletLeaveProximityEvent
