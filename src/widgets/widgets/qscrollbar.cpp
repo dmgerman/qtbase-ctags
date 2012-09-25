@@ -18,6 +18,7 @@ DECL|function|sizeHint
 DECL|function|sliderChange
 DECL|function|stopRepeatAction
 DECL|function|updateHoverControl
+DECL|function|wheelEvent
 DECL|function|~QScrollBar
 DECL|macro|HORIZONTAL
 DECL|macro|VERTICAL
