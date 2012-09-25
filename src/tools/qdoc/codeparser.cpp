@@ -1,6 +1,5 @@
 DECL|function|CodeParser
 DECL|function|commonMetaCommands
-DECL|function|createOutputSubdirectory
 DECL|function|doneParsingHeaderFiles
 DECL|function|extractPageLinkAndDesc
 DECL|function|headerFileNameFilter

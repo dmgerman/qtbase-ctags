@@ -61,7 +61,6 @@ DECL|function|~Generator
 DECL|macro|SKIP_CHAR
 DECL|macro|SKIP_CHAR
 DECL|macro|SKIP_SPACE
-DECL|member|baseDir_
 DECL|member|currentGenerator_
 DECL|member|exampleDirs
 DECL|member|exampleImgExts
