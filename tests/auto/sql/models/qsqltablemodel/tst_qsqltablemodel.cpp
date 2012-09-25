@@ -1,4 +1,6 @@
+DECL|class|SelectRowOverrideTestModel
 DECL|class|tst_QSqlTableModel
+DECL|function|SelectRowOverrideTestModel
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|createTestTables
@@ -45,6 +47,9 @@ DECL|function|removeRows_data
 DECL|function|repopulateTestTables
 DECL|function|select
 DECL|function|selectRow
+DECL|function|selectRow
+DECL|function|selectRowOverride
+DECL|function|selectRowOverride_data
 DECL|function|selectRow_data
 DECL|function|select_data
 DECL|function|setFilter
