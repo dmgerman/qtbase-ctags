@@ -5,6 +5,8 @@ DECL|function|autoRemove
 DECL|function|autoRemoveAfterFailedRename
 DECL|function|cleanupTestCase
 DECL|function|construction
+DECL|function|createNativeFile
+DECL|function|createNativeFile_data
 DECL|function|fileName
 DECL|function|fileNameIsEmpty
 DECL|function|fileTemplate

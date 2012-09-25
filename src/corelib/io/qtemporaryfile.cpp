@@ -12,7 +12,7 @@ DECL|function|QTemporaryFilePrivate
 DECL|function|autoRemove
 DECL|function|close
 DECL|function|createFileFromTemplate
-DECL|function|createLocalFile
+DECL|function|createNativeFile
 DECL|function|defaultTemplateName
 DECL|function|engine
 DECL|function|fileName
