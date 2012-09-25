@@ -102,6 +102,8 @@ DECL|member|userData
 DECL|member|whiteSpace
 DECL|member|width
 DECL|member|wordBreak
+DECL|member|wordEnd
+DECL|member|wordStart
 DECL|member|x
 DECL|member|xOffset
 DECL|member|x_ppem

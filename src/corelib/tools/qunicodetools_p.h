@@ -5,4 +5,6 @@ DECL|member|sentenceBoundary
 DECL|member|unused
 DECL|member|whiteSpace
 DECL|member|wordBreak
+DECL|member|wordEnd
+DECL|member|wordStart
 DECL|struct|QCharAttributes

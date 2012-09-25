@@ -23,6 +23,7 @@ DECL|function|wordBoundariesDefault
 DECL|function|wordBoundariesDefault_data
 DECL|function|wordBoundaries_manual
 DECL|function|wordBoundaries_manual_data
+DECL|function|wordBoundaries_qtbug6498
 DECL|macro|LIBTHAI_MAJOR
 DECL|namespace|QTest
 DECL|typedef|th_brk_def
