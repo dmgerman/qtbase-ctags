@@ -31,6 +31,7 @@ DECL|function|merge
 DECL|function|mergeIndexes
 DECL|function|model
 DECL|function|operator <<
+DECL|function|qSelectionPersistentindexes
 DECL|function|reset
 DECL|function|rowIntersectsSelection
 DECL|function|select
