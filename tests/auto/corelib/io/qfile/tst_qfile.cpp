@@ -145,7 +145,6 @@ DECL|function|standarderror
 DECL|function|streamCurrentPosition
 DECL|function|streamCurrentPosition
 DECL|function|streamExpectedSize
-DECL|function|tailFile
 DECL|function|testPassed
 DECL|function|text
 DECL|function|textFile
