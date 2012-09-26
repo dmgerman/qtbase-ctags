@@ -18,6 +18,7 @@ DECL|function|setData
 DECL|function|setHeaderData
 DECL|function|setItemData
 DECL|function|setSourceModel
+DECL|function|sibling
 DECL|function|sort
 DECL|function|sourceModel
 DECL|function|span

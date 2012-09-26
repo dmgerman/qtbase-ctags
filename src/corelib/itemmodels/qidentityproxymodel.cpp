@@ -36,6 +36,7 @@ DECL|function|removeColumns
 DECL|function|removeRows
 DECL|function|rowCount
 DECL|function|setSourceModel
+DECL|function|sibling
 DECL|function|~QIdentityProxyModel
 DECL|member|layoutChangePersistentIndexes
 DECL|member|proxyIndexes

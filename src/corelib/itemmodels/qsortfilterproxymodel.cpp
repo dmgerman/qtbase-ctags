@@ -95,6 +95,7 @@ DECL|function|setSortCaseSensitivity
 DECL|function|setSortLocaleAware
 DECL|function|setSortRole
 DECL|function|setSourceModel
+DECL|function|sibling
 DECL|function|sort
 DECL|function|sort
 DECL|function|sortCaseSensitivity

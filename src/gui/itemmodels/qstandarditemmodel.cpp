@@ -116,6 +116,7 @@ DECL|function|setSortRole
 DECL|function|setTristate
 DECL|function|setVerticalHeaderItem
 DECL|function|setVerticalHeaderLabels
+DECL|function|sibling
 DECL|function|sort
 DECL|function|sortChildren
 DECL|function|sortChildren
