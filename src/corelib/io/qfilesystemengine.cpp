@@ -4,6 +4,7 @@ DECL|function|_q_resolveEntryAndCreateLegacyEngine_recursive
 DECL|function|fillFromDirEnt
 DECL|function|fillFromStatBuf
 DECL|function|fillMetaData
+DECL|function|fillStat64fromStat32
 DECL|function|resolveEntryAndCreateLegacyEngine
 DECL|function|resolveGroupName
 DECL|function|resolveUserName
