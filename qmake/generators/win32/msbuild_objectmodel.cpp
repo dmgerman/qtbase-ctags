@@ -48,6 +48,8 @@ DECL|function|toTriState
 DECL|function|toTriState
 DECL|function|toTriState
 DECL|function|toTriState
+DECL|function|unquote
+DECL|function|unquote
 DECL|function|valueTagDefX
 DECL|function|valueTagT
 DECL|function|valueTagX
