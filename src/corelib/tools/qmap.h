@@ -37,10 +37,6 @@ DECL|function|leftNode
 DECL|function|lowerBound
 DECL|function|lowerBound
 DECL|function|lowerBound
-DECL|function|maximumNode
-DECL|function|maximumNode
-DECL|function|maximumNode
-DECL|function|maximumNode
 DECL|function|minimumNode
 DECL|function|minimumNode
 DECL|function|minimumNode
