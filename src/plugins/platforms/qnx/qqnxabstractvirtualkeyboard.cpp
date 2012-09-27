@@ -1,5 +1,6 @@
 DECL|function|QQnxAbstractVirtualKeyboard
 DECL|function|setHeight
+DECL|function|setInputHintsFromObject
 DECL|function|setKeyboardMode
 DECL|function|setLocale
 DECL|function|setVisible
