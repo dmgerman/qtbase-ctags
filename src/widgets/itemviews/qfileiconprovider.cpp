@@ -11,6 +11,7 @@ DECL|function|~QFileIconProvider
 DECL|macro|SHGFI_ADDOVERLAYS
 DECL|macro|SHGFI_OVERLAYINDEX
 DECL|macro|_WIN32_IE
+DECL|macro|_WIN32_IE
 DECL|member|cdrom
 DECL|member|computer
 DECL|member|desktop
