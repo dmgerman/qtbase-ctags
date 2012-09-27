@@ -47,7 +47,6 @@ DECL|function|modelDestroyed
 DECL|function|modelSorting
 DECL|function|pathFromIndex
 DECL|function|popup
-DECL|function|resetModel
 DECL|function|rowCount
 DECL|function|rowsInserted
 DECL|function|saveInCache
