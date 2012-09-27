@@ -7,6 +7,7 @@ DECL|enumerator|GraphemeBreak_LV
 DECL|enumerator|GraphemeBreak_LVT
 DECL|enumerator|GraphemeBreak_Other
 DECL|enumerator|GraphemeBreak_Prepend
+DECL|enumerator|GraphemeBreak_RegionalIndicator
 DECL|enumerator|GraphemeBreak_SpacingMark
 DECL|enumerator|GraphemeBreak_T
 DECL|enumerator|GraphemeBreak_Unassigned
@@ -47,6 +48,7 @@ DECL|enumerator|LineBreak_OP
 DECL|enumerator|LineBreak_PO
 DECL|enumerator|LineBreak_PR
 DECL|enumerator|LineBreak_QU
+DECL|enumerator|LineBreak_RI
 DECL|enumerator|LineBreak_SA
 DECL|enumerator|LineBreak_SG
 DECL|enumerator|LineBreak_SP
@@ -81,6 +83,7 @@ DECL|enumerator|WordBreak_MidNumLet
 DECL|enumerator|WordBreak_Newline
 DECL|enumerator|WordBreak_Numeric
 DECL|enumerator|WordBreak_Other
+DECL|enumerator|WordBreak_RegionalIndicator
 DECL|enumerator|WordBreak_Unassigned
 DECL|enumerator|specialScriptsCount
 DECL|enum|GraphemeBreakClass
