@@ -29,11 +29,14 @@ DECL|function|isRowSelected
 DECL|function|isSelected
 DECL|function|merge
 DECL|function|mergeIndexes
+DECL|function|mergeRowLengths
 DECL|function|model
 DECL|function|operator <<
+DECL|function|qSelectionPersistentRowLengths
 DECL|function|qSelectionPersistentindexes
 DECL|function|reset
 DECL|function|rowIntersectsSelection
+DECL|function|rowLengthsFromRange
 DECL|function|select
 DECL|function|select
 DECL|function|select
