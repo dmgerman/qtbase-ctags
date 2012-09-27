@@ -4,6 +4,7 @@ DECL|function|MyClass
 DECL|function|MyClass
 DECL|function|MyClass
 DECL|function|beginEnd
+DECL|function|checkMostLeftNode
 DECL|function|clear
 DECL|function|constFind
 DECL|function|const_
@@ -24,6 +25,7 @@ DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator_eq
 DECL|function|qmultimap_specific
+DECL|function|sanityCheckTree
 DECL|function|setSharable
 DECL|function|swap
 DECL|function|take
