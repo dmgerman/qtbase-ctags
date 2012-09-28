@@ -5,5 +5,15 @@ DECL|function|createWindow1
 DECL|function|createWindow2
 DECL|function|doPreferences
 DECL|function|main
+DECL|function|setEnabledObjects
+DECL|function|setVisibleObjects
 DECL|function|showModalDialog
 DECL|function|toggleChecked
+DECL|function|toggleEnabled
+DECL|function|toggleVisiblity
+DECL|member|enabledAction
+DECL|member|enabledMenu
+DECL|member|enabledSubMenu
+DECL|member|visibleAction
+DECL|member|visibleMenu
+DECL|member|visibleSubMenu
