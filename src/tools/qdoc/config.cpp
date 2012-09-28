@@ -10,6 +10,7 @@ DECL|function|getAllFiles
 DECL|function|getBool
 DECL|function|getCanonicalRelativePathList
 DECL|function|getCleanPathList
+DECL|function|getExampleImageFiles
 DECL|function|getExampleQdocFiles
 DECL|function|getExpanded
 DECL|function|getFilesHere

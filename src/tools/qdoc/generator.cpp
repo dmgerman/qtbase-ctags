@@ -4,6 +4,7 @@ DECL|function|appendFullName
 DECL|function|appendFullNames
 DECL|function|appendSortedNames
 DECL|function|appendSortedQmlNames
+DECL|function|augmentImageDirs
 DECL|function|beginSubPage
 DECL|function|endSubPage
 DECL|function|fileBase
