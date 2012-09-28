@@ -19,6 +19,7 @@ DECL|function|canRender
 DECL|function|clear
 DECL|function|cloneWithSize
 DECL|function|computeSize
+DECL|function|convertGRAYToARGB
 DECL|function|convertRGBToARGB
 DECL|function|convertRGBToARGB_V
 DECL|function|convoluteBitmap
