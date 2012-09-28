@@ -1,10 +1,13 @@
 DECL|class|RecordReimplModel
+DECL|class|SelectRowModel
 DECL|class|SelectRowOverrideTestModel
 DECL|class|SetRecordReimplModel
 DECL|class|tst_QSqlTableModel
 DECL|function|RecordReimplModel
+DECL|function|SelectRowModel
 DECL|function|SelectRowOverrideTestModel
 DECL|function|SetRecordReimplModel
+DECL|function|cacheEmpty
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|createTestTables
