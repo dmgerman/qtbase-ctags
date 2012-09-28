@@ -44,3 +44,5 @@ DECL|function|valueInterface
 DECL|function|variantForPath
 DECL|function|windowActivated
 DECL|function|~AtSpiAdaptor
+DECL|macro|qAtspiDebug
+DECL|variable|isDebugging
