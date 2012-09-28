@@ -1,6 +1,8 @@
 DECL|class|SelectRowOverrideTestModel
+DECL|class|SetRecordReimplModel
 DECL|class|tst_QSqlTableModel
 DECL|function|SelectRowOverrideTestModel
+DECL|function|SetRecordReimplModel
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|createTestTables
@@ -52,11 +54,14 @@ DECL|function|selectRowOverride
 DECL|function|selectRowOverride_data
 DECL|function|selectRow_data
 DECL|function|select_data
+DECL|function|setData
 DECL|function|setFilter
 DECL|function|setFilter_data
 DECL|function|setInvalidFilter
 DECL|function|setInvalidFilter_data
 DECL|function|setRecord
+DECL|function|setRecordReimpl
+DECL|function|setRecordReimpl_data
 DECL|function|setRecord_data
 DECL|function|sqlite_attachedDatabase
 DECL|function|sqlite_attachedDatabase_data
