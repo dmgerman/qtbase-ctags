@@ -1,11 +1,14 @@
+DECL|class|RecordReimplModel
 DECL|class|SelectRowOverrideTestModel
 DECL|class|SetRecordReimplModel
 DECL|class|tst_QSqlTableModel
+DECL|function|RecordReimplModel
 DECL|function|SelectRowOverrideTestModel
 DECL|function|SetRecordReimplModel
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|createTestTables
+DECL|function|data
 DECL|function|dropTestTables
 DECL|function|emptyTable
 DECL|function|emptyTable_data
@@ -35,6 +38,8 @@ DECL|function|isDirty
 DECL|function|isDirty_data
 DECL|function|primaryKeyOrder
 DECL|function|primaryKeyOrder_data
+DECL|function|recordReimpl
+DECL|function|recordReimpl_data
 DECL|function|recreateTestTables
 DECL|function|removeColumnAndRow
 DECL|function|removeColumnAndRow_data
