@@ -46,7 +46,6 @@ DECL|function|menuTest
 DECL|function|navigateHierarchy
 DECL|function|onClicked
 DECL|function|queryIA2
-DECL|function|relatedInterface
 DECL|function|rubberBandTest
 DECL|function|scrollAreaTest
 DECL|function|scrollBarTest
