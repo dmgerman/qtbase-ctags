@@ -6,3 +6,4 @@ DECL|function|iteration
 DECL|function|lookup_int_int
 DECL|function|lookup_int_string
 DECL|function|lookup_string_int
+DECL|function|toStdMap
