@@ -16,6 +16,7 @@ DECL|function|pixelMetric
 DECL|function|polish
 DECL|function|polish
 DECL|function|polish
+DECL|function|qt_gtk_draw_mdibutton
 DECL|function|sizeFromContents
 DECL|function|standardIcon
 DECL|function|standardPalette
@@ -32,3 +33,6 @@ DECL|variable|dock_widget_restore_xpm
 DECL|variable|groupBoxBottomMargin
 DECL|variable|groupBoxTitleMargin
 DECL|variable|groupBoxTopMargin
+DECL|variable|qt_scrollbar_button_arrow_down
+DECL|variable|qt_scrollbar_button_arrow_up
+DECL|variable|qt_titlebar_context_help
