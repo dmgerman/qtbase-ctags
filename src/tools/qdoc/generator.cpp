@@ -6,6 +6,7 @@ DECL|function|appendSortedNames
 DECL|function|appendSortedQmlNames
 DECL|function|augmentImageDirs
 DECL|function|beginSubPage
+DECL|function|debugSegfault
 DECL|function|endSubPage
 DECL|function|fileBase
 DECL|function|fileName
@@ -48,6 +49,7 @@ DECL|function|outFileName
 DECL|function|outputPrefix
 DECL|function|parseArg
 DECL|function|plainCode
+DECL|function|setDebugSegfaultFlag
 DECL|function|setImageFileExtensions
 DECL|function|singularPlural
 DECL|function|skipAtoms
@@ -63,6 +65,7 @@ DECL|macro|SKIP_CHAR
 DECL|macro|SKIP_CHAR
 DECL|macro|SKIP_SPACE
 DECL|member|currentGenerator_
+DECL|member|debugging_
 DECL|member|exampleDirs
 DECL|member|exampleImgExts
 DECL|member|fmtLeftMaps
