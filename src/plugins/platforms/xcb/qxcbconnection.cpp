@@ -18,6 +18,7 @@ DECL|function|hasEgl
 DECL|function|hasSupportForDri2
 DECL|function|initializeAllAtoms
 DECL|function|initializeDri2
+DECL|function|initializeGLX
 DECL|function|initializeXFixes
 DECL|function|initializeXRandr
 DECL|function|initializeXRender
