@@ -39,6 +39,7 @@ DECL|function|setMaxWindowState_helper
 DECL|function|setModal_sys
 DECL|function|setParent_sys
 DECL|function|setWSGeometry
+DECL|function|setWindowFilePath_sys
 DECL|function|setWindowIconText_sys
 DECL|function|setWindowIcon_sys
 DECL|function|setWindowOpacity_sys
