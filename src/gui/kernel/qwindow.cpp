@@ -68,6 +68,7 @@ DECL|function|setSizeIncrement
 DECL|function|setSurfaceType
 DECL|function|setTransientParent
 DECL|function|setVisible
+DECL|function|setWindowFilePath
 DECL|function|setWindowFlags
 DECL|function|setWindowIcon
 DECL|function|setWindowModality
@@ -88,6 +89,7 @@ DECL|function|transientParent
 DECL|function|unsetCursor
 DECL|function|wheelEvent
 DECL|function|winId
+DECL|function|windowFilePath
 DECL|function|windowFlags
 DECL|function|windowIcon
 DECL|function|windowModality

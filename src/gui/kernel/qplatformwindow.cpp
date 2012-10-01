@@ -24,6 +24,7 @@ DECL|function|setMouseGrabEnabled
 DECL|function|setOpacity
 DECL|function|setParent
 DECL|function|setVisible
+DECL|function|setWindowFilePath
 DECL|function|setWindowFlags
 DECL|function|setWindowIcon
 DECL|function|setWindowModified
