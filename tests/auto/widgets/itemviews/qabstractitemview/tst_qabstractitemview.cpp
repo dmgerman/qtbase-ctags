@@ -1,4 +1,6 @@
 DECL|class|MyAbstractItemDelegate
+DECL|class|StateChangeDelegate
+DECL|class|StateChangeModel
 DECL|class|TestModel
 DECL|class|TestView
 DECL|class|tst_QAbstractItemView
@@ -23,6 +25,8 @@ DECL|enum|tst_State
 DECL|function|MyAbstractItemDelegate
 DECL|function|QTBUG6407_extendedSelection
 DECL|function|QTBUG6753_selectOnSelection
+DECL|function|StateChangeDelegate
+DECL|function|StateChangeModel
 DECL|function|TestModel
 DECL|function|basic_tests
 DECL|function|cleanupTestCase
@@ -32,6 +36,7 @@ DECL|function|ctrlA
 DECL|function|ctrlRubberbandSelection
 DECL|function|destroyEditor
 DECL|function|dragSelect
+DECL|function|emitDataChanged
 DECL|function|emptyModels
 DECL|function|emptyModels_data
 DECL|function|getSetCheck
@@ -56,6 +61,7 @@ DECL|function|task200665_itemEntered
 DECL|function|task221955_selectedEditor
 DECL|function|task250754_fontChange
 DECL|function|task257481_emptyEditor
+DECL|function|testChangeEditorState
 DECL|function|testClickedSignal
 DECL|function|testDelegateDestroyEditor
 DECL|function|tst_QAbstractItemView
