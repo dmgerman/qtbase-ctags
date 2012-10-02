@@ -64,6 +64,7 @@ DECL|function|textRectangle
 DECL|function|textRectangle
 DECL|function|textRectangle_data
 DECL|function|tst_QItemDelegate
+DECL|function|uintEdit
 DECL|function|~TestItemDelegate
 DECL|function|~TestItemModel
 DECL|function|~tst_QItemDelegate
