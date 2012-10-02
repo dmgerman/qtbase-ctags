@@ -32,6 +32,7 @@ DECL|function|failToStartWithWait
 DECL|function|fileWriterProcess
 DECL|function|finishedSlot
 DECL|function|forwardedChannels
+DECL|function|forwardedChannelsOutput
 DECL|function|getSetCheck
 DECL|function|hardExit
 DECL|function|initTestCase
