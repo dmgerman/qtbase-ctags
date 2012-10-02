@@ -1,0 +1,1 @@
+DECL|macro|JSON_TEST_PLUGIN_H
