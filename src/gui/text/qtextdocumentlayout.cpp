@@ -79,6 +79,9 @@ DECL|function|markFrames
 DECL|function|newPage
 DECL|function|operator <
 DECL|function|operator <
+DECL|function|operator <
+DECL|function|operator <
+DECL|function|operator <
 DECL|function|paddingProperty
 DECL|function|pageCount
 DECL|function|positionFloat

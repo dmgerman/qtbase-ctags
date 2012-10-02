@@ -36,7 +36,6 @@ DECL|function|currentTextLine
 DECL|function|cursorForPosition
 DECL|function|cursorIsFocusIndicator
 DECL|function|cursorMoveKeyEvent
-DECL|function|cursorPosLessThanLastFramePos
 DECL|function|cursorRect
 DECL|function|cursorRect
 DECL|function|cursorRectPlusUnicodeDirectionMarkers
@@ -56,7 +55,6 @@ DECL|function|extendWordwiseSelection
 DECL|function|extraSelections
 DECL|function|find
 DECL|function|findNextPrevAnchor
-DECL|function|firstFramePosLessThanCursorPos
 DECL|function|focusEvent
 DECL|function|formats
 DECL|function|getPaintContext
@@ -84,6 +82,9 @@ DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|moveCursor
 DECL|function|openExternalLinks
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
 DECL|function|outdent
 DECL|function|overwriteMode
 DECL|function|palette
@@ -144,5 +145,6 @@ DECL|macro|ACCEL_KEY
 DECL|macro|NUM_CONTROL_CHARACTERS
 DECL|member|character
 DECL|member|text
+DECL|struct|QTextFrameComparator
 DECL|struct|QUnicodeControlCharacter
 DECL|variable|qt_controlCharacters
