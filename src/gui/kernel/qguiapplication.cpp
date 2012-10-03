@@ -9,6 +9,7 @@ DECL|function|allWindows
 DECL|function|applicationDisplayName
 DECL|function|applyCursor
 DECL|function|applyCursor
+DECL|function|applyWindowCursor
 DECL|function|changeOverrideCursor
 DECL|function|clearFontUnlocked
 DECL|function|clearPalette
