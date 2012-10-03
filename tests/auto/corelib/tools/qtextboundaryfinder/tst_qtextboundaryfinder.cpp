@@ -1,4 +1,5 @@
 DECL|class|tst_QTextBoundaryFinder
+DECL|function|assignmentOperator
 DECL|function|doTestData
 DECL|function|fastConstructor
 DECL|function|generateDataFromFile
