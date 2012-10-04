@@ -53,6 +53,7 @@ DECL|function|QWindowsNativeFileDialogBase
 DECL|function|QWindowsNativeFileDialogEventHandler
 DECL|function|QueryInterface
 DECL|function|Release
+DECL|function|appendSuffix
 DECL|function|close
 DECL|function|close
 DECL|function|create
