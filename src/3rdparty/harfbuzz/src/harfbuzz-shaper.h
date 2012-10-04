@@ -84,6 +84,7 @@ DECL|member|length
 DECL|member|length
 DECL|member|lineBreak
 DECL|member|log_clusters
+DECL|member|mandatoryBreak
 DECL|member|mark
 DECL|member|num_glyphs
 DECL|member|offsets
@@ -97,7 +98,6 @@ DECL|member|stringLength
 DECL|member|supported_scripts
 DECL|member|tmpAttributes
 DECL|member|tmpLogClusters
-DECL|member|unused
 DECL|member|userData
 DECL|member|whiteSpace
 DECL|member|width

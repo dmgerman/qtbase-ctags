@@ -7,6 +7,8 @@ DECL|function|graphemeBoundariesDefault
 DECL|function|graphemeBoundariesDefault_data
 DECL|function|init
 DECL|function|init_libthai
+DECL|function|isAtMandatoryBreak
+DECL|function|isAtMandatoryBreak_data
 DECL|function|isAtSoftHyphen
 DECL|function|isAtSoftHyphen_data
 DECL|function|lineBoundariesDefault
