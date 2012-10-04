@@ -44,6 +44,7 @@ DECL|function|setNumericalPrecisionPolicy
 DECL|function|shared_null
 DECL|function|size
 DECL|function|value
+DECL|function|value
 DECL|function|~QSqlQuery
 DECL|function|~QSqlQueryPrivate
 DECL|member|ref
