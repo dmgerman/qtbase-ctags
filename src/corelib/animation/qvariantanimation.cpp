@@ -31,6 +31,7 @@ DECL|function|setStartValue
 DECL|function|setValueAt
 DECL|function|startValue
 DECL|function|updateCurrentTime
+DECL|function|updateCurrentValue
 DECL|function|updateInterpolator
 DECL|function|updateState
 DECL|function|valueAt
