@@ -29,6 +29,7 @@ DECL|function|find
 DECL|function|find
 DECL|function|findNode
 DECL|function|insert
+DECL|function|insert
 DECL|function|insertMulti
 DECL|function|key
 DECL|function|keys
@@ -93,6 +94,8 @@ DECL|struct|QMapNodeBase
 DECL|struct|QMapNodeBase
 DECL|typedef|Key
 DECL|typedef|Node
+DECL|variable|Key
+DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
