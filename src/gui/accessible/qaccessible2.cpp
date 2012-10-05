@@ -4,11 +4,11 @@ DECL|function|increaseAction
 DECL|function|localizedActionDescription
 DECL|function|localizedActionName
 DECL|function|pressAction
-DECL|function|qTextAfterOffsetFromString
-DECL|function|qTextAtOffsetFromString
-DECL|function|qTextBeforeOffsetFromString
 DECL|function|setFocusAction
 DECL|function|showMenuAction
+DECL|function|textAfterOffset
+DECL|function|textAtOffset
+DECL|function|textBeforeOffset
 DECL|function|toggleAction
 DECL|member|decreaseAction
 DECL|member|increaseAction
