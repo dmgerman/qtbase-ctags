@@ -1,5 +1,8 @@
 DECL|function|QCommonStyle
 DECL|function|QCommonStyle
+DECL|function|_q_removeAnimation
+DECL|function|animation
+DECL|function|animationTargets
 DECL|function|calcArrow
 DECL|function|drawArrow
 DECL|function|drawComplexControl
@@ -16,6 +19,8 @@ DECL|function|qt_intensity
 DECL|function|sizeFromContents
 DECL|function|standardIcon
 DECL|function|standardPixmap
+DECL|function|startAnimation
+DECL|function|stopAnimation
 DECL|function|styleHint
 DECL|function|subControlRect
 DECL|function|subElementRect

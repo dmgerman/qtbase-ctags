@@ -20,11 +20,10 @@ DECL|function|polish
 DECL|function|sizeFromContents
 DECL|function|standardIcon
 DECL|function|standardPixmap
-DECL|function|startAnimation
-DECL|function|stopAnimation
+DECL|function|startProgressAnimation
+DECL|function|stopProgressAnimation
 DECL|function|styleHint
 DECL|function|subElementRect
-DECL|function|timerEvent
 DECL|function|unpolish
 DECL|function|unpolish
 DECL|function|~QWindowsStyle
