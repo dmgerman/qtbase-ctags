@@ -66,7 +66,6 @@ DECL|function|lookupGuidMap
 DECL|function|metadataDefault
 DECL|function|protect
 DECL|function|protectEnc
-DECL|function|refForAtom
 DECL|function|registerRef
 DECL|function|replaceTypesWithLinks
 DECL|function|startQmlProperty

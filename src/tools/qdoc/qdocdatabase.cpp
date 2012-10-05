@@ -28,12 +28,11 @@ DECL|function|printModules
 DECL|function|printQmlModules
 DECL|function|qdocDB
 DECL|function|readIndexes
+DECL|function|refForAtom
 DECL|function|resolveIssues
 DECL|function|resolveTarget
 DECL|function|resolveTargets
 DECL|function|~QDocDatabase
 DECL|member|qdocDB_
-DECL|variable|NumSuffixes
 DECL|variable|emptyNodeMap_
 DECL|variable|emptyNodeMultiMap_
-DECL|variable|suffixes

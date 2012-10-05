@@ -3,8 +3,8 @@ DECL|enumerator|SearchBaseClasses
 DECL|enumerator|SearchEnumValues
 DECL|enum|FindFlag
 DECL|macro|QDOCDATABASE_H
-DECL|typedef|DocNodeHash
 DECL|typedef|DocNodeMap
+DECL|typedef|DocNodeMultiMap
 DECL|typedef|NodeMapMap
 DECL|typedef|NodeMultiMapMap
 DECL|typedef|QDocMultiMap
