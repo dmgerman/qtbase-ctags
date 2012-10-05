@@ -7,4 +7,6 @@ DECL|function|findExecutable
 DECL|function|isTestModeEnabled
 DECL|function|locate
 DECL|function|locateAll
+DECL|function|searchExecutable
+DECL|function|searchExecutableAppendSuffix
 DECL|variable|qsp_testMode

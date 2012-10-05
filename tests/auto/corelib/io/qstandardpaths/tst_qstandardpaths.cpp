@@ -1,6 +1,7 @@
 DECL|class|tst_qstandardpaths
 DECL|function|createTestFile
 DECL|function|enableTestMode
+DECL|function|findSh
 DECL|function|setCustomLocations
 DECL|function|setDefaultLocations
 DECL|function|testAllWritableLocations
@@ -10,6 +11,8 @@ DECL|function|testCustomRuntimeDirectory
 DECL|function|testDataLocation
 DECL|function|testDefaultLocations
 DECL|function|testFindExecutable
+DECL|function|testFindExecutableLinkToDirectory
+DECL|function|testFindExecutable_data
 DECL|function|testLocateAll
 DECL|function|testRuntimeDirectory
 DECL|macro|Q_XDG_PLATFORM
