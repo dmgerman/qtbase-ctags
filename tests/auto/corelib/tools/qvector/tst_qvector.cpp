@@ -97,7 +97,6 @@ DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator ==
-DECL|function|outOfMemory
 DECL|function|prepend
 DECL|function|prependCustom
 DECL|function|prependInt
