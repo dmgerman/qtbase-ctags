@@ -15,9 +15,7 @@ DECL|function|handleClientMessageEvent
 DECL|function|handleXcbError
 DECL|function|handleXcbEvent
 DECL|function|hasEgl
-DECL|function|hasSupportForDri2
 DECL|function|initializeAllAtoms
-DECL|function|initializeDri2
 DECL|function|initializeGLX
 DECL|function|initializeXFixes
 DECL|function|initializeXRandr
@@ -40,10 +38,8 @@ DECL|function|xi2CountBits
 DECL|function|xi2GetValuatorValueIfSet
 DECL|function|xi2PrepareXIGenericDeviceEvent
 DECL|function|~QXcbConnection
-DECL|macro|EGL_EGLEXT_PROTOTYPES
 DECL|macro|HANDLE_KEYBOARD_EVENT
 DECL|macro|HANDLE_PLATFORM_WINDOW_EVENT
-DECL|macro|MESA_EGL_NO_X11_HEADERS
 DECL|macro|PRINT_XCB_EVENT
 DECL|member|atom
 DECL|member|type
