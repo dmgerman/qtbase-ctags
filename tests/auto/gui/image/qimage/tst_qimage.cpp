@@ -26,6 +26,9 @@ DECL|function|fillColor_data
 DECL|function|fillRGB888
 DECL|function|formatHandlersInput
 DECL|function|formatHandlersInput_data
+DECL|function|load
+DECL|function|loadFromData
+DECL|function|loadFromDataStream
 DECL|function|nullSize
 DECL|function|nullSize_data
 DECL|function|paintEngine

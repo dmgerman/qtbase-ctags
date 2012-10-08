@@ -33,10 +33,13 @@ DECL|function|grabWindow
 DECL|function|init
 DECL|function|isNull
 DECL|function|lenientCompare
+DECL|function|load
 DECL|function|loadAsBitmapOrPixmap
+DECL|function|loadFromData
 DECL|function|loadFromDataImage
 DECL|function|loadFromDataImage_data
 DECL|function|loadFromDataNullValues
+DECL|function|loadFromDataStream
 DECL|function|mask
 DECL|function|onlyNullPixmapsOutsideGuiThread
 DECL|function|preserveDepth
