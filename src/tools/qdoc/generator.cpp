@@ -74,6 +74,7 @@ DECL|member|generators
 DECL|member|imageDirs
 DECL|member|imageFiles
 DECL|member|imgFileExts
+DECL|member|noLinkErrors_
 DECL|member|outDir_
 DECL|member|outputFormats
 DECL|member|outputPrefixes

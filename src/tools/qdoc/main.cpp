@@ -10,5 +10,6 @@ DECL|variable|defines
 DECL|variable|dependModules
 DECL|variable|highlighting
 DECL|variable|indexDirs
+DECL|variable|noLinkErrors
 DECL|variable|obsoleteLinks
 DECL|variable|showInternal
