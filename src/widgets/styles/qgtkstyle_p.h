@@ -116,6 +116,7 @@ DECL|typedef|Ptr_gtk_vscrollbar_new
 DECL|typedef|Ptr_gtk_widget_destroy
 DECL|typedef|Ptr_gtk_widget_get_allocation
 DECL|typedef|Ptr_gtk_widget_get_parent
+DECL|typedef|Ptr_gtk_widget_get_style
 DECL|typedef|Ptr_gtk_widget_get_type
 DECL|typedef|Ptr_gtk_widget_is_toplevel
 DECL|typedef|Ptr_gtk_widget_modify_color
