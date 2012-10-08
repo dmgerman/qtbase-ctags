@@ -144,7 +144,9 @@ DECL|member|gtk_vscale_new
 DECL|member|gtk_vscrollbar_new
 DECL|member|gtk_widget_destroy
 DECL|member|gtk_widget_get_allocation
+DECL|member|gtk_widget_get_parent
 DECL|member|gtk_widget_get_type
+DECL|member|gtk_widget_is_toplevel
 DECL|member|gtk_widget_modify_bg
 DECL|member|gtk_widget_modify_fg
 DECL|member|gtk_widget_path
