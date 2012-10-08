@@ -143,11 +143,13 @@ DECL|member|gtk_tree_view_new
 DECL|member|gtk_vscale_new
 DECL|member|gtk_vscrollbar_new
 DECL|member|gtk_widget_destroy
+DECL|member|gtk_widget_get_allocation
 DECL|member|gtk_widget_get_type
 DECL|member|gtk_widget_modify_bg
 DECL|member|gtk_widget_modify_fg
 DECL|member|gtk_widget_path
 DECL|member|gtk_widget_realize
+DECL|member|gtk_widget_set_allocation
 DECL|member|gtk_widget_set_default_direction
 DECL|member|gtk_widget_set_direction
 DECL|member|gtk_widget_size_allocate

@@ -114,10 +114,12 @@ DECL|typedef|Ptr_gtk_tree_view_new
 DECL|typedef|Ptr_gtk_vscale_new
 DECL|typedef|Ptr_gtk_vscrollbar_new
 DECL|typedef|Ptr_gtk_widget_destroy
+DECL|typedef|Ptr_gtk_widget_get_allocation
 DECL|typedef|Ptr_gtk_widget_get_type
 DECL|typedef|Ptr_gtk_widget_modify_color
 DECL|typedef|Ptr_gtk_widget_path
 DECL|typedef|Ptr_gtk_widget_realize
+DECL|typedef|Ptr_gtk_widget_set_allocation
 DECL|typedef|Ptr_gtk_widget_set_default_direction
 DECL|typedef|Ptr_gtk_widget_set_direction
 DECL|typedef|Ptr_gtk_widget_size_allocate
