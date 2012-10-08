@@ -48,7 +48,6 @@ DECL|member|gconf_client_get_default
 DECL|member|gconf_client_get_string
 DECL|member|gdk_color_free
 DECL|member|gdk_draw_rectangle
-DECL|member|gdk_drawable_get_depth
 DECL|member|gdk_drawable_unref
 DECL|member|gdk_pixbuf_get_from_drawable
 DECL|member|gdk_pixbuf_get_height
@@ -163,4 +162,3 @@ DECL|member|pango_font_description_get_style
 DECL|member|pango_font_description_get_weight
 DECL|member|widgetMap
 DECL|typedef|x11ErrorHandler
-DECL|variable|displayDepth

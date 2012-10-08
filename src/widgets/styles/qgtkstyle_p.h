@@ -19,7 +19,6 @@ DECL|typedef|Ptr_gconf_client_get_default
 DECL|typedef|Ptr_gconf_client_get_string
 DECL|typedef|Ptr_gdk_color_free
 DECL|typedef|Ptr_gdk_draw_rectangle
-DECL|typedef|Ptr_gdk_drawable_get_depth
 DECL|typedef|Ptr_gdk_drawable_unref
 DECL|typedef|Ptr_gdk_pixbuf_get_from_drawable
 DECL|typedef|Ptr_gdk_pixbuf_get_height
