@@ -1,1 +1,2 @@
 DECL|macro|QQNXSCREENEVENTHANDLER_H
+DECL|variable|QQnxIntegration

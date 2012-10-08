@@ -1,6 +1,7 @@
 DECL|function|QQnxScreenEventHandler
 DECL|function|handleCloseEvent
 DECL|function|handleCreateEvent
+DECL|function|handleDisplayEvent
 DECL|function|handleEvent
 DECL|function|handleEvent
 DECL|function|handleKeyboardEvent

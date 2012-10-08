@@ -1,6 +1,7 @@
 DECL|function|QQnxIntegration
 DECL|function|addWindow
 DECL|function|clipboard
+DECL|function|createDisplay
 DECL|function|createDisplays
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
@@ -13,7 +14,9 @@ DECL|function|inputContext
 DECL|function|moveToScreen
 DECL|function|nativeInterface
 DECL|function|primaryDisplay
+DECL|function|removeDisplay
 DECL|function|removeWindow
+DECL|function|screenForNative
 DECL|function|services
 DECL|function|styleHint
 DECL|function|themeNames
