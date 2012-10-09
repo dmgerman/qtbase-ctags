@@ -34,6 +34,7 @@ DECL|function|installTranslator
 DECL|function|isQuitLockEnabled
 DECL|function|isTranslatorInstalled
 DECL|function|libraryPaths
+DECL|function|loadManifest
 DECL|function|macMenuBarName
 DECL|function|mainThread
 DECL|function|maybeQuit
