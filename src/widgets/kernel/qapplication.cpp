@@ -61,6 +61,7 @@ DECL|function|process_cmdline
 DECL|function|qt_app_fonts_hash
 DECL|function|qt_app_palettes_hash
 DECL|function|qt_sendSpontaneousEvent
+DECL|function|qt_tab_all_widgets
 DECL|function|qt_tryModalHelper
 DECL|function|saveState
 DECL|function|sendMouseEvent
@@ -139,5 +140,4 @@ DECL|member|widgetCount
 DECL|variable|qt_antialiasing_threshold
 DECL|variable|qt_desktopWidget
 DECL|variable|qt_in_tab_key_event
-DECL|variable|qt_tab_all_widgets
 DECL|variable|qt_tabletChokeMouse
