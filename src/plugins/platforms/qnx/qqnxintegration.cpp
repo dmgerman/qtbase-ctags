@@ -8,6 +8,7 @@ DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|destroyDisplays
+DECL|function|drag
 DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
 DECL|function|inputContext
