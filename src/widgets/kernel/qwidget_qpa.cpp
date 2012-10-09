@@ -32,10 +32,8 @@ DECL|function|scroll_sys
 DECL|function|setConstraints_sys
 DECL|function|setCursor_sys
 DECL|function|setFocus_sys
-DECL|function|setFullScreenSize_helper
 DECL|function|setGeometry_sys
 DECL|function|setMask_sys
-DECL|function|setMaxWindowState_helper
 DECL|function|setModal_sys
 DECL|function|setParent_sys
 DECL|function|setWSGeometry
