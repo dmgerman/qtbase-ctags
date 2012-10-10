@@ -4,6 +4,7 @@ DECL|member|getTouchInputInfo
 DECL|member|isHungAppWindow
 DECL|member|registerTouchWindow
 DECL|member|sHCreateItemFromParsingName
+DECL|member|sHGetStockIconInfo
 DECL|member|setLayeredWindowAttributes
 DECL|member|updateLayeredWindow
 DECL|member|updateLayeredWindowIndirect
@@ -14,6 +15,7 @@ DECL|typedef|GetTouchInputInfo
 DECL|typedef|IsHungAppWindow
 DECL|typedef|RegisterTouchWindow
 DECL|typedef|SHCreateItemFromParsingName
+DECL|typedef|SHGetStockIconInfo
 DECL|typedef|SetLayeredWindowAttributes
 DECL|typedef|UpdateLayeredWindow
 DECL|typedef|UpdateLayeredWindowIndirect

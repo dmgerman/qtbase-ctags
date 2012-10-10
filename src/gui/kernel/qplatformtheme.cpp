@@ -4,8 +4,10 @@ DECL|function|createPlatformMenuBar
 DECL|function|createPlatformMenuItem
 DECL|function|createPlatformSystemTrayIcon
 DECL|function|defaultThemeHint
+DECL|function|fileIconPixmap
 DECL|function|font
 DECL|function|palette
+DECL|function|standardPixmap
 DECL|function|themeHint
 DECL|function|usePlatformNativeDialog
 DECL|function|~QPlatformTheme

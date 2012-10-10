@@ -12,7 +12,6 @@ DECL|function|drawControl
 DECL|function|drawPrimitive
 DECL|function|eventFilter
 DECL|function|hasSeenAlt
-DECL|function|loadIconFromShell32
 DECL|function|pixelMetric
 DECL|function|polish
 DECL|function|polish
