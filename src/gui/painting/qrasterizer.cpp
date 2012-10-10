@@ -28,6 +28,7 @@ DECL|function|rasterize
 DECL|function|rasterizeLine
 DECL|function|setAntialiased
 DECL|function|setClipRect
+DECL|function|setLegacyRoundingEnabled
 DECL|function|snapTo26Dot6Grid
 DECL|function|split
 DECL|function|topOrder
@@ -55,6 +56,7 @@ DECL|member|clipRect
 DECL|member|data
 DECL|member|delta
 DECL|member|left
+DECL|member|legacyRounding
 DECL|member|m_active
 DECL|member|m_alloc
 DECL|member|m_blend
@@ -64,6 +66,7 @@ DECL|member|m_data
 DECL|member|m_fillRuleMask
 DECL|member|m_intersections
 DECL|member|m_leftFP
+DECL|member|m_legacyRounding
 DECL|member|m_lines
 DECL|member|m_rightFP
 DECL|member|m_size
