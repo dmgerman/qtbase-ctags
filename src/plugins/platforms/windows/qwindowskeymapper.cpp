@@ -52,5 +52,6 @@ DECL|struct|KeyRecorder
 DECL|struct|KeyboardLayoutItem
 DECL|variable|KeyTbl
 DECL|variable|ModsTbl
+DECL|variable|NumMods
 DECL|variable|QT_MAX_KEY_RECORDINGS
 DECL|variable|key_recorder
