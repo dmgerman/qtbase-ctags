@@ -15,7 +15,6 @@ DECL|function|last
 DECL|function|oldTests
 DECL|function|operator =
 DECL|function|operator =
-DECL|function|outOfMemory
 DECL|function|realloc
 DECL|function|reallocTest
 DECL|function|removeLast
