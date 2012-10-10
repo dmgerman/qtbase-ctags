@@ -20,6 +20,8 @@ DECL|typedef|Ptr_gconf_client_get_string
 DECL|typedef|Ptr_gdk_color_free
 DECL|typedef|Ptr_gdk_draw_rectangle
 DECL|typedef|Ptr_gdk_drawable_unref
+DECL|typedef|Ptr_gdk_event_free
+DECL|typedef|Ptr_gdk_event_new
 DECL|typedef|Ptr_gdk_pixbuf_get_from_drawable
 DECL|typedef|Ptr_gdk_pixbuf_get_height
 DECL|typedef|Ptr_gdk_pixbuf_get_pixels
@@ -117,12 +119,15 @@ DECL|typedef|Ptr_gtk_widget_destroy
 DECL|typedef|Ptr_gtk_widget_get_allocation
 DECL|typedef|Ptr_gtk_widget_get_parent
 DECL|typedef|Ptr_gtk_widget_get_style
+DECL|typedef|Ptr_gtk_widget_get_toplevel
 DECL|typedef|Ptr_gtk_widget_get_type
 DECL|typedef|Ptr_gtk_widget_is_toplevel
 DECL|typedef|Ptr_gtk_widget_modify_color
 DECL|typedef|Ptr_gtk_widget_path
 DECL|typedef|Ptr_gtk_widget_realize
+DECL|typedef|Ptr_gtk_widget_send_focus_change
 DECL|typedef|Ptr_gtk_widget_set_allocation
+DECL|typedef|Ptr_gtk_widget_set_can_default
 DECL|typedef|Ptr_gtk_widget_set_default_direction
 DECL|typedef|Ptr_gtk_widget_set_direction
 DECL|typedef|Ptr_gtk_widget_size_allocate
@@ -130,6 +135,7 @@ DECL|typedef|Ptr_gtk_widget_size_request
 DECL|typedef|Ptr_gtk_widget_style_get
 DECL|typedef|Ptr_gtk_window_get_type
 DECL|typedef|Ptr_gtk_window_new
+DECL|typedef|Ptr_gtk_window_set_default
 DECL|typedef|Ptr_pango_font_description_get_family
 DECL|typedef|Ptr_pango_font_description_get_size
 DECL|typedef|Ptr_pango_font_description_get_style

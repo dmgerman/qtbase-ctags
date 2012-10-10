@@ -18,6 +18,7 @@ DECL|function|gtkStyle
 DECL|function|gtkStyleSetCallback
 DECL|function|gtkWidget
 DECL|function|gtkWidgetPalette
+DECL|function|gtkWidgetSetFocus
 DECL|function|init
 DECL|function|initGtkMenu
 DECL|function|initGtkTreeview
@@ -49,6 +50,8 @@ DECL|member|gconf_client_get_string
 DECL|member|gdk_color_free
 DECL|member|gdk_draw_rectangle
 DECL|member|gdk_drawable_unref
+DECL|member|gdk_event_free
+DECL|member|gdk_event_new
 DECL|member|gdk_pixbuf_get_from_drawable
 DECL|member|gdk_pixbuf_get_height
 DECL|member|gdk_pixbuf_get_pixels
@@ -146,13 +149,16 @@ DECL|member|gtk_widget_destroy
 DECL|member|gtk_widget_get_allocation
 DECL|member|gtk_widget_get_parent
 DECL|member|gtk_widget_get_style
+DECL|member|gtk_widget_get_toplevel
 DECL|member|gtk_widget_get_type
 DECL|member|gtk_widget_is_toplevel
 DECL|member|gtk_widget_modify_bg
 DECL|member|gtk_widget_modify_fg
 DECL|member|gtk_widget_path
 DECL|member|gtk_widget_realize
+DECL|member|gtk_widget_send_focus_change
 DECL|member|gtk_widget_set_allocation
+DECL|member|gtk_widget_set_can_default
 DECL|member|gtk_widget_set_default_direction
 DECL|member|gtk_widget_set_direction
 DECL|member|gtk_widget_size_allocate
@@ -160,6 +166,7 @@ DECL|member|gtk_widget_size_request
 DECL|member|gtk_widget_style_get
 DECL|member|gtk_window_get_type
 DECL|member|gtk_window_new
+DECL|member|gtk_window_set_default
 DECL|member|instances
 DECL|member|pango_font_description_get_family
 DECL|member|pango_font_description_get_size
