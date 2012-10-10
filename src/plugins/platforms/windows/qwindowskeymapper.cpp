@@ -39,17 +39,13 @@ DECL|macro|enabled
 DECL|macro|enabled
 DECL|member|ascii
 DECL|member|code
-DECL|member|deadkeys
 DECL|member|deleted_record
-DECL|member|dirty
 DECL|member|nrecs
-DECL|member|qtKey
 DECL|member|records
 DECL|member|state
 DECL|member|text
 DECL|struct|KeyRecord
 DECL|struct|KeyRecorder
-DECL|struct|KeyboardLayoutItem
 DECL|variable|KeyTbl
 DECL|variable|ModsTbl
 DECL|variable|NumMods
