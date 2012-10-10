@@ -1,6 +1,4 @@
 DECL|class|tst_QTextLayout
-DECL|function|additionalFormatsCapitalizationWithRawFont
-DECL|function|additionalFormatsCapitalizationWithRawFont_data
 DECL|function|boundingRectForSetLineWidth
 DECL|function|boundingRectForUnsetLineWidth
 DECL|function|boundingRectTopLeft
@@ -69,4 +67,3 @@ DECL|function|xToCursorForLigatures
 DECL|function|~tst_QTextLayout
 DECL|macro|TESTFONT_SIZE
 DECL|member|testFont
-DECL|typedef|FormatRangeList
