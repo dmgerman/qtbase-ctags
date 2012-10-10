@@ -38,6 +38,7 @@ DECL|function|isLinked
 DECL|function|link
 DECL|function|log
 DECL|function|log
+DECL|function|maxGeometryOutputVertices
 DECL|function|programId
 DECL|function|release
 DECL|function|removeAllShaders
@@ -185,5 +186,6 @@ DECL|member|removingShaders
 DECL|member|shaderGuard
 DECL|member|shaderType
 DECL|member|shaders
+DECL|member|supportsGeometryShaders
 DECL|variable|qualifierDefines
 DECL|variable|redefineHighp
