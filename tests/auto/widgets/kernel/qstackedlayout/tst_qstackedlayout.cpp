@@ -7,6 +7,7 @@ DECL|function|deleteCurrent
 DECL|function|focusInEvent
 DECL|function|focusOutEvent
 DECL|function|getSetCheck
+DECL|function|heigthForWidth
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|isSingleFocusWidget
