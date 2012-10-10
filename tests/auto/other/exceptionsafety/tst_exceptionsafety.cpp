@@ -12,6 +12,7 @@ DECL|enum|ThrowType
 DECL|function|FlexibleThrower
 DECL|function|FlexibleThrower
 DECL|function|FlexibleThrower
+DECL|function|OutOfMemory
 DECL|function|Receiver
 DECL|function|emitTestSignal
 DECL|function|exceptionHash
@@ -19,8 +20,10 @@ DECL|function|exceptionInSlot
 DECL|function|exceptionLinkedList
 DECL|function|exceptionList
 DECL|function|exceptionMap
+DECL|function|exceptionOOMQVarLengthArray
 DECL|function|exceptionVector
 DECL|function|initTestCase
+DECL|function|internalMalloc
 DECL|function|operator <
 DECL|function|operator ==
 DECL|function|qHash
@@ -28,11 +31,16 @@ DECL|function|receiver
 DECL|function|thrower
 DECL|function|value
 DECL|function|~FlexibleThrower
+DECL|function|~OutOfMemory
+DECL|macro|malloc
+DECL|macro|malloc
 DECL|member|_value
 DECL|member|dummy
 DECL|member|received
+DECL|struct|OutOfMemory
 DECL|typedef|FlexibleThrowerSmall
 DECL|typedef|MyHash
 DECL|typedef|MyMap
 DECL|variable|objCounter
+DECL|variable|outOfMemory
 DECL|variable|throwType
