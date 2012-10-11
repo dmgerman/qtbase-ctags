@@ -1,6 +1,7 @@
 DECL|macro|QPLATFORMINTEGRATION_H
 DECL|variable|QAbstractEventDispatcher
 DECL|variable|QGuiGLFormat
+DECL|variable|QKeyEvent
 DECL|variable|QPlatformAccessibility
 DECL|variable|QPlatformBackingStore
 DECL|variable|QPlatformClipboard
