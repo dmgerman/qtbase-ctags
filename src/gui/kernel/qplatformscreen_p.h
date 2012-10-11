@@ -1,1 +1,2 @@
 DECL|macro|QPLATFORMSCREEN_P_H
+DECL|variable|QScreen
