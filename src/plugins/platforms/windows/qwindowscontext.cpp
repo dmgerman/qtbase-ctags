@@ -20,6 +20,7 @@ DECL|function|initTouch
 DECL|function|instance
 DECL|function|keyGrabber
 DECL|function|mimeConverter
+DECL|function|possibleKeys
 DECL|function|qWindowsWndProc
 DECL|function|registerWindowClass
 DECL|function|registerWindowClass
