@@ -1,5 +1,6 @@
 DECL|class|tst_QGlyphRun
 DECL|function|assignment
+DECL|function|boundingRect
 DECL|function|cleanupTestCase
 DECL|function|constructionAndDestruction
 DECL|function|copyConstructor
@@ -16,6 +17,7 @@ DECL|function|equalsOperator
 DECL|function|equalsOperator_data
 DECL|function|init
 DECL|function|initTestCase
+DECL|function|isEmpty
 DECL|function|make_dummy_indexes
 DECL|function|setRawData
 DECL|function|setRawDataAndGetAsVector
