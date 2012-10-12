@@ -297,6 +297,7 @@ DECL|function|toplevelLineEditFocus
 DECL|function|touchEventSynthesizedMouseEvent
 DECL|function|translucentWidget
 DECL|function|tst_QWidget
+DECL|function|underMouse
 DECL|function|update
 DECL|function|updateGeometry
 DECL|function|updateGeometry_data
