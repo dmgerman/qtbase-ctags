@@ -8,6 +8,7 @@ DECL|variable|QDockWidgetLayout
 DECL|variable|QMainWindow
 DECL|variable|QMdiArea
 DECL|variable|QMdiSubWindow
+DECL|variable|QPlainTextEdit
 DECL|variable|QRubberBand
 DECL|variable|QStackedWidget
 DECL|variable|QTextBrowser
