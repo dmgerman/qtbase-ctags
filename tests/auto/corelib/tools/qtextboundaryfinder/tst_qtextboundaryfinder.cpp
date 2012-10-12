@@ -1,14 +1,13 @@
 DECL|class|tst_QTextBoundaryFinder
 DECL|function|assignmentOperator
 DECL|function|doTestData
+DECL|function|emptyText
+DECL|function|emptyText_data
 DECL|function|fastConstructor
 DECL|function|generateDataFromFile
 DECL|function|graphemeBoundariesDefault
 DECL|function|graphemeBoundariesDefault_data
-DECL|function|init
 DECL|function|init_libthai
-DECL|function|isAtMandatoryBreak
-DECL|function|isAtMandatoryBreak_data
 DECL|function|isAtSoftHyphen
 DECL|function|isAtSoftHyphen_data
 DECL|function|lineBoundariesDefault
@@ -26,7 +25,6 @@ DECL|function|wordBoundariesDefault
 DECL|function|wordBoundariesDefault_data
 DECL|function|wordBoundaries_manual
 DECL|function|wordBoundaries_manual_data
-DECL|function|wordBoundaries_qtbug6498
 DECL|macro|LIBTHAI_MAJOR
 DECL|namespace|QTest
 DECL|typedef|th_brk_def
