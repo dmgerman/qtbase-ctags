@@ -7,6 +7,8 @@ DECL|class|ConfusingObject
 DECL|class|ConnectByNameNotifyReceiverObject
 DECL|class|ConnectByNameNotifySenderObject
 DECL|class|ConnectDisconnectNotifyShadowObject
+DECL|class|ConnectToPrivateSlot
+DECL|class|ConnectToPrivateSlotPrivate
 DECL|class|ConnectToSender
 DECL|class|ConnectWithReferenceObject
 DECL|class|Constructable
@@ -59,6 +61,7 @@ DECL|function|BaseDestroyed
 DECL|function|CheckInstanceCount
 DECL|function|ConfusingObject
 DECL|function|ConnectByNameNotifyReceiverObject
+DECL|function|ConnectToPrivateSlot
 DECL|function|Constructable
 DECL|function|CountedStruct
 DECL|function|CountedStruct
@@ -115,6 +118,8 @@ DECL|function|connectManyArguments
 DECL|function|connectNotify
 DECL|function|connectNotify
 DECL|function|connectNotify_connectSlotsByName
+DECL|function|connectPrivateSlots
+DECL|function|connectPrivateSlots
 DECL|function|connectSignalsToSignalsWithDefaultArguments
 DECL|function|connectToSender
 DECL|function|connectToStaticCxx0x
@@ -349,9 +354,12 @@ DECL|function|stringSlot2
 DECL|function|stringSlot3
 DECL|function|structPointerSlot
 DECL|function|structSlot
+DECL|function|test
 DECL|function|testUserData
 DECL|function|theSlot
 DECL|function|theSlot
+DECL|function|thisIsAPrivateSlot
+DECL|function|thisIsAPrivateSlotWithArg
 DECL|function|thread
 DECL|function|thread0
 DECL|function|threadSignalEmissionCrash
@@ -446,6 +454,8 @@ DECL|member|pointer
 DECL|member|pointerWasZero
 DECL|member|rec
 DECL|member|received
+DECL|member|receivedCount
+DECL|member|receivedValue
 DECL|member|recursionCount
 DECL|member|result
 DECL|member|s
