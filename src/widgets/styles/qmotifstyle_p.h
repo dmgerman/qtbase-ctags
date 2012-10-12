@@ -1,1 +1,0 @@
-DECL|macro|QMOTIFSTYLE_P_H
