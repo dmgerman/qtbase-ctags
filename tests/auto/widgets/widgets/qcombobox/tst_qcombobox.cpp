@@ -16,6 +16,8 @@ DECL|function|columnCount
 DECL|function|convenienceViews
 DECL|function|currentIndex
 DECL|function|currentIndex_data
+DECL|function|currentTextChanged
+DECL|function|currentTextChanged_data
 DECL|function|data
 DECL|function|editTextChanged
 DECL|function|ensureReturnIsIgnored
