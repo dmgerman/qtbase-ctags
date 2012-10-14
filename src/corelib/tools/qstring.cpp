@@ -22,6 +22,7 @@ DECL|function|compare_helper
 DECL|function|compare_helper
 DECL|function|compare_helper
 DECL|function|contains
+DECL|function|contains
 DECL|function|count
 DECL|function|count
 DECL|function|count

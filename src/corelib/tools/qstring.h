@@ -76,6 +76,7 @@ DECL|typedef|qunicodechar
 DECL|variable|QCharRef
 DECL|variable|QRegExp
 DECL|variable|QRegularExpression
+DECL|variable|QRegularExpressionMatch
 DECL|variable|QString
 DECL|variable|QStringList
 DECL|variable|QStringRef
