@@ -1,0 +1,6 @@
+DECL|macro|GlobalParseContext
+DECL|macro|__INITIALIZE_PARSE_CONTEXT_INCLUDED_
+DECL|member|lpGlobalParseContext
+DECL|struct|TThreadParseContextRec
+DECL|typedef|TParseContextPointer
+DECL|typedef|TThreadParseContext

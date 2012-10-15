@@ -1,0 +1,13 @@
+DECL|function|Find
+DECL|function|GetInstance
+DECL|function|Insert
+DECL|function|LongNameMap
+DECL|function|MapLongVariableNames
+DECL|function|Release
+DECL|function|Size
+DECL|function|mapGlobalLongName
+DECL|function|mapLongName
+DECL|function|visitLoop
+DECL|function|visitSymbol
+DECL|function|~LongNameMap
+DECL|member|gLongNameMapInstance

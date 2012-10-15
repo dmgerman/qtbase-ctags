@@ -1,0 +1,13 @@
+DECL|function|build
+DECL|function|connectMultipleNodesToSingleNode
+DECL|function|visitAggregate
+DECL|function|visitAggregateChildren
+DECL|function|visitAssignment
+DECL|function|visitBinary
+DECL|function|visitBinaryChildren
+DECL|function|visitFunctionCall
+DECL|function|visitFunctionDefinition
+DECL|function|visitLogicalOp
+DECL|function|visitLoop
+DECL|function|visitSelection
+DECL|function|visitSymbol

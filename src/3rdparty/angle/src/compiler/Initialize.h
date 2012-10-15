@@ -1,0 +1,2 @@
+DECL|macro|_INITIALIZE_INCLUDED_
+DECL|typedef|TBuiltInStrings

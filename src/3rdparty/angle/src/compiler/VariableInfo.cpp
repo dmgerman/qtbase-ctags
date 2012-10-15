@@ -1,0 +1,16 @@
+DECL|function|CollectAttribsUniforms
+DECL|function|TVariableInfo
+DECL|function|TVariableInfo
+DECL|function|arrayBrackets
+DECL|function|getBuiltInVariableInfo
+DECL|function|getUserDefinedVariableInfo
+DECL|function|getVariableDataType
+DECL|function|getVariableInfo
+DECL|function|visitAggregate
+DECL|function|visitBinary
+DECL|function|visitBranch
+DECL|function|visitConstantUnion
+DECL|function|visitLoop
+DECL|function|visitSelection
+DECL|function|visitSymbol
+DECL|function|visitUnary

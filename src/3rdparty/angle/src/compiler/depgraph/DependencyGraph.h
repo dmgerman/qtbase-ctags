@@ -1,0 +1,15 @@
+DECL|macro|COMPILER_DEPGRAPH_DEPENDENCY_GRAPH_H
+DECL|typedef|TFunctionCallVector
+DECL|typedef|TGraphNodeSet
+DECL|typedef|TGraphNodeVector
+DECL|typedef|TGraphSymbolVector
+DECL|variable|TDependencyGraphOutput
+DECL|variable|TDependencyGraphTraverser
+DECL|variable|TGraphArgument
+DECL|variable|TGraphFunctionCall
+DECL|variable|TGraphLogicalOp
+DECL|variable|TGraphLoop
+DECL|variable|TGraphNode
+DECL|variable|TGraphParentNode
+DECL|variable|TGraphSelection
+DECL|variable|TGraphSymbol

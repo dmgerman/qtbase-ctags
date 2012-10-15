@@ -1,0 +1,2 @@
+DECL|function|TOutputESSL
+DECL|function|writeVariablePrecision

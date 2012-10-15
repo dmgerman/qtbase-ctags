@@ -1,0 +1,9 @@
+DECL|enumerator|EPrefixError
+DECL|enumerator|EPrefixInternalError
+DECL|enumerator|EPrefixNone
+DECL|enumerator|EPrefixNote
+DECL|enumerator|EPrefixUnimplemented
+DECL|enumerator|EPrefixWarning
+DECL|enum|TPrefixType
+DECL|function|fractionalPart
+DECL|macro|_INFOSINK_INCLUDED_

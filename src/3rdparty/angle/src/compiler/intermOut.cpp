@@ -1,0 +1,14 @@
+DECL|class|TOutputTraverser
+DECL|function|OutputTreeText
+DECL|function|TOutputTraverser
+DECL|function|getCompleteString
+DECL|function|outputTree
+DECL|function|visitAggregate
+DECL|function|visitBinary
+DECL|function|visitBranch
+DECL|function|visitConstantUnion
+DECL|function|visitLoop
+DECL|function|visitSelection
+DECL|function|visitSymbol
+DECL|function|visitUnary
+DECL|member|sink

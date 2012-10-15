@@ -1,0 +1,2 @@
+DECL|function|TOutputGLSL
+DECL|function|writeVariablePrecision

@@ -1,0 +1,9 @@
+DECL|function|containsGradientOperation
+DECL|function|containsLoopDiscontinuity
+DECL|function|traverse
+DECL|function|traverse
+DECL|function|visitAggregate
+DECL|function|visitAggregate
+DECL|function|visitBranch
+DECL|function|visitUnary
+DECL|namespace|sh

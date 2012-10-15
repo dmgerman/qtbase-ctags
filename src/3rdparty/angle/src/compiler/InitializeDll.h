@@ -1,0 +1,1 @@
+DECL|macro|__INITIALIZEDLL_H
