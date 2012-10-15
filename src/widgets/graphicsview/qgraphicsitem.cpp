@@ -123,6 +123,7 @@ DECL|function|effectiveOpacity
 DECL|function|ensureSceneTransformRecursive
 DECL|function|ensureSequentialSiblingIndex
 DECL|function|ensureVisible
+DECL|function|event
 DECL|function|extension
 DECL|function|extension
 DECL|function|extension
