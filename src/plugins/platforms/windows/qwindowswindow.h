@@ -1,6 +1,7 @@
 DECL|function|QWindowsGeometryHint
 DECL|function|applyToMinMaxInfo
 DECL|function|baseWindowOf
+DECL|function|destroyIcon
 DECL|function|handleOf
 DECL|function|mapFromGlobal
 DECL|function|mapFromGlobal

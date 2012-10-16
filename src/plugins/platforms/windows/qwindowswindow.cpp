@@ -17,6 +17,7 @@ DECL|function|clientSize
 DECL|function|cornerToWinOrientation
 DECL|function|create
 DECL|function|create
+DECL|function|createHIcon
 DECL|function|createRectRegion
 DECL|function|debugWinExStyle
 DECL|function|debugWinStyle
@@ -78,6 +79,7 @@ DECL|function|setStyle
 DECL|function|setVisible
 DECL|function|setWindowFlags
 DECL|function|setWindowFlags_sys
+DECL|function|setWindowIcon
 DECL|function|setWindowOpacity
 DECL|function|setWindowState
 DECL|function|setWindowState_sys
