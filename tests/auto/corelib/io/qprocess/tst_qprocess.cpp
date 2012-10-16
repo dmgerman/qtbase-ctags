@@ -19,7 +19,6 @@ DECL|function|echoTest
 DECL|function|echoTest2
 DECL|function|echoTestGui
 DECL|function|echoTest_data
-DECL|function|echoTest_performance
 DECL|function|emitReadyReadOnlyWhenNewDataArrives
 DECL|function|execute
 DECL|function|exitCodeTest
