@@ -116,7 +116,6 @@ DECL|member|cCtx
 DECL|member|ctx
 DECL|member|dir
 DECL|member|eor
-DECL|member|fontEngine
 DECL|member|glyph
 DECL|member|kashidaWidth
 DECL|member|last

@@ -1,3 +1,5 @@
+DECL|class|PropertyNotifyEvent
+DECL|function|PropertyNotifyEvent
 DECL|function|QXcbConnection
 DECL|function|addEvent
 DECL|function|addPeekFunc
@@ -5,8 +7,10 @@ DECL|function|addWindow
 DECL|function|atom
 DECL|function|atomName
 DECL|function|checkEvent
+DECL|function|checkEvent
 DECL|function|findOrCreateScreen
 DECL|function|formatForDepth
+DECL|function|getTimestamp
 DECL|function|handleClientMessageEvent
 DECL|function|handleXcbError
 DECL|function|handleXcbEvent
@@ -40,6 +44,9 @@ DECL|macro|HANDLE_KEYBOARD_EVENT
 DECL|macro|HANDLE_PLATFORM_WINDOW_EVENT
 DECL|macro|MESA_EGL_NO_X11_HEADERS
 DECL|macro|PRINT_XCB_EVENT
+DECL|member|atom
+DECL|member|type
+DECL|member|window
 DECL|variable|xcb_atomnames
 DECL|variable|xcb_errors
 DECL|variable|xcb_protocol_request_codes

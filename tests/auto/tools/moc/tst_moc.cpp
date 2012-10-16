@@ -167,6 +167,7 @@ DECL|function|plop
 DECL|function|points
 DECL|function|ppExpressionEvaluation
 DECL|function|preprocessorConditionals
+DECL|function|preprocessorOnly
 DECL|function|privateClass
 DECL|function|privateSignalConnection
 DECL|function|qprivateproperties

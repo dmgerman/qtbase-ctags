@@ -10,6 +10,7 @@ DECL|function|fontDatabase
 DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|nativeInterface
+DECL|function|possibleKeys
 DECL|function|queryKeyboardModifiers
 DECL|function|screenAdded
 DECL|function|services

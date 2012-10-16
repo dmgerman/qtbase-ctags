@@ -1,5 +1,7 @@
 DECL|class|QEglFSPandaHooks
 DECL|function|createNativeWindow
+DECL|function|screenDepth
+DECL|function|screenSize
 DECL|member|mAndroidSurface
 DECL|member|mControl
 DECL|member|mSession

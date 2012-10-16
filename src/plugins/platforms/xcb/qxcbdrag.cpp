@@ -1,6 +1,5 @@
 DECL|class|ClientMessageScanner
 DECL|class|QXcbDropData
-DECL|enumerator|XdndDropTransactionTimeout
 DECL|function|ClientMessageScanner
 DECL|function|QXcbDrag
 DECL|function|QXcbDropData
@@ -26,7 +25,6 @@ DECL|function|hasFormat_sys
 DECL|function|init
 DECL|function|move
 DECL|function|platformDropData
-DECL|function|restartDropExpiryTimer
 DECL|function|retrieveData_sys
 DECL|function|send_leave
 DECL|function|startDrag

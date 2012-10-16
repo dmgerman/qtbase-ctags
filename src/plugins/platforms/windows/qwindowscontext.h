@@ -17,6 +17,7 @@ DECL|typedef|SHCreateItemFromParsingName
 DECL|typedef|SetLayeredWindowAttributes
 DECL|typedef|UpdateLayeredWindow
 DECL|typedef|UpdateLayeredWindowIndirect
+DECL|variable|QKeyEvent
 DECL|variable|QPlatformScreen
 DECL|variable|QPoint
 DECL|variable|QWindow

@@ -4,7 +4,6 @@ DECL|function|QCoreApplication
 DECL|function|QCoreApplicationData
 DECL|function|QCoreApplicationPrivate
 DECL|function|QMutexUnlocker
-DECL|function|_q_initializeProcessManager
 DECL|function|addLibraryPath
 DECL|function|appName
 DECL|function|appendApplicationPathToLibraryPaths
@@ -34,6 +33,7 @@ DECL|function|installTranslator
 DECL|function|isQuitLockEnabled
 DECL|function|isTranslatorInstalled
 DECL|function|libraryPaths
+DECL|function|loadManifest
 DECL|function|macMenuBarName
 DECL|function|mainThread
 DECL|function|maybeQuit

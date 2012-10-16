@@ -26,6 +26,7 @@ DECL|function|nativeInterface
 DECL|function|nativeResourceForBackingStore
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
+DECL|function|possibleKeys
 DECL|function|queryKeyboardModifiers
 DECL|function|services
 DECL|function|styleHint

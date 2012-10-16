@@ -134,6 +134,7 @@ DECL|function|hideEvent
 DECL|function|hideOpaqueChildWhileHidden
 DECL|function|hideWhenFocusWidgetIsChild
 DECL|function|icon
+DECL|function|ignoreKeyEventsWhenDisabled_QTBUG27417
 DECL|function|immediateRepaintAfterInvalidateBuffer
 DECL|function|immediateRepaintAfterShow
 DECL|function|init
@@ -198,6 +199,7 @@ DECL|function|palettePropagation
 DECL|function|palettePropagation2
 DECL|function|persistentWinId
 DECL|function|popupEnterLeave
+DECL|function|properTabHandlingWhenDisabled_QTBUG27417
 DECL|function|qobject_castInDestroyedSlot
 DECL|function|qt_wince_is_platform
 DECL|function|qt_wince_is_platform
@@ -295,6 +297,7 @@ DECL|function|toplevelLineEditFocus
 DECL|function|touchEventSynthesizedMouseEvent
 DECL|function|translucentWidget
 DECL|function|tst_QWidget
+DECL|function|underMouse
 DECL|function|update
 DECL|function|updateGeometry
 DECL|function|updateGeometry_data
