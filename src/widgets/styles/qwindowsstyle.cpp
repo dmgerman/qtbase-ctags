@@ -19,8 +19,6 @@ DECL|function|polish
 DECL|function|sizeFromContents
 DECL|function|standardIcon
 DECL|function|standardPixmap
-DECL|function|startProgressAnimation
-DECL|function|stopProgressAnimation
 DECL|function|styleHint
 DECL|function|subElementRect
 DECL|function|unpolish
