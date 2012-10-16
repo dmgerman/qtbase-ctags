@@ -119,6 +119,7 @@ DECL|function|layoutDirection
 DECL|function|leaveEvent
 DECL|function|locale
 DECL|function|lower
+DECL|function|macUpdateSizeAttribute
 DECL|function|mapFrom
 DECL|function|mapFromParent
 DECL|function|mapTo
