@@ -7,6 +7,7 @@ DECL|function|atEnd2
 DECL|function|batFiles
 DECL|function|batFiles_data
 DECL|function|catchExitCode
+DECL|function|cleanupTestCase
 DECL|function|closeReadChannel
 DECL|function|closeWriteChannel
 DECL|function|code
