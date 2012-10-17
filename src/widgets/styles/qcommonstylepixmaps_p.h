@@ -3,5 +3,3 @@ DECL|variable|filedialog_end_xpm
 DECL|variable|filedialog_start_xpm
 DECL|variable|tb_extension_arrow_h_xpm
 DECL|variable|tb_extension_arrow_v_xpm
-DECL|variable|tree_branch_closed_xpm
-DECL|variable|tree_branch_open_xpm
