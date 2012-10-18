@@ -81,6 +81,7 @@ DECL|function|waitForFinished
 DECL|function|waitingForFinishedIsSet
 DECL|function|~QDBusActivateObjectEvent
 DECL|function|~QDBusConnectionPrivate
+DECL|macro|DBUS_TYPE_UNIX_FD
 DECL|macro|qDBusDebug
 DECL|typedef|QDBusSpyHook
 DECL|typedef|QDBusSpyHookList
