@@ -13,6 +13,7 @@ DECL|function|QTBUG4419_lineEditSelectAll
 DECL|function|QTBUG4842_selectFilterWithHideNameFilterDetails
 DECL|function|QTBUG6558_showDirsOnly
 DECL|function|cleanup
+DECL|function|close
 DECL|function|completionOnLevelAfterRoot
 DECL|function|deleteDirAndFiles
 DECL|function|dontShowCompleterOnRoot
@@ -24,7 +25,6 @@ DECL|function|init
 DECL|function|lessThan
 DECL|function|listRoot
 DECL|function|openContextMenu
-DECL|function|operator ()
 DECL|function|removeSelection
 DECL|function|showNameFilterDetails
 DECL|function|sortProxy
