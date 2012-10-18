@@ -4,6 +4,7 @@ DECL|function|createArchive
 DECL|function|getContentFromXml
 DECL|function|init
 DECL|function|testWriteAll
+DECL|function|testWriteFrameFormat
 DECL|function|testWriteList
 DECL|function|testWriteList2
 DECL|function|testWriteParagraph
