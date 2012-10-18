@@ -102,7 +102,6 @@ DECL|function|shown
 DECL|function|sideWidget
 DECL|function|tag
 DECL|function|task161658_alignments
-DECL|function|task161660_buttonSpacing
 DECL|function|task177022_setFixedSize
 DECL|function|task177716_CommitPage
 DECL|function|task177716_disableCommitButton
