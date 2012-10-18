@@ -1,0 +1,1 @@
+DECL|macro|FILTEROBJECT_H
