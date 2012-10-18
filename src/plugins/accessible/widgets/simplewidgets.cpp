@@ -16,6 +16,7 @@ DECL|function|child
 DECL|function|childCount
 DECL|function|currentValue
 DECL|function|cursorPosition
+DECL|function|deleteText
 DECL|function|doAction
 DECL|function|doAction
 DECL|function|doAction
@@ -23,6 +24,7 @@ DECL|function|groupBox
 DECL|function|imageDescription
 DECL|function|imagePosition
 DECL|function|imageSize
+DECL|function|insertText
 DECL|function|interface_cast
 DECL|function|interface_cast
 DECL|function|interface_cast
@@ -37,6 +39,7 @@ DECL|function|progressBar
 DECL|function|relations
 DECL|function|relations
 DECL|function|removeSelection
+DECL|function|replaceText
 DECL|function|role
 DECL|function|role
 DECL|function|scrollToSubstring
