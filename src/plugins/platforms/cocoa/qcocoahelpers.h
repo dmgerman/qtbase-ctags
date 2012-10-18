@@ -1,3 +1,5 @@
+DECL|enumerator|QtCocoaEventSubTypePostMessage
+DECL|enumerator|QtCocoaEventSubTypeWakeup
 DECL|function|qt_mac_QStringListToNSMutableArray
 DECL|function|qt_mac_flipPoint
 DECL|function|qt_mac_flipPoint

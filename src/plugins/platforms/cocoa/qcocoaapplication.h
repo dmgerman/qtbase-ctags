@@ -1,0 +1,1 @@
+DECL|function|QT_MANGLE_NAMESPACE
