@@ -4,7 +4,6 @@ DECL|function|initializeConstantMappings
 DECL|function|notifyAccessibilityUpdate
 DECL|function|setRootObject
 DECL|function|~QSpiAccessibleBridge
-DECL|member|localizedName
 DECL|member|name
 DECL|member|role
 DECL|member|spiRole

@@ -12,7 +12,6 @@ DECL|function|drawControl
 DECL|function|drawPrimitive
 DECL|function|eventFilter
 DECL|function|hasSeenAlt
-DECL|function|loadIconFromShell32
 DECL|function|pixelMetric
 DECL|function|polish
 DECL|function|polish
@@ -20,11 +19,8 @@ DECL|function|polish
 DECL|function|sizeFromContents
 DECL|function|standardIcon
 DECL|function|standardPixmap
-DECL|function|startAnimation
-DECL|function|stopAnimation
 DECL|function|styleHint
 DECL|function|subElementRect
-DECL|function|timerEvent
 DECL|function|unpolish
 DECL|function|unpolish
 DECL|function|~QWindowsStyle

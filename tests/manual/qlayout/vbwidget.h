@@ -1,0 +1,1 @@
+DECL|macro|VBWIDGET_H

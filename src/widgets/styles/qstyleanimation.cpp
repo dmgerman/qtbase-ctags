@@ -1,0 +1,14 @@
+DECL|function|QProgressStyleAnimation
+DECL|function|QStyleAnimation
+DECL|function|animationStep
+DECL|function|duration
+DECL|function|isUpdateNeeded
+DECL|function|isUpdateNeeded
+DECL|function|progressStep
+DECL|function|setSpeed
+DECL|function|setStartTime
+DECL|function|speed
+DECL|function|startTime
+DECL|function|target
+DECL|function|updateCurrentTime
+DECL|function|~QStyleAnimation

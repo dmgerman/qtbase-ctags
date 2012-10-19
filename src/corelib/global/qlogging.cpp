@@ -34,6 +34,7 @@ DECL|member|mutex
 DECL|member|mutex
 DECL|member|tokens
 DECL|struct|QMessagePattern
+DECL|typedef|QtMsgHandler
 DECL|variable|appnameTokenC
 DECL|variable|categoryTokenC
 DECL|variable|defaultPattern

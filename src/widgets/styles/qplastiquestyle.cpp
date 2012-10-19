@@ -32,16 +32,12 @@ DECL|function|standardPixmap
 DECL|function|styleHint
 DECL|function|subControlRect
 DECL|function|subElementRect
-DECL|function|timerEvent
 DECL|function|unpolish
 DECL|function|unpolish
 DECL|function|~QPlastiqueStyle
 DECL|function|~QPlastiqueStylePrivate
 DECL|macro|CT1
 DECL|macro|CT2
-DECL|member|bars
-DECL|member|progressBarAnimateTimer
-DECL|member|timer
 DECL|variable|AnimateBusyProgressBar
 DECL|variable|AnimateProgressBar
 DECL|variable|ProgressBarFps

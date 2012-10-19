@@ -1,9 +1,11 @@
 DECL|class|QBooleanComboBox
 DECL|class|QDefaultItemEditorFactory
+DECL|class|QUIntSpinBox
 DECL|function|QBooleanComboBox
 DECL|function|QDefaultFactoryCleaner
 DECL|function|QDefaultItemEditorFactory
 DECL|function|QExpandingLineEdit
+DECL|function|QUIntSpinBox
 DECL|function|changeEvent
 DECL|function|createEditor
 DECL|function|createEditor
@@ -11,7 +13,9 @@ DECL|function|defaultFactory
 DECL|function|registerEditor
 DECL|function|resizeToContents
 DECL|function|setDefaultFactory
+DECL|function|setUIntValue
 DECL|function|setValue
+DECL|function|uintValue
 DECL|function|updateMinimumWidth
 DECL|function|value
 DECL|function|valuePropertyName

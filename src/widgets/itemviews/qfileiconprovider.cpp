@@ -2,14 +2,11 @@ DECL|class|QFileIconProviderPrivate
 DECL|function|QFileIconProvider
 DECL|function|QFileIconProviderPrivate
 DECL|function|getIcon
-DECL|function|getMacIcon
-DECL|function|getWinIcon
+DECL|function|getIcon
 DECL|function|icon
 DECL|function|icon
 DECL|function|type
 DECL|function|~QFileIconProvider
-DECL|macro|SHGFI_ADDOVERLAYS
-DECL|macro|SHGFI_OVERLAYINDEX
 DECL|macro|_WIN32_IE
 DECL|macro|_WIN32_IE
 DECL|member|cdrom

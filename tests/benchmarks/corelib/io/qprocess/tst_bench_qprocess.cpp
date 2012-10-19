@@ -1,0 +1,2 @@
+DECL|class|tst_QProcess
+DECL|function|echoTest_performance

@@ -35,7 +35,6 @@ DECL|function|qSurfaceFormatFromPixelFormat
 DECL|function|releaseDCs
 DECL|function|swapBuffers
 DECL|function|testFlag
-DECL|function|useARB
 DECL|function|~QOpenGLTemporaryContext
 DECL|function|~QWindowsGLContext
 DECL|macro|ERROR_INVALID_PROFILE_ARB

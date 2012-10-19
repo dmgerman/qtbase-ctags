@@ -168,7 +168,7 @@ DECL|function|hasPosition
 DECL|function|hasStyleHint
 DECL|function|hasStyleRule
 DECL|function|hitTestComplexControl
-DECL|function|initWidget
+DECL|function|initObject
 DECL|function|isNaturalChild
 DECL|function|isNullNode
 DECL|function|isOpaque
@@ -182,13 +182,14 @@ DECL|function|nativeFrameWidth
 DECL|function|nodeIds
 DECL|function|nodeNameEquals
 DECL|function|nodeNames
+DECL|function|objectDestroyed
 DECL|function|originRect
 DECL|function|outline
 DECL|function|outlineRect
 DECL|function|paddingRect
 DECL|function|palette
 DECL|function|parentNode
-DECL|function|parentWidget
+DECL|function|parentObject
 DECL|function|pixelMetric
 DECL|function|polish
 DECL|function|polish
@@ -199,7 +200,7 @@ DECL|function|positionRect
 DECL|function|previousSiblingNode
 DECL|function|propertyNameForStandardPixmap
 DECL|function|pseudoClass
-DECL|function|qt_check_if_internal_widget
+DECL|function|qt_check_if_internal_object
 DECL|function|renderRule
 DECL|function|renderRule
 DECL|function|repolish
@@ -231,10 +232,9 @@ DECL|function|unpolish
 DECL|function|unsetClip
 DECL|function|unsetPalette
 DECL|function|unstylable
+DECL|function|updateObjects
 DECL|function|updateStyleSheetFont
-DECL|function|updateWidgets
 DECL|function|verticalTabs
-DECL|function|widgetDestroyed
 DECL|function|~QRenderRule
 DECL|function|~QStyleSheetStyle
 DECL|function|~QStyleSheetStyleRecursionGuard

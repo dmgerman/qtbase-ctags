@@ -54,7 +54,6 @@ DECL|function|moveCursor
 DECL|function|noScrollbar
 DECL|function|noScrollbar_data
 DECL|function|onCurrentIndexChanged
-DECL|function|onEditTextChanged
 DECL|function|paint
 DECL|function|parent
 DECL|function|pixmapIcon
@@ -104,8 +103,6 @@ DECL|function|~tst_QComboBox
 DECL|macro|GET_SELECTION
 DECL|macro|WHEEL_DELTA
 DECL|member|edit
-DECL|member|editText
-DECL|member|editTextCount
 DECL|member|ok
 DECL|member|parent
 DECL|member|received

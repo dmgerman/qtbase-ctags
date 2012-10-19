@@ -6,6 +6,7 @@ DECL|function|append
 DECL|function|append_data
 DECL|function|complexType
 DECL|function|empty
+DECL|function|modifyZeroCapacityCache
 DECL|function|operator =
 DECL|function|operatorAt
 DECL|function|prepend

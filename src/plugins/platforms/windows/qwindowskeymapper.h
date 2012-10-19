@@ -17,5 +17,11 @@ DECL|enumerator|ShiftLeft
 DECL|enumerator|ShiftRight
 DECL|enum|WindowsNativeModifiers
 DECL|macro|QWINDOWSKEYMAPPER_H
+DECL|member|NumQtKeys
+DECL|member|deadkeys
+DECL|member|dirty
+DECL|member|exists
+DECL|member|qtKey
+DECL|struct|KeyboardLayoutItem
 DECL|variable|QKeyEvent
 DECL|variable|QWindow
