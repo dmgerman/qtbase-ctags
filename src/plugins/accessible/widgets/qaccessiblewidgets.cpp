@@ -67,7 +67,6 @@ DECL|function|removeSelection
 DECL|function|replaceText
 DECL|function|role
 DECL|function|role
-DECL|function|role
 DECL|function|scrollBarPosition
 DECL|function|scrollBarPosition
 DECL|function|scrollBarPosition
