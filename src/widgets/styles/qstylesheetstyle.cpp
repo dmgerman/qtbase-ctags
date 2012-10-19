@@ -238,8 +238,8 @@ DECL|function|verticalTabs
 DECL|function|~QRenderRule
 DECL|function|~QStyleSheetStyle
 DECL|function|~QStyleSheetStyleRecursionGuard
+DECL|macro|OBJECT_PTR
 DECL|macro|RECURSION_GUARD
-DECL|macro|WIDGET
 DECL|macro|ceil
 DECL|member|alignment
 DECL|member|alternateBackground
