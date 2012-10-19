@@ -20,6 +20,8 @@ DECL|function|defDateTime
 DECL|function|defTime
 DECL|function|dt
 DECL|function|fewDigitsInYear
+DECL|function|fromMSecsSinceEpoch
+DECL|function|fromMSecsSinceEpoch_data
 DECL|function|fromStringDateFormat
 DECL|function|fromStringDateFormat_data
 DECL|function|fromStringStringFormat
@@ -50,6 +52,8 @@ DECL|function|setMSecsSinceEpoch
 DECL|function|setMSecsSinceEpoch_data
 DECL|function|setTime
 DECL|function|setTimeSpec
+DECL|function|setTimeSpec_data
+DECL|function|setTime_data
 DECL|function|setTime_t
 DECL|function|setUtcOffset
 DECL|function|str
