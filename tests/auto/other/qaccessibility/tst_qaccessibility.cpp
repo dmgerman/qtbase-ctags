@@ -72,4 +72,3 @@ DECL|macro|interface
 DECL|member|clickCount
 DECL|member|click_count
 DECL|typedef|QAIPtr
-DECL|variable|Q_PI
