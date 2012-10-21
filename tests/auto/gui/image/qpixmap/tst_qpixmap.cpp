@@ -29,7 +29,6 @@ DECL|function|fromWinHBITMAP
 DECL|function|fromWinHBITMAP_data
 DECL|function|fromWinHICON
 DECL|function|fromWinHICON_data
-DECL|function|grabWindow
 DECL|function|init
 DECL|function|isNull
 DECL|function|lenientCompare
