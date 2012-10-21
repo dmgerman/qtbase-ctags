@@ -11,6 +11,7 @@ DECL|function|setGeometry
 DECL|function|setStyleShouldChangeSpacing
 DECL|function|sizeConstraints
 DECL|function|sizeHint
+DECL|function|taskQTBUG_27420_takeAtShouldUnparentLayout
 DECL|function|taskQTBUG_7103_minMaxWidthNotRespected
 DECL|function|tst_QBoxLayout
 DECL|function|~tst_QBoxLayout

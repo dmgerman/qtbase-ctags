@@ -32,6 +32,7 @@ DECL|function|spacing
 DECL|function|styleHint
 DECL|function|styleHint
 DECL|function|takeAt
+DECL|function|taskQTBUG_27420_takeAtShouldUnparentLayout
 DECL|function|tst_QFormLayout
 DECL|function|wrapping
 DECL|function|~tst_QFormLayout
