@@ -6,6 +6,7 @@ DECL|function|defaultOkButton
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|postKeyReturn
+DECL|function|runSlotWithFailsafeTimer
 DECL|function|setFont
 DECL|function|task256466_wrongStyle
 DECL|function|testGetFont
