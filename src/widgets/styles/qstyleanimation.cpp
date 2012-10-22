@@ -11,4 +11,5 @@ DECL|function|speed
 DECL|function|startTime
 DECL|function|target
 DECL|function|updateCurrentTime
+DECL|function|updateTarget
 DECL|function|~QStyleAnimation
