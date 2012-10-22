@@ -1,5 +1,4 @@
-DECL|class|TestQtJson
-DECL|function|TestQtJson
+DECL|class|tst_QtJson
 DECL|function|assignArrays
 DECL|function|assignObjects
 DECL|function|assignToDocument
@@ -51,6 +50,7 @@ DECL|function|toAndFromBinary_data
 DECL|function|toJson
 DECL|function|toVariantList
 DECL|function|toVariantMap
+DECL|function|tst_QtJson
 DECL|function|undefinedValues
 DECL|function|validation
 DECL|function|valueEquals
