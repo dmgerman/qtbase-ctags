@@ -146,6 +146,7 @@ DECL|function|vistaDisabled
 DECL|function|wizard
 DECL|function|wizardStyle
 DECL|function|~QWizard
+DECL|function|~QWizardPage
 DECL|member|antiFlickerWidget
 DECL|member|back
 DECL|member|bannerPixmap

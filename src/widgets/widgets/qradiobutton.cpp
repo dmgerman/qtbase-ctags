@@ -10,3 +10,4 @@ DECL|function|minimumSizeHint
 DECL|function|mouseMoveEvent
 DECL|function|paintEvent
 DECL|function|sizeHint
+DECL|function|~QRadioButton

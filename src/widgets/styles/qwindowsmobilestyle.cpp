@@ -39,6 +39,7 @@ DECL|function|tintListViewHighlight
 DECL|function|toHsl
 DECL|function|unpolish
 DECL|function|unpolish
+DECL|function|~QWindowsMobileStyle
 DECL|macro|Q_MAX_3
 DECL|macro|Q_MIN_3
 DECL|variable|PE_IndicatorArrowDownBig

@@ -477,6 +477,7 @@ DECL|function|~QGraphicsEllipseItem
 DECL|function|~QGraphicsItem
 DECL|function|~QGraphicsItemGroup
 DECL|function|~QGraphicsLineItem
+DECL|function|~QGraphicsObject
 DECL|function|~QGraphicsPathItem
 DECL|function|~QGraphicsPixmapItem
 DECL|function|~QGraphicsPolygonItem

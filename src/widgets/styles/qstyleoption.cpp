@@ -54,4 +54,6 @@ DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator =
 DECL|function|~QStyleHintReturn
+DECL|function|~QStyleHintReturnMask
+DECL|function|~QStyleHintReturnVariant
 DECL|function|~QStyleOption

@@ -31,6 +31,7 @@ DECL|function|sizeHint
 DECL|function|text
 DECL|function|textDirection
 DECL|function|value
+DECL|function|~QProgressBar
 DECL|member|alignment
 DECL|member|format
 DECL|member|invertedAppearance

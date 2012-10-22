@@ -54,6 +54,8 @@ DECL|function|valueFromText
 DECL|function|valueFromText
 DECL|function|valueFromText
 DECL|function|valueFromText
+DECL|function|~QDoubleSpinBox
+DECL|function|~QSpinBox
 DECL|macro|QSBDEBUG
 DECL|member|actualMax
 DECL|member|actualMin

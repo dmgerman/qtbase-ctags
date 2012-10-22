@@ -24,5 +24,6 @@ DECL|function|titleFont
 DECL|function|titleRect
 DECL|function|topMargin
 DECL|function|usingVistaStyle
+DECL|function|~QCommandLinkButton
 DECL|member|currentColor
 DECL|member|description

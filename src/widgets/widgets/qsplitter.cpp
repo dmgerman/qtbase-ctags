@@ -68,4 +68,5 @@ DECL|function|storeSizes
 DECL|function|updateHandles
 DECL|function|widget
 DECL|function|~QSplitter
+DECL|function|~QSplitterHandle
 DECL|variable|SplitterMagic

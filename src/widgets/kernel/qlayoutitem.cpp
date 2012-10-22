@@ -42,4 +42,6 @@ DECL|function|useSizeCache
 DECL|function|widget
 DECL|function|widget
 DECL|function|~QLayoutItem
+DECL|function|~QSpacerItem
+DECL|function|~QWidgetItem
 DECL|function|~QWidgetItemV2

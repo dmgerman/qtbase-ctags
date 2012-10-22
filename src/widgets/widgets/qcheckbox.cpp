@@ -16,3 +16,4 @@ DECL|function|paintEvent
 DECL|function|setCheckState
 DECL|function|setTristate
 DECL|function|sizeHint
+DECL|function|~QCheckBox

@@ -114,6 +114,9 @@ DECL|function|validateAndInterpret
 DECL|function|valueFromText
 DECL|function|verifyCalendarInstance
 DECL|function|wheelEvent
+DECL|function|~QDateEdit
+DECL|function|~QDateTimeEdit
+DECL|function|~QTimeEdit
 DECL|macro|QDTEDEBUG
 DECL|macro|QDTEDEBUG
 DECL|macro|QDTEDEBUGN

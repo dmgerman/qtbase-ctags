@@ -70,4 +70,9 @@ DECL|function|verticalDirection
 DECL|function|widget
 DECL|function|~QGesture
 DECL|function|~QGestureEvent
+DECL|function|~QPanGesture
+DECL|function|~QPinchGesture
+DECL|function|~QSwipeGesture
+DECL|function|~QTapAndHoldGesture
+DECL|function|~QTapGesture
 DECL|member|Timeout

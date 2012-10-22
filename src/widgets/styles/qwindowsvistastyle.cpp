@@ -30,6 +30,7 @@ DECL|function|transitionsEnabled
 DECL|function|unpolish
 DECL|function|unpolish
 DECL|function|useVista
+DECL|function|~QWindowsVistaStyle
 DECL|function|~QWindowsVistaStylePrivate
 DECL|macro|BP_COMMANDLINK
 DECL|macro|BP_COMMANDLINKGLYPH

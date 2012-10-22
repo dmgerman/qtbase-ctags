@@ -26,6 +26,7 @@ DECL|function|standardPixmap
 DECL|function|styleHint
 DECL|function|subControlRect
 DECL|function|subElementRect
+DECL|function|~QWindowsCEStyle
 DECL|variable|windowsArrowHMargin
 DECL|variable|windowsCECheckBoxGradientColorBegin
 DECL|variable|windowsCECheckBoxGradientColorEnd
