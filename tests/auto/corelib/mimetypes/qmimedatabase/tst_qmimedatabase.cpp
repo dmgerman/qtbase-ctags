@@ -33,4 +33,5 @@ DECL|function|suffixes_data
 DECL|function|testSuiteWarning
 DECL|function|tst_QMimeDatabase
 DECL|function|waitAndRunUpdateMimeDatabase
+DECL|variable|qmlAgainFileName
 DECL|variable|yastFileName
