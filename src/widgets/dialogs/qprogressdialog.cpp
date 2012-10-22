@@ -40,7 +40,6 @@ DECL|member|autoClose
 DECL|member|autoReset
 DECL|member|bar
 DECL|member|cancel
-DECL|member|cancelAction
 DECL|member|cancellation_flag
 DECL|member|escapeShortcut
 DECL|member|forceHide

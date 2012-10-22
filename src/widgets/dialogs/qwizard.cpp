@@ -218,7 +218,6 @@ DECL|member|property
 DECL|member|property
 DECL|member|sideWidget
 DECL|member|sideWidget
-DECL|member|softKeys
 DECL|member|start
 DECL|member|startSetByUser
 DECL|member|subTitle
