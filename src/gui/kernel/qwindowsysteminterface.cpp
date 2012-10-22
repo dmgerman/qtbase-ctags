@@ -3,6 +3,7 @@ DECL|function|convertTouchPoints
 DECL|function|flushWindowSystemEvents
 DECL|function|getWindowSystemEvent
 DECL|function|handleCloseEvent
+DECL|function|handleContextMenuEvent
 DECL|function|handleDrag
 DECL|function|handleDrop
 DECL|function|handleEnterEvent

@@ -12,6 +12,7 @@ DECL|function|findClosestPlatformWindow
 DECL|function|findPlatformWindow
 DECL|function|findPlatformWindowAt
 DECL|function|findWindow
+DECL|function|handleContextMenuEvent
 DECL|function|handleFocusEvent
 DECL|function|hasTouchSupport
 DECL|function|init
