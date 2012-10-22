@@ -2,7 +2,6 @@ DECL|class|QWhatsThat
 DECL|class|QWhatsThisAction
 DECL|class|QWhatsThisPrivate
 DECL|function|QWhatsThat
-DECL|function|QWhatsThis
 DECL|function|QWhatsThisAction
 DECL|function|QWhatsThisPrivate
 DECL|function|actionTriggered
