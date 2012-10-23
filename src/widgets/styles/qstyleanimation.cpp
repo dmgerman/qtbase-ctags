@@ -1,10 +1,13 @@
 DECL|function|QProgressStyleAnimation
 DECL|function|QStyleAnimation
 DECL|function|animationStep
+DECL|function|delay
 DECL|function|duration
 DECL|function|isUpdateNeeded
 DECL|function|isUpdateNeeded
 DECL|function|progressStep
+DECL|function|setDelay
+DECL|function|setDuration
 DECL|function|setSpeed
 DECL|function|setStartTime
 DECL|function|speed
