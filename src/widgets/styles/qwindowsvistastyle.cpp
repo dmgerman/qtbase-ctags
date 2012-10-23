@@ -6,15 +6,12 @@ DECL|function|canAnimate
 DECL|function|cleanupTreeViewTheming
 DECL|function|clonedAnimationStyleOption
 DECL|function|createTreeViewHelperWindow
-DECL|function|drawBlendedImage
 DECL|function|drawComplexControl
 DECL|function|drawControl
 DECL|function|drawPrimitive
 DECL|function|hitTestComplexControl
 DECL|function|initTreeViewTheming
 DECL|function|isUpdateNeeded
-DECL|function|paint
-DECL|function|paint
 DECL|function|paint
 DECL|function|pixelMetric
 DECL|function|polish
