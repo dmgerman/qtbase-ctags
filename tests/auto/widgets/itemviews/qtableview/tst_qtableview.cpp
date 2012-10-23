@@ -159,6 +159,8 @@ DECL|function|taskQTBUG_7774_RtoLVisualRegionForSelection
 DECL|function|taskQTBUG_8585_crashForNoGoodReason
 DECL|function|taskQTBUG_8777_scrollToSpans
 DECL|function|tst_QTableView
+DECL|function|viewOptions
+DECL|function|viewOptions
 DECL|function|visualRect
 DECL|function|visualRect_data
 DECL|function|visualRegionForSelection
