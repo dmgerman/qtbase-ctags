@@ -19,6 +19,7 @@ DECL|function|createCursors
 DECL|function|defaultCursor
 DECL|function|drag
 DECL|function|dropData
+DECL|function|dropHelper
 DECL|function|findDragOverWindow
 DECL|function|handleDrag
 DECL|function|instance
@@ -32,6 +33,7 @@ DECL|function|~QWindowsDrag
 DECL|function|~QWindowsOleDropSource
 DECL|function|~QWindowsOleDropTarget
 DECL|macro|KEY_STATE_BUTTON_MASK
+DECL|macro|_WIN32_IE
 DECL|member|m_currentButtons
 DECL|member|m_cursors
 DECL|member|m_drag
