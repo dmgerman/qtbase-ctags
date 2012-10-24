@@ -1,0 +1,10 @@
+DECL|class|tst_QByteDataBuffer
+DECL|function|appendBuffer
+DECL|function|canReadLine
+DECL|function|makeByteArray
+DECL|function|positionHandling
+DECL|function|readBuffer
+DECL|function|readCompleteBuffer
+DECL|function|readCompleteBuffer_data
+DECL|function|readPartialBuffer
+DECL|function|readPartialBuffer_data
