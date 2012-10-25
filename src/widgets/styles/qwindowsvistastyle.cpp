@@ -4,6 +4,7 @@ DECL|function|buttonStateId
 DECL|function|buttonVisible
 DECL|function|canAnimate
 DECL|function|cleanupTreeViewTheming
+DECL|function|clonedAnimationStyleOption
 DECL|function|createTreeViewHelperWindow
 DECL|function|drawBlendedImage
 DECL|function|drawComplexControl
