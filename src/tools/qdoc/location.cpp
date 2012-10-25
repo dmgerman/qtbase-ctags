@@ -19,6 +19,7 @@ DECL|function|terminate
 DECL|function|toString
 DECL|function|top
 DECL|function|warning
+DECL|member|logProgress_
 DECL|member|null
 DECL|member|programName
 DECL|member|spuriousRegExp
