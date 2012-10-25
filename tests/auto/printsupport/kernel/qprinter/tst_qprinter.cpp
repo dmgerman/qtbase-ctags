@@ -4,6 +4,8 @@ DECL|function|TempFileCleanup
 DECL|function|changingOutputFormat
 DECL|function|cleanupTestCase
 DECL|function|computePageValue
+DECL|function|customPaperSizeAndMargins
+DECL|function|customPaperSizeAndMargins_data
 DECL|function|errorReporting
 DECL|function|getSetCheck
 DECL|function|initTestCase
