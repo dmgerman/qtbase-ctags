@@ -1,6 +1,7 @@
 DECL|function|QMakeParser
 DECL|function|bogusTest
 DECL|function|discardFile
+DECL|function|discardFileFromCache
 DECL|function|discardFiles
 DECL|function|enterScope
 DECL|function|finalizeCall

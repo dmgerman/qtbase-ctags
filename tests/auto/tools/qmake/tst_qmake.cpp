@@ -19,6 +19,7 @@ DECL|function|install_depends
 DECL|function|install_files
 DECL|function|one_space
 DECL|function|operators
+DECL|function|proFileCache
 DECL|function|project
 DECL|function|prompt
 DECL|function|quotedfilenames
