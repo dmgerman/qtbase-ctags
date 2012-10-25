@@ -1,4 +1,5 @@
 DECL|function|QEglFSIntegration
+DECL|function|chooseConfig
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformWindow

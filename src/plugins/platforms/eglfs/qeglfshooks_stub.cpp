@@ -1,6 +1,7 @@
 DECL|function|createCursor
 DECL|function|createNativeWindow
 DECL|function|destroyNativeWindow
+DECL|function|filterConfig
 DECL|function|hasCapability
 DECL|function|platformDestroy
 DECL|function|platformDisplay
