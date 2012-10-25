@@ -3,10 +3,13 @@ DECL|function|QEventDispatcherBlackberry
 DECL|function|QEventDispatcherBlackberryPrivate
 DECL|function|bpsIOHandler
 DECL|function|bpsIOHandlerData
+DECL|function|initThreadWakeUp
 DECL|function|ioEvents
+DECL|function|processThreadWakeUp
 DECL|function|registerSocketNotifier
 DECL|function|select
 DECL|function|unregisterSocketNotifier
+DECL|function|wakeUp
 DECL|function|~QEventDispatcherBlackberry
 DECL|function|~QEventDispatcherBlackberryPrivate
 DECL|macro|qEventDispatcherDebug
@@ -16,4 +19,4 @@ DECL|member|exceptfds
 DECL|member|readfds
 DECL|member|writefds
 DECL|struct|bpsIOHandlerData
-DECL|variable|bpsIOReadyDomain
+DECL|variable|bpsUnblockDomain
