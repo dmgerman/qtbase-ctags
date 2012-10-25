@@ -4,6 +4,7 @@ DECL|function|QFutureInterfaceBase
 DECL|function|QFutureInterfaceBasePrivate
 DECL|function|cancel
 DECL|function|connectOutputInterface
+DECL|function|derefT
 DECL|function|disconnectOutputInterface
 DECL|function|exceptionStore
 DECL|function|expectedResultCount
@@ -27,6 +28,7 @@ DECL|function|progressMinimum
 DECL|function|progressText
 DECL|function|progressValue
 DECL|function|queryState
+DECL|function|refT
 DECL|function|referenceCountIsOne
 DECL|function|reportCanceled
 DECL|function|reportException
