@@ -1,9 +1,17 @@
 DECL|class|QEglFSPandaHooks
+DECL|function|QEglFSPandaHooks
 DECL|function|createNativeWindow
+DECL|function|createNativeWindowFramebuffer
+DECL|function|createNativeWindowSurfaceFlinger
+DECL|function|ensureFramebufferNativeWindowCreated
+DECL|function|filterConfig
 DECL|function|screenDepth
 DECL|function|screenSize
 DECL|member|mAndroidSurface
 DECL|member|mControl
+DECL|member|mFramebufferNativeWindow
+DECL|member|mFramebufferVisualId
 DECL|member|mSession
+DECL|member|mUseFramebuffer
 DECL|variable|eglFSPandaHooks
 DECL|variable|platformHooks
