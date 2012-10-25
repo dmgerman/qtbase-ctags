@@ -10,6 +10,7 @@ DECL|function|fileName
 DECL|function|information
 DECL|function|initialize
 DECL|function|internalError
+DECL|function|logToStdErr
 DECL|function|operator =
 DECL|function|pop
 DECL|function|push
