@@ -1,0 +1,14 @@
+DECL|function|ShCompile
+DECL|function|ShConstructCompiler
+DECL|function|ShDestruct
+DECL|function|ShFinalize
+DECL|function|ShGetActiveAttrib
+DECL|function|ShGetActiveUniform
+DECL|function|ShGetInfo
+DECL|function|ShGetInfoLog
+DECL|function|ShGetObjectCode
+DECL|function|ShInitBuiltInResources
+DECL|function|ShInitialize
+DECL|function|checkActiveUniformAndAttribMaxLengths
+DECL|function|checkMappedNameMaxLength
+DECL|function|getVariableInfo

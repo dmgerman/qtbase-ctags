@@ -1,0 +1,10 @@
+DECL|function|BuiltInConstants
+DECL|function|BuiltInFunctionsCommon
+DECL|function|BuiltInFunctionsFragment
+DECL|function|BuiltInFunctionsVertex
+DECL|function|DefaultPrecisionFragment
+DECL|function|DefaultPrecisionVertex
+DECL|function|IdentifyBuiltIns
+DECL|function|InitExtensionBehavior
+DECL|function|StandardUniforms
+DECL|function|initialize

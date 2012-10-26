@@ -2,6 +2,7 @@ DECL|class|QWindowsNativeInterface
 DECL|function|QWindowsIntegration
 DECL|function|QWindowsIntegrationPrivate
 DECL|function|accessibility
+DECL|function|asyncExpose
 DECL|function|clipboard
 DECL|function|createMessageWindow
 DECL|function|createPlatformBackingStore
@@ -26,6 +27,7 @@ DECL|function|parseOptions
 DECL|function|possibleKeys
 DECL|function|queryKeyboardModifiers
 DECL|function|services
+DECL|function|setAsyncExpose
 DECL|function|styleHint
 DECL|function|themeNames
 DECL|function|~QWindowsIntegration

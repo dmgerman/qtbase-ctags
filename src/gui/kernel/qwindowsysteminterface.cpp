@@ -3,9 +3,11 @@ DECL|function|convertTouchPoints
 DECL|function|flushWindowSystemEvents
 DECL|function|getWindowSystemEvent
 DECL|function|handleCloseEvent
+DECL|function|handleContextMenuEvent
 DECL|function|handleDrag
 DECL|function|handleDrop
 DECL|function|handleEnterEvent
+DECL|function|handleEnterLeaveEvent
 DECL|function|handleExposeEvent
 DECL|function|handleExtendedKeyEvent
 DECL|function|handleExtendedKeyEvent
@@ -43,10 +45,12 @@ DECL|function|handleWheelEvent
 DECL|function|handleWindowActivated
 DECL|function|handleWindowStateChanged
 DECL|function|handleWindowSystemEvent
+DECL|function|peekWindowSystemEvent
 DECL|function|qt_handleKeyEvent
 DECL|function|qt_handleMouseEvent
 DECL|function|qt_handleTouchEvent
 DECL|function|registerTouchDevice
+DECL|function|removeWindowSystemEvent
 DECL|function|sendWindowSystemEvents
 DECL|function|sendWindowSystemEventsImplementation
 DECL|function|setSynchronousWindowsSystemEvents

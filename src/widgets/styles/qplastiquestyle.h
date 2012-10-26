@@ -1,2 +1,0 @@
-DECL|macro|QPLASTIQUESTYLE_H
-DECL|variable|QPlastiqueStylePrivate

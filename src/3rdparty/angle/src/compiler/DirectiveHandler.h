@@ -1,0 +1,2 @@
+DECL|macro|COMPILER_DIRECTIVE_HANDLER_H_
+DECL|variable|TDiagnostics

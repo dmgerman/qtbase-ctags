@@ -12,6 +12,7 @@ DECL|function|dayOfYear_data
 DECL|function|daysInMonth
 DECL|function|daysInMonth_data
 DECL|function|daysInYear
+DECL|function|daysInYear_data
 DECL|function|daysTo
 DECL|function|defDate
 DECL|function|fromStringDateFormat

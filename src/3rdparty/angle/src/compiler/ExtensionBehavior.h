@@ -1,0 +1,10 @@
+DECL|enumerator|EBhDisable
+DECL|enumerator|EBhEnable
+DECL|enumerator|EBhRequire
+DECL|enumerator|EBhUndefined
+DECL|enumerator|EBhWarn
+DECL|function|getBehaviorString
+DECL|macro|_EXTENSION_BEHAVIOR_INCLUDED_
+DECL|typedef|TBehavior
+DECL|typedef|TExtensionBehavior
+DECL|typedef|string

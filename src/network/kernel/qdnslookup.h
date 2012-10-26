@@ -10,3 +10,4 @@ DECL|variable|QDnsLookupPrivate
 DECL|variable|QDnsMailExchangeRecordPrivate
 DECL|variable|QDnsServiceRecordPrivate
 DECL|variable|QDnsTextRecordPrivate
+DECL|variable|QHostAddress

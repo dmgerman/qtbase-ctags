@@ -26,12 +26,11 @@ DECL|function|qt_wince_is_smartphone
 DECL|function|readImage
 DECL|function|styleHint
 DECL|function|testAllFunctions
-DECL|function|testCleanlooksStyle
 DECL|function|testDrawingShortcuts
 DECL|function|testFrameOnlyAroundContents
+DECL|function|testFusionStyle
 DECL|function|testMacStyle
 DECL|function|testPainting
-DECL|function|testPlastiqueStyle
 DECL|function|testProxyStyle
 DECL|function|testScrollBarSubControls
 DECL|function|testStyleFactory

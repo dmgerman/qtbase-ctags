@@ -17,6 +17,7 @@ DECL|function|resetFont
 DECL|function|resolve
 DECL|function|serializeSpacing
 DECL|function|setFontRaw
+DECL|function|sharing
 DECL|function|styleName
 DECL|function|tst_QFont
 DECL|function|~tst_QFont

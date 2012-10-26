@@ -1,0 +1,10 @@
+DECL|function|DllMain
+DECL|function|checkDeviceLost
+DECL|function|error
+DECL|function|getContext
+DECL|function|getDevice
+DECL|function|getDisplay
+DECL|function|getNonLostContext
+DECL|function|makeCurrent
+DECL|namespace|gl
+DECL|variable|currentTLS

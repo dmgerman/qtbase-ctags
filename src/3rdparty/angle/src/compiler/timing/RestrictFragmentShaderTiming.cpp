@@ -1,0 +1,9 @@
+DECL|function|RestrictFragmentShaderTiming
+DECL|function|beginError
+DECL|function|enforceRestrictions
+DECL|function|isSamplingOp
+DECL|function|validateUserDefinedFunctionCallUsage
+DECL|function|visitArgument
+DECL|function|visitLogicalOp
+DECL|function|visitLoop
+DECL|function|visitSelection

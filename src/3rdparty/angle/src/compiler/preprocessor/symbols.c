@@ -1,0 +1,12 @@
+DECL|function|AddSymbol
+DECL|function|LookUpLocalSymbol
+DECL|function|LookUpSymbol
+DECL|function|NewScopeInPool
+DECL|function|NewSymbol
+DECL|function|PopScope
+DECL|function|PushScope
+DECL|function|lAddToTree
+DECL|function|unlinkScope
+DECL|variable|CurrentScope
+DECL|variable|GlobalScope
+DECL|variable|ScopeList

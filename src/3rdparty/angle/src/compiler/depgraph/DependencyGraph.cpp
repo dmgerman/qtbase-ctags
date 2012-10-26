@@ -1,0 +1,9 @@
+DECL|function|TDependencyGraph
+DECL|function|createArgument
+DECL|function|createFunctionCall
+DECL|function|createLogicalOp
+DECL|function|createLoop
+DECL|function|createSelection
+DECL|function|getOpString
+DECL|function|getOrCreateSymbol
+DECL|function|~TDependencyGraph

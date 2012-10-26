@@ -35,7 +35,6 @@ DECL|function|~QFusionStyle
 DECL|variable|dock_widget_close_xpm
 DECL|variable|dock_widget_restore_xpm
 DECL|variable|groupBoxBottomMargin
-DECL|variable|groupBoxTitleMargin
 DECL|variable|groupBoxTopMargin
 DECL|variable|qt_titlebar_context_help
 DECL|variable|windowsItemFrame

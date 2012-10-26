@@ -2,6 +2,7 @@ DECL|function|QWindowsVistaStyle
 DECL|function|QWindowsVistaStylePrivate
 DECL|function|buttonStateId
 DECL|function|buttonVisible
+DECL|function|canAnimate
 DECL|function|cleanupTreeViewTheming
 DECL|function|createTreeViewHelperWindow
 DECL|function|drawBlendedImage
@@ -24,6 +25,7 @@ DECL|function|standardIcon
 DECL|function|standardPalette
 DECL|function|standardPixmap
 DECL|function|styleHint
+DECL|function|styleObject
 DECL|function|subControlRect
 DECL|function|subElementRect
 DECL|function|transitionsEnabled

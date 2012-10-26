@@ -18,3 +18,4 @@ DECL|variable|QQnxScreenEventHandler
 DECL|variable|QQnxScreenEventThread
 DECL|variable|QQnxServices
 DECL|variable|QQnxWindow
+DECL|variable|QSimpleDrag

@@ -1,0 +1,14 @@
+DECL|function|DllMain
+DECL|function|error
+DECL|function|getCurrentAPI
+DECL|function|getCurrentDisplay
+DECL|function|getCurrentDrawSurface
+DECL|function|getCurrentError
+DECL|function|getCurrentReadSurface
+DECL|function|setCurrentAPI
+DECL|function|setCurrentDisplay
+DECL|function|setCurrentDrawSurface
+DECL|function|setCurrentError
+DECL|function|setCurrentReadSurface
+DECL|namespace|egl
+DECL|variable|currentTLS

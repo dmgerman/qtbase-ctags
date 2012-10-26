@@ -11,6 +11,7 @@ DECL|function|qpen_fast_equals
 DECL|function|qpen_joinStyle
 DECL|function|qpen_style
 DECL|function|qpen_widthf
+DECL|function|qt_pen_is_cosmetic
 DECL|function|qtransform_fast_equals
 DECL|macro|QPAINTER_P_H
 DECL|member|brush

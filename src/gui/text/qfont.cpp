@@ -17,6 +17,7 @@ DECL|function|cleanup
 DECL|function|clear
 DECL|function|decreaseCost
 DECL|function|detach
+DECL|function|detachButKeepEngineData
 DECL|function|engineForScript
 DECL|function|exactMatch
 DECL|function|exactMatch

@@ -3,6 +3,7 @@ DECL|function|QWindowsContextPrivate
 DECL|function|QWindowsShell32DLL
 DECL|function|QWindowsUser32DLL
 DECL|function|addWindow
+DECL|function|asyncExpose
 DECL|function|comErrorString
 DECL|function|componentVerbose
 DECL|function|createDummyWindow
@@ -12,6 +13,7 @@ DECL|function|findClosestPlatformWindow
 DECL|function|findPlatformWindow
 DECL|function|findPlatformWindowAt
 DECL|function|findWindow
+DECL|function|handleContextMenuEvent
 DECL|function|handleFocusEvent
 DECL|function|hasTouchSupport
 DECL|function|init
@@ -27,6 +29,7 @@ DECL|function|registerWindowClass
 DECL|function|removeWindow
 DECL|function|screenDepth
 DECL|function|screenManager
+DECL|function|setAsyncExpose
 DECL|function|setKeyGrabber
 DECL|function|setWindowCreationContext
 DECL|function|systemInfo
@@ -38,6 +41,7 @@ DECL|function|windowsErrorMessage
 DECL|function|windowsProc
 DECL|function|~QWindowsContext
 DECL|macro|LANG_SYRIAC
+DECL|member|m_asyncExpose
 DECL|member|m_creationContext
 DECL|member|m_defaultDPI
 DECL|member|m_displayContext

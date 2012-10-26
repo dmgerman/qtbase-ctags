@@ -38,17 +38,4 @@ DECL|member|iSysImageIndex
 DECL|member|szPath
 DECL|typedef|PtrSHGetStockIconInfo
 DECL|typedef|QSHSTOCKICONINFO
-DECL|variable|critical_xpm
-DECL|variable|dock_widget_close_xpm
-DECL|variable|information_xpm
 DECL|variable|pSHGetStockIconInfo
-DECL|variable|qt_close_xpm
-DECL|variable|qt_help_xpm
-DECL|variable|qt_maximize_xpm
-DECL|variable|qt_menu_xpm
-DECL|variable|qt_minimize_xpm
-DECL|variable|qt_normalizeup_xpm
-DECL|variable|qt_shade_xpm
-DECL|variable|qt_unshade_xpm
-DECL|variable|question_xpm
-DECL|variable|warning_xpm
