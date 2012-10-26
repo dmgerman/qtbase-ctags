@@ -47,7 +47,9 @@ DECL|function|selectFile
 DECL|function|selectFile_data
 DECL|function|selectFiles
 DECL|function|selectFilter
+DECL|function|setEmptyNameFilter
 DECL|function|setNameFilter
+DECL|function|setNameFilter_data
 DECL|function|sizeHint
 DECL|function|tildeExpansion
 DECL|function|tildeExpansion_data
