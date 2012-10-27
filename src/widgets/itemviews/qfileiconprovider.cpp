@@ -7,8 +7,6 @@ DECL|function|icon
 DECL|function|icon
 DECL|function|type
 DECL|function|~QFileIconProvider
-DECL|macro|_WIN32_IE
-DECL|macro|_WIN32_IE
 DECL|member|cdrom
 DECL|member|computer
 DECL|member|desktop

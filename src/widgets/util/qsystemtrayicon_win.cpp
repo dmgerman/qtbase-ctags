@@ -32,6 +32,8 @@ DECL|macro|NIN_SELECT
 DECL|macro|NOTIFYICON_VERSION_4
 DECL|macro|Q_MSGFLT_ALLOW
 DECL|macro|_WIN32_IE
+DECL|macro|_WIN32_IE
+DECL|macro|_WIN32_WINNT
 DECL|macro|_WIN32_WINNT
 DECL|member|cbSize
 DECL|member|globalPos

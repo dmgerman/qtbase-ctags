@@ -35,7 +35,6 @@ DECL|function|~QWindowsDrag
 DECL|function|~QWindowsOleDropSource
 DECL|function|~QWindowsOleDropTarget
 DECL|macro|KEY_STATE_BUTTON_MASK
-DECL|macro|_WIN32_IE
 DECL|member|cacheKey
 DECL|member|cursor
 DECL|member|m_currentButtons
