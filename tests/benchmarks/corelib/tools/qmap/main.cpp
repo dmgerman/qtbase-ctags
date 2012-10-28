@@ -1,4 +1,5 @@
 DECL|class|tst_QMap
+DECL|function|ctorStdMap
 DECL|function|insertion_int_int
 DECL|function|insertion_int_string
 DECL|function|insertion_string_int

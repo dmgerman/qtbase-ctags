@@ -11,6 +11,7 @@ DECL|function|const_
 DECL|function|const_shared_null
 DECL|function|contains
 DECL|function|count
+DECL|function|ctor
 DECL|function|empty
 DECL|function|equal_range
 DECL|function|find
