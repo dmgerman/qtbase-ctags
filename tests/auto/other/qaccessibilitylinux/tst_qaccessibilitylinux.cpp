@@ -1,5 +1,5 @@
 DECL|class|AccessibleTestWindow
-DECL|class|tst_QtAtSpi
+DECL|class|tst_QAccessibilityLinux
 DECL|function|AccessibleTestWindow
 DECL|function|addWidget
 DECL|function|cleanupTestCase
