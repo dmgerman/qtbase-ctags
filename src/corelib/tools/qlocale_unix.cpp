@@ -1,7 +1,11 @@
+DECL|function|QBBLocaleData
 DECL|function|QSystemLocaleData
 DECL|function|fallbackUiLocale
 DECL|function|query
 DECL|function|readEnvironment
+DECL|function|readPPSLocale
+DECL|function|updateMesurementSystem
+DECL|function|~QBBLocaleData
 DECL|member|lc_measurement_var
 DECL|member|lc_messages
 DECL|member|lc_messages_var
@@ -11,3 +15,5 @@ DECL|member|lc_time
 DECL|member|lock
 DECL|member|uiLanguages
 DECL|struct|QSystemLocaleData
+DECL|variable|ppsBufferSize
+DECL|variable|ppsServicePath
