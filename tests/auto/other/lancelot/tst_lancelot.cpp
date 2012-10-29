@@ -2,11 +2,11 @@ DECL|class|tst_Lancelot
 DECL|enumerator|OpenGL
 DECL|enumerator|Raster
 DECL|enum|GraphicsEngine
+DECL|function|checkSystemGLSupport
 DECL|function|cleanupTestCase
 DECL|function|initTestCase
 DECL|function|main
 DECL|function|paint
-DECL|function|render
 DECL|function|runTestSuite
 DECL|function|setupTestSuite
 DECL|function|testOpenGL
@@ -20,12 +20,7 @@ DECL|function|testRasterRGB32_data
 DECL|function|tst_Lancelot
 DECL|macro|main
 DECL|macro|main
-DECL|member|baseList
-DECL|member|clientInfo
-DECL|member|clientInfo
-DECL|member|dryRunMode
-DECL|member|proto
+DECL|member|qpsFiles
+DECL|member|scriptChecksums
 DECL|member|scripts
 DECL|member|scriptsDir
-DECL|member|simfail
-DECL|member|simfail

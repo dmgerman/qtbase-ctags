@@ -14,9 +14,11 @@ DECL|function|testImage
 DECL|macro|MAXCMDLINEARGS
 DECL|member|connected
 DECL|member|curFunction
+DECL|member|customAutoModeSet
 DECL|member|customInfo
 DECL|member|definedTestCase
 DECL|member|definedTestProject
+DECL|member|dryRunMode
 DECL|member|fargv
 DECL|member|gotBaselines
 DECL|member|itemList
