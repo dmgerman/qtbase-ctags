@@ -36,6 +36,7 @@ DECL|function|generateMakefiles
 DECL|function|generateOutputVars
 DECL|function|generateQConfigCpp
 DECL|function|generateQConfigPri
+DECL|function|generateSystemVars
 DECL|function|isDone
 DECL|function|isOk
 DECL|function|locateFile
