@@ -1,0 +1,11 @@
+DECL|function|xcb_image_get_pixel_XY32L
+DECL|function|xcb_image_get_pixel_XY32M
+DECL|function|xcb_image_get_pixel_Z32L
+DECL|function|xcb_image_get_pixel_Z32M
+DECL|function|xcb_image_get_pixel_Z8
+DECL|function|xcb_image_put_pixel_XY32L
+DECL|function|xcb_image_put_pixel_XY32M
+DECL|function|xcb_image_put_pixel_Z32L
+DECL|function|xcb_image_put_pixel_Z32M
+DECL|function|xcb_image_put_pixel_Z8
+DECL|macro|__XCB_PIXEL_H__

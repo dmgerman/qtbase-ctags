@@ -1,0 +1,9 @@
+DECL|function|xcb_bit_reverse
+DECL|function|xcb_host_byte_order
+DECL|function|xcb_mask
+DECL|function|xcb_popcount
+DECL|function|xcb_rounddown
+DECL|function|xcb_rounddown_2
+DECL|function|xcb_roundup
+DECL|function|xcb_roundup_2
+DECL|macro|__XCB_BITOPS_H__

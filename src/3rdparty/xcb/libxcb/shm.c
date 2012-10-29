@@ -1,0 +1,17 @@
+DECL|function|xcb_shm_attach
+DECL|function|xcb_shm_attach_checked
+DECL|function|xcb_shm_create_pixmap
+DECL|function|xcb_shm_create_pixmap_checked
+DECL|function|xcb_shm_detach
+DECL|function|xcb_shm_detach_checked
+DECL|function|xcb_shm_get_image
+DECL|function|xcb_shm_get_image_reply
+DECL|function|xcb_shm_get_image_unchecked
+DECL|function|xcb_shm_put_image
+DECL|function|xcb_shm_put_image_checked
+DECL|function|xcb_shm_query_version
+DECL|function|xcb_shm_query_version_reply
+DECL|function|xcb_shm_query_version_unchecked
+DECL|function|xcb_shm_seg_end
+DECL|function|xcb_shm_seg_next
+DECL|variable|xcb_shm_id

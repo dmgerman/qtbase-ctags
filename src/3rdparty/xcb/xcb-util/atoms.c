@@ -1,0 +1,5 @@
+DECL|function|makename
+DECL|function|xcb_atom_name_by_resource
+DECL|function|xcb_atom_name_by_screen
+DECL|function|xcb_atom_name_unique
+DECL|macro|_GNU_SOURCE

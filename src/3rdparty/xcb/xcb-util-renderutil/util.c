@@ -1,0 +1,3 @@
+DECL|function|xcb_render_util_find_format
+DECL|function|xcb_render_util_find_standard_format
+DECL|function|xcb_render_util_find_visual_format
