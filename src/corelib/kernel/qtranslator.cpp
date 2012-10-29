@@ -48,6 +48,7 @@ DECL|member|numerusRulesArray
 DECL|member|numerusRulesLength
 DECL|member|offsetArray
 DECL|member|offsetLength
+DECL|member|resource
 DECL|member|subTranslators
 DECL|member|unmapLength
 DECL|member|unmapPointer
