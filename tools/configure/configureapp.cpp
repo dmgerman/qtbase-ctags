@@ -13,7 +13,6 @@ DECL|function|autoDetection
 DECL|function|buildQmake
 DECL|function|checkAvailability
 DECL|function|compilerSupportsFlag
-DECL|function|copySpec
 DECL|function|defaultTo
 DECL|function|desc
 DECL|function|desc
@@ -53,6 +52,7 @@ DECL|function|reloadCmdLine
 DECL|function|saveCmdLine
 DECL|function|showLicense
 DECL|function|showSummary
+DECL|function|stripPrefix
 DECL|function|tokenLength
 DECL|function|tryCompileProject
 DECL|function|validateArgs
