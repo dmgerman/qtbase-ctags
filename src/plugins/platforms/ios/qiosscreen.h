@@ -1,0 +1,1 @@
+DECL|macro|QIOSSCREEN_H
