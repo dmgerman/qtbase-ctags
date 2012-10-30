@@ -29,10 +29,13 @@ DECL|function|genericPluginsAndWindowSystemEvents
 DECL|function|keyboardModifiers
 DECL|function|modalWindow
 DECL|function|quitOnLastWindowClosed
+DECL|function|resetCounts
 DECL|function|setFocusObject
 DECL|function|topLevelWindows
 DECL|member|blocked
 DECL|member|customEvents
+DECL|member|enters
+DECL|member|leaves
 DECL|member|m_focusObject
 DECL|member|showAgain
 DECL|member|windowDuringFocusAboutToChange
