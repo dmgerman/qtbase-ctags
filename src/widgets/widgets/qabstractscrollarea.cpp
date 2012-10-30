@@ -16,6 +16,8 @@ DECL|function|dragLeaveEvent
 DECL|function|dragMoveEvent
 DECL|function|dropEvent
 DECL|function|event
+DECL|function|eventFilter
+DECL|function|flashScrollBars
 DECL|function|horizontalScrollBar
 DECL|function|horizontalScrollBarPolicy
 DECL|function|init
@@ -36,6 +38,7 @@ DECL|function|scrollContentsBy
 DECL|function|setCornerWidget
 DECL|function|setHorizontalScrollBar
 DECL|function|setHorizontalScrollBarPolicy
+DECL|function|setScrollBarTransient
 DECL|function|setSingleFingerPanEnabled
 DECL|function|setVerticalScrollBar
 DECL|function|setVerticalScrollBarPolicy
