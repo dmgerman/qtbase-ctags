@@ -40,5 +40,4 @@ DECL|function|updateSampleFont
 DECL|function|updateSizes
 DECL|function|updateStyles
 DECL|function|~QFontDialog
-DECL|member|sharedFontPanelAvailable
 DECL|variable|DefaultWindowFlags
