@@ -7,6 +7,8 @@ DECL|class|Container
 DECL|class|ContentsPropagationWidget
 DECL|class|CustomWidget
 DECL|class|DestroyedSlotChecker
+DECL|class|EnterTestMainDialog
+DECL|class|EnterTestModalDialog
 DECL|class|EventRecorder
 DECL|class|EventSpy
 DECL|class|FocusWidget
@@ -42,6 +44,8 @@ DECL|function|Container
 DECL|function|ContentsPropagationWidget
 DECL|function|CustomWidget
 DECL|function|DestroyedSlotChecker
+DECL|function|EnterTestMainDialog
+DECL|function|EnterTestModalDialog
 DECL|function|EventRecorder
 DECL|function|EventSpy
 DECL|function|FocusWidget
@@ -77,6 +81,7 @@ DECL|function|alienWidgets
 DECL|function|backTab
 DECL|function|backingStore
 DECL|function|beEvil
+DECL|function|buttonPressed
 DECL|function|changeEvent
 DECL|function|childAt
 DECL|function|childAt_unifiedToolBar
@@ -96,6 +101,7 @@ DECL|function|deleteBackingStore
 DECL|function|deleteStyle
 DECL|function|destroyBackingStore
 DECL|function|destroyedSlot
+DECL|function|doMouseMoves
 DECL|function|doubleRepaint
 DECL|function|drawPolygon
 DECL|function|effectiveWinId
@@ -111,6 +117,7 @@ DECL|function|event
 DECL|function|event
 DECL|function|event
 DECL|function|event
+DECL|function|eventFilter
 DECL|function|eventFilter
 DECL|function|eventFilter
 DECL|function|eventFilter
@@ -290,6 +297,7 @@ DECL|function|tab
 DECL|function|task110173
 DECL|function|taskQTBUG_11373
 DECL|function|taskQTBUG_17333_ResizeInfiniteRecursion
+DECL|function|taskQTBUG_27643_enterEvents
 DECL|function|taskQTBUG_4055_sendSyntheticEnterLeave
 DECL|function|taskQTBUG_7532_tabOrderWithFocusProxy
 DECL|function|testContentsPropagation
@@ -335,11 +343,13 @@ DECL|macro|VERIFY_COLOR
 DECL|macro|VERIFY_STATE
 DECL|member|box
 DECL|member|button
+DECL|member|button
 DECL|member|color
 DECL|member|color
 DECL|member|deleteThis
 DECL|member|edit
 DECL|member|ellipse
+DECL|member|enters
 DECL|member|enters
 DECL|member|eventToSpy
 DECL|member|events
@@ -362,6 +372,7 @@ DECL|member|m_widget
 DECL|member|m_winIdList
 DECL|member|mask
 DECL|member|metricCallCount
+DECL|member|modal
 DECL|member|mySizeHint
 DECL|member|numPaintEvents
 DECL|member|numUpdateRequestEvents
