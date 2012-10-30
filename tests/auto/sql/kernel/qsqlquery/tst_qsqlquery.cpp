@@ -29,6 +29,8 @@ DECL|function|aggregateFunctionTypes
 DECL|function|aggregateFunctionTypes_data
 DECL|function|batchExec
 DECL|function|batchExec_data
+DECL|function|bindBool
+DECL|function|bindBool_data
 DECL|function|bindWithDoubleColonCastOperator
 DECL|function|bindWithDoubleColonCastOperator_data
 DECL|function|bitField
