@@ -105,6 +105,7 @@ DECL|function|enabledPropagation
 DECL|function|enlargeMask
 DECL|function|ensureCreated
 DECL|function|ensureScreenSize
+DECL|function|enterEvent
 DECL|function|event
 DECL|function|event
 DECL|function|event
@@ -149,6 +150,7 @@ DECL|function|isOpaque
 DECL|function|isVisibleTo
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
+DECL|function|leaveEvent
 DECL|function|lenientCompare
 DECL|function|lostUpdatesOnHide
 DECL|function|lower
@@ -227,6 +229,7 @@ DECL|function|reparent
 DECL|function|reparentStaticWidget
 DECL|function|reset
 DECL|function|reset
+DECL|function|resetCounts
 DECL|function|resizeDown
 DECL|function|resizeEvent
 DECL|function|resizeEvent
@@ -337,12 +340,14 @@ DECL|member|color
 DECL|member|deleteThis
 DECL|member|edit
 DECL|member|ellipse
+DECL|member|enters
 DECL|member|eventToSpy
 DECL|member|events
 DECL|member|gotExpectedGlobalEvent
 DECL|member|gotExpectedMapNotify
 DECL|member|gotPaintEvent
 DECL|member|invalidated
+DECL|member|leaves
 DECL|member|lineEdit
 DECL|member|m_acceptMouse
 DECL|member|m_acceptTouch
