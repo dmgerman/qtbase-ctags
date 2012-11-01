@@ -21,8 +21,6 @@ DECL|function|detectArch
 DECL|function|displayConfig
 DECL|function|displayHelp
 DECL|function|filesDiffer
-DECL|function|findFile
-DECL|function|findFileInPaths
 DECL|function|findProjects
 DECL|function|firstLicensePath
 DECL|function|formatPath
@@ -39,8 +37,6 @@ DECL|function|generateSystemVars
 DECL|function|isDone
 DECL|function|isOk
 DECL|function|locateFile
-DECL|function|locateFileInPaths
-DECL|function|mingwPaths
 DECL|function|operator <<
 DECL|function|parseCmdLine
 DECL|function|platform
