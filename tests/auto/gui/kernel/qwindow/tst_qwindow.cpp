@@ -30,6 +30,7 @@ DECL|function|positioning
 DECL|function|received
 DECL|function|reset
 DECL|function|resetCounters
+DECL|function|sizes
 DECL|function|tabletEvent
 DECL|function|tabletEvents
 DECL|function|testInputEvents

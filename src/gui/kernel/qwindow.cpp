@@ -59,8 +59,12 @@ DECL|function|setFormat
 DECL|function|setFramePos
 DECL|function|setGeometry
 DECL|function|setKeyboardGrabEnabled
+DECL|function|setMaximumHeight
 DECL|function|setMaximumSize
+DECL|function|setMaximumWidth
+DECL|function|setMinimumHeight
 DECL|function|setMinimumSize
+DECL|function|setMinimumWidth
 DECL|function|setMouseGrabEnabled
 DECL|function|setOpacity
 DECL|function|setParent
