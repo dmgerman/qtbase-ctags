@@ -42,6 +42,7 @@ DECL|function|parseCmdLine
 DECL|function|platform
 DECL|function|platformName
 DECL|function|projectType
+DECL|function|promptKeyPress
 DECL|function|qpaPlatformName
 DECL|function|readLicense
 DECL|function|reloadCmdLine
