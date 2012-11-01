@@ -12,5 +12,8 @@ DECL|function|waitForNotified
 DECL|function|~QWinIoCompletionPort
 DECL|function|~QWinOverlappedIoNotifier
 DECL|member|hPort
+DECL|member|iocp
+DECL|member|iocpInstanceLock
+DECL|member|iocpInstanceRefCount
 DECL|member|mutex
 DECL|member|notifiers
