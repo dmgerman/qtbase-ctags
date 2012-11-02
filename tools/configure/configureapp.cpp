@@ -11,6 +11,7 @@ DECL|function|appendMakeItem
 DECL|function|applySpecSpecifics
 DECL|function|autoDetection
 DECL|function|buildQmake
+DECL|function|checkAngleAvailability
 DECL|function|checkAvailability
 DECL|function|compilerSupportsFlag
 DECL|function|defaultTo
