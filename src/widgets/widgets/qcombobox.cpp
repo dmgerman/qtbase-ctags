@@ -90,6 +90,7 @@ DECL|function|setAutoCompletionCaseSensitivity
 DECL|function|setCompleter
 DECL|function|setCurrentIndex
 DECL|function|setCurrentIndex
+DECL|function|setCurrentText
 DECL|function|setDuplicatesEnabled
 DECL|function|setEditText
 DECL|function|setEditable

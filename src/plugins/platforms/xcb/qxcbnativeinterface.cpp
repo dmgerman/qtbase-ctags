@@ -5,6 +5,7 @@ DECL|function|connectionForWindow
 DECL|function|displayForWindow
 DECL|function|eglContextForContext
 DECL|function|eglDisplayForWindow
+DECL|function|glxContextForContext
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForWindow
 DECL|function|nativeResourceFunctionForContext

@@ -22,7 +22,6 @@ DECL|member|doNotShowType
 DECL|member|errors
 DECL|member|icon
 DECL|member|ok
-DECL|member|okAction
 DECL|member|pending
 DECL|variable|metFatal
 DECL|variable|qtMessageHandler

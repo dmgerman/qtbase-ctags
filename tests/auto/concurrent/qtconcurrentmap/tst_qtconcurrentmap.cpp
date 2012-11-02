@@ -9,6 +9,7 @@ DECL|class|StringToInt
 DECL|class|tst_QtConcurrentMap
 DECL|function|InstanceCounter
 DECL|function|InstanceCounter
+DECL|function|LockedCounter
 DECL|function|MemFnTester
 DECL|function|add
 DECL|function|assignResult
@@ -49,6 +50,8 @@ DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|persistentResultTest
 DECL|function|qFutureAssignmentLeak
 DECL|function|sleeper
 DECL|function|slowMap
@@ -60,6 +63,10 @@ DECL|function|throttling
 DECL|function|throwMapper
 DECL|function|updatePeak
 DECL|function|~InstanceCounter
+DECL|member|mtx
+DECL|member|ref
+DECL|struct|LockedCounter
+DECL|typedef|result_type
 DECL|typedef|result_type
 DECL|typedef|result_type
 DECL|typedef|result_type

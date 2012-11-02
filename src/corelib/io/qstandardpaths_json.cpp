@@ -1,8 +1,0 @@
-DECL|class|QStandardPathsPrivate
-DECL|function|QStandardPathsPrivate
-DECL|function|appendOrganizationAndApp
-DECL|function|standardLocations
-DECL|function|substituteEnvVars
-DECL|function|writableLocation
-DECL|function|~QStandardPathsPrivate
-DECL|member|object

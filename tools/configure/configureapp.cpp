@@ -13,7 +13,6 @@ DECL|function|autoDetection
 DECL|function|buildQmake
 DECL|function|checkAvailability
 DECL|function|compilerSupportsFlag
-DECL|function|copySpec
 DECL|function|defaultTo
 DECL|function|desc
 DECL|function|desc
@@ -36,6 +35,7 @@ DECL|function|generateMakefiles
 DECL|function|generateOutputVars
 DECL|function|generateQConfigCpp
 DECL|function|generateQConfigPri
+DECL|function|generateSystemVars
 DECL|function|isDone
 DECL|function|isOk
 DECL|function|locateFile
@@ -52,6 +52,7 @@ DECL|function|reloadCmdLine
 DECL|function|saveCmdLine
 DECL|function|showLicense
 DECL|function|showSummary
+DECL|function|stripPrefix
 DECL|function|tokenLength
 DECL|function|tryCompileProject
 DECL|function|validateArgs

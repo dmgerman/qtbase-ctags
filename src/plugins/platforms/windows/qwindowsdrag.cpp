@@ -1,6 +1,8 @@
+DECL|class|DragCursorHandle
 DECL|class|QWindowsOleDropSource
 DECL|function|AddRef
 DECL|function|AddRef
+DECL|function|DragCursorHandle
 DECL|function|DragEnter
 DECL|function|DragLeave
 DECL|function|DragOver
@@ -14,11 +16,11 @@ DECL|function|QueryInterface
 DECL|function|QueryInterface
 DECL|function|Release
 DECL|function|Release
-DECL|function|clearCursors
 DECL|function|createCursors
 DECL|function|defaultCursor
 DECL|function|drag
 DECL|function|dropData
+DECL|function|dropHelper
 DECL|function|findDragOverWindow
 DECL|function|handleDrag
 DECL|function|instance
@@ -28,10 +30,13 @@ DECL|function|toQtKeyboardModifiers
 DECL|function|translateToQDragDropAction
 DECL|function|translateToQDragDropActions
 DECL|function|translateToWinDragEffects
+DECL|function|~DragCursorHandle
 DECL|function|~QWindowsDrag
 DECL|function|~QWindowsOleDropSource
 DECL|function|~QWindowsOleDropTarget
 DECL|macro|KEY_STATE_BUTTON_MASK
+DECL|member|cacheKey
+DECL|member|cursor
 DECL|member|m_currentButtons
 DECL|member|m_cursors
 DECL|member|m_drag

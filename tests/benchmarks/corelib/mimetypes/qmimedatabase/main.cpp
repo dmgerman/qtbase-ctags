@@ -1,0 +1,2 @@
+DECL|class|tst_QMimeDatabase
+DECL|function|inheritsPerformance

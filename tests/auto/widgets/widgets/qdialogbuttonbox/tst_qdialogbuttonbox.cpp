@@ -20,7 +20,6 @@ DECL|function|setOrientation
 DECL|function|setOrientation_data
 DECL|function|setStandardButtons
 DECL|function|setStandardButtons_data
-DECL|function|softKeyCount
 DECL|function|standardButtons
 DECL|function|task191642_default
 DECL|function|testConstructor1
@@ -36,7 +35,6 @@ DECL|function|testRemove
 DECL|function|testSignalOrder
 DECL|function|testSignals
 DECL|function|testSignals_data
-DECL|function|testSoftKeyReparenting
 DECL|function|testStandardButtonMapping
 DECL|function|testStandardButtonMapping_data
 DECL|function|tst_QDialogButtonBox

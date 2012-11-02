@@ -38,6 +38,7 @@ DECL|function|create
 DECL|function|create
 DECL|function|create
 DECL|function|createFile
+DECL|function|driveLetters
 DECL|function|encodeName
 DECL|function|entryList
 DECL|function|exists
@@ -59,6 +60,7 @@ DECL|function|i18nFileName_data
 DECL|function|ignore_invalid_parameter
 DECL|function|init
 DECL|function|initTestCase
+DECL|function|invalidDriveLetter
 DECL|function|invalidFile
 DECL|function|invalidFile_data
 DECL|function|isRelativePath

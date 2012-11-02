@@ -46,7 +46,6 @@ DECL|function|setShortcutContext
 DECL|function|setShortcutEnabled
 DECL|function|setShortcuts
 DECL|function|setShortcuts
-DECL|function|setSoftKeyRole
 DECL|function|setStatusTip
 DECL|function|setText
 DECL|function|setToolTip
@@ -57,7 +56,6 @@ DECL|function|shortcutContext
 DECL|function|shortcuts
 DECL|function|showStatusText
 DECL|function|showStatusText
-DECL|function|softKeyRole
 DECL|function|statusTip
 DECL|function|text
 DECL|function|toggle

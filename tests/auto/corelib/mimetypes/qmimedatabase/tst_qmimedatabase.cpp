@@ -10,7 +10,6 @@ DECL|function|findByFile_data
 DECL|function|fromThreads
 DECL|function|icons
 DECL|function|inheritance
-DECL|function|inheritsPerformance
 DECL|function|initTestCase
 DECL|function|initializeLang
 DECL|function|installNewGlobalMimeType

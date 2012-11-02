@@ -78,6 +78,7 @@ DECL|member|header
 DECL|member|iterator
 DECL|member|key
 DECL|member|left
+DECL|member|mostLeftNode
 DECL|member|operator
 DECL|member|p
 DECL|member|private

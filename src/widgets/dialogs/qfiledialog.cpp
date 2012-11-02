@@ -124,6 +124,7 @@ DECL|function|testOption
 DECL|function|typedFiles
 DECL|function|updateFileNameLabel
 DECL|function|updateOkButtonText
+DECL|function|userSelectedFiles
 DECL|function|viewMode
 DECL|function|workingDirectory
 DECL|function|~QFileDialog

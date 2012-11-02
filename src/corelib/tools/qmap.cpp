@@ -9,6 +9,7 @@ DECL|function|qMapAlignmentThreshold
 DECL|function|qMapAllocate
 DECL|function|qMapDeallocate
 DECL|function|rebalance
+DECL|function|recalcMostLeftNode
 DECL|function|rotateLeft
 DECL|function|rotateRight
 DECL|member|shared_null

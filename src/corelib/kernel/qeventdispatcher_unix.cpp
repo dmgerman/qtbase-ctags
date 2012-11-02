@@ -8,8 +8,10 @@ DECL|function|doSelect
 DECL|function|flush
 DECL|function|hasPendingEvents
 DECL|function|initThreadPipeFD
+DECL|function|initThreadWakeUp
 DECL|function|interrupt
 DECL|function|processEvents
+DECL|function|processThreadWakeUp
 DECL|function|registerSocketNotifier
 DECL|function|registerTimer
 DECL|function|registeredTimers

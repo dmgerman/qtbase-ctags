@@ -16,6 +16,8 @@ DECL|function|columnCount
 DECL|function|convenienceViews
 DECL|function|currentIndex
 DECL|function|currentIndex_data
+DECL|function|currentTextChanged
+DECL|function|currentTextChanged_data
 DECL|function|data
 DECL|function|editTextChanged
 DECL|function|ensureReturnIsIgnored
@@ -67,6 +69,8 @@ DECL|function|scrollTo
 DECL|function|separatorItem
 DECL|function|separatorItem_data
 DECL|function|setCurrentIndex
+DECL|function|setCurrentText
+DECL|function|setCurrentText_data
 DECL|function|setData
 DECL|function|setEditable
 DECL|function|setItemDelegate

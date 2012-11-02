@@ -51,6 +51,9 @@ DECL|function|findAmPm
 DECL|function|findDay
 DECL|function|findMonth
 DECL|function|fixedDate
+DECL|function|floordiv
+DECL|function|floordiv
+DECL|function|floordiv
 DECL|function|fmtDateTime
 DECL|function|fromMSecsSinceEpoch
 DECL|function|fromShortMonthName
