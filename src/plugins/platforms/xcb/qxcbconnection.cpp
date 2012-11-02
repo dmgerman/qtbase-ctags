@@ -1,6 +1,7 @@
 DECL|class|PropertyNotifyEvent
 DECL|function|PropertyNotifyEvent
 DECL|function|QXcbConnection
+DECL|function|QXcbEventReader
 DECL|function|addEvent
 DECL|function|addPeekFunc
 DECL|function|addWindow
@@ -31,6 +32,7 @@ DECL|function|processXcbEvents
 DECL|function|removeWindow
 DECL|function|run
 DECL|function|sendConnectionEvent
+DECL|function|startThread
 DECL|function|sync
 DECL|function|unlock
 DECL|function|updateScreens
