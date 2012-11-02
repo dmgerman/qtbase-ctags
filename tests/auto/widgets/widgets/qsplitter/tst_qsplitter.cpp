@@ -17,6 +17,7 @@ DECL|function|saveAndRestoreState
 DECL|function|saveAndRestoreStateOfNotYetShownSplitter
 DECL|function|saveAndRestoreState_data
 DECL|function|saveState_data
+DECL|function|setLayout
 DECL|function|setRubberBand
 DECL|function|setSizes
 DECL|function|setSizes_data
