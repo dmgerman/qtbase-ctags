@@ -107,6 +107,7 @@ DECL|function|connectDisconnectNotifyPMF
 DECL|function|connectDisconnectNotifyTestSlot
 DECL|function|connectDisconnectNotify_data
 DECL|function|connectDisconnectNotify_shadowing
+DECL|function|connectFunctorArgDifference
 DECL|function|connectManyArguments
 DECL|function|connectNotify
 DECL|function|connectNotify
@@ -203,6 +204,8 @@ DECL|function|on_Sender_signalWithParams
 DECL|function|on_bar_signal1
 DECL|function|on_baz_signal1
 DECL|function|on_foo_signal1
+DECL|function|operator ()
+DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
@@ -458,6 +461,8 @@ DECL|struct|CustomType
 DECL|struct|CustomTypeFunctor
 DECL|struct|Functor
 DECL|struct|IntFunctor
+DECL|struct|SlotFunctor
+DECL|struct|SlotFunctorString
 DECL|struct|StringFunctor
 DECL|struct|Struct
 DECL|struct|VariantFunctor
