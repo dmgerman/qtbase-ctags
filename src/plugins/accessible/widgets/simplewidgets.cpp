@@ -33,6 +33,7 @@ DECL|function|keyBindingsForAction
 DECL|function|keyBindingsForAction
 DECL|function|lineEdit
 DECL|function|maximumValue
+DECL|function|minimumStepSize
 DECL|function|minimumValue
 DECL|function|offsetAtPoint
 DECL|function|progressBar
