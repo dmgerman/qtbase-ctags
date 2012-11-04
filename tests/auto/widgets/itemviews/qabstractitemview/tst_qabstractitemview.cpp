@@ -34,6 +34,7 @@ DECL|function|columnDelegate
 DECL|function|createEditor
 DECL|function|ctrlA
 DECL|function|ctrlRubberbandSelection
+DECL|function|deselectInSingleSelection
 DECL|function|destroyEditor
 DECL|function|dragSelect
 DECL|function|emitDataChanged
