@@ -1,4 +1,5 @@
 DECL|class|QGuiGLThreadContext
+DECL|function|QGuiGLThreadContext
 DECL|function|QOpenGLContext
 DECL|function|QOpenGLContextGroup
 DECL|function|QOpenGLMultiGroupSharedResource
