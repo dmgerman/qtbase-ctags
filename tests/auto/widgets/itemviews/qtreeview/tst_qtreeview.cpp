@@ -185,6 +185,7 @@ DECL|function|taskQTBUG_13567_removeLastItemRegression
 DECL|function|taskQTBUG_18539_emitLayoutChanged
 DECL|function|taskQTBUG_25333_adjustViewOptionsForIndex
 DECL|function|taskQTBUG_6450_selectAllWith1stColumnHidden
+DECL|function|taskQTBUG_8176_emitOnExpandAll
 DECL|function|taskQTBUG_9216_setSizeAndUniformRowHeightsWrongRepaint
 DECL|function|tst_QTreeView
 DECL|function|viewOptions
