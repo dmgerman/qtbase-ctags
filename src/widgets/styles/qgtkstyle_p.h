@@ -94,7 +94,6 @@ DECL|typedef|Ptr_gtk_paint_shadow
 DECL|typedef|Ptr_gtk_paint_slider
 DECL|typedef|Ptr_gtk_paint_vline
 DECL|typedef|Ptr_gtk_progress_bar_new
-DECL|typedef|Ptr_gtk_progress_configure
 DECL|typedef|Ptr_gtk_radio_button_new
 DECL|typedef|Ptr_gtk_range_get_adjustment
 DECL|typedef|Ptr_gtk_range_set_adjustment

@@ -124,7 +124,6 @@ DECL|member|gtk_paint_shadow
 DECL|member|gtk_paint_slider
 DECL|member|gtk_paint_vline
 DECL|member|gtk_progress_bar_new
-DECL|member|gtk_progress_configure
 DECL|member|gtk_radio_button_new
 DECL|member|gtk_range_get_adjustment
 DECL|member|gtk_range_set_adjustment
