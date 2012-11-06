@@ -13,7 +13,6 @@ DECL|function|bindDefault
 DECL|function|blitFramebuffer
 DECL|function|blitFramebuffer
 DECL|function|checkFramebufferStatus
-DECL|function|convertFromGLImage
 DECL|function|detach
 DECL|function|format
 DECL|function|freeFramebufferFunc
