@@ -44,6 +44,7 @@ DECL|typedef|Ptr_gtk_check_menu_item_new_with_label
 DECL|typedef|Ptr_gtk_check_version
 DECL|typedef|Ptr_gtk_combo_box_entry_new
 DECL|typedef|Ptr_gtk_combo_box_new
+DECL|typedef|Ptr_gtk_combo_box_new_with_entry
 DECL|typedef|Ptr_gtk_container_add
 DECL|typedef|Ptr_gtk_container_forall
 DECL|typedef|Ptr_gtk_container_get_type
