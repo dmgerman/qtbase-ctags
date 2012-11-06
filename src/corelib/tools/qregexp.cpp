@@ -143,7 +143,6 @@ DECL|function|prepareEngine
 DECL|function|prepareEngineForMatch
 DECL|function|prepareEngine_helper
 DECL|function|prepareForMatch
-DECL|function|qHash
 DECL|function|qt_regexp_toCanonical
 DECL|function|set
 DECL|function|set
