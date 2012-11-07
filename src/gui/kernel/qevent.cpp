@@ -7,6 +7,7 @@ DECL|function|QDragEnterEvent
 DECL|function|QDragLeaveEvent
 DECL|function|QDragMoveEvent
 DECL|function|QDropEvent
+DECL|function|QEnterEvent
 DECL|function|QExposeEvent
 DECL|function|QFileOpenEvent
 DECL|function|QFileOpenEvent
@@ -117,6 +118,7 @@ DECL|function|~QDragEnterEvent
 DECL|function|~QDragLeaveEvent
 DECL|function|~QDragMoveEvent
 DECL|function|~QDropEvent
+DECL|function|~QEnterEvent
 DECL|function|~QExposeEvent
 DECL|function|~QFileOpenEvent
 DECL|function|~QFocusEvent
