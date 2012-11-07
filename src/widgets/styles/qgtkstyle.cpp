@@ -17,6 +17,8 @@ DECL|function|polish
 DECL|function|polish
 DECL|function|polish
 DECL|function|qt_gtk_draw_mdibutton
+DECL|function|qt_gtk_get_icon
+DECL|function|qt_gtk_state
 DECL|function|sizeFromContents
 DECL|function|standardIcon
 DECL|function|standardPalette

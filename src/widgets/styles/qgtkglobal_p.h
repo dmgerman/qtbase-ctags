@@ -1,0 +1,14 @@
+DECL|macro|GTK_ALPHA
+DECL|macro|GTK_BLUE
+DECL|macro|GTK_GREEN
+DECL|macro|GTK_OBJECT_FLAGS
+DECL|macro|GTK_OBJECT_FLAGS
+DECL|macro|GTK_RED
+DECL|macro|QGTKGLOBAL_P_H
+DECL|macro|QLS
+DECL|macro|QT_ALPHA
+DECL|macro|QT_BLUE
+DECL|macro|QT_GREEN
+DECL|macro|QT_RED
+DECL|macro|signals
+DECL|typedef|XID
