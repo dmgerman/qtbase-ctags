@@ -7,6 +7,7 @@ DECL|function|hasTracking
 DECL|function|invertedAppearance
 DECL|function|invertedControls
 DECL|function|isSliderDown
+DECL|function|itemviewChangeSingleStep
 DECL|function|keyPressEvent
 DECL|function|maximum
 DECL|function|minimum

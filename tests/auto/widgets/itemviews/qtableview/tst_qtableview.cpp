@@ -165,6 +165,7 @@ DECL|function|taskQTBUG_30653_doItemsLayout
 DECL|function|taskQTBUG_4516_clickOnRichTextLabel
 DECL|function|taskQTBUG_5062_spansInconsistency
 DECL|function|taskQTBUG_5237_wheelEventOnHeader
+DECL|function|taskQTBUG_7232_AllowUserToControlSingleStep
 DECL|function|taskQTBUG_7774_RtoLVisualRegionForSelection
 DECL|function|taskQTBUG_8585_crashForNoGoodReason
 DECL|function|taskQTBUG_8777_scrollToSpans

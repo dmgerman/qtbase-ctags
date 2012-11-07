@@ -108,6 +108,7 @@ DECL|function|taskQTBUG_39902_mutualScrollBars_data
 DECL|function|taskQTBUG_435_deselectOnViewportClick
 DECL|function|taskQTBUG_5877_skippingItemInPageDownUp
 DECL|function|taskQTBUG_633_changeModelData
+DECL|function|taskQTBUG_7232_AllowUserToControlSingleStep
 DECL|function|taskQTBUG_9455_wrongScrollbarRanges
 DECL|function|testScrollToWithHidden
 DECL|function|testViewOptions

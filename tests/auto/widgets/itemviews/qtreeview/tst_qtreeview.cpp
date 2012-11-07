@@ -193,6 +193,7 @@ DECL|function|taskQTBUG_25333_adjustViewOptionsForIndex
 DECL|function|taskQTBUG_37813_crash
 DECL|function|taskQTBUG_45697_crash
 DECL|function|taskQTBUG_6450_selectAllWith1stColumnHidden
+DECL|function|taskQTBUG_7232_AllowUserToControlSingleStep
 DECL|function|taskQTBUG_8176_emitOnExpandAll
 DECL|function|taskQTBUG_9216_setSizeAndUniformRowHeightsWrongRepaint
 DECL|function|testInitialFocus
