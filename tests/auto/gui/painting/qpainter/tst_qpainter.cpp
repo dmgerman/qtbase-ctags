@@ -65,6 +65,7 @@ DECL|function|drawPath3
 DECL|function|drawPath_data
 DECL|function|drawPixmap
 DECL|function|drawPixmapFragments
+DECL|function|drawPixmapNegativeScale
 DECL|function|drawPixmap_comp
 DECL|function|drawPixmap_comp_data
 DECL|function|drawPointScaled
