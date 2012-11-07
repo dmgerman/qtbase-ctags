@@ -5,6 +5,7 @@ DECL|function|MainWindow
 DECL|function|delayedMouseGrab
 DECL|function|delayedMouseWindowGrab
 DECL|function|eventFilter
+DECL|function|forceNativeWidgets
 DECL|function|grabKeyboardWindowToggled
 DECL|function|grabMouseWindowToggled
 DECL|function|keyboardGrabToggled
@@ -14,6 +15,8 @@ DECL|function|mousePressEvent
 DECL|function|showModalDialog
 DECL|function|toggleKeyboardWidgetGrab
 DECL|function|toggleMouseWidgetGrab
+DECL|member|m_enterLeaveEventCount
+DECL|member|m_forceNativeButton
 DECL|member|m_grabKeyboardCheckBox
 DECL|member|m_grabKeyboardWindowCheckBox
 DECL|member|m_grabMouseCheckBox
