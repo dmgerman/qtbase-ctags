@@ -70,6 +70,7 @@ DECL|member|db
 DECL|member|dbproc
 DECL|member|errorMsgs
 DECL|member|hostName
+DECL|member|initialized
 DECL|member|lastError
 DECL|member|login
 DECL|member|login

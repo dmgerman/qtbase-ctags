@@ -19,6 +19,8 @@ DECL|function|createTestTables
 DECL|function|db2_valueCacheUpdate
 DECL|function|db2_valueCacheUpdate_data
 DECL|function|dropTestTables
+DECL|function|errorReporting
+DECL|function|errorReporting_data
 DECL|function|eventNotification
 DECL|function|eventNotificationIBase
 DECL|function|eventNotificationIBase_data
