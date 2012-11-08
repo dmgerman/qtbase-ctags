@@ -29,7 +29,6 @@ DECL|function|progressText
 DECL|function|progressValue
 DECL|function|queryState
 DECL|function|refT
-DECL|function|referenceCountIsOne
 DECL|function|reportCanceled
 DECL|function|reportException
 DECL|function|reportFinished
