@@ -38,6 +38,7 @@ DECL|macro|PUT_CHAR
 DECL|macro|SKIP_CHAR
 DECL|macro|SKIP_SPACES
 DECL|member|accum
+DECL|member|debug
 DECL|member|dot
 DECL|member|extractedDirs
 DECL|member|generateExamples
