@@ -74,6 +74,7 @@ DECL|function|x
 DECL|function|x
 DECL|function|xaxisQPointInterpolator
 DECL|function|y
+DECL|function|zeroDurationForwardBackward
 DECL|function|zeroDurationStart
 DECL|function|zeroLoopCount
 DECL|macro|Pause
