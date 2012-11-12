@@ -1,3 +1,4 @@
+DECL|class|ExposeCompressor
 DECL|enumerator|MWM_DECOR_ALL
 DECL|enumerator|MWM_DECOR_BORDER
 DECL|enumerator|MWM_DECOR_MAXIMIZE
@@ -17,8 +18,10 @@ DECL|enumerator|MWM_HINTS_INPUT_MODE
 DECL|enumerator|MWM_INPUT_FULL_APPLICATION_MODAL
 DECL|enumerator|MWM_INPUT_MODELESS
 DECL|enumerator|MWM_INPUT_PRIMARY_APPLICATION_MODAL
+DECL|function|ExposeCompressor
 DECL|function|QXcbWindow
 DECL|function|changeNetWmState
+DECL|function|checkEvent
 DECL|function|create
 DECL|function|destroy
 DECL|function|eglSurface
@@ -47,6 +50,7 @@ DECL|function|isExposed
 DECL|function|isTransient
 DECL|function|lower
 DECL|function|netWmStates
+DECL|function|pending
 DECL|function|positionIncludesFrame
 DECL|function|propagateSizeHints
 DECL|function|qRectToXCBRectangle
@@ -105,5 +109,8 @@ DECL|member|decorations
 DECL|member|flags
 DECL|member|functions
 DECL|member|input_mode
+DECL|member|m_pending
+DECL|member|m_region
+DECL|member|m_window
 DECL|member|status
 DECL|struct|QtMotifWmHints
