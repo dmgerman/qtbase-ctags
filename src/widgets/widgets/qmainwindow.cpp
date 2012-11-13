@@ -63,6 +63,7 @@ DECL|function|toolButtonStyle
 DECL|function|unifiedTitleAndToolBarOnMac
 DECL|function|~QMainWindow
 DECL|member|activateUnifiedToolbarAfterFullScreen
+DECL|member|adjustedCursor
 DECL|member|explicitIconSize
 DECL|member|hoverPos
 DECL|member|hoverSeparator
