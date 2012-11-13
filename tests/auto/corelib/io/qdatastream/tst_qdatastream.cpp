@@ -15,6 +15,7 @@ DECL|function|cleanupTestCase
 DECL|function|compatibility_Qt2
 DECL|function|compatibility_Qt3
 DECL|function|dataIndex
+DECL|function|floatingPointNaN
 DECL|function|floatingPointPrecision
 DECL|function|getSetCheck
 DECL|function|isSequential
