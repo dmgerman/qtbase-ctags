@@ -1,3 +1,4 @@
+DECL|class|BlinkTestLineEdit
 DECL|class|InputMaskValidator
 DECL|class|LineEdit
 DECL|class|QIntFixValidator
@@ -82,12 +83,14 @@ DECL|function|maxLengthAndInputMask
 DECL|function|maxLength_data
 DECL|function|maxLength_mask
 DECL|function|maxLength_mask_data
+DECL|function|noCursorBlinkWhenReadOnly
 DECL|function|noTextEditedOnClear
 DECL|function|onCursorPositionChanged
 DECL|function|onReturnPressed
 DECL|function|onSelectionChanged
 DECL|function|onTextChanged
 DECL|function|onTextEdited
+DECL|function|paintEvent
 DECL|function|paintEvent
 DECL|function|passwordEchoDelay
 DECL|function|passwordEchoOnEdit
@@ -170,6 +173,7 @@ DECL|member|selection_count
 DECL|member|state
 DECL|member|testWidget
 DECL|member|updateRegion
+DECL|member|updates
 DECL|member|validInput
 DECL|member|validatePos
 DECL|member|validateText

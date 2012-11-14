@@ -35,9 +35,9 @@ DECL|function|processKeyEvent
 DECL|function|processShortcutOverrideEvent
 DECL|function|redoTextLayout
 DECL|function|removeSelectedText
-DECL|function|resetCursorBlinkTimer
 DECL|function|selectWordAtPos
 DECL|function|setCursorBlinkPeriod
+DECL|function|setReadOnly
 DECL|function|setSelection
 DECL|function|stripString
 DECL|function|timerEvent
