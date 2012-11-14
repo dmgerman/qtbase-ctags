@@ -3,7 +3,6 @@ DECL|class|Locale
 DECL|class|StringData
 DECL|class|StringDataToken
 DECL|function|assertSingleChar
-DECL|function|check_static_char_array_length
 DECL|function|compareLocaleKeys
 DECL|function|convertFormat
 DECL|function|convertToQtDayOfWeek
