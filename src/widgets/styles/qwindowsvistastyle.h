@@ -1,2 +1,0 @@
-DECL|macro|QWINDOWSVISTASTYLE_H
-DECL|variable|QWindowsVistaStylePrivate
