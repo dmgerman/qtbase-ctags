@@ -2,6 +2,7 @@ DECL|class|QSqlDriverPrivate
 DECL|function|QSqlDriver
 DECL|function|QSqlDriverPrivate
 DECL|function|beginTransaction
+DECL|function|cancelQuery
 DECL|function|commitTransaction
 DECL|function|escapeIdentifier
 DECL|function|formatValue
