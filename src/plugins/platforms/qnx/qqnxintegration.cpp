@@ -20,6 +20,7 @@ DECL|function|removeWindow
 DECL|function|screenForNative
 DECL|function|services
 DECL|function|styleHint
+DECL|function|supportsNavigatorEvents
 DECL|function|themeNames
 DECL|function|window
 DECL|function|~QQnxIntegration
