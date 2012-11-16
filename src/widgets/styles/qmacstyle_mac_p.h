@@ -1,11 +1,5 @@
-DECL|enumerator|QAquaSizeLarge
-DECL|enumerator|QAquaSizeMini
-DECL|enumerator|QAquaSizeSmall
-DECL|enumerator|QAquaSizeUnknown
-DECL|enum|QAquaWidgetSize
-DECL|macro|CT1
-DECL|macro|CT2
 DECL|macro|QMACSTYLE_MAC_P_H
-DECL|macro|SIZE
-DECL|macro|check
-DECL|macro|return_SIZE
+DECL|variable|QMacStylePrivate
+DECL|variable|QPalette
+DECL|variable|QPushButton
+DECL|variable|QStyleOptionButton
