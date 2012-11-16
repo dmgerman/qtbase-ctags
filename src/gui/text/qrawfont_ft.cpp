@@ -1,6 +1,0 @@
-DECL|class|QFontEngineFTRawFont
-DECL|function|QFontEngineFTRawFont
-DECL|function|initFromData
-DECL|function|platformCleanUp
-DECL|function|platformLoadFromData
-DECL|function|updateFamilyNameAndStyle
