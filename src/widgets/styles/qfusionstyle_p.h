@@ -1,1 +1,2 @@
 DECL|macro|QFUSIONSTYLE_P_H
+DECL|variable|QFusionStylePrivate

@@ -1,2 +1,0 @@
-DECL|macro|QFUSIONSTYLE_H
-DECL|variable|QFusionStylePrivate
