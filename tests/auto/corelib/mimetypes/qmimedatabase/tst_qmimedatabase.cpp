@@ -15,6 +15,8 @@ DECL|function|initializeLang
 DECL|function|installNewGlobalMimeType
 DECL|function|installNewLocalMimeType
 DECL|function|knownSuffix
+DECL|function|listAliases
+DECL|function|listAliases_data
 DECL|function|mimeTypeForData
 DECL|function|mimeTypeForData_data
 DECL|function|mimeTypeForFileAndContent

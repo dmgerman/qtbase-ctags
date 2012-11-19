@@ -33,6 +33,8 @@ DECL|function|iconForMime
 DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid
+DECL|function|listAliases
+DECL|function|listAliases
 DECL|function|load
 DECL|function|load
 DECL|function|load

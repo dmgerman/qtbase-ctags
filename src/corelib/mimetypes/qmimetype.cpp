@@ -4,6 +4,7 @@ DECL|function|QMimeType
 DECL|function|QMimeTypePrivate
 DECL|function|QMimeTypePrivate
 DECL|function|addGlobPattern
+DECL|function|aliases
 DECL|function|allAncestors
 DECL|function|clear
 DECL|function|collectParentMimeTypes
