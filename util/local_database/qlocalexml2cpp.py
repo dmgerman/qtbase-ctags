@@ -18,8 +18,8 @@ DECL|function|fixedScriptName
 DECL|function|languageCount
 DECL|function|languageNameToId
 DECL|function|loadCountryMap
-DECL|function|loadDefaultMap
 DECL|function|loadLanguageMap
+DECL|function|loadLikelySubtagsMap
 DECL|function|loadLocaleMap
 DECL|function|loadScriptMap
 DECL|function|main

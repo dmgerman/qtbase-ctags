@@ -1,3 +1,4 @@
+DECL|function|_parseLocale
 DECL|function|addEscapes
 DECL|function|findEntryDef
 DECL|function|fixOrdStrExp
@@ -27,3 +28,6 @@ DECL|variable|l
 DECL|variable|ldml
 DECL|variable|locale_database
 DECL|variable|locale_keys
+DECL|variable|tmp
+DECL|variable|to_country
+DECL|variable|to_script
