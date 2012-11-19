@@ -7,6 +7,7 @@ DECL|function|eglContextForContext
 DECL|function|eglDisplayForWindow
 DECL|function|glxContextForContext
 DECL|function|nativeResourceForContext
+DECL|function|nativeResourceForScreen
 DECL|function|nativeResourceForWindow
 DECL|function|nativeResourceFunctionForContext
 DECL|function|qPlatformScreenForWindow
