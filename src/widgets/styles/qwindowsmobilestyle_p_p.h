@@ -1,0 +1,3 @@
+DECL|macro|QWINDOWSMOBILESTYLE_P_P_H
+DECL|variable|QStyleOptionSlider
+DECL|variable|QStyleOptionTab
