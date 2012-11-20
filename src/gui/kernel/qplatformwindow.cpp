@@ -1,4 +1,5 @@
 DECL|function|QPlatformWindow
+DECL|function|devicePixelRatio
 DECL|function|format
 DECL|function|frameMargins
 DECL|function|frameStrutEventsEnabled

@@ -8,6 +8,7 @@ DECL|member|colortable
 DECL|member|data
 DECL|member|depth
 DECL|member|detach_no
+DECL|member|devicePixelRatio
 DECL|member|dpmx
 DECL|member|dpmy
 DECL|member|format
@@ -15,6 +16,8 @@ DECL|member|has_alpha_clut
 DECL|member|height
 DECL|member|is_cached
 DECL|member|is_locked
+DECL|member|ldpmx
+DECL|member|ldpmy
 DECL|member|nbytes
 DECL|member|offset
 DECL|member|own_data

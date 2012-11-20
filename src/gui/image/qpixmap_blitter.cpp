@@ -2,6 +2,7 @@ DECL|function|QBlittablePlatformPixmap
 DECL|function|blittable
 DECL|function|buffer
 DECL|function|clipAndTransformRect
+DECL|function|devicePixelRatio
 DECL|function|fill
 DECL|function|fromImage
 DECL|function|hasAlphaChannel
@@ -12,6 +13,7 @@ DECL|function|overlay
 DECL|function|paintEngine
 DECL|function|resize
 DECL|function|setBlittable
+DECL|function|setDevicePixelRatio
 DECL|function|toImage
 DECL|function|unmarkRasterOverlayImpl
 DECL|function|unmergeOverlay

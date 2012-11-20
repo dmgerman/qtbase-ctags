@@ -92,6 +92,7 @@ DECL|function|fontInfo
 DECL|function|fontMetrics
 DECL|function|generateWavyPixmap
 DECL|function|hasClipping
+DECL|function|hidpiScaleTransform
 DECL|function|init
 DECL|function|initFrom
 DECL|function|isActive

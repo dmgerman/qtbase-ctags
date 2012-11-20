@@ -19,6 +19,7 @@ DECL|function|compressEvent
 DECL|function|createEventDispatcher
 DECL|function|createPlatformIntegration
 DECL|function|desktopSettingsAware
+DECL|function|devicePixelRatio
 DECL|function|emitLastWindowClosed
 DECL|function|event
 DECL|function|exec

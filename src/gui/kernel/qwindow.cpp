@@ -9,6 +9,7 @@ DECL|function|contentOrientation
 DECL|function|create
 DECL|function|cursor
 DECL|function|destroy
+DECL|function|devicePixelRatio
 DECL|function|event
 DECL|function|exposeEvent
 DECL|function|filePath

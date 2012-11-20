@@ -3,6 +3,7 @@ DECL|function|buffer
 DECL|function|copy
 DECL|function|createCompatiblePlatformPixmap
 DECL|function|createPixmapForImage
+DECL|function|devicePixelRatio
 DECL|function|fill
 DECL|function|fromData
 DECL|function|fromImage
@@ -14,6 +15,7 @@ DECL|function|qt_toRasterPixmap
 DECL|function|qt_toRasterPixmap
 DECL|function|resize
 DECL|function|scroll
+DECL|function|setDevicePixelRatio
 DECL|function|toImage
 DECL|function|toImage
 DECL|function|~QRasterPlatformPixmap

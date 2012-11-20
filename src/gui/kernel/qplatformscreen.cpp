@@ -1,5 +1,6 @@
 DECL|function|QPlatformScreen
 DECL|function|cursor
+DECL|function|devicePixelRatio
 DECL|function|grabWindow
 DECL|function|logicalDpi
 DECL|function|nativeOrientation

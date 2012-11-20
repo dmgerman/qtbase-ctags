@@ -250,6 +250,7 @@ DECL|function|setStatusTip
 DECL|function|setStyle
 DECL|function|setStyleSheet
 DECL|function|setStyle_helper
+DECL|function|setSystemClip
 DECL|function|setTabOrder
 DECL|function|setToolTip
 DECL|function|setUpdatesEnabled

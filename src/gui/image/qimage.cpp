@@ -55,6 +55,7 @@ DECL|function|createMaskFromColor
 DECL|function|depth
 DECL|function|detach
 DECL|function|devType
+DECL|function|devicePixelRatio
 DECL|function|dither_to_Mono
 DECL|function|doImageIO
 DECL|function|dotsPerMeterX
@@ -110,6 +111,7 @@ DECL|function|setAlphaChannel
 DECL|function|setColor
 DECL|function|setColorCount
 DECL|function|setColorTable
+DECL|function|setDevicePixelRatio
 DECL|function|setDotsPerMeterX
 DECL|function|setDotsPerMeterY
 DECL|function|setOffset

@@ -15,6 +15,7 @@ DECL|function|defaultDepth
 DECL|function|depth
 DECL|function|detach
 DECL|function|devType
+DECL|function|devicePixelRatio
 DECL|function|doImageIO
 DECL|function|doInit
 DECL|function|fill
@@ -48,6 +49,7 @@ DECL|function|scaled
 DECL|function|scaledToHeight
 DECL|function|scaledToWidth
 DECL|function|scroll
+DECL|function|setDevicePixelRatio
 DECL|function|setMask
 DECL|function|size
 DECL|function|toImage

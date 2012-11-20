@@ -5,6 +5,7 @@ DECL|function|availableSize
 DECL|function|availableVirtualGeometry
 DECL|function|availableVirtualSize
 DECL|function|depth
+DECL|function|devicePixelRatio
 DECL|function|geometry
 DECL|function|grabWindow
 DECL|function|handle
