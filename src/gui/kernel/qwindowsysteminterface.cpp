@@ -1,6 +1,7 @@
 DECL|function|ExposeEvent
 DECL|function|convertTouchPoints
 DECL|function|flushWindowSystemEvents
+DECL|function|getNonUserInputWindowSystemEvent
 DECL|function|getWindowSystemEvent
 DECL|function|handleCloseEvent
 DECL|function|handleContextMenuEvent
