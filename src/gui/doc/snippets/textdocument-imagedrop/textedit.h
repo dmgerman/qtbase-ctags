@@ -1,0 +1,1 @@
+DECL|macro|TEXTEDIT_H

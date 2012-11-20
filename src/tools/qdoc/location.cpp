@@ -10,6 +10,7 @@ DECL|function|fileName
 DECL|function|information
 DECL|function|initialize
 DECL|function|internalError
+DECL|function|logToStdErr
 DECL|function|operator =
 DECL|function|pop
 DECL|function|push
@@ -18,6 +19,7 @@ DECL|function|terminate
 DECL|function|toString
 DECL|function|top
 DECL|function|warning
+DECL|member|logProgress_
 DECL|member|null
 DECL|member|programName
 DECL|member|spuriousRegExp

@@ -61,4 +61,12 @@ DECL|macro|CONFIG_URL
 DECL|macro|CONFIG_VERSION
 DECL|macro|CONFIG_VERSIONSYM
 DECL|typedef|QString
-DECL|typedef|QStringMultiMap
+DECL|typedef|QString
+DECL|typedef|QString
+DECL|typedef|QString
+DECL|typedef|QString
+DECL|typedef|QStringListPair
+DECL|typedef|QStringListPairMap
+DECL|typedef|QStringPair
+DECL|typedef|QStringPairMap
+DECL|typedef|QStringPairMultiMap
