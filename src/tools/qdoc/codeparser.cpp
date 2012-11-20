@@ -1,4 +1,5 @@
 DECL|function|CodeParser
+DECL|function|checkModuleInclusion
 DECL|function|commonMetaCommands
 DECL|function|doneParsingHeaderFiles
 DECL|function|extractPageLinkAndDesc

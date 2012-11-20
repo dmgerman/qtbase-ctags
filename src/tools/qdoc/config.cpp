@@ -17,6 +17,8 @@ DECL|function|getFilesHere
 DECL|function|getInt
 DECL|function|getOutputDir
 DECL|function|getOutputFormats
+DECL|function|getPath
+DECL|function|getPathList
 DECL|function|getRegExp
 DECL|function|getRegExpList
 DECL|function|getString
@@ -27,7 +29,9 @@ DECL|function|load
 DECL|function|load
 DECL|function|numParams
 DECL|function|open
+DECL|function|popWorkingDir
 DECL|function|process
+DECL|function|pushWorkingDir
 DECL|function|removeDirContents
 DECL|function|setStringList
 DECL|function|subVars
@@ -46,3 +50,4 @@ DECL|member|next
 DECL|member|numInstances
 DECL|member|overrideOutputDir
 DECL|member|overrideOutputFormats
+DECL|member|workingDirs_
