@@ -6,6 +6,7 @@ DECL|class|Composite
 DECL|class|Container
 DECL|class|ContentsPropagationWidget
 DECL|class|CustomWidget
+DECL|class|DestroyTester
 DECL|class|DestroyedSlotChecker
 DECL|class|EnterTestMainDialog
 DECL|class|EnterTestModalDialog
@@ -43,6 +44,7 @@ DECL|function|Composite
 DECL|function|Container
 DECL|function|ContentsPropagationWidget
 DECL|function|CustomWidget
+DECL|function|DestroyTester
 DECL|function|DestroyedSlotChecker
 DECL|function|EnterTestMainDialog
 DECL|function|EnterTestModalDialog
@@ -100,6 +102,7 @@ DECL|function|customDpiProperty
 DECL|function|deleteBackingStore
 DECL|function|deleteStyle
 DECL|function|destroyBackingStore
+DECL|function|destroyedSignal
 DECL|function|destroyedSlot
 DECL|function|doMouseMoves
 DECL|function|doubleRepaint
@@ -206,6 +209,7 @@ DECL|function|paintEvent
 DECL|function|paintOnScreenPossible
 DECL|function|palettePropagation
 DECL|function|palettePropagation2
+DECL|function|parentDestroyedSlot
 DECL|function|persistentWinId
 DECL|function|popupEnterLeave
 DECL|function|properTabHandlingWhenDisabled_QTBUG27417
@@ -383,6 +387,8 @@ DECL|member|paintedRegion
 DECL|member|paintedRegion
 DECL|member|paintedRegion
 DECL|member|paintedRegion
+DECL|member|parentDestroyed
+DECL|member|parentDestroyed
 DECL|member|partial
 DECL|member|points
 DECL|member|r
