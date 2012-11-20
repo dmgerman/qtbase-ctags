@@ -55,6 +55,7 @@ DECL|function|writeAttributesWithSpace
 DECL|function|writeData
 DECL|function|writeWithCodec
 DECL|function|writeWithStandalone
+DECL|function|writeWithUtf16Codec
 DECL|function|writeWithUtf8Codec
 DECL|function|writerAutoEmptyTags
 DECL|function|writerAutoFormattingWithComments

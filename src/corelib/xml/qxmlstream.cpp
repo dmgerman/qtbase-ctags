@@ -38,6 +38,7 @@ DECL|function|attributes
 DECL|function|autoFormatting
 DECL|function|autoFormattingIndent
 DECL|function|characterOffset
+DECL|function|checkIfASCIICompatibleCodec
 DECL|function|checkPublicLiteral
 DECL|function|checkStartDocument
 DECL|function|clear
