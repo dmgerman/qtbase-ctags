@@ -1,3 +1,5 @@
+DECL|class|BpsChannelScopeSwitcher
+DECL|function|BpsChannelScopeSwitcher
 DECL|function|QEventDispatcherBlackberry
 DECL|function|QEventDispatcherBlackberry
 DECL|function|QEventDispatcherBlackberryPrivate
@@ -10,12 +12,15 @@ DECL|function|registerSocketNotifier
 DECL|function|select
 DECL|function|unregisterSocketNotifier
 DECL|function|wakeUp
+DECL|function|~BpsChannelScopeSwitcher
 DECL|function|~QEventDispatcherBlackberry
 DECL|function|~QEventDispatcherBlackberryPrivate
 DECL|macro|qEventDispatcherDebug
 DECL|macro|qEventDispatcherDebug
 DECL|member|count
 DECL|member|exceptfds
+DECL|member|innerChannel
+DECL|member|outerChannel
 DECL|member|readfds
 DECL|member|writefds
 DECL|struct|bpsIOHandlerData
