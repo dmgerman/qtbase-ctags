@@ -10,6 +10,7 @@ DECL|function|readFile
 DECL|function|readFile_data
 DECL|function|waitForNotified
 DECL|function|waitForNotified_data
+DECL|macro|PIPE_REJECT_REMOTE_CLIENTS
 DECL|member|bytes
 DECL|member|errorCode
 DECL|member|notifications
