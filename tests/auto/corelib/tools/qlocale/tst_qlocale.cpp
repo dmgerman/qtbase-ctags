@@ -24,6 +24,7 @@ DECL|function|formatTime_data
 DECL|function|fpExceptions
 DECL|function|getWinLocaleInfo
 DECL|function|initTestCase
+DECL|function|legacyNames
 DECL|function|listPatterns
 DECL|function|long_long_conversion
 DECL|function|long_long_conversion_data
@@ -55,6 +56,10 @@ DECL|function|windowsDefaultLocale
 DECL|function|~RestoreLocaleHelper
 DECL|macro|MY_DOUBLE_EPSILON
 DECL|macro|QT_USE_FENV
+DECL|macro|TEST_CTOR
+DECL|macro|TEST_CTOR
+DECL|macro|TEST_CTOR
+DECL|macro|TEST_CTOR
 DECL|macro|TEST_CTOR
 DECL|macro|TEST_CTOR
 DECL|macro|TEST_CTOR
