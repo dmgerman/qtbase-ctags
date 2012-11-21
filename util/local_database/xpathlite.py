@@ -2,6 +2,7 @@ DECL|class|DraftResolution
 DECL|class|Error
 DECL|function|_findEntry
 DECL|function|_findEntryInFile
+DECL|function|_fixedLookupChain
 DECL|function|findAlias
 DECL|function|findChild
 DECL|function|findEntry
@@ -15,5 +16,6 @@ DECL|variable|_values
 DECL|variable|approved
 DECL|variable|contributed
 DECL|variable|doc_cache
+DECL|variable|parent_locales
 DECL|variable|provisional
 DECL|variable|unconfirmed
