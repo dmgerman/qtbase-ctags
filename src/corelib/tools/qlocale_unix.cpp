@@ -1,11 +1,11 @@
-DECL|function|QBBLocaleData
+DECL|function|QQNXLocaleData
 DECL|function|QSystemLocaleData
 DECL|function|fallbackUiLocale
 DECL|function|query
 DECL|function|readEnvironment
 DECL|function|readPPSLocale
-DECL|function|updateMesurementSystem
-DECL|function|~QBBLocaleData
+DECL|function|updateMeasurementSystem
+DECL|function|~QQNXLocaleData
 DECL|member|lc_measurement_var
 DECL|member|lc_messages
 DECL|member|lc_messages_var
