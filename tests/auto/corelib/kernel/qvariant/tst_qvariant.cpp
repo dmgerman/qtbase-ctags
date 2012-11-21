@@ -83,7 +83,10 @@ DECL|function|podUserType
 DECL|function|qvariant_cast_QObject
 DECL|function|qvariant_cast_QObject_data
 DECL|function|qvariant_cast_QObject_derived
+DECL|function|saveInvalid
+DECL|function|saveInvalid_data
 DECL|function|saveLoadCustomTypes
+DECL|function|saveNewBuiltinWithOldStream
 DECL|function|saveQVariantFromDataStream
 DECL|function|saveQt4Stream
 DECL|function|saveQt4Stream_data
