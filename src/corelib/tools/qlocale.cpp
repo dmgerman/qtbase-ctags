@@ -8,7 +8,9 @@ DECL|function|QLocale
 DECL|function|QSystemLocale
 DECL|function|QSystemLocale
 DECL|function|QSystemLocaleSingleton
+DECL|function|addLikelySubtags
 DECL|function|amText
+DECL|function|bcp47Name
 DECL|function|bcp47Name
 DECL|function|bcp47Name
 DECL|function|bytearrayToDouble
@@ -124,6 +126,8 @@ DECL|function|unsLongLongToString
 DECL|function|updateSystemPrivate
 DECL|function|validateChars
 DECL|function|weekdays
+DECL|function|withLikelySubtagsAdded
+DECL|function|withLikelySubtagsRemoved
 DECL|function|zeroDigit
 DECL|function|~QLocale
 DECL|function|~QSystemLocale

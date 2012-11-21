@@ -1,6 +1,11 @@
 DECL|function|digitToCLocale
+DECL|function|fromIds
+DECL|function|operator
+DECL|function|operator
 DECL|macro|QLOCALE_P_H
 DECL|member|country
+DECL|member|country_id
+DECL|member|language_id
 DECL|member|m_alternate_quotation_end
 DECL|member|m_alternate_quotation_start
 DECL|member|m_am_idx
@@ -80,4 +85,6 @@ DECL|member|m_weekend_start
 DECL|member|m_zero
 DECL|member|public
 DECL|member|script
+DECL|member|script_id
 DECL|struct|QLocaleData
+DECL|struct|QLocaleId

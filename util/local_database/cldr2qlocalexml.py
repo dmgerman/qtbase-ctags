@@ -17,6 +17,7 @@ DECL|variable|cldr_dir
 DECL|variable|cldr_files
 DECL|variable|cldr_version
 DECL|variable|cldr_version
+DECL|variable|findAlias
 DECL|variable|findEntry
 DECL|variable|findEntryInFile
 DECL|variable|findTagsInFile

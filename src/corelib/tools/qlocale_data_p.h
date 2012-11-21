@@ -18,6 +18,7 @@ DECL|variable|endonyms_data
 DECL|variable|language_code_list
 DECL|variable|language_name_index
 DECL|variable|language_name_list
+DECL|variable|likely_subtags
 DECL|variable|list_pattern_part_data
 DECL|variable|locale_data
 DECL|variable|locale_index

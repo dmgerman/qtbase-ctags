@@ -44,6 +44,7 @@ DECL|function|standaloneDayName_data
 DECL|function|standaloneMonthName
 DECL|function|testInfAndNan
 DECL|function|testNames
+DECL|function|testNames_data
 DECL|function|timeFormat
 DECL|function|toDateTime
 DECL|function|toDateTime_data
@@ -73,8 +74,6 @@ DECL|macro|TEST_NAME
 DECL|macro|_EM_INEXACT
 DECL|macro|_MCW_EM
 DECL|macro|_control87
-DECL|member|country
-DECL|member|language
 DECL|member|m_decimal
 DECL|member|m_decimal
 DECL|member|m_ldate
@@ -86,6 +85,4 @@ DECL|member|m_thousand
 DECL|member|m_thousand
 DECL|member|m_time
 DECL|member|m_time
-DECL|struct|LocaleListItem
-DECL|variable|g_locale_list
-DECL|variable|g_locale_list_count
+DECL|variable|locale_data_count
