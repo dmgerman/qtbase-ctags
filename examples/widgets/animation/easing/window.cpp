@@ -1,6 +1,7 @@
 DECL|function|Window
 DECL|function|amplitudeChanged
 DECL|function|createCurveIcons
+DECL|function|createEasingCurve
 DECL|function|curveChanged
 DECL|function|overshootChanged
 DECL|function|pathChanged
