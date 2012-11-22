@@ -1,7 +1,5 @@
 DECL|class|WidgetAttributeSaver
 DECL|function|QApplication
-DECL|function|QApplication
-DECL|function|QApplication
 DECL|function|QApplicationPrivate
 DECL|function|WidgetAttributeSaver
 DECL|function|aboutQt
@@ -101,7 +99,6 @@ DECL|function|translateRawTouchEvent
 DECL|function|translateTouchCancel
 DECL|function|translateTouchToMouse
 DECL|function|tryModalHelper
-DECL|function|type
 DECL|function|updateTouchPointsForWidget
 DECL|function|widgetAt
 DECL|function|windowIcon
