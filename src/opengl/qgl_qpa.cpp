@@ -10,7 +10,6 @@ DECL|function|doneCurrent
 DECL|function|event
 DECL|function|fromOpenGLContext
 DECL|function|fromSurfaceFormat
-DECL|function|generateFontDisplayLists
 DECL|function|getProcAddress
 DECL|function|hasOpenGL
 DECL|function|hasOpenGLOverlays

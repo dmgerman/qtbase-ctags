@@ -68,7 +68,6 @@ DECL|function|drawTexture
 DECL|function|drawTexture
 DECL|function|drawTexture
 DECL|function|extensionFuncs
-DECL|function|fontDisplayListBase
 DECL|function|format
 DECL|function|format
 DECL|function|functions
