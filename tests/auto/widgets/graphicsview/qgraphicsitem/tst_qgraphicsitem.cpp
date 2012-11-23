@@ -258,7 +258,7 @@ DECL|function|paint
 DECL|function|paintEvent
 DECL|function|panel
 DECL|function|panelModality
-DECL|function|panelWithFocusItem
+DECL|function|panelWithFocusItems
 DECL|function|parentItem
 DECL|function|pos
 DECL|function|prepareGeometryChange
