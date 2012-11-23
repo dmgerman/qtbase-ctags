@@ -2,8 +2,6 @@ DECL|function|PathDeformControls
 DECL|function|PathDeformRenderer
 DECL|function|PathDeformWidget
 DECL|function|circle_bounds
-DECL|function|emitOkSignal
-DECL|function|emitQuitSignal
 DECL|function|generateLensPixmap
 DECL|function|hideControls
 DECL|function|layoutForDesktop

@@ -1,2 +1,3 @@
-DECL|function|QT_FORWARD_DECLARE_CLASS
 DECL|macro|COMPOSITION_H
+DECL|variable|QPushButton
+DECL|variable|QRadioButton
