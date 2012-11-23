@@ -1,2 +1,1 @@
 DECL|macro|EMBEDDEDDIALOG_H
-DECL|variable|Ui_embeddedDialog
