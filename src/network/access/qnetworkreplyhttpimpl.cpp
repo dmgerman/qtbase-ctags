@@ -29,6 +29,7 @@ DECL|function|ignoreSslErrors
 DECL|function|ignoreSslErrorsImplementation
 DECL|function|initCacheSaveDevice
 DECL|function|invalidateCache
+DECL|function|isCachingAllowed
 DECL|function|isCachingEnabled
 DECL|function|isSeparator
 DECL|function|isSequential
