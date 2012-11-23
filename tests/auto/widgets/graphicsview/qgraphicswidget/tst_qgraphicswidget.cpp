@@ -13,6 +13,7 @@ DECL|class|RectWidget
 DECL|class|SizeHinter
 DECL|class|StyledGraphicsWidget
 DECL|class|SubQGraphicsWidget
+DECL|class|TabFocusWidget
 DECL|class|tst_QGraphicsWidget
 DECL|enumerator|MaximumHeight
 DECL|enumerator|MaximumSize
@@ -46,6 +47,7 @@ DECL|function|RectWidget
 DECL|function|SizeHinter
 DECL|function|StyledGraphicsWidget
 DECL|function|SubQGraphicsWidget
+DECL|function|TabFocusWidget
 DECL|function|activation
 DECL|function|addChildInpolishEvent
 DECL|function|autoFillBackground
@@ -170,6 +172,7 @@ DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|sizeHint_data
+DECL|function|tabFocus
 DECL|function|task236127_bspTreeIndexFails
 DECL|function|task243004_setStyleCrash
 DECL|function|task250119_shortcutContext
@@ -179,6 +182,7 @@ DECL|function|unsetLayoutDirection
 DECL|function|unsetLayoutDirection_data
 DECL|function|updateFocusChainWhenChildDie
 DECL|function|verifyFocusChain
+DECL|function|verifyTabFocus
 DECL|function|widgetSendsGeometryChanges
 DECL|function|width
 DECL|function|windowFlags
