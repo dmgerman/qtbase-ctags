@@ -53,6 +53,8 @@ DECL|function|endResetModel
 DECL|function|fetchMore
 DECL|function|flags
 DECL|function|flags
+DECL|function|flags
+DECL|function|flags
 DECL|function|hasChildren
 DECL|function|hasChildren
 DECL|function|hasChildren

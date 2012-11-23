@@ -105,6 +105,7 @@ DECL|function|keyboardSearch
 DECL|function|keyboardSearchMultiColumn
 DECL|function|kill
 DECL|function|level
+DECL|function|limitedExpand
 DECL|function|mouseDoubleClick
 DECL|function|moveCursor
 DECL|function|moveCursor
