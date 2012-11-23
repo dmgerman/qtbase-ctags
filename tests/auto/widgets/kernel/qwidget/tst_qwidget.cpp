@@ -138,6 +138,7 @@ DECL|function|formatEventList
 DECL|function|gdiPainting
 DECL|function|getSetCheck
 DECL|function|grab
+DECL|function|grabKeyboard
 DECL|function|grabMouse
 DECL|function|heightForWidth
 DECL|function|hideEvent
