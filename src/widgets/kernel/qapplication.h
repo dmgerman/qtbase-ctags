@@ -9,5 +9,4 @@ DECL|variable|QIcon
 DECL|variable|QList
 DECL|variable|QLocale
 DECL|variable|QPlatformNativeInterface
-DECL|variable|QSessionManager
 DECL|variable|QStyle

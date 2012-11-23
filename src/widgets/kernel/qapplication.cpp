@@ -15,7 +15,6 @@ DECL|function|clearSystemPalette
 DECL|function|closeAllPopups
 DECL|function|closeAllWindows
 DECL|function|colorSpec
-DECL|function|commitData
 DECL|function|compressEvent
 DECL|function|construct
 DECL|function|cursorFlashTime
@@ -42,7 +41,6 @@ DECL|function|initializeMultitouch
 DECL|function|instance
 DECL|function|isAlien
 DECL|function|isBlockedByModal
-DECL|function|isSessionRestored
 DECL|function|isWindowBlocked
 DECL|function|keyboardInputInterval
 DECL|function|keypadNavigationEnabled
@@ -61,11 +59,8 @@ DECL|function|qt_app_palettes_hash
 DECL|function|qt_sendSpontaneousEvent
 DECL|function|qt_tab_all_widgets
 DECL|function|qt_tryModalHelper
-DECL|function|saveState
 DECL|function|sendMouseEvent
 DECL|function|sendSyntheticEnterLeave
-DECL|function|sessionId
-DECL|function|sessionKey
 DECL|function|setActiveWindow
 DECL|function|setAutoMaximizeThreshold
 DECL|function|setAutoSipEnabled

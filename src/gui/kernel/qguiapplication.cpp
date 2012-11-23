@@ -14,6 +14,7 @@ DECL|function|changeOverrideCursor
 DECL|function|clearFontUnlocked
 DECL|function|clearPalette
 DECL|function|clipboard
+DECL|function|commitData
 DECL|function|compressEvent
 DECL|function|createEventDispatcher
 DECL|function|createPlatformIntegration
@@ -33,6 +34,8 @@ DECL|function|initPalette
 DECL|function|init_platform
 DECL|function|init_plugins
 DECL|function|inputMethod
+DECL|function|isSavingSession
+DECL|function|isSessionRestored
 DECL|function|isWindowBlocked
 DECL|function|keyboardModifiers
 DECL|function|layoutDirection
@@ -85,8 +88,11 @@ DECL|function|reportScreenOrientationChange
 DECL|function|reportScreenOrientationChange
 DECL|function|restoreOverrideCursor
 DECL|function|runningUnderDebugger
+DECL|function|saveState
 DECL|function|screens
 DECL|function|sendQWindowEventToQPlatformWindow
+DECL|function|sessionId
+DECL|function|sessionKey
 DECL|function|setApplicationDisplayName
 DECL|function|setDesktopSettingsAware
 DECL|function|setEventDispatcher

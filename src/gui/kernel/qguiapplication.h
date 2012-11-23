@@ -8,4 +8,5 @@ DECL|variable|QPalette
 DECL|variable|QPlatformIntegration
 DECL|variable|QPlatformNativeInterface
 DECL|variable|QScreen
+DECL|variable|QSessionManager
 DECL|variable|QStyleHints
