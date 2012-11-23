@@ -1,3 +1,4 @@
+DECL|class|EnterEventChecker
 DECL|class|ExposeCompressor
 DECL|enumerator|MWM_DECOR_ALL
 DECL|enumerator|MWM_DECOR_BORDER
@@ -21,6 +22,7 @@ DECL|enumerator|MWM_INPUT_PRIMARY_APPLICATION_MODAL
 DECL|function|ExposeCompressor
 DECL|function|QXcbWindow
 DECL|function|changeNetWmState
+DECL|function|checkEvent
 DECL|function|checkEvent
 DECL|function|create
 DECL|function|destroy
