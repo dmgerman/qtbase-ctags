@@ -30,6 +30,7 @@ DECL|function|long_long_conversion
 DECL|function|long_long_conversion_data
 DECL|function|long_long_conversion_extra
 DECL|function|macDefaultLocale
+DECL|function|matchingLocales
 DECL|function|measurementSystems
 DECL|function|monthName
 DECL|function|negativeNumbers
