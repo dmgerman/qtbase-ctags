@@ -7,13 +7,13 @@ DECL|function|bytesAvailable
 DECL|function|bytesToWrite
 DECL|function|canReadLine
 DECL|function|close
-DECL|function|connectToServer
 DECL|function|destroyPipeHandles
 DECL|function|disconnectFromServer
 DECL|function|error
 DECL|function|flush
 DECL|function|init
 DECL|function|isValid
+DECL|function|open
 DECL|function|readBufferSize
 DECL|function|readData
 DECL|function|setErrorString
