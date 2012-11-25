@@ -8,4 +8,5 @@ DECL|function|main
 DECL|function|setEditorData
 DECL|function|~ExampleDelegate
 DECL|function|~ExampleEditor
+DECL|member|m_combobox
 DECL|member|m_editor
