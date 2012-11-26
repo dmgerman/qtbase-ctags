@@ -93,6 +93,7 @@ DECL|function|majorVersion
 DECL|function|makeCurrent
 DECL|function|maxTextureSize
 DECL|function|minorVersion
+DECL|function|moveToThread
 DECL|function|openGLVersionFlags
 DECL|function|operator !=
 DECL|function|operator <<

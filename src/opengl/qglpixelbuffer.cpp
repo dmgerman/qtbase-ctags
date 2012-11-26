@@ -1,11 +1,13 @@
 DECL|function|QGLPixelBuffer
 DECL|function|QGLPixelBuffer
+DECL|function|beginPaint
 DECL|function|bindTexture
 DECL|function|bindTexture
 DECL|function|bindTexture
 DECL|function|bindToDynamicTexture
 DECL|function|cleanup
 DECL|function|common_init
+DECL|function|context
 DECL|function|context
 DECL|function|deleteTexture
 DECL|function|doneCurrent
@@ -22,6 +24,7 @@ DECL|function|makeCurrent
 DECL|function|metric
 DECL|function|paintEngine
 DECL|function|releaseFromDynamicTexture
+DECL|function|setFbo
 DECL|function|setPBuffer
 DECL|function|size
 DECL|function|toImage
