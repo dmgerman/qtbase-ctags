@@ -168,3 +168,4 @@ DECL|member|superClass
 DECL|member|tag
 DECL|member|type
 DECL|member|values
+DECL|namespace|QtPrivate
