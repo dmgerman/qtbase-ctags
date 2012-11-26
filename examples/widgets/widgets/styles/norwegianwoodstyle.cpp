@@ -1,3 +1,4 @@
+DECL|function|NorwegianWoodStyle
 DECL|function|drawControl
 DECL|function|drawPrimitive
 DECL|function|pixelMetric
