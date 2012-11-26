@@ -9,6 +9,7 @@ DECL|function|saveToTemporaryFile
 DECL|function|saveWithNoFormat
 DECL|function|saveWithNoFormat_data
 DECL|function|supportedFormats
+DECL|function|supportedMimeTypes
 DECL|function|supportsOption
 DECL|function|supportsOption_data
 DECL|function|tst_QImageWriter

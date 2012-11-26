@@ -58,6 +58,7 @@ DECL|function|sizeBeforeRead
 DECL|function|sizeBeforeRead_data
 DECL|function|socket
 DECL|function|supportedFormats
+DECL|function|supportedMimeTypes
 DECL|function|supportsAnimation
 DECL|function|supportsAnimation_data
 DECL|function|supportsOption
