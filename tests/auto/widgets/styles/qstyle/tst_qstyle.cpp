@@ -5,6 +5,7 @@ DECL|class|MyWidget
 DECL|class|Qt42Style
 DECL|class|tst_QStyle
 DECL|function|DrawTextStyle
+DECL|function|FrameTestStyle
 DECL|function|MyWidget
 DECL|function|Qt42Style
 DECL|function|cleanup
