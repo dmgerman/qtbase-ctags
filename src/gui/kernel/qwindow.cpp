@@ -19,7 +19,7 @@ DECL|function|focusOutEvent
 DECL|function|format
 DECL|function|frameGeometry
 DECL|function|frameMargins
-DECL|function|framePos
+DECL|function|framePosition
 DECL|function|geometry
 DECL|function|handle
 DECL|function|hide
@@ -63,7 +63,7 @@ DECL|function|setCursor
 DECL|function|setFilePath
 DECL|function|setFlags
 DECL|function|setFormat
-DECL|function|setFramePos
+DECL|function|setFramePosition
 DECL|function|setGeometry
 DECL|function|setIcon
 DECL|function|setKeyboardGrabEnabled
