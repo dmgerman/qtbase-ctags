@@ -1,6 +1,7 @@
 DECL|function|ArthurStyle
 DECL|function|cached
 DECL|function|drawComplexControl
+DECL|function|drawControl
 DECL|function|drawHoverRect
 DECL|function|drawPrimitive
 DECL|function|pixelMetric
