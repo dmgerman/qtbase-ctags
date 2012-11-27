@@ -1,9 +1,7 @@
 DECL|macro|GENERATOR_H
 DECL|typedef|Node
-DECL|typedef|NodeMap
 DECL|typedef|NodeMultiMap
 DECL|typedef|ParentMaps
-DECL|typedef|QString
 DECL|typedef|QString
 DECL|variable|CodeMarker
 DECL|variable|Config

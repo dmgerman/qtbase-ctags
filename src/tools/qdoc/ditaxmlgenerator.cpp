@@ -20,6 +20,7 @@ DECL|function|fileName
 DECL|function|format
 DECL|function|fullQualification
 DECL|function|generateAnnotatedList
+DECL|function|generateAnnotatedList
 DECL|function|generateAtom
 DECL|function|generateBrief
 DECL|function|generateClassHierarchy

@@ -1,6 +1,8 @@
 DECL|function|QDocDatabase
+DECL|function|addGroup
 DECL|function|addModule
 DECL|function|addQmlModule
+DECL|function|addToGroup
 DECL|function|addToModule
 DECL|function|addToQmlModule
 DECL|function|buildCollections
@@ -11,6 +13,7 @@ DECL|function|findAllLegaleseTexts
 DECL|function|findAllNamespaces
 DECL|function|findAllSince
 DECL|function|findDocNodeByTitle
+DECL|function|findGroup
 DECL|function|findModule
 DECL|function|findNodeForTarget
 DECL|function|findQmlModule

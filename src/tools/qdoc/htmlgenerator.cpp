@@ -12,6 +12,7 @@ DECL|function|fileName
 DECL|function|format
 DECL|function|generateAllQmlMembersFile
 DECL|function|generateAnnotatedList
+DECL|function|generateAnnotatedList
 DECL|function|generateAtom
 DECL|function|generateBreadCrumbs
 DECL|function|generateBrief
