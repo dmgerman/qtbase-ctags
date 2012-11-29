@@ -151,6 +151,7 @@ DECL|function|testPassed
 DECL|function|text
 DECL|function|textFile
 DECL|function|truncate
+DECL|function|tst_QFile
 DECL|function|ungetChar
 DECL|function|useQFileInAFileHandler
 DECL|function|virtualFile
@@ -170,6 +171,18 @@ DECL|macro|STDERR_FILENO
 DECL|macro|STDIN_FILENO
 DECL|macro|STDOUT_FILENO
 DECL|member|fd_
+DECL|member|m_dosFile
+DECL|member|m_forCopyingFile
+DECL|member|m_forRenamingFile
+DECL|member|m_noEndOfLineFile
+DECL|member|m_oldDir
+DECL|member|m_resourcesDir
+DECL|member|m_stdinProcessDir
+DECL|member|m_temporaryDir
+DECL|member|m_testFile
+DECL|member|m_testLogFile
+DECL|member|m_testSourceFile
+DECL|member|m_twoDotsFile
 DECL|member|name
 DECL|member|number
 DECL|member|ok
@@ -179,3 +192,6 @@ DECL|member|oldMessageHandler
 DECL|member|oldMessageHandler
 DECL|member|oldReportMode
 DECL|member|stream_
+DECL|variable|noReadFile
+DECL|variable|readOnlyFile
+DECL|variable|renameSourceFile
