@@ -61,6 +61,7 @@ DECL|function|eventsToDisabledItems
 DECL|function|exposedRect
 DECL|function|focusInEvent
 DECL|function|focusItem
+DECL|function|focusItemChangedSignal
 DECL|function|focusItemLostFocus
 DECL|function|focusOutEvent
 DECL|function|focusOutEvent
