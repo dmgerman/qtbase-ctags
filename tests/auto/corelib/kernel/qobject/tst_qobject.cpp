@@ -212,6 +212,12 @@ DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
 DECL|function|operator <<
 DECL|function|operator >>
 DECL|function|otherObjectDestroyed
@@ -459,6 +465,12 @@ DECL|struct|Bleh
 DECL|struct|CheckInstanceCount
 DECL|struct|CustomType
 DECL|struct|CustomTypeFunctor
+DECL|struct|Funct1
+DECL|struct|Funct2
+DECL|struct|Funct3
+DECL|struct|Funct4
+DECL|struct|Funct5
+DECL|struct|Funct6
 DECL|struct|Functor
 DECL|struct|IntFunctor
 DECL|struct|SlotFunctor
