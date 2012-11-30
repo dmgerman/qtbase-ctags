@@ -36,7 +36,6 @@ DECL|function|clipToEffectiveMask
 DECL|function|close
 DECL|function|closeEvent
 DECL|function|close_helper
-DECL|function|constructWindowTitleFromFilePath
 DECL|function|contentsMargins
 DECL|function|contentsRect
 DECL|function|contextMenuEvent
