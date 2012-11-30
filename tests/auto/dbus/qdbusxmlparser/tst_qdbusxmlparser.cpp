@@ -1,4 +1,5 @@
 DECL|class|tst_QDBusXmlParser
+DECL|function|clean_xml
 DECL|function|methods
 DECL|function|methods_data
 DECL|function|parsing
