@@ -1,4 +1,5 @@
 DECL|function|commitData
+DECL|function|createApplication
 DECL|function|main
 DECL|function|main
 DECL|function|main
