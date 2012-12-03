@@ -122,6 +122,7 @@ DECL|function|updateInputMethodSensitivity
 DECL|function|updateLastCenterPoint
 DECL|function|updateRect
 DECL|function|updateRegion
+DECL|function|updateRubberBand
 DECL|function|updateScene
 DECL|function|updateSceneRect
 DECL|function|updateScroll
