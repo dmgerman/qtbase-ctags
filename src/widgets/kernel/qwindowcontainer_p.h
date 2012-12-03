@@ -1,0 +1,2 @@
+DECL|macro|QWINDOWCONTAINER_H
+DECL|variable|QWindowContainerPrivate

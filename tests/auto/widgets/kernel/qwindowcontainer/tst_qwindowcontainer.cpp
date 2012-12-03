@@ -1,0 +1,13 @@
+DECL|class|Window
+DECL|class|tst_QWindowContainer
+DECL|function|Window
+DECL|function|exposeEvent
+DECL|function|testActivation
+DECL|function|testBehindTheScenesDeletion
+DECL|function|testExposeObscure
+DECL|function|testOwnership
+DECL|function|testPositionAndSize
+DECL|function|testShow
+DECL|function|testUnparenting
+DECL|member|numberOfExposes
+DECL|member|numberOfObscures
