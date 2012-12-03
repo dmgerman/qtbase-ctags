@@ -5,6 +5,7 @@ DECL|function|loadCorruptElf
 DECL|function|loadDebugObj
 DECL|function|loadGarbage
 DECL|function|loadHints
+DECL|function|relativePath
 DECL|function|reloadPlugin
 DECL|function|sys_qualifiedLibraryName
 DECL|macro|PREFIX
@@ -12,7 +13,6 @@ DECL|macro|PREFIX
 DECL|macro|PREFIX
 DECL|macro|PREFIX
 DECL|macro|PREFIX
-DECL|macro|SUFFIX
 DECL|macro|SUFFIX
 DECL|macro|SUFFIX
 DECL|macro|SUFFIX
