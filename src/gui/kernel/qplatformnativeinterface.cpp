@@ -6,6 +6,7 @@ DECL|function|nativeResourceForWindow
 DECL|function|nativeResourceFunctionForBackingStore
 DECL|function|nativeResourceFunctionForContext
 DECL|function|nativeResourceFunctionForIntegration
+DECL|function|nativeResourceFunctionForScreen
 DECL|function|nativeResourceFunctionForWindow
 DECL|function|setWindowProperty
 DECL|function|windowProperties
