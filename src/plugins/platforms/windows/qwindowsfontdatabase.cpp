@@ -32,6 +32,7 @@ DECL|function|changeFamilyName
 DECL|function|createEngine
 DECL|function|data
 DECL|function|derefUniqueFont
+DECL|function|extraTryFontsForFamily
 DECL|function|fallbacksForFamily
 DECL|function|familyName
 DECL|function|fontDefToLOGFONT
