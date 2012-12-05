@@ -1,0 +1,2 @@
+DECL|class|QOffscreenIntegrationPlugin
+DECL|function|create

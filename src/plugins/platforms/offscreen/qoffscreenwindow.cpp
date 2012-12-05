@@ -1,0 +1,12 @@
+DECL|function|QOffscreenWindow
+DECL|function|frameMargins
+DECL|function|requestActivateWindow
+DECL|function|setFrameMarginsEnabled
+DECL|function|setGeometry
+DECL|function|setGeometryImpl
+DECL|function|setVisible
+DECL|function|setWindowState
+DECL|function|winId
+DECL|function|windowForWinId
+DECL|function|~QOffscreenWindow
+DECL|member|m_windowForWinIdHash

@@ -1,0 +1,4 @@
+DECL|macro|QOFFSCREENINTEGRATION_X11_H
+DECL|variable|QOffscreenX11Connection
+DECL|variable|QOffscreenX11GLXContextData
+DECL|variable|QOffscreenX11Info

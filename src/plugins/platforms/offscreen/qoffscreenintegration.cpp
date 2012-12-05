@@ -1,0 +1,14 @@
+DECL|class|QOffscreenEventDispatcher
+DECL|function|QOffscreenEventDispatcher
+DECL|function|QOffscreenIntegration
+DECL|function|createPlatformBackingStore
+DECL|function|createPlatformWindow
+DECL|function|drag
+DECL|function|flush
+DECL|function|fontDatabase
+DECL|function|guiThreadEventDispatcher
+DECL|function|hasCapability
+DECL|function|hasPendingEvents
+DECL|function|processEvents
+DECL|function|services
+DECL|function|~QOffscreenIntegration
