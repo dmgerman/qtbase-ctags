@@ -47,13 +47,11 @@ DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|moveEvent
 DECL|function|nativeEvent
-DECL|function|orientation
 DECL|function|parent
 DECL|function|qt_window_private
 DECL|function|raise
 DECL|function|reportContentOrientationChange
 DECL|function|requestActivate
-DECL|function|requestOrientation
 DECL|function|requestedFormat
 DECL|function|resize
 DECL|function|resizeEvent

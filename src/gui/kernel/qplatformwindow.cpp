@@ -15,7 +15,6 @@ DECL|function|parent
 DECL|function|propagateSizeHints
 DECL|function|raise
 DECL|function|requestActivateWindow
-DECL|function|requestWindowOrientation
 DECL|function|screen
 DECL|function|setFrameStrutEventsEnabled
 DECL|function|setGeometry
