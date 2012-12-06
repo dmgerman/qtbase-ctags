@@ -1,0 +1,12 @@
+DECL|class|ExampleDlg
+DECL|function|ExampleDlg
+DECL|function|fixDataInTree
+DECL|function|main
+DECL|member|dialogLayout
+DECL|member|groupBox
+DECL|member|groupLayout
+DECL|member|radioDeveloperNo
+DECL|member|radioFirstName
+DECL|member|radioLastName
+DECL|member|radioTitle
+DECL|member|treeWidget

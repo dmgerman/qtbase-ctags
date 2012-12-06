@@ -70,6 +70,7 @@ DECL|function|keyPressEvent
 DECL|function|keyboardSearch
 DECL|function|lastVisibleItem
 DECL|function|layout
+DECL|function|logicalIndexForTree
 DECL|function|modelIndex
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseMoveEvent
@@ -116,6 +117,7 @@ DECL|function|setRowHidden
 DECL|function|setSelection
 DECL|function|setSelectionModel
 DECL|function|setSortingEnabled
+DECL|function|setTreePosition
 DECL|function|setUniformRowHeights
 DECL|function|setWordWrap
 DECL|function|showColumn
@@ -124,6 +126,7 @@ DECL|function|sortByColumn
 DECL|function|sortByColumn
 DECL|function|startAndEndColumns
 DECL|function|timerEvent
+DECL|function|treePosition
 DECL|function|uniformRowHeights
 DECL|function|updateGeometries
 DECL|function|updateScrollBars
