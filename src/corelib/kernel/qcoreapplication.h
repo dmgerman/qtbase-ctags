@@ -1,6 +1,5 @@
 DECL|function|sendEvent
 DECL|function|sendSpontaneousEvent
-DECL|function|translate
 DECL|macro|QCOREAPPLICATION_H
 DECL|macro|QT_DECLARE_DEPRECATED_TR_FUNCTIONS
 DECL|macro|QT_DECLARE_DEPRECATED_TR_FUNCTIONS
