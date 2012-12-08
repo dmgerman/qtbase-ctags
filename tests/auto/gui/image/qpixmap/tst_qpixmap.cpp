@@ -5,6 +5,7 @@ DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|compareImages
 DECL|function|convertFromImage
+DECL|function|convertFromImageCacheKey
 DECL|function|convertFromImageDetach
 DECL|function|convertFromImageNoDetach
 DECL|function|convertFromImage_data
