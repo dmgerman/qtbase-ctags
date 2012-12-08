@@ -109,6 +109,7 @@ DECL|function|initDirectionMap
 DECL|function|initGraphemeBreak
 DECL|function|initJoiningMap
 DECL|function|initLineBreak
+DECL|function|initScriptMap
 DECL|function|initSentenceBreak
 DECL|function|initWordBreak
 DECL|function|main
@@ -193,6 +194,7 @@ DECL|variable|maxUpperCaseDiff
 DECL|variable|methods
 DECL|variable|numLigatures
 DECL|variable|property_string
+DECL|variable|scriptList
 DECL|variable|scriptMap
 DECL|variable|scriptNames
 DECL|variable|sentence_break_class_string
