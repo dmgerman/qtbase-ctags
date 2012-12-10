@@ -4,8 +4,6 @@ DECL|function|MyGraphicsItem
 DECL|function|MyGraphicsView
 DECL|function|main
 DECL|function|mouseMoveEvent
-DECL|function|mouseReleaseEvent
 DECL|function|paint
 DECL|function|updateRubberbandInfo
-DECL|function|wheelEvent
 DECL|member|rubberbandLabel
