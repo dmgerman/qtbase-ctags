@@ -1,5 +1,7 @@
 DECL|enumerator|ForceChild
 DECL|enumerator|ForceTopLevel
+DECL|enumerator|defaultWindowHeight
+DECL|enumerator|defaultWindowWidth
 DECL|enum|Flags
 DECL|function|QWindowCreationContext
 DECL|function|QWindowsGeometryHint

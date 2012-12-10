@@ -20,7 +20,6 @@ DECL|function|mapToGlobal
 DECL|function|metric
 DECL|function|mouseGrabber
 DECL|function|paintEngine
-DECL|function|positionTopLevelWindow
 DECL|function|q_createNativeChildrenAndSetParent
 DECL|function|qt_qpa_set_cursor
 DECL|function|raise_sys
