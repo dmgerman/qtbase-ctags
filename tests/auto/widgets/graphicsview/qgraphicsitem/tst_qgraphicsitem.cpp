@@ -121,6 +121,7 @@ DECL|function|contextMenuEventPropagation
 DECL|function|count
 DECL|function|cursor
 DECL|function|data
+DECL|function|deactivateInactivePanel
 DECL|function|defaultItemTest_QGraphicsEllipseItem
 DECL|function|defaultItemTest_QGraphicsLineItem
 DECL|function|defaultItemTest_QGraphicsPixmapItem
