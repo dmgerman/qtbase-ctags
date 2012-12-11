@@ -1,0 +1,1 @@
+DECL|macro|QQNXCURSOR_H
