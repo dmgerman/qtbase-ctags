@@ -35,6 +35,7 @@ DECL|function|setMouseCursor
 DECL|function|setTitleBarIconAndCaptionVisible
 DECL|function|sizeHint
 DECL|function|titleOffset
+DECL|function|topOffset
 DECL|function|updateCustomMargins
 DECL|function|vistaState
 DECL|function|winEvent
