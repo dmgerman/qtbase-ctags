@@ -21,6 +21,7 @@ DECL|function|format
 DECL|function|frameGeometry
 DECL|function|frameMargins
 DECL|function|framePosition
+DECL|function|fromWinId
 DECL|function|geometry
 DECL|function|handle
 DECL|function|hide

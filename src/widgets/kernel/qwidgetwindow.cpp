@@ -4,6 +4,7 @@ DECL|function|accessibleRoot
 DECL|function|event
 DECL|function|eventReceiver
 DECL|function|focusObject
+DECL|function|getFocusWidget
 DECL|function|handleCloseEvent
 DECL|function|handleContextMenuEvent
 DECL|function|handleDragEnterMoveEvent
@@ -11,6 +12,7 @@ DECL|function|handleDragLeaveEvent
 DECL|function|handleDropEvent
 DECL|function|handleEnterLeaveEvent
 DECL|function|handleExposeEvent
+DECL|function|handleFocusInEvent
 DECL|function|handleKeyEvent
 DECL|function|handleMouseEvent
 DECL|function|handleMoveEvent
