@@ -23,10 +23,10 @@ DECL|function|setStandardButtons_data
 DECL|function|standardButtons
 DECL|function|task191642_default
 DECL|function|testConstructor1
+DECL|function|testConstructor2
+DECL|function|testConstructor2_data
 DECL|function|testConstructor3
 DECL|function|testConstructor3_data
-DECL|function|testConstrurtor2
-DECL|function|testConstrurtor2_data
 DECL|function|testDefaultButton
 DECL|function|testDefaultButton_data
 DECL|function|testDelete
