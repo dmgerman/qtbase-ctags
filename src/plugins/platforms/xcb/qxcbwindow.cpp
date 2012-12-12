@@ -77,8 +77,6 @@ DECL|function|setWindowState
 DECL|function|setWindowTitle
 DECL|function|show
 DECL|function|startSystemResize
-DECL|function|translateMouseButton
-DECL|function|translateMouseButtons
 DECL|function|updateDoesNotAcceptFocus
 DECL|function|updateMotifWmHintsBeforeMap
 DECL|function|updateNetWmStateBeforeMap
