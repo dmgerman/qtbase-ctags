@@ -54,6 +54,7 @@ DECL|function|reportContentOrientationChange
 DECL|function|requestActivate
 DECL|function|requestedFormat
 DECL|function|resize
+DECL|function|resize
 DECL|function|resizeEvent
 DECL|function|screen
 DECL|function|screenDestroyed
@@ -64,6 +65,8 @@ DECL|function|setFlags
 DECL|function|setFormat
 DECL|function|setFramePosition
 DECL|function|setGeometry
+DECL|function|setGeometry
+DECL|function|setHeight
 DECL|function|setIcon
 DECL|function|setKeyboardGrabEnabled
 DECL|function|setMaximumHeight
@@ -76,13 +79,18 @@ DECL|function|setModality
 DECL|function|setMouseGrabEnabled
 DECL|function|setOpacity
 DECL|function|setParent
+DECL|function|setPosition
+DECL|function|setPosition
 DECL|function|setScreen
 DECL|function|setSizeIncrement
 DECL|function|setSurfaceType
 DECL|function|setTitle
 DECL|function|setTransientParent
 DECL|function|setVisible
+DECL|function|setWidth
 DECL|function|setWindowState
+DECL|function|setX
+DECL|function|setY
 DECL|function|show
 DECL|function|showEvent
 DECL|function|showFullScreen
