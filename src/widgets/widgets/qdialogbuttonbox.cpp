@@ -15,6 +15,7 @@ DECL|enumerator|YesRole
 DECL|function|QDialogButtonBox
 DECL|function|QDialogButtonBox
 DECL|function|QDialogButtonBox
+DECL|function|QDialogButtonBox
 DECL|function|QDialogButtonBoxPrivate
 DECL|function|_q_handleButtonClicked
 DECL|function|_q_handleButtonDestroyed

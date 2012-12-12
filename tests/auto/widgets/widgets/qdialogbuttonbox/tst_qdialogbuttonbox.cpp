@@ -27,6 +27,8 @@ DECL|function|testConstructor2
 DECL|function|testConstructor2_data
 DECL|function|testConstructor3
 DECL|function|testConstructor3_data
+DECL|function|testConstructor4
+DECL|function|testConstructor4_data
 DECL|function|testDefaultButton
 DECL|function|testDefaultButton_data
 DECL|function|testDelete
