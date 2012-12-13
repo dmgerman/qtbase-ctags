@@ -3,6 +3,7 @@ DECL|class|QGLDefaultOverlayFormat
 DECL|function|QGLContext
 DECL|function|QGLContext
 DECL|function|QGLContextGroup
+DECL|function|QGLContextGroupList
 DECL|function|QGLContextPrivate
 DECL|function|QGLDefaultExtensions
 DECL|function|QGLDefaultOverlayFormat
