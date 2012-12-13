@@ -23,5 +23,6 @@ DECL|function|virtual_hook
 DECL|function|window
 DECL|member|rootObjectHandler
 DECL|member|updateHandler
+DECL|typedef|QAccessiblePluginsHash
 DECL|variable|accessibility_active
 DECL|variable|cleanupAdded
