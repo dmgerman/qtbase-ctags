@@ -1,8 +1,9 @@
 DECL|function|QSpiAccessibleBridge
 DECL|function|dBusConnection
+DECL|function|enabledChanged
 DECL|function|initializeConstantMappings
 DECL|function|notifyAccessibilityUpdate
-DECL|function|setRootObject
+DECL|function|updateStatus
 DECL|function|~QSpiAccessibleBridge
 DECL|member|name
 DECL|member|role
