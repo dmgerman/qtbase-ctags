@@ -96,6 +96,8 @@ DECL|function|setAuthority
 DECL|function|setAuthority_data
 DECL|function|setComponents
 DECL|function|setComponents_data
+DECL|function|setEmptyAuthority
+DECL|function|setEmptyAuthority_data
 DECL|function|setEncodedFragment
 DECL|function|setEncodedFragment_data
 DECL|function|setPort
