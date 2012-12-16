@@ -6,6 +6,8 @@ DECL|function|QRegularExpression
 DECL|function|QRegularExpression
 DECL|function|QRegularExpressionMatch
 DECL|function|QRegularExpressionMatch
+DECL|function|QRegularExpressionMatch
+DECL|function|QRegularExpressionMatchIterator
 DECL|function|QRegularExpressionMatchIterator
 DECL|function|QRegularExpressionMatchIterator
 DECL|function|QRegularExpressionMatchIteratorPrivate

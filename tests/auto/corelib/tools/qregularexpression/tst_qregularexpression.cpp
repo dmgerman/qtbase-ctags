@@ -4,6 +4,7 @@ DECL|function|captureCount_data
 DECL|function|clear
 DECL|function|consistencyCheck
 DECL|function|consistencyCheck
+DECL|function|defaultConstructors
 DECL|function|escape
 DECL|function|escape_data
 DECL|function|gettersSetters
