@@ -60,6 +60,8 @@ DECL|function|CheckInstanceCount
 DECL|function|ConfusingObject
 DECL|function|ConnectByNameNotifyReceiverObject
 DECL|function|Constructable
+DECL|function|CountedStruct
+DECL|function|CountedStruct
 DECL|function|CustomType
 DECL|function|CustomType
 DECL|function|DestroyedListener
@@ -144,6 +146,7 @@ DECL|function|deleteSelf
 DECL|function|deleteSelfInSlot
 DECL|function|disconnect
 DECL|function|disconnectByMetaMethod
+DECL|function|disconnectDoesNotLeakFunctor
 DECL|function|disconnectNotSignalMetaMethod
 DECL|function|disconnectNotify
 DECL|function|disconnectNotify
@@ -218,7 +221,9 @@ DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
+DECL|function|operator ()
 DECL|function|operator <<
+DECL|function|operator =
 DECL|function|operator >>
 DECL|function|otherObjectDestroyed
 DECL|function|overloads
@@ -372,6 +377,7 @@ DECL|function|~Bar
 DECL|function|~BaseDestroyed
 DECL|function|~Bleh
 DECL|function|~CheckInstanceCount
+DECL|function|~CountedStruct
 DECL|function|~CustomType
 DECL|function|~MoveToThreadThread
 DECL|function|~SiblingDeleter
@@ -463,6 +469,7 @@ DECL|namespace|QObjectTest
 DECL|struct|Bar
 DECL|struct|Bleh
 DECL|struct|CheckInstanceCount
+DECL|struct|CountedStruct
 DECL|struct|CustomType
 DECL|struct|CustomTypeFunctor
 DECL|struct|Funct1
@@ -482,5 +489,6 @@ DECL|struct|VoidFunctor
 DECL|typedef|CustomString
 DECL|typedef|EventList
 DECL|typedef|fptr
+DECL|variable|countedStructObjectsCount
 DECL|variable|instanceCount
 DECL|variable|receivedCount
