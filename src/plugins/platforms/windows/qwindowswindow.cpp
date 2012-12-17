@@ -33,6 +33,7 @@ DECL|function|fromWindow
 DECL|function|geometry_sys
 DECL|function|getDC
 DECL|function|getSizeHints
+DECL|function|handleCalculateSize
 DECL|function|handleGeometryChange
 DECL|function|handleHidden
 DECL|function|handleMoved
@@ -64,6 +65,7 @@ DECL|function|registerDropSite
 DECL|function|releaseDC
 DECL|function|requestActivateWindow
 DECL|function|setCursor
+DECL|function|setCustomMargins
 DECL|function|setEnabled
 DECL|function|setExStyle
 DECL|function|setFrameStrutEventsEnabled

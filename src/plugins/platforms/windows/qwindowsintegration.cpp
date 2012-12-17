@@ -28,8 +28,12 @@ DECL|function|possibleKeys
 DECL|function|queryKeyboardModifiers
 DECL|function|services
 DECL|function|setAsyncExpose
+DECL|function|setWindowProperty
 DECL|function|styleHint
 DECL|function|themeNames
+DECL|function|windowProperties
+DECL|function|windowProperty
+DECL|function|windowProperty
 DECL|function|~QWindowsIntegration
 DECL|function|~QWindowsIntegrationPrivate
 DECL|member|m_accessibility
@@ -46,3 +50,4 @@ DECL|member|m_staticEGLContext
 DECL|member|m_staticOpenGLContext
 DECL|struct|QWindowsIntegrationPrivate
 DECL|typedef|QEGLStaticContextPtr
+DECL|variable|customMarginPropertyC

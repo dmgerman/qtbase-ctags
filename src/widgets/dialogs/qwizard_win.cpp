@@ -1,4 +1,3 @@
-DECL|class|QHackWidget
 DECL|enumerator|WIZ_NAV_BACKBUTTON
 DECL|enumerator|WIZ_NAV_BB_DISABLED
 DECL|enumerator|WIZ_NAV_BB_HOT
@@ -13,7 +12,6 @@ DECL|enum|WIZ_WINDOWTHEMEATTRIBUTETYPE
 DECL|function|QVistaBackButton
 DECL|function|QVistaHelper
 DECL|function|basicWindowFrameColor
-DECL|function|collapseTopFrameStrut
 DECL|function|drawBlackRect
 DECL|function|drawTitleBar
 DECL|function|drawTitleText
@@ -35,10 +33,9 @@ DECL|function|resolveSymbols
 DECL|function|setDWMTitleBar
 DECL|function|setMouseCursor
 DECL|function|setTitleBarIconAndCaptionVisible
-DECL|function|setWindowPosHack
 DECL|function|sizeHint
 DECL|function|titleOffset
-DECL|function|topData
+DECL|function|updateCustomMargins
 DECL|function|vistaState
 DECL|function|winEvent
 DECL|function|~QVistaHelper
