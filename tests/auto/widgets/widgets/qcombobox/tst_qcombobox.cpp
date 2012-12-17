@@ -44,6 +44,7 @@ DECL|function|insertPolicy
 DECL|function|insertPolicy_data
 DECL|function|insertRows
 DECL|function|isIndexHidden
+DECL|function|itemData
 DECL|function|itemListPosition
 DECL|function|keyBoardNavigationWithMouse
 DECL|function|keyPressEvent

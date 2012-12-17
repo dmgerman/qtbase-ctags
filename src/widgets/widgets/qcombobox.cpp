@@ -27,6 +27,7 @@ DECL|function|completer
 DECL|function|computeWidthHint
 DECL|function|contextMenuEvent
 DECL|function|count
+DECL|function|currentData
 DECL|function|currentIndex
 DECL|function|currentText
 DECL|function|duplicatesEnabled
