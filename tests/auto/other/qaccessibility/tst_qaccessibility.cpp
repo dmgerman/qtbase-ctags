@@ -49,6 +49,7 @@ DECL|function|queryIA2
 DECL|function|rubberBandTest
 DECL|function|scrollAreaTest
 DECL|function|scrollBarTest
+DECL|function|setFrameless
 DECL|function|sliderTest
 DECL|function|spinBoxTest
 DECL|function|state
