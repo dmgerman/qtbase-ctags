@@ -47,6 +47,7 @@ DECL|function|handleWheelEvent
 DECL|function|handleWindowActivated
 DECL|function|handleWindowStateChanged
 DECL|function|handleWindowSystemEvent
+DECL|function|operator <<
 DECL|function|peekWindowSystemEvent
 DECL|function|qt_handleKeyEvent
 DECL|function|qt_handleMouseEvent
