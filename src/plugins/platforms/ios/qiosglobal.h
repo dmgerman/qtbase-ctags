@@ -1,0 +1,1 @@
+DECL|macro|QIOSGLOBAL_H
