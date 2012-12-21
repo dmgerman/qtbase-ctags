@@ -85,7 +85,6 @@ DECL|enumerator|WordBreak_Numeric
 DECL|enumerator|WordBreak_Other
 DECL|enumerator|WordBreak_RegionalIndicator
 DECL|enumerator|WordBreak_Unassigned
-DECL|enumerator|specialScriptsCount
 DECL|enum|GraphemeBreakClass
 DECL|enum|Joining
 DECL|enum|LineBreakClass
@@ -100,7 +99,6 @@ DECL|function|createCompositionInfo
 DECL|function|createLigatureInfo
 DECL|function|createNormalizationCorrections
 DECL|function|createPropertyInfo
-DECL|function|createScriptEnumDeclaration
 DECL|function|createSpecialCaseMap
 DECL|function|initAgeMap
 DECL|function|initCategoryMap
@@ -194,13 +192,10 @@ DECL|variable|maxUpperCaseDiff
 DECL|variable|methods
 DECL|variable|numLigatures
 DECL|variable|property_string
-DECL|variable|scriptList
 DECL|variable|scriptMap
-DECL|variable|scriptNames
 DECL|variable|sentence_break_class_string
 DECL|variable|sentence_break_map
 DECL|variable|specialCaseMap
-DECL|variable|specialScripts
 DECL|variable|unicodeData
 DECL|variable|uniqueProperties
 DECL|variable|word_break_class_string

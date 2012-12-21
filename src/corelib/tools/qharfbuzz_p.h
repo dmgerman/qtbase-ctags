@@ -1,1 +1,3 @@
+DECL|function|hbscript_to_script
+DECL|function|script_to_hbscript
 DECL|macro|QHARFBUZZ_P_H
