@@ -37,8 +37,10 @@ DECL|function|resumeConnection
 DECL|function|sendRequest
 DECL|function|setCacheProxy
 DECL|function|setSslConfiguration
+DECL|function|setSslContext
 DECL|function|setTransparentProxy
 DECL|function|shouldEmitChannelError
+DECL|function|sslContext
 DECL|function|startHostInfoLookup
 DECL|function|startNetworkLayerStateLookup
 DECL|function|transparentProxy

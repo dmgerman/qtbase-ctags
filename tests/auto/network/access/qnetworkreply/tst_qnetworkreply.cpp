@@ -308,6 +308,9 @@ DECL|function|slotSslErrors
 DECL|function|sslConfiguration
 DECL|function|sslConfiguration_data
 DECL|function|sslErrors
+DECL|function|sslSessionSharing
+DECL|function|sslSessionSharingHelperSlot
+DECL|function|sslSessionSharing_data
 DECL|function|startOne
 DECL|function|stateChecking
 DECL|function|storeSslConfiguration

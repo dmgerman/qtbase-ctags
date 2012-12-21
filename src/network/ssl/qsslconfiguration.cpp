@@ -9,6 +9,7 @@ DECL|function|operator =
 DECL|function|operator ==
 DECL|function|peerCertificate
 DECL|function|peerCertificateChain
+DECL|function|peerSessionWasShared
 DECL|function|peerVerifyDepth
 DECL|function|peerVerifyMode
 DECL|function|privateKey

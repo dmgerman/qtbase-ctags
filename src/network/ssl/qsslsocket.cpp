@@ -27,6 +27,7 @@ DECL|function|bytesAvailable
 DECL|function|bytesToWrite
 DECL|function|caCertificates
 DECL|function|canReadLine
+DECL|function|checkSettingSslContext
 DECL|function|ciphers
 DECL|function|close
 DECL|function|connectToHost
@@ -89,6 +90,7 @@ DECL|function|setSocketOption
 DECL|function|setSslConfiguration
 DECL|function|socketOption
 DECL|function|sslConfiguration
+DECL|function|sslContext
 DECL|function|sslErrors
 DECL|function|sslLibraryVersionNumber
 DECL|function|sslLibraryVersionString
