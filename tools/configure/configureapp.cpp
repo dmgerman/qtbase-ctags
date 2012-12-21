@@ -22,7 +22,6 @@ DECL|function|detectArch
 DECL|function|displayConfig
 DECL|function|displayHelp
 DECL|function|filesDiffer
-DECL|function|findProjects
 DECL|function|firstLicensePath
 DECL|function|formatPath
 DECL|function|formatPaths

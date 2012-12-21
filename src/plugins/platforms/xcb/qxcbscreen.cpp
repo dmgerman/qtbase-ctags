@@ -4,6 +4,7 @@ DECL|function|format
 DECL|function|grabWindow
 DECL|function|handleScreenChange
 DECL|function|logicalDpi
+DECL|function|readXResources
 DECL|function|topLevelAt
 DECL|function|updateGeometry
 DECL|function|updateRefreshRate
