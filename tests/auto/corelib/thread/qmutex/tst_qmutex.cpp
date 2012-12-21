@@ -21,6 +21,8 @@ DECL|function|start
 DECL|function|stressTest
 DECL|function|tryLock
 DECL|function|tryLockDeadlock
+DECL|function|tryLockNegative
+DECL|function|tryLockNegative_data
 DECL|function|tryLockRace
 DECL|member|cond
 DECL|member|cond
