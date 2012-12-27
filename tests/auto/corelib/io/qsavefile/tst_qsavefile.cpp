@@ -1,0 +1,8 @@
+DECL|class|tst_QSaveFile
+DECL|function|saveTwice
+DECL|function|textStreamAutoFlush
+DECL|function|textStreamManualFlush
+DECL|function|transactionalWrite
+DECL|function|transactionalWriteCanceled
+DECL|function|transactionalWriteErrorRenaming
+DECL|function|transactionalWriteNoPermissions
