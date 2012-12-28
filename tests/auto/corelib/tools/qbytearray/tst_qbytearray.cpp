@@ -63,6 +63,7 @@ DECL|function|reserveExtended
 DECL|function|reserveExtended_data
 DECL|function|resizeAfterFromRawData
 DECL|function|rightJustified
+DECL|function|setNum
 DECL|function|split
 DECL|function|split_data
 DECL|function|startsWith
