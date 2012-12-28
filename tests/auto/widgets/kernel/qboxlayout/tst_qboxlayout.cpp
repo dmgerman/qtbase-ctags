@@ -7,6 +7,7 @@ DECL|function|init
 DECL|function|initTestCase
 DECL|function|insertSpacerItem
 DECL|function|pixelMetric
+DECL|function|setFrameless
 DECL|function|setGeometry
 DECL|function|setStyleShouldChangeSpacing
 DECL|function|sizeConstraints

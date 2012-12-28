@@ -146,6 +146,7 @@ DECL|function|selection
 DECL|function|selectionOrderTest
 DECL|function|selectionWithHiddenItems
 DECL|function|setDecorationsEnabled
+DECL|function|setFrameless
 DECL|function|setHeader
 DECL|function|setModel
 DECL|function|setSelection

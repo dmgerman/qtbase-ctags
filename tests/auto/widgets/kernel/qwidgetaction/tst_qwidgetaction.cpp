@@ -12,5 +12,6 @@ DECL|function|keepOwnership
 DECL|function|popup
 DECL|function|releaseWidgetCrash
 DECL|function|setEnabled
+DECL|function|setFrameless
 DECL|function|visibility
 DECL|function|visibilityUpdate

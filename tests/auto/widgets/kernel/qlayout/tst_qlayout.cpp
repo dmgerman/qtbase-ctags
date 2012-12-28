@@ -17,6 +17,7 @@ DECL|function|itemAt
 DECL|function|layoutItemRect
 DECL|function|minimumSizeHint
 DECL|function|setContentsMargins
+DECL|function|setFrameless
 DECL|function|setLayoutBugs
 DECL|function|setSizeHint
 DECL|function|sizeHint

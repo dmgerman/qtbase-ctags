@@ -24,6 +24,7 @@ DECL|function|rowCount
 DECL|function|setFieldGrowthPolicy
 DECL|function|setFormAlignment
 DECL|function|setFormStyle
+DECL|function|setFrameless
 DECL|function|setLabelAlignment
 DECL|function|setLayout
 DECL|function|setRowWrapPolicy

@@ -71,6 +71,7 @@ DECL|function|selection_data
 DECL|function|setCurrentIndex
 DECL|function|setCurrentIndexAfterAppendRowCrash
 DECL|function|setDataIcon
+DECL|function|setFrameless
 DECL|function|setPositionForIndex
 DECL|function|setSelection
 DECL|function|shiftSelectionWithNonUniformItemSizes

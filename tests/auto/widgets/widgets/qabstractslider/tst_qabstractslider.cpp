@@ -12,6 +12,7 @@ DECL|function|minimum_maximum_data
 DECL|function|rangeChanged
 DECL|function|rangeChanged
 DECL|function|rangeChanged_data
+DECL|function|setFrameless
 DECL|function|setOrientation
 DECL|function|setRepeatAction
 DECL|function|setSliderPosition
