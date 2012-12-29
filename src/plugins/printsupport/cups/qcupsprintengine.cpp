@@ -4,6 +4,7 @@ DECL|function|closePrintDevice
 DECL|function|openPrintDevice
 DECL|function|property
 DECL|function|setCupsDefaults
+DECL|function|setPaperName
 DECL|function|setPaperSize
 DECL|function|setProperty
 DECL|function|updatePaperSize
