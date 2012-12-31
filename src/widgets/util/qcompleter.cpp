@@ -31,6 +31,7 @@ DECL|function|filter
 DECL|function|filter
 DECL|function|filter
 DECL|function|filterHistory
+DECL|function|filterMode
 DECL|function|filterOnDemand
 DECL|function|hasChildren
 DECL|function|index
@@ -58,6 +59,7 @@ DECL|function|setCompletionRole
 DECL|function|setCurrentIndex
 DECL|function|setCurrentRow
 DECL|function|setCurrentRow
+DECL|function|setFilterMode
 DECL|function|setFiltered
 DECL|function|setMaxVisibleItems
 DECL|function|setModel
