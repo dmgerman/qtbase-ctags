@@ -8,6 +8,7 @@ DECL|function|collectMarkedOptionsHelper
 DECL|function|currentPPD
 DECL|function|currentPrinterIndex
 DECL|function|getCupsPrinterPaperSizes
+DECL|function|getCupsPrinterPaperSizesWithNames
 DECL|function|isAvailable
 DECL|function|markOption
 DECL|function|operator <

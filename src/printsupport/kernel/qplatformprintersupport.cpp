@@ -11,4 +11,5 @@ DECL|function|printerInfo
 DECL|function|printerOption
 DECL|function|printerOptions
 DECL|function|supportedPaperSizes
+DECL|function|supportedSizesWithNames
 DECL|function|~QPlatformPrinterSupport
