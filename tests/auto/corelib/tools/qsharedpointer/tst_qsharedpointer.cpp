@@ -38,6 +38,7 @@ DECL|function|dropLastReferenceOfForwardDeclared
 DECL|function|dynamicCast
 DECL|function|dynamicCastDifferentPointers
 DECL|function|dynamicCastFailure
+DECL|function|dynamicCastFailureNoLeak
 DECL|function|dynamicCastVirtualBase
 DECL|function|functionCallDownCast
 DECL|function|functionDataByRef
