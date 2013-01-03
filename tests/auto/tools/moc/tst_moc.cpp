@@ -76,6 +76,7 @@ DECL|function|TestSuperClass
 DECL|function|arrayArguments
 DECL|function|autoMethodArgumentMetaTypeRegistration
 DECL|function|autoPropertyMetaTypeRegistration
+DECL|function|autoSignalSpyMetaTypeRegistration
 DECL|function|bar
 DECL|function|baz
 DECL|function|blackslashNewlines
@@ -310,6 +311,7 @@ DECL|namespace|String
 DECL|namespace|myNS
 DECL|struct|CustomObject10
 DECL|struct|CustomObject11
+DECL|struct|CustomObject12
 DECL|struct|CustomObject3
 DECL|struct|CustomObject4
 DECL|struct|CustomObject5
