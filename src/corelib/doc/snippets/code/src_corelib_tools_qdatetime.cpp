@@ -3,7 +3,12 @@ DECL|variable|date
 DECL|variable|dateTime
 DECL|variable|dateTime
 DECL|variable|dateTime2
+DECL|variable|format
+DECL|variable|format
+DECL|variable|invalid
 DECL|variable|now
+DECL|variable|string
+DECL|variable|string
 DECL|variable|t
 DECL|variable|t
 DECL|variable|time
@@ -11,3 +16,4 @@ DECL|variable|time
 DECL|variable|time
 DECL|variable|time1
 DECL|variable|time1
+DECL|variable|valid
