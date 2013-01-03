@@ -126,5 +126,3 @@ DECL|typedef|ItemList
 DECL|typedef|RectList
 DECL|typedef|SizeList
 DECL|variable|ItemList
-DECL|variable|RectList
-DECL|variable|SizeList
