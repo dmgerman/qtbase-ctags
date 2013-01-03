@@ -13,12 +13,12 @@ DECL|member|divClass
 DECL|member|divClass
 DECL|member|inherited
 DECL|member|inherited
-DECL|member|innerNode
 DECL|member|keys
 DECL|member|memberMap
 DECL|member|members
 DECL|member|name
 DECL|member|name
+DECL|member|parent_
 DECL|member|pluralMember
 DECL|member|pluralMember
 DECL|member|reimpMemberMap

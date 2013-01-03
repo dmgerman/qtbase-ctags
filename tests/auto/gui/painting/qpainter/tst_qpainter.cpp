@@ -47,6 +47,7 @@ DECL|function|drawEllipse
 DECL|function|drawEllipse_data
 DECL|function|drawImage
 DECL|function|drawImage_1x1
+DECL|function|drawImage_QTBUG28324
 DECL|function|drawImage_data
 DECL|function|drawImage_task217400
 DECL|function|drawImage_task217400_data

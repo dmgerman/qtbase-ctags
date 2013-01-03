@@ -39,6 +39,8 @@ DECL|typedef|khronos_int64_t
 DECL|typedef|khronos_int64_t
 DECL|typedef|khronos_int8_t
 DECL|typedef|khronos_intptr_t
+DECL|typedef|khronos_intptr_t
+DECL|typedef|khronos_ssize_t
 DECL|typedef|khronos_ssize_t
 DECL|typedef|khronos_stime_nanoseconds_t
 DECL|typedef|khronos_uint16_t
@@ -56,5 +58,7 @@ DECL|typedef|khronos_uint64_t
 DECL|typedef|khronos_uint64_t
 DECL|typedef|khronos_uint8_t
 DECL|typedef|khronos_uintptr_t
+DECL|typedef|khronos_uintptr_t
+DECL|typedef|khronos_usize_t
 DECL|typedef|khronos_usize_t
 DECL|typedef|khronos_utime_nanoseconds_t

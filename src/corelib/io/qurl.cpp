@@ -136,6 +136,8 @@ DECL|function|topLevelDomain
 DECL|function|url
 DECL|function|userInfo
 DECL|function|userName
+DECL|function|validateComponent
+DECL|function|validateComponent
 DECL|function|validityError
 DECL|function|~QUrl
 DECL|function|~QUrlPrivate

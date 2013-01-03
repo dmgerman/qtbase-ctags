@@ -1,6 +1,8 @@
+DECL|class|LayoutDirectionSaver
 DECL|class|Menu
 DECL|class|QtTestSlot
 DECL|class|tst_QMenuBar
+DECL|function|LayoutDirectionSaver
 DECL|function|QtTestSlot
 DECL|function|accel
 DECL|function|activatedCount
@@ -42,6 +44,7 @@ DECL|function|task256322_highlight
 DECL|function|taskQTBUG11823_crashwithInvisibleActions
 DECL|function|taskQTBUG4965_escapeEaten
 DECL|function|tst_QMenuBar
+DECL|function|~LayoutDirectionSaver
 DECL|function|~QtTestSlot
 DECL|function|~tst_QMenuBar
 DECL|member|action
@@ -56,6 +59,7 @@ DECL|member|item2_F
 DECL|member|item2_G
 DECL|member|item2_H
 DECL|member|last_accel_id
+DECL|member|m_oldDirection
 DECL|member|mb
 DECL|member|menu1
 DECL|member|menu2

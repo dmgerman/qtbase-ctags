@@ -1,5 +1,6 @@
 DECL|function|buttonByNumber
 DECL|function|enumNameFromValue
+DECL|function|enumNamesFromMouseButtons
 DECL|function|mouseDoubleClickEvent
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent

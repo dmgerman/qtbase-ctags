@@ -6,6 +6,7 @@ DECL|function|QTextEditControl
 DECL|function|QTextEditPrivate
 DECL|function|_q_adjustScrollbars
 DECL|function|_q_currentCharFormatChanged
+DECL|function|_q_cursorPositionChanged
 DECL|function|_q_ensureVisible
 DECL|function|_q_repaintContents
 DECL|function|acceptRichText

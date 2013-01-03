@@ -1,0 +1,3 @@
+DECL|class|tst_QSqlResult
+DECL|function|positionalToNamedBinding
+DECL|function|tst_QSqlResult

@@ -82,6 +82,8 @@ DECL|function|isPassphraseRequired
 DECL|function|isRoaming
 DECL|function|isSetupRequired
 DECL|function|lookupService
+DECL|function|operator <<
+DECL|function|operator >>
 DECL|function|propertyChanged
 DECL|function|registerAgent
 DECL|function|registerCounter

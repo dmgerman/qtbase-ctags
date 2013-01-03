@@ -34,3 +34,4 @@ DECL|macro|q_sk_X509_value
 DECL|variable|QDateTime
 DECL|variable|q_SSL_get_current_cipher
 DECL|variable|q_SSL_get_peer_certificate
+DECL|variable|q_i2d_DSAPrivateKey

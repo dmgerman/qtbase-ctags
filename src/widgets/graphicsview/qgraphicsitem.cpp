@@ -43,7 +43,6 @@ DECL|function|QGraphicsTextItemPrivate
 DECL|function|_q_adjustRect
 DECL|function|_q_ensureVisible
 DECL|function|_q_mouseOnEdge
-DECL|function|_q_qgraphicsItemSetFlag
 DECL|function|_q_update
 DECL|function|_q_updateBoundingRect
 DECL|function|_qt_movableAncestorIsSelected

@@ -25,6 +25,7 @@ DECL|function|pixelMetric
 DECL|function|progressBarChangeStyle
 DECL|function|qt_wince_is_smartphone
 DECL|function|readImage
+DECL|function|setFrameless
 DECL|function|styleHint
 DECL|function|testAllFunctions
 DECL|function|testDrawingShortcuts

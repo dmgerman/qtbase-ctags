@@ -23,6 +23,7 @@ DECL|function|introspect
 DECL|function|notify
 DECL|function|notifyAboutCreation
 DECL|function|notifyAboutDestruction
+DECL|function|notifyStateChange
 DECL|function|packDBusSignalArguments
 DECL|function|pathForInterface
 DECL|function|pathForObject

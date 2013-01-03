@@ -34,6 +34,7 @@ DECL|function|operator =
 DECL|function|pixelMetric
 DECL|function|pixelMetric
 DECL|function|populate
+DECL|function|setFrameless
 DECL|function|setMinAndMaxSize
 DECL|function|setMinimumSizeHint
 DECL|function|setNumberOfPixels

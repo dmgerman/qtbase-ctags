@@ -67,6 +67,7 @@ DECL|function|setMotifWmHints
 DECL|function|setMouseGrabEnabled
 DECL|function|setNetWmStates
 DECL|function|setNetWmWindowFlags
+DECL|function|setOpacity
 DECL|function|setParent
 DECL|function|setTransparentForMouseEvents
 DECL|function|setVisible
@@ -76,8 +77,6 @@ DECL|function|setWindowState
 DECL|function|setWindowTitle
 DECL|function|show
 DECL|function|startSystemResize
-DECL|function|translateMouseButton
-DECL|function|translateMouseButtons
 DECL|function|updateDoesNotAcceptFocus
 DECL|function|updateMotifWmHintsBeforeMap
 DECL|function|updateNetWmStateBeforeMap

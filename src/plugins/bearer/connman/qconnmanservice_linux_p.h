@@ -12,6 +12,11 @@ DECL|macro|CONNMAN_SERVICE_INTERFACE
 DECL|macro|CONNMAN_TASK_INTERFACE
 DECL|macro|CONNMAN_TECHNOLOGY_INTERFACE
 DECL|macro|QCONNMANSERVICE_H
+DECL|member|objectPath
+DECL|member|propertyMap
+DECL|struct|ConnmanMap
+DECL|typedef|ConnmanMapList
 DECL|variable|QConnmanCounterInterfacePrivate
 DECL|variable|QConnmanProfileInterfacePrivate
 DECL|variable|QObject
+DECL|variable|operator

@@ -32,7 +32,6 @@ DECL|function|text
 DECL|function|widget
 DECL|function|window
 DECL|function|~QAccessibleWidget
-DECL|member|asking
 DECL|member|name
 DECL|member|primarySignals
 DECL|member|role

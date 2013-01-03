@@ -2,7 +2,17 @@ DECL|enumerator|NonFunction
 DECL|enumerator|SearchBaseClasses
 DECL|enumerator|SearchEnumValues
 DECL|enum|FindFlag
+DECL|function|TargetRec
+DECL|function|isEmpty
 DECL|macro|QDOCDATABASE_H
+DECL|member|Class
+DECL|member|Contents
+DECL|member|Function
+DECL|member|Keyword
+DECL|member|Page
+DECL|member|Target
+DECL|member|public
+DECL|struct|TargetRec
 DECL|typedef|DocNodeMap
 DECL|typedef|DocNodeMultiMap
 DECL|typedef|NodeMapMap
@@ -19,3 +29,7 @@ DECL|typedef|Text
 DECL|typedef|TextToNodeMap
 DECL|variable|Atom
 DECL|variable|Generator
+DECL|variable|node_
+DECL|variable|priority_
+DECL|variable|ref_
+DECL|variable|type_

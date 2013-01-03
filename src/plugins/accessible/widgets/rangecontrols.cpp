@@ -15,6 +15,8 @@ DECL|function|interface_cast
 DECL|function|interface_cast
 DECL|function|maximumValue
 DECL|function|maximumValue
+DECL|function|minimumStepSize
+DECL|function|minimumStepSize
 DECL|function|minimumValue
 DECL|function|minimumValue
 DECL|function|scrollBar

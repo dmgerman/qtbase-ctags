@@ -1,2 +1,2 @@
+DECL|function|QT_FORWARD_DECLARE_CLASS
 DECL|macro|BUBBLE_H
-DECL|variable|QPainter
