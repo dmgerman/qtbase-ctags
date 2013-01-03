@@ -78,4 +78,3 @@ DECL|macro|SPI_GETPLATFORMTYPE
 DECL|macro|interface
 DECL|member|clickCount
 DECL|member|click_count
-DECL|typedef|QAIPtr

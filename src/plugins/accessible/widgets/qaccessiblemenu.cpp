@@ -12,6 +12,7 @@ DECL|function|childCount
 DECL|function|childCount
 DECL|function|childCount
 DECL|function|doAction
+DECL|function|getOrCreateMenu
 DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|indexOfChild

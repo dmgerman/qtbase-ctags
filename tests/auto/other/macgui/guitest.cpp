@@ -9,7 +9,6 @@ DECL|function|checkPixel
 DECL|function|clearSequence
 DECL|function|clickLater
 DECL|function|clickLater
-DECL|function|deleteInDestructor
 DECL|function|exitLoopSlot
 DECL|function|find
 DECL|function|find
