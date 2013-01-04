@@ -29,6 +29,7 @@ DECL|function|dialogButtonBoxTest
 DECL|function|dockWidgetTest
 DECL|function|doubleSpinBoxTest
 DECL|function|eventTest
+DECL|function|fuzzyRectCompare
 DECL|function|groupBoxTest
 DECL|function|hideShowTest
 DECL|function|ifaceFactory
