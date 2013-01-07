@@ -15,6 +15,7 @@ DECL|class|EventSpy
 DECL|class|FocusWidget
 DECL|class|GDIWidget
 DECL|class|GrabLoggerWidget
+DECL|class|KeyboardWidget
 DECL|class|MaskResizeTestWidget
 DECL|class|MaskSetWidget
 DECL|class|MaskedPainter
@@ -53,6 +54,7 @@ DECL|function|EventSpy
 DECL|function|FocusWidget
 DECL|function|GDIWidget
 DECL|function|GrabLoggerWidget
+DECL|function|KeyboardWidget
 DECL|function|MaskResizeTestWidget
 DECL|function|MaskSetWidget
 DECL|function|MaskedPainter
@@ -161,6 +163,7 @@ DECL|function|isOpaque
 DECL|function|isVisibleTo
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
+DECL|function|keyboardModifiers
 DECL|function|leaveEvent
 DECL|function|lenientCompare
 DECL|function|lostUpdatesOnHide
@@ -366,9 +369,12 @@ DECL|member|leaves
 DECL|member|lineEdit
 DECL|member|m_acceptMouse
 DECL|member|m_acceptTouch
+DECL|member|m_appModifiers
 DECL|member|m_count
+DECL|member|m_eventCounter
 DECL|member|m_lastMouseEventPos
 DECL|member|m_log
+DECL|member|m_modifiers
 DECL|member|m_mouseEventCount
 DECL|member|m_platform
 DECL|member|m_resizeEventCount

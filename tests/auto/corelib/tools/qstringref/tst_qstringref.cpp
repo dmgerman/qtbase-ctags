@@ -33,6 +33,7 @@ DECL|macro|NAN
 DECL|macro|NAN
 DECL|macro|isnan
 DECL|macro|isnan
+DECL|macro|isnan
 DECL|typedef|IntList
 DECL|variable|be_inf_bytes
 DECL|variable|be_nan_bytes

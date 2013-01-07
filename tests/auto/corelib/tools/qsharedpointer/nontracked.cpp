@@ -1,0 +1,16 @@
+DECL|class|Data
+DECL|class|DerivedData
+DECL|function|Data
+DECL|function|DerivedData
+DECL|function|dynamicCastFailureNoLeak
+DECL|function|~Data
+DECL|function|~DerivedData
+DECL|member|derivedDestructorCounter
+DECL|member|derivedDestructorCounter
+DECL|member|destructorCounter
+DECL|member|destructorCounter
+DECL|member|generation
+DECL|member|generationCounter
+DECL|member|generationCounter
+DECL|member|moreData
+DECL|namespace|NonTracked

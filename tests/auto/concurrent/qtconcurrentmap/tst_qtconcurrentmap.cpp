@@ -73,12 +73,6 @@ DECL|typedef|result_type
 DECL|typedef|result_type
 DECL|variable|QList
 DECL|variable|QList
-DECL|variable|QList
-DECL|variable|QList
-DECL|variable|QList
-DECL|variable|QVector
-DECL|variable|QVector
-DECL|variable|QVector
 DECL|variable|QVector
 DECL|variable|currentInstanceCount
 DECL|variable|peakInstanceCount

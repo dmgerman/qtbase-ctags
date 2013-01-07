@@ -16,4 +16,5 @@ DECL|member|factory
 DECL|member|proxies
 DECL|member|query
 DECL|member|requestCounter
+DECL|member|requestCounter
 DECL|member|returnedList
