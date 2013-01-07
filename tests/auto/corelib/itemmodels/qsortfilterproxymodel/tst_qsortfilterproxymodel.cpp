@@ -1,5 +1,6 @@
 DECL|class|ChangableHeaderData
 DECL|class|CustomDataProxy
+DECL|class|CustomRoleNameModel
 DECL|class|EvenOddFilterModel
 DECL|class|FilterProxy
 DECL|class|FilterProxy2
@@ -15,6 +16,7 @@ DECL|class|TestModel
 DECL|class|tst_QSortFilterProxyModel
 DECL|function|ChangableHeaderData
 DECL|function|CustomDataProxy
+DECL|function|CustomRoleNameModel
 DECL|function|FilterProxy
 DECL|function|FilterProxy2
 DECL|function|FilteredColumnProxyModel
@@ -29,6 +31,7 @@ DECL|function|addEntry
 DECL|function|appearsAndSort
 DECL|function|buildHierarchy
 DECL|function|canFetchMore
+DECL|function|chainedProxyModelRoleNames
 DECL|function|changeFilter
 DECL|function|changeFilter_data
 DECL|function|changeSourceData
@@ -40,6 +43,7 @@ DECL|function|cleanupTestCase
 DECL|function|columnCount
 DECL|function|columnCount
 DECL|function|columnCount
+DECL|function|data
 DECL|function|data
 DECL|function|data
 DECL|function|data
@@ -109,6 +113,8 @@ DECL|function|removeSourceRows_data
 DECL|function|resetInternalData
 DECL|function|resetInvalidate
 DECL|function|resetInvalidate_data
+DECL|function|roleNames
+DECL|function|rowCount
 DECL|function|rowCount
 DECL|function|rowCount
 DECL|function|rowCount
