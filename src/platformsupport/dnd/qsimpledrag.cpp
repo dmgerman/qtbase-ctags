@@ -16,5 +16,6 @@ DECL|function|platformDropData
 DECL|function|resetDndState
 DECL|function|startDrag
 DECL|function|startDrag
+DECL|function|topLevelAt
 DECL|function|updateCursor
 DECL|function|~QBasicDrag
