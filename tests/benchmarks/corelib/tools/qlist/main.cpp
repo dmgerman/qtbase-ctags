@@ -29,4 +29,3 @@ DECL|struct|MyComplex
 DECL|struct|MyMovable
 DECL|struct|MyPrimitive
 DECL|variable|N
-DECL|variable|QList

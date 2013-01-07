@@ -51,7 +51,6 @@ DECL|macro|LOCALE_SSHORTESTDAYNAME6
 DECL|macro|LOCALE_SSHORTESTDAYNAME7
 DECL|macro|MUI_LANGUAGE_NAME
 DECL|member|iso_name
-DECL|member|langEnvVar
 DECL|member|lcid
 DECL|member|substitutionType
 DECL|member|windows_code

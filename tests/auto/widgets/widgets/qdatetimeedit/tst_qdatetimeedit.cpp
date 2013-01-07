@@ -136,7 +136,3 @@ DECL|typedef|TimeList
 DECL|variable|Key
 DECL|variable|KeyboardModifier
 DECL|variable|KeyboardModifiers
-DECL|variable|QDate
-DECL|variable|QDateTime
-DECL|variable|QList
-DECL|variable|QTime

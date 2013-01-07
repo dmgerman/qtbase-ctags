@@ -173,8 +173,6 @@ DECL|struct|Complex
 DECL|struct|Movable
 DECL|struct|SimpleValue
 DECL|variable|Complex
-DECL|variable|QList
-DECL|variable|QList
 DECL|variable|isComplex
 DECL|variable|isComplex
 DECL|variable|isStatic

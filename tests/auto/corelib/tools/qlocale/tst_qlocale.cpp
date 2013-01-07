@@ -12,6 +12,7 @@ DECL|function|dayName
 DECL|function|dayName_data
 DECL|function|dayOfWeek
 DECL|function|dayOfWeek_data
+DECL|function|defaultNumeringSystem
 DECL|function|double_conversion
 DECL|function|double_conversion_data
 DECL|function|emptyCtor

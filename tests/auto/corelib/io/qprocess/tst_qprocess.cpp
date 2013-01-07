@@ -95,4 +95,3 @@ DECL|member|process
 DECL|member|waitedForFinished
 DECL|variable|ExitStatus
 DECL|variable|ProcessState
-DECL|variable|QList

@@ -1,4 +1,3 @@
-DECL|class|CompareEdges
 DECL|class|CompareVertices
 DECL|class|ComplexToSimple
 DECL|class|DebugDialog
@@ -16,7 +15,6 @@ DECL|enumerator|StartVertex
 DECL|enumerator|Upper
 DECL|enum|Type
 DECL|enum|VertexType
-DECL|function|CompareEdges
 DECL|function|CompareVertices
 DECL|function|ComplexToSimple
 DECL|function|DebugDialog
@@ -34,7 +32,6 @@ DECL|function|classifyVertex
 DECL|function|classifyVertices
 DECL|function|clear
 DECL|function|compare
-DECL|function|comparePoints
 DECL|function|contains
 DECL|function|createDiagonal
 DECL|function|decompose
@@ -74,7 +71,6 @@ DECL|function|next
 DECL|function|operator !=
 DECL|function|operator !=
 DECL|function|operator !=
-DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator +
 DECL|function|operator +=
@@ -176,7 +172,6 @@ DECL|member|m_indices
 DECL|member|m_initialPointCount
 DECL|member|m_lastMousePos
 DECL|member|m_length
-DECL|member|m_parent
 DECL|member|m_parent
 DECL|member|m_parent
 DECL|member|m_parent

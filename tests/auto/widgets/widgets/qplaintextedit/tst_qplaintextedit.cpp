@@ -113,6 +113,4 @@ DECL|member|useBiggerSize
 DECL|member|usedSize
 DECL|typedef|keyPairType
 DECL|typedef|pairListType
-DECL|variable|QList
 DECL|variable|keyPairType
-DECL|variable|pairListType

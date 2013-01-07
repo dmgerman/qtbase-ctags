@@ -168,7 +168,6 @@ DECL|struct|Movable
 DECL|struct|SharedVectorChecker
 DECL|struct|SimpleValue
 DECL|variable|Custom
-DECL|variable|QVector
 DECL|variable|fooCtor
 DECL|variable|fooDtor
 DECL|variable|isComplex
