@@ -13,6 +13,7 @@ DECL|function|handleExposeEvent
 DECL|function|handleExtendedKeyEvent
 DECL|function|handleExtendedKeyEvent
 DECL|function|handleFileOpenEvent
+DECL|function|handleFileOpenEvent
 DECL|function|handleFrameStrutMouseEvent
 DECL|function|handleFrameStrutMouseEvent
 DECL|function|handleGeometryChange
