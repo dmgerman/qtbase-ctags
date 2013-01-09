@@ -50,6 +50,7 @@ DECL|function|recurseTreeModelIndex
 DECL|function|setCompletionModel
 DECL|function|setCompletionPrefix
 DECL|function|setCsvCompletion
+DECL|function|setFrameless
 DECL|function|setSourceModel
 DECL|function|setters
 DECL|function|sortedEngineMapFromSource

@@ -257,6 +257,7 @@ DECL|function|qtbug18232gzipContentLengthZero
 DECL|function|qtbug22660gzipNoContentLengthEmptyContent
 DECL|function|qtbug27161httpHeaderMayBeDamaged
 DECL|function|qtbug27161httpHeaderMayBeDamaged_data
+DECL|function|qtbug28035browserDoesNotLoadQtProjectOrgCorrectly
 DECL|function|qtbug4121unknownAuthentication
 DECL|function|queryProxy
 DECL|function|rateControl
@@ -288,6 +289,7 @@ DECL|function|sendCustomRequestToHttp_data
 DECL|function|serverPort
 DECL|function|serverPort
 DECL|function|setAllCookies
+DECL|function|setDataToTransmit
 DECL|function|setupSslServer
 DECL|function|slotDataReady
 DECL|function|slotError

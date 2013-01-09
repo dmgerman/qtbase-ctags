@@ -51,6 +51,7 @@ DECL|function|selectAll
 DECL|function|setCurrentIndex
 DECL|function|setCurrentIndex_data
 DECL|function|setData
+DECL|function|setFrameless
 DECL|function|setItemDelegate
 DECL|function|setItemDelegate_data
 DECL|function|setModel

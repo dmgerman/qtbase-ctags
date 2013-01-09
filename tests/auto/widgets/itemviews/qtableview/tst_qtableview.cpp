@@ -126,6 +126,7 @@ DECL|function|selection
 DECL|function|selectionSignal
 DECL|function|selection_data
 DECL|function|setCurrentIndex
+DECL|function|setFrameless
 DECL|function|setHeaders
 DECL|function|setModel
 DECL|function|setSelection

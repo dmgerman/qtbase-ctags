@@ -12,6 +12,7 @@ DECL|function|formatDropEvent
 DECL|function|initTestCase
 DECL|function|msgEventAccepted
 DECL|function|reset
+DECL|function|setFrameless
 DECL|function|tst_QWidget_window
 DECL|function|tst_dnd
 DECL|function|tst_min_max_size

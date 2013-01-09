@@ -268,6 +268,7 @@ DECL|function|setCursor
 DECL|function|setEllipseEnabled
 DECL|function|setFixedSize
 DECL|function|setFocus
+DECL|function|setFrameless
 DECL|function|setGeometry
 DECL|function|setGeometry_win
 DECL|function|setGraphicsEffect

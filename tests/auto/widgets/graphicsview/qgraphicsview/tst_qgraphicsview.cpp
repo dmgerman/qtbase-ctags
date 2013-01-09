@@ -143,6 +143,7 @@ DECL|function|sendEvent
 DECL|function|sendMouseMove
 DECL|function|sendMousePress
 DECL|function|sendMouseRelease
+DECL|function|setFrameless
 DECL|function|setScene
 DECL|function|setSceneRect
 DECL|function|styleHint
