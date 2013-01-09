@@ -1,4 +1,5 @@
 DECL|macro|QSSLCERTIFICATE_H
+DECL|macro|verify
 DECL|variable|QDateTime
 DECL|variable|QIODevice
 DECL|variable|QSslCertificateExtension
