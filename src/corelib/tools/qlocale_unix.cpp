@@ -1,9 +1,10 @@
 DECL|function|QQNXLocaleData
 DECL|function|QSystemLocaleData
 DECL|function|fallbackUiLocale
+DECL|function|initialize
+DECL|function|installSocketNotifier
 DECL|function|query
 DECL|function|readEnvironment
-DECL|function|readPPSLocale
 DECL|function|updateMeasurementSystem
 DECL|function|~QQNXLocaleData
 DECL|member|lc_measurement_var
