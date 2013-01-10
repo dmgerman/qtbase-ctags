@@ -86,7 +86,7 @@ DECL|function|stringToCMap
 DECL|function|stringToCMap
 DECL|function|stripped
 DECL|function|subPixelPositionForX
-DECL|function|supportsTransformations
+DECL|function|supportsTransformation
 DECL|function|tightBoundingBox
 DECL|function|type
 DECL|function|underlinePosition

@@ -46,6 +46,7 @@ DECL|function|setCoords
 DECL|function|setScissor
 DECL|function|setState
 DECL|function|setVertexAttribArrayEnabled
+DECL|function|shouldDrawCachedGlyphs
 DECL|function|stroke
 DECL|function|stroke
 DECL|function|syncGlState
