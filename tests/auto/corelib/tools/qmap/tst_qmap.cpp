@@ -16,6 +16,7 @@ DECL|function|empty
 DECL|function|equal_range
 DECL|function|find
 DECL|function|init
+DECL|function|initializerList
 DECL|function|insert
 DECL|function|iterators
 DECL|function|key
