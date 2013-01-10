@@ -1,0 +1,14 @@
+DECL|function|QLoggingRegistry
+DECL|function|QLoggingRule
+DECL|function|QLoggingRule
+DECL|function|QLoggingRulesParser
+DECL|function|defaultCategoryFilter
+DECL|function|installFilter
+DECL|function|instance
+DECL|function|parse
+DECL|function|parseRules
+DECL|function|pass
+DECL|function|registerCategory
+DECL|function|setRules
+DECL|function|setRules
+DECL|function|unregisterCategory
