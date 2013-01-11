@@ -6,6 +6,7 @@ DECL|function|canAnimate
 DECL|function|cleanupTreeViewTheming
 DECL|function|clonedAnimationStyleOption
 DECL|function|createTreeViewHelperWindow
+DECL|function|deleteClonedAnimationStyleOption
 DECL|function|drawComplexControl
 DECL|function|drawControl
 DECL|function|drawPrimitive
