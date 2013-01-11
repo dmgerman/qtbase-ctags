@@ -1,0 +1,5 @@
+DECL|class|tst_QMessageAuthenticationCode
+DECL|function|result
+DECL|function|result_data
+DECL|function|result_incremental
+DECL|function|result_incremental_data
