@@ -15,6 +15,7 @@ DECL|function|qt_int_sqrt
 DECL|function|qt_mac_create_fsref
 DECL|function|qt_mac_from_pascal_string
 DECL|function|qt_mac_to_pascal_string
+DECL|function|qunsetenv
 DECL|function|registerCallback
 DECL|function|unregisterCallback
 DECL|function|windowsVersion
