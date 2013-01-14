@@ -64,6 +64,7 @@ DECL|function|qt_timeout_value
 DECL|function|readData
 DECL|function|resume
 DECL|function|resumeSocketNotifiers
+DECL|function|rootCertOnDemandLoadingSupported
 DECL|function|sessionCipher
 DECL|function|setCaCertificates
 DECL|function|setCiphers
