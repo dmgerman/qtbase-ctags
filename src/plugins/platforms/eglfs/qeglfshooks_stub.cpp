@@ -12,4 +12,6 @@ DECL|function|screenDepth
 DECL|function|screenFormat
 DECL|function|screenSize
 DECL|function|surfaceFormatFor
+DECL|function|waitForVSync
+DECL|variable|framebuffer
 DECL|variable|stubHooks
