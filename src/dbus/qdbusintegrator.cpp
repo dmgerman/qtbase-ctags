@@ -5,6 +5,7 @@ DECL|function|activateObject
 DECL|function|activateSignal
 DECL|function|buildMatchRule
 DECL|function|checkThread
+DECL|function|cleanupDeletedNodes
 DECL|function|closeConnection
 DECL|function|connectRelay
 DECL|function|connectSignal
