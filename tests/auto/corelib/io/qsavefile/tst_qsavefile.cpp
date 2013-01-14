@@ -5,4 +5,5 @@ DECL|function|textStreamManualFlush
 DECL|function|transactionalWrite
 DECL|function|transactionalWriteCanceled
 DECL|function|transactionalWriteErrorRenaming
-DECL|function|transactionalWriteNoPermissions
+DECL|function|transactionalWriteNoPermissionsOnDir
+DECL|function|transactionalWriteNoPermissionsOnFile
