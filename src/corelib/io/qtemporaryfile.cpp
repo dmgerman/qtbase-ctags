@@ -22,6 +22,7 @@ DECL|function|open
 DECL|function|open
 DECL|function|remove
 DECL|function|rename
+DECL|function|renameOverwrite
 DECL|function|setAutoRemove
 DECL|function|setFileName
 DECL|function|setFileTemplate

@@ -40,6 +40,7 @@ DECL|function|read
 DECL|function|readLine
 DECL|function|remove
 DECL|function|rename
+DECL|function|renameOverwrite
 DECL|function|rmdir
 DECL|function|seek
 DECL|function|setError

@@ -28,6 +28,7 @@ DECL|function|owner
 DECL|function|ownerId
 DECL|function|remove
 DECL|function|rename
+DECL|function|renameOverwrite
 DECL|function|rmdir
 DECL|function|rootPath
 DECL|function|setCurrentPath
