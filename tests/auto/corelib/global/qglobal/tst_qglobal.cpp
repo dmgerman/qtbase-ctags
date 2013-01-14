@@ -16,9 +16,12 @@ DECL|function|checkptr
 DECL|function|foo
 DECL|function|for_each
 DECL|function|isEnum
+DECL|function|myStartupFunc
 DECL|function|qAlignOf
 DECL|function|qConstructorFunction
 DECL|function|qConstructorFunctionCtor
+DECL|function|qCoreAppStartupFunction
+DECL|function|qCoreAppStartupFunctionRestart
 DECL|function|qIsNull
 DECL|function|qassert
 DECL|function|qstaticassert
@@ -53,3 +56,4 @@ DECL|typedef|memFun
 DECL|union|isEnum_C
 DECL|variable|qConstructorFunctionCtor
 DECL|variable|qConstructorFunctionValue
+DECL|variable|qStartupFunctionValue
