@@ -60,6 +60,7 @@ DECL|function|screen
 DECL|function|screenDestroyed
 DECL|function|setBaseSize
 DECL|function|setCursor
+DECL|function|setCursor
 DECL|function|setFilePath
 DECL|function|setFlags
 DECL|function|setFormat

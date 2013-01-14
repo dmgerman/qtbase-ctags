@@ -9,6 +9,7 @@ DECL|function|WindowCreationData
 DECL|function|addRectToWinRegion
 DECL|function|alertWindow
 DECL|function|applyCursor
+DECL|function|applyNewCursor
 DECL|function|applyToMinMaxInfo
 DECL|function|applyToMinMaxInfo
 DECL|function|applyWindowFlags
