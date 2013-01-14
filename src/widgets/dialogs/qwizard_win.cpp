@@ -12,6 +12,7 @@ DECL|enum|WIZ_WINDOWTHEMEATTRIBUTETYPE
 DECL|function|QVistaBackButton
 DECL|function|QVistaHelper
 DECL|function|basicWindowFrameColor
+DECL|function|disconnectBackButton
 DECL|function|drawBlackRect
 DECL|function|drawTitleBar
 DECL|function|drawTitleText
