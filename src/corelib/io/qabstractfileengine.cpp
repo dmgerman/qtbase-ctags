@@ -50,6 +50,7 @@ DECL|function|setPermissions
 DECL|function|setSize
 DECL|function|size
 DECL|function|supportsExtension
+DECL|function|syncToDisk
 DECL|function|unmap
 DECL|function|write
 DECL|function|~QAbstractFileEngine

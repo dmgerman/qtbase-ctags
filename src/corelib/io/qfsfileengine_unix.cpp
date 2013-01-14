@@ -22,6 +22,7 @@ DECL|function|nativeRead
 DECL|function|nativeReadLine
 DECL|function|nativeSeek
 DECL|function|nativeSize
+DECL|function|nativeSyncToDisk
 DECL|function|nativeWrite
 DECL|function|openModeToFopenMode
 DECL|function|openModeToOpenFlags
