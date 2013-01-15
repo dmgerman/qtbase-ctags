@@ -34,6 +34,7 @@ DECL|function|invalidateState
 DECL|function|isNativePaintingActive
 DECL|function|opacityChanged
 DECL|function|penChanged
+DECL|function|prepareForCachedGlyphDraw
 DECL|function|prepareForDraw
 DECL|function|qt_premultiplyColor
 DECL|function|regenerateClip
