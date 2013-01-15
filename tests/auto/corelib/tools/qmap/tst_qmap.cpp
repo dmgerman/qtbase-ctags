@@ -31,6 +31,7 @@ DECL|function|sanityCheckTree
 DECL|function|setSharable
 DECL|function|swap
 DECL|function|take
+DECL|function|testInsertMultiWithHint
 DECL|function|testInsertWithHint
 DECL|function|~MyClass
 DECL|macro|QT_STRICT_ITERATORS
