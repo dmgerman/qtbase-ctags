@@ -75,6 +75,7 @@ DECL|function|testDecomposedUnicodeNames
 DECL|function|testDecomposedUnicodeNames_data
 DECL|function|tst_QFileInfo
 DECL|function|~NativeFileCreator
+DECL|macro|Q_NO_SYMLINKS
 DECL|member|m_currentDir
 DECL|member|m_dir
 DECL|member|m_error
