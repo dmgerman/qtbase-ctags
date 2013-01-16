@@ -1,4 +1,5 @@
 DECL|function|Win32MakefileGenerator
+DECL|function|cQuoted
 DECL|function|defaultInstall
 DECL|function|escapeFilePath
 DECL|function|findHighestVersion

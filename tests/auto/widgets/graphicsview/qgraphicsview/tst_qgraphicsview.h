@@ -1,0 +1,12 @@
+DECL|function|ExpectedValueDescription
+DECL|function|ScrollBarCount
+DECL|macro|TST_QGRAPHICSVIEW_H
+DECL|member|bottom
+DECL|member|left
+DECL|member|right
+DECL|member|scrollBarExtentsToAdd
+DECL|member|spacingsToAdd
+DECL|member|top
+DECL|member|value
+DECL|struct|ExpectedValueDescription
+DECL|struct|ScrollBarCount

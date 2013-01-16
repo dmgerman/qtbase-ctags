@@ -1,5 +1,2 @@
-DECL|function|_scrollBarRangesMotif_data_1
-DECL|function|_scrollBarRangesMotif_data_2
+DECL|function|_scrollBarRanges_addTestData
 DECL|function|_scrollBarRanges_data
-DECL|function|_scrollBarRanges_data_1
-DECL|function|_scrollBarRanges_data_2
