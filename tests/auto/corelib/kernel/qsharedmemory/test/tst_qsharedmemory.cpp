@@ -1,6 +1,7 @@
 DECL|class|Consumer
 DECL|class|Producer
 DECL|class|tst_QSharedMemory
+DECL|function|Producer
 DECL|function|attach
 DECL|function|attachTooMuch
 DECL|function|attach_data
@@ -38,3 +39,4 @@ DECL|macro|EXISTING_SIZE
 DECL|member|existingSharedMemory
 DECL|member|jail
 DECL|member|keys
+DECL|member|producer

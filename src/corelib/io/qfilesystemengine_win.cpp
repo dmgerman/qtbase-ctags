@@ -1,4 +1,5 @@
 DECL|class|SidCleanup
+DECL|enumerator|Q_FileIdInfo
 DECL|function|absoluteName
 DECL|function|accessTime
 DECL|function|canonicalName
@@ -8,6 +9,8 @@ DECL|function|createDirectory
 DECL|function|createLink
 DECL|function|creationTime
 DECL|function|currentPath
+DECL|function|fileId
+DECL|function|fileIdWin8
 DECL|function|fileTimeToQDateTime
 DECL|function|fillMetaData
 DECL|function|fillMetaData
@@ -16,6 +19,7 @@ DECL|function|fillPermissions
 DECL|function|getFindData
 DECL|function|getLinkTarget
 DECL|function|homePath
+DECL|function|id
 DECL|function|isDirPath
 DECL|function|mkDir
 DECL|function|modificationTime
@@ -49,8 +53,10 @@ DECL|macro|SECURITY_WIN32
 DECL|macro|SPI_GETPLATFORMTYPE
 DECL|macro|_INTPTR_T_DEFINED
 DECL|member|DataBuffer
+DECL|member|FileId
 DECL|member|Flags
 DECL|member|GenericReparseBuffer
+DECL|member|Identifier
 DECL|member|MountPointReparseBuffer
 DECL|member|PathBuffer
 DECL|member|PathBuffer
@@ -66,11 +72,18 @@ DECL|member|SubstituteNameLength
 DECL|member|SubstituteNameOffset
 DECL|member|SubstituteNameOffset
 DECL|member|SymbolicLinkReparseBuffer
+DECL|member|VolumeSerialNumber
 DECL|member|shi1_netname
 DECL|member|shi1_remark
 DECL|member|shi1_type
+DECL|struct|_FILE_ID_128
+DECL|struct|_FILE_ID_INFO
 DECL|struct|_REPARSE_DATA_BUFFER
 DECL|struct|_SHARE_INFO_1
+DECL|typedef|FILE_ID_128
+DECL|typedef|FILE_ID_INFO
+DECL|typedef|PFILE_ID_128
+DECL|typedef|PFILE_ID_INFO
 DECL|typedef|PREPARSE_DATA_BUFFER
 DECL|typedef|PtrBuildTrusteeWithSidW
 DECL|typedef|PtrGetEffectiveRightsFromAclW
@@ -80,6 +93,7 @@ DECL|typedef|PtrGetVolumePathNamesForVolumeNameW
 DECL|typedef|PtrLookupAccountSidW
 DECL|typedef|PtrNetApiBufferFree
 DECL|typedef|PtrNetShareEnum
+DECL|typedef|Q_FILE_INFO_BY_HANDLE_CLASS
 DECL|typedef|REPARSE_DATA_BUFFER
 DECL|typedef|SHARE_INFO_1
 DECL|typedef|intptr_t

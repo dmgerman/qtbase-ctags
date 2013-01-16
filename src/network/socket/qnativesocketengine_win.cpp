@@ -31,6 +31,7 @@ DECL|function|verboseWSErrorDebug
 DECL|function|~QWindowsSockInit
 DECL|macro|AF_INET6
 DECL|macro|IOC_VENDOR
+DECL|macro|IPV6_V6ONLY
 DECL|macro|NOMINMAX
 DECL|macro|SIO_UDP_CONNRESET
 DECL|macro|SO_EXCLUSIVEADDRUSE
