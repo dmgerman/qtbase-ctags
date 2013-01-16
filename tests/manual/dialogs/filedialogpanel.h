@@ -4,3 +4,4 @@ DECL|variable|QCheckBox
 DECL|variable|QComboBox
 DECL|variable|QLineEdit
 DECL|variable|QPlainTextEdit
+DECL|variable|QPushButton
