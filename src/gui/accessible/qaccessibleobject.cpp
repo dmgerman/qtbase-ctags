@@ -1,7 +1,6 @@
 DECL|class|QAccessibleObjectPrivate
 DECL|function|QAccessibleApplication
 DECL|function|QAccessibleObject
-DECL|function|actionList
 DECL|function|child
 DECL|function|childAt
 DECL|function|childCount
