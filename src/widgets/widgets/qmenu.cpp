@@ -86,10 +86,12 @@ DECL|function|setSeparatorsCollapsible
 DECL|function|setSyncAction
 DECL|function|setTearOffEnabled
 DECL|function|setTitle
+DECL|function|setToolTipsVisible
 DECL|function|sizeHint
 DECL|function|syncWithMenu
 DECL|function|timerEvent
 DECL|function|title
+DECL|function|toolTipsVisible
 DECL|function|topCausedWidget
 DECL|function|updateActionRects
 DECL|function|updateActionRects
