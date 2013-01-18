@@ -1,6 +1,8 @@
 DECL|enumerator|ARM_NEON
 DECL|enumerator|AVX
 DECL|enumerator|AVX2
+DECL|enumerator|DSP
+DECL|enumerator|DSPR2
 DECL|enumerator|HLE
 DECL|enumerator|IWMMXT
 DECL|enumerator|NEON
