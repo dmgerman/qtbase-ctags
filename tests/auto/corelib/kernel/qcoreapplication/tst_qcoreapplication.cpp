@@ -17,6 +17,7 @@ DECL|function|ProcessEventsAlwaysSendsPostedEventsObject
 DECL|function|QuitTester
 DECL|function|applicationPid
 DECL|function|argc
+DECL|function|createQObjectOnDestruction
 DECL|function|customEventDispatcher
 DECL|function|deliverInDefinedOrder
 DECL|function|doTest
