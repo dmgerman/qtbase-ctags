@@ -1,1 +1,2 @@
 DECL|function|convert_ARGB_to_ARGB_PM_inplace_mips_dspr2
+DECL|function|convert_RGB888_to_RGB32_mips_dspr2
