@@ -3,6 +3,8 @@ DECL|function|boolfunc
 DECL|function|boolfunc2
 DECL|function|compareQImages
 DECL|function|compareQImages_data
+DECL|function|compareQListDouble
+DECL|function|compareQListInt
 DECL|function|compareQPixmaps
 DECL|function|compareQPixmaps_data
 DECL|function|compareQStringLists
