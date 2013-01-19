@@ -1,5 +1,3 @@
-DECL|function|allocate
-DECL|function|deallocate
 DECL|member|shared_null
 DECL|variable|qt_array
 DECL|variable|qt_array_empty

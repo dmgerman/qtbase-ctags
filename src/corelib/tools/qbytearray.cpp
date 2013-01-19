@@ -49,7 +49,6 @@ DECL|function|prepend
 DECL|function|prepend
 DECL|function|prepend
 DECL|function|prepend
-DECL|function|qAllocMore
 DECL|function|qChecksum
 DECL|function|qCompress
 DECL|function|qIsUpper
