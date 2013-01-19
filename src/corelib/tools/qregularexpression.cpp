@@ -50,6 +50,7 @@ DECL|function|matchOptions
 DECL|function|matchOptions
 DECL|function|matchType
 DECL|function|matchType
+DECL|function|namedCaptureGroups
 DECL|function|next
 DECL|function|nextMatch
 DECL|function|operator <<

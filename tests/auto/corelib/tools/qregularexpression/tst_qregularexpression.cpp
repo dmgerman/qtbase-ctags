@@ -1,6 +1,8 @@
 DECL|function|Match
 DECL|function|captureCount
 DECL|function|captureCount_data
+DECL|function|captureNames
+DECL|function|captureNames_data
 DECL|function|clear
 DECL|function|consistencyCheck
 DECL|function|consistencyCheck
@@ -43,3 +45,4 @@ DECL|member|hasPartialMatch
 DECL|member|isValid
 DECL|member|namedCaptured
 DECL|struct|Match
+DECL|typedef|StringToIntMap
