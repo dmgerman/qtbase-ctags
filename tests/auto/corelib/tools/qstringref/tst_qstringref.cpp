@@ -24,6 +24,7 @@ DECL|function|nan
 DECL|function|operator_eqeq_nullstring
 DECL|function|sign
 DECL|function|startsWith
+DECL|function|trimmed
 DECL|macro|CREATE_REF
 DECL|macro|INFINITY
 DECL|macro|INFINITY

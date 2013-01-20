@@ -198,6 +198,7 @@ DECL|function|toUpper
 DECL|function|toUtf8
 DECL|function|toUtf8
 DECL|function|trimmed
+DECL|function|trimmed
 DECL|function|truncate
 DECL|function|ucstrcmp
 DECL|function|ucstricmp
