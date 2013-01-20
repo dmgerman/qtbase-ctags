@@ -11,6 +11,7 @@ DECL|class|SignalRecorder
 DECL|class|Simple_Thread
 DECL|class|Sleep_Thread
 DECL|class|SlowSlotObject
+DECL|class|StopableJob
 DECL|class|Syncronizer
 DECL|class|Terminate_Thread
 DECL|class|ThreadObj
@@ -28,6 +29,7 @@ DECL|function|FinishedTestObject
 DECL|function|Job
 DECL|function|NativeThreadWrapper
 DECL|function|SignalRecorder
+DECL|function|StopableJob
 DECL|function|Syncronizer
 DECL|function|adoptMultipleThreads
 DECL|function|adoptMultipleThreadsOverlap
@@ -69,6 +71,8 @@ DECL|function|registerSocketNotifier
 DECL|function|registerTimer
 DECL|function|registeredTimers
 DECL|function|remainingTime
+DECL|function|requestTermination
+DECL|function|run
 DECL|function|run
 DECL|function|run
 DECL|function|run
@@ -137,6 +141,7 @@ DECL|member|qthread
 DECL|member|quitLocker
 DECL|member|result
 DECL|member|result
+DECL|member|sem
 DECL|member|sleepType
 DECL|member|startCondition
 DECL|member|stopCondition

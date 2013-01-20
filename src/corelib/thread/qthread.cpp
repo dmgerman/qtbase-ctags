@@ -14,10 +14,12 @@ DECL|function|eventDispatcher
 DECL|function|exec
 DECL|function|exit
 DECL|function|isFinished
+DECL|function|isInterruptionRequested
 DECL|function|isRunning
 DECL|function|priority
 DECL|function|quit
 DECL|function|ref
+DECL|function|requestInterruption
 DECL|function|run
 DECL|function|run
 DECL|function|setEventDispatcher
