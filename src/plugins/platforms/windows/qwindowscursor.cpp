@@ -12,6 +12,7 @@ DECL|function|handle
 DECL|function|isNull
 DECL|function|mousePosition
 DECL|function|operator =
+DECL|function|pixmapWindowCursor
 DECL|function|setPos
 DECL|function|standardWindowCursor
 DECL|function|~QWindowsWindowCursor
