@@ -73,8 +73,11 @@ DECL|function|suffix_data
 DECL|function|systemFiles
 DECL|function|testDecomposedUnicodeNames
 DECL|function|testDecomposedUnicodeNames_data
+DECL|function|tst_QFileInfo
 DECL|function|~NativeFileCreator
 DECL|macro|_WIN32_WINNT
+DECL|member|m_currentDir
+DECL|member|m_dir
 DECL|member|m_error
 DECL|member|m_filePath
 DECL|member|m_resourcesDir
