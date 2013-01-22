@@ -34,6 +34,7 @@ DECL|function|processXcbEvents
 DECL|function|removeWindow
 DECL|function|run
 DECL|function|sendConnectionEvent
+DECL|function|setFocusWindow
 DECL|function|startThread
 DECL|function|sync
 DECL|function|translateMouseButton

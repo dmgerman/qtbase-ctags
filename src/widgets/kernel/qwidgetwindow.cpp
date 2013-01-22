@@ -1,6 +1,8 @@
+DECL|class|QWidgetWindowPrivate
 DECL|function|QWidgetWindow
 DECL|function|accessibleRoot
 DECL|function|event
+DECL|function|eventReceiver
 DECL|function|focusObject
 DECL|function|handleCloseEvent
 DECL|function|handleContextMenuEvent
