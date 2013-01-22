@@ -158,10 +158,13 @@ DECL|function|setWindowTitle
 DECL|function|shellItem
 DECL|function|show
 DECL|function|snapToDefaultButtonHint
+DECL|function|startDialogThread
+DECL|function|stopTimer
 DECL|function|styleHint
 DECL|function|supportsNonModalDialog
 DECL|function|supportsNonModalDialog
 DECL|function|supportsNonModalDialog
+DECL|function|timerEvent
 DECL|function|updateDirectory
 DECL|function|updateSelectedNameFilter
 DECL|function|useHelper
