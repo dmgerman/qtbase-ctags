@@ -8,6 +8,8 @@ DECL|class|EventFilterTesterItem
 DECL|class|EventSpy
 DECL|class|EventSpy2
 DECL|class|EventTester
+DECL|class|FocusScopeItem
+DECL|class|FocusScopeItemPrivate
 DECL|class|GeometryChanger
 DECL|class|HarakiriItem
 DECL|class|HoverItem
@@ -46,6 +48,7 @@ DECL|function|EventSpy
 DECL|function|EventSpy2
 DECL|function|EventSpy2
 DECL|function|EventTester
+DECL|function|FocusScopeItem
 DECL|function|HarakiriItem
 DECL|function|HoverItem
 DECL|function|ItemAddScene
@@ -84,6 +87,7 @@ DECL|function|activationOnShowHide
 DECL|function|addPanelToActiveScene
 DECL|function|advance
 DECL|function|ancestorFlags
+DECL|function|boundingRect
 DECL|function|boundingRect
 DECL|function|boundingRect
 DECL|function|boundingRect
@@ -157,6 +161,8 @@ DECL|function|focusProxy
 DECL|function|focusProxyDeletion
 DECL|function|focusScope
 DECL|function|focusScope2
+DECL|function|focusScopeItemChange
+DECL|function|focusScopeItemChangedWhileScopeDoesntHaveFocus
 DECL|function|graphicsitem_cast
 DECL|function|group
 DECL|function|handlesChildEvents
@@ -240,6 +246,7 @@ DECL|function|opacityZeroUpdates
 DECL|function|opacity_data
 DECL|function|opaqueArea
 DECL|function|opaqueArea
+DECL|function|paint
 DECL|function|paint
 DECL|function|paint
 DECL|function|paint
@@ -347,6 +354,7 @@ DECL|member|brush
 DECL|member|changes
 DECL|member|counter
 DECL|member|counts
+DECL|member|d_ptr
 DECL|member|dead
 DECL|member|dead
 DECL|member|drawnItems
@@ -355,6 +363,7 @@ DECL|member|events
 DECL|member|filter
 DECL|member|filteredEventReceivers
 DECL|member|filteredEvents
+DECL|member|focusScopeChanged
 DECL|member|gotEvent
 DECL|member|handlesSceneEvents
 DECL|member|harakiri
