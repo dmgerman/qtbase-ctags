@@ -1,1 +1,2 @@
 DECL|macro|DBUSCONNECTION_H
+DECL|variable|QDBusServiceWatcher

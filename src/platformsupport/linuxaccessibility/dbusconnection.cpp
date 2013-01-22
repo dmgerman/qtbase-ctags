@@ -1,4 +1,9 @@
 DECL|function|DBusConnection
-DECL|function|connectDBus
+DECL|function|connectA11yBus
 DECL|function|connection
-DECL|function|getAccessibilityBusAddress
+DECL|function|dbusError
+DECL|function|enabledStateCallback
+DECL|function|serviceRegistered
+DECL|function|serviceUnregistered
+DECL|variable|A11Y_PATH
+DECL|variable|A11Y_SERVICE
