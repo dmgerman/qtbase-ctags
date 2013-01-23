@@ -113,6 +113,7 @@ DECL|function|run
 DECL|function|selectFile
 DECL|function|selectFile
 DECL|function|selectFile
+DECL|function|selectFile
 DECL|function|selectNameFilter
 DECL|function|selectNameFilter
 DECL|function|selectNameFilter
