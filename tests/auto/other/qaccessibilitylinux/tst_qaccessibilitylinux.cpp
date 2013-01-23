@@ -4,7 +4,6 @@ DECL|function|AccessibleTestWindow
 DECL|function|addWidget
 DECL|function|cleanupTestCase
 DECL|function|clearChildren
-DECL|function|dbusAddress
 DECL|function|getChildren
 DECL|function|getInterface
 DECL|function|getParent
@@ -19,10 +18,7 @@ DECL|function|testTreeWidget
 DECL|macro|COMPARE3
 DECL|macro|ROOTPATH
 DECL|member|address
-DECL|member|bus
 DECL|member|dbus
-DECL|member|m_address
-DECL|member|m_bus
 DECL|member|m_window
 DECL|member|mainWindow
 DECL|member|root

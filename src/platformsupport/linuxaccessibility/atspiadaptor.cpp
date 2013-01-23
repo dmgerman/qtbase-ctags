@@ -35,7 +35,6 @@ DECL|function|sendDBusSignal
 DECL|function|sendFocusChanged
 DECL|function|sendReply
 DECL|function|setBitFlag
-DECL|function|setInitialized
 DECL|function|tableInterface
 DECL|function|textForRange
 DECL|function|textInterface

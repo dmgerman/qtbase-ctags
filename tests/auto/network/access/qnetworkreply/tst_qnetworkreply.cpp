@@ -233,6 +233,12 @@ DECL|function|postToHttpMultipart_data
 DECL|function|postToHttpSynchronous
 DECL|function|postToHttpSynchronous_data
 DECL|function|postToHttp_data
+DECL|function|postToHttps
+DECL|function|postToHttpsMultipart
+DECL|function|postToHttpsMultipart_data
+DECL|function|postToHttpsSynchronous
+DECL|function|postToHttpsSynchronous_data
+DECL|function|postToHttps_data
 DECL|function|prepare
 DECL|function|prepare
 DECL|function|proxyAuthenticationRequired
@@ -250,6 +256,10 @@ DECL|function|putToHttpMultipart_data
 DECL|function|putToHttpSynchronous
 DECL|function|putToHttpSynchronous_data
 DECL|function|putToHttp_data
+DECL|function|putToHttps
+DECL|function|putToHttpsSynchronous
+DECL|function|putToHttpsSynchronous_data
+DECL|function|putToHttps_data
 DECL|function|qtbug12908compressedHttpReply
 DECL|function|qtbug13431replyThrottling
 DECL|function|qtbug15311doubleContentLength
