@@ -5,6 +5,8 @@ DECL|function|initTestCase
 DECL|function|limiting
 DECL|function|limiting_data
 DECL|function|readyReadSlot
+DECL|function|setSslConfiguration
+DECL|function|setSslConfiguration_data
 DECL|function|startTimer
 DECL|function|timeoutSlot
 DECL|macro|BANDWIDTH_LIMIT_BYTES
