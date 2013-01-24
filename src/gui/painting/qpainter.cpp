@@ -78,6 +78,7 @@ DECL|function|drawTextItem
 DECL|function|drawTextItemDecoration
 DECL|function|drawTiledPixmap
 DECL|function|draw_helper
+DECL|function|effectiveDevicePixelRatio
 DECL|function|end
 DECL|function|endNativePainting
 DECL|function|eraseRect
