@@ -59,6 +59,8 @@ DECL|function|removeApplicationFonts
 DECL|function|removeKey
 DECL|function|removeKey
 DECL|function|scriptRequiresOpenType
+DECL|function|sharedFontData
+DECL|function|sharedFontData
 DECL|function|storeFont
 DECL|function|systemDefaultFont
 DECL|function|systemFont
@@ -137,6 +139,8 @@ DECL|struct|NameTable
 DECL|struct|OS2Table
 DECL|struct|OffsetSubTable
 DECL|struct|TableDirectory
+DECL|typedef|FontEngineThreadLocalData
+DECL|typedef|QWindowsFontEngineDataPtr
 DECL|variable|ch_CN_tryFonts
 DECL|variable|ch_TW_tryFonts
 DECL|variable|jp_tryFonts
