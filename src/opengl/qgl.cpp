@@ -49,7 +49,6 @@ DECL|function|cleanupTexturesForPixampData
 DECL|function|context
 DECL|function|convertFromGLImage
 DECL|function|convertToGLFormat
-DECL|function|convertToGLFormat
 DECL|function|convertToGLFormatHelper
 DECL|function|create
 DECL|function|currentContext
