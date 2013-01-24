@@ -113,7 +113,6 @@ DECL|function|qgl_byteSwapImage
 DECL|function|qgluProject
 DECL|function|qt_add_rect_to_array
 DECL|function|qt_add_texcoords_to_array
-DECL|function|qt_gl_convertToGLFormat
 DECL|function|qt_gl_convertToGLFormatHelper
 DECL|function|qt_gl_draw_text
 DECL|function|qt_gl_library_name
