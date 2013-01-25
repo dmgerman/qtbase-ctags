@@ -239,7 +239,6 @@ DECL|function|slotWithVoidStar
 DECL|function|slotsWithVoidTemplate
 DECL|function|someSlot
 DECL|function|someSlot2
-DECL|function|srcify
 DECL|function|structQObject
 DECL|function|supportConstSignals
 DECL|function|task87883
@@ -303,6 +302,7 @@ DECL|member|mConst
 DECL|member|mFoo
 DECL|member|mPlop
 DECL|member|m_points
+DECL|member|m_sourceDirectory
 DECL|member|m_str
 DECL|member|m_value
 DECL|member|m_value2
