@@ -35,6 +35,8 @@ DECL|function|insertRow
 DECL|function|insertRowFailure
 DECL|function|insertRowFailure_data
 DECL|function|insertRow_data
+DECL|function|insertWithAutoColumn
+DECL|function|insertWithAutoColumn_data
 DECL|function|invalidFilterAndHeaderData
 DECL|function|invalidFilterAndHeaderData_data
 DECL|function|isDirty
