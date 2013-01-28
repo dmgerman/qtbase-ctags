@@ -56,6 +56,7 @@ DECL|function|platformName
 DECL|function|platformNativeInterface
 DECL|function|primaryScreen
 DECL|function|processActivatedEvent
+DECL|function|processApplicationStateChangedEvent
 DECL|function|processCloseEvent
 DECL|function|processContextMenuEvent
 DECL|function|processDrag
@@ -116,6 +117,7 @@ DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
 DECL|member|app_font
 DECL|member|app_pal
+DECL|member|applicationState
 DECL|member|buttons
 DECL|member|currentMouseWindow
 DECL|member|displayName
