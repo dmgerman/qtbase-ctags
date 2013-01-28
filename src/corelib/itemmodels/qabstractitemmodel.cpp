@@ -97,6 +97,7 @@ DECL|function|persistentIndexList
 DECL|function|removeColumns
 DECL|function|removePersistentIndexData
 DECL|function|removeRows
+DECL|function|resetInternalData
 DECL|function|revert
 DECL|function|roleNames
 DECL|function|row

@@ -1,9 +1,11 @@
 DECL|class|ChangableHeaderData
+DECL|class|CustomDataProxy
 DECL|class|EvenOddFilterModel
 DECL|class|FilterProxy
 DECL|class|FilterProxy2
 DECL|class|FilteredColumnProxyModel
 DECL|class|Model10287
+DECL|class|ModelObserver
 DECL|class|MyFilteredColumnProxyModel
 DECL|class|Proxy10287
 DECL|class|QtTestModel
@@ -12,10 +14,12 @@ DECL|class|SignalArgumentChecker
 DECL|class|TestModel
 DECL|class|tst_QSortFilterProxyModel
 DECL|function|ChangableHeaderData
+DECL|function|CustomDataProxy
 DECL|function|FilterProxy
 DECL|function|FilterProxy2
 DECL|function|FilteredColumnProxyModel
 DECL|function|Model10287
+DECL|function|ModelObserver
 DECL|function|MyFilteredColumnProxyModel
 DECL|function|Proxy10287
 DECL|function|QtTestModel
@@ -36,6 +40,7 @@ DECL|function|cleanupTestCase
 DECL|function|columnCount
 DECL|function|columnCount
 DECL|function|columnCount
+DECL|function|data
 DECL|function|data
 DECL|function|data
 DECL|function|doubleProxySelectionSetSourceModel
@@ -86,6 +91,8 @@ DECL|function|mapSelectionFromSource
 DECL|function|mapToSource
 DECL|function|match
 DECL|function|match_data
+DECL|function|modelAboutToBeReset
+DECL|function|modelReset
 DECL|function|moveSourceRows
 DECL|function|parent
 DECL|function|parent
@@ -99,6 +106,7 @@ DECL|function|removeRowsRecursive
 DECL|function|removeRows_data
 DECL|function|removeSourceRows
 DECL|function|removeSourceRows_data
+DECL|function|resetInternalData
 DECL|function|resetInvalidate
 DECL|function|resetInvalidate_data
 DECL|function|rowCount
@@ -110,6 +118,7 @@ DECL|function|selectionFilteredOut
 DECL|function|setMode
 DECL|function|setMode
 DECL|function|setSelectionModel
+DECL|function|setSourceModel
 DECL|function|setSourceModel
 DECL|function|simpleFilterInvalidation
 DECL|function|sort
@@ -127,6 +136,7 @@ DECL|function|sourceModelReset
 DECL|function|staticSorting
 DECL|function|testMultipleProxiesWithSelection
 DECL|function|testParentLayoutChanged
+DECL|function|testResetInternalData
 DECL|function|tst_QSortFilterProxyModel
 DECL|function|unnecessaryDynamicSorting
 DECL|function|unnecessaryMapCreation
@@ -134,6 +144,8 @@ DECL|member|childItem
 DECL|member|childItem2
 DECL|member|cols
 DECL|member|fetched
+DECL|member|m_backgroundColours
+DECL|member|m_model
 DECL|member|m_model
 DECL|member|m_model
 DECL|member|m_p1PersistentAfter
