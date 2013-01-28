@@ -22,6 +22,7 @@ DECL|function|removeWindow
 DECL|function|resizeNativeWidgetWindow
 DECL|function|resizeTopLevelWindow
 DECL|function|resizeWindows
+DECL|function|rootWindow
 DECL|function|setRotation
 DECL|function|updateHierarchy
 DECL|function|windowClosed
