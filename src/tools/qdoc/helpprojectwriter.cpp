@@ -1,6 +1,7 @@
 DECL|function|HelpProjectWriter
 DECL|function|addExtraFile
 DECL|function|addExtraFiles
+DECL|function|addMembers
 DECL|function|generate
 DECL|function|generateProject
 DECL|function|generateSection
@@ -9,3 +10,4 @@ DECL|function|keywordDetails
 DECL|function|readSelectors
 DECL|function|writeHashFile
 DECL|function|writeNode
+DECL|function|writeSection
