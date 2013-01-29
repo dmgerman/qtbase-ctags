@@ -25,6 +25,7 @@ DECL|function|fixifySpecdir
 DECL|function|init
 DECL|function|initCompiler
 DECL|function|initOutPaths
+DECL|function|installMetaFile
 DECL|function|mkdir
 DECL|function|mkdir_p_asstring
 DECL|function|openOutput
