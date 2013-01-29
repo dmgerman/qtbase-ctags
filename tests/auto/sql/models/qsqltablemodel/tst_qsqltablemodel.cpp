@@ -63,6 +63,8 @@ DECL|function|selectRowOverride_data
 DECL|function|selectRow_data
 DECL|function|select_data
 DECL|function|setData
+DECL|function|setData
+DECL|function|setData_data
 DECL|function|setFilter
 DECL|function|setFilter_data
 DECL|function|setInvalidFilter
