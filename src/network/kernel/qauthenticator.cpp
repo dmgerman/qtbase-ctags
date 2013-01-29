@@ -123,7 +123,6 @@ DECL|member|workstationStr
 DECL|member|workstationStr
 DECL|variable|blockSize
 DECL|variable|hirespversion
-DECL|variable|nDigestLen
 DECL|variable|pSecurityFunctionTable
 DECL|variable|respversion
 DECL|variable|securityDLLHandle

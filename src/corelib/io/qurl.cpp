@@ -75,7 +75,6 @@ DECL|function|hasScheme
 DECL|function|hasUserInfo
 DECL|function|hasUserName
 DECL|function|host
-DECL|function|httpScheme
 DECL|function|isDetached
 DECL|function|isEmpty
 DECL|function|isEmpty
