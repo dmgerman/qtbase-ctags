@@ -4,9 +4,8 @@ DECL|function|createNativeWindow
 DECL|function|createNativeWindowFramebuffer
 DECL|function|createNativeWindowSurfaceFlinger
 DECL|function|ensureFramebufferNativeWindowCreated
+DECL|function|fbDeviceName
 DECL|function|filterConfig
-DECL|function|screenDepth
-DECL|function|screenSize
 DECL|member|mAndroidSurface
 DECL|member|mControl
 DECL|member|mFramebufferNativeWindow

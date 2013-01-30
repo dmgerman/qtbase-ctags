@@ -1,8 +1,10 @@
 DECL|function|createCursor
 DECL|function|createNativeWindow
 DECL|function|destroyNativeWindow
+DECL|function|fbDeviceName
 DECL|function|filterConfig
 DECL|function|hasCapability
+DECL|function|physicalScreenSize
 DECL|function|platformDestroy
 DECL|function|platformDisplay
 DECL|function|platformInit
