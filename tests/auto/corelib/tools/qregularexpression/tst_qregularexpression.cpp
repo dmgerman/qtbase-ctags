@@ -1,3 +1,5 @@
+DECL|function|JOptionUsage
+DECL|function|JOptionUsage_data
 DECL|function|Match
 DECL|function|captureCount
 DECL|function|captureCount_data
