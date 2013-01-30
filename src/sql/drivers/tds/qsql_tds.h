@@ -6,4 +6,3 @@ DECL|macro|Q_EXPORT_SQLDRIVER_TDS
 DECL|macro|WIN32_LEAN_AND_MEAN
 DECL|variable|QTDSDriver
 DECL|variable|QTDSDriverPrivate
-DECL|variable|QTDSResultPrivate
