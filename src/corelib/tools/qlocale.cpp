@@ -83,7 +83,10 @@ DECL|function|setNumberOptions
 DECL|function|standaloneDayName
 DECL|function|standaloneMonthName
 DECL|function|stringToDouble
+DECL|function|stringToDouble
 DECL|function|stringToLongLong
+DECL|function|stringToLongLong
+DECL|function|stringToUnsLongLong
 DECL|function|stringToUnsLongLong
 DECL|function|system
 DECL|function|systemData
@@ -100,10 +103,15 @@ DECL|function|toDate
 DECL|function|toDateTime
 DECL|function|toDateTime
 DECL|function|toDouble
+DECL|function|toDouble
+DECL|function|toFloat
 DECL|function|toFloat
 DECL|function|toInt
+DECL|function|toInt
+DECL|function|toLongLong
 DECL|function|toLongLong
 DECL|function|toLower
+DECL|function|toShort
 DECL|function|toShort
 DECL|function|toString
 DECL|function|toString
@@ -117,7 +125,10 @@ DECL|function|toString
 DECL|function|toTime
 DECL|function|toTime
 DECL|function|toUInt
+DECL|function|toUInt
 DECL|function|toULongLong
+DECL|function|toULongLong
+DECL|function|toUShort
 DECL|function|toUShort
 DECL|function|toUpper
 DECL|function|uiLanguages
