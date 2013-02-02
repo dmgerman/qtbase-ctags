@@ -1,6 +1,5 @@
 DECL|class|QIBaseDriverPrivate
 DECL|class|QIBaseResult
-DECL|class|QIBaseResult
 DECL|class|QIBaseResultPrivate
 DECL|enumerator|Finished
 DECL|enumerator|QIBaseChunkSize
@@ -76,7 +75,6 @@ DECL|function|~QIBaseResultPrivate
 DECL|macro|FBVERSION
 DECL|macro|SQLDA_CURRENT_VERSION
 DECL|member|bufferLength
-DECL|member|d
 DECL|member|d
 DECL|member|db
 DECL|member|eventBuffer
