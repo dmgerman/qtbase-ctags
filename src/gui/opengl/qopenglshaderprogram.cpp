@@ -22,6 +22,8 @@ DECL|function|compileSourceCode
 DECL|function|compileSourceCode
 DECL|function|compileSourceFile
 DECL|function|create
+DECL|function|defaultInnerTessellationLevels
+DECL|function|defaultOuterTessellationLevels
 DECL|function|deleteShader
 DECL|function|disableAttributeArray
 DECL|function|disableAttributeArray
@@ -39,6 +41,7 @@ DECL|function|link
 DECL|function|log
 DECL|function|log
 DECL|function|maxGeometryOutputVertices
+DECL|function|patchVertexCount
 DECL|function|programId
 DECL|function|release
 DECL|function|removeAllShaders
@@ -73,6 +76,9 @@ DECL|function|setAttributeValue
 DECL|function|setAttributeValue
 DECL|function|setAttributeValue
 DECL|function|setAttributeValue
+DECL|function|setDefaultInnerTessellationLevels
+DECL|function|setDefaultOuterTessellationLevels
+DECL|function|setPatchVertexCount
 DECL|function|setUniformValue
 DECL|function|setUniformValue
 DECL|function|setUniformValue
@@ -187,5 +193,7 @@ DECL|member|shaderGuard
 DECL|member|shaderType
 DECL|member|shaders
 DECL|member|supportsGeometryShaders
+DECL|member|supportsTessellationShaders
+DECL|member|tessellationFuncs
 DECL|variable|qualifierDefines
 DECL|variable|redefineHighp
