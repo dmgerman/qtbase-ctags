@@ -1,0 +1,10 @@
+DECL|function|checkFcntlWorksAfterFlock
+DECL|function|fcntlWorksAfterFlock
+DECL|function|isApparentlyStale
+DECL|function|localHostName
+DECL|function|qt_write_loop
+DECL|function|removeStaleLock
+DECL|function|setNativeLocks
+DECL|function|tryLock_sys
+DECL|function|unlock
+DECL|variable|fcntlOK

@@ -1,0 +1,11 @@
+DECL|function|QLockFile
+DECL|function|error
+DECL|function|getLockInfo
+DECL|function|getLockInfo
+DECL|function|isLocked
+DECL|function|lock
+DECL|function|removeStaleLockFile
+DECL|function|setStaleLockTime
+DECL|function|staleLockTime
+DECL|function|tryLock
+DECL|function|~QLockFile
