@@ -1,4 +1,7 @@
 DECL|class|QCryptographicHashPrivate
+DECL|enumerator|BAD_HASHLEN
+DECL|enumerator|FAIL
+DECL|enumerator|SUCCESS
 DECL|function|QCryptographicHash
 DECL|function|SHA224_256AddLength
 DECL|function|SHA384_512AddLength
@@ -25,4 +28,19 @@ DECL|member|sha1Context
 DECL|member|sha224Context
 DECL|member|sha256Context
 DECL|member|sha384Context
+DECL|member|sha3Context
 DECL|member|sha512Context
+DECL|typedef|BitSequence
+DECL|typedef|DataLength
+DECL|typedef|HashReturn
+DECL|typedef|SHA3Context
+DECL|typedef|SHA3Final
+DECL|typedef|SHA3Init
+DECL|typedef|SHA3Update
+DECL|typedef|hashState
+DECL|variable|sha3Final
+DECL|variable|sha3Final
+DECL|variable|sha3Init
+DECL|variable|sha3Init
+DECL|variable|sha3Update
+DECL|variable|sha3Update

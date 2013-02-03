@@ -6,4 +6,5 @@ DECL|function|intermediary_result_data
 DECL|function|repeated_result
 DECL|function|repeated_result_data
 DECL|function|sha1
+DECL|function|sha3
 DECL|variable|Algorithm

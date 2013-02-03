@@ -19,8 +19,6 @@ DECL|function|KeccakPermutationOnWordsAfterXoring1344bits
 DECL|function|KeccakPermutationOnWordsAfterXoring576bits
 DECL|function|KeccakPermutationOnWordsAfterXoring832bits
 DECL|function|ROL6464
-DECL|function|fromBytesToWord
-DECL|function|fromWordToBytes
 DECL|macro|ALIGN
 DECL|macro|ALIGN
 DECL|macro|ALIGN
