@@ -1,7 +1,10 @@
+DECL|class|ColorProxyModel
 DECL|function|ColorDialogPanel
+DECL|function|ColorProxyModel
 DECL|function|accepted
 DECL|function|addButton
 DECL|function|applySettings
+DECL|function|data
 DECL|function|deleteModalDialog
 DECL|function|deleteNonModalDialog
 DECL|function|enableDeleteModalDialogButton
@@ -11,3 +14,4 @@ DECL|function|restoreDefaults
 DECL|function|showAcceptedResult
 DECL|function|showModal
 DECL|function|showNonModal
+DECL|function|svgColorNames
