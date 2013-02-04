@@ -118,7 +118,7 @@ DECL|function|qt_gl_convertToGLFormat
 DECL|function|qt_gl_convertToGLFormatHelper
 DECL|function|qt_gl_draw_text
 DECL|function|qt_gl_library_name
-DECL|function|qt_gl_read_framebuffer
+DECL|function|qt_gl_read_frame_buffer
 DECL|function|qt_gl_read_texture
 DECL|function|qt_gl_transfer_context
 DECL|function|qt_next_power_of_two
