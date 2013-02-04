@@ -57,6 +57,8 @@ DECL|function|removeRow_data
 DECL|function|removeRows
 DECL|function|removeRows_data
 DECL|function|repopulateTestTables
+DECL|function|revert
+DECL|function|revert_data
 DECL|function|select
 DECL|function|selectRow
 DECL|function|selectRow
