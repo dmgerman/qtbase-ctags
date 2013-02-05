@@ -298,6 +298,7 @@ DECL|function|slot1_disconnectThis
 DECL|function|slot2
 DECL|function|slot2
 DECL|function|slot2
+DECL|function|slot2
 DECL|function|slot2_deleteSender
 DECL|function|slot2_reconnectNext
 DECL|function|slot2_reconnectThis
