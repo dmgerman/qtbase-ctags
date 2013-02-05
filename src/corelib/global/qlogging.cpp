@@ -23,6 +23,10 @@ DECL|function|slog2_default_handler
 DECL|function|warning
 DECL|function|warning
 DECL|function|~QMessagePattern
+DECL|macro|HANDLE_IF_TOKEN
+DECL|macro|HANDLE_IF_TOKEN
+DECL|macro|IF_TOKEN
+DECL|macro|IF_TOKEN
 DECL|macro|QT_LOG_CODE
 DECL|macro|qCritical
 DECL|macro|qDebug
@@ -39,8 +43,13 @@ DECL|variable|appnameTokenC
 DECL|variable|categoryTokenC
 DECL|variable|defaultPattern
 DECL|variable|emptyTokenC
+DECL|variable|endifTokenC
 DECL|variable|fileTokenC
 DECL|variable|functionTokenC
+DECL|variable|ifCriticalTokenC
+DECL|variable|ifDebugTokenC
+DECL|variable|ifFatalTokenC
+DECL|variable|ifWarningTokenC
 DECL|variable|lineTokenC
 DECL|variable|messageHandler
 DECL|variable|messageTokenC
