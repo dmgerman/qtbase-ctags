@@ -81,6 +81,7 @@ DECL|function|setVisible
 DECL|function|setWindowFlags
 DECL|function|setWindowFlags_sys
 DECL|function|setWindowIcon
+DECL|function|setWindowLayered
 DECL|function|setWindowOpacity
 DECL|function|setWindowState
 DECL|function|setWindowState_sys
@@ -100,6 +101,7 @@ DECL|member|dialog
 DECL|member|embedded
 DECL|member|exStyle
 DECL|member|flags
+DECL|member|hasAlpha
 DECL|member|isGL
 DECL|member|parentHandle
 DECL|member|popup
