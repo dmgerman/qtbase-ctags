@@ -17,4 +17,5 @@ DECL|variable|QGLOverlayWidget
 DECL|variable|QGLTemporaryContextPrivate
 DECL|variable|QGLTexture
 DECL|variable|QGLTextureDestroyer
+DECL|variable|QOpenGLExtensions
 DECL|variable|QPixmap

@@ -7,8 +7,6 @@ DECL|function|QGLContextGroupList
 DECL|function|QGLContextPrivate
 DECL|function|QGLDefaultExtensions
 DECL|function|QGLDefaultOverlayFormat
-DECL|function|QGLExtensionMatcher
-DECL|function|QGLExtensionMatcher
 DECL|function|QGLFormat
 DECL|function|QGLFormat
 DECL|function|QGLFormat
@@ -52,7 +50,6 @@ DECL|function|convertToGLFormat
 DECL|function|convertToGLFormatHelper
 DECL|function|create
 DECL|function|currentContext
-DECL|function|currentContextExtensions
 DECL|function|defaultFormat
 DECL|function|defaultOverlayFormat
 DECL|function|deleteTexture
@@ -67,16 +64,13 @@ DECL|function|drawTexture
 DECL|function|drawTexture
 DECL|function|drawTexture
 DECL|function|drawTexture
-DECL|function|extensionFuncs
 DECL|function|format
 DECL|function|format
 DECL|function|functions
 DECL|function|glDraw
-DECL|function|glExtensions
 DECL|function|glInit
 DECL|function|grabFrameBuffer
 DECL|function|greenBufferSize
-DECL|function|init
 DECL|function|init
 DECL|function|initContext
 DECL|function|initializeGL
@@ -110,6 +104,9 @@ DECL|function|qOpenGLVersionFlagsFromString
 DECL|function|qglClearColor
 DECL|function|qglColor
 DECL|function|qgl_byteSwapImage
+DECL|function|qgl_extensions
+DECL|function|qgl_hasExtension
+DECL|function|qgl_hasFeature
 DECL|function|qgluProject
 DECL|function|qt_add_rect_to_array
 DECL|function|qt_add_texcoords_to_array
@@ -204,10 +201,8 @@ DECL|macro|GL_COMPRESSED_RGB_PVRTC_2BPPV1_IMG
 DECL|macro|GL_COMPRESSED_RGB_PVRTC_4BPPV1_IMG
 DECL|macro|GL_COMPRESSED_RGB_S3TC_DXT1_EXT
 DECL|macro|GL_ETC1_RGB8_OES
-DECL|macro|GL_FRAMEBUFFER_SRGB_CAPABLE_EXT
 DECL|macro|GL_GENERATE_MIPMAP_HINT_SGIS
 DECL|macro|GL_GENERATE_MIPMAP_SGIS
-DECL|macro|GL_NUM_EXTENSIONS
 DECL|macro|GL_UNSIGNED_INT_8_8_8_8_REV
 DECL|macro|M
 DECL|macro|M
@@ -248,6 +243,7 @@ DECL|member|dwMipMapCount
 DECL|member|dwSize
 DECL|member|dwWidth
 DECL|member|extensions
+DECL|member|features
 DECL|member|flags
 DECL|member|greenMask
 DECL|member|headerSize
@@ -256,7 +252,6 @@ DECL|member|m_list
 DECL|member|m_mutex
 DECL|member|magic
 DECL|member|mipMapCount
-DECL|member|qt_extensionFuncs
 DECL|member|redMask
 DECL|member|surfaceCount
 DECL|member|width
@@ -264,4 +259,4 @@ DECL|struct|DDSFormat
 DECL|struct|PvrHeader
 DECL|struct|QGLContextGroupList
 DECL|struct|QGLThreadContext
-DECL|typedef|qt_glGetStringi
+DECL|variable|extensions
