@@ -10,5 +10,6 @@ DECL|function|testCetPrivate
 DECL|function|tst_QTimeZone
 DECL|function|tzTest
 DECL|function|utcTest
+DECL|function|winTest
 DECL|function|windowsId
 DECL|member|debug
