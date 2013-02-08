@@ -34,9 +34,11 @@ DECL|function|setSamples
 DECL|function|setStencilBufferSize
 DECL|function|setStereo
 DECL|function|setSwapBehavior
+DECL|function|setVersion
 DECL|function|stencilBufferSize
 DECL|function|swapBehavior
 DECL|function|testOption
+DECL|function|version
 DECL|function|~QSurfaceFormat
 DECL|macro|major
 DECL|macro|minor

@@ -1,0 +1,4 @@
+DECL|class|tst_QSurfaceFormat
+DECL|function|versionCheck
+DECL|function|versionCheck_data
+DECL|variable|tst_QSurfaceFormat
