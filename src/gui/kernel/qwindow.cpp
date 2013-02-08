@@ -88,6 +88,7 @@ DECL|function|setSizeIncrement
 DECL|function|setSurfaceType
 DECL|function|setTitle
 DECL|function|setTransientParent
+DECL|function|setVisibility
 DECL|function|setVisible
 DECL|function|setWidth
 DECL|function|setWindowState
@@ -108,6 +109,8 @@ DECL|function|touchEvent
 DECL|function|transientParent
 DECL|function|type
 DECL|function|unsetCursor
+DECL|function|updateVisibility
+DECL|function|visibility
 DECL|function|wheelEvent
 DECL|function|winId
 DECL|function|windowState
