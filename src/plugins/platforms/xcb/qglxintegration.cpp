@@ -1,5 +1,6 @@
 DECL|class|QOpenGLTemporaryContext
 DECL|function|QGLXContext
+DECL|function|QGLXPbuffer
 DECL|function|QOpenGLContextData
 DECL|function|QOpenGLContextData
 DECL|function|QOpenGLDefaultContextInfo
@@ -19,6 +20,7 @@ DECL|function|makeCurrent
 DECL|function|swapBuffers
 DECL|function|updateFormatFromContext
 DECL|function|~QGLXContext
+DECL|function|~QGLXPbuffer
 DECL|function|~QOpenGLTemporaryContext
 DECL|macro|GLX_CONTEXT_COMPATIBILITY_PROFILE_BIT_ARB
 DECL|macro|GLX_CONTEXT_CORE_PROFILE_BIT_ARB
