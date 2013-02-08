@@ -6,6 +6,7 @@ DECL|function|hideInputPanel
 DECL|function|isInputPanelVisible
 DECL|function|isValid
 DECL|function|keyboardLocaleChanged
+DECL|function|keyboardRect
 DECL|function|keyboardVisibilityChanged
 DECL|function|locale
 DECL|function|reset
