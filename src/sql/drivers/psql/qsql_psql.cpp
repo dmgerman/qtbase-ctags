@@ -14,6 +14,7 @@ DECL|function|close
 DECL|function|commitTransaction
 DECL|function|createResult
 DECL|function|data
+DECL|function|deallocatePreparedStmt
 DECL|function|escapeIdentifier
 DECL|function|exec
 DECL|function|exec
@@ -44,7 +45,6 @@ DECL|function|primaryIndex
 DECL|function|processResults
 DECL|function|protocol
 DECL|function|qCreateParamString
-DECL|function|qDeallocatePreparedStmt
 DECL|function|qDecodePSQLType
 DECL|function|qMakeError
 DECL|function|qMakePSQLVersion
