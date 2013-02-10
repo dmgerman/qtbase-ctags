@@ -43,6 +43,7 @@ DECL|function|readData
 DECL|function|replyDownloadData
 DECL|function|replyDownloadMetaData
 DECL|function|replyDownloadProgressSlot
+DECL|function|replyEncrypted
 DECL|function|replyFinished
 DECL|function|replySslConfigurationChanged
 DECL|function|replySslErrors

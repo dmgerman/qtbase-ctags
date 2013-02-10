@@ -23,6 +23,7 @@ DECL|function|completeCacheSave
 DECL|function|createCache
 DECL|function|downloadBufferDeleter
 DECL|function|emitUploadProgress
+DECL|function|encrypted
 DECL|function|error
 DECL|function|event
 DECL|function|finished

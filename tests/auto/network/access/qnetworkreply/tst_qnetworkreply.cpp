@@ -96,6 +96,7 @@ DECL|function|doRead
 DECL|function|dontInsertPartialContentIntoTheCache
 DECL|function|downloadProgress
 DECL|function|downloadProgress_data
+DECL|function|encrypted
 DECL|function|encryptedSlot
 DECL|function|finished
 DECL|function|finishedSlot
