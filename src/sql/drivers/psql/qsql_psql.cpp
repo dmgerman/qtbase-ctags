@@ -89,11 +89,11 @@ DECL|macro|isinf
 DECL|macro|isnan
 DECL|member|connection
 DECL|member|currentSize
-DECL|member|driver
 DECL|member|isUtf8
 DECL|member|pendingNotifyCheck
 DECL|member|preparedQueriesEnabled
 DECL|member|preparedStmtId
+DECL|member|privDriver
 DECL|member|pro
 DECL|member|q
 DECL|member|q
