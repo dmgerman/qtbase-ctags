@@ -48,6 +48,7 @@ DECL|function|testValueSimple
 DECL|function|toAndFromBinary
 DECL|function|toAndFromBinary_data
 DECL|function|toJson
+DECL|function|toJsonSillyNumericValues
 DECL|function|toVariantList
 DECL|function|toVariantMap
 DECL|function|tst_QtJson
