@@ -98,7 +98,6 @@ DECL|member|preparedQueriesEnabled
 DECL|member|preparedStmtId
 DECL|member|pro
 DECL|member|q
-DECL|member|q
 DECL|member|result
 DECL|member|seid
 DECL|member|sn
