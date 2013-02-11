@@ -148,6 +148,7 @@ DECL|variable|_GenerateMapFile
 DECL|variable|_GenerateServerFiles
 DECL|variable|_GenerateStublessProxies
 DECL|variable|_GenerateTypeLibrary
+DECL|variable|_GenerateWindowsMetadata
 DECL|variable|_GenerateXMLDocumentationFiles
 DECL|variable|_HeaderFileName
 DECL|variable|_HeapCommitSize
@@ -269,4 +270,5 @@ DECL|variable|_Version
 DECL|variable|_WarnAsError
 DECL|variable|_WarningLevel
 DECL|variable|_WholeProgramOptimization
+DECL|variable|_WindowsMetadataFile
 DECL|variable|_XMLDocumentationFileName
