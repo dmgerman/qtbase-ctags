@@ -29,6 +29,7 @@ DECL|function|initResourceTool
 DECL|function|initRootFiles
 DECL|function|initSourceFiles
 DECL|function|initTranslationFiles
+DECL|function|initWMAppManifest
 DECL|function|mergeBuildProject
 DECL|function|openOutput
 DECL|function|outputVariables
