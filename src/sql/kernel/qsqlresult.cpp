@@ -19,6 +19,7 @@ DECL|function|execBatch
 DECL|function|executedQuery
 DECL|function|fetchNext
 DECL|function|fetchPrevious
+DECL|function|fieldSerial
 DECL|function|handle
 DECL|function|hasOutValues
 DECL|function|holderAt
@@ -34,7 +35,6 @@ DECL|function|nextResult
 DECL|function|numericalPrecisionPolicy
 DECL|function|positionalToNamedBinding
 DECL|function|prepare
-DECL|function|qFieldSerial
 DECL|function|qIsAlnum
 DECL|function|record
 DECL|function|resetBindCount
