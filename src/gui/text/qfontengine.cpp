@@ -25,6 +25,7 @@ DECL|function|ascent
 DECL|function|ascent
 DECL|function|averageCharWidth
 DECL|function|averageCharWidth
+DECL|function|bitmapForGlyph
 DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|boundingBox

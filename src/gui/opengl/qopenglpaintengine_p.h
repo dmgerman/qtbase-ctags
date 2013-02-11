@@ -1,6 +1,7 @@
 DECL|enumerator|BrushDrawingMode
 DECL|enumerator|ImageArrayDrawingMode
 DECL|enumerator|ImageDrawingMode
+DECL|enumerator|ImageOpacityArrayDrawingMode
 DECL|enumerator|TextDrawingMode
 DECL|enum|EngineMode
 DECL|function|setVertexAttributePointer
