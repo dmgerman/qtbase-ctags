@@ -20,6 +20,7 @@ DECL|function|setCaCertificates
 DECL|function|setCiphers
 DECL|function|setDefaultConfiguration
 DECL|function|setLocalCertificate
+DECL|function|setLocalCertificateChain
 DECL|function|setPeerVerifyDepth
 DECL|function|setPeerVerifyMode
 DECL|function|setPrivateKey

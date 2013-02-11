@@ -93,6 +93,7 @@ DECL|function|setDefaultCiphers
 DECL|function|setEmptyDefaultConfiguration
 DECL|function|setEmptyKey
 DECL|function|setLocalCertificate
+DECL|function|setLocalCertificateChain
 DECL|function|setPrivateKey
 DECL|function|setReadBufferSize
 DECL|function|setReadBufferSize_task_250027
@@ -131,6 +132,7 @@ DECL|member|loopLevel
 DECL|member|loopLevel
 DECL|member|m_certFile
 DECL|member|m_certFile
+DECL|member|m_interFile
 DECL|member|m_keyFile
 DECL|member|m_keyFile
 DECL|member|ok

@@ -50,6 +50,7 @@ DECL|function|init
 DECL|function|isEncrypted
 DECL|function|isPaused
 DECL|function|localCertificate
+DECL|function|localCertificateChain
 DECL|function|mode
 DECL|function|pauseSocketNotifiers
 DECL|function|peek
@@ -78,6 +79,7 @@ DECL|function|setDefaultConfiguration
 DECL|function|setDefaultSupportedCiphers
 DECL|function|setLocalCertificate
 DECL|function|setLocalCertificate
+DECL|function|setLocalCertificateChain
 DECL|function|setPeerVerifyDepth
 DECL|function|setPeerVerifyMode
 DECL|function|setPeerVerifyName
