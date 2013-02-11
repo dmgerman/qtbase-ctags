@@ -65,6 +65,7 @@ DECL|function|str
 DECL|function|time
 DECL|function|timeSpec
 DECL|function|timeZoneAbbreviation
+DECL|function|timeZones
 DECL|function|toLocalTime
 DECL|function|toLocalTime_data
 DECL|function|toOffsetFromUtc

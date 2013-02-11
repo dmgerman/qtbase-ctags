@@ -1,3 +1,4 @@
+DECL|enumerator|MSECS_TRAN_WINDOW
 DECL|function|QTimeZonePrivate
 DECL|function|QTimeZonePrivate
 DECL|function|QUtcTimeZonePrivate
@@ -21,6 +22,7 @@ DECL|function|comment
 DECL|function|country
 DECL|function|country
 DECL|function|data
+DECL|function|dataForLocalTime
 DECL|function|daylightTimeOffset
 DECL|function|daylightTimeOffset
 DECL|function|displayName

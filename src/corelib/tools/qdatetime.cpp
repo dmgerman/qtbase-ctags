@@ -12,6 +12,8 @@ DECL|function|QDateTime
 DECL|function|QDateTime
 DECL|function|QDateTime
 DECL|function|QDateTime
+DECL|function|QDateTime
+DECL|function|QDateTimePrivate
 DECL|function|QDateTimePrivate
 DECL|function|QTime
 DECL|function|addDays
@@ -50,6 +52,7 @@ DECL|function|floordiv
 DECL|function|fromIsoTimeString
 DECL|function|fromMSecsSinceEpoch
 DECL|function|fromMSecsSinceEpoch
+DECL|function|fromMSecsSinceEpoch
 DECL|function|fromOffsetString
 DECL|function|fromShortMonthName
 DECL|function|fromString
@@ -58,6 +61,7 @@ DECL|function|fromString
 DECL|function|fromString
 DECL|function|fromString
 DECL|function|fromString
+DECL|function|fromTime_t
 DECL|function|fromTime_t
 DECL|function|fromTime_t
 DECL|function|getDate
@@ -117,6 +121,7 @@ DECL|function|setOffsetFromUtc
 DECL|function|setTime
 DECL|function|setTimeSpec
 DECL|function|setTimeSpec
+DECL|function|setTimeZone
 DECL|function|setTime_t
 DECL|function|setUtcOffset
 DECL|function|shortDayName
@@ -125,6 +130,7 @@ DECL|function|start
 DECL|function|time
 DECL|function|timeSpec
 DECL|function|timeToMSecs
+DECL|function|timeZone
 DECL|function|timeZoneAbbreviation
 DECL|function|toMSecsSinceEpoch
 DECL|function|toOffsetFromUtc
@@ -136,10 +142,12 @@ DECL|function|toString
 DECL|function|toString
 DECL|function|toString
 DECL|function|toTimeSpec
+DECL|function|toTimeZone
 DECL|function|toTime_t
 DECL|function|utcOffset
 DECL|function|weekNumber
 DECL|function|year
+DECL|function|zoneMSecsToEpochMSecs
 DECL|function|~QDateTime
 DECL|variable|monthDays
 DECL|variable|qt_shortMonthNames

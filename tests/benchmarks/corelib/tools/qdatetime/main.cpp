@@ -9,7 +9,9 @@ DECL|enumerator|JULIAN_DAY_2060
 DECL|enumerator|MSECS_PER_DAY
 DECL|enumerator|SECS_PER_DAY
 DECL|function|addDays
+DECL|function|addDaysTz
 DECL|function|addMSecs
+DECL|function|addMSecsTz
 DECL|function|addMonths
 DECL|function|addSecs
 DECL|function|addYears
@@ -24,6 +26,7 @@ DECL|function|daysTo
 DECL|function|equivalent
 DECL|function|equivalentUtc
 DECL|function|fromMSecsSinceEpoch
+DECL|function|fromMSecsSinceEpochTz
 DECL|function|fromMSecsSinceEpochUtc
 DECL|function|fromString
 DECL|function|fromStringIso
@@ -38,6 +41,7 @@ DECL|function|offsetFromUtc
 DECL|function|secsTo
 DECL|function|setDate
 DECL|function|setMSecsSinceEpoch
+DECL|function|setMSecsSinceEpochTz
 DECL|function|setOffsetFromUtc
 DECL|function|setTime
 DECL|function|setTimeSpec
@@ -47,7 +51,10 @@ DECL|function|timeSpec
 DECL|function|timeZoneAbbreviation
 DECL|function|toMSecsSinceEpoch
 DECL|function|toMSecsSinceEpoch1950
+DECL|function|toMSecsSinceEpoch1950Tz
 DECL|function|toMSecsSinceEpoch2050
+DECL|function|toMSecsSinceEpoch2050Tz
+DECL|function|toMSecsSinceEpochTz
 DECL|function|toOffsetFromUtc
 DECL|function|toString
 DECL|function|toStringIsoFormat
