@@ -64,6 +64,7 @@ DECL|function|initTestCase
 DECL|function|initTestCase_data
 DECL|function|isEncrypted
 DECL|function|localCertificate
+DECL|function|localCertificateChain
 DECL|function|mode
 DECL|function|newSocket
 DECL|function|onReadyReadFirstBytes

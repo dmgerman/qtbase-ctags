@@ -5,6 +5,7 @@ DECL|function|ciphers
 DECL|function|defaultConfiguration
 DECL|function|isNull
 DECL|function|localCertificate
+DECL|function|localCertificateChain
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|peerCertificate
