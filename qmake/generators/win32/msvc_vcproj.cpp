@@ -49,6 +49,7 @@ DECL|member|version
 DECL|member|versionStr
 DECL|struct|DotNetCombo
 DECL|struct|VcsolutionDepend
+DECL|variable|_GUIDDeploymentFiles
 DECL|variable|_GUIDExtraCompilerFiles
 DECL|variable|_GUIDFormFiles
 DECL|variable|_GUIDGeneratedFiles
