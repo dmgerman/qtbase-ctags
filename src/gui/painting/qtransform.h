@@ -22,6 +22,5 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|macro|QTRANSFORM_H
-DECL|macro|m_type
 DECL|member|operator
 DECL|variable|QVariant
