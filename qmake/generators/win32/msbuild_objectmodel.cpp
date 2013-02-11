@@ -99,6 +99,7 @@ DECL|variable|_ClientStubFile
 DECL|variable|_Command
 DECL|variable|_CompileAs
 DECL|variable|_CompileAsManaged
+DECL|variable|_CompileAsWinRT
 DECL|variable|_ConfigurationType
 DECL|variable|_CreateHotPatchableImage
 DECL|variable|_CreateHotpatchableImage
