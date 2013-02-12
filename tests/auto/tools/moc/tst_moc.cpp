@@ -253,6 +253,7 @@ DECL|function|typenameWithUnsigned
 DECL|function|uLongLong
 DECL|function|unsignedLongIntProperty
 DECL|function|unsignedShortIntProperty
+DECL|function|unterminatedFunctionMacro
 DECL|function|user1
 DECL|function|user2
 DECL|function|user3
