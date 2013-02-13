@@ -8,6 +8,7 @@ DECL|function|QJsonValue
 DECL|function|QJsonValue
 DECL|function|QJsonValue
 DECL|function|QJsonValue
+DECL|function|QJsonValue
 DECL|function|detach
 DECL|function|fromVariant
 DECL|function|operator !=
