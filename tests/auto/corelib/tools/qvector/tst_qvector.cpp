@@ -11,6 +11,7 @@ DECL|function|Foo
 DECL|function|Foo
 DECL|function|Movable
 DECL|function|Movable
+DECL|function|RemoveLastTestClass
 DECL|function|SharedVectorChecker
 DECL|function|add
 DECL|function|addCustom
@@ -116,6 +117,7 @@ DECL|function|reallocAfterCopy
 DECL|function|reallocAfterCopy_data
 DECL|function|remove
 DECL|function|removeCustom
+DECL|function|removeFirstLast
 DECL|function|removeInt
 DECL|function|removeMovable
 DECL|function|reserve
@@ -151,6 +153,7 @@ DECL|function|vector
 DECL|function|~Custom
 DECL|function|~Foo
 DECL|function|~Movable
+DECL|function|~RemoveLastTestClass
 DECL|function|~SharedVectorChecker
 DECL|member|MaxIndex
 DECL|member|Values
@@ -162,9 +165,11 @@ DECL|member|counter
 DECL|member|counter
 DECL|member|counter
 DECL|member|counter
+DECL|member|deleted
 DECL|member|i
 DECL|member|i
 DECL|member|originalSize
+DECL|member|other
 DECL|member|p
 DECL|member|state
 DECL|member|state
@@ -172,6 +177,7 @@ DECL|member|that
 DECL|struct|Custom
 DECL|struct|Foo
 DECL|struct|Movable
+DECL|struct|RemoveLastTestClass
 DECL|struct|SharedVectorChecker
 DECL|struct|SimpleValue
 DECL|variable|Custom
