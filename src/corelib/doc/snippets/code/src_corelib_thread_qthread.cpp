@@ -1,5 +1,9 @@
-DECL|class|AdvancedThreadManager
+DECL|class|Controller
 DECL|class|Worker
+DECL|class|WorkerThread
+DECL|function|Controller
 DECL|function|doWork
-DECL|function|putWorkerInAThread
-DECL|function|run
+DECL|function|startWorkInAThread
+DECL|function|~Controller
+DECL|member|workerThread
+DECL|member|workerThread

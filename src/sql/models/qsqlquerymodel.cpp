@@ -8,6 +8,7 @@ DECL|function|beginResetModel
 DECL|function|canFetchMore
 DECL|function|clear
 DECL|function|columnCount
+DECL|function|columnInQuery
 DECL|function|data
 DECL|function|endInsertColumns
 DECL|function|endInsertRows

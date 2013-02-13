@@ -59,6 +59,7 @@ DECL|function|isInputPanelVisible
 DECL|function|isSessionOkay
 DECL|function|isValid
 DECL|function|keyboardLocaleChanged
+DECL|function|keyboardRect
 DECL|function|keyboardVisibilityChanged
 DECL|function|locale
 DECL|function|onBeginBatchEdit

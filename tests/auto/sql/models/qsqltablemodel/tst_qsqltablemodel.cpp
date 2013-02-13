@@ -35,6 +35,8 @@ DECL|function|insertRow
 DECL|function|insertRowFailure
 DECL|function|insertRowFailure_data
 DECL|function|insertRow_data
+DECL|function|insertWithAutoColumn
+DECL|function|insertWithAutoColumn_data
 DECL|function|invalidFilterAndHeaderData
 DECL|function|invalidFilterAndHeaderData_data
 DECL|function|isDirty
@@ -55,6 +57,8 @@ DECL|function|removeRow_data
 DECL|function|removeRows
 DECL|function|removeRows_data
 DECL|function|repopulateTestTables
+DECL|function|revert
+DECL|function|revert_data
 DECL|function|select
 DECL|function|selectRow
 DECL|function|selectRow
@@ -63,6 +67,8 @@ DECL|function|selectRowOverride_data
 DECL|function|selectRow_data
 DECL|function|select_data
 DECL|function|setData
+DECL|function|setData
+DECL|function|setData_data
 DECL|function|setFilter
 DECL|function|setFilter_data
 DECL|function|setInvalidFilter

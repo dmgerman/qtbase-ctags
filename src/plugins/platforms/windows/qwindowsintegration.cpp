@@ -26,6 +26,7 @@ DECL|function|options
 DECL|function|parseOptions
 DECL|function|possibleKeys
 DECL|function|queryKeyboardModifiers
+DECL|function|registerWindowClass
 DECL|function|services
 DECL|function|setAsyncExpose
 DECL|function|setWindowProperty

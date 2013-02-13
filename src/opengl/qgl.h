@@ -8,9 +8,7 @@ DECL|function|rgba
 DECL|function|sampleBuffers
 DECL|function|stencil
 DECL|function|stereo
-DECL|macro|GL_DOUBLE
 DECL|macro|QGL_H
-DECL|typedef|GLdouble
 DECL|variable|QGLContextPrivate
 DECL|variable|QGLFormatPrivate
 DECL|variable|QGLFunctions

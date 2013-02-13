@@ -1,7 +1,4 @@
-DECL|class|QSqlResultPrivate
-DECL|function|QHolder
 DECL|function|QSqlResult
-DECL|function|QSqlResultPrivate
 DECL|function|addBindValue
 DECL|function|at
 DECL|function|bindValue
@@ -15,9 +12,6 @@ DECL|function|boundValueCount
 DECL|function|boundValueName
 DECL|function|boundValues
 DECL|function|clear
-DECL|function|clear
-DECL|function|clearIndex
-DECL|function|clearValues
 DECL|function|detachFromResultSet
 DECL|function|driver
 DECL|function|exec
@@ -38,14 +32,11 @@ DECL|function|lastQuery
 DECL|function|namedToPositionalBinding
 DECL|function|nextResult
 DECL|function|numericalPrecisionPolicy
-DECL|function|operator !=
-DECL|function|operator ==
 DECL|function|positionalToNamedBinding
 DECL|function|prepare
 DECL|function|qFieldSerial
 DECL|function|qIsAlnum
 DECL|function|record
-DECL|function|resetBindCount
 DECL|function|resetBindCount
 DECL|function|savePrepare
 DECL|function|setActive
@@ -57,24 +48,3 @@ DECL|function|setQuery
 DECL|function|setSelect
 DECL|function|virtual_hook
 DECL|function|~QSqlResult
-DECL|member|active
-DECL|member|bindCount
-DECL|member|binds
-DECL|member|error
-DECL|member|executedQuery
-DECL|member|forwardOnly
-DECL|member|holderName
-DECL|member|holderPos
-DECL|member|holders
-DECL|member|idx
-DECL|member|indexes
-DECL|member|isSel
-DECL|member|precisionPolicy
-DECL|member|q
-DECL|member|sql
-DECL|member|sqldriver
-DECL|member|types
-DECL|member|values
-DECL|struct|QHolder
-DECL|typedef|IndexMap
-DECL|typedef|QHolderVector

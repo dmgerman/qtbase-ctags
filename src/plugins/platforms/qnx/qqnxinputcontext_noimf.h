@@ -1,2 +1,3 @@
 DECL|macro|QQNXINPUTCONTEXT_H
 DECL|variable|QQnxAbstractVirtualKeyboard
+DECL|variable|QQnxIntegration

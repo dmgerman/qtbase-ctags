@@ -71,6 +71,7 @@ DECL|member|qmake_args
 DECL|member|qmake_mode
 DECL|member|recursive
 DECL|member|res_ext
+DECL|member|state
 DECL|member|ui_ext
 DECL|member|warn_level
 DECL|member|yacc_ext

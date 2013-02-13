@@ -49,3 +49,4 @@ DECL|function|topicCommands
 DECL|function|~CppCodeParser
 DECL|member|exampleDirs
 DECL|member|exampleFiles
+DECL|variable|inMacroCommand_
