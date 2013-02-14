@@ -1,4 +1,6 @@
 DECL|function|DllMain
+DECL|function|current
+DECL|function|current
 DECL|function|error
 DECL|function|getCurrentAPI
 DECL|function|getCurrentDisplay
