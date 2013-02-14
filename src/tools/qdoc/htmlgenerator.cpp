@@ -58,6 +58,7 @@ DECL|function|isThreeColumnEnumValueTable
 DECL|function|linkForNode
 DECL|function|protect
 DECL|function|protectEnc
+DECL|function|readManifestMetaContent
 DECL|function|refForNode
 DECL|function|registerRef
 DECL|function|reportOrphans
