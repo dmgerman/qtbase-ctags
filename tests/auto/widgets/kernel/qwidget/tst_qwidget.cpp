@@ -6,6 +6,7 @@ DECL|class|Composite
 DECL|class|Container
 DECL|class|ContentsPropagationWidget
 DECL|class|CustomWidget
+DECL|class|DClickWidget
 DECL|class|DestroyTester
 DECL|class|DestroyedSlotChecker
 DECL|class|EnterTestMainDialog
@@ -45,6 +46,7 @@ DECL|function|Composite
 DECL|function|Container
 DECL|function|ContentsPropagationWidget
 DECL|function|CustomWidget
+DECL|function|DClickWidget
 DECL|function|DestroyTester
 DECL|function|DestroyedSlotChecker
 DECL|function|EnterTestMainDialog
@@ -174,6 +176,8 @@ DECL|function|mapFromAndTo_data
 DECL|function|maskedUpdate
 DECL|function|metric
 DECL|function|minAndMaxSizeWithX11BypassWindowManagerHint
+DECL|function|mouseDoubleClickBubbling_QTBUG29680
+DECL|function|mouseDoubleClickEvent
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseEventLogEntry
@@ -406,6 +410,7 @@ DECL|member|source
 DECL|member|state
 DECL|member|testWidget
 DECL|member|timer
+DECL|member|triggered
 DECL|member|updateOnActivationChangeAndFocusIn
 DECL|member|wasQWidget
 DECL|member|widget
