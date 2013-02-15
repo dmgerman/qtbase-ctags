@@ -1,15 +1,8 @@
-DECL|function|MacSocketInfo
 DECL|macro|QEVENTDISPATCHER_MAC_P_H
 DECL|member|nswindow
-DECL|member|readNotifier
-DECL|member|runloop
 DECL|member|session
-DECL|member|socket
 DECL|member|window
-DECL|member|writeNotifier
-DECL|struct|MacSocketInfo
 DECL|struct|_QCocoaModalSessionInfo
-DECL|typedef|MacSocketHash
 DECL|typedef|NSModalSession
 DECL|typedef|QCocoaModalSessionInfo
 DECL|variable|QCocoaEventDispatcherPrivate
