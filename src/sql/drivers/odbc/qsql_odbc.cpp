@@ -53,6 +53,7 @@ DECL|function|init
 DECL|function|isIdentifierEscaped
 DECL|function|isNull
 DECL|function|isStmtHandleValid
+DECL|function|lastInsertId
 DECL|function|nextResult
 DECL|function|numRowsAffected
 DECL|function|open
