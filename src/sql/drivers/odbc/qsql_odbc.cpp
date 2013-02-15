@@ -1,9 +1,16 @@
 DECL|class|QODBCDriverPrivate
 DECL|class|QODBCPrivate
 DECL|enumerator|Lower
+DECL|enumerator|MSSqlServer
 DECL|enumerator|Mixed
+DECL|enumerator|MySqlServer
+DECL|enumerator|Oracle
+DECL|enumerator|PostgreSQL
 DECL|enumerator|Sensitive
+DECL|enumerator|Sybase
+DECL|enumerator|UnknownDB
 DECL|enumerator|Upper
+DECL|enum|DBMSType
 DECL|enum|DefaultCase
 DECL|function|QODBCDriver
 DECL|function|QODBCDriver
@@ -12,12 +19,12 @@ DECL|function|QODBCPrivate
 DECL|function|QODBCResult
 DECL|function|adjustCase
 DECL|function|beginTransaction
+DECL|function|checkDBMS
 DECL|function|checkDateTimePrecision
 DECL|function|checkDriver
 DECL|function|checkHasMultiResults
 DECL|function|checkHasSQLFetchScroll
 DECL|function|checkSchemaUsage
-DECL|function|checkSqlServer
 DECL|function|checkUnicode
 DECL|function|cleanup
 DECL|function|clearValues
@@ -84,6 +91,7 @@ DECL|function|~QODBCDriver
 DECL|function|~QODBCResult
 DECL|macro|ODBC_CHECK_DRIVER
 DECL|member|datetime_precision
+DECL|member|dbmsType
 DECL|member|disconnectCount
 DECL|member|disconnectCount
 DECL|member|driverPrivate
@@ -96,8 +104,6 @@ DECL|member|hasMultiResultSets
 DECL|member|hasSQLFetchScroll
 DECL|member|hasSQLFetchScroll
 DECL|member|isFreeTDSDriver
-DECL|member|isMSSqlServer
-DECL|member|isMySqlServer
 DECL|member|isQuoteInitialized
 DECL|member|quote
 DECL|member|rInf
