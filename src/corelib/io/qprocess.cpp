@@ -36,6 +36,7 @@ DECL|function|keys
 DECL|function|keys
 DECL|function|kill
 DECL|function|nativeArguments
+DECL|function|open
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|parseCombinedArgString
@@ -50,11 +51,13 @@ DECL|function|readChannel
 DECL|function|readChannelMode
 DECL|function|readData
 DECL|function|remove
+DECL|function|setArguments
 DECL|function|setEnvironment
 DECL|function|setNativeArguments
 DECL|function|setProcessChannelMode
 DECL|function|setProcessEnvironment
 DECL|function|setProcessState
+DECL|function|setProgram
 DECL|function|setReadChannel
 DECL|function|setReadChannelMode
 DECL|function|setStandardErrorFile
@@ -63,6 +66,7 @@ DECL|function|setStandardOutputFile
 DECL|function|setStandardOutputProcess
 DECL|function|setWorkingDirectory
 DECL|function|setupChildProcess
+DECL|function|start
 DECL|function|start
 DECL|function|start
 DECL|function|startDetached
