@@ -34,6 +34,7 @@ DECL|member|socket
 DECL|member|text
 DECL|member|text
 DECL|member|textEdit
+DECL|member|valueChangedSignal
 DECL|variable|allPButtons
 DECL|variable|button
 DECL|variable|button

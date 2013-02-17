@@ -1,6 +1,7 @@
 DECL|class|QImageReaderPrivate
 DECL|enumerator|_qt_BmpFormat
 DECL|enumerator|_qt_GifFormat
+DECL|enumerator|_qt_JpegFormat
 DECL|enumerator|_qt_JpgFormat
 DECL|enumerator|_qt_NoFormat
 DECL|enumerator|_qt_NumFormats

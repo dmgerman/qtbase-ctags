@@ -12,6 +12,7 @@ DECL|function|convertFromImage_data
 DECL|function|copy
 DECL|function|createMaskFromColor
 DECL|function|depthOfNullObjects
+DECL|function|detachOnLoad_QTBUG29639
 DECL|function|drawBitmap
 DECL|function|fill
 DECL|function|fill_data

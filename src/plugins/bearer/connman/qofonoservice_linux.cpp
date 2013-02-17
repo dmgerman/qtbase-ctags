@@ -80,6 +80,8 @@ DECL|function|isPowered
 DECL|function|isPresent
 DECL|function|isRoamingAllowed
 DECL|function|lockedPins
+DECL|function|operator <<
+DECL|function|operator >>
 DECL|function|pinRequired
 DECL|function|propertyChanged
 DECL|function|sendMessage

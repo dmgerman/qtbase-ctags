@@ -19,6 +19,7 @@ DECL|function|createHeuristicMask
 DECL|function|createInvalidXPM
 DECL|function|deepCopyWhenPaintingActive
 DECL|function|destructor
+DECL|function|dotsPerMeterAndDpi
 DECL|function|dotsPerMeterZero
 DECL|function|fillColor
 DECL|function|fillColorWithAlpha
