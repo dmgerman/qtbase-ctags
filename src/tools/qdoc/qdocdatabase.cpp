@@ -33,6 +33,7 @@ DECL|function|qdocDB
 DECL|function|readIndexes
 DECL|function|refForAtom
 DECL|function|resolveIssues
+DECL|function|resolveQmlInheritance
 DECL|function|resolveTarget
 DECL|function|resolveTargets
 DECL|function|~QDocDatabase

@@ -13,6 +13,7 @@ DECL|function|_q_fileRenamed
 DECL|function|_q_goHome
 DECL|function|_q_goToDirectory
 DECL|function|_q_goToUrl
+DECL|function|_q_nativeEnterDirectory
 DECL|function|_q_navigateBackward
 DECL|function|_q_navigateForward
 DECL|function|_q_navigateToParent

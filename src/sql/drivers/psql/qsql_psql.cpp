@@ -21,6 +21,7 @@ DECL|function|exec
 DECL|function|fetch
 DECL|function|fetchFirst
 DECL|function|fetchLast
+DECL|function|fieldSerial
 DECL|function|formatValue
 DECL|function|getPSQLVersion
 DECL|function|handle
@@ -50,7 +51,6 @@ DECL|function|qMakePSQLVersion
 DECL|function|qMakePreparedStmtId
 DECL|function|qPQfreemem
 DECL|function|qQuote
-DECL|function|qReplacePlaceholderMarkers
 DECL|function|qSplitTableName
 DECL|function|record
 DECL|function|record
