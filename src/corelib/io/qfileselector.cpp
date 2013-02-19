@@ -1,0 +1,17 @@
+DECL|function|QFileSelector
+DECL|function|QFileSelectorPrivate
+DECL|function|addStatics
+DECL|function|allSelectors
+DECL|function|extraSelectors
+DECL|function|platformSelectors
+DECL|function|qrcScheme
+DECL|function|select
+DECL|function|select
+DECL|function|select
+DECL|function|selectionHelper
+DECL|function|setExtraSelectors
+DECL|function|updateSelectors
+DECL|function|~QFileSelector
+DECL|variable|env_override
+DECL|variable|selectorIndicator
+DECL|variable|sharedDataMutex
