@@ -1,5 +1,17 @@
+DECL|class|TestPage
 DECL|class|tst_QStackedWidget
+DECL|function|TestPage
+DECL|function|createWidgets
+DECL|function|destroyWidgets
+DECL|function|dynamicPages
 DECL|function|getSetCheck
+DECL|function|hideEvent
+DECL|function|setN
+DECL|function|showEvent
 DECL|function|testMinimumSize
 DECL|function|tst_QStackedWidget
+DECL|function|~TestPage
 DECL|function|~tst_QStackedWidget
+DECL|member|m_les
+DECL|member|m_n
+DECL|member|m_staticWidgets
