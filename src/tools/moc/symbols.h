@@ -8,6 +8,7 @@ DECL|function|Symbol
 DECL|function|Symbol
 DECL|function|Symbol
 DECL|function|dontReplaceSymbol
+DECL|function|excludeSymbols
 DECL|function|lexem
 DECL|function|operator
 DECL|function|qHash
@@ -15,6 +16,7 @@ DECL|function|test
 DECL|function|unquotedLexem
 DECL|macro|SYMBOLS_H
 DECL|member|array
+DECL|member|excludedSymbols
 DECL|member|expandedMacro
 DECL|member|from
 DECL|member|index
