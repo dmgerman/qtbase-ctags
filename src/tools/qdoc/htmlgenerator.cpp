@@ -14,7 +14,6 @@ DECL|function|generateAllQmlMembersFile
 DECL|function|generateAnnotatedList
 DECL|function|generateAnnotatedList
 DECL|function|generateAtom
-DECL|function|generateBreadCrumbs
 DECL|function|generateBrief
 DECL|function|generateClassHierarchy
 DECL|function|generateClassLikeNode
@@ -37,6 +36,7 @@ DECL|function|generateLowStatusMemberFile
 DECL|function|generateMacRef
 DECL|function|generateManifestFile
 DECL|function|generateManifestFiles
+DECL|function|generateNavigationBar
 DECL|function|generateOverviewList
 DECL|function|generateQmlInherits
 DECL|function|generateQmlInstantiates
