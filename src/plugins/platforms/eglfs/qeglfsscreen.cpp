@@ -5,4 +5,5 @@ DECL|function|format
 DECL|function|geometry
 DECL|function|logicalDpi
 DECL|function|physicalSize
+DECL|function|setPrimarySurface
 DECL|function|~QEglFSScreen
