@@ -10,6 +10,10 @@ DECL|function|i18nKeys
 DECL|function|i18nKeys_data
 DECL|function|initTestCase
 DECL|function|keyBindings
+DECL|function|listFromString
+DECL|function|listFromString_data
+DECL|function|listToString
+DECL|function|listToString_data
 DECL|function|macSymbolForQtKey
 DECL|function|mnemonic
 DECL|function|mnemonic_data
