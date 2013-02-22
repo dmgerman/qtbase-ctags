@@ -1,10 +1,10 @@
+DECL|function|QOfonoConnectionContextInterface
 DECL|function|QOfonoDBusHelper
 DECL|function|QOfonoDataConnectionManagerInterface
 DECL|function|QOfonoManagerInterface
 DECL|function|QOfonoModemInterface
 DECL|function|QOfonoNetworkOperatorInterface
 DECL|function|QOfonoNetworkRegistrationInterface
-DECL|function|QOfonoPrimaryDataContextInterface
 DECL|function|QOfonoSimInterface
 DECL|function|QOfonoSmsInterface
 DECL|function|cardIdentifier
@@ -88,12 +88,12 @@ DECL|function|sendMessage
 DECL|function|setActive
 DECL|function|setApn
 DECL|function|setProp
+DECL|function|~QOfonoConnectionContextInterface
 DECL|function|~QOfonoDBusHelper
 DECL|function|~QOfonoDataConnectionManagerInterface
 DECL|function|~QOfonoManagerInterface
 DECL|function|~QOfonoModemInterface
 DECL|function|~QOfonoNetworkOperatorInterface
 DECL|function|~QOfonoNetworkRegistrationInterface
-DECL|function|~QOfonoPrimaryDataContextInterface
 DECL|function|~QOfonoSimInterface
 DECL|function|~QOfonoSmsInterface
