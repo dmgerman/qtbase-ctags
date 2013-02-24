@@ -6,7 +6,7 @@ DECL|function|operator +
 DECL|function|operator +=
 DECL|function|operator <<
 DECL|function|operator <<
-DECL|function|qAbs
+DECL|function|qAbsTimeval
 DECL|function|registerTimer
 DECL|function|registeredTimers
 DECL|function|repairTimersIfNeeded
