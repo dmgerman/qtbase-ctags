@@ -9,6 +9,7 @@ DECL|function|convertFromImageDetach
 DECL|function|convertFromImageNoDetach
 DECL|function|convertFromImage_data
 DECL|function|copy
+DECL|function|copyOnNonAlignedBoundary
 DECL|function|createMaskFromColor
 DECL|function|depthOfNullObjects
 DECL|function|detachOnLoad_QTBUG29639
