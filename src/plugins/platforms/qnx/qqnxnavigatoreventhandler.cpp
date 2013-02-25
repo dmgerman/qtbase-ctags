@@ -5,5 +5,6 @@ DECL|function|handleOrientationCheck
 DECL|function|handleSwipeDown
 DECL|function|handleWindowGroupActivated
 DECL|function|handleWindowGroupDeactivated
+DECL|function|handleWindowGroupStateChanged
 DECL|macro|qNavigatorEventHandlerDebug
 DECL|macro|qNavigatorEventHandlerDebug
