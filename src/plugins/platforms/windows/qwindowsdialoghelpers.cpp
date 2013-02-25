@@ -12,6 +12,7 @@ DECL|class|QWindowsNativeSaveFileDialog
 DECL|class|QWindowsXpFileDialogHelper
 DECL|class|QWindowsXpNativeFileDialog
 DECL|enumerator|CustomColorCount
+DECL|enumerator|DSFT_DETECT
 DECL|enumerator|FDAP_BOTTOM
 DECL|enumerator|FDAP_TOP
 DECL|enumerator|FDESVR_ACCEPT
@@ -29,7 +30,11 @@ DECL|enumerator|SIGDN_PARENTRELATIVEEDITING
 DECL|enumerator|SIGDN_PARENTRELATIVEFORADDRESSBAR
 DECL|enumerator|SIGDN_PARENTRELATIVEPARSING
 DECL|enumerator|SIGDN_URL
+DECL|enum|DEFAULTSAVEFOLDERTYPE
+DECL|enum|LIBRARYOPTIONFLAGS
+DECL|enum|LIBRARYSAVEFLAGS
 DECL|function|AddRef
+DECL|function|DECLARE_INTERFACE_
 DECL|function|DECLARE_INTERFACE_
 DECL|function|DECLARE_INTERFACE_
 DECL|function|DECLARE_INTERFACE_
@@ -105,6 +110,10 @@ DECL|function|init
 DECL|function|isQQuickWindow
 DECL|function|itemPath
 DECL|function|itemPaths
+DECL|function|libraryDefaultSaveFolder
+DECL|function|libraryItemDefaultSaveFolder
+DECL|function|libraryItemFolders
+DECL|function|libraryItemPaths
 DECL|function|nativeDialog
 DECL|function|nativeFileDialog
 DECL|function|nativeFileDialog
@@ -120,6 +129,7 @@ DECL|function|qStringToWCharArray
 DECL|function|result
 DECL|function|result
 DECL|function|run
+DECL|function|sHLoadLibraryFromItem
 DECL|function|selectFile
 DECL|function|selectFile
 DECL|function|selectFile
@@ -211,6 +221,7 @@ DECL|macro|GPS_OPENSLOWITEM
 DECL|macro|GPS_READWRITE
 DECL|macro|GPS_TEMPORARY
 DECL|macro|IID_IShellItem
+DECL|macro|LFF_FORCEFILESYSTEM
 DECL|macro|STRICT_TYPED_ITEMIDS
 DECL|member|abID
 DECL|member|cb
@@ -294,4 +305,5 @@ DECL|variable|IID_IFileDialogEvents
 DECL|variable|IID_IFileOpenDialog
 DECL|variable|IID_IFileSaveDialog
 DECL|variable|IID_IShellItem
+DECL|variable|IID_IShellItemArray
 DECL|variable|q_IID_IShellItem
