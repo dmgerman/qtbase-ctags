@@ -18,6 +18,7 @@ DECL|function|isExposed
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
 DECL|function|mapGlobal
+DECL|function|mask
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseEventSequence
 DECL|function|mouseMoveEvent

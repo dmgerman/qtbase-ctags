@@ -37,6 +37,7 @@ DECL|function|keyReleaseEvent
 DECL|function|lower
 DECL|function|mapFromGlobal
 DECL|function|mapToGlobal
+DECL|function|mask
 DECL|function|maximumSize
 DECL|function|maybeQuitOnLastWindowClosed
 DECL|function|minimumSize
@@ -71,6 +72,7 @@ DECL|function|setGeometry
 DECL|function|setHeight
 DECL|function|setIcon
 DECL|function|setKeyboardGrabEnabled
+DECL|function|setMask
 DECL|function|setMaximumHeight
 DECL|function|setMaximumSize
 DECL|function|setMaximumWidth
