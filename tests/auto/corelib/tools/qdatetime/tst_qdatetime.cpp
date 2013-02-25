@@ -40,6 +40,7 @@ DECL|function|maxJd
 DECL|function|minJd
 DECL|function|msecsTo
 DECL|function|msecsTo_data
+DECL|function|offsetFromUtc
 DECL|function|operator_eq
 DECL|function|operator_eqeq
 DECL|function|operator_eqeq_data
@@ -52,17 +53,18 @@ DECL|function|secsTo_data
 DECL|function|setDate
 DECL|function|setMSecsSinceEpoch
 DECL|function|setMSecsSinceEpoch_data
+DECL|function|setOffsetFromUtc
 DECL|function|setTime
 DECL|function|setTimeSpec
 DECL|function|setTimeSpec_data
 DECL|function|setTime_data
 DECL|function|setTime_t
-DECL|function|setUtcOffset
 DECL|function|str
 DECL|function|time
 DECL|function|timeSpec
 DECL|function|toLocalTime
 DECL|function|toLocalTime_data
+DECL|function|toOffsetFromUtc
 DECL|function|toString_enumformat
 DECL|function|toString_isoDate
 DECL|function|toString_isoDate_data
@@ -77,6 +79,5 @@ DECL|function|toTime_t_data
 DECL|function|toUTC
 DECL|function|toUTC_data
 DECL|function|tst_QDateTime
-DECL|function|utcOffset
 DECL|function|utcOffsetLessThan
 DECL|member|europeanTimeZone

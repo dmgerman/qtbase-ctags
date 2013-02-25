@@ -10,6 +10,8 @@ DECL|function|QDateTime
 DECL|function|QDateTime
 DECL|function|QDateTime
 DECL|function|QDateTime
+DECL|function|QDateTime
+DECL|function|QDateTimePrivate
 DECL|function|QTime
 DECL|function|absoluteMax
 DECL|function|absoluteMin
@@ -55,6 +57,7 @@ DECL|function|floordiv
 DECL|function|floordiv
 DECL|function|fmtDateTime
 DECL|function|fromMSecsSinceEpoch
+DECL|function|fromOffsetString
 DECL|function|fromShortMonthName
 DECL|function|fromString
 DECL|function|fromString
@@ -94,6 +97,8 @@ DECL|function|msec
 DECL|function|msecsFromDecomposed
 DECL|function|msecsTo
 DECL|function|msecsTo
+DECL|function|offsetFromUtc
+DECL|function|offsetToUtc
 DECL|function|operator <
 DECL|function|operator <<
 DECL|function|operator <<
@@ -135,6 +140,7 @@ DECL|function|setDate
 DECL|function|setDigit
 DECL|function|setHMS
 DECL|function|setMSecsSinceEpoch
+DECL|function|setOffsetFromUtc
 DECL|function|setTime
 DECL|function|setTimeSpec
 DECL|function|setTime_t
@@ -148,6 +154,8 @@ DECL|function|time
 DECL|function|timeSpec
 DECL|function|toMSecsSinceEpoch
 DECL|function|toMSecsSinceEpoch_helper
+DECL|function|toOffsetFromUtc
+DECL|function|toOffsetString
 DECL|function|toString
 DECL|function|toString
 DECL|function|toString
@@ -159,6 +167,7 @@ DECL|function|toTime_t
 DECL|function|unquote
 DECL|function|utcOffset
 DECL|function|utcToLocal
+DECL|function|utcToOffset
 DECL|function|weekNumber
 DECL|function|year
 DECL|function|~QDateTime
