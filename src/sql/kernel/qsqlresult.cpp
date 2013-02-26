@@ -1,4 +1,5 @@
 DECL|function|QSqlResult
+DECL|function|QSqlResult
 DECL|function|addBindValue
 DECL|function|at
 DECL|function|bindValue
