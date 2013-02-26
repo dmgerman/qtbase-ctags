@@ -1,6 +1,7 @@
 DECL|function|QWindowsClipboard
 DECL|function|clear
 DECL|function|clipboardViewerWndProc
+DECL|function|isProcessBeingDebugged
 DECL|function|mimeData
 DECL|function|operator <<
 DECL|function|ownsClipboard
