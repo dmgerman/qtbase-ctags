@@ -6,6 +6,7 @@ DECL|function|setCustomLocations
 DECL|function|setDefaultLocations
 DECL|function|testAllWritableLocations
 DECL|function|testAllWritableLocations_data
+DECL|function|testCleanPath
 DECL|function|testCustomLocations
 DECL|function|testCustomRuntimeDirectory
 DECL|function|testDataLocation
