@@ -35,6 +35,7 @@ DECL|function|property
 DECL|function|queryDefault
 DECL|function|queryDefaultPrinter
 DECL|function|queryResolutions
+DECL|function|qwcsnlen
 DECL|function|readDevmode
 DECL|function|readDevnames
 DECL|function|release
