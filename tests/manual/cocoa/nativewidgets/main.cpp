@@ -1,0 +1,12 @@
+DECL|class|ColorWidget
+DECL|function|ColorWidget
+DECL|function|changeColor
+DECL|function|enterEvent
+DECL|function|leaveEvent
+DECL|function|main
+DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
+DECL|function|paintEvent
+DECL|member|color
+DECL|member|s
+DECL|member|v
