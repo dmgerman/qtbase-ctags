@@ -24,6 +24,8 @@ DECL|function|addAction
 DECL|function|addMenu
 DECL|function|addMenu
 DECL|function|addMenu
+DECL|function|addSection
+DECL|function|addSection
 DECL|function|addSeparator
 DECL|function|adjustMenuSizeForScreen
 DECL|function|calcCausedStack
@@ -49,6 +51,8 @@ DECL|function|icon
 DECL|function|init
 DECL|function|initStyleOption
 DECL|function|insertMenu
+DECL|function|insertSection
+DECL|function|insertSection
 DECL|function|insertSeparator
 DECL|function|internalDelayedPopup
 DECL|function|internalSetSloppyAction
