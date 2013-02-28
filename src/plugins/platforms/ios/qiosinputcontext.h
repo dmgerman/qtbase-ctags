@@ -1,0 +1,2 @@
+DECL|macro|QIOSINPUTCONTEXT_H
+DECL|variable|QIOSKeyboardListener

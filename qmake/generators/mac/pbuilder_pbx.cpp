@@ -24,6 +24,7 @@ DECL|function|writeMakeParts
 DECL|function|writeMakefile
 DECL|function|writeSettings
 DECL|function|writeSubDirs
+DECL|function|xcodeFiletypeForFilename
 DECL|function|~ProjectBuilderSubDirs
 DECL|member|autoDelete
 DECL|member|buildable

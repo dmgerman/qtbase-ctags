@@ -1,0 +1,2 @@
+DECL|macro|QIOSSCREEN_H
+DECL|variable|QIOSOrientationListener
