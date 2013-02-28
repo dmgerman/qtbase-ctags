@@ -33,7 +33,6 @@ DECL|function|splitPathList
 DECL|macro|OPTION_H
 DECL|macro|QMAKE_VERSION_STR
 DECL|macro|debug_msg
-DECL|member|application_argv0
 DECL|member|c_ext
 DECL|member|cachefile_depth
 DECL|member|cpp_ext
