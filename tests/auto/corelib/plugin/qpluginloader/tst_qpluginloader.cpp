@@ -6,6 +6,8 @@ DECL|function|loadCorruptElf
 DECL|function|loadDebugObj
 DECL|function|loadGarbage
 DECL|function|loadHints
+DECL|function|loadMachO
+DECL|function|loadMachO_data
 DECL|function|preloadedPlugin
 DECL|function|preloadedPlugin_data
 DECL|function|relativePath

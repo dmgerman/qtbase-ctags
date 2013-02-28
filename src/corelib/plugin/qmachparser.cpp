@@ -1,0 +1,13 @@
+DECL|function|ns
+DECL|function|parse
+DECL|macro|MACHO64
+DECL|macro|MACHO64
+DECL|typedef|my_mach_header
+DECL|typedef|my_mach_header
+DECL|typedef|my_section
+DECL|typedef|my_section
+DECL|typedef|my_segment_command
+DECL|typedef|my_segment_command
+DECL|variable|my_cputype
+DECL|variable|my_magic
+DECL|variable|my_magic
