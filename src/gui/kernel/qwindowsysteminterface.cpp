@@ -1,5 +1,6 @@
 DECL|function|ExposeEvent
 DECL|function|convertTouchPoints
+DECL|function|deferredFlushWindowSystemEvents
 DECL|function|flushWindowSystemEvents
 DECL|function|getNonUserInputWindowSystemEvent
 DECL|function|getWindowSystemEvent
@@ -67,5 +68,7 @@ DECL|function|tryHandleShortcutEvent
 DECL|function|windowSystemEventsQueued
 DECL|function|windowSystemEventsQueued
 DECL|member|eventTime
+DECL|member|eventsFlushed
+DECL|member|flushEventMutex
 DECL|member|synchronousWindowsSystemEvents
 DECL|member|windowSystemEventQueue
