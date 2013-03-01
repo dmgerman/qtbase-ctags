@@ -57,6 +57,7 @@ DECL|function|floordiv
 DECL|function|floordiv
 DECL|function|fmtDateTime
 DECL|function|fromMSecsSinceEpoch
+DECL|function|fromMSecsSinceEpoch
 DECL|function|fromOffsetString
 DECL|function|fromShortMonthName
 DECL|function|fromString
@@ -67,6 +68,7 @@ DECL|function|fromString
 DECL|function|fromString
 DECL|function|fromString
 DECL|function|fromStringImpl
+DECL|function|fromTime_t
 DECL|function|fromTime_t
 DECL|function|getAmPmText
 DECL|function|getDate
