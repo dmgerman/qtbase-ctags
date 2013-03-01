@@ -1,4 +1,5 @@
 DECL|class|AutoRegistrationObject
+DECL|class|ClassWithOneMember
 DECL|class|ClassWithPrivateSignals
 DECL|class|CtorTestClass
 DECL|class|CustomQObject
@@ -148,6 +149,7 @@ DECL|function|longDoubleProperty
 DECL|function|longIntProperty
 DECL|function|member2
 DECL|function|memberProperties
+DECL|function|memberProperties2
 DECL|function|memberProperties_data
 DECL|function|method1
 DECL|function|method1
@@ -307,6 +309,7 @@ DECL|member|m_sourceDirectory
 DECL|member|m_str
 DECL|member|m_value
 DECL|member|m_value2
+DECL|member|member
 DECL|member|p1
 DECL|member|p2
 DECL|member|pPPTest
