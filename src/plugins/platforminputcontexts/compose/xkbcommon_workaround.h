@@ -1,0 +1,3 @@
+DECL|function|needWorkaround
+DECL|function|utf32_to_utf8
+DECL|macro|XKBCOMMON_WORKAROUND_H

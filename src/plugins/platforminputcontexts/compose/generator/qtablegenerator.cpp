@@ -1,0 +1,17 @@
+DECL|function|TableGenerator
+DECL|function|composeTable
+DECL|function|findComposeFile
+DECL|function|findSystemComposeDir
+DECL|function|initPossibleLocations
+DECL|function|keysymToUtf8
+DECL|function|locale
+DECL|function|orderComposeTable
+DECL|function|parseComposeFile
+DECL|function|parseIncludeInstruction
+DECL|function|parseKeySequence
+DECL|function|printComposeTable
+DECL|function|processFile
+DECL|function|readLocaleMappings
+DECL|function|stringToKeysym
+DECL|function|systemComposeDir
+DECL|function|~TableGenerator
