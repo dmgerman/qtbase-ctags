@@ -9,6 +9,7 @@ DECL|function|QPixmapIconEngine
 DECL|function|QPixmapIconEngine
 DECL|function|actualSize
 DECL|function|actualSize
+DECL|function|actualSize
 DECL|function|addFile
 DECL|function|addFile
 DECL|function|addPixmap
@@ -35,7 +36,10 @@ DECL|function|paint
 DECL|function|paint
 DECL|function|pixmap
 DECL|function|pixmap
+DECL|function|pixmap
+DECL|function|pixmapDevicePixelRatio
 DECL|function|qt_cleanup_icon_cache
+DECL|function|qt_effective_device_pixel_ratio
 DECL|function|read
 DECL|function|setThemeName
 DECL|function|setThemeSearchPaths
