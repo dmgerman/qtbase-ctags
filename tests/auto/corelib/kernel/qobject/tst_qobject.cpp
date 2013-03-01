@@ -21,6 +21,7 @@ DECL|class|DynamicPropertyObject
 DECL|class|EmitThread
 DECL|class|EventSpy
 DECL|class|FooObject
+DECL|class|FunctorArgDifferenceObject
 DECL|class|LotsOfSignalsAndSlots
 DECL|class|ManyArgumentObject
 DECL|class|ManySignals
@@ -59,6 +60,8 @@ DECL|function|AutoConnectReceiver
 DECL|function|AutoConnectSender
 DECL|function|BaseDestroyed
 DECL|function|CheckInstanceCount
+DECL|function|ComplexFunctor
+DECL|function|ComplexFunctorDeriv
 DECL|function|ConfusingObject
 DECL|function|ConnectByNameNotifyReceiverObject
 DECL|function|ConnectToPrivateSlot
@@ -112,6 +115,8 @@ DECL|function|connectDisconnectNotifyTestSlot
 DECL|function|connectDisconnectNotify_data
 DECL|function|connectDisconnectNotify_shadowing
 DECL|function|connectFunctorArgDifference
+DECL|function|connectFunctorOverload_impl
+DECL|function|connectFunctorOverloads
 DECL|function|connectManyArguments
 DECL|function|connectNotify
 DECL|function|connectNotify
@@ -220,6 +225,15 @@ DECL|function|on_baz_signal1
 DECL|function|on_child_signal
 DECL|function|on_foo_signal1
 DECL|function|on_something
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
@@ -455,6 +469,7 @@ DECL|member|receivedCount
 DECL|member|receivedValue
 DECL|member|recursionCount
 DECL|member|result
+DECL|member|result
 DECL|member|s
 DECL|member|s_num
 DECL|member|saved
@@ -479,6 +494,8 @@ DECL|namespace|QObjectTest
 DECL|struct|Bar
 DECL|struct|Bleh
 DECL|struct|CheckInstanceCount
+DECL|struct|ComplexFunctor
+DECL|struct|ComplexFunctorDeriv
 DECL|struct|CountedStruct
 DECL|struct|CustomType
 DECL|struct|CustomTypeFunctor
