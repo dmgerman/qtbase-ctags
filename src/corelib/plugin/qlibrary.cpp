@@ -9,6 +9,7 @@ DECL|function|errorString
 DECL|function|fileName
 DECL|function|findOrCreate
 DECL|function|findOrCreate
+DECL|function|findPatternUnloaded
 DECL|function|installCoverageTool
 DECL|function|instance
 DECL|function|isLibrary
@@ -22,8 +23,6 @@ DECL|function|qlibraryCleanup
 DECL|function|qt_debug_component
 DECL|function|qt_find_pattern
 DECL|function|qt_get_metadata
-DECL|function|qt_try_versioninfo
-DECL|function|qt_unix_query
 DECL|function|release
 DECL|function|releaseLibrary
 DECL|function|resolve
@@ -43,7 +42,6 @@ DECL|function|~QLibraryPrivate
 DECL|function|~QLibraryStore
 DECL|macro|QLIBRARY_AS_DEBUG
 DECL|macro|QT_NO_DEBUG_PLUGIN_CHECK
-DECL|macro|QT_USE_MS_STD_EXCEPTION
 DECL|member|libraryMap
 DECL|typedef|LibraryMap
 DECL|typedef|QtPluginQueryVerificationDataFunction
