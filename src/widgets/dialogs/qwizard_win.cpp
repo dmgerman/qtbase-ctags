@@ -11,6 +11,7 @@ DECL|enum|WIZ_NAV_BACKBUTTONSTATES
 DECL|enum|WIZ_WINDOWTHEMEATTRIBUTETYPE
 DECL|function|QVistaBackButton
 DECL|function|QVistaHelper
+DECL|function|backingStoreDC
 DECL|function|basicWindowFrameColor
 DECL|function|disconnectBackButton
 DECL|function|drawBlackRect
