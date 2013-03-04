@@ -262,6 +262,7 @@ DECL|macro|Q_UNREACHABLE_IMPL
 DECL|macro|Q_UNREACHABLE_IMPL
 DECL|macro|Q_UNREACHABLE_IMPL
 DECL|macro|Q_UNREACHABLE_IMPL
+DECL|macro|__has_extension
 DECL|macro|__is_empty
 DECL|macro|__is_pod
 DECL|macro|for
