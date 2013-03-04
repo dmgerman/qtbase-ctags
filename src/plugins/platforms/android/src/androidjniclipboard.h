@@ -1,0 +1,2 @@
+DECL|macro|ANDROIDJNICLIPBOARD_H
+DECL|variable|QAndroidPlatformClipboard

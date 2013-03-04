@@ -1,4 +1,5 @@
 DECL|function|QMessagePattern
+DECL|function|android_default_message_handler
 DECL|function|copy
 DECL|function|critical
 DECL|function|critical

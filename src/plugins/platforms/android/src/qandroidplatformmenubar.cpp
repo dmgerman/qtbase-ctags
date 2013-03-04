@@ -1,0 +1,10 @@
+DECL|function|QAndroidPlatformMenuBar
+DECL|function|handleReparent
+DECL|function|insertMenu
+DECL|function|menuForTag
+DECL|function|menus
+DECL|function|menusListMutex
+DECL|function|parentWindow
+DECL|function|removeMenu
+DECL|function|syncMenu
+DECL|function|~QAndroidPlatformMenuBar

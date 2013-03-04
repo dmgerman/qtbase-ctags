@@ -1,0 +1,3 @@
+DECL|function|fallbacksForFamily
+DECL|function|fontDir
+DECL|function|populateFontDatabase

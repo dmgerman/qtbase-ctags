@@ -1,0 +1,2 @@
+DECL|macro|QANDROIDPLATFORMMENU_H
+DECL|variable|QAndroidPlatformMenuItem
