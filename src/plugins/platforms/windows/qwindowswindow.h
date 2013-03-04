@@ -11,6 +11,7 @@ DECL|function|setUserDataOf
 DECL|function|userDataOf
 DECL|macro|QWINDOWSWINDOW_H
 DECL|member|customMargins
+DECL|member|customMargins
 DECL|member|exStyle
 DECL|member|frameHeight
 DECL|member|frameWidth
