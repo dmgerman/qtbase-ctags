@@ -1,0 +1,17 @@
+DECL|function|QQnxFileDialogHelper
+DECL|function|defaultNameFilterDisables
+DECL|function|directory
+DECL|function|exec
+DECL|function|hide
+DECL|function|selectFile
+DECL|function|selectNameFilter
+DECL|function|selectedFiles
+DECL|function|selectedNameFilter
+DECL|function|setDirectory
+DECL|function|setFilter
+DECL|function|setNameFilter
+DECL|function|setNameFilters
+DECL|function|show
+DECL|function|~QQnxFileDialogHelper
+DECL|macro|qFileDialogHelperDebug
+DECL|macro|qFileDialogHelperDebug

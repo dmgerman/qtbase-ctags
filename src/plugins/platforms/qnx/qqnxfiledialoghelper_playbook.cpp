@@ -11,6 +11,7 @@ DECL|function|selectedNameFilter
 DECL|function|setDirectory
 DECL|function|setFilter
 DECL|function|setNameFilter
+DECL|function|setNameFilters
 DECL|function|show
 DECL|function|~QQnxFileDialogHelper
 DECL|macro|qFileDialogHelperDebug
