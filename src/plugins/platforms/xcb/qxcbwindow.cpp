@@ -19,6 +19,8 @@ DECL|enumerator|MWM_HINTS_INPUT_MODE
 DECL|enumerator|MWM_INPUT_FULL_APPLICATION_MODAL
 DECL|enumerator|MWM_INPUT_MODELESS
 DECL|enumerator|MWM_INPUT_PRIMARY_APPLICATION_MODAL
+DECL|enumerator|defaultWindowHeight
+DECL|enumerator|defaultWindowWidth
 DECL|function|ExposeCompressor
 DECL|function|QXcbWindow
 DECL|function|changeNetWmState

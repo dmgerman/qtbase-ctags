@@ -170,6 +170,7 @@ DECL|macro|QT_OPEN_BINARY
 DECL|macro|STDERR_FILENO
 DECL|macro|STDIN_FILENO
 DECL|macro|STDOUT_FILENO
+DECL|macro|open
 DECL|member|fd_
 DECL|member|m_dosFile
 DECL|member|m_forCopyingFile

@@ -52,6 +52,13 @@ DECL|function|detach
 DECL|function|detachCustom
 DECL|function|detachInt
 DECL|function|detachMovable
+DECL|function|detachThreadSafety
+DECL|function|detachThreadSafetyCustom
+DECL|function|detachThreadSafetyData
+DECL|function|detachThreadSafetyData
+DECL|function|detachThreadSafetyData
+DECL|function|detachThreadSafetyInt
+DECL|function|detachThreadSafetyMovable
 DECL|function|empty
 DECL|function|emptyCustom
 DECL|function|emptyInt
@@ -168,6 +175,10 @@ DECL|struct|Movable
 DECL|struct|SharedVectorChecker
 DECL|struct|SimpleValue
 DECL|variable|Custom
+DECL|variable|detachThreadSafetyDataCustom
+DECL|variable|detachThreadSafetyDataInt
+DECL|variable|detachThreadSafetyDataMovable
+DECL|variable|detachThreadSafetyLock
 DECL|variable|fooCtor
 DECL|variable|fooDtor
 DECL|variable|isComplex

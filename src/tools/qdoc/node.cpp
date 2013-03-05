@@ -28,6 +28,7 @@ DECL|function|addCollision
 DECL|function|addInclude
 DECL|function|addInheritedBy
 DECL|function|addItem
+DECL|function|addMember
 DECL|function|addParameter
 DECL|function|applyModuleIdentifier
 DECL|function|borrowParameterNames
@@ -99,6 +100,7 @@ DECL|function|primaryKeys
 DECL|function|printChildren
 DECL|function|printMembers
 DECL|function|qmlClassNode
+DECL|function|qmlFullBaseName
 DECL|function|qualifiedDataType
 DECL|function|rawParameters
 DECL|function|reconstruct
