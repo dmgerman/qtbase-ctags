@@ -16,6 +16,7 @@ DECL|function|platformAccessibility
 DECL|function|qAccessibleCleanup
 DECL|function|qAccessibleEventString
 DECL|function|qAccessibleRoleString
+DECL|function|qAccessibleTextBoundaryHelper
 DECL|function|queryAccessibleInterface
 DECL|function|registerAccessibleInterface
 DECL|function|relations
