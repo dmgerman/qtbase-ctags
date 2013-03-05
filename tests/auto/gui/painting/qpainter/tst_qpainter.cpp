@@ -38,6 +38,8 @@ DECL|function|clippedText
 DECL|function|clippingBug
 DECL|function|combinedMatrix
 DECL|function|countPixels
+DECL|function|dashing_systemClip
+DECL|function|dashing_systemClip_paint
 DECL|function|diffColor
 DECL|function|disableEnableClipping
 DECL|function|drawBorderPixmap
