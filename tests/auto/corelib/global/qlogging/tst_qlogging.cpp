@@ -76,6 +76,7 @@ DECL|member|c
 DECL|member|c1
 DECL|member|foo
 DECL|member|m_appDir
+DECL|member|m_baseEnvironment
 DECL|member|x
 DECL|struct|Foo
 DECL|typedef|fptr
