@@ -1,0 +1,5 @@
+DECL|function|main
+DECL|function|noBugErase
+DECL|function|noBugInsertWithHints
+DECL|function|testEraseCorruption
+DECL|function|testInsertWithHintCorruption
