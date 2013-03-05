@@ -7,9 +7,13 @@ DECL|function|endVisit
 DECL|function|endVisit
 DECL|function|endVisit
 DECL|function|endVisit
+DECL|function|endVisit
+DECL|function|endVisit
 DECL|function|getFullyQualifiedId
 DECL|function|precedingComment
 DECL|function|splitQmlPropertyArg
+DECL|function|visit
+DECL|function|visit
 DECL|function|visit
 DECL|function|visit
 DECL|function|visit
