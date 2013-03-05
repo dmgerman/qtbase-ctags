@@ -71,7 +71,6 @@ DECL|member|gtk_check_menu_item_new_with_label
 DECL|member|gtk_check_version
 DECL|member|gtk_combo_box_entry_new
 DECL|member|gtk_combo_box_new
-DECL|member|gtk_combo_box_new_with_entry
 DECL|member|gtk_container_add
 DECL|member|gtk_container_forall
 DECL|member|gtk_container_get_type

@@ -6,6 +6,7 @@ DECL|function|frameMargins
 DECL|function|frameStrutEventsEnabled
 DECL|function|geometry
 DECL|function|handleContentOrientationChange
+DECL|function|initialGeometry
 DECL|function|isActive
 DECL|function|isEmbedded
 DECL|function|isExposed

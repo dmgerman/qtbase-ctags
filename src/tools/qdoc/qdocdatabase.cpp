@@ -18,6 +18,7 @@ DECL|function|findModule
 DECL|function|findNodeForTarget
 DECL|function|findQmlModule
 DECL|function|findQmlType
+DECL|function|findQmlType
 DECL|function|findTarget
 DECL|function|findUnambiguousTarget
 DECL|function|generateIndex
