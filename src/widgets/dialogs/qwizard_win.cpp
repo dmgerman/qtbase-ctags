@@ -40,6 +40,7 @@ DECL|function|topOffset
 DECL|function|updateCustomMargins
 DECL|function|vistaState
 DECL|function|winEvent
+DECL|function|wizardHWND
 DECL|function|~QVistaHelper
 DECL|macro|WIZ_CS_ACTIVE
 DECL|macro|WIZ_DTT_COMPOSITED
