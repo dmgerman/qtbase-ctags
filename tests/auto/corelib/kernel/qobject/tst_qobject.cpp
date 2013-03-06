@@ -93,7 +93,6 @@ DECL|function|blockingQueuedConnection
 DECL|function|boolPtrSlot
 DECL|function|boolRefSlot
 DECL|function|called
-DECL|function|called
 DECL|function|childDeletesItsSibling
 DECL|function|childEvents
 DECL|function|classPointerSlot
@@ -103,7 +102,6 @@ DECL|function|clearNotifications
 DECL|function|clearNotifications
 DECL|function|connectByMetaMethodSlotInsteadOfSignal
 DECL|function|connectByMetaMethods
-DECL|function|connectByName
 DECL|function|connectConstructorByMetaMethod
 DECL|function|connectConvert
 DECL|function|connectCxx0x
@@ -121,6 +119,7 @@ DECL|function|connectNotify_connectSlotsByName
 DECL|function|connectPrivateSlots
 DECL|function|connectPrivateSlots
 DECL|function|connectSignalsToSignalsWithDefaultArguments
+DECL|function|connectSlotsByName
 DECL|function|connectToSender
 DECL|function|connectToStaticCxx0x
 DECL|function|connectVirtualSlots
@@ -171,6 +170,7 @@ DECL|function|emitSignal2
 DECL|function|emitSignal3
 DECL|function|emitSignal4
 DECL|function|emitSignalLoopBack
+DECL|function|emitSignalManyParams
 DECL|function|emitSignalManyParams
 DECL|function|emitSignalManyParams2
 DECL|function|emitSignalNoParams
@@ -251,7 +251,6 @@ DECL|function|recursiveSignalEmission
 DECL|function|relaySignalAndProcessEvents
 DECL|function|relaySignalAndProcessEvents
 DECL|function|rememberSender
-DECL|function|reset
 DECL|function|reset
 DECL|function|return23
 DECL|function|returnCustomTypeSlot
@@ -397,16 +396,7 @@ DECL|macro|MANYARGUMENT_COMPARE
 DECL|macro|SIGNAL_INDEX
 DECL|member|aPublicSlotCalled
 DECL|member|base_counter1
-DECL|member|called_slot1
-DECL|member|called_slot10
-DECL|member|called_slot2
-DECL|member|called_slot3
-DECL|member|called_slot4
-DECL|member|called_slot5
-DECL|member|called_slot6
-DECL|member|called_slot7
-DECL|member|called_slot8
-DECL|member|called_slot9
+DECL|member|called_slots
 DECL|member|changedDynamicProperties
 DECL|member|child
 DECL|member|cond
