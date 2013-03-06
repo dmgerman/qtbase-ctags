@@ -205,6 +205,7 @@ DECL|function|normalize
 DECL|function|number
 DECL|function|o
 DECL|function|on
+DECL|function|on_
 DECL|function|on_Receiver_signalNoParams
 DECL|function|on_Receiver_signal_with_underscore
 DECL|function|on_Sender_signalManyParams
@@ -216,7 +217,9 @@ DECL|function|on_Sender_signalWithParams
 DECL|function|on_Sender_signalWithParams
 DECL|function|on_bar_signal1
 DECL|function|on_baz_signal1
+DECL|function|on_child_signal
 DECL|function|on_foo_signal1
+DECL|function|on_something
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
