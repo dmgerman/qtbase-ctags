@@ -174,10 +174,12 @@ DECL|function|emitSignalManyParams
 DECL|function|emitSignalManyParams
 DECL|function|emitSignalManyParams2
 DECL|function|emitSignalNoParams
+DECL|function|emitSignalNoParams
 DECL|function|emitSignalWithParams
 DECL|function|emitSignalWithParams
 DECL|function|emitTheOriginalSignal
 DECL|function|emitTheSecondSignal
+DECL|function|emit_signal_with_underscore
 DECL|function|enumPointerSlot
 DECL|function|enumSlot
 DECL|function|event
@@ -203,6 +205,8 @@ DECL|function|normalize
 DECL|function|number
 DECL|function|o
 DECL|function|on
+DECL|function|on_Receiver_signalNoParams
+DECL|function|on_Receiver_signal_with_underscore
 DECL|function|on_Sender_signalManyParams
 DECL|function|on_Sender_signalManyParams
 DECL|function|on_Sender_signalManyParams
