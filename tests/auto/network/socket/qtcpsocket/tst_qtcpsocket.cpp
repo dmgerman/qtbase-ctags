@@ -147,7 +147,6 @@ DECL|member|endPoints
 DECL|member|exitCode
 DECL|member|expectedLength
 DECL|member|expectedReplyIMAP_cached
-DECL|member|gotClosedSignal
 DECL|member|lastQuery
 DECL|member|loopLevel
 DECL|member|loopLevel

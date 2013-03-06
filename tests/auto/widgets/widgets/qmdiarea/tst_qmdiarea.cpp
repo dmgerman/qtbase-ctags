@@ -69,7 +69,6 @@ DECL|function|tst_QMdiArea
 DECL|function|updateScrollBars
 DECL|function|verifyArrangement
 DECL|member|_count
-DECL|member|accelPressed
 DECL|member|activeWindow
 DECL|member|eventToSpy
 DECL|variable|DefaultWindowFlags
