@@ -18,7 +18,6 @@ DECL|function|qt_libraryInfoFile
 DECL|function|usage
 DECL|function|warn_msg
 DECL|function|~QMakeCacheClearItem
-DECL|member|application_argv0
 DECL|member|c_ext
 DECL|member|cachefile_depth
 DECL|member|cpp_ext
