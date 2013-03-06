@@ -3,6 +3,7 @@ DECL|function|ANativeWindow_fromSurface
 DECL|function|FakeSurfaceMethod
 DECL|function|JNI_OnLoad
 DECL|function|activity
+DECL|function|androidPlatformIntegration
 DECL|function|applicationClass
 DECL|function|assetManager
 DECL|function|checkPauseApplication
