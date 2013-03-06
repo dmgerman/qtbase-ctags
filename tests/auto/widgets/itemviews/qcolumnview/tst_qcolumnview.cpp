@@ -26,6 +26,7 @@ DECL|function|doubleClick
 DECL|function|dynamicModelChanges
 DECL|function|emitClicked
 DECL|function|firstLevel
+DECL|function|getVisualRegionForSelection
 DECL|function|gripMoved
 DECL|function|grips
 DECL|function|indexAt
@@ -59,7 +60,6 @@ DECL|function|sizes
 DECL|function|swapPreview
 DECL|function|thirdLevel
 DECL|function|tst_QColumnView
-DECL|function|visualRegionForSelection
 DECL|function|visualRegionForSelection
 DECL|function|~tst_QColumnView
 DECL|macro|ANIMATION_DELAY

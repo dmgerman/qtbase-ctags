@@ -55,7 +55,6 @@ DECL|function|dragEnterEvent
 DECL|function|dragLeaveEvent
 DECL|function|dragMoveEvent
 DECL|function|dropEvent
-DECL|function|event
 DECL|function|eventFilter
 DECL|function|eventsToDisabledItems
 DECL|function|exposedRect
@@ -140,6 +139,7 @@ DECL|function|taskQTBUG_16401_focusItem
 DECL|function|taskQTBUG_5904_crashWithDeviceCoordinateCache
 DECL|function|taskQTBUG_7863_paintIntoCacheWithTransparentParts
 DECL|function|taskQT_3674_doNotCrash
+DECL|function|testEvent
 DECL|function|timerEvent
 DECL|function|update
 DECL|function|update2

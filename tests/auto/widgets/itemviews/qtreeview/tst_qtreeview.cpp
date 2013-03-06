@@ -51,6 +51,7 @@ DECL|function|data
 DECL|function|data
 DECL|function|data
 DECL|function|disabledButCheckable
+DECL|function|doMoveCursor
 DECL|function|doubleClickedWithSpans
 DECL|function|dragDropMode
 DECL|function|dragDropModeFromDragEnabledAndAcceptDrops
@@ -107,7 +108,6 @@ DECL|function|kill
 DECL|function|level
 DECL|function|limitedExpand
 DECL|function|mouseDoubleClick
-DECL|function|moveCursor
 DECL|function|moveCursor
 DECL|function|moveCursor_data
 DECL|function|noDelegate
