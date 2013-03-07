@@ -1,1 +1,0 @@
-DECL|macro|SEPARATOR_H

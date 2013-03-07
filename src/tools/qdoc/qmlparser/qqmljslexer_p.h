@@ -1,1 +1,0 @@
-DECL|macro|QQMLJSLEXER_P_H

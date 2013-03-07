@@ -1,9 +1,0 @@
-DECL|macro|GENERATOR_H
-DECL|typedef|Node
-DECL|typedef|NodeMultiMap
-DECL|typedef|ParentMaps
-DECL|typedef|QString
-DECL|variable|CodeMarker
-DECL|variable|Config
-DECL|variable|Location
-DECL|variable|QDocDatabase

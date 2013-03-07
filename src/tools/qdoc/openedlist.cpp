@@ -1,9 +1,0 @@
-DECL|function|OpenedList
-DECL|function|OpenedList
-DECL|function|fromAlpha
-DECL|function|fromRoman
-DECL|function|numberString
-DECL|function|styleString
-DECL|function|toAlpha
-DECL|function|toRoman
-DECL|variable|roman

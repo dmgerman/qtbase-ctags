@@ -1,1 +1,0 @@
-DECL|macro|QUOTER_H

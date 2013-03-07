@@ -1,1 +1,0 @@
-DECL|macro|CPPCODEMARKER_H
