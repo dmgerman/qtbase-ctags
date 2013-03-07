@@ -87,6 +87,9 @@ DECL|function|accept0
 DECL|function|accept0
 DECL|function|accept0
 DECL|function|accept0
+DECL|function|accept0
+DECL|function|accept0
+DECL|function|accept0
 DECL|function|binaryExpressionCast
 DECL|function|binaryExpressionCast
 DECL|function|expressionCast
