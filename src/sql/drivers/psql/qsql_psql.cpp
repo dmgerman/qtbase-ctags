@@ -14,6 +14,7 @@ DECL|function|close
 DECL|function|commitTransaction
 DECL|function|createResult
 DECL|function|data
+DECL|function|detectBackslashEscape
 DECL|function|escapeIdentifier
 DECL|function|exec
 DECL|function|exec
@@ -90,6 +91,7 @@ DECL|macro|isnan
 DECL|member|connection
 DECL|member|currentSize
 DECL|member|driver
+DECL|member|hasBackslashEscape
 DECL|member|isUtf8
 DECL|member|pendingNotifyCheck
 DECL|member|preparedQueriesEnabled
