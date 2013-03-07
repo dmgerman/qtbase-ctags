@@ -2,10 +2,6 @@ DECL|class|CustomFontFileLoader
 DECL|class|DirectWriteFontFileLoader
 DECL|class|DirectWriteFontFileStream
 DECL|class|EmbeddedFont
-DECL|enumerator|JapaneseCsbBit
-DECL|enumerator|KoreanCsbBit
-DECL|enumerator|SimplifiedChineseCsbBit
-DECL|enumerator|TraditionalChineseCsbBit
 DECL|function|AddRef
 DECL|function|AddRef
 DECL|function|CreateStreamFromKey
@@ -68,7 +64,6 @@ DECL|function|tableDirectoryEntry
 DECL|function|verticalDPI
 DECL|function|weightFromInteger
 DECL|function|writingSystemFromScript
-DECL|function|writingSystemsFromTrueTypeBits
 DECL|function|~CustomFontFileLoader
 DECL|function|~DirectWriteFontFileLoader
 DECL|function|~DirectWriteFontFileStream
@@ -146,5 +141,4 @@ DECL|variable|ch_TW_tryFonts
 DECL|variable|jp_tryFonts
 DECL|variable|kr_tryFonts
 DECL|variable|other_tryFonts
-DECL|variable|requiredUnicodeBits
 DECL|variable|tryFonts

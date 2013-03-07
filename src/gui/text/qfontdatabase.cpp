@@ -48,7 +48,6 @@ DECL|function|parseFontName
 DECL|function|pixelSize
 DECL|function|pointSizes
 DECL|function|qt_cleanupFontDatabase
-DECL|function|qt_determine_writing_systems_from_truetype_bits
 DECL|function|qt_fontdata_from_index
 DECL|function|qt_fontdatabase_mutex
 DECL|function|qt_mac_get_fixed_pitch
@@ -75,11 +74,7 @@ DECL|macro|FD_DEBUG
 DECL|macro|FD_DEBUG
 DECL|macro|FM_DEBUG
 DECL|macro|FM_DEBUG
-DECL|macro|JapaneseCsbBit
-DECL|macro|KoreanCsbBit
 DECL|macro|SMOOTH_SCALABLE
-DECL|macro|SimplifiedChineseCsbBit
-DECL|macro|TraditionalChineseCsbBit
 DECL|member|aliases
 DECL|member|antialiased
 DECL|member|applicationFonts
@@ -134,5 +129,4 @@ DECL|struct|QtFontFoundry
 DECL|struct|QtFontSize
 DECL|struct|QtFontStyle
 DECL|variable|qt_enable_test_font
-DECL|variable|requiredUnicodeBits
 DECL|variable|scriptForWritingSystem
