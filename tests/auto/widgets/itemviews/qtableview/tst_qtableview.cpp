@@ -80,6 +80,7 @@ DECL|function|keyboardNavigation_data
 DECL|function|mouseWheel
 DECL|function|mouseWheel_data
 DECL|function|moveCursor
+DECL|function|moveCursorBiggerJump
 DECL|function|moveCursorStrikesBack
 DECL|function|moveCursorStrikesBack_data
 DECL|function|moveCursor_data
