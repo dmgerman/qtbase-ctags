@@ -4,7 +4,6 @@ DECL|function|addOverlayWindow
 DECL|function|addWindow
 DECL|function|availableGeometry
 DECL|function|cursor
-DECL|function|cursor
 DECL|function|deactivateWindowGroup
 DECL|function|defaultDepth
 DECL|function|depth
