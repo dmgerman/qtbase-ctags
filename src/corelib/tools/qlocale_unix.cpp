@@ -1,12 +1,7 @@
-DECL|function|QQNXLocaleData
 DECL|function|QSystemLocaleData
 DECL|function|fallbackUiLocale
-DECL|function|initialize
-DECL|function|installSocketNotifier
 DECL|function|query
 DECL|function|readEnvironment
-DECL|function|updateMeasurementSystem
-DECL|function|~QQNXLocaleData
 DECL|member|lc_measurement_var
 DECL|member|lc_messages
 DECL|member|lc_messages_var
@@ -16,5 +11,3 @@ DECL|member|lc_time
 DECL|member|lock
 DECL|member|uiLanguages
 DECL|struct|QSystemLocaleData
-DECL|variable|ppsBufferSize
-DECL|variable|ppsServicePath
