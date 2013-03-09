@@ -54,6 +54,7 @@ DECL|function|glyphCount
 DECL|function|harfbuzzFace
 DECL|function|harfbuzzFont
 DECL|function|hb_canRender
+DECL|function|hb_freeFace
 DECL|function|hb_getAdvances
 DECL|function|hb_getFontMetric
 DECL|function|hb_getGlyphMetrics
@@ -61,7 +62,6 @@ DECL|function|hb_getPointInOutline
 DECL|function|hb_getSFntTable
 DECL|function|hb_stringToGlyphs
 DECL|function|highByte
-DECL|function|initializedHarfbuzzFace
 DECL|function|kerning
 DECL|function|lastRightBearing
 DECL|function|leading
