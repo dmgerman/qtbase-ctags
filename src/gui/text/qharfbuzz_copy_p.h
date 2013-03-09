@@ -10,10 +10,18 @@ DECL|member|clusterStart
 DECL|member|combiningClass
 DECL|member|dontPrint
 DECL|member|justification
+DECL|member|klass
 DECL|member|mark
+DECL|member|userData
 DECL|member|x
+DECL|member|x_ppem
+DECL|member|x_scale
 DECL|member|y
+DECL|member|y_ppem
+DECL|member|y_scale
 DECL|member|zeroWidth
+DECL|struct|HB_Font_
+DECL|typedef|HB_16Dot16
 DECL|typedef|HB_Error
 DECL|typedef|HB_Face
 DECL|typedef|HB_Fixed
@@ -22,6 +30,7 @@ DECL|typedef|HB_Font
 DECL|typedef|HB_FontRec
 DECL|typedef|HB_Glyph
 DECL|typedef|HB_GlyphAttributes
+DECL|typedef|HB_UShort
 DECL|typedef|hb_bitfield
 DECL|typedef|hb_bitfield
 DECL|typedef|hb_uint32
