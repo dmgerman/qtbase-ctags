@@ -136,4 +136,8 @@ DECL|struct|QBidiStatus
 DECL|struct|QJustificationPoint
 DECL|struct|QScriptItemComparator
 DECL|variable|directions
+DECL|variable|sizeof
+DECL|variable|sizeof
+DECL|variable|sizeof
+DECL|variable|sizeof
 DECL|variable|smallCapsFraction
