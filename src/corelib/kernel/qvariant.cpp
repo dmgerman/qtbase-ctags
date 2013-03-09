@@ -52,6 +52,7 @@ DECL|function|clear
 DECL|function|cmp
 DECL|function|compare
 DECL|function|constData
+DECL|function|constData
 DECL|function|construct
 DECL|function|convert
 DECL|function|convert

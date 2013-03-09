@@ -22,6 +22,8 @@ DECL|enum|isEnumTest_Enum1
 DECL|function|AutoMetaTypeObject
 DECL|function|Bar
 DECL|function|CustomComparable
+DECL|function|CustomConvertibleType
+DECL|function|CustomConvertibleType2
 DECL|function|CustomMultiInheritanceObject
 DECL|function|CustomObject
 DECL|function|CustomQObject
@@ -34,6 +36,11 @@ DECL|function|construct
 DECL|function|constructCopy
 DECL|function|constructCopy_data
 DECL|function|construct_data
+DECL|function|convert
+DECL|function|convert
+DECL|function|convertCustomType
+DECL|function|convertCustomType_data
+DECL|function|convertOk
 DECL|function|create
 DECL|function|create
 DECL|function|create
@@ -85,6 +92,7 @@ DECL|function|create
 DECL|function|createCopy
 DECL|function|createCopy_data
 DECL|function|create_data
+DECL|function|customTypeNotYetConvertible
 DECL|function|defined
 DECL|function|flags
 DECL|function|flagsBinaryCompatibility5_0
@@ -92,6 +100,7 @@ DECL|function|flagsBinaryCompatibility5_0_data
 DECL|function|flagsStaticLess
 DECL|function|flagsStaticLess_data
 DECL|function|flags_data
+DECL|function|hasRegisteredConverterFunction
 DECL|function|isEnum
 DECL|function|isRegistered
 DECL|function|isRegisteredStaticLess
@@ -100,12 +109,19 @@ DECL|function|isRegistered_data
 DECL|function|metaObject
 DECL|function|namespaces
 DECL|function|normalizedTypes
+DECL|function|operator !=
+DECL|function|operator !=
+DECL|function|operator ()
 DECL|function|operator <<
 DECL|function|operator ==
+DECL|function|operator ==
+DECL|function|operator ==
 DECL|function|operator >>
+DECL|function|operator QPoint
 DECL|function|prop
 DECL|function|properties
 DECL|function|qMetaTypeId
+DECL|function|registerCustomTypeConversions
 DECL|function|registerStreamBuiltin
 DECL|function|registerType
 DECL|function|run
@@ -127,11 +143,16 @@ DECL|function|testCreateCopyHelper
 DECL|function|testCreateCopyHelper
 DECL|function|testCreateHelper
 DECL|function|testCreateHelper
+DECL|function|testCustomTypeConvertible
+DECL|function|testCustomTypeNotYetConvertible
 DECL|function|threadSafety
+DECL|function|toString
 DECL|function|tst_QMetaType
 DECL|function|typeName
 DECL|function|typeName_data
 DECL|function|typedefs
+DECL|function|~CustomConvertibleType
+DECL|function|~CustomConvertibleType2
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
@@ -191,13 +212,22 @@ DECL|member|failureCount
 DECL|member|failureCount
 DECL|member|i
 DECL|member|i
+DECL|member|m_foo
+DECL|member|m_foo
 DECL|member|m_hash
 DECL|member|m_int
 DECL|member|propList
+DECL|member|s_ok
+DECL|member|s_ok
+DECL|member|s_value
+DECL|member|s_value
 DECL|member|t
 DECL|namespace|TestSpace
 DECL|struct|Bar
+DECL|struct|ConvertFunctor
 DECL|struct|CustomComparable
+DECL|struct|CustomConvertibleType
+DECL|struct|CustomConvertibleType2
 DECL|struct|CustomMovable
 DECL|struct|CustomStreamableType
 DECL|struct|DefaultValueFactory
@@ -290,6 +320,8 @@ DECL|typedef|UndefinedFunction1
 DECL|typedef|UndefinedFunction2
 DECL|typedef|UndefinedFunction3
 DECL|typedef|UndefinedFunction4
+DECL|variable|CustomConvertibleType
+DECL|variable|CustomConvertibleType2
 DECL|variable|FlagsDataEnum
 DECL|variable|UndefinedFunction0
 DECL|variable|UndefinedFunction1

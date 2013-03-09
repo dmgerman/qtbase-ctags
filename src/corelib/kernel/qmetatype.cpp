@@ -1,6 +1,7 @@
 DECL|class|Flags
 DECL|class|MetaObject
 DECL|class|QCustomTypeInfo
+DECL|class|QMetaTypeConversionRegistry
 DECL|class|SizeOf
 DECL|class|TypeConstructor
 DECL|class|TypeCreator
@@ -34,6 +35,8 @@ DECL|function|TypeInfoImpl
 DECL|function|TypeInfoImpl
 DECL|function|construct
 DECL|function|constructExtended
+DECL|function|contains
+DECL|function|convert
 DECL|function|create
 DECL|function|createExtended
 DECL|function|ctor
@@ -80,6 +83,9 @@ DECL|function|destruct
 DECL|function|destructExtended
 DECL|function|dtor
 DECL|function|flagsExtended
+DECL|function|function
+DECL|function|hasRegisteredConverterFunction
+DECL|function|insertIfNotContains
 DECL|function|isRegistered
 DECL|function|load
 DECL|function|metaObjectExtended
@@ -90,6 +96,7 @@ DECL|function|qMetaTypeCustomType_unlocked
 DECL|function|qMetaTypeStaticType
 DECL|function|qMetaTypeTypeImpl
 DECL|function|qMetaTypeTypeInternal
+DECL|function|registerConverterFunction
 DECL|function|registerStreamOperators
 DECL|function|registerStreamOperators
 DECL|function|registerType
@@ -102,6 +109,7 @@ DECL|function|type
 DECL|function|typeFlags
 DECL|function|typeInfo
 DECL|function|typeName
+DECL|function|~QMetaTypeConversionRegistry
 DECL|macro|NS
 DECL|macro|QT_ADD_STATIC_METATYPE
 DECL|macro|QT_ADD_STATIC_METATYPE_ALIASES_ITER
@@ -112,6 +120,7 @@ DECL|member|IsAccepted
 DECL|member|alias
 DECL|member|iface
 DECL|member|info
+DECL|member|lock
 DECL|member|m_type
 DECL|member|m_type
 DECL|member|m_type
@@ -121,6 +130,7 @@ DECL|member|m_type
 DECL|member|m_type
 DECL|member|m_type
 DECL|member|m_where
+DECL|member|map
 DECL|member|type
 DECL|member|typeName
 DECL|member|typeName
@@ -142,6 +152,7 @@ DECL|struct|SizeOfImpl
 DECL|struct|SizeOfImpl
 DECL|struct|TypeInfoImpl
 DECL|struct|TypeInfoImpl
+DECL|typedef|Key
 DECL|union|CheckThatItIsPod
 DECL|variable|constructor
 DECL|variable|creator
