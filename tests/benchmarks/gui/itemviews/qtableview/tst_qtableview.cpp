@@ -19,6 +19,7 @@ DECL|function|rowInsertion
 DECL|function|rowInsertion_data
 DECL|function|rowRemoval
 DECL|function|rowRemoval_data
+DECL|function|sizeHintForColumnWhenHidden
 DECL|function|spanDraw
 DECL|function|spanInit
 DECL|function|spanInit_helper
