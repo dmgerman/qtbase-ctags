@@ -108,6 +108,7 @@ DECL|function|setQuitOnLastWindowClosed
 DECL|function|shouldQuit
 DECL|function|showModalWindow
 DECL|function|styleHints
+DECL|function|synthesizeMouseFromTouchEventsEnabled
 DECL|function|topLevelAt
 DECL|function|topLevelWindows
 DECL|function|unsetCursor
