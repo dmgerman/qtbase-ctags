@@ -63,6 +63,7 @@ DECL|function|isNull
 DECL|function|isRightToLeft
 DECL|function|isRightToLeft_data
 DECL|function|lastIndexOf
+DECL|function|lastIndexOfInvalidRegex
 DECL|function|lastIndexOf_data
 DECL|function|latin1String
 DECL|function|left
