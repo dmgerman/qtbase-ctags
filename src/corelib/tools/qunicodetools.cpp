@@ -45,6 +45,7 @@ DECL|function|getSentenceBreaks
 DECL|function|getWhiteSpaces
 DECL|function|getWordBreaks
 DECL|function|initCharAttributes
+DECL|function|initScripts
 DECL|function|toClass
 DECL|macro|FLAG
 DECL|member|actionTable
