@@ -17,6 +17,7 @@ DECL|function|restart
 DECL|function|resume
 DECL|function|reverse
 DECL|function|reverse_data
+DECL|function|setPaused
 DECL|function|sineCurve
 DECL|function|stateInFinishedSignal
 DECL|function|stopped
