@@ -21,6 +21,7 @@ DECL|typedef|GLchar
 DECL|typedef|GLchar
 DECL|typedef|GLcharARB
 DECL|typedef|GLdouble
+DECL|typedef|GLeglImageOES
 DECL|typedef|GLhalfARB
 DECL|typedef|GLhalfNV
 DECL|typedef|GLhandleARB
