@@ -3,6 +3,7 @@ DECL|function|FileDialogPanel
 DECL|function|LabelLineEdit
 DECL|function|accepted
 DECL|function|addButton
+DECL|function|allowedSchemes
 DECL|function|apply
 DECL|function|applySettings
 DECL|function|comboBoxValue
@@ -14,9 +15,13 @@ DECL|function|enableDeleteNonModalDialogButton
 DECL|function|execModal
 DECL|function|filterString
 DECL|function|getExistingDirectory
+DECL|function|getExistingDirectoryUrl
 DECL|function|getOpenFileName
 DECL|function|getOpenFileNames
+DECL|function|getOpenFileUrl
+DECL|function|getOpenFileUrls
 DECL|function|getSaveFileName
+DECL|function|getSaveFileUrl
 DECL|function|options
 DECL|function|restoreDefault
 DECL|function|restoreDefaults

@@ -20,6 +20,7 @@ DECL|function|disableSaveButton
 DECL|function|disableSaveButton_data
 DECL|function|enableChooseButton
 DECL|function|existing
+DECL|function|existingUrl
 DECL|function|fileMode
 DECL|function|filesSelectedSignal
 DECL|function|filesSelectedSignal_data
@@ -37,12 +38,15 @@ DECL|function|itemDelegate
 DECL|function|labelText
 DECL|function|openName
 DECL|function|openNames
+DECL|function|openUrl
+DECL|function|openUrls
 DECL|function|paint
 DECL|function|proxymodel
 DECL|function|resolveSymlinks
 DECL|function|saveButtonText
 DECL|function|saveButtonText_data
 DECL|function|saveName
+DECL|function|saveUrl
 DECL|function|selectFile
 DECL|function|selectFile_data
 DECL|function|selectFiles
@@ -58,6 +62,10 @@ DECL|function|viewMode
 DECL|function|~tst_QFiledialog
 DECL|member|userSettings
 DECL|typedef|_qt_filedialog_existing_directory_hook
+DECL|typedef|_qt_filedialog_existing_directory_url_hook
+DECL|typedef|_qt_filedialog_open_file_url_hook
+DECL|typedef|_qt_filedialog_open_file_urls_hook
 DECL|typedef|_qt_filedialog_open_filename_hook
 DECL|typedef|_qt_filedialog_open_filenames_hook
+DECL|typedef|_qt_filedialog_save_file_url_hook
 DECL|typedef|_qt_filedialog_save_filename_hook

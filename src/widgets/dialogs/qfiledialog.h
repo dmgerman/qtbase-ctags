@@ -6,4 +6,3 @@ DECL|variable|QFileDialogPrivate
 DECL|variable|QFileIconProvider
 DECL|variable|QItemSelection
 DECL|variable|QModelIndex
-DECL|variable|QUrl
