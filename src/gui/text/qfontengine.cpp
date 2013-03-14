@@ -5,6 +5,8 @@ DECL|enumerator|EdgeUp
 DECL|function|QFontEngine
 DECL|function|QFontEngineBox
 DECL|function|QFontEngineMulti
+DECL|function|QFontEngine_startCollectingEngines
+DECL|function|QFontEngine_stopCollectingEngines
 DECL|function|addBitmapFontToPath
 DECL|function|addGlyphsToPath
 DECL|function|addOutlineToPath
@@ -103,4 +105,5 @@ DECL|macro|GRID
 DECL|macro|GRID
 DECL|macro|SET
 DECL|macro|SET
+DECL|variable|enginesCollector
 DECL|variable|hb_fontClass
