@@ -110,10 +110,10 @@ DECL|function|init
 DECL|function|isQQuickWindow
 DECL|function|itemPath
 DECL|function|itemPaths
-DECL|function|libraryDefaultSaveFolder
+DECL|function|libraryItemDefaultSaveFolder
 DECL|function|libraryItemDefaultSaveFolder
 DECL|function|libraryItemFolders
-DECL|function|libraryItemPaths
+DECL|function|libraryItemFolders
 DECL|function|nativeDialog
 DECL|function|nativeFileDialog
 DECL|function|nativeFileDialog
