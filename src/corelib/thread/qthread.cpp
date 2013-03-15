@@ -21,6 +21,7 @@ DECL|function|ref
 DECL|function|run
 DECL|function|run
 DECL|function|setEventDispatcher
+DECL|function|setPriority
 DECL|function|setStackSize
 DECL|function|stackSize
 DECL|function|~QAdoptedThread
