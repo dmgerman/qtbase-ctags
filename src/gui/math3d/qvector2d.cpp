@@ -1,5 +1,7 @@
 DECL|function|QVector2D
 DECL|function|QVector2D
+DECL|function|distanceToLine
+DECL|function|distanceToPoint
 DECL|function|dotProduct
 DECL|function|length
 DECL|function|lengthSquared
