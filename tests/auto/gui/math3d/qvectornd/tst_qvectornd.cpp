@@ -18,6 +18,8 @@ DECL|function|distanceToLine
 DECL|function|distanceToLine_data
 DECL|function|distanceToPlane
 DECL|function|distanceToPlane_data
+DECL|function|distanceToPoint
+DECL|function|distanceToPoint_data
 DECL|function|divide2
 DECL|function|divide2_data
 DECL|function|divide3

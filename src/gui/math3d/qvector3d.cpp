@@ -5,6 +5,7 @@ DECL|function|crossProduct
 DECL|function|distanceToLine
 DECL|function|distanceToPlane
 DECL|function|distanceToPlane
+DECL|function|distanceToPoint
 DECL|function|dotProduct
 DECL|function|length
 DECL|function|lengthSquared
