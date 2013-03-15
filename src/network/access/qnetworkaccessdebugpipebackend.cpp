@@ -13,5 +13,6 @@ DECL|function|socketConnected
 DECL|function|socketDisconnected
 DECL|function|socketError
 DECL|function|socketReadyRead
+DECL|function|supportedSchemes
 DECL|function|uploadReadyReadSlot
 DECL|function|~QNetworkAccessDebugPipeBackend

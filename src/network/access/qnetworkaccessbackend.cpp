@@ -4,6 +4,7 @@ DECL|function|QNetworkAccessBackendFactory
 DECL|function|QNetworkAccessBackendFactoryData
 DECL|function|attribute
 DECL|function|authenticationRequired
+DECL|function|backendSupportedSchemes
 DECL|function|copyFinished
 DECL|function|createUploadByteDevice
 DECL|function|downstreamReadyWrite

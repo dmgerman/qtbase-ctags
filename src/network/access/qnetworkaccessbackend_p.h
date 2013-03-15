@@ -9,5 +9,6 @@ DECL|variable|QNetworkReplyImplPrivate
 DECL|variable|QNetworkRequest
 DECL|variable|QNonContiguousByteDevice
 DECL|variable|QSslConfiguration
+DECL|variable|QStringList
 DECL|variable|QUrl
 DECL|variable|QUrlInfo

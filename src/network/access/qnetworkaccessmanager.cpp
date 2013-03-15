@@ -42,5 +42,7 @@ DECL|function|setCookieJar
 DECL|function|setNetworkAccessible
 DECL|function|setProxy
 DECL|function|setProxyFactory
+DECL|function|supportedSchemes
+DECL|function|supportedSchemesImplementation
 DECL|function|~QNetworkAccessManager
 DECL|function|~QNetworkAccessManagerPrivate

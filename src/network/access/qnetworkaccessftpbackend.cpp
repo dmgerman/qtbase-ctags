@@ -13,4 +13,5 @@ DECL|function|ftpRawCommandReply
 DECL|function|ftpReadyRead
 DECL|function|makeCacheKey
 DECL|function|open
+DECL|function|supportedSchemes
 DECL|function|~QNetworkAccessFtpBackend
