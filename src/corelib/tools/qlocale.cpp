@@ -21,7 +21,7 @@ DECL|function|codeToLanguage
 DECL|function|codeToScript
 DECL|function|countriesForLanguage
 DECL|function|country
-DECL|function|countryCode
+DECL|function|countryToCode
 DECL|function|countryToString
 DECL|function|createSeparatedList
 DECL|function|currencySymbol
@@ -43,7 +43,7 @@ DECL|function|getLocaleData
 DECL|function|getLocaleListData
 DECL|function|groupSeparator
 DECL|function|language
-DECL|function|languageCode
+DECL|function|languageToCode
 DECL|function|languageToString
 DECL|function|localeDataIndex
 DECL|function|longLongToString
@@ -76,7 +76,7 @@ DECL|function|qt_splitLocaleName
 DECL|function|quoteString
 DECL|function|quoteString
 DECL|function|script
-DECL|function|scriptCode
+DECL|function|scriptToCode
 DECL|function|scriptToString
 DECL|function|setDefault
 DECL|function|setNumberOptions
