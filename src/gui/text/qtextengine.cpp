@@ -22,6 +22,7 @@ DECL|function|addOverline
 DECL|function|addRequiredBoundaries
 DECL|function|addStrikeOut
 DECL|function|addUnderline
+DECL|function|additionalFormats
 DECL|function|adjustUnderlines
 DECL|function|adjustUnderlines
 DECL|function|alignLine
@@ -93,8 +94,10 @@ DECL|function|releaseCachedFontEngine
 DECL|function|resetFontEngineCache
 DECL|function|resolveAdditionalFormats
 DECL|function|set
+DECL|function|setAdditionalFormats
 DECL|function|setBoundary
 DECL|function|setDefaultHeight
+DECL|function|setPreeditArea
 DECL|function|shape
 DECL|function|shapeLine
 DECL|function|shapeText
