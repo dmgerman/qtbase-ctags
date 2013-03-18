@@ -16,6 +16,8 @@ DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|writingSystem
 DECL|function|writingSystemForFont
+DECL|function|writingSystemFromLocale
+DECL|function|writingSystemFromScript
 DECL|function|~QFontComboBox
 DECL|member|bitmap
 DECL|member|currentFont
