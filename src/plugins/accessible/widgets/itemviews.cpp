@@ -34,6 +34,7 @@ DECL|function|isRowSelected
 DECL|function|isSelected
 DECL|function|isValid
 DECL|function|isValid
+DECL|function|isValid
 DECL|function|keyBindingsForAction
 DECL|function|logicalIndex
 DECL|function|parent
