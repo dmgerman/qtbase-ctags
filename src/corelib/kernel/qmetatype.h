@@ -2,6 +2,7 @@ DECL|enumerator|Defined
 DECL|enumerator|Defined
 DECL|enumerator|IsBuiltIn
 DECL|function|QT_FOR_EACH_AUTOMATIC_TEMPLATE_1ARG
+DECL|function|QT_FOR_EACH_STATIC_TYPE
 DECL|function|construct
 DECL|function|create
 DECL|function|destroy

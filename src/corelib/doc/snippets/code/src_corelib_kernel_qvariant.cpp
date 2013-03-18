@@ -4,6 +4,7 @@ DECL|variable|color
 DECL|variable|data
 DECL|variable|i
 DECL|variable|i
+DECL|variable|intList
 DECL|variable|s
 DECL|variable|s
 DECL|variable|s
@@ -15,6 +16,7 @@ DECL|variable|v
 DECL|variable|v
 DECL|variable|v
 DECL|variable|v
+DECL|variable|variant
 DECL|variable|variant
 DECL|variable|variant
 DECL|variable|x

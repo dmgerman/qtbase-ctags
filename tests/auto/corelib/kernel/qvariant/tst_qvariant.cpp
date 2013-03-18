@@ -26,6 +26,10 @@ DECL|function|canConvertQStringList_data
 DECL|function|canConvert_data
 DECL|function|checkDataStream
 DECL|function|cleanupTestCase
+DECL|function|compare
+DECL|function|compare
+DECL|function|compare
+DECL|function|compare
 DECL|function|compareCustomTypes
 DECL|function|comparePointers
 DECL|function|constData
@@ -50,9 +54,14 @@ DECL|function|debugStream_data
 DECL|function|forwardDeclare
 DECL|function|handler
 DECL|function|implicitConstruction
+DECL|function|insert
+DECL|function|insert
+DECL|function|insert
+DECL|function|insert
 DECL|function|invalidDate
 DECL|function|invalidDateTime
 DECL|function|isNull
+DECL|function|iterateContainerElements
 DECL|function|loadBrokenUserType
 DECL|function|loadQVariantFromDataStream
 DECL|function|loadQt4Stream
@@ -170,6 +179,8 @@ DECL|macro|N
 DECL|macro|N
 DECL|macro|N
 DECL|macro|PLAY_WITH_VARIANT
+DECL|macro|TEST_RANGE_FOR
+DECL|macro|TEST_SEQUENTIAL_ITERATION
 DECL|macro|Y
 DECL|macro|Y
 DECL|macro|Y
@@ -203,6 +214,10 @@ DECL|member|y
 DECL|member|y
 DECL|member|z
 DECL|struct|Blah
+DECL|struct|ContainerAPI
+DECL|struct|ContainerAPI
+DECL|struct|ContainerAPI
+DECL|struct|ContainerAPI
 DECL|struct|CustomComparable
 DECL|struct|CustomStreamableClass
 DECL|struct|Data
