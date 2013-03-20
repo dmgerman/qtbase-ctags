@@ -1,7 +1,7 @@
 DECL|class|Flags
 DECL|class|MetaObject
 DECL|class|QCustomTypeInfo
-DECL|class|QMetaTypeConversionRegistry
+DECL|class|QMetaTypeFunctionRegistry
 DECL|class|SizeOf
 DECL|class|TypeConstructor
 DECL|class|TypeCreator
@@ -33,6 +33,7 @@ DECL|function|TypeDestructor
 DECL|function|TypeInfo
 DECL|function|TypeInfoImpl
 DECL|function|TypeInfoImpl
+DECL|function|compare
 DECL|function|construct
 DECL|function|constructExtended
 DECL|function|contains
@@ -47,6 +48,7 @@ DECL|function|customTypeDestructor
 DECL|function|customTypeFlags
 DECL|function|customTypeInfo
 DECL|function|customTypeSizeOf
+DECL|function|debugStream
 DECL|function|delegate
 DECL|function|delegate
 DECL|function|delegate
@@ -84,7 +86,9 @@ DECL|function|destructExtended
 DECL|function|dtor
 DECL|function|flagsExtended
 DECL|function|function
+DECL|function|hasRegisteredComparators
 DECL|function|hasRegisteredConverterFunction
+DECL|function|hasRegisteredDebugStreamOperator
 DECL|function|insertIfNotContains
 DECL|function|isRegistered
 DECL|function|load
@@ -96,7 +100,9 @@ DECL|function|qMetaTypeCustomType_unlocked
 DECL|function|qMetaTypeStaticType
 DECL|function|qMetaTypeTypeImpl
 DECL|function|qMetaTypeTypeInternal
+DECL|function|registerComparatorFunction
 DECL|function|registerConverterFunction
+DECL|function|registerDebugStreamOperatorFunction
 DECL|function|registerStreamOperators
 DECL|function|registerStreamOperators
 DECL|function|registerType
@@ -111,7 +117,7 @@ DECL|function|typeFlags
 DECL|function|typeInfo
 DECL|function|typeName
 DECL|function|unregisterConverterFunction
-DECL|function|~QMetaTypeConversionRegistry
+DECL|function|~QMetaTypeFunctionRegistry
 DECL|macro|NS
 DECL|macro|QT_ADD_STATIC_METATYPE
 DECL|macro|QT_ADD_STATIC_METATYPE_ALIASES_ITER
@@ -154,7 +160,9 @@ DECL|struct|SizeOfImpl
 DECL|struct|SizeOfImpl
 DECL|struct|TypeInfoImpl
 DECL|struct|TypeInfoImpl
-DECL|typedef|Key
+DECL|typedef|QMetaTypeComparatorRegistry
+DECL|typedef|QMetaTypeConverterRegistry
+DECL|typedef|QMetaTypeDebugStreamRegistry
 DECL|union|CheckThatItIsPod
 DECL|variable|constructor
 DECL|variable|creator

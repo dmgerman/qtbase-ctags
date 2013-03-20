@@ -27,9 +27,12 @@ DECL|function|CustomConvertibleType2
 DECL|function|CustomMultiInheritanceObject
 DECL|function|CustomObject
 DECL|function|CustomQObject
+DECL|function|MessageHandlerCustom
 DECL|function|MetaTypeTorturer
 DECL|function|MyObject
 DECL|function|automaticTemplateRegistration
+DECL|function|compareCustomType
+DECL|function|compareCustomType_data
 DECL|function|constRefs
 DECL|function|constexprMetaTypeIds
 DECL|function|construct
@@ -92,6 +95,7 @@ DECL|function|create
 DECL|function|createCopy
 DECL|function|createCopy_data
 DECL|function|create_data
+DECL|function|customDebugStream
 DECL|function|customTypeNotYetConvertible
 DECL|function|defined
 DECL|function|flags
@@ -100,6 +104,7 @@ DECL|function|flagsBinaryCompatibility5_0_data
 DECL|function|flagsStaticLess
 DECL|function|flagsStaticLess_data
 DECL|function|flags_data
+DECL|function|handler
 DECL|function|hasRegisteredConverterFunction
 DECL|function|isEnum
 DECL|function|isRegistered
@@ -112,6 +117,8 @@ DECL|function|normalizedTypes
 DECL|function|operator !=
 DECL|function|operator !=
 DECL|function|operator ()
+DECL|function|operator <
+DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator ==
 DECL|function|operator ==
@@ -146,6 +153,7 @@ DECL|function|testCreateHelper
 DECL|function|testCustomTypeConvertible
 DECL|function|testCustomTypeNotYetConvertible
 DECL|function|threadSafety
+DECL|function|toString
 DECL|function|toString
 DECL|function|tst_QMetaType
 DECL|function|typeName
@@ -207,6 +215,8 @@ DECL|member|_
 DECL|member|_
 DECL|member|a
 DECL|member|d
+DECL|member|expectedMessage
+DECL|member|expectedMessage
 DECL|member|failureCount
 DECL|member|failureCount
 DECL|member|failureCount
@@ -228,6 +238,7 @@ DECL|struct|ConvertFunctor
 DECL|struct|CustomComparable
 DECL|struct|CustomConvertibleType
 DECL|struct|CustomConvertibleType2
+DECL|struct|CustomDebugStreamableType
 DECL|struct|CustomMovable
 DECL|struct|CustomStreamableType
 DECL|struct|DefaultValueFactory
@@ -235,6 +246,7 @@ DECL|struct|DefaultValueFactory
 DECL|struct|DefaultValueTraits
 DECL|struct|Foo
 DECL|struct|Foo
+DECL|struct|MessageHandlerCustom
 DECL|struct|MetaEnumToType
 DECL|struct|MetaTypeIdStruct
 DECL|struct|MetaTypeIdStructDefaultTemplateValue
@@ -322,6 +334,7 @@ DECL|typedef|UndefinedFunction3
 DECL|typedef|UndefinedFunction4
 DECL|variable|CustomConvertibleType
 DECL|variable|CustomConvertibleType2
+DECL|variable|CustomDebugStreamableType
 DECL|variable|FlagsDataEnum
 DECL|variable|UndefinedFunction0
 DECL|variable|UndefinedFunction1
