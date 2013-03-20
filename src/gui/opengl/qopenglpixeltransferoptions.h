@@ -1,0 +1,2 @@
+DECL|macro|QOPENGLPIXELUPLOADOPTIONS_H
+DECL|variable|QOpenGLPixelTransferOptionsData

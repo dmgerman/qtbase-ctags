@@ -3,4 +3,5 @@ DECL|variable|QOpenGLContext
 DECL|variable|QOpenGLFunctions
 DECL|variable|QOpenGLFunctions
 DECL|variable|QOpenGLMultiGroupSharedResource
+DECL|variable|QOpenGLTextureHelper
 DECL|variable|QPaintEngineEx

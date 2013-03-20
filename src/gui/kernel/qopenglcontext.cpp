@@ -51,6 +51,7 @@ DECL|function|setProfile
 DECL|function|setQGLContextHandle
 DECL|function|setScreen
 DECL|function|setShareContext
+DECL|function|setTextureFunctions
 DECL|function|setVersion
 DECL|function|shareContext
 DECL|function|shareGroup
@@ -58,6 +59,7 @@ DECL|function|shareHandle
 DECL|function|shares
 DECL|function|surface
 DECL|function|swapBuffers
+DECL|function|textureFunctions
 DECL|function|value
 DECL|function|version
 DECL|function|versionFunctions

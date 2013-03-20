@@ -5,6 +5,7 @@ DECL|macro|QOPENGLCONTEXT_H
 DECL|variable|QOpenGLContextGroupPrivate
 DECL|variable|QOpenGLContextPrivate
 DECL|variable|QOpenGLFunctions
+DECL|variable|QOpenGLTextureHelper
 DECL|variable|QOpenGLVersionProfilePrivate
 DECL|variable|QPlatformOpenGLContext
 DECL|variable|QScreen
