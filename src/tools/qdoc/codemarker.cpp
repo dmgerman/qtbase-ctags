@@ -23,6 +23,8 @@ DECL|function|terminate
 DECL|function|terminateMarker
 DECL|function|typified
 DECL|function|~CodeMarker
+DECL|function|~FastSection
+DECL|function|~Section
 DECL|member|defaultLang
 DECL|member|markers
 DECL|variable|samp

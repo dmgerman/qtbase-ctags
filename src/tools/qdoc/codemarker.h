@@ -9,6 +9,8 @@ DECL|member|InnerNode
 DECL|member|InnerNode
 DECL|member|QString
 DECL|member|QString
+DECL|member|classKeysNodesList_
+DECL|member|classMapList_
 DECL|member|divClass
 DECL|member|divClass
 DECL|member|inherited
@@ -27,5 +29,15 @@ DECL|member|singularMember
 DECL|member|singularMember
 DECL|struct|FastSection
 DECL|struct|Section
+DECL|typedef|ClassKeysNodes
+DECL|typedef|ClassKeysNodesList
+DECL|typedef|ClassMap
+DECL|typedef|ClassMapList
+DECL|typedef|KeysAndNodes
+DECL|typedef|MemberMap
+DECL|typedef|QString
+DECL|typedef|QStringList
+DECL|typedef|QmlClassNode
+DECL|typedef|QmlClassNode
 DECL|variable|Config
 DECL|variable|Tree
