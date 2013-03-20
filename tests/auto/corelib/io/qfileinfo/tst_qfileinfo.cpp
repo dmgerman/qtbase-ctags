@@ -39,6 +39,7 @@ DECL|function|fileTimes_oldFile
 DECL|function|getPrivate
 DECL|function|getSetCheck
 DECL|function|group
+DECL|function|initTestCase
 DECL|function|invalidState
 DECL|function|isBundle
 DECL|function|isBundle_data
@@ -72,7 +73,12 @@ DECL|function|suffix_data
 DECL|function|systemFiles
 DECL|function|testDecomposedUnicodeNames
 DECL|function|testDecomposedUnicodeNames_data
+DECL|function|tst_QFileInfo
 DECL|function|~NativeFileCreator
-DECL|macro|_WIN32_WINNT
+DECL|macro|Q_NO_SYMLINKS
+DECL|member|m_currentDir
+DECL|member|m_dir
 DECL|member|m_error
 DECL|member|m_filePath
+DECL|member|m_resourcesDir
+DECL|member|m_sourceFile

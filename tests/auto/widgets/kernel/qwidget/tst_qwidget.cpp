@@ -166,6 +166,7 @@ DECL|function|isVisibleTo
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
 DECL|function|keyboardModifiers
+DECL|function|largerThanScreen_QTBUG30142
 DECL|function|leaveEvent
 DECL|function|lenientCompare
 DECL|function|lostUpdatesOnHide

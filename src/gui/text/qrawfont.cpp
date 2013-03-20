@@ -3,6 +3,7 @@ DECL|function|QRawFont
 DECL|function|QRawFont
 DECL|function|QRawFont
 DECL|function|advancesForGlyphIndexes
+DECL|function|advancesForGlyphIndexes
 DECL|function|alphaMapForGlyph
 DECL|function|ascent
 DECL|function|averageCharWidth

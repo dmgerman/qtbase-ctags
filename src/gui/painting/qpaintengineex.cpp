@@ -36,10 +36,10 @@ DECL|function|qpaintengineex_moveTo
 DECL|function|qtVectorPathForPath
 DECL|function|qt_painterPathFromVectorPath
 DECL|function|replayClipOperations
+DECL|function|requiresPretransformedGlyphPositions
 DECL|function|setState
 DECL|function|shouldDrawCachedGlyphs
 DECL|function|stroke
-DECL|function|supportsTransformations
 DECL|function|updateState
 DECL|function|~QPaintEngineExPrivate
 DECL|function|~QVectorPath

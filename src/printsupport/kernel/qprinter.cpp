@@ -29,6 +29,7 @@ DECL|function|pageRect
 DECL|function|pageRect
 DECL|function|pageSize
 DECL|function|paintEngine
+DECL|function|paperName
 DECL|function|paperRect
 DECL|function|paperRect
 DECL|function|paperSize
@@ -66,6 +67,7 @@ DECL|function|setPageMargins
 DECL|function|setPageOrder
 DECL|function|setPageSize
 DECL|function|setPageSizeMM
+DECL|function|setPaperName
 DECL|function|setPaperSize
 DECL|function|setPaperSize
 DECL|function|setPaperSource

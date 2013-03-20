@@ -86,6 +86,7 @@ DECL|function|setStandardButtons
 DECL|function|setText
 DECL|function|setText
 DECL|function|setTextFormat
+DECL|function|setTextInteractionFlags
 DECL|function|setVisible
 DECL|function|setWindowModality
 DECL|function|setWindowTitle
@@ -101,6 +102,7 @@ DECL|function|standardIcon
 DECL|function|text
 DECL|function|text
 DECL|function|textFormat
+DECL|function|textInteractionFlags
 DECL|function|updateSize
 DECL|function|warning
 DECL|function|warning

@@ -10,7 +10,7 @@ DECL|function|ioEvents
 DECL|function|processThreadWakeUp
 DECL|function|registerSocketNotifier
 DECL|function|select
-DECL|function|timevalToMillisecs
+DECL|function|timespecToMillisecs
 DECL|function|unregisterSocketNotifier
 DECL|function|wakeUp
 DECL|function|~BpsChannelScopeSwitcher

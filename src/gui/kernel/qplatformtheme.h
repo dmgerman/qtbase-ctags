@@ -1,6 +1,7 @@
 DECL|macro|QPLATFORMTHEME_H
 DECL|variable|QFileInfo
 DECL|variable|QFont
+DECL|variable|QIconEngine
 DECL|variable|QMenu
 DECL|variable|QMenuBar
 DECL|variable|QPalette

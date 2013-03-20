@@ -1,0 +1,2 @@
+DECL|macro|QOPENGLVERTEXARRAYOBJECT_H
+DECL|variable|QOpenGLVertexArrayObjectPrivate

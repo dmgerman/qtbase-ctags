@@ -1,0 +1,13 @@
+DECL|function|QSaveFile
+DECL|function|QSaveFile
+DECL|function|QSaveFile
+DECL|function|QSaveFilePrivate
+DECL|function|cancelWriting
+DECL|function|close
+DECL|function|commit
+DECL|function|fileName
+DECL|function|open
+DECL|function|setFileName
+DECL|function|writeData
+DECL|function|~QSaveFile
+DECL|function|~QSaveFilePrivate

@@ -67,6 +67,7 @@ DECL|function|isNull_data
 DECL|function|isValid
 DECL|function|left
 DECL|function|left_data
+DECL|function|margins
 DECL|function|moveBottom
 DECL|function|moveBottomLeft
 DECL|function|moveBottomRight

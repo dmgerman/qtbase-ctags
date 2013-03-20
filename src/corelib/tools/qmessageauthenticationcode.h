@@ -1,0 +1,3 @@
+DECL|macro|QMESSAGEAUTHENTICATIONCODE_H
+DECL|variable|QIODevice
+DECL|variable|QMessageAuthenticationCodePrivate

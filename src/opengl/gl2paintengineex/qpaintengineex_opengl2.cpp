@@ -34,6 +34,7 @@ DECL|function|invalidateState
 DECL|function|isNativePaintingActive
 DECL|function|opacityChanged
 DECL|function|penChanged
+DECL|function|prepareForCachedGlyphDraw
 DECL|function|prepareForDraw
 DECL|function|qt_premultiplyColor
 DECL|function|regenerateClip
@@ -45,6 +46,7 @@ DECL|function|setBrush
 DECL|function|setCoords
 DECL|function|setScissor
 DECL|function|setState
+DECL|function|shouldDrawCachedGlyphs
 DECL|function|stroke
 DECL|function|stroke
 DECL|function|systemStateChanged

@@ -1,4 +1,5 @@
 DECL|class|AutoRegistrationObject
+DECL|class|ClassWithOneMember
 DECL|class|ClassWithPrivateSignals
 DECL|class|CtorTestClass
 DECL|class|CustomQObject
@@ -76,9 +77,11 @@ DECL|function|TestSuperClass
 DECL|function|arrayArguments
 DECL|function|autoMethodArgumentMetaTypeRegistration
 DECL|function|autoPropertyMetaTypeRegistration
+DECL|function|autoSignalSpyMetaTypeRegistration
 DECL|function|bar
 DECL|function|baz
 DECL|function|blackslashNewlines
+DECL|function|blub
 DECL|function|blub1
 DECL|function|blub2
 DECL|function|bu1
@@ -144,6 +147,10 @@ DECL|function|listIntSlot
 DECL|function|listObject
 DECL|function|longDoubleProperty
 DECL|function|longIntProperty
+DECL|function|member2
+DECL|function|memberProperties
+DECL|function|memberProperties2
+DECL|function|memberProperties_data
 DECL|function|method1
 DECL|function|method1
 DECL|function|method2
@@ -190,7 +197,9 @@ DECL|function|sendValue
 DECL|function|sendValue
 DECL|function|setBar
 DECL|function|setBaz
+DECL|function|setBlub
 DECL|function|setFoo
+DECL|function|setMember3
 DECL|function|setPlop
 DECL|function|setPoints
 DECL|function|setValue
@@ -232,7 +241,6 @@ DECL|function|slotWithVoidStar
 DECL|function|slotsWithVoidTemplate
 DECL|function|someSlot
 DECL|function|someSlot2
-DECL|function|srcify
 DECL|function|structQObject
 DECL|function|supportConstSignals
 DECL|function|task87883
@@ -292,15 +300,22 @@ DECL|member|doNotConfuseMoc
 DECL|member|intCallCount
 DECL|member|mBar
 DECL|member|mBaz
+DECL|member|mBlub
+DECL|member|mConst
 DECL|member|mFoo
 DECL|member|mPlop
 DECL|member|m_points
+DECL|member|m_sourceDirectory
 DECL|member|m_str
 DECL|member|m_value
 DECL|member|m_value2
+DECL|member|member
 DECL|member|p1
 DECL|member|p2
+DECL|member|pPPTest
 DECL|member|qtIncludePath
+DECL|member|sConst
+DECL|member|sMember
 DECL|member|stringCallCount
 DECL|member|testPassed
 DECL|namespace|Int
@@ -311,6 +326,7 @@ DECL|namespace|String
 DECL|namespace|myNS
 DECL|struct|CustomObject10
 DECL|struct|CustomObject11
+DECL|struct|CustomObject12
 DECL|struct|CustomObject3
 DECL|struct|CustomObject4
 DECL|struct|CustomObject5

@@ -1,4 +1,5 @@
 DECL|function|QGLXContext
+DECL|function|QGLXPbuffer
 DECL|function|createDummyWindow
 DECL|function|createDummyWindow
 DECL|function|doneCurrent
@@ -11,8 +12,10 @@ DECL|function|makeCurrent
 DECL|function|swapBuffers
 DECL|function|updateFormatFromContext
 DECL|function|~QGLXContext
+DECL|function|~QGLXPbuffer
 DECL|macro|GLX_CONTEXT_COMPATIBILITY_PROFILE_BIT_ARB
 DECL|macro|GLX_CONTEXT_CORE_PROFILE_BIT_ARB
+DECL|macro|GLX_CONTEXT_ES2_PROFILE_BIT_EXT
 DECL|macro|GLX_CONTEXT_PROFILE_MASK_ARB
 DECL|macro|GL_CONTEXT_FLAG_DEBUG_BIT
 DECL|typedef|glXCreateContextAttribsARBProc

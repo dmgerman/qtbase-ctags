@@ -6,7 +6,6 @@ DECL|function|bytesAvailable
 DECL|function|bytesToWrite
 DECL|function|canReadLine
 DECL|function|close
-DECL|function|connectToServer
 DECL|function|disconnectFromServer
 DECL|function|error
 DECL|function|errorOccurred
@@ -14,6 +13,7 @@ DECL|function|flush
 DECL|function|generateErrorString
 DECL|function|init
 DECL|function|isValid
+DECL|function|open
 DECL|function|readBufferSize
 DECL|function|readData
 DECL|function|setReadBufferSize

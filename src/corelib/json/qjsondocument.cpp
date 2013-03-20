@@ -21,5 +21,6 @@ DECL|function|setArray
 DECL|function|setObject
 DECL|function|toBinaryData
 DECL|function|toJson
+DECL|function|toJson
 DECL|function|toVariant
 DECL|function|~QJsonDocument

@@ -47,6 +47,7 @@ DECL|function|data
 DECL|function|data
 DECL|function|disableColumn
 DECL|function|disableRow
+DECL|function|doMoveCursor
 DECL|function|emptyModel
 DECL|function|enableColumn
 DECL|function|enableRow
@@ -78,7 +79,6 @@ DECL|function|keyboardNavigation
 DECL|function|keyboardNavigation_data
 DECL|function|mouseWheel
 DECL|function|mouseWheel_data
-DECL|function|moveCursor
 DECL|function|moveCursor
 DECL|function|moveCursorStrikesBack
 DECL|function|moveCursorStrikesBack_data

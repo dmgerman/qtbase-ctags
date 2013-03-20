@@ -1,8 +1,10 @@
 DECL|function|ExposeEvent
 DECL|function|convertTouchPoints
+DECL|function|deferredFlushWindowSystemEvents
 DECL|function|flushWindowSystemEvents
 DECL|function|getNonUserInputWindowSystemEvent
 DECL|function|getWindowSystemEvent
+DECL|function|handleApplicationStateChanged
 DECL|function|handleCloseEvent
 DECL|function|handleContextMenuEvent
 DECL|function|handleDrag
@@ -12,6 +14,7 @@ DECL|function|handleEnterLeaveEvent
 DECL|function|handleExposeEvent
 DECL|function|handleExtendedKeyEvent
 DECL|function|handleExtendedKeyEvent
+DECL|function|handleFileOpenEvent
 DECL|function|handleFileOpenEvent
 DECL|function|handleFrameStrutMouseEvent
 DECL|function|handleFrameStrutMouseEvent
@@ -46,6 +49,7 @@ DECL|function|handleWheelEvent
 DECL|function|handleWindowActivated
 DECL|function|handleWindowStateChanged
 DECL|function|handleWindowSystemEvent
+DECL|function|operator <<
 DECL|function|peekWindowSystemEvent
 DECL|function|qt_handleKeyEvent
 DECL|function|qt_handleMouseEvent
@@ -64,5 +68,7 @@ DECL|function|tryHandleShortcutEvent
 DECL|function|windowSystemEventsQueued
 DECL|function|windowSystemEventsQueued
 DECL|member|eventTime
+DECL|member|eventsFlushed
+DECL|member|flushEventMutex
 DECL|member|synchronousWindowsSystemEvents
 DECL|member|windowSystemEventQueue

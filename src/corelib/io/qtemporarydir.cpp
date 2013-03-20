@@ -6,8 +6,8 @@ DECL|function|autoRemove
 DECL|function|create
 DECL|function|defaultTemplateName
 DECL|function|isValid
-DECL|function|mkdtemp
 DECL|function|path
+DECL|function|q_mkdtemp
 DECL|function|remove
 DECL|function|setAutoRemove
 DECL|function|~QTemporaryDir

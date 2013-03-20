@@ -2,6 +2,8 @@ DECL|function|QEglFSWindow
 DECL|function|create
 DECL|function|destroy
 DECL|function|format
+DECL|function|invalidateSurface
+DECL|function|resetSurface
 DECL|function|setGeometry
 DECL|function|setWindowState
 DECL|function|winId

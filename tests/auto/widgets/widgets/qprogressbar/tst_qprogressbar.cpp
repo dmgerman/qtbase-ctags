@@ -5,6 +5,7 @@ DECL|function|format
 DECL|function|formatedText
 DECL|function|formatedText_data
 DECL|function|getSetCheck
+DECL|function|localizedFormattedText
 DECL|function|minMaxSameValue
 DECL|function|paintEvent
 DECL|function|setMinMaxRepaint

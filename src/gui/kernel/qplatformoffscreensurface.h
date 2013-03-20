@@ -1,0 +1,4 @@
+DECL|macro|QPLATFORMOFFSCREENSURFACE_H
+DECL|variable|QOffscreenSurface
+DECL|variable|QPlatformOffscreenSurfacePrivate
+DECL|variable|QPlatformScreen

@@ -36,6 +36,7 @@ DECL|function|contentsSize
 DECL|function|contentsSize
 DECL|function|cursorMove
 DECL|function|data
+DECL|function|doMoveCursor
 DECL|function|draggablePaintPairs
 DECL|function|draggablePaintPairs_data
 DECL|function|emptyItemSize
@@ -50,7 +51,6 @@ DECL|function|initTestCase
 DECL|function|isEditable
 DECL|function|keyboardSearch
 DECL|function|modelColumn
-DECL|function|moveCursor
 DECL|function|moveCursor
 DECL|function|moveCursor2
 DECL|function|moveCursor3

@@ -7,6 +7,7 @@ DECL|function|findWindow
 DECL|function|gainedFocus
 DECL|function|isExposed
 DECL|function|lower
+DECL|function|minimize
 DECL|function|platformWindowFormatToNativeFormat
 DECL|function|post
 DECL|function|raise

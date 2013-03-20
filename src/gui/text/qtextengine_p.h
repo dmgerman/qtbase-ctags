@@ -46,8 +46,11 @@ DECL|member|ascent
 DECL|member|attributes
 DECL|member|attributes
 DECL|member|bidiLevel
+DECL|member|clusterStart
+DECL|member|combiningClass
 DECL|member|descent
 DECL|member|descent
+DECL|member|dontPrint
 DECL|member|eng
 DECL|member|firstItem
 DECL|member|flags
@@ -66,6 +69,7 @@ DECL|member|itemLength
 DECL|member|itemStart
 DECL|member|itemWidth
 DECL|member|justification
+DECL|member|justification
 DECL|member|justifications
 DECL|member|justified
 DECL|member|lastItem
@@ -78,6 +82,7 @@ DECL|member|line
 DECL|member|lineEnd
 DECL|member|lineNum
 DECL|member|logicalItem
+DECL|member|mark
 DECL|member|nItems
 DECL|member|nKashidas
 DECL|member|numGlyphs
@@ -109,6 +114,7 @@ DECL|member|xoff
 DECL|member|y
 DECL|member|y
 DECL|member|yoff
+DECL|member|zeroWidth
 DECL|struct|QGlyphJustification
 DECL|struct|QGlyphLayout
 DECL|struct|QGlyphLayout
@@ -118,7 +124,11 @@ DECL|struct|QScriptItem
 DECL|struct|QScriptLine
 DECL|struct|QTextLineItemIterator
 DECL|struct|glyph_metrics_t
+DECL|typedef|QGlyphAttributes
 DECL|typedef|QScriptItemArray
+DECL|typedef|glyph_t
+DECL|typedef|q_hb_bitfield
+DECL|typedef|q_hb_bitfield
 DECL|variable|QAbstractTextDocumentLayout
 DECL|variable|QFontEngine
 DECL|variable|QFontPrivate

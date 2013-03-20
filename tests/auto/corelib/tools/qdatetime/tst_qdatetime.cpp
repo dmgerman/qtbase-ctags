@@ -36,6 +36,8 @@ DECL|function|invalidDateTime
 DECL|function|invalidTime
 DECL|function|isNull
 DECL|function|isValid
+DECL|function|maxJd
+DECL|function|minJd
 DECL|function|msecsTo
 DECL|function|msecsTo_data
 DECL|function|operator_eq

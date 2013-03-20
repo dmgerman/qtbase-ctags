@@ -12,6 +12,7 @@ DECL|function|ensureActiveTarget
 DECL|function|metric
 DECL|function|paintEngine
 DECL|function|paintFlipped
+DECL|function|setDevicePixelRatio
 DECL|function|setDotsPerMeterX
 DECL|function|setDotsPerMeterY
 DECL|function|setPaintFlipped
@@ -19,6 +20,7 @@ DECL|function|setSize
 DECL|function|size
 DECL|function|~QOpenGLPaintDevice
 DECL|member|ctx
+DECL|member|devicePixelRatio
 DECL|member|dpmx
 DECL|member|dpmy
 DECL|member|engine

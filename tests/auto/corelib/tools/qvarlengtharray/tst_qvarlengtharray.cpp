@@ -19,6 +19,7 @@ DECL|function|realloc
 DECL|function|reallocTest
 DECL|function|removeLast
 DECL|function|resize
+DECL|function|squeeze
 DECL|function|~Foo
 DECL|function|~MyBase
 DECL|function|~MyPrimitive

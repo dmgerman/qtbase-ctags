@@ -8,6 +8,7 @@ DECL|function|fromFile
 DECL|function|fromImageReader
 DECL|function|makeBitmapCompliantIfNeeded
 DECL|function|scroll
+DECL|function|setDetachNumber
 DECL|function|setSerialNumber
 DECL|function|toImage
 DECL|function|transformed

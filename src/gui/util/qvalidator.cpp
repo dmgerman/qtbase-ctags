@@ -1,4 +1,5 @@
 DECL|class|QDoubleValidatorPrivate
+DECL|class|QRegularExpressionValidatorPrivate
 DECL|class|QValidatorPrivate
 DECL|function|QDoubleValidator
 DECL|function|QDoubleValidator
@@ -7,6 +8,8 @@ DECL|function|QIntValidator
 DECL|function|QIntValidator
 DECL|function|QRegExpValidator
 DECL|function|QRegExpValidator
+DECL|function|QRegularExpressionValidator
+DECL|function|QRegularExpressionValidator
 DECL|function|QValidator
 DECL|function|QValidator
 DECL|function|QValidator
@@ -17,6 +20,7 @@ DECL|function|locale
 DECL|function|notation
 DECL|function|numDigits
 DECL|function|pow10
+DECL|function|regularExpression
 DECL|function|setBottom
 DECL|function|setBottom
 DECL|function|setDecimals
@@ -25,8 +29,11 @@ DECL|function|setNotation
 DECL|function|setRange
 DECL|function|setRange
 DECL|function|setRegExp
+DECL|function|setRegularExpression
+DECL|function|setRegularExpression
 DECL|function|setTop
 DECL|function|setTop
+DECL|function|validate
 DECL|function|validate
 DECL|function|validate
 DECL|function|validate
@@ -34,7 +41,10 @@ DECL|function|validateWithLocale
 DECL|function|~QDoubleValidator
 DECL|function|~QIntValidator
 DECL|function|~QRegExpValidator
+DECL|function|~QRegularExpressionValidator
 DECL|function|~QValidator
 DECL|macro|LLONG_MAX
 DECL|member|locale
 DECL|member|notation
+DECL|member|origRe
+DECL|member|usedRe

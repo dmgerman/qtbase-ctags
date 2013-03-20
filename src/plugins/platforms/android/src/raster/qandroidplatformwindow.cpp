@@ -1,0 +1,3 @@
+DECL|function|QAndroidPlatformWindow
+DECL|function|propagateSizeHints
+DECL|function|setGeometry

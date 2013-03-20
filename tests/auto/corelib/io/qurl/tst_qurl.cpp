@@ -114,6 +114,8 @@ DECL|function|testThreading
 DECL|function|testThreadingHelper
 DECL|function|tldRestrictions
 DECL|function|tldRestrictions_data
+DECL|function|toAndFromStringList
+DECL|function|toAndFromStringList_data
 DECL|function|toEncoded
 DECL|function|toEncodedNotUsingUninitializedPath
 DECL|function|toEncoded_data

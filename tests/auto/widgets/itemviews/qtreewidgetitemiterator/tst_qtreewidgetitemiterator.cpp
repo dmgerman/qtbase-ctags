@@ -16,6 +16,7 @@ DECL|function|postdecrement
 DECL|function|postincrement
 DECL|function|predecrement
 DECL|function|preincrement
+DECL|function|sortingEnabled
 DECL|function|tst_QTreeWidgetItemIterator
 DECL|function|updateIfModifiedFromWidget
 DECL|function|updateIfModifiedFromWidget_data

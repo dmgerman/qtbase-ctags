@@ -5,5 +5,6 @@ DECL|function|colorForLanguage
 DECL|function|eventFilter
 DECL|function|findQmFiles
 DECL|function|hideAll
+DECL|function|languageMatch
 DECL|function|languageName
 DECL|function|showAll

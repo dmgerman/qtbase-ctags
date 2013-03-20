@@ -2,6 +2,7 @@ DECL|macro|QPLATFORMINTEGRATION_H
 DECL|variable|QAbstractEventDispatcher
 DECL|variable|QGuiGLFormat
 DECL|variable|QKeyEvent
+DECL|variable|QOffscreenSurface
 DECL|variable|QPlatformAccessibility
 DECL|variable|QPlatformBackingStore
 DECL|variable|QPlatformClipboard
@@ -10,6 +11,7 @@ DECL|variable|QPlatformDrag
 DECL|variable|QPlatformFontDatabase
 DECL|variable|QPlatformInputContext
 DECL|variable|QPlatformNativeInterface
+DECL|variable|QPlatformOffscreenSurface
 DECL|variable|QPlatformOpenGLContext
 DECL|variable|QPlatformServices
 DECL|variable|QPlatformSharedGraphicsCache

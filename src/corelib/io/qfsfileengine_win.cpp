@@ -23,11 +23,13 @@ DECL|function|nativeRead
 DECL|function|nativeReadLine
 DECL|function|nativeSeek
 DECL|function|nativeSize
+DECL|function|nativeSyncToDisk
 DECL|function|nativeWrite
 DECL|function|owner
 DECL|function|ownerId
 DECL|function|remove
 DECL|function|rename
+DECL|function|renameOverwrite
 DECL|function|rmdir
 DECL|function|rootPath
 DECL|function|setCurrentPath

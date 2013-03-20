@@ -1,0 +1,4 @@
+DECL|function|createPlatformMenu
+DECL|function|createPlatformMenuBar
+DECL|function|createPlatformMenuItem
+DECL|function|themeHint

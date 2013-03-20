@@ -7,5 +7,8 @@ DECL|function|lower
 DECL|function|raise
 DECL|function|removeWindow
 DECL|function|setDirty
+DECL|function|setGeometry
+DECL|function|setPhysicalSize
 DECL|function|topLevelAt
+DECL|function|topWindow
 DECL|function|~QFbScreen

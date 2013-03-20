@@ -1,0 +1,4 @@
+DECL|function|QAndroidOpenGLPlatformWindow
+DECL|function|invalidateSurface
+DECL|function|isExposed
+DECL|function|resetSurface

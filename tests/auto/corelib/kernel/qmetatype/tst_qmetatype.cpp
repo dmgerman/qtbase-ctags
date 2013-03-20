@@ -28,6 +28,7 @@ DECL|function|CustomQObject
 DECL|function|MetaTypeTorturer
 DECL|function|MyObject
 DECL|function|automaticTemplateRegistration
+DECL|function|constRefs
 DECL|function|constexprMetaTypeIds
 DECL|function|construct
 DECL|function|constructCopy

@@ -43,10 +43,15 @@ DECL|function|threadRecycling
 DECL|function|tryStart
 DECL|function|tryStartCount
 DECL|function|tryStartPeakThreadCount
+DECL|function|tst_QThreadPool
 DECL|function|waitForDone
 DECL|function|waitForDoneTimeout
 DECL|function|waitcomplete
+DECL|function|~tst_QThreadPool
 DECL|member|function
+DECL|member|functionTestMutex
+DECL|member|functionTestMutex
+DECL|member|m_functionTestMutex
 DECL|member|runCount
 DECL|member|semaphore
 DECL|member|thread

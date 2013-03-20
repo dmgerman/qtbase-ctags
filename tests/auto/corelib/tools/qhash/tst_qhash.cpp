@@ -18,6 +18,7 @@ DECL|function|dont_need_default_constructor
 DECL|function|empty
 DECL|function|erase
 DECL|function|find
+DECL|function|initializerList
 DECL|function|insert1
 DECL|function|iterators
 DECL|function|key

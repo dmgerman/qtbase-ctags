@@ -96,11 +96,6 @@ DECL|function|glVertexAttrib4f
 DECL|function|glVertexAttrib4fv
 DECL|function|glVertexAttribPointer
 DECL|macro|QOPENGLFUNCTIONS_H
-DECL|macro|QOPENGLF_APIENTRY
-DECL|macro|QOPENGLF_APIENTRY
-DECL|macro|QOPENGLF_APIENTRY
-DECL|macro|QOPENGLF_APIENTRYP
-DECL|macro|QOPENGLF_APIENTRYP
 DECL|macro|Q_OPENGL_FUNCTIONS_DEBUG
 DECL|macro|Q_OPENGL_FUNCTIONS_DEBUG
 DECL|macro|glActiveTexture
@@ -201,5 +196,3 @@ DECL|macro|glVertexAttrib4f
 DECL|macro|glVertexAttrib4fv
 DECL|macro|glVertexAttribPointer
 DECL|struct|QOpenGLFunctionsPrivate
-DECL|typedef|qopengl_GLintptr
-DECL|typedef|qopengl_GLsizeiptr

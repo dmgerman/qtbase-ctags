@@ -24,6 +24,8 @@ DECL|function|setQuality
 DECL|function|setText
 DECL|function|supportedImageFormats
 DECL|function|supportedImageHandlerFormats
+DECL|function|supportedImageHandlerMimeTypes
+DECL|function|supportedMimeTypes
 DECL|function|supportsOption
 DECL|function|write
 DECL|function|~QImageWriter

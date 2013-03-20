@@ -27,6 +27,7 @@ DECL|function|bytesAvailable
 DECL|function|bytesToWrite
 DECL|function|caCertificates
 DECL|function|canReadLine
+DECL|function|checkSettingSslContext
 DECL|function|ciphers
 DECL|function|close
 DECL|function|connectToHost
@@ -49,6 +50,7 @@ DECL|function|init
 DECL|function|isEncrypted
 DECL|function|isPaused
 DECL|function|localCertificate
+DECL|function|localCertificateChain
 DECL|function|mode
 DECL|function|pauseSocketNotifiers
 DECL|function|peek
@@ -77,6 +79,7 @@ DECL|function|setDefaultConfiguration
 DECL|function|setDefaultSupportedCiphers
 DECL|function|setLocalCertificate
 DECL|function|setLocalCertificate
+DECL|function|setLocalCertificateChain
 DECL|function|setPeerVerifyDepth
 DECL|function|setPeerVerifyMode
 DECL|function|setPeerVerifyName
@@ -89,6 +92,7 @@ DECL|function|setSocketOption
 DECL|function|setSslConfiguration
 DECL|function|socketOption
 DECL|function|sslConfiguration
+DECL|function|sslContext
 DECL|function|sslErrors
 DECL|function|sslLibraryVersionNumber
 DECL|function|sslLibraryVersionString

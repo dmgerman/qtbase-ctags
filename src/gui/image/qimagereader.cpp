@@ -56,6 +56,7 @@ DECL|function|setScaledClipRect
 DECL|function|setScaledSize
 DECL|function|size
 DECL|function|supportedImageFormats
+DECL|function|supportedMimeTypes
 DECL|function|supportsAnimation
 DECL|function|supportsOption
 DECL|function|text
@@ -72,6 +73,7 @@ DECL|member|format
 DECL|member|handler
 DECL|member|ignoresFormatAndExtension
 DECL|member|imageReaderError
+DECL|member|mimeType
 DECL|member|q
 DECL|member|quality
 DECL|member|scaledClipRect

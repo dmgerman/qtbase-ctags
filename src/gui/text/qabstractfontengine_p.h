@@ -1,2 +1,0 @@
-DECL|macro|QABSTRACTFONTENGINE_P_H
-DECL|variable|QCustomFontEngine

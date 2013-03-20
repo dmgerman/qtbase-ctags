@@ -1,4 +1,5 @@
 DECL|class|QSQLiteDriverPrivate
+DECL|class|QSQLiteResult
 DECL|class|QSQLiteResultPrivate
 DECL|function|QSQLiteDriver
 DECL|function|QSQLiteDriver
@@ -40,6 +41,7 @@ DECL|function|~QSQLiteDriver
 DECL|function|~QSQLiteResult
 DECL|member|access
 DECL|member|access
+DECL|member|d
 DECL|member|firstRow
 DECL|member|q
 DECL|member|rInf

@@ -12,6 +12,8 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
+DECL|function|operator
+DECL|function|operator
 DECL|function|qdbus_cast
 DECL|macro|QDBUSARGUMENT_H
 DECL|variable|Container
@@ -24,3 +26,5 @@ DECL|variable|QDBusArgumentPrivate
 DECL|variable|QDBusDemarshaller
 DECL|variable|QDBusMarshaller
 DECL|variable|QDBusUnixFileDescriptor
+DECL|variable|T1
+DECL|variable|T1

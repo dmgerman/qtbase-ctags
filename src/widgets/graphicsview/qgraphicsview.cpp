@@ -83,6 +83,7 @@ DECL|function|resetTransform
 DECL|function|resizeAnchor
 DECL|function|resizeEvent
 DECL|function|rotate
+DECL|function|rubberBandRect
 DECL|function|rubberBandRegion
 DECL|function|rubberBandSelectionMode
 DECL|function|scale

@@ -46,6 +46,7 @@ DECL|function|show_sys
 DECL|function|stackUnder_sys
 DECL|function|stealKeyboardGrab
 DECL|function|stealMouseGrab
+DECL|function|unsetCursor
 DECL|function|unsetCursor_sys
 DECL|function|updateFrameStrut
 DECL|function|updateSystemBackground

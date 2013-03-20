@@ -59,6 +59,7 @@ DECL|function|fromEncoded
 DECL|function|fromEncodedComponent_helper
 DECL|function|fromLocalFile
 DECL|function|fromPercentEncoding
+DECL|function|fromStringList
 DECL|function|fromUserInput
 DECL|function|ftpScheme
 DECL|function|hasAuthority
@@ -74,7 +75,6 @@ DECL|function|hasScheme
 DECL|function|hasUserInfo
 DECL|function|hasUserName
 DECL|function|host
-DECL|function|httpScheme
 DECL|function|isDetached
 DECL|function|isEmpty
 DECL|function|isEmpty
@@ -132,6 +132,7 @@ DECL|function|toEncoded
 DECL|function|toLocalFile
 DECL|function|toPercentEncoding
 DECL|function|toString
+DECL|function|toStringList
 DECL|function|topLevelDomain
 DECL|function|url
 DECL|function|userInfo
@@ -160,7 +161,6 @@ DECL|member|source
 DECL|member|userName
 DECL|struct|Error
 DECL|variable|decodedFragmentInIsolationActions
-DECL|variable|decodedFragmentInUrlActions
 DECL|variable|decodedPasswordInAuthorityActions
 DECL|variable|decodedPasswordInIsolationActions
 DECL|variable|decodedPasswordInUrlActions

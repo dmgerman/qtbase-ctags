@@ -20,6 +20,8 @@ DECL|struct|QMetaObject
 DECL|struct|QSignalSpyCallbackSet
 DECL|typedef|BeginCallback
 DECL|typedef|EndCallback
+DECL|variable|Func1
+DECL|variable|Func1
 DECL|variable|QDynamicMetaObjectData
 DECL|variable|QObjectConnectionListVector
 DECL|variable|QSemaphore

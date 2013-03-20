@@ -47,6 +47,7 @@ DECL|function|httpDownloadPerformance_data
 DECL|function|httpLatency
 DECL|function|httpUploadPerformance
 DECL|function|httpsRequestChain
+DECL|function|httpsUpload
 DECL|function|initTestCase
 DECL|function|isSequential
 DECL|function|isSequential
@@ -60,6 +61,7 @@ DECL|function|reset
 DECL|function|run
 DECL|function|run
 DECL|function|run
+DECL|function|runHttpsUploadRequest
 DECL|function|serverPort
 DECL|function|serverPort
 DECL|function|serverPort

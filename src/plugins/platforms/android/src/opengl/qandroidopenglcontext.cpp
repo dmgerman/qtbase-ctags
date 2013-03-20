@@ -1,0 +1,2 @@
+DECL|function|QAndroidOpenGLContext
+DECL|function|swapBuffers

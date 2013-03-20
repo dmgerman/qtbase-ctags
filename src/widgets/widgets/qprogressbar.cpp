@@ -6,6 +6,7 @@ DECL|function|bound
 DECL|function|event
 DECL|function|format
 DECL|function|init
+DECL|function|initDefaultFormat
 DECL|function|initStyleOption
 DECL|function|invertedAppearance
 DECL|function|isTextVisible
@@ -16,6 +17,7 @@ DECL|function|orientation
 DECL|function|paintEvent
 DECL|function|repaintRequired
 DECL|function|reset
+DECL|function|resetFormat
 DECL|function|resetLayoutItemMargins
 DECL|function|setAlignment
 DECL|function|setFormat

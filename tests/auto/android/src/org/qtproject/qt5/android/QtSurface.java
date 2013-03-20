@@ -1,0 +1,13 @@
+DECL|class|QtSurface
+DECL|field|m_bitmap
+DECL|field|m_started
+DECL|field|m_usesGL
+DECL|method|QtSurface
+DECL|method|applicationStarted
+DECL|method|drawBitmap
+DECL|method|onTouchEvent
+DECL|method|onTrackballEvent
+DECL|method|surfaceChanged
+DECL|method|surfaceCreated
+DECL|method|surfaceDestroyed
+DECL|package|org.qtproject.qt5.android
