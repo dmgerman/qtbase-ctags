@@ -6,6 +6,5 @@ DECL|function|render
 DECL|function|render
 DECL|function|renderLater
 DECL|function|renderNow
-DECL|function|resizeEvent
 DECL|function|setAnimating
 DECL|function|~OpenGLWindow
