@@ -1,0 +1,14 @@
+DECL|enumerator|CoreStatus
+DECL|enumerator|DeprecatedStatus
+DECL|enumerator|InvalidStatus
+DECL|enum|OpenGLStatus
+DECL|function|QOpenGLVersionStatus
+DECL|function|QOpenGLVersionStatus
+DECL|function|operator
+DECL|function|operator
+DECL|function|qHash
+DECL|macro|QOPENGLVERSIONFUNCTIONS_H
+DECL|member|status
+DECL|member|version
+DECL|struct|QOpenGLVersionStatus
+DECL|variable|QOpenGLContext

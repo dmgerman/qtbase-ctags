@@ -1,0 +1,6 @@
+DECL|macro|QOPENGLDEBUG_H
+DECL|variable|QOpenGLDebugLogger
+DECL|variable|QOpenGLDebugLoggerPrivate
+DECL|variable|QOpenGLDebugLoggerPrivate
+DECL|variable|QOpenGLDebugMessagePrivate
+DECL|variable|operator

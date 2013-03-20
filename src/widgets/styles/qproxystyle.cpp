@@ -1,4 +1,5 @@
 DECL|function|QProxyStyle
+DECL|function|QProxyStyle
 DECL|function|baseStyle
 DECL|function|drawComplexControl
 DECL|function|drawControl

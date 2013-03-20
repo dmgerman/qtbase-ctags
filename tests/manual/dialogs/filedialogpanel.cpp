@@ -7,6 +7,11 @@ DECL|function|apply
 DECL|function|applySettings
 DECL|function|comboBoxValue
 DECL|function|createCombo
+DECL|function|deleteModalDialog
+DECL|function|deleteNonModalDialog
+DECL|function|enableDeleteModalDialogButton
+DECL|function|enableDeleteNonModalDialogButton
+DECL|function|execModal
 DECL|function|filterString
 DECL|function|getExistingDirectory
 DECL|function|getOpenFileName

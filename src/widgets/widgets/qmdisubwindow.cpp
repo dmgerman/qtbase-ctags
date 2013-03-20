@@ -130,8 +130,6 @@ DECL|member|visibleControls
 DECL|namespace|QMdi
 DECL|namespace|QMdi
 DECL|variable|BoundaryMargin
-DECL|variable|ButtonPixmaps
 DECL|variable|CustomizeWindowFlags
-DECL|variable|NumButtonPixmaps
 DECL|variable|NumSubControls
 DECL|variable|SubControls

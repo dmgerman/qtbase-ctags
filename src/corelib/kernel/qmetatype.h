@@ -11,6 +11,8 @@ DECL|function|isRegistered
 DECL|function|isValid
 DECL|function|metaObject
 DECL|function|qMetaTypeId
+DECL|function|qMetaTypeId
+DECL|function|qRegisterMetaType
 DECL|function|qRegisterMetaType
 DECL|function|qRegisterMetaType
 DECL|function|qRegisterMetaTypeStreamOperators

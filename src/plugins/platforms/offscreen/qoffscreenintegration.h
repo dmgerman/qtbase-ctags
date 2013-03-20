@@ -1,0 +1,2 @@
+DECL|macro|QOFFSCREENINTEGRATION_H
+DECL|variable|QOffscreenBackendData

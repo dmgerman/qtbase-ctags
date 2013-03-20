@@ -20,4 +20,3 @@ DECL|member|connection
 DECL|member|context
 DECL|member|predit
 DECL|member|valid
-DECL|variable|keycode_table

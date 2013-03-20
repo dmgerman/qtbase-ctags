@@ -1,0 +1,2 @@
+DECL|class|QAndroidPlatformIntegrationPlugin
+DECL|function|create

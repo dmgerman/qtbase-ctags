@@ -1,0 +1,11 @@
+DECL|function|clipboardText
+DECL|function|hasClipboardText
+DECL|function|registerNatives
+DECL|function|setClipboardListener
+DECL|function|setClipboardText
+DECL|macro|GET_AND_CHECK_STATIC_METHOD
+DECL|member|m_getClipboardTextMethodID
+DECL|member|m_hasClipboardTextMethodID
+DECL|member|m_registerClipboardManagerMethodID
+DECL|member|m_setClipboardTextMethodID
+DECL|namespace|QtAndroidClipboard

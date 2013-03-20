@@ -1,0 +1,1 @@
+DECL|macro|QANDROIDSTYLE_P_H

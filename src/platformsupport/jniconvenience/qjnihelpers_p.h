@@ -1,0 +1,14 @@
+DECL|function|operator
+DECL|function|operator
+DECL|function|operator
+DECL|macro|QJNIHELPERS_H
+DECL|member|jniEnv
+DECL|member|private
+DECL|struct|QAttachedJNIEnv
+DECL|variable|QJNILocalRef
+DECL|variable|T
+DECL|variable|T
+DECL|variable|T
+DECL|variable|T
+DECL|variable|T
+DECL|variable|T

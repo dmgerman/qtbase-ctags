@@ -1,0 +1,4 @@
+DECL|macro|QANDROIDPLATFORMINTERATION_H
+DECL|variable|QAndroidOpenGLPlatformWindow
+DECL|variable|QAndroidPlatformServices
+DECL|variable|QDesktopWidget

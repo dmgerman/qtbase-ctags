@@ -13,12 +13,15 @@ DECL|function|remove
 DECL|function|replace
 DECL|function|reserve
 DECL|function|resize
+DECL|function|squeeze
 DECL|function|value
 DECL|function|value
 DECL|macro|QVARLENGTHARRAY_H
 DECL|variable|Prealloc1
 DECL|variable|Prealloc1
 DECL|variable|QPodList
+DECL|variable|T
+DECL|variable|T
 DECL|variable|T
 DECL|variable|T
 DECL|variable|T

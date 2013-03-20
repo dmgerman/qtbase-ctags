@@ -47,12 +47,14 @@ DECL|function|processCommandLineArguments
 DECL|function|processEvents
 DECL|function|processEvents
 DECL|function|qAddPostRoutine
+DECL|function|qAddPreRoutine
 DECL|function|qAppName
 DECL|function|qGlobalPostedEventsCount
 DECL|function|qRemovePostRoutine
 DECL|function|qtTrId
 DECL|function|qt_applicationName_noFallback
 DECL|function|qt_call_post_routines
+DECL|function|qt_call_pre_routines
 DECL|function|qt_register_signal_spy_callbacks
 DECL|function|qt_startup_hook
 DECL|function|quit
@@ -78,6 +80,7 @@ DECL|function|setQuitLockEnabled
 DECL|function|startingUp
 DECL|function|testAttribute
 DECL|function|translate
+DECL|function|translate
 DECL|function|unlock
 DECL|function|~QCoreApplication
 DECL|function|~QCoreApplicationData
@@ -97,7 +100,9 @@ DECL|member|orgName
 DECL|member|self
 DECL|member|theMainThread
 DECL|struct|QCoreApplicationData
+DECL|typedef|QStartUpFuncList
 DECL|typedef|QVFuncList
+DECL|variable|globalPreRoutinesMutex
 DECL|variable|qt_application_thread_id
 DECL|variable|qt_locale_initialized
 DECL|variable|qt_signal_spy_callback_set

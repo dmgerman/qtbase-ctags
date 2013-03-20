@@ -56,6 +56,7 @@ DECL|function|platformName
 DECL|function|platformNativeInterface
 DECL|function|primaryScreen
 DECL|function|processActivatedEvent
+DECL|function|processApplicationStateChangedEvent
 DECL|function|processCloseEvent
 DECL|function|processContextMenuEvent
 DECL|function|processDrag
@@ -109,12 +110,14 @@ DECL|function|showModalWindow
 DECL|function|styleHints
 DECL|function|topLevelAt
 DECL|function|topLevelWindows
+DECL|function|unsetCursor
 DECL|function|updateBlockedStatus
 DECL|function|updateFilteredScreenOrientation
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
 DECL|member|app_font
 DECL|member|app_pal
+DECL|member|applicationState
 DECL|member|buttons
 DECL|member|currentMouseWindow
 DECL|member|displayName
@@ -142,10 +145,7 @@ DECL|member|tabletState
 DECL|member|window_list
 DECL|variable|applicationFontMutex
 DECL|variable|applicationResourceFlags
-DECL|variable|copy_xpm
 DECL|variable|fontSmoothingGamma
 DECL|variable|force_reverse
 DECL|variable|layout_direction
-DECL|variable|link_xpm
-DECL|variable|move_xpm
 DECL|variable|qt_is_gui_used

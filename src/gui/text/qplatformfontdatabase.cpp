@@ -1,4 +1,8 @@
 DECL|class|QWritingSystemsPrivate
+DECL|enumerator|JapaneseCsbBit
+DECL|enumerator|KoreanCsbBit
+DECL|enumerator|SimplifiedChineseCsbBit
+DECL|enumerator|TraditionalChineseCsbBit
 DECL|function|QSupportedWritingSystems
 DECL|function|QSupportedWritingSystems
 DECL|function|QWritingSystemsPrivate
@@ -21,7 +25,9 @@ DECL|function|resolveFontFamilyAlias
 DECL|function|setSupported
 DECL|function|standardSizes
 DECL|function|supported
+DECL|function|writingSystemsFromTrueTypeBits
 DECL|function|~QPlatformFontDatabase
 DECL|function|~QSupportedWritingSystems
 DECL|member|ref
 DECL|member|vector
+DECL|variable|requiredUnicodeBits

@@ -4,6 +4,7 @@ DECL|function|QXcbIntegration
 DECL|function|accessibility
 DECL|function|clipboard
 DECL|function|createPlatformBackingStore
+DECL|function|createPlatformOffscreenSurface
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow

@@ -5,10 +5,12 @@ DECL|function|ciphers
 DECL|function|defaultConfiguration
 DECL|function|isNull
 DECL|function|localCertificate
+DECL|function|localCertificateChain
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|peerCertificate
 DECL|function|peerCertificateChain
+DECL|function|peerSessionWasShared
 DECL|function|peerVerifyDepth
 DECL|function|peerVerifyMode
 DECL|function|privateKey
@@ -18,6 +20,7 @@ DECL|function|setCaCertificates
 DECL|function|setCiphers
 DECL|function|setDefaultConfiguration
 DECL|function|setLocalCertificate
+DECL|function|setLocalCertificateChain
 DECL|function|setPeerVerifyDepth
 DECL|function|setPeerVerifyMode
 DECL|function|setPrivateKey

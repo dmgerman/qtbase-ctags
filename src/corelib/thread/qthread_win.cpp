@@ -1,3 +1,4 @@
+DECL|function|clearCurrentThreadData
 DECL|function|createEventDispatcher
 DECL|function|current
 DECL|function|finish

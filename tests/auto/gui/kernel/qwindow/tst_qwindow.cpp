@@ -18,6 +18,7 @@ DECL|function|isExposed
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
 DECL|function|mapGlobal
+DECL|function|mask
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseEventSequence
 DECL|function|mouseMoveEvent
@@ -38,6 +39,7 @@ DECL|function|touchCancel
 DECL|function|touchCancelWithTouchToMouse
 DECL|function|touchEvent
 DECL|function|touchToMouseTranslation
+DECL|function|visibility
 DECL|function|windowModality
 DECL|function|windowModality_QTBUG27039
 DECL|member|eventDevice

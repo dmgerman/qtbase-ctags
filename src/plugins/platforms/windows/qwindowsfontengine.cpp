@@ -27,6 +27,7 @@ DECL|function|getSfntTableData
 DECL|function|getUInt
 DECL|function|getUShort
 DECL|function|getUnscaledGlyph
+DECL|function|hasCFFTable
 DECL|function|initFontInfo
 DECL|function|leading
 DECL|function|lineThickness

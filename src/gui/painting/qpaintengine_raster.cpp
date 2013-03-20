@@ -119,6 +119,7 @@ DECL|function|recalculateFastImages
 DECL|function|releaseBuffer
 DECL|function|releaseDC
 DECL|function|renderHintsChanged
+DECL|function|requiresPretransformedGlyphPositions
 DECL|function|resetBuffer
 DECL|function|saveBuffer
 DECL|function|set
@@ -130,11 +131,10 @@ DECL|function|setDC
 DECL|function|setState
 DECL|function|setup
 DECL|function|setupMatrix
+DECL|function|shouldDrawCachedGlyphs
 DECL|function|size
 DECL|function|splitPolygon
 DECL|function|stroke
-DECL|function|supportsTransformations
-DECL|function|supportsTransformations
 DECL|function|systemStateChanged
 DECL|function|toAlignedRect_positive
 DECL|function|toNormalizedFillRect

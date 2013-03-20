@@ -1,11 +1,14 @@
 DECL|function|sendEvent
 DECL|function|sendSpontaneousEvent
-DECL|function|translate
 DECL|macro|QCOREAPPLICATION_H
+DECL|macro|QT_DECLARE_DEPRECATED_TR_FUNCTIONS
+DECL|macro|QT_DECLARE_DEPRECATED_TR_FUNCTIONS
+DECL|macro|Q_COREAPP_STARTUP_FUNCTION
 DECL|macro|Q_DECLARE_TR_FUNCTIONS
 DECL|macro|qApp
 DECL|typedef|MSG
 DECL|typedef|QtCleanUpFunction
+DECL|typedef|QtStartUpFunction
 DECL|variable|QAbstractEventDispatcher
 DECL|variable|QAbstractNativeEventFilter
 DECL|variable|QCoreApplicationPrivate

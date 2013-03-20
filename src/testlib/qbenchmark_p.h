@@ -1,6 +1,8 @@
 DECL|function|QBenchmarkContext
 DECL|function|toString
 DECL|macro|QBENCHMARK_P_H
+DECL|macro|QTESTLIB_USE_PERF_EVENTS
+DECL|macro|QTESTLIB_USE_PERF_EVENTS
 DECL|macro|QTESTLIB_USE_VALGRIND
 DECL|macro|QTESTLIB_USE_VALGRIND
 DECL|member|checkpointIndex

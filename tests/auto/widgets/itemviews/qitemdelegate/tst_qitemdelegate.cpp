@@ -45,7 +45,6 @@ DECL|function|editorKeyPress_data
 DECL|function|enterKey
 DECL|function|enterKey_data
 DECL|function|eventFilter
-DECL|function|eventFilter
 DECL|function|fastEdit
 DECL|function|font
 DECL|function|font_data
@@ -60,6 +59,7 @@ DECL|function|setNextOpenEditor
 DECL|function|sizeHint
 DECL|function|sizeHint_data
 DECL|function|task257859_finalizeEdit
+DECL|function|testEventFilter
 DECL|function|textRectangle
 DECL|function|textRectangle
 DECL|function|textRectangle_data

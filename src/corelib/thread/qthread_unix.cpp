@@ -1,5 +1,6 @@
 DECL|enumerator|ThreadPriorityResetFlag
 DECL|function|calculateUnixPriority
+DECL|function|clearCurrentThreadData
 DECL|function|clear_thread_data
 DECL|function|createEventDispatcher
 DECL|function|create_current_thread_data_key

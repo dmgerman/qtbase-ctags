@@ -1,11 +1,13 @@
 DECL|class|QGLShaderPrivate
 DECL|class|QGLShaderProgramPrivate
+DECL|class|ShaderProgramOpenGLFunctions
 DECL|function|QGLShader
 DECL|function|QGLShader
 DECL|function|QGLShaderPrivate
 DECL|function|QGLShaderProgram
 DECL|function|QGLShaderProgram
 DECL|function|QGLShaderProgramPrivate
+DECL|function|ShaderProgramOpenGLFunctions
 DECL|function|addShader
 DECL|function|addShaderFromSourceCode
 DECL|function|addShaderFromSourceCode
@@ -38,6 +40,7 @@ DECL|function|hasOpenGLShaderPrograms
 DECL|function|hasOpenGLShaders
 DECL|function|hasShader
 DECL|function|init
+DECL|function|initializeGeometryShaderFunctions
 DECL|function|isCompiled
 DECL|function|isLinked
 DECL|function|link
@@ -201,13 +204,15 @@ DECL|macro|ctx
 DECL|macro|ctx
 DECL|macro|ctx
 DECL|macro|setUniformGenericMatrixArray
-DECL|macro|setUniformGenericMatrixArray
 DECL|macro|setUniformMatrixArray
 DECL|member|anonShaders
 DECL|member|compiled
 DECL|member|geometryInputType
 DECL|member|geometryOutputType
 DECL|member|geometryVertexCount
+DECL|member|glProgramParameteri
+DECL|member|glfuncs
+DECL|member|glfuncs
 DECL|member|inited
 DECL|member|linked
 DECL|member|log
@@ -217,5 +222,6 @@ DECL|member|removingShaders
 DECL|member|shaderGuard
 DECL|member|shaderType
 DECL|member|shaders
+DECL|typedef|type_glProgramParameteri
 DECL|variable|qualifierDefines
 DECL|variable|redefineHighp

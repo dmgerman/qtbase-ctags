@@ -1,2 +1,3 @@
 DECL|macro|QTEMPORARYFILE_H
+DECL|variable|QLockFilePrivate
 DECL|variable|QTemporaryFilePrivate

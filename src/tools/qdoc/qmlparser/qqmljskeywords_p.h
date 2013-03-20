@@ -1,12 +1,1 @@
-DECL|function|classify
-DECL|function|classify10
-DECL|function|classify12
-DECL|function|classify2
-DECL|function|classify3
-DECL|function|classify4
-DECL|function|classify5
-DECL|function|classify6
-DECL|function|classify7
-DECL|function|classify8
-DECL|function|classify9
 DECL|macro|QQMLJSKEYWORDS_P_H

@@ -1,10 +1,13 @@
 DECL|class|tst_QPluginLoader
+DECL|function|cleanup
 DECL|function|deleteinstanceOnUnload
 DECL|function|errorString
 DECL|function|loadCorruptElf
 DECL|function|loadDebugObj
 DECL|function|loadGarbage
 DECL|function|loadHints
+DECL|function|preloadedPlugin
+DECL|function|preloadedPlugin_data
 DECL|function|relativePath
 DECL|function|reloadPlugin
 DECL|function|sys_qualifiedLibraryName

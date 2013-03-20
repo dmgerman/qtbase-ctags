@@ -7,5 +7,6 @@ DECL|function|primaryScreen
 DECL|function|screenGeometry
 DECL|function|screenNumberForQPoint
 DECL|function|screenNumberForQWidget
+DECL|function|topLevels
 DECL|function|tst_QDesktopWidget
 DECL|function|~tst_QDesktopWidget

@@ -44,6 +44,7 @@ DECL|function|fromLocal8Bit_data
 DECL|function|fromQLatin1StringWithLength
 DECL|function|fromRawData
 DECL|function|fromStdString
+DECL|function|fromUcs4
 DECL|function|fromUtf16
 DECL|function|fromUtf16_data
 DECL|function|fromUtf8
@@ -161,6 +162,7 @@ DECL|function|toULong
 DECL|function|toULongLong
 DECL|function|toULong_data
 DECL|function|toUShort
+DECL|function|toUcs4
 DECL|function|toUpper
 DECL|function|toUpperLower_icu
 DECL|function|tortureSprintfDouble

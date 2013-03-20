@@ -111,8 +111,6 @@ DECL|function|~QResourceRoot
 DECL|macro|MAP_FAILED
 DECL|macro|MAP_FILE
 DECL|macro|QT_USE_MMAP
-DECL|macro|m_data
-DECL|macro|m_len
 DECL|member|absoluteFilePath
 DECL|member|buffer
 DECL|member|children

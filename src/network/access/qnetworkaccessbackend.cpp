@@ -8,6 +8,7 @@ DECL|function|copyFinished
 DECL|function|createUploadByteDevice
 DECL|function|downstreamReadyWrite
 DECL|function|emitReplyUploadProgress
+DECL|function|encrypted
 DECL|function|error
 DECL|function|fetchCacheMetaData
 DECL|function|fetchSslConfiguration

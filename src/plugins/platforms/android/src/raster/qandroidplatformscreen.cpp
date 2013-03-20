@@ -1,0 +1,3 @@
+DECL|function|QAndroidPlatformScreen
+DECL|function|doRedraw
+DECL|function|topWindowChanged

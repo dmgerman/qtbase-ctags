@@ -13,5 +13,6 @@ DECL|function|operator =
 DECL|function|printerInfo
 DECL|function|printerName
 DECL|function|supportedPaperSizes
+DECL|function|supportedSizesWithNames
 DECL|function|~QPrinterInfo
 DECL|member|shared_null

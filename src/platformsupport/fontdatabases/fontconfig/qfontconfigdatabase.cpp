@@ -1,6 +1,5 @@
 DECL|enumerator|LanguageCount
 DECL|enumerator|SampleCharCount
-DECL|enumerator|SpecialCharCount
 DECL|enumerator|SpecialLanguageCount
 DECL|function|addApplicationFont
 DECL|function|defaultFont
@@ -21,5 +20,4 @@ DECL|macro|TraditionalChineseCsbBit
 DECL|variable|languageForWritingSystem
 DECL|variable|openType
 DECL|variable|sampleCharForWritingSystem
-DECL|variable|specialChars
 DECL|variable|specialLanguages

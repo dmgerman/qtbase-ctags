@@ -96,6 +96,7 @@ DECL|function|doRead
 DECL|function|dontInsertPartialContentIntoTheCache
 DECL|function|downloadProgress
 DECL|function|downloadProgress_data
+DECL|function|encrypted
 DECL|function|encryptedSlot
 DECL|function|finished
 DECL|function|finishedSlot
@@ -308,6 +309,9 @@ DECL|function|slotSslErrors
 DECL|function|sslConfiguration
 DECL|function|sslConfiguration_data
 DECL|function|sslErrors
+DECL|function|sslSessionSharing
+DECL|function|sslSessionSharingHelperSlot
+DECL|function|sslSessionSharing_data
 DECL|function|startOne
 DECL|function|stateChecking
 DECL|function|storeSslConfiguration

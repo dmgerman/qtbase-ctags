@@ -21,6 +21,7 @@ DECL|function|format
 DECL|function|frameGeometry
 DECL|function|frameMargins
 DECL|function|framePosition
+DECL|function|fromWinId
 DECL|function|geometry
 DECL|function|handle
 DECL|function|hide
@@ -37,6 +38,7 @@ DECL|function|keyReleaseEvent
 DECL|function|lower
 DECL|function|mapFromGlobal
 DECL|function|mapToGlobal
+DECL|function|mask
 DECL|function|maximumSize
 DECL|function|maybeQuitOnLastWindowClosed
 DECL|function|minimumSize
@@ -47,6 +49,7 @@ DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|moveEvent
 DECL|function|nativeEvent
+DECL|function|opacity
 DECL|function|parent
 DECL|function|qt_window_private
 DECL|function|raise
@@ -60,6 +63,7 @@ DECL|function|screen
 DECL|function|screenDestroyed
 DECL|function|setBaseSize
 DECL|function|setCursor
+DECL|function|setCursor
 DECL|function|setFilePath
 DECL|function|setFlags
 DECL|function|setFormat
@@ -69,6 +73,7 @@ DECL|function|setGeometry
 DECL|function|setHeight
 DECL|function|setIcon
 DECL|function|setKeyboardGrabEnabled
+DECL|function|setMask
 DECL|function|setMaximumHeight
 DECL|function|setMaximumSize
 DECL|function|setMaximumWidth
@@ -86,6 +91,7 @@ DECL|function|setSizeIncrement
 DECL|function|setSurfaceType
 DECL|function|setTitle
 DECL|function|setTransientParent
+DECL|function|setVisibility
 DECL|function|setVisible
 DECL|function|setWidth
 DECL|function|setWindowState
@@ -106,6 +112,8 @@ DECL|function|touchEvent
 DECL|function|transientParent
 DECL|function|type
 DECL|function|unsetCursor
+DECL|function|updateVisibility
+DECL|function|visibility
 DECL|function|wheelEvent
 DECL|function|winId
 DECL|function|windowState

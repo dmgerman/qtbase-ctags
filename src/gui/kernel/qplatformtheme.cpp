@@ -1,3 +1,4 @@
+DECL|function|createIconEngine
 DECL|function|createPlatformDialogHelper
 DECL|function|createPlatformMenu
 DECL|function|createPlatformMenuBar

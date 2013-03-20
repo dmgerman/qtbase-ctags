@@ -1,5 +1,7 @@
 DECL|class|QWaitConditionPrivate
 DECL|function|QWaitCondition
+DECL|function|qt_abstime_for_timeout
+DECL|function|qt_initialize_pthread_cond
 DECL|function|report_error
 DECL|function|wait
 DECL|function|wait

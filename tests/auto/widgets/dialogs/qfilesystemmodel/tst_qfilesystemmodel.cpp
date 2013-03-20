@@ -37,6 +37,7 @@ DECL|function|rowsRemoved_data
 DECL|function|setData
 DECL|function|setData_data
 DECL|function|sort
+DECL|function|sortPersistentIndex
 DECL|function|sort_data
 DECL|function|tst_QFileSystemModel
 DECL|macro|ROWNAME

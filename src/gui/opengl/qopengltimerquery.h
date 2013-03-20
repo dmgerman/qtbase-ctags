@@ -1,0 +1,3 @@
+DECL|macro|QOPENGLTIMERQUERY_H
+DECL|variable|QOpenGLTimeMonitorPrivate
+DECL|variable|QOpenGLTimerQueryPrivate

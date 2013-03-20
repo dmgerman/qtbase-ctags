@@ -1,6 +1,7 @@
 DECL|function|accessibility
 DECL|function|clipboard
 DECL|function|createImagePaintEngine
+DECL|function|createPlatformOffscreenSurface
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformPixmap
 DECL|function|createPlatformSharedGraphicsCache

@@ -14,6 +14,7 @@ DECL|function|close
 DECL|function|commitTransaction
 DECL|function|createResult
 DECL|function|data
+DECL|function|deallocatePreparedStmt
 DECL|function|detectBackslashEscape
 DECL|function|escapeIdentifier
 DECL|function|exec
@@ -45,7 +46,6 @@ DECL|function|primaryIndex
 DECL|function|processResults
 DECL|function|protocol
 DECL|function|qCreateParamString
-DECL|function|qDeallocatePreparedStmt
 DECL|function|qDecodePSQLType
 DECL|function|qMakeError
 DECL|function|qMakePSQLVersion
@@ -90,12 +90,12 @@ DECL|macro|isinf
 DECL|macro|isnan
 DECL|member|connection
 DECL|member|currentSize
-DECL|member|driver
 DECL|member|hasBackslashEscape
 DECL|member|isUtf8
 DECL|member|pendingNotifyCheck
 DECL|member|preparedQueriesEnabled
 DECL|member|preparedStmtId
+DECL|member|privDriver
 DECL|member|pro
 DECL|member|q
 DECL|member|q

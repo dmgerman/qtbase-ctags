@@ -1,6 +1,8 @@
 DECL|class|DBusServerThread
+DECL|class|SignalReceiver
 DECL|class|tst_QDBusAbstractInterface
 DECL|function|DBusServerThread
+DECL|function|SignalReceiver
 DECL|function|asyncCallErrors
 DECL|function|asyncCallErrorsPeer
 DECL|function|asyncCallErrorsPeer_data
@@ -19,6 +21,10 @@ DECL|function|complexPropRead
 DECL|function|complexPropReadPeer
 DECL|function|complexPropWrite
 DECL|function|complexPropWritePeer
+DECL|function|connectDisconnect
+DECL|function|connectDisconnectPeer
+DECL|function|connectDisconnectPeer_data
+DECL|function|connectDisconnect_data
 DECL|function|createErrors
 DECL|function|createErrorsPeer
 DECL|function|createErrorsPeer_data
@@ -72,6 +78,7 @@ DECL|function|propertyWriteErrors
 DECL|function|propertyWriteErrorsPeer
 DECL|function|propertyWriteErrorsPeer_data
 DECL|function|propertyWriteErrors_data
+DECL|function|receive
 DECL|function|resetServer
 DECL|function|run
 DECL|function|stringPropDirectRead
@@ -92,6 +99,7 @@ DECL|function|variantPropReadPeer
 DECL|function|variantPropWrite
 DECL|function|variantPropWritePeer
 DECL|function|~DBusServerThread
+DECL|member|callCount
 DECL|member|m_ready
 DECL|member|proc
 DECL|member|targetObj

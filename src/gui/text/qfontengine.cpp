@@ -5,6 +5,8 @@ DECL|enumerator|EdgeUp
 DECL|function|QFontEngine
 DECL|function|QFontEngineBox
 DECL|function|QFontEngineMulti
+DECL|function|QFontEngine_startCollectingEngines
+DECL|function|QFontEngine_stopCollectingEngines
 DECL|function|addBitmapFontToPath
 DECL|function|addGlyphsToPath
 DECL|function|addOutlineToPath
@@ -25,6 +27,7 @@ DECL|function|ascent
 DECL|function|ascent
 DECL|function|averageCharWidth
 DECL|function|averageCharWidth
+DECL|function|bitmapForGlyph
 DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|boundingBox
@@ -53,6 +56,7 @@ DECL|function|glyphCount
 DECL|function|harfbuzzFace
 DECL|function|harfbuzzFont
 DECL|function|hb_canRender
+DECL|function|hb_freeFace
 DECL|function|hb_getAdvances
 DECL|function|hb_getFontMetric
 DECL|function|hb_getGlyphMetrics
@@ -60,7 +64,6 @@ DECL|function|hb_getPointInOutline
 DECL|function|hb_getSFntTable
 DECL|function|hb_stringToGlyphs
 DECL|function|highByte
-DECL|function|initializedHarfbuzzFace
 DECL|function|kerning
 DECL|function|lastRightBearing
 DECL|function|leading
@@ -86,7 +89,8 @@ DECL|function|stringToCMap
 DECL|function|stringToCMap
 DECL|function|stripped
 DECL|function|subPixelPositionForX
-DECL|function|supportsTransformations
+DECL|function|supportsScript
+DECL|function|supportsTransformation
 DECL|function|tightBoundingBox
 DECL|function|type
 DECL|function|underlinePosition
@@ -101,4 +105,5 @@ DECL|macro|GRID
 DECL|macro|GRID
 DECL|macro|SET
 DECL|macro|SET
+DECL|variable|enginesCollector
 DECL|variable|hb_fontClass

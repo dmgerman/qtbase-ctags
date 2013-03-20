@@ -1,0 +1,1 @@
+DECL|macro|QGTK2THEME_H

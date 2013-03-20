@@ -27,6 +27,8 @@ DECL|function|fromString
 DECL|function|isDetached
 DECL|function|isEmpty
 DECL|function|keyBindings
+DECL|function|listFromString
+DECL|function|listToString
 DECL|function|matches
 DECL|function|maybeSwapShortcut
 DECL|function|mnemonic

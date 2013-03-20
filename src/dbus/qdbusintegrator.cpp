@@ -24,6 +24,7 @@ DECL|function|findMetaObject
 DECL|function|findObject
 DECL|function|findSlot
 DECL|function|findSlot
+DECL|function|garbageCollectChildren
 DECL|function|getNameOwner
 DECL|function|getNameOwnerNoCache
 DECL|function|handleError
@@ -33,6 +34,7 @@ DECL|function|handleSignal
 DECL|function|handleSignal
 DECL|function|huntAndDestroy
 DECL|function|huntAndEmit
+DECL|function|huntAndUnregister
 DECL|function|isServiceRegisteredByThread
 DECL|function|objectDestroyed
 DECL|function|operator <<
@@ -75,6 +77,7 @@ DECL|function|shouldWatchService
 DECL|function|socketRead
 DECL|function|socketWrite
 DECL|function|timerEvent
+DECL|function|unregisterObject
 DECL|function|unregisterService
 DECL|function|unregisterServiceNoLock
 DECL|function|waitForFinished

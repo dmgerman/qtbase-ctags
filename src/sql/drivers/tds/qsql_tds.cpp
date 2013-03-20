@@ -1,4 +1,5 @@
 DECL|class|QTDSDriverPrivate
+DECL|class|QTDSResult
 DECL|class|QTDSResultPrivate
 DECL|function|QTDSDriver
 DECL|function|QTDSDriver
@@ -66,6 +67,8 @@ DECL|macro|Q_USE_SYBASE
 DECL|macro|TDS_CURSOR_SIZE
 DECL|macro|_WINSCARD_H_
 DECL|member|buffer
+DECL|member|d
+DECL|member|data
 DECL|member|db
 DECL|member|dbproc
 DECL|member|errorMsgs
@@ -74,5 +77,7 @@ DECL|member|initialized
 DECL|member|lastError
 DECL|member|login
 DECL|member|login
+DECL|member|nullbind
 DECL|member|rec
+DECL|struct|QTDSColumnData
 DECL|typedef|QTDSErrorHash

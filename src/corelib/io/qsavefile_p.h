@@ -1,0 +1,1 @@
+DECL|macro|QSAVEFILE_P_H

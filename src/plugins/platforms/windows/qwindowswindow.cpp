@@ -11,6 +11,7 @@ DECL|function|WindowCreationData
 DECL|function|addRectToWinRegion
 DECL|function|alertWindow
 DECL|function|applyCursor
+DECL|function|applyNewCursor
 DECL|function|applyToMinMaxInfo
 DECL|function|applyToMinMaxInfo
 DECL|function|applyWindowFlags
@@ -26,6 +27,7 @@ DECL|function|debugWinExStyle
 DECL|function|debugWinStyle
 DECL|function|debugWindowFlags
 DECL|function|debugWindowStates
+DECL|function|defaultCursor
 DECL|function|destroyWindow
 DECL|function|ensureEglSurfaceHandle
 DECL|function|frame
@@ -36,6 +38,7 @@ DECL|function|fromWindow
 DECL|function|geometry_sys
 DECL|function|getDC
 DECL|function|getSizeHints
+DECL|function|handleCalculateSize
 DECL|function|handleGeometryChange
 DECL|function|handleHidden
 DECL|function|handleMoved
@@ -67,6 +70,7 @@ DECL|function|registerDropSite
 DECL|function|releaseDC
 DECL|function|requestActivateWindow
 DECL|function|setCursor
+DECL|function|setCustomMargins
 DECL|function|setEnabled
 DECL|function|setExStyle
 DECL|function|setFrameStrutEventsEnabled

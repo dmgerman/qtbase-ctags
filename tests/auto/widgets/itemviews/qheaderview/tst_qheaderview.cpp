@@ -32,7 +32,6 @@ DECL|function|defaultSizeTest_data
 DECL|function|emptyModel
 DECL|function|emptySectionSpan
 DECL|function|ensureNoIndexAtLength
-DECL|function|event
 DECL|function|focusPolicy
 DECL|function|getSetCheck
 DECL|function|globalResizeMode
@@ -128,6 +127,7 @@ DECL|function|swapSectionsTest_data
 DECL|function|task236450_hidden
 DECL|function|task236450_hidden_data
 DECL|function|task248050_hideRow
+DECL|function|testEvent
 DECL|function|testEvent
 DECL|function|testStreamWithHide
 DECL|function|testhorizontalOffset

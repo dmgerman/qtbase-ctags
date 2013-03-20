@@ -34,6 +34,7 @@ DECL|function|columnDelegate
 DECL|function|createEditor
 DECL|function|ctrlA
 DECL|function|ctrlRubberbandSelection
+DECL|function|deselectInSingleSelection
 DECL|function|destroyEditor
 DECL|function|dragSelect
 DECL|function|emitDataChanged
@@ -65,6 +66,7 @@ DECL|function|task257481_emptyEditor
 DECL|function|testChangeEditorState
 DECL|function|testClickedSignal
 DECL|function|testDelegateDestroyEditor
+DECL|function|testNoActivateOnDisabledItem
 DECL|function|tst_QAbstractItemView
 DECL|function|tst_closeEditor
 DECL|function|tst_commitData

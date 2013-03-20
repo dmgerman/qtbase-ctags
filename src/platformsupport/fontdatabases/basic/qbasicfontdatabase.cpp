@@ -2,7 +2,6 @@ DECL|class|QFontEngineFTRawData
 DECL|function|QFontEngineFTRawData
 DECL|function|addApplicationFont
 DECL|function|addTTFile
-DECL|function|determineWritingSystemsFromTrueTypeBits
 DECL|function|fallbacksForFamily
 DECL|function|fontEngine
 DECL|function|fontEngine
@@ -12,11 +11,7 @@ DECL|function|populateFontDatabase
 DECL|function|releaseHandle
 DECL|function|scriptRequiresOpenType
 DECL|function|updateFamilyNameAndStyle
-DECL|macro|JapaneseCsbBit
-DECL|macro|KoreanCsbBit
 DECL|macro|QT_NO_FREETYPE
-DECL|macro|SimplifiedChineseCsbBit
-DECL|macro|TraditionalChineseCsbBit
 DECL|member|checkSum
 DECL|member|encodingID
 DECL|member|entrySelector
@@ -40,4 +35,3 @@ DECL|typedef|NAME_RECORD
 DECL|typedef|NAME_TABLE_HEADER
 DECL|typedef|OFFSET_TABLE
 DECL|typedef|TABLE_DIRECTORY
-DECL|variable|requiredUnicodeBits

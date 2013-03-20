@@ -25,8 +25,10 @@ DECL|function|resizeTopLevelWindow
 DECL|function|resizeWindows
 DECL|function|rootWindow
 DECL|function|setRotation
+DECL|function|topMostChildWindow
 DECL|function|updateHierarchy
 DECL|function|windowClosed
+DECL|function|windowGroupStateChanged
 DECL|function|~QQnxScreen
 DECL|macro|QQNX_PHYSICAL_SCREEN_SIZE_DEFINED
 DECL|macro|qScreenDebug

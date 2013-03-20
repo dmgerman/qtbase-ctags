@@ -6,6 +6,7 @@ DECL|function|contains
 DECL|function|containsSet
 DECL|function|detach
 DECL|function|end
+DECL|function|initializerList
 DECL|function|insert
 DECL|function|isDetached
 DECL|function|javaIterator

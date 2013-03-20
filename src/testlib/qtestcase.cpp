@@ -4,6 +4,7 @@ DECL|function|FatalSignalHandler
 DECL|function|QTestDataSetter
 DECL|function|TestFunction
 DECL|function|addColumnInternal
+DECL|function|addResult
 DECL|function|cleanup
 DECL|function|compare_helper
 DECL|function|compare_string_helper

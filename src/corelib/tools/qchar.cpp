@@ -40,6 +40,7 @@ DECL|function|operator <
 DECL|function|operator <
 DECL|function|operator <<
 DECL|function|operator >>
+DECL|function|script
 DECL|function|toCaseFolded
 DECL|function|toCaseFolded_helper
 DECL|function|toLower

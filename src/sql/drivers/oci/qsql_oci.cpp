@@ -1,5 +1,6 @@
 DECL|class|OraFieldInf
 DECL|class|QOCICols
+DECL|class|QOCIResult
 DECL|class|QOCIRowId
 DECL|enumerator|QOCIEncoding
 DECL|function|OraFieldInf
@@ -90,6 +91,7 @@ DECL|member|bindh
 DECL|member|col
 DECL|member|cols
 DECL|member|curelep
+DECL|member|d
 DECL|member|d
 DECL|member|data
 DECL|member|data

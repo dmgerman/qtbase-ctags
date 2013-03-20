@@ -40,6 +40,7 @@ DECL|function|read
 DECL|function|readLine
 DECL|function|remove
 DECL|function|rename
+DECL|function|renameOverwrite
 DECL|function|rmdir
 DECL|function|seek
 DECL|function|setError
@@ -49,6 +50,7 @@ DECL|function|setPermissions
 DECL|function|setSize
 DECL|function|size
 DECL|function|supportsExtension
+DECL|function|syncToDisk
 DECL|function|unmap
 DECL|function|write
 DECL|function|~QAbstractFileEngine

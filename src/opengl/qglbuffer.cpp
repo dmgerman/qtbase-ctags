@@ -29,6 +29,7 @@ DECL|macro|ctx
 DECL|macro|ctx
 DECL|macro|ctx
 DECL|member|actualUsagePattern
+DECL|member|funcs
 DECL|member|guard
 DECL|member|ref
 DECL|member|type

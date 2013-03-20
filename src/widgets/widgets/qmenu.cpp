@@ -24,6 +24,8 @@ DECL|function|addAction
 DECL|function|addMenu
 DECL|function|addMenu
 DECL|function|addMenu
+DECL|function|addSection
+DECL|function|addSection
 DECL|function|addSeparator
 DECL|function|adjustMenuSizeForScreen
 DECL|function|calcCausedStack
@@ -49,6 +51,8 @@ DECL|function|icon
 DECL|function|init
 DECL|function|initStyleOption
 DECL|function|insertMenu
+DECL|function|insertSection
+DECL|function|insertSection
 DECL|function|insertSeparator
 DECL|function|internalDelayedPopup
 DECL|function|internalSetSloppyAction
@@ -86,10 +90,12 @@ DECL|function|setSeparatorsCollapsible
 DECL|function|setSyncAction
 DECL|function|setTearOffEnabled
 DECL|function|setTitle
+DECL|function|setToolTipsVisible
 DECL|function|sizeHint
 DECL|function|syncWithMenu
 DECL|function|timerEvent
 DECL|function|title
+DECL|function|toolTipsVisible
 DECL|function|topCausedWidget
 DECL|function|updateActionRects
 DECL|function|updateActionRects

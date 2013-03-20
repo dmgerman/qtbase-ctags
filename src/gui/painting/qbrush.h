@@ -6,8 +6,6 @@ DECL|function|setSpread
 DECL|function|style
 DECL|function|transform
 DECL|macro|QBRUSH_H
-DECL|macro|m_data
-DECL|macro|m_type
 DECL|member|color
 DECL|member|ref
 DECL|member|style

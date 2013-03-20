@@ -1,0 +1,1 @@
+DECL|macro|QLOCKFILE_P_H

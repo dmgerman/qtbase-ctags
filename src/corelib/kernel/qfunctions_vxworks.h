@@ -2,6 +2,17 @@ DECL|function|isascii
 DECL|macro|NSIG
 DECL|macro|QFUNCTIONS_VXWORKS_H
 DECL|macro|RTLD_LOCAL
+DECL|macro|m_act
+DECL|macro|m_data
+DECL|macro|m_ext
+DECL|macro|m_flags
+DECL|macro|m_hdr
+DECL|macro|m_len
+DECL|macro|m_next
+DECL|macro|m_nextpkt
+DECL|macro|m_pkthdr
+DECL|macro|m_type
+DECL|macro|mbuf
 DECL|member|gr_gid
 DECL|member|gr_mem
 DECL|member|gr_name

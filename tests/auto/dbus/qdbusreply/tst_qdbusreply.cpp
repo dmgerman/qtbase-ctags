@@ -3,6 +3,7 @@ DECL|class|tst_QDBusReply
 DECL|function|MyStruct
 DECL|function|TypesInterface
 DECL|function|complexTypes
+DECL|function|error
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|operator <<

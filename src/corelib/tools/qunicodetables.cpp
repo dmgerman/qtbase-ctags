@@ -6,7 +6,6 @@ DECL|function|properties
 DECL|function|properties
 DECL|function|qGetProp
 DECL|function|qGetProp
-DECL|function|script
 DECL|function|sentenceBreakClass
 DECL|function|wordBreakClass
 DECL|macro|GET_DECOMPOSITION_INDEX

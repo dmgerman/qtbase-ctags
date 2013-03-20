@@ -1,9 +1,14 @@
+DECL|function|JOptionUsage
+DECL|function|JOptionUsage_data
 DECL|function|Match
 DECL|function|captureCount
 DECL|function|captureCount_data
+DECL|function|captureNames
+DECL|function|captureNames_data
 DECL|function|clear
 DECL|function|consistencyCheck
 DECL|function|consistencyCheck
+DECL|function|defaultConstructors
 DECL|function|escape
 DECL|function|escape_data
 DECL|function|gettersSetters
@@ -42,3 +47,4 @@ DECL|member|hasPartialMatch
 DECL|member|isValid
 DECL|member|namedCaptured
 DECL|struct|Match
+DECL|typedef|StringToIntMap
