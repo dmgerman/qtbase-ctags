@@ -8,6 +8,7 @@ DECL|function|fontEngine
 DECL|function|fontEngineMulti
 DECL|function|getFCWeight
 DECL|function|getFcFamilyForStyleHint
+DECL|function|isSymbolFont
 DECL|function|populateFontDatabase
 DECL|function|queryFont
 DECL|function|requiresOpenType
