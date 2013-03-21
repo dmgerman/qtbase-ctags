@@ -103,7 +103,6 @@ DECL|member|m_id
 DECL|member|m_index
 DECL|member|m_intersections
 DECL|member|m_nodes
-DECL|member|m_point
 DECL|member|m_result
 DECL|member|m_rootNode
 DECL|member|m_segments
