@@ -61,6 +61,7 @@ DECL|enumerator|RM63
 DECL|enumerator|RM64
 DECL|enumerator|RM65
 DECL|enumerator|RM66
+DECL|enumerator|RM67
 DECL|enumerator|RM7
 DECL|enumerator|RM8
 DECL|enumerator|RM9
@@ -68,6 +69,7 @@ DECL|function|match
 DECL|function|match_ref
 DECL|function|pchars
 DECL|function|pcre_exec
+DECL|function|release_match_heapframes
 DECL|macro|BYTE_MAP
 DECL|macro|BYTE_MAP
 DECL|macro|CHECK_PARTIAL
@@ -196,6 +198,7 @@ DECL|member|Xmstart
 DECL|member|Xnew_recursive
 DECL|member|Xnewptrb
 DECL|member|Xnext
+DECL|member|Xnextframe
 DECL|member|Xnumber
 DECL|member|Xocchars
 DECL|member|Xoclength

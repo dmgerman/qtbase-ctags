@@ -1,3 +1,6 @@
+DECL|function|add_list_to_class
+DECL|function|add_not_list_to_class
+DECL|function|add_to_class
 DECL|function|adjust_recurse
 DECL|function|auto_callout
 DECL|function|check_auto_possessive
@@ -38,6 +41,8 @@ DECL|macro|POSIX_SUBSIZE
 DECL|macro|PSEND
 DECL|macro|PSSTART
 DECL|macro|REQ_CASELESS
+DECL|macro|REQ_NONE
+DECL|macro|REQ_UNSET
 DECL|macro|REQ_VARY
 DECL|macro|SETBIT
 DECL|macro|STRING

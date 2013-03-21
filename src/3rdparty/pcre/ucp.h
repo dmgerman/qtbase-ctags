@@ -15,6 +15,7 @@ DECL|enumerator|ucp_Canadian_Aboriginal
 DECL|enumerator|ucp_Carian
 DECL|enumerator|ucp_Cc
 DECL|enumerator|ucp_Cf
+DECL|enumerator|ucp_Chakma
 DECL|enumerator|ucp_Cham
 DECL|enumerator|ucp_Cherokee
 DECL|enumerator|ucp_Cn
@@ -71,6 +72,9 @@ DECL|enumerator|ucp_Mandaic
 DECL|enumerator|ucp_Mc
 DECL|enumerator|ucp_Me
 DECL|enumerator|ucp_Meetei_Mayek
+DECL|enumerator|ucp_Meroitic_Cursive
+DECL|enumerator|ucp_Meroitic_Hieroglyphs
+DECL|enumerator|ucp_Miao
 DECL|enumerator|ucp_Mn
 DECL|enumerator|ucp_Mongolian
 DECL|enumerator|ucp_Myanmar
@@ -104,11 +108,13 @@ DECL|enumerator|ucp_S
 DECL|enumerator|ucp_Samaritan
 DECL|enumerator|ucp_Saurashtra
 DECL|enumerator|ucp_Sc
+DECL|enumerator|ucp_Sharada
 DECL|enumerator|ucp_Shavian
 DECL|enumerator|ucp_Sinhala
 DECL|enumerator|ucp_Sk
 DECL|enumerator|ucp_Sm
 DECL|enumerator|ucp_So
+DECL|enumerator|ucp_Sora_Sompeng
 DECL|enumerator|ucp_Sundanese
 DECL|enumerator|ucp_Syloti_Nagri
 DECL|enumerator|ucp_Syriac
@@ -117,6 +123,7 @@ DECL|enumerator|ucp_Tagbanwa
 DECL|enumerator|ucp_Tai_Le
 DECL|enumerator|ucp_Tai_Tham
 DECL|enumerator|ucp_Tai_Viet
+DECL|enumerator|ucp_Takri
 DECL|enumerator|ucp_Tamil
 DECL|enumerator|ucp_Telugu
 DECL|enumerator|ucp_Thaana
@@ -130,4 +137,17 @@ DECL|enumerator|ucp_Z
 DECL|enumerator|ucp_Zl
 DECL|enumerator|ucp_Zp
 DECL|enumerator|ucp_Zs
+DECL|enumerator|ucp_gbCR
+DECL|enumerator|ucp_gbControl
+DECL|enumerator|ucp_gbExtend
+DECL|enumerator|ucp_gbL
+DECL|enumerator|ucp_gbLF
+DECL|enumerator|ucp_gbLV
+DECL|enumerator|ucp_gbLVT
+DECL|enumerator|ucp_gbOther
+DECL|enumerator|ucp_gbPrepend
+DECL|enumerator|ucp_gbRegionalIndicator
+DECL|enumerator|ucp_gbSpacingMark
+DECL|enumerator|ucp_gbT
+DECL|enumerator|ucp_gbV
 DECL|macro|_UCP_H
