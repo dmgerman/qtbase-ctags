@@ -26,7 +26,6 @@ DECL|function|registerNatives
 DECL|function|resumeQtApp
 DECL|function|setAndroidPlatformIntegration
 DECL|function|setDisplayMetrics
-DECL|function|setFullScreen
 DECL|function|setSurface
 DECL|function|startMainMethod
 DECL|function|startQtAndroidPlugin
@@ -75,7 +74,6 @@ DECL|variable|m_qtTag
 DECL|variable|m_quitAppSemaphore
 DECL|variable|m_redrawSurfaceMethodID
 DECL|variable|m_resourcesObj
-DECL|variable|m_setFullScreenMethodID
 DECL|variable|m_surface
 DECL|variable|m_surfaceFieldID
 DECL|variable|m_waitForWindow
