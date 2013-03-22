@@ -44,6 +44,7 @@ DECL|function|setSelection
 DECL|function|setSelection
 DECL|function|showInputPanel
 DECL|function|update
+DECL|function|updateCursorPosition
 DECL|function|~QAndroidInputContext
 DECL|variable|QtExtractedTextClassName
 DECL|variable|QtNativeInputConnectionClassName
