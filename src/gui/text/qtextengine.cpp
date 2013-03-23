@@ -60,7 +60,6 @@ DECL|function|generateScriptItemsSmallCaps
 DECL|function|getClusterLength
 DECL|function|getSelectionBounds
 DECL|function|grow
-DECL|function|hasCaseChange
 DECL|function|indexAdditionalFormats
 DECL|function|init
 DECL|function|initWithScriptItem
