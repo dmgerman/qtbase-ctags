@@ -1,12 +1,3 @@
-DECL|enumerator|HB_Arabic_Alef
-DECL|enumerator|HB_Arabic_BaRa
-DECL|enumerator|HB_Arabic_HaaDal
-DECL|enumerator|HB_Arabic_Kashida
-DECL|enumerator|HB_Arabic_Normal
-DECL|enumerator|HB_Arabic_Seen
-DECL|enumerator|HB_Arabic_Space
-DECL|enumerator|HB_Arabic_Waw
-DECL|enumerator|HB_Character
 DECL|enumerator|HB_Err_Invalid_Argument
 DECL|enumerator|HB_Err_Invalid_SubTable
 DECL|enumerator|HB_Err_Invalid_SubTable_Format
@@ -16,7 +7,6 @@ DECL|enumerator|HB_Err_Out_Of_Memory
 DECL|enumerator|HB_Err_Read_Error
 DECL|enumerator|HB_FontAscent
 DECL|enumerator|HB_LeftToRight
-DECL|enumerator|HB_NoJustification
 DECL|enumerator|HB_RightToLeft
 DECL|enumerator|HB_ScriptCount
 DECL|enumerator|HB_Script_Arabic
@@ -51,7 +41,6 @@ DECL|enumerator|HB_Script_Tibetan
 DECL|enumerator|HB_ShaperFlag_Default
 DECL|enumerator|HB_ShaperFlag_NoKerning
 DECL|enumerator|HB_ShaperFlag_UseDesignMetrics
-DECL|enumerator|HB_Space
 DECL|function|hbscript_to_script
 DECL|function|script_to_hbscript
 DECL|macro|QHARFBUZZ_P_H
@@ -141,7 +130,6 @@ DECL|typedef|HB_Glyph
 DECL|typedef|HB_GlyphAttributes
 DECL|typedef|HB_GlyphMetrics
 DECL|typedef|HB_Int
-DECL|typedef|HB_JustificationClass
 DECL|typedef|HB_Script
 DECL|typedef|HB_ScriptItem
 DECL|typedef|HB_ShaperFlag
