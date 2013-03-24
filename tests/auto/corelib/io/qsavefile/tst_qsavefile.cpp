@@ -6,4 +6,5 @@ DECL|function|transactionalWrite
 DECL|function|transactionalWriteCanceled
 DECL|function|transactionalWriteErrorRenaming
 DECL|function|transactionalWriteNoPermissionsOnDir
+DECL|function|transactionalWriteNoPermissionsOnDir_data
 DECL|function|transactionalWriteNoPermissionsOnFile
