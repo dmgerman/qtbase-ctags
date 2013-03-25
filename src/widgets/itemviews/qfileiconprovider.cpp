@@ -5,6 +5,7 @@ DECL|function|getIcon
 DECL|function|getIcon
 DECL|function|icon
 DECL|function|icon
+DECL|function|isCacheable
 DECL|function|type
 DECL|function|~QFileIconProvider
 DECL|member|cdrom
