@@ -50,6 +50,7 @@ DECL|function|contentPos
 DECL|function|contentPos
 DECL|function|contentPosRange
 DECL|function|flags
+DECL|function|formatTouchEvent
 DECL|function|id
 DECL|function|isOverride
 DECL|function|lastNormalizedPos
