@@ -2,7 +2,6 @@ DECL|function|DBusConnection
 DECL|function|connectA11yBus
 DECL|function|connection
 DECL|function|dbusError
-DECL|function|enabledStateCallback
 DECL|function|serviceRegistered
 DECL|function|serviceUnregistered
 DECL|variable|A11Y_PATH
