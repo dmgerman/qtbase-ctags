@@ -10,6 +10,8 @@ DECL|macro|Q_XCB_CALL2
 DECL|macro|Q_XCB_NOOP
 DECL|macro|Q_XCB_NOOP
 DECL|macro|XCB_USE_XINPUT22
+DECL|macro|explicit
+DECL|macro|explicit
 DECL|typedef|QXcbEventArray
 DECL|typedef|WindowMapper
 DECL|typedef|xcb_generic_event_t

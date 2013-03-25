@@ -22,6 +22,7 @@ DECL|function|hasEgl
 DECL|function|initializeAllAtoms
 DECL|function|initializeGLX
 DECL|function|initializeXFixes
+DECL|function|initializeXKB
 DECL|function|initializeXRandr
 DECL|function|initializeXRender
 DECL|function|initializeXShape
@@ -33,6 +34,7 @@ DECL|function|platformWindowFromId
 DECL|function|printXcbEvent
 DECL|function|processXcbEvents
 DECL|function|removeWindowEventListener
+DECL|function|rootWindow
 DECL|function|run
 DECL|function|sendConnectionEvent
 DECL|function|setFocusWindow
@@ -51,9 +53,18 @@ DECL|function|~QXcbConnection
 DECL|macro|HANDLE_KEYBOARD_EVENT
 DECL|macro|HANDLE_PLATFORM_WINDOW_EVENT
 DECL|macro|PRINT_XCB_EVENT
+DECL|member|any
 DECL|member|atom
+DECL|member|deviceID
+DECL|member|map_notify
+DECL|member|response_type
+DECL|member|sequence
+DECL|member|state_notify
+DECL|member|time
 DECL|member|type
 DECL|member|window
+DECL|member|xkbType
+DECL|typedef|_xkb_event
 DECL|variable|xcb_atomnames
 DECL|variable|xcb_errors
 DECL|variable|xcb_protocol_request_codes
