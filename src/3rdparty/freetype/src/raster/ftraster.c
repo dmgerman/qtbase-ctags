@@ -1,11 +1,7 @@
 DECL|enumerator|Ascending_State
 DECL|enumerator|Descending_State
 DECL|enumerator|Flat_State
-DECL|enumerator|Flow_Down
-DECL|enumerator|Flow_None
-DECL|enumerator|Flow_Up
 DECL|enumerator|Unknown_State
-DECL|enum|TFlow_
 DECL|enum|TStates_
 DECL|function|Bezier_Down
 DECL|function|Bezier_Up
@@ -61,18 +57,24 @@ DECL|macro|FMulDiv
 DECL|macro|FRAC
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
+DECL|macro|FT_CONFIG_STANDARD_LIBRARY_H
+DECL|macro|FT_DEFINE_RASTER_FUNCS
 DECL|macro|FT_ERROR
 DECL|macro|FT_MEM_SET
 DECL|macro|FT_MEM_ZERO
-DECL|macro|FT_RASTER_OPTION_ANTI_ALIASING
 DECL|macro|FT_TRACE
 DECL|macro|FT_TRACE1
 DECL|macro|FT_TRACE6
 DECL|macro|FT_UNUSED
 DECL|macro|FT_UNUSED_RASTER
 DECL|macro|FT_UNUSED_RASTER
+DECL|macro|Flow_Up
+DECL|macro|IS_BOTTOM_OVERSHOOT
+DECL|macro|IS_TOP_OVERSHOOT
 DECL|macro|MaxBezier
 DECL|macro|NULL
+DECL|macro|Overshoot_Bottom
+DECL|macro|Overshoot_Top
 DECL|macro|Pixel_Bits
 DECL|macro|RASTER_GRAY_LINES
 DECL|macro|RAS_ARG
@@ -105,7 +107,6 @@ DECL|macro|TRUNC
 DECL|macro|ft_memset
 DECL|macro|ras
 DECL|macro|ras
-DECL|macro|xxxDEBUG_RASTER
 DECL|member|Proc_Sweep_Drop
 DECL|member|Proc_Sweep_Init
 DECL|member|Proc_Sweep_Span
@@ -126,7 +127,7 @@ DECL|member|dropOutControl
 DECL|member|error
 DECL|member|f
 DECL|member|fProfile
-DECL|member|flow
+DECL|member|flags
 DECL|member|fresh
 DECL|member|gProfile
 DECL|member|gTarget
@@ -198,7 +199,6 @@ DECL|typedef|PUShort
 DECL|typedef|PWorker
 DECL|typedef|Short
 DECL|typedef|TBand
-DECL|typedef|TFlow
 DECL|typedef|TPoint
 DECL|typedef|TProfile
 DECL|typedef|TProfileList
@@ -212,4 +212,3 @@ DECL|typedef|UShort
 DECL|union|Alignment_
 DECL|variable|count_table
 DECL|variable|cur_ras
-DECL|variable|ft_standard_raster

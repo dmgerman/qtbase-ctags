@@ -66,5 +66,5 @@ DECL|typedef|FT_MemSource
 DECL|typedef|FT_MemSourceRec
 DECL|typedef|FT_MemTable
 DECL|typedef|FT_MemTableRec
-DECL|variable|_debug_mem_dummy
+DECL|typedef|_debug_mem_dummy
 DECL|variable|ft_mem_primes

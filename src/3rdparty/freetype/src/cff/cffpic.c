@@ -1,0 +1,2 @@
+DECL|function|cff_driver_class_pic_free
+DECL|function|cff_driver_class_pic_init

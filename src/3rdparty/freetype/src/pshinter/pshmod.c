@@ -11,5 +11,3 @@ DECL|member|t2_funcs
 DECL|struct|PS_Hinter_Module_Rec_
 DECL|typedef|PS_Hinter_Module
 DECL|typedef|PS_Hinter_ModuleRec
-DECL|variable|pshinter_interface
-DECL|variable|pshinter_module_class

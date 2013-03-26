@@ -1,0 +1,2 @@
+DECL|macro|FT_GRAYS_RASTER_GET
+DECL|macro|__FTSPIC_H__

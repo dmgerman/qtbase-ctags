@@ -81,11 +81,13 @@ DECL|struct|GXV_XStateTable_ValidatorRec_
 DECL|struct|GXV_odtect_DataRec_
 DECL|struct|GXV_odtect_RangeRec_
 DECL|typedef|GXV_GlyphOffset_Format
+DECL|typedef|GXV_LookupValueCPtr
 DECL|typedef|GXV_LookupValueDesc
 DECL|typedef|GXV_LookupValue_SignSpec
 DECL|typedef|GXV_Lookup_Fmt4_Transit_Func
 DECL|typedef|GXV_Lookup_Value_Validate_Func
 DECL|typedef|GXV_StateTable_Entry_Validate_Func
+DECL|typedef|GXV_StateTable_GlyphOffsetCPtr
 DECL|typedef|GXV_StateTable_GlyphOffsetDesc
 DECL|typedef|GXV_StateTable_OptData_Load_Func
 DECL|typedef|GXV_StateTable_Subtable_Setup_Func
@@ -95,6 +97,7 @@ DECL|typedef|GXV_Validate_Func
 DECL|typedef|GXV_Validator
 DECL|typedef|GXV_ValidatorRec
 DECL|typedef|GXV_XStateTable_Entry_Validate_Func
+DECL|typedef|GXV_XStateTable_GlyphOffsetCPtr
 DECL|typedef|GXV_XStateTable_GlyphOffsetDesc
 DECL|typedef|GXV_XStateTable_OptData_Load_Func
 DECL|typedef|GXV_XStateTable_Subtable_Setup_Func

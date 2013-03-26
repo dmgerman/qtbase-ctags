@@ -1,0 +1,2 @@
+DECL|function|tt_driver_class_pic_free
+DECL|function|tt_driver_class_pic_init

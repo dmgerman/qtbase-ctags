@@ -1,3 +1,5 @@
+DECL|macro|FT_DEFINE_AUTOHINTER_SERVICE
+DECL|macro|FT_DEFINE_AUTOHINTER_SERVICE
 DECL|macro|__AUTOHINT_H__
 DECL|member|done_global_hints
 DECL|member|get_global_hints

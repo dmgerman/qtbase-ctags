@@ -16,3 +16,5 @@ DECL|function|tt_size_done_bytecode
 DECL|function|tt_size_init_bytecode
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
+DECL|macro|TRICK_NAMES_COUNT
+DECL|macro|TRICK_NAMES_MAX_CHARACTERS

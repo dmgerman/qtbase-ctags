@@ -1,5 +1,6 @@
 DECL|macro|CFF_MAX_OPERANDS
 DECL|macro|CFF_MAX_SUBRS_CALLS
+DECL|macro|CFF_MAX_TRANS_ELEMENTS
 DECL|macro|__CFFGLOAD_H__
 DECL|member|advance
 DECL|member|base
@@ -21,9 +22,7 @@ DECL|member|glyph_width
 DECL|member|hint_mode
 DECL|member|hints_funcs
 DECL|member|hints_globals
-DECL|member|last
 DECL|member|left_bearing
-DECL|member|len_buildchar
 DECL|member|limit
 DECL|member|load_points
 DECL|member|loader
@@ -42,6 +41,7 @@ DECL|member|path_begun
 DECL|member|pos_x
 DECL|member|pos_y
 DECL|member|read_width
+DECL|member|seac
 DECL|member|stack
 DECL|member|top
 DECL|member|width_only

@@ -1,0 +1,2 @@
+DECL|function|autofit_module_class_pic_free
+DECL|function|autofit_module_class_pic_init

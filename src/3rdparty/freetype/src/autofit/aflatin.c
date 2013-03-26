@@ -10,6 +10,7 @@ DECL|function|af_latin_hints_apply
 DECL|function|af_latin_hints_compute_blue_edges
 DECL|function|af_latin_hints_init
 DECL|function|af_latin_hints_link_segments
+DECL|function|af_latin_metrics_check_digits
 DECL|function|af_latin_metrics_init_blues
 DECL|function|af_latin_metrics_init_widths
 DECL|function|af_latin_metrics_scale
@@ -17,5 +18,4 @@ DECL|function|af_latin_metrics_scale_dim
 DECL|function|af_latin_snap_width
 DECL|macro|AF_LATIN_MAX_TEST_CHARACTERS
 DECL|variable|af_latin_blue_chars
-DECL|variable|af_latin_script_class
 DECL|variable|af_latin_uniranges

@@ -43,6 +43,8 @@ DECL|macro|FLOOR
 DECL|macro|FT_BEGIN_HEADER
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
+DECL|macro|FT_DEFINE_OUTLINE_FUNCS
+DECL|macro|FT_DEFINE_RASTER_FUNCS
 DECL|macro|FT_END_HEADER
 DECL|macro|FT_ERROR
 DECL|macro|FT_ERROR
@@ -143,5 +145,7 @@ DECL|typedef|TCoord
 DECL|typedef|TPos
 DECL|typedef|TRaster
 DECL|typedef|TWorker
-DECL|variable|ft_grays_raster
+DECL|variable|gray_conic_to
+DECL|variable|gray_cubic_to
+DECL|variable|gray_line_to
 DECL|variable|ras

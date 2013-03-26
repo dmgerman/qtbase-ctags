@@ -11,3 +11,6 @@ DECL|member|bbox
 DECL|member|last
 DECL|struct|TBBox_Rec_
 DECL|typedef|TBBox_Rec
+DECL|variable|BBox_Conic_To
+DECL|variable|BBox_Cubic_To
+DECL|variable|BBox_Move_To

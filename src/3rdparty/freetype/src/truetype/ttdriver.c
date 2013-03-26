@@ -9,8 +9,11 @@ DECL|macro|FT_COMPONENT
 DECL|macro|PAIR_TAG
 DECL|macro|PAIR_TAG
 DECL|macro|PAIR_TAG
-DECL|variable|tt_driver_class
-DECL|variable|tt_service_gx_multi_masters
+DECL|macro|TT_HINTER_FLAG
+DECL|macro|TT_HINTER_FLAG
+DECL|macro|TT_SIZE_SELECT
+DECL|macro|TT_SIZE_SELECT
+DECL|variable|NULL
+DECL|variable|TT_Get_MM_Var
+DECL|variable|TT_Set_MM_Blend
 DECL|variable|tt_service_truetype_engine
-DECL|variable|tt_service_truetype_glyf
-DECL|variable|tt_services

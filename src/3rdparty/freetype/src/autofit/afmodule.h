@@ -1,2 +1,1 @@
 DECL|macro|__AFMODULE_H__
-DECL|variable|autofit_module_class

@@ -18,6 +18,7 @@ DECL|function|ftc_image_type_from_old_desc
 DECL|macro|FTC_BASIC_ATTR_COMPARE
 DECL|macro|FTC_BASIC_ATTR_HASH
 DECL|macro|FTC_OLD_IMAGE_FORMAT
+DECL|macro|FT_COMPONENT
 DECL|macro|ftc_old_image_flag_autohinted
 DECL|macro|ftc_old_image_flag_monochrome
 DECL|macro|ftc_old_image_flag_no_sbits

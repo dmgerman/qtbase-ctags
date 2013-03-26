@@ -1,8 +1,6 @@
 DECL|enumerator|GX_DT_DELTAS_ARE_WORDS
 DECL|enumerator|GX_DT_DELTAS_ARE_ZERO
 DECL|enumerator|GX_DT_DELTA_RUN_COUNT_MASK
-DECL|enumerator|GX_PT_POINTS_ARE_WORDS
-DECL|enumerator|GX_PT_POINT_RUN_COUNT_MASK
 DECL|function|FT_LOCAL_DEF
 DECL|function|FT_LOCAL_DEF
 DECL|function|FT_LOCAL_DEF
@@ -25,6 +23,8 @@ DECL|macro|FT_STRUCTURE
 DECL|macro|FT_STRUCTURE
 DECL|macro|FT_Stream_FTell
 DECL|macro|FT_Stream_SeekSet
+DECL|macro|GX_PT_POINTS_ARE_WORDS
+DECL|macro|GX_PT_POINT_RUN_COUNT_MASK
 DECL|member|axisCount
 DECL|member|axisCount
 DECL|member|axisSize

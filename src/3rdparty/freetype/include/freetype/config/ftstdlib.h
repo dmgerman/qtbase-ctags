@@ -1,6 +1,7 @@
 DECL|macro|FT_CHAR_BIT
 DECL|macro|FT_FILE
 DECL|macro|FT_INT_MAX
+DECL|macro|FT_INT_MIN
 DECL|macro|FT_UINT_MAX
 DECL|macro|FT_ULONG_MAX
 DECL|macro|__FTSTDLIB_H__

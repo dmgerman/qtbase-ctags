@@ -20,7 +20,9 @@ DECL|function|ftc_face_node_done
 DECL|function|ftc_scaler_lookup_size
 DECL|function|ftc_size_node_compare_faceid
 DECL|function|ftc_size_node_done
+DECL|macro|FTC_FACE_NODE
 DECL|macro|FTC_LRU_GET_MANAGER
+DECL|macro|FTC_SIZE_NODE
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
 DECL|member|face

@@ -17,5 +17,3 @@ DECL|function|ft_outline_glyph_done
 DECL|function|ft_outline_glyph_transform
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
-DECL|variable|ft_bitmap_glyph_class
-DECL|variable|ft_outline_glyph_class

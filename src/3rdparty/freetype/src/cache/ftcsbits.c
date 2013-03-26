@@ -9,3 +9,5 @@ DECL|function|ftc_snode_free
 DECL|function|ftc_snode_load
 DECL|macro|CHECK_BYTE
 DECL|macro|CHECK_CHAR
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

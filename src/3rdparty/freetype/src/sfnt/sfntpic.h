@@ -1,0 +1,17 @@
+DECL|macro|FT_SFNT_INTERFACE_GET
+DECL|macro|FT_SFNT_SERVICES_GET
+DECL|macro|FT_SFNT_SERVICES_GET
+DECL|macro|FT_SFNT_SERVICE_BDF_GET
+DECL|macro|FT_SFNT_SERVICE_GLYPH_DICT_GET
+DECL|macro|FT_SFNT_SERVICE_PS_NAME_GET
+DECL|macro|FT_SFNT_SERVICE_SFNT_TABLE_GET
+DECL|macro|FT_TT_CMAP_CLASSES_GET
+DECL|macro|FT_TT_SERVICE_GET_CMAP_INFO_GET
+DECL|macro|__SFNTPIC_H__
+DECL|member|sfnt_service_glyph_dict
+DECL|member|sfnt_service_ps_name
+DECL|member|sfnt_service_sfnt_table
+DECL|member|sfnt_services
+DECL|member|tt_cmap_classes
+DECL|member|tt_service_get_cmap_info
+DECL|struct|sfntModulePIC_
