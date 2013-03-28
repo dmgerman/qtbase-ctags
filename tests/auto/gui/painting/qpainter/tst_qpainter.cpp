@@ -7,6 +7,9 @@ DECL|class|TextDrawerThread
 DECL|class|ViewportTestWidget
 DECL|class|quint24
 DECL|class|tst_QPainter
+DECL|enumerator|Antialiasing
+DECL|enumerator|Dashing
+DECL|enum|CosmeticStrokerPaint
 DECL|function|DummyPaintEngine
 DECL|function|FpExceptionChecker
 DECL|function|QTBUG14614_gradientCacheRaceCondition
@@ -37,6 +40,8 @@ DECL|function|clippedPolygon_data
 DECL|function|clippedText
 DECL|function|clippingBug
 DECL|function|combinedMatrix
+DECL|function|cosmeticStrokerClipping
+DECL|function|cosmeticStrokerClipping_data
 DECL|function|countPixels
 DECL|function|diffColor
 DECL|function|disableEnableClipping
@@ -136,6 +141,7 @@ DECL|function|paintEngine
 DECL|function|paintEvent
 DECL|function|paintEvent
 DECL|function|paintOnNullPixmap
+DECL|function|paint_func
 DECL|function|painterBegin
 DECL|function|porterDuff_warning
 DECL|function|porterDuff_warningChecker

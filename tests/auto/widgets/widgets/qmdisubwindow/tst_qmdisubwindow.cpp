@@ -47,6 +47,7 @@ DECL|function|showNormal
 DECL|function|showNormal_data
 DECL|function|showShaded
 DECL|function|sizeHint
+DECL|function|styleChange
 DECL|function|tabAllWidgets
 DECL|function|task_182852
 DECL|function|task_188849

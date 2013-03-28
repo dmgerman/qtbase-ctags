@@ -2,6 +2,8 @@ DECL|class|ResultHelper
 DECL|class|tst_QSqlQuery
 DECL|function|QTBUG_14132
 DECL|function|QTBUG_14132_data
+DECL|function|QTBUG_14904
+DECL|function|QTBUG_14904_data
 DECL|function|QTBUG_16967
 DECL|function|QTBUG_16967_data
 DECL|function|QTBUG_18435

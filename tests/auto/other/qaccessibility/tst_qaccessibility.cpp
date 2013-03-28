@@ -1,11 +1,15 @@
 DECL|class|CounterButton
+DECL|class|KFooButton
 DECL|class|QtTestAccessibleWidget
 DECL|class|QtTestAccessibleWidgetIface
+DECL|class|QtTestAccessibleWidgetSubclass
 DECL|class|tst_QAccessibility
 DECL|function|CounterButton
 DECL|function|IsValidCEPlatform
+DECL|function|KFooButton
 DECL|function|QtTestAccessibleWidget
 DECL|function|QtTestAccessibleWidgetIface
+DECL|function|QtTestAccessibleWidgetSubclass
 DECL|function|abstractScrollAreaTest
 DECL|function|accelerators
 DECL|function|accessibleInterfaceAbove
@@ -55,6 +59,7 @@ DECL|function|sliderTest
 DECL|function|spinBoxTest
 DECL|function|state
 DECL|function|statesStructTest
+DECL|function|subclassedWidget
 DECL|function|tabTest
 DECL|function|tabWidgetTest
 DECL|function|tableTest

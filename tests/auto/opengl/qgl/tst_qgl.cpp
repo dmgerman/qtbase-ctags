@@ -18,6 +18,7 @@ DECL|function|GLWidget
 DECL|function|MyGLContext
 DECL|function|MyGLWidget
 DECL|function|Producer
+DECL|function|UnclippedWidget
 DECL|function|Widget
 DECL|function|appDefaultDepth
 DECL|function|autoBufferSwap
@@ -94,6 +95,7 @@ DECL|member|fboPainterBeginOk
 DECL|member|images
 DECL|member|iterations
 DECL|member|m_image
+DECL|member|painted
 DECL|member|producer
 DECL|member|widgetPainterBeginOk
 DECL|namespace|ThreadImages

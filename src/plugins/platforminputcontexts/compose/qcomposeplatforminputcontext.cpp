@@ -1,0 +1,15 @@
+DECL|function|QComposeInputContext
+DECL|function|checkComposeTable
+DECL|function|clearComposeBuffer
+DECL|function|commitText
+DECL|function|composeKey
+DECL|function|filterEvent
+DECL|function|ignoreKey
+DECL|function|isDuplicate
+DECL|function|isValid
+DECL|function|reset
+DECL|function|setFocusObject
+DECL|function|update
+DECL|function|~QComposeInputContext
+DECL|variable|composingKeys
+DECL|variable|ignoreKeys

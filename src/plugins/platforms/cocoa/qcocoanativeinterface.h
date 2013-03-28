@@ -1,5 +1,6 @@
 DECL|macro|QCOCOANATIVEINTERFACE_H
 DECL|variable|QPlatformMenu
+DECL|variable|QPlatformMenuBar
 DECL|variable|QPlatformPrinterSupport
 DECL|variable|QPrintEngine
 DECL|variable|QWidget

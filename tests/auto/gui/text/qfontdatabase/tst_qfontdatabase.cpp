@@ -4,7 +4,6 @@ DECL|function|addAppFont_data
 DECL|function|cleanup
 DECL|function|fixedPitch
 DECL|function|fixedPitch_data
-DECL|function|fontName
 DECL|function|init
 DECL|function|styles
 DECL|function|styles_data

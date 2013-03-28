@@ -245,7 +245,6 @@ DECL|member|watermarkLabel
 DECL|member|wizStyle
 DECL|member|wizStyle
 DECL|member|wizard
-DECL|member|wizard
 DECL|member|wizardPrivate
 DECL|typedef|PageMap
 DECL|variable|ClassicHMargin

@@ -1,0 +1,2 @@
+DECL|class|QComposePlatformInputContextPlugin
+DECL|function|create

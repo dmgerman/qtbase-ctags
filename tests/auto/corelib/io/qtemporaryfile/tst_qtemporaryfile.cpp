@@ -12,6 +12,7 @@ DECL|function|fileNameIsEmpty
 DECL|function|fileTemplate
 DECL|function|fileTemplate_data
 DECL|function|getSetCheck
+DECL|function|guaranteeUnique
 DECL|function|initTestCase
 DECL|function|keepOpenMode
 DECL|function|nonWritableCurrentDir

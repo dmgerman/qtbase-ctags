@@ -16,6 +16,7 @@ DECL|function|indexOfChild
 DECL|function|interface_cast
 DECL|function|isAncestor
 DECL|function|isSender
+DECL|function|isValid
 DECL|function|keyBindingsForAction
 DECL|function|parent
 DECL|function|parentObject
