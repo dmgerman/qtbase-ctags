@@ -7,7 +7,7 @@ DECL|function|languageLocale
 DECL|function|measurementSystem
 DECL|function|query
 DECL|function|readHourFormat
-DECL|function|readLangageLocale
+DECL|function|readLanguageLocale
 DECL|function|readMeasurementSystem
 DECL|function|readPpsValue
 DECL|function|readRegionLocale
