@@ -5,3 +5,4 @@ DECL|typedef|OCIEnv
 DECL|typedef|OCISvcCtx
 DECL|variable|QOCICols
 DECL|variable|QOCIDriver
+DECL|variable|QOCIDriverPrivate

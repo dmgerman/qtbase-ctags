@@ -1,5 +1,6 @@
 DECL|class|OraFieldInf
 DECL|class|QOCICols
+DECL|class|QOCIDriverPrivate
 DECL|class|QOCIResult
 DECL|class|QOCIRowId
 DECL|enumerator|QOCIEncoding
@@ -138,7 +139,6 @@ DECL|member|user
 DECL|struct|OraFieldInfo
 DECL|struct|QOCIBatchCleanupHandler
 DECL|struct|QOCIBatchColumn
-DECL|struct|QOCIDriverPrivate
 DECL|struct|QOCIResultPrivate
 DECL|typedef|IndicatorArray
 DECL|typedef|QOCIRowIdPointer
