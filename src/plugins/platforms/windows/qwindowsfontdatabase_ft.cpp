@@ -13,7 +13,7 @@ DECL|function|storeFont
 DECL|function|systemFont
 DECL|function|verticalDPI
 DECL|function|weightFromInteger
-DECL|function|writingSystemFromScript
+DECL|function|writingSystemFromCharSet
 DECL|variable|ch_CN_tryFonts
 DECL|variable|ch_TW_tryFonts
 DECL|variable|jp_tryFonts
