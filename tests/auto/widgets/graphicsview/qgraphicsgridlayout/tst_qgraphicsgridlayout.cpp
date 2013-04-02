@@ -95,6 +95,7 @@ DECL|function|sizePolicy
 DECL|function|sizePolicy
 DECL|function|sizePolicyH
 DECL|function|sizePolicyV
+DECL|function|spanAcrossEmptyRow
 DECL|function|spanningItem
 DECL|function|spanningItem2x2
 DECL|function|spanningItem2x2_data
