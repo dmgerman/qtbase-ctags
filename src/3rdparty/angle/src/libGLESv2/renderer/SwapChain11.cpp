@@ -1,0 +1,17 @@
+DECL|function|SwapChain11
+DECL|function|getDepthStencil
+DECL|function|getDepthStencilTexture
+DECL|function|getOffscreenTexture
+DECL|function|getRenderTarget
+DECL|function|getRenderTargetShaderResource
+DECL|function|initPassThroughResources
+DECL|function|makeSwapChain11
+DECL|function|recreate
+DECL|function|release
+DECL|function|releaseOffscreenTexture
+DECL|function|reset
+DECL|function|resetOffscreenTexture
+DECL|function|resize
+DECL|function|swapRect
+DECL|function|~SwapChain11
+DECL|namespace|rx

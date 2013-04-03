@@ -1,0 +1,9 @@
+DECL|function|InputLayoutCache
+DECL|function|applyVertexBuffers
+DECL|function|clear
+DECL|function|compareInputLayouts
+DECL|function|hashInputLayout
+DECL|function|initialize
+DECL|function|~InputLayoutCache
+DECL|member|kMaxInputLayouts
+DECL|namespace|rx

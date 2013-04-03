@@ -46,6 +46,7 @@ DECL|function|glDisable
 DECL|function|glDisableVertexAttribArray
 DECL|function|glDrawArrays
 DECL|function|glDrawArraysInstancedANGLE
+DECL|function|glDrawBuffersEXT
 DECL|function|glDrawElements
 DECL|function|glDrawElementsInstancedANGLE
 DECL|function|glEnable
@@ -175,4 +176,3 @@ DECL|function|validImageSize
 DECL|function|validReadFormatType
 DECL|function|validateSubImageParams2D
 DECL|function|validateSubImageParamsCube
-DECL|macro|GL_APICALL

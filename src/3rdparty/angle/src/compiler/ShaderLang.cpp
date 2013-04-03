@@ -6,6 +6,8 @@ DECL|function|ShGetActiveAttrib
 DECL|function|ShGetActiveUniform
 DECL|function|ShGetInfo
 DECL|function|ShGetInfoLog
+DECL|function|ShGetInfoPointer
+DECL|function|ShGetNameHashingEntry
 DECL|function|ShGetObjectCode
 DECL|function|ShInitBuiltInResources
 DECL|function|ShInitialize

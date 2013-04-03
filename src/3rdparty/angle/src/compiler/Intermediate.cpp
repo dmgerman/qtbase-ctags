@@ -18,6 +18,7 @@ DECL|function|addUnaryMath
 DECL|function|fold
 DECL|function|getOperatorString
 DECL|function|growAggregate
+DECL|function|hash
 DECL|function|isConstructor
 DECL|function|makeAggregate
 DECL|function|modifiesState

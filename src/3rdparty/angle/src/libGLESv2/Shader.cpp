@@ -20,6 +20,7 @@ DECL|function|getTranslatedSource
 DECL|function|getTranslatedSourceLength
 DECL|function|getType
 DECL|function|getType
+DECL|function|getUniforms
 DECL|function|initializeCompiler
 DECL|function|isCompiled
 DECL|function|isFlaggedForDeletion
@@ -28,6 +29,7 @@ DECL|function|parseType
 DECL|function|parseVaryings
 DECL|function|release
 DECL|function|releaseCompiler
+DECL|function|resetVaryingsRegisterAssignment
 DECL|function|setSource
 DECL|function|uncompile
 DECL|function|uncompile

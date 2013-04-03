@@ -1,5 +1,2 @@
-DECL|function|isDeviceLostError
 DECL|macro|GL_APICALL
 DECL|macro|LIBGLESV2_UTILITIES_H
-DECL|variable|D3DFMT_INTZ
-DECL|variable|D3DFMT_NULL

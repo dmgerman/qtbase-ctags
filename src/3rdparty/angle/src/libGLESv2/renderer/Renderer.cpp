@@ -1,0 +1,9 @@
+DECL|function|Renderer
+DECL|function|compileToBinary
+DECL|function|glCreateRenderer
+DECL|function|glDestroyRenderer
+DECL|function|initializeCompiler
+DECL|function|~Renderer
+DECL|macro|ANGLE_COMPILE_OPTIMIZATION_LEVEL
+DECL|macro|D3DERR_OUTOFVIDEOMEMORY
+DECL|namespace|rx

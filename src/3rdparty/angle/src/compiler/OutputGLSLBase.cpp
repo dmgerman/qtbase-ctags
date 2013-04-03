@@ -1,6 +1,9 @@
 DECL|function|TOutputGLSLBase
 DECL|function|arrayBrackets
 DECL|function|getTypeName
+DECL|function|hashFunctionName
+DECL|function|hashName
+DECL|function|hashVariableName
 DECL|function|isSingleStatement
 DECL|function|visitAggregate
 DECL|function|visitBinary

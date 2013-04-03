@@ -1,0 +1,4 @@
+DECL|macro|COMMON_SYSTEM_H
+DECL|macro|WIN32_LEAN_AND_MEAN
+DECL|macro|max
+DECL|macro|min
