@@ -1,4 +1,5 @@
 DECL|function|QSqlDriver
+DECL|function|QSqlDriver
 DECL|function|beginTransaction
 DECL|function|cancelQuery
 DECL|function|commitTransaction

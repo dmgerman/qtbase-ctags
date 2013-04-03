@@ -42,7 +42,6 @@ DECL|function|fromSQLTCHAR
 DECL|function|handle
 DECL|function|handle
 DECL|function|hasFeature
-DECL|function|init
 DECL|function|isIdentifierEscaped
 DECL|function|isNull
 DECL|function|isStmtHandleValid
