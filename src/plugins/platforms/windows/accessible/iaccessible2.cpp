@@ -106,7 +106,6 @@ DECL|function|setCaretOffset
 DECL|function|setCurrentValue
 DECL|function|setSelection
 DECL|function|textForRange
-DECL|function|uniqueID
 DECL|function|unselectColumn
 DECL|function|unselectRow
 DECL|function|wrapListOfCells

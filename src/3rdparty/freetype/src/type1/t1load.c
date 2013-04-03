@@ -25,8 +25,6 @@ DECL|function|t1_init_loader
 DECL|function|t1_load_keyword
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
-DECL|macro|FT_FIXED_TO_INT
-DECL|macro|FT_INT_TO_FIXED
 DECL|macro|T1_FIELD_COUNT
 DECL|macro|TABLE_EXTEND
 DECL|variable|t1_keywords

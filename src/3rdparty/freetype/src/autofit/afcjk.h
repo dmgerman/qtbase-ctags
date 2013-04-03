@@ -1,4 +1,3 @@
 DECL|macro|__AFCJK_H__
 DECL|variable|af_cjk_hints_apply
 DECL|variable|af_cjk_metrics_scale
-DECL|variable|af_cjk_script_class

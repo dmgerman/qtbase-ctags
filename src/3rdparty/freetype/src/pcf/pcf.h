@@ -39,7 +39,6 @@ DECL|member|atom
 DECL|member|attributes
 DECL|member|bitmapsFormat
 DECL|member|bits
-DECL|member|cardinal
 DECL|member|characterWidth
 DECL|member|characterWidth
 DECL|member|charmap
@@ -65,9 +64,9 @@ DECL|member|inkInside
 DECL|member|inkMetrics
 DECL|member|ink_maxbounds
 DECL|member|ink_minbounds
-DECL|member|integer
 DECL|member|isString
 DECL|member|isString
+DECL|member|l
 DECL|member|leftSideBearing
 DECL|member|leftSideBearing
 DECL|member|maxOverlap
@@ -90,6 +89,7 @@ DECL|member|tables
 DECL|member|terminalFont
 DECL|member|toc
 DECL|member|type
+DECL|member|ul
 DECL|member|value
 DECL|member|value
 DECL|member|version

@@ -6,6 +6,7 @@ DECL|function|report_error
 DECL|function|wait
 DECL|function|wait
 DECL|function|wait
+DECL|function|wait_relative
 DECL|function|wakeAll
 DECL|function|wakeOne
 DECL|function|~QWaitCondition

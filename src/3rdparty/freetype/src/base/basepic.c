@@ -1,0 +1,2 @@
+DECL|function|ft_base_pic_free
+DECL|function|ft_base_pic_init

@@ -21,6 +21,7 @@ DECL|function|isGenerated
 DECL|function|isGenerated
 DECL|function|isNull
 DECL|function|isNull
+DECL|function|keyValues
 DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator ==

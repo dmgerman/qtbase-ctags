@@ -1,0 +1,2 @@
+DECL|function|pshinter_module_class_pic_free
+DECL|function|pshinter_module_class_pic_init

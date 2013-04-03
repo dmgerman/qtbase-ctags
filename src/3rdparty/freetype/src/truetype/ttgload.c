@@ -15,6 +15,7 @@ DECL|function|compute_glyph_metrics
 DECL|function|load_sbit_image
 DECL|function|load_truetype_glyph
 DECL|function|translate_array
+DECL|function|tt_get_metrics
 DECL|function|tt_loader_init
 DECL|function|tt_prepare_zone
 DECL|macro|ARGS_ARE_WORDS

@@ -1,0 +1,13 @@
+DECL|macro|__FTPIC_H__
+DECL|member|autofit
+DECL|member|base
+DECL|member|cff
+DECL|member|pshinter
+DECL|member|psnames
+DECL|member|raster
+DECL|member|sfnt
+DECL|member|smooth
+DECL|member|truetype
+DECL|struct|FT_PIC_Container_
+DECL|typedef|FT_PIC_Container
+DECL|variable|ft_pic_container_destroy

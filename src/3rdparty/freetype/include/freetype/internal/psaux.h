@@ -117,7 +117,6 @@ DECL|member|init
 DECL|member|init
 DECL|member|init
 DECL|member|init
-DECL|member|last
 DECL|member|left_bearing
 DECL|member|lenIV
 DECL|member|len_buildchar
@@ -153,7 +152,7 @@ DECL|member|ps_table_funcs
 DECL|member|psnames
 DECL|member|reader
 DECL|member|release
-DECL|member|shift
+DECL|member|seac
 DECL|member|size
 DECL|member|skip_PS_token
 DECL|member|skip_spaces

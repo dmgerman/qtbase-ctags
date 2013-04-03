@@ -57,10 +57,10 @@ DECL|member|angle_out
 DECL|member|borders
 DECL|member|center
 DECL|member|first_point
+DECL|member|library
 DECL|member|line_cap
 DECL|member|line_join
 DECL|member|max_points
-DECL|member|memory
 DECL|member|memory
 DECL|member|miter_limit
 DECL|member|movable

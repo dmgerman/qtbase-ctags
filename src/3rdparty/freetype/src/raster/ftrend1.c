@@ -3,5 +3,3 @@ DECL|function|ft_raster1_init
 DECL|function|ft_raster1_render
 DECL|function|ft_raster1_set_mode
 DECL|function|ft_raster1_transform
-DECL|variable|ft_raster1_renderer_class
-DECL|variable|ft_raster5_renderer_class

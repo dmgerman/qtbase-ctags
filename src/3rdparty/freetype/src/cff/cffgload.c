@@ -45,6 +45,9 @@ DECL|enumerator|cff_op_rlineto
 DECL|enumerator|cff_op_rmoveto
 DECL|enumerator|cff_op_roll
 DECL|enumerator|cff_op_rrcurveto
+DECL|enumerator|cff_op_sbw
+DECL|enumerator|cff_op_seac
+DECL|enumerator|cff_op_setcurrentpoint
 DECL|enumerator|cff_op_sqrt
 DECL|enumerator|cff_op_store
 DECL|enumerator|cff_op_sub

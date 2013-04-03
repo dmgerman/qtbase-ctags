@@ -7,6 +7,7 @@ DECL|function|beginTimer
 DECL|function|beginTimer
 DECL|function|booleanValue
 DECL|function|callback
+DECL|function|cmdline_option_value
 DECL|function|display_stats
 DECL|function|do_meta_command
 DECL|function|dump_callback
@@ -24,6 +25,8 @@ DECL|function|one_input_line
 DECL|function|open_db
 DECL|function|output_c_string
 DECL|function|output_csv
+DECL|function|output_file_close
+DECL|function|output_file_open
 DECL|function|output_hex_blob
 DECL|function|output_html_string
 DECL|function|output_quoted_string
@@ -38,7 +41,9 @@ DECL|function|shellLog
 DECL|function|shell_callback
 DECL|function|shell_exec
 DECL|function|shellstaticFunc
+DECL|function|sql_trace_callback
 DECL|function|strlen30
+DECL|function|test_breakpoint
 DECL|function|timeDiff
 DECL|function|timeDiff
 DECL|function|usage
@@ -52,6 +57,8 @@ DECL|macro|END_TIMER
 DECL|macro|HAS_TIMER
 DECL|macro|HAS_TIMER
 DECL|macro|HAS_TIMER
+DECL|macro|IsDigit
+DECL|macro|IsSpace
 DECL|macro|MODE_Column
 DECL|macro|MODE_Csv
 DECL|macro|MODE_Explain
@@ -61,12 +68,20 @@ DECL|macro|MODE_Line
 DECL|macro|MODE_List
 DECL|macro|MODE_Semi
 DECL|macro|MODE_Tcl
+DECL|macro|ToLower
 DECL|macro|UNUSED_PARAMETER
 DECL|macro|_CRT_SECURE_NO_WARNINGS
+DECL|macro|_FILE_OFFSET_BITS
+DECL|macro|_LARGEFILE_SOURCE
+DECL|macro|_LARGE_FILE
 DECL|macro|access
 DECL|macro|add_history
 DECL|macro|isatty
 DECL|macro|isatty
+DECL|macro|pclose
+DECL|macro|pclose
+DECL|macro|popen
+DECL|macro|popen
 DECL|macro|read_history
 DECL|macro|readline
 DECL|macro|stifle_history
@@ -80,6 +95,7 @@ DECL|member|echoOn
 DECL|member|explainPrev
 DECL|member|mode
 DECL|member|mode
+DECL|member|nErr
 DECL|member|nullvalue
 DECL|member|out
 DECL|member|outfile
@@ -89,6 +105,7 @@ DECL|member|separator
 DECL|member|showHeader
 DECL|member|showHeader
 DECL|member|statsOn
+DECL|member|traceOut
 DECL|member|valid
 DECL|member|writableSchema
 DECL|member|zDbFilename

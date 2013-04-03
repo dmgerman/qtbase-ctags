@@ -1,10 +1,14 @@
+DECL|class|Buttons
 DECL|class|Caching
 DECL|class|Fonts
+DECL|class|IconDrawing
 DECL|class|Labels
 DECL|class|MainWindow
 DECL|class|PixmapPainter
 DECL|class|StandardIcons
 DECL|class|Style
+DECL|function|Buttons
+DECL|function|IconDrawing
 DECL|function|Labels
 DECL|function|MainWindow
 DECL|function|PixmapPainter
@@ -17,8 +21,12 @@ DECL|function|paintEvent
 DECL|function|paintEvent
 DECL|function|paintEvent
 DECL|function|paintEvent
+DECL|function|paintEvent
+DECL|function|~IconDrawing
 DECL|member|button
 DECL|member|fileToolBar
+DECL|member|iconHighDPI
+DECL|member|iconNormalDpi
 DECL|member|image1X
 DECL|member|image2X
 DECL|member|imageLarge

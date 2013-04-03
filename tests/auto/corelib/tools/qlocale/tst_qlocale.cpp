@@ -47,6 +47,8 @@ DECL|function|standaloneMonthName
 DECL|function|testInfAndNan
 DECL|function|testNames
 DECL|function|testNames_data
+DECL|function|textDirection
+DECL|function|textDirection_data
 DECL|function|timeFormat
 DECL|function|toDateTime
 DECL|function|toDateTime_data
