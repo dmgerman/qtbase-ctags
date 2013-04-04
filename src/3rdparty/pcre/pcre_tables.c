@@ -16,6 +16,7 @@ DECL|macro|STRING_Canadian_Aboriginal0
 DECL|macro|STRING_Carian0
 DECL|macro|STRING_Cc0
 DECL|macro|STRING_Cf0
+DECL|macro|STRING_Chakma0
 DECL|macro|STRING_Cham0
 DECL|macro|STRING_Cherokee0
 DECL|macro|STRING_Cn0
@@ -73,6 +74,9 @@ DECL|macro|STRING_Mandaic0
 DECL|macro|STRING_Mc0
 DECL|macro|STRING_Me0
 DECL|macro|STRING_Meetei_Mayek0
+DECL|macro|STRING_Meroitic_Cursive0
+DECL|macro|STRING_Meroitic_Hieroglyphs0
+DECL|macro|STRING_Miao0
 DECL|macro|STRING_Mn0
 DECL|macro|STRING_Mongolian0
 DECL|macro|STRING_Myanmar0
@@ -106,11 +110,13 @@ DECL|macro|STRING_S0
 DECL|macro|STRING_Samaritan0
 DECL|macro|STRING_Saurashtra0
 DECL|macro|STRING_Sc0
+DECL|macro|STRING_Sharada0
 DECL|macro|STRING_Shavian0
 DECL|macro|STRING_Sinhala0
 DECL|macro|STRING_Sk0
 DECL|macro|STRING_Sm0
 DECL|macro|STRING_So0
+DECL|macro|STRING_Sora_Sompeng0
 DECL|macro|STRING_Sundanese0
 DECL|macro|STRING_Syloti_Nagri0
 DECL|macro|STRING_Syriac0
@@ -119,6 +125,7 @@ DECL|macro|STRING_Tagbanwa0
 DECL|macro|STRING_Tai_Le0
 DECL|macro|STRING_Tai_Tham0
 DECL|macro|STRING_Tai_Viet0
+DECL|macro|STRING_Takri0
 DECL|macro|STRING_Tamil0
 DECL|macro|STRING_Telugu0
 DECL|macro|STRING_Thaana0
@@ -136,5 +143,6 @@ DECL|macro|STRING_Z0
 DECL|macro|STRING_Zl0
 DECL|macro|STRING_Zp0
 DECL|macro|STRING_Zs0
+DECL|variable|ucp_gbtable
 DECL|variable|utf8_table1_size
 DECL|variable|utt_size

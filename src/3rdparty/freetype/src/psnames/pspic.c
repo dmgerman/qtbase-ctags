@@ -1,0 +1,2 @@
+DECL|function|psnames_module_class_pic_free
+DECL|function|psnames_module_class_pic_init

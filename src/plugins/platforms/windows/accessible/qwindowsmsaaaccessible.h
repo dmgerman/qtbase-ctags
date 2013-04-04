@@ -3,5 +3,4 @@ DECL|macro|QWINDOWSMSAAACCESSIBLE_H
 DECL|macro|accessibleDebug
 DECL|macro|accessibleDebugClientCalls
 DECL|macro|accessibleDebugClientCalls
-DECL|typedef|QAIPointer
 DECL|variable|IAccessible

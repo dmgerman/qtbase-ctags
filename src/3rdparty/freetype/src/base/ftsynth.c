@@ -1,2 +1,4 @@
 DECL|function|FT_GlyphSlot_Embolden
 DECL|function|FT_GlyphSlot_Oblique
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

@@ -1,0 +1,2 @@
+DECL|function|FT_BASE_DEF
+DECL|function|ft_pic_container_destroy

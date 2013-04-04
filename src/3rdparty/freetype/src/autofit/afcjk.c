@@ -17,7 +17,4 @@ DECL|function|af_hint_normal_stem
 DECL|macro|AF_LIGHT_MODE_MAX_DELTA_ABS
 DECL|macro|AF_LIGHT_MODE_MAX_HORZ_GAP
 DECL|macro|AF_LIGHT_MODE_MAX_VERT_GAP
-DECL|variable|af_cjk_script_class
-DECL|variable|af_cjk_script_class
-DECL|variable|af_cjk_uniranges
 DECL|variable|af_cjk_uniranges

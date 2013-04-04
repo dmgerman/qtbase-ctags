@@ -1,0 +1,6 @@
+DECL|function|ft_smooth_lcd_renderer_class_pic_free
+DECL|function|ft_smooth_lcd_renderer_class_pic_init
+DECL|function|ft_smooth_lcdv_renderer_class_pic_free
+DECL|function|ft_smooth_lcdv_renderer_class_pic_init
+DECL|function|ft_smooth_renderer_class_pic_free
+DECL|function|ft_smooth_renderer_class_pic_init

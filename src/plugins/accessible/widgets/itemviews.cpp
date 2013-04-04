@@ -3,7 +3,6 @@ DECL|function|QAccessibleTableCell
 DECL|function|QAccessibleTableHeaderCell
 DECL|function|actionNames
 DECL|function|caption
-DECL|function|cell
 DECL|function|cellAt
 DECL|function|cellAt
 DECL|function|child
@@ -14,7 +13,6 @@ DECL|function|childAt
 DECL|function|childAt
 DECL|function|childCount
 DECL|function|childCount
-DECL|function|childFromLogical
 DECL|function|columnCount
 DECL|function|columnDescription
 DECL|function|columnExtent
@@ -37,6 +35,7 @@ DECL|function|isValid
 DECL|function|isValid
 DECL|function|keyBindingsForAction
 DECL|function|logicalIndex
+DECL|function|modelChange
 DECL|function|parent
 DECL|function|parent
 DECL|function|parent

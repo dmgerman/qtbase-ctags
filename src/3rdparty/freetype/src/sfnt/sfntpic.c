@@ -1,0 +1,2 @@
+DECL|function|sfnt_module_class_pic_free
+DECL|function|sfnt_module_class_pic_init

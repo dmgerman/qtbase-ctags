@@ -23,7 +23,6 @@ DECL|function|accLocation
 DECL|function|accNavigate
 DECL|function|accSelect
 DECL|function|accessibleDebugClientCalls_helper
-DECL|function|compareAccessible
 DECL|function|debug_accessibility
 DECL|function|get_accChild
 DECL|function|get_accChildCount

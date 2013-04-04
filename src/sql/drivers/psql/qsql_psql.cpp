@@ -43,6 +43,7 @@ DECL|function|numRowsAffected
 DECL|function|open
 DECL|function|prepare
 DECL|function|primaryIndex
+DECL|function|privDriver
 DECL|function|processResults
 DECL|function|protocol
 DECL|function|qCreateParamString
@@ -95,9 +96,7 @@ DECL|member|isUtf8
 DECL|member|pendingNotifyCheck
 DECL|member|preparedQueriesEnabled
 DECL|member|preparedStmtId
-DECL|member|privDriver
 DECL|member|pro
-DECL|member|q
 DECL|member|q
 DECL|member|result
 DECL|member|seid

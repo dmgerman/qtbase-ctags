@@ -1,18 +1,12 @@
 DECL|enumerator|AF_LATIN_BLUE_ACTIVE
 DECL|enumerator|AF_LATIN_BLUE_ADJUSTMENT
-DECL|enumerator|AF_LATIN_BLUE_CAPITAL_BOTTOM
-DECL|enumerator|AF_LATIN_BLUE_CAPITAL_TOP
 DECL|enumerator|AF_LATIN_BLUE_FLAG_MAX
-DECL|enumerator|AF_LATIN_BLUE_MAX
-DECL|enumerator|AF_LATIN_BLUE_SMALL_BOTTOM
-DECL|enumerator|AF_LATIN_BLUE_SMALL_F_TOP
-DECL|enumerator|AF_LATIN_BLUE_SMALL_MINOR
-DECL|enumerator|AF_LATIN_BLUE_SMALL_TOP
 DECL|enumerator|AF_LATIN_BLUE_TOP
 DECL|enumerator|AF_LATIN_HINTS_HORZ_SNAP
 DECL|enumerator|AF_LATIN_HINTS_MONO
 DECL|enumerator|AF_LATIN_HINTS_STEM_ADJUST
 DECL|enumerator|AF_LATIN_HINTS_VERT_SNAP
+DECL|function|AF_DECLARE_SCRIPT_CLASS
 DECL|macro|AF_LATIN_CONSTANT
 DECL|macro|AF_LATIN_HINTS_DO_HORZ_SNAP
 DECL|macro|AF_LATIN_HINTS_DO_MONO
@@ -52,4 +46,3 @@ DECL|typedef|AF_LatinMetricsRec
 DECL|variable|af_latin_hints_detect_features
 DECL|variable|af_latin_hints_link_segments
 DECL|variable|af_latin_metrics_scale
-DECL|variable|af_latin_script_class

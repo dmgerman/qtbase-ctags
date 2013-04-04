@@ -1,6 +1,7 @@
 DECL|macro|FT_PARAM_TAG_INCREMENTAL
 DECL|macro|__FTINCREM_H__
 DECL|member|advance
+DECL|member|advance_v
 DECL|member|bearing_x
 DECL|member|bearing_y
 DECL|member|free_glyph_data

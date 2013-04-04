@@ -1,3 +1,2 @@
 DECL|function|af_dummy_hints_apply
 DECL|function|af_dummy_hints_init
-DECL|variable|af_dummy_script_class

@@ -1,4 +1,5 @@
 DECL|function|QActionEvent
+DECL|function|QApplicationStateChangeEvent
 DECL|function|QCloseEvent
 DECL|function|QContextMenuEvent
 DECL|function|QContextMenuEvent
@@ -46,6 +47,7 @@ DECL|function|QWheelEvent
 DECL|function|QWindowStateChangeEvent
 DECL|function|TouchPoint
 DECL|function|TouchPoint
+DECL|function|applicationState
 DECL|function|contentPos
 DECL|function|contentPos
 DECL|function|contentPosRange

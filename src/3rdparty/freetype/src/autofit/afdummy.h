@@ -1,2 +1,1 @@
 DECL|macro|__AFDUMMY_H__
-DECL|variable|af_dummy_script_class

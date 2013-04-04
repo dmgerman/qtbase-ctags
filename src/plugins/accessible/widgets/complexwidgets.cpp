@@ -47,5 +47,6 @@ DECL|function|tabBar
 DECL|function|text
 DECL|function|text
 DECL|function|text
+DECL|function|~QAccessibleTabBar
 DECL|member|m_index
 DECL|member|m_parent

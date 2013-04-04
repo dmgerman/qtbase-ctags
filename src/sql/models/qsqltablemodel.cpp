@@ -24,7 +24,6 @@ DECL|function|nameToIndex
 DECL|function|orderByClause
 DECL|function|primaryKey
 DECL|function|primaryValues
-DECL|function|primaryValues
 DECL|function|record
 DECL|function|record
 DECL|function|record

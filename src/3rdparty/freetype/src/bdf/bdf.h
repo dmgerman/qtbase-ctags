@@ -33,7 +33,6 @@ DECL|member|bpp
 DECL|member|bpr
 DECL|member|builtin
 DECL|member|bytes
-DECL|member|card32
 DECL|member|comments
 DECL|member|comments_len
 DECL|member|correct_metrics
@@ -54,11 +53,11 @@ DECL|member|glyphs_size
 DECL|member|glyphs_used
 DECL|member|glyphs_used
 DECL|member|height
-DECL|member|int32
 DECL|member|internal
 DECL|member|keep_comments
 DECL|member|keep_unencoded
 DECL|member|key
+DECL|member|l
 DECL|member|limit
 DECL|member|memory
 DECL|member|modified
@@ -82,6 +81,7 @@ DECL|member|spacing
 DECL|member|start
 DECL|member|swidth
 DECL|member|table
+DECL|member|ul
 DECL|member|umod
 DECL|member|unencoded
 DECL|member|unencoded_size
