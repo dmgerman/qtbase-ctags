@@ -80,6 +80,7 @@ DECL|member|outputFormats
 DECL|member|outputPrefixes
 DECL|member|project
 DECL|member|qdocPass_
+DECL|member|redirectDocumentationToDevNull_
 DECL|member|scriptDirs
 DECL|member|scriptFiles
 DECL|member|sinceTitles

@@ -16,4 +16,5 @@ DECL|variable|indexDirs
 DECL|variable|noLinkErrors
 DECL|variable|obsoleteLinks
 DECL|variable|prevCurrentDir
+DECL|variable|redirectDocumentationToDevNull
 DECL|variable|showInternal
