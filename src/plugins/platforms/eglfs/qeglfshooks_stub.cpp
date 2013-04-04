@@ -4,6 +4,7 @@ DECL|function|destroyNativeWindow
 DECL|function|fbDeviceName
 DECL|function|filterConfig
 DECL|function|hasCapability
+DECL|function|logicalDpi
 DECL|function|physicalScreenSize
 DECL|function|platformDestroy
 DECL|function|platformDisplay
