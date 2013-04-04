@@ -17,5 +17,3 @@ DECL|function|recognizeLanguage
 DECL|function|sections
 DECL|function|~CppCodeMarker
 DECL|macro|readChar
-DECL|variable|keywordTable
-DECL|variable|typeTable
