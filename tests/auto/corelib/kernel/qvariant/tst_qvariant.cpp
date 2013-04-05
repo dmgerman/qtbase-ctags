@@ -30,6 +30,12 @@ DECL|function|compare
 DECL|function|compare
 DECL|function|compare
 DECL|function|compare
+DECL|function|compare
+DECL|function|compare
+DECL|function|compare
+DECL|function|compare
+DECL|function|compare
+DECL|function|compare
 DECL|function|compareCustomTypes
 DECL|function|comparePointers
 DECL|function|constData
@@ -54,6 +60,8 @@ DECL|function|debugStream_data
 DECL|function|forwardDeclare
 DECL|function|handler
 DECL|function|implicitConstruction
+DECL|function|insert
+DECL|function|insert
 DECL|function|insert
 DECL|function|insert
 DECL|function|insert
@@ -214,6 +222,8 @@ DECL|member|y
 DECL|member|y
 DECL|member|z
 DECL|struct|Blah
+DECL|struct|ContainerAPI
+DECL|struct|ContainerAPI
 DECL|struct|ContainerAPI
 DECL|struct|ContainerAPI
 DECL|struct|ContainerAPI
