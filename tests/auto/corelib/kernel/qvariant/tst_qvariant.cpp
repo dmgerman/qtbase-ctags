@@ -58,6 +58,9 @@ DECL|function|debugStreamType
 DECL|function|debugStreamType_data
 DECL|function|debugStream_data
 DECL|function|forwardDeclare
+DECL|function|get
+DECL|function|get
+DECL|function|get
 DECL|function|handler
 DECL|function|implicitConstruction
 DECL|function|insert
@@ -164,6 +167,9 @@ DECL|function|typeName_data
 DECL|function|typeToName
 DECL|function|url
 DECL|function|userType
+DECL|function|value
+DECL|function|value
+DECL|function|value
 DECL|function|variantHash
 DECL|function|variantInVariant
 DECL|function|variantMap
@@ -187,6 +193,7 @@ DECL|macro|N
 DECL|macro|N
 DECL|macro|N
 DECL|macro|PLAY_WITH_VARIANT
+DECL|macro|TEST_ASSOCIATIVE_ITERATION
 DECL|macro|TEST_RANGE_FOR
 DECL|macro|TEST_SEQUENTIAL_ITERATION
 DECL|macro|Y
@@ -232,6 +239,9 @@ DECL|struct|CustomComparable
 DECL|struct|CustomStreamableClass
 DECL|struct|Data
 DECL|struct|Foo
+DECL|struct|KeyGetter
+DECL|struct|KeyGetter
+DECL|struct|KeyGetter
 DECL|struct|MessageHandlerType
 DECL|struct|MyClass
 DECL|struct|MyData
@@ -242,6 +252,7 @@ DECL|struct|MyShared
 DECL|struct|MyType
 DECL|struct|MyTypePOD
 DECL|struct|WontCompare
+DECL|typedef|StdUnorderedMap_int_bool
 DECL|variable|CustomStreamableClass
 DECL|variable|WontCompare
 DECL|variable|instanceCount

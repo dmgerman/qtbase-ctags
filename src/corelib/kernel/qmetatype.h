@@ -13,6 +13,7 @@ DECL|function|isValid
 DECL|function|metaObject
 DECL|function|qMetaTypeId
 DECL|function|qMetaTypeId
+DECL|function|qRegisterAssociativeConverter
 DECL|function|qRegisterMetaType
 DECL|function|qRegisterMetaType
 DECL|function|qRegisterMetaType
@@ -23,6 +24,7 @@ DECL|function|qt_metatype_id
 DECL|function|sizeOf
 DECL|function|~QMetaType
 DECL|macro|QMETATYPE_H
+DECL|macro|QT_DEFINE_ASSOCIATIVE_CONTAINER_TYPE
 DECL|macro|QT_DEFINE_METATYPE_ID
 DECL|macro|QT_DEFINE_METATYPE_ID
 DECL|macro|QT_DEFINE_SEQUENTIAL_CONTAINER_TYPE
