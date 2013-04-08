@@ -1,4 +1,5 @@
 DECL|macro|WINDOW_H
+DECL|variable|FilterWidget
 DECL|variable|MySortFilterProxyModel
 DECL|variable|QAbstractItemModel
 DECL|variable|QCheckBox
