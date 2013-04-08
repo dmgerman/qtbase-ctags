@@ -1,5 +1,6 @@
 DECL|function|HelloWindow
 DECL|function|Renderer
+DECL|function|color
 DECL|function|createGeometry
 DECL|function|exposeEvent
 DECL|function|extrude
@@ -8,5 +9,5 @@ DECL|function|mousePressEvent
 DECL|function|paintQtLogo
 DECL|function|quad
 DECL|function|render
-DECL|function|render
+DECL|function|setAnimating
 DECL|function|updateColor
