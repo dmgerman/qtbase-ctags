@@ -2,6 +2,7 @@ DECL|function|QQnxScreen
 DECL|function|activateWindowGroup
 DECL|function|addOverlayWindow
 DECL|function|addWindow
+DECL|function|adjustOrientation
 DECL|function|availableGeometry
 DECL|function|cursor
 DECL|function|deactivateWindowGroup
