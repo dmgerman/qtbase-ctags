@@ -1,3 +1,6 @@
+DECL|function|QPlatformTheme
+DECL|function|QPlatformTheme
+DECL|function|QPlatformThemePrivate
 DECL|function|createIconEngine
 DECL|function|createPlatformDialogHelper
 DECL|function|createPlatformMenu
@@ -7,8 +10,10 @@ DECL|function|createPlatformSystemTrayIcon
 DECL|function|defaultThemeHint
 DECL|function|fileIconPixmap
 DECL|function|font
+DECL|function|initializeSystemPalette
 DECL|function|palette
 DECL|function|standardPixmap
 DECL|function|themeHint
 DECL|function|usePlatformNativeDialog
 DECL|function|~QPlatformTheme
+DECL|function|~QPlatformThemePrivate
