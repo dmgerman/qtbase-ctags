@@ -25,6 +25,7 @@ DECL|function|doItemsLayout
 DECL|function|drawAndClipSpans
 DECL|function|drawCell
 DECL|function|gridStyle
+DECL|function|heightHintForIndex
 DECL|function|hideColumn
 DECL|function|hideRow
 DECL|function|horizontalHeader
@@ -108,6 +109,7 @@ DECL|function|visualIndex
 DECL|function|visualRect
 DECL|function|visualRegionForSelection
 DECL|function|visualSpanRect
+DECL|function|widthHintForIndex
 DECL|function|wordWrap
 DECL|function|~QTableView
 DECL|macro|DEBUG_SPAN_UPDATE
