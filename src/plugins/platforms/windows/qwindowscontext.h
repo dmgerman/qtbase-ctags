@@ -6,6 +6,7 @@ DECL|member|registerTouchWindow
 DECL|member|sHCreateItemFromParsingName
 DECL|member|sHGetStockIconInfo
 DECL|member|setLayeredWindowAttributes
+DECL|member|setProcessDPIAware
 DECL|member|unregisterTouchWindow
 DECL|member|updateLayeredWindow
 DECL|member|updateLayeredWindowIndirect
@@ -18,6 +19,7 @@ DECL|typedef|RegisterTouchWindow
 DECL|typedef|SHCreateItemFromParsingName
 DECL|typedef|SHGetStockIconInfo
 DECL|typedef|SetLayeredWindowAttributes
+DECL|typedef|SetProcessDPIAware
 DECL|typedef|UnregisterTouchWindow
 DECL|typedef|UpdateLayeredWindow
 DECL|typedef|UpdateLayeredWindowIndirect

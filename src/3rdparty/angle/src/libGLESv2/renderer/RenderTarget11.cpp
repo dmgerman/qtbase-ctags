@@ -1,0 +1,13 @@
+DECL|function|RenderTarget11
+DECL|function|RenderTarget11
+DECL|function|RenderTarget11
+DECL|function|getDSVSubresourceIndex
+DECL|function|getDepthStencilView
+DECL|function|getRTVSubresourceIndex
+DECL|function|getRenderTargetView
+DECL|function|getShaderResourceView
+DECL|function|getSubresourceIndex
+DECL|function|getTexture
+DECL|function|makeRenderTarget11
+DECL|function|~RenderTarget11
+DECL|namespace|rx

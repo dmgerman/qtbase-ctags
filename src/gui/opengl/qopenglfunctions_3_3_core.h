@@ -251,6 +251,7 @@ DECL|function|glTexCoordP4uiv
 DECL|function|glTexImage1D
 DECL|function|glTexImage2D
 DECL|function|glTexImage2DMultisample
+DECL|function|glTexImage3D
 DECL|function|glTexImage3DMultisample
 DECL|function|glTexParameterIiv
 DECL|function|glTexParameterIuiv

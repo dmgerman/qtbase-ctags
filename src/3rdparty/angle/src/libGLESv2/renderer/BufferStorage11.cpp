@@ -1,0 +1,11 @@
+DECL|function|BufferStorage11
+DECL|function|clear
+DECL|function|getBuffer
+DECL|function|getData
+DECL|function|getSize
+DECL|function|makeBufferStorage11
+DECL|function|markBufferUsage
+DECL|function|setData
+DECL|function|supportsDirectBinding
+DECL|function|~BufferStorage11
+DECL|namespace|rx

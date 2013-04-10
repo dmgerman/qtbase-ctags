@@ -1,0 +1,8 @@
+DECL|enumerator|CONSTANT_VERTEX_BUFFER_SIZE
+DECL|enumerator|INITIAL_STREAM_BUFFER_SIZE
+DECL|function|VertexDataManager
+DECL|function|directStoragePossible
+DECL|function|elementsInBuffer
+DECL|function|prepareVertexData
+DECL|function|~VertexDataManager
+DECL|namespace|rx

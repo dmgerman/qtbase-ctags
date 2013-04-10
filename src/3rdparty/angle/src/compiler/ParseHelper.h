@@ -12,6 +12,7 @@ DECL|member|compileOptions
 DECL|member|currentFunctionType
 DECL|member|diagnostics
 DECL|member|directiveHandler
+DECL|member|fragmentPrecisionHigh
 DECL|member|functionReturnsValue
 DECL|member|inTypeParen
 DECL|member|intermediate

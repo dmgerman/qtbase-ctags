@@ -5,5 +5,6 @@ DECL|function|traverse
 DECL|function|visitAggregate
 DECL|function|visitAggregate
 DECL|function|visitBranch
+DECL|function|visitLoop
 DECL|function|visitUnary
 DECL|namespace|sh

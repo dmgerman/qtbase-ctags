@@ -2,13 +2,10 @@ DECL|function|Surface
 DECL|function|Surface
 DECL|function|SurfaceWindowProc
 DECL|function|checkForOutOfDateSwapChain
-DECL|function|convertInterval
 DECL|function|getBoundTexture
-DECL|function|getDepthStencil
 DECL|function|getFormat
 DECL|function|getHeight
-DECL|function|getOffscreenTexture
-DECL|function|getRenderTarget
+DECL|function|getSwapChain
 DECL|function|getTextureFormat
 DECL|function|getTextureTarget
 DECL|function|getWidth
@@ -19,6 +16,7 @@ DECL|function|postSubBuffer
 DECL|function|release
 DECL|function|resetSwapChain
 DECL|function|resetSwapChain
+DECL|function|resizeSwapChain
 DECL|function|setBoundTexture
 DECL|function|setSwapInterval
 DECL|function|subclassWindow

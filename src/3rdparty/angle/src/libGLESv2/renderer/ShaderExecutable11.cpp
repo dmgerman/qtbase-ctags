@@ -1,0 +1,10 @@
+DECL|function|ShaderExecutable11
+DECL|function|ShaderExecutable11
+DECL|function|ShaderExecutable11
+DECL|function|getConstantBuffer
+DECL|function|getGeometryShader
+DECL|function|getPixelShader
+DECL|function|getVertexShader
+DECL|function|makeShaderExecutable11
+DECL|function|~ShaderExecutable11
+DECL|namespace|rx

@@ -1,0 +1,1 @@
+DECL|macro|LIBGLESV2_BLIT_H_

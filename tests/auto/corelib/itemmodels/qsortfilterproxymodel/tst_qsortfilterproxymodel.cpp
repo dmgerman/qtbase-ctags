@@ -12,6 +12,7 @@ DECL|class|Proxy10287
 DECL|class|QtTestModel
 DECL|class|SelectionProxyModel
 DECL|class|SignalArgumentChecker
+DECL|class|SourceAssertion
 DECL|class|TestModel
 DECL|class|tst_QSortFilterProxyModel
 DECL|function|ChangableHeaderData
@@ -27,6 +28,7 @@ DECL|function|Proxy10287
 DECL|function|QtTestModel
 DECL|function|SelectionProxyModel
 DECL|function|SignalArgumentChecker
+DECL|function|SourceAssertion
 DECL|function|addEntry
 DECL|function|appearsAndSort
 DECL|function|buildHierarchy
@@ -93,11 +95,13 @@ DECL|function|mapFromSource
 DECL|function|mapFromToSource
 DECL|function|mapSelectionFromSource
 DECL|function|mapToSource
+DECL|function|mapToSource
 DECL|function|match
 DECL|function|match_data
 DECL|function|modelAboutToBeReset
 DECL|function|modelReset
 DECL|function|moveSourceRows
+DECL|function|noMapAfterSourceDelete
 DECL|function|parent
 DECL|function|parent
 DECL|function|prependRow

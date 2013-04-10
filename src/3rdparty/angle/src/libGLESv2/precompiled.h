@@ -1,0 +1,2 @@
+DECL|macro|EGLAPI
+DECL|macro|GL_APICALL

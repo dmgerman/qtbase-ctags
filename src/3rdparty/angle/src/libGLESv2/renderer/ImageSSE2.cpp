@@ -1,0 +1,3 @@
+DECL|function|loadAlphaDataToBGRASSE2
+DECL|function|loadRGBAUByteDataToBGRASSE2
+DECL|namespace|rx

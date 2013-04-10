@@ -1,9 +1,0 @@
-DECL|function|FinalizePreprocessor
-DECL|function|FreeCPPStruct
-DECL|function|InitCPPStruct
-DECL|function|InitPreprocessor
-DECL|function|ResetPreprocessor
-DECL|macro|CPP_STUFF
-DECL|macro|CPP_STUFF
-DECL|variable|cpp
-DECL|variable|refCount
