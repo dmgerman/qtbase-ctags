@@ -4,6 +4,5 @@ DECL|function|end
 DECL|function|getResult
 DECL|function|getType
 DECL|function|isResultAvailable
-DECL|function|testQuery
 DECL|function|~Query
 DECL|namespace|gl

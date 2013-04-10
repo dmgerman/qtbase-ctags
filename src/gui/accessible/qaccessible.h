@@ -11,5 +11,6 @@ DECL|variable|QAccessibleTableCellInterface
 DECL|variable|QAccessibleTableInterface
 DECL|variable|QAccessibleTextInterface
 DECL|variable|QAccessibleValueInterface
+DECL|variable|QTextCursor
 DECL|variable|QWindow
 DECL|variable|operator

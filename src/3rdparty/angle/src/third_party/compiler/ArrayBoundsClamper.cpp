@@ -1,0 +1,12 @@
+DECL|class|ArrayBoundsClamperMarker
+DECL|function|ArrayBoundsClamper
+DECL|function|ArrayBoundsClamperMarker
+DECL|function|GetNeedsClamp
+DECL|function|MarkIndirectArrayBoundsForClamping
+DECL|function|OutputClampingFunctionDefinition
+DECL|function|SetClampingStrategy
+DECL|function|visitBinary
+DECL|member|mNeedsClamp
+DECL|variable|kIntClampBegin
+DECL|variable|kIntClampDefinition
+DECL|variable|kIntClampEnd

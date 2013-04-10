@@ -85,7 +85,6 @@ DECL|member|ibase
 DECL|member|inda
 DECL|member|localTransaction
 DECL|member|q
-DECL|member|q
 DECL|member|queryType
 DECL|member|resultBuffer
 DECL|member|sqlda

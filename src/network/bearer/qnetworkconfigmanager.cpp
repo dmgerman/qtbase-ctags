@@ -9,4 +9,5 @@ DECL|function|isOnline
 DECL|function|qNetworkConfigurationManagerPrivate
 DECL|function|updateConfigurations
 DECL|function|~QNetworkConfigurationManager
+DECL|variable|appShutdown
 DECL|variable|connManager_ptr

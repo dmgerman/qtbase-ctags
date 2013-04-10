@@ -13,9 +13,12 @@ DECL|function|enforceFragmentShaderTimingRestrictions
 DECL|function|enforcePackingRestrictions
 DECL|function|enforceTimingRestrictions
 DECL|function|enforceVertexShaderTimingRestrictions
+DECL|function|getArrayBoundsClamper
+DECL|function|getArrayIndexClampingStrategy
 DECL|function|getBuiltInFunctionEmulator
 DECL|function|getExtensionBehavior
 DECL|function|getMappedNameMaxLength
+DECL|function|getResources
 DECL|function|isWebGLBasedSpec
 DECL|function|mapLongVariableNames
 DECL|function|rewriteCSSShader

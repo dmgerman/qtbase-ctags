@@ -6,6 +6,7 @@ DECL|field|m_classLoader
 DECL|field|m_clipboardManager
 DECL|field|m_displayMetricsDesktopHeightPixels
 DECL|field|m_displayMetricsDesktopWidthPixels
+DECL|field|m_displayMetricsScaledDensity
 DECL|field|m_displayMetricsScreenHeightPixels
 DECL|field|m_displayMetricsScreenWidthPixels
 DECL|field|m_displayMetricsXDpi

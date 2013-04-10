@@ -29,7 +29,6 @@ DECL|function|getPSQLVersion
 DECL|function|handle
 DECL|function|handle
 DECL|function|hasFeature
-DECL|function|init
 DECL|function|isNull
 DECL|function|isOpen
 DECL|function|isinf_d
@@ -97,7 +96,6 @@ DECL|member|pendingNotifyCheck
 DECL|member|preparedQueriesEnabled
 DECL|member|preparedStmtId
 DECL|member|pro
-DECL|member|q
 DECL|member|result
 DECL|member|seid
 DECL|member|sn

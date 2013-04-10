@@ -40,7 +40,6 @@ DECL|function|deleteText
 DECL|function|dockWidget
 DECL|function|dockWidget
 DECL|function|dockWidgetLayout
-DECL|function|getBoundaries
 DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|indexOfChild

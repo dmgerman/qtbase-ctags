@@ -10,6 +10,7 @@ DECL|function|onOptionsItemSelected
 DECL|function|onOptionsMenuClosed
 DECL|function|onPrepareOptionsMenu
 DECL|function|registerNatives
+DECL|function|removeAmpersandEscapes
 DECL|function|removeMenuBar
 DECL|function|resetMenuBar
 DECL|function|setActiveTopLevelWindow

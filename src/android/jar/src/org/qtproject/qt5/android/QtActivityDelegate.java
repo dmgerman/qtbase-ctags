@@ -47,6 +47,7 @@ DECL|field|m_super_onRetainNonConfigurationInstance
 DECL|field|m_super_onSaveInstanceState
 DECL|field|m_surface
 DECL|method|closeContextMenu
+DECL|method|debugLog
 DECL|method|dispatchKeyEvent
 DECL|method|getAppIconSize
 DECL|method|getQtLayout

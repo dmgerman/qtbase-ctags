@@ -70,6 +70,7 @@ DECL|function|task253125_lineEditCompletion
 DECL|function|task253125_lineEditCompletion_data
 DECL|function|testFileSystemReady
 DECL|function|testRowCount
+DECL|function|textEdit
 DECL|function|tst_QCompleter
 DECL|function|unsortedEngineMapFromSource
 DECL|function|unsortedEngineRowCount
@@ -85,8 +86,8 @@ DECL|member|csv
 DECL|member|m_d
 DECL|member|m_needle
 DECL|member|m_role
+DECL|member|m_textEdit
 DECL|member|omitString
-DECL|member|textEdit
 DECL|member|treeWidget
 DECL|variable|testDir1
 DECL|variable|testDir2

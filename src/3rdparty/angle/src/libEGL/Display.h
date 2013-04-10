@@ -1,5 +1,1 @@
-DECL|function|getComparableOSVersion
 DECL|macro|LIBEGL_DISPLAY_H_
-DECL|macro|WIN32_LEAN_AND_MEAN
-DECL|variable|versionWindows7
-DECL|variable|versionWindowsVista

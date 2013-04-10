@@ -3,8 +3,8 @@ DECL|function|availablePieces
 DECL|function|canTransferMore
 DECL|function|cancelRequest
 DECL|function|chokePeer
-DECL|function|connectToHostImplementation
-DECL|function|diconnectFromHostImplementation
+DECL|function|connectToHost
+DECL|function|diconnectFromHost
 DECL|function|downloadSpeed
 DECL|function|fromNetworkData
 DECL|function|incomingBlocks

@@ -191,6 +191,7 @@ DECL|function|glStencilOpSeparate
 DECL|function|glTexBuffer
 DECL|function|glTexImage1D
 DECL|function|glTexImage2D
+DECL|function|glTexImage3D
 DECL|function|glTexParameterIiv
 DECL|function|glTexParameterIuiv
 DECL|function|glTexParameterf
