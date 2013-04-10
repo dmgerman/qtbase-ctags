@@ -76,6 +76,7 @@ DECL|function|pageUpDown
 DECL|function|paint
 DECL|function|paintEvent
 DECL|function|paste
+DECL|function|placeholderText
 DECL|function|print
 DECL|function|redo
 DECL|function|relayoutDocument
@@ -100,6 +101,7 @@ DECL|function|setHtml
 DECL|function|setLineWrapColumnOrWidth
 DECL|function|setLineWrapMode
 DECL|function|setOverwriteMode
+DECL|function|setPlaceholderText
 DECL|function|setPlainText
 DECL|function|setReadOnly
 DECL|function|setTabChangesFocus
