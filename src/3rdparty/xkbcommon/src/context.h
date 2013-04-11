@@ -1,0 +1,11 @@
+DECL|macro|CONTEXT_H
+DECL|macro|log_dbg
+DECL|macro|log_err
+DECL|macro|log_err_func
+DECL|macro|log_err_func1
+DECL|macro|log_info
+DECL|macro|log_vrb
+DECL|macro|log_warn
+DECL|macro|log_wsgo
+DECL|macro|xkb_log_cond_level
+DECL|macro|xkb_log_cond_verbosity

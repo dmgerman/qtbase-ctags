@@ -1,0 +1,1 @@
+DECL|macro|XKBCOMP_AST_BUILD_H

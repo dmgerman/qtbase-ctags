@@ -1,0 +1,5 @@
+DECL|function|DirectoryForInclude
+DECL|function|FindFileInXkbPath
+DECL|function|ParseIncludeMap
+DECL|function|ProcessIncludeFile
+DECL|variable|xkb_file_type_include_dirs

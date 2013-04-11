@@ -1,0 +1,6 @@
+DECL|function|compile_keymap_file
+DECL|function|text_v1_keymap_new_from_buffer
+DECL|function|text_v1_keymap_new_from_file
+DECL|function|text_v1_keymap_new_from_names
+DECL|function|text_v1_keymap_new_from_string
+DECL|variable|text_v1_keymap_format_ops

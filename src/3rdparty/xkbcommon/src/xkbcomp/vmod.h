@@ -1,0 +1,1 @@
+DECL|macro|XKBCOMP_VMOD_H
