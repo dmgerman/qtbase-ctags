@@ -24,6 +24,8 @@ DECL|function|testMulitpleSets_data
 DECL|function|testNonExistentPrinter
 DECL|function|testPageMargins
 DECL|function|testPageMargins_data
+DECL|function|testPageMetrics
+DECL|function|testPageMetrics_data
 DECL|function|testPageRectAndPaperRect
 DECL|function|testPageRectAndPaperRect_data
 DECL|function|testPageSetupDialog
