@@ -27,7 +27,6 @@ DECL|function|~QBuffer
 DECL|function|~QBufferPrivate
 DECL|member|buf
 DECL|member|defaultBuf
-DECL|member|ioIndex
 DECL|member|signalConnectionCount
 DECL|member|signalsEmitted
 DECL|member|writtenSinceLastEmit
