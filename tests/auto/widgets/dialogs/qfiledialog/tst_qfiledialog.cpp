@@ -57,6 +57,7 @@ DECL|function|setNameFilter_data
 DECL|function|sizeHint
 DECL|function|tildeExpansion
 DECL|function|tildeExpansion_data
+DECL|function|trailingDotsAndSpaces
 DECL|function|tst_QFiledialog
 DECL|function|viewMode
 DECL|function|widgetlessNativeDialog
