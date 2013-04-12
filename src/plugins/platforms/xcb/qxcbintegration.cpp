@@ -21,6 +21,7 @@ DECL|function|nativeInterface
 DECL|function|queryKeyboardModifiers
 DECL|function|runningUnderDebugger
 DECL|function|services
+DECL|function|styleHint
 DECL|function|swapBuffers
 DECL|function|themeNames
 DECL|function|~QXcbIntegration
