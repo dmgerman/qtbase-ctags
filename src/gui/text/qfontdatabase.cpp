@@ -40,6 +40,7 @@ DECL|function|isSmoothlyScalable
 DECL|function|italic
 DECL|function|match
 DECL|function|matchFamilyName
+DECL|function|matchesFamilyName
 DECL|function|operator !=
 DECL|function|operator <
 DECL|function|operator ==
