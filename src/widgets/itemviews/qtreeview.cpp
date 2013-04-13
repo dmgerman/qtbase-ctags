@@ -68,6 +68,7 @@ DECL|function|itemHeight
 DECL|function|itemsExpandable
 DECL|function|keyPressEvent
 DECL|function|keyboardSearch
+DECL|function|lastVisibleItem
 DECL|function|layout
 DECL|function|modelIndex
 DECL|function|mouseDoubleClickEvent
