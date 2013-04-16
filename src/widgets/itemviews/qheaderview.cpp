@@ -54,6 +54,7 @@ DECL|function|read
 DECL|function|recalcSectionStartPos
 DECL|function|removeSectionsFromSectionItems
 DECL|function|reset
+DECL|function|resizeContentsPrecision
 DECL|function|resizeSection
 DECL|function|resizeSectionItem
 DECL|function|resizeSections
@@ -89,6 +90,7 @@ DECL|function|setModel
 DECL|function|setOffset
 DECL|function|setOffsetToLastSection
 DECL|function|setOffsetToSectionPosition
+DECL|function|setResizeContentsPrecision
 DECL|function|setScrollOffset
 DECL|function|setSectionHidden
 DECL|function|setSectionResizeMode
