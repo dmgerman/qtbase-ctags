@@ -15,9 +15,13 @@ DECL|function|release
 DECL|function|time
 DECL|function|translateModifiers
 DECL|function|updateKeymap
+DECL|function|updateModifiers
 DECL|function|updateVModMapping
 DECL|function|updateVModToRModMapping
+DECL|function|updateXKBMods
 DECL|function|updateXKBState
+DECL|function|updateXKBStateFromCore
+DECL|function|xkbModMask
 DECL|function|~QXcbKeyboard
 DECL|macro|XF86XK_AddFavorite
 DECL|macro|XF86XK_ApplicationLeft
