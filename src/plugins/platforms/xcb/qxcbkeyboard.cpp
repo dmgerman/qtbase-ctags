@@ -9,6 +9,7 @@ DECL|function|handleMappingNotifyEvent
 DECL|function|keysymToQtKey
 DECL|function|keysymToQtKey
 DECL|function|keysymToUnicode
+DECL|function|possibleKeys
 DECL|function|readXKBConfig
 DECL|function|release
 DECL|function|time
@@ -176,3 +177,4 @@ DECL|member|m_release
 DECL|member|m_time
 DECL|member|m_window
 DECL|variable|KeyTbl
+DECL|variable|ModsTbl
