@@ -9,4 +9,5 @@ DECL|function|topLevelAt
 DECL|function|updateGeometry
 DECL|function|updateRefreshRate
 DECL|function|visualForId
+DECL|function|xResource
 DECL|function|~QXcbScreen
