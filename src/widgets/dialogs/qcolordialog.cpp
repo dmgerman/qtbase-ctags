@@ -21,6 +21,7 @@ DECL|function|_q_newColorTypedIn
 DECL|function|_q_newCustom
 DECL|function|_q_newHsv
 DECL|function|_q_newStandard
+DECL|function|_q_pickScreenColor
 DECL|function|cellBrush
 DECL|function|cellGeometry
 DECL|function|cellHeight
@@ -51,6 +52,7 @@ DECL|function|focusInEvent
 DECL|function|focusOutEvent
 DECL|function|getColor
 DECL|function|getRgba
+DECL|function|grabScreenColor
 DECL|function|gridSize
 DECL|function|helperPrepareShow
 DECL|function|hsvEd
@@ -60,15 +62,18 @@ DECL|function|initHelper
 DECL|function|isAlphaVisible
 DECL|function|isAlphaVisible
 DECL|function|keyPressEvent
+DECL|function|keyPressEvent
 DECL|function|mouseMoveEvent
 DECL|function|mouseMoveEvent
 DECL|function|mouseMoveEvent
 DECL|function|mouseMoveEvent
+DECL|function|mouseMoveEvent
 DECL|function|mousePressEvent
 DECL|function|mousePressEvent
 DECL|function|mousePressEvent
 DECL|function|mousePressEvent
 DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent
 DECL|function|mouseReleaseEvent
 DECL|function|mouseReleaseEvent
 DECL|function|mouseReleaseEvent
@@ -83,6 +88,7 @@ DECL|function|paintEvent
 DECL|function|paintEvent
 DECL|function|paintEvent
 DECL|function|paintEvent
+DECL|function|releaseColorPicking
 DECL|function|resizeEvent
 DECL|function|retranslateStrings
 DECL|function|retranslateStrings
