@@ -31,6 +31,7 @@ DECL|function|defaultCursor
 DECL|function|destroyWindow
 DECL|function|effectiveScreen
 DECL|function|ensureEglSurfaceHandle
+DECL|function|fireExpose
 DECL|function|frame
 DECL|function|frameGeometry
 DECL|function|frameGeometry_sys
@@ -44,7 +45,6 @@ DECL|function|handleGeometryChange
 DECL|function|handleHidden
 DECL|function|handleMoved
 DECL|function|handleResized
-DECL|function|handleShown
 DECL|function|handleWindowStateChange
 DECL|function|handleWmPaint
 DECL|function|hide_sys
