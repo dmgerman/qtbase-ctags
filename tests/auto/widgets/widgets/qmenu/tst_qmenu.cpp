@@ -1,12 +1,15 @@
+DECL|class|LayoutDirectionSaver
 DECL|class|Menu
 DECL|class|Menu258920
 DECL|class|MyMenu
 DECL|class|PopulateOnAboutToShowTestMenu
 DECL|class|tst_QMenu
 DECL|enumerator|num_builtins
+DECL|function|LayoutDirectionSaver
 DECL|function|MyMenu
 DECL|function|PopulateOnAboutToShowTestMenu
 DECL|function|QTBUG20403_nested_popup_on_shortcut_trigger
+DECL|function|QTBUG30595_rtl_submenu
 DECL|function|QTBUG7411_submenus_activate
 DECL|function|QTBUG7907_submenus_autoselect
 DECL|function|QTBUG_10735_crashWithDialog
@@ -48,6 +51,7 @@ DECL|function|task258920_mouseBorder
 DECL|function|tearOff
 DECL|function|tst_QMenu
 DECL|function|widgetActionFocus
+DECL|function|~LayoutDirectionSaver
 DECL|member|activated
 DECL|member|builtins
 DECL|member|dialogActions
@@ -55,6 +59,7 @@ DECL|member|dialogs
 DECL|member|highlighted
 DECL|member|lastMenu
 DECL|member|m_currentIndex
+DECL|member|m_oldDirection
 DECL|member|menus
 DECL|member|painted
 DECL|member|statustip
