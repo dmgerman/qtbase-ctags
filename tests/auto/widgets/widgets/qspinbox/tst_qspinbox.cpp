@@ -7,6 +7,7 @@ DECL|function|getSetCheck
 DECL|function|init
 DECL|function|integerOverflow
 DECL|function|lineEdit
+DECL|function|lineEditReturnPressed
 DECL|function|locale
 DECL|function|locale_data
 DECL|function|removeAll
