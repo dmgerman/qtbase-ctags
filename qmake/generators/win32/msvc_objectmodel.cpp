@@ -81,6 +81,7 @@ DECL|variable|_ConfigurationType
 DECL|variable|_Configurations
 DECL|variable|_Culture
 DECL|variable|_DLLDataFileName
+DECL|variable|_DataExecutionPrevention
 DECL|variable|_DebugInformationFormat
 DECL|variable|_DefaultCharIsUnsigned
 DECL|variable|_DefaultCharType
@@ -180,6 +181,7 @@ DECL|variable|_ProgramDatabaseFile
 DECL|variable|_ProjectGUID
 DECL|variable|_ProjectType
 DECL|variable|_ProxyFileName
+DECL|variable|_RandomizedBaseAddress
 DECL|variable|_RedirectOutputAndErrors
 DECL|variable|_RegisterOutput
 DECL|variable|_RelativePath
