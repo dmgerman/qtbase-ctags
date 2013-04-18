@@ -32,6 +32,8 @@ DECL|function|qUpperBound
 DECL|function|qUpperBound
 DECL|function|qUpperBound
 DECL|macro|QALGORITHMS_H
+DECL|macro|QALGORITHMS_USE_BUILTIN_POPCOUNT
+DECL|macro|QALGORITHMS_USE_BUILTIN_POPCOUNT
 DECL|variable|BiIterator1
 DECL|variable|Container
 DECL|variable|Container
