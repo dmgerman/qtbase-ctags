@@ -2,6 +2,9 @@ DECL|class|QtActivity
 DECL|field|APPLICATION_PARAMETERS
 DECL|field|APPLICATION_PARAMETERS_KEY
 DECL|field|APPLICATION_TITLE_KEY
+DECL|field|BUFFER_SIZE
+DECL|field|BUNDLED_IN_ASSETS_RESOURCE_ID_KEY
+DECL|field|BUNDLED_IN_LIB_RESOURCE_ID_KEY
 DECL|field|BUNDLED_LIBRARIES_KEY
 DECL|field|DEX_PATH_KEY
 DECL|field|ENVIRONMENT_VARIABLES
@@ -30,6 +33,9 @@ DECL|field|m_ministroConnection
 DECL|field|m_qtLibs
 DECL|field|m_repository
 DECL|field|m_sources
+DECL|method|copyAsset
+DECL|method|copyFile
+DECL|method|createBundledBinary
 DECL|method|dispatchGenericMotionEvent
 DECL|method|dispatchKeyEvent
 DECL|method|dispatchKeyShortcutEvent
@@ -37,6 +43,7 @@ DECL|method|dispatchPopulateAccessibilityEvent
 DECL|method|dispatchTouchEvent
 DECL|method|dispatchTrackballEvent
 DECL|method|downloadUpgradeMinistro
+DECL|method|extractBundledPluginsAndImports
 DECL|method|loadApplication
 DECL|method|ministroNotFound
 DECL|method|onActionModeFinished
