@@ -89,6 +89,7 @@ DECL|function|setModel
 DECL|function|setOffset
 DECL|function|setOffsetToLastSection
 DECL|function|setOffsetToSectionPosition
+DECL|function|setScrollOffset
 DECL|function|setSectionHidden
 DECL|function|setSectionResizeMode
 DECL|function|setSectionResizeMode
