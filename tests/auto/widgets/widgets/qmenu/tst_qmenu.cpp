@@ -7,6 +7,7 @@ DECL|enumerator|num_builtins
 DECL|function|MyMenu
 DECL|function|PopulateOnAboutToShowTestMenu
 DECL|function|QTBUG20403_nested_popup_on_shortcut_trigger
+DECL|function|QTBUG30595_rtl_submenu
 DECL|function|QTBUG7411_submenus_activate
 DECL|function|QTBUG7907_submenus_autoselect
 DECL|function|QTBUG_10735_crashWithDialog

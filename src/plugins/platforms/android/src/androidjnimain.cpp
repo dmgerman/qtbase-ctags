@@ -1,6 +1,3 @@
-DECL|class|FakeSurface
-DECL|function|ANativeWindow_fromSurface
-DECL|function|FakeSurfaceMethod
 DECL|function|JNI_OnLoad
 DECL|function|activity
 DECL|function|androidPlatformIntegration
@@ -35,16 +32,12 @@ DECL|function|terminateQt
 DECL|function|topLevelWindowAt
 DECL|function|unlockSurface
 DECL|function|updateWindow
-DECL|macro|ANDROID_VIEW_SURFACE_JNI_ID
 DECL|macro|FIND_AND_CHECK_CLASS
 DECL|macro|GET_AND_CHECK_FIELD
 DECL|macro|GET_AND_CHECK_METHOD
 DECL|macro|GET_AND_CHECK_STATIC_FIELD
 DECL|macro|GET_AND_CHECK_STATIC_METHOD
-DECL|member|dummyNativeWindow
-DECL|member|fakeSurface
 DECL|namespace|QtAndroid
-DECL|struct|FakeNativeWindow
 DECL|typedef|Main
 DECL|variable|m_ARGB_8888_BitmapConfigValue
 DECL|variable|m_RGB_565_BitmapConfigValue

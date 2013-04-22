@@ -20,6 +20,7 @@ DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|operator QVariant
+DECL|function|qt_fusionPalette
 DECL|function|qt_mix_colors
 DECL|function|qt_palette_from_color
 DECL|function|readV1ColorGroup

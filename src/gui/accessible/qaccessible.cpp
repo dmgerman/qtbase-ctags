@@ -30,5 +30,4 @@ DECL|function|~QAccessibleInterface
 DECL|member|rootObjectHandler
 DECL|member|updateHandler
 DECL|typedef|QAccessiblePluginsHash
-DECL|variable|accessibility_active
 DECL|variable|cleanupAdded

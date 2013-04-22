@@ -4,7 +4,6 @@ DECL|function|encode
 DECL|function|initialize
 DECL|function|initializeMarker
 DECL|function|insert
-DECL|function|insert
 DECL|function|insertReimpFunc
 DECL|function|linkTag
 DECL|function|macName

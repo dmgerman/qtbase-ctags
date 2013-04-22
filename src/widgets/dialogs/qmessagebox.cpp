@@ -40,6 +40,7 @@ DECL|function|changeEvent
 DECL|function|clickedButton
 DECL|function|closeEvent
 DECL|function|contextMenuEvent
+DECL|function|copy
 DECL|function|critical
 DECL|function|critical
 DECL|function|critical
@@ -101,6 +102,7 @@ DECL|function|standardIcon
 DECL|function|standardIcon
 DECL|function|text
 DECL|function|text
+DECL|function|textCopyAvailable
 DECL|function|textFormat
 DECL|function|textInteractionFlags
 DECL|function|updateSize
@@ -112,6 +114,7 @@ DECL|member|autoAddOkButton
 DECL|member|buttonBox
 DECL|member|clickedButton
 DECL|member|compatMode
+DECL|member|copyAvailable
 DECL|member|customButtonList
 DECL|member|defaultButton
 DECL|member|detailsButton

@@ -1,7 +1,9 @@
 DECL|function|QWindow
 DECL|function|QWindow
 DECL|function|QWindow
+DECL|function|_q_clearAlert
 DECL|function|accessibleRoot
+DECL|function|alert
 DECL|function|applyCursor
 DECL|function|baseSize
 DECL|function|close

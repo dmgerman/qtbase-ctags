@@ -86,6 +86,7 @@ DECL|function|qRectToXCBRectangle
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|sendXEmbedMessage
+DECL|function|setAlertState
 DECL|function|setCursor
 DECL|function|setGeometry
 DECL|function|setKeyboardGrabEnabled

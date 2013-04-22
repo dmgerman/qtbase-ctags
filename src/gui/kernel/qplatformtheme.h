@@ -11,5 +11,6 @@ DECL|variable|QPlatformMenu
 DECL|variable|QPlatformMenuBar
 DECL|variable|QPlatformMenuItem
 DECL|variable|QPlatformSystemTrayIcon
+DECL|variable|QPlatformThemePrivate
 DECL|variable|QSizeF
 DECL|variable|QVariant
