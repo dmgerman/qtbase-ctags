@@ -1,0 +1,1 @@
+DECL|macro|MESSAGES_H
