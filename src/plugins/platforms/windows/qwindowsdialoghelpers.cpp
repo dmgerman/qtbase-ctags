@@ -67,7 +67,6 @@ DECL|function|QWindowsXpFileDialogHelper
 DECL|function|QWindowsXpNativeFileDialog
 DECL|function|QueryInterface
 DECL|function|Release
-DECL|function|appendSuffix
 DECL|function|close
 DECL|function|close
 DECL|function|close
@@ -103,6 +102,7 @@ DECL|function|fileDialog
 DECL|function|filterSpecs
 DECL|function|fromOptions
 DECL|function|guidToString
+DECL|function|hasDefaultSuffix
 DECL|function|hide
 DECL|function|hideFiltersDetails
 DECL|function|indexOfNameFilter
@@ -148,6 +148,7 @@ DECL|function|selectedNameFilter
 DECL|function|selectedNameFilter
 DECL|function|setCurrentColor
 DECL|function|setDefaultSuffix
+DECL|function|setDefaultSuffixSys
 DECL|function|setDirectory
 DECL|function|setDirectory
 DECL|function|setDirectory
@@ -167,10 +168,12 @@ DECL|function|setWindowTitle
 DECL|function|setWindowTitle
 DECL|function|shellItem
 DECL|function|show
+DECL|function|slotFilterSelected
 DECL|function|snapToDefaultButtonHint
 DECL|function|startDialogThread
 DECL|function|stopTimer
 DECL|function|styleHint
+DECL|function|suffixFromFilter
 DECL|function|supportsNonModalDialog
 DECL|function|supportsNonModalDialog
 DECL|function|supportsNonModalDialog
@@ -250,6 +253,7 @@ DECL|member|m_getOpenFileNameW
 DECL|member|m_getOpenFileNameW
 DECL|member|m_getSaveFileNameW
 DECL|member|m_getSaveFileNameW
+DECL|member|m_hasDefaultSuffix
 DECL|member|m_helper
 DECL|member|m_hideFiltersDetails
 DECL|member|m_nameFilters
