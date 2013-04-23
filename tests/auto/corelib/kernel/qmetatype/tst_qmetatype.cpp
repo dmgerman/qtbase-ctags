@@ -289,8 +289,10 @@ DECL|typedef|UndefinedFunction0
 DECL|typedef|UndefinedFunction1
 DECL|typedef|UndefinedFunction2
 DECL|typedef|UndefinedFunction3
+DECL|typedef|UndefinedFunction4
 DECL|variable|FlagsDataEnum
 DECL|variable|UndefinedFunction0
 DECL|variable|UndefinedFunction1
 DECL|variable|UndefinedFunction2
 DECL|variable|UndefinedFunction3
+DECL|variable|UndefinedFunction4
