@@ -29,6 +29,7 @@ DECL|function|debugWindowFlags
 DECL|function|debugWindowStates
 DECL|function|defaultCursor
 DECL|function|destroyWindow
+DECL|function|effectiveScreen
 DECL|function|ensureEglSurfaceHandle
 DECL|function|frame
 DECL|function|frameGeometry
