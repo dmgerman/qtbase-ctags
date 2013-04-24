@@ -100,6 +100,7 @@ DECL|function|startSystemResize
 DECL|function|stopAlertWindow
 DECL|function|topLevelOf
 DECL|function|unregisterDropSite
+DECL|function|updateTransientParent
 DECL|function|validSize
 DECL|function|windowEvent
 DECL|function|~QWindowsWindow
