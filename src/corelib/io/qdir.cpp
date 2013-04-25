@@ -55,6 +55,7 @@ DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator []
 DECL|function|path
+DECL|function|qt_normalizePathSegments
 DECL|function|refresh
 DECL|function|relativeFilePath
 DECL|function|remove
