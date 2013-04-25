@@ -12,6 +12,7 @@ DECL|function|checkEvent
 DECL|function|findOrCreateScreen
 DECL|function|formatForDepth
 DECL|function|getTimestamp
+DECL|function|grabServer
 DECL|function|handleButtonPress
 DECL|function|handleButtonRelease
 DECL|function|handleClientMessageEvent
@@ -39,6 +40,7 @@ DECL|function|startThread
 DECL|function|sync
 DECL|function|translateMouseButton
 DECL|function|translateMouseButtons
+DECL|function|ungrabServer
 DECL|function|unlock
 DECL|function|updateScreens
 DECL|function|xi2CountBits
