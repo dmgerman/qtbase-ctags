@@ -50,6 +50,7 @@ DECL|function|lightnessF
 DECL|function|magenta
 DECL|function|magentaF
 DECL|function|name
+DECL|function|name
 DECL|function|operator !=
 DECL|function|operator <<
 DECL|function|operator <<

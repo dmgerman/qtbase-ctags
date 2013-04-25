@@ -12,6 +12,8 @@ DECL|function|isValid_data
 DECL|function|light
 DECL|function|name
 DECL|function|name_data
+DECL|function|namehex
+DECL|function|namehex_data
 DECL|function|setBlue
 DECL|function|setCmyk
 DECL|function|setGreen
@@ -45,6 +47,7 @@ DECL|macro|rgb
 DECL|member|name
 DECL|member|value
 DECL|struct|RGBData
+DECL|variable|NameFormat
 DECL|variable|Spec
 DECL|variable|rgbTbl
 DECL|variable|rgbTblSize
