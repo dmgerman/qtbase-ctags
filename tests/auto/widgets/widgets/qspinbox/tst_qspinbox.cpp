@@ -11,6 +11,8 @@ DECL|function|lineEditReturnPressed
 DECL|function|locale
 DECL|function|locale_data
 DECL|function|removeAll
+DECL|function|setDisplayIntegerBase
+DECL|function|setDisplayIntegerBase_data
 DECL|function|setMinMax
 DECL|function|setMinMax_data
 DECL|function|setPrefixSuffix

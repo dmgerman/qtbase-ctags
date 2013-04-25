@@ -7,6 +7,7 @@ DECL|function|QSpinBoxPrivate
 DECL|function|cleanText
 DECL|function|cleanText
 DECL|function|decimals
+DECL|function|displayIntegerBase
 DECL|function|emitSignals
 DECL|function|emitSignals
 DECL|function|event
@@ -22,6 +23,7 @@ DECL|function|prefix
 DECL|function|prefix
 DECL|function|round
 DECL|function|setDecimals
+DECL|function|setDisplayIntegerBase
 DECL|function|setMaximum
 DECL|function|setMaximum
 DECL|function|setMinimum
@@ -60,3 +62,4 @@ DECL|macro|QSBDEBUG
 DECL|member|actualMax
 DECL|member|actualMin
 DECL|member|decimals
+DECL|member|displayIntegerBase
