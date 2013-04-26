@@ -12,4 +12,5 @@ DECL|function|updateRefreshRate
 DECL|function|visualForId
 DECL|function|windowShown
 DECL|function|xResource
+DECL|function|xSettings
 DECL|function|~QXcbScreen
