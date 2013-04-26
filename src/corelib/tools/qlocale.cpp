@@ -46,7 +46,6 @@ DECL|function|groupSeparator
 DECL|function|language
 DECL|function|languageToCode
 DECL|function|languageToString
-DECL|function|localeDataIndex
 DECL|function|localePrivateByName
 DECL|function|longLongToString
 DECL|function|longLongToString
