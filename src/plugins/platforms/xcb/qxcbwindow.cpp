@@ -63,6 +63,7 @@ DECL|function|handleEnterNotifyEvent
 DECL|function|handleExposeEvent
 DECL|function|handleFocusInEvent
 DECL|function|handleFocusOutEvent
+DECL|function|handleGenericEvent
 DECL|function|handleLeaveNotifyEvent
 DECL|function|handleMapNotifyEvent
 DECL|function|handleMotionNotifyEvent
@@ -106,6 +107,7 @@ DECL|function|setWindowState
 DECL|function|setWindowTitle
 DECL|function|show
 DECL|function|startSystemResize
+DECL|function|toWindow
 DECL|function|updateDoesNotAcceptFocus
 DECL|function|updateMotifWmHintsBeforeMap
 DECL|function|updateNetWmStateBeforeMap
