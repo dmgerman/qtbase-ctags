@@ -31,11 +31,13 @@ DECL|function|dateTimeToString
 DECL|function|dayName
 DECL|function|decimalPoint
 DECL|function|defaultData
+DECL|function|defaultLocalePrivate
 DECL|function|doubleToString
 DECL|function|doubleToString
 DECL|function|exponential
 DECL|function|findLocaleData
 DECL|function|findLocaleData
+DECL|function|findLocalePrivate
 DECL|function|firstDayOfWeek
 DECL|function|getLangAndCountry
 DECL|function|getLocaleData
@@ -45,6 +47,7 @@ DECL|function|language
 DECL|function|languageToCode
 DECL|function|languageToString
 DECL|function|localeDataIndex
+DECL|function|localePrivateByName
 DECL|function|longLongToString
 DECL|function|longLongToString
 DECL|function|matchingLocales
