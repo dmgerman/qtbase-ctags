@@ -11,6 +11,7 @@ DECL|function|findAllClasses
 DECL|function|findAllFunctions
 DECL|function|findAllLegaleseTexts
 DECL|function|findAllNamespaces
+DECL|function|findAllObsoleteThings
 DECL|function|findAllSince
 DECL|function|findDocNodeByTitle
 DECL|function|findGroup

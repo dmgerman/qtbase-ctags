@@ -24,6 +24,8 @@ DECL|function|ExternEntity
 DECL|function|ExternEntity
 DECL|function|ExternParameterEntity
 DECL|function|ExternParameterEntity
+DECL|function|QXmlAttributes
+DECL|function|QXmlDefaultHandler
 DECL|function|QXmlInputSource
 DECL|function|QXmlInputSource
 DECL|function|QXmlLocator
@@ -190,6 +192,8 @@ DECL|function|value
 DECL|function|value
 DECL|function|value
 DECL|function|warning
+DECL|function|~QXmlAttributes
+DECL|function|~QXmlDefaultHandler
 DECL|function|~QXmlInputSource
 DECL|function|~QXmlLocator
 DECL|function|~QXmlNamespaceSupport

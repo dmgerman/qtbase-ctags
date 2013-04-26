@@ -3,6 +3,7 @@ DECL|function|QWindowsIntegration
 DECL|function|QWindowsIntegrationPrivate
 DECL|function|accessibility
 DECL|function|asyncExpose
+DECL|function|beep
 DECL|function|clipboard
 DECL|function|createMessageWindow
 DECL|function|createPlatformBackingStore

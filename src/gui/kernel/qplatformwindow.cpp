@@ -8,6 +8,7 @@ DECL|function|geometry
 DECL|function|handleContentOrientationChange
 DECL|function|initialGeometry
 DECL|function|isActive
+DECL|function|isAlertState
 DECL|function|isEmbedded
 DECL|function|isExposed
 DECL|function|lower
@@ -18,6 +19,7 @@ DECL|function|propagateSizeHints
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|screen
+DECL|function|setAlertState
 DECL|function|setFrameStrutEventsEnabled
 DECL|function|setGeometry
 DECL|function|setKeyboardGrabEnabled

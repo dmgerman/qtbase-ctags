@@ -3,6 +3,7 @@ DECL|function|QXcbNativeInterface
 DECL|function|QXcbResourceMap
 DECL|function|appTime
 DECL|function|appUserTime
+DECL|function|beep
 DECL|function|connectionForWindow
 DECL|function|displayForWindow
 DECL|function|eglContextForContext

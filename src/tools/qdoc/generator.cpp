@@ -76,6 +76,7 @@ DECL|member|imageFiles
 DECL|member|imgFileExts
 DECL|member|noLinkErrors_
 DECL|member|outDir_
+DECL|member|outSubdir_
 DECL|member|outputFormats
 DECL|member|outputPrefixes
 DECL|member|project

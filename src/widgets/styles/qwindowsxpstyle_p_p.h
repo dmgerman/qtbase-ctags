@@ -50,7 +50,6 @@ DECL|member|dwFlags
 DECL|member|dwSize
 DECL|member|hadInvalidAlpha
 DECL|member|hasAlphaChannel
-DECL|member|hasAnyData
 DECL|member|noBorder
 DECL|member|noContent
 DECL|member|partId

@@ -69,6 +69,7 @@ DECL|function|raise
 DECL|function|registerDropSite
 DECL|function|releaseDC
 DECL|function|requestActivateWindow
+DECL|function|setAlertState
 DECL|function|setCursor
 DECL|function|setCustomMargins
 DECL|function|setEnabled
