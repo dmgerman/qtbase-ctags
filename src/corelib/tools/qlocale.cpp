@@ -32,7 +32,6 @@ DECL|function|dateTimeToString
 DECL|function|dayName
 DECL|function|decimalPoint
 DECL|function|defaultData
-DECL|function|defaultLocalePrivate
 DECL|function|doubleToString
 DECL|function|doubleToString
 DECL|function|exponential
