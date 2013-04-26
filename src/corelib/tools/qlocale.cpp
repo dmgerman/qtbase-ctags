@@ -15,6 +15,7 @@ DECL|function|bcp47Name
 DECL|function|bytearrayToDouble
 DECL|function|bytearrayToLongLong
 DECL|function|bytearrayToUnsLongLong
+DECL|function|c
 DECL|function|codeToCountry
 DECL|function|codeToLanguage
 DECL|function|codeToScript
@@ -146,6 +147,8 @@ DECL|function|~QLocale
 DECL|function|~QSystemLocale
 DECL|macro|QT_MAX_FLOAT
 DECL|variable|_systemLocale
+DECL|variable|c_data
+DECL|variable|c_private
 DECL|variable|default_data
 DECL|variable|default_number_options
 DECL|variable|locale_data_size
