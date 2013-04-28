@@ -86,6 +86,7 @@ DECL|function|isLocalFile
 DECL|function|isParentOf
 DECL|function|isRelative
 DECL|function|isValid
+DECL|function|matches
 DECL|function|mergePaths
 DECL|function|operator !=
 DECL|function|operator <
