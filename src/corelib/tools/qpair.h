@@ -1,5 +1,7 @@
 DECL|function|QPair
 DECL|function|QPair
+DECL|function|QPair
+DECL|function|QPair
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
@@ -7,7 +9,11 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|qMakePair
 DECL|macro|QPAIR_H
-DECL|member|first
+DECL|member|TT1
+DECL|member|TT1
+DECL|member|TT1
+DECL|member|operator
+DECL|member|operator
 DECL|member|second
 DECL|struct|QPair
 DECL|typedef|first_type
