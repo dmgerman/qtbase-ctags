@@ -1,3 +1,6 @@
+DECL|function|ConfigVar
+DECL|function|ConfigVar
+DECL|function|ConfigVar
 DECL|macro|CONFIG_ALIAS
 DECL|macro|CONFIG_BASE
 DECL|macro|CONFIG_BASEDIR
@@ -62,13 +65,11 @@ DECL|macro|CONFIG_TRANSLATORS
 DECL|macro|CONFIG_URL
 DECL|macro|CONFIG_VERSION
 DECL|macro|CONFIG_VERSIONSYM
+DECL|member|currentPath_
+DECL|member|location_
+DECL|member|name_
+DECL|member|plus_
+DECL|member|values_
+DECL|struct|ConfigVar
+DECL|typedef|ConfigVarMultimap
 DECL|typedef|QString
-DECL|typedef|QString
-DECL|typedef|QString
-DECL|typedef|QString
-DECL|typedef|QString
-DECL|typedef|QStringListPair
-DECL|typedef|QStringListPairMap
-DECL|typedef|QStringPair
-DECL|typedef|QStringPairMap
-DECL|typedef|QStringPairMultiMap

@@ -3,6 +3,7 @@ DECL|function|Location
 DECL|function|Location
 DECL|function|advance
 DECL|function|canonicalRelativePath
+DECL|function|canonicalRelativePath
 DECL|function|emitMessage
 DECL|function|error
 DECL|function|fatal
