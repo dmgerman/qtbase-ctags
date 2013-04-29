@@ -6,6 +6,8 @@ DECL|function|getIcon
 DECL|function|icon
 DECL|function|icon
 DECL|function|isCacheable
+DECL|function|options
+DECL|function|setOptions
 DECL|function|type
 DECL|function|~QFileIconProvider
 DECL|member|cdrom
@@ -21,6 +23,7 @@ DECL|member|harddisk
 DECL|member|home
 DECL|member|homePath
 DECL|member|network
+DECL|member|options
 DECL|member|q_ptr
 DECL|member|ram
 DECL|member|trashcan
