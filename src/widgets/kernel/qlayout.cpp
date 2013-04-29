@@ -7,6 +7,7 @@ DECL|function|activateRecursiveHelper
 DECL|function|addChildLayout
 DECL|function|addChildWidget
 DECL|function|addWidget
+DECL|function|adoptLayout
 DECL|function|alignmentRect
 DECL|function|childEvent
 DECL|function|closestAcceptableSize

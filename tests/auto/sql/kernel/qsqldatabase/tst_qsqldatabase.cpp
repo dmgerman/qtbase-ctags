@@ -7,8 +7,6 @@ DECL|function|alterTable
 DECL|function|alterTable_data
 DECL|function|bigIntField
 DECL|function|bigIntField_data
-DECL|function|bug_249059
-DECL|function|bug_249059_data
 DECL|function|caseSensivity
 DECL|function|caseSensivity_data
 DECL|function|cleanup
@@ -78,6 +76,8 @@ DECL|function|open_data
 DECL|function|populateTestTables
 DECL|function|precisionPolicy
 DECL|function|precisionPolicy_data
+DECL|function|psql_bug249059
+DECL|function|psql_bug249059_data
 DECL|function|psql_escapeBytea
 DECL|function|psql_escapeBytea_data
 DECL|function|psql_escapedIdentifiers

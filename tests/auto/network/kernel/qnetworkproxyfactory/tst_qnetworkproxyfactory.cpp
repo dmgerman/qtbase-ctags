@@ -3,6 +3,8 @@ DECL|class|QSPFQThread
 DECL|class|tst_QNetworkProxyFactory
 DECL|function|formatProxyName
 DECL|function|fromConfigurations
+DECL|function|genericSystemProxy
+DECL|function|genericSystemProxy_data
 DECL|function|inNetworkAccessManager
 DECL|function|inNetworkAccessManager_data
 DECL|function|queryProxy

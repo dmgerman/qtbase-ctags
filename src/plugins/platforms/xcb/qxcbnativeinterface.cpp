@@ -10,6 +10,7 @@ DECL|function|eglContextForContext
 DECL|function|eglDisplayForWindow
 DECL|function|glxContextForContext
 DECL|function|nativeResourceForContext
+DECL|function|nativeResourceForIntegration
 DECL|function|nativeResourceForScreen
 DECL|function|nativeResourceForWindow
 DECL|function|nativeResourceFunctionForContext
@@ -18,3 +19,4 @@ DECL|function|qPlatformScreenForWindow
 DECL|function|screenForWindow
 DECL|function|setAppTime
 DECL|function|setAppUserTime
+DECL|function|startupId

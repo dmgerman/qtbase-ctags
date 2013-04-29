@@ -4,7 +4,7 @@ DECL|function|QXcbConnection
 DECL|function|QXcbEventReader
 DECL|function|addEvent
 DECL|function|addPeekFunc
-DECL|function|addWindow
+DECL|function|addWindowEventListener
 DECL|function|atom
 DECL|function|atomName
 DECL|function|checkEvent
@@ -12,6 +12,7 @@ DECL|function|checkEvent
 DECL|function|findOrCreateScreen
 DECL|function|formatForDepth
 DECL|function|getTimestamp
+DECL|function|grabServer
 DECL|function|handleButtonPress
 DECL|function|handleButtonRelease
 DECL|function|handleClientMessageEvent
@@ -31,7 +32,7 @@ DECL|function|nullErrorHandler
 DECL|function|platformWindowFromId
 DECL|function|printXcbEvent
 DECL|function|processXcbEvents
-DECL|function|removeWindow
+DECL|function|removeWindowEventListener
 DECL|function|run
 DECL|function|sendConnectionEvent
 DECL|function|setFocusWindow
@@ -39,8 +40,10 @@ DECL|function|startThread
 DECL|function|sync
 DECL|function|translateMouseButton
 DECL|function|translateMouseButtons
+DECL|function|ungrabServer
 DECL|function|unlock
 DECL|function|updateScreens
+DECL|function|windowEventListenerFromId
 DECL|function|xi2CountBits
 DECL|function|xi2GetValuatorValueIfSet
 DECL|function|xi2PrepareXIGenericDeviceEvent

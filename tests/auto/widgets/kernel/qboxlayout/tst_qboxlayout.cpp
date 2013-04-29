@@ -5,6 +5,7 @@ DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|init
 DECL|function|initTestCase
+DECL|function|insertLayout
 DECL|function|insertSpacerItem
 DECL|function|pixelMetric
 DECL|function|setFrameless

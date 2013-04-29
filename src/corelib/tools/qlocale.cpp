@@ -12,7 +12,6 @@ DECL|function|addLikelySubtags
 DECL|function|amText
 DECL|function|bcp47Name
 DECL|function|bcp47Name
-DECL|function|bcp47Name
 DECL|function|bytearrayToDouble
 DECL|function|bytearrayToLongLong
 DECL|function|bytearrayToUnsLongLong
@@ -52,6 +51,7 @@ DECL|function|matchingLocales
 DECL|function|measurementSystem
 DECL|function|measurementSystem
 DECL|function|monthName
+DECL|function|name
 DECL|function|name
 DECL|function|nativeCountryName
 DECL|function|nativeLanguageName
