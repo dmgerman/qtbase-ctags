@@ -8,7 +8,7 @@ DECL|function|findFile
 DECL|function|findFile
 DECL|function|getAllFiles
 DECL|function|getBool
-DECL|function|getCanonicalRelativePathList
+DECL|function|getCanonicalPathList
 DECL|function|getCleanPathList
 DECL|function|getExampleImageFiles
 DECL|function|getExampleQdocFiles
