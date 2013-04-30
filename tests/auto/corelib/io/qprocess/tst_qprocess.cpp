@@ -1,11 +1,14 @@
+DECL|class|BlockOnReadStdOut
 DECL|class|SoftExitProcess
 DECL|class|TestThread
 DECL|class|tst_QProcess
+DECL|function|BlockOnReadStdOut
 DECL|function|SoftExitProcess
 DECL|function|atEnd
 DECL|function|atEnd2
 DECL|function|batFiles
 DECL|function|batFiles_data
+DECL|function|block
 DECL|function|catchExitCode
 DECL|function|cleanupTestCase
 DECL|function|closeReadChannel
@@ -30,6 +33,7 @@ DECL|function|failToStart
 DECL|function|failToStartWithEventLoop
 DECL|function|failToStartWithWait
 DECL|function|fileWriterProcess
+DECL|function|finishProcessBeforeReadingDone
 DECL|function|finishedSlot
 DECL|function|forwardedChannels
 DECL|function|forwardedChannelsOutput
