@@ -1,0 +1,4 @@
+DECL|function|detectMenuRole
+DECL|function|msgAboutQt
+DECL|function|qt_mac_applicationmenu_string
+DECL|variable|application_menu_strings

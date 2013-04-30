@@ -1,4 +1,7 @@
 DECL|macro|QCOCOAMENUITEM_H
+DECL|macro|QT_FORWARD_DECLARE_OBJC_CLASS
+DECL|macro|QT_FORWARD_DECLARE_OBJC_CLASS
 DECL|variable|NSMenu
 DECL|variable|NSMenuItem
+DECL|variable|NSObject
 DECL|variable|QCocoaMenu

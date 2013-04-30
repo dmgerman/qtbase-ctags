@@ -19,6 +19,7 @@ DECL|function|makeCurrent
 DECL|function|moveToScreen
 DECL|function|nativeInterface
 DECL|function|queryKeyboardModifiers
+DECL|function|runningUnderDebugger
 DECL|function|services
 DECL|function|swapBuffers
 DECL|function|themeNames

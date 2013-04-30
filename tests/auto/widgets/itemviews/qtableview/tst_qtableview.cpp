@@ -154,6 +154,7 @@ DECL|function|task240266_veryBigColumn
 DECL|function|task248688_autoScrollNavigation
 DECL|function|task259308_scrollVerticalHeaderSwappedSections
 DECL|function|taskQTBUG_10169_sizeHintForRow
+DECL|function|taskQTBUG_30653_doItemsLayout
 DECL|function|taskQTBUG_4516_clickOnRichTextLabel
 DECL|function|taskQTBUG_5062_spansInconsistency
 DECL|function|taskQTBUG_5237_wheelEventOnHeader
