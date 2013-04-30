@@ -77,6 +77,7 @@ DECL|function|inheritedThreadSafeness
 DECL|function|isInternal
 DECL|function|isQmlNode
 DECL|function|isSameSignature
+DECL|function|isWrapper
 DECL|function|isWritable
 DECL|function|itemAccess
 DECL|function|itemValue
