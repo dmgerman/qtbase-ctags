@@ -37,6 +37,7 @@ DECL|function|outputFilter
 DECL|function|parseOption
 DECL|function|parseOption
 DECL|function|parseOption
+DECL|function|parseRuntimeCheckOption
 DECL|function|vcCommandSeparator
 DECL|function|write
 DECL|function|write
