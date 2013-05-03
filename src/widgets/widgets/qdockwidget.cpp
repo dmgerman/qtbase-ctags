@@ -47,7 +47,6 @@ DECL|function|plug
 DECL|function|setAllowedAreas
 DECL|function|setFeatures
 DECL|function|setFloating
-DECL|function|setFrameStrutEventsEnabled
 DECL|function|setGeometry
 DECL|function|setTitleBarWidget
 DECL|function|setVerticalTitleBar
