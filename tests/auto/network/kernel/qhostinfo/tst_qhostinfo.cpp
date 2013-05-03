@@ -32,6 +32,7 @@ DECL|function|threadSafetyAsynchronousAPI
 DECL|function|tst_QHostInfo
 DECL|function|~tst_QHostInfo
 DECL|macro|NOMINMAX
+DECL|macro|TEST_DOMAIN
 DECL|member|id
 DECL|member|ipv6Available
 DECL|member|ipv6LookupsAvailable
@@ -43,4 +44,3 @@ DECL|member|networkConfiguration
 DECL|member|networkSession
 DECL|member|numrequests
 DECL|member|result
-DECL|variable|lupinellaIp
