@@ -53,6 +53,8 @@ DECL|function|isSequential
 DECL|function|isSequential
 DECL|function|newConnectionSlot
 DECL|function|performanceControlRate
+DECL|function|preConnect
+DECL|function|preConnectEncrypted
 DECL|function|readData
 DECL|function|readData
 DECL|function|readyReadSlot
@@ -61,6 +63,7 @@ DECL|function|reset
 DECL|function|run
 DECL|function|run
 DECL|function|run
+DECL|function|runGetRequest
 DECL|function|runHttpsUploadRequest
 DECL|function|serverPort
 DECL|function|serverPort

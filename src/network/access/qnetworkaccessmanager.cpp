@@ -11,6 +11,8 @@ DECL|function|cache
 DECL|function|clearAccessCache
 DECL|function|clearCache
 DECL|function|configuration
+DECL|function|connectToHost
+DECL|function|connectToHostEncrypted
 DECL|function|cookieJar
 DECL|function|createCookieJar
 DECL|function|createRequest
