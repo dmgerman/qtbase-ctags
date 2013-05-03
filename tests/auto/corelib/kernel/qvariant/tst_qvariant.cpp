@@ -98,6 +98,7 @@ DECL|function|operator >>
 DECL|function|operator_eq_eq
 DECL|function|operator_eq_eq_data
 DECL|function|operator_eq_eq_rhs
+DECL|function|pairElements
 DECL|function|playWithVariant
 DECL|function|podUserType
 DECL|function|qvariant_cast_QObject
@@ -194,6 +195,7 @@ DECL|macro|N
 DECL|macro|N
 DECL|macro|PLAY_WITH_VARIANT
 DECL|macro|TEST_ASSOCIATIVE_ITERATION
+DECL|macro|TEST_PAIR_ELEMENT_ACCESS
 DECL|macro|TEST_RANGE_FOR
 DECL|macro|TEST_SEQUENTIAL_ITERATION
 DECL|macro|Y
