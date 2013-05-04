@@ -13,6 +13,7 @@ DECL|function|callErrorsPeer_data
 DECL|function|callErrors_data
 DECL|function|callWithTimeout
 DECL|function|cleanup
+DECL|function|complexMethodArgs
 DECL|function|complexPropDirectRead
 DECL|function|complexPropDirectReadPeer
 DECL|function|complexPropDirectWrite
