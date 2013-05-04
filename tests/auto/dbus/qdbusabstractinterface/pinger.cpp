@@ -1,2 +1,0 @@
-DECL|function|ComTrolltechQtDBusPingerInterface
-DECL|function|~ComTrolltechQtDBusPingerInterface
