@@ -38,6 +38,7 @@ DECL|class|SenderObject
 DECL|class|SequenceObject
 DECL|class|SiblingDeleter
 DECL|class|StringVariant
+DECL|class|SubSender
 DECL|class|SuperObject
 DECL|class|Template
 DECL|class|TestObject
@@ -103,6 +104,7 @@ DECL|function|classSlot
 DECL|function|clear
 DECL|function|clearNotifications
 DECL|function|clearNotifications
+DECL|function|connectBase
 DECL|function|connectByMetaMethodSlotInsteadOfSignal
 DECL|function|connectByMetaMethods
 DECL|function|connectConstructorByMetaMethod
