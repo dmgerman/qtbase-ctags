@@ -1,3 +1,4 @@
+DECL|function|clone
 DECL|function|digitToCLocale
 DECL|function|fromIds
 DECL|function|operator

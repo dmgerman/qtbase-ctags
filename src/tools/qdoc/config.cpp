@@ -8,7 +8,7 @@ DECL|function|findFile
 DECL|function|findFile
 DECL|function|getAllFiles
 DECL|function|getBool
-DECL|function|getCanonicalRelativePathList
+DECL|function|getCanonicalPathList
 DECL|function|getCleanPathList
 DECL|function|getExampleImageFiles
 DECL|function|getExampleQdocFiles
@@ -17,7 +17,6 @@ DECL|function|getFilesHere
 DECL|function|getInt
 DECL|function|getOutputDir
 DECL|function|getOutputFormats
-DECL|function|getPath
 DECL|function|getPathList
 DECL|function|getRegExp
 DECL|function|getRegExpList
@@ -36,7 +35,6 @@ DECL|function|removeDirContents
 DECL|function|setStringList
 DECL|function|subVars
 DECL|function|subVarsAndValues
-DECL|function|unload
 DECL|function|~Config
 DECL|macro|PUT_CHAR
 DECL|macro|SKIP_CHAR

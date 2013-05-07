@@ -134,6 +134,8 @@ DECL|function|verticalOffset
 DECL|function|verticalOffset
 DECL|function|wheelEvent
 DECL|function|wordWrapMode
+DECL|function|zoomIn
+DECL|function|zoomOut
 DECL|function|~QPlainTextDocumentLayout
 DECL|function|~QPlainTextEdit
 DECL|member|blockCount
