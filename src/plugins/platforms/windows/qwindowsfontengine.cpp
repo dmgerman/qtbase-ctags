@@ -43,6 +43,7 @@ DECL|function|recalcAdvances
 DECL|function|resolveGetCharWidthI
 DECL|function|selectDesignFont
 DECL|function|stringToCMap
+DECL|function|supportsTransformation
 DECL|function|synthesized
 DECL|function|type
 DECL|function|xHeight
