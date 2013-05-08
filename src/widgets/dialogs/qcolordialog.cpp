@@ -56,6 +56,7 @@ DECL|function|grabScreenColor
 DECL|function|gridSize
 DECL|function|helperPrepareShow
 DECL|function|hsvEd
+DECL|function|htmlEd
 DECL|function|huePt
 DECL|function|init
 DECL|function|initHelper
@@ -153,12 +154,14 @@ DECL|member|curRow
 DECL|member|d
 DECL|member|gEd
 DECL|member|hEd
+DECL|member|htEd
 DECL|member|hue
 DECL|member|hue
 DECL|member|hue
 DECL|member|lab
 DECL|member|lblBlue
 DECL|member|lblGreen
+DECL|member|lblHtml
 DECL|member|lblHue
 DECL|member|lblRed
 DECL|member|lblSat
