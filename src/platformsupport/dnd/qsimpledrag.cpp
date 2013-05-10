@@ -13,7 +13,7 @@ DECL|function|exitDndEventLoop
 DECL|function|move
 DECL|function|move
 DECL|function|platformDropData
-DECL|function|resetDndState
+DECL|function|restoreCursor
 DECL|function|startDrag
 DECL|function|startDrag
 DECL|function|topLevelAt
