@@ -102,6 +102,7 @@ DECL|function|registerStreamOperators
 DECL|function|registerType
 DECL|function|registerType
 DECL|function|registerTypedef
+DECL|function|remove
 DECL|function|save
 DECL|function|sizeExtended
 DECL|function|sizeOf
@@ -109,6 +110,7 @@ DECL|function|type
 DECL|function|typeFlags
 DECL|function|typeInfo
 DECL|function|typeName
+DECL|function|unregisterConverterFunction
 DECL|function|~QMetaTypeConversionRegistry
 DECL|macro|NS
 DECL|macro|QT_ADD_STATIC_METATYPE
