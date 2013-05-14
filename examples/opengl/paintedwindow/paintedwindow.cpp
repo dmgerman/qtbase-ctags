@@ -4,6 +4,5 @@ DECL|function|mousePressEvent
 DECL|function|orientationChanged
 DECL|function|paint
 DECL|function|paint
-DECL|function|resizeEvent
 DECL|function|rotationDone
 DECL|function|setRotation
