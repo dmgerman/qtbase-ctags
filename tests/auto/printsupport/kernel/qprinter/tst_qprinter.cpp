@@ -1,5 +1,7 @@
+DECL|class|MyPreviewDialog
 DECL|class|TempFileCleanup
 DECL|class|tst_QPrinter
+DECL|function|MyPreviewDialog
 DECL|function|TempFileCleanup
 DECL|function|changingOutputFormat
 DECL|function|cleanupTestCase
@@ -13,6 +15,7 @@ DECL|function|outputFormatFromSuffix
 DECL|function|printDialogCompleter
 DECL|function|printPage
 DECL|function|setGetPaperSize
+DECL|function|slotPaintRequested
 DECL|function|taskQTBUG4497_reusePrinterOnDifferentFiles
 DECL|function|testCopyCount
 DECL|function|testCurrentPage
@@ -31,6 +34,7 @@ DECL|function|testPageRectAndPaperRect_data
 DECL|function|testPageSetupDialog
 DECL|function|testPageSize
 DECL|function|testPdfTitle
+DECL|function|testPrintPreviewDialog
 DECL|function|testSetOptions
 DECL|function|valuePreservation
 DECL|function|~TempFileCleanup
