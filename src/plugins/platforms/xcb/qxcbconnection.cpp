@@ -1,6 +1,7 @@
 DECL|class|PropertyNotifyEvent
 DECL|function|PropertyNotifyEvent
 DECL|function|QXcbConnection
+DECL|function|QXcbConnectionGrabber
 DECL|function|QXcbEventReader
 DECL|function|addEvent
 DECL|function|addPeekFunc
@@ -33,6 +34,7 @@ DECL|function|nullErrorHandler
 DECL|function|platformWindowFromId
 DECL|function|printXcbEvent
 DECL|function|processXcbEvents
+DECL|function|release
 DECL|function|removeWindowEventListener
 DECL|function|rootWindow
 DECL|function|run
@@ -50,6 +52,7 @@ DECL|function|xi2CountBits
 DECL|function|xi2GetValuatorValueIfSet
 DECL|function|xi2PrepareXIGenericDeviceEvent
 DECL|function|~QXcbConnection
+DECL|function|~QXcbConnectionGrabber
 DECL|macro|HANDLE_KEYBOARD_EVENT
 DECL|macro|HANDLE_PLATFORM_WINDOW_EVENT
 DECL|macro|PRINT_XCB_EVENT
