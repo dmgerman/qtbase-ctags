@@ -13,7 +13,10 @@ DECL|function|_q_fileRenamed
 DECL|function|_q_goHome
 DECL|function|_q_goToDirectory
 DECL|function|_q_goToUrl
+DECL|function|_q_nativeCurrentChanged
 DECL|function|_q_nativeEnterDirectory
+DECL|function|_q_nativeFileSelected
+DECL|function|_q_nativeFilesSelected
 DECL|function|_q_navigateBackward
 DECL|function|_q_navigateForward
 DECL|function|_q_navigateToParent
@@ -32,6 +35,7 @@ DECL|function|_qt_get_directory
 DECL|function|accept
 DECL|function|acceptMode
 DECL|function|addDefaultSuffixToFiles
+DECL|function|addDefaultSuffixToUrls
 DECL|function|canBeNativeDialog
 DECL|function|changeEvent
 DECL|function|confirmOverwrite

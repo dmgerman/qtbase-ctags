@@ -29,6 +29,7 @@ DECL|function|initialDirectory
 DECL|function|initiallySelectedFiles
 DECL|function|initiallySelectedNameFilter
 DECL|function|isLabelExplicitlySet
+DECL|function|isSupportedUrl
 DECL|function|labelText
 DECL|function|nameFilters
 DECL|function|operator =
