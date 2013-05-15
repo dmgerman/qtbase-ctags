@@ -45,6 +45,7 @@ DECL|function|createWidgets
 DECL|function|currentView
 DECL|function|defaultSuffix
 DECL|function|directory
+DECL|function|directoryUrl
 DECL|function|done
 DECL|function|emitFilesSelected
 DECL|function|fileMode
@@ -94,12 +95,15 @@ DECL|function|saveState
 DECL|function|select
 DECL|function|selectFile
 DECL|function|selectNameFilter
+DECL|function|selectUrl
 DECL|function|selectedFiles
 DECL|function|selectedNameFilter
+DECL|function|selectedUrls
 DECL|function|setAcceptMode
 DECL|function|setConfirmOverwrite
 DECL|function|setDefaultSuffix
 DECL|function|setDirectory
+DECL|function|setDirectoryUrl
 DECL|function|setFileDialogPrivate
 DECL|function|setFileDialogPrivate
 DECL|function|setFileDialogPrivate
