@@ -18,6 +18,7 @@ DECL|function|setPalette
 DECL|function|setTipRect
 DECL|function|showText
 DECL|function|showText
+DECL|function|showText
 DECL|function|styleSheetParentDestroyed
 DECL|function|text
 DECL|function|timerEvent
