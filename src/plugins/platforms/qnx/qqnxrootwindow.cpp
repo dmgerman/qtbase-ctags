@@ -1,6 +1,7 @@
 DECL|function|QQnxRootWindow
 DECL|function|createWindowGroup
 DECL|function|flush
+DECL|function|makeTranslucent
 DECL|function|post
 DECL|function|resize
 DECL|function|setRotation
