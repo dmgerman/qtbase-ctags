@@ -26,7 +26,6 @@ DECL|function|filesDiffer
 DECL|function|firstLicensePath
 DECL|function|formatPath
 DECL|function|formatPaths
-DECL|function|generateBuildKey
 DECL|function|generateCachefile
 DECL|function|generateConfigfiles
 DECL|function|generateHeaders
