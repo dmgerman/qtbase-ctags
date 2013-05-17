@@ -33,7 +33,6 @@ DECL|function|generateMakefiles
 DECL|function|generateOutputVars
 DECL|function|generateQConfigCpp
 DECL|function|generateQConfigPri
-DECL|function|generateSystemVars
 DECL|function|isDone
 DECL|function|isOk
 DECL|function|locateFile
@@ -41,6 +40,7 @@ DECL|function|operator <<
 DECL|function|parseCmdLine
 DECL|function|platform
 DECL|function|platformName
+DECL|function|prepareConfigTests
 DECL|function|projectType
 DECL|function|promptKeyPress
 DECL|function|qpaPlatformName
