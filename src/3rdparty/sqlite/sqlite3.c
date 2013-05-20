@@ -164,6 +164,7 @@ DECL|function|computeYMD_HMS
 DECL|function|connectionIsBusy
 DECL|function|constructAutomaticIndex
 DECL|function|contextMalloc
+DECL|function|convertCompoundSelectToSubquery
 DECL|function|convertUtf8Filename
 DECL|function|copyNodeContent
 DECL|function|copyPayload
@@ -171,7 +172,7 @@ DECL|function|copy_stemmer
 DECL|function|corruptSchema
 DECL|function|countFinalize
 DECL|function|countStep
-DECL|function|countWriteCursors
+DECL|function|countValidCursors
 DECL|function|createCollation
 DECL|function|createFile
 DECL|function|createMask
@@ -358,6 +359,8 @@ DECL|function|fts3EvalTestDeferredAndNear
 DECL|function|fts3EvalTestExpr
 DECL|function|fts3EvalTokenCosts
 DECL|function|fts3EvalUpdateCounts
+DECL|function|fts3ExprBalance
+DECL|function|fts3ExprCheckDepth
 DECL|function|fts3ExprGlobalHitsCb
 DECL|function|fts3ExprIterate
 DECL|function|fts3ExprIterate2
@@ -365,6 +368,7 @@ DECL|function|fts3ExprLoadDoclists
 DECL|function|fts3ExprLoadDoclistsCb
 DECL|function|fts3ExprLocalHitsCb
 DECL|function|fts3ExprParse
+DECL|function|fts3ExprParseUnbalanced
 DECL|function|fts3ExprPhraseCount
 DECL|function|fts3ExprPhraseCountCb
 DECL|function|fts3ExprTermOffsetInit
@@ -372,6 +376,7 @@ DECL|function|fts3ExprTest
 DECL|function|fts3FilterMethod
 DECL|function|fts3FindElementByHash
 DECL|function|fts3FindFunctionMethod
+DECL|function|fts3FreeExprNode
 DECL|function|fts3FunctionArg
 DECL|function|fts3GetDeltaPosition
 DECL|function|fts3GetDeltaVarint
@@ -516,6 +521,19 @@ DECL|function|fts3auxNextMethod
 DECL|function|fts3auxOpenMethod
 DECL|function|fts3auxRowidMethod
 DECL|function|fts3isspace
+DECL|function|fts3tokBestIndexMethod
+DECL|function|fts3tokCloseMethod
+DECL|function|fts3tokColumnMethod
+DECL|function|fts3tokConnectMethod
+DECL|function|fts3tokDequoteArray
+DECL|function|fts3tokDisconnectMethod
+DECL|function|fts3tokEofMethod
+DECL|function|fts3tokFilterMethod
+DECL|function|fts3tokNextMethod
+DECL|function|fts3tokOpenMethod
+DECL|function|fts3tokQueryTokenizer
+DECL|function|fts3tokResetCursor
+DECL|function|fts3tokRowidMethod
 DECL|function|ftsCompareFunction
 DECL|function|ftsHashFunction
 DECL|function|full_fsync
@@ -744,14 +762,18 @@ DECL|function|operatorMask
 DECL|function|osLocaltime
 DECL|function|pageInJournal
 DECL|function|pageReinit
+DECL|function|pagerAcquireMapPage
 DECL|function|pagerBeginReadTransaction
 DECL|function|pagerExclusiveLock
+DECL|function|pagerFixMaplimit
+DECL|function|pagerFreeMapHdrs
 DECL|function|pagerLockDb
 DECL|function|pagerOpenWal
 DECL|function|pagerOpenWalIfPresent
 DECL|function|pagerOpentemp
 DECL|function|pagerPagecount
 DECL|function|pagerPlaybackSavepoint
+DECL|function|pagerReleaseMapPage
 DECL|function|pagerReportSize
 DECL|function|pagerRollbackWal
 DECL|function|pagerStress
@@ -950,6 +972,7 @@ DECL|function|scalarFunc
 DECL|function|schemaIsValid
 DECL|function|seekAndRead
 DECL|function|seekAndWrite
+DECL|function|seekAndWriteFd
 DECL|function|seekWinFile
 DECL|function|selectAddColumnTypeAndCollation
 DECL|function|selectAddSubqueryTypeInfo
@@ -1109,6 +1132,7 @@ DECL|function|sqlite3BtreeSecureDelete
 DECL|function|sqlite3BtreeSetAutoVacuum
 DECL|function|sqlite3BtreeSetCacheSize
 DECL|function|sqlite3BtreeSetCachedRowid
+DECL|function|sqlite3BtreeSetMmapLimit
 DECL|function|sqlite3BtreeSetPageSize
 DECL|function|sqlite3BtreeSetSafetyLevel
 DECL|function|sqlite3BtreeSetVersion
@@ -1178,6 +1202,7 @@ DECL|function|sqlite3DropTrigger
 DECL|function|sqlite3DropTriggerPtr
 DECL|function|sqlite3EndBenignMalloc
 DECL|function|sqlite3EndTable
+DECL|function|sqlite3ErrName
 DECL|function|sqlite3ErrStr
 DECL|function|sqlite3Error
 DECL|function|sqlite3ErrorMsg
@@ -1296,6 +1321,7 @@ DECL|function|sqlite3Fts3Incrmerge
 DECL|function|sqlite3Fts3Init
 DECL|function|sqlite3Fts3InitAux
 DECL|function|sqlite3Fts3InitHashTable
+DECL|function|sqlite3Fts3InitTok
 DECL|function|sqlite3Fts3InitTokenizer
 DECL|function|sqlite3Fts3IsIdChar
 DECL|function|sqlite3Fts3Matchinfo
@@ -1486,6 +1512,8 @@ DECL|function|sqlite3OsDlClose
 DECL|function|sqlite3OsDlError
 DECL|function|sqlite3OsDlOpen
 DECL|function|sqlite3OsDlSym
+DECL|function|sqlite3OsFetch
+DECL|function|sqlite3OsFetch
 DECL|function|sqlite3OsFileControl
 DECL|function|sqlite3OsFileControlHint
 DECL|function|sqlite3OsFileSize
@@ -1504,6 +1532,8 @@ DECL|function|sqlite3OsShmUnmap
 DECL|function|sqlite3OsSleep
 DECL|function|sqlite3OsSync
 DECL|function|sqlite3OsTruncate
+DECL|function|sqlite3OsUnfetch
+DECL|function|sqlite3OsUnfetch
 DECL|function|sqlite3OsUnlock
 DECL|function|sqlite3OsWrite
 DECL|function|sqlite3PCacheBufferSetup
@@ -1557,6 +1587,7 @@ DECL|function|sqlite3PagerSetBusyhandler
 DECL|function|sqlite3PagerSetCachesize
 DECL|function|sqlite3PagerSetCodec
 DECL|function|sqlite3PagerSetJournalMode
+DECL|function|sqlite3PagerSetMmapLimit
 DECL|function|sqlite3PagerSetPagesize
 DECL|function|sqlite3PagerSetSafetyLevel
 DECL|function|sqlite3PagerSharedLock
@@ -1857,12 +1888,13 @@ DECL|function|sqlite3WalDefaultHook
 DECL|function|sqlite3WalEndReadTransaction
 DECL|function|sqlite3WalEndWriteTransaction
 DECL|function|sqlite3WalExclusiveMode
+DECL|function|sqlite3WalFindFrame
 DECL|function|sqlite3WalFrames
 DECL|function|sqlite3WalFramesize
 DECL|function|sqlite3WalHeapMemory
 DECL|function|sqlite3WalLimit
 DECL|function|sqlite3WalOpen
-DECL|function|sqlite3WalRead
+DECL|function|sqlite3WalReadFrame
 DECL|function|sqlite3WalSavepoint
 DECL|function|sqlite3WalSavepointUndo
 DECL|function|sqlite3WalUndo
@@ -2047,6 +2079,7 @@ DECL|function|sqlite3_step
 DECL|function|sqlite3_stmt_busy
 DECL|function|sqlite3_stmt_readonly
 DECL|function|sqlite3_stmt_status
+DECL|function|sqlite3_strglob
 DECL|function|sqlite3_stricmp
 DECL|function|sqlite3_strnicmp
 DECL|function|sqlite3_table_column_metadata
@@ -2153,16 +2186,19 @@ DECL|function|unixDlError
 DECL|function|unixDlOpen
 DECL|function|unixDlSym
 DECL|function|unixEnterMutex
+DECL|function|unixFetch
 DECL|function|unixFileControl
 DECL|function|unixFileLock
 DECL|function|unixFileSize
 DECL|function|unixFullPathname
 DECL|function|unixGetLastError
+DECL|function|unixGetPagesize
 DECL|function|unixGetSystemCall
 DECL|function|unixGetTempname
 DECL|function|unixLeaveMutex
 DECL|function|unixLock
 DECL|function|unixLogErrorAtLine
+DECL|function|unixMapfile
 DECL|function|unixModeBit
 DECL|function|unixMutexHeld
 DECL|function|unixNextSystemCall
@@ -2170,6 +2206,7 @@ DECL|function|unixOpen
 DECL|function|unixOpenSharedMemory
 DECL|function|unixRandomness
 DECL|function|unixRead
+DECL|function|unixRemapfile
 DECL|function|unixSectorSize
 DECL|function|unixSectorSize
 DECL|function|unixSetSystemCall
@@ -2183,7 +2220,9 @@ DECL|function|unixSleep
 DECL|function|unixSync
 DECL|function|unixTempFileDir
 DECL|function|unixTruncate
+DECL|function|unixUnfetch
 DECL|function|unixUnlock
+DECL|function|unixUnmapfile
 DECL|function|unixWrite
 DECL|function|unlockBtreeIfUnused
 DECL|function|unlockBtreeMutex
@@ -2218,6 +2257,7 @@ DECL|function|vdbeSorterRowkey
 DECL|function|vdbeSorterSort
 DECL|function|vdbeUnbind
 DECL|function|vdbeVComment
+DECL|function|verifyDbFile
 DECL|function|versionFunc
 DECL|function|vfsUnlink
 DECL|function|vtabBestIndex
@@ -2288,6 +2328,7 @@ DECL|function|winDlClose
 DECL|function|winDlError
 DECL|function|winDlOpen
 DECL|function|winDlSym
+DECL|function|winFetch
 DECL|function|winFileControl
 DECL|function|winFileSize
 DECL|function|winFullPathname
@@ -2298,6 +2339,7 @@ DECL|function|winIsVerbatimPathname
 DECL|function|winLock
 DECL|function|winLockFile
 DECL|function|winLogErrorAtLine
+DECL|function|winMapfile
 DECL|function|winMemFree
 DECL|function|winMemInit
 DECL|function|winMemMalloc
@@ -2335,8 +2377,10 @@ DECL|function|winShmUnmap
 DECL|function|winSleep
 DECL|function|winSync
 DECL|function|winTruncate
+DECL|function|winUnfetch
 DECL|function|winUnlock
 DECL|function|winUnlockFile
+DECL|function|winUnmapfile
 DECL|function|winWrite
 DECL|function|winceCreateLock
 DECL|function|winceDestroyLock
@@ -2393,6 +2437,7 @@ DECL|macro|BTALLOC_ANY
 DECL|macro|BTALLOC_EXACT
 DECL|macro|BTALLOC_LE
 DECL|macro|BTCURSOR_MAX_DEPTH
+DECL|macro|BTREE_APPLICATION_ID
 DECL|macro|BTREE_AUTOVACUUM_FULL
 DECL|macro|BTREE_AUTOVACUUM_INCR
 DECL|macro|BTREE_AUTOVACUUM_NONE
@@ -2539,6 +2584,7 @@ DECL|macro|FTS3_SEGMENT_PREFIX
 DECL|macro|FTS3_SEGMENT_REQUIRE_POS
 DECL|macro|FTS3_SEGMENT_SCAN
 DECL|macro|FTS3_TERMS_SCHEMA
+DECL|macro|FTS3_TOK_SCHEMA
 DECL|macro|FTS3_VARINT_MAX
 DECL|macro|FTS4AUX_EQ_CONSTRAINT
 DECL|macro|FTS4AUX_GE_CONSTRAINT
@@ -2570,6 +2616,8 @@ DECL|macro|HASHTABLE_NSLOT
 DECL|macro|HAVE_FULLFSYNC
 DECL|macro|HAVE_FULLFSYNC
 DECL|macro|HAVE_LOCALTIME_S
+DECL|macro|HAVE_MREMAP
+DECL|macro|HAVE_MREMAP
 DECL|macro|HAVE_POSIX_FALLOCATE
 DECL|macro|INT16_TYPE
 DECL|macro|INT16_TYPE
@@ -2672,6 +2720,7 @@ DECL|macro|NB
 DECL|macro|NCELL
 DECL|macro|NCSIZE
 DECL|macro|NC_AllowAgg
+DECL|macro|NC_AsMaybe
 DECL|macro|NC_HasAgg
 DECL|macro|NC_InAggFunc
 DECL|macro|NC_IsCheck
@@ -2913,6 +2962,8 @@ DECL|macro|P4_VDBEFUNC
 DECL|macro|P4_VTAB
 DECL|macro|PAGERID
 DECL|macro|PAGERTRACE
+DECL|macro|PAGER_ACQUIRE_NOCONTENT
+DECL|macro|PAGER_ACQUIRE_READONLY
 DECL|macro|PAGER_ERROR
 DECL|macro|PAGER_INCR
 DECL|macro|PAGER_INCR
@@ -2945,6 +2996,7 @@ DECL|macro|PENDING_BYTE_PAGE
 DECL|macro|PENDING_LOCK
 DECL|macro|PGHDR_DIRTY
 DECL|macro|PGHDR_DONT_WRITE
+DECL|macro|PGHDR_MMAP
 DECL|macro|PGHDR_NEED_READ
 DECL|macro|PGHDR_NEED_SYNC
 DECL|macro|PGHDR_REUSE_UNLIKELY
@@ -3083,6 +3135,7 @@ DECL|macro|SQLITE_CONFIG_LOG
 DECL|macro|SQLITE_CONFIG_LOOKASIDE
 DECL|macro|SQLITE_CONFIG_MALLOC
 DECL|macro|SQLITE_CONFIG_MEMSTATUS
+DECL|macro|SQLITE_CONFIG_MMAP_SIZE
 DECL|macro|SQLITE_CONFIG_MULTITHREAD
 DECL|macro|SQLITE_CONFIG_MUTEX
 DECL|macro|SQLITE_CONFIG_PAGECACHE
@@ -3119,7 +3172,6 @@ DECL|macro|SQLITE_CREATE_TEMP_VIEW
 DECL|macro|SQLITE_CREATE_TRIGGER
 DECL|macro|SQLITE_CREATE_VIEW
 DECL|macro|SQLITE_CREATE_VTABLE
-DECL|macro|SQLITE_CURDIR
 DECL|macro|SQLITE_CkptFullFSync
 DECL|macro|SQLITE_ColumnCache
 DECL|macro|SQLITE_CountRows
@@ -3146,6 +3198,10 @@ DECL|macro|SQLITE_DEFAULT_FILE_FORMAT
 DECL|macro|SQLITE_DEFAULT_FILE_PERMISSIONS
 DECL|macro|SQLITE_DEFAULT_JOURNAL_SIZE_LIMIT
 DECL|macro|SQLITE_DEFAULT_MEMSTATUS
+DECL|macro|SQLITE_DEFAULT_MMAP_SIZE
+DECL|macro|SQLITE_DEFAULT_MMAP_SIZE
+DECL|macro|SQLITE_DEFAULT_MMAP_SIZE
+DECL|macro|SQLITE_DEFAULT_MMAP_SIZE_xc
 DECL|macro|SQLITE_DEFAULT_PAGE_SIZE
 DECL|macro|SQLITE_DEFAULT_PAGE_SIZE
 DECL|macro|SQLITE_DEFAULT_PAGE_SIZE
@@ -3180,6 +3236,8 @@ DECL|macro|SQLITE_ENABLE_LOCKING_STYLE
 DECL|macro|SQLITE_ERROR
 DECL|macro|SQLITE_EXPERIMENTAL
 DECL|macro|SQLITE_EXTENSION_INIT1
+DECL|macro|SQLITE_EXTENSION_INIT1
+DECL|macro|SQLITE_EXTENSION_INIT2
 DECL|macro|SQLITE_EXTENSION_INIT2
 DECL|macro|SQLITE_EXTERN
 DECL|macro|SQLITE_EnableTrigger
@@ -3191,6 +3249,7 @@ DECL|macro|SQLITE_FCNTL_CHUNK_SIZE
 DECL|macro|SQLITE_FCNTL_DB_UNCHANGED
 DECL|macro|SQLITE_FCNTL_FILE_POINTER
 DECL|macro|SQLITE_FCNTL_LOCKSTATE
+DECL|macro|SQLITE_FCNTL_MMAP_SIZE
 DECL|macro|SQLITE_FCNTL_OVERWRITE
 DECL|macro|SQLITE_FCNTL_PERSIST_WAL
 DECL|macro|SQLITE_FCNTL_POWERSAFE_OVERWRITE
@@ -3265,6 +3324,7 @@ DECL|macro|SQLITE_IOERR_DIR_FSYNC
 DECL|macro|SQLITE_IOERR_FSTAT
 DECL|macro|SQLITE_IOERR_FSYNC
 DECL|macro|SQLITE_IOERR_LOCK
+DECL|macro|SQLITE_IOERR_MMAP
 DECL|macro|SQLITE_IOERR_NOMEM
 DECL|macro|SQLITE_IOERR_RDLOCK
 DECL|macro|SQLITE_IOERR_READ
@@ -3331,6 +3391,13 @@ DECL|macro|SQLITE_MAX_FUNCTION_ARG
 DECL|macro|SQLITE_MAX_LENGTH
 DECL|macro|SQLITE_MAX_LIKE_PATTERN_LENGTH
 DECL|macro|SQLITE_MAX_LIKE_PATTERN_LENGTH
+DECL|macro|SQLITE_MAX_MMAP_SIZE
+DECL|macro|SQLITE_MAX_MMAP_SIZE
+DECL|macro|SQLITE_MAX_MMAP_SIZE
+DECL|macro|SQLITE_MAX_MMAP_SIZE
+DECL|macro|SQLITE_MAX_MMAP_SIZE
+DECL|macro|SQLITE_MAX_MMAP_SIZE
+DECL|macro|SQLITE_MAX_MMAP_SIZE_xc
 DECL|macro|SQLITE_MAX_PAGE_COUNT
 DECL|macro|SQLITE_MAX_PAGE_SIZE
 DECL|macro|SQLITE_MAX_PAGE_SIZE
@@ -3364,6 +3431,9 @@ DECL|macro|SQLITE_NOLFS
 DECL|macro|SQLITE_NOMEM
 DECL|macro|SQLITE_NOTADB
 DECL|macro|SQLITE_NOTFOUND
+DECL|macro|SQLITE_NOTICE
+DECL|macro|SQLITE_NOTICE_RECOVER_ROLLBACK
+DECL|macro|SQLITE_NOTICE_RECOVER_WAL
 DECL|macro|SQLITE_NULL
 DECL|macro|SQLITE_NULLEQ
 DECL|macro|SQLITE_N_BTREE_META
@@ -3478,6 +3548,7 @@ DECL|macro|SQLITE_SqlTrace
 DECL|macro|SQLITE_SubqCoroutine
 DECL|macro|SQLITE_TEMP_FILE_PREFIX
 DECL|macro|SQLITE_TEMP_STORE
+DECL|macro|SQLITE_TEMP_STORE_xc
 DECL|macro|SQLITE_TESTCTRL_ALWAYS
 DECL|macro|SQLITE_TESTCTRL_ASSERT
 DECL|macro|SQLITE_TESTCTRL_BENIGN_MALLOC_HOOKS
@@ -3522,6 +3593,7 @@ DECL|macro|SQLITE_VdbeAddopTrace
 DECL|macro|SQLITE_VdbeListing
 DECL|macro|SQLITE_VdbeTrace
 DECL|macro|SQLITE_W32_MUTEX_INITIALIZER
+DECL|macro|SQLITE_WARNING
 DECL|macro|SQLITE_WIN32_DATA_DIRECTORY_TYPE
 DECL|macro|SQLITE_WIN32_DBG_BUF_SIZE
 DECL|macro|SQLITE_WIN32_HAS_ANSI
@@ -3816,6 +3888,7 @@ DECL|macro|UNIXFILE_PERSIST_WAL
 DECL|macro|UNIXFILE_PSOW
 DECL|macro|UNIXFILE_RDONLY
 DECL|macro|UNIXFILE_URI
+DECL|macro|UNIXFILE_WARNED
 DECL|macro|UNIXVFS
 DECL|macro|UNIX_SHM_BASE
 DECL|macro|UNIX_SHM_DMS
@@ -3829,6 +3902,8 @@ DECL|macro|UNUSED_PARAMETER
 DECL|macro|UNUSED_PARAMETER2
 DECL|macro|UPDATE_MAX_BLOBSIZE
 DECL|macro|UPDATE_MAX_BLOBSIZE
+DECL|macro|USEFETCH
+DECL|macro|USEFETCH
 DECL|macro|UpperToLower
 DECL|macro|VARIANT_GUTTMAN_LINEAR_SPLIT
 DECL|macro|VARIANT_GUTTMAN_QUADRATIC_SPLIT
@@ -3915,6 +3990,7 @@ DECL|macro|WHERE_VIRTUALTABLE
 DECL|macro|WINCE_DELETION_ATTEMPTS
 DECL|macro|WINFILE_PERSIST_WAL
 DECL|macro|WINFILE_PSOW
+DECL|macro|WINFILE_RDONLY
 DECL|macro|WINMEM_MAGIC
 DECL|macro|WIN_SHM_BASE
 DECL|macro|WIN_SHM_DMS
@@ -4171,7 +4247,10 @@ DECL|macro|osLockFileEx
 DECL|macro|osMapViewOfFile
 DECL|macro|osMapViewOfFileFromApp
 DECL|macro|osMkdir
+DECL|macro|osMmap
+DECL|macro|osMremap
 DECL|macro|osMultiByteToWideChar
+DECL|macro|osMunmap
 DECL|macro|osOpen
 DECL|macro|osOpenDirectory
 DECL|macro|osOutputDebugStringA
@@ -4351,12 +4430,12 @@ DECL|macro|sqlite3WalDbsize
 DECL|macro|sqlite3WalEndReadTransaction
 DECL|macro|sqlite3WalEndWriteTransaction
 DECL|macro|sqlite3WalExclusiveMode
+DECL|macro|sqlite3WalFindFrame
 DECL|macro|sqlite3WalFrames
 DECL|macro|sqlite3WalFramesize
 DECL|macro|sqlite3WalHeapMemory
 DECL|macro|sqlite3WalLimit
 DECL|macro|sqlite3WalOpen
-DECL|macro|sqlite3WalRead
 DECL|macro|sqlite3WalSavepoint
 DECL|macro|sqlite3WalSavepointUndo
 DECL|macro|sqlite3WalUndo
@@ -4889,16 +4968,20 @@ DECL|member|bPurgeable
 DECL|member|bRemoveDiacritic
 DECL|member|bReserved
 DECL|member|bRestart
+DECL|member|bSelectDepthFirst
 DECL|member|bSpanIsTab
 DECL|member|bStart
 DECL|member|bUnderPressure
 DECL|member|bUnordered
 DECL|member|bUseCis
+DECL|member|bUseFetch
 DECL|member|backup_finish
 DECL|member|backup_init
 DECL|member|backup_pagecount
 DECL|member|backup_remaining
 DECL|member|backup_step
+DECL|member|base
+DECL|member|base
 DECL|member|base
 DECL|member|base
 DECL|member|base
@@ -5165,6 +5248,7 @@ DECL|member|h
 DECL|member|hFile
 DECL|member|hHeap
 DECL|member|hMap
+DECL|member|hMap
 DECL|member|hMutex
 DECL|member|hPending
 DECL|member|hShared
@@ -5241,6 +5325,7 @@ DECL|member|iDocid
 DECL|member|iDoclistToken
 DECL|member|iECursor
 DECL|member|iEnd
+DECL|member|iEnd
 DECL|member|iEndBlock
 DECL|member|iEof
 DECL|member|iFirst
@@ -5293,6 +5378,7 @@ DECL|member|iParent
 DECL|member|iPos
 DECL|member|iPos
 DECL|member|iPos
+DECL|member|iPos
 DECL|member|iPosOffset
 DECL|member|iPrefEnc
 DECL|member|iPrevDocid
@@ -5309,6 +5395,7 @@ DECL|member|iRightJoinTable
 DECL|member|iRowid
 DECL|member|iRowid
 DECL|member|iRowid
+DECL|member|iRowid
 DECL|member|iSDParm
 DECL|member|iSavepoint
 DECL|member|iSdst
@@ -5318,6 +5405,7 @@ DECL|member|iSize
 DECL|member|iSize
 DECL|member|iSize
 DECL|member|iSorterColumn
+DECL|member|iStart
 DECL|member|iStart
 DECL|member|iStartBlock
 DECL|member|iStatement
@@ -5480,6 +5568,12 @@ DECL|member|minLocal
 DECL|member|minLocal
 DECL|member|minWriteFileFormat
 DECL|member|minor
+DECL|member|mmapSize
+DECL|member|mmapSize
+DECL|member|mmapSizeActual
+DECL|member|mmapSizeActual
+DECL|member|mmapSizeMax
+DECL|member|mmapSizeMax
 DECL|member|mnMaster
 DECL|member|mnPmaSize
 DECL|member|mnReq
@@ -5508,6 +5602,7 @@ DECL|member|mxAlloc
 DECL|member|mxCurrent
 DECL|member|mxErr
 DECL|member|mxFrame
+DECL|member|mxMmap
 DECL|member|mxOut
 DECL|member|mxParserStack
 DECL|member|mxPathname
@@ -5620,6 +5715,8 @@ DECL|member|nExpr
 DECL|member|nExt
 DECL|member|nExtension
 DECL|member|nExtra
+DECL|member|nFetchOut
+DECL|member|nFetchOut
 DECL|member|nField
 DECL|member|nField
 DECL|member|nField
@@ -5669,6 +5766,7 @@ DECL|member|nMem
 DECL|member|nMem
 DECL|member|nMin
 DECL|member|nMinPage
+DECL|member|nMmapOut
 DECL|member|nModuleArg
 DECL|member|nName
 DECL|member|nNear
@@ -5790,6 +5888,7 @@ DECL|member|nTermAlloc
 DECL|member|nThis
 DECL|member|nTitle
 DECL|member|nTitle
+DECL|member|nToken
 DECL|member|nToken
 DECL|member|nToken
 DECL|member|nToken
@@ -5923,6 +6022,7 @@ DECL|member|pCsr
 DECL|member|pCsr
 DECL|member|pCsr
 DECL|member|pCsr
+DECL|member|pCsr
 DECL|member|pCtx
 DECL|member|pCurrent
 DECL|member|pCurrent
@@ -6047,6 +6147,8 @@ DECL|member|pLruNext
 DECL|member|pLruPrev
 DECL|member|pLruTail
 DECL|member|pMap
+DECL|member|pMapRegion
+DECL|member|pMapRegion
 DECL|member|pMaskSet
 DECL|member|pMem
 DECL|member|pMem
@@ -6055,6 +6157,8 @@ DECL|member|pMethod
 DECL|member|pMethod
 DECL|member|pMethod
 DECL|member|pMethods
+DECL|member|pMmapFreelist
+DECL|member|pMod
 DECL|member|pMod
 DECL|member|pModule
 DECL|member|pModule
@@ -6219,6 +6323,7 @@ DECL|member|pTemp1
 DECL|member|pTerm
 DECL|member|pTmpSpace
 DECL|member|pTmpSpace
+DECL|member|pTok
 DECL|member|pToken
 DECL|member|pToken
 DECL|member|pToken
@@ -6426,6 +6531,9 @@ DECL|member|szExtra
 DECL|member|szFirstBlock
 DECL|member|szLookaside
 DECL|member|szMaster
+DECL|member|szMmap
+DECL|member|szMmap
+DECL|member|szMmap
 DECL|member|szOsFile
 DECL|member|szPage
 DECL|member|szPage
@@ -6598,6 +6706,7 @@ DECL|member|xEof
 DECL|member|xExprCallback
 DECL|member|xFetch
 DECL|member|xFetch
+DECL|member|xFetch
 DECL|member|xFileControl
 DECL|member|xFileSize
 DECL|member|xFilter
@@ -6675,6 +6784,7 @@ DECL|member|xTrace
 DECL|member|xTruncate
 DECL|member|xTruncate
 DECL|member|xTruncate
+DECL|member|xUnfetch
 DECL|member|xUnlock
 DECL|member|xUnlockNotify
 DECL|member|xUnpin
@@ -6748,6 +6858,7 @@ DECL|member|zFilename
 DECL|member|zFilename
 DECL|member|zIndex
 DECL|member|zInput
+DECL|member|zInput
 DECL|member|zJournal
 DECL|member|zJournal
 DECL|member|zLanguageid
@@ -6792,6 +6903,7 @@ DECL|member|zTerm
 DECL|member|zText
 DECL|member|zTitle
 DECL|member|zTo
+DECL|member|zToken
 DECL|member|zToken
 DECL|member|zToken
 DECL|member|zToken
@@ -6851,6 +6963,8 @@ DECL|struct|Fts3TokenAndCost
 DECL|struct|Fts3auxColstats
 DECL|struct|Fts3auxCursor
 DECL|struct|Fts3auxTable
+DECL|struct|Fts3tokCursor
+DECL|struct|Fts3tokTable
 DECL|struct|FuncDef
 DECL|struct|FuncDefHash
 DECL|struct|FuncDestructor
@@ -7079,6 +7193,8 @@ DECL|typedef|Fts3Table
 DECL|typedef|Fts3TokenAndCost
 DECL|typedef|Fts3auxCursor
 DECL|typedef|Fts3auxTable
+DECL|typedef|Fts3tokCursor
+DECL|typedef|Fts3tokTable
 DECL|typedef|FuncDef
 DECL|typedef|FuncDefHash
 DECL|typedef|FuncDestructor
