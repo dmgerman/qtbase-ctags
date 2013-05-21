@@ -76,6 +76,7 @@ DECL|function|processTabletLeaveProximityEvent
 DECL|function|processThemeChanged
 DECL|function|processTouchEvent
 DECL|function|processWheelEvent
+DECL|function|processWindowScreenChangedEvent
 DECL|function|processWindowStateChangedEvent
 DECL|function|processWindowSystemEvent
 DECL|function|qHash
