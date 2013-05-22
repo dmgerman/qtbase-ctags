@@ -14,6 +14,7 @@ DECL|function|fromVariantMap
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|keySorting
+DECL|function|longStrings
 DECL|function|nesting
 DECL|function|nullArrays
 DECL|function|nullObject
