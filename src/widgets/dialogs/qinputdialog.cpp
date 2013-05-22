@@ -6,6 +6,7 @@ DECL|function|QInputDialogDoubleSpinBox
 DECL|function|QInputDialogPrivate
 DECL|function|QInputDialogSpinBox
 DECL|function|_q_currentRowChanged
+DECL|function|_q_plainTextEditTextChanged
 DECL|function|_q_textChanged
 DECL|function|cancelButtonText
 DECL|function|chooseRightTextInputWidget
@@ -23,9 +24,11 @@ DECL|function|ensureLayout
 DECL|function|ensureLayout
 DECL|function|ensureLineEdit
 DECL|function|ensureListView
+DECL|function|ensurePlainTextEdit
 DECL|function|getDouble
 DECL|function|getInt
 DECL|function|getItem
+DECL|function|getMultiLineText
 DECL|function|getText
 DECL|function|inputMode
 DECL|function|intMaximum
@@ -87,5 +90,6 @@ DECL|member|listView
 DECL|member|mainLayout
 DECL|member|memberToDisconnectOnClose
 DECL|member|opts
+DECL|member|plainTextEdit
 DECL|member|receiverToDisconnectOnClose
 DECL|member|textValue

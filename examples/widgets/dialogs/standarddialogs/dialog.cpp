@@ -13,6 +13,7 @@ DECL|function|setExistingDirectory
 DECL|function|setFont
 DECL|function|setInteger
 DECL|function|setItem
+DECL|function|setMultiLineText
 DECL|function|setOpenFileName
 DECL|function|setOpenFileNames
 DECL|function|setSaveFileName
