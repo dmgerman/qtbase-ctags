@@ -32,6 +32,7 @@ DECL|function|setOptions
 DECL|function|sizeHint
 DECL|function|textLayoutBounds
 DECL|function|textRectangle
+DECL|function|tryFixup
 DECL|function|updateEditorGeometry
 DECL|function|valueToText
 DECL|function|widget

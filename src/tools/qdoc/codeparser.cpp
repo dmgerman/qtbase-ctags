@@ -36,6 +36,7 @@ DECL|macro|COMMAND_SINCE
 DECL|macro|COMMAND_SUBTITLE
 DECL|macro|COMMAND_THREADSAFE
 DECL|macro|COMMAND_TITLE
+DECL|macro|COMMAND_WRAPPER
 DECL|member|currentSubDir_
 DECL|member|nameToTitle
 DECL|member|parsers

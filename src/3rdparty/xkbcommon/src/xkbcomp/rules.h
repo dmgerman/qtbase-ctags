@@ -1,0 +1,1 @@
+DECL|macro|XKBCOMP_RULES_H

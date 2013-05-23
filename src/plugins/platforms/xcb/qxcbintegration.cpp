@@ -18,9 +18,11 @@ DECL|function|inputContext
 DECL|function|makeCurrent
 DECL|function|moveToScreen
 DECL|function|nativeInterface
+DECL|function|possibleKeys
 DECL|function|queryKeyboardModifiers
 DECL|function|runningUnderDebugger
 DECL|function|services
+DECL|function|styleHint
 DECL|function|swapBuffers
 DECL|function|themeNames
 DECL|function|~QXcbIntegration

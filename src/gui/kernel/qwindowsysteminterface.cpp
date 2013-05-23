@@ -47,6 +47,7 @@ DECL|function|handleWheelEvent
 DECL|function|handleWheelEvent
 DECL|function|handleWheelEvent
 DECL|function|handleWindowActivated
+DECL|function|handleWindowScreenChanged
 DECL|function|handleWindowStateChanged
 DECL|function|handleWindowSystemEvent
 DECL|function|operator <<

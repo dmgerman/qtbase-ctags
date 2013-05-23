@@ -26,7 +26,6 @@ DECL|function|filesDiffer
 DECL|function|firstLicensePath
 DECL|function|formatPath
 DECL|function|formatPaths
-DECL|function|generateBuildKey
 DECL|function|generateCachefile
 DECL|function|generateConfigfiles
 DECL|function|generateHeaders
@@ -34,7 +33,6 @@ DECL|function|generateMakefiles
 DECL|function|generateOutputVars
 DECL|function|generateQConfigCpp
 DECL|function|generateQConfigPri
-DECL|function|generateSystemVars
 DECL|function|isDone
 DECL|function|isOk
 DECL|function|locateFile
@@ -42,6 +40,7 @@ DECL|function|operator <<
 DECL|function|parseCmdLine
 DECL|function|platform
 DECL|function|platformName
+DECL|function|prepareConfigTests
 DECL|function|projectType
 DECL|function|promptKeyPress
 DECL|function|qpaPlatformName

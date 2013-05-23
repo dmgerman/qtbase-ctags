@@ -89,6 +89,7 @@ DECL|function|setParent
 DECL|function|setPosition
 DECL|function|setPosition
 DECL|function|setScreen
+DECL|function|setScreen
 DECL|function|setSizeIncrement
 DECL|function|setSurfaceType
 DECL|function|setTitle

@@ -32,6 +32,7 @@ DECL|function|destroyWindow
 DECL|function|effectiveScreen
 DECL|function|ensureEglSurfaceHandle
 DECL|function|fireExpose
+DECL|function|fixTopLevelWindowFlags
 DECL|function|frame
 DECL|function|frameGeometry
 DECL|function|frameGeometry_sys

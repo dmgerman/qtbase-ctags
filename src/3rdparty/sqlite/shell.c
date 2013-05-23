@@ -15,6 +15,7 @@ DECL|function|endTimer
 DECL|function|endTimer
 DECL|function|find_home_dir
 DECL|function|hasTimer
+DECL|function|integerValue
 DECL|function|interrupt_handler
 DECL|function|iotracePrintf
 DECL|function|isNumber

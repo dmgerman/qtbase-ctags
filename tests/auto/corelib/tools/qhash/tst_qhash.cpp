@@ -50,6 +50,8 @@ DECL|function|qHash
 DECL|function|qHash
 DECL|function|qhash
 DECL|function|qmultihash_specific
+DECL|function|qthash
+DECL|function|qthash_data
 DECL|function|rehash_isnt_quadratic
 DECL|function|sorted
 DECL|function|swap

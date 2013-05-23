@@ -3,6 +3,7 @@ DECL|function|bytesAvailableFromStderr
 DECL|function|bytesAvailableFromStdout
 DECL|function|destroyChannel
 DECL|function|destroyPipe
+DECL|function|drainOutputPipes
 DECL|function|findExitCode
 DECL|function|flushPipeWriter
 DECL|function|killProcess

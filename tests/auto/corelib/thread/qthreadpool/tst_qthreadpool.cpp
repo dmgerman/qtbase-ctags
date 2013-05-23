@@ -17,6 +17,8 @@ DECL|function|exceptions
 DECL|function|expiryTimeout
 DECL|function|noSleepTestFunction
 DECL|function|noSleepTestFunctionMutex
+DECL|function|priorityStart
+DECL|function|priorityStart_data
 DECL|function|releaseThread
 DECL|function|releaseThread_data
 DECL|function|reserveThread

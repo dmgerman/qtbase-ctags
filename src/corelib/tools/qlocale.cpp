@@ -25,7 +25,6 @@ DECL|function|countryToCode
 DECL|function|countryToString
 DECL|function|createSeparatedList
 DECL|function|currencySymbol
-DECL|function|dataPointerForIndex
 DECL|function|dateFormat
 DECL|function|dateTimeFormat
 DECL|function|dateTimeToString

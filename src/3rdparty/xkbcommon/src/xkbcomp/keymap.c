@@ -1,0 +1,10 @@
+DECL|function|ApplyInterpsToKey
+DECL|function|CompileKeymap
+DECL|function|ComputeEffectiveMask
+DECL|function|FindInterpForKey
+DECL|function|UpdateActionMods
+DECL|function|UpdateBuiltinKeymapFields
+DECL|function|UpdateDerivedKeymapFields
+DECL|typedef|compile_file_fn
+DECL|variable|compile_file_fns
+DECL|variable|default_interpret

@@ -1,0 +1,2 @@
+DECL|macro|QXCBXSETTINGS_H
+DECL|variable|QXcbXSettingsPrivate
