@@ -69,7 +69,6 @@ DECL|enumerator|T_WARNING
 DECL|enumerator|T_WRITE_FILE
 DECL|enum|ExpandFunc
 DECL|enum|TestFunc
-DECL|function|doWriteFile
 DECL|function|evaluateBuiltinConditional
 DECL|function|evaluateBuiltinExpand
 DECL|function|getCommandOutput

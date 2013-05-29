@@ -1,0 +1,1 @@
+DECL|macro|QMAKEVFS_H

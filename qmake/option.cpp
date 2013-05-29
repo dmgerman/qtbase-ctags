@@ -57,6 +57,7 @@ DECL|member|qmake_mode
 DECL|member|recursive
 DECL|member|res_ext
 DECL|member|ui_ext
+DECL|member|vfs
 DECL|member|warn_level
 DECL|member|yacc_ext
 DECL|member|yacc_mod
