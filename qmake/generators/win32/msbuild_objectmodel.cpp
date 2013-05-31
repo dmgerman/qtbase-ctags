@@ -195,6 +195,7 @@ DECL|variable|_Optimization
 DECL|variable|_OptimizeReferences
 DECL|variable|_OutputDirectory
 DECL|variable|_OutputFile
+DECL|variable|_PlatformToolSet
 DECL|variable|_PrecompiledHeader
 DECL|variable|_PrecompiledHeaderFile
 DECL|variable|_PrecompiledHeaderOutputFile
