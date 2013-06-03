@@ -37,6 +37,7 @@ DECL|member|m_device
 DECL|member|m_forceToActiveWindow
 DECL|member|m_lastContacts
 DECL|member|m_lastEventType
+DECL|member|m_rotate
 DECL|member|m_touchPoints
 DECL|member|m_typeB
 DECL|member|maj
