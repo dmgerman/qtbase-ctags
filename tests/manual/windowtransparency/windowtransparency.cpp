@@ -1,0 +1,10 @@
+DECL|class|GLWindow
+DECL|class|Widget
+DECL|function|GLWindow
+DECL|function|Widget
+DECL|function|exposeEvent
+DECL|function|main
+DECL|function|mousePressEvent
+DECL|function|mousePressEvent
+DECL|function|paintEvent
+DECL|member|gl

@@ -1,6 +1,7 @@
 DECL|function|QQnxScreen
 DECL|function|activateWindowGroup
 DECL|function|addOverlayWindow
+DECL|function|addUnderlayWindow
 DECL|function|addWindow
 DECL|function|adjustOrientation
 DECL|function|availableGeometry
@@ -19,7 +20,7 @@ DECL|function|onWindowPost
 DECL|function|orientation
 DECL|function|raiseWindow
 DECL|function|refreshRate
-DECL|function|removeOverlayWindow
+DECL|function|removeOverlayOrUnderlayWindow
 DECL|function|removeWindow
 DECL|function|resizeNativeWidgetWindow
 DECL|function|resizeTopLevelWindow
@@ -34,3 +35,5 @@ DECL|function|~QQnxScreen
 DECL|macro|QQNX_PHYSICAL_SCREEN_SIZE_DEFINED
 DECL|macro|qScreenDebug
 DECL|macro|qScreenDebug
+DECL|variable|MAX_UNDERLAY_ZORDER
+DECL|variable|MMRENDER_DEFAULT_ZORDER

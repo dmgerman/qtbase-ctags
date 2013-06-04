@@ -1,6 +1,7 @@
 DECL|class|tst_QDnsLookup
 DECL|function|domainName
 DECL|function|domainNameList
+DECL|function|domainNameListAlternatives
 DECL|function|initTestCase
 DECL|function|lookup
 DECL|function|lookupAbortRetry

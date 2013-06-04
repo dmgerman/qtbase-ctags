@@ -1,7 +1,7 @@
 DECL|class|QOpenGLStaticTextUserData
 DECL|function|QGL2PaintEngineEx
-DECL|function|QOpenGL2PaintEngineState
-DECL|function|QOpenGL2PaintEngineState
+DECL|function|QGL2PaintEngineState
+DECL|function|QGL2PaintEngineState
 DECL|function|QOpenGLStaticTextUserData
 DECL|function|begin
 DECL|function|beginNativePainting
@@ -62,7 +62,7 @@ DECL|function|useSimpleShader
 DECL|function|writeClip
 DECL|function|~QGL2PaintEngineEx
 DECL|function|~QGL2PaintEngineExPrivate
-DECL|function|~QOpenGL2PaintEngineState
+DECL|function|~QGL2PaintEngineState
 DECL|function|~QOpenGLStaticTextUserData
 DECL|macro|GL_FRAMEBUFFER_SRGB
 DECL|macro|GL_MIRRORED_REPEAT_IBM
