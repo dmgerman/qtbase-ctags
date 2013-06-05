@@ -39,6 +39,7 @@ DECL|function|seek_data
 DECL|macro|BUFSIZE
 DECL|macro|FACTOR
 DECL|macro|TF_SIZE
+DECL|macro|open
 DECL|member|filename
 DECL|member|tmpDirName
 DECL|variable|seekpos
