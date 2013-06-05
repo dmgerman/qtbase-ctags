@@ -66,6 +66,7 @@ DECL|function|removeGlyphFromCache
 DECL|function|scaleOutline
 DECL|function|setDefaultHintStyle
 DECL|function|setGlyph
+DECL|function|shouldUseDesignMetrics
 DECL|function|stringToCMap
 DECL|function|synthesized
 DECL|function|underlinePosition
