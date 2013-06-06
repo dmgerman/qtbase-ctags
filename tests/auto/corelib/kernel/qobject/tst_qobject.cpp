@@ -79,6 +79,7 @@ DECL|function|NotifyObject
 DECL|function|PropertyObject
 DECL|function|QCustomTypeChecker
 DECL|function|QObjectCreatedOnShutdown
+DECL|function|QmlReceiver
 DECL|function|ReceiverObject
 DECL|function|SenderObject
 DECL|function|SequenceObject
@@ -195,6 +196,7 @@ DECL|function|eventList
 DECL|function|findChildren
 DECL|function|floatProperty
 DECL|function|harmfullSlot
+DECL|function|impl
 DECL|function|initTestCase
 DECL|function|installEventFilter
 DECL|function|interfaceIid
@@ -263,6 +265,7 @@ DECL|function|processEvents
 DECL|function|property
 DECL|function|qMetaObjectConnect
 DECL|function|qMetaObjectDisconnectOne
+DECL|function|qmlConnect
 DECL|function|qobjectConstCast
 DECL|function|qobject_castTemplate
 DECL|function|qpointerResetBeforeDestroyedSignal
@@ -419,6 +422,7 @@ DECL|macro|MANYARGUMENT_COMPARE
 DECL|macro|SIGNAL_INDEX
 DECL|member|aPublicSlotCalled
 DECL|member|base_counter1
+DECL|member|callCount
 DECL|member|called_slots
 DECL|member|changedDynamicProperties
 DECL|member|child
@@ -456,6 +460,7 @@ DECL|member|m_priority
 DECL|member|m_qreal
 DECL|member|m_string
 DECL|member|m_variant
+DECL|member|magic
 DECL|member|mutex
 DECL|member|next
 DECL|member|o1_obj
@@ -510,6 +515,7 @@ DECL|struct|Funct6
 DECL|struct|Functor
 DECL|struct|IntFunctor
 DECL|struct|QObjectCreatedOnShutdown
+DECL|struct|QmlReceiver
 DECL|struct|SlotFunctor
 DECL|struct|SlotFunctorString
 DECL|struct|StringFunctor

@@ -27,12 +27,15 @@ DECL|function|connect
 DECL|function|connect
 DECL|function|connect
 DECL|function|connect
+DECL|function|connect
+DECL|function|connectImpl
 DECL|function|connectImpl
 DECL|function|connectNotify
 DECL|function|connectSlotsByName
 DECL|function|customEvent
 DECL|function|deleteChildren
 DECL|function|deleteLater
+DECL|function|disconnect
 DECL|function|disconnect
 DECL|function|disconnect
 DECL|function|disconnect
