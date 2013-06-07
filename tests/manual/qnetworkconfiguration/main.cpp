@@ -1,0 +1,2 @@
+DECL|class|tst_qnetworkconfiguration
+DECL|function|bearerType
