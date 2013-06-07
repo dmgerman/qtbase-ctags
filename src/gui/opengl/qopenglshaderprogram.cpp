@@ -4,6 +4,7 @@ DECL|function|QOpenGLShader
 DECL|function|QOpenGLShaderPrivate
 DECL|function|QOpenGLShaderProgram
 DECL|function|QOpenGLShaderProgramPrivate
+DECL|function|QVersionDirectivePosition
 DECL|function|addShader
 DECL|function|addShaderFromSourceCode
 DECL|function|addShaderFromSourceCode
@@ -30,10 +31,12 @@ DECL|function|disableAttributeArray
 DECL|function|disableAttributeArray
 DECL|function|enableAttributeArray
 DECL|function|enableAttributeArray
+DECL|function|findVersionDirectivePosition
 DECL|function|freeProgramFunc
 DECL|function|freeShaderFunc
 DECL|function|hasOpenGLShaderPrograms
 DECL|function|hasOpenGLShaders
+DECL|function|hasPosition
 DECL|function|hasShader
 DECL|function|init
 DECL|function|isCompiled
@@ -184,9 +187,11 @@ DECL|member|compiled
 DECL|member|glfuncs
 DECL|member|glfuncs
 DECL|member|inited
+DECL|member|line
 DECL|member|linked
 DECL|member|log
 DECL|member|log
+DECL|member|position
 DECL|member|programGuard
 DECL|member|removingShaders
 DECL|member|shaderGuard
@@ -195,5 +200,6 @@ DECL|member|shaders
 DECL|member|supportsGeometryShaders
 DECL|member|supportsTessellationShaders
 DECL|member|tessellationFuncs
+DECL|struct|QVersionDirectivePosition
 DECL|variable|qualifierDefines
 DECL|variable|redefineHighp
