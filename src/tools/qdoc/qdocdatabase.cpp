@@ -17,6 +17,8 @@ DECL|function|findDocNodeByTitle
 DECL|function|findGroup
 DECL|function|findModule
 DECL|function|findNodeForTarget
+DECL|function|findNodeInOpenNamespace
+DECL|function|findNodeInOpenNamespace
 DECL|function|findQmlModule
 DECL|function|findQmlType
 DECL|function|findQmlType
