@@ -1,9 +1,7 @@
 DECL|class|EventLoopExecutor
 DECL|class|EventLoopExiter
 DECL|class|EventLoopThread
-DECL|class|ExceptionThrower
 DECL|class|MultipleExecThread
-DECL|class|QEventLoopTestException
 DECL|class|SocketEventsTester
 DECL|class|SocketTestThread
 DECL|class|StartStopEvent
@@ -16,7 +14,6 @@ DECL|enumerator|NbThread
 DECL|function|CustomEvent
 DECL|function|EventLoopExecutor
 DECL|function|EventLoopExiter
-DECL|function|ExceptionThrower
 DECL|function|MultipleExecThread
 DECL|function|Object
 DECL|function|SocketEventsTester
@@ -43,8 +40,6 @@ DECL|function|run
 DECL|function|run
 DECL|function|sendAck
 DECL|function|sendHello
-DECL|function|throwException
-DECL|function|throwInExec
 DECL|function|timerEvent
 DECL|function|wakeUp
 DECL|function|~SocketEventsTester
