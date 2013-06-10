@@ -37,6 +37,7 @@ DECL|function|buttonRole
 DECL|function|buttonText
 DECL|function|buttons
 DECL|function|changeEvent
+DECL|function|checkBox
 DECL|function|clickedButton
 DECL|function|closeEvent
 DECL|function|contextMenuEvent
@@ -75,6 +76,7 @@ DECL|function|resizeEvent
 DECL|function|retranslateStrings
 DECL|function|selectAll
 DECL|function|setButtonText
+DECL|function|setCheckBox
 DECL|function|setDefaultButton
 DECL|function|setDefaultButton
 DECL|function|setDetailedText
@@ -114,6 +116,7 @@ DECL|function|warning
 DECL|function|~QMessageBox
 DECL|member|autoAddOkButton
 DECL|member|buttonBox
+DECL|member|checkbox
 DECL|member|clickedButton
 DECL|member|compatMode
 DECL|member|copyAvailable
