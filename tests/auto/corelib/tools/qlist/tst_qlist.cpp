@@ -45,6 +45,7 @@ DECL|function|endsWith
 DECL|function|endsWithComplex
 DECL|function|endsWithInt
 DECL|function|endsWithMovable
+DECL|function|eraseValidIteratorsOnSharedList
 DECL|function|first
 DECL|function|firstComplex
 DECL|function|firstInt
