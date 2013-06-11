@@ -13,6 +13,7 @@ DECL|function|location
 DECL|function|qt_core_boilerplate
 DECL|function|rawLocation
 DECL|member|haveEffectivePaths
+DECL|member|haveEffectiveSourcePaths
 DECL|member|havePaths
 DECL|member|key
 DECL|member|settings
