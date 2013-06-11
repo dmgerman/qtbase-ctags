@@ -1,0 +1,9 @@
+DECL|macro|MESSAGEBOXPANEL_H
+DECL|variable|QCheckBox
+DECL|variable|QCheckBox
+DECL|variable|QComboBox
+DECL|variable|QLabel
+DECL|variable|QLineEdit
+DECL|variable|QMessageBox
+DECL|variable|QPushButton
+DECL|variable|QValidator
