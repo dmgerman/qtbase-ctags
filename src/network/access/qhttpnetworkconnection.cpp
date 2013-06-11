@@ -27,6 +27,7 @@ DECL|function|isSsl
 DECL|function|networkLayerDetected
 DECL|function|pauseConnection
 DECL|function|port
+DECL|function|preConnectFinished
 DECL|function|predictNextRequest
 DECL|function|prepareRequest
 DECL|function|queueRequest

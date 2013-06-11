@@ -55,6 +55,8 @@ DECL|function|newConnectionSlot
 DECL|function|performanceControlRate
 DECL|function|preConnect
 DECL|function|preConnectEncrypted
+DECL|function|preConnectEncrypted_data
+DECL|function|preConnect_data
 DECL|function|readData
 DECL|function|readData
 DECL|function|readyReadSlot

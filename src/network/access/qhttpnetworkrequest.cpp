@@ -8,6 +8,7 @@ DECL|function|header
 DECL|function|header
 DECL|function|headerField
 DECL|function|isPipeliningAllowed
+DECL|function|isPreConnect
 DECL|function|isSsl
 DECL|function|majorVersion
 DECL|function|methodName
@@ -22,6 +23,7 @@ DECL|function|setCustomVerb
 DECL|function|setHeaderField
 DECL|function|setOperation
 DECL|function|setPipeliningAllowed
+DECL|function|setPreConnect
 DECL|function|setPriority
 DECL|function|setSsl
 DECL|function|setUploadByteDevice
