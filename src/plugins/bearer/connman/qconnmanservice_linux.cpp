@@ -104,4 +104,3 @@ DECL|function|~QConnmanManagerInterface
 DECL|function|~QConnmanProfileInterface
 DECL|function|~QConnmanServiceInterface
 DECL|function|~QConnmanTechnologyInterface
-DECL|variable|dbusConnection

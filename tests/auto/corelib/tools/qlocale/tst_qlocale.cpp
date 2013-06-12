@@ -4,6 +4,7 @@ DECL|function|GetThreadLocale
 DECL|function|QTBUG_26035_positivesign
 DECL|function|RestoreLocaleHelper
 DECL|function|ampm
+DECL|function|cleanupTestCase
 DECL|function|ctor
 DECL|function|currency
 DECL|function|dateFormat
@@ -38,6 +39,7 @@ DECL|function|negativeNumbers
 DECL|function|negativeZero
 DECL|function|numberOptions
 DECL|function|quoteString
+DECL|function|readPpsValue
 DECL|function|runSysApp
 DECL|function|runSysAppTest
 DECL|function|setWinLocaleInfo
@@ -80,6 +82,7 @@ DECL|macro|_MCW_EM
 DECL|macro|_control87
 DECL|member|m_decimal
 DECL|member|m_decimal
+DECL|member|m_languageFd
 DECL|member|m_ldate
 DECL|member|m_ldate
 DECL|member|m_sdate
@@ -90,3 +93,5 @@ DECL|member|m_thousand
 DECL|member|m_time
 DECL|member|m_time
 DECL|variable|locale_data_count
+DECL|variable|ppsBufferSize
+DECL|variable|ppsLanguageLocalePath
