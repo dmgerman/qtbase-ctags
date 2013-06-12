@@ -1,0 +1,14 @@
+DECL|enumerator|ANY
+DECL|enumerator|EOF_SYMBOL
+DECL|enumerator|LEFT_ANGLE
+DECL|enumerator|RIGHT_ANGLE
+DECL|enum|Token
+DECL|function|main
+DECL|function|nextToken
+DECL|function|parse
+DECL|function|parseTagName
+DECL|function|parseTagOrWord
+DECL|function|parseXmlStream
+DECL|variable|current_char
+DECL|variable|in_tag
+DECL|variable|yytoken
