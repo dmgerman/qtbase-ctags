@@ -1,5 +1,7 @@
 DECL|function|QLineEdit
 DECL|function|QLineEdit
+DECL|function|addAction
+DECL|function|addAction
 DECL|function|alignment
 DECL|function|backspace
 DECL|function|changeEvent

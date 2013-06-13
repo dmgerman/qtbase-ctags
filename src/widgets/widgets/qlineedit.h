@@ -2,7 +2,9 @@ DECL|macro|QLINEEDIT_H
 DECL|variable|QAbstractSpinBox
 DECL|variable|QCompleter
 DECL|variable|QDateTimeEdit
+DECL|variable|QIcon
 DECL|variable|QLineEditPrivate
 DECL|variable|QMenu
 DECL|variable|QStyleOptionFrame
+DECL|variable|QToolButton
 DECL|variable|QValidator

@@ -1,1 +1,3 @@
+DECL|function|effectiveLeftTextMargin
+DECL|function|effectiveRightTextMargin
 DECL|macro|QLINEEDIT_P_H
