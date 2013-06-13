@@ -1,5 +1,6 @@
 DECL|function|adapt
 DECL|function|appendEncode
+DECL|function|containsProhibitedOuptut
 DECL|function|encodeDigit
 DECL|function|equal
 DECL|function|idnWhitelist
@@ -19,7 +20,6 @@ DECL|function|qt_nameprep
 DECL|function|qt_punycodeDecoder
 DECL|function|qt_punycodeEncoder
 DECL|function|setIdnWhitelist
-DECL|function|stripProhibitedOutput
 DECL|macro|Q_MAXINT
 DECL|member|mapping
 DECL|member|uc
