@@ -1,2 +1,3 @@
+DECL|function|qHash
 DECL|macro|QFILESYSTEMWATCHER_WIN_P_H
 DECL|variable|QWindowsFileSystemWatcherEngineThread
