@@ -29,4 +29,5 @@ DECL|variable|QPoint
 DECL|variable|QWindow
 DECL|variable|QWindowsMimeConverter
 DECL|variable|QWindowsScreenManager
+DECL|variable|QWindowsTabletSupport
 DECL|variable|QWindowsWindow

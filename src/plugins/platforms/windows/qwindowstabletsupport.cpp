@@ -1,0 +1,23 @@
+DECL|enumerator|CursorTypeBitMask
+DECL|enumerator|DeviceIdMask
+DECL|enumerator|PacketMode
+DECL|enumerator|TabletPacketQSize
+DECL|function|QWindowsTabletSupport
+DECL|function|create
+DECL|function|description
+DECL|function|deviceType
+DECL|function|indexOfDevice
+DECL|function|init
+DECL|function|notifyActivate
+DECL|function|operator <<
+DECL|function|options
+DECL|function|pointerType
+DECL|function|qWindowsTabletSupportWndProc
+DECL|function|scaleCoordinates
+DECL|function|sign
+DECL|function|tabletInit
+DECL|function|translateTabletPacketEvent
+DECL|function|translateTabletProximityEvent
+DECL|function|~QWindowsTabletSupport
+DECL|macro|PACKETDATA
+DECL|member|m_winTab32DLL

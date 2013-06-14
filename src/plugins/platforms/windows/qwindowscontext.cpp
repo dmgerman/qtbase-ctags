@@ -33,6 +33,7 @@ DECL|function|setAsyncExpose
 DECL|function|setKeyGrabber
 DECL|function|setWindowCreationContext
 DECL|function|systemInfo
+DECL|function|tabletSupport
 DECL|function|unregisterWindowClasses
 DECL|function|useRTLExtensions
 DECL|function|useRTL_Extensions
@@ -55,6 +56,7 @@ DECL|member|m_oleInitializeResult
 DECL|member|m_registeredWindowClassNames
 DECL|member|m_screenManager
 DECL|member|m_systemInfo
+DECL|member|m_tabletSupport
 DECL|member|m_windows
 DECL|member|shell32dll
 DECL|member|user32dll
@@ -66,6 +68,7 @@ DECL|member|verboseGL
 DECL|member|verboseInputMethods
 DECL|member|verboseIntegration
 DECL|member|verboseOLE
+DECL|member|verboseTablet
 DECL|member|verboseTheming
 DECL|member|verboseWindows
 DECL|struct|QWindowsContextPrivate
