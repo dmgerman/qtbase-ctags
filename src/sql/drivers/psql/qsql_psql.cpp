@@ -68,6 +68,7 @@ DECL|function|virtual_hook
 DECL|function|~QPSQLDriver
 DECL|function|~QPSQLResult
 DECL|macro|QABSTIMEOID
+DECL|macro|QBITOID
 DECL|macro|QBOOLOID
 DECL|macro|QBYTEAOID
 DECL|macro|QCIDOID
@@ -85,7 +86,9 @@ DECL|macro|QTIMEOID
 DECL|macro|QTIMESTAMPOID
 DECL|macro|QTIMESTAMPTZOID
 DECL|macro|QTIMETZOID
+DECL|macro|QVARBITOID
 DECL|macro|QXIDOID
+DECL|macro|VARHDRSZ
 DECL|macro|isinf
 DECL|macro|isnan
 DECL|member|connection
