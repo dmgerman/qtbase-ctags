@@ -161,6 +161,7 @@ DECL|function|setMode
 DECL|function|setNameFilters
 DECL|function|setNameFilters
 DECL|function|setNameFilters
+DECL|function|setNameFilters
 DECL|function|setSelectedFiles
 DECL|function|setSelectedNameFilter
 DECL|function|setWindowTitle
@@ -168,7 +169,6 @@ DECL|function|setWindowTitle
 DECL|function|setWindowTitle
 DECL|function|shellItem
 DECL|function|show
-DECL|function|slotFilterSelected
 DECL|function|snapToDefaultButtonHint
 DECL|function|startDialogThread
 DECL|function|stopTimer
