@@ -14,6 +14,7 @@ DECL|function|count
 DECL|function|ctor
 DECL|function|empty
 DECL|function|equal_range
+DECL|function|eraseValidIteratorOnSharedMap
 DECL|function|find
 DECL|function|init
 DECL|function|initializerList
