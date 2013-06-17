@@ -11,6 +11,7 @@ DECL|function|lower
 DECL|function|minimize
 DECL|function|platformWindowFormatToNativeFormat
 DECL|function|post
+DECL|function|propagateSizeHints
 DECL|function|raise
 DECL|function|removeFromParent
 DECL|function|renderBuffer
