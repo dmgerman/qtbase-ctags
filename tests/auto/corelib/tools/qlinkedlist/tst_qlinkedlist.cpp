@@ -1,0 +1,2 @@
+DECL|class|tst_QLinkedList
+DECL|function|eraseValidIteratorsOnSharedList
