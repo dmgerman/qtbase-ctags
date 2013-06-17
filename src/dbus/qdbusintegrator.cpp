@@ -67,7 +67,6 @@ DECL|function|send
 DECL|function|sendError
 DECL|function|sendWithReply
 DECL|function|sendWithReplyAsync
-DECL|function|sendWithReplyAsync
 DECL|function|sendWithReplyLocal
 DECL|function|serviceOwnerChangedNoLock
 DECL|function|setConnection
