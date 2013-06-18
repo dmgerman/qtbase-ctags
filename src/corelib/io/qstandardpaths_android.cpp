@@ -1,0 +1,12 @@
+DECL|function|applicationContext
+DECL|function|getAbsolutePath
+DECL|function|getCacheDir
+DECL|function|getExternalCacheDir
+DECL|function|getExternalFilesDir
+DECL|function|getExternalStorageDirectory
+DECL|function|getExternalStoragePublicDirectory
+DECL|function|getFilesDir
+DECL|function|standardLocations
+DECL|function|testDir
+DECL|function|writableLocation
+DECL|typedef|AndroidDirCache
