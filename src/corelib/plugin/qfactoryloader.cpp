@@ -12,7 +12,6 @@ DECL|function|~QFactoryLoader
 DECL|function|~QFactoryLoaderPrivate
 DECL|member|cs
 DECL|member|iid
-DECL|member|keyList
 DECL|member|keyMap
 DECL|member|libraryList
 DECL|member|loadedPaths
