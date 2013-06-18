@@ -46,6 +46,7 @@ DECL|macro|XF86XK_Away
 DECL|macro|XF86XK_Back
 DECL|macro|XF86XK_BackForward
 DECL|macro|XF86XK_Battery
+DECL|macro|XF86XK_Blue
 DECL|macro|XF86XK_Bluetooth
 DECL|macro|XF86XK_Book
 DECL|macro|XF86XK_BrightnessAdjust
@@ -71,6 +72,7 @@ DECL|macro|XF86XK_Finance
 DECL|macro|XF86XK_Forward
 DECL|macro|XF86XK_Game
 DECL|macro|XF86XK_Go
+DECL|macro|XF86XK_Green
 DECL|macro|XF86XK_Hibernate
 DECL|macro|XF86XK_History
 DECL|macro|XF86XK_HomePage
@@ -118,6 +120,7 @@ DECL|macro|XF86XK_Phone
 DECL|macro|XF86XK_Pictures
 DECL|macro|XF86XK_PowerDown
 DECL|macro|XF86XK_PowerOff
+DECL|macro|XF86XK_Red
 DECL|macro|XF86XK_Refresh
 DECL|macro|XF86XK_Reload
 DECL|macro|XF86XK_Reply
@@ -158,6 +161,7 @@ DECL|macro|XF86XK_WakeUp
 DECL|macro|XF86XK_WebCam
 DECL|macro|XF86XK_Word
 DECL|macro|XF86XK_Xfer
+DECL|macro|XF86XK_Yellow
 DECL|macro|XF86XK_ZoomIn
 DECL|macro|XF86XK_ZoomOut
 DECL|macro|XF86XK_iTouch
