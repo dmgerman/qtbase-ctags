@@ -7,6 +7,7 @@ DECL|function|keyboardInputInterval
 DECL|function|mouseDoubleClickInterval
 DECL|function|passwordMaskCharacter
 DECL|function|passwordMaskDelay
+DECL|function|setFocusOnTouchRelease
 DECL|function|showIsFullScreen
 DECL|function|startDragDistance
 DECL|function|startDragTime
