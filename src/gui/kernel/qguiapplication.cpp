@@ -107,6 +107,7 @@ DECL|function|setOverrideCursor
 DECL|function|setPalette
 DECL|function|setQuitOnLastWindowClosed
 DECL|function|shouldQuit
+DECL|function|shouldQuitInternal
 DECL|function|showModalWindow
 DECL|function|styleHints
 DECL|function|synthesizeMouseFromTouchEventsEnabled

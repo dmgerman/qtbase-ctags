@@ -35,6 +35,7 @@ DECL|member|name
 DECL|member|name
 DECL|member|name
 DECL|member|resources
+DECL|member|singleClick
 DECL|member|styleNames
 DECL|member|systemFont
 DECL|member|systemFont

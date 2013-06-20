@@ -129,6 +129,8 @@ DECL|function|toDateTime_data
 DECL|function|toDate_data
 DECL|function|toDouble
 DECL|function|toDouble_data
+DECL|function|toFloat
+DECL|function|toFloat_data
 DECL|function|toInt
 DECL|function|toIntFromDouble
 DECL|function|toIntFromQString
