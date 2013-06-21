@@ -22,6 +22,7 @@ DECL|function|priorityStart
 DECL|function|priorityStart_data
 DECL|function|releaseThread
 DECL|function|releaseThread_data
+DECL|function|reserveAndStart
 DECL|function|reserveThread
 DECL|function|reserveThread_data
 DECL|function|run
