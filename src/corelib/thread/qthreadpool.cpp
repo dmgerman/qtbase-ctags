@@ -12,7 +12,7 @@ DECL|function|globalInstance
 DECL|function|maxThreadCount
 DECL|function|operator <
 DECL|function|operator <
-DECL|function|registerTheadInactive
+DECL|function|registerThreadInactive
 DECL|function|releaseThread
 DECL|function|reserveThread
 DECL|function|reset
