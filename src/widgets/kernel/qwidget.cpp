@@ -252,6 +252,7 @@ DECL|function|setStyle_helper
 DECL|function|setSystemClip
 DECL|function|setTabOrder
 DECL|function|setToolTip
+DECL|function|setToolTipDuration
 DECL|function|setUpdatesEnabled
 DECL|function|setUpdatesEnabled_helper
 DECL|function|setVisible
@@ -297,6 +298,7 @@ DECL|function|tabletEvent
 DECL|function|takeLayout
 DECL|function|testAttribute_helper
 DECL|function|toolTip
+DECL|function|toolTipDuration
 DECL|function|ungrabGesture
 DECL|function|unregisterWidget
 DECL|function|unregisterWidgetSubtree
