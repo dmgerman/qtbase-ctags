@@ -16,6 +16,7 @@ DECL|function|destruction
 DECL|function|emptyFunct
 DECL|function|exceptions
 DECL|function|expiryTimeout
+DECL|function|expiryTimeoutRace
 DECL|function|noSleepTestFunction
 DECL|function|noSleepTestFunctionMutex
 DECL|function|priorityStart

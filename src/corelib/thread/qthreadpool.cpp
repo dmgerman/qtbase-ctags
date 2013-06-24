@@ -31,3 +31,4 @@ DECL|function|waitForDone
 DECL|function|~QThreadPool
 DECL|member|manager
 DECL|member|runnable
+DECL|member|runnableReady
