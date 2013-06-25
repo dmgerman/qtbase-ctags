@@ -4,6 +4,7 @@ DECL|function|_q_dupEnvironment
 DECL|function|_q_notified
 DECL|function|add
 DECL|function|add_fd
+DECL|function|bb_select
 DECL|function|bytesAvailableFromStderr
 DECL|function|bytesAvailableFromStdout
 DECL|function|catchDeadChildren
