@@ -61,6 +61,7 @@ DECL|function|styleString
 DECL|function|styleString
 DECL|function|styleStringHelper
 DECL|function|styles
+DECL|function|systemFont
 DECL|function|weight
 DECL|function|weightFromInteger
 DECL|function|writingSystemName

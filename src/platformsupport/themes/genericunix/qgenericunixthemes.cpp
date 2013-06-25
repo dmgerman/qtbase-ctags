@@ -27,6 +27,8 @@ DECL|function|themeHint
 DECL|function|themeHint
 DECL|function|themeNames
 DECL|function|xdgIconThemePaths
+DECL|member|fixedFont
+DECL|member|fixedFont
 DECL|member|iconFallbackThemeName
 DECL|member|iconThemeName
 DECL|member|kdeHome
