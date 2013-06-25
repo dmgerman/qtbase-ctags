@@ -21,6 +21,7 @@ DECL|function|setDesktopSize
 DECL|function|setDesktopSize
 DECL|function|setDisplayMetrics
 DECL|function|setDisplayMetrics
+DECL|function|styleHint
 DECL|function|surfaceChanged
 DECL|function|themeNames
 DECL|function|~QAndroidPlatformIntegration
