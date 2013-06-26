@@ -1,6 +1,7 @@
 DECL|function|QNetworkConfiguration
 DECL|function|QNetworkConfiguration
 DECL|function|bearerType
+DECL|function|bearerTypeFamily
 DECL|function|bearerTypeName
 DECL|function|cellularStatus
 DECL|function|children
