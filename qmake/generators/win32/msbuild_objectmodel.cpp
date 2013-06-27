@@ -114,6 +114,7 @@ DECL|variable|_DisableLanguageExtensions
 DECL|variable|_DisableSpecificWarnings
 DECL|variable|_DisplayLibrary
 DECL|variable|_EmbedManagedResourceFile
+DECL|variable|_EmbedManifest
 DECL|variable|_EnableCOMDATFolding
 DECL|variable|_EnableEnhancedInstructionSet
 DECL|variable|_EnableErrorChecks
@@ -172,6 +173,7 @@ DECL|variable|_LinkStatus
 DECL|variable|_LinkTimeCodeGeneration
 DECL|variable|_LocaleID
 DECL|variable|_ManifestFile
+DECL|variable|_ManifestTool
 DECL|variable|_MapExports
 DECL|variable|_MapFileName
 DECL|variable|_MergeSections

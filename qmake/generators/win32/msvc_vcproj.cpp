@@ -18,6 +18,7 @@ DECL|function|initIDLTool
 DECL|function|initLexYaccFiles
 DECL|function|initLibrarianTool
 DECL|function|initLinkerTool
+DECL|function|initManifestTool
 DECL|function|initOld
 DECL|function|initPostBuildEventTools
 DECL|function|initPreBuildEventTools
