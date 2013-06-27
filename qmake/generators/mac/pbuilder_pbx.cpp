@@ -18,6 +18,7 @@ DECL|function|pbuilderVersion
 DECL|function|pbxbuild
 DECL|function|projectSuffix
 DECL|function|qtMD5
+DECL|function|quotedStringLiteral
 DECL|function|reftypeForFile
 DECL|function|sourceTreeForFile
 DECL|function|writeMakeParts
