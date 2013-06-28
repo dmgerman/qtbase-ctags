@@ -30,6 +30,7 @@ DECL|macro|XF86XK_AudioCycleTrack
 DECL|macro|XF86XK_AudioForward
 DECL|macro|XF86XK_AudioLowerVolume
 DECL|macro|XF86XK_AudioMedia
+DECL|macro|XF86XK_AudioMicMute
 DECL|macro|XF86XK_AudioMute
 DECL|macro|XF86XK_AudioNext
 DECL|macro|XF86XK_AudioPause

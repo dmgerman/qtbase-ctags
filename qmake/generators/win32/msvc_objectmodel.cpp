@@ -7,6 +7,7 @@ DECL|function|VCFilter
 DECL|function|VCLibrarianTool
 DECL|function|VCLinkerTool
 DECL|function|VCMIDLTool
+DECL|function|VCManifestTool
 DECL|function|VCPostBuildEventTool
 DECL|function|VCPreBuildEventTool
 DECL|function|VCPreLinkEventTool
@@ -37,6 +38,7 @@ DECL|function|outputFilter
 DECL|function|parseOption
 DECL|function|parseOption
 DECL|function|parseOption
+DECL|function|parseOption
 DECL|function|parseRuntimeCheckOption
 DECL|function|vcCommandSeparator
 DECL|function|write
@@ -51,8 +53,10 @@ DECL|function|write
 DECL|function|write
 DECL|function|write
 DECL|function|write
+DECL|function|write
 DECL|function|xformExceptionHandlingNET2005
 DECL|function|xformUsePrecompiledHeaderForNET2005
+DECL|function|~VCManifestTool
 DECL|variable|_ATLMinimizesCRunTimeLibraryUsage
 DECL|variable|_AddModuleNamesToAssembly
 DECL|variable|_AdditionalDependencies
@@ -92,6 +96,7 @@ DECL|variable|_Description
 DECL|variable|_Detect64BitPortabilityProblems
 DECL|variable|_DisableLanguageExtensions
 DECL|variable|_DisableSpecificWarnings
+DECL|variable|_EmbedManifest
 DECL|variable|_EnableCOMDATFolding
 DECL|variable|_EnableEnhancedInstructionSet
 DECL|variable|_EnableErrorChecks
@@ -227,6 +232,7 @@ DECL|variable|_VCCustomBuildTool
 DECL|variable|_VCLibrarianTool
 DECL|variable|_VCLinkerTool
 DECL|variable|_VCMIDLTool
+DECL|variable|_VCManifestTool
 DECL|variable|_VCResourceCompilerTool
 DECL|variable|_ValidateParameters
 DECL|variable|_Version
