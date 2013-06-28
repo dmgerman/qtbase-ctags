@@ -1,4 +1,3 @@
-DECL|function|QFlag
 DECL|function|QIncompatibleFlag
 DECL|macro|QFLAGS_H
 DECL|macro|Q_DECLARE_FLAGS
