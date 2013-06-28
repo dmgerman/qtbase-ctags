@@ -68,7 +68,6 @@ DECL|function|plug
 DECL|function|plug
 DECL|function|prev
 DECL|function|qMax
-DECL|function|qMin
 DECL|function|realMaxSize
 DECL|function|realMinSize
 DECL|function|remove

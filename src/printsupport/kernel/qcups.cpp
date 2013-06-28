@@ -17,7 +17,6 @@ DECL|function|options
 DECL|function|pageRect
 DECL|function|pageSizes
 DECL|function|paperRect
-DECL|function|paperSize2String
 DECL|function|ppdOption
 DECL|function|printFile
 DECL|function|printerHasPPD

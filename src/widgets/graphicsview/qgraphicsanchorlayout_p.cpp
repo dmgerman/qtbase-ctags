@@ -15,7 +15,6 @@ DECL|function|calculateSizeHints
 DECL|function|calculateSizeHints
 DECL|function|calculateTrunk
 DECL|function|calculateVertexPositions
-DECL|function|checkAdd
 DECL|function|constraint
 DECL|function|constraintsFromPaths
 DECL|function|constraintsFromSizeHints
