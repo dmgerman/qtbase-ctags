@@ -1,0 +1,12 @@
+DECL|enumerator|SystemTrayBeginMessage
+DECL|enumerator|SystemTrayCancelMessage
+DECL|enumerator|SystemTrayRequestDock
+DECL|function|QXcbSystemTrayTracker
+DECL|function|create
+DECL|function|emitSystemTrayWindowChanged
+DECL|function|handleDestroyNotifyEvent
+DECL|function|locateTrayWindow
+DECL|function|notifyManagerClientMessageEvent
+DECL|function|requestSystemTrayWindowDock
+DECL|function|systemTrayWindowGlobalGeometry
+DECL|function|trayWindow

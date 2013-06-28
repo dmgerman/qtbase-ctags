@@ -16,7 +16,11 @@ DECL|function|nativeResourceForWindow
 DECL|function|nativeResourceFunctionForContext
 DECL|function|nativeResourceFunctionForScreen
 DECL|function|qPlatformScreenForWindow
+DECL|function|requestSystemTrayWindowDock
 DECL|function|screenForWindow
 DECL|function|setAppTime
 DECL|function|setAppUserTime
 DECL|function|startupId
+DECL|function|systemTrayAvailable
+DECL|function|systemTrayTracker
+DECL|function|systemTrayWindowGlobalGeometry

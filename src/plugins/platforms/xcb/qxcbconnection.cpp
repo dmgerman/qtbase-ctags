@@ -43,6 +43,7 @@ DECL|function|sendConnectionEvent
 DECL|function|setFocusWindow
 DECL|function|startThread
 DECL|function|sync
+DECL|function|systemTrayTracker
 DECL|function|translateMouseButton
 DECL|function|translateMouseButtons
 DECL|function|ungrabServer
