@@ -2,6 +2,8 @@ DECL|function|TableGenerator
 DECL|function|composeTable
 DECL|function|findComposeFile
 DECL|function|findSystemComposeDir
+DECL|function|fromBase16
+DECL|function|fromBase8
 DECL|function|initPossibleLocations
 DECL|function|keysymToUtf8
 DECL|function|locale
@@ -12,6 +14,5 @@ DECL|function|parseKeySequence
 DECL|function|printComposeTable
 DECL|function|processFile
 DECL|function|readLocaleMappings
-DECL|function|stringToKeysym
 DECL|function|systemComposeDir
 DECL|function|~TableGenerator
