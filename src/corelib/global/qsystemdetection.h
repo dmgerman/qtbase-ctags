@@ -36,6 +36,7 @@ DECL|macro|Q_OS_NACL
 DECL|macro|Q_OS_NETBSD
 DECL|macro|Q_OS_OPENBSD
 DECL|macro|Q_OS_OSF
+DECL|macro|Q_OS_OSX
 DECL|macro|Q_OS_QNX
 DECL|macro|Q_OS_RELIANT
 DECL|macro|Q_OS_SCO
