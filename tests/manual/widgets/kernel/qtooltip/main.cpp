@@ -1,4 +1,12 @@
+DECL|class|QToolTipTest
 DECL|class|TestDialog
+DECL|function|QToolTipTest
 DECL|function|TestDialog
 DECL|function|main
+DECL|function|setSleepTime
+DECL|function|setWakeTime
 DECL|function|showSomeToolTips
+DECL|function|styleHint
+DECL|member|sleepTime
+DECL|member|style
+DECL|member|wakeTime
