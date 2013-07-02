@@ -8,6 +8,7 @@ DECL|function|toWeakRef
 DECL|macro|QSHAREDPOINTER_VERIFY_AUTO_CAST
 DECL|member|Value
 DECL|member|Value
+DECL|variable|QEnableSharedFromThis
 DECL|variable|QSharedPointer
 DECL|variable|QVariant
 DECL|variable|QWeakPointer

@@ -2,6 +2,7 @@ DECL|class|Data
 DECL|class|DerivedData
 DECL|class|DiffPtrDerivedData
 DECL|class|OtherObject
+DECL|class|SomeClass
 DECL|class|StrongThread
 DECL|class|Stuffing
 DECL|class|ThreadData
@@ -22,6 +23,7 @@ DECL|function|NoDefaultConstructorConstRef2
 DECL|function|NoDefaultConstructorRRef1
 DECL|function|NoDefaultConstructorRef1
 DECL|function|NoDefaultConstructorRef2
+DECL|function|SomeClass
 DECL|function|Stuffing
 DECL|function|ThreadData
 DECL|function|VirtualDerived
@@ -53,6 +55,8 @@ DECL|function|functionCallDownCast
 DECL|function|functionDataByRef
 DECL|function|functionDataByValue
 DECL|function|getB
+DECL|function|getSharedPtr
+DECL|function|getSharedPtr
 DECL|function|hash
 DECL|function|hashAndMapTest
 DECL|function|invalidConstructs
@@ -74,6 +78,7 @@ DECL|function|refCountData
 DECL|function|run
 DECL|function|run
 DECL|function|safetyCheck
+DECL|function|sharedFromThis
 DECL|function|sharedPointerFromQObjectWithWeak
 DECL|function|swap
 DECL|function|threadStressTest
@@ -98,6 +103,7 @@ DECL|member|b
 DECL|member|buffer
 DECL|member|callCount
 DECL|member|callCount
+DECL|member|data
 DECL|member|derivedDestructorCounter
 DECL|member|derivedDestructorCounter
 DECL|member|destructorCounter
