@@ -8,6 +8,7 @@ DECL|function|files
 DECL|function|findProgram
 DECL|function|fixForOutput
 DECL|function|fixListForOutput
+DECL|function|fixListForOutput
 DECL|function|groupName
 DECL|function|isBuildable
 DECL|function|isObjectOutput
