@@ -1,0 +1,12 @@
+DECL|class|BroadcastReceiverPrivate
+DECL|class|QtNetworkReceiver
+DECL|field|LOG_TAG
+DECL|field|m_broadcastReceiver
+DECL|field|m_lock
+DECL|method|QtNetworkReceiver
+DECL|method|activeNetworkInfoChanged
+DECL|method|getConnectivityManager
+DECL|method|onReceive
+DECL|method|registerReceiver
+DECL|method|unregisterReceiver
+DECL|package|org.qtproject.qt5.android.bearer
