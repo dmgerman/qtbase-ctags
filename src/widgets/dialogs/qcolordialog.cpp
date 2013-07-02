@@ -60,6 +60,7 @@ DECL|function|htmlEd
 DECL|function|huePt
 DECL|function|init
 DECL|function|initHelper
+DECL|function|initWidgets
 DECL|function|isAlphaVisible
 DECL|function|isAlphaVisible
 DECL|function|keyPressEvent
