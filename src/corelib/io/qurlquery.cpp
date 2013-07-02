@@ -41,4 +41,3 @@ DECL|member|itemList
 DECL|member|pairDelimiter
 DECL|member|valueDelimiter
 DECL|typedef|Map
-DECL|variable|prettyDecodedActions
