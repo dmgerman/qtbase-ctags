@@ -97,6 +97,7 @@ DECL|function|task253944_itemDelegateIsReset
 DECL|function|task260974_menuItemRectangleForComboBoxPopup
 DECL|function|task_QTBUG_10491_currentIndexAndModelColumn
 DECL|function|task_QTBUG_1071_changingFocusEmitsActivated
+DECL|function|task_QTBUG_31146_popupCompletion
 DECL|function|textpixmapdata
 DECL|function|textpixmapdata_data
 DECL|function|tst_QComboBox
