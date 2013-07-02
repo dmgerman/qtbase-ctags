@@ -74,6 +74,8 @@ DECL|function|ipv6
 DECL|function|ipv6_2
 DECL|function|ipv6_2_data
 DECL|function|ipv6_data
+DECL|function|ipvfuture
+DECL|function|ipvfuture_data
 DECL|function|isEmptyForEncodedUrl
 DECL|function|isParentOf
 DECL|function|isParentOf_data
