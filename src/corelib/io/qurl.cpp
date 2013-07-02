@@ -6,6 +6,7 @@ DECL|enumerator|FullUrl
 DECL|enumerator|Hierarchy
 DECL|enumerator|Host
 DECL|enumerator|HostMissingEndBracket
+DECL|enumerator|InvalidCharacterInIPv6Error
 DECL|enumerator|InvalidFragmentError
 DECL|enumerator|InvalidIPv4AddressError
 DECL|enumerator|InvalidIPv6AddressError
