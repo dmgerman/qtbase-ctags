@@ -2,6 +2,7 @@ DECL|class|QWinIoCompletionPort
 DECL|function|QWinIoCompletionPort
 DECL|function|QWinOverlappedIoNotifier
 DECL|function|_q_notified
+DECL|function|drainQueue
 DECL|function|notify
 DECL|function|registerNotifier
 DECL|function|run
@@ -11,7 +12,11 @@ DECL|function|unregisterNotifier
 DECL|function|waitForNotified
 DECL|function|~QWinIoCompletionPort
 DECL|function|~QWinOverlappedIoNotifier
+DECL|member|drainQueueKey
+DECL|member|drainQueueMutex
+DECL|member|finishThreadKey
 DECL|member|hPort
+DECL|member|hQueueDrainedEvent
 DECL|member|iocp
 DECL|member|iocpInstanceLock
 DECL|member|iocpInstanceRefCount
