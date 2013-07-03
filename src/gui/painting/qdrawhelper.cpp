@@ -110,6 +110,7 @@ DECL|function|convertIndexedToARGB32PM
 DECL|function|convertPassThrough
 DECL|function|convertRGB16FromARGB32PM
 DECL|function|convertRGB16ToARGB32PM
+DECL|function|convertRGBFromARGB32PM
 DECL|function|convertToARGB32PM
 DECL|function|convertToRGB32
 DECL|function|darken_op

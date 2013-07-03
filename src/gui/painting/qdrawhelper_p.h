@@ -17,6 +17,8 @@ DECL|enumerator|Tiled
 DECL|enum|BPP
 DECL|enum|Type
 DECL|enum|Type
+DECL|function|ARGB2RGBA
+DECL|function|ARGB2RGBA
 DECL|function|BYTE_MUL
 DECL|function|BYTE_MUL
 DECL|function|BYTE_MUL_RGB16
@@ -27,6 +29,8 @@ DECL|function|INTERPOLATE_PIXEL_256
 DECL|function|PREMUL
 DECL|function|PREMUL
 DECL|function|QSpanData
+DECL|function|RGBA2ARGB
+DECL|function|RGBA2ARGB
 DECL|function|comp_func_Plus_one_pixel
 DECL|function|comp_func_Plus_one_pixel_const_alpha
 DECL|function|qBlue565
