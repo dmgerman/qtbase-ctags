@@ -3,14 +3,11 @@ DECL|function|deviceForId
 DECL|function|finalizeXInput2
 DECL|function|fixed1616ToReal
 DECL|function|initializeXInput2
-DECL|function|q_xi2_is_tablet
 DECL|function|valuatorNormalized
 DECL|function|xi2HandleEvent
 DECL|function|xi2HandleTabletEvent
-DECL|function|xi2QueryTabletData
 DECL|function|xi2ReportTabletEvent
 DECL|function|xi2Select
-DECL|function|xi2SetupTabletDevices
 DECL|macro|FINGER_MAX_WIDTH_MM
 DECL|member|qtTouchDevice
 DECL|member|xiDeviceInfo

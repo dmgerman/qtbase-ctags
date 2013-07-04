@@ -34,6 +34,7 @@ DECL|function|nullErrorHandler
 DECL|function|platformWindowFromId
 DECL|function|printXcbEvent
 DECL|function|processXcbEvents
+DECL|function|qatom
 DECL|function|release
 DECL|function|removeWindowEventListener
 DECL|function|rootWindow
