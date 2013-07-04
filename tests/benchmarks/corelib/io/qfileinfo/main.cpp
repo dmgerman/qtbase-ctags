@@ -1,5 +1,4 @@
 DECL|class|qfileinfo
-DECL|function|canonicalFileNamePerformance
 DECL|function|cleanupTestCase
 DECL|function|initTestCase
 DECL|function|qfileinfo
