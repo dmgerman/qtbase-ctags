@@ -68,6 +68,7 @@ DECL|function|setDefaultHintStyle
 DECL|function|setGlyph
 DECL|function|shouldUseDesignMetrics
 DECL|function|stringToCMap
+DECL|function|supportsTransformation
 DECL|function|synthesized
 DECL|function|underlinePosition
 DECL|function|unlockAlphaMapForGlyph
