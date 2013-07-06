@@ -35,6 +35,7 @@ DECL|function|QUrl
 DECL|function|QUrlPrivate
 DECL|function|QUrlPrivate
 DECL|function|adjustFtpPath
+DECL|function|adjusted
 DECL|function|appendAuthority
 DECL|function|appendComponentIfPresent
 DECL|function|appendFragment
