@@ -2,6 +2,7 @@ DECL|class|QEglFSImx6Hooks
 DECL|function|QEglFSImx6Hooks
 DECL|function|createNativeWindow
 DECL|function|destroyNativeWindow
+DECL|function|platformDisplay
 DECL|function|screenSize
 DECL|member|mNativeDisplay
 DECL|member|mScreenSize
