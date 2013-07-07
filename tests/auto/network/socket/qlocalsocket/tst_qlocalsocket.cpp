@@ -13,6 +13,7 @@ DECL|function|bytesWritten
 DECL|function|bytesWrittenSignal
 DECL|function|cleanup
 DECL|function|clear
+DECL|function|connectWithOpen
 DECL|function|debug
 DECL|function|fullPath
 DECL|function|hitMaximumConnections
