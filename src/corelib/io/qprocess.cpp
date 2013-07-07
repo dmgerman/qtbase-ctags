@@ -69,6 +69,7 @@ DECL|function|setupChildProcess
 DECL|function|start
 DECL|function|start
 DECL|function|start
+DECL|function|start
 DECL|function|startDetached
 DECL|function|startDetached
 DECL|function|startDetached

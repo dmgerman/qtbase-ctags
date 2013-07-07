@@ -77,6 +77,7 @@ DECL|function|start
 DECL|function|startDetached
 DECL|function|startFailMessage
 DECL|function|startFinishStartFinish
+DECL|function|startWithOldOpen
 DECL|function|startWithOpen
 DECL|function|switchReadChannels
 DECL|function|systemEnvironment
