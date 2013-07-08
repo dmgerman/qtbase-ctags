@@ -11,6 +11,7 @@ DECL|function|hasCapability
 DECL|function|nativeInterface
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForIntegration
+DECL|function|nativeResourceForWindow
 DECL|function|nativeResourceFunctionForContext
 DECL|function|styleHint
 DECL|function|~QEglFSIntegration
