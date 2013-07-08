@@ -4,8 +4,11 @@ DECL|function|applyWindowState
 DECL|function|blitFrom
 DECL|function|blitHelper
 DECL|function|blitPreviousToCurrent
+DECL|function|createEGLSurface
+DECL|function|destroyEGLSurface
 DECL|function|findWindow
 DECL|function|gainedFocus
+DECL|function|getSurface
 DECL|function|isExposed
 DECL|function|lower
 DECL|function|minimize
@@ -28,6 +31,7 @@ DECL|function|setPlatformOpenGLContext
 DECL|function|setScreen
 DECL|function|setVisible
 DECL|function|setWindowState
+DECL|function|swapEGLBuffers
 DECL|function|updateVisibility
 DECL|function|updateZorder
 DECL|function|~QQnxWindow

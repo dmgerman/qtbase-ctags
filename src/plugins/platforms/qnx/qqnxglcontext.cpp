@@ -1,14 +1,11 @@
 DECL|function|QQnxGLContext
 DECL|function|checkEGLError
 DECL|function|contextAttrs
-DECL|function|createSurface
-DECL|function|destroySurface
 DECL|function|doneCurrent
+DECL|function|getEglDisplay
 DECL|function|getProcAddress
 DECL|function|initialize
-DECL|function|isCurrent
 DECL|function|makeCurrent
-DECL|function|requestSurfaceChange
 DECL|function|shutdown
 DECL|function|swapBuffers
 DECL|function|~QQnxGLContext
