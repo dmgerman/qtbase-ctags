@@ -6,6 +6,7 @@ DECL|function|cleanup
 DECL|function|fixedPitch
 DECL|function|fixedPitch_data
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|styles
 DECL|function|styles_data
 DECL|function|trickyFonts
@@ -14,3 +15,4 @@ DECL|function|tst_QFontDatabase
 DECL|function|widthTwoTimes
 DECL|function|widthTwoTimes_data
 DECL|function|~tst_QFontDatabase
+DECL|member|m_testFont
