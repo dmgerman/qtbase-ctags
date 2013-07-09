@@ -9,6 +9,10 @@ DECL|function|xi2HandleTabletEvent
 DECL|function|xi2ReportTabletEvent
 DECL|function|xi2Select
 DECL|macro|FINGER_MAX_WIDTH_MM
+DECL|member|firstPressedNormalPosition
+DECL|member|firstPressedPosition
+DECL|member|pointPressedPosition
 DECL|member|qtTouchDevice
+DECL|member|size
 DECL|member|xiDeviceInfo
 DECL|struct|XInput2DeviceData
