@@ -15,9 +15,7 @@ DECL|function|Parameter
 DECL|function|PropertyNode
 DECL|function|QmlBasicTypeNode
 DECL|function|QmlClassNode
-DECL|function|QmlPropGroupNode
-DECL|function|QmlPropertyNode
-DECL|function|QmlPropertyNode
+DECL|function|QmlPropertyGroupNode
 DECL|function|QmlPropertyNode
 DECL|function|TypedefNode
 DECL|function|accessString
@@ -67,8 +65,7 @@ DECL|function|guid
 DECL|function|hasClasses
 DECL|function|hasMembers
 DECL|function|hasNamespaces
-DECL|function|hasProperty
-DECL|function|hasProperty
+DECL|function|hasQmlProperty
 DECL|function|idForNode
 DECL|function|idNumber
 DECL|function|incPropertyGroupCount

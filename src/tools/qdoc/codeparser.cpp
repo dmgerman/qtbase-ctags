@@ -41,3 +41,4 @@ DECL|member|currentSubDir_
 DECL|member|nameToTitle
 DECL|member|parsers
 DECL|member|showInternal
+DECL|variable|commonMetaCommands_

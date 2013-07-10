@@ -118,7 +118,6 @@ DECL|enumerator|OutsideParagraph
 DECL|enum|ParagraphState
 DECL|function|Doc
 DECL|function|Doc
-DECL|function|Doc
 DECL|function|DocPrivate
 DECL|function|DocPrivateExtra
 DECL|function|Shared
@@ -284,7 +283,7 @@ DECL|member|tableOfContentsLevels
 DECL|member|targetMap
 DECL|member|targets
 DECL|member|text
-DECL|member|topics
+DECL|member|topics_
 DECL|struct|Macro
 DECL|struct|Shared
 DECL|typedef|CommandMap

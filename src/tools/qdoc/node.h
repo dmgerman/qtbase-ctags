@@ -42,4 +42,5 @@ DECL|variable|PropertyNode
 DECL|variable|QDocDatabase
 DECL|variable|QmlClassNode
 DECL|variable|QmlPropertyNode
+DECL|variable|QmlPropertyNode
 DECL|variable|TypedefNode

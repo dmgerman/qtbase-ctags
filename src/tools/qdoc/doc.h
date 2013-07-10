@@ -1,4 +1,7 @@
 DECL|function|Topic
+DECL|function|Topic
+DECL|function|clear
+DECL|function|isEmpty
 DECL|macro|DOC_H
 DECL|member|args
 DECL|member|topic
@@ -6,6 +9,7 @@ DECL|struct|Topic
 DECL|typedef|ArgList
 DECL|typedef|ArgLocPair
 DECL|typedef|DitaRefList
+DECL|typedef|DocList
 DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QString
