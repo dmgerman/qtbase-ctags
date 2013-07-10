@@ -6,6 +6,8 @@ DECL|class|TestEventReceiver
 DECL|class|TestPlugin
 DECL|class|TestPluginFactory
 DECL|class|tst_QGuiApplication
+DECL|enumerator|spacing
+DECL|enumerator|windowSize
 DECL|function|BlockableWindow
 DECL|function|DummyWindow
 DECL|function|FocusChangeWindow
