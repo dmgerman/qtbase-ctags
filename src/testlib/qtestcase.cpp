@@ -52,6 +52,7 @@ DECL|function|testObject
 DECL|function|toHexRepresentation
 DECL|function|toString
 DECL|function|toString
+DECL|function|windowsFaultHandler
 DECL|function|~FatalSignalHandler
 DECL|function|~QTestDataSetter
 DECL|function|~TestFuncCleanup
