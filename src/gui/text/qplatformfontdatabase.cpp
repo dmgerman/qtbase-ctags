@@ -18,6 +18,7 @@ DECL|function|fontEngineMulti
 DECL|function|fontsAlwaysScalable
 DECL|function|operator =
 DECL|function|populateFontDatabase
+DECL|function|registerAliasToFontFamily
 DECL|function|registerFont
 DECL|function|registerQPF2Font
 DECL|function|releaseHandle
