@@ -45,6 +45,7 @@ DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|pageMatrix
 DECL|function|pageRect
+DECL|function|pageSizeToPostScriptPoints
 DECL|function|paperRect
 DECL|function|patternForBrush
 DECL|function|prepareBuffer
@@ -54,6 +55,7 @@ DECL|function|qt_pdf_decide_features
 DECL|function|qt_real_to_string
 DECL|function|setBrush
 DECL|function|setOutputFilename
+DECL|function|setPaperSize
 DECL|function|setPen
 DECL|function|setPen
 DECL|function|setupGraphicsState
@@ -79,6 +81,7 @@ DECL|function|xprintf
 DECL|function|~ByteStream
 DECL|function|~QPdfEnginePrivate
 DECL|macro|QT_PATH_ELEMENT
+DECL|macro|Q_MM
 DECL|macro|Q_MM
 DECL|namespace|QPdf
 DECL|variable|do_compress

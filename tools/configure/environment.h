@@ -6,5 +6,6 @@ DECL|enumerator|CC_NET2005
 DECL|enumerator|CC_NET2008
 DECL|enumerator|CC_NET2010
 DECL|enumerator|CC_NET2012
+DECL|enumerator|CC_NET2013
 DECL|enumerator|CC_UNKNOWN
 DECL|enum|Compiler

@@ -51,6 +51,7 @@ DECL|function|unsetCursor_sys
 DECL|function|updateFrameStrut
 DECL|function|updateSystemBackground
 DECL|function|windowHandle
+DECL|variable|activeXNativeParentHandleProperty
 DECL|variable|keyboardGrb
 DECL|variable|qt_mouseGrb
 DECL|variable|qt_pressGrab

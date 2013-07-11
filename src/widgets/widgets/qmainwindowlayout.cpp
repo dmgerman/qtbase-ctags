@@ -101,6 +101,5 @@ DECL|function|unplug
 DECL|function|updateGapIndicator
 DECL|function|updateTabBarShapes
 DECL|function|usesHIToolBar
-DECL|function|validateDockWidgetArea
 DECL|function|validateToolBarArea
 DECL|function|~QMainWindowLayout

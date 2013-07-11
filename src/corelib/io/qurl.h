@@ -7,6 +7,7 @@ DECL|variable|E1
 DECL|variable|E1
 DECL|variable|E2
 DECL|variable|QDataStream
+DECL|variable|QUrl
 DECL|variable|QUrlPrivate
 DECL|variable|QUrlQuery
 DECL|variable|operator

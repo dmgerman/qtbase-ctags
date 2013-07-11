@@ -12,6 +12,7 @@ DECL|function|keysymToUnicode
 DECL|function|possibleKeys
 DECL|function|readXKBConfig
 DECL|function|release
+DECL|function|resolveMaskConflicts
 DECL|function|time
 DECL|function|translateModifiers
 DECL|function|updateKeymap

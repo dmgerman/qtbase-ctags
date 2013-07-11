@@ -9,7 +9,6 @@ DECL|function|addToPolygon
 DECL|function|addToPolygon
 DECL|function|bezierOnInterval
 DECL|function|bounds
-DECL|function|findInflections
 DECL|function|fromPoints
 DECL|function|getSubRange
 DECL|function|good_offset
@@ -19,7 +18,6 @@ DECL|function|operator <<
 DECL|function|quadraticRoots
 DECL|function|shift
 DECL|function|shifted
-DECL|function|splitBezierAt
 DECL|function|stationaryYPoints
 DECL|function|tAtLength
 DECL|function|tForY

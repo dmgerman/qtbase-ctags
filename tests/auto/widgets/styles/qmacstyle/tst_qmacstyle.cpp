@@ -12,6 +12,7 @@ DECL|function|layoutMargins_data
 DECL|function|layoutSpacings
 DECL|function|layoutSpacings_data
 DECL|function|msh
+DECL|function|passwordCharacter
 DECL|function|pos
 DECL|function|setSize
 DECL|function|sh
