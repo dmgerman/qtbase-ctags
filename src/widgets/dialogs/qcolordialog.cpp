@@ -21,6 +21,7 @@ DECL|function|_q_newColorTypedIn
 DECL|function|_q_newCustom
 DECL|function|_q_newHsv
 DECL|function|_q_newStandard
+DECL|function|_q_nextCustom
 DECL|function|_q_pickScreenColor
 DECL|function|cellBrush
 DECL|function|cellGeometry

@@ -1,12 +1,17 @@
 DECL|class|EvalMessageBox
 DECL|class|QCoreFuriCuri
 DECL|class|QGuiFuriCuri
+DECL|enumerator|EvaluationNotSupported
+DECL|enumerator|EvaluationSupported
+DECL|enumerator|EvaluationSupportedButTimeLimited
+DECL|enum|EvaluationStatus
 DECL|function|EvalMessageBox
 DECL|function|QCoreFuriCuri
 DECL|function|qt_core_eval_init
 DECL|function|qt_eval_adapt_window_title
 DECL|function|qt_eval_days_left
 DECL|function|qt_eval_init_widget
+DECL|function|qt_eval_is_expired
 DECL|function|qt_eval_is_supported
 DECL|function|qt_eval_string
 DECL|function|qt_eval_title_prefix
@@ -19,7 +24,7 @@ DECL|member|kill
 DECL|member|warn
 DECL|variable|boilerplate_expired
 DECL|variable|boilerplate_supported
-DECL|variable|boilerplate_unsuported
+DECL|variable|boilerplate_supported_but_time_limited
 DECL|variable|qtlogo_eval_xpm
 DECL|variable|will_shutdown_1min
 DECL|variable|will_shutdown_now

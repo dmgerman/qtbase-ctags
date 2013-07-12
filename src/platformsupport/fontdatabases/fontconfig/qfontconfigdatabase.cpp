@@ -1,5 +1,4 @@
 DECL|enumerator|LanguageCount
-DECL|enumerator|SampleCharCount
 DECL|enumerator|SpecialLanguageCount
 DECL|function|addApplicationFont
 DECL|function|defaultFont
@@ -8,7 +7,6 @@ DECL|function|fontEngine
 DECL|function|fontEngineMulti
 DECL|function|getFCWeight
 DECL|function|getFcFamilyForStyleHint
-DECL|function|isSymbolFont
 DECL|function|populateFontDatabase
 DECL|function|queryFont
 DECL|function|requiresOpenType
@@ -20,5 +18,4 @@ DECL|macro|SimplifiedChineseCsbBit
 DECL|macro|TraditionalChineseCsbBit
 DECL|variable|languageForWritingSystem
 DECL|variable|openType
-DECL|variable|sampleCharForWritingSystem
 DECL|variable|specialLanguages

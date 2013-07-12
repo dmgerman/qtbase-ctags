@@ -14,6 +14,7 @@ DECL|function|DummyEventDispatcher
 DECL|function|JobObject
 DECL|function|JobObject
 DECL|function|ProcessEventsAlwaysSendsPostedEventsObject
+DECL|function|QTBUG31606_QEventDestructorDeadLock
 DECL|function|QuitTester
 DECL|function|applicationPid
 DECL|function|argc

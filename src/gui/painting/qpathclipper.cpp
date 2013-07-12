@@ -62,7 +62,6 @@ DECL|function|isLine
 DECL|function|isVertical
 DECL|function|linesIntersect
 DECL|function|mergePoints
-DECL|function|midPoint
 DECL|function|next
 DECL|function|nextId
 DECL|function|normalize

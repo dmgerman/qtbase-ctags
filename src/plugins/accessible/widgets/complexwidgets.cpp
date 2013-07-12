@@ -37,7 +37,6 @@ DECL|function|localizedActionDescription
 DECL|function|object
 DECL|function|parent
 DECL|function|rect
-DECL|function|removeInvisibleWidgetsFromList
 DECL|function|role
 DECL|function|selection
 DECL|function|setSelected

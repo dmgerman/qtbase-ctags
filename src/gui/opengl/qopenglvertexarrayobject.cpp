@@ -8,6 +8,7 @@ DECL|function|QOpenGLVertexArrayObject
 DECL|function|QOpenGLVertexArrayObject
 DECL|function|QOpenGLVertexArrayObjectPrivate
 DECL|function|QVertexArrayObjectHelper
+DECL|function|_q_contextAboutToBeDestroyed
 DECL|function|bind
 DECL|function|bind
 DECL|function|create

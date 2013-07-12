@@ -125,6 +125,7 @@ DECL|variable|_ForcedUsingFiles
 DECL|variable|_FullIncludePath
 DECL|variable|_FunctionOrder
 DECL|variable|_GenerateDebugInformation
+DECL|variable|_GenerateManifest
 DECL|variable|_GenerateMapFile
 DECL|variable|_GeneratePreprocessedFile
 DECL|variable|_GenerateStublessProxies

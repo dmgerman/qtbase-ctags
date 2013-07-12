@@ -34,6 +34,8 @@ DECL|function|testDetachBug
 DECL|function|testDocument
 DECL|function|testDuplicateKeys
 DECL|function|testNumbers
+DECL|function|testNumbers_2
+DECL|function|testNumbers_3
 DECL|function|testObjectFind
 DECL|function|testObjectIteration
 DECL|function|testObjectNested
