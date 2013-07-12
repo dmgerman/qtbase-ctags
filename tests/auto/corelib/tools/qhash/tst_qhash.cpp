@@ -17,6 +17,7 @@ DECL|function|count
 DECL|function|dont_need_default_constructor
 DECL|function|empty
 DECL|function|erase
+DECL|function|eraseValidIteratorOnSharedHash
 DECL|function|find
 DECL|function|initializerList
 DECL|function|insert1
