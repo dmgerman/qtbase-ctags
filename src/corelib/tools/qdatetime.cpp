@@ -112,7 +112,9 @@ DECL|function|parseFormat
 DECL|function|parseSection
 DECL|function|potentialValue
 DECL|function|qHash
+DECL|function|qt_monthNumberFromShortName
 DECL|function|restart
+DECL|function|rfcDateImpl
 DECL|function|second
 DECL|function|secsTo
 DECL|function|secsTo

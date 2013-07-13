@@ -66,6 +66,8 @@ DECL|function|toLocalTime_data
 DECL|function|toString_enumformat
 DECL|function|toString_isoDate
 DECL|function|toString_isoDate_data
+DECL|function|toString_rfcDate
+DECL|function|toString_rfcDate_data
 DECL|function|toString_strformat
 DECL|function|toString_strformat_data
 DECL|function|toTimeSpec
