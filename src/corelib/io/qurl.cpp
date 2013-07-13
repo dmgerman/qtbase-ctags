@@ -54,6 +54,7 @@ DECL|function|cloneError
 DECL|function|detach
 DECL|function|errorMessage
 DECL|function|errorString
+DECL|function|fileName
 DECL|function|fileScheme
 DECL|function|fragment
 DECL|function|fromAce

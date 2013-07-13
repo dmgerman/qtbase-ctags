@@ -54,6 +54,8 @@ DECL|function|effectiveTLDs
 DECL|function|effectiveTLDs_data
 DECL|function|emptyAuthorityRemovesExistingAuthority
 DECL|function|emptyQueryOrFragment
+DECL|function|fileName
+DECL|function|fileName_data
 DECL|function|fromEncoded
 DECL|function|fromLocalFile
 DECL|function|fromLocalFile_data
