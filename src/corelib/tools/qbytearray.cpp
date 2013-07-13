@@ -16,6 +16,7 @@ DECL|function|endsWith
 DECL|function|expand
 DECL|function|fill
 DECL|function|fromBase64
+DECL|function|fromBase64
 DECL|function|fromHex
 DECL|function|fromPercentEncoding
 DECL|function|fromRawData
@@ -93,6 +94,7 @@ DECL|function|split
 DECL|function|startsWith
 DECL|function|startsWith
 DECL|function|startsWith
+DECL|function|toBase64
 DECL|function|toBase64
 DECL|function|toDouble
 DECL|function|toFloat
