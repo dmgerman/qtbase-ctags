@@ -7,6 +7,7 @@ DECL|enum|Platforms
 DECL|function|ArchData
 DECL|function|ArchData
 DECL|function|Configure
+DECL|function|FileWriter
 DECL|function|addDefine
 DECL|function|appendMakeItem
 DECL|function|applySpecSpecifics
@@ -23,6 +24,7 @@ DECL|function|detectArch
 DECL|function|displayConfig
 DECL|function|displayHelp
 DECL|function|firstLicensePath
+DECL|function|flush
 DECL|function|formatPath
 DECL|function|formatPaths
 DECL|function|generateCachefile
