@@ -22,7 +22,6 @@ DECL|function|desc
 DECL|function|detectArch
 DECL|function|displayConfig
 DECL|function|displayHelp
-DECL|function|filesDiffer
 DECL|function|firstLicensePath
 DECL|function|formatPath
 DECL|function|formatPaths
@@ -54,7 +53,6 @@ DECL|function|tokenLength
 DECL|function|tryCompileProject
 DECL|function|validateArgs
 DECL|function|verifyConfiguration
-DECL|function|writeToFile
 DECL|function|~Configure
 DECL|macro|MARK_OPTION
 DECL|macro|for
