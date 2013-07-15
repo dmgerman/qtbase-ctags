@@ -90,6 +90,8 @@ DECL|function|stringPropReadPeer
 DECL|function|stringPropWrite
 DECL|function|stringPropWritePeer
 DECL|function|tst_QDBusAbstractInterface
+DECL|function|validity
+DECL|function|validity_data
 DECL|function|variantPropDirectRead
 DECL|function|variantPropDirectReadPeer
 DECL|function|variantPropDirectWrite
