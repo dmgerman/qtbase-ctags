@@ -5,5 +5,7 @@ DECL|function|glDestroyRenderer
 DECL|function|initializeCompiler
 DECL|function|~Renderer
 DECL|macro|ANGLE_COMPILE_OPTIMIZATION_LEVEL
+DECL|macro|D3DCOMPILER_DLL
 DECL|macro|D3DERR_OUTOFVIDEOMEMORY
 DECL|namespace|rx
+DECL|typedef|pD3DCompile
