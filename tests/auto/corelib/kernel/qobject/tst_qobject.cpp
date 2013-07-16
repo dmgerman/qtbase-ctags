@@ -12,6 +12,7 @@ DECL|class|ConnectToPrivateSlotPrivate
 DECL|class|ConnectToSender
 DECL|class|ConnectWithReferenceObject
 DECL|class|Constructable
+DECL|class|ContextObject
 DECL|class|CustomData
 DECL|class|DefaultArguments
 DECL|class|DeleteObject
@@ -38,6 +39,7 @@ DECL|class|ReturnValue
 DECL|class|SenderObject
 DECL|class|SequenceObject
 DECL|class|SiblingDeleter
+DECL|class|StaticSlotChecker
 DECL|class|StringVariant
 DECL|class|SubSender
 DECL|class|SuperObject
@@ -86,6 +88,8 @@ DECL|function|ReceiverObject
 DECL|function|SenderObject
 DECL|function|SequenceObject
 DECL|function|SiblingDeleter
+DECL|function|SlotArgFunctor
+DECL|function|SlotArgFunctor
 DECL|function|SuperObject
 DECL|function|TestObject
 DECL|function|ThreadAffinityThread
@@ -108,6 +112,7 @@ DECL|function|classSlot
 DECL|function|clear
 DECL|function|clearNotifications
 DECL|function|clearNotifications
+DECL|function|compareSender
 DECL|function|connectBase
 DECL|function|connectByMetaMethodSlotInsteadOfSignal
 DECL|function|connectByMetaMethods
@@ -123,6 +128,8 @@ DECL|function|connectDisconnectNotify_shadowing
 DECL|function|connectFunctorArgDifference
 DECL|function|connectFunctorOverload_impl
 DECL|function|connectFunctorOverloads
+DECL|function|connectFunctorQueued
+DECL|function|connectFunctorWithContext
 DECL|function|connectManyArguments
 DECL|function|connectNotify
 DECL|function|connectNotify
@@ -131,6 +138,7 @@ DECL|function|connectPrivateSlots
 DECL|function|connectPrivateSlots
 DECL|function|connectSignalsToSignalsWithDefaultArguments
 DECL|function|connectSlotsByName
+DECL|function|connectStaticSlotWithObject
 DECL|function|connectToSender
 DECL|function|connectToStaticCxx0x
 DECL|function|connectVirtualSlots
@@ -149,6 +157,7 @@ DECL|function|constUintPointerSlot
 DECL|function|constUlongPointerSlot
 DECL|function|const_slot_v
 DECL|function|const_slot_vi
+DECL|function|contextDoesNotLeakFunctor
 DECL|function|createNotifyChild
 DECL|function|custom
 DECL|function|customEvent
@@ -256,6 +265,7 @@ DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
+DECL|function|operator ()
 DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator >>
@@ -301,7 +311,7 @@ DECL|function|run
 DECL|function|run
 DECL|function|run
 DECL|function|sameName
-DECL|function|sender
+DECL|function|senderTest
 DECL|function|setAlpha
 DECL|function|setCustom
 DECL|function|setCustomString
@@ -361,6 +371,7 @@ DECL|function|slot_viii
 DECL|function|slot_vs
 DECL|function|someFunctionReturningString
 DECL|function|start
+DECL|function|staticSlot
 DECL|function|static_slot_i
 DECL|function|static_slot_ii
 DECL|function|static_slot_iii
@@ -433,6 +444,7 @@ DECL|member|child
 DECL|member|cond
 DECL|member|connectedSignals
 DECL|member|connectedSignals
+DECL|member|context
 DECL|member|count
 DECL|member|count
 DECL|member|count
@@ -486,6 +498,7 @@ DECL|member|s_num
 DECL|member|saved
 DECL|member|sender
 DECL|member|sender
+DECL|member|sender
 DECL|member|sequence
 DECL|member|sequence
 DECL|member|sequence_slot1
@@ -494,6 +507,7 @@ DECL|member|sequence_slot3
 DECL|member|sequence_slot4
 DECL|member|sibling
 DECL|member|slotThread
+DECL|member|status
 DECL|member|theSender
 DECL|member|theSignalId
 DECL|member|timerEventThread
@@ -521,6 +535,7 @@ DECL|struct|Functor
 DECL|struct|IntFunctor
 DECL|struct|QObjectCreatedOnShutdown
 DECL|struct|QmlReceiver
+DECL|struct|SlotArgFunctor
 DECL|struct|SlotFunctor
 DECL|struct|SlotFunctorString
 DECL|struct|StringFunctor
@@ -535,3 +550,4 @@ DECL|variable|countedStructObjectsCount
 DECL|variable|instanceCount
 DECL|variable|receivedCount
 DECL|variable|s_qobjectCreatedOnShutdown
+DECL|variable|s_static_slot_checker

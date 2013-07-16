@@ -23,6 +23,7 @@ DECL|function|eventFilter
 DECL|function|timerEvent
 DECL|member|button
 DECL|member|button
+DECL|member|button
 DECL|member|childButtons
 DECL|member|example
 DECL|member|label
@@ -30,6 +31,8 @@ DECL|member|lineEdit
 DECL|member|list
 DECL|member|myButton
 DECL|member|page
+DECL|member|page
+DECL|member|socket
 DECL|member|socket
 DECL|member|text
 DECL|member|text
