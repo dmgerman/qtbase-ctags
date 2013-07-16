@@ -35,6 +35,7 @@ DECL|function|initPalette
 DECL|function|init_platform
 DECL|function|init_plugins
 DECL|function|inputMethod
+DECL|function|isPopupWindow
 DECL|function|isSavingSession
 DECL|function|isSessionRestored
 DECL|function|isWindowBlocked
