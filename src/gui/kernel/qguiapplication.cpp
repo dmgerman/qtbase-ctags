@@ -115,6 +115,7 @@ DECL|function|topLevelAt
 DECL|function|topLevelWindows
 DECL|function|unsetCursor
 DECL|function|updateBlockedStatus
+DECL|function|updateBlockedStatusRecursion
 DECL|function|updateFilteredScreenOrientation
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
