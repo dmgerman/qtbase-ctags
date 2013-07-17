@@ -62,6 +62,7 @@ DECL|function|setTime_t
 DECL|function|str
 DECL|function|time
 DECL|function|timeSpec
+DECL|function|timeZoneAbbreviation
 DECL|function|toLocalTime
 DECL|function|toLocalTime_data
 DECL|function|toOffsetFromUtc

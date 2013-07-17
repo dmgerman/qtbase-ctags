@@ -119,6 +119,7 @@ DECL|function|parseFormat
 DECL|function|parseSection
 DECL|function|potentialValue
 DECL|function|qHash
+DECL|function|qt_mktime
 DECL|function|qt_monthNumberFromShortName
 DECL|function|restart
 DECL|function|rfcDateImpl
@@ -154,6 +155,7 @@ DECL|function|start
 DECL|function|stateName
 DECL|function|time
 DECL|function|timeSpec
+DECL|function|timeZoneAbbreviation
 DECL|function|toMSecsSinceEpoch
 DECL|function|toMSecsSinceEpoch_helper
 DECL|function|toOffsetFromUtc
