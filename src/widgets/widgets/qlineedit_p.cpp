@@ -10,6 +10,7 @@ DECL|function|_q_updateNeeded
 DECL|function|addAction
 DECL|function|adjustedContentsRect
 DECL|function|adjustedControlRect
+DECL|function|clearButtonIcon
 DECL|function|cursorRect
 DECL|function|drag
 DECL|function|findSideWidget

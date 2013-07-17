@@ -42,6 +42,7 @@ DECL|function|inputMask
 DECL|function|inputMethodEvent
 DECL|function|inputMethodQuery
 DECL|function|insert
+DECL|function|isClearButtonEnabled
 DECL|function|isModified
 DECL|function|isReadOnly
 DECL|function|isRedoAvailable
@@ -62,6 +63,7 @@ DECL|function|selectedText
 DECL|function|selectionStart
 DECL|function|setActionIcon
 DECL|function|setAlignment
+DECL|function|setClearButtonEnabled
 DECL|function|setCompleter
 DECL|function|setCursorMoveStyle
 DECL|function|setCursorPosition
@@ -87,3 +89,4 @@ DECL|function|~QLineEdit
 DECL|macro|ACCEL_KEY
 DECL|macro|ACCEL_KEY
 DECL|macro|DrawText
+DECL|variable|clearButtonActionNameC

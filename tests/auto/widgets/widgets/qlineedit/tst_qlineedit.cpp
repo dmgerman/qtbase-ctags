@@ -34,6 +34,7 @@ DECL|function|charWithAltOrCtrlModifier
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clear
+DECL|function|clearButton
 DECL|function|clearInputMask
 DECL|function|cursor
 DECL|function|cursorPosition
