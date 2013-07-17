@@ -1,0 +1,2 @@
+DECL|macro|QFILEICONPROVIDER_P_H
+DECL|variable|QFileInfo
