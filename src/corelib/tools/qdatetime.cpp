@@ -55,6 +55,7 @@ DECL|function|findMonth
 DECL|function|fixedDate
 DECL|function|floordiv
 DECL|function|floordiv
+DECL|function|fromIsoTimeString
 DECL|function|fromMSecsSinceEpoch
 DECL|function|fromMSecsSinceEpoch
 DECL|function|fromOffsetString
@@ -66,7 +67,6 @@ DECL|function|fromString
 DECL|function|fromString
 DECL|function|fromString
 DECL|function|fromString
-DECL|function|fromStringImpl
 DECL|function|fromTime_t
 DECL|function|fromTime_t
 DECL|function|getAmPmText
@@ -79,7 +79,6 @@ DECL|function|getMinimum
 DECL|function|getUTC
 DECL|function|hour
 DECL|function|isLeapYear
-DECL|function|isMidnight
 DECL|function|isNull
 DECL|function|isValid
 DECL|function|isValid
