@@ -95,7 +95,6 @@ DECL|function|systemLocale
 DECL|function|textDirection
 DECL|function|timeFormat
 DECL|function|timeFormatContainsAP
-DECL|function|timeZone
 DECL|function|toCurrencyString
 DECL|function|toCurrencyString
 DECL|function|toCurrencyString

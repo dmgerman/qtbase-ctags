@@ -22,6 +22,7 @@ DECL|function|formatDateTime
 DECL|function|formatDateTime_data
 DECL|function|formatDate_data
 DECL|function|formatTime
+DECL|function|formatTimeZone
 DECL|function|formatTime_data
 DECL|function|fpExceptions
 DECL|function|getWinLocaleInfo
@@ -80,6 +81,7 @@ DECL|macro|TEST_NAME
 DECL|macro|_EM_INEXACT
 DECL|macro|_MCW_EM
 DECL|macro|_control87
+DECL|member|europeanTimeZone
 DECL|member|m_decimal
 DECL|member|m_decimal
 DECL|member|m_languageFd
