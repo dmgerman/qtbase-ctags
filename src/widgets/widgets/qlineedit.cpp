@@ -58,6 +58,7 @@ DECL|function|redo
 DECL|function|selectAll
 DECL|function|selectedText
 DECL|function|selectionStart
+DECL|function|setActionIcon
 DECL|function|setAlignment
 DECL|function|setCompleter
 DECL|function|setCursorMoveStyle
