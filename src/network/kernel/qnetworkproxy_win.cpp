@@ -46,8 +46,6 @@ DECL|member|mutex
 DECL|member|proxyBypass
 DECL|member|proxyServerList
 DECL|typedef|PtrCloseServiceHandle
-DECL|typedef|PtrEnumServicesStatusEx
-DECL|typedef|PtrOpenSCManager
 DECL|typedef|PtrWinHttpCloseHandle
 DECL|typedef|PtrWinHttpGetDefaultProxyConfiguration
 DECL|typedef|PtrWinHttpGetIEProxyConfigForCurrentUser
@@ -56,9 +54,6 @@ DECL|typedef|PtrWinHttpOpen
 DECL|typedef|WINHTTP_AUTOPROXY_OPTIONS
 DECL|typedef|WINHTTP_CURRENT_USER_IE_PROXY_CONFIG
 DECL|typedef|WINHTTP_PROXY_INFO
-DECL|variable|ptrCloseServiceHandle
-DECL|variable|ptrEnumServicesStatusEx
-DECL|variable|ptrOpenSCManager
 DECL|variable|ptrWinHttpCloseHandle
 DECL|variable|ptrWinHttpGetDefaultProxyConfiguration
 DECL|variable|ptrWinHttpGetIEProxyConfigForCurrentUser
