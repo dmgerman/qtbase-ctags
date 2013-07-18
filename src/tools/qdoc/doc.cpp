@@ -6,7 +6,6 @@ DECL|enumerator|CMD_ABSTRACT
 DECL|enumerator|CMD_ANNOTATEDLIST
 DECL|enumerator|CMD_B
 DECL|enumerator|CMD_BADCODE
-DECL|enumerator|CMD_BASENAME
 DECL|enumerator|CMD_BOLD
 DECL|enumerator|CMD_BR
 DECL|enumerator|CMD_BRIEF
@@ -130,7 +129,6 @@ DECL|function|appendChar
 DECL|function|appendToCode
 DECL|function|appendToCode
 DECL|function|appendWord
-DECL|function|baseName
 DECL|function|body
 DECL|function|briefText
 DECL|function|canonicalTitle
@@ -166,7 +164,6 @@ DECL|function|hasTargets
 DECL|function|include
 DECL|function|indentLevel
 DECL|function|initialize
-DECL|function|insertBaseName
 DECL|function|insertTarget
 DECL|function|isBlankLine
 DECL|function|isEmpty
@@ -221,7 +218,6 @@ DECL|macro|COMMAND_BRIEF
 DECL|macro|COMMAND_QMLBRIEF
 DECL|member|alias
 DECL|member|alsoList
-DECL|member|baseName
 DECL|member|braceDepth
 DECL|member|cachedLoc
 DECL|member|cachedPos
