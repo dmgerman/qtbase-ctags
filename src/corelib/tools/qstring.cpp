@@ -81,11 +81,13 @@ DECL|function|lastIndexOf
 DECL|function|lastIndexOf
 DECL|function|lastIndexOfHelper
 DECL|function|left
+DECL|function|left
 DECL|function|leftJustified
 DECL|function|leftRef
 DECL|function|localeAwareCompare
 DECL|function|localeAwareCompare_helper
 DECL|function|mergeQuestionMarks
+DECL|function|mid
 DECL|function|mid
 DECL|function|midRef
 DECL|function|multiArg
@@ -146,6 +148,7 @@ DECL|function|replace
 DECL|function|replaceArgEscapes
 DECL|function|replace_helper
 DECL|function|resize
+DECL|function|right
 DECL|function|right
 DECL|function|rightJustified
 DECL|function|rightRef

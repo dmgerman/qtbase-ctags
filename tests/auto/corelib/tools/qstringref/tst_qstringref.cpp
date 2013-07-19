@@ -22,10 +22,13 @@ DECL|function|isEmpty
 DECL|function|isLatin
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf_data
+DECL|function|left
 DECL|function|length
 DECL|function|length_data
+DECL|function|mid
 DECL|function|nan
 DECL|function|operator_eqeq_nullstring
+DECL|function|right
 DECL|function|sign
 DECL|function|startsWith
 DECL|function|toDouble
