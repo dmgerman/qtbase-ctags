@@ -6,6 +6,7 @@ DECL|function|fallbacksForFamily
 DECL|function|fontDir
 DECL|function|fontEngine
 DECL|function|fontEngine
+DECL|function|getFntTable
 DECL|function|populate
 DECL|function|populateFontDatabase
 DECL|function|scriptRequiresOpenType
