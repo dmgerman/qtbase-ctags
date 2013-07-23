@@ -1,6 +1,11 @@
+DECL|class|CustomShapeItem
 DECL|class|RectWidget
 DECL|class|tst_QGraphicsSceneIndex
+DECL|function|CustomShapeItem
 DECL|function|RectWidget
+DECL|function|boundingRect
+DECL|function|boundingRectPointIntersection
+DECL|function|boundingRectPointIntersection_data
 DECL|function|clear
 DECL|function|common_data
 DECL|function|connectedToSceneRectChanged
@@ -12,7 +17,10 @@ DECL|function|movingItems_data
 DECL|function|overlappedItems
 DECL|function|overlappedItems_data
 DECL|function|paint
+DECL|function|paint
 DECL|function|removeItems
 DECL|function|scatteredItems
 DECL|function|scatteredItems_data
+DECL|function|shape
 DECL|member|brush
+DECL|member|mShape

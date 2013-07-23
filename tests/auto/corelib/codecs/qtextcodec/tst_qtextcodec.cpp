@@ -35,6 +35,7 @@ DECL|function|toUnicode
 DECL|function|toUnicode_codecForHtml
 DECL|function|toUnicode_data
 DECL|function|toUnicode_incremental
+DECL|function|userCodec
 DECL|function|utf8Codec
 DECL|function|utf8Codec_data
 DECL|function|utf8bom
@@ -47,4 +48,5 @@ DECL|member|mib
 DECL|member|target
 DECL|member|target
 DECL|struct|DontCrashAtExit
+DECL|struct|UserCodec
 DECL|variable|dontCrashAtExit
