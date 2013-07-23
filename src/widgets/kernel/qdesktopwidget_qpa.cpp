@@ -1,4 +1,5 @@
 DECL|function|QDesktopWidget
+DECL|function|_q_updateScreens
 DECL|function|availableGeometry
 DECL|function|isVirtualDesktop
 DECL|function|numScreens
@@ -8,5 +9,4 @@ DECL|function|screen
 DECL|function|screenGeometry
 DECL|function|screenNumber
 DECL|function|screenNumber
-DECL|function|updateScreenList
 DECL|function|~QDesktopWidget
