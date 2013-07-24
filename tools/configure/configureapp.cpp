@@ -7,6 +7,7 @@ DECL|enum|Platforms
 DECL|function|ArchData
 DECL|function|ArchData
 DECL|function|Configure
+DECL|function|FileWriter
 DECL|function|addDefine
 DECL|function|appendMakeItem
 DECL|function|applySpecSpecifics
@@ -22,8 +23,8 @@ DECL|function|desc
 DECL|function|detectArch
 DECL|function|displayConfig
 DECL|function|displayHelp
-DECL|function|filesDiffer
 DECL|function|firstLicensePath
+DECL|function|flush
 DECL|function|formatPath
 DECL|function|formatPaths
 DECL|function|generateCachefile
@@ -54,7 +55,6 @@ DECL|function|tokenLength
 DECL|function|tryCompileProject
 DECL|function|validateArgs
 DECL|function|verifyConfiguration
-DECL|function|writeToFile
 DECL|function|~Configure
 DECL|macro|MARK_OPTION
 DECL|macro|for

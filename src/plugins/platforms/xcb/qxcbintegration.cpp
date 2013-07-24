@@ -2,6 +2,7 @@ DECL|class|QEGLXcbPlatformContext
 DECL|function|QEGLXcbPlatformContext
 DECL|function|QXcbIntegration
 DECL|function|accessibility
+DECL|function|argv0BaseName
 DECL|function|clipboard
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOffscreenSurface
@@ -25,5 +26,7 @@ DECL|function|services
 DECL|function|styleHint
 DECL|function|swapBuffers
 DECL|function|themeNames
+DECL|function|wmClass
 DECL|function|~QXcbIntegration
 DECL|member|m_connection
+DECL|variable|resourceNameVar
