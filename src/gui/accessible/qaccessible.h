@@ -9,6 +9,7 @@ DECL|variable|QAccessibleImageInterface
 DECL|variable|QAccessibleInterface
 DECL|variable|QAccessibleTableCellInterface
 DECL|variable|QAccessibleTableInterface
+DECL|variable|QAccessibleTableModelChangeEvent
 DECL|variable|QAccessibleTextInterface
 DECL|variable|QAccessibleValueInterface
 DECL|variable|QTextCursor

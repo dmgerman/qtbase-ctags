@@ -1,18 +1,24 @@
+DECL|function|QAccessibleActionStrings
 DECL|function|accessibleInterface
 DECL|function|accessibleInterface
 DECL|function|backgroundColor
 DECL|function|cleanup
+DECL|function|decreaseAction
 DECL|function|deleteAccessibleInterface
 DECL|function|focusChild
 DECL|function|foregroundColor
+DECL|function|increaseAction
 DECL|function|installFactory
 DECL|function|installRootObjectHandler
 DECL|function|installUpdateHandler
 DECL|function|isActive
+DECL|function|localizedActionDescription
+DECL|function|localizedActionName
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator ==
 DECL|function|platformAccessibility
+DECL|function|pressAction
 DECL|function|qAccessibleCleanup
 DECL|function|qAccessibleEventString
 DECL|function|qAccessibleRoleString
@@ -21,13 +27,26 @@ DECL|function|queryAccessibleInterface
 DECL|function|registerAccessibleInterface
 DECL|function|relations
 DECL|function|removeFactory
+DECL|function|setFocusAction
 DECL|function|setRootObject
+DECL|function|showMenuAction
+DECL|function|textAfterOffset
+DECL|function|textAtOffset
+DECL|function|textBeforeOffset
+DECL|function|toggleAction
 DECL|function|uniqueId
 DECL|function|updateAccessibility
 DECL|function|virtual_hook
 DECL|function|window
 DECL|function|~QAccessibleInterface
+DECL|member|decreaseAction
+DECL|member|increaseAction
+DECL|member|pressAction
 DECL|member|rootObjectHandler
+DECL|member|setFocusAction
+DECL|member|showMenuAction
+DECL|member|toggleAction
 DECL|member|updateHandler
+DECL|struct|QAccessibleActionStrings
 DECL|typedef|QAccessiblePluginsHash
 DECL|variable|cleanupAdded
