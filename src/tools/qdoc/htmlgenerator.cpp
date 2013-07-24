@@ -41,7 +41,9 @@ DECL|function|generateOverviewList
 DECL|function|generateQmlInherits
 DECL|function|generateQmlInstantiates
 DECL|function|generateQmlItem
+DECL|function|generateQmlRequisites
 DECL|function|generateQmlSummary
+DECL|function|generateRequisites
 DECL|function|generateSection
 DECL|function|generateSectionInheritedList
 DECL|function|generateSectionList
