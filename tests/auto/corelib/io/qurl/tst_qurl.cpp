@@ -67,6 +67,8 @@ DECL|function|hasFragment_data
 DECL|function|hasQuery
 DECL|function|hasQuery_data
 DECL|function|hashInPath
+DECL|function|hostFlags
+DECL|function|hostFlags_data
 DECL|function|hosts
 DECL|function|hosts_data
 DECL|function|i18n
