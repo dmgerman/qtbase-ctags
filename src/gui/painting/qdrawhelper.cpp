@@ -180,9 +180,11 @@ DECL|function|qt_memfill_quint16
 DECL|function|qt_memfill_template
 DECL|function|qt_memfill_template
 DECL|function|qt_memfill_template
-DECL|function|qt_rectfill_nonpremul_quint32
+DECL|function|qt_rectfill_argb32
+DECL|function|qt_rectfill_nonpremul_argb32
+DECL|function|qt_rectfill_nonpremul_rgba
 DECL|function|qt_rectfill_quint16
-DECL|function|qt_rectfill_quint32
+DECL|function|qt_rectfill_rgba
 DECL|function|rasterop_ClearDestination
 DECL|function|rasterop_NotDestination
 DECL|function|rasterop_NotSource

@@ -98,8 +98,13 @@ DECL|function|extendedBlendModes
 DECL|function|fillData
 DECL|function|fillRect
 DECL|function|fillRect2
+DECL|function|fillRect2_data
 DECL|function|fillRect3
+DECL|function|fillRect3_data
 DECL|function|fillRect4
+DECL|function|fillRect4_data
+DECL|function|fillRectNonPremul
+DECL|function|fillRect_data
 DECL|function|fillRect_objectBoundingModeGradient
 DECL|function|fillRect_stretchToDeviceMode
 DECL|function|fpeExceptionString
