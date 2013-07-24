@@ -1,3 +1,4 @@
+DECL|function|argumentsFromCommandLineAndFile
 DECL|function|combinePath
 DECL|function|composePreprocessorOutput
 DECL|function|error
