@@ -1,0 +1,16 @@
+DECL|function|AttachedJNIEnv
+DECL|function|JNI_OnLoad
+DECL|function|fetchSslCertificateData
+DECL|function|registerNatives
+DECL|function|~AttachedJNIEnv
+DECL|macro|FIND_AND_CHECK_CLASS
+DECL|macro|GET_AND_CHECK_STATIC_METHOD
+DECL|member|attached
+DECL|member|jniEnv
+DECL|struct|AttachedJNIEnv
+DECL|variable|appClass
+DECL|variable|classErrorMsg
+DECL|variable|getSslCertificatesMethodID
+DECL|variable|javaVM
+DECL|variable|logTag
+DECL|variable|methodErrorMsg
