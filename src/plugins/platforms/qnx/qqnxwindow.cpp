@@ -22,6 +22,7 @@ DECL|function|requestActivateWindow
 DECL|function|requestedBufferSize
 DECL|function|scroll
 DECL|function|setBufferSize
+DECL|function|setExposed
 DECL|function|setGeometry
 DECL|function|setGeometryHelper
 DECL|function|setOffset
