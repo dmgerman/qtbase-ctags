@@ -23,5 +23,4 @@ DECL|member|postfix
 DECL|member|prefix
 DECL|member|qrcOutputFile
 DECL|member|translateFunction
-DECL|member|uic3
 DECL|struct|Option
