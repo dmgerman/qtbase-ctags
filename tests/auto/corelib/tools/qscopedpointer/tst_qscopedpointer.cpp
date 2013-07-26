@@ -4,6 +4,8 @@ DECL|class|MyClass
 DECL|class|MySubClass
 DECL|class|SubClass
 DECL|class|tst_QScopedPointer
+DECL|function|CountedInteger
+DECL|function|CountedInteger
 DECL|function|RefCounted
 DECL|function|RefCounted
 DECL|function|array
@@ -17,6 +19,7 @@ DECL|function|dereferenceOperatorSignature
 DECL|function|isNull
 DECL|function|isNullSignature
 DECL|function|member
+DECL|function|move
 DECL|function|negationOperator
 DECL|function|negationOperatorSignature
 DECL|function|objectSize
@@ -26,12 +29,18 @@ DECL|function|operatorBoolSignature
 DECL|function|pointerOperator
 DECL|function|pointerOperatorSignature
 DECL|function|reset
+DECL|function|returnScopedPointer
 DECL|function|scopedPointerComparisonTest
 DECL|function|useSubClassInConstructor
 DECL|function|~AbstractClass
+DECL|function|~CountedInteger
 DECL|function|~RefCounted
+DECL|member|i
+DECL|member|instanceCount
+DECL|member|instanceCount
 DECL|member|instanceCount
 DECL|member|instanceCount
 DECL|member|ref
 DECL|member|value
+DECL|struct|CountedInteger
 DECL|struct|RefCounted
