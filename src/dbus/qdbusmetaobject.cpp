@@ -26,6 +26,7 @@ DECL|member|outputTypes
 DECL|member|parameterNames
 DECL|member|properties
 DECL|member|propertyDBusData
+DECL|member|rawReturnType
 DECL|member|signals_
 DECL|member|signature
 DECL|member|tag
