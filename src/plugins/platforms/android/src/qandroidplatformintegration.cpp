@@ -1,4 +1,5 @@
 DECL|function|QAndroidPlatformIntegration
+DECL|function|accessibility
 DECL|function|clipboard
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext

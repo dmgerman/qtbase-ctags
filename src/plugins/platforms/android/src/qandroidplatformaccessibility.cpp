@@ -1,0 +1,3 @@
+DECL|function|QAndroidPlatformAccessibility
+DECL|function|notifyAccessibilityUpdate
+DECL|function|~QAndroidPlatformAccessibility
