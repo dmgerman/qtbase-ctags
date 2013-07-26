@@ -55,7 +55,6 @@ DECL|function|findMonth
 DECL|function|fixedDate
 DECL|function|floordiv
 DECL|function|floordiv
-DECL|function|fmtDateTime
 DECL|function|fromMSecsSinceEpoch
 DECL|function|fromMSecsSinceEpoch
 DECL|function|fromOffsetString
@@ -74,12 +73,10 @@ DECL|function|getAmPmText
 DECL|function|getDate
 DECL|function|getDateFromJulianDay
 DECL|function|getDigit
-DECL|function|getFmtString
 DECL|function|getLocal
 DECL|function|getMaximum
 DECL|function|getMinimum
 DECL|function|getUTC
-DECL|function|hasUnquotedAP
 DECL|function|hour
 DECL|function|isLeapYear
 DECL|function|isMidnight
