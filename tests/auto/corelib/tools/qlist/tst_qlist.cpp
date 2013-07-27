@@ -54,6 +54,7 @@ DECL|function|generateSetSharableData
 DECL|function|getLiveCount
 DECL|function|getLiveCount
 DECL|function|initializeList
+DECL|function|insertWithValidIteratorsOnSharedList
 DECL|function|last
 DECL|function|lastComplex
 DECL|function|lastIndexOf
