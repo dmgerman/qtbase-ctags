@@ -4,6 +4,8 @@ DECL|function|QThreadPoolPrivate
 DECL|function|QThreadPoolThread
 DECL|function|activeThreadCount
 DECL|function|activeThreadCount
+DECL|function|clear
+DECL|function|clear
 DECL|function|enqueueTask
 DECL|function|expiryTimeout
 DECL|function|globalInstance
