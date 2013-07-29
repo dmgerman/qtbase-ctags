@@ -1,0 +1,2 @@
+DECL|macro|INTERFACE_FROM_INCLUDE_H
+DECL|variable|QObject
