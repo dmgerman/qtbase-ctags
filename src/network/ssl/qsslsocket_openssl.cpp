@@ -50,7 +50,7 @@ DECL|member|initLocker
 DECL|member|locks
 DECL|member|locksLocker
 DECL|member|mutex
-DECL|member|ptrSecCertificateGetData
+DECL|member|ptrSecCertificateCopyData
 DECL|member|ptrSecTrustCopyAnchorCertificates
 DECL|member|ptrSecTrustSettingsCopyCertificates
 DECL|member|s_libraryLoaded

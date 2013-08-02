@@ -4,6 +4,6 @@ DECL|typedef|PtrCertCloseStore
 DECL|typedef|PtrCertFindCertificateInStore
 DECL|typedef|PtrCertOpenSystemStoreW
 DECL|typedef|PtrCertOpenSystemStoreW
-DECL|typedef|PtrSecCertificateGetData
+DECL|typedef|PtrSecCertificateCopyData
 DECL|typedef|PtrSecTrustCopyAnchorCertificates
 DECL|typedef|PtrSecTrustSettingsCopyCertificates
