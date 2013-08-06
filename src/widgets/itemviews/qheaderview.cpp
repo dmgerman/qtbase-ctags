@@ -29,7 +29,9 @@ DECL|function|initStyleOption
 DECL|function|initialize
 DECL|function|initializeSections
 DECL|function|initializeSections
+DECL|function|isFirstVisibleSection
 DECL|function|isIndexHidden
+DECL|function|isLastVisibleSection
 DECL|function|isSectionHidden
 DECL|function|isSectionSelected
 DECL|function|isSortIndicatorShown
