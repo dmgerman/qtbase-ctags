@@ -87,4 +87,5 @@ DECL|member|scriptFiles
 DECL|member|sinceTitles
 DECL|member|styleDirs
 DECL|member|styleFiles
+DECL|member|useOutputSubdirs_
 DECL|variable|outFileNames
