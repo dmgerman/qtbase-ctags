@@ -122,3 +122,4 @@ DECL|function|visualRect
 DECL|function|visualRegionForSelection
 DECL|function|write
 DECL|function|~QHeaderView
+DECL|variable|maxSizeSection
