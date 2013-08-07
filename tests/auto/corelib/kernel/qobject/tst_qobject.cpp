@@ -22,6 +22,7 @@ DECL|class|EmitThread
 DECL|class|EventSpy
 DECL|class|FooObject
 DECL|class|FunctorArgDifferenceObject
+DECL|class|GetSenderObject
 DECL|class|LotsOfSignalsAndSlots
 DECL|class|ManyArgumentObject
 DECL|class|ManySignals
@@ -69,6 +70,7 @@ DECL|function|ConnectToPrivateSlot
 DECL|function|Constructable
 DECL|function|CountedStruct
 DECL|function|CountedStruct
+DECL|function|CountedStruct
 DECL|function|CustomType
 DECL|function|CustomType
 DECL|function|DestroyedListener
@@ -90,6 +92,7 @@ DECL|function|VirtualSlotsObject
 DECL|function|VirtualSlotsObjectBase
 DECL|function|aPublicSlot
 DECL|function|aSlot
+DECL|function|accessSender
 DECL|function|alpha
 DECL|function|autoConnectionBehavior
 DECL|function|baseDestroyed
@@ -386,6 +389,7 @@ DECL|function|thread
 DECL|function|thread0
 DECL|function|threadSignalEmissionCrash
 DECL|function|timerEvent
+DECL|function|triggerSignal
 DECL|function|typeConstRefSlot
 DECL|function|typePointerConstRefSlot
 DECL|function|typeRefSlot
@@ -475,6 +479,7 @@ DECL|member|result
 DECL|member|s
 DECL|member|s_num
 DECL|member|saved
+DECL|member|sender
 DECL|member|sender
 DECL|member|sequence
 DECL|member|sequence
