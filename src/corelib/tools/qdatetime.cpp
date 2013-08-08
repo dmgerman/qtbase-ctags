@@ -18,7 +18,6 @@ DECL|function|addDays
 DECL|function|addMSecs
 DECL|function|addMSecs
 DECL|function|addMSecs
-DECL|function|addMSecs
 DECL|function|addMonths
 DECL|function|addMonths
 DECL|function|addSecs
