@@ -1,5 +1,6 @@
 DECL|class|tst_qstandardpaths
 DECL|function|createTestFile
+DECL|function|dump
 DECL|function|enableTestMode
 DECL|function|findSh
 DECL|function|setCustomLocations
@@ -25,3 +26,5 @@ DECL|member|m_localAppDir
 DECL|member|m_localAppTempDir
 DECL|member|m_localConfigDir
 DECL|member|m_localConfigTempDir
+DECL|variable|MaxStandardLocation
+DECL|variable|enumNames
