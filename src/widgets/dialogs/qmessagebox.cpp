@@ -91,6 +91,7 @@ DECL|function|setTextInteractionFlags
 DECL|function|setVisible
 DECL|function|setWindowModality
 DECL|function|setWindowTitle
+DECL|function|setupLayout
 DECL|function|showEvent
 DECL|function|showNewMessageBox
 DECL|function|showOldMessageBox
