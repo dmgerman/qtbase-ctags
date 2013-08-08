@@ -9,4 +9,5 @@ DECL|function|locate
 DECL|function|locateAll
 DECL|function|searchExecutable
 DECL|function|searchExecutableAppendSuffix
+DECL|function|setTestModeEnabled
 DECL|variable|qsp_testMode
