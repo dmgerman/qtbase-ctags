@@ -107,3 +107,5 @@ DECL|macro|SET
 DECL|macro|SET
 DECL|variable|enginesCollector
 DECL|variable|hb_fontClass
+DECL|variable|sizeof
+DECL|variable|sizeof

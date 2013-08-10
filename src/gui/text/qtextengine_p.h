@@ -40,21 +40,17 @@ DECL|function|glyph_metrics_t
 DECL|function|glyph_metrics_t
 DECL|function|height
 DECL|function|height
-DECL|function|instance
 DECL|function|isOutsideSelection
 DECL|function|isValid
 DECL|function|mid
 DECL|function|operator
-DECL|function|setInstance
 DECL|function|spaceNeededForGlyphLayout
 DECL|macro|QTEXTENGINE_P_H
-DECL|member|advance
 DECL|member|advances_x
 DECL|member|advances_y
 DECL|member|analysis
 DECL|member|ascent
 DECL|member|ascent
-DECL|member|attributes
 DECL|member|attributes
 DECL|member|bidiLevel
 DECL|member|clusterStart
@@ -66,7 +62,6 @@ DECL|member|eng
 DECL|member|firstItem
 DECL|member|flags
 DECL|member|from
-DECL|member|glyph
 DECL|member|glyph_data_offset
 DECL|member|glyphs
 DECL|member|glyphsEnd
@@ -79,7 +74,6 @@ DECL|member|itemEnd
 DECL|member|itemLength
 DECL|member|itemStart
 DECL|member|itemWidth
-DECL|member|justification
 DECL|member|justification
 DECL|member|justifications
 DECL|member|justified
@@ -98,7 +92,6 @@ DECL|member|nItems
 DECL|member|nKashidas
 DECL|member|numGlyphs
 DECL|member|num_glyphs
-DECL|member|offset
 DECL|member|offsets
 DECL|member|operator
 DECL|member|operator
@@ -129,7 +122,6 @@ DECL|member|zeroWidth
 DECL|struct|QGlyphJustification
 DECL|struct|QGlyphLayout
 DECL|struct|QGlyphLayout
-DECL|struct|QGlyphLayoutInstance
 DECL|struct|QScriptAnalysis
 DECL|struct|QScriptItem
 DECL|struct|QScriptLine
