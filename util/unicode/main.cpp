@@ -150,6 +150,7 @@ DECL|member|lowerCaseSpecial
 DECL|member|mapped
 DECL|member|mirrorDiff
 DECL|member|mirroredChar
+DECL|member|nfQuickCheck
 DECL|member|p
 DECL|member|propertyIndex
 DECL|member|script
