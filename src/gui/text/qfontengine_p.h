@@ -1,3 +1,9 @@
+DECL|enumerator|Err_Invalid_Argument
+DECL|enumerator|Err_Invalid_SubTable
+DECL|enumerator|Err_Invalid_SubTable_Format
+DECL|enumerator|Err_Not_Covered
+DECL|enumerator|Err_Ok
+DECL|enum|HB_Compat_Error
 DECL|function|operator
 DECL|function|qHash
 DECL|macro|MAKE_TAG

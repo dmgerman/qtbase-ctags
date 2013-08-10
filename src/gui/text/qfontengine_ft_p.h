@@ -12,6 +12,7 @@ DECL|member|cmapCache
 DECL|member|face
 DECL|member|fontData
 DECL|member|hbFace
+DECL|member|hbFace_destroy_func
 DECL|member|matrix
 DECL|member|private
 DECL|member|ref

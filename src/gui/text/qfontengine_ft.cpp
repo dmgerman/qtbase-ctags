@@ -37,7 +37,6 @@ DECL|function|getSfntTable
 DECL|function|getSfntTableData
 DECL|function|getUnscaledGlyph
 DECL|function|glyphCount
-DECL|function|hb_getSFntTable
 DECL|function|init
 DECL|function|init
 DECL|function|initFromFontEngine
