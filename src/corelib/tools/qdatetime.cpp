@@ -109,6 +109,7 @@ DECL|function|setMSecsSinceEpoch
 DECL|function|setOffsetFromUtc
 DECL|function|setTime
 DECL|function|setTimeSpec
+DECL|function|setTimeSpec
 DECL|function|setTime_t
 DECL|function|setUtcOffset
 DECL|function|shortDayName
