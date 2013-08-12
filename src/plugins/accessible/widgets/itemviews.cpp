@@ -45,7 +45,6 @@ DECL|function|rect
 DECL|function|role
 DECL|function|role
 DECL|function|role
-DECL|function|rowColumnExtents
 DECL|function|rowCount
 DECL|function|rowCount
 DECL|function|rowDescription
