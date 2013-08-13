@@ -32,6 +32,7 @@ DECL|function|pendingDatagramSize
 DECL|function|qt_timeout_value
 DECL|function|read
 DECL|function|readDatagram
+DECL|function|readHttpHeader
 DECL|function|setExceptionNotificationEnabled
 DECL|function|setMulticastInterface
 DECL|function|setOption
