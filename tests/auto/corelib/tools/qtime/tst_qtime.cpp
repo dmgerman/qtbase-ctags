@@ -12,6 +12,8 @@ DECL|function|hour_data
 DECL|function|invalidTime
 DECL|function|isNull
 DECL|function|isValid
+DECL|function|msecsSinceStartOfDay
+DECL|function|msecsSinceStartOfDay_data
 DECL|function|msecsTo
 DECL|function|msecsTo_data
 DECL|function|operator_eq_eq
