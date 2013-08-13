@@ -11,6 +11,7 @@ DECL|function|handleDrag
 DECL|function|handleDrop
 DECL|function|handleEnterEvent
 DECL|function|handleEnterLeaveEvent
+DECL|function|handleEnterWhatsThisEvent
 DECL|function|handleExposeEvent
 DECL|function|handleExtendedKeyEvent
 DECL|function|handleExtendedKeyEvent
