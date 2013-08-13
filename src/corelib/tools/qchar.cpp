@@ -34,6 +34,7 @@ DECL|function|isSymbol
 DECL|function|joining
 DECL|function|ligatureHelper
 DECL|function|mirroredChar
+DECL|function|normalizationQuickCheckHelper
 DECL|function|operator <
 DECL|function|operator <
 DECL|function|operator <
