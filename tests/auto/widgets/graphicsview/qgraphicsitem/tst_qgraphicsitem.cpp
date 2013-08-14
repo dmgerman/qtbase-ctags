@@ -67,6 +67,7 @@ DECL|function|QTBUG_12112_focusItem
 DECL|function|QTBUG_13473_sceneposchange
 DECL|function|QTBUG_16374_crashInDestructor
 DECL|function|QTBUG_20699_focusScopeCrash
+DECL|function|QTBUG_21618_untransformable_sceneTransform
 DECL|function|QTBUG_30990_rightClickSelection
 DECL|function|QTBUG_4233_updateCachedWithSceneRect
 DECL|function|QTBUG_5418_textItemSetDefaultColor

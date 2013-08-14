@@ -10,4 +10,5 @@ DECL|function|rcc
 DECL|function|rcc_data
 DECL|function|readExpectedFiles
 DECL|function|readLinesFromFile
+DECL|member|m_rcc
 DECL|typedef|QStringMap

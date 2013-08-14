@@ -26,6 +26,7 @@ DECL|method|destroySurface
 DECL|method|getAction
 DECL|method|getClipboardText
 DECL|method|getLostActions
+DECL|method|getSSLCertificates
 DECL|method|handleOrientationChanged
 DECL|method|hasClipboardText
 DECL|method|hideSoftwareKeyboard
