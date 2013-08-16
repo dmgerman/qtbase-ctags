@@ -43,6 +43,9 @@ DECL|function|length3_data
 DECL|function|length4
 DECL|function|length4_data
 DECL|function|metaTypes
+DECL|function|modify2
+DECL|function|modify3
+DECL|function|modify4
 DECL|function|multiply2
 DECL|function|multiply2_data
 DECL|function|multiply3

@@ -3,6 +3,8 @@ DECL|function|QVector4D
 DECL|function|QVector4D
 DECL|function|QVector4D
 DECL|function|isNull
+DECL|function|operator
+DECL|function|operator
 DECL|function|setW
 DECL|function|setX
 DECL|function|setY
