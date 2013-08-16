@@ -2,6 +2,7 @@ DECL|class|KeyChecker
 DECL|function|KeyChecker
 DECL|function|QXcbKeyboard
 DECL|function|checkEvent
+DECL|function|clearXKBConfig
 DECL|function|handleKeyEvent
 DECL|function|handleKeyPressEvent
 DECL|function|handleKeyReleaseEvent

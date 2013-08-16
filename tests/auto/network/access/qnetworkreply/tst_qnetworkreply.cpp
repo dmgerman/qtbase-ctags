@@ -220,6 +220,7 @@ DECL|function|md5sum
 DECL|function|metaData
 DECL|function|metaData
 DECL|function|metaDataChangedSlot
+DECL|function|multipartSkipIndices
 DECL|function|nestedEventLoops
 DECL|function|nestedEventLoops_slot
 DECL|function|newConnectionSlot

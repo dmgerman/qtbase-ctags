@@ -44,6 +44,7 @@ DECL|function|timerEvent
 DECL|function|wakeUp
 DECL|function|~SocketEventsTester
 DECL|macro|EXEC_TIMEOUT
+DECL|macro|tst_QEventLoop
 DECL|member|cond
 DECL|member|count
 DECL|member|dataArrived

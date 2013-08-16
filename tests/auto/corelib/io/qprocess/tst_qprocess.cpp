@@ -89,6 +89,7 @@ DECL|function|waitForFinishedWithTimeout
 DECL|function|waitForReadyReadForNonexistantProcess
 DECL|function|waitForReadyReadInAReadyReadSlot
 DECL|function|waitForReadyReadInAReadyReadSlotSlot
+DECL|function|waitForStartedWithoutStart
 DECL|function|writeAfterStart
 DECL|function|writePendingData
 DECL|macro|QPROCESS_VERIFY
