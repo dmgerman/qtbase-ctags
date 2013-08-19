@@ -24,6 +24,7 @@ DECL|function|addSecs
 DECL|function|addSecs
 DECL|function|addYears
 DECL|function|addYears
+DECL|function|checkValidDateTime
 DECL|function|currentDate
 DECL|function|currentDate
 DECL|function|currentDateTime
@@ -100,6 +101,7 @@ DECL|function|qt_monthNumberFromShortName
 DECL|function|qt_timezone
 DECL|function|qt_tzname
 DECL|function|qt_tzset
+DECL|function|refreshDateTime
 DECL|function|restart
 DECL|function|rfcDateImpl
 DECL|function|second
