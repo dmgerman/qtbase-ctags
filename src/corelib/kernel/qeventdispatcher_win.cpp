@@ -15,6 +15,7 @@ DECL|function|doWsaAsyncSelect
 DECL|function|event
 DECL|function|flush
 DECL|function|hasPendingEvents
+DECL|function|inputTimerMask
 DECL|function|interrupt
 DECL|function|processEvents
 DECL|function|qt_GetMessageHook
