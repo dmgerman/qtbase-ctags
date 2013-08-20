@@ -25,6 +25,7 @@ DECL|macro|MOC_H
 DECL|member|QByteArray
 DECL|member|QByteArray
 DECL|member|QByteArray
+DECL|member|QString
 DECL|member|access
 DECL|member|arguments
 DECL|member|begin
@@ -69,6 +70,7 @@ DECL|member|isStatic
 DECL|member|isVirtual
 DECL|member|isVolatile
 DECL|member|member
+DECL|member|metaArgs
 DECL|member|metaData
 DECL|member|methodList
 DECL|member|name
