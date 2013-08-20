@@ -1,0 +1,2 @@
+DECL|macro|QSESSIONMANAGER_P_H
+DECL|variable|QPlatformSessionManager

@@ -14,6 +14,7 @@ DECL|variable|QPlatformNativeInterface
 DECL|variable|QPlatformOffscreenSurface
 DECL|variable|QPlatformOpenGLContext
 DECL|variable|QPlatformServices
+DECL|variable|QPlatformSessionManager
 DECL|variable|QPlatformSharedGraphicsCache
 DECL|variable|QPlatformTheme
 DECL|variable|QPlatformWindow

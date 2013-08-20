@@ -1,5 +1,4 @@
-DECL|function|QSessionManager
-DECL|function|QSessionManagerPrivate
+DECL|function|QPlatformSessionManager
 DECL|function|allowsErrorInteraction
 DECL|function|allowsInteraction
 DECL|function|cancel
@@ -13,8 +12,6 @@ DECL|function|sessionId
 DECL|function|sessionKey
 DECL|function|setDiscardCommand
 DECL|function|setManagerProperty
-DECL|function|setManagerProperty
 DECL|function|setRestartCommand
 DECL|function|setRestartHint
-DECL|function|~QSessionManager
-DECL|function|~QSessionManagerPrivate
+DECL|function|~QPlatformSessionManager

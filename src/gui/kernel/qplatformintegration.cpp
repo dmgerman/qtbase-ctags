@@ -4,6 +4,7 @@ DECL|function|createImagePaintEngine
 DECL|function|createPlatformOffscreenSurface
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformPixmap
+DECL|function|createPlatformSessionManager
 DECL|function|createPlatformSharedGraphicsCache
 DECL|function|createPlatformTheme
 DECL|function|drag
