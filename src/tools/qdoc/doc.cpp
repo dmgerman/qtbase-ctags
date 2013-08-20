@@ -58,6 +58,7 @@ DECL|enumerator|CMD_IMPORTANT
 DECL|enumerator|CMD_INCLUDE
 DECL|enumerator|CMD_INDEX
 DECL|enumerator|CMD_INLINEIMAGE
+DECL|enumerator|CMD_INPUT
 DECL|enumerator|CMD_JS
 DECL|enumerator|CMD_KEYWORD
 DECL|enumerator|CMD_L
@@ -221,6 +222,7 @@ DECL|member|alsoList
 DECL|member|braceDepth
 DECL|member|cachedLoc
 DECL|member|cachedPos
+DECL|member|config_
 DECL|member|count
 DECL|member|currentSection
 DECL|member|defaultDef

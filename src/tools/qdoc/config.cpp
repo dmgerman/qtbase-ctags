@@ -14,6 +14,7 @@ DECL|function|getExampleImageFiles
 DECL|function|getExampleQdocFiles
 DECL|function|getExpanded
 DECL|function|getFilesHere
+DECL|function|getIncludeFilePath
 DECL|function|getInt
 DECL|function|getOutputDir
 DECL|function|getOutputFormats
@@ -43,6 +44,7 @@ DECL|member|accum
 DECL|member|dot
 DECL|member|extractedDirs
 DECL|member|generateExamples
+DECL|member|includeFilesMap_
 DECL|member|installDir
 DECL|member|next
 DECL|member|numInstances
