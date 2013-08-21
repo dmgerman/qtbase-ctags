@@ -45,6 +45,7 @@ DECL|function|handleCalculateSize
 DECL|function|handleGeometryChange
 DECL|function|handleHidden
 DECL|function|handleMoved
+DECL|function|handleNonClientHitTest
 DECL|function|handleResized
 DECL|function|handleWindowStateChange
 DECL|function|handleWmPaint

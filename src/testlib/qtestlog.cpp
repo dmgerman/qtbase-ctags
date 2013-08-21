@@ -67,4 +67,3 @@ DECL|member|verbosity
 DECL|namespace|QTest
 DECL|struct|IgnoreResultList
 DECL|struct|LoggerList
-DECL|typedef|QtMsgHandler
