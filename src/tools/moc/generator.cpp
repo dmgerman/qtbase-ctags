@@ -18,6 +18,7 @@ DECL|function|lengthOfEscapeSequence
 DECL|function|metaTypeEnumValueString
 DECL|function|methodsWithAutomaticTypesHelper
 DECL|function|nameToBuiltinType
+DECL|function|qualifiedNameEquals
 DECL|function|registerClassInfoStrings
 DECL|function|registerEnumStrings
 DECL|function|registerFunctionStrings

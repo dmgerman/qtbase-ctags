@@ -5,6 +5,7 @@ DECL|class|CustomQObject
 DECL|class|CustomQObject2
 DECL|class|NamespacedQObject
 DECL|class|NamespacedQObject2
+DECL|class|Obj
 DECL|class|PrivateClass
 DECL|class|QTBUG11647_constInTemplateParameter
 DECL|class|QTBUG12260_defaultTemplate_Object
@@ -22,12 +23,15 @@ DECL|enumerator|One
 DECL|enumerator|One
 DECL|enumerator|One
 DECL|enumerator|One
+DECL|enumerator|Something
+DECL|enumerator|SomethingElse
 DECL|enumerator|Two
 DECL|enumerator|Two
 DECL|enumerator|Two
 DECL|enumerator|Two
 DECL|enumerator|Zero
 DECL|enumerator|Zero
+DECL|enum|MyEnum
 DECL|enum|Number
 DECL|enum|Number
 DECL|enum|TestEnum
@@ -41,6 +45,7 @@ DECL|function|NamespacedQObject2
 DECL|function|PrivateClass
 DECL|function|QTBUG12260_defaultTemplate
 DECL|function|QTBUG17635_invokableAndProperty
+DECL|function|QTBUG32933_relatedObjectsDontIncludeItself
 DECL|function|QTBUG5590_PropertyObject
 DECL|function|QTBUG5590_dummyProperty
 DECL|function|SignalConnectionTester
@@ -168,10 +173,13 @@ DECL|member|header
 DECL|member|m_value
 DECL|member|m_value2
 DECL|member|member
+DECL|member|member
 DECL|member|mocOut
 DECL|member|mocWarning
 DECL|member|proc
 DECL|member|testPassed
+DECL|namespace|NS
+DECL|namespace|QTBUG32933_relatedObjectsDontIncludeItself
 DECL|namespace|SomeNamespace
 DECL|namespace|SomeNamespace2
 DECL|struct|CustomObject10
