@@ -1,5 +1,6 @@
 DECL|class|QtTestModel
 DECL|class|SimpleModel
+DECL|class|TestStyle
 DECL|class|XResetModel
 DECL|class|protected_QHeaderView
 DECL|class|tst_QHeaderView
@@ -29,6 +30,7 @@ DECL|function|defaultSectionSizeTest
 DECL|function|defaultSectionSize_data
 DECL|function|defaultSizeTest
 DECL|function|defaultSizeTest_data
+DECL|function|drawControl
 DECL|function|emptyModel
 DECL|function|emptySectionSpan
 DECL|function|ensureNoIndexAtLength
@@ -130,6 +132,7 @@ DECL|function|task248050_hideRow
 DECL|function|testEvent
 DECL|function|testEvent
 DECL|function|testStreamWithHide
+DECL|function|testStylePosition
 DECL|function|testhorizontalOffset
 DECL|function|testverticalOffset
 DECL|function|tst_QHeaderView
@@ -142,6 +145,7 @@ DECL|function|visualIndexAtTest_data
 DECL|function|visualIndexAt_data
 DECL|function|~tst_QHeaderView
 DECL|member|cols
+DECL|member|lastPosition
 DECL|member|m_col_count
 DECL|member|m_tableview
 DECL|member|m_using_reset_model

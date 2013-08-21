@@ -34,6 +34,7 @@ DECL|function|generateMakefiles
 DECL|function|generateOutputVars
 DECL|function|generateQConfigCpp
 DECL|function|generateQConfigPri
+DECL|function|generateQDevicePri
 DECL|function|isDone
 DECL|function|isOk
 DECL|function|locateFile
@@ -51,6 +52,7 @@ DECL|function|saveCmdLine
 DECL|function|showLicense
 DECL|function|showSummary
 DECL|function|stripPrefix
+DECL|function|substPrefix
 DECL|function|tokenLength
 DECL|function|tryCompileProject
 DECL|function|validateArgs
