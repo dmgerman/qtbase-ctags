@@ -169,6 +169,9 @@ DECL|macro|SKIP_NEWLINE_TEST
 DECL|macro|TYPE_LOOP
 DECL|macro|TYPE_LOOP
 DECL|macro|_TASK_119503
+DECL|macro|emit
+DECL|macro|signals
+DECL|macro|slots
 DECL|member|header
 DECL|member|m_value
 DECL|member|m_value2
