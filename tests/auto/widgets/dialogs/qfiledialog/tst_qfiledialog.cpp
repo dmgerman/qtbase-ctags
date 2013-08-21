@@ -59,6 +59,7 @@ DECL|function|tildeExpansion
 DECL|function|tildeExpansion_data
 DECL|function|tst_QFiledialog
 DECL|function|viewMode
+DECL|function|widgetlessNativeDialog
 DECL|function|~tst_QFiledialog
 DECL|member|userSettings
 DECL|typedef|_qt_filedialog_existing_directory_hook
