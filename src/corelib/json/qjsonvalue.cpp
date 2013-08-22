@@ -22,6 +22,7 @@ DECL|function|toArray
 DECL|function|toArray
 DECL|function|toBool
 DECL|function|toDouble
+DECL|function|toInt
 DECL|function|toObject
 DECL|function|toObject
 DECL|function|toObject
