@@ -25,6 +25,7 @@ DECL|function|showFullScreen
 DECL|function|showMaximized
 DECL|function|showMinimized
 DECL|function|showSizeGrip
+DECL|function|snapToDefaultButton
 DECL|function|timerEvent
 DECL|function|toolDialogPosition
 DECL|function|tst_QDialog

@@ -166,10 +166,8 @@ DECL|function|setWindowTitle
 DECL|function|setWindowTitle
 DECL|function|shellItem
 DECL|function|show
-DECL|function|snapToDefaultButtonHint
 DECL|function|startDialogThread
 DECL|function|stopTimer
-DECL|function|styleHint
 DECL|function|suffixFromFilter
 DECL|function|supportsNonModalDialog
 DECL|function|supportsNonModalDialog
