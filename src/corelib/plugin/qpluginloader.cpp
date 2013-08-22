@@ -8,6 +8,7 @@ DECL|function|load
 DECL|function|loadHints
 DECL|function|locatePlugin
 DECL|function|metaData
+DECL|function|metaData
 DECL|function|qRegisterStaticPluginFunction
 DECL|function|setFileName
 DECL|function|setLoadHints

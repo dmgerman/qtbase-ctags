@@ -13,7 +13,7 @@ DECL|macro|Q_EXTERN_C
 DECL|macro|Q_IMPORT_PLUGIN
 DECL|macro|Q_PLUGIN_INSTANCE
 DECL|member|instance
-DECL|member|metaData
+DECL|member|rawMetaData
 DECL|struct|QStaticPlugin
 DECL|typedef|QtPluginInstanceFunction
 DECL|typedef|QtPluginMetaDataFunction
