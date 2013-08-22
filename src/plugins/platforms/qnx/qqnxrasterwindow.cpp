@@ -1,4 +1,5 @@
 DECL|function|QQnxRasterWindow
+DECL|function|adjustBufferSize
 DECL|function|blitPreviousToCurrent
 DECL|function|pixelFormat
 DECL|function|post

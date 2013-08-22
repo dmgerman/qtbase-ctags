@@ -19,7 +19,6 @@ DECL|function|keyboardHeightChanged
 DECL|function|lowerWindow
 DECL|function|nativeOrientation
 DECL|function|newWindowCreated
-DECL|function|onWindowPost
 DECL|function|orientation
 DECL|function|raiseWindow
 DECL|function|refreshRate
@@ -29,6 +28,7 @@ DECL|function|resizeNativeWidgetWindow
 DECL|function|resizeTopLevelWindow
 DECL|function|resizeWindows
 DECL|function|rootWindow
+DECL|function|setRootWindow
 DECL|function|setRotation
 DECL|function|topMostChildWindow
 DECL|function|updateHierarchy
