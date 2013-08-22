@@ -1,3 +1,4 @@
+DECL|enumerator|LockScreen
 DECL|enumerator|PrimaryScreen
 DECL|enumerator|VirtualDesktop
 DECL|enum|Flags
