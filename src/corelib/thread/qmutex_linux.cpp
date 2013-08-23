@@ -1,5 +1,3 @@
-DECL|function|checkElapsedTimerIsTrivial
-DECL|function|checkElapsedTimerIsTrivial
 DECL|function|checkFutexPrivateSupport
 DECL|function|dummyFutexValue
 DECL|function|futexFlags
