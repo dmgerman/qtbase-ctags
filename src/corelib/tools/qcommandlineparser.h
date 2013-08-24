@@ -1,0 +1,3 @@
+DECL|macro|QCOMMANDLINEPARSER_H
+DECL|variable|QCommandLineParserPrivate
+DECL|variable|QCoreApplication

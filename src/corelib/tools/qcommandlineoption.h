@@ -1,0 +1,2 @@
+DECL|macro|QCOMMANDLINEOPTION_H
+DECL|variable|QCommandLineOptionPrivate
