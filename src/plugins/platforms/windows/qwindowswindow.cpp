@@ -10,6 +10,7 @@ DECL|function|RECTfromQRect
 DECL|function|WindowCreationData
 DECL|function|addRectToWinRegion
 DECL|function|alertWindow
+DECL|function|applyBlurBehindWindow
 DECL|function|applyCursor
 DECL|function|applyNewCursor
 DECL|function|applyToMinMaxInfo
@@ -42,6 +43,7 @@ DECL|function|geometry_sys
 DECL|function|getDC
 DECL|function|getSizeHints
 DECL|function|handleCalculateSize
+DECL|function|handleCompositionSettingsChanged
 DECL|function|handleGeometryChange
 DECL|function|handleHidden
 DECL|function|handleMoved
