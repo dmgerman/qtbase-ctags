@@ -187,6 +187,7 @@ DECL|function|taskQTBUG_25333_adjustViewOptionsForIndex
 DECL|function|taskQTBUG_6450_selectAllWith1stColumnHidden
 DECL|function|taskQTBUG_8176_emitOnExpandAll
 DECL|function|taskQTBUG_9216_setSizeAndUniformRowHeightsWrongRepaint
+DECL|function|testInitialFocus
 DECL|function|tst_QTreeView
 DECL|function|viewOptions
 DECL|function|~EvilModel
