@@ -39,6 +39,7 @@ DECL|function|lastVisibleVisualIndex
 DECL|function|length
 DECL|function|logicalIndex
 DECL|function|logicalIndexAt
+DECL|function|maximumSectionSize
 DECL|function|minimumSectionSize
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseMoveEvent
@@ -87,6 +88,7 @@ DECL|function|setDefaultSectionSize
 DECL|function|setGlobalHeaderResizeMode
 DECL|function|setHeaderSectionResizeMode
 DECL|function|setHighlightSections
+DECL|function|setMaximumSectionSize
 DECL|function|setMinimumSectionSize
 DECL|function|setModel
 DECL|function|setOffset
