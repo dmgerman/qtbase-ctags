@@ -22,6 +22,7 @@ DECL|function|detectCheckedButton
 DECL|function|emitClicked
 DECL|function|emitPressed
 DECL|function|emitReleased
+DECL|function|emitToggled
 DECL|function|event
 DECL|function|exclusive
 DECL|function|fixFocusPolicy
