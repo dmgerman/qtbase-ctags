@@ -1,0 +1,7 @@
+DECL|macro|HAVE_ATEXIT
+DECL|macro|HAVE_OT
+DECL|macro|HB_CONFIG_H
+DECL|macro|HB_INTERNAL
+DECL|macro|HB_NO_MT
+DECL|macro|HB_NO_UNICODE_FUNCS
+DECL|macro|atexit
