@@ -1,3 +1,5 @@
+DECL|function|qt_renderDistanceFieldGlyph
+DECL|function|qt_renderDistanceFieldGlyph
 DECL|macro|QDISTANCEFIELD_H
 DECL|macro|QT_DISTANCEFIELD_BASEFONTSIZE
 DECL|macro|QT_DISTANCEFIELD_DEFAULT_BASEFONTSIZE

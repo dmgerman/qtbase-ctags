@@ -1,8 +1,10 @@
 DECL|function|QJNIObject
 DECL|function|QJNIObject
-DECL|function|QJNIObject
-DECL|function|QJNIObject
-DECL|function|QJNIObject
+DECL|function|QJNIObjectPrivate
+DECL|function|QJNIObjectPrivate
+DECL|function|QJNIObjectPrivate
+DECL|function|QJNIObjectPrivate
+DECL|function|QJNIObjectPrivate
 DECL|function|callMethod
 DECL|function|callMethod
 DECL|function|callMethod
@@ -232,7 +234,7 @@ DECL|function|setStaticField
 DECL|function|setStaticField
 DECL|function|setStaticField
 DECL|function|setStaticField
-DECL|function|~QJNIObject
+DECL|function|~QJNIObjectPrivate
 DECL|variable|g_cachedClasses
 DECL|variable|g_cachedFieldIDs
 DECL|variable|g_cachedMethodIDs

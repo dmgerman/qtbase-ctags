@@ -1,0 +1,1 @@
+DECL|macro|CHARACTER_H
