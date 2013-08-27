@@ -36,6 +36,7 @@ DECL|function|keys
 DECL|function|keys
 DECL|function|kill
 DECL|function|nativeArguments
+DECL|function|nullDevice
 DECL|function|open
 DECL|function|operator =
 DECL|function|operator ==
