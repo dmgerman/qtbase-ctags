@@ -31,6 +31,7 @@ DECL|function|initiallySelectedNameFilter
 DECL|function|isLabelExplicitlySet
 DECL|function|isSupportedUrl
 DECL|function|labelText
+DECL|function|mimeTypeFilters
 DECL|function|nameFilters
 DECL|function|operator =
 DECL|function|operator =
@@ -52,6 +53,7 @@ DECL|function|setInitialDirectory
 DECL|function|setInitiallySelectedFiles
 DECL|function|setInitiallySelectedNameFilter
 DECL|function|setLabelText
+DECL|function|setMimeTypeFilters
 DECL|function|setNameFilters
 DECL|function|setOption
 DECL|function|setOption
@@ -97,6 +99,7 @@ DECL|member|initialDirectory
 DECL|member|initiallySelectedFiles
 DECL|member|initiallySelectedNameFilter
 DECL|member|labels
+DECL|member|mimeTypeFilters
 DECL|member|nameFilters
 DECL|member|options
 DECL|member|options

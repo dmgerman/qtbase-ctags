@@ -30,6 +30,7 @@ DECL|function|setDirty
 DECL|function|showAcceptedResult
 DECL|function|showModal
 DECL|function|showNonModal
+DECL|function|useMimeTypeFilters
 DECL|member|description
 DECL|member|m_dirty
 DECL|member|m_label

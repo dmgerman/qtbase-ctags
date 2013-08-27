@@ -76,6 +76,8 @@ DECL|function|keyPressEvent
 DECL|function|labelText
 DECL|function|lineEdit
 DECL|function|maxNameLength
+DECL|function|mimeTypeFilters
+DECL|function|nameFilterForMime
 DECL|function|nameFilters
 DECL|function|open
 DECL|function|options
@@ -94,6 +96,7 @@ DECL|function|rootIndex
 DECL|function|saveState
 DECL|function|select
 DECL|function|selectFile
+DECL|function|selectMimeTypeFilter
 DECL|function|selectNameFilter
 DECL|function|selectUrl
 DECL|function|selectedFiles
@@ -116,6 +119,7 @@ DECL|function|setItemDelegate
 DECL|function|setLabelText
 DECL|function|setLabelTextControl
 DECL|function|setLastVisitedDirectory
+DECL|function|setMimeTypeFilters
 DECL|function|setNameFilter
 DECL|function|setNameFilterDetailsVisible
 DECL|function|setNameFilters
