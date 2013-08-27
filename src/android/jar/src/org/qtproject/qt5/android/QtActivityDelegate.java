@@ -1,5 +1,9 @@
 DECL|class|QtActivityDelegate
 DECL|field|APPLICATION_PARAMETERS_KEY
+DECL|field|ApplicationActive
+DECL|field|ApplicationHidden
+DECL|field|ApplicationInactive
+DECL|field|ApplicationSuspended
 DECL|field|BUNDLED_LIBRARIES_KEY
 DECL|field|ENVIRONMENT_VARIABLES_KEY
 DECL|field|ImhDialableCharactersOnly
@@ -66,11 +70,13 @@ DECL|method|onKeyDown
 DECL|method|onKeyUp
 DECL|method|onOptionsItemSelected
 DECL|method|onOptionsMenuClosed
+DECL|method|onPause
 DECL|method|onPrepareOptionsMenu
 DECL|method|onRestoreInstanceState
 DECL|method|onResume
 DECL|method|onRetainNonConfigurationInstance
 DECL|method|onSaveInstanceState
+DECL|method|onStop
 DECL|method|onTerminate
 DECL|method|openContextMenu
 DECL|method|redrawWindow

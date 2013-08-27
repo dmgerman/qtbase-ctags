@@ -23,6 +23,7 @@ DECL|function|registerNatives
 DECL|function|resumeQtApp
 DECL|function|scaledDensity
 DECL|function|setAndroidPlatformIntegration
+DECL|function|setApplicationActive
 DECL|function|setDisplayMetrics
 DECL|function|setSurface
 DECL|function|startMainMethod
@@ -31,6 +32,7 @@ DECL|function|startQtApplication
 DECL|function|terminateQt
 DECL|function|topLevelWindowAt
 DECL|function|unlockSurface
+DECL|function|updateApplicationState
 DECL|function|updateWindow
 DECL|macro|FIND_AND_CHECK_CLASS
 DECL|macro|GET_AND_CHECK_FIELD
@@ -41,6 +43,7 @@ DECL|namespace|QtAndroid
 DECL|typedef|Main
 DECL|variable|m_ARGB_8888_BitmapConfigValue
 DECL|variable|m_RGB_565_BitmapConfigValue
+DECL|variable|m_activityActive
 DECL|variable|m_activityObject
 DECL|variable|m_androidAssetsFileEngineHandler
 DECL|variable|m_androidPlatformIntegration

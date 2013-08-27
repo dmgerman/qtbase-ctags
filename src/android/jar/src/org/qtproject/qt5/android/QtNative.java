@@ -78,6 +78,7 @@ DECL|method|touchAdd
 DECL|method|touchBegin
 DECL|method|touchEnd
 DECL|method|unlockSurface
+DECL|method|updateApplicationState
 DECL|method|updateSelection
 DECL|method|updateWindow
 DECL|package|org.qtproject.qt5.android
