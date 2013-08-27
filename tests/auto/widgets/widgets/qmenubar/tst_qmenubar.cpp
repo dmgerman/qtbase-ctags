@@ -21,6 +21,7 @@ DECL|function|check_shortcutPress
 DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|clear
+DECL|function|closeOnSecondClick
 DECL|function|count
 DECL|function|getSetCheck
 DECL|function|init
