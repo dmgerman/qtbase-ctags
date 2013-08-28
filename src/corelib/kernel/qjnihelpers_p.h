@@ -1,0 +1,1 @@
+DECL|macro|QJNIHELPERS_H
