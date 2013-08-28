@@ -1,0 +1,3 @@
+DECL|class|tst_QSslSocket
+DECL|function|nextProtocolNegotiation
+DECL|function|nextProtocolNegotiation_data
