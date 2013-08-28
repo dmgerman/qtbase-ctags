@@ -8,6 +8,7 @@ DECL|function|QWindowGeometrySpecification
 DECL|function|_q_updateFocusObject
 DECL|function|allWindows
 DECL|function|applicationDisplayName
+DECL|function|applicationState
 DECL|function|apply
 DECL|function|apply
 DECL|function|applyCursor
@@ -63,7 +64,6 @@ DECL|function|platformName
 DECL|function|platformNativeInterface
 DECL|function|primaryScreen
 DECL|function|processActivatedEvent
-DECL|function|processApplicationStateChangedEvent
 DECL|function|processCloseEvent
 DECL|function|processContextMenuEvent
 DECL|function|processDrag
@@ -104,6 +104,7 @@ DECL|function|sendQWindowEventToQPlatformWindow
 DECL|function|sessionId
 DECL|function|sessionKey
 DECL|function|setApplicationDisplayName
+DECL|function|setApplicationState
 DECL|function|setDesktopSettingsAware
 DECL|function|setEventDispatcher
 DECL|function|setFont
