@@ -90,6 +90,7 @@ DECL|function|sl10
 DECL|function|sl11
 DECL|function|sl12
 DECL|function|sl13
+DECL|function|sl14
 DECL|function|sl2
 DECL|function|sl3
 DECL|function|sl4
