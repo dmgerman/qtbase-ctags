@@ -4,6 +4,7 @@ DECL|function|current
 DECL|function|finish
 DECL|function|init
 DECL|function|msleep
+DECL|function|msleep
 DECL|function|qt_adopted_thread_watcher_function
 DECL|function|qt_create_tls
 DECL|function|qt_free_tls
@@ -12,11 +13,14 @@ DECL|function|qt_watch_adopted_thread
 DECL|function|setPriority
 DECL|function|setTerminationEnabled
 DECL|function|sleep
+DECL|function|sleep
 DECL|function|start
 DECL|function|start
 DECL|function|terminate
 DECL|function|usleep
+DECL|function|usleep
 DECL|function|wait
+DECL|function|yieldCurrentThread
 DECL|function|yieldCurrentThread
 DECL|macro|ULONG_PTR
 DECL|macro|_MT

@@ -153,5 +153,6 @@ DECL|member|waitForStop
 DECL|typedef|FunctionPointer
 DECL|typedef|ThreadHandle
 DECL|typedef|ThreadHandle
+DECL|typedef|ThreadHandle
 DECL|variable|mainThread
 DECL|variable|threadAdoptedOk
