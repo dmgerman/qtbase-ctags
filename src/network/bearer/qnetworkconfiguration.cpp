@@ -11,6 +11,7 @@ DECL|function|isValid
 DECL|function|name
 DECL|function|operator =
 DECL|function|operator ==
+DECL|function|pps_decoder_is_integer
 DECL|function|purpose
 DECL|function|state
 DECL|function|type
