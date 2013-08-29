@@ -1,1 +1,2 @@
+DECL|function|nativeResourceForScreen
 DECL|function|nativeResourceForWindow
