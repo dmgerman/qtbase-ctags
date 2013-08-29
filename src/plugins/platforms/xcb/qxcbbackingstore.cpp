@@ -3,7 +3,6 @@ DECL|function|QXcbBackingStore
 DECL|function|QXcbShmImage
 DECL|function|beginPaint
 DECL|function|destroy
-DECL|function|endPaint
 DECL|function|flush
 DECL|function|image
 DECL|function|paintDevice
