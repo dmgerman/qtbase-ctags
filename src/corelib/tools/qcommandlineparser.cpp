@@ -50,4 +50,3 @@ DECL|member|syntax
 DECL|member|unknownOptionNames
 DECL|struct|PositionalArgumentDefinition
 DECL|typedef|NameHash_t
-DECL|variable|optionNotFound
