@@ -39,7 +39,6 @@ DECL|function|intersectionPoint
 DECL|function|isAccurate
 DECL|function|isValid
 DECL|function|isValid
-DECL|function|isValid
 DECL|function|lowerIndex
 DECL|function|lowerIndex
 DECL|function|newElement
