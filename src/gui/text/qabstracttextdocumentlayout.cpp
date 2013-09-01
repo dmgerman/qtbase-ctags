@@ -12,4 +12,5 @@ DECL|function|positionInlineObject
 DECL|function|registerHandler
 DECL|function|resizeInlineObject
 DECL|function|setPaintDevice
+DECL|function|unregisterHandler
 DECL|function|~QAbstractTextDocumentLayout
