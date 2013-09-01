@@ -52,6 +52,7 @@ DECL|function|writeLockUnlockLoop
 DECL|macro|RWTESTSLEEP
 DECL|macro|RWTESTSLEEP
 DECL|macro|sleep
+DECL|macro|sleep
 DECL|member|holdTime
 DECL|member|holdTime
 DECL|member|m_lock
