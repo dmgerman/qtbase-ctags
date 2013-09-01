@@ -16,6 +16,5 @@ DECL|variable|QTextFrame
 DECL|variable|QTextListFormat
 DECL|variable|QTextObject
 DECL|variable|QTextOption
-DECL|variable|QUrl
 DECL|variable|QVariant
 DECL|variable|QVector

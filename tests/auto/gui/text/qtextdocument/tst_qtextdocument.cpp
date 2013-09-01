@@ -1,3 +1,4 @@
+DECL|class|BaseDocument
 DECL|class|CursorPosSignalSpy
 DECL|class|MyAbstractTextDocumentLayout
 DECL|class|Receiver
@@ -17,6 +18,8 @@ DECL|function|backgroundImage_clone
 DECL|function|backgroundImage_copy
 DECL|function|backgroundImage_toHtml
 DECL|function|backgroundImage_toHtml2
+DECL|function|baseUrl
+DECL|function|baseUrl_data
 DECL|function|basicIsModifiedChecks
 DECL|function|blockBoundingRect
 DECL|function|blockCount
@@ -69,6 +72,8 @@ DECL|function|isModified2
 DECL|function|isModified3
 DECL|function|isModified4
 DECL|function|loadResource
+DECL|function|loadResource
+DECL|function|loadedResource
 DECL|function|markBlockDirty
 DECL|function|markContentsDirty
 DECL|function|maximumBlockCount
@@ -117,5 +122,6 @@ DECL|member|htmlHead
 DECL|member|htmlTail
 DECL|member|ok
 DECL|member|resourceLoaded
+DECL|member|resourceUrl
 DECL|member|string
 DECL|member|url

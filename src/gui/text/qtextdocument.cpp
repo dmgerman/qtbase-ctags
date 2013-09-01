@@ -8,6 +8,7 @@ DECL|function|allFormats
 DECL|function|appendUndoItem
 DECL|function|availableRedoSteps
 DECL|function|availableUndoSteps
+DECL|function|baseUrl
 DECL|function|begin
 DECL|function|blockCount
 DECL|function|characterAt
@@ -84,6 +85,7 @@ DECL|function|redo
 DECL|function|resource
 DECL|function|revision
 DECL|function|rootFrame
+DECL|function|setBaseUrl
 DECL|function|setDefaultCursorMoveStyle
 DECL|function|setDefaultFont
 DECL|function|setDefaultStyleSheet
