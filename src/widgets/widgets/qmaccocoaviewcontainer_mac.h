@@ -1,2 +1,3 @@
 DECL|macro|QCOCOAVIEWCONTAINER_H
+DECL|variable|NSView
 DECL|variable|QMacCocoaViewContainerPrivate
