@@ -64,6 +64,7 @@ DECL|function|getDate
 DECL|function|getDateFromJulianDay
 DECL|function|getDateTime
 DECL|function|hour
+DECL|function|isDaylightTime
 DECL|function|isLeapYear
 DECL|function|isNull
 DECL|function|isValid

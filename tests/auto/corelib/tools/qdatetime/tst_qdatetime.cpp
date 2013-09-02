@@ -35,6 +35,7 @@ DECL|function|init
 DECL|function|invalidDate
 DECL|function|invalidDateTime
 DECL|function|invalidTime
+DECL|function|isDaylightTime
 DECL|function|isNull
 DECL|function|isValid
 DECL|function|maxJd
