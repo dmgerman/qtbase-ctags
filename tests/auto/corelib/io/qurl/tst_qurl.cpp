@@ -87,6 +87,7 @@ DECL|function|isRelative
 DECL|function|isRelative_data
 DECL|function|isValid
 DECL|function|lowercasesScheme
+DECL|function|macTypes
 DECL|function|moreIpv6
 DECL|function|nameprep
 DECL|function|percentEncoding

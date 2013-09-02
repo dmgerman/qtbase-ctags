@@ -73,6 +73,8 @@ DECL|typedef|QStringData
 DECL|typedef|qunicodechar
 DECL|typedef|qunicodechar
 DECL|typedef|qunicodechar
+DECL|variable|CFString
+DECL|variable|NSString
 DECL|variable|QCharRef
 DECL|variable|QRegExp
 DECL|variable|QRegularExpression

@@ -77,6 +77,7 @@ DECL|function|local8Bit
 DECL|function|local8Bit_data
 DECL|function|localeAwareCompare
 DECL|function|localeAwareCompare_data
+DECL|function|macTypes
 DECL|function|mid
 DECL|function|midRef
 DECL|function|nan
