@@ -9,7 +9,7 @@ DECL|function|postKeyReturn
 DECL|function|runSlotWithFailsafeTimer
 DECL|function|setFont
 DECL|function|task256466_wrongStyle
-DECL|function|testDefaultOkButton
+DECL|function|testGetFont
 DECL|function|testSetFont
 DECL|function|tst_QFontDialog
 DECL|function|~tst_QFontDialog
