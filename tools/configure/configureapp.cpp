@@ -3,6 +3,7 @@ DECL|enumerator|BLACKBERRY
 DECL|enumerator|QNX
 DECL|enumerator|WINDOWS
 DECL|enumerator|WINDOWS_CE
+DECL|enumerator|WINDOWS_RT
 DECL|enum|Platforms
 DECL|function|ArchData
 DECL|function|ArchData
