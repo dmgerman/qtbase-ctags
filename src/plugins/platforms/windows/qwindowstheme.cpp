@@ -31,5 +31,7 @@ DECL|function|uiEffects
 DECL|function|usePlatformNativeDialog
 DECL|function|windowsThemeChanged
 DECL|function|~QWindowsTheme
+DECL|macro|_WIN32_WINNT
+DECL|macro|_WIN32_WINNT
 DECL|member|m_instance
 DECL|member|name
