@@ -1,0 +1,1 @@
+DECL|macro|SOMELIB_H

@@ -51,7 +51,6 @@ DECL|function|pointSizes
 DECL|function|qt_cleanupFontDatabase
 DECL|function|qt_fontdata_from_index
 DECL|function|qt_fontdatabase_mutex
-DECL|function|qt_mac_get_fixed_pitch
 DECL|function|qt_script_for_writing_system
 DECL|function|qt_setQtEnableTestFont
 DECL|function|smoothSizes
@@ -99,7 +98,6 @@ DECL|member|family
 DECL|member|familyIndex
 DECL|member|fileName
 DECL|member|fixedPitch
-DECL|member|fixedPitchComputed
 DECL|member|foundries
 DECL|member|foundry
 DECL|member|handle

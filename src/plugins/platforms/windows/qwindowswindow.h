@@ -3,6 +3,7 @@ DECL|function|applyToMinMaxInfo
 DECL|function|baseWindowOf
 DECL|function|destroyIcon
 DECL|function|handleOf
+DECL|function|isLayered
 DECL|function|mapFromGlobal
 DECL|function|mapFromGlobal
 DECL|function|mapToGlobal
