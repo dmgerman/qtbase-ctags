@@ -24,3 +24,4 @@ DECL|function|startupId
 DECL|function|systemTrayAvailable
 DECL|function|systemTrayTracker
 DECL|function|systemTrayWindowGlobalGeometry
+DECL|function|x11Screen
