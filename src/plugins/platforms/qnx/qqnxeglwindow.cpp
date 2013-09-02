@@ -1,0 +1,13 @@
+DECL|function|QQnxEglWindow
+DECL|function|createEGLSurface
+DECL|function|destroyEGLSurface
+DECL|function|getSurface
+DECL|function|pixelFormat
+DECL|function|requestedBufferSize
+DECL|function|resetBuffers
+DECL|function|setGeometry
+DECL|function|setPlatformOpenGLContext
+DECL|function|swapEGLBuffers
+DECL|function|~QQnxEglWindow
+DECL|macro|qEglWindowDebug
+DECL|macro|qEglWindowDebug
