@@ -3,6 +3,8 @@ DECL|macro|QEVENTDISPATCHER_CF_P_H
 DECL|macro|qEventDispatcherDebug
 DECL|macro|qIndent
 DECL|macro|qUnIndent
+DECL|typedef|RunLoopModeTracker
 DECL|variable|QEventDispatcherCoreFoundation
+DECL|variable|RunLoopModeTracker
 DECL|variable|T
 DECL|variable|T
