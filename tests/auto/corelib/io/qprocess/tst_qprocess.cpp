@@ -36,7 +36,6 @@ DECL|function|fileWriterProcess
 DECL|function|finishProcessBeforeReadingDone
 DECL|function|finishedSlot
 DECL|function|forwardedChannels
-DECL|function|forwardedChannelsOutput
 DECL|function|getSetCheck
 DECL|function|hardExit
 DECL|function|initTestCase
