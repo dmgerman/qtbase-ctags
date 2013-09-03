@@ -27,6 +27,7 @@ DECL|function|execute
 DECL|function|exitCode
 DECL|function|exitStatus
 DECL|function|fromList
+DECL|function|inputChannelMode
 DECL|function|insert
 DECL|function|insert
 DECL|function|insert
@@ -54,6 +55,7 @@ DECL|function|readData
 DECL|function|remove
 DECL|function|setArguments
 DECL|function|setEnvironment
+DECL|function|setInputChannelMode
 DECL|function|setNativeArguments
 DECL|function|setProcessChannelMode
 DECL|function|setProcessEnvironment
