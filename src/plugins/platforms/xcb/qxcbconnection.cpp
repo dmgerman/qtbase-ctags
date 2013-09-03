@@ -6,7 +6,6 @@ DECL|function|QXcbEventReader
 DECL|function|addEvent
 DECL|function|addPeekFunc
 DECL|function|addWindowEventListener
-DECL|function|atom
 DECL|function|atomName
 DECL|function|checkEvent
 DECL|function|checkEvent
