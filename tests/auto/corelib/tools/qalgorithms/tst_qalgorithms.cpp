@@ -101,5 +101,10 @@ DECL|member|searchedVal_
 DECL|namespace|SwapTest
 DECL|struct|ResultSet
 DECL|struct|ST
+DECL|typedef|difference_type
+DECL|typedef|iterator_category
+DECL|typedef|pointer
+DECL|typedef|reference
+DECL|typedef|value_type
 DECL|variable|bitsSetInNibble
 DECL|variable|dataSetTypes
