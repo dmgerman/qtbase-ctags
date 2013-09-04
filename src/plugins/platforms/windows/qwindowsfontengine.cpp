@@ -4,6 +4,7 @@ DECL|function|QWindowsMultiFontEngine
 DECL|function|addGlyphToPath
 DECL|function|addGlyphsToPath
 DECL|function|addOutlineToPath
+DECL|function|alphaMapBoundingBox
 DECL|function|alphaMapForGlyph
 DECL|function|alphaRGBMapForGlyph
 DECL|function|ascent
