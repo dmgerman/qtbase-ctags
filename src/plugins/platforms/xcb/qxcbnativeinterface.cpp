@@ -1,6 +1,4 @@
-DECL|class|QXcbResourceMap
 DECL|function|QXcbNativeInterface
-DECL|function|QXcbResourceMap
 DECL|function|appTime
 DECL|function|appUserTime
 DECL|function|beep
@@ -18,6 +16,7 @@ DECL|function|nativeResourceFunctionForContext
 DECL|function|nativeResourceFunctionForScreen
 DECL|function|qPlatformScreenForWindow
 DECL|function|requestSystemTrayWindowDock
+DECL|function|resourceType
 DECL|function|screenForWindow
 DECL|function|setAppTime
 DECL|function|setAppUserTime
