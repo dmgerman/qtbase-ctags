@@ -24,4 +24,3 @@ DECL|struct|FLAG_STRING_STRUCT
 DECL|struct|KnownWM
 DECL|variable|appCmdShow
 DECL|variable|knownWM
-DECL|variable|usingWinMain

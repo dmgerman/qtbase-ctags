@@ -5,6 +5,7 @@ DECL|function|critical
 DECL|function|critical
 DECL|function|debug
 DECL|function|debug
+DECL|function|hasStdErr
 DECL|function|isFatal
 DECL|function|qCleanupFuncinfo
 DECL|function|qDefaultMessageHandler
@@ -15,6 +16,7 @@ DECL|function|qInstallMessageHandler
 DECL|function|qInstallMsgHandler
 DECL|function|qMessageFormatString
 DECL|function|qSetMessagePattern
+DECL|function|qWinLogToStderr
 DECL|function|qt_message
 DECL|function|qt_message_fatal
 DECL|function|qt_message_output
