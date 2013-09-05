@@ -2,6 +2,7 @@ DECL|class|CustomNonQObject
 DECL|class|CustomQObject
 DECL|class|CustomQObjectDerived
 DECL|class|CustomQObjectDerivedNoMetaType
+DECL|class|SmartPointer
 DECL|class|tst_QVariant
 DECL|function|Converter
 DECL|function|CustomComparable
@@ -20,6 +21,7 @@ DECL|function|MyNotMovable
 DECL|function|MyType
 DECL|function|MyType
 DECL|function|QObjectWrapper
+DECL|function|SmartPointer
 DECL|function|basicUserType
 DECL|function|canConvert
 DECL|function|canConvertMetaTypeToInt
@@ -87,6 +89,7 @@ DECL|function|moreCustomTypes
 DECL|function|movabilityTest
 DECL|function|numericalConvert
 DECL|function|operator ()
+DECL|function|operator ->
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator =
@@ -225,6 +228,7 @@ DECL|member|myValue
 DECL|member|number
 DECL|member|obj
 DECL|member|objectPointerTestData
+DECL|member|pointer
 DECL|member|ptr
 DECL|member|q
 DECL|member|r
@@ -238,6 +242,7 @@ DECL|member|x
 DECL|member|y
 DECL|member|y
 DECL|member|z
+DECL|namespace|MyNS
 DECL|struct|Blah
 DECL|struct|ContainerAPI
 DECL|struct|ContainerAPI
@@ -265,6 +270,7 @@ DECL|struct|MyTypePOD
 DECL|struct|QObjectWrapper
 DECL|struct|WontCompare
 DECL|typedef|StdUnorderedMap_int_bool
+DECL|typedef|element_type
 DECL|variable|CustomStreamableClass
 DECL|variable|WontCompare
 DECL|variable|instanceCount
