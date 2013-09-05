@@ -3,6 +3,7 @@ DECL|class|CustomQObject
 DECL|class|CustomQObjectDerived
 DECL|class|CustomQObjectDerivedNoMetaType
 DECL|class|tst_QVariant
+DECL|function|Converter
 DECL|function|CustomComparable
 DECL|function|CustomQObject
 DECL|function|CustomQObjectDerived
@@ -18,6 +19,7 @@ DECL|function|MyNotMovable
 DECL|function|MyNotMovable
 DECL|function|MyType
 DECL|function|MyType
+DECL|function|QObjectWrapper
 DECL|function|basicUserType
 DECL|function|canConvert
 DECL|function|canConvertMetaTypeToInt
@@ -61,6 +63,7 @@ DECL|function|forwardDeclare
 DECL|function|get
 DECL|function|get
 DECL|function|get
+DECL|function|getObject
 DECL|function|handler
 DECL|function|implicitConstruction
 DECL|function|insert
@@ -83,6 +86,7 @@ DECL|function|loadUnknownUserType
 DECL|function|moreCustomTypes
 DECL|function|movabilityTest
 DECL|function|numericalConvert
+DECL|function|operator ()
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator =
@@ -104,6 +108,7 @@ DECL|function|podUserType
 DECL|function|qvariant_cast_QObject
 DECL|function|qvariant_cast_QObject_data
 DECL|function|qvariant_cast_QObject_derived
+DECL|function|qvariant_cast_QObject_wrapper
 DECL|function|saveInvalid
 DECL|function|saveInvalid_data
 DECL|function|saveLoadCustomTypes
@@ -218,6 +223,7 @@ DECL|member|movable
 DECL|member|myValue
 DECL|member|myValue
 DECL|member|number
+DECL|member|obj
 DECL|member|objectPointerTestData
 DECL|member|ptr
 DECL|member|q
@@ -239,6 +245,7 @@ DECL|struct|ContainerAPI
 DECL|struct|ContainerAPI
 DECL|struct|ContainerAPI
 DECL|struct|ContainerAPI
+DECL|struct|Converter
 DECL|struct|CustomComparable
 DECL|struct|CustomStreamableClass
 DECL|struct|Data
@@ -255,6 +262,7 @@ DECL|struct|MyPrimitive
 DECL|struct|MyShared
 DECL|struct|MyType
 DECL|struct|MyTypePOD
+DECL|struct|QObjectWrapper
 DECL|struct|WontCompare
 DECL|typedef|StdUnorderedMap_int_bool
 DECL|variable|CustomStreamableClass
