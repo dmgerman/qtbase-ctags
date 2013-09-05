@@ -19,6 +19,7 @@ DECL|function|qRegisterMetaType
 DECL|function|qRegisterMetaType
 DECL|function|qRegisterMetaTypeStreamOperators
 DECL|function|qRegisterMetaTypeStreamOperators
+DECL|function|qRegisterSequentialConverter
 DECL|function|qt_metatype_id
 DECL|function|qt_metatype_id
 DECL|function|sizeOf
