@@ -18,7 +18,6 @@ DECL|function|brushNeedsResolving
 DECL|function|brushOrigin
 DECL|function|brushOrigin
 DECL|function|checkEmulation
-DECL|function|check_gradient
 DECL|function|clipBoundingRect
 DECL|function|clipOperation
 DECL|function|clipPath
