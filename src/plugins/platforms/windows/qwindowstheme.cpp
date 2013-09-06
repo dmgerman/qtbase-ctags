@@ -1,4 +1,6 @@
 DECL|class|FakePointer
+DECL|enumerator|sHIL_EXTRALARGE
+DECL|enumerator|sHIL_JUMBO
 DECL|function|QWindowsTheme
 DECL|function|booleanSystemParametersInfo
 DECL|function|clearFonts
@@ -19,6 +21,7 @@ DECL|function|operator <<
 DECL|function|operator delete
 DECL|function|paletteRoleToString
 DECL|function|paletteToString
+DECL|function|pixmapFromShellImageList
 DECL|function|refreshFonts
 DECL|function|refreshPalettes
 DECL|function|standardPalette
@@ -31,5 +34,6 @@ DECL|function|uiEffects
 DECL|function|usePlatformNativeDialog
 DECL|function|windowsThemeChanged
 DECL|function|~QWindowsTheme
+DECL|macro|USE_IIMAGELIST
 DECL|member|m_instance
 DECL|member|name

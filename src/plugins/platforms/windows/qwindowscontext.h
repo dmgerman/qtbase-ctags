@@ -4,6 +4,7 @@ DECL|member|getTouchInputInfo
 DECL|member|isHungAppWindow
 DECL|member|registerTouchWindow
 DECL|member|sHCreateItemFromParsingName
+DECL|member|sHGetImageList
 DECL|member|sHGetStockIconInfo
 DECL|member|setLayeredWindowAttributes
 DECL|member|setProcessDPIAware
@@ -17,6 +18,7 @@ DECL|typedef|GetTouchInputInfo
 DECL|typedef|IsHungAppWindow
 DECL|typedef|RegisterTouchWindow
 DECL|typedef|SHCreateItemFromParsingName
+DECL|typedef|SHGetImageList
 DECL|typedef|SHGetStockIconInfo
 DECL|typedef|SetLayeredWindowAttributes
 DECL|typedef|SetProcessDPIAware
