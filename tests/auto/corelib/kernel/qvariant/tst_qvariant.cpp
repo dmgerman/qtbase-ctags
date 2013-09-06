@@ -233,8 +233,11 @@ DECL|member|ptr
 DECL|member|q
 DECL|member|r
 DECL|member|t
+DECL|member|t
+DECL|member|t
 DECL|member|text
 DECL|member|that
+DECL|member|u
 DECL|member|v
 DECL|member|w
 DECL|member|x
@@ -243,6 +246,7 @@ DECL|member|y
 DECL|member|y
 DECL|member|z
 DECL|namespace|MyNS
+DECL|struct|AssociativeContainer
 DECL|struct|Blah
 DECL|struct|ContainerAPI
 DECL|struct|ContainerAPI
@@ -268,6 +272,7 @@ DECL|struct|MyShared
 DECL|struct|MyType
 DECL|struct|MyTypePOD
 DECL|struct|QObjectWrapper
+DECL|struct|SequentialContainer
 DECL|struct|WontCompare
 DECL|typedef|StdUnorderedMap_int_bool
 DECL|typedef|element_type
