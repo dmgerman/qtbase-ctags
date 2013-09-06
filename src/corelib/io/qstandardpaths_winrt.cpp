@@ -1,0 +1,3 @@
+DECL|function|convertCharArray
+DECL|function|standardLocations
+DECL|function|writableLocation
