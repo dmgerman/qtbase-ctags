@@ -23,7 +23,6 @@ DECL|member|func
 DECL|member|handle
 DECL|member|last_change_serial
 DECL|member|screen
-DECL|member|serial
 DECL|member|settings
 DECL|member|value
 DECL|member|x_settings_window
