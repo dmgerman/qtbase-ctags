@@ -103,7 +103,6 @@ DECL|function|shapeTextWithHarfbuzz
 DECL|function|skipBoundryNeutrals
 DECL|function|splitItem
 DECL|function|stringMidRetainingBidiCC
-DECL|function|stringToGlyphs
 DECL|function|tightBoundingBox
 DECL|function|transformed
 DECL|function|validate
