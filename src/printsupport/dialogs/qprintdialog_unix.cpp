@@ -46,6 +46,7 @@ DECL|member|collapseButton
 DECL|member|d
 DECL|member|filePrintersAdded
 DECL|member|m_buttons
+DECL|member|m_jobOptions
 DECL|member|options
 DECL|member|optionsPane
 DECL|member|parent

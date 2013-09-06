@@ -1,0 +1,15 @@
+DECL|function|QCupsJobWidget
+DECL|function|initJobBilling
+DECL|function|initJobHold
+DECL|function|initJobPriority
+DECL|function|jobBilling
+DECL|function|jobHold
+DECL|function|jobHoldTime
+DECL|function|jobPriority
+DECL|function|setJobBilling
+DECL|function|setJobHold
+DECL|function|setJobPriority
+DECL|function|setPrinter
+DECL|function|setupPrinter
+DECL|function|toggleJobHoldTime
+DECL|function|~QCupsJobWidget

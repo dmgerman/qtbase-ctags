@@ -5,6 +5,7 @@ DECL|function|availablePrintersCount
 DECL|function|availableUnixPrinters
 DECL|function|collectMarkedOptions
 DECL|function|collectMarkedOptionsHelper
+DECL|function|cupsOptionsList
 DECL|function|currentPPD
 DECL|function|currentPrinterIndex
 DECL|function|getCupsPrinterPaperSizes
@@ -23,7 +24,12 @@ DECL|function|printerHasPPD
 DECL|function|printerOption
 DECL|function|resolveCups
 DECL|function|saveOptions
+DECL|function|setCupsOption
+DECL|function|setCupsOptions
 DECL|function|setCurrentPrinter
+DECL|function|setJobBilling
+DECL|function|setJobHold
+DECL|function|setJobPriority
 DECL|function|string2PaperSize
 DECL|function|tempFd
 DECL|function|unicodeString
