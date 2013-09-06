@@ -2,6 +2,7 @@ DECL|enumerator|Defined
 DECL|enumerator|Defined
 DECL|enumerator|IsBuiltIn
 DECL|function|QT_FOR_EACH_AUTOMATIC_TEMPLATE_1ARG
+DECL|function|QT_FOR_EACH_AUTOMATIC_TEMPLATE_SMART_POINTER
 DECL|function|QT_FOR_EACH_STATIC_TYPE
 DECL|function|construct
 DECL|function|create
@@ -29,6 +30,7 @@ DECL|macro|QT_DEFINE_ASSOCIATIVE_CONTAINER_TYPE
 DECL|macro|QT_DEFINE_METATYPE_ID
 DECL|macro|QT_DEFINE_METATYPE_ID
 DECL|macro|QT_DEFINE_SEQUENTIAL_CONTAINER_TYPE
+DECL|macro|QT_FORWARD_DECLARE_SHARED_POINTER_TYPES_ITER
 DECL|macro|QT_FORWARD_DECLARE_STATIC_TYPES_ITER
 DECL|macro|QT_FORWARD_DECLARE_STATIC_TYPES_ITER
 DECL|macro|QT_FOR_EACH_AUTOMATIC_TEMPLATE_1ARG
@@ -67,9 +69,6 @@ DECL|typedef|QVariantMap
 DECL|variable|QDataStream
 DECL|variable|QMetaTypeInterface
 DECL|variable|QObject
-DECL|variable|QPointer
-DECL|variable|QSharedPointer
-DECL|variable|QWeakPointer
 DECL|variable|QWidget
 DECL|variable|T
 DECL|variable|T
