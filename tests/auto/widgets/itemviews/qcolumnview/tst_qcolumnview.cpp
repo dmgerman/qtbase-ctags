@@ -18,6 +18,7 @@ DECL|function|IsIndexHidden
 DECL|function|MoveCursor
 DECL|function|ScrollContentsBy
 DECL|function|TreeModel
+DECL|function|centerOnScreen
 DECL|function|changeSameColumn
 DECL|function|cleanup
 DECL|function|clicked

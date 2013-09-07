@@ -56,6 +56,7 @@ DECL|function|varList
 DECL|function|verifyCompilers
 DECL|function|verifyExtraCompiler
 DECL|function|write
+DECL|function|writeDummyMakefile
 DECL|function|writeExtraCompilerTargets
 DECL|function|writeExtraCompilerVariables
 DECL|function|writeExtraTargets

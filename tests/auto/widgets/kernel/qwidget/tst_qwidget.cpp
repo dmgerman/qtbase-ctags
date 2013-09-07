@@ -88,6 +88,7 @@ DECL|function|backTab
 DECL|function|backingStore
 DECL|function|beEvil
 DECL|function|buttonPressed
+DECL|function|centerOnScreen
 DECL|function|changeEvent
 DECL|function|childAt
 DECL|function|childAt_unifiedToolBar
