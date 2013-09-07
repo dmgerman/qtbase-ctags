@@ -14,6 +14,7 @@ DECL|function|testMultipleNames_data
 DECL|function|testMultipleValuesOption
 DECL|function|testPositionalArguments
 DECL|function|testProcessNotCalled
+DECL|function|testQuoteEscaping
 DECL|function|testSingleDashWordOptionModes
 DECL|function|testSingleDashWordOptionModes_data
 DECL|function|testSingleValueOption
