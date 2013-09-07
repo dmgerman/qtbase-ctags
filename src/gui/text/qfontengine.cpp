@@ -109,3 +109,4 @@ DECL|variable|enginesCollector
 DECL|variable|hb_fontClass
 DECL|variable|sizeof
 DECL|variable|sizeof
+DECL|variable|useHarfbuzzNG
