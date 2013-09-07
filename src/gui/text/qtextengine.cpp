@@ -100,6 +100,7 @@ DECL|function|shape
 DECL|function|shapeLine
 DECL|function|shapeText
 DECL|function|shapeTextWithHarfbuzz
+DECL|function|shapeTextWithHarfbuzzNG
 DECL|function|skipBoundryNeutrals
 DECL|function|splitItem
 DECL|function|stringMidRetainingBidiCC
