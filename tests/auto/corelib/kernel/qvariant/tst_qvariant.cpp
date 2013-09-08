@@ -23,6 +23,7 @@ DECL|function|MyType
 DECL|function|QObjectWrapper
 DECL|function|SmartPointer
 DECL|function|basicUserType
+DECL|function|begin
 DECL|function|canConvert
 DECL|function|canConvertMetaTypeToInt
 DECL|function|canConvertQStringList
@@ -61,6 +62,7 @@ DECL|function|debugStream
 DECL|function|debugStreamType
 DECL|function|debugStreamType_data
 DECL|function|debugStream_data
+DECL|function|end
 DECL|function|forwardDeclare
 DECL|function|get
 DECL|function|get
@@ -234,10 +236,8 @@ DECL|member|q
 DECL|member|r
 DECL|member|t
 DECL|member|t
-DECL|member|t
 DECL|member|text
 DECL|member|that
-DECL|member|u
 DECL|member|v
 DECL|member|w
 DECL|member|x
@@ -275,7 +275,9 @@ DECL|struct|QObjectWrapper
 DECL|struct|SequentialContainer
 DECL|struct|WontCompare
 DECL|typedef|StdUnorderedMap_int_bool
+DECL|typedef|const_iterator
 DECL|typedef|element_type
+DECL|typedef|value_type
 DECL|variable|CustomStreamableClass
 DECL|variable|WontCompare
 DECL|variable|instanceCount

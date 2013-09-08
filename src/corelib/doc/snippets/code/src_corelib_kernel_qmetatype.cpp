@@ -1,3 +1,5 @@
+DECL|function|someFunc
+DECL|function|someFunc
 DECL|member|i
 DECL|namespace|MyNamespace
 DECL|struct|MyStruct
