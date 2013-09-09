@@ -1,1 +1,2 @@
 DECL|macro|QANDROIDPLATFORMTHEME_H
+DECL|variable|QAndroidPlatformNativeInterface

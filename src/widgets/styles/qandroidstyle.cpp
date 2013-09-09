@@ -12,6 +12,8 @@ DECL|function|AndroidSeekBarControl
 DECL|function|AndroidSpinnerControl
 DECL|function|AndroidStateDrawable
 DECL|function|QAndroidStyle
+DECL|function|backgroundDrawable
+DECL|function|backgroundDrawable
 DECL|function|bestAndroidStateMatch
 DECL|function|calculateStretch
 DECL|function|draw
@@ -31,6 +33,7 @@ DECL|function|drawPrimitive
 DECL|function|extractIntArray
 DECL|function|extractMargins
 DECL|function|extractState
+DECL|function|fontType
 DECL|function|fromMap
 DECL|function|generatedIconPixmap
 DECL|function|hitTestComplexControl
@@ -38,7 +41,9 @@ DECL|function|initPadding
 DECL|function|layer
 DECL|function|padding
 DECL|function|padding
+DECL|function|paletteType
 DECL|function|pixelMetric
+DECL|function|polish
 DECL|function|qtControl
 DECL|function|qtControl
 DECL|function|qtControl
@@ -46,6 +51,9 @@ DECL|function|qtControl
 DECL|function|qtControl
 DECL|function|qtControl
 DECL|function|setFactor
+DECL|function|setFactor
+DECL|function|setPaddingLeftToSizeWidth
+DECL|function|setPaddingLeftToSizeWidth
 DECL|function|setPaletteColor
 DECL|function|size
 DECL|function|size
@@ -57,6 +65,7 @@ DECL|function|sizeFromContents
 DECL|function|sizeFromContents
 DECL|function|standardPalette
 DECL|function|standardPixmap
+DECL|function|styleHint
 DECL|function|subControlRect
 DECL|function|subControlRect
 DECL|function|subControlRect
@@ -71,6 +80,7 @@ DECL|function|type
 DECL|function|type
 DECL|function|type
 DECL|function|type
+DECL|function|unpolish
 DECL|function|~AndroidClipDrawable
 DECL|function|~AndroidCompoundButtonControl
 DECL|function|~AndroidControl
