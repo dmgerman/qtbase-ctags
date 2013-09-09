@@ -1,4 +1,5 @@
 DECL|class|tst_QMessageBox
+DECL|class|tst_ResizingMessageBox
 DECL|function|about
 DECL|function|button
 DECL|function|defaultButton
@@ -6,11 +7,13 @@ DECL|function|detailsButtonText
 DECL|function|detailsText
 DECL|function|escapeButton
 DECL|function|exec
+DECL|function|expandDetails_QTBUG_32473
 DECL|function|iconPixmap
 DECL|function|incorrectDefaultButton
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|instanceSourceCompat
+DECL|function|resizeEvent
 DECL|function|sanityTest
 DECL|function|sendKey
 DECL|function|sendKeySoon
@@ -20,8 +23,10 @@ DECL|function|staticSourceCompat
 DECL|function|statics
 DECL|function|testSymbols
 DECL|function|tst_QMessageBox
+DECL|function|tst_ResizingMessageBox
 DECL|function|updateSize
 DECL|macro|CONVENIENCE_FUNC_SYMS
 DECL|macro|CONVENIENCE_FUNC_SYMS_EXTRA
 DECL|member|keySendTimer
 DECL|member|keyToSend
+DECL|member|resized
