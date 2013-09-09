@@ -12,4 +12,3 @@ DECL|function|registerFont
 DECL|function|removeAllApplicationFonts
 DECL|function|removeApplicationFont
 DECL|function|resolveFontFamilyAlias
-DECL|function|supportsThreadedFontRendering
