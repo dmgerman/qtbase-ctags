@@ -44,6 +44,7 @@ DECL|function|DECLARE_INTERFACE_
 DECL|function|DECLARE_INTERFACE_
 DECL|function|DECLARE_INTERFACE_
 DECL|function|DECLARE_INTERFACE_
+DECL|function|FindDialogContext
 DECL|function|OnFileOk
 DECL|function|OnFolderChange
 DECL|function|OnFolderChanging
@@ -101,6 +102,8 @@ DECL|function|executed
 DECL|function|existingDirCallback
 DECL|function|fileDialog
 DECL|function|filterSpecs
+DECL|function|findDialogEnumWindowsProc
+DECL|function|findDialogWindow
 DECL|function|fromOptions
 DECL|function|guidToString
 DECL|function|hasDefaultSuffix
@@ -242,6 +245,7 @@ DECL|member|description
 DECL|member|directory
 DECL|member|filter
 DECL|member|fmtid
+DECL|member|hwnd
 DECL|member|hwndOwner
 DECL|member|iImage
 DECL|member|lParam
@@ -274,10 +278,12 @@ DECL|member|m_owner
 DECL|member|m_ref
 DECL|member|m_result
 DECL|member|m_title
+DECL|member|m_title
 DECL|member|mkid
 DECL|member|mutex
 DECL|member|pid
 DECL|member|pidlRoot
+DECL|member|processId
 DECL|member|pszDisplayName
 DECL|member|pszName
 DECL|member|pszName
@@ -285,10 +291,12 @@ DECL|member|pszSpec
 DECL|member|pszSpec
 DECL|member|selectedFiles
 DECL|member|selectedNameFilter
+DECL|member|title
 DECL|member|ulFlags
 DECL|namespace|QWindowsDialogs
 DECL|namespace|QWindowsDialogs
 DECL|struct|FilterSpec
+DECL|struct|FindDialogContext
 DECL|struct|_COMDLG_FILTERSPEC
 DECL|typedef|BFFCALLBACK
 DECL|typedef|COMDLG_FILTERSPEC
