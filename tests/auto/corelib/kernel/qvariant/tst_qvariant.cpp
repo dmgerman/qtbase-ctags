@@ -114,6 +114,7 @@ DECL|function|qvariant_cast_QObject
 DECL|function|qvariant_cast_QObject_data
 DECL|function|qvariant_cast_QObject_derived
 DECL|function|qvariant_cast_QObject_wrapper
+DECL|function|qvariant_cast_QSharedPointerQObject
 DECL|function|saveInvalid
 DECL|function|saveInvalid_data
 DECL|function|saveLoadCustomTypes
