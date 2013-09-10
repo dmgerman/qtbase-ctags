@@ -54,7 +54,6 @@ DECL|function|releaseHandle
 DECL|function|removeApplicationFonts
 DECL|function|removeKey
 DECL|function|removeKey
-DECL|function|scriptRequiresOpenType
 DECL|function|sharedFontData
 DECL|function|sharedFontData
 DECL|function|storeFont

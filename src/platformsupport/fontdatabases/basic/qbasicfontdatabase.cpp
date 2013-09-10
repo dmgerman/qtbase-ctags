@@ -9,7 +9,6 @@ DECL|function|fontNameFromTTFile
 DECL|function|initFromData
 DECL|function|populateFontDatabase
 DECL|function|releaseHandle
-DECL|function|scriptRequiresOpenType
 DECL|function|updateFamilyNameAndStyle
 DECL|macro|QT_NO_FREETYPE
 DECL|member|checkSum

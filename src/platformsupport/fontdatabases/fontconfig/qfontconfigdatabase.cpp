@@ -9,7 +9,6 @@ DECL|function|populateFontDatabase
 DECL|function|queryFont
 DECL|function|requiresOpenType
 DECL|function|resolveFontFamilyAlias
-DECL|function|scriptRequiresOpenType
 DECL|member|ScriptCount
 DECL|member|WritingSystemsCount
 DECL|member|WritingSystemsCount
