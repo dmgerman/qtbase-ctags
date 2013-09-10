@@ -1,36 +1,35 @@
 DECL|class|QCollatorPrivate
+DECL|class|QCollatorSortKeyPrivate
 DECL|function|QCollator
 DECL|function|QCollator
 DECL|function|QCollatorPrivate
-DECL|function|casePreference
+DECL|function|QCollatorSortKey
+DECL|function|QCollatorSortKey
+DECL|function|QCollatorSortKeyPrivate
+DECL|function|caseSensitivity
 DECL|function|clear
-DECL|function|collation
+DECL|function|compare
 DECL|function|compare
 DECL|function|compare
 DECL|function|compare
 DECL|function|detach
-DECL|function|englishIndexCharacters
-DECL|function|fromIdentifier
-DECL|function|identifier
 DECL|function|ignorePunctuation
-DECL|function|indexCharacters
 DECL|function|init
 DECL|function|locale
 DECL|function|numericMode
+DECL|function|operator <
 DECL|function|operator =
-DECL|function|setCasePreference
-DECL|function|setCollation
+DECL|function|operator =
+DECL|function|setCaseSensitivity
 DECL|function|setIgnorePunctuation
 DECL|function|setLocale
 DECL|function|setNumericMode
 DECL|function|sortKey
 DECL|function|~QCollator
 DECL|function|~QCollatorPrivate
-DECL|member|collation
+DECL|function|~QCollatorSortKey
 DECL|member|collator
 DECL|member|collator
-DECL|member|indexCharacters
 DECL|member|locale
+DECL|member|m_key
 DECL|member|ref
-DECL|variable|collationStrings
-DECL|variable|collationStringsCount
