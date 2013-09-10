@@ -18,6 +18,7 @@ DECL|class|RenderTester
 DECL|class|SpyItem
 DECL|class|TestItem
 DECL|class|TestView
+DECL|class|TestWidget
 DECL|class|tst_QGraphicsView
 DECL|function|CountPaintItem
 DECL|function|CustomView
@@ -40,7 +41,9 @@ DECL|function|QTBUG_7438_cursor
 DECL|function|RenderTester
 DECL|function|SpyItem
 DECL|function|TestView
+DECL|function|TestWidget
 DECL|function|acceptDrops
+DECL|function|acceptMouseDoubleClickEvent
 DECL|function|acceptMousePressEvent
 DECL|function|alignment
 DECL|function|backgroundBrush
@@ -69,6 +72,8 @@ DECL|function|exposeRegion
 DECL|function|fitInView
 DECL|function|focusInEvent
 DECL|function|foregroundBrush
+DECL|function|forwardMouseDoubleClick
+DECL|function|forwardMousePress
 DECL|function|hoverLeave
 DECL|function|indirectPainting
 DECL|function|initTestCase
@@ -102,7 +107,10 @@ DECL|function|mapToSceneRect_data
 DECL|function|matrix
 DECL|function|matrix_combine
 DECL|function|matrix_convenience
+DECL|function|mouseDoubleClickEvent
+DECL|function|mouseDoubleClickEvent
 DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
 DECL|function|mousePressEvent
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
@@ -175,9 +183,10 @@ DECL|function|wheelEvent
 DECL|function|wheelEvent
 DECL|macro|COMPARE_REGIONS
 DECL|member|_count
-DECL|member|accepted
 DECL|member|changes
 DECL|member|dirtyPainter
+DECL|member|doubleClickAccepted
+DECL|member|doubleClickForwarded
 DECL|member|enterWidget
 DECL|member|events
 DECL|member|exposedRect
@@ -192,6 +201,8 @@ DECL|member|numPaints
 DECL|member|orientation
 DECL|member|painted
 DECL|member|paints
+DECL|member|pressAccepted
+DECL|member|pressForwarded
 DECL|member|presses
 DECL|member|receivedEnterEvent
 DECL|member|receivedLeaveEvent
