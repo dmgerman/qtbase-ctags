@@ -14,6 +14,7 @@ DECL|function|currentDateTimeUtc
 DECL|function|currentDateTimeUtc2
 DECL|function|date
 DECL|function|daylightSavingsTimeChange
+DECL|function|daylightTransitions
 DECL|function|daysTo
 DECL|function|defDate
 DECL|function|defDateTime
