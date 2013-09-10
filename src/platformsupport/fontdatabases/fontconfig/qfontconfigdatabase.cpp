@@ -1,5 +1,3 @@
-DECL|enumerator|LanguageCount
-DECL|enumerator|SpecialLanguageCount
 DECL|function|addApplicationFont
 DECL|function|defaultFont
 DECL|function|fallbacksForFamily
@@ -12,10 +10,9 @@ DECL|function|queryFont
 DECL|function|requiresOpenType
 DECL|function|resolveFontFamilyAlias
 DECL|function|scriptRequiresOpenType
-DECL|macro|JapaneseCsbBit
-DECL|macro|KoreanCsbBit
-DECL|macro|SimplifiedChineseCsbBit
-DECL|macro|TraditionalChineseCsbBit
+DECL|member|ScriptCount
+DECL|member|WritingSystemsCount
+DECL|member|WritingSystemsCount
 DECL|variable|languageForWritingSystem
 DECL|variable|openType
 DECL|variable|specialLanguages
