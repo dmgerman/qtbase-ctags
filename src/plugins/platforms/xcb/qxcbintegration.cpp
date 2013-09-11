@@ -7,6 +7,7 @@ DECL|function|clipboard
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOffscreenSurface
 DECL|function|createPlatformOpenGLContext
+DECL|function|createPlatformSessionManager
 DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|doneCurrent

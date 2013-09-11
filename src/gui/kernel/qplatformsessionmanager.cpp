@@ -1,6 +1,8 @@
 DECL|function|QPlatformSessionManager
 DECL|function|allowsErrorInteraction
 DECL|function|allowsInteraction
+DECL|function|appCommitData
+DECL|function|appSaveState
 DECL|function|cancel
 DECL|function|discardCommand
 DECL|function|isPhase2
@@ -11,6 +13,7 @@ DECL|function|restartHint
 DECL|function|sessionId
 DECL|function|sessionKey
 DECL|function|setDiscardCommand
+DECL|function|setManagerProperty
 DECL|function|setManagerProperty
 DECL|function|setRestartCommand
 DECL|function|setRestartHint
