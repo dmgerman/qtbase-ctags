@@ -24,6 +24,7 @@ DECL|function|printerHasPPD
 DECL|function|printerOption
 DECL|function|resolveCups
 DECL|function|saveOptions
+DECL|function|setBannerPages
 DECL|function|setCupsOption
 DECL|function|setCupsOptions
 DECL|function|setCurrentPrinter
