@@ -11,4 +11,5 @@ DECL|function|operator ^=
 DECL|function|operator |
 DECL|function|operator |=
 DECL|function|operator ~
+DECL|function|qUnalignedLoad
 DECL|function|resize
