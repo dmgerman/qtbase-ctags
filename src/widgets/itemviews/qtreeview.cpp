@@ -6,6 +6,7 @@ DECL|function|_q_endAnimatedOperation
 DECL|function|_q_modelAboutToBeReset
 DECL|function|_q_modelDestroyed
 DECL|function|_q_sortIndicatorChanged
+DECL|function|accessibleTree2Index
 DECL|function|adjustViewOptionsForIndex
 DECL|function|allColumnsShowFocus
 DECL|function|ancestorOf

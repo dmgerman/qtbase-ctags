@@ -19,6 +19,7 @@ DECL|function|columnExtent
 DECL|function|columnHeaderCells
 DECL|function|columnIndex
 DECL|function|doAction
+DECL|function|headerView
 DECL|function|horizontalHeader
 DECL|function|horizontalHeader
 DECL|function|indexFromLogical
