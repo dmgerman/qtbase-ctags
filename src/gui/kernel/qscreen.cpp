@@ -17,6 +17,7 @@ DECL|function|logicalDotsPerInchX
 DECL|function|logicalDotsPerInchY
 DECL|function|mapBetween
 DECL|function|name
+DECL|function|nativeOrientation
 DECL|function|orientation
 DECL|function|orientationUpdateMask
 DECL|function|physicalDotsPerInch
