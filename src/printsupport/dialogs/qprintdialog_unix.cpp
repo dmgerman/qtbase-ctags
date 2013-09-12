@@ -14,6 +14,7 @@ DECL|function|_q_chbPrintLastFirstToggled
 DECL|function|_q_checkFields
 DECL|function|_q_collapseOrExpandDialog
 DECL|function|_q_printerChanged
+DECL|function|_q_togglePageSetCombo
 DECL|function|accept
 DECL|function|applyPrinterProperties
 DECL|function|applyPrinterProperties
@@ -51,6 +52,7 @@ DECL|member|options
 DECL|member|optionsPane
 DECL|member|parent
 DECL|member|printer
+DECL|member|printerOutputFormat
 DECL|member|propertiesDialog
 DECL|member|propertiesDialogShown
 DECL|member|q
