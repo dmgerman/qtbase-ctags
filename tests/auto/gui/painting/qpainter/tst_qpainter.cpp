@@ -202,7 +202,6 @@ DECL|member|painted
 DECL|member|rendering
 DECL|member|viewport
 DECL|member|worldTransform
-DECL|variable|Q_PACKED
 DECL|variable|maskResult_data
 DECL|variable|maskSource_data
 DECL|variable|success

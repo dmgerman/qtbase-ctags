@@ -223,6 +223,5 @@ DECL|variable|QGradient
 DECL|variable|QRasterBuffer
 DECL|variable|QRasterPaintEngine
 DECL|variable|QRasterPaintEngineState
-DECL|variable|Q_PACKED
 DECL|variable|RMASK
 DECL|variable|qt_bayer_matrix
