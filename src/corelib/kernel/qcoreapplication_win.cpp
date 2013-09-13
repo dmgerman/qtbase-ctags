@@ -1,10 +1,12 @@
 DECL|function|FLAG_STRING
 DECL|function|appName
+DECL|function|appName
 DECL|function|decodeMSG
 DECL|function|decodeMSG
 DECL|function|findWMstr
 DECL|function|flagCheck
 DECL|function|operator <<
+DECL|function|qAppFileName
 DECL|function|qAppFileName
 DECL|function|qWinAppCmdShow
 DECL|function|qWinAppInst
