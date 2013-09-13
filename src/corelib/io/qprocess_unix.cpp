@@ -20,7 +20,7 @@ DECL|function|processManager
 DECL|function|processStarted
 DECL|function|qt_create_pipe
 DECL|function|qt_prettyDebug
-DECL|function|qt_sa_sigchld_handler
+DECL|function|qt_sa_sigchld_sigaction
 DECL|function|qt_timeout_value
 DECL|function|readFromStderr
 DECL|function|readFromStdout
