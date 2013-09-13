@@ -1,5 +1,7 @@
 DECL|class|qfileinfo
 DECL|function|cleanupTestCase
+DECL|function|existsStatic
+DECL|function|existsTemporary
 DECL|function|initTestCase
 DECL|function|qfileinfo
 DECL|function|symLinkTargetPerformanceLNK

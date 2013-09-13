@@ -18,6 +18,7 @@ DECL|function|created
 DECL|function|d_func
 DECL|function|dir
 DECL|function|exists
+DECL|function|exists
 DECL|function|fileName
 DECL|function|filePath
 DECL|function|getFileFlags
