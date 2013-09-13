@@ -102,6 +102,7 @@ DECL|function|task218661_setHeaderData
 DECL|function|task239150_editorWidth
 DECL|function|task245280_sortChildren
 DECL|function|task253109_itemHeight
+DECL|function|taskQTBUG13522_checkItemVisibilityBeforeItemShow
 DECL|function|taskQTBUG2844_visualItemRect
 DECL|function|timerEvent
 DECL|function|tst_QTreeWidget
