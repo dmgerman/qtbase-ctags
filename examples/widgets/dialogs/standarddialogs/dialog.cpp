@@ -21,6 +21,7 @@ DECL|function|setText
 DECL|function|value
 DECL|function|warningMessage
 DECL|macro|MESSAGE
+DECL|macro|MESSAGE_DETAILS
 DECL|member|checkBoxEntries
 DECL|member|layout
 DECL|typedef|CheckBoxEntry

@@ -73,6 +73,7 @@ DECL|function|question
 DECL|function|removeButton
 DECL|function|resizeEvent
 DECL|function|retranslateStrings
+DECL|function|selectAll
 DECL|function|setButtonText
 DECL|function|setDefaultButton
 DECL|function|setDefaultButton
