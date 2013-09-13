@@ -22,6 +22,7 @@ DECL|function|setDesktopSize
 DECL|function|setDesktopSize
 DECL|function|setDisplayMetrics
 DECL|function|setDisplayMetrics
+DECL|function|setScreenOrientation
 DECL|function|styleHint
 DECL|function|surfaceChanged
 DECL|function|themeNames
@@ -30,3 +31,5 @@ DECL|member|m_defaultGeometryHeight
 DECL|member|m_defaultGeometryWidth
 DECL|member|m_defaultPhysicalSizeHeight
 DECL|member|m_defaultPhysicalSizeWidth
+DECL|member|m_nativeOrientation
+DECL|member|m_orientation

@@ -4,6 +4,8 @@ DECL|function|createNativeWindow
 DECL|function|destroyNativeWindow
 DECL|function|hasCapability
 DECL|function|logicalDpi
+DECL|function|nativeOrientation
+DECL|function|orientation
 DECL|function|physicalScreenSize
 DECL|function|platformDestroy
 DECL|function|platformDisplay

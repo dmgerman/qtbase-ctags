@@ -27,7 +27,7 @@ DECL|field|STATIC_INIT_CLASSES_KEY
 DECL|field|m_activity
 DECL|field|m_applicationParameters
 DECL|field|m_contextMenuVisible
-DECL|field|m_currentOrientation
+DECL|field|m_currentRotation
 DECL|field|m_debuggerProcess
 DECL|field|m_editText
 DECL|field|m_environmentVariables
@@ -39,6 +39,7 @@ DECL|field|m_lastChar
 DECL|field|m_layout
 DECL|field|m_mainLib
 DECL|field|m_metaState
+DECL|field|m_nativeOrientation
 DECL|field|m_opionsMenuIsVisible
 DECL|field|m_quitApp
 DECL|field|m_started

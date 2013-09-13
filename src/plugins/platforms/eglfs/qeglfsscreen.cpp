@@ -4,6 +4,8 @@ DECL|function|depth
 DECL|function|format
 DECL|function|geometry
 DECL|function|logicalDpi
+DECL|function|nativeOrientation
+DECL|function|orientation
 DECL|function|physicalSize
 DECL|function|setPrimarySurface
 DECL|function|~QEglFSScreen
