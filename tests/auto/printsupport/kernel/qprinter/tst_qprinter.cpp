@@ -6,11 +6,14 @@ DECL|function|TempFileCleanup
 DECL|function|changingOutputFormat
 DECL|function|cleanupTestCase
 DECL|function|computePageValue
+DECL|function|customPaperNameSettingByName
+DECL|function|customPaperNameSettingBySize
 DECL|function|customPaperSizeAndMargins
 DECL|function|customPaperSizeAndMargins_data
 DECL|function|errorReporting
 DECL|function|getSetCheck
 DECL|function|initTestCase
+DECL|function|msgSizeMismatch
 DECL|function|outputFormatFromSuffix
 DECL|function|printDialogCompleter
 DECL|function|printPage
