@@ -43,6 +43,7 @@ DECL|function|printerName
 DECL|function|printerSelectionOption
 DECL|function|printerState
 DECL|function|qSizeFTopaperSize
+DECL|function|qt_SizeFromUnitToMillimeter
 DECL|function|qt_multiplierForUnit
 DECL|function|qt_paperSizeToQSizeF
 DECL|function|qt_printerPaperSize
