@@ -13,5 +13,6 @@ DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForIntegration
 DECL|function|nativeResourceForWindow
 DECL|function|nativeResourceFunctionForContext
+DECL|function|services
 DECL|function|styleHint
 DECL|function|~QEglFSIntegration

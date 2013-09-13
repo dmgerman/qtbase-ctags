@@ -1,4 +1,5 @@
 DECL|function|QEglFSScreen
+DECL|function|addWindow
 DECL|function|cursor
 DECL|function|depth
 DECL|function|format
@@ -7,5 +8,7 @@ DECL|function|logicalDpi
 DECL|function|nativeOrientation
 DECL|function|orientation
 DECL|function|physicalSize
+DECL|function|removeWindow
+DECL|function|rootWindow
 DECL|function|setPrimarySurface
 DECL|function|~QEglFSScreen

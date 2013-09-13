@@ -10,6 +10,7 @@ DECL|function|initCursorAtlas
 DECL|function|paintOnScreen
 DECL|function|pointerEvent
 DECL|function|pos
+DECL|function|resetResources
 DECL|function|setCurrentCursor
 DECL|function|setPos
 DECL|function|update

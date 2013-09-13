@@ -3,11 +3,12 @@ DECL|function|create
 DECL|function|destroy
 DECL|function|format
 DECL|function|invalidateSurface
+DECL|function|newWId
+DECL|function|requestActivateWindow
 DECL|function|resetSurface
 DECL|function|screen
 DECL|function|setGeometry
-DECL|function|setWindowState
-DECL|function|supportsMultipleWindows
+DECL|function|setVisible
 DECL|function|surface
 DECL|function|winId
 DECL|function|~QEglFSWindow

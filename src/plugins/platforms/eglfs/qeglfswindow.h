@@ -1,1 +1,2 @@
 DECL|macro|QEGLFSWINDOW_H
+DECL|variable|QEglFSBackingStore
