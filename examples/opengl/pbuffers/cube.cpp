@@ -19,6 +19,5 @@ DECL|function|setRange
 DECL|function|setRotation
 DECL|function|startAnimation
 DECL|function|~Cube
-DECL|variable|FACE_SIZE
 DECL|variable|amplitudes
 DECL|variable|speeds
