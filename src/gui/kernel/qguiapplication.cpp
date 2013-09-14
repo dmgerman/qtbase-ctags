@@ -1,5 +1,9 @@
 DECL|enumerator|ApplicationFontExplicitlySet
 DECL|enumerator|ApplicationPaletteExplicitlySet
+DECL|enumerator|MouseCapsMask
+DECL|enumerator|MouseSourceMaskDst
+DECL|enumerator|MouseSourceMaskSrc
+DECL|enumerator|MouseSourceShift
 DECL|enum|ApplicationResourceFlags
 DECL|function|QGuiApplication
 DECL|function|QGuiApplication
@@ -50,6 +54,7 @@ DECL|function|layoutDirection
 DECL|function|modalWindow
 DECL|function|mouseButtons
 DECL|function|mouseEventCaps
+DECL|function|mouseEventSource
 DECL|function|mouseEventVelocity
 DECL|function|nextGeometryToken
 DECL|function|notify
@@ -110,7 +115,7 @@ DECL|function|setEventDispatcher
 DECL|function|setFont
 DECL|function|setLayoutDirection
 DECL|function|setMouseEventCapsAndVelocity
-DECL|function|setMouseEventCapsAndVelocity
+DECL|function|setMouseEventSource
 DECL|function|setOverrideCursor
 DECL|function|setPalette
 DECL|function|setQuitOnLastWindowClosed

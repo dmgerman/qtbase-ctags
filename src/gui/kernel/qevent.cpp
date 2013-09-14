@@ -106,6 +106,7 @@ DECL|function|setValue
 DECL|function|setVelocity
 DECL|function|setViewportSize
 DECL|function|source
+DECL|function|source
 DECL|function|startNormalizedPos
 DECL|function|startPos
 DECL|function|startPos
