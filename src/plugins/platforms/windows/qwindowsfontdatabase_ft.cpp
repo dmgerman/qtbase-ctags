@@ -9,7 +9,6 @@ DECL|function|fontEngine
 DECL|function|getFntTable
 DECL|function|populate
 DECL|function|populateFontDatabase
-DECL|function|scriptRequiresOpenType
 DECL|function|storeFont
 DECL|function|systemFont
 DECL|function|verticalDPI
