@@ -530,6 +530,7 @@ DECL|struct|VoidFunctor
 DECL|typedef|CustomString
 DECL|typedef|EventList
 DECL|typedef|fptr
+DECL|variable|Value
 DECL|variable|countedStructObjectsCount
 DECL|variable|instanceCount
 DECL|variable|receivedCount
