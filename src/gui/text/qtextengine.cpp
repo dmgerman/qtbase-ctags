@@ -81,6 +81,7 @@ DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
+DECL|function|operator ()
 DECL|function|pdf
 DECL|function|positionAfterVisualMovement
 DECL|function|positionInLigature
