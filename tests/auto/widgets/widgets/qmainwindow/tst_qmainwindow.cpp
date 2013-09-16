@@ -54,6 +54,7 @@ DECL|function|setCursor
 DECL|function|sizeHint
 DECL|function|splitDockWidget
 DECL|function|statusBar
+DECL|function|takeCentralWidget
 DECL|function|timerEvent
 DECL|function|timerEvent
 DECL|function|toggleUnifiedTitleAndToolBarOnMac

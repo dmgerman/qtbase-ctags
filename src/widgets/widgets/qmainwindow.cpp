@@ -57,6 +57,7 @@ DECL|function|tabPosition
 DECL|function|tabShape
 DECL|function|tabifiedDockWidgets
 DECL|function|tabifyDockWidget
+DECL|function|takeCentralWidget
 DECL|function|toolBarArea
 DECL|function|toolBarBreak
 DECL|function|toolButtonStyle
