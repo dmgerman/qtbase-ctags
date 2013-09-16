@@ -12,9 +12,6 @@ DECL|function|addDays
 DECL|function|addDaysTz
 DECL|function|addMSecs
 DECL|function|addMSecsTz
-DECL|function|addMonths
-DECL|function|addSecs
-DECL|function|addYears
 DECL|function|create
 DECL|function|currentDate
 DECL|function|currentDateTime
@@ -31,21 +28,18 @@ DECL|function|fromMSecsSinceEpochUtc
 DECL|function|fromString
 DECL|function|fromStringIso
 DECL|function|fromStringText
-DECL|function|fromTime_t
 DECL|function|isNull
 DECL|function|isValid
 DECL|function|lessThan
 DECL|function|lessThanUtc
 DECL|function|msecsTo
 DECL|function|offsetFromUtc
-DECL|function|secsTo
 DECL|function|setDate
 DECL|function|setMSecsSinceEpoch
 DECL|function|setMSecsSinceEpochTz
 DECL|function|setOffsetFromUtc
 DECL|function|setTime
 DECL|function|setTimeSpec
-DECL|function|setTime_t
 DECL|function|time
 DECL|function|timeSpec
 DECL|function|timeZoneAbbreviation
@@ -60,4 +54,3 @@ DECL|function|toString
 DECL|function|toStringIsoFormat
 DECL|function|toStringTextFormat
 DECL|function|toTimeSpec
-DECL|function|toTime_t
