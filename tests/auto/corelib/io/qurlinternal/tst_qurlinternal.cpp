@@ -21,6 +21,7 @@ DECL|function|std3deviations_data
 DECL|function|std3violations
 DECL|function|std3violations_data
 DECL|function|ushortarray
+DECL|function|ushortarray
 DECL|macro|IDNA_ACE_PREFIX
 DECL|macro|IDNA_SUCCESS
 DECL|macro|STRINGPREP_BIDI_BOTH_L_AND_RAL

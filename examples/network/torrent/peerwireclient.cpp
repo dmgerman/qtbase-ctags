@@ -33,7 +33,6 @@ DECL|function|writeData
 DECL|function|writeToSocket
 DECL|variable|ClientTimeout
 DECL|variable|ConnectTimeout
-DECL|variable|FullHeaderSize
 DECL|variable|KeepAliveInterval
 DECL|variable|MinimalHeaderSize
 DECL|variable|PendingRequestTimeout

@@ -41,8 +41,5 @@ DECL|member|vertices
 DECL|struct|Geometry
 DECL|variable|bar_thickness
 DECL|variable|cross_width
-DECL|variable|inside_diam
 DECL|variable|logo_depth
-DECL|variable|num_divisions
-DECL|variable|outside_diam
 DECL|variable|tee_height

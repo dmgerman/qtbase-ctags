@@ -9,7 +9,6 @@ DECL|function|increment
 DECL|function|increment
 DECL|function|main
 DECL|function|removeFromCache
-DECL|function|run
 DECL|function|value
 DECL|function|value
 DECL|macro|Counter

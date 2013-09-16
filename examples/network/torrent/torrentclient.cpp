@@ -91,7 +91,6 @@ DECL|member|uploadRate
 DECL|member|uploadScheduleTimer
 DECL|member|uploadedBytes
 DECL|variable|BlockSize
-DECL|variable|EndGamePieces
 DECL|variable|MaxBlocksInMultiMode
 DECL|variable|MaxBlocksInProgress
 DECL|variable|MaxConnectionPerPeer
