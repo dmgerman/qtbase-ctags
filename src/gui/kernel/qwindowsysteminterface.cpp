@@ -59,7 +59,6 @@ DECL|function|qt_handleTouchEvent
 DECL|function|registerTouchDevice
 DECL|function|removeWindowSystemEvent
 DECL|function|sendWindowSystemEvents
-DECL|function|sendWindowSystemEventsImplementation
 DECL|function|setSynchronousWindowsSystemEvents
 DECL|function|touchPoint
 DECL|function|touchPointList
