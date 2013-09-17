@@ -3,6 +3,7 @@ DECL|function|Contact
 DECL|function|QEvdevTouchScreenData
 DECL|function|QEvdevTouchScreenHandler
 DECL|function|QEvdevTouchScreenHandlerThread
+DECL|function|addTouchPoint
 DECL|function|assignIds
 DECL|function|findClosestContact
 DECL|function|processInputEvent
