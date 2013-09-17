@@ -1,6 +1,7 @@
 DECL|function|QEglFSWindow
 DECL|function|create
 DECL|function|destroy
+DECL|function|eglWindow
 DECL|function|format
 DECL|function|invalidateSurface
 DECL|function|newWId

@@ -1,3 +1,7 @@
+DECL|enumerator|EglContext
+DECL|enumerator|EglDisplay
+DECL|enumerator|EglWindow
+DECL|enum|ResourceType
 DECL|function|QEglFSIntegration
 DECL|function|chooseConfig
 DECL|function|createPlatformBackingStore
@@ -13,6 +17,7 @@ DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForIntegration
 DECL|function|nativeResourceForWindow
 DECL|function|nativeResourceFunctionForContext
+DECL|function|resourceType
 DECL|function|services
 DECL|function|styleHint
 DECL|function|~QEglFSIntegration
