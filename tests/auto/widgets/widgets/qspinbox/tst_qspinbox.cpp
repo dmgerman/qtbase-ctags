@@ -13,6 +13,8 @@ DECL|function|locale_data
 DECL|function|removeAll
 DECL|function|setDisplayIntegerBase
 DECL|function|setDisplayIntegerBase_data
+DECL|function|setGroupSeparatorShown
+DECL|function|setGroupSeparatorShown_data
 DECL|function|setMinMax
 DECL|function|setMinMax_data
 DECL|function|setPrefixSuffix

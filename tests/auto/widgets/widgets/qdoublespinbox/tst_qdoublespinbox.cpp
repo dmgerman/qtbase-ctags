@@ -15,6 +15,8 @@ DECL|function|lineEdit
 DECL|function|removeAll
 DECL|function|setDecimals
 DECL|function|setDecimals_data
+DECL|function|setGroupSeparatorShown
+DECL|function|setGroupSeparatorShown_data
 DECL|function|setMinMax
 DECL|function|setMinMax_data
 DECL|function|setPrefixSuffix
