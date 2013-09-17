@@ -1,5 +1,7 @@
 DECL|class|HandlersManager
 DECL|enumerator|MapFromThreeCount
+DECL|function|QAssociativeIterable
+DECL|function|QSequentialIterable
 DECL|function|QVariant
 DECL|function|QVariant
 DECL|function|QVariant
@@ -44,9 +46,15 @@ DECL|function|QVariant
 DECL|function|QVariant
 DECL|function|QVariant
 DECL|function|QVariant
+DECL|function|at
+DECL|function|begin
+DECL|function|begin
+DECL|function|begin
+DECL|function|begin
 DECL|function|canConvert
 DECL|function|canConvertMetaObject
 DECL|function|canConvertMetaObject
+DECL|function|canReverseIterate
 DECL|function|clear
 DECL|function|clear
 DECL|function|cmp
@@ -54,6 +62,12 @@ DECL|function|compare
 DECL|function|compare
 DECL|function|constData
 DECL|function|constData
+DECL|function|const_iterator
+DECL|function|const_iterator
+DECL|function|const_iterator
+DECL|function|const_iterator
+DECL|function|const_iterator
+DECL|function|const_iterator
 DECL|function|construct
 DECL|function|convert
 DECL|function|convert
@@ -73,15 +87,44 @@ DECL|function|dummyConstruct
 DECL|function|dummyConvert
 DECL|function|dummyIsNull
 DECL|function|dummyStreamDebug
+DECL|function|end
+DECL|function|end
+DECL|function|end
+DECL|function|end
 DECL|function|isNull
 DECL|function|isNull
+DECL|function|key
 DECL|function|load
 DECL|function|nameToType
+DECL|function|operator !=
+DECL|function|operator !=
+DECL|function|operator *
+DECL|function|operator *
+DECL|function|operator +
+DECL|function|operator +
+DECL|function|operator ++
+DECL|function|operator ++
+DECL|function|operator ++
+DECL|function|operator ++
+DECL|function|operator +=
+DECL|function|operator +=
+DECL|function|operator -
+DECL|function|operator -
+DECL|function|operator --
+DECL|function|operator --
+DECL|function|operator --
+DECL|function|operator --
+DECL|function|operator -=
+DECL|function|operator -=
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator ==
+DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|operator >>
 DECL|function|operator []
@@ -98,6 +141,8 @@ DECL|function|qt_convertToBool
 DECL|function|registerHandler
 DECL|function|registerHandler
 DECL|function|save
+DECL|function|size
+DECL|function|size
 DECL|function|streamDebug
 DECL|function|toBitArray
 DECL|function|toBool
@@ -141,7 +186,11 @@ DECL|function|type
 DECL|function|typeName
 DECL|function|typeToName
 DECL|function|userType
+DECL|function|value
+DECL|function|value
 DECL|function|~QVariant
+DECL|function|~const_iterator
+DECL|function|~const_iterator
 DECL|macro|DBL_DIG
 DECL|macro|FLT_DIG
 DECL|member|Handlers
