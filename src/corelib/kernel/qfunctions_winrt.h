@@ -1,0 +1,12 @@
+DECL|macro|QFUNCTIONS_WINRT_H
+DECL|macro|generate_inline_return_func0
+DECL|macro|generate_inline_return_func1
+DECL|macro|generate_inline_return_func2
+DECL|macro|generate_inline_return_func3
+DECL|macro|generate_inline_return_func4
+DECL|macro|generate_inline_return_func5
+DECL|macro|generate_inline_return_func6
+DECL|macro|generate_inline_return_func7
+DECL|typedef|CompareFunc
+DECL|typedef|StartAdressExFunc
+DECL|typedef|StartAdressFunc
