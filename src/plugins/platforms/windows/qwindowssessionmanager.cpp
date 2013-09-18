@@ -1,0 +1,12 @@
+DECL|function|QWindowsSessionManager
+DECL|function|allowsErrorInteraction
+DECL|function|allowsInteraction
+DECL|function|blocksInteraction
+DECL|function|cancel
+DECL|function|clearCancellation
+DECL|function|isActive
+DECL|function|isInterractionBlocked
+DECL|function|release
+DECL|function|setActive
+DECL|function|wasCanceled
+DECL|function|~QWindowsSessionManager

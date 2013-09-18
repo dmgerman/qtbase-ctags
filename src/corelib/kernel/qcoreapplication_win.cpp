@@ -14,6 +14,8 @@ DECL|function|qWinAppPrevInst
 DECL|function|qWinMain
 DECL|function|removePostedTimerEvent
 DECL|function|valueCheck
+DECL|macro|ENDSESSION_CLOSEAPP
+DECL|macro|ENDSESSION_CRITICAL
 DECL|macro|FLGSTR
 DECL|macro|GET_X_LPARAM
 DECL|macro|GET_Y_LPARAM

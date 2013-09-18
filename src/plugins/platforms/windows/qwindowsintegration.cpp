@@ -9,6 +9,7 @@ DECL|function|createMessageWindow
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformPixmap
+DECL|function|createPlatformSessionManager
 DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|drag
