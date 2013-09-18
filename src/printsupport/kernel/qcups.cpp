@@ -32,6 +32,7 @@ DECL|function|setJobBilling
 DECL|function|setJobHold
 DECL|function|setJobPriority
 DECL|function|setPageSet
+DECL|function|setPagesPerSheetLayout
 DECL|function|string2PaperSize
 DECL|function|tempFd
 DECL|function|unicodeString

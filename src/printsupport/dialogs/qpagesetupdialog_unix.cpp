@@ -7,9 +7,11 @@ DECL|function|QPageSetupDialog
 DECL|function|QPageSetupWidget
 DECL|function|QUnixPageSetupDialogPrivate
 DECL|function|_q_pageOrientationChanged
+DECL|function|_q_pagesPerSheetChanged
 DECL|function|_q_paperSizeChanged
 DECL|function|exec
 DECL|function|init
+DECL|function|initPagesPerSheet
 DECL|function|paintEvent
 DECL|function|populatePaperSizes
 DECL|function|selectPdfPsPrinter
@@ -17,6 +19,7 @@ DECL|function|selectPrinter
 DECL|function|setBottomMargin
 DECL|function|setLeftMargin
 DECL|function|setMargins
+DECL|function|setPagePreviewLayout
 DECL|function|setPaperSize
 DECL|function|setPrinter
 DECL|function|setRightMargin
@@ -27,6 +30,8 @@ DECL|function|unitChanged
 DECL|function|~QUnixPageSetupDialogPrivate
 DECL|member|m_bottom
 DECL|member|m_left
+DECL|member|m_pagePreviewColumns
+DECL|member|m_pagePreviewRows
 DECL|member|m_right
 DECL|member|m_size
 DECL|member|m_top
