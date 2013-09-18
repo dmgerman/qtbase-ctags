@@ -1,8 +1,7 @@
 DECL|function|DllMain
-DECL|function|current
-DECL|function|current
 DECL|function|error
 DECL|function|getContext
+DECL|function|getCurrent
 DECL|function|getDisplay
 DECL|function|getNonLostContext
 DECL|function|makeCurrent

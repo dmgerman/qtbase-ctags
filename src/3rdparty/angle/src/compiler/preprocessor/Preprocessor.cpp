@@ -3,6 +3,7 @@ DECL|function|PreprocessorImpl
 DECL|function|init
 DECL|function|lex
 DECL|function|predefineMacro
+DECL|function|setMaxTokenLength
 DECL|function|~Preprocessor
 DECL|member|diagnostics
 DECL|member|directiveParser

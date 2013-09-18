@@ -1,6 +1,5 @@
-DECL|function|FreeParseContext
 DECL|function|FreeParseContextIndex
 DECL|function|GetGlobalParseContext
-DECL|function|InitializeGlobalParseContext
 DECL|function|InitializeParseContextIndex
+DECL|function|SetGlobalParseContext
 DECL|variable|GlobalParseContextIndex

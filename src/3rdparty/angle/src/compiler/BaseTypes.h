@@ -21,16 +21,15 @@ DECL|enumerator|EvqConstReadOnly
 DECL|enumerator|EvqFragColor
 DECL|enumerator|EvqFragCoord
 DECL|enumerator|EvqFragData
+DECL|enumerator|EvqFragDepth
 DECL|enumerator|EvqFrontFacing
 DECL|enumerator|EvqGlobal
 DECL|enumerator|EvqIn
 DECL|enumerator|EvqInOut
-DECL|enumerator|EvqInput
 DECL|enumerator|EvqInvariantVaryingIn
 DECL|enumerator|EvqInvariantVaryingOut
 DECL|enumerator|EvqLast
 DECL|enumerator|EvqOut
-DECL|enumerator|EvqOutput
 DECL|enumerator|EvqPointCoord
 DECL|enumerator|EvqPointSize
 DECL|enumerator|EvqPosition

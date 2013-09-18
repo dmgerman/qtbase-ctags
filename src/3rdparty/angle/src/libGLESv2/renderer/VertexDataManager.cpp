@@ -1,5 +1,6 @@
 DECL|enumerator|CONSTANT_VERTEX_BUFFER_SIZE
 DECL|enumerator|INITIAL_STREAM_BUFFER_SIZE
+DECL|function|StreamingBufferElementCount
 DECL|function|VertexDataManager
 DECL|function|directStoragePossible
 DECL|function|elementsInBuffer

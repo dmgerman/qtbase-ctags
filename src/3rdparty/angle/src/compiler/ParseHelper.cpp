@@ -4,10 +4,10 @@ DECL|function|addConstMatrixNode
 DECL|function|addConstStruct
 DECL|function|addConstVectorNode
 DECL|function|addConstructor
+DECL|function|addIndexExpression
 DECL|function|areAllChildConst
 DECL|function|arrayErrorCheck
 DECL|function|arrayQualifierErrorCheck
-DECL|function|arraySetMaxSize
 DECL|function|arraySizeErrorCheck
 DECL|function|arrayTypeErrorCheck
 DECL|function|assignError
@@ -27,9 +27,8 @@ DECL|function|extensionErrorCheck
 DECL|function|findFunction
 DECL|function|foldConstConstructor
 DECL|function|globalErrorCheck
-DECL|function|handleExtensionDirective
-DECL|function|handlePragmaDirective
 DECL|function|integerErrorCheck
+DECL|function|isExtensionEnabled
 DECL|function|lValueErrorCheck
 DECL|function|nonInitConstErrorCheck
 DECL|function|nonInitErrorCheck

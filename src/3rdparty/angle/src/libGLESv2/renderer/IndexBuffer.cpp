@@ -2,15 +2,14 @@ DECL|function|IndexBuffer
 DECL|function|IndexBufferInterface
 DECL|function|StaticIndexBufferInterface
 DECL|function|StreamingIndexBufferInterface
-DECL|function|addRange
 DECL|function|discard
 DECL|function|getBufferSize
 DECL|function|getIndexBuffer
+DECL|function|getIndexRangeCache
 DECL|function|getIndexType
 DECL|function|getSerial
 DECL|function|getSerial
 DECL|function|getWritePosition
-DECL|function|lookupRange
 DECL|function|mapBuffer
 DECL|function|reserveBufferSpace
 DECL|function|reserveBufferSpace

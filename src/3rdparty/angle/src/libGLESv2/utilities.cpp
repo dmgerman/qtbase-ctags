@@ -3,6 +3,7 @@ DECL|function|ComputeCompressedPitch
 DECL|function|ComputeCompressedSize
 DECL|function|ComputePitch
 DECL|function|ComputePixelSize
+DECL|function|ComputeTypeSize
 DECL|function|ConvertSizedInternalFormat
 DECL|function|ExtractFormat
 DECL|function|ExtractType

@@ -8,8 +8,10 @@ DECL|function|getConfigAttrib
 DECL|function|getConfigs
 DECL|function|getDisplay
 DECL|function|getExtensionString
+DECL|function|getVendorString
 DECL|function|hasExistingWindowSurface
 DECL|function|initExtensionString
+DECL|function|initVendorString
 DECL|function|initialize
 DECL|function|isInitialized
 DECL|function|isValidConfig

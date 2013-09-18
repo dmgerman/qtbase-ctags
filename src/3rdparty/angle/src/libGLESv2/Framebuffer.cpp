@@ -30,5 +30,6 @@ DECL|function|setColorbuffer
 DECL|function|setDepthbuffer
 DECL|function|setDrawBufferState
 DECL|function|setStencilbuffer
+DECL|function|usingExtendedDrawBuffers
 DECL|function|~Framebuffer
 DECL|namespace|gl

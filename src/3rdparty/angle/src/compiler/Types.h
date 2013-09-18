@@ -1,4 +1,4 @@
-DECL|function|NewPoolTTypeList
+DECL|function|NewPoolTFieldList
 DECL|function|isStructureContainingArrays
 DECL|function|setAggregate
 DECL|function|setArray
@@ -7,19 +7,12 @@ DECL|macro|_TYPES_INCLUDED
 DECL|member|array
 DECL|member|arraySize
 DECL|member|line
-DECL|member|line
 DECL|member|matrix
 DECL|member|precision
 DECL|member|qualifier
 DECL|member|size
 DECL|member|type
-DECL|member|type
 DECL|member|userDef
 DECL|struct|TPublicType
-DECL|struct|TTypeLine
-DECL|typedef|TStructureMap
-DECL|typedef|TStructureMapIterator
-DECL|typedef|TTypeList
-DECL|typedef|TTypeList
-DECL|typedef|TTypeList
+DECL|typedef|TFieldList
 DECL|variable|TType

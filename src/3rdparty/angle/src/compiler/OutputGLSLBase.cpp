@@ -1,10 +1,12 @@
 DECL|function|TOutputGLSLBase
 DECL|function|arrayBrackets
+DECL|function|declareStruct
 DECL|function|getTypeName
 DECL|function|hashFunctionName
 DECL|function|hashName
 DECL|function|hashVariableName
 DECL|function|isSingleStatement
+DECL|function|structDeclared
 DECL|function|visitAggregate
 DECL|function|visitBinary
 DECL|function|visitBranch

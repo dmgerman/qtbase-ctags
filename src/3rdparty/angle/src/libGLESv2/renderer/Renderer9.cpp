@@ -67,6 +67,7 @@ DECL|function|getEventQuerySupport
 DECL|function|getFloat16TextureSupport
 DECL|function|getFloat32TextureSupport
 DECL|function|getInstancingSupport
+DECL|function|getLUID
 DECL|function|getLuminanceAlphaTextureSupport
 DECL|function|getLuminanceTextureSupport
 DECL|function|getMajorShaderModel
@@ -118,7 +119,6 @@ DECL|function|sync
 DECL|function|testDeviceLost
 DECL|function|testDeviceResettable
 DECL|function|~Renderer9
-DECL|macro|ANGLE_COMPILE_OPTIMIZATION_LEVEL
 DECL|macro|ANGLE_ENABLE_D3D9EX
 DECL|macro|REF_RAST
 DECL|member|DepthStencilFormats

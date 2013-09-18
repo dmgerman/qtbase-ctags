@@ -1,6 +1,7 @@
 DECL|function|Buffer
 DECL|function|bufferData
 DECL|function|bufferSubData
+DECL|function|getIndexRangeCache
 DECL|function|getStaticIndexBuffer
 DECL|function|getStaticVertexBuffer
 DECL|function|getStorage

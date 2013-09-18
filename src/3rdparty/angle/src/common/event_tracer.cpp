@@ -1,0 +1,7 @@
+DECL|function|SetTraceFunctionPointers
+DECL|function|TraceAddTraceEvent
+DECL|function|TraceGetTraceCategoryEnabledFlag
+DECL|member|g_addTraceEvent
+DECL|member|g_getCategoryEnabledFlag
+DECL|namespace|gl
+DECL|namespace|gl

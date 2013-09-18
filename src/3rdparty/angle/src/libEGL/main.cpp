@@ -1,7 +1,6 @@
 DECL|function|DllMain
-DECL|function|current
-DECL|function|current
 DECL|function|error
+DECL|function|getCurrent
 DECL|function|getCurrentAPI
 DECL|function|getCurrentDisplay
 DECL|function|getCurrentDrawSurface

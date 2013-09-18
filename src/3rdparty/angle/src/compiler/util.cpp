@@ -1,1 +1,2 @@
-DECL|function|atof_dot
+DECL|function|atof_clamp
+DECL|function|atoi_clamp

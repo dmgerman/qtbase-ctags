@@ -1,7 +1,5 @@
-DECL|function|FreeGlobalPools
 DECL|function|FreePoolIndex
 DECL|function|GetGlobalPoolAllocator
-DECL|function|InitializeGlobalPools
 DECL|function|InitializePoolIndex
 DECL|function|SetGlobalPoolAllocator
 DECL|function|TPoolAllocator

@@ -4,6 +4,7 @@ DECL|function|clear
 DECL|function|compareInputLayouts
 DECL|function|hashInputLayout
 DECL|function|initialize
+DECL|function|markDirty
 DECL|function|~InputLayoutCache
 DECL|member|kMaxInputLayouts
 DECL|namespace|rx

@@ -1,0 +1,13 @@
+DECL|function|DetectCallDepth
+DECL|function|FunctionNode
+DECL|function|addCallee
+DECL|function|checkExceedsMaxDepth
+DECL|function|detectCallDepth
+DECL|function|detectCallDepth
+DECL|function|detectCallDepthForFunction
+DECL|function|findFunctionByName
+DECL|function|getName
+DECL|function|reset
+DECL|function|resetFunctionNodes
+DECL|function|visitAggregate
+DECL|function|~DetectCallDepth

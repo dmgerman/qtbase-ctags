@@ -48,6 +48,7 @@ DECL|function|getFastPixelCopySize
 DECL|function|getFloat16TextureSupport
 DECL|function|getFloat32TextureSupport
 DECL|function|getInstancingSupport
+DECL|function|getLUID
 DECL|function|getLuminanceAlphaTextureSupport
 DECL|function|getLuminanceTextureSupport
 DECL|function|getMajorShaderModel

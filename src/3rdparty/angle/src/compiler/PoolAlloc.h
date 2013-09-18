@@ -1,5 +1,2 @@
 DECL|macro|GUARD_BLOCKS
-DECL|macro|GlobalPoolAllocator
 DECL|macro|_POOLALLOC_INCLUDED_
-DECL|member|globalPoolAllocator
-DECL|struct|TThreadGlobalPools

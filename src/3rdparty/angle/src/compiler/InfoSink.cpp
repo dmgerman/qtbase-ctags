@@ -1,4 +1,4 @@
 DECL|function|location
-DECL|function|message
+DECL|function|location
 DECL|function|message
 DECL|function|prefix

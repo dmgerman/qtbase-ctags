@@ -27,6 +27,7 @@ DECL|function|getUniformfv
 DECL|function|getUniformiv
 DECL|function|getUsedSamplerRange
 DECL|function|getVertexExecutable
+DECL|function|initAttributesByLayout
 DECL|function|isValidated
 DECL|function|issueSerial
 DECL|function|link
@@ -59,7 +60,6 @@ DECL|function|validateSamplers
 DECL|function|~ProgramBinary
 DECL|macro|far
 DECL|macro|near
-DECL|member|indices
 DECL|member|mCurrentSerial
 DECL|member|originalIndices
 DECL|namespace|gl

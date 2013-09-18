@@ -4,7 +4,6 @@ DECL|function|infoSink
 DECL|function|numErrors
 DECL|function|pragma
 DECL|macro|_PARSER_HELPER_INCLUDED_
-DECL|member|AfterEOF
 DECL|member|HashErrMsg
 DECL|member|checksPrecisionErrors
 DECL|member|col
@@ -14,9 +13,7 @@ DECL|member|diagnostics
 DECL|member|directiveHandler
 DECL|member|fragmentPrecisionHigh
 DECL|member|functionReturnsValue
-DECL|member|inTypeParen
 DECL|member|intermediate
-DECL|member|lexAfterType
 DECL|member|loopNestingLevel
 DECL|member|preprocessor
 DECL|member|row
