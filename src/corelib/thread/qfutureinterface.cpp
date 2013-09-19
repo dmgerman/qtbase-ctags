@@ -1,7 +1,9 @@
+DECL|class|ThreadPoolThreadReleaser
 DECL|enumerator|MaxProgressEmitsPerSecond
 DECL|function|QFutureInterfaceBase
 DECL|function|QFutureInterfaceBase
 DECL|function|QFutureInterfaceBasePrivate
+DECL|function|ThreadPoolThreadReleaser
 DECL|function|cancel
 DECL|function|connectOutputInterface
 DECL|function|derefT
@@ -54,3 +56,5 @@ DECL|function|waitForNextResult
 DECL|function|waitForResult
 DECL|function|waitForResume
 DECL|function|~QFutureInterfaceBase
+DECL|function|~ThreadPoolThreadReleaser
+DECL|member|m_pool
