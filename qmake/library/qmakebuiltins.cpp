@@ -35,6 +35,7 @@ DECL|enumerator|E_SPRINTF
 DECL|enumerator|E_SYSTEM
 DECL|enumerator|E_SYSTEM_PATH
 DECL|enumerator|E_SYSTEM_QUOTE
+DECL|enumerator|E_TITLE
 DECL|enumerator|E_UNIQUE
 DECL|enumerator|E_UPPER
 DECL|enumerator|E_VAL_ESCAPE
