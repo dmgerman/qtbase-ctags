@@ -31,6 +31,7 @@ DECL|function|setCurrentPrinter
 DECL|function|setJobBilling
 DECL|function|setJobHold
 DECL|function|setJobPriority
+DECL|function|setPageRange
 DECL|function|setPageSet
 DECL|function|setPagesPerSheetLayout
 DECL|function|string2PaperSize
