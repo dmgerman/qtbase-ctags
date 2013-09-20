@@ -23,6 +23,7 @@ DECL|function|comboBox
 DECL|function|doAction
 DECL|function|doAction
 DECL|function|elementType
+DECL|function|index
 DECL|function|indexOfChild
 DECL|function|indexOfChild
 DECL|function|indexOfChild
