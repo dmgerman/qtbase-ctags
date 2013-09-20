@@ -24,7 +24,6 @@ DECL|function|findMetaObject
 DECL|function|findObject
 DECL|function|findSlot
 DECL|function|findSlot
-DECL|function|garbageCollectChildren
 DECL|function|getNameOwner
 DECL|function|getNameOwnerNoCache
 DECL|function|handleError
