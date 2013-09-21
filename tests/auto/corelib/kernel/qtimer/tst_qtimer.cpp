@@ -5,10 +5,12 @@ DECL|class|RecurringTimerObject
 DECL|class|RecursOnTimeoutAndStopTimerTimer
 DECL|class|RestartedTimerFiresTooSoonObject
 DECL|class|SlotRepeater
+DECL|class|StaticEventLoop
 DECL|class|TimerHelper
 DECL|class|TimerIdPersistsAfterThreadExitThread
 DECL|class|TimerInfiniteRecursionObject
 DECL|class|tst_QTimer
+DECL|function|CountedStruct
 DECL|function|DontBlockEvents
 DECL|function|LiveLockTester
 DECL|function|LongLastingSlotClass
@@ -27,8 +29,10 @@ DECL|function|livelock_data
 DECL|function|longLastingSlot
 DECL|function|moveToThread
 DECL|function|onetrigger
+DECL|function|operator ()
 DECL|function|paintEvent
 DECL|function|postedEventsShouldNotStarveTimers
+DECL|function|quitEventLoop
 DECL|function|recurringTimer
 DECL|function|recurringTimer_data
 DECL|function|recurseOnTimeoutAndStopTimer
@@ -38,6 +42,7 @@ DECL|function|restartedTimerFiresTooSoon
 DECL|function|run
 DECL|function|singleShotStaticFunctionZeroTimeout
 DECL|function|singleShotTimeout
+DECL|function|singleShotToFunctors
 DECL|function|timeout
 DECL|function|timeout
 DECL|function|timerEvent
@@ -53,10 +58,12 @@ DECL|function|timerInfiniteRecursion
 DECL|function|timerInfiniteRecursion_data
 DECL|function|twotrigger
 DECL|function|zeroTimer
+DECL|function|~CountedStruct
 DECL|function|~TimerIdPersistsAfterThreadExitThread
 DECL|macro|MOVETOTHREAD_TIMEOUT
 DECL|macro|MOVETOTHREAD_WAIT
 DECL|macro|TIMEOUT_TIMEOUT
+DECL|member|count
 DECL|member|count
 DECL|member|count
 DECL|member|count
@@ -76,6 +83,7 @@ DECL|member|recurse
 DECL|member|returnValue
 DECL|member|secondTimerId
 DECL|member|target
+DECL|member|thread
 DECL|member|timeoutsForExtra
 DECL|member|timeoutsForFirst
 DECL|member|timeoutsForSecond
@@ -86,3 +94,6 @@ DECL|member|timerId
 DECL|member|times
 DECL|member|total
 DECL|member|two
+DECL|struct|CountedStruct
+DECL|variable|_e
+DECL|variable|_t
