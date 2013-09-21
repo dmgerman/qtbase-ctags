@@ -1,6 +1,7 @@
 DECL|function|QInotifyFileSystemWatcherEngine
 DECL|function|addPaths
 DECL|function|create
+DECL|function|getPathFromID
 DECL|function|inotify_add_watch
 DECL|function|inotify_init
 DECL|function|inotify_init1
