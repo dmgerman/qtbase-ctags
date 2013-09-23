@@ -119,6 +119,7 @@ DECL|function|mergeInto
 DECL|function|negative
 DECL|function|operator <
 DECL|function|operator <
+DECL|function|operator <
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator =
