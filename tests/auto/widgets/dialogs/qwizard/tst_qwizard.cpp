@@ -91,6 +91,7 @@ DECL|function|setOption_IndependentPages
 DECL|function|setOption_NoBackButtonOnLastPage
 DECL|function|setOption_NoBackButtonOnStartPage
 DECL|function|setOption_NoCancelButton
+DECL|function|setOption_NoCancelButtonOnLastPage
 DECL|function|setOption_NoDefaultButton
 DECL|function|setPage
 DECL|function|setPixmap
