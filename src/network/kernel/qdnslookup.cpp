@@ -29,6 +29,7 @@ DECL|function|name
 DECL|function|name
 DECL|function|name
 DECL|function|nameServerRecords
+DECL|function|nameserver
 DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator =
@@ -45,6 +46,7 @@ DECL|function|qt_qdnsservicerecord_sort
 DECL|function|run
 DECL|function|serviceRecords
 DECL|function|setName
+DECL|function|setNameserver
 DECL|function|setType
 DECL|function|start
 DECL|function|target
