@@ -6,6 +6,7 @@ DECL|function|is_xpm_color_spec_prefix
 DECL|function|name
 DECL|function|operator <
 DECL|function|operator <
+DECL|function|operator <
 DECL|function|option
 DECL|function|qt_get_named_xpm_rgb
 DECL|function|qt_read_xpm_image_or_array

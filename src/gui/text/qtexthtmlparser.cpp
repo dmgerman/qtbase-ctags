@@ -29,6 +29,8 @@ DECL|function|operator <
 DECL|function|operator <
 DECL|function|operator <
 DECL|function|operator <
+DECL|function|operator <
+DECL|function|operator <
 DECL|function|parentNode
 DECL|function|parse
 DECL|function|parse

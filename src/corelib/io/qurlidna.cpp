@@ -13,6 +13,7 @@ DECL|function|mapToLowerCase
 DECL|function|nextDotDelimiter
 DECL|function|operator <
 DECL|function|operator <
+DECL|function|operator <
 DECL|function|qt_ACE_do
 DECL|function|qt_check_std3rules
 DECL|function|qt_is_idn_enabled
