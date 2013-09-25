@@ -88,7 +88,9 @@ DECL|function|tabTextColor
 DECL|function|tabToolTip
 DECL|function|tabWhatsThis
 DECL|function|tabsClosable
+DECL|function|updateCurrentValue
 DECL|function|updateMacBorderMetrics
+DECL|function|updateState
 DECL|function|usesScrollButtons
 DECL|function|verticalTabs
 DECL|function|wheelEvent

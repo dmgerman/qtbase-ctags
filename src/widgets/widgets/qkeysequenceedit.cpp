@@ -1,0 +1,15 @@
+DECL|function|QKeySequenceEdit
+DECL|function|QKeySequenceEdit
+DECL|function|QKeySequenceEdit
+DECL|function|clear
+DECL|function|event
+DECL|function|finishEditing
+DECL|function|init
+DECL|function|keyPressEvent
+DECL|function|keyReleaseEvent
+DECL|function|keySequence
+DECL|function|resetState
+DECL|function|setKeySequence
+DECL|function|timerEvent
+DECL|function|translateModifiers
+DECL|function|~QKeySequenceEdit

@@ -7,6 +7,7 @@ DECL|function|QFontEngineBox
 DECL|function|QFontEngineMulti
 DECL|function|QFontEngine_startCollectingEngines
 DECL|function|QFontEngine_stopCollectingEngines
+DECL|function|QTestFontEngine
 DECL|function|addBitmapFontToPath
 DECL|function|addGlyphsToPath
 DECL|function|addOutlineToPath
@@ -92,6 +93,7 @@ DECL|function|subPixelPositionForX
 DECL|function|supportsScript
 DECL|function|supportsTransformation
 DECL|function|tightBoundingBox
+DECL|function|type
 DECL|function|type
 DECL|function|underlinePosition
 DECL|function|underlinePosition
