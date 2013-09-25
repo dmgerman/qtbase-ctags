@@ -8,6 +8,7 @@ DECL|function|addResult
 DECL|function|cleanup
 DECL|function|compare_helper
 DECL|function|compare_string_helper
+DECL|function|currentAppName
 DECL|function|currentDataTag
 DECL|function|currentTestFailed
 DECL|function|currentTestFunction
