@@ -1,3 +1,4 @@
+DECL|function|qsslSocketCannotResolveSymbolWarning
 DECL|function|qsslSocketUnresolvedSymbolWarning
 DECL|macro|RESOLVEFUNC
 DECL|variable|a
