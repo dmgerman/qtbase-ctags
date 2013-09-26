@@ -66,7 +66,6 @@ DECL|function|~QOpenGL2PaintEngineEx
 DECL|function|~QOpenGL2PaintEngineExPrivate
 DECL|function|~QOpenGL2PaintEngineState
 DECL|function|~QOpenGLStaticTextUserData
-DECL|macro|GL_FRAMEBUFFER_SRGB
 DECL|member|cacheSerialNumber
 DECL|member|cacheSize
 DECL|member|glyphType
