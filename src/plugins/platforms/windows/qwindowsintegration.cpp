@@ -5,6 +5,7 @@ DECL|function|accessibility
 DECL|function|asyncExpose
 DECL|function|beep
 DECL|function|clipboard
+DECL|function|createEventDispatcher
 DECL|function|createMessageWindow
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
@@ -14,7 +15,6 @@ DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|drag
 DECL|function|fontDatabase
-DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|instance
@@ -43,7 +43,6 @@ DECL|member|m_accessibility
 DECL|member|m_clipboard
 DECL|member|m_context
 DECL|member|m_drag
-DECL|member|m_eventDispatcher
 DECL|member|m_fontDatabase
 DECL|member|m_inputContext
 DECL|member|m_nativeInterface

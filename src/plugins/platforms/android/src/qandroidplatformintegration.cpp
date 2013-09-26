@@ -1,13 +1,13 @@
 DECL|function|QAndroidPlatformIntegration
 DECL|function|accessibility
 DECL|function|clipboard
+DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|createPlatformWindow
 DECL|function|fontDatabase
-DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|invalidateNativeSurface
