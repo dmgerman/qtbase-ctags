@@ -39,6 +39,7 @@ DECL|function|date
 DECL|function|day
 DECL|function|dayOfWeek
 DECL|function|dayOfYear
+DECL|function|daylightStatus
 DECL|function|daysInMonth
 DECL|function|daysInYear
 DECL|function|daysTo
@@ -115,6 +116,7 @@ DECL|function|secsTo
 DECL|function|setDate
 DECL|function|setDate
 DECL|function|setDateTime
+DECL|function|setDaylightStatus
 DECL|function|setHMS
 DECL|function|setMSecsSinceEpoch
 DECL|function|setOffsetFromUtc
