@@ -84,6 +84,7 @@ DECL|function|initIncrementalParsing
 DECL|function|insertXmlRef
 DECL|function|internalEntityDecl
 DECL|function|isEmpty
+DECL|function|isPartiallyExpandedEntityValueTooLarge
 DECL|function|is_S
 DECL|function|length
 DECL|function|lexicalHandler
@@ -240,6 +241,7 @@ DECL|member|declHnd
 DECL|member|doctype
 DECL|member|doctype_read
 DECL|member|dtdHnd
+DECL|member|dtdRecursionLimit
 DECL|member|emptyStr
 DECL|member|encMapper
 DECL|member|encoding
