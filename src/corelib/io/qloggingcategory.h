@@ -1,7 +1,3 @@
-DECL|function|QtCriticalMsg
-DECL|function|QtDebugMsg
-DECL|function|QtTraceMsg
-DECL|function|QtWarningMsg
 DECL|macro|QLOGGINGCATEGORY_H
 DECL|macro|Q_DECLARE_LOGGING_CATEGORY
 DECL|macro|Q_LOGGING_CATEGORY
