@@ -45,6 +45,7 @@ DECL|function|nodeIds
 DECL|function|nodeNameEquals
 DECL|function|operator <
 DECL|function|operator <
+DECL|function|operator <
 DECL|function|originValue
 DECL|function|parse
 DECL|function|parseAlignment
