@@ -3,7 +3,7 @@ DECL|function|addSkip
 DECL|function|checkStatement
 DECL|function|clearExpectFail
 DECL|function|compare
-DECL|function|currentAppname
+DECL|function|currentAppName
 DECL|function|currentDataTag
 DECL|function|currentGlobalDataTag
 DECL|function|currentGlobalTestData
@@ -17,7 +17,7 @@ DECL|function|finishedCurrentTestDataCleanup
 DECL|function|finishedCurrentTestFunction
 DECL|function|isExpectFailData
 DECL|function|reset
-DECL|function|setCurrentAppname
+DECL|function|setCurrentAppName
 DECL|function|setCurrentGlobalTestData
 DECL|function|setCurrentTestData
 DECL|function|setCurrentTestFunction
@@ -25,7 +25,7 @@ DECL|function|setCurrentTestObject
 DECL|function|setSkipCurrentTest
 DECL|function|skipCurrentTest
 DECL|function|verify
-DECL|member|currentAppname
+DECL|member|currentAppName
 DECL|member|currentGlobalTestData
 DECL|member|currentTestData
 DECL|member|currentTestFunc

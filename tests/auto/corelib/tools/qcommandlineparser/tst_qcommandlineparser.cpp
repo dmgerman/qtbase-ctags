@@ -1,4 +1,5 @@
 DECL|class|tst_QCommandLineParser
+DECL|function|initTestCase
 DECL|function|parsingModes_data
 DECL|function|testBooleanOption
 DECL|function|testBooleanOption_data

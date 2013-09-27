@@ -4,6 +4,7 @@ DECL|function|hex2int
 DECL|function|hex2int
 DECL|function|operator <
 DECL|function|operator <
+DECL|function|operator <
 DECL|function|qt_get_colornames
 DECL|function|qt_get_colornames
 DECL|function|qt_get_hex_rgb

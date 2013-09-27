@@ -64,7 +64,6 @@ DECL|function|~QGL2PaintEngineEx
 DECL|function|~QGL2PaintEngineExPrivate
 DECL|function|~QGL2PaintEngineState
 DECL|function|~QOpenGLStaticTextUserData
-DECL|macro|GL_FRAMEBUFFER_SRGB
 DECL|macro|GL_MIRRORED_REPEAT_IBM
 DECL|member|cacheSerialNumber
 DECL|member|cacheSize
