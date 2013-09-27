@@ -16,5 +16,6 @@ DECL|macro|qCTraceGuard
 DECL|macro|qCWarning
 DECL|macro|qCWarning
 DECL|macro|qCWarning
+DECL|variable|QLoggingCategoryPrivate
 DECL|variable|QTraceGuard
 DECL|variable|QTracer
