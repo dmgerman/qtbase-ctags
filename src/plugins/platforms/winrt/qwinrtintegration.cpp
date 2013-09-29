@@ -1,0 +1,12 @@
+DECL|function|QWinRTIntegration
+DECL|function|createPlatformBackingStore
+DECL|function|createPlatformOpenGLContext
+DECL|function|createPlatformWindow
+DECL|function|fontDatabase
+DECL|function|getSettings
+DECL|function|guiThreadEventDispatcher
+DECL|function|hasCapability
+DECL|function|inputContext
+DECL|function|services
+DECL|function|styleHint
+DECL|function|~QWinRTIntegration

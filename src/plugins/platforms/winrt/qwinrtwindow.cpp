@@ -1,0 +1,9 @@
+DECL|function|QWinRTWindow
+DECL|function|format
+DECL|function|isActive
+DECL|function|isExposed
+DECL|function|lower
+DECL|function|raise
+DECL|function|setGeometry
+DECL|function|setVisible
+DECL|function|~QWinRTWindow
