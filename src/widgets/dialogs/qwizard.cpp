@@ -46,6 +46,7 @@ DECL|function|buttonText
 DECL|function|buttonText
 DECL|function|cachedIsComplete
 DECL|function|changeSpacerSize
+DECL|function|changed_signal
 DECL|function|cleanupPage
 DECL|function|cleanupPage
 DECL|function|cleanupPagesNotInHistory
@@ -164,7 +165,6 @@ DECL|member|buttonsHaveCustomLayout
 DECL|member|canContinue
 DECL|member|canFinish
 DECL|member|cancel
-DECL|member|changedSignal
 DECL|member|changedSignal
 DECL|member|changedSignal
 DECL|member|childMarginBottom
