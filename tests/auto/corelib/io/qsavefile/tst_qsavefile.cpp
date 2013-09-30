@@ -1,4 +1,5 @@
 DECL|class|tst_QSaveFile
+DECL|function|msgCannotOpen
 DECL|function|saveTwice
 DECL|function|textStreamAutoFlush
 DECL|function|textStreamManualFlush
