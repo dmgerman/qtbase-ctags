@@ -41,6 +41,7 @@ DECL|function|back
 DECL|function|button
 DECL|function|buttonDefaultText
 DECL|function|buttonLayoutContains
+DECL|function|buttonSlots
 DECL|function|buttonText
 DECL|function|buttonText
 DECL|function|cachedIsComplete
@@ -256,5 +257,4 @@ DECL|variable|MacLayoutLeftMargin
 DECL|variable|MacLayoutRightMargin
 DECL|variable|ModernHeaderTopMargin
 DECL|variable|NFallbackDefaultProperties
-DECL|variable|buttonSlots
 DECL|variable|fallbackProperties
