@@ -6,4 +6,6 @@ DECL|function|getDisplay
 DECL|function|getNonLostContext
 DECL|function|makeCurrent
 DECL|namespace|gl
+DECL|namespace|gl
+DECL|variable|currentTLS
 DECL|variable|currentTLS

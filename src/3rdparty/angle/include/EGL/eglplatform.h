@@ -8,11 +8,14 @@ DECL|typedef|EGLNativeDisplayType
 DECL|typedef|EGLNativeDisplayType
 DECL|typedef|EGLNativeDisplayType
 DECL|typedef|EGLNativeDisplayType
+DECL|typedef|EGLNativeDisplayType
 DECL|typedef|EGLNativePixmapType
 DECL|typedef|EGLNativePixmapType
 DECL|typedef|EGLNativePixmapType
 DECL|typedef|EGLNativePixmapType
 DECL|typedef|EGLNativePixmapType
+DECL|typedef|EGLNativePixmapType
+DECL|typedef|EGLNativeWindowType
 DECL|typedef|EGLNativeWindowType
 DECL|typedef|EGLNativeWindowType
 DECL|typedef|EGLNativeWindowType

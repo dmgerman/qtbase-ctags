@@ -1,2 +1,6 @@
+DECL|macro|ANGLE_OS_WINPHONE
+DECL|macro|ANGLE_OS_WINRT
 DECL|macro|EGLAPI
 DECL|macro|GL_APICALL
+DECL|macro|GetVersion
+DECL|macro|Sleep
