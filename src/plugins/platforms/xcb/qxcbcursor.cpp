@@ -1,4 +1,5 @@
 DECL|function|QXcbCursor
+DECL|function|QXcbCursorCacheKey
 DECL|function|changeCursor
 DECL|function|createBitmapCursor
 DECL|function|createFontCursor

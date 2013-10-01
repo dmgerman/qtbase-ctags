@@ -1,4 +1,5 @@
 DECL|class|QWindowsWindowCursorData
+DECL|function|QWindowsCursorCacheKey
 DECL|function|QWindowsWindowCursor
 DECL|function|QWindowsWindowCursor
 DECL|function|QWindowsWindowCursor

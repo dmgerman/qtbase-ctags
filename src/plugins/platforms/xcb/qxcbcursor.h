@@ -1,2 +1,9 @@
+DECL|function|QXcbCursorCacheKey
+DECL|function|QXcbCursorCacheKey
+DECL|function|operator
 DECL|macro|QXCBCURSOR_H
+DECL|member|bitmapCacheKey
+DECL|member|maskCacheKey
+DECL|member|shape
+DECL|struct|QXcbCursorCacheKey
 DECL|variable|QXcbObject
