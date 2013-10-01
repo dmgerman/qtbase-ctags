@@ -99,6 +99,9 @@ DECL|function|printChildren
 DECL|function|printMembers
 DECL|function|qmlClassNode
 DECL|function|qmlFullBaseName
+DECL|function|qmlModuleIdentifier
+DECL|function|qmlModuleName
+DECL|function|qmlModuleVersion
 DECL|function|qualifiedDataType
 DECL|function|rawParameters
 DECL|function|reconstruct
