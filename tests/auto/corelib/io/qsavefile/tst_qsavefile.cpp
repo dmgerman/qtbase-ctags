@@ -1,5 +1,8 @@
+DECL|class|PermissionRestorer
 DECL|class|tst_QSaveFile
+DECL|function|PermissionRestorer
 DECL|function|msgCannotOpen
+DECL|function|restore
 DECL|function|saveTwice
 DECL|function|textStreamAutoFlush
 DECL|function|textStreamManualFlush
@@ -9,3 +12,5 @@ DECL|function|transactionalWriteErrorRenaming
 DECL|function|transactionalWriteNoPermissionsOnDir
 DECL|function|transactionalWriteNoPermissionsOnDir_data
 DECL|function|transactionalWriteNoPermissionsOnFile
+DECL|function|~PermissionRestorer
+DECL|member|m_path
