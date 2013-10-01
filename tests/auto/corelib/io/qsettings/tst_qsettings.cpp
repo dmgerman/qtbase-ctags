@@ -65,6 +65,7 @@ DECL|function|testIniParsing
 DECL|function|testIniParsing_data
 DECL|function|testNormalizedKey
 DECL|function|testNormalizedKey_data
+DECL|function|testRegistryShortRootNames
 DECL|function|testResourceFiles
 DECL|function|testThreadSafety
 DECL|function|testUpdateRequestEvent
