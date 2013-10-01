@@ -53,6 +53,7 @@ DECL|function|operator >>
 DECL|function|orientation
 DECL|function|paintEvent
 DECL|function|paintSection
+DECL|function|qMoveRange
 DECL|function|read
 DECL|function|recalcSectionStartPos
 DECL|function|removeSectionsFromSectionItems
