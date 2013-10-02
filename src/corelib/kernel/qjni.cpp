@@ -6,6 +6,8 @@ DECL|function|QJNIObjectPrivate
 DECL|function|QJNIObjectPrivate
 DECL|function|QJNIObjectPrivate
 DECL|function|QJNIObjectPrivate
+DECL|function|QJNIObjectPrivate
+DECL|function|QJNIObjectPrivate
 DECL|function|callMethod
 DECL|function|callMethod
 DECL|function|callMethod
