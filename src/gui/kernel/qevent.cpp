@@ -28,6 +28,7 @@ DECL|function|QMouseEvent
 DECL|function|QMouseEvent
 DECL|function|QMouseEvent
 DECL|function|QMoveEvent
+DECL|function|QNativeGestureEvent
 DECL|function|QPaintEvent
 DECL|function|QPaintEvent
 DECL|function|QResizeEvent

@@ -73,6 +73,7 @@ DECL|function|processEnterEvent
 DECL|function|processExposeEvent
 DECL|function|processFileOpenEvent
 DECL|function|processGeometryChangeEvent
+DECL|function|processGestureEvent
 DECL|function|processKeyEvent
 DECL|function|processLeaveEvent
 DECL|function|processMouseEvent
