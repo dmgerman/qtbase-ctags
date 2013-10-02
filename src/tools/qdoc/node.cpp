@@ -28,7 +28,7 @@ DECL|function|addInheritedBy
 DECL|function|addItem
 DECL|function|addMember
 DECL|function|addParameter
-DECL|function|applyModuleIdentifier
+DECL|function|applyModuleName
 DECL|function|borrowParameterNames
 DECL|function|cleanId
 DECL|function|clearCurrentChild
