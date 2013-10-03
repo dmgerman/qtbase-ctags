@@ -18,4 +18,5 @@ DECL|member|argv
 DECL|member|m_activationToken
 DECL|member|m_argc
 DECL|member|m_argv
+DECL|member|m_debugWait
 DECL|typedef|ActivatedHandler
