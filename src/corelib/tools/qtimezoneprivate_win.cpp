@@ -24,7 +24,6 @@ DECL|function|hasTransitions
 DECL|function|init
 DECL|function|isDaylightTime
 DECL|function|msecsToDate
-DECL|function|msecsToSystemtime
 DECL|function|nextTransition
 DECL|function|offsetFromUtc
 DECL|function|openRegistryKey

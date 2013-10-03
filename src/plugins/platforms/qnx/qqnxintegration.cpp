@@ -3,13 +3,13 @@ DECL|function|addWindow
 DECL|function|clipboard
 DECL|function|createDisplay
 DECL|function|createDisplays
+DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|destroyDisplays
 DECL|function|drag
-DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|moveToScreen

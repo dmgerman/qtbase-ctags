@@ -1,9 +1,9 @@
 DECL|function|QDirectFbIntegration
+DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
 DECL|function|fontDatabase
-DECL|function|guiThreadEventDispatcher
 DECL|function|initialize
 DECL|function|initializeDirectFB
 DECL|function|initializeInput

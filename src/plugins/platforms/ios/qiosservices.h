@@ -1,0 +1,1 @@
+DECL|macro|QIOSSERVICES_H

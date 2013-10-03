@@ -15,7 +15,6 @@ DECL|function|findNode
 DECL|function|findNode
 DECL|function|findNodeByNameAndType
 DECL|function|findNodeRecursive
-DECL|function|findQmlModuleNode
 DECL|function|findQmlTypeNode
 DECL|function|findVirtualFunctionInBaseClasses
 DECL|function|fixInheritance

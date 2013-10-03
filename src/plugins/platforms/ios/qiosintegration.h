@@ -1,2 +1,3 @@
 DECL|macro|QPLATFORMINTEGRATION_UIKIT_H
+DECL|variable|QIOSServices
 DECL|variable|QPlatformIntegration

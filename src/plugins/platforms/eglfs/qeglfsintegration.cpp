@@ -4,13 +4,13 @@ DECL|enumerator|EglWindow
 DECL|enum|ResourceType
 DECL|function|QEglFSIntegration
 DECL|function|chooseConfig
+DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOffscreenSurface
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformWindow
 DECL|function|eglContextForContext
 DECL|function|fontDatabase
-DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
 DECL|function|nativeInterface
 DECL|function|nativeResourceForContext
