@@ -39,8 +39,6 @@ DECL|function|object
 DECL|function|parent
 DECL|function|rect
 DECL|function|role
-DECL|function|selection
-DECL|function|setSelected
 DECL|function|setText
 DECL|function|state
 DECL|function|tabBar
