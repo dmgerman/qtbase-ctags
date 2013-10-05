@@ -28,6 +28,7 @@ DECL|function|generateFileList
 DECL|function|generateInheritedBy
 DECL|function|generateInherits
 DECL|function|generateMaintainerList
+DECL|function|generateOverloadedSignal
 DECL|function|generatePrivateSignalNote
 DECL|function|generateQmlInheritedBy
 DECL|function|generateQmlInherits
