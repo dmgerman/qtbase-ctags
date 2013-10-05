@@ -4,6 +4,7 @@ DECL|class|ClassInfoTestObjectA
 DECL|class|ClassInfoTestObjectB
 DECL|class|ConstructibleClass
 DECL|class|MyClass
+DECL|class|ObjectException
 DECL|class|QtTestCustomObject
 DECL|class|QtTestObject
 DECL|class|tst_QMetaObject
@@ -24,6 +25,8 @@ DECL|enum|MyFlag
 DECL|function|CTestObject
 DECL|function|CTestObjectOverloads
 DECL|function|ConstructibleClass
+DECL|function|CountedStruct
+DECL|function|CountedStruct
 DECL|function|MyClass
 DECL|function|QtTestCustomObject
 DECL|function|QtTestObject
@@ -43,6 +46,7 @@ DECL|function|indexOfMethodPMF
 DECL|function|indexOfMethod_data
 DECL|function|invokeBlockingQueuedMetaMember
 DECL|function|invokeCustomTypes
+DECL|function|invokeException
 DECL|function|invokeMetaConstructor
 DECL|function|invokeMetaMember
 DECL|function|invokeQueuedMetaMember
@@ -59,6 +63,7 @@ DECL|function|on_child1_destroyed
 DECL|function|on_child1_destroyed
 DECL|function|on_child1_destroyed
 DECL|function|on_child2_destroyed
+DECL|function|operator =
 DECL|function|propertyConstant
 DECL|function|propertyFinal
 DECL|function|propertyNotify
@@ -104,6 +109,7 @@ DECL|function|stdSet
 DECL|function|testLongLong
 DECL|function|testReference
 DECL|function|testSender
+DECL|function|throwingSlot
 DECL|function|val3
 DECL|function|val4
 DECL|function|val5
@@ -112,6 +118,7 @@ DECL|function|value6
 DECL|function|value7
 DECL|function|value8
 DECL|function|value9
+DECL|function|~CountedStruct
 DECL|macro|FUNCTION
 DECL|macro|INDEXOFMETHODPMF_HELPER
 DECL|member|child
@@ -133,7 +140,9 @@ DECL|member|value5
 DECL|namespace|MyNamespace
 DECL|namespace|NamespaceWithConstructibleClass
 DECL|namespace|SignalTestHelper
+DECL|struct|CountedStruct
 DECL|struct|MyStruct
 DECL|struct|MyType
 DECL|struct|MyUnregisteredType
 DECL|typedef|CustomString
+DECL|variable|countedStructObjectsCount
