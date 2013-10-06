@@ -11,6 +11,7 @@ DECL|function|handleExpose
 DECL|function|inputContext
 DECL|function|lower
 DECL|function|nativeOrientation
+DECL|function|nativeOrientationsFromQt
 DECL|function|onActivated
 DECL|function|onAutomationProviderRequested
 DECL|function|onCharacterReceived
@@ -26,9 +27,10 @@ DECL|function|orientation
 DECL|function|qKeyFromChar
 DECL|function|qKeyModifiers
 DECL|function|qMetaKeyFromVirtual
-DECL|function|qOrientationFromNative
+DECL|function|qtOrientationsFromNative
 DECL|function|raise
 DECL|function|removeWindow
+DECL|function|setOrientationUpdateMask
 DECL|function|surfaceFormat
 DECL|function|topWindow
 DECL|typedef|ActivatedHandler
