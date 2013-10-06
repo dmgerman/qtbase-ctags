@@ -100,6 +100,9 @@ DECL|function|initializeListCustom
 DECL|function|initializeListInt
 DECL|function|initializeListMovable
 DECL|function|insert
+DECL|function|insertCustom
+DECL|function|insertInt
+DECL|function|insertMovable
 DECL|function|isEmpty
 DECL|function|last
 DECL|function|lastIndexOf
