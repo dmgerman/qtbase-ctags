@@ -1,6 +1,12 @@
 DECL|class|QInputDialogDoubleSpinBox
 DECL|class|QInputDialogPrivate
 DECL|class|QInputDialogSpinBox
+DECL|enumerator|AcceptedSignal
+DECL|enumerator|DoubleValueSelectedSignal
+DECL|enumerator|IntValueSelectedSignal
+DECL|enumerator|NumCandidateSignals
+DECL|enumerator|TextValueSelectedSignal
+DECL|enum|CandidateSignal
 DECL|function|QInputDialog
 DECL|function|QInputDialogDoubleSpinBox
 DECL|function|QInputDialogPrivate
@@ -9,6 +15,7 @@ DECL|function|_q_currentRowChanged
 DECL|function|_q_plainTextEditTextChanged
 DECL|function|_q_textChanged
 DECL|function|cancelButtonText
+DECL|function|candidateSignal
 DECL|function|chooseRightTextInputWidget
 DECL|function|comboBoxItems
 DECL|function|done
