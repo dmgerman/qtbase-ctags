@@ -78,6 +78,7 @@ DECL|function|next
 DECL|function|nextId
 DECL|function|nextId
 DECL|function|objectInheritsXAndXIsCloserThanY
+DECL|function|object_name_for_button
 DECL|function|operator !=
 DECL|function|operator ==
 DECL|function|options

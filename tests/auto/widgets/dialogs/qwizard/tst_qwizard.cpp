@@ -64,6 +64,8 @@ DECL|function|initializePage
 DECL|function|instance
 DECL|function|nRows
 DECL|function|nRows
+DECL|function|objectNames
+DECL|function|objectNames_data
 DECL|function|operation
 DECL|function|operationsDescription
 DECL|function|options
@@ -154,3 +156,4 @@ DECL|member|type
 DECL|member|validate
 DECL|member|verticalPolicy
 DECL|struct|MyPage2
+DECL|variable|WizardButton
