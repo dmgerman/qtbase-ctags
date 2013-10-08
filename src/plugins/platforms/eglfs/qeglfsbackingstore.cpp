@@ -1,15 +1,6 @@
 DECL|function|QEglFSBackingStore
-DECL|function|QEglFSCompositor
 DECL|function|beginPaint
 DECL|function|flush
-DECL|function|instance
-DECL|function|makeCurrent
-DECL|function|makeRootCurrent
 DECL|function|paintDevice
-DECL|function|render
-DECL|function|renderAll
 DECL|function|resize
-DECL|function|schedule
 DECL|function|updateTexture
-DECL|function|~QEglFSBackingStore
-DECL|variable|compositor
