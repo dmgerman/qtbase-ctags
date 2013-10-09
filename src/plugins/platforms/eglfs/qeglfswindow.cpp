@@ -3,6 +3,7 @@ DECL|function|create
 DECL|function|destroy
 DECL|function|eglWindow
 DECL|function|format
+DECL|function|geometry
 DECL|function|invalidateSurface
 DECL|function|newWId
 DECL|function|requestActivateWindow

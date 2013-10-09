@@ -1,9 +1,9 @@
 DECL|function|QLinuxFbIntegration
+DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
 DECL|function|fontDatabase
-DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
 DECL|function|screens
 DECL|function|~QLinuxFbIntegration

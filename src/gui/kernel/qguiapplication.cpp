@@ -111,7 +111,6 @@ DECL|function|sessionKey
 DECL|function|setApplicationDisplayName
 DECL|function|setApplicationState
 DECL|function|setDesktopSettingsAware
-DECL|function|setEventDispatcher
 DECL|function|setFont
 DECL|function|setLayoutDirection
 DECL|function|setMouseEventCapsAndVelocity

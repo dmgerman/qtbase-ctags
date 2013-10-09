@@ -34,13 +34,14 @@ DECL|function|platformWindowFromId
 DECL|function|printXcbEvent
 DECL|function|processXcbEvents
 DECL|function|qatom
+DECL|function|registerForEvents
 DECL|function|release
 DECL|function|removeWindowEventListener
 DECL|function|rootWindow
 DECL|function|run
 DECL|function|sendConnectionEvent
 DECL|function|setFocusWindow
-DECL|function|startThread
+DECL|function|start
 DECL|function|sync
 DECL|function|systemTrayTracker
 DECL|function|translateMouseButton

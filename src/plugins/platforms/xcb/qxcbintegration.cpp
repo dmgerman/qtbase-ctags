@@ -4,6 +4,7 @@ DECL|function|QXcbIntegration
 DECL|function|accessibility
 DECL|function|argv0BaseName
 DECL|function|clipboard
+DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOffscreenSurface
 DECL|function|createPlatformOpenGLContext
@@ -14,7 +15,6 @@ DECL|function|doneCurrent
 DECL|function|drag
 DECL|function|eglSurfaceForPlatformSurface
 DECL|function|fontDatabase
-DECL|function|guiThreadEventDispatcher
 DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|makeCurrent

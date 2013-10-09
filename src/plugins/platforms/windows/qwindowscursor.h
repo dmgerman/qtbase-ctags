@@ -1,2 +1,9 @@
+DECL|function|QWindowsCursorCacheKey
+DECL|function|QWindowsCursorCacheKey
+DECL|function|operator
 DECL|macro|QWINDOWSCURSOR_H
+DECL|member|bitmapCacheKey
+DECL|member|maskCacheKey
+DECL|member|shape
+DECL|struct|QWindowsCursorCacheKey
 DECL|variable|QWindowsWindowCursorData

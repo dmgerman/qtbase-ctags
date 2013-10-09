@@ -1,3 +1,4 @@
+DECL|class|QLoggingCategoryPrivate
 DECL|function|QLoggingCategory
 DECL|function|addToCategory
 DECL|function|defaultCategory
@@ -11,4 +12,6 @@ DECL|function|setEnabled
 DECL|function|setFilterRules
 DECL|function|start
 DECL|function|~QLoggingCategory
+DECL|member|tracers
+DECL|typedef|Tracers
 DECL|variable|qtDefaultCategoryName

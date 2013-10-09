@@ -7,7 +7,6 @@ DECL|class|GlobalPostedEventsCountObject
 DECL|class|JobObject
 DECL|class|ProcessEventsAlwaysSendsPostedEventsObject
 DECL|class|QuitTester
-DECL|class|tst_QCoreApplication
 DECL|function|DeliverInDefinedOrderObject
 DECL|function|DeliverInDefinedOrderThread
 DECL|function|DummyEventDispatcher
@@ -69,3 +68,5 @@ DECL|member|recordedEvents
 DECL|member|startCount
 DECL|member|thread
 DECL|member|visited
+DECL|typedef|TestApplication
+DECL|typedef|TestApplication
