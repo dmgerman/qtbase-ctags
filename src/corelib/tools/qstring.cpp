@@ -183,9 +183,9 @@ DECL|function|toHtmlEscaped
 DECL|function|toInt
 DECL|function|toInt
 DECL|function|toLatin1
-DECL|function|toLatin1
 DECL|function|toLatin1_helper
-DECL|function|toLocal8Bit
+DECL|function|toLatin1_helper
+DECL|function|toLatin1_helper
 DECL|function|toLocal8Bit
 DECL|function|toLocal8Bit_helper
 DECL|function|toLong
@@ -209,7 +209,7 @@ DECL|function|toUcs4
 DECL|function|toUcs4_helper
 DECL|function|toUpper
 DECL|function|toUtf8
-DECL|function|toUtf8
+DECL|function|toUtf8_helper
 DECL|function|trimmed
 DECL|function|trimmed
 DECL|function|truncate
