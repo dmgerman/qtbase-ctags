@@ -34,6 +34,7 @@ DECL|function|vector3D
 DECL|function|vector4D
 DECL|function|writeToReadFromDataStream
 DECL|function|writeToReadFromDataStream_data
+DECL|function|writeToReadFromOldDataStream
 DECL|macro|CONSTRUCT
 DECL|macro|CONSTRUCT
 DECL|macro|FOR_EACH_GUI_CLASS
