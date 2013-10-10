@@ -69,7 +69,6 @@ DECL|function|moveCursor
 DECL|function|moveItem
 DECL|function|movement
 DECL|function|paintDragDrop
-DECL|function|paintDragDrop
 DECL|function|paintEvent
 DECL|function|perItemScrollToValue
 DECL|function|perItemScrollingPageSteps
