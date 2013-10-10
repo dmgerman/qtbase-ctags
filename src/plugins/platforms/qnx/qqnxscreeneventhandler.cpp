@@ -1,4 +1,5 @@
 DECL|function|QQnxScreenEventHandler
+DECL|function|addScreenEventFilter
 DECL|function|handleCloseEvent
 DECL|function|handleCreateEvent
 DECL|function|handleDisplayEvent
@@ -8,5 +9,6 @@ DECL|function|handleKeyboardEvent
 DECL|function|handlePointerEvent
 DECL|function|handleTouchEvent
 DECL|function|injectKeyboardEvent
+DECL|function|removeScreenEventFilter
 DECL|macro|qScreenEventDebug
 DECL|macro|qScreenEventDebug
