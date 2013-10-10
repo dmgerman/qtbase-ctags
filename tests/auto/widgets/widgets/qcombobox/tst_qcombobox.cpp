@@ -11,6 +11,7 @@ DECL|function|MyAbstractItemView
 DECL|function|ReturnClass
 DECL|function|TestWidget
 DECL|function|autoCompletionCaseSensitivity
+DECL|function|centerCursor
 DECL|function|clear
 DECL|function|columnCount
 DECL|function|comboBox
