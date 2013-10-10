@@ -156,7 +156,7 @@ DECL|function|verticalScrollbarAction
 DECL|function|verticalScrollbarValueChanged
 DECL|function|verticalStepsPerItem
 DECL|function|viewOptions
-DECL|function|viewOptions
+DECL|function|viewOptionsV1
 DECL|function|viewportEvent
 DECL|function|~QAbstractItemView
 DECL|function|~QAbstractItemViewPrivate
