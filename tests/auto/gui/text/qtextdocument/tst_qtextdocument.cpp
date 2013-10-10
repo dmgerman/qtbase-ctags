@@ -99,6 +99,7 @@ DECL|function|toHtml2
 DECL|function|toHtmlBodyBgColor
 DECL|function|toHtmlBodyBgColorRgba
 DECL|function|toHtmlBodyBgColorTransparent
+DECL|function|toHtmlLineHeightProperties
 DECL|function|toHtmlRootFrameProperties
 DECL|function|toHtml_data
 DECL|function|toPlainText
