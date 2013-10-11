@@ -11,6 +11,7 @@ DECL|function|setCommandLineArguments
 DECL|function|setDirectories
 DECL|function|setProperties
 DECL|function|shadowedPath
+DECL|function|splitPathList
 DECL|function|useEnvironment
 DECL|function|~QMakeGlobals
 DECL|macro|QT_PCLOSE

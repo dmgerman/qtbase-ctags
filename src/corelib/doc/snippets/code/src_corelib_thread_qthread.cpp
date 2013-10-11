@@ -6,4 +6,3 @@ DECL|function|doWork
 DECL|function|startWorkInAThread
 DECL|function|~Controller
 DECL|member|workerThread
-DECL|member|workerThread

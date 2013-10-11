@@ -43,6 +43,8 @@ DECL|method|getTextBeforeCursor
 DECL|method|paste
 DECL|method|performContextMenuAction
 DECL|method|selectAll
+DECL|method|setComposingRegion
+DECL|method|setComposingRegion
 DECL|method|setComposingText
 DECL|method|setComposingText
 DECL|method|setSelection

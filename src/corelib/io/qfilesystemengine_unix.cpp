@@ -10,6 +10,7 @@ DECL|function|fillMetaData
 DECL|function|getLinkTarget
 DECL|function|homePath
 DECL|function|id
+DECL|function|isPackage
 DECL|function|removeDirectory
 DECL|function|removeFile
 DECL|function|renameFile

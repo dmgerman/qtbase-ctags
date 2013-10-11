@@ -38,6 +38,8 @@ DECL|function|selectAll
 DECL|function|sendEvent
 DECL|function|sendEvent
 DECL|function|sendInputMethodEvent
+DECL|function|setComposingRegion
+DECL|function|setComposingRegion
 DECL|function|setComposingText
 DECL|function|setComposingText
 DECL|function|setSelection

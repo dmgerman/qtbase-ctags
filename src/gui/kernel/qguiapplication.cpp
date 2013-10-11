@@ -31,6 +31,7 @@ DECL|function|desktopSettingsAware
 DECL|function|devicePixelRatio
 DECL|function|emitLastWindowClosed
 DECL|function|event
+DECL|function|eventDispatcherReady
 DECL|function|exec
 DECL|function|focusObject
 DECL|function|focusWindow

@@ -22,6 +22,7 @@ DECL|function|createEventDispatcher
 DECL|function|deref
 DECL|function|event
 DECL|function|eventDispatcher
+DECL|function|eventDispatcherReady
 DECL|function|exec
 DECL|function|exit
 DECL|function|flush
