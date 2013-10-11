@@ -9,6 +9,7 @@ DECL|function|format
 DECL|function|geometry
 DECL|function|handleExpose
 DECL|function|inputContext
+DECL|function|keyboardModifiers
 DECL|function|lower
 DECL|function|nativeOrientation
 DECL|function|nativeOrientationsFromQt
@@ -16,7 +17,8 @@ DECL|function|onActivated
 DECL|function|onAutomationProviderRequested
 DECL|function|onCharacterReceived
 DECL|function|onClosed
-DECL|function|onKey
+DECL|function|onKeyDown
+DECL|function|onKeyUp
 DECL|function|onOrientationChanged
 DECL|function|onPointerEntered
 DECL|function|onPointerExited
@@ -24,9 +26,9 @@ DECL|function|onPointerUpdated
 DECL|function|onSizeChanged
 DECL|function|onVisibilityChanged
 DECL|function|orientation
-DECL|function|qKeyFromChar
-DECL|function|qKeyModifiers
-DECL|function|qMetaKeyFromVirtual
+DECL|function|qIsNonPrintable
+DECL|function|qKeyFromCode
+DECL|function|qKeyFromVirtual
 DECL|function|qtOrientationsFromNative
 DECL|function|raise
 DECL|function|removeWindow

@@ -7,6 +7,7 @@ DECL|function|fontDatabase
 DECL|function|getSettings
 DECL|function|hasCapability
 DECL|function|inputContext
+DECL|function|queryKeyboardModifiers
 DECL|function|services
 DECL|function|styleHint
 DECL|function|~QWinRTIntegration
