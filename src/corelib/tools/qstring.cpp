@@ -186,6 +186,7 @@ DECL|function|toLatin1
 DECL|function|toLatin1_helper
 DECL|function|toLatin1_helper
 DECL|function|toLatin1_helper
+DECL|function|toLatin1_helper_inplace
 DECL|function|toLocal8Bit
 DECL|function|toLocal8Bit_helper
 DECL|function|toLong
