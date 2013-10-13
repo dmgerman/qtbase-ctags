@@ -1,10 +1,7 @@
 DECL|function|items_helper
 DECL|macro|QGRAPHICSSCENEINDEX_H
-DECL|variable|QGraphicsSceneIndexIntersector
-DECL|variable|QGraphicsSceneIndexPathIntersector
-DECL|variable|QGraphicsSceneIndexPointIntersector
+DECL|typedef|QGraphicsSceneIndexIntersector
 DECL|variable|QGraphicsSceneIndexPrivate
-DECL|variable|QGraphicsSceneIndexRectIntersector
 DECL|variable|QList
 DECL|variable|QPointF
 DECL|variable|QRectF
