@@ -79,6 +79,5 @@ DECL|member|quality
 DECL|member|scaledClipRect
 DECL|member|scaledSize
 DECL|member|text
-DECL|member|type
 DECL|struct|_qt_BuiltInFormatStruct
 DECL|variable|_qt_BuiltInFormats
