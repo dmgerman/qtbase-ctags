@@ -5,6 +5,7 @@ DECL|enum|ResourceType
 DECL|function|QEglFSIntegration
 DECL|function|chooseConfig
 DECL|function|createEventDispatcher
+DECL|function|createInputHandlers
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOffscreenSurface
 DECL|function|createPlatformOpenGLContext
@@ -12,6 +13,7 @@ DECL|function|createPlatformWindow
 DECL|function|eglContextForContext
 DECL|function|fontDatabase
 DECL|function|hasCapability
+DECL|function|initialize
 DECL|function|nativeInterface
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForIntegration

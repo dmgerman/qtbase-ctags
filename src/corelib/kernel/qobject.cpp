@@ -124,8 +124,6 @@ DECL|struct|QSlotObjectBaseDeleter
 DECL|variable|DIRECT_CONNECTION_ONLY
 DECL|variable|_q_ObjectMutexPool
 DECL|variable|destroyed
-DECL|variable|flagged_locations
-DECL|variable|flagged_locations_count
 DECL|variable|isSignalConnected
 DECL|variable|parentChanged
 DECL|variable|receivers

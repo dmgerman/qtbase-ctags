@@ -16,6 +16,7 @@ DECL|function|drag
 DECL|function|eglSurfaceForPlatformSurface
 DECL|function|fontDatabase
 DECL|function|hasCapability
+DECL|function|initialize
 DECL|function|inputContext
 DECL|function|makeCurrent
 DECL|function|moveToScreen
