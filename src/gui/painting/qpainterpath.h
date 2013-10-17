@@ -19,6 +19,7 @@ DECL|variable|QFont
 DECL|variable|QPainterPathData
 DECL|variable|QPainterPathPrivate
 DECL|variable|QPainterPathStrokerPrivate
+DECL|variable|QPen
 DECL|variable|QPolygonF
 DECL|variable|QRegion
 DECL|variable|QVectorPath
