@@ -4,10 +4,7 @@ DECL|function|main
 DECL|function|printHelp
 DECL|function|printVersion
 DECL|function|processQdocconfFile
-DECL|member|key
-DECL|member|value
 DECL|variable|currentDir
-DECL|variable|defaults
 DECL|variable|defines
 DECL|variable|dependModules
 DECL|variable|documentationPath
