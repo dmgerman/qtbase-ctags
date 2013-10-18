@@ -32,6 +32,7 @@ DECL|member|fullScreenOffset
 DECL|member|glContext
 DECL|member|group
 DECL|member|hasMask
+DECL|member|hasWindowContainer
 DECL|member|hotkeyRegistered
 DECL|member|icon
 DECL|member|iconText
