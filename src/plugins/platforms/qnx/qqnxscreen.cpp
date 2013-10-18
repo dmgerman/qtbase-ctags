@@ -1,5 +1,6 @@
 DECL|function|QQnxScreen
 DECL|function|activateWindowGroup
+DECL|function|addMultimediaWindow
 DECL|function|addOverlayWindow
 DECL|function|addUnderlayWindow
 DECL|function|addWindow
@@ -10,6 +11,8 @@ DECL|function|deactivateWindowGroup
 DECL|function|defaultDepth
 DECL|function|depth
 DECL|function|determineScreenSize
+DECL|function|findMultimediaWindow
+DECL|function|findMultimediaWindow
 DECL|function|findWindow
 DECL|function|isOrthogonal
 DECL|function|keyboardHeightChanged
