@@ -237,6 +237,8 @@ DECL|typedef|qintptr
 DECL|typedef|qlonglong
 DECL|typedef|qptrdiff
 DECL|typedef|qreal
+DECL|typedef|qregisterint
+DECL|typedef|qregisteruint
 DECL|typedef|quint16
 DECL|typedef|quint32
 DECL|typedef|quint64
