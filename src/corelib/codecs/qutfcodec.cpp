@@ -12,6 +12,7 @@ DECL|function|convertFromUnicode
 DECL|function|convertFromUnicode
 DECL|function|convertFromUnicode
 DECL|function|convertFromUnicode
+DECL|function|convertFromUnicode
 DECL|function|convertToUnicode
 DECL|function|convertToUnicode
 DECL|function|convertToUnicode
