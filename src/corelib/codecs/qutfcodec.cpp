@@ -20,6 +20,7 @@ DECL|function|convertToUnicode
 DECL|function|convertToUnicode
 DECL|function|convertToUnicode
 DECL|function|convertToUnicode
+DECL|function|convertToUnicode
 DECL|function|mibEnum
 DECL|function|mibEnum
 DECL|function|mibEnum
