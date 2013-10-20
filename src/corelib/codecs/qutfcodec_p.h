@@ -20,7 +20,9 @@ DECL|member|Error
 DECL|member|allowNonCharacters
 DECL|member|isTrusted
 DECL|member|skipAsciiHandling
+DECL|member|skipAsciiHandling
 DECL|struct|QUtf16
 DECL|struct|QUtf32
 DECL|struct|QUtf8
+DECL|struct|QUtf8BaseTraits
 DECL|struct|QUtf8BaseTraits
