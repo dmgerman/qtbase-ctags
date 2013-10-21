@@ -35,6 +35,7 @@ DECL|function|textAtOffset
 DECL|function|textBeforeOffset
 DECL|function|toggleAction
 DECL|function|uniqueId
+DECL|function|uniqueId
 DECL|function|updateAccessibility
 DECL|function|virtual_hook
 DECL|function|window
