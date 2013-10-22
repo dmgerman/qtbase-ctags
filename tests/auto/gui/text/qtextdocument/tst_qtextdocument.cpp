@@ -8,6 +8,7 @@ DECL|function|CursorPosSignalSpy
 DECL|function|MyAbstractTextDocumentLayout
 DECL|function|QTBUG25778_pixelSizeFromHtml
 DECL|function|QTBUG27354_spaceAndSoftSpace
+DECL|function|QTBUG28998_linkColor
 DECL|function|TestDocument
 DECL|function|TestSyntaxHighlighter
 DECL|function|adjustSize
