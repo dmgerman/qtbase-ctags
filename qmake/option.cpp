@@ -52,7 +52,6 @@ DECL|member|pro_ext
 DECL|member|project_dirs
 DECL|member|project_files
 DECL|member|properties
-DECL|member|qmake_args
 DECL|member|qmake_mode
 DECL|member|recursive
 DECL|member|res_ext
