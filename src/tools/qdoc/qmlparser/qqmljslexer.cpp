@@ -4,6 +4,7 @@ DECL|function|code
 DECL|function|convertHex
 DECL|function|convertHex
 DECL|function|convertUnicode
+DECL|function|decodeHexEscapeCharacter
 DECL|function|decodeUnicodeEscapeCharacter
 DECL|function|errorCode
 DECL|function|errorMessage
