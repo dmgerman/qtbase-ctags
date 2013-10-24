@@ -8,6 +8,7 @@ DECL|function|initTestCase
 DECL|function|insertPermanentWidget
 DECL|function|insertWidget
 DECL|function|messageChanged
+DECL|function|messageChangedSignal
 DECL|function|setSizeGripEnabled
 DECL|function|task194017_hiddenWidget
 DECL|function|tempMessage

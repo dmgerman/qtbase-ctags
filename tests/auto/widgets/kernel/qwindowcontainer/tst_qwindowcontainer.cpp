@@ -3,6 +3,7 @@ DECL|class|tst_QWindowContainer
 DECL|function|Window
 DECL|function|exposeEvent
 DECL|function|testActivation
+DECL|function|testAncestorChange
 DECL|function|testBehindTheScenesDeletion
 DECL|function|testExposeObscure
 DECL|function|testOwnership

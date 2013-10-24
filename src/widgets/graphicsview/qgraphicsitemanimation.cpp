@@ -4,6 +4,7 @@ DECL|function|QGraphicsItemAnimation
 DECL|function|QGraphicsItemAnimationPrivate
 DECL|function|afterAnimationStep
 DECL|function|beforeAnimationStep
+DECL|function|check_step_valid
 DECL|function|clear
 DECL|function|horizontalScaleAt
 DECL|function|horizontalShearAt

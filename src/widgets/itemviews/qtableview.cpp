@@ -103,7 +103,6 @@ DECL|function|verticalHeader
 DECL|function|verticalOffset
 DECL|function|verticalScrollbarAction
 DECL|function|viewOptions
-DECL|function|viewOptions
 DECL|function|viewportSizeHint
 DECL|function|visualIndex
 DECL|function|visualRect

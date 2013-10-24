@@ -1,6 +1,8 @@
 DECL|function|QWindowsPrinterSupport
+DECL|function|availablePrinters
 DECL|function|createNativePrintEngine
 DECL|function|createPaintEngine
+DECL|function|queryPrinters
 DECL|function|supportedPaperSizes
 DECL|function|supportedSizesWithNames
 DECL|function|~QWindowsPrinterSupport

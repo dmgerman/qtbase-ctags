@@ -9,6 +9,8 @@ DECL|variable|i
 DECL|variable|i
 DECL|variable|i
 DECL|variable|i
+DECL|variable|i
+DECL|variable|j
 DECL|variable|list
 DECL|variable|list
 DECL|variable|list

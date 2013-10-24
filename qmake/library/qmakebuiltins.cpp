@@ -62,6 +62,7 @@ DECL|enumerator|T_LOAD
 DECL|enumerator|T_LOG
 DECL|enumerator|T_MESSAGE
 DECL|enumerator|T_MKPATH
+DECL|enumerator|T_PARSE_JSON
 DECL|enumerator|T_REQUIRES
 DECL|enumerator|T_SYSTEM
 DECL|enumerator|T_TOUCH
@@ -70,11 +71,16 @@ DECL|enumerator|T_WARNING
 DECL|enumerator|T_WRITE_FILE
 DECL|enum|ExpandFunc
 DECL|enum|TestFunc
+DECL|function|addJsonArray
+DECL|function|addJsonObject
+DECL|function|addJsonValue
 DECL|function|evaluateBuiltinConditional
 DECL|function|evaluateBuiltinExpand
 DECL|function|getCommandOutput
 DECL|function|initFunctionStatics
+DECL|function|insertJsonKeyValue
 DECL|function|isTrue
+DECL|function|parseJsonInto
 DECL|function|populateDeps
 DECL|function|quoteValue
 DECL|function|runProcess

@@ -13,6 +13,7 @@ DECL|function|handleDropEvent
 DECL|function|handleEnterLeaveEvent
 DECL|function|handleExposeEvent
 DECL|function|handleFocusInEvent
+DECL|function|handleGestureEvent
 DECL|function|handleKeyEvent
 DECL|function|handleMouseEvent
 DECL|function|handleMoveEvent
@@ -25,6 +26,7 @@ DECL|function|handleWindowStateChangedEvent
 DECL|function|nativeEvent
 DECL|function|updateGeometry
 DECL|function|updateObjectName
+DECL|function|~QWidgetWindow
 DECL|variable|qt_button_down
 DECL|variable|qt_last_mouse_receiver
 DECL|variable|qt_popup_down

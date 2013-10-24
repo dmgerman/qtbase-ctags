@@ -6,6 +6,7 @@ DECL|function|initializeCompositor
 DECL|function|lower
 DECL|function|raise
 DECL|function|removeWindow
+DECL|function|scheduleUpdate
 DECL|function|setDirty
 DECL|function|setGeometry
 DECL|function|setPhysicalSize

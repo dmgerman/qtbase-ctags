@@ -3,6 +3,7 @@ DECL|function|QMakeBaseKey
 DECL|function|QMakeEvaluator
 DECL|function|addStr
 DECL|function|addStrList
+DECL|function|applyExtraConfigs
 DECL|function|checkRequirements
 DECL|function|currentDirectory
 DECL|function|currentFileName

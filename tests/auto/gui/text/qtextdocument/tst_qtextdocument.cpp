@@ -8,6 +8,7 @@ DECL|function|CursorPosSignalSpy
 DECL|function|MyAbstractTextDocumentLayout
 DECL|function|QTBUG25778_pixelSizeFromHtml
 DECL|function|QTBUG27354_spaceAndSoftSpace
+DECL|function|QTBUG28998_linkColor
 DECL|function|TestDocument
 DECL|function|TestSyntaxHighlighter
 DECL|function|adjustSize
@@ -99,6 +100,7 @@ DECL|function|toHtml2
 DECL|function|toHtmlBodyBgColor
 DECL|function|toHtmlBodyBgColorRgba
 DECL|function|toHtmlBodyBgColorTransparent
+DECL|function|toHtmlLineHeightProperties
 DECL|function|toHtmlRootFrameProperties
 DECL|function|toHtml_data
 DECL|function|toPlainText

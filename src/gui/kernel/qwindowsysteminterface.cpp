@@ -20,6 +20,9 @@ DECL|function|handleFileOpenEvent
 DECL|function|handleFrameStrutMouseEvent
 DECL|function|handleFrameStrutMouseEvent
 DECL|function|handleGeometryChange
+DECL|function|handleGestureEvent
+DECL|function|handleGestureEventWithRealValue
+DECL|function|handleGestureEventWithSequenceIdAndValue
 DECL|function|handleKeyEvent
 DECL|function|handleKeyEvent
 DECL|function|handleLeaveEvent

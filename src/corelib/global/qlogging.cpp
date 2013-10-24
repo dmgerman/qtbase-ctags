@@ -49,6 +49,7 @@ DECL|variable|emptyTokenC
 DECL|variable|endifTokenC
 DECL|variable|fileTokenC
 DECL|variable|functionTokenC
+DECL|variable|ifCategoryTokenC
 DECL|variable|ifCriticalTokenC
 DECL|variable|ifDebugTokenC
 DECL|variable|ifFatalTokenC

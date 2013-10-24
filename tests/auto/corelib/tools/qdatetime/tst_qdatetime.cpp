@@ -32,6 +32,7 @@ DECL|function|fromStringToStringLocale_data
 DECL|function|fromString_LOCALE_ILDATE
 DECL|function|getDate
 DECL|function|init
+DECL|function|invalid
 DECL|function|invalidDate
 DECL|function|invalidDateTime
 DECL|function|invalidTime

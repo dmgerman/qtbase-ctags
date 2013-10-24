@@ -1,5 +1,10 @@
+DECL|function|doInstall
+DECL|function|doSed
 DECL|function|main
 DECL|function|qmake_getpwd
 DECL|function|qmake_setpwd
 DECL|function|runQMake
+DECL|member|from
+DECL|member|to
+DECL|struct|SedSubst
 DECL|variable|pwd

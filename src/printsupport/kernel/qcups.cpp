@@ -28,6 +28,7 @@ DECL|function|setBannerPages
 DECL|function|setCupsOption
 DECL|function|setCupsOptions
 DECL|function|setCurrentPrinter
+DECL|function|setCurrentPrinter
 DECL|function|setJobBilling
 DECL|function|setJobHold
 DECL|function|setJobPriority

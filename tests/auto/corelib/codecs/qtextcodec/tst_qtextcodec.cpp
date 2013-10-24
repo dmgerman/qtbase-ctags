@@ -16,8 +16,6 @@ DECL|function|codecForTSCII
 DECL|function|codecForUtfText
 DECL|function|codecForUtfText_data
 DECL|function|decode0D
-DECL|function|flagCodepointFFFF
-DECL|function|flagEFBFBF
 DECL|function|flagF7808080
 DECL|function|fromInvalidUtf8Sequence
 DECL|function|fromUnicode
@@ -26,6 +24,8 @@ DECL|function|invalidNames
 DECL|function|mibForTSCII
 DECL|function|moreToFromUnicode
 DECL|function|moreToFromUnicode_data
+DECL|function|nonFlaggedCodepointFFFF
+DECL|function|nonFlaggedEFBFBF
 DECL|function|run
 DECL|function|run
 DECL|function|shiftJis

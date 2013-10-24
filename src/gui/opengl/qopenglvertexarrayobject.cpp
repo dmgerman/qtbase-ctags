@@ -1,5 +1,6 @@
 DECL|class|QOpenGLVertexArrayObjectPrivate
 DECL|class|QVertexArrayObjectHelper
+DECL|enumerator|APPLE
 DECL|enumerator|ARB
 DECL|enumerator|Core_3_0
 DECL|enumerator|Core_3_2
@@ -24,10 +25,10 @@ DECL|function|release
 DECL|function|release
 DECL|function|~QOpenGLVertexArrayObject
 DECL|function|~QOpenGLVertexArrayObjectPrivate
-DECL|member|arb
 DECL|member|context
 DECL|member|core_3_0
 DECL|member|core_3_2
+DECL|member|helper
 DECL|member|vao
 DECL|member|vaoFuncs
 DECL|member|vaoFuncs

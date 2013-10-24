@@ -8,6 +8,7 @@ DECL|function|cleanup
 DECL|function|createFiles
 DECL|function|dataChanged
 DECL|function|dataChanged_data
+DECL|function|deleteFile
 DECL|function|dirsBeforeFiles
 DECL|function|drives
 DECL|function|drives_data

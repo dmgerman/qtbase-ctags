@@ -7,3 +7,4 @@ DECL|function|pointerEvent
 DECL|function|setCursor
 DECL|function|setCursor
 DECL|function|setCursor
+DECL|function|setDirty

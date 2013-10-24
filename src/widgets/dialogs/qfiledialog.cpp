@@ -139,9 +139,13 @@ DECL|function|sizeHint
 DECL|function|splitPath
 DECL|function|testOption
 DECL|function|typedFiles
+DECL|function|updateCancelButtonText
 DECL|function|updateFileNameLabel
+DECL|function|updateFileTypeLabel
+DECL|function|updateLookInLabel
 DECL|function|updateOkButtonText
 DECL|function|userSelectedFiles
+DECL|function|usingWidgets
 DECL|function|viewMode
 DECL|function|workingDirectory
 DECL|function|~QFileDialog

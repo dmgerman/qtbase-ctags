@@ -17,6 +17,7 @@ DECL|function|includefunction
 DECL|function|initTestCase
 DECL|function|install_depends
 DECL|function|install_files
+DECL|function|json
 DECL|function|one_space
 DECL|function|operators
 DECL|function|proFileCache

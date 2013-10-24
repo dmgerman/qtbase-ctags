@@ -69,7 +69,6 @@ DECL|function|moveCursor
 DECL|function|moveItem
 DECL|function|movement
 DECL|function|paintDragDrop
-DECL|function|paintDragDrop
 DECL|function|paintEvent
 DECL|function|perItemScrollToValue
 DECL|function|perItemScrollingPageSteps
@@ -131,7 +130,6 @@ DECL|function|verticalScrollToValue
 DECL|function|verticalScrollToValue
 DECL|function|verticalScrollToValue
 DECL|function|viewMode
-DECL|function|viewOptions
 DECL|function|viewOptions
 DECL|function|visualIndex
 DECL|function|visualRect
