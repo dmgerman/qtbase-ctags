@@ -18,6 +18,7 @@ DECL|function|splitLines
 DECL|function|toString
 DECL|function|tst_Selftests
 DECL|member|arguments
+DECL|member|durationRegExp
 DECL|member|iterations
 DECL|member|loggers
 DECL|member|name
