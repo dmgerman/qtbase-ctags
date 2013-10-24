@@ -18,6 +18,7 @@ DECL|function|qt_mac_to_pascal_string
 DECL|function|qunsetenv
 DECL|function|registerCallback
 DECL|function|unregisterCallback
+DECL|function|winOsVersion
 DECL|function|windowsVersion
 DECL|macro|VER_PLATFORM_WIN32_CE
 DECL|macro|VER_PLATFORM_WIN32_NT
