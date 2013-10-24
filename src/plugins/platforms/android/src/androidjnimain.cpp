@@ -1,5 +1,6 @@
 DECL|function|JNI_OnLoad
 DECL|function|activity
+DECL|function|androidApiLevel
 DECL|function|androidPlatformIntegration
 DECL|function|applicationClass
 DECL|function|assetManager
