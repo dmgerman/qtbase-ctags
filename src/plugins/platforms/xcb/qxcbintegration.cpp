@@ -27,6 +27,7 @@ DECL|function|runningUnderDebugger
 DECL|function|services
 DECL|function|styleHint
 DECL|function|swapBuffers
+DECL|function|sync
 DECL|function|themeNames
 DECL|function|wmClass
 DECL|function|~QXcbIntegration

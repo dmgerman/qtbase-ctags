@@ -18,4 +18,5 @@ DECL|function|queryKeyboardModifiers
 DECL|function|screenAdded
 DECL|function|services
 DECL|function|styleHint
+DECL|function|sync
 DECL|function|themeNames
