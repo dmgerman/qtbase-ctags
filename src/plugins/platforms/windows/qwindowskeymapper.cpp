@@ -8,14 +8,11 @@ DECL|function|ToUnicode
 DECL|function|asciiToKeycode
 DECL|function|changeKeyboard
 DECL|function|clearKeys
-DECL|function|clearRecordedKeys
 DECL|function|deleteLayouts
 DECL|function|findKey
-DECL|function|isADeadKey
 DECL|function|isModifierKey
 DECL|function|messageKeyText
 DECL|function|possibleKeys
-DECL|function|qt_translateKeyCode
 DECL|function|queryKeyboardModifiers
 DECL|function|sendExtendedPressRelease
 DECL|function|setKbdState
