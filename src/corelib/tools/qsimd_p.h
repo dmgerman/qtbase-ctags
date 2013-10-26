@@ -11,6 +11,8 @@ DECL|enumerator|SSE4_1
 DECL|enumerator|SSE4_2
 DECL|enumerator|SSSE3
 DECL|enum|CPUFeatures
+DECL|function|_bit_scan_reverse
+DECL|function|_bit_scan_reverse
 DECL|function|qCpuFeatures
 DECL|macro|ALIGNMENT_PROLOGUE_16BYTES
 DECL|macro|QSIMD_P_H
