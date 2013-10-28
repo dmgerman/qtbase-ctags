@@ -35,7 +35,6 @@ DECL|function|ruleForYear
 DECL|function|ruleToData
 DECL|function|standardTimeOffset
 DECL|function|systemTimeZoneId
-DECL|function|systemtimeToMsecs
 DECL|function|timeToMSecs
 DECL|function|userCountry
 DECL|function|windowsSystemZoneId
