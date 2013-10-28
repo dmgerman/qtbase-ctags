@@ -11,6 +11,7 @@ DECL|function|event
 DECL|function|formatDropEvent
 DECL|function|initTestCase
 DECL|function|msgEventAccepted
+DECL|function|obscuredNativeMapped
 DECL|function|reset
 DECL|function|setFrameless
 DECL|function|tst_QWidget_window
