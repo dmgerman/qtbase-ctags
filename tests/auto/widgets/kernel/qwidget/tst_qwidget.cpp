@@ -195,6 +195,7 @@ DECL|function|moveWindowInShowEvent_data
 DECL|function|movedAndResizedAttributes
 DECL|function|msgEventListMismatch
 DECL|function|msgExpectFailQtBug26424
+DECL|function|msgRgbMismatch
 DECL|function|multipleToplevelFocusCheck
 DECL|function|nativeChildFocus
 DECL|function|nativeEvent
@@ -288,6 +289,8 @@ DECL|function|setTabOrder
 DECL|function|setToolTip
 DECL|function|setWindowGeometry
 DECL|function|setWindowGeometry_data
+DECL|function|setWindowsAnimationsEnabled
+DECL|function|setWindowsAnimationsEnabled
 DECL|function|sheetOpacity
 DECL|function|showAndMoveChild
 DECL|function|showEvent
@@ -342,6 +345,8 @@ DECL|function|windowMoveResize
 DECL|function|windowMoveResize_data
 DECL|function|windowOpacity
 DECL|function|windowState
+DECL|function|windowsAnimationsEnabled
+DECL|function|windowsAnimationsEnabled
 DECL|function|workaroundPaletteIssue
 DECL|function|~SiblingDeleter
 DECL|function|~tst_QWidget
@@ -388,6 +393,7 @@ DECL|member|m_resizeEventCount
 DECL|member|m_touchEventCount
 DECL|member|m_widget
 DECL|member|m_winIdList
+DECL|member|m_windowsAnimationsEnabled
 DECL|member|mask
 DECL|member|metricCallCount
 DECL|member|modal
