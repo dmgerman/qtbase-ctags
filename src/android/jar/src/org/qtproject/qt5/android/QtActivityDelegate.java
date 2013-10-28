@@ -31,6 +31,7 @@ DECL|field|NECESSITAS_API_LEVEL_KEY
 DECL|field|STATIC_INIT_CLASSES_KEY
 DECL|field|m_activity
 DECL|field|m_applicationParameters
+DECL|field|m_backKeyPressedSent
 DECL|field|m_contextMenuVisible
 DECL|field|m_currentRotation
 DECL|field|m_debuggerProcess
@@ -38,7 +39,6 @@ DECL|field|m_editText
 DECL|field|m_environmentVariables
 DECL|field|m_fullScreen
 DECL|field|m_imm
-DECL|field|m_keyboardIsHiding
 DECL|field|m_keyboardIsVisible
 DECL|field|m_lastChar
 DECL|field|m_layout
