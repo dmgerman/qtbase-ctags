@@ -1,6 +1,7 @@
 DECL|class|QWidgetWindowPrivate
 DECL|function|QWidgetWindow
 DECL|function|accessibleRoot
+DECL|function|clearFocusObject
 DECL|function|event
 DECL|function|eventReceiver
 DECL|function|focusObject
