@@ -10,5 +10,7 @@ DECL|function|handlePointerEvent
 DECL|function|handlePropertyEvent
 DECL|function|handleTouchEvent
 DECL|function|injectKeyboardEvent
+DECL|function|processEventsFromScreenThread
+DECL|function|setScreenEventThread
 DECL|macro|qScreenEventDebug
 DECL|macro|qScreenEventDebug

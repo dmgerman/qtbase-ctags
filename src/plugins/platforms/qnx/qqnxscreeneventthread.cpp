@@ -1,7 +1,9 @@
 DECL|function|QQnxScreenEventThread
 DECL|function|injectKeyboardEvent
+DECL|function|lock
 DECL|function|run
 DECL|function|shutdown
+DECL|function|unlock
 DECL|function|~QQnxScreenEventThread
 DECL|macro|qScreenEventThreadDebug
 DECL|macro|qScreenEventThreadDebug
