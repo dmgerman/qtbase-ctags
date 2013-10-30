@@ -1,5 +1,6 @@
 DECL|function|QPlatformWindow
 DECL|function|devicePixelRatio
+DECL|function|effectiveScreen
 DECL|function|format
 DECL|function|formatWindowTitle
 DECL|function|frameMargins
