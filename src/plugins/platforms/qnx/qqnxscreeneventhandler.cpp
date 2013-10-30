@@ -5,7 +5,9 @@ DECL|function|handleDisplayEvent
 DECL|function|handleEvent
 DECL|function|handleEvent
 DECL|function|handleKeyboardEvent
+DECL|function|handleKeyboardFocusPropertyEvent
 DECL|function|handlePointerEvent
+DECL|function|handlePropertyEvent
 DECL|function|handleTouchEvent
 DECL|function|injectKeyboardEvent
 DECL|macro|qScreenEventDebug
