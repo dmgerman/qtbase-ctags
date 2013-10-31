@@ -145,6 +145,8 @@ DECL|function|getSetCheck
 DECL|function|grab
 DECL|function|grabKeyboard
 DECL|function|grabMouse
+DECL|function|grabWindow
+DECL|function|grabWindow
 DECL|function|heightForWidth
 DECL|function|hideEvent
 DECL|function|hideEvent
