@@ -2,6 +2,7 @@ DECL|function|hideSoftwareKeyboard
 DECL|function|isSoftwareKeyboardVisible
 DECL|function|keyDown
 DECL|function|keyUp
+DECL|function|keyboardVisibilityChanged
 DECL|function|longPress
 DECL|function|mapAndroidKey
 DECL|function|mouseDown

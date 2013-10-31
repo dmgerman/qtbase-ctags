@@ -1,4 +1,5 @@
 DECL|function|QAndroidInputContext
+DECL|function|androidInputContext
 DECL|function|clear
 DECL|function|commit
 DECL|function|commitText

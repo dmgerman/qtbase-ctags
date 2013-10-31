@@ -89,6 +89,7 @@ DECL|method|redrawWindow
 DECL|method|resetOptionsMenu
 DECL|method|resetSoftwareKeyboard
 DECL|method|setFullScreen
+DECL|method|setKeyboardVisibility
 DECL|method|showSoftwareKeyboard
 DECL|method|startApplication
 DECL|method|updateSelection

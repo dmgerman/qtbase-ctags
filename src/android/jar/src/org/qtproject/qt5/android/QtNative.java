@@ -33,6 +33,7 @@ DECL|method|hideSoftwareKeyboard
 DECL|method|isSoftwareKeyboardVisible
 DECL|method|keyDown
 DECL|method|keyUp
+DECL|method|keyboardVisibilityChanged
 DECL|method|loadBundledLibraries
 DECL|method|loadQtLibraries
 DECL|method|lockSurface
