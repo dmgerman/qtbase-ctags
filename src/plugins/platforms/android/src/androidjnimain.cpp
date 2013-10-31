@@ -13,6 +13,7 @@ DECL|function|destroySurface
 DECL|function|findClass
 DECL|function|flushImage
 DECL|function|handleOrientationChanged
+DECL|function|hideStatusBar
 DECL|function|javaVM
 DECL|function|lockSurface
 DECL|function|methodErrorMsgFmt
@@ -26,6 +27,7 @@ DECL|function|setAndroidPlatformIntegration
 DECL|function|setApplicationActive
 DECL|function|setDisplayMetrics
 DECL|function|setSurface
+DECL|function|showStatusBar
 DECL|function|startMainMethod
 DECL|function|startQtAndroidPlugin
 DECL|function|startQtApplication
@@ -72,6 +74,8 @@ DECL|variable|m_quitAppSemaphore
 DECL|variable|m_redrawSurfaceMethodID
 DECL|variable|m_resourcesObj
 DECL|variable|m_scaledDensity
+DECL|variable|m_setFullScreenMethodID
+DECL|variable|m_statusBarShowing
 DECL|variable|m_surface
 DECL|variable|m_waitForWindow
 DECL|variable|m_waitForWindowSemaphore

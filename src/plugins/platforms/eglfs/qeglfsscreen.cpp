@@ -13,4 +13,5 @@ DECL|function|physicalSize
 DECL|function|removeWindow
 DECL|function|rootWindow
 DECL|function|setPrimarySurface
+DECL|function|topWindowChanged
 DECL|function|~QEglFSScreen
