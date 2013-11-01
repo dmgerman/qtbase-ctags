@@ -21,6 +21,7 @@ DECL|function|positionSideWidgets
 DECL|function|removeAction
 DECL|function|resetInputMethod
 DECL|function|sendMouseEventToInputContext
+DECL|function|setClearButtonEnabled
 DECL|function|setCursorVisible
 DECL|function|setOpacity
 DECL|function|startOpacityAnimation
