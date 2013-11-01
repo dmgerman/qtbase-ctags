@@ -73,7 +73,6 @@ DECL|variable|m_redrawSurfaceMethodID
 DECL|variable|m_resourcesObj
 DECL|variable|m_scaledDensity
 DECL|variable|m_surface
-DECL|variable|m_surfaceFieldID
 DECL|variable|m_waitForWindow
 DECL|variable|m_waitForWindowSemaphore
 DECL|variable|methods
