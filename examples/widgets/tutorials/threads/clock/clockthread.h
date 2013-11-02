@@ -1,1 +1,0 @@
-DECL|macro|CLOCKTHREAD_H
