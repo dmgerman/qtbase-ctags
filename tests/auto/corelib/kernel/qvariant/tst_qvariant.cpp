@@ -2,8 +2,25 @@ DECL|class|CustomNonQObject
 DECL|class|CustomQObject
 DECL|class|CustomQObjectDerived
 DECL|class|CustomQObjectDerivedNoMetaType
+DECL|class|EnumTest_Enum7
 DECL|class|SmartPointer
 DECL|class|tst_QVariant
+DECL|enumerator|EnumTest_Enum0_value
+DECL|enumerator|EnumTest_Enum1_bigValue
+DECL|enumerator|EnumTest_Enum1_value
+DECL|enumerator|EnumTest_Enum3_bigValue
+DECL|enumerator|EnumTest_Enum3_value
+DECL|enumerator|EnumTest_Enum4_bigValue
+DECL|enumerator|EnumTest_Enum4_value
+DECL|enumerator|EnumTest_Enum5_value
+DECL|enumerator|EnumTest_Enum6_value
+DECL|enumerator|ensureSignedEnum0
+DECL|enum|EnumTest_Enum0
+DECL|enum|EnumTest_Enum1
+DECL|enum|qint64
+DECL|enum|quint64
+DECL|enum|uchar
+DECL|enum|uint
 DECL|function|Converter
 DECL|function|CustomComparable
 DECL|function|CustomQObject
@@ -63,6 +80,7 @@ DECL|function|debugStreamType
 DECL|function|debugStreamType_data
 DECL|function|debugStream_data
 DECL|function|end
+DECL|function|enums
 DECL|function|forwardDeclare
 DECL|function|get
 DECL|function|get
@@ -127,6 +145,7 @@ DECL|function|saveQt5Stream_data
 DECL|function|setValue
 DECL|function|streamInvalidVariant
 DECL|function|swap
+DECL|function|testVariant
 DECL|function|timeToDateTime
 DECL|function|toBool
 DECL|function|toBool_data
@@ -214,6 +233,7 @@ DECL|macro|TEST_SEQUENTIAL_ITERATION
 DECL|macro|Y
 DECL|macro|Y
 DECL|macro|Y
+DECL|member|EnumTest_Enum7_value
 DECL|member|a
 DECL|member|b
 DECL|member|count
@@ -222,6 +242,7 @@ DECL|member|count
 DECL|member|count
 DECL|member|customNonQObjectPointer
 DECL|member|e
+DECL|member|ensureSignedEnum7
 DECL|member|i
 DECL|member|i
 DECL|member|i
