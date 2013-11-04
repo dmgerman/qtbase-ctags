@@ -8,7 +8,6 @@ DECL|function|freeResource
 DECL|function|generateGradientColorTable
 DECL|function|getBuffer
 DECL|function|invalidateResource
-DECL|function|qtToGlColor
 DECL|function|~QOpenGL2GradientCache
 DECL|member|m_mutex
 DECL|member|m_resource
