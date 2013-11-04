@@ -22,6 +22,7 @@ DECL|function|applyPrinterProperties
 DECL|function|checkFields
 DECL|function|exec
 DECL|function|init
+DECL|function|initResources
 DECL|function|selectPdfPsPrinter
 DECL|function|selectPrinter
 DECL|function|selectPrinter
