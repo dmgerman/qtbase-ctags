@@ -1,17 +1,10 @@
 DECL|macro|QLOGGINGCATEGORY_H
 DECL|macro|Q_DECLARE_LOGGING_CATEGORY
 DECL|macro|Q_LOGGING_CATEGORY
-DECL|macro|Q_TRACE_GUARD_NAME
-DECL|macro|Q_TRACE_GUARD_NAME_HELPER
 DECL|macro|qCCritical
 DECL|macro|qCDebug
 DECL|macro|qCDebug
 DECL|macro|qCDebug
-DECL|macro|qCTrace
-DECL|macro|qCTraceGuard
 DECL|macro|qCWarning
 DECL|macro|qCWarning
 DECL|macro|qCWarning
-DECL|variable|QLoggingCategoryPrivate
-DECL|variable|QTraceGuard
-DECL|variable|QTracer
