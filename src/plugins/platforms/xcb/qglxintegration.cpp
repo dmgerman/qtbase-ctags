@@ -23,3 +23,4 @@ DECL|macro|GL_CONTEXT_FLAG_DEBUG_BIT
 DECL|member|m_queriedDummyContext
 DECL|member|m_supportsThreading
 DECL|typedef|glXCreateContextAttribsARBProc
+DECL|variable|qglx_threadedgl_blacklist
