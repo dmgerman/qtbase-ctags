@@ -37,7 +37,6 @@ DECL|function|clonePreservesUserStates
 DECL|function|codecForHtml
 DECL|function|contentsChange
 DECL|function|copiedFontSize
-DECL|function|cssInheritance
 DECL|function|cursorPositionChanged
 DECL|function|cursorPositionChanged
 DECL|function|cursorPositionChanged
