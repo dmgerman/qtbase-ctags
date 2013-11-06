@@ -37,9 +37,11 @@ DECL|function|setSamples
 DECL|function|setStencilBufferSize
 DECL|function|setStereo
 DECL|function|setSwapBehavior
+DECL|function|setSwapInterval
 DECL|function|setVersion
 DECL|function|stencilBufferSize
 DECL|function|swapBehavior
+DECL|function|swapInterval
 DECL|function|testOption
 DECL|function|testOption
 DECL|function|version
@@ -60,3 +62,4 @@ DECL|member|ref
 DECL|member|renderableType
 DECL|member|stencilSize
 DECL|member|swapBehavior
+DECL|member|swapInterval

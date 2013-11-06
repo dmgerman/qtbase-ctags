@@ -14,7 +14,6 @@ DECL|member|options
 DECL|member|pixmapDepth
 DECL|member|profile
 DECL|member|renderingContext
-DECL|member|swapInterval
 DECL|member|version
 DECL|struct|QOpenGLContextData
 DECL|struct|QWindowsOpenGLAdditionalFormat
