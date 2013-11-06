@@ -15,8 +15,8 @@ DECL|function|peerVerifyDepth
 DECL|function|peerVerifyMode
 DECL|function|privateKey
 DECL|function|protocol
-DECL|function|session
 DECL|function|sessionCipher
+DECL|function|sessionTicket
 DECL|function|sessionTicketLifeTimeHint
 DECL|function|setCaCertificates
 DECL|function|setCiphers
@@ -27,7 +27,7 @@ DECL|function|setPeerVerifyDepth
 DECL|function|setPeerVerifyMode
 DECL|function|setPrivateKey
 DECL|function|setProtocol
-DECL|function|setSession
+DECL|function|setSessionTicket
 DECL|function|setSslOption
 DECL|function|testSslOption
 DECL|function|~QSslConfiguration
