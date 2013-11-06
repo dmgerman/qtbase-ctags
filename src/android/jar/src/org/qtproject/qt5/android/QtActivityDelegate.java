@@ -59,9 +59,11 @@ DECL|field|m_surface
 DECL|method|closeContextMenu
 DECL|method|debugLog
 DECL|method|dispatchKeyEvent
+DECL|method|getActionBar
 DECL|method|getAppIconSize
 DECL|method|getQtLayout
 DECL|method|getQtSurface
+DECL|method|hasPermanentMenuKey
 DECL|method|hideSoftwareKeyboard
 DECL|method|isSoftwareKeyboardVisible
 DECL|method|loadApplication
@@ -88,6 +90,7 @@ DECL|method|openContextMenu
 DECL|method|redrawWindow
 DECL|method|resetOptionsMenu
 DECL|method|resetSoftwareKeyboard
+DECL|method|setActionBarVisibility
 DECL|method|setFullScreen
 DECL|method|setKeyboardVisibility
 DECL|method|showSoftwareKeyboard
