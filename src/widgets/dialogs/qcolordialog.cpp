@@ -1,6 +1,7 @@
 DECL|class|QColSpinBox
 DECL|class|QColorLuminancePicker
 DECL|class|QColorPicker
+DECL|class|QColorPickingEventFilter
 DECL|class|QColorShowLabel
 DECL|class|QColorShower
 DECL|class|QColorWell
@@ -12,6 +13,7 @@ DECL|function|QColorDialog
 DECL|function|QColorDialog
 DECL|function|QColorLuminancePicker
 DECL|function|QColorPicker
+DECL|function|QColorPickingEventFilter
 DECL|function|QColorShowLabel
 DECL|function|QColorShower
 DECL|function|QColorWell
@@ -55,6 +57,9 @@ DECL|function|getColor
 DECL|function|getRgba
 DECL|function|grabScreenColor
 DECL|function|gridSize
+DECL|function|handleColorPickingKeyPress
+DECL|function|handleColorPickingMouseButtonRelease
+DECL|function|handleColorPickingMouseMove
 DECL|function|helperPrepareShow
 DECL|function|hsvEd
 DECL|function|htmlEd
@@ -65,8 +70,6 @@ DECL|function|initWidgets
 DECL|function|isAlphaVisible
 DECL|function|isAlphaVisible
 DECL|function|keyPressEvent
-DECL|function|keyPressEvent
-DECL|function|mouseMoveEvent
 DECL|function|mouseMoveEvent
 DECL|function|mouseMoveEvent
 DECL|function|mouseMoveEvent
@@ -76,7 +79,6 @@ DECL|function|mousePressEvent
 DECL|function|mousePressEvent
 DECL|function|mousePressEvent
 DECL|function|mousePressEvent
-DECL|function|mouseReleaseEvent
 DECL|function|mouseReleaseEvent
 DECL|function|mouseReleaseEvent
 DECL|function|mouseReleaseEvent
@@ -168,6 +170,7 @@ DECL|member|lblHue
 DECL|member|lblRed
 DECL|member|lblSat
 DECL|member|lblVal
+DECL|member|m_dp
 DECL|member|mousePressed
 DECL|member|mousePressed
 DECL|member|ncols
