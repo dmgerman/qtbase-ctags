@@ -16,6 +16,7 @@ DECL|function|operator !=
 DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator ==
+DECL|function|options
 DECL|function|profile
 DECL|function|redBufferSize
 DECL|function|renderableType
@@ -27,6 +28,8 @@ DECL|function|setGreenBufferSize
 DECL|function|setMajorVersion
 DECL|function|setMinorVersion
 DECL|function|setOption
+DECL|function|setOption
+DECL|function|setOptions
 DECL|function|setProfile
 DECL|function|setRedBufferSize
 DECL|function|setRenderableType
@@ -37,6 +40,7 @@ DECL|function|setSwapBehavior
 DECL|function|setVersion
 DECL|function|stencilBufferSize
 DECL|function|swapBehavior
+DECL|function|testOption
 DECL|function|testOption
 DECL|function|version
 DECL|function|~QSurfaceFormat
