@@ -1,1 +1,0 @@
-DECL|macro|QACCESSIBLE2_H
