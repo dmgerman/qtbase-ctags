@@ -35,7 +35,6 @@ DECL|function|leaveEvent
 DECL|function|makeVisible
 DECL|function|minimumSizeHint
 DECL|function|minimumTabSizeHint
-DECL|function|mouseDoubleClickEvent
 DECL|function|mouseMoveEvent
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
