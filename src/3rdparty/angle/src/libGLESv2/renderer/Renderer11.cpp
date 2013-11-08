@@ -31,7 +31,9 @@ DECL|function|deleteConfigs
 DECL|function|drawArrays
 DECL|function|drawElements
 DECL|function|drawLineLoop
+DECL|function|drawLineLoopIndexed
 DECL|function|drawTriangleFan
+DECL|function|drawTriangleFanIndexed
 DECL|function|generateConfigs
 DECL|function|generateMipmap
 DECL|function|get32BitIndexSupport
