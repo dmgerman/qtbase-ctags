@@ -158,5 +158,6 @@ DECL|function|verticalStepsPerItem
 DECL|function|viewOptions
 DECL|function|viewOptionsV1
 DECL|function|viewportEvent
+DECL|function|viewportSizeHint
 DECL|function|~QAbstractItemView
 DECL|function|~QAbstractItemViewPrivate
