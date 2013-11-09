@@ -3,6 +3,7 @@ DECL|function|QDialog
 DECL|function|_q_doneAction
 DECL|function|accept
 DECL|function|adjustPosition
+DECL|function|canBeNativeDialog
 DECL|function|closeEvent
 DECL|function|contextMenuEvent
 DECL|function|deletePlatformHelper
