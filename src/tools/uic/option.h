@@ -13,6 +13,7 @@ DECL|member|generateNamespace
 DECL|member|generator
 DECL|member|headerProtection
 DECL|member|implicitIncludes
+DECL|member|includeFile
 DECL|member|indent
 DECL|member|inputFile
 DECL|member|javaOutputDirectory
