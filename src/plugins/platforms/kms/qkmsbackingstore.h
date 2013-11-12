@@ -1,3 +1,4 @@
 DECL|macro|QBACKINGSTORE_KMS_H
 DECL|variable|QOpenGLContext
 DECL|variable|QOpenGLShaderProgram
+DECL|variable|QPlatformBackingStore
