@@ -4,6 +4,8 @@ DECL|macro|QFAIL
 DECL|macro|QFETCH
 DECL|macro|QFETCH_GLOBAL
 DECL|macro|QFINDTESTDATA
+DECL|macro|QFINDTESTDATA
+DECL|macro|QSKIP
 DECL|macro|QSKIP
 DECL|macro|QSKIP_INTERNAL
 DECL|macro|QTEST
@@ -18,4 +20,5 @@ DECL|macro|QVERIFY
 DECL|macro|QVERIFY2
 DECL|macro|QWARN
 DECL|variable|QObject
+DECL|variable|QRegularExpression
 DECL|variable|QTestData

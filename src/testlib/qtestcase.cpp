@@ -19,6 +19,7 @@ DECL|function|defaultMouseDelay
 DECL|function|fetchData
 DECL|function|function
 DECL|function|ignoreMessage
+DECL|function|ignoreMessage
 DECL|function|installCoverageTool
 DECL|function|invokeMethod
 DECL|function|isValidSlot

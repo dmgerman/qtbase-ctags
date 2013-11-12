@@ -11,6 +11,7 @@ DECL|function|addPass
 DECL|function|addSkip
 DECL|function|addXFail
 DECL|function|addXPass
+DECL|function|append
 DECL|function|clearIgnoreMessages
 DECL|function|clearList
 DECL|function|destroyLoggers
@@ -19,6 +20,7 @@ DECL|function|enterTestFunction
 DECL|function|failCount
 DECL|function|handleIgnoredMessage
 DECL|function|ignoreMessage
+DECL|function|ignoreMessage
 DECL|function|info
 DECL|function|installedTestCoverage
 DECL|function|leaveTestFunction
@@ -26,6 +28,7 @@ DECL|function|leaveTestFunction
 DECL|function|loggerCount
 DECL|function|loggerCount
 DECL|function|loggerUsingStdout
+DECL|function|matches
 DECL|function|messageHandler
 DECL|function|outputString
 DECL|function|passCount
@@ -44,7 +47,6 @@ DECL|function|stopLogging
 DECL|function|unhandledIgnoreMessages
 DECL|function|verboseLevel
 DECL|function|warn
-DECL|function|~IgnoreResultList
 DECL|macro|FOREACH_LOGGER
 DECL|macro|FOREACH_LOGGER
 DECL|member|fails
@@ -55,11 +57,11 @@ DECL|member|loggerUsingStdout
 DECL|member|loggers
 DECL|member|loggers
 DECL|member|maxWarnings
-DECL|member|msg
 DECL|member|next
 DECL|member|next
 DECL|member|oldMessageHandler
 DECL|member|passes
+DECL|member|pattern
 DECL|member|printAvailableTags
 DECL|member|skips
 DECL|member|type
