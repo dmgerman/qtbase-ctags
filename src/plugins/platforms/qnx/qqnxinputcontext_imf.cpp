@@ -7,13 +7,15 @@ DECL|enumerator|ImfGetTextAfterCursor
 DECL|enumerator|ImfGetTextBeforeCursor
 DECL|enumerator|ImfIsAllTextSelected
 DECL|enumerator|ImfIsTextSelected
-DECL|enumerator|ImfSendAsyncEvent
 DECL|enumerator|ImfSendEvent
 DECL|enumerator|ImfSetComposingRegion
 DECL|enumerator|ImfSetComposingText
 DECL|enum|ImfEventType
 DECL|function|QQnxImfRequest
 DECL|function|QQnxInputContext
+DECL|function|SpellCheckInfo
+DECL|function|adjustIndex
+DECL|function|checkSpelling
 DECL|function|closeSession
 DECL|function|commit
 DECL|function|dispatchCloseSoftwareInputPanel
@@ -25,6 +27,7 @@ DECL|function|executeIMFRequest
 DECL|function|filterEvent
 DECL|function|finishComposingText
 DECL|function|handleKeyboardEvent
+DECL|function|handleSpellCheck
 DECL|function|hasSelectedText
 DECL|function|hasSession
 DECL|function|hideInputPanel
@@ -66,7 +69,6 @@ DECL|function|onGetTextAfterCursor
 DECL|function|onGetTextBeforeCursor
 DECL|function|onIsAllTextSelected
 DECL|function|onIsTextSelected
-DECL|function|onSendAsyncEvent
 DECL|function|onSendEvent
 DECL|function|onSetComposingRegion
 DECL|function|onSetComposingText
@@ -75,6 +77,7 @@ DECL|function|processEvent
 DECL|function|processImfEvent
 DECL|function|reset
 DECL|function|setFocusObject
+DECL|function|setHighlightColor
 DECL|function|showInputPanel
 DECL|function|toSpannableString
 DECL|function|update
@@ -87,6 +90,7 @@ DECL|macro|qInputContextDebug
 DECL|macro|qInputContextIMFRequestDebug
 DECL|macro|qInputContextIMFRequestDebug
 DECL|member|before
+DECL|member|context
 DECL|member|ct
 DECL|member|dst
 DECL|member|end
@@ -116,10 +120,12 @@ DECL|member|sae
 DECL|member|scr
 DECL|member|sct
 DECL|member|session
+DECL|member|spellCheckDone
 DECL|member|start
 DECL|member|text
 DECL|member|text
 DECL|member|type
+DECL|struct|SpellCheckInfo
 DECL|variable|p_ictrl_close_session
 DECL|variable|p_ictrl_dispatch_event
 DECL|variable|p_ictrl_get_num_active_sessions
@@ -129,4 +135,5 @@ DECL|variable|p_imf_client_init
 DECL|variable|p_vkb_init_selection_service
 DECL|variable|sInputContextInstance
 DECL|variable|sInputSession
+DECL|variable|sSpellCheckSession
 DECL|variable|s_imfInitFailed
