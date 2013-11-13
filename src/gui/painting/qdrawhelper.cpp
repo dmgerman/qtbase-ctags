@@ -110,6 +110,10 @@ DECL|function|convertIndexedToARGB32PM
 DECL|function|convertPassThrough
 DECL|function|convertRGB16FromARGB32PM
 DECL|function|convertRGB16ToARGB32PM
+DECL|function|convertRGBA8888FromARGB32PM
+DECL|function|convertRGBA8888PMFromARGB32PM
+DECL|function|convertRGBA8888PMToARGB32PM
+DECL|function|convertRGBA8888ToARGB32PM
 DECL|function|convertRGBFromARGB32PM
 DECL|function|convertToARGB32PM
 DECL|function|convertToRGB32
