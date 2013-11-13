@@ -126,5 +126,6 @@ DECL|member|min_cost
 DECL|typedef|QFontSubst
 DECL|variable|fast_timeout
 DECL|variable|fast_timeout
+DECL|variable|font_cache_id
 DECL|variable|slow_timeout
 DECL|variable|slow_timeout
