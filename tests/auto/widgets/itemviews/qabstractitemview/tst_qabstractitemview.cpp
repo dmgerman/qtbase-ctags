@@ -29,6 +29,7 @@ DECL|function|StateChangeDelegate
 DECL|function|StateChangeModel
 DECL|function|TestModel
 DECL|function|basic_tests
+DECL|function|centerOnScreen
 DECL|function|cleanupTestCase
 DECL|function|columnDelegate
 DECL|function|createEditor
@@ -42,6 +43,7 @@ DECL|function|emptyModels
 DECL|function|emptyModels_data
 DECL|function|getSetCheck
 DECL|function|initTestCase
+DECL|function|moveCursorAway
 DECL|function|noFallbackToRoot
 DECL|function|noModel
 DECL|function|paint
