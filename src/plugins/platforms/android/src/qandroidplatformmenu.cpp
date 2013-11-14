@@ -13,6 +13,7 @@ DECL|function|setIcon
 DECL|function|setTag
 DECL|function|setText
 DECL|function|setVisible
+DECL|function|showPopup
 DECL|function|syncMenuItem
 DECL|function|syncSeparatorsCollapsible
 DECL|function|tag
