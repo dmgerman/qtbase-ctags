@@ -1,7 +1,6 @@
 DECL|function|QVector3D
 DECL|function|QVector3D
 DECL|function|QVector3D
-DECL|function|QVector3D
 DECL|function|isNull
 DECL|function|operator
 DECL|function|operator
