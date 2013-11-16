@@ -261,6 +261,7 @@ DECL|function|setWinId
 DECL|function|setWindowFilePath
 DECL|function|setWindowFilePath_helper
 DECL|function|setWindowFlags
+DECL|function|setWindowFlags
 DECL|function|setWindowIcon
 DECL|function|setWindowIconText
 DECL|function|setWindowIconText_helper
