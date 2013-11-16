@@ -42,6 +42,7 @@ DECL|function|copyAndSelectAllInReadonly
 DECL|function|copyAvailable
 DECL|function|copyAvailable_data
 DECL|function|copyPasteBackgroundImage
+DECL|function|countTextChangedOnRemove
 DECL|function|createMimeDataFromSelection
 DECL|function|createSelection
 DECL|function|ctrlAltInput
