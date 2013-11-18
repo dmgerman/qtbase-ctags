@@ -5,6 +5,7 @@ DECL|function|clippedTableCell
 DECL|function|defaultPageSizeHandling
 DECL|function|floatingTablePageBreak
 DECL|function|idealWidth
+DECL|function|imageAtRightAlignedTab
 DECL|function|init
 DECL|function|inlineImage
 DECL|function|lineSeparatorFollowingTable
