@@ -5,6 +5,7 @@ DECL|function|QTBUG_31046
 DECL|function|QTestTranslator
 DECL|function|QTranslatorGuard
 DECL|function|autoShow
+DECL|function|autoShowCtor
 DECL|function|autoShow_data
 DECL|function|cleanup
 DECL|function|getSetCheck

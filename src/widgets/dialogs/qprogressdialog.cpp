@@ -51,6 +51,7 @@ DECL|member|label
 DECL|member|memberToDisconnectOnClose
 DECL|member|parentCursor
 DECL|member|receiverToDisconnectOnClose
+DECL|member|setValue_called
 DECL|member|showTime
 DECL|member|shown_once
 DECL|member|starttime
