@@ -1,6 +1,7 @@
 DECL|class|UuidThread
 DECL|class|tst_QUuid
 DECL|function|check_QDataStream
+DECL|function|cpp11
 DECL|function|createUuidV3OrV5
 DECL|function|equal
 DECL|function|fromByteArray

@@ -7,7 +7,6 @@ DECL|function|compare
 DECL|function|ignorePunctuation
 DECL|function|init
 DECL|function|numericMode
-DECL|function|operator <
 DECL|function|setCaseSensitivity
 DECL|function|setIgnorePunctuation
 DECL|function|setNumericMode
