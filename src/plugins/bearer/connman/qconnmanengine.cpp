@@ -15,6 +15,7 @@ DECL|function|getInterfaceFromId
 DECL|function|getStateForService
 DECL|function|hasIdentifier
 DECL|function|initialize
+DECL|function|isAlwaysAskRoaming
 DECL|function|isRoamingAllowed
 DECL|function|ofonoTechToBearerType
 DECL|function|propertyChangedContext
