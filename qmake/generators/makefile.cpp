@@ -39,6 +39,7 @@ DECL|function|processPrlFiles
 DECL|function|projectFile
 DECL|function|replaceExtraCompilerVariables
 DECL|function|setProjectFile
+DECL|function|shellQuote
 DECL|function|specdir
 DECL|function|unescapeFilePath
 DECL|function|unescapeFilePath
