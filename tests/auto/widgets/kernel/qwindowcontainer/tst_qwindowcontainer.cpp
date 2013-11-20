@@ -5,6 +5,7 @@ DECL|function|exposeEvent
 DECL|function|testActivation
 DECL|function|testAncestorChange
 DECL|function|testBehindTheScenesDeletion
+DECL|function|testDockWidget
 DECL|function|testExposeObscure
 DECL|function|testOwnership
 DECL|function|testPositionAndSize
