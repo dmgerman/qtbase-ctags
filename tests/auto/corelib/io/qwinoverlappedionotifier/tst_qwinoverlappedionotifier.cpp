@@ -8,6 +8,7 @@ DECL|function|multipleOperations
 DECL|function|notified
 DECL|function|readFile
 DECL|function|readFile_data
+DECL|function|waitForAnyNotified
 DECL|function|waitForNotified
 DECL|function|waitForNotified_data
 DECL|macro|PIPE_REJECT_REMOTE_CLIENTS

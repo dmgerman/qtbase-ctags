@@ -13,6 +13,7 @@ DECL|function|run
 DECL|function|setEnabled
 DECL|function|setHandle
 DECL|function|unregisterNotifier
+DECL|function|waitForAnyNotified
 DECL|function|waitForNotified
 DECL|function|~QWinIoCompletionPort
 DECL|function|~QWinOverlappedIoNotifier
