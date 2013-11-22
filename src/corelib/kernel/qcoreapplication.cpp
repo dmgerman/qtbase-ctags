@@ -70,6 +70,7 @@ DECL|function|sendPostedEvents
 DECL|function|sendPostedEvents
 DECL|function|sendThroughApplicationEventFilters
 DECL|function|sendThroughObjectEventFilters
+DECL|function|setApplicationFilePath
 DECL|function|setApplicationName
 DECL|function|setApplicationVersion
 DECL|function|setAttribute
@@ -92,6 +93,7 @@ DECL|member|app_libpaths
 DECL|member|application
 DECL|member|applicationVersion
 DECL|member|attribs
+DECL|member|cachedApplicationFilePath
 DECL|member|eventDispatcher
 DECL|member|is_app_closing
 DECL|member|is_app_running
