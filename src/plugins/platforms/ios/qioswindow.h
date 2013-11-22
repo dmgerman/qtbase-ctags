@@ -3,3 +3,4 @@ DECL|variable|QIOSContext
 DECL|variable|QIOSWindow
 DECL|variable|QObject
 DECL|variable|QUIView
+DECL|variable|viewController
