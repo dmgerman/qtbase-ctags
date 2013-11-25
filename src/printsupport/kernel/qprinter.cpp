@@ -2,7 +2,6 @@ DECL|function|QPrinter
 DECL|function|QPrinter
 DECL|function|abort
 DECL|function|actualNumCopies
-DECL|function|addToManualSetList
 DECL|function|changeEngines
 DECL|function|collateCopies
 DECL|function|colorMode
@@ -79,6 +78,7 @@ DECL|function|setPrintProgram
 DECL|function|setPrintRange
 DECL|function|setPrinterName
 DECL|function|setPrinterSelectionOption
+DECL|function|setProperty
 DECL|function|setResolution
 DECL|function|setWinPageSize
 DECL|function|supportedPaperSources
