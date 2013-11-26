@@ -15,6 +15,7 @@ DECL|function|MyTrue
 DECL|function|checkptr
 DECL|function|foo
 DECL|function|for_each
+DECL|function|integerForSize
 DECL|function|isEnum
 DECL|function|myStartupFunc
 DECL|function|qAlignOf

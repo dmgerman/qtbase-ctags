@@ -29,6 +29,7 @@ DECL|function|StateChangeDelegate
 DECL|function|StateChangeModel
 DECL|function|TestModel
 DECL|function|basic_tests
+DECL|function|centerOnScreen
 DECL|function|cleanupTestCase
 DECL|function|columnDelegate
 DECL|function|createEditor
@@ -42,6 +43,7 @@ DECL|function|emptyModels
 DECL|function|emptyModels_data
 DECL|function|getSetCheck
 DECL|function|initTestCase
+DECL|function|moveCursorAway
 DECL|function|noFallbackToRoot
 DECL|function|noModel
 DECL|function|paint
@@ -104,7 +106,6 @@ DECL|function|tst_verticalStepsPerItem
 DECL|function|tst_viewOptions
 DECL|function|tst_visualRegionForSelection
 DECL|function|~tst_QAbstractItemView
-DECL|macro|TRY_COMPARE
 DECL|member|calledVirtualDtor
 DECL|member|openedEditor
 DECL|member|setData_count

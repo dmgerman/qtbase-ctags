@@ -12,6 +12,7 @@ DECL|function|checkStopWatch
 DECL|function|destroSlot
 DECL|function|destroyRace
 DECL|function|moveToThreadRace
+DECL|function|operator ()
 DECL|function|run
 DECL|function|run
 DECL|function|setObject
@@ -27,9 +28,15 @@ DECL|function|start
 DECL|function|theSlot
 DECL|macro|EXTRA_THREAD_WAIT
 DECL|macro|MAIN_THREAD_WAIT
+DECL|member|_signals
+DECL|member|_signalsPMF
+DECL|member|_slots
+DECL|member|_slotsPMF
 DECL|member|count
 DECL|member|number
 DECL|member|object
 DECL|member|objects
 DECL|member|stopWatch
 DECL|member|threads
+DECL|struct|Functor
+DECL|typedef|PMFType

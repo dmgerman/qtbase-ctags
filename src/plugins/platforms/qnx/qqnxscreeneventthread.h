@@ -1,2 +1,4 @@
 DECL|macro|QQNXSCREENEVENTTHREAD_H
+DECL|typedef|QQnxScreenEventArray
+DECL|typedef|screen_event_t
 DECL|variable|QQnxScreenEventHandler

@@ -1,1 +1,0 @@
-DECL|macro|WORKEROBJECT_H

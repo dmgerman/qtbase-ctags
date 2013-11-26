@@ -17,6 +17,7 @@ DECL|function|draw_text_item_win
 DECL|function|end
 DECL|function|fillPath
 DECL|function|fillPath_dev
+DECL|function|findCustomPaperSize
 DECL|function|getDC
 DECL|function|getPageMargins
 DECL|function|inchesToMM
@@ -30,6 +31,7 @@ DECL|function|mapPaperSourceDevmode
 DECL|function|metric
 DECL|function|mmToInches
 DECL|function|newPage
+DECL|function|printerPaperSizes
 DECL|function|printerState
 DECL|function|property
 DECL|function|queryDefault
@@ -40,6 +42,7 @@ DECL|function|readDevmode
 DECL|function|readDevnames
 DECL|function|release
 DECL|function|releaseDC
+DECL|function|setDevModePaperFlags
 DECL|function|setPageMargins
 DECL|function|setProperty
 DECL|function|strokePath

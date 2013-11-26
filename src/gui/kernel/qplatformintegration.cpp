@@ -7,6 +7,7 @@ DECL|function|createPlatformPixmap
 DECL|function|createPlatformSessionManager
 DECL|function|createPlatformSharedGraphicsCache
 DECL|function|createPlatformTheme
+DECL|function|defaultWindowState
 DECL|function|drag
 DECL|function|fontDatabase
 DECL|function|hasCapability
@@ -18,4 +19,5 @@ DECL|function|queryKeyboardModifiers
 DECL|function|screenAdded
 DECL|function|services
 DECL|function|styleHint
+DECL|function|sync
 DECL|function|themeNames

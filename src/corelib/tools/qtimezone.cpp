@@ -17,6 +17,7 @@ DECL|function|displayName
 DECL|function|displayName
 DECL|function|hasDaylightTime
 DECL|function|hasTransitions
+DECL|function|ianaIdToWindowsId
 DECL|function|id
 DECL|function|isDaylightTime
 DECL|function|isTimeZoneIdAvailable
@@ -26,7 +27,6 @@ DECL|function|newBackendTimeZone
 DECL|function|nextTransition
 DECL|function|offsetData
 DECL|function|offsetFromUtc
-DECL|function|olsenIdToWindowsId
 DECL|function|operator !=
 DECL|function|operator <<
 DECL|function|operator <<
@@ -37,9 +37,9 @@ DECL|function|previousTransition
 DECL|function|standardTimeOffset
 DECL|function|systemTimeZoneId
 DECL|function|transitions
-DECL|function|windowsIdToDefaultOlsenId
-DECL|function|windowsIdToDefaultOlsenId
-DECL|function|windowsIdToOlsenIds
-DECL|function|windowsIdToOlsenIds
+DECL|function|windowsIdToDefaultIanaId
+DECL|function|windowsIdToDefaultIanaId
+DECL|function|windowsIdToIanaIds
+DECL|function|windowsIdToIanaIds
 DECL|function|~QTimeZone
 DECL|member|backend

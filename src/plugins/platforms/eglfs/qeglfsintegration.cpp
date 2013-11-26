@@ -10,9 +10,11 @@ DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOffscreenSurface
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformWindow
+DECL|function|createScreen
 DECL|function|eglContextForContext
 DECL|function|fontDatabase
 DECL|function|hasCapability
+DECL|function|initResources
 DECL|function|initialize
 DECL|function|nativeInterface
 DECL|function|nativeResourceForContext

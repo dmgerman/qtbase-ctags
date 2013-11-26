@@ -30,6 +30,7 @@ DECL|function|toPixmap_data
 DECL|function|toString
 DECL|function|toString_data
 DECL|function|transform
+DECL|function|validQColor
 DECL|function|vector2D
 DECL|function|vector3D
 DECL|function|vector4D

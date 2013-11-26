@@ -25,6 +25,7 @@ DECL|function|QMessageBoxDetailsText
 DECL|function|QMessageBoxPrivate
 DECL|function|TextEdit
 DECL|function|_q_buttonClicked
+DECL|function|_q_clicked
 DECL|function|about
 DECL|function|aboutQt
 DECL|function|abstractButtonForId
@@ -53,6 +54,10 @@ DECL|function|escapeButton
 DECL|function|event
 DECL|function|execReturnCode
 DECL|function|findButton
+DECL|function|helperDone
+DECL|function|helperIcon
+DECL|function|helperPrepareShow
+DECL|function|helperStandardButtons
 DECL|function|hideSpecial
 DECL|function|icon
 DECL|function|iconPixmap
@@ -61,6 +66,7 @@ DECL|function|information
 DECL|function|information
 DECL|function|informativeText
 DECL|function|init
+DECL|function|initHelper
 DECL|function|keyPressEvent
 DECL|function|label
 DECL|function|layoutMinimumWidth
@@ -131,6 +137,7 @@ DECL|member|iconLabel
 DECL|member|informativeLabel
 DECL|member|label
 DECL|member|memberToDisconnectOnClose
+DECL|member|options
 DECL|member|receiverToDisconnectOnClose
 DECL|member|signalToDisconnectOnClose
 DECL|member|textEdit

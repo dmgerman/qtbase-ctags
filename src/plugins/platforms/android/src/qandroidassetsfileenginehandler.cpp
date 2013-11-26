@@ -3,6 +3,7 @@ DECL|class|AndroidAbstractFileEngineIterator
 DECL|function|AndroidAbstractFileEngine
 DECL|function|AndroidAbstractFileEngine
 DECL|function|AndroidAbstractFileEngineIterator
+DECL|function|AndroidAssetDir
 DECL|function|AndroidAssetsFileEngineHandler
 DECL|function|beginEntryList
 DECL|function|caseSensitive
@@ -30,4 +31,7 @@ DECL|member|m_assetFile
 DECL|member|m_fileName
 DECL|member|m_index
 DECL|member|m_items
+DECL|member|m_items
 DECL|member|m_path
+DECL|struct|AndroidAssetDir
+DECL|typedef|FilesList

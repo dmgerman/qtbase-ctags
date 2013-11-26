@@ -1,3 +1,4 @@
+DECL|class|QJNIEnvironmentPrivateTLS
 DECL|function|QJNIEnvironmentPrivate
 DECL|function|QJNIObjectData
 DECL|function|QJNIObjectPrivate
@@ -181,6 +182,7 @@ DECL|function|setStaticField
 DECL|function|setStaticField
 DECL|function|toString
 DECL|function|~QJNIEnvironmentPrivate
+DECL|function|~QJNIEnvironmentPrivateTLS
 DECL|function|~QJNIObjectData
 DECL|typedef|JClassHash
 DECL|typedef|JFieldIDHash

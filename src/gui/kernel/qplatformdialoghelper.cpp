@@ -20,6 +20,7 @@ DECL|function|QMessageDialogOptions
 DECL|function|QMessageDialogOptionsPrivate
 DECL|function|QPlatformDialogHelper
 DECL|function|acceptMode
+DECL|function|buttonRole
 DECL|function|cleanFilterList
 DECL|function|customColor
 DECL|function|customColorCount

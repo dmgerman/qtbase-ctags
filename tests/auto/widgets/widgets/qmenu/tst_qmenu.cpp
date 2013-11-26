@@ -15,6 +15,8 @@ DECL|function|activateAction
 DECL|function|activateLastAction
 DECL|function|activeSubMenuPosition
 DECL|function|addActionsAndClear
+DECL|function|centerOnScreen
+DECL|function|centerOnScreen
 DECL|function|checkVisibility
 DECL|function|cleanupTestCase
 DECL|function|clear
@@ -30,6 +32,7 @@ DECL|function|keyboardNavigation_data
 DECL|function|layoutDirection
 DECL|function|menuSizeHint
 DECL|function|mouseActivation
+DECL|function|msgGeometryIntersects
 DECL|function|onActivated
 DECL|function|onHighlighted
 DECL|function|onStatusMessageChanged

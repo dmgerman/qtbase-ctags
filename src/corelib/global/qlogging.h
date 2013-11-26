@@ -2,7 +2,6 @@ DECL|enumerator|QtCriticalMsg
 DECL|enumerator|QtDebugMsg
 DECL|enumerator|QtFatalMsg
 DECL|enumerator|QtSystemMsg
-DECL|enumerator|QtTraceMsg
 DECL|enumerator|QtWarningMsg
 DECL|enum|QtMsgType
 DECL|macro|QLOGGING_H

@@ -1,7 +1,10 @@
 DECL|class|MyErrorHandler
+DECL|class|TestHandler
 DECL|class|XmlServer
 DECL|class|tst_QXmlSimpleReader
+DECL|function|TestHandler
 DECL|function|XmlServer
+DECL|function|dtdRecursionLimit
 DECL|function|error
 DECL|function|errorString
 DECL|function|fatalError
@@ -14,6 +17,7 @@ DECL|function|inputFromQIODevice
 DECL|function|inputFromSocket
 DECL|function|inputFromSocket_data
 DECL|function|inputFromString
+DECL|function|internalEntityDecl
 DECL|function|preserveCharacterReferences
 DECL|function|reportNamespace
 DECL|function|reportNamespace_data
@@ -34,6 +38,7 @@ DECL|macro|TEST_PORT
 DECL|member|prefix
 DECL|member|publicId
 DECL|member|quit_soon
+DECL|member|recursionCount
 DECL|member|server
 DECL|member|systemId
 DECL|variable|inputString

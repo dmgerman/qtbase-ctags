@@ -21,6 +21,7 @@ DECL|class|DisconnectObject
 DECL|class|DynamicPropertyObject
 DECL|class|EmitThread
 DECL|class|EventSpy
+DECL|class|ExceptionThrower
 DECL|class|FooObject
 DECL|class|FunctorArgDifferenceObject
 DECL|class|GetSenderObject
@@ -31,6 +32,7 @@ DECL|class|MoveToThreadObject
 DECL|class|MoveToThreadThread
 DECL|class|NormalizeObject
 DECL|class|NotifyObject
+DECL|class|ObjectException
 DECL|class|OverloadObject
 DECL|class|PropertyObject
 DECL|class|QCustomTypeChecker
@@ -205,6 +207,7 @@ DECL|function|enumSlot
 DECL|function|event
 DECL|function|eventFilter
 DECL|function|eventList
+DECL|function|exceptions
 DECL|function|findChildren
 DECL|function|floatProperty
 DECL|function|harmfullSlot
@@ -241,6 +244,7 @@ DECL|function|on_baz_signal1
 DECL|function|on_child_signal
 DECL|function|on_foo_signal1
 DECL|function|on_something
+DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
@@ -403,6 +407,7 @@ DECL|function|thisIsAPrivateSlotWithArg
 DECL|function|thread
 DECL|function|thread0
 DECL|function|threadSignalEmissionCrash
+DECL|function|throwException
 DECL|function|timerEvent
 DECL|function|triggerSignal
 DECL|function|typeConstRefSlot
@@ -495,6 +500,7 @@ DECL|member|recursionCount
 DECL|member|result
 DECL|member|result
 DECL|member|s
+DECL|member|s
 DECL|member|s_num
 DECL|member|saved
 DECL|member|sender
@@ -541,6 +547,7 @@ DECL|struct|SlotFunctor
 DECL|struct|SlotFunctorString
 DECL|struct|StringFunctor
 DECL|struct|Struct
+DECL|struct|ThrowFunctor
 DECL|struct|VariantFunctor
 DECL|struct|VoidFunctor
 DECL|typedef|CustomString

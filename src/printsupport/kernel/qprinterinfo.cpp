@@ -1,8 +1,10 @@
+DECL|class|QPrinterInfoPrivateDeleter
 DECL|function|QPrinterInfo
 DECL|function|QPrinterInfo
 DECL|function|QPrinterInfo
 DECL|function|QPrinterInfo
 DECL|function|availablePrinters
+DECL|function|cleanup
 DECL|function|defaultPrinter
 DECL|function|description
 DECL|function|isDefault
@@ -15,4 +17,3 @@ DECL|function|printerName
 DECL|function|supportedPaperSizes
 DECL|function|supportedSizesWithNames
 DECL|function|~QPrinterInfo
-DECL|member|shared_null

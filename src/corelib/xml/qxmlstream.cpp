@@ -174,7 +174,6 @@ DECL|function|~QXmlStreamReader
 DECL|function|~QXmlStreamReaderPrivate
 DECL|function|~QXmlStreamWriter
 DECL|function|~QXmlStreamWriterPrivate
-DECL|macro|QT_NO_XMLSTREAM
 DECL|macro|Q_DECLARE_TR_FUNCTIONS
 DECL|member|autoFormattingIndent
 DECL|member|codec

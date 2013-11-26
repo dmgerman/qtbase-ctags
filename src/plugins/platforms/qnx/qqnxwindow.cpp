@@ -1,6 +1,7 @@
 DECL|function|QQnxWindow
-DECL|function|adjustBufferSize
 DECL|function|applyWindowState
+DECL|function|clearMMRendererWindow
+DECL|function|createWindowGroup
 DECL|function|findWindow
 DECL|function|gainedFocus
 DECL|function|initWindow
@@ -15,13 +16,17 @@ DECL|function|setBufferSize
 DECL|function|setExposed
 DECL|function|setGeometry
 DECL|function|setGeometryHelper
+DECL|function|setMMRendererWindow
+DECL|function|setMMRendererWindowName
 DECL|function|setOffset
 DECL|function|setOpacity
 DECL|function|setParent
+DECL|function|setRotation
 DECL|function|setScreen
 DECL|function|setVisible
 DECL|function|setWindowState
 DECL|function|updateVisibility
+DECL|function|updateZorder
 DECL|function|updateZorder
 DECL|function|~QQnxWindow
 DECL|macro|qWindowDebug

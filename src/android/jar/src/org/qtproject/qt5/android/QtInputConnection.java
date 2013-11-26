@@ -1,6 +1,11 @@
+DECL|class|HideKeyboardRunnable
 DECL|class|QtExtractedText
 DECL|class|QtInputConnection
 DECL|class|QtNativeInputConnection
+DECL|constant|FinishComposing  enum
+DECL|constant|Hiding           enum
+DECL|constant|Visible          enum
+DECL|enum|InputStates
 DECL|field|ID_ADD_TO_DICTIONARY
 DECL|field|ID_COPY
 DECL|field|ID_COPY_URL
@@ -8,7 +13,8 @@ DECL|field|ID_CUT
 DECL|field|ID_PASTE
 DECL|field|ID_SELECT_ALL
 DECL|field|ID_SWITCH_INPUT_METHOD
-DECL|field|m_closing
+DECL|field|m_connection
+DECL|field|m_inputState
 DECL|field|m_view
 DECL|field|partialEndOffset
 DECL|field|partialStartOffset
@@ -16,6 +22,7 @@ DECL|field|selectionEnd
 DECL|field|selectionStart
 DECL|field|startOffset
 DECL|field|text
+DECL|method|HideKeyboardRunnable
 DECL|method|QtInputConnection
 DECL|method|beginBatchEdit
 DECL|method|commitCompletion
@@ -34,6 +41,7 @@ DECL|method|getCursorCapsMode
 DECL|method|getCursorCapsMode
 DECL|method|getExtractedText
 DECL|method|getExtractedText
+DECL|method|getInputState
 DECL|method|getSelectedText
 DECL|method|getSelectedText
 DECL|method|getTextAfterCursor
@@ -42,7 +50,10 @@ DECL|method|getTextBeforeCursor
 DECL|method|getTextBeforeCursor
 DECL|method|paste
 DECL|method|performContextMenuAction
+DECL|method|reset
+DECL|method|run
 DECL|method|selectAll
+DECL|method|setClosing
 DECL|method|setComposingRegion
 DECL|method|setComposingRegion
 DECL|method|setComposingText

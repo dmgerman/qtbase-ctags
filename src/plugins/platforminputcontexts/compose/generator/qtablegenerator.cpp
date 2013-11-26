@@ -13,6 +13,7 @@ DECL|function|parseIncludeInstruction
 DECL|function|parseKeySequence
 DECL|function|printComposeTable
 DECL|function|processFile
+DECL|function|readLocaleAliases
 DECL|function|readLocaleMappings
 DECL|function|systemComposeDir
 DECL|function|~TableGenerator

@@ -1,9 +1,11 @@
 DECL|class|QtEditText
+DECL|field|m_activityDelegate
 DECL|field|m_imeOptions
 DECL|field|m_initialCapsMode
-DECL|field|m_inputConnection
 DECL|field|m_inputType
+DECL|field|m_optionsChanged
 DECL|method|QtEditText
+DECL|method|getActivityDelegate
 DECL|method|onCreateInputConnection
 DECL|method|setImeOptions
 DECL|method|setInitialCapsMode

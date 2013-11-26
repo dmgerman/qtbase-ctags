@@ -30,6 +30,7 @@ DECL|function|getCharStar
 DECL|function|getUint16
 DECL|function|getUint32
 DECL|function|iconForMime
+DECL|function|initResources
 DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid

@@ -16,6 +16,7 @@ DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|canRender
+DECL|function|cleanup
 DECL|function|clear
 DECL|function|cloneWithSize
 DECL|function|computeSize
@@ -76,6 +77,7 @@ DECL|function|xHeight
 DECL|function|~Glyph
 DECL|function|~QFontEngineFT
 DECL|function|~QGlyphSet
+DECL|function|~QtFreetypeData
 DECL|macro|CEIL
 DECL|macro|FLOOR
 DECL|macro|QT_MAX_CACHED_GLYPH_SIZE

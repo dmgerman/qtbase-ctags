@@ -1,5 +1,6 @@
 DECL|function|QQnxScreen
 DECL|function|activateWindowGroup
+DECL|function|addMultimediaWindow
 DECL|function|addOverlayWindow
 DECL|function|addUnderlayWindow
 DECL|function|addWindow
@@ -10,13 +11,14 @@ DECL|function|deactivateWindowGroup
 DECL|function|defaultDepth
 DECL|function|depth
 DECL|function|determineScreenSize
+DECL|function|findMultimediaWindow
+DECL|function|findMultimediaWindow
 DECL|function|findWindow
 DECL|function|isOrthogonal
 DECL|function|keyboardHeightChanged
 DECL|function|lowerWindow
 DECL|function|nativeOrientation
 DECL|function|newWindowCreated
-DECL|function|onWindowPost
 DECL|function|orientation
 DECL|function|raiseWindow
 DECL|function|refreshRate
@@ -26,6 +28,7 @@ DECL|function|resizeNativeWidgetWindow
 DECL|function|resizeTopLevelWindow
 DECL|function|resizeWindows
 DECL|function|rootWindow
+DECL|function|setRootWindow
 DECL|function|setRotation
 DECL|function|topMostChildWindow
 DECL|function|updateHierarchy

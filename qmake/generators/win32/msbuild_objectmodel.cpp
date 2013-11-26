@@ -158,6 +158,7 @@ DECL|variable|_IgnoreEmbeddedIDL
 DECL|variable|_IgnoreImportLibrary
 DECL|variable|_IgnoreSpecificDefaultLibraries
 DECL|variable|_IgnoreStandardIncludePath
+DECL|variable|_ImageHasSafeExceptionHandlers
 DECL|variable|_ImportLibrary
 DECL|variable|_InlineFunctionExpansion
 DECL|variable|_InterfaceIdentifierFileName

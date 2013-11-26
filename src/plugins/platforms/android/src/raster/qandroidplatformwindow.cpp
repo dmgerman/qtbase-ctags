@@ -1,4 +1,7 @@
 DECL|function|QAndroidPlatformWindow
 DECL|function|propagateSizeHints
+DECL|function|raise
 DECL|function|setGeometry
 DECL|function|setVisible
+DECL|function|setWindowState
+DECL|function|updateStatusBarVisibility

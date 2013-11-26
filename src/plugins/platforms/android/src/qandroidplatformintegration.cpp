@@ -7,6 +7,8 @@ DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|createPlatformWindow
+DECL|function|createScreen
+DECL|function|defaultWindowState
 DECL|function|fontDatabase
 DECL|function|hasCapability
 DECL|function|inputContext

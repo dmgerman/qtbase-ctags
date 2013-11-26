@@ -13,7 +13,6 @@ DECL|function|freeResource
 DECL|function|freeTexture
 DECL|function|invalidate
 DECL|function|invalidateResource
-DECL|function|qgl_byteSwapImage
 DECL|function|~QOpenGLTextureCache
 DECL|function|~QOpenGLTextureCacheWrapper
 DECL|member|m_mutex

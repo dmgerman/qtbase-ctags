@@ -6,8 +6,6 @@ DECL|function|addButton
 DECL|function|allowedSchemes
 DECL|function|apply
 DECL|function|applySettings
-DECL|function|comboBoxValue
-DECL|function|createCombo
 DECL|function|deleteModalDialog
 DECL|function|deleteNonModalDialog
 DECL|function|enableDeleteModalDialogButton
@@ -25,17 +23,13 @@ DECL|function|getSaveFileUrl
 DECL|function|options
 DECL|function|restoreDefault
 DECL|function|restoreDefaults
-DECL|function|setComboBoxValue
 DECL|function|setDirty
 DECL|function|showAcceptedResult
 DECL|function|showModal
 DECL|function|showNonModal
 DECL|function|useMimeTypeFilters
-DECL|member|description
 DECL|member|m_dirty
 DECL|member|m_label
-DECL|member|value
-DECL|struct|ComboData
 DECL|variable|acceptModeComboData
 DECL|variable|fileModeComboData
 DECL|variable|viewModeComboData

@@ -28,3 +28,4 @@ DECL|function|testValueNotSet
 DECL|function|testVersionOption
 DECL|variable|empty_argc
 DECL|variable|empty_argv
+DECL|variable|expectedOptionsHelp

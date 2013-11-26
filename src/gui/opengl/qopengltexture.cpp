@@ -102,3 +102,4 @@ DECL|function|wrapMode
 DECL|function|wrapMode
 DECL|function|~QOpenGLTexture
 DECL|function|~QOpenGLTexturePrivate
+DECL|macro|GL_TEXTURE_WRAP_R

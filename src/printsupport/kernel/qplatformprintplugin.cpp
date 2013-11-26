@@ -1,3 +1,5 @@
 DECL|function|QPlatformPrinterSupportPlugin
+DECL|function|cleanupPrinterSupport
 DECL|function|get
 DECL|function|~QPlatformPrinterSupportPlugin
+DECL|variable|printerSupport

@@ -31,6 +31,7 @@ DECL|field|NECESSITAS_API_LEVEL_KEY
 DECL|field|STATIC_INIT_CLASSES_KEY
 DECL|field|m_activity
 DECL|field|m_applicationParameters
+DECL|field|m_backKeyPressedSent
 DECL|field|m_contextMenuVisible
 DECL|field|m_currentRotation
 DECL|field|m_debuggerProcess
@@ -38,7 +39,6 @@ DECL|field|m_editText
 DECL|field|m_environmentVariables
 DECL|field|m_fullScreen
 DECL|field|m_imm
-DECL|field|m_keyboardIsHiding
 DECL|field|m_keyboardIsVisible
 DECL|field|m_lastChar
 DECL|field|m_layout
@@ -59,9 +59,11 @@ DECL|field|m_surface
 DECL|method|closeContextMenu
 DECL|method|debugLog
 DECL|method|dispatchKeyEvent
+DECL|method|getActionBar
 DECL|method|getAppIconSize
 DECL|method|getQtLayout
 DECL|method|getQtSurface
+DECL|method|hasPermanentMenuKey
 DECL|method|hideSoftwareKeyboard
 DECL|method|isSoftwareKeyboardVisible
 DECL|method|loadApplication
@@ -88,7 +90,9 @@ DECL|method|openContextMenu
 DECL|method|redrawWindow
 DECL|method|resetOptionsMenu
 DECL|method|resetSoftwareKeyboard
+DECL|method|setActionBarVisibility
 DECL|method|setFullScreen
+DECL|method|setKeyboardVisibility
 DECL|method|showSoftwareKeyboard
 DECL|method|startApplication
 DECL|method|updateSelection

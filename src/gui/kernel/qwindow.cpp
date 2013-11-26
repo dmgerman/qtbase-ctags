@@ -6,6 +6,7 @@ DECL|function|accessibleRoot
 DECL|function|alert
 DECL|function|applyCursor
 DECL|function|baseSize
+DECL|function|clearFocusObject
 DECL|function|close
 DECL|function|contentOrientation
 DECL|function|create

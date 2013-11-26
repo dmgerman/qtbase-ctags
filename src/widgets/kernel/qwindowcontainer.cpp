@@ -12,6 +12,7 @@ DECL|function|parentWasLowered
 DECL|function|parentWasMoved
 DECL|function|parentWasRaised
 DECL|function|qwindowcontainer_traverse
+DECL|function|toplevelAboutToBeDestroyed
 DECL|function|updateGeometry
 DECL|function|updateUsesNativeWidgets
 DECL|function|~QWindowContainer
