@@ -11,6 +11,7 @@ DECL|function|clone
 DECL|function|comment
 DECL|function|country
 DECL|function|data
+DECL|function|dataForTzTransition
 DECL|function|daylightTimeOffset
 DECL|function|displayName
 DECL|function|displayName

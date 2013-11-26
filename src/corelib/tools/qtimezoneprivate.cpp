@@ -30,6 +30,7 @@ DECL|function|displayName
 DECL|function|displayName
 DECL|function|hasDaylightTime
 DECL|function|hasTransitions
+DECL|function|ianaIdToWindowsId
 DECL|function|id
 DECL|function|init
 DECL|function|init
@@ -43,7 +44,6 @@ DECL|function|nextTransition
 DECL|function|offsetFromUtc
 DECL|function|olsenId
 DECL|function|olsenId
-DECL|function|olsenIdToWindowsId
 DECL|function|operator !=
 DECL|function|operator ==
 DECL|function|previousTransition
@@ -61,10 +61,10 @@ DECL|function|utcData
 DECL|function|utcId
 DECL|function|windowsData
 DECL|function|windowsId
-DECL|function|windowsIdToDefaultOlsenId
-DECL|function|windowsIdToDefaultOlsenId
-DECL|function|windowsIdToOlsenIds
-DECL|function|windowsIdToOlsenIds
+DECL|function|windowsIdToDefaultIanaId
+DECL|function|windowsIdToDefaultIanaId
+DECL|function|windowsIdToIanaIds
+DECL|function|windowsIdToIanaIds
 DECL|function|zoneData
 DECL|function|~QTimeZonePrivate
 DECL|function|~QUtcTimeZonePrivate

@@ -1,3 +1,4 @@
+DECL|enumerator|scancodeBitmask
 DECL|function|GetKeyboardState
 DECL|function|KeyRecord
 DECL|function|KeyRecord
