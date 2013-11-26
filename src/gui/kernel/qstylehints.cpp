@@ -7,6 +7,7 @@ DECL|function|hint
 DECL|function|keyboardAutoRepeatRate
 DECL|function|keyboardInputInterval
 DECL|function|mouseDoubleClickInterval
+DECL|function|mousePressAndHoldInterval
 DECL|function|passwordMaskCharacter
 DECL|function|passwordMaskDelay
 DECL|function|setCursorFlashTime
