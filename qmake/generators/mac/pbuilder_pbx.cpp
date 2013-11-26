@@ -21,7 +21,6 @@ DECL|function|projectSuffix
 DECL|function|qtSha1
 DECL|function|quotedStringLiteral
 DECL|function|reftypeForFile
-DECL|function|sourceTreeForFile
 DECL|function|writeMakeParts
 DECL|function|writeMakefile
 DECL|function|writeSettings
