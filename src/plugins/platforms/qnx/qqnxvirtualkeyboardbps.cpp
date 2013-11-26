@@ -1,9 +1,11 @@
 DECL|function|QQnxVirtualKeyboardBps
-DECL|function|applyKeyboardMode
+DECL|function|applyKeyboardOptions
+DECL|function|enterKey
 DECL|function|handleEvent
 DECL|function|handleLocaleEvent
 DECL|function|handleVirtualKeyboardEvent
 DECL|function|hideKeyboard
+DECL|function|keyboardLayout
 DECL|function|showKeyboard
 DECL|macro|qVirtualKeyboardDebug
 DECL|macro|qVirtualKeyboardDebug
