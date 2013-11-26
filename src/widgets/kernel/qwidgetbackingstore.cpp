@@ -4,6 +4,7 @@ DECL|function|bltRect
 DECL|function|dirtyRegion
 DECL|function|discardInvalidateBufferRequest
 DECL|function|discardSyncRequest
+DECL|function|doSync
 DECL|function|endPaint
 DECL|function|flush
 DECL|function|flushPaint
