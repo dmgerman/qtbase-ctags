@@ -1,6 +1,7 @@
 DECL|function|QQnxFileDialogHelper
 DECL|function|defaultNameFilterDisables
 DECL|function|directory
+DECL|function|emitSignals
 DECL|function|exec
 DECL|function|hide
 DECL|function|selectFile
