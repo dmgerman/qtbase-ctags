@@ -18,8 +18,6 @@ DECL|enum|LayoutSide
 DECL|function|operator
 DECL|macro|QGRIDLAYOUTENGINE_P_H
 DECL|typedef|MultiCellMap
-DECL|variable|QGraphicsLayoutItem
-DECL|variable|QGridLayoutEngine
 DECL|variable|QGridLayoutRowInfo
 DECL|variable|QStyle
 DECL|variable|QWidget

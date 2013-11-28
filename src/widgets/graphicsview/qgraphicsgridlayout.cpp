@@ -49,3 +49,4 @@ DECL|function|styleInfo
 DECL|function|verticalSpacing
 DECL|function|~QGraphicsGridLayout
 DECL|member|engine
+DECL|member|m_styleInfo

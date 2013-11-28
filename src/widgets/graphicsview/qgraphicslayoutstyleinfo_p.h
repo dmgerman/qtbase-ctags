@@ -1,0 +1,4 @@
+DECL|macro|QGRAPHICSLAYOUTSTYLEINFO_P_H
+DECL|variable|QGraphicsLayoutPrivate
+DECL|variable|QStyle
+DECL|variable|QWidget

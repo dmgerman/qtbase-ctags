@@ -1,0 +1,2 @@
+DECL|macro|QGRAPHICSGRIDLAYOUTENGINE_P_H
+DECL|variable|QGraphicsLayoutPrivate
