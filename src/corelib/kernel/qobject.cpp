@@ -127,4 +127,5 @@ DECL|variable|destroyed_qml1
 DECL|variable|isSignalConnected
 DECL|variable|parentChanged
 DECL|variable|receivers
+DECL|variable|setWidgetParent
 DECL|variable|signalEmitted

@@ -300,6 +300,7 @@ DECL|function|setUpdatesEnabled_helper
 DECL|function|setVisible
 DECL|function|setWSGeometry
 DECL|function|setWhatsThis
+DECL|function|setWidgetParentHelper
 DECL|function|setWinId
 DECL|function|setWindowFilePath
 DECL|function|setWindowFilePath_helper
