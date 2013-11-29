@@ -1,7 +1,7 @@
 DECL|variable|label
-DECL|variable|nameEd
-DECL|variable|nameLb
-DECL|variable|phoneEd
+DECL|variable|nameEdit
+DECL|variable|nameLabel
+DECL|variable|phoneEdit
 DECL|variable|phoneEdit
 DECL|variable|phoneLabel
-DECL|variable|phoneLb
+DECL|variable|phoneLabel

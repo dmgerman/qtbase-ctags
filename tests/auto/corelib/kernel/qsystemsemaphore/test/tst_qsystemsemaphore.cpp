@@ -11,6 +11,7 @@ DECL|function|key
 DECL|function|key_data
 DECL|function|processes
 DECL|function|processes_data
+DECL|function|release
 DECL|function|tst_QSystemSemaphore
 DECL|function|undo
 DECL|macro|EXISTING_SHARE
