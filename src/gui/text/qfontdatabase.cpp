@@ -76,6 +76,7 @@ DECL|macro|FD_DEBUG
 DECL|macro|FM_DEBUG
 DECL|macro|FM_DEBUG
 DECL|macro|SMOOTH_SCALABLE
+DECL|member|WritingSystemsCount
 DECL|member|aliases
 DECL|member|antialiased
 DECL|member|applicationFonts
