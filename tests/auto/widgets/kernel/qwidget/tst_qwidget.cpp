@@ -260,6 +260,7 @@ DECL|function|resizeEvent
 DECL|function|resizeEvent
 DECL|function|resizeInPaintEvent
 DECL|function|resizeMe
+DECL|function|resizeStaticContentsChildWidget_QTBUG35282
 DECL|function|resizeUp
 DECL|function|restoreVersion1Geometry
 DECL|function|restoreVersion1Geometry_data
