@@ -1,5 +1,4 @@
 DECL|enumerator|IsInteger
-DECL|enumerator|IsInteger
 DECL|function|_q_ia64_fetchadd_immediate
 DECL|function|deref
 DECL|function|fetchAndAddAcquire
@@ -77,5 +76,4 @@ DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
 DECL|struct|char16_t
-DECL|struct|char32_t
 DECL|struct|size

@@ -1,4 +1,3 @@
-DECL|enumerator|IsInteger
 DECL|function|atomic
 DECL|function|sizeof
 DECL|function|value
@@ -95,7 +94,6 @@ DECL|struct|N
 DECL|struct|QAtomicWindowsType
 DECL|struct|QAtomicWindowsType
 DECL|struct|T
-DECL|struct|char32_t
 DECL|typedef|Type
 DECL|typedef|Type
 DECL|typedef|Type

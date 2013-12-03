@@ -1,5 +1,4 @@
 DECL|enumerator|IsInteger
-DECL|enumerator|IsInteger
 DECL|function|sizeof
 DECL|macro|EBX_load
 DECL|macro|EBX_load
@@ -63,5 +62,4 @@ DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
 DECL|struct|QBasicAtomicOps
 DECL|struct|char16_t
-DECL|struct|char32_t
 DECL|struct|size
