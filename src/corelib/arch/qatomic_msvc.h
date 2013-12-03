@@ -1,3 +1,5 @@
+DECL|enumerator|IsSupported
+DECL|enumerator|IsSupported
 DECL|function|atomic
 DECL|function|sizeof
 DECL|function|value
@@ -91,6 +93,8 @@ DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
 DECL|member|private
 DECL|struct|N
+DECL|struct|QAtomicOpsSupport
+DECL|struct|QAtomicOpsSupport
 DECL|struct|QAtomicWindowsType
 DECL|struct|QAtomicWindowsType
 DECL|struct|T

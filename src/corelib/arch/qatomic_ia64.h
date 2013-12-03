@@ -1,4 +1,6 @@
-DECL|enumerator|IsInteger
+DECL|enumerator|IsSupported
+DECL|enumerator|IsSupported
+DECL|enumerator|IsSupported
 DECL|function|_q_ia64_fetchadd_immediate
 DECL|function|deref
 DECL|function|fetchAndAddAcquire
@@ -75,5 +77,7 @@ DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
-DECL|struct|char16_t
+DECL|struct|QAtomicOpsSupport
+DECL|struct|QAtomicOpsSupport
+DECL|struct|QAtomicOpsSupport
 DECL|struct|size
