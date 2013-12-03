@@ -44,6 +44,7 @@ DECL|function|startLogging
 DECL|function|startLogging
 DECL|function|stopLogging
 DECL|function|stopLogging
+DECL|function|stringsMatch
 DECL|function|unhandledIgnoreMessages
 DECL|function|verboseLevel
 DECL|function|warn
