@@ -3,7 +3,6 @@ DECL|function|applyWindowState
 DECL|function|clearMMRendererWindow
 DECL|function|createWindowGroup
 DECL|function|findWindow
-DECL|function|gainedFocus
 DECL|function|initWindow
 DECL|function|isExposed
 DECL|function|lower
