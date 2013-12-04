@@ -1,0 +1,11 @@
+DECL|function|asyncExpose
+DECL|function|createMessageWindow
+DECL|function|nativeResourceForContext
+DECL|function|nativeResourceForWindow
+DECL|function|registerWindowClass
+DECL|function|setAsyncExpose
+DECL|function|setWindowProperty
+DECL|function|windowProperties
+DECL|function|windowProperty
+DECL|function|windowProperty
+DECL|variable|customMarginPropertyC

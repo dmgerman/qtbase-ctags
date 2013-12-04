@@ -1,0 +1,7 @@
+DECL|class|QWindowsGdiIntegrationPrivate
+DECL|function|QWindowsGdiIntegration
+DECL|function|createPlatformBackingStore
+DECL|function|createPlatformPixmap
+DECL|function|nativeInterface
+DECL|function|~QWindowsGdiIntegration
+DECL|member|m_nativeInterface

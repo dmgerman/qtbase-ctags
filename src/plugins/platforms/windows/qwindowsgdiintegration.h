@@ -1,0 +1,2 @@
+DECL|macro|QWINDOWSGDIINTEGRATION_H
+DECL|variable|QWindowsGdiIntegrationPrivate
