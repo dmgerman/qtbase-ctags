@@ -1,0 +1,2 @@
+DECL|macro|QWINDOWSDIRECT2DCONTEXT_H
+DECL|variable|QWindowsDirect2DContextPrivate

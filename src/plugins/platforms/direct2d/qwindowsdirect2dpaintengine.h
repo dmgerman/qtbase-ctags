@@ -1,0 +1,3 @@
+DECL|macro|QWINDOWSDIRECT2DPAINTENGINE_H
+DECL|variable|QWindowsDirect2DBitmap
+DECL|variable|QWindowsDirect2DPaintEnginePrivate
