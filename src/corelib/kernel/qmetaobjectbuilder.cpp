@@ -140,6 +140,7 @@ DECL|function|toRelocatableData
 DECL|function|type
 DECL|function|value
 DECL|function|writeBlob
+DECL|function|writeString
 DECL|function|~QMetaObjectBuilder
 DECL|macro|ALIGN
 DECL|member|attributes
