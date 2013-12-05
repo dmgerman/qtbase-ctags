@@ -56,6 +56,7 @@ DECL|function|varGlue
 DECL|function|varList
 DECL|function|verifyCompilers
 DECL|function|verifyExtraCompiler
+DECL|function|windowsifyPath
 DECL|function|write
 DECL|function|writeDummyMakefile
 DECL|function|writeExtraCompilerTargets
