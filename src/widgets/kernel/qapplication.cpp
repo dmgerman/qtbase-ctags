@@ -47,7 +47,6 @@ DECL|function|keypadNavigationEnabled
 DECL|function|navigationMode
 DECL|function|notify
 DECL|function|notifyDragStarted
-DECL|function|notifyLayoutDirectionChange
 DECL|function|notifyThemeChanged
 DECL|function|notify_helper
 DECL|function|palette
