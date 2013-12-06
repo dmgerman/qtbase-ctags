@@ -69,6 +69,7 @@ DECL|function|filterHierarchy_data
 DECL|function|filterOutParentAndFilterInChild
 DECL|function|filterTable
 DECL|function|filter_data
+DECL|function|filter_qtbug30662
 DECL|function|filteredColumns
 DECL|function|getSetCheck
 DECL|function|hasChildren
