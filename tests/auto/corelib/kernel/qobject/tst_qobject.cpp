@@ -225,6 +225,7 @@ DECL|function|moveToThread
 DECL|function|myFloat
 DECL|function|myQReal
 DECL|function|namespaces
+DECL|function|noDeclarativeParentChangedOnDestruction
 DECL|function|normalize
 DECL|function|number
 DECL|function|o
@@ -399,6 +400,7 @@ DECL|function|stringSlot3
 DECL|function|structPointerSlot
 DECL|function|structSlot
 DECL|function|test
+DECL|function|testParentChanged
 DECL|function|testUserData
 DECL|function|theSlot
 DECL|function|theSlot
@@ -556,6 +558,7 @@ DECL|typedef|fptr
 DECL|variable|Value
 DECL|variable|countedStructObjectsCount
 DECL|variable|instanceCount
+DECL|variable|parentChangeCalled
 DECL|variable|receivedCount
 DECL|variable|s_qobjectCreatedOnShutdown
 DECL|variable|s_static_slot_checker

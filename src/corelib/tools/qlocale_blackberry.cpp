@@ -14,7 +14,7 @@ DECL|function|readRegionLocale
 DECL|function|regionLocale
 DECL|function|timeFormat
 DECL|function|~QBBSystemLocaleData
-DECL|variable|ppsBufferSize
+DECL|variable|MAX_PPS_SIZE
 DECL|variable|ppsHourFormatPath
 DECL|variable|ppsLanguageLocalePath
 DECL|variable|ppsRegionLocalePath

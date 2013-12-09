@@ -1,5 +1,12 @@
+DECL|class|DummyFontDatabase
 DECL|function|QMinimalIntegration
 DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformWindow
+DECL|function|fontDatabase
 DECL|function|hasCapability
+DECL|function|instance
+DECL|function|parseOptions
+DECL|function|populateFontDatabase
+DECL|function|~QMinimalIntegration
+DECL|variable|debugBackingStoreEnvironmentVariable
