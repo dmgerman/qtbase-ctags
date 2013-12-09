@@ -17,7 +17,7 @@ DECL|function|qt_blend_rgb32_on_rgb32_neon
 DECL|function|qt_destFetchRGB16_neon
 DECL|function|qt_destStoreRGB16_neon
 DECL|function|qt_fetch_radial_gradient_neon
-DECL|function|qt_memfill32_neon
+DECL|function|qt_memfill32
 DECL|function|qt_memrotate270_16_neon
 DECL|function|qt_memrotate90_16_neon
 DECL|function|qt_scale_image_argb32_on_rgb16_neon

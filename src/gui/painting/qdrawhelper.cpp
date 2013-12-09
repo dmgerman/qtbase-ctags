@@ -178,9 +178,8 @@ DECL|function|qt_fetch_radial_gradient_plain
 DECL|function|qt_gradient_pixel_fixed
 DECL|function|qt_gradient_quint16
 DECL|function|qt_gradient_quint32
-DECL|function|qt_memfill16_setup
-DECL|function|qt_memfill32_setup
-DECL|function|qt_memfill_quint16
+DECL|function|qt_memfill16
+DECL|function|qt_memfill32
 DECL|function|qt_memfill_template
 DECL|function|qt_memfill_template
 DECL|function|qt_memfill_template
@@ -300,8 +299,6 @@ DECL|struct|QBlendBase
 DECL|struct|QFullCoverage
 DECL|struct|QPartialCoverage
 DECL|typedef|FetchPixelFunc
-DECL|typedef|qt_memfill16_func
-DECL|typedef|qt_memfill32_func
 DECL|variable|L2CacheLineLength
 DECL|variable|L2CacheLineLengthInInts
 DECL|variable|buffer_size
@@ -318,6 +315,4 @@ DECL|variable|qFetchPixels
 DECL|variable|qPixelLayouts
 DECL|variable|qStorePixels
 DECL|variable|qt_fetch_radial_gradient
-DECL|variable|qt_memfill16
-DECL|variable|qt_memfill32
 DECL|variable|sourceFetch
