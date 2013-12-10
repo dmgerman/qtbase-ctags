@@ -1,10 +1,15 @@
 DECL|function|QPlatformPrinterSupport
+DECL|function|availablePrintDeviceIds
 DECL|function|availablePrinters
 DECL|function|convertPaperSizeToQSizeF
 DECL|function|convertQSizeFToPaperSize
+DECL|function|createDefaultPrintDevice
 DECL|function|createNativePrintEngine
 DECL|function|createPaintEngine
+DECL|function|createPrintDevice
+DECL|function|createPrintDevice
 DECL|function|createPrinterInfo
+DECL|function|defaultPrintDeviceId
 DECL|function|defaultPrinter
 DECL|function|printerIndex
 DECL|function|printerInfo
