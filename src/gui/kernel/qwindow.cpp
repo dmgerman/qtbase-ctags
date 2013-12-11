@@ -112,6 +112,7 @@ DECL|function|surfaceHandle
 DECL|function|surfaceType
 DECL|function|tabletEvent
 DECL|function|title
+DECL|function|topLevelWindow
 DECL|function|touchEvent
 DECL|function|transientParent
 DECL|function|type
