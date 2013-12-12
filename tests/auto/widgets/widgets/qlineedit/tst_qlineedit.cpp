@@ -30,6 +30,8 @@ DECL|function|bidiLogicalMovement
 DECL|function|bidiLogicalMovement_data
 DECL|function|bidiVisualMovement
 DECL|function|bidiVisualMovement_data
+DECL|function|centerOnScreen
+DECL|function|centerOnScreen
 DECL|function|charWithAltOrCtrlModifier
 DECL|function|cleanup
 DECL|function|cleanupTestCase
@@ -48,6 +50,7 @@ DECL|function|drawPrimitive
 DECL|function|editInvalidText
 DECL|function|edited
 DECL|function|editingFinished
+DECL|function|ensureTestWidget
 DECL|function|experimental
 DECL|function|figureOutProperKey
 DECL|function|fixup
@@ -170,12 +173,12 @@ DECL|member|lineEdit1
 DECL|member|lineEdit2
 DECL|member|m_keyboardScheme
 DECL|member|m_platformInputContext
+DECL|member|m_testWidget
 DECL|member|newCursorPos
 DECL|member|readOnly
 DECL|member|return_count
 DECL|member|selection_count
 DECL|member|state
-DECL|member|testWidget
 DECL|member|updateRegion
 DECL|member|updates
 DECL|member|validInput
