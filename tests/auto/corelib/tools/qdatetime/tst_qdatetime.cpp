@@ -1,4 +1,7 @@
 DECL|class|tst_QDateTime
+DECL|enumerator|LocalTimeAheadOfUtc
+DECL|enumerator|LocalTimeBehindUtc
+DECL|enumerator|LocalTimeIsUtc
 DECL|function|addDays
 DECL|function|addMSecs
 DECL|function|addMSecs_data
@@ -32,6 +35,7 @@ DECL|function|fromStringToStringLocale_data
 DECL|function|fromString_LOCALE_ILDATE
 DECL|function|getDate
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|invalid
 DECL|function|invalidDate
 DECL|function|invalidDateTime
@@ -87,3 +91,4 @@ DECL|function|toUTC_data
 DECL|function|tst_QDateTime
 DECL|function|utcOffsetLessThan
 DECL|member|europeanTimeZone
+DECL|member|localTimeType
