@@ -11,6 +11,8 @@ DECL|enumerator|SSE4_1
 DECL|enumerator|SSE4_2
 DECL|enumerator|SSSE3
 DECL|enum|CPUFeatures
+DECL|function|_bit_scan_forward
+DECL|function|_bit_scan_forward
 DECL|function|_bit_scan_reverse
 DECL|function|_bit_scan_reverse
 DECL|function|qCpuFeatures
