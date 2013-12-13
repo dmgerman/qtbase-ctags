@@ -8,8 +8,6 @@ DECL|function|QueryInterface
 DECL|function|Release
 DECL|function|cacheKeyFor
 DECL|function|loadCompiler
-DECL|function|makePath
-DECL|function|serviceAvailable
 DECL|function|~Blob
 DECL|member|IID_ID3DBlob
 DECL|member|IID_IUnknown
