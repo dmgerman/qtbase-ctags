@@ -19,6 +19,7 @@ DECL|function|tst_min_max_size
 DECL|function|tst_min_max_size_data
 DECL|function|tst_move_show
 DECL|function|tst_paintEventOnSecondShow
+DECL|function|tst_qtbug35600
 DECL|function|tst_resize_show
 DECL|function|tst_showWithoutActivating
 DECL|function|tst_show_move
