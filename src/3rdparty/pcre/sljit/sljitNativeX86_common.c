@@ -36,6 +36,7 @@ DECL|function|sljit_emit_op2
 DECL|function|sljit_emit_op_custom
 DECL|function|sljit_emit_op_flags
 DECL|function|sljit_generate_code
+DECL|function|sljit_get_float_register_index
 DECL|function|sljit_get_local_base
 DECL|function|sljit_get_platform_name
 DECL|function|sljit_get_register_index
@@ -132,6 +133,7 @@ DECL|macro|NOT_rm
 DECL|macro|OR
 DECL|macro|OR_EAX_i32
 DECL|macro|OR_r_rm
+DECL|macro|OR_rm8_r8
 DECL|macro|OR_rm_r
 DECL|macro|POPF
 DECL|macro|POP_REG

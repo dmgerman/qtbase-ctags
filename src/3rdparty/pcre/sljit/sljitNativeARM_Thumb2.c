@@ -32,6 +32,7 @@ DECL|function|sljit_emit_op_custom
 DECL|function|sljit_emit_op_flags
 DECL|function|sljit_emit_return
 DECL|function|sljit_generate_code
+DECL|function|sljit_get_float_register_index
 DECL|function|sljit_get_platform_name
 DECL|function|sljit_get_register_index
 DECL|function|sljit_is_fpu_available

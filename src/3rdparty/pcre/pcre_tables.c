@@ -137,6 +137,7 @@ DECL|macro|STRING_Vai0
 DECL|macro|STRING_Xan0
 DECL|macro|STRING_Xps0
 DECL|macro|STRING_Xsp0
+DECL|macro|STRING_Xuc0
 DECL|macro|STRING_Xwd0
 DECL|macro|STRING_Yi0
 DECL|macro|STRING_Z0

@@ -3,6 +3,7 @@ DECL|function|alloc_chunk
 DECL|function|free_chunk
 DECL|function|free_chunk
 DECL|function|sljit_free_exec
+DECL|function|sljit_free_unused_memory_exec
 DECL|function|sljit_insert_free_block
 DECL|function|sljit_malloc_exec
 DECL|function|sljit_remove_free_block
