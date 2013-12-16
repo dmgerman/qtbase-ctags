@@ -4,6 +4,7 @@ DECL|function|QImageWriter
 DECL|function|QImageWriter
 DECL|function|QImageWriterPrivate
 DECL|function|canWrite
+DECL|function|canWriteHelper
 DECL|function|compression
 DECL|function|createWriteHandlerHelper
 DECL|function|description

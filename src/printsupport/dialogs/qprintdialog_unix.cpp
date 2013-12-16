@@ -10,7 +10,6 @@ DECL|function|QUnixPrintWidget
 DECL|function|QUnixPrintWidgetPrivate
 DECL|function|_q_btnBrowseClicked
 DECL|function|_q_btnPropertiesClicked
-DECL|function|_q_chbPrintLastFirstToggled
 DECL|function|_q_checkFields
 DECL|function|_q_collapseOrExpandDialog
 DECL|function|_q_printerChanged
