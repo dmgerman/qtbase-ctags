@@ -12,6 +12,8 @@ DECL|function|do_meta_command
 DECL|function|dump_callback
 DECL|function|endTimer
 DECL|function|endTimer
+DECL|function|explain_data_delete
+DECL|function|explain_data_prepare
 DECL|function|find_home_dir
 DECL|function|hasTimer
 DECL|function|hexDigitValue
@@ -46,10 +48,12 @@ DECL|function|shell_callback
 DECL|function|shell_exec
 DECL|function|shellstaticFunc
 DECL|function|sql_trace_callback
+DECL|function|str_in_array
 DECL|function|strlen30
 DECL|function|test_breakpoint
 DECL|function|timeDiff
 DECL|function|timeDiff
+DECL|function|timeOfDay
 DECL|function|usage
 DECL|macro|ArraySize
 DECL|macro|BEGIN_TIMER
@@ -90,6 +94,7 @@ DECL|macro|read_history
 DECL|macro|stifle_history
 DECL|macro|write_history
 DECL|member|actualWidth
+DECL|member|aiIndent
 DECL|member|cSeparator
 DECL|member|cTerm
 DECL|member|cnt
@@ -98,12 +103,14 @@ DECL|member|colWidth
 DECL|member|db
 DECL|member|echoOn
 DECL|member|explainPrev
+DECL|member|iIndent
 DECL|member|in
 DECL|member|mode
 DECL|member|mode
 DECL|member|n
 DECL|member|nAlloc
 DECL|member|nErr
+DECL|member|nIndent
 DECL|member|nLine
 DECL|member|nullvalue
 DECL|member|out
@@ -121,6 +128,7 @@ DECL|member|z
 DECL|member|zDbFilename
 DECL|member|zDestTable
 DECL|member|zFile
+DECL|member|zFreeOnClose
 DECL|member|zVfs
 DECL|struct|CSVReader
 DECL|struct|callback_data
@@ -134,8 +142,10 @@ DECL|variable|db
 DECL|variable|enableTimer
 DECL|variable|ftKernelBegin
 DECL|variable|ftUserBegin
+DECL|variable|ftWallBegin
 DECL|variable|getProcessTimesAddr
 DECL|variable|hProcess
+DECL|variable|iBegin
 DECL|variable|iotrace
 DECL|variable|mainPrompt
 DECL|variable|modeDescr
