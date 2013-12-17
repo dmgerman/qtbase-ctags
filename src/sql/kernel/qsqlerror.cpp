@@ -1,3 +1,4 @@
+DECL|class|QSqlErrorPrivate
 DECL|function|QSqlError
 DECL|function|QSqlError
 DECL|function|databaseText
@@ -15,3 +16,7 @@ DECL|function|setType
 DECL|function|text
 DECL|function|type
 DECL|function|~QSqlError
+DECL|member|databaseError
+DECL|member|driverError
+DECL|member|errorNumber
+DECL|member|errorType
