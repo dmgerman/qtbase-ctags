@@ -47,8 +47,6 @@ DECL|function|setPageMargins
 DECL|function|setProperty
 DECL|function|strokePath
 DECL|function|strokePath_dev
-DECL|function|supportedPaperSizes
-DECL|function|supportedSizesWithNames
 DECL|function|updateClipPath
 DECL|function|updateCustomPaperSize
 DECL|function|updateMatrix
