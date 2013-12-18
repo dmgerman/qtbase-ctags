@@ -39,6 +39,8 @@ DECL|function|endsWith
 DECL|function|endsWith
 DECL|function|endsWith
 DECL|function|endsWith
+DECL|function|exec
+DECL|function|exec
 DECL|function|expand
 DECL|function|extractSections
 DECL|function|fill
@@ -245,3 +247,4 @@ DECL|member|pos
 DECL|member|string
 DECL|struct|ArgEscapeData
 DECL|struct|QStringCapture
+DECL|struct|UnrollTailLoop
