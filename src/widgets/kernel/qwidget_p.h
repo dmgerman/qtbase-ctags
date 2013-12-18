@@ -68,6 +68,7 @@ DECL|member|role
 DECL|member|savedFlags
 DECL|member|savedWindowAttributesFromMaximized
 DECL|member|screenIndex
+DECL|member|shareContext
 DECL|member|sharedPainter
 DECL|member|sharedPainter
 DECL|member|sizeAdjusted
@@ -93,6 +94,7 @@ DECL|struct|QTLWExtra
 DECL|struct|QWExtra
 DECL|struct|QWidgetPaintContext
 DECL|variable|QGraphicsProxyWidget
+DECL|variable|QOpenGLContext
 DECL|variable|QPaintEngine
 DECL|variable|QPixmap
 DECL|variable|QStyle

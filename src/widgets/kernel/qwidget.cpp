@@ -273,6 +273,7 @@ DECL|function|setWindowOpacity
 DECL|function|setWindowRole
 DECL|function|setWindowTitle
 DECL|function|setWindowTitle_helper
+DECL|function|shareContext
 DECL|function|sharedPainter
 DECL|function|show
 DECL|function|showChildren

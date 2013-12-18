@@ -6,6 +6,7 @@ DECL|function|discardInvalidateBufferRequest
 DECL|function|discardSyncRequest
 DECL|function|doSync
 DECL|function|endPaint
+DECL|function|findTextureWidgetsRecursively
 DECL|function|flush
 DECL|function|flushPaint
 DECL|function|invalidateBuffer

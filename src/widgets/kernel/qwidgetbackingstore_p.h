@@ -4,3 +4,4 @@ DECL|member|backingStoreRecreated
 DECL|member|nothingToPaint
 DECL|member|wasFlushed
 DECL|struct|BeginPaintInfo
+DECL|variable|QPlatformTextureList

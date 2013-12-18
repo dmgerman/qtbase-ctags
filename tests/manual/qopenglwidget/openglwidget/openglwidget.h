@@ -1,0 +1,2 @@
+DECL|macro|OPENGLWIDGET_H
+DECL|variable|OpenGLWidgetPrivate
