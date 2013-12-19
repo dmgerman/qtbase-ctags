@@ -5,6 +5,8 @@ DECL|function|critical
 DECL|function|critical
 DECL|function|debug
 DECL|function|debug
+DECL|function|grabMessageHandler
+DECL|function|grabMessageHandler
 DECL|function|hasStdErr
 DECL|function|isFatal
 DECL|function|qCleanupFuncinfo
@@ -23,6 +25,8 @@ DECL|function|qt_message_output
 DECL|function|qt_message_print
 DECL|function|setPattern
 DECL|function|slog2_default_handler
+DECL|function|ungrabMessageHandler
+DECL|function|ungrabMessageHandler
 DECL|function|warning
 DECL|function|warning
 DECL|function|~QMessagePattern
@@ -58,6 +62,8 @@ DECL|variable|lineTokenC
 DECL|variable|messageHandler
 DECL|variable|messageTokenC
 DECL|variable|msgHandler
+DECL|variable|msgHandlerGrabbed
+DECL|variable|msgHandlerGrabbed
 DECL|variable|pidTokenC
 DECL|variable|threadidTokenC
 DECL|variable|typeTokenC
