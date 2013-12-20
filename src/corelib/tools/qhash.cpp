@@ -1,10 +1,12 @@
 DECL|function|allocateNode
 DECL|function|checkSanity
 DECL|function|countBits
+DECL|function|crc32
 DECL|function|detach_helper
 DECL|function|dump
 DECL|function|freeNode
 DECL|function|free_helper
+DECL|function|hasFastCrc32
 DECL|function|nextNode
 DECL|function|previousNode
 DECL|function|primeForNumBits
