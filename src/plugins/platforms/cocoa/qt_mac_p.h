@@ -16,6 +16,6 @@ DECL|member|modifiers
 DECL|member|rect
 DECL|struct|QMacDndAnswerRecord
 DECL|variable|QDragMoveEvent
-DECL|variable|QMacPasteboardMime
+DECL|variable|QMacInternalPasteboardMime
 DECL|variable|QMimeData
 DECL|variable|QWidget

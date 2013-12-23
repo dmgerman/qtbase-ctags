@@ -10,6 +10,7 @@ DECL|macro|HB_OT_LAYOUT_NO_SCRIPT_INDEX
 DECL|macro|HB_OT_TAG_GDEF
 DECL|macro|HB_OT_TAG_GPOS
 DECL|macro|HB_OT_TAG_GSUB
+DECL|macro|HB_OT_TAG_JSTF
 DECL|member|after
 DECL|member|after_length
 DECL|member|before
