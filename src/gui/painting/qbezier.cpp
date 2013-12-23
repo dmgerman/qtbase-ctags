@@ -15,7 +15,6 @@ DECL|function|good_offset
 DECL|function|length
 DECL|function|mapBy
 DECL|function|operator <<
-DECL|function|quadraticRoots
 DECL|function|shift
 DECL|function|shifted
 DECL|function|stationaryYPoints

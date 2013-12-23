@@ -83,6 +83,7 @@ DECL|function|startWithOpen
 DECL|function|switchReadChannels
 DECL|function|systemEnvironment
 DECL|function|terminateSlot
+DECL|function|testSetNamedPipeHandleState
 DECL|function|waitForBytesWrittenInABytesWrittenSlot
 DECL|function|waitForBytesWrittenInABytesWrittenSlotSlot
 DECL|function|waitForFinished

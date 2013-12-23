@@ -12,6 +12,7 @@ DECL|function|supportedFormats
 DECL|function|supportedMimeTypes
 DECL|function|supportsOption
 DECL|function|supportsOption_data
+DECL|function|testCanWrite
 DECL|function|tst_QImageWriter
 DECL|function|writeImage
 DECL|function|writeImage2

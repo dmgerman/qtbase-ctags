@@ -13,6 +13,7 @@ DECL|function|buildMetaObject
 DECL|function|checkForSideEffects
 DECL|function|classInfo
 DECL|function|className
+DECL|function|classNameFirstInStringData
 DECL|function|constructor
 DECL|function|copyMetaObject
 DECL|function|create

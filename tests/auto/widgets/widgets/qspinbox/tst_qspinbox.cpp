@@ -10,6 +10,7 @@ DECL|function|lineEdit
 DECL|function|lineEditReturnPressed
 DECL|function|locale
 DECL|function|locale_data
+DECL|function|positiveSign
 DECL|function|removeAll
 DECL|function|setDisplayIntegerBase
 DECL|function|setDisplayIntegerBase_data
