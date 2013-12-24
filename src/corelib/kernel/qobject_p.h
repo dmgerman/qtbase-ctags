@@ -11,10 +11,13 @@ DECL|function|setCurrentSender
 DECL|function|toDynamicMetaObject
 DECL|function|~QDynamicMetaObjectData
 DECL|macro|QOBJECT_P_H
+DECL|member|ownedByQml1
 DECL|member|signal_begin_callback
 DECL|member|signal_end_callback
 DECL|member|slot_begin_callback
 DECL|member|slot_end_callback
+DECL|member|unused
+DECL|struct|QAbstractDeclarativeData
 DECL|struct|QDynamicMetaObjectData
 DECL|struct|QMetaObject
 DECL|struct|QSignalSpyCallbackSet
