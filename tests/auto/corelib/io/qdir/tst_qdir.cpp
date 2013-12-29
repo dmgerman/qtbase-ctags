@@ -9,6 +9,7 @@ DECL|function|canonicalPath
 DECL|function|canonicalPath_data
 DECL|function|cd
 DECL|function|cdBelowRoot
+DECL|function|cdNonreadable
 DECL|function|cd_data
 DECL|function|cleanPath
 DECL|function|cleanPath_data
