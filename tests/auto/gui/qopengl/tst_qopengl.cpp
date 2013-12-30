@@ -11,6 +11,8 @@ DECL|function|fboRendering
 DECL|function|fboRendering_data
 DECL|function|fboSimpleRendering
 DECL|function|fboSimpleRendering_data
+DECL|function|fboTextureOwnership
+DECL|function|fboTextureOwnership_data
 DECL|function|freeResource
 DECL|function|fuzzyCompareImages
 DECL|function|fuzzyComparePixels
