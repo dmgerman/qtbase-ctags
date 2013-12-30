@@ -25,6 +25,7 @@ DECL|function|numCopies
 DECL|function|orientation
 DECL|function|outputFileName
 DECL|function|outputFormat
+DECL|function|pageLayout
 DECL|function|pageOrder
 DECL|function|pageRect
 DECL|function|pageRect
@@ -43,10 +44,7 @@ DECL|function|printRange
 DECL|function|printerName
 DECL|function|printerSelectionOption
 DECL|function|printerState
-DECL|function|qSizeFTopaperSize
-DECL|function|qt_SizeFromUnitToMillimeter
 DECL|function|qt_multiplierForUnit
-DECL|function|qt_paperSizeToQSizeF
 DECL|function|qt_printerPaperSize
 DECL|function|resolution
 DECL|function|setCollateCopies
@@ -65,8 +63,12 @@ DECL|function|setNumCopies
 DECL|function|setOrientation
 DECL|function|setOutputFileName
 DECL|function|setOutputFormat
+DECL|function|setPageLayout
+DECL|function|setPageMargins
 DECL|function|setPageMargins
 DECL|function|setPageOrder
+DECL|function|setPageOrientation
+DECL|function|setPageSize
 DECL|function|setPageSize
 DECL|function|setPageSizeMM
 DECL|function|setPaperName
@@ -88,4 +90,4 @@ DECL|function|toPage
 DECL|function|winPageSize
 DECL|function|~QPrinter
 DECL|macro|ABORT_IF_ACTIVE
-DECL|variable|qt_paperSizes
+DECL|macro|ABORT_IF_ACTIVE_RETURN

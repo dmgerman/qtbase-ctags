@@ -21,7 +21,6 @@ DECL|function|fontEmbedding
 DECL|function|fromToPage
 DECL|function|fullPage
 DECL|function|initTestCase
-DECL|function|msgSizeMismatch
 DECL|function|orientation
 DECL|function|outputFileName
 DECL|function|outputFormat
