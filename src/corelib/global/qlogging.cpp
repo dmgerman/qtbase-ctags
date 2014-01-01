@@ -23,6 +23,7 @@ DECL|function|qt_message_output
 DECL|function|qt_message_print
 DECL|function|setPattern
 DECL|function|slog2_default_handler
+DECL|function|systemd_default_message_handler
 DECL|function|warning
 DECL|function|warning
 DECL|function|~QMessagePattern
