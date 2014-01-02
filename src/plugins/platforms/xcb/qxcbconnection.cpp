@@ -50,9 +50,9 @@ DECL|function|ungrabServer
 DECL|function|unlock
 DECL|function|updateScreens
 DECL|function|windowEventListenerFromId
-DECL|function|xi2CountBits
 DECL|function|xi2GetValuatorValueIfSet
 DECL|function|xi2PrepareXIGenericDeviceEvent
+DECL|function|xi2ValuatorOffset
 DECL|function|~QXcbConnection
 DECL|function|~QXcbConnectionGrabber
 DECL|macro|HANDLE_KEYBOARD_EVENT

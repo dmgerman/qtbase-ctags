@@ -5,6 +5,7 @@ DECL|function|fixed1616ToReal
 DECL|function|initializeXInput2
 DECL|function|valuatorNormalized
 DECL|function|xi2HandleEvent
+DECL|function|xi2HandleScrollEvent
 DECL|function|xi2HandleTabletEvent
 DECL|function|xi2ReportTabletEvent
 DECL|function|xi2Select
