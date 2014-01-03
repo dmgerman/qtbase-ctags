@@ -37,9 +37,12 @@ DECL|field|m_qtLibs
 DECL|field|m_repository
 DECL|field|m_sources
 DECL|method|QtActivity
+DECL|method|cleanCacheIfNecessary
+DECL|method|cleanOldCacheIfNecessary
 DECL|method|copyAsset
 DECL|method|copyFile
 DECL|method|createBundledBinary
+DECL|method|deleteRecursively
 DECL|method|dispatchGenericMotionEvent
 DECL|method|dispatchKeyEvent
 DECL|method|dispatchKeyShortcutEvent
