@@ -28,6 +28,7 @@ DECL|function|mouseToTouchLoop
 DECL|function|mouseToTouchTranslation
 DECL|function|orientation
 DECL|function|positioning
+DECL|function|positioning_data
 DECL|function|received
 DECL|function|reset
 DECL|function|resetCounters
