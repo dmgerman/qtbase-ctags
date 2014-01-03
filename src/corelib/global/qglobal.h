@@ -242,4 +242,10 @@ DECL|variable|QByteArray
 DECL|variable|QDataStream
 DECL|variable|QStaticAssertFailure
 DECL|variable|QString
+DECL|variable|Q_DECL_UNUSED
+DECL|variable|Q_DECL_UNUSED
+DECL|variable|Q_DECL_UNUSED
+DECL|variable|Q_DECL_UNUSED
+DECL|variable|Q_DECL_UNUSED
+DECL|variable|Q_DECL_UNUSED
 DECL|variable|T
