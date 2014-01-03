@@ -93,7 +93,11 @@ DECL|function|loadFromData
 DECL|function|mask_alpha_converter
 DECL|function|mask_alpha_converter_RGBx
 DECL|function|metric
-DECL|function|mirrored
+DECL|function|mirror_horizonal_bitmap
+DECL|function|mirrored_helper
+DECL|function|mirrored_helper_loop
+DECL|function|mirrored_helper_loop_inplace
+DECL|function|mirrored_inplace
 DECL|function|offset
 DECL|function|operator !=
 DECL|function|operator <<
@@ -111,7 +115,9 @@ DECL|function|qInitImageConversions
 DECL|function|qt_get_bitflip_array
 DECL|function|qt_xForm_helper
 DECL|function|rect
-DECL|function|rgbSwapped
+DECL|function|rgbSwapped_generic
+DECL|function|rgbSwapped_helper
+DECL|function|rgbSwapped_inplace
 DECL|function|rotated180
 DECL|function|rotated270
 DECL|function|rotated90
