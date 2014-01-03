@@ -111,7 +111,6 @@ DECL|function|qDot
 DECL|function|qFraction
 DECL|function|qIntersectionPoint
 DECL|function|qIntersectionPoint
-DECL|function|qIntersectionPoint
 DECL|function|qPointDistanceFromLine
 DECL|function|qPointIsLeftOfLine
 DECL|function|qPolyline
