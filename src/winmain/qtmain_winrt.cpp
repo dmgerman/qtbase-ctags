@@ -22,3 +22,4 @@ DECL|member|m_debugWait
 DECL|member|newmode
 DECL|typedef|ActivatedHandler
 DECL|typedef|_startupinfo
+DECL|variable|g_mainExitCode
