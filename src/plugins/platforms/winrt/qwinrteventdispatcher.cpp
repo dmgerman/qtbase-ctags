@@ -1,3 +1,4 @@
 DECL|function|QWinRTEventDispatcher
 DECL|function|hasPendingEvents
+DECL|function|interrupt
 DECL|function|processEvents
