@@ -1,0 +1,2 @@
+DECL|macro|QEGLPLATFORMWINDOW_H
+DECL|variable|QEGLPlatformBackingStore

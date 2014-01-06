@@ -1,0 +1,2 @@
+DECL|macro|QEGLPLATFORMCURSOR_H
+DECL|variable|QOpenGLShaderProgram

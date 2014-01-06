@@ -1,9 +1,9 @@
-DECL|function|QEglFSCompositor
+DECL|function|QEGLCompositor
 DECL|function|destroy
 DECL|function|ensureProgram
 DECL|function|instance
 DECL|function|render
 DECL|function|renderAll
 DECL|function|schedule
-DECL|function|~QEglFSCompositor
+DECL|function|~QEGLCompositor
 DECL|variable|compositor

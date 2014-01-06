@@ -1,8 +1,6 @@
-DECL|function|QEglFSCursor
+DECL|function|QEGLPlatformCursor
 DECL|function|changeCursor
 DECL|function|createCursorTexture
-DECL|function|createProgram
-DECL|function|createShader
 DECL|function|createShaderPrograms
 DECL|function|cursorRect
 DECL|function|draw
@@ -14,4 +12,4 @@ DECL|function|resetResources
 DECL|function|setCurrentCursor
 DECL|function|setPos
 DECL|function|update
-DECL|function|~QEglFSCursor
+DECL|function|~QEGLPlatformCursor

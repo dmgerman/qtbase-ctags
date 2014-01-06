@@ -1,0 +1,3 @@
+DECL|macro|QEGLPLATFORMBACKINGSTORE_H
+DECL|variable|QEGLPlatformWindow
+DECL|variable|QOpenGLContext

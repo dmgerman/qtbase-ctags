@@ -1,0 +1,4 @@
+DECL|macro|QEGLPLATFORMINTEGRATION_H
+DECL|variable|QEGLPlatformScreen
+DECL|variable|QEGLPlatformWindow
+DECL|variable|QPlatformIntegration
