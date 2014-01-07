@@ -30,6 +30,8 @@ DECL|function|displayName
 DECL|function|displayName
 DECL|function|hasDaylightTime
 DECL|function|hasTransitions
+DECL|function|ianaId
+DECL|function|ianaId
 DECL|function|ianaIdToWindowsId
 DECL|function|id
 DECL|function|init
@@ -42,8 +44,6 @@ DECL|function|isValidId
 DECL|function|isoOffsetFormat
 DECL|function|nextTransition
 DECL|function|offsetFromUtc
-DECL|function|olsenId
-DECL|function|olsenId
 DECL|function|operator !=
 DECL|function|operator ==
 DECL|function|previousTransition
