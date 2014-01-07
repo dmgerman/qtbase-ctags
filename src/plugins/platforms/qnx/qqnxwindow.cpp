@@ -5,6 +5,7 @@ DECL|function|createWindowGroup
 DECL|function|findWindow
 DECL|function|initWindow
 DECL|function|isExposed
+DECL|function|joinWindowGroup
 DECL|function|lower
 DECL|function|minimize
 DECL|function|propagateSizeHints
