@@ -1,8 +1,11 @@
 DECL|function|activity
+DECL|function|androidSdkVersion
 DECL|function|classLoader
 DECL|function|exceptionCheck
 DECL|function|initJNI
 DECL|function|javaVM
+DECL|function|setAndroidSdkVersion
+DECL|variable|g_androidSdkVersion
 DECL|variable|g_jActivity
 DECL|variable|g_jClassLoader
 DECL|variable|g_javaVM
