@@ -80,6 +80,7 @@ DECL|function|normalizedSignature
 DECL|function|normalizedType
 DECL|function|notifySignal
 DECL|function|notifySignalIndex
+DECL|function|objectClassName
 DECL|function|originalClone
 DECL|function|ownMethodIndex
 DECL|function|parameterCount
