@@ -1,2 +1,3 @@
 DECL|macro|QWINOVERLAPPEDIONOTIFIER_P_H
+DECL|typedef|OVERLAPPED
 DECL|variable|QWinOverlappedIoNotifierPrivate
