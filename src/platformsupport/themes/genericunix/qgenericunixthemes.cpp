@@ -22,6 +22,7 @@ DECL|function|palette
 DECL|function|readKdeFontSetting
 DECL|function|readKdeSystemPalette
 DECL|function|refresh
+DECL|function|standardButtonText
 DECL|function|themeHint
 DECL|function|themeHint
 DECL|function|themeHint

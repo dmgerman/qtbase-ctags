@@ -44,7 +44,6 @@ DECL|function|setCenterButtons
 DECL|function|setOrientation
 DECL|function|setStandardButtons
 DECL|function|standardButton
-DECL|function|standardButtonText
 DECL|function|standardButtons
 DECL|function|~QDialogButtonBox
 DECL|member|buttonLayout
