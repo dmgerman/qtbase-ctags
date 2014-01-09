@@ -3,6 +3,14 @@ DECL|function|android_default_message_handler
 DECL|function|copy
 DECL|function|critical
 DECL|function|critical
+DECL|function|critical
+DECL|function|critical
+DECL|function|critical
+DECL|function|critical
+DECL|function|debug
+DECL|function|debug
+DECL|function|debug
+DECL|function|debug
 DECL|function|debug
 DECL|function|debug
 DECL|function|hasStdErr
@@ -24,6 +32,10 @@ DECL|function|qt_message_print
 DECL|function|setPattern
 DECL|function|slog2_default_handler
 DECL|function|systemd_default_message_handler
+DECL|function|warning
+DECL|function|warning
+DECL|function|warning
+DECL|function|warning
 DECL|function|warning
 DECL|function|warning
 DECL|function|~QMessagePattern
