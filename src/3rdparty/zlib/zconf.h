@@ -152,6 +152,7 @@ DECL|macro|voidp
 DECL|macro|voidpc
 DECL|macro|voidpf
 DECL|macro|zError
+DECL|macro|z_errmsg
 DECL|macro|z_off64_t
 DECL|macro|z_off64_t
 DECL|macro|z_off_t

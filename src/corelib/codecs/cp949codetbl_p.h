@@ -1,2 +1,2 @@
-DECL|macro|CP494CODETBL_P_H
+DECL|macro|CP949CODETBL_P_H
 DECL|variable|cp949_icode_to_unicode

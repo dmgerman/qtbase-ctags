@@ -252,6 +252,7 @@ DECL|member|entityCharacterLimit
 DECL|member|entityRes
 DECL|member|error
 DECL|member|errorHnd
+DECL|member|expandedSizes
 DECL|member|externEntities
 DECL|member|externParameterEntities
 DECL|member|function
@@ -263,6 +264,7 @@ DECL|member|length
 DECL|member|lexicalHnd
 DECL|member|line
 DECL|member|lineNr
+DECL|member|literalEntitySizes
 DECL|member|locator
 DECL|member|lookingForEncodingDecl
 DECL|member|msg
@@ -296,6 +298,7 @@ DECL|member|refArray
 DECL|member|refArrayPos
 DECL|member|refValue
 DECL|member|refValueLen
+DECL|member|referencesToOtherEntities
 DECL|member|reportEntities
 DECL|member|reportWhitespaceCharData
 DECL|member|standalone
