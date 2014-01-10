@@ -27,6 +27,7 @@ DECL|function|convert_RGB_to_RGB16_inplace
 DECL|function|convert_RGB_to_RGBA
 DECL|function|convert_X_to_Mono
 DECL|function|convert_generic
+DECL|function|convert_generic_inplace
 DECL|function|convert_indexed8_to_ARGB_PM_inplace
 DECL|function|convert_indexed8_to_RGB16_inplace
 DECL|function|convert_indexed8_to_RGB_inplace
