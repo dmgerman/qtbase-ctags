@@ -28,7 +28,6 @@ DECL|typedef|UpdateLayeredWindowIndirect
 DECL|variable|QKeyEvent
 DECL|variable|QPlatformScreen
 DECL|variable|QPoint
-DECL|variable|QWindow
 DECL|variable|QWindowsMimeConverter
 DECL|variable|QWindowsScreenManager
 DECL|variable|QWindowsTabletSupport

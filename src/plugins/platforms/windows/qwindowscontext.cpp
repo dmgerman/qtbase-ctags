@@ -62,14 +62,6 @@ DECL|member|m_tabletSupport
 DECL|member|m_windows
 DECL|member|shell32dll
 DECL|member|user32dll
-DECL|member|verboseBackingStore
-DECL|member|verboseDialogs
-DECL|member|verboseEvents
-DECL|member|verboseFonts
-DECL|member|verboseGL
-DECL|member|verboseInputMethods
-DECL|member|verboseOLE
-DECL|member|verboseTablet
-DECL|member|verboseWindows
+DECL|member|verbose
 DECL|struct|QWindowsContextPrivate
 DECL|typedef|HandleBaseWindowHash
