@@ -3,7 +3,9 @@ DECL|function|addEscapes
 DECL|function|findEntryDef
 DECL|function|fixOrdStrExp
 DECL|function|fixOrdStrList
+DECL|function|fixOrdStrMinus
 DECL|function|fixOrdStrPercent
+DECL|function|fixOrdStrPlus
 DECL|function|generateLocaleInfo
 DECL|function|get_number_in_system
 DECL|function|integrateWeekData
