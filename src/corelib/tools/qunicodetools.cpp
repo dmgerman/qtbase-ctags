@@ -19,6 +19,7 @@ DECL|enumerator|IndirectBreak
 DECL|enumerator|Initial
 DECL|enumerator|Lookup
 DECL|enumerator|Lookup
+DECL|enumerator|LookupW
 DECL|enumerator|NU
 DECL|enumerator|NoBreak
 DECL|enumerator|None
