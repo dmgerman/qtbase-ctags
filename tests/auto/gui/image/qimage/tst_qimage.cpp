@@ -27,9 +27,11 @@ DECL|function|fillColor_data
 DECL|function|fillRGB888
 DECL|function|formatHandlersInput
 DECL|function|formatHandlersInput_data
-DECL|function|inplaceDoubleConversion
+DECL|function|inplaceConversion
+DECL|function|inplaceConversion_data
 DECL|function|inplaceMirrored
 DECL|function|inplaceMirrored_data
+DECL|function|inplaceRgbMirrored
 DECL|function|inplaceRgbSwapped
 DECL|function|inplaceRgbSwapped_data
 DECL|function|load

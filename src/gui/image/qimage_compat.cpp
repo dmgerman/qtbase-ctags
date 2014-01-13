@@ -1,3 +1,4 @@
+DECL|function|convertToFormat
 DECL|function|mirrored
 DECL|function|rgbSwapped
 DECL|macro|QT_COMPILING_QIMAGE_COMPAT_CPP

@@ -26,7 +26,8 @@ DECL|function|constBits
 DECL|function|constScanLine
 DECL|function|convertInPlace
 DECL|function|convertToFormat
-DECL|function|convertToFormat
+DECL|function|convertToFormat_helper
+DECL|function|convertToFormat_inplace
 DECL|function|convertWithPalette
 DECL|function|copy
 DECL|function|create
