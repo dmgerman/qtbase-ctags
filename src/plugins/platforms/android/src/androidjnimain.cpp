@@ -11,6 +11,7 @@ DECL|function|createBitmapDrawable
 DECL|function|desktopHeightPixels
 DECL|function|desktopWidthPixels
 DECL|function|destroySurface
+DECL|function|deviceName
 DECL|function|findClass
 DECL|function|flushImage
 DECL|function|handleOrientationChanged
