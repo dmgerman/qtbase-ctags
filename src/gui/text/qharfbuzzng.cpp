@@ -14,7 +14,7 @@ DECL|function|_hb_qt_font_get_glyph_v_advance
 DECL|function|_hb_qt_font_get_glyph_v_kerning
 DECL|function|_hb_qt_font_get_glyph_v_origin
 DECL|function|_hb_qt_font_release
-DECL|function|_hb_qt_get_font_table
+DECL|function|_hb_qt_reference_table
 DECL|function|_hb_qt_unicode_combining_class
 DECL|function|_hb_qt_unicode_compose
 DECL|function|_hb_qt_unicode_decompose

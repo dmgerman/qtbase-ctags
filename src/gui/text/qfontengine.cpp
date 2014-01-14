@@ -81,6 +81,7 @@ DECL|function|minRightBearing
 DECL|function|name
 DECL|function|properties
 DECL|function|qt_addBitmapToPath
+DECL|function|qt_get_font_table_default
 DECL|function|qtransform_equals_no_translate
 DECL|function|recalcAdvances
 DECL|function|recalcAdvances
