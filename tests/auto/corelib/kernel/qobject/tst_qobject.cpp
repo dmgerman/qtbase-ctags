@@ -369,8 +369,10 @@ DECL|function|slot_iii
 DECL|function|slot_iiii
 DECL|function|slot_v
 DECL|function|slot_vPFvvE
+DECL|function|slot_vRQObject
 DECL|function|slot_vRi
 DECL|function|slot_vRs
+DECL|function|slot_vcRQObject
 DECL|function|slot_vi
 DECL|function|slot_vii
 DECL|function|slot_viii
