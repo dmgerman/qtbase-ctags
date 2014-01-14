@@ -12,6 +12,7 @@ DECL|function|isSymlink
 DECL|function|link
 DECL|function|map
 DECL|function|mkdir
+DECL|function|msgOpenDirectory
 DECL|function|nativeClose
 DECL|function|nativeFlush
 DECL|function|nativeHandle
