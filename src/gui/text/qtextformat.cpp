@@ -50,7 +50,6 @@ DECL|function|leftMargin
 DECL|function|lengthProperty
 DECL|function|lengthVectorProperty
 DECL|function|merge
-DECL|function|objectFormat
 DECL|function|objectFormatIndex
 DECL|function|objectIndex
 DECL|function|operator !=
@@ -80,7 +79,6 @@ DECL|function|rightMargin
 DECL|function|setDefaultFont
 DECL|function|setFont
 DECL|function|setMargin
-DECL|function|setObjectFormat
 DECL|function|setObjectFormatIndex
 DECL|function|setObjectIndex
 DECL|function|setProperty
