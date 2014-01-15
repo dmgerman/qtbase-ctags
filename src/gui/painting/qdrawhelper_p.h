@@ -106,6 +106,7 @@ DECL|member|colorTable
 DECL|member|conical
 DECL|member|const_alpha
 DECL|member|convertFromARGB32PM
+DECL|member|convertFromRGB32
 DECL|member|convertToARGB32PM
 DECL|member|data
 DECL|member|dest_fetch
