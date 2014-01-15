@@ -215,8 +215,10 @@ DECL|function|trimmed
 DECL|function|trimmed
 DECL|function|truncate
 DECL|function|ucstrcmp
+DECL|function|ucstrcmp
 DECL|function|ucstricmp
 DECL|function|ucstricmp
+DECL|function|ucstrncmp
 DECL|function|ucstrncmp
 DECL|function|ucstrnicmp
 DECL|function|utf16
