@@ -17,7 +17,6 @@ DECL|function|setGeometry
 DECL|function|setGeometryHelper
 DECL|function|setMMRendererWindow
 DECL|function|setMMRendererWindowName
-DECL|function|setOffset
 DECL|function|setOpacity
 DECL|function|setParent
 DECL|function|setRotation
