@@ -53,6 +53,7 @@ DECL|function|detach
 DECL|function|effectiveTLDs
 DECL|function|effectiveTLDs_data
 DECL|function|emptyAuthorityRemovesExistingAuthority
+DECL|function|emptyAuthorityRemovesExistingAuthority_data
 DECL|function|emptyQueryOrFragment
 DECL|function|fileName
 DECL|function|fileName_data
