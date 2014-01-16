@@ -285,6 +285,7 @@ DECL|macro|PRELOAD_INIT
 DECL|macro|PRELOAD_INIT
 DECL|macro|PRELOAD_INIT2
 DECL|macro|PRELOAD_INIT2
+DECL|macro|__ARM_NEON__
 DECL|macro|comp_func_Clear_impl
 DECL|macro|interpolate_4_pixels_16_neon
 DECL|macro|interpolate_4_pixels_16_sse2
