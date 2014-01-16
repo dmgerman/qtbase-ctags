@@ -6,6 +6,7 @@ DECL|function|badDataTag_data
 DECL|function|badMessage
 DECL|function|badMessage_data
 DECL|function|badStrings
+DECL|function|encoding
 DECL|function|failWithNoFile
 DECL|function|main
 DECL|function|metaObject
