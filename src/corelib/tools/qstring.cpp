@@ -42,6 +42,7 @@ DECL|function|endsWith
 DECL|function|endsWith
 DECL|function|exec
 DECL|function|exec
+DECL|function|exec
 DECL|function|expand
 DECL|function|extractSections
 DECL|function|fill
