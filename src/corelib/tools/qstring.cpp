@@ -130,6 +130,7 @@ DECL|function|qt_starts_with
 DECL|function|qt_string_count
 DECL|function|qt_string_count
 DECL|function|qt_string_normalize
+DECL|function|qt_to_latin1
 DECL|function|reallocData
 DECL|function|remove
 DECL|function|remove
@@ -186,7 +187,6 @@ DECL|function|toHtmlEscaped
 DECL|function|toInt
 DECL|function|toInt
 DECL|function|toLatin1
-DECL|function|toLatin1_helper
 DECL|function|toLatin1_helper
 DECL|function|toLatin1_helper
 DECL|function|toLatin1_helper_inplace
