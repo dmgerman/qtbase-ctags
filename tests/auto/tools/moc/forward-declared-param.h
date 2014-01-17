@@ -1,3 +1,4 @@
 DECL|function|Q_DECLARE_METATYPE
+DECL|macro|FORWARD_DECLARED_PARAM_H
 DECL|struct|FullyDefined
 DECL|variable|ForwardDeclaredContainer

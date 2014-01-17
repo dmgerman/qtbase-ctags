@@ -1,2 +1,3 @@
 DECL|function|_q_privateslot
+DECL|macro|QPRIVATESLOTS_H
 DECL|struct|TestQPrivateSlots_Private

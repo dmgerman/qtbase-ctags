@@ -1,0 +1,1 @@
+DECL|macro|CSTYLE_ENUMS_H

@@ -1,0 +1,1 @@
+DECL|macro|CXX11_ENUMS_H

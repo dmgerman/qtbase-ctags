@@ -1,0 +1,1 @@
+DECL|macro|PP_DOLLAR_SIGNS_H

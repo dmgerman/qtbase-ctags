@@ -1,2 +1,3 @@
 DECL|function|foo
 DECL|macro|MACRO
+DECL|macro|UNTERMINATED_FUNCTION_MACRO_H
