@@ -1,13 +1,9 @@
 DECL|class|QtSurface
 DECL|field|m_accessibilityDelegate
-DECL|field|m_bitmap
 DECL|field|m_gestureDetector
-DECL|field|m_started
-DECL|field|m_usesGL
+DECL|field|m_onTop
 DECL|method|QtSurface
-DECL|method|applicationStarted
 DECL|method|dispatchHoverEvent
-DECL|method|drawBitmap
 DECL|method|onTouchEvent
 DECL|method|onTrackballEvent
 DECL|method|surfaceChanged

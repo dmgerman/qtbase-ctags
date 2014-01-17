@@ -1,2 +1,0 @@
-DECL|function|QAndroidOpenGLPlatformScreen
-DECL|function|topWindowChanged

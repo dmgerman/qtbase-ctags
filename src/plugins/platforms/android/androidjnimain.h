@@ -1,6 +1,6 @@
 DECL|macro|ANDROID_APP_H
+DECL|variable|AndroidSurfaceClient
 DECL|variable|QAndroidPlatformIntegration
-DECL|variable|QImage
 DECL|variable|QPoint
 DECL|variable|QRect
 DECL|variable|QString
