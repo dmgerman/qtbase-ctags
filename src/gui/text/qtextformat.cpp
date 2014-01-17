@@ -78,6 +78,7 @@ DECL|function|resolveFont
 DECL|function|rightMargin
 DECL|function|setDefaultFont
 DECL|function|setFont
+DECL|function|setFont
 DECL|function|setMargin
 DECL|function|setObjectFormatIndex
 DECL|function|setObjectIndex
