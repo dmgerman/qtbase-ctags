@@ -19,6 +19,7 @@ DECL|function|parseOptions
 DECL|function|primaryDisplay
 DECL|function|removeDisplay
 DECL|function|removeWindow
+DECL|function|screenContext
 DECL|function|screenForNative
 DECL|function|services
 DECL|function|styleHint
@@ -28,5 +29,7 @@ DECL|function|window
 DECL|function|~QQnxIntegration
 DECL|macro|qIntegrationDebug
 DECL|macro|qIntegrationDebug
+DECL|member|ms_options
+DECL|member|ms_screenContext
 DECL|member|ms_windowMapper
 DECL|member|ms_windowMapperMutex
