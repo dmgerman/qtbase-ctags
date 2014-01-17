@@ -7,3 +7,5 @@ DECL|variable|formats
 DECL|variable|qtver
 DECL|variable|replacements
 DECL|variable|rootPath
+DECL|variable|tests
+DECL|variable|tests
