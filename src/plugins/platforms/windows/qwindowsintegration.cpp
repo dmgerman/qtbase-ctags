@@ -7,6 +7,7 @@ DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformSessionManager
 DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
+DECL|function|createWindowData
 DECL|function|drag
 DECL|function|fontDatabase
 DECL|function|hasCapability

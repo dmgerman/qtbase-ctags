@@ -3,6 +3,7 @@ DECL|function|QWindowsDirect2DIntegration
 DECL|function|create
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformPixmap
+DECL|function|createPlatformWindow
 DECL|function|direct2DContext
 DECL|function|init
 DECL|function|instance

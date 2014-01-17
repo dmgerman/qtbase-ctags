@@ -1,1 +1,2 @@
 DECL|macro|QWINDOWSINTEGRATION_H
+DECL|variable|QWindowsWindow

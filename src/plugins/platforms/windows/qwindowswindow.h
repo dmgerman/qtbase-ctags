@@ -1,4 +1,5 @@
 DECL|function|QWindowsGeometryHint
+DECL|function|QWindowsWindowData
 DECL|function|applyToMinMaxInfo
 DECL|function|baseWindowOf
 DECL|function|destroyIcon
@@ -13,12 +14,18 @@ DECL|function|userDataOf
 DECL|macro|QWINDOWSWINDOW_H
 DECL|member|customMargins
 DECL|member|customMargins
+DECL|member|customMargins
+DECL|member|embedded
 DECL|member|exStyle
+DECL|member|flags
+DECL|member|frame
 DECL|member|frameHeight
 DECL|member|frameWidth
 DECL|member|frameX
 DECL|member|frameY
+DECL|member|geometry
 DECL|member|geometryHint
+DECL|member|hwnd
 DECL|member|margins
 DECL|member|maximumSize
 DECL|member|minimumSize
@@ -27,6 +34,7 @@ DECL|member|requestedGeometry
 DECL|member|style
 DECL|struct|QWindowCreationContext
 DECL|struct|QWindowsGeometryHint
+DECL|struct|QWindowsWindowData
 DECL|variable|QDebug
 DECL|variable|QWindowsEGLStaticContext
 DECL|variable|QWindowsOleDropTarget
