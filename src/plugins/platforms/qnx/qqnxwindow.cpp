@@ -14,6 +14,7 @@ DECL|function|removeFromParent
 DECL|function|requestActivateWindow
 DECL|function|setBufferSize
 DECL|function|setExposed
+DECL|function|setFocus
 DECL|function|setGeometry
 DECL|function|setGeometryHelper
 DECL|function|setMMRendererWindow
