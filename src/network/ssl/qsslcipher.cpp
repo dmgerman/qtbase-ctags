@@ -1,6 +1,7 @@
 DECL|function|QSslCipher
 DECL|function|QSslCipher
 DECL|function|QSslCipher
+DECL|function|QSslCipher
 DECL|function|authenticationMethod
 DECL|function|encryptionMethod
 DECL|function|isNull
