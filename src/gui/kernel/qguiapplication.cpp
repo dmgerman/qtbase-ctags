@@ -1,6 +1,8 @@
 DECL|enumerator|ApplicationFontExplicitlySet
 DECL|enumerator|ApplicationPaletteExplicitlySet
 DECL|enumerator|MouseCapsMask
+DECL|enumerator|MouseFlagsCapsMask
+DECL|enumerator|MouseFlagsShift
 DECL|enumerator|MouseSourceMaskDst
 DECL|enumerator|MouseSourceMaskSrc
 DECL|enumerator|MouseSourceShift
@@ -55,6 +57,7 @@ DECL|function|layoutDirection
 DECL|function|modalWindow
 DECL|function|mouseButtons
 DECL|function|mouseEventCaps
+DECL|function|mouseEventFlags
 DECL|function|mouseEventSource
 DECL|function|mouseEventVelocity
 DECL|function|nextGeometryToken
@@ -116,6 +119,7 @@ DECL|function|setDesktopSettingsAware
 DECL|function|setFont
 DECL|function|setLayoutDirection
 DECL|function|setMouseEventCapsAndVelocity
+DECL|function|setMouseEventFlags
 DECL|function|setMouseEventSource
 DECL|function|setOverrideCursor
 DECL|function|setPalette
