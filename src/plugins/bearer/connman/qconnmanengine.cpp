@@ -15,6 +15,7 @@ DECL|function|getInterfaceFromId
 DECL|function|getStateForService
 DECL|function|hasIdentifier
 DECL|function|initialize
+DECL|function|isAlwaysAskRoaming
 DECL|function|isRoamingAllowed
 DECL|function|ofonoTechToBearerType
 DECL|function|propertyChangedContext
@@ -27,4 +28,5 @@ DECL|function|sessionStateForId
 DECL|function|startTime
 DECL|function|technologyPropertyChangedContext
 DECL|function|typeToBearer
+DECL|function|updateServices
 DECL|function|~QConnmanEngine

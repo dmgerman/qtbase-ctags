@@ -1,12 +1,4 @@
 DECL|class|PP_Expression
-DECL|enumerator|PrepareDefine
-DECL|enumerator|PreparePreprocessorStatement
-DECL|enumerator|TokenizeCpp
-DECL|enumerator|TokenizeDefine
-DECL|enumerator|TokenizeInclude
-DECL|enumerator|TokenizePreprocessor
-DECL|enumerator|TokenizePreprocessorStatement
-DECL|enum|TokenizeMode
 DECL|function|AND_expression
 DECL|function|additive_expression
 DECL|function|cleaned
