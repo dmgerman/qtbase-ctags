@@ -11,6 +11,7 @@ DECL|function|isVisible
 DECL|function|keyboardRectangle
 DECL|function|locale
 DECL|function|objectAcceptsInputMethod
+DECL|function|queryFocusObject
 DECL|function|reset
 DECL|function|setInputItemRectangle
 DECL|function|setInputItemTransform
