@@ -17,6 +17,7 @@ DECL|function|pageSize
 DECL|function|print
 DECL|function|retrieveSettings
 DECL|function|setPageSize
+DECL|function|showPageSetupDialog
 DECL|function|showPreviewDialog
 DECL|function|showPrintDialog
 DECL|function|slotPaintRequested
