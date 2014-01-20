@@ -48,7 +48,6 @@ DECL|function|testMargins_data
 DECL|function|testMulitpleSets
 DECL|function|testMulitpleSets_data
 DECL|function|testMultipleKeys
-DECL|function|testNonExistentPrinter
 DECL|function|testPageMargins
 DECL|function|testPageMargins_data
 DECL|function|testPageMetrics
