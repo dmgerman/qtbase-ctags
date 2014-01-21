@@ -53,6 +53,7 @@ DECL|function|set
 DECL|function|signal
 DECL|function|testObject
 DECL|function|toHexRepresentation
+DECL|function|toPrettyCString
 DECL|function|toPrettyUnicode
 DECL|function|toString
 DECL|function|toString
