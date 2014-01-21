@@ -45,6 +45,7 @@ DECL|function|parseCombinedArgString
 DECL|function|pid
 DECL|function|processChannelMode
 DECL|function|processEnvironment
+DECL|function|processId
 DECL|function|program
 DECL|function|qt_prettyDebug
 DECL|function|readAllStandardError
