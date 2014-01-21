@@ -1,5 +1,6 @@
 DECL|class|HttpReceiver
 DECL|class|tst_qnetworkreply
+DECL|function|createFacebookMultiPart
 DECL|function|finishedSlot
 DECL|function|initTestCase
 DECL|function|limiting
@@ -9,6 +10,7 @@ DECL|function|setSslConfiguration
 DECL|function|setSslConfiguration_data
 DECL|function|startTimer
 DECL|function|timeoutSlot
+DECL|function|uploadToFacebook
 DECL|macro|BANDWIDTH_LIMIT_BYTES
 DECL|macro|TIME_ESTIMATION_SECONDS
 DECL|member|stopwatch

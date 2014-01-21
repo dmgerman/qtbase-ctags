@@ -229,7 +229,6 @@ DECL|function|storePixel
 DECL|function|storePixel
 DECL|function|storePixel
 DECL|function|storePixel
-DECL|function|storePixel
 DECL|function|storePixels
 DECL|function|storePixels
 DECL|macro|BILINEAR_DOWNSCALE_BOUNDS_PROLOG

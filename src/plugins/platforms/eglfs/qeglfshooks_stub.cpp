@@ -3,6 +3,7 @@ DECL|function|createNativeWindow
 DECL|function|destroyNativeWindow
 DECL|function|fbDeviceName
 DECL|function|filterConfig
+DECL|function|framebufferIndex
 DECL|function|hasCapability
 DECL|function|logicalDpi
 DECL|function|nativeOrientation

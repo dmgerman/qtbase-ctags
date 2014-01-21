@@ -293,7 +293,6 @@ DECL|function|subtractOpaqueChildren
 DECL|function|subtractOpaqueSiblings
 DECL|function|syncBackingStore
 DECL|function|syncBackingStore
-DECL|function|syncUnifiedMode
 DECL|function|tabletEvent
 DECL|function|takeLayout
 DECL|function|testAttribute_helper

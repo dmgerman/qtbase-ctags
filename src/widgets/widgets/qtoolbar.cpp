@@ -32,7 +32,6 @@ DECL|function|mouseReleaseEvent
 DECL|function|orientation
 DECL|function|paintEvent
 DECL|function|plug
-DECL|function|qt_mac_updateToolBarButtonHint
 DECL|function|setAllowedAreas
 DECL|function|setFloatable
 DECL|function|setIconSize
@@ -43,7 +42,6 @@ DECL|function|setWindowState
 DECL|function|startDrag
 DECL|function|toggleViewAction
 DECL|function|toolButtonStyle
-DECL|function|toolbarInUnifiedToolBar
 DECL|function|unplug
 DECL|function|updateWindowFlags
 DECL|function|waitForPopup
