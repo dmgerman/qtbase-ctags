@@ -1,1 +1,2 @@
 DECL|macro|QCORETEXTFONTDATABASE_H
+DECL|variable|ATSFontContainerRef
