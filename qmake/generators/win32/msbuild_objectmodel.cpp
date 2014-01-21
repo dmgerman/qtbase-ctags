@@ -4,6 +4,7 @@ DECL|function|attrTagL
 DECL|function|attrTagS
 DECL|function|attrTagT
 DECL|function|attrTagX
+DECL|function|fixedProgramDataBaseFileNameOutput
 DECL|function|generateCondition
 DECL|function|generateXML
 DECL|function|generateXML
