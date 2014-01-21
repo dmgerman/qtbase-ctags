@@ -51,7 +51,9 @@ DECL|function|qtest_qParseArgs
 DECL|function|set
 DECL|function|signal
 DECL|function|testObject
+DECL|function|toHex
 DECL|function|toHexRepresentation
+DECL|function|toPrettyUnicode
 DECL|function|toString
 DECL|function|toString
 DECL|function|windowsFaultHandler
