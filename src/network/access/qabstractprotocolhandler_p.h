@@ -1,0 +1,5 @@
+DECL|macro|QABSTRACTPROTOCOLHANDLER_H
+DECL|variable|QAbstractSocket
+DECL|variable|QHttpNetworkConnection
+DECL|variable|QHttpNetworkConnectionChannel
+DECL|variable|QHttpNetworkReply
