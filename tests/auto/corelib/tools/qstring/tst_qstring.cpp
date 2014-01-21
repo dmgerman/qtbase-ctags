@@ -46,6 +46,8 @@ DECL|function|fromRawData
 DECL|function|fromStdString
 DECL|function|fromUcs4
 DECL|function|fromUtf16
+DECL|function|fromUtf16_char16
+DECL|function|fromUtf16_char16_data
 DECL|function|fromUtf16_data
 DECL|function|fromUtf8
 DECL|function|fromUtf8_data
