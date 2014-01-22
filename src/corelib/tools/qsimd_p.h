@@ -19,10 +19,7 @@ DECL|function|qCpuFeatures
 DECL|macro|ALIGNMENT_PROLOGUE_16BYTES
 DECL|macro|QSIMD_P_H
 DECL|macro|QT_COMPILER_SUPPORTS_X86INTRIN
-DECL|macro|__AVX2__
 DECL|macro|__AVX__
-DECL|macro|__BMI__
-DECL|macro|__FMA__
 DECL|macro|__SSE2__
 DECL|macro|__SSE3__
 DECL|macro|__SSE4_1__
