@@ -73,3 +73,4 @@ DECL|member|layout
 DECL|member|oldCursor
 DECL|member|toolButtonStyle
 DECL|member|useHIToolBar
+DECL|member|useUnifiedToolBar

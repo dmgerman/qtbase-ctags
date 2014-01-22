@@ -9,5 +9,6 @@ DECL|function|qHash
 DECL|macro|MAKE_TAG
 DECL|macro|QFONTENGINE_P_H
 DECL|typedef|qt_destroy_func_t
+DECL|typedef|qt_get_font_table_func_t
 DECL|variable|QGlyph
 DECL|variable|QPainterPath
