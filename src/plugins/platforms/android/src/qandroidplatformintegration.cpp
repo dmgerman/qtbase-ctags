@@ -15,6 +15,7 @@ DECL|function|inputContext
 DECL|function|invalidateNativeSurface
 DECL|function|nativeInterface
 DECL|function|nativeResourceForIntegration
+DECL|function|needsWorkaround
 DECL|function|pauseApp
 DECL|function|resumeApp
 DECL|function|services
