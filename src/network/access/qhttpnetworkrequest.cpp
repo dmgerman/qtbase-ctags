@@ -9,6 +9,7 @@ DECL|function|header
 DECL|function|headerField
 DECL|function|isPipeliningAllowed
 DECL|function|isPreConnect
+DECL|function|isSPDYAllowed
 DECL|function|isSsl
 DECL|function|majorVersion
 DECL|function|methodName
@@ -25,6 +26,7 @@ DECL|function|setOperation
 DECL|function|setPipeliningAllowed
 DECL|function|setPreConnect
 DECL|function|setPriority
+DECL|function|setSPDYAllowed
 DECL|function|setSsl
 DECL|function|setUploadByteDevice
 DECL|function|setUrl

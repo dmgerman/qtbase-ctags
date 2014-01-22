@@ -14,6 +14,7 @@ DECL|function|allDone
 DECL|function|close
 DECL|function|closeAndResendCurrentRequest
 DECL|function|detectPipeliningSupport
+DECL|function|emitFinishedWithError
 DECL|function|ensureConnection
 DECL|function|handleStatus
 DECL|function|handleUnexpectedEOF
@@ -27,6 +28,7 @@ DECL|function|isSocketWriting
 DECL|function|pipelineFlush
 DECL|function|pipelineInto
 DECL|function|requeueCurrentlyPipelinedRequests
+DECL|function|requeueSpdyRequests
 DECL|function|resetUploadData
 DECL|function|sendRequest
 DECL|function|setConnection

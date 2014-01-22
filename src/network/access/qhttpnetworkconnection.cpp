@@ -9,6 +9,7 @@ DECL|function|_q_hostLookupFinished
 DECL|function|_q_startNextRequest
 DECL|function|cacheProxy
 DECL|function|channels
+DECL|function|connectionType
 DECL|function|copyCredentials
 DECL|function|createAuthorization
 DECL|function|dequeueRequest
@@ -37,6 +38,7 @@ DECL|function|requeueRequest
 DECL|function|resumeConnection
 DECL|function|sendRequest
 DECL|function|setCacheProxy
+DECL|function|setConnectionType
 DECL|function|setSslConfiguration
 DECL|function|setSslContext
 DECL|function|setTransparentProxy
@@ -49,6 +51,6 @@ DECL|function|uncompressedBytesAvailable
 DECL|function|uncompressedBytesAvailableNextBlock
 DECL|function|~QHttpNetworkConnection
 DECL|function|~QHttpNetworkConnectionPrivate
-DECL|member|defaultChannelCount
+DECL|member|defaultHttpChannelCount
 DECL|member|defaultPipelineLength
 DECL|member|defaultRePipelineLength
