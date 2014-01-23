@@ -4,6 +4,7 @@ DECL|function|cacheKey
 DECL|function|cleanupFunction
 DECL|function|cleanupFunctions
 DECL|function|compareIndexed
+DECL|function|convertOverUnPreMul
 DECL|function|convertToFormat
 DECL|function|convertToFormatPreserveDotsPrMeter
 DECL|function|convertToFormatPreserveText
