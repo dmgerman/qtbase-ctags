@@ -11,6 +11,7 @@ DECL|function|QXcbXSettingsPropertyValue
 DECL|function|addCallback
 DECL|function|getSettings
 DECL|function|handlePropertyNotifyEvent
+DECL|function|initialized
 DECL|function|populateSettings
 DECL|function|registerCallbackForProperty
 DECL|function|removeCallbackForHandle
@@ -21,6 +22,7 @@ DECL|function|updateValue
 DECL|member|callback_links
 DECL|member|func
 DECL|member|handle
+DECL|member|initialized
 DECL|member|last_change_serial
 DECL|member|screen
 DECL|member|settings
