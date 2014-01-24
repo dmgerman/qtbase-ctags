@@ -4,6 +4,7 @@ DECL|function|create_pipe
 DECL|function|forkfd
 DECL|function|forkfd_initialize
 DECL|function|freeInfo
+DECL|function|isChildReady
 DECL|function|notifyAndFreeInfo
 DECL|function|sigchld_handler
 DECL|function|tryAllocateInSection
