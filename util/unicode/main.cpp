@@ -114,7 +114,7 @@ DECL|enumerator|WordBreak_SingleQuote
 DECL|enumerator|WordBreak_Unassigned
 DECL|enum|Direction
 DECL|enum|GraphemeBreakClass
-DECL|enum|Joining
+DECL|enum|JoiningType
 DECL|enum|LineBreakClass
 DECL|enum|SentenceBreakClass
 DECL|enum|WordBreakClass

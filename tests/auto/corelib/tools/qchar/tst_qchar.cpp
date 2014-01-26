@@ -20,7 +20,7 @@ DECL|function|isSpaceSpecial
 DECL|function|isSpace_data
 DECL|function|isTitleCase
 DECL|function|isUpper
-DECL|function|joining
+DECL|function|joiningType
 DECL|function|lineBreakClass
 DECL|function|mirroredChar
 DECL|function|normalization
