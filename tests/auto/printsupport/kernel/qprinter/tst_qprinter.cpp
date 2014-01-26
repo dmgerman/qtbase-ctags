@@ -37,7 +37,6 @@ DECL|function|printRange
 DECL|function|printerName
 DECL|function|printerSelectionOption
 DECL|function|resolution
-DECL|function|setGetPaperSize
 DECL|function|slotPaintRequested
 DECL|function|supportedPaperSources
 DECL|function|supportedResolutions
