@@ -36,3 +36,4 @@ DECL|member|m_staticEGLContext
 DECL|member|m_staticOpenGLContext
 DECL|struct|QWindowsIntegrationPrivate
 DECL|typedef|QEGLStaticContextPtr
+DECL|typedef|QOpenGLStaticContextPtr
