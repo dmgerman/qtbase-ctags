@@ -59,6 +59,7 @@ DECL|function|event
 DECL|function|extraSelections
 DECL|function|fillBackground
 DECL|function|find
+DECL|function|find
 DECL|function|firstVisibleBlock
 DECL|function|firstVisibleBlock
 DECL|function|focusInEvent

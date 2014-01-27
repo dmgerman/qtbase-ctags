@@ -44,6 +44,7 @@ DECL|function|ensureCursorVisible
 DECL|function|event
 DECL|function|extraSelections
 DECL|function|find
+DECL|function|find
 DECL|function|focusInEvent
 DECL|function|focusNextPrevChild
 DECL|function|focusOutEvent

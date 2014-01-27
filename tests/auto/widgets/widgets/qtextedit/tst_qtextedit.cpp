@@ -57,6 +57,9 @@ DECL|function|emptyAppend
 DECL|function|ensureCursorVisibleOnInitialShow
 DECL|function|ensureVisibleWithRtl
 DECL|function|extraSelections
+DECL|function|findBackwardWithRegExp
+DECL|function|findWithRegExp
+DECL|function|findWithRegExpReturnsFalseIfNoMoreResults
 DECL|function|frameBoundingRect
 DECL|function|fullWidthSelection
 DECL|function|fullWidthSelection2
