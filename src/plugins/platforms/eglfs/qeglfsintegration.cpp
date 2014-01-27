@@ -1,6 +1,5 @@
 DECL|function|QEglFSIntegration
 DECL|function|chooseConfig
-DECL|function|createInputHandlers
 DECL|function|createPlatformOffscreenSurface
 DECL|function|createPlatformOpenGLContext
 DECL|function|createScreen

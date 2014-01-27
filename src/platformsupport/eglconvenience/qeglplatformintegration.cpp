@@ -4,6 +4,7 @@ DECL|enumerator|EglWindow
 DECL|enum|ResourceType
 DECL|function|QEGLPlatformIntegration
 DECL|function|createEventDispatcher
+DECL|function|createInputHandlers
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformWindow
 DECL|function|eglContextForContext
