@@ -44,6 +44,7 @@ DECL|function|readPpsValue
 DECL|function|runSysApp
 DECL|function|runSysAppTest
 DECL|function|setWinLocaleInfo
+DECL|function|shortTimeType
 DECL|function|standaloneDayName
 DECL|function|standaloneDayName_data
 DECL|function|standaloneMonthName
@@ -62,6 +63,7 @@ DECL|function|unixLocaleName
 DECL|function|weekendDays
 DECL|function|windowsDefaultLocale
 DECL|function|~RestoreLocaleHelper
+DECL|macro|LOCALE_SSHORTTIME
 DECL|macro|MY_DOUBLE_EPSILON
 DECL|macro|QT_USE_FENV
 DECL|macro|TEST_CTOR
