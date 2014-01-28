@@ -1,4 +1,4 @@
 DECL|variable|autocorrectionType
-DECL|variable|keyboardAppearance
-DECL|variable|returnKeyType
+DECL|variable|enablesReturnKeyAutomatically
+DECL|variable|keyboardType
 DECL|variable|secureTextEntry
