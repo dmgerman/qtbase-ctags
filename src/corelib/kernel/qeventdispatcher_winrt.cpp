@@ -9,7 +9,6 @@ DECL|function|closingDown
 DECL|function|event
 DECL|function|flush
 DECL|function|hasPendingEvents
-DECL|function|idForTimer
 DECL|function|interrupt
 DECL|function|processEvents
 DECL|function|registerEventNotifier
