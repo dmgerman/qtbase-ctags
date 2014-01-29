@@ -28,6 +28,7 @@ DECL|function|setWindowState
 DECL|function|updateVisibility
 DECL|function|updateZorder
 DECL|function|updateZorder
+DECL|function|windowPosted
 DECL|function|~QQnxWindow
 DECL|macro|qWindowDebug
 DECL|macro|qWindowDebug
