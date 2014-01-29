@@ -7,6 +7,5 @@ DECL|variable|QTextDocument
 DECL|variable|QTextDocumentPrivate
 DECL|variable|QTextFragment
 DECL|variable|QTextFramePrivate
-DECL|variable|QTextLayout
 DECL|variable|QTextList
 DECL|variable|QTextObjectPrivate
