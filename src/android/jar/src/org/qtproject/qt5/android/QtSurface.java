@@ -1,7 +1,6 @@
 DECL|class|QtSurface
 DECL|field|m_accessibilityDelegate
 DECL|field|m_gestureDetector
-DECL|field|m_onTop
 DECL|method|QtSurface
 DECL|method|dispatchHoverEvent
 DECL|method|onTouchEvent
