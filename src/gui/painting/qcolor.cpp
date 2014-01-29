@@ -101,3 +101,4 @@ DECL|macro|QRGBA
 DECL|macro|QRGBA
 DECL|macro|Q_MAX_3
 DECL|macro|Q_MIN_3
+DECL|variable|qt_inv_premul_factor
