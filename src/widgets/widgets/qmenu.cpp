@@ -86,12 +86,15 @@ DECL|function|setFirstActionActive
 DECL|function|setIcon
 DECL|function|setNoReplayFor
 DECL|function|setOverrideMenuAction
+DECL|function|setPlatformMenu
+DECL|function|setPlatformMenu
 DECL|function|setSeparatorsCollapsible
 DECL|function|setSyncAction
 DECL|function|setTearOffEnabled
 DECL|function|setTitle
 DECL|function|setToolTipsVisible
 DECL|function|sizeHint
+DECL|function|syncPlatformMenu
 DECL|function|syncWithMenu
 DECL|function|timerEvent
 DECL|function|title

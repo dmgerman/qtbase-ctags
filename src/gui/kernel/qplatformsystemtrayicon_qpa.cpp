@@ -1,2 +1,3 @@
 DECL|function|QPlatformSystemTrayIcon
+DECL|function|createMenu
 DECL|function|~QPlatformSystemTrayIcon
