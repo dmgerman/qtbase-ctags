@@ -11,6 +11,7 @@ DECL|function|parseProperties
 DECL|function|parseSignals
 DECL|function|priv
 DECL|function|propertyMetaType
+DECL|function|registerComplexDBusType
 DECL|function|write
 DECL|member|data
 DECL|member|flags
