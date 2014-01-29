@@ -14,5 +14,6 @@ DECL|function|injectKeyboardEvent
 DECL|function|processEventsFromScreenThread
 DECL|function|removeScreenEventFilter
 DECL|function|setScreenEventThread
+DECL|function|timerEvent
 DECL|macro|qScreenEventDebug
 DECL|macro|qScreenEventDebug
