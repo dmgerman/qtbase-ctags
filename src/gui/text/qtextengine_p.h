@@ -18,6 +18,7 @@ DECL|enumerator|Object
 DECL|enumerator|SmallCaps
 DECL|enumerator|Space
 DECL|enumerator|Space
+DECL|enumerator|SpaceNeeded
 DECL|enumerator|SpaceTabOrObject
 DECL|enumerator|Tab
 DECL|enumerator|TabOrObject
@@ -44,10 +45,8 @@ DECL|function|isOutsideSelection
 DECL|function|isValid
 DECL|function|mid
 DECL|function|operator
-DECL|function|spaceNeededForGlyphLayout
 DECL|macro|QTEXTENGINE_P_H
-DECL|member|advances_x
-DECL|member|advances_y
+DECL|member|advances
 DECL|member|analysis
 DECL|member|ascent
 DECL|member|ascent
