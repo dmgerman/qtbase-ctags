@@ -30,6 +30,7 @@ DECL|function|handle
 DECL|function|hide
 DECL|function|hideEvent
 DECL|function|icon
+DECL|function|init
 DECL|function|isActive
 DECL|function|isAncestorOf
 DECL|function|isExposed
