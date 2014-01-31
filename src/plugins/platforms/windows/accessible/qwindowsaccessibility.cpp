@@ -1,5 +1,6 @@
 DECL|function|QWindowsAccessibility
 DECL|function|handleAccessibleObjectFromWindowRequest
+DECL|function|messageBoxAlertSound
 DECL|function|notifyAccessibilityUpdate
 DECL|function|windowHelper
 DECL|function|wrap
