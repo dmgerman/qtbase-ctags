@@ -67,6 +67,14 @@ DECL|function|setCompressedData
 DECL|function|setCompressedData
 DECL|function|setCompressedData
 DECL|function|setCompressedData
+DECL|function|setCompressedData
+DECL|function|setCompressedData
+DECL|function|setCompressedData
+DECL|function|setCompressedData
+DECL|function|setData
+DECL|function|setData
+DECL|function|setData
+DECL|function|setData
 DECL|function|setData
 DECL|function|setData
 DECL|function|setData
