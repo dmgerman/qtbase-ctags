@@ -23,7 +23,9 @@ DECL|function|onOrientationChanged
 DECL|function|onPointerEntered
 DECL|function|onPointerExited
 DECL|function|onPointerUpdated
+DECL|function|onResume
 DECL|function|onSizeChanged
+DECL|function|onSuspended
 DECL|function|onVisibilityChanged
 DECL|function|orientation
 DECL|function|qIsNonPrintable
@@ -42,5 +44,7 @@ DECL|typedef|ClosedHandler
 DECL|typedef|InputEnabledHandler
 DECL|typedef|KeyHandler
 DECL|typedef|PointerHandler
+DECL|typedef|ResumeHandler
 DECL|typedef|SizeChangedHandler
+DECL|typedef|SuspendHandler
 DECL|typedef|VisibilityChangedHandler
