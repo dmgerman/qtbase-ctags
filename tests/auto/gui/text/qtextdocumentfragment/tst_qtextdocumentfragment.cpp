@@ -93,6 +93,7 @@ DECL|function|html_dontInheritAlignmentForFloatingImages
 DECL|function|html_dontMergeCenterBlocks
 DECL|function|html_eatenText
 DECL|function|html_emptyDocument
+DECL|function|html_emptyInlineInsideBlock
 DECL|function|html_emptyParagraphs3
 DECL|function|html_emptyParagraphs4
 DECL|function|html_emptyParapgraphs1
