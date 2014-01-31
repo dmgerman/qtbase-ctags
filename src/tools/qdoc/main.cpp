@@ -4,6 +4,7 @@ DECL|function|main
 DECL|function|printHelp
 DECL|function|printVersion
 DECL|function|processQdocconfFile
+DECL|variable|autolinkErrors
 DECL|variable|currentDir
 DECL|variable|defines
 DECL|variable|dependModules

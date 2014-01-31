@@ -6,7 +6,7 @@ DECL|function|appendSortedNames
 DECL|function|appendSortedQmlNames
 DECL|function|augmentImageDirs
 DECL|function|beginSubPage
-DECL|function|debugSegfault
+DECL|function|debug
 DECL|function|endSubPage
 DECL|function|fileBase
 DECL|function|fileName
@@ -19,6 +19,7 @@ DECL|function|generateAtomList
 DECL|function|generateBody
 DECL|function|generateClassLikeNode
 DECL|function|generateDocNode
+DECL|function|generateDocs
 DECL|function|generateExampleFiles
 DECL|function|generateFileList
 DECL|function|generateInheritedBy
@@ -33,7 +34,6 @@ DECL|function|generateSince
 DECL|function|generateStatus
 DECL|function|generateText
 DECL|function|generateThreadSafeness
-DECL|function|generateTree
 DECL|function|generatorForFormat
 DECL|function|getCollisionLink
 DECL|function|getMetadataElement
@@ -49,7 +49,7 @@ DECL|function|outFileName
 DECL|function|outputPrefix
 DECL|function|parseArg
 DECL|function|plainCode
-DECL|function|setDebugSegfaultFlag
+DECL|function|setDebugFlag
 DECL|function|setImageFileExtensions
 DECL|function|singularPlural
 DECL|function|skipAtoms
@@ -64,6 +64,7 @@ DECL|function|~Generator
 DECL|macro|SKIP_CHAR
 DECL|macro|SKIP_CHAR
 DECL|macro|SKIP_SPACE
+DECL|member|autolinkErrors_
 DECL|member|currentGenerator_
 DECL|member|debugging_
 DECL|member|exampleDirs

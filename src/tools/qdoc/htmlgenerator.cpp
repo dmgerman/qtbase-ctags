@@ -22,6 +22,7 @@ DECL|function|generateCompactList
 DECL|function|generateDetailedMember
 DECL|function|generateDetailedQmlMember
 DECL|function|generateDocNode
+DECL|function|generateDocs
 DECL|function|generateExtractionMark
 DECL|function|generateFooter
 DECL|function|generateFullName
@@ -51,7 +52,6 @@ DECL|function|generateStatus
 DECL|function|generateSynopsis
 DECL|function|generateTableOfContents
 DECL|function|generateTitle
-DECL|function|generateTree
 DECL|function|getLink
 DECL|function|hOffset
 DECL|function|highlightedCode

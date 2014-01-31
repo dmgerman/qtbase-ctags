@@ -29,6 +29,7 @@ DECL|function|generateCollisionPages
 DECL|function|generateCompactList
 DECL|function|generateDetailedQmlMember
 DECL|function|generateDocNode
+DECL|function|generateDocs
 DECL|function|generateFullName
 DECL|function|generateFunctionIndex
 DECL|function|generateHeader
@@ -49,7 +50,6 @@ DECL|function|generateSection
 DECL|function|generateSectionInheritedList
 DECL|function|generateStatus
 DECL|function|generateTableOfContents
-DECL|function|generateTree
 DECL|function|getLink
 DECL|function|getMarkedUpSynopsis
 DECL|function|getMetadataElement

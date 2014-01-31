@@ -40,4 +40,3 @@ DECL|typedef|QStringList
 DECL|typedef|QmlClassNode
 DECL|typedef|QmlClassNode
 DECL|variable|Config
-DECL|variable|Tree

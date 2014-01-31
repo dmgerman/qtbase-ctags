@@ -21,6 +21,7 @@ DECL|function|TypedefNode
 DECL|function|accessString
 DECL|function|accessString
 DECL|function|addChild
+DECL|function|addChild
 DECL|function|addCollision
 DECL|function|addInclude
 DECL|function|addInheritedBy
@@ -41,9 +42,9 @@ DECL|function|deleteChildren
 DECL|function|disambiguate
 DECL|function|extractClassName
 DECL|function|findAny
-DECL|function|findChildNodeByName
-DECL|function|findChildNodeByName
-DECL|function|findChildNodeByNameAndType
+DECL|function|findChildNode
+DECL|function|findChildNode
+DECL|function|findChildNode
 DECL|function|findCorrespondingCppProperty
 DECL|function|findEnumNodeForValue
 DECL|function|findFunctionNode
@@ -124,6 +125,7 @@ DECL|function|setReimp
 DECL|function|setReimplementedFrom
 DECL|function|setRelates
 DECL|function|setSince
+DECL|function|setTitle
 DECL|function|setUrl
 DECL|function|setVirtualness
 DECL|function|signature

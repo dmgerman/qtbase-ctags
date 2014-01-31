@@ -41,6 +41,7 @@ DECL|macro|PUT_CHAR
 DECL|macro|SKIP_CHAR
 DECL|macro|SKIP_SPACES
 DECL|member|ALIAS
+DECL|member|AUTOLINKERRORS
 DECL|member|BASE
 DECL|member|BASEDIR
 DECL|member|BUILDVERSION
@@ -111,6 +112,7 @@ DECL|member|URL
 DECL|member|VERSION
 DECL|member|VERSIONSYM
 DECL|member|accum
+DECL|member|debug_
 DECL|member|dot
 DECL|member|extractedDirs
 DECL|member|generateExamples

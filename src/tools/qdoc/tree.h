@@ -1,3 +1,17 @@
+DECL|function|TargetRec
+DECL|function|isEmpty
 DECL|macro|TREE_H
+DECL|member|Class
+DECL|member|Contents
+DECL|member|Function
+DECL|member|Keyword
+DECL|member|Page
+DECL|member|Target
+DECL|member|public
+DECL|struct|TargetRec
 DECL|variable|QDocDatabase
 DECL|variable|QStringList
+DECL|variable|node_
+DECL|variable|priority_
+DECL|variable|ref_
+DECL|variable|type_
