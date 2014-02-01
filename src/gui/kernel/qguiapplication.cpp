@@ -66,6 +66,7 @@ DECL|function|notifyActiveWindowChange
 DECL|function|notifyDragStarted
 DECL|function|notifyLayoutDirectionChange
 DECL|function|notifyThemeChanged
+DECL|function|notifyWindowIconChanged
 DECL|function|operator ==
 DECL|function|overrideCursor
 DECL|function|palette
@@ -124,6 +125,7 @@ DECL|function|setMouseEventSource
 DECL|function|setOverrideCursor
 DECL|function|setPalette
 DECL|function|setQuitOnLastWindowClosed
+DECL|function|setWindowIcon
 DECL|function|shouldQuit
 DECL|function|shouldQuitInternal
 DECL|function|showModalWindow
@@ -136,9 +138,11 @@ DECL|function|unsetCursor
 DECL|function|updateBlockedStatus
 DECL|function|updateBlockedStatusRecursion
 DECL|function|updateFilteredScreenOrientation
+DECL|function|windowIcon
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
 DECL|member|app_font
+DECL|member|app_icon
 DECL|member|app_pal
 DECL|member|applicationState
 DECL|member|buttons

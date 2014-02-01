@@ -49,6 +49,7 @@ DECL|function|notify
 DECL|function|notifyDragStarted
 DECL|function|notifyLayoutDirectionChange
 DECL|function|notifyThemeChanged
+DECL|function|notifyWindowIconChanged
 DECL|function|notify_helper
 DECL|function|palette
 DECL|function|palette
@@ -102,7 +103,6 @@ DECL|function|~QApplicationPrivate
 DECL|function|~WidgetAttributeSaver
 DECL|member|active_window
 DECL|member|app_cspec
-DECL|member|app_icon
 DECL|member|app_strut
 DECL|member|app_style
 DECL|member|autoMaximizeThreshold
