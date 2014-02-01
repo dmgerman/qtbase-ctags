@@ -6,5 +6,6 @@ DECL|function|post
 DECL|function|renderBuffer
 DECL|function|resetBuffers
 DECL|function|scroll
+DECL|function|setParent
 DECL|macro|qRasterWindowDebug
 DECL|macro|qRasterWindowDebug

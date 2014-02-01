@@ -1,5 +1,4 @@
 DECL|function|QQnxEglWindow
-DECL|function|adjustBufferSize
 DECL|function|createEGLSurface
 DECL|function|destroyEGLSurface
 DECL|function|getSurface
