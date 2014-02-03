@@ -73,12 +73,12 @@ DECL|function|qRegionToWinRegion
 DECL|function|qSizeOfRect
 DECL|function|qrectFromRECT
 DECL|function|raise
-DECL|function|registerDropSite
 DECL|function|releaseDC
 DECL|function|requestActivateWindow
 DECL|function|setAlertState
 DECL|function|setCursor
 DECL|function|setCustomMargins
+DECL|function|setDropSiteEnabled
 DECL|function|setEnabled
 DECL|function|setExStyle
 DECL|function|setFrameStrutEventsEnabled
@@ -105,7 +105,7 @@ DECL|function|show_sys
 DECL|function|startSystemResize
 DECL|function|stopAlertWindow
 DECL|function|topLevelOf
-DECL|function|unregisterDropSite
+DECL|function|updateDropSite
 DECL|function|updateTransientParent
 DECL|function|validSize
 DECL|function|windowEvent
