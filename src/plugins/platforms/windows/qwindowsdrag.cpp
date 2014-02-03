@@ -29,7 +29,6 @@ DECL|function|drag
 DECL|function|dropData
 DECL|function|dropHelper
 DECL|function|exposeEvent
-DECL|function|findDragOverWindow
 DECL|function|handleDrag
 DECL|function|instance
 DECL|function|operator <<
