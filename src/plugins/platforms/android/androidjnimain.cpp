@@ -16,6 +16,7 @@ DECL|function|deviceName
 DECL|function|findClass
 DECL|function|handleOrientationChanged
 DECL|function|hideStatusBar
+DECL|function|insertNativeView
 DECL|function|javaVM
 DECL|function|methodErrorMsgFmt
 DECL|function|qtTagText
@@ -65,6 +66,7 @@ DECL|variable|m_createSurfaceMethodID
 DECL|variable|m_desktopHeightPixels
 DECL|variable|m_desktopWidthPixels
 DECL|variable|m_destroySurfaceMethodID
+DECL|variable|m_insertNativeViewMethodID
 DECL|variable|m_javaVM
 DECL|variable|m_loadClassMethodID
 DECL|variable|m_main

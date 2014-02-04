@@ -45,6 +45,7 @@ DECL|field|m_layout
 DECL|field|m_mainLib
 DECL|field|m_metaState
 DECL|field|m_nativeOrientation
+DECL|field|m_nativeViews
 DECL|field|m_opionsMenuIsVisible
 DECL|field|m_quitApp
 DECL|field|m_started
@@ -65,6 +66,7 @@ DECL|method|getActionBar
 DECL|method|getAppIconSize
 DECL|method|hasPermanentMenuKey
 DECL|method|hideSoftwareKeyboard
+DECL|method|insertNativeView
 DECL|method|isSoftwareKeyboardVisible
 DECL|method|loadApplication
 DECL|method|onConfigurationChanged

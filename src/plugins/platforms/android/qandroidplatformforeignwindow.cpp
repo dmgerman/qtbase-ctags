@@ -1,0 +1,3 @@
+DECL|function|QAndroidPlatformForeignWindow
+DECL|function|setGeometry
+DECL|function|~QAndroidPlatformForeignWindow
