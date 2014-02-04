@@ -85,10 +85,7 @@ DECL|function|setNumberOptions
 DECL|function|standaloneDayName
 DECL|function|standaloneMonthName
 DECL|function|stringToDouble
-DECL|function|stringToDouble
 DECL|function|stringToLongLong
-DECL|function|stringToLongLong
-DECL|function|stringToUnsLongLong
 DECL|function|stringToUnsLongLong
 DECL|function|system
 DECL|function|systemData
