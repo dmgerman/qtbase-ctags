@@ -20,6 +20,7 @@ DECL|function|indexOf
 DECL|function|init
 DECL|function|keyboardNavigation
 DECL|function|minimumSizeHint
+DECL|function|moveCurrentTab
 DECL|function|paintEvent
 DECL|function|paintEventCount
 DECL|function|removePage
