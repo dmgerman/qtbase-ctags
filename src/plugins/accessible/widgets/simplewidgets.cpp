@@ -4,6 +4,7 @@ DECL|function|QAccessibleGroupBox
 DECL|function|QAccessibleLineEdit
 DECL|function|QAccessibleProgressBar
 DECL|function|QAccessibleToolButton
+DECL|function|QAccessibleWindowContainer
 DECL|function|actionNames
 DECL|function|actionNames
 DECL|function|actionNames
@@ -13,7 +14,10 @@ DECL|function|button
 DECL|function|characterCount
 DECL|function|characterRect
 DECL|function|child
+DECL|function|child
 DECL|function|childCount
+DECL|function|childCount
+DECL|function|container
 DECL|function|currentValue
 DECL|function|cursorPosition
 DECL|function|deleteText
@@ -24,6 +28,7 @@ DECL|function|groupBox
 DECL|function|imageDescription
 DECL|function|imagePosition
 DECL|function|imageSize
+DECL|function|indexOfChild
 DECL|function|insertText
 DECL|function|interface_cast
 DECL|function|interface_cast
