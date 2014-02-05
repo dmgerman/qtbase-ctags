@@ -1,5 +1,6 @@
 DECL|enumerator|Alternate
 DECL|enumerator|AlwaysShowSign
+DECL|enumerator|AsciiSpaceMask
 DECL|enumerator|BlankBeforePositive
 DECL|enumerator|CapitalEorX
 DECL|enumerator|DFDecimal
@@ -22,6 +23,7 @@ DECL|enum|DoubleForm
 DECL|enum|Flags
 DECL|enum|GroupSeparatorMode
 DECL|enum|NumberMode
+DECL|function|ascii_isspace
 DECL|function|clone
 DECL|function|convertDoubleToFloat
 DECL|function|digitToCLocale
