@@ -106,6 +106,9 @@ DECL|function|toFloat
 DECL|function|toFloat
 DECL|function|toInt
 DECL|function|toInt
+DECL|function|toIntegral_helper
+DECL|function|toIntegral_helper
+DECL|function|toIntegral_helper
 DECL|function|toLongLong
 DECL|function|toLongLong
 DECL|function|toLower

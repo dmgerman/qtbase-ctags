@@ -188,6 +188,8 @@ DECL|function|toFloat
 DECL|function|toHtmlEscaped
 DECL|function|toInt
 DECL|function|toInt
+DECL|function|toIntegral_helper
+DECL|function|toIntegral_helper
 DECL|function|toLatin1
 DECL|function|toLatin1_helper
 DECL|function|toLatin1_helper
