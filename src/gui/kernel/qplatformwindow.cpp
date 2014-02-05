@@ -15,6 +15,7 @@ DECL|function|isExposed
 DECL|function|lower
 DECL|function|mapFromGlobal
 DECL|function|mapToGlobal
+DECL|function|normalGeometry
 DECL|function|parent
 DECL|function|propagateSizeHints
 DECL|function|raise

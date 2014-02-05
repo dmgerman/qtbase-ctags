@@ -61,6 +61,8 @@ DECL|function|isVisible
 DECL|function|lower
 DECL|function|mapFromGlobal
 DECL|function|mapToGlobal
+DECL|function|normalFrameGeometry
+DECL|function|normalGeometry
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator <<
