@@ -1,0 +1,5 @@
+DECL|function|XkbEscapeMapName
+DECL|function|XkbKeyByName
+DECL|function|XkbResolveKeyAlias
+DECL|function|update_builtin_keymap_fields
+DECL|function|xkb_keymap_new

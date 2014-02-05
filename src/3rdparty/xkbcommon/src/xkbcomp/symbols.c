@@ -38,7 +38,6 @@ DECL|function|InitGroupInfo
 DECL|function|InitKeyInfo
 DECL|function|InitSymbolsInfo
 DECL|function|KeyInfoText
-DECL|function|LookupKeysym
 DECL|function|MergeGroups
 DECL|function|MergeIncludedSymbols
 DECL|function|MergeKeys

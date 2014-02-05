@@ -1,7 +1,9 @@
 DECL|enumerator|XKB_CONTEXT_NO_DEFAULT_INCLUDES
 DECL|enumerator|XKB_CONTEXT_NO_ENVIRONMENT_NAMES
+DECL|enumerator|XKB_CONTEXT_NO_FLAGS
 DECL|enumerator|XKB_KEYMAP_FORMAT_TEXT_V1
 DECL|enumerator|XKB_KEYSYM_CASE_INSENSITIVE
+DECL|enumerator|XKB_KEYSYM_NO_FLAGS
 DECL|enumerator|XKB_KEY_DOWN
 DECL|enumerator|XKB_KEY_UP
 DECL|enumerator|XKB_LOG_LEVEL_CRITICAL
@@ -9,6 +11,7 @@ DECL|enumerator|XKB_LOG_LEVEL_DEBUG
 DECL|enumerator|XKB_LOG_LEVEL_ERROR
 DECL|enumerator|XKB_LOG_LEVEL_INFO
 DECL|enumerator|XKB_LOG_LEVEL_WARNING
+DECL|enumerator|XKB_MAP_COMPILE_NO_FLAGS
 DECL|enumerator|XKB_MAP_COMPILE_PLACEHOLDER
 DECL|enumerator|XKB_STATE_LAYOUT_DEPRESSED
 DECL|enumerator|XKB_STATE_LAYOUT_EFFECTIVE
@@ -47,6 +50,7 @@ DECL|member|rules
 DECL|member|variant
 DECL|struct|xkb_rule_names
 DECL|typedef|xkb_keycode_t
+DECL|typedef|xkb_keymap_key_iter_t
 DECL|typedef|xkb_keysym_t
 DECL|typedef|xkb_layout_index_t
 DECL|typedef|xkb_layout_mask_t

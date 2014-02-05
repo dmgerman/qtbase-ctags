@@ -21,7 +21,6 @@ DECL|function|InitKeyTypesInfo
 DECL|function|MapEntryTxt
 DECL|function|MergeIncludedKeyTypes
 DECL|function|ReportTypeBadType
-DECL|function|ReportTypeBadWidth
 DECL|function|ReportTypeShouldBeArray
 DECL|function|SetKeyTypeField
 DECL|function|SetLevelName
