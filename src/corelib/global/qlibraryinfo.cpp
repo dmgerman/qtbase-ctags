@@ -1,6 +1,7 @@
 DECL|class|QLibraryInfoPrivate
 DECL|function|QLibraryInfo
 DECL|function|QLibrarySettings
+DECL|function|build
 DECL|function|buildDate
 DECL|function|cleanup
 DECL|function|configuration
@@ -13,6 +14,15 @@ DECL|function|location
 DECL|function|platformPluginArguments
 DECL|function|qt_core_boilerplate
 DECL|function|rawLocation
+DECL|macro|COMPILER_STRING
+DECL|macro|COMPILER_STRING
+DECL|macro|COMPILER_STRING
+DECL|macro|COMPILER_STRING
+DECL|macro|COMPILER_STRING
+DECL|macro|COMPILER_STRING
+DECL|macro|COMPILER_STRING
+DECL|macro|COMPILER_STRING
+DECL|macro|COMPILER_STRING
 DECL|member|haveEffectivePaths
 DECL|member|haveEffectiveSourcePaths
 DECL|member|havePaths
