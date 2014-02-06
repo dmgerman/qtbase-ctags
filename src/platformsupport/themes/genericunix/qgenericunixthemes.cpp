@@ -15,11 +15,12 @@ DECL|function|createUnixTheme
 DECL|function|font
 DECL|function|font
 DECL|function|font
-DECL|function|globalSettingsFile
 DECL|function|kdeColor
+DECL|function|kdeFont
+DECL|function|kdeGlobals
 DECL|function|kdeIconThemeSearchPaths
 DECL|function|palette
-DECL|function|readKdeFontSetting
+DECL|function|readKdeSetting
 DECL|function|readKdeSystemPalette
 DECL|function|refresh
 DECL|function|standardButtonText
@@ -32,7 +33,7 @@ DECL|member|fixedFont
 DECL|member|fixedFont
 DECL|member|iconFallbackThemeName
 DECL|member|iconThemeName
-DECL|member|kdeHome
+DECL|member|kdeDirs
 DECL|member|kdeVersion
 DECL|member|name
 DECL|member|name
