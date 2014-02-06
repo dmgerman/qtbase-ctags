@@ -8,3 +8,4 @@ DECL|variable|QGroupBox
 DECL|variable|QLineEdit
 DECL|variable|QProgressBar
 DECL|variable|QToolButton
+DECL|variable|QWindowContainer

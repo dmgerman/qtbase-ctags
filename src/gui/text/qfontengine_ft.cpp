@@ -30,6 +30,7 @@ DECL|function|emSquareSize
 DECL|function|faceId
 DECL|function|filterPixel
 DECL|function|fsType
+DECL|function|ft_getSfntTable
 DECL|function|getChar
 DECL|function|getFace
 DECL|function|getPointInOutline

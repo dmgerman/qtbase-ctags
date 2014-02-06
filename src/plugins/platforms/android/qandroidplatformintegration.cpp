@@ -12,6 +12,7 @@ DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|nativeInterface
 DECL|function|nativeResourceForIntegration
+DECL|function|needsWorkaround
 DECL|function|services
 DECL|function|setDefaultDesktopSize
 DECL|function|setDefaultDisplayMetrics

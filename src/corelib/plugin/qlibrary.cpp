@@ -46,4 +46,5 @@ DECL|member|libraryMap
 DECL|typedef|LibraryMap
 DECL|typedef|QtPluginQueryVerificationDataFunction
 DECL|variable|qt_library_data
+DECL|variable|qt_library_data_once
 DECL|variable|qt_library_mutex

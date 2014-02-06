@@ -1,6 +1,7 @@
 DECL|class|QWindowContainerPrivate
 DECL|function|QWindowContainer
 DECL|function|QWindowContainerPrivate
+DECL|function|containedWindow
 DECL|function|createWindowContainer
 DECL|function|event
 DECL|function|focusWindowChanged
