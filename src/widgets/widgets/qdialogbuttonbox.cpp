@@ -1,17 +1,4 @@
 DECL|class|QDialogButtonBoxPrivate
-DECL|enumerator|AcceptRole
-DECL|enumerator|ActionRole
-DECL|enumerator|AlternateRole
-DECL|enumerator|ApplyRole
-DECL|enumerator|DestructiveRole
-DECL|enumerator|EOL
-DECL|enumerator|HelpRole
-DECL|enumerator|NoRole
-DECL|enumerator|RejectRole
-DECL|enumerator|ResetRole
-DECL|enumerator|Reverse
-DECL|enumerator|Stretch
-DECL|enumerator|YesRole
 DECL|function|QDialogButtonBox
 DECL|function|QDialogButtonBox
 DECL|function|QDialogButtonBox
@@ -39,7 +26,6 @@ DECL|function|orientation
 DECL|function|removeButton
 DECL|function|resetLayout
 DECL|function|retranslateStrings
-DECL|function|roleFor
 DECL|function|setCenterButtons
 DECL|function|setOrientation
 DECL|function|setStandardButtons
@@ -53,4 +39,3 @@ DECL|member|internalRemove
 DECL|member|layoutPolicy
 DECL|member|orientation
 DECL|member|standardButtonHash
-DECL|variable|layouts
