@@ -6,6 +6,7 @@ DECL|macro|comp_func_Source_sse2
 DECL|macro|comp_func_solid_SourceOver_sse2
 DECL|macro|qt_bitmapblit16_sse2
 DECL|macro|qt_bitmapblit32_sse2
+DECL|macro|qt_bitmapblit8888_sse2
 DECL|macro|qt_blend_argb32_on_argb32_ssse3
 DECL|macro|qt_blend_rgb32_on_rgb32_sse2
 DECL|macro|qt_fetch_radial_gradient_sse2
