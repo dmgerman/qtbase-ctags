@@ -122,6 +122,8 @@ DECL|function|getPaintedSize
 DECL|function|getResImage
 DECL|function|getSetCheck
 DECL|function|gradientInterpolation
+DECL|function|gradientPixelFormat
+DECL|function|gradientPixelFormat_data
 DECL|function|imageBlending
 DECL|function|imageBlending_clipped
 DECL|function|imageBlending_data
