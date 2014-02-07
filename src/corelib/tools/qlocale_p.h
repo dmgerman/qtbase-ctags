@@ -23,6 +23,7 @@ DECL|enum|Flags
 DECL|enum|GroupSeparatorMode
 DECL|enum|NumberMode
 DECL|function|clone
+DECL|function|convertDoubleToFloat
 DECL|function|digitToCLocale
 DECL|function|fromIds
 DECL|function|operator

@@ -143,7 +143,6 @@ DECL|function|withLikelySubtagsRemoved
 DECL|function|zeroDigit
 DECL|function|~QLocale
 DECL|function|~QSystemLocale
-DECL|macro|QT_MAX_FLOAT
 DECL|variable|_systemLocale
 DECL|variable|c_data
 DECL|variable|default_data
