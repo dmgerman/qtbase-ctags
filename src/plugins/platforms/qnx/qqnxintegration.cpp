@@ -14,6 +14,7 @@ DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|moveToScreen
 DECL|function|nativeInterface
+DECL|function|navigatorEventHandler
 DECL|function|options
 DECL|function|parseOptions
 DECL|function|primaryDisplay

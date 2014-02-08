@@ -1,4 +1,6 @@
+DECL|function|QQnxNativeInterface
 DECL|function|nativeResourceForContext
+DECL|function|nativeResourceForIntegration
 DECL|function|nativeResourceForScreen
 DECL|function|nativeResourceForWindow
 DECL|function|nativeResourceFunctionForIntegration
