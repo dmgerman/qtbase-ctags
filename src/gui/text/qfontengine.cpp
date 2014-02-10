@@ -2,6 +2,8 @@ DECL|enumerator|EdgeDown
 DECL|enumerator|EdgeLeft
 DECL|enumerator|EdgeRight
 DECL|enumerator|EdgeUp
+DECL|function|GlyphCacheEntry
+DECL|function|GlyphCacheEntry
 DECL|function|QFontEngine
 DECL|function|QFontEngineBox
 DECL|function|QFontEngineMulti
@@ -79,6 +81,7 @@ DECL|function|maxCharWidth
 DECL|function|minLeftBearing
 DECL|function|minRightBearing
 DECL|function|name
+DECL|function|operator =
 DECL|function|properties
 DECL|function|qt_addBitmapToPath
 DECL|function|qt_get_font_table_default
@@ -102,6 +105,7 @@ DECL|function|underlinePosition
 DECL|function|unlockAlphaMapForGlyph
 DECL|function|xHeight
 DECL|function|xHeight
+DECL|function|~GlyphCacheEntry
 DECL|function|~QFontEngine
 DECL|function|~QFontEngineBox
 DECL|function|~QFontEngineMulti

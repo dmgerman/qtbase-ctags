@@ -67,7 +67,7 @@ DECL|function|~QOpenGLStaticTextUserData
 DECL|macro|GL_MIRRORED_REPEAT_IBM
 DECL|member|cacheSerialNumber
 DECL|member|cacheSize
-DECL|member|glyphType
+DECL|member|glyphFormat
 DECL|member|ibo
 DECL|member|indexCount
 DECL|member|indexType
