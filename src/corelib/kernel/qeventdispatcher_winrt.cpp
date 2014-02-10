@@ -17,6 +17,7 @@ DECL|function|registerTimer
 DECL|function|registerTimer
 DECL|function|registeredTimers
 DECL|function|remainingTime
+DECL|function|sendPostedEvents
 DECL|function|sendTimerEvent
 DECL|function|startingUp
 DECL|function|timerExpiredCallback
@@ -28,8 +29,10 @@ DECL|function|unregisterTimers
 DECL|function|wakeUp
 DECL|function|~QEventDispatcherWinRT
 DECL|function|~QEventDispatcherWinRTPrivate
+DECL|member|coreDispatcher
 DECL|member|id
 DECL|member|inTimerEvent
+DECL|member|interrupt
 DECL|member|interval
 DECL|member|obj
 DECL|member|timeout
