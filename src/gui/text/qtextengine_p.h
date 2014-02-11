@@ -1,22 +1,11 @@
-DECL|enumerator|Arabic_Alef
-DECL|enumerator|Arabic_BaRa
-DECL|enumerator|Arabic_HaaDal
-DECL|enumerator|Arabic_Kashida
-DECL|enumerator|Arabic_Normal
-DECL|enumerator|Arabic_Seen
-DECL|enumerator|Arabic_Space
-DECL|enumerator|Arabic_Waw
-DECL|enumerator|Character
 DECL|enumerator|JustifyKashida
 DECL|enumerator|JustifyNone
 DECL|enumerator|JustifySpace
 DECL|enumerator|LineOrParagraphSeparator
 DECL|enumerator|Lowercase
-DECL|enumerator|NoJustification
 DECL|enumerator|None
 DECL|enumerator|Object
 DECL|enumerator|SmallCaps
-DECL|enumerator|Space
 DECL|enumerator|Space
 DECL|enumerator|SpaceNeeded
 DECL|enumerator|SpaceTabOrObject
@@ -53,7 +42,6 @@ DECL|member|ascent
 DECL|member|attributes
 DECL|member|bidiLevel
 DECL|member|clusterStart
-DECL|member|combiningClass
 DECL|member|descent
 DECL|member|descent
 DECL|member|dontPrint
@@ -86,7 +74,6 @@ DECL|member|line
 DECL|member|lineEnd
 DECL|member|lineNum
 DECL|member|logicalItem
-DECL|member|mark
 DECL|member|nItems
 DECL|member|nKashidas
 DECL|member|numGlyphs
@@ -106,6 +93,9 @@ DECL|member|textAdvance
 DECL|member|textWidth
 DECL|member|trailingSpaces
 DECL|member|type
+DECL|member|unused1
+DECL|member|unused2
+DECL|member|unused3
 DECL|member|visualOrder
 DECL|member|width
 DECL|member|width
@@ -117,7 +107,7 @@ DECL|member|xoff
 DECL|member|y
 DECL|member|y
 DECL|member|yoff
-DECL|member|zeroWidth
+DECL|struct|QGlyphAttributes
 DECL|struct|QGlyphJustification
 DECL|struct|QGlyphLayout
 DECL|struct|QGlyphLayout
@@ -126,8 +116,6 @@ DECL|struct|QScriptItem
 DECL|struct|QScriptLine
 DECL|struct|QTextLineItemIterator
 DECL|struct|glyph_metrics_t
-DECL|typedef|JustificationClass
-DECL|typedef|QGlyphAttributes
 DECL|typedef|QScriptItemArray
 DECL|typedef|glyph_t
 DECL|typedef|q_hb_bitfield
