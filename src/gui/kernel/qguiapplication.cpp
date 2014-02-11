@@ -134,6 +134,8 @@ DECL|function|sync
 DECL|function|synthesizeMouseFromTouchEventsEnabled
 DECL|function|topLevelAt
 DECL|function|topLevelWindows
+DECL|function|tryCloseAllWindows
+DECL|function|tryCloseRemainingWindows
 DECL|function|unsetCursor
 DECL|function|updateBlockedStatus
 DECL|function|updateBlockedStatusRecursion

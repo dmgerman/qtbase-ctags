@@ -94,6 +94,8 @@ DECL|function|topLevelWidgets
 DECL|function|translateRawTouchEvent
 DECL|function|translateTouchCancel
 DECL|function|translateTouchToMouse
+DECL|function|tryCloseAllWidgetWindows
+DECL|function|tryCloseAllWindows
 DECL|function|tryModalHelper
 DECL|function|updateTouchPointsForWidget
 DECL|function|widgetAt
