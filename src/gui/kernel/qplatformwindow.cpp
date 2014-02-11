@@ -8,6 +8,7 @@ DECL|function|frameStrutEventsEnabled
 DECL|function|geometry
 DECL|function|handleContentOrientationChange
 DECL|function|initialGeometry
+DECL|function|invalidateSurface
 DECL|function|isActive
 DECL|function|isAlertState
 DECL|function|isEmbedded
