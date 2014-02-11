@@ -1,4 +1,5 @@
 DECL|macro|QEGLPLATFORMINTEGRATION_H
+DECL|variable|QEGLPlatformContext
 DECL|variable|QEGLPlatformScreen
 DECL|variable|QEGLPlatformWindow
 DECL|variable|QFbVtHandler

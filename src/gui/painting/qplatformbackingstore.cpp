@@ -6,6 +6,7 @@ DECL|function|QPlatformTextureList
 DECL|function|QPlatformTextureListPrivate
 DECL|function|appendTexture
 DECL|function|beginPaint
+DECL|function|clear
 DECL|function|composeAndFlush
 DECL|function|count
 DECL|function|endPaint

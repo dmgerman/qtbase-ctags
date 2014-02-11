@@ -1,3 +1,4 @@
+DECL|function|QPlatformTextureListWatcher
 DECL|function|QWidgetBackingStore
 DECL|function|beginPaint
 DECL|function|bltRect
@@ -16,6 +17,7 @@ DECL|function|markDirty
 DECL|function|markDirty
 DECL|function|markDirtyOnScreen
 DECL|function|moveRect
+DECL|function|onLockStatusChanged
 DECL|function|qt_flush
 DECL|function|releaseBuffer
 DECL|function|removeDirtyWidget
@@ -29,4 +31,5 @@ DECL|function|sync
 DECL|function|sync
 DECL|function|unflushPaint
 DECL|function|updateLists
+DECL|function|watch
 DECL|function|~QWidgetBackingStore
