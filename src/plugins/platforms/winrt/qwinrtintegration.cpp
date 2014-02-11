@@ -2,6 +2,7 @@ DECL|function|QWinRTIntegration
 DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
+DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|fontDatabase
 DECL|function|getSettings
@@ -10,4 +11,5 @@ DECL|function|inputContext
 DECL|function|queryKeyboardModifiers
 DECL|function|services
 DECL|function|styleHint
+DECL|function|themeNames
 DECL|function|~QWinRTIntegration
