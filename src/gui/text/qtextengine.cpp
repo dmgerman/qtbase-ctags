@@ -152,5 +152,4 @@ DECL|variable|directions
 DECL|variable|sizeof
 DECL|variable|sizeof
 DECL|variable|sizeof
-DECL|variable|sizeof
 DECL|variable|smallCapsFraction

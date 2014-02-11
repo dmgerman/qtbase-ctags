@@ -85,6 +85,7 @@ DECL|member|pos_x
 DECL|member|position
 DECL|member|private
 DECL|member|public
+DECL|member|reserved
 DECL|member|script
 DECL|member|selection
 DECL|member|si
@@ -93,9 +94,6 @@ DECL|member|textAdvance
 DECL|member|textWidth
 DECL|member|trailingSpaces
 DECL|member|type
-DECL|member|unused1
-DECL|member|unused2
-DECL|member|unused3
 DECL|member|visualOrder
 DECL|member|width
 DECL|member|width
@@ -118,8 +116,6 @@ DECL|struct|QTextLineItemIterator
 DECL|struct|glyph_metrics_t
 DECL|typedef|QScriptItemArray
 DECL|typedef|glyph_t
-DECL|typedef|q_hb_bitfield
-DECL|typedef|q_hb_bitfield
 DECL|variable|QAbstractTextDocumentLayout
 DECL|variable|QFontEngine
 DECL|variable|QFontPrivate
