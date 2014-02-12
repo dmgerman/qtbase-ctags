@@ -30,6 +30,7 @@ DECL|class|ManyArgumentObject
 DECL|class|ManySignals
 DECL|class|MoveToThreadObject
 DECL|class|MoveToThreadThread
+DECL|class|MyFunctor
 DECL|class|NormalizeObject
 DECL|class|NotifyObject
 DECL|class|ObjectException
@@ -81,6 +82,7 @@ DECL|function|DestroyedListener
 DECL|function|DynamicPropertyObject
 DECL|function|EventSpy
 DECL|function|MoveToThreadObject
+DECL|function|MyFunctor
 DECL|function|NotifyObject
 DECL|function|PropertyObject
 DECL|function|QCustomTypeChecker
@@ -128,6 +130,7 @@ DECL|function|connectDisconnectNotifyTestSlot
 DECL|function|connectDisconnectNotify_data
 DECL|function|connectDisconnectNotify_shadowing
 DECL|function|connectFunctorArgDifference
+DECL|function|connectFunctorDeadlock
 DECL|function|connectFunctorOverload_impl
 DECL|function|connectFunctorOverloads
 DECL|function|connectFunctorQueued
@@ -245,6 +248,7 @@ DECL|function|on_baz_signal1
 DECL|function|on_child_signal
 DECL|function|on_foo_signal1
 DECL|function|on_something
+DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
@@ -440,6 +444,7 @@ DECL|function|~CheckInstanceCount
 DECL|function|~CountedStruct
 DECL|function|~CustomType
 DECL|function|~MoveToThreadThread
+DECL|function|~MyFunctor
 DECL|function|~QObjectCreatedOnShutdown
 DECL|function|~SiblingDeleter
 DECL|macro|Bleh_iid
@@ -482,6 +487,7 @@ DECL|member|m_custom
 DECL|member|m_customString
 DECL|member|m_float
 DECL|member|m_number
+DECL|member|m_objectToDisconnect
 DECL|member|m_priority
 DECL|member|m_qreal
 DECL|member|m_string

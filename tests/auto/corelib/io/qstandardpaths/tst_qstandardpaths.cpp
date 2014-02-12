@@ -17,6 +17,7 @@ DECL|function|testFindExecutableLinkToDirectory
 DECL|function|testFindExecutable_data
 DECL|function|testLocateAll
 DECL|function|testRuntimeDirectory
+DECL|function|testXdgPathCleanup
 DECL|macro|Q_XDG_PLATFORM
 DECL|member|m_globalAppDir
 DECL|member|m_globalAppTempDir
