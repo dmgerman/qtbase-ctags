@@ -2,6 +2,7 @@ DECL|class|Employee
 DECL|function|Employee
 DECL|function|operator ==
 DECL|function|qHash
+DECL|function|qHash
 DECL|macro|EMPLOYEE_H
 DECL|member|myDateOfBirth
 DECL|member|myName
