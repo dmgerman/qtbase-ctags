@@ -23,5 +23,6 @@ DECL|function|setUsePopupMenu
 DECL|function|sizeHint
 DECL|function|takeAt
 DECL|function|updateGeomArray
+DECL|function|updateMacBorderMetrics
 DECL|function|updateMarginAndSpacing
 DECL|function|~QToolBarLayout
