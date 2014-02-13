@@ -60,6 +60,7 @@ DECL|macro|Q_FORWARD_DECLARE_METATYPE_TEMPLATE_2ARG_ITER
 DECL|struct|QMetaTypeId2
 DECL|struct|T
 DECL|struct|true
+DECL|typedef|QByteArrayList
 DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QVariantHash

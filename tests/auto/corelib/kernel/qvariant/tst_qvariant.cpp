@@ -58,6 +58,8 @@ DECL|function|compare
 DECL|function|compare
 DECL|function|compare
 DECL|function|compare
+DECL|function|compare
+DECL|function|compare
 DECL|function|compareCustomTypes
 DECL|function|comparePointers
 DECL|function|constData
@@ -88,6 +90,7 @@ DECL|function|get
 DECL|function|getObject
 DECL|function|handler
 DECL|function|implicitConstruction
+DECL|function|insert
 DECL|function|insert
 DECL|function|insert
 DECL|function|insert
@@ -230,6 +233,7 @@ DECL|macro|TEST_ASSOCIATIVE_ITERATION
 DECL|macro|TEST_PAIR_ELEMENT_ACCESS
 DECL|macro|TEST_RANGE_FOR
 DECL|macro|TEST_SEQUENTIAL_ITERATION
+DECL|macro|TEST_SEQUENTIAL_ITERATION_ON_FULL_NAME
 DECL|macro|Y
 DECL|macro|Y
 DECL|macro|Y
@@ -270,6 +274,7 @@ DECL|member|z
 DECL|namespace|MyNS
 DECL|struct|AssociativeContainer
 DECL|struct|Blah
+DECL|struct|ContainerAPI
 DECL|struct|ContainerAPI
 DECL|struct|ContainerAPI
 DECL|struct|ContainerAPI
