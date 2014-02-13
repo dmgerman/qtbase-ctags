@@ -238,9 +238,9 @@ DECL|function|qt_bitmapblit_template
 DECL|function|qt_fetch_conical_gradient
 DECL|function|qt_fetch_linear_gradient
 DECL|function|qt_fetch_radial_gradient_plain
+DECL|function|qt_gradient_argb32
 DECL|function|qt_gradient_pixel_fixed
 DECL|function|qt_gradient_quint16
-DECL|function|qt_gradient_quint32
 DECL|function|qt_memfill16
 DECL|function|qt_memfill32
 DECL|function|qt_memfill_template

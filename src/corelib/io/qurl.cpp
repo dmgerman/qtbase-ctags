@@ -18,6 +18,7 @@ DECL|enumerator|InvalidQueryError
 DECL|enumerator|InvalidRegNameError
 DECL|enumerator|InvalidSchemeError
 DECL|enumerator|InvalidUserNameError
+DECL|enumerator|IsLocalFile
 DECL|enumerator|NoError
 DECL|enumerator|Password
 DECL|enumerator|Path
@@ -29,7 +30,8 @@ DECL|enumerator|Scheme
 DECL|enumerator|UserInfo
 DECL|enumerator|UserName
 DECL|enum|ErrorCode
-DECL|enum|Section
+DECL|enum|colon_uchar
+DECL|enum|colon_uchar
 DECL|function|QUrl
 DECL|function|QUrl
 DECL|function|QUrl
@@ -82,6 +84,7 @@ DECL|function|isDetached
 DECL|function|isEmpty
 DECL|function|isEmpty
 DECL|function|isHex
+DECL|function|isLocalFile
 DECL|function|isLocalFile
 DECL|function|isParentOf
 DECL|function|isRelative
@@ -146,11 +149,15 @@ DECL|function|validateComponent
 DECL|function|validityError
 DECL|function|~QUrl
 DECL|function|~QUrlPrivate
+DECL|macro|colon_uchar
+DECL|macro|colon_uchar
+DECL|macro|colon_uchar
 DECL|macro|decode
 DECL|macro|encode
 DECL|macro|leave
 DECL|member|code
 DECL|member|error
+DECL|member|flags
 DECL|member|fragment
 DECL|member|host
 DECL|member|password
