@@ -144,8 +144,13 @@ DECL|function|convertARGB32FromARGB32PM
 DECL|function|convertARGB32ToARGB32PM
 DECL|function|convertARGBPMFromARGB32PM
 DECL|function|convertARGBPMToARGB32PM
+DECL|function|convertAlpha8FromARGB32PM
+DECL|function|convertAlpha8ToRGB32
 DECL|function|convertFromARGB32PM
 DECL|function|convertFromRGB32
+DECL|function|convertGrayscale8FromARGB32PM
+DECL|function|convertGrayscale8FromRGB32
+DECL|function|convertGrayscale8ToRGB32
 DECL|function|convertIndexedToARGB32PM
 DECL|function|convertPassThrough
 DECL|function|convertRGB16FromARGB32PM
@@ -254,7 +259,9 @@ DECL|function|qt_memfill32
 DECL|function|qt_memfill_template
 DECL|function|qt_memfill_template
 DECL|function|qt_memfill_template
+DECL|function|qt_rectfill_alpha
 DECL|function|qt_rectfill_argb32
+DECL|function|qt_rectfill_gray
 DECL|function|qt_rectfill_nonpremul_argb32
 DECL|function|qt_rectfill_nonpremul_rgba
 DECL|function|qt_rectfill_quint16

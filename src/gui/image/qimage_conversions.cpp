@@ -18,8 +18,16 @@ DECL|function|convert_ARGB_to_RGBA
 DECL|function|convert_ARGB_to_RGBA_PM
 DECL|function|convert_ARGB_to_RGBA_inplace
 DECL|function|convert_ARGB_to_RGBx
+DECL|function|convert_Alpha8_to_Indexed8
+DECL|function|convert_Alpha8_to_Indexed8_inplace
 DECL|function|convert_BGR30_to_RGB30
 DECL|function|convert_BGR30_to_RGB30_inplace
+DECL|function|convert_Grayscale8_to_Indexed8
+DECL|function|convert_Grayscale8_to_Indexed8_inplace
+DECL|function|convert_Indexed8_to_Alpha8
+DECL|function|convert_Indexed8_to_Alpha8_inplace
+DECL|function|convert_Indexed8_to_Grayscale8
+DECL|function|convert_Indexed8_to_Grayscale8_inplace
 DECL|function|convert_Indexed8_to_X32
 DECL|function|convert_Mono_to_Indexed8
 DECL|function|convert_Mono_to_X32
