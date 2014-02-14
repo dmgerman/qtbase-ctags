@@ -3,6 +3,7 @@ DECL|function|LoggerSet
 DECL|function|allLoggerSets
 DECL|function|cleanup
 DECL|function|doRunSubTest
+DECL|function|expectedFileNameFromTest
 DECL|function|expectedResult
 DECL|function|extractXmlAttribute
 DECL|function|initTestCase
