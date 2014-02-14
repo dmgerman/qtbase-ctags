@@ -19,6 +19,7 @@ DECL|function|hideStatusBar
 DECL|function|insertNativeView
 DECL|function|javaVM
 DECL|function|methodErrorMsgFmt
+DECL|function|onActivityResult
 DECL|function|qtTagText
 DECL|function|quitQtAndroidPlugin
 DECL|function|registerNatives

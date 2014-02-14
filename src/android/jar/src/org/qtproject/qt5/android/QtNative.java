@@ -42,6 +42,7 @@ DECL|method|longPress
 DECL|method|mouseDown
 DECL|method|mouseMove
 DECL|method|mouseUp
+DECL|method|onActivityResult
 DECL|method|onContextItemSelected
 DECL|method|onContextMenuClosed
 DECL|method|onCreateContextMenu

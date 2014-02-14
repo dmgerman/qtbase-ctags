@@ -50,6 +50,7 @@ DECL|field|m_opionsMenuIsVisible
 DECL|field|m_quitApp
 DECL|field|m_started
 DECL|field|m_super_dispatchKeyEvent
+DECL|field|m_super_onActivityResult
 DECL|field|m_super_onConfigurationChanged
 DECL|field|m_super_onKeyDown
 DECL|field|m_super_onKeyUp
@@ -69,6 +70,7 @@ DECL|method|hideSoftwareKeyboard
 DECL|method|insertNativeView
 DECL|method|isSoftwareKeyboardVisible
 DECL|method|loadApplication
+DECL|method|onActivityResult
 DECL|method|onConfigurationChanged
 DECL|method|onContextItemSelected
 DECL|method|onContextMenuClosed
