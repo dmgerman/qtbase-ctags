@@ -9,6 +9,9 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
+DECL|function|operator
+DECL|function|operator
+DECL|function|operator
 DECL|function|right
 DECL|function|setBottom
 DECL|function|setLeft
