@@ -3,8 +3,8 @@ DECL|function|QMargins
 DECL|function|bottom
 DECL|function|isNull
 DECL|function|left
-DECL|function|marginsAdded
-DECL|function|marginsRemoved
+DECL|function|operator
+DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
