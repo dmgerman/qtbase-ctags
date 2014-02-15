@@ -17,6 +17,7 @@ DECL|function|inherits
 DECL|function|isDefault
 DECL|function|isValid
 DECL|function|name
+DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|parentMimeTypes
