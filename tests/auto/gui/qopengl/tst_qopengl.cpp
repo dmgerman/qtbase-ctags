@@ -29,6 +29,7 @@ DECL|function|qt_opengl_draw_test_pattern
 DECL|function|reset
 DECL|function|sharedResourceCleanup
 DECL|function|sharedResourceCleanup_data
+DECL|function|sizeLessWindow
 DECL|function|textureblitterFullSourceRectTransform
 DECL|function|textureblitterFullTargetRectTransform
 DECL|function|textureblitterPartOriginBottomLeftSourceRectTransform
