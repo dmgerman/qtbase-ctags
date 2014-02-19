@@ -1,9 +1,12 @@
 DECL|function|QVarLengthArray
 DECL|function|append
+DECL|function|contains
 DECL|function|erase
+DECL|function|indexOf
 DECL|function|insert
 DECL|function|insert
 DECL|function|insert
+DECL|function|lastIndexOf
 DECL|function|operator
 DECL|function|operator
 DECL|function|prepend
@@ -20,6 +23,12 @@ DECL|macro|QVARLENGTHARRAY_H
 DECL|variable|Prealloc1
 DECL|variable|Prealloc1
 DECL|variable|QPodList
+DECL|variable|T
+DECL|variable|T
+DECL|variable|T
+DECL|variable|T
+DECL|variable|T
+DECL|variable|T
 DECL|variable|T
 DECL|variable|T
 DECL|variable|T

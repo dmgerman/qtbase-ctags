@@ -12,6 +12,8 @@ DECL|function|convertFromUnicode
 DECL|function|convertFromUnicode
 DECL|function|convertFromUnicode
 DECL|function|convertFromUnicode
+DECL|function|convertFromUnicode
+DECL|function|convertToUnicode
 DECL|function|convertToUnicode
 DECL|function|convertToUnicode
 DECL|function|convertToUnicode
@@ -33,6 +35,10 @@ DECL|function|name
 DECL|function|name
 DECL|function|name
 DECL|function|name
+DECL|function|simdDecodeAscii
+DECL|function|simdDecodeAscii
+DECL|function|simdEncodeAscii
+DECL|function|simdEncodeAscii
 DECL|function|~QUtf16Codec
 DECL|function|~QUtf32Codec
 DECL|function|~QUtf8Codec

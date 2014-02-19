@@ -3,9 +3,9 @@ DECL|function|applyWindowState
 DECL|function|clearMMRendererWindow
 DECL|function|createWindowGroup
 DECL|function|findWindow
-DECL|function|gainedFocus
 DECL|function|initWindow
 DECL|function|isExposed
+DECL|function|joinWindowGroup
 DECL|function|lower
 DECL|function|minimize
 DECL|function|propagateSizeHints
@@ -14,11 +14,11 @@ DECL|function|removeFromParent
 DECL|function|requestActivateWindow
 DECL|function|setBufferSize
 DECL|function|setExposed
+DECL|function|setFocus
 DECL|function|setGeometry
 DECL|function|setGeometryHelper
 DECL|function|setMMRendererWindow
 DECL|function|setMMRendererWindowName
-DECL|function|setOffset
 DECL|function|setOpacity
 DECL|function|setParent
 DECL|function|setRotation
@@ -28,6 +28,7 @@ DECL|function|setWindowState
 DECL|function|updateVisibility
 DECL|function|updateZorder
 DECL|function|updateZorder
+DECL|function|windowPosted
 DECL|function|~QQnxWindow
 DECL|macro|qWindowDebug
 DECL|macro|qWindowDebug

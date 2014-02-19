@@ -1,0 +1,5 @@
+DECL|macro|QWINRTINPUTCONTEXT_H
+DECL|member|WinRtClassicComMix
+DECL|variable|IRawElementProviderSimple
+DECL|variable|ITextProvider
+DECL|variable|QPlatformInputContext

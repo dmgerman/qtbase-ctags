@@ -19,6 +19,7 @@ DECL|function|defaultMouseDelay
 DECL|function|fetchData
 DECL|function|function
 DECL|function|ignoreMessage
+DECL|function|ignoreMessage
 DECL|function|installCoverageTool
 DECL|function|invokeMethod
 DECL|function|isValidSlot
@@ -50,7 +51,9 @@ DECL|function|qtest_qParseArgs
 DECL|function|set
 DECL|function|signal
 DECL|function|testObject
+DECL|function|toHex
 DECL|function|toHexRepresentation
+DECL|function|toPrettyUnicode
 DECL|function|toString
 DECL|function|toString
 DECL|function|windowsFaultHandler

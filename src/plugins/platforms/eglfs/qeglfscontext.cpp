@@ -1,4 +1,3 @@
 DECL|function|QEglFSContext
 DECL|function|eglSurfaceForPlatformSurface
-DECL|function|makeCurrent
 DECL|function|swapBuffers

@@ -1,5 +1,6 @@
-DECL|enumerator|IsInteger
-DECL|enumerator|IsInteger
+DECL|enumerator|IsSupported
+DECL|enumerator|IsSupported
+DECL|enumerator|IsSupported
 DECL|macro|QATOMIC_CXX11_H
 DECL|macro|Q_ATOMIC_INT16_FETCH_AND_ADD_IS_ALWAYS_NATIVE
 DECL|macro|Q_ATOMIC_INT16_FETCH_AND_STORE_IS_ALWAYS_NATIVE
@@ -32,6 +33,7 @@ DECL|macro|Q_ATOMIC_POINTER_TEST_AND_SET_IS_SOMETIMES_NATIVE
 DECL|macro|Q_BASIC_ATOMIC_INITIALIZER
 DECL|macro|Q_BASIC_ATOMIC_INITIALIZER
 DECL|struct|QAtomicOps
-DECL|struct|char16_t
-DECL|struct|char32_t
+DECL|struct|QAtomicOpsSupport
+DECL|struct|QAtomicOpsSupport
+DECL|struct|QAtomicOpsSupport
 DECL|typedef|Type

@@ -1,3 +1,0 @@
-DECL|macro|convert_ARGB_to_ARGB_PM_inplace_sse2
-DECL|macro|convert_RGB888_to_RGB32_ssse3
-DECL|macro|qt_convert_rgb888_to_rgb32_ssse3

@@ -16,6 +16,7 @@ DECL|function|operator !=
 DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator ==
+DECL|function|options
 DECL|function|profile
 DECL|function|redBufferSize
 DECL|function|renderableType
@@ -27,6 +28,8 @@ DECL|function|setGreenBufferSize
 DECL|function|setMajorVersion
 DECL|function|setMinorVersion
 DECL|function|setOption
+DECL|function|setOption
+DECL|function|setOptions
 DECL|function|setProfile
 DECL|function|setRedBufferSize
 DECL|function|setRenderableType
@@ -34,9 +37,12 @@ DECL|function|setSamples
 DECL|function|setStencilBufferSize
 DECL|function|setStereo
 DECL|function|setSwapBehavior
+DECL|function|setSwapInterval
 DECL|function|setVersion
 DECL|function|stencilBufferSize
 DECL|function|swapBehavior
+DECL|function|swapInterval
+DECL|function|testOption
 DECL|function|testOption
 DECL|function|version
 DECL|function|~QSurfaceFormat
@@ -56,3 +62,4 @@ DECL|member|ref
 DECL|member|renderableType
 DECL|member|stencilSize
 DECL|member|swapBehavior
+DECL|member|swapInterval

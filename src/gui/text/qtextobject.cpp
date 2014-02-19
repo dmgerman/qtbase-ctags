@@ -73,6 +73,7 @@ DECL|function|setVisible
 DECL|function|text
 DECL|function|text
 DECL|function|textDirection
+DECL|function|textFormats
 DECL|function|textList
 DECL|function|userData
 DECL|function|userState

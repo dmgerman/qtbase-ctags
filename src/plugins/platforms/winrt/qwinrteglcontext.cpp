@@ -1,0 +1,2 @@
+DECL|function|QWinRTEGLContext
+DECL|function|eglSurfaceForPlatformSurface

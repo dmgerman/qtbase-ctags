@@ -1,0 +1,2 @@
+DECL|function|QByteArrayList_join
+DECL|function|QByteArrayList_joinedSize

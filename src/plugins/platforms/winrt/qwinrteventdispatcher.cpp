@@ -1,0 +1,3 @@
+DECL|function|QWinRTEventDispatcher
+DECL|function|hasPendingEvents
+DECL|function|sendPostedEvents

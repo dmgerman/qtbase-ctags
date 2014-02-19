@@ -105,6 +105,7 @@ DECL|function|value
 DECL|function|variantListToStringList
 DECL|function|variantToString
 DECL|function|windowsConfigPath
+DECL|function|windowsConfigPath
 DECL|function|writeIniFile
 DECL|function|~QConfFile
 DECL|function|~QConfFileSettingsPrivate
@@ -117,7 +118,6 @@ DECL|macro|CSIDL_COMMON_APPDATA
 DECL|macro|FLUSH_CURRENT_SECTION
 DECL|macro|FLUSH_CURRENT_SECTION
 DECL|macro|NFS_SUPER_MAGIC
-DECL|macro|Q_AUTOTEST_EXPORT_HELPER
 DECL|macro|Q_AUTOTEST_EXPORT_HELPER
 DECL|member|caseSensitivity
 DECL|member|extension

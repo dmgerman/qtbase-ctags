@@ -4,6 +4,7 @@ DECL|function|cacheKey
 DECL|function|cleanupFunction
 DECL|function|cleanupFunctions
 DECL|function|compareIndexed
+DECL|function|convertOverUnPreMul
 DECL|function|convertToFormat
 DECL|function|convertToFormatPreserveDotsPrMeter
 DECL|function|convertToFormatPreserveText
@@ -27,9 +28,18 @@ DECL|function|fillColor_data
 DECL|function|fillRGB888
 DECL|function|formatHandlersInput
 DECL|function|formatHandlersInput_data
+DECL|function|inplaceConversion
+DECL|function|inplaceConversion_data
+DECL|function|inplaceMirrored
+DECL|function|inplaceMirrored_data
+DECL|function|inplaceRgbMirrored
+DECL|function|inplaceRgbSwapped
+DECL|function|inplaceRgbSwapped_data
 DECL|function|load
 DECL|function|loadFromData
 DECL|function|loadFromDataStream
+DECL|function|mirrored
+DECL|function|mirrored_data
 DECL|function|nullSize
 DECL|function|nullSize_data
 DECL|function|paintEngine

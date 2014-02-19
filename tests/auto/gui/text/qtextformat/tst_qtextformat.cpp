@@ -3,6 +3,10 @@ DECL|function|defaultAlignment
 DECL|function|getSetCheck
 DECL|function|getSetTabs
 DECL|function|resolveFont
+DECL|function|setFont
+DECL|function|setFont_collection
+DECL|function|setFont_collection_data
+DECL|function|setFont_data
 DECL|function|testFontStretch
 DECL|function|testFontStyleSetters
 DECL|function|testLetterSpacing

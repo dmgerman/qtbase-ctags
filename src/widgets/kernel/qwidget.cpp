@@ -261,6 +261,7 @@ DECL|function|setWinId
 DECL|function|setWindowFilePath
 DECL|function|setWindowFilePath_helper
 DECL|function|setWindowFlags
+DECL|function|setWindowFlags
 DECL|function|setWindowIcon
 DECL|function|setWindowIconText
 DECL|function|setWindowIconText_helper
@@ -272,6 +273,7 @@ DECL|function|setWindowOpacity
 DECL|function|setWindowRole
 DECL|function|setWindowTitle
 DECL|function|setWindowTitle_helper
+DECL|function|shareContext
 DECL|function|sharedPainter
 DECL|function|show
 DECL|function|showChildren

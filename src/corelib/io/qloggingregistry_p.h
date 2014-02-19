@@ -1,1 +1,2 @@
 DECL|macro|QLOGGINGREGISTRY_P_H
+DECL|variable|tst_QLoggingRegistry

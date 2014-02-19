@@ -1,6 +1,4 @@
-DECL|enumerator|IsInteger
-DECL|enumerator|IsInteger
-DECL|enumerator|IsInteger
+DECL|enumerator|IsSupported
 DECL|function|sizeof
 DECL|macro|QATOMIC_MIPS_H
 DECL|macro|Q_ATOMIC_INT32_FETCH_AND_ADD_IS_ALWAYS_NATIVE
@@ -28,7 +26,5 @@ DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
-DECL|struct|char16_t
-DECL|struct|char32_t
-DECL|struct|char32_t
+DECL|struct|QAtomicOpsSupport
 DECL|struct|size

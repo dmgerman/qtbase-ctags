@@ -13,4 +13,5 @@ DECL|method|generateDefaultLayoutParams
 DECL|method|generateLayoutParams
 DECL|method|onLayout
 DECL|method|onMeasure
+DECL|method|onSizeChanged
 DECL|package|org.qtproject.qt5.android

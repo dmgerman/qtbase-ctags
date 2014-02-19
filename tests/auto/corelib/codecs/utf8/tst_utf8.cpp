@@ -13,4 +13,5 @@ DECL|function|roundTrip_data
 DECL|member|codec
 DECL|member|from8BitPtr
 DECL|member|to8Bit
+DECL|member|to8Bit
 DECL|variable|utf8bom

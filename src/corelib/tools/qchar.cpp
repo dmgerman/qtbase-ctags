@@ -32,6 +32,7 @@ DECL|function|isPunct
 DECL|function|isSpace_helper
 DECL|function|isSymbol
 DECL|function|joining
+DECL|function|joiningType
 DECL|function|ligatureHelper
 DECL|function|mirroredChar
 DECL|function|normalizationQuickCheckHelper

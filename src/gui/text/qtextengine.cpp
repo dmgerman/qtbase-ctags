@@ -22,7 +22,6 @@ DECL|function|addOverline
 DECL|function|addRequiredBoundaries
 DECL|function|addStrikeOut
 DECL|function|addUnderline
-DECL|function|additionalFormats
 DECL|function|adjustUnderlines
 DECL|function|adjustUnderlines
 DECL|function|alignLine

@@ -32,6 +32,7 @@ DECL|function|gripMoved
 DECL|function|grips
 DECL|function|indexAt
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|isIndexHidden
 DECL|function|moveCursor
 DECL|function|moveCursor_data
@@ -65,3 +66,5 @@ DECL|function|visualRegionForSelection
 DECL|function|~tst_QColumnView
 DECL|macro|ANIMATION_DELAY
 DECL|member|createdColumns
+DECL|member|m_fakeDirHomeIndex
+DECL|member|m_fakeDirModel

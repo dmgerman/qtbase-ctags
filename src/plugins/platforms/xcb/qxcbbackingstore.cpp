@@ -2,6 +2,7 @@ DECL|class|QXcbShmImage
 DECL|function|QXcbBackingStore
 DECL|function|QXcbShmImage
 DECL|function|beginPaint
+DECL|function|composeAndFlush
 DECL|function|destroy
 DECL|function|flush
 DECL|function|image
@@ -11,6 +12,7 @@ DECL|function|put
 DECL|function|resize
 DECL|function|scroll
 DECL|function|size
+DECL|function|toImage
 DECL|function|~QXcbBackingStore
 DECL|function|~QXcbShmImage
 DECL|member|m_dirty

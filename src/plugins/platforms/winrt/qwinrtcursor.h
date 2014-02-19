@@ -1,0 +1,1 @@
+DECL|macro|QWINRTCURSOR_H

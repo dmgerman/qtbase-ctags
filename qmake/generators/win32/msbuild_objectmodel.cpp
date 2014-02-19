@@ -67,6 +67,7 @@ DECL|function|write
 DECL|function|write
 DECL|function|write
 DECL|function|write
+DECL|function|write
 DECL|variable|_ATLMinimizesCRunTimeLibraryUsage
 DECL|variable|_AddModuleNamesToAssembly
 DECL|variable|_AdditionalDependencies

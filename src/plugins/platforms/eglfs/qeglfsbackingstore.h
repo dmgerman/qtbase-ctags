@@ -1,4 +1,0 @@
-DECL|macro|QEGLFSBACKINGSTORE_H
-DECL|variable|QEglFSWindow
-DECL|variable|QOpenGLPaintDevice
-DECL|variable|QPlatformBackingStore

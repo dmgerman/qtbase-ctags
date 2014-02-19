@@ -1,0 +1,1 @@
+DECL|macro|GRAMMAR_P_H

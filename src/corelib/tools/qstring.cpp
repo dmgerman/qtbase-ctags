@@ -8,6 +8,7 @@ DECL|function|append
 DECL|function|append
 DECL|function|append
 DECL|function|append
+DECL|function|appendLatin1To
 DECL|function|appendTo
 DECL|function|arg
 DECL|function|arg
@@ -39,6 +40,9 @@ DECL|function|endsWith
 DECL|function|endsWith
 DECL|function|endsWith
 DECL|function|endsWith
+DECL|function|exec
+DECL|function|exec
+DECL|function|exec
 DECL|function|expand
 DECL|function|extractSections
 DECL|function|fill
@@ -120,6 +124,7 @@ DECL|function|qToLower
 DECL|function|qt_ends_with
 DECL|function|qt_ends_with
 DECL|function|qt_find_latin1_string
+DECL|function|qt_from_latin1
 DECL|function|qt_last_index_of
 DECL|function|qt_section_chunk
 DECL|function|qt_starts_with
@@ -127,6 +132,7 @@ DECL|function|qt_starts_with
 DECL|function|qt_string_count
 DECL|function|qt_string_count
 DECL|function|qt_string_normalize
+DECL|function|qt_to_latin1
 DECL|function|reallocData
 DECL|function|remove
 DECL|function|remove
@@ -182,10 +188,12 @@ DECL|function|toFloat
 DECL|function|toHtmlEscaped
 DECL|function|toInt
 DECL|function|toInt
-DECL|function|toLatin1
+DECL|function|toIntegral_helper
+DECL|function|toIntegral_helper
 DECL|function|toLatin1
 DECL|function|toLatin1_helper
-DECL|function|toLocal8Bit
+DECL|function|toLatin1_helper
+DECL|function|toLatin1_helper_inplace
 DECL|function|toLocal8Bit
 DECL|function|toLocal8Bit_helper
 DECL|function|toLong
@@ -209,13 +217,15 @@ DECL|function|toUcs4
 DECL|function|toUcs4_helper
 DECL|function|toUpper
 DECL|function|toUtf8
-DECL|function|toUtf8
+DECL|function|toUtf8_helper
 DECL|function|trimmed
 DECL|function|trimmed
 DECL|function|truncate
 DECL|function|ucstrcmp
+DECL|function|ucstrcmp
 DECL|function|ucstricmp
 DECL|function|ucstricmp
+DECL|function|ucstrncmp
 DECL|function|ucstrncmp
 DECL|function|ucstrnicmp
 DECL|function|utf16
@@ -226,7 +236,6 @@ DECL|macro|CSTR_LESS_THAN
 DECL|macro|IS_RAW_DATA
 DECL|macro|LLONG_MAX
 DECL|macro|LLONG_MIN
-DECL|macro|QT_MAX_FLOAT
 DECL|macro|REHASH
 DECL|macro|ULLONG_MAX
 DECL|macro|truncate
@@ -242,3 +251,4 @@ DECL|member|pos
 DECL|member|string
 DECL|struct|ArgEscapeData
 DECL|struct|QStringCapture
+DECL|struct|UnrollTailLoop

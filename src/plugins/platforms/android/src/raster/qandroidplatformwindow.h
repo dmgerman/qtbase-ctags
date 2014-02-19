@@ -1,2 +1,0 @@
-DECL|macro|ANDROIDPLATFORMWINDOW_H
-DECL|variable|QObject

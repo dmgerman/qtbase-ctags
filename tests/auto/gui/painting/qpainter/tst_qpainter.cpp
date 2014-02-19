@@ -22,6 +22,8 @@ DECL|function|TestWidget
 DECL|function|ViewportTestWidget
 DECL|function|baseColor
 DECL|function|begin
+DECL|function|blendARGBonRGB
+DECL|function|blendARGBonRGB_data
 DECL|function|blendOverFlow
 DECL|function|blendOverFlow_data
 DECL|function|checkCompositionMode

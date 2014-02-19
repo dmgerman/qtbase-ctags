@@ -24,6 +24,7 @@ DECL|function|doClose
 DECL|function|event
 DECL|function|event
 DECL|function|exitApp
+DECL|function|firstWindowTitle
 DECL|function|focusObject
 DECL|function|focusObject
 DECL|function|focusOutEvent

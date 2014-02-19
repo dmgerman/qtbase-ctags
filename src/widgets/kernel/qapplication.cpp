@@ -49,6 +49,7 @@ DECL|function|notify
 DECL|function|notifyDragStarted
 DECL|function|notifyLayoutDirectionChange
 DECL|function|notifyThemeChanged
+DECL|function|notifyWindowIconChanged
 DECL|function|notify_helper
 DECL|function|palette
 DECL|function|palette
@@ -93,6 +94,8 @@ DECL|function|topLevelWidgets
 DECL|function|translateRawTouchEvent
 DECL|function|translateTouchCancel
 DECL|function|translateTouchToMouse
+DECL|function|tryCloseAllWidgetWindows
+DECL|function|tryCloseAllWindows
 DECL|function|tryModalHelper
 DECL|function|updateTouchPointsForWidget
 DECL|function|widgetAt
@@ -102,7 +105,6 @@ DECL|function|~QApplicationPrivate
 DECL|function|~WidgetAttributeSaver
 DECL|member|active_window
 DECL|member|app_cspec
-DECL|member|app_icon
 DECL|member|app_strut
 DECL|member|app_style
 DECL|member|autoMaximizeThreshold

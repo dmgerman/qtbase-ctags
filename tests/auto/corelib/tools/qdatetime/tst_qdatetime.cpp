@@ -90,5 +90,6 @@ DECL|function|toUTC
 DECL|function|toUTC_data
 DECL|function|tst_QDateTime
 DECL|function|utcOffsetLessThan
+DECL|macro|tzset
 DECL|member|europeanTimeZone
 DECL|member|localTimeType

@@ -3,3 +3,4 @@ DECL|variable|QDateTimeEdit
 DECL|variable|QDoubleSpinBox
 DECL|variable|QGroupBox
 DECL|variable|QLabel
+DECL|variable|QSpinBox

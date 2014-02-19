@@ -16,9 +16,13 @@ DECL|function|isFetchAndStoreNative
 DECL|function|isFetchAndStoreWaitFree
 DECL|function|isTestAndSetNative
 DECL|function|isTestAndSetWaitFree
+DECL|function|operators
+DECL|function|operators_helper
 DECL|function|testAndSet
 DECL|function|warningFree
 DECL|function|warningFreeHelper
+DECL|member|d
 DECL|member|ptr
+DECL|struct|Big
 DECL|struct|ContainsForwardDeclared
 DECL|struct|WFHC

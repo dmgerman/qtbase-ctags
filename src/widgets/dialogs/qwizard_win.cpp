@@ -13,13 +13,17 @@ DECL|function|QVistaBackButton
 DECL|function|QVistaHelper
 DECL|function|backingStoreDC
 DECL|function|basicWindowFrameColor
+DECL|function|captionSize
 DECL|function|disconnectBackButton
 DECL|function|drawBlackRect
 DECL|function|drawTitleBar
 DECL|function|drawTitleText
 DECL|function|enterEvent
 DECL|function|eventFilter
+DECL|function|frameSize
 DECL|function|getCaptionFont
+DECL|function|getWindowBottomMargin
+DECL|function|getWindowBottomMargin
 DECL|function|handleWinEvent
 DECL|function|isCompositionEnabled
 DECL|function|isThemeActive

@@ -46,6 +46,8 @@ DECL|function|fromRawData
 DECL|function|fromStdString
 DECL|function|fromUcs4
 DECL|function|fromUtf16
+DECL|function|fromUtf16_char16
+DECL|function|fromUtf16_char16_data
 DECL|function|fromUtf16_data
 DECL|function|fromUtf8
 DECL|function|fromUtf8_data
@@ -190,6 +192,8 @@ DECL|macro|NAN
 DECL|macro|NAN
 DECL|macro|QCOMPARE
 DECL|macro|QCOMPARE
+DECL|macro|QSTRING_FROM_QCHARARRAY
+DECL|macro|QSTRING_FROM_QCHARARRAY
 DECL|macro|QTEST
 DECL|macro|QTEST
 DECL|macro|QT_ASCII_CAST_WARNINGS

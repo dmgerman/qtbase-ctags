@@ -6,6 +6,8 @@ DECL|function|qt_mac_flipPoint
 DECL|function|qt_mac_flipPoint
 DECL|function|qt_mac_flipYCoordinate
 DECL|function|qt_mac_flipYCoordinate
+DECL|function|qt_mac_resolveOption
+DECL|function|qt_mac_resolveOption
 DECL|macro|QCOCOAHELPERS_H
 DECL|variable|QPixmap
 DECL|variable|QString

@@ -1,0 +1,2 @@
+DECL|macro|QWINDOWSDIRECT2DDEVICECONTEXT_H
+DECL|variable|QWindowsDirect2DDeviceContextPrivate

@@ -1,0 +1,1 @@
+DECL|macro|COMPRESS_H

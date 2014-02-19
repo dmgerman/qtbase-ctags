@@ -1,0 +1,9 @@
+DECL|macro|ANDROID_APP_H
+DECL|variable|AndroidSurfaceClient
+DECL|variable|QAndroidPlatformIntegration
+DECL|variable|QPoint
+DECL|variable|QRect
+DECL|variable|QString
+DECL|variable|QThread
+DECL|variable|QWidget
+DECL|variable|QWindow

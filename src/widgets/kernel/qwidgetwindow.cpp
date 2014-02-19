@@ -26,6 +26,7 @@ DECL|function|handleWheelEvent
 DECL|function|handleWindowStateChangedEvent
 DECL|function|nativeEvent
 DECL|function|updateGeometry
+DECL|function|updateNormalGeometry
 DECL|function|updateObjectName
 DECL|function|~QWidgetWindow
 DECL|variable|qt_button_down

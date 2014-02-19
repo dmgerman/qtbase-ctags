@@ -54,6 +54,7 @@ DECL|function|contentPos
 DECL|function|contentPos
 DECL|function|contentPosRange
 DECL|function|flags
+DECL|function|flags
 DECL|function|formatTouchEvent
 DECL|function|id
 DECL|function|isOverride
@@ -106,6 +107,7 @@ DECL|function|setState
 DECL|function|setValue
 DECL|function|setVelocity
 DECL|function|setViewportSize
+DECL|function|source
 DECL|function|source
 DECL|function|startNormalizedPos
 DECL|function|startPos

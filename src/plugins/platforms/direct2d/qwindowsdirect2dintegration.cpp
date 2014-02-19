@@ -1,0 +1,13 @@
+DECL|class|QWindowsDirect2DIntegrationPrivate
+DECL|function|QWindowsDirect2DIntegration
+DECL|function|create
+DECL|function|createPlatformBackingStore
+DECL|function|createPlatformPixmap
+DECL|function|createPlatformWindow
+DECL|function|direct2DContext
+DECL|function|init
+DECL|function|instance
+DECL|function|nativeInterface
+DECL|function|~QWindowsDirect2DIntegration
+DECL|member|m_d2dContext
+DECL|member|m_nativeInterface

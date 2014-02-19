@@ -5,6 +5,8 @@ DECL|function|compare_data
 DECL|function|initTestCase
 DECL|function|msgProcessStartFailed
 DECL|function|run
+DECL|function|runCompare
+DECL|function|runTranslation
 DECL|function|run_data
 DECL|function|stdOut
 DECL|function|tst_uic

@@ -7,11 +7,14 @@ DECL|function|MyPrimitive
 DECL|function|MyPrimitive
 DECL|function|append
 DECL|function|appendCausingRealloc
+DECL|function|contains
 DECL|function|count
 DECL|function|countMoved
 DECL|function|first
 DECL|function|hasMoved
+DECL|function|indexOf
 DECL|function|last
+DECL|function|lastIndexOf
 DECL|function|oldTests
 DECL|function|operator =
 DECL|function|operator =

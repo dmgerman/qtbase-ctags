@@ -1,0 +1,2 @@
+DECL|class|QWindowsDirect2DIntegrationPlugin
+DECL|function|create

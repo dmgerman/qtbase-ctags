@@ -1,5 +1,11 @@
 DECL|enumerator|ApplicationFontExplicitlySet
 DECL|enumerator|ApplicationPaletteExplicitlySet
+DECL|enumerator|MouseCapsMask
+DECL|enumerator|MouseFlagsCapsMask
+DECL|enumerator|MouseFlagsShift
+DECL|enumerator|MouseSourceMaskDst
+DECL|enumerator|MouseSourceMaskSrc
+DECL|enumerator|MouseSourceShift
 DECL|enum|ApplicationResourceFlags
 DECL|function|QGuiApplication
 DECL|function|QGuiApplication
@@ -51,6 +57,8 @@ DECL|function|layoutDirection
 DECL|function|modalWindow
 DECL|function|mouseButtons
 DECL|function|mouseEventCaps
+DECL|function|mouseEventFlags
+DECL|function|mouseEventSource
 DECL|function|mouseEventVelocity
 DECL|function|nextGeometryToken
 DECL|function|notify
@@ -58,6 +66,7 @@ DECL|function|notifyActiveWindowChange
 DECL|function|notifyDragStarted
 DECL|function|notifyLayoutDirectionChange
 DECL|function|notifyThemeChanged
+DECL|function|notifyWindowIconChanged
 DECL|function|operator ==
 DECL|function|overrideCursor
 DECL|function|palette
@@ -111,10 +120,12 @@ DECL|function|setDesktopSettingsAware
 DECL|function|setFont
 DECL|function|setLayoutDirection
 DECL|function|setMouseEventCapsAndVelocity
-DECL|function|setMouseEventCapsAndVelocity
+DECL|function|setMouseEventFlags
+DECL|function|setMouseEventSource
 DECL|function|setOverrideCursor
 DECL|function|setPalette
 DECL|function|setQuitOnLastWindowClosed
+DECL|function|setWindowIcon
 DECL|function|shouldQuit
 DECL|function|shouldQuitInternal
 DECL|function|showModalWindow
@@ -123,13 +134,17 @@ DECL|function|sync
 DECL|function|synthesizeMouseFromTouchEventsEnabled
 DECL|function|topLevelAt
 DECL|function|topLevelWindows
+DECL|function|tryCloseAllWindows
+DECL|function|tryCloseRemainingWindows
 DECL|function|unsetCursor
 DECL|function|updateBlockedStatus
 DECL|function|updateBlockedStatusRecursion
 DECL|function|updateFilteredScreenOrientation
+DECL|function|windowIcon
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
 DECL|member|app_font
+DECL|member|app_icon
 DECL|member|app_pal
 DECL|member|applicationState
 DECL|member|buttons

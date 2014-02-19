@@ -21,6 +21,7 @@ DECL|function|getBuffer
 DECL|function|getCacheVerification
 DECL|function|hash
 DECL|function|included
+DECL|function|isSystemInclude
 DECL|function|loadCache
 DECL|function|local
 DECL|function|lookupFile

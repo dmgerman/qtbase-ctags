@@ -16,6 +16,7 @@ DECL|function|check_sljit_emit_op_custom
 DECL|function|check_sljit_emit_op_flags
 DECL|function|check_sljit_emit_return
 DECL|function|check_sljit_generate_code
+DECL|function|check_sljit_get_float_register_index
 DECL|function|check_sljit_get_local_base
 DECL|function|check_sljit_get_register_index
 DECL|function|check_sljit_set_context
@@ -120,6 +121,8 @@ DECL|macro|IS_CALL
 DECL|macro|IS_COND
 DECL|macro|IS_COND
 DECL|macro|IS_COND
+DECL|macro|IS_COND
+DECL|macro|IS_JAL
 DECL|macro|IS_JAL
 DECL|macro|IS_MOVABLE
 DECL|macro|IS_MOVABLE
@@ -131,7 +134,9 @@ DECL|macro|PATCH_B
 DECL|macro|PATCH_B
 DECL|macro|PATCH_B
 DECL|macro|PATCH_B
+DECL|macro|PATCH_B
 DECL|macro|PATCH_CALL
+DECL|macro|PATCH_J
 DECL|macro|PATCH_J
 DECL|macro|PATCH_MB
 DECL|macro|PATCH_MD

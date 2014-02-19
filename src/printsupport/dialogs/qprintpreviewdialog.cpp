@@ -25,6 +25,7 @@ DECL|function|focusInEvent
 DECL|function|focusOutEvent
 DECL|function|handleReturnPressed
 DECL|function|init
+DECL|function|initResources
 DECL|function|isFitting
 DECL|function|open
 DECL|function|printer

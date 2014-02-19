@@ -44,6 +44,7 @@ DECL|function|ensureCursorVisible
 DECL|function|event
 DECL|function|extraSelections
 DECL|function|find
+DECL|function|find
 DECL|function|focusInEvent
 DECL|function|focusNextPrevChild
 DECL|function|focusOutEvent
@@ -54,6 +55,7 @@ DECL|function|fontUnderline
 DECL|function|fontWeight
 DECL|function|init
 DECL|function|inputMethodEvent
+DECL|function|inputMethodQuery
 DECL|function|inputMethodQuery
 DECL|function|insertFromMimeData
 DECL|function|insertFromMimeData

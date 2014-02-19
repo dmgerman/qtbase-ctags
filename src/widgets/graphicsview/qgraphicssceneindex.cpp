@@ -1,6 +1,3 @@
-DECL|class|QGraphicsSceneIndexPathIntersector
-DECL|class|QGraphicsSceneIndexPointIntersector
-DECL|class|QGraphicsSceneIndexRectIntersector
 DECL|function|QGraphicsSceneIndex
 DECL|function|QGraphicsSceneIndex
 DECL|function|QGraphicsSceneIndexPrivate
@@ -9,9 +6,9 @@ DECL|function|deleteItem
 DECL|function|estimateItems
 DECL|function|estimateTopLevelItems
 DECL|function|init
-DECL|function|intersect
-DECL|function|intersect
-DECL|function|intersect
+DECL|function|intersect_path
+DECL|function|intersect_point
+DECL|function|intersect_rect
 DECL|function|itemChange
 DECL|function|itemCollidesWithPath
 DECL|function|items
@@ -24,6 +21,4 @@ DECL|function|scene
 DECL|function|updateSceneRect
 DECL|function|~QGraphicsSceneIndex
 DECL|function|~QGraphicsSceneIndexPrivate
-DECL|member|scenePath
-DECL|member|scenePoint
-DECL|member|sceneRect
+DECL|namespace|QtPrivate

@@ -1,1 +1,4 @@
+DECL|macro|HAVE_ATS
+DECL|macro|HAVE_CORETEXT
 DECL|macro|QCORETEXTFONTDATABASE_H
+DECL|variable|ATSFontContainerRef

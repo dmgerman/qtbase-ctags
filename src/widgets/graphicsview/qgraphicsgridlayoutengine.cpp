@@ -1,0 +1,6 @@
+DECL|function|alignment
+DECL|function|dynamicConstraintOrientation
+DECL|function|hasDynamicConstraint
+DECL|function|setAlignment
+DECL|function|setStretchFactor
+DECL|function|stretchFactor

@@ -32,6 +32,7 @@ DECL|function|initLocale
 DECL|function|installNativeEventFilter
 DECL|function|installTranslator
 DECL|function|isQuitLockEnabled
+DECL|function|isSetuidAllowed
 DECL|function|isTranslatorInstalled
 DECL|function|libraryPaths
 DECL|function|loadManifest
@@ -79,6 +80,7 @@ DECL|function|setLibraryPaths
 DECL|function|setOrganizationDomain
 DECL|function|setOrganizationName
 DECL|function|setQuitLockEnabled
+DECL|function|setSetuidAllowed
 DECL|function|startingUp
 DECL|function|testAttribute
 DECL|function|translate
@@ -101,6 +103,7 @@ DECL|member|mtx
 DECL|member|orgDomain
 DECL|member|orgName
 DECL|member|self
+DECL|member|setuidAllowed
 DECL|member|theMainThread
 DECL|struct|QCoreApplicationData
 DECL|typedef|QStartUpFuncList

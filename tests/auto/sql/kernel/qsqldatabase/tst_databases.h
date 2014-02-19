@@ -1,4 +1,5 @@
 DECL|function|fixupTableName
+DECL|function|gethostname
 DECL|function|qGetHostName
 DECL|function|qTableName
 DECL|function|qTableName

@@ -1,6 +1,7 @@
 DECL|function|QBlendStyleAnimation
 DECL|function|QNumberStyleAnimation
 DECL|function|QProgressStyleAnimation
+DECL|function|QScrollbarStyleAnimation
 DECL|function|QStyleAnimation
 DECL|function|animationStep
 DECL|function|blendedImage
@@ -13,7 +14,9 @@ DECL|function|endValue
 DECL|function|isUpdateNeeded
 DECL|function|isUpdateNeeded
 DECL|function|isUpdateNeeded
+DECL|function|mode
 DECL|function|progressStep
+DECL|function|setActive
 DECL|function|setDelay
 DECL|function|setDuration
 DECL|function|setEndImage
@@ -29,5 +32,9 @@ DECL|function|startValue
 DECL|function|target
 DECL|function|updateCurrentTime
 DECL|function|updateCurrentTime
+DECL|function|updateCurrentTime
 DECL|function|updateTarget
+DECL|function|wasActive
 DECL|function|~QStyleAnimation
+DECL|variable|ScrollBarFadeOutDelay
+DECL|variable|ScrollBarFadeOutDuration

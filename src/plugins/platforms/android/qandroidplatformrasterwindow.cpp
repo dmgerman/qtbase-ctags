@@ -1,0 +1,3 @@
+DECL|function|QAndroidPlatformRasterWindow
+DECL|function|repaint
+DECL|function|setGeometry

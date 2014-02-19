@@ -23,6 +23,7 @@ DECL|function|hasOpenGLFramebufferBlit
 DECL|function|hasOpenGLFramebufferObjects
 DECL|function|init
 DECL|function|initAttachments
+DECL|function|initTexture
 DECL|function|internalTextureFormat
 DECL|function|isBound
 DECL|function|isValid
@@ -40,6 +41,7 @@ DECL|function|setMipmap
 DECL|function|setSamples
 DECL|function|setTextureTarget
 DECL|function|size
+DECL|function|takeTexture
 DECL|function|texture
 DECL|function|textureTarget
 DECL|function|toImage

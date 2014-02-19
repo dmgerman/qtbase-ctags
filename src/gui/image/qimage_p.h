@@ -26,4 +26,6 @@ DECL|member|ser_no
 DECL|member|text
 DECL|member|width
 DECL|struct|QImageData
+DECL|typedef|Image_Converter
+DECL|typedef|InPlace_Image_Converter
 DECL|variable|QImageWriter

@@ -76,8 +76,6 @@ DECL|function|tst_QGLResource
 DECL|function|windowCreated
 DECL|function|~tst_QGL
 DECL|function|~tst_QGLResource
-DECL|macro|DEFAULT_FORMAT
-DECL|macro|DEFAULT_FORMAT
 DECL|macro|GL_RGB16
 DECL|macro|GL_TEXTURE_3D
 DECL|macro|QFUZZY_COMPARE_IMAGES

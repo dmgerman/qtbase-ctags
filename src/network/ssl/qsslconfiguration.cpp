@@ -1,11 +1,14 @@
 DECL|function|QSslConfiguration
 DECL|function|QSslConfiguration
+DECL|function|allowedNextProtocols
 DECL|function|caCertificates
 DECL|function|ciphers
 DECL|function|defaultConfiguration
 DECL|function|isNull
 DECL|function|localCertificate
 DECL|function|localCertificateChain
+DECL|function|nextNegotiatedProtocol
+DECL|function|nextProtocolNegotiationStatus
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|peerCertificate
@@ -18,6 +21,7 @@ DECL|function|protocol
 DECL|function|sessionCipher
 DECL|function|sessionTicket
 DECL|function|sessionTicketLifeTimeHint
+DECL|function|setAllowedNextProtocols
 DECL|function|setCaCertificates
 DECL|function|setCiphers
 DECL|function|setDefaultConfiguration
@@ -31,4 +35,6 @@ DECL|function|setSessionTicket
 DECL|function|setSslOption
 DECL|function|testSslOption
 DECL|function|~QSslConfiguration
+DECL|member|NextProtocolHttp1_1
+DECL|member|NextProtocolSpdy3_0
 DECL|member|defaultSslOptions

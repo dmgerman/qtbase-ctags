@@ -3,8 +3,6 @@ DECL|function|QSmSocketReceiver
 DECL|function|QXcbSessionManager
 DECL|function|allowsErrorInteraction
 DECL|function|allowsInteraction
-DECL|function|appCommitData
-DECL|function|appSaveState
 DECL|function|cancel
 DECL|function|exitEventLoop
 DECL|function|handle
@@ -14,8 +12,6 @@ DECL|function|requestPhase2
 DECL|function|resetSmState
 DECL|function|setManagerProperty
 DECL|function|setManagerProperty
-DECL|function|setSessionId
-DECL|function|setSessionKey
 DECL|function|sm_dieCallback
 DECL|function|sm_interactCallback
 DECL|function|sm_performSaveYourself

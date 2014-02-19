@@ -19,7 +19,7 @@ DECL|function|createSpinBox
 DECL|function|fgColorForName
 DECL|function|minimumSizeHint
 DECL|function|minimumSizeHint
-DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent
 DECL|function|paintEvent
 DECL|function|paintEvent
 DECL|function|place

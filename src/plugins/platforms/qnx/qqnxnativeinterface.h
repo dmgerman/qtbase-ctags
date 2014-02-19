@@ -1,1 +1,2 @@
 DECL|macro|QQNXNATIVEINTERFACE_H
+DECL|variable|QQnxIntegration

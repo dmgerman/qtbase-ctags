@@ -16,6 +16,7 @@ DECL|function|createPlatformMenuBar
 DECL|function|createPlatformMenuItem
 DECL|function|createPlatformSystemTrayIcon
 DECL|function|currentKeyPlatforms
+DECL|function|defaultStandardButtonText
 DECL|function|defaultThemeHint
 DECL|function|fileIconPixmap
 DECL|function|font
@@ -23,6 +24,7 @@ DECL|function|initializeSystemPalette
 DECL|function|keyBindings
 DECL|function|maybeSwapShortcut
 DECL|function|palette
+DECL|function|standardButtonText
 DECL|function|standardPixmap
 DECL|function|themeHint
 DECL|function|usePlatformNativeDialog

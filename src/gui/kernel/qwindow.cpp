@@ -30,6 +30,7 @@ DECL|function|handle
 DECL|function|hide
 DECL|function|hideEvent
 DECL|function|icon
+DECL|function|init
 DECL|function|isActive
 DECL|function|isAncestorOf
 DECL|function|isExposed
@@ -112,6 +113,7 @@ DECL|function|surfaceHandle
 DECL|function|surfaceType
 DECL|function|tabletEvent
 DECL|function|title
+DECL|function|topLevelWindow
 DECL|function|touchEvent
 DECL|function|transientParent
 DECL|function|type

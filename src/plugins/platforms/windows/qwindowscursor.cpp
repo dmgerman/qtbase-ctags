@@ -9,6 +9,7 @@ DECL|function|changeCursor
 DECL|function|createPixmapCursor
 DECL|function|createSystemCursor
 DECL|function|cursor
+DECL|function|cursorState
 DECL|function|handle
 DECL|function|isNull
 DECL|function|mousePosition

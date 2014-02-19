@@ -1,0 +1,2 @@
+DECL|macro|QANDROIDPLATFORMOPENGLWINDOW_H
+DECL|variable|QAndroidPlatformWindow

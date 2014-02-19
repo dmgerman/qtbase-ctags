@@ -11,6 +11,8 @@ DECL|function|fboRendering
 DECL|function|fboRendering_data
 DECL|function|fboSimpleRendering
 DECL|function|fboSimpleRendering_data
+DECL|function|fboTextureOwnership
+DECL|function|fboTextureOwnership_data
 DECL|function|freeResource
 DECL|function|fuzzyCompareImages
 DECL|function|fuzzyComparePixels
@@ -21,11 +23,17 @@ DECL|function|multiGroupSharedResourceCleanupCustom_data
 DECL|function|multiGroupSharedResourceCleanup_data
 DECL|function|openGLPaintDevice
 DECL|function|openGLPaintDevice_data
+DECL|function|q_fuzzy_compare
 DECL|function|qt_opengl_check_test_pattern
 DECL|function|qt_opengl_draw_test_pattern
 DECL|function|reset
 DECL|function|sharedResourceCleanup
 DECL|function|sharedResourceCleanup_data
+DECL|function|textureblitterFullSourceRectTransform
+DECL|function|textureblitterFullTargetRectTransform
+DECL|function|textureblitterPartOriginBottomLeftSourceRectTransform
+DECL|function|textureblitterPartOriginTopLeftSourceRectTransform
+DECL|function|textureblitterPartTargetRectTransform
 DECL|function|~SharedResource
 DECL|macro|QFUZZY_COMPARE_IMAGES
 DECL|macro|QFUZZY_COMPARE_PIXELS
@@ -36,3 +44,8 @@ DECL|member|resource
 DECL|member|tracker
 DECL|struct|SharedResource
 DECL|struct|SharedResourceTracker
+DECL|typedef|TestVertex3D
+DECL|variable|uv_bottom_left
+DECL|variable|uv_bottom_right
+DECL|variable|uv_top_left
+DECL|variable|uv_top_right

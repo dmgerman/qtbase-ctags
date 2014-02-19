@@ -7,6 +7,7 @@ DECL|function|devicePixelRatio
 DECL|function|fill
 DECL|function|fromData
 DECL|function|fromImage
+DECL|function|fromImageInPlace
 DECL|function|fromImageReader
 DECL|function|hasAlphaChannel
 DECL|function|metric

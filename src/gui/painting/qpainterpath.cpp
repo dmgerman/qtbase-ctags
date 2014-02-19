@@ -2,6 +2,7 @@ DECL|function|QPainterPath
 DECL|function|QPainterPath
 DECL|function|QPainterPath
 DECL|function|QPainterPathStroker
+DECL|function|QPainterPathStroker
 DECL|function|QPainterPathStrokerPrivate
 DECL|function|addEllipse
 DECL|function|addPath

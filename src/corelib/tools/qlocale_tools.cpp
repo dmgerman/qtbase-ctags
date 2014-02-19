@@ -27,7 +27,6 @@ DECL|function|qstrtoull
 DECL|function|qulltoa
 DECL|function|quorem
 DECL|function|ratio
-DECL|function|removeGroupSeparators
 DECL|function|s2b
 DECL|function|setWord0
 DECL|function|setWord1

@@ -22,6 +22,7 @@ DECL|function|first
 DECL|function|isActive
 DECL|function|isForwardOnly
 DECL|function|isNull
+DECL|function|isNull
 DECL|function|isSelect
 DECL|function|isValid
 DECL|function|last

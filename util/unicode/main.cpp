@@ -1,3 +1,27 @@
+DECL|enumerator|DirAL
+DECL|enumerator|DirAN
+DECL|enumerator|DirB
+DECL|enumerator|DirBN
+DECL|enumerator|DirCS
+DECL|enumerator|DirEN
+DECL|enumerator|DirES
+DECL|enumerator|DirET
+DECL|enumerator|DirFSI
+DECL|enumerator|DirL
+DECL|enumerator|DirLRE
+DECL|enumerator|DirLRI
+DECL|enumerator|DirLRO
+DECL|enumerator|DirNSM
+DECL|enumerator|DirON
+DECL|enumerator|DirPDF
+DECL|enumerator|DirPDI
+DECL|enumerator|DirR
+DECL|enumerator|DirRLE
+DECL|enumerator|DirRLI
+DECL|enumerator|DirRLO
+DECL|enumerator|DirS
+DECL|enumerator|DirWS
+DECL|enumerator|Dir_Unassigned
 DECL|enumerator|GraphemeBreak_CR
 DECL|enumerator|GraphemeBreak_Control
 DECL|enumerator|GraphemeBreak_Extend
@@ -73,8 +97,10 @@ DECL|enumerator|SentenceBreak_Unassigned
 DECL|enumerator|SentenceBreak_Upper
 DECL|enumerator|WordBreak_ALetter
 DECL|enumerator|WordBreak_CR
+DECL|enumerator|WordBreak_DoubleQuote
 DECL|enumerator|WordBreak_Extend
 DECL|enumerator|WordBreak_ExtendNumLet
+DECL|enumerator|WordBreak_HebrewLetter
 DECL|enumerator|WordBreak_Katakana
 DECL|enumerator|WordBreak_LF
 DECL|enumerator|WordBreak_MidLetter
@@ -84,9 +110,11 @@ DECL|enumerator|WordBreak_Newline
 DECL|enumerator|WordBreak_Numeric
 DECL|enumerator|WordBreak_Other
 DECL|enumerator|WordBreak_RegionalIndicator
+DECL|enumerator|WordBreak_SingleQuote
 DECL|enumerator|WordBreak_Unassigned
+DECL|enum|Direction
 DECL|enum|GraphemeBreakClass
-DECL|enum|Joining
+DECL|enum|JoiningType
 DECL|enum|LineBreakClass
 DECL|enum|SentenceBreakClass
 DECL|enum|WordBreakClass
@@ -110,6 +138,7 @@ DECL|function|initLineBreak
 DECL|function|initScriptMap
 DECL|function|initSentenceBreak
 DECL|function|initWordBreak
+DECL|function|isDefaultIgnorable
 DECL|function|main
 DECL|function|operator <
 DECL|function|operator ==

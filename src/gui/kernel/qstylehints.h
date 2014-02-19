@@ -1,2 +1,3 @@
 DECL|macro|QSTYLEHINTS_H
 DECL|variable|QPlatformIntegration
+DECL|variable|QStyleHintsPrivate

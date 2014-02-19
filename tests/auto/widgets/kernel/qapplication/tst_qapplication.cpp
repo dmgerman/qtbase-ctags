@@ -84,6 +84,7 @@ DECL|function|setActiveWindow
 DECL|function|setAttribute
 DECL|function|setFont
 DECL|function|setFont_data
+DECL|function|settableStyleHints
 DECL|function|staticSetup
 DECL|function|style
 DECL|function|task109149

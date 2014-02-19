@@ -47,6 +47,7 @@ DECL|function|prepareConfigTests
 DECL|function|projectType
 DECL|function|promptKeyPress
 DECL|function|qpaPlatformName
+DECL|function|qpaPrintSupportPluginName
 DECL|function|readLicense
 DECL|function|reloadCmdLine
 DECL|function|saveCmdLine

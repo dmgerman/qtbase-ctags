@@ -1,0 +1,11 @@
+DECL|function|QAndroidPlatformMessageDialogHelper
+DECL|function|dialogResult
+DECL|function|dialogResult
+DECL|function|exec
+DECL|function|hide
+DECL|function|registerNatives
+DECL|function|show
+DECL|macro|FIND_AND_CHECK_CLASS
+DECL|member|g_messageDialogHelperClass
+DECL|member|methods
+DECL|namespace|QtAndroidDialogHelpers

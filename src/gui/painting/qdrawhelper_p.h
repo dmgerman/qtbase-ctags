@@ -26,8 +26,6 @@ DECL|function|BYTE_MUL_RGB16_32
 DECL|function|INTERPOLATE_PIXEL_255
 DECL|function|INTERPOLATE_PIXEL_256
 DECL|function|INTERPOLATE_PIXEL_256
-DECL|function|PREMUL
-DECL|function|PREMUL
 DECL|function|QSpanData
 DECL|function|RGBA2ARGB
 DECL|function|RGBA2ARGB
@@ -68,6 +66,7 @@ DECL|macro|INV_PREMUL
 DECL|macro|MIX
 DECL|macro|MIX
 DECL|macro|MIX
+DECL|macro|PREMUL
 DECL|macro|QDRAWHELPER_P_H
 DECL|macro|QT_FT_BEGIN_HEADER
 DECL|macro|QT_FT_END_HEADER
@@ -106,6 +105,7 @@ DECL|member|colorTable
 DECL|member|conical
 DECL|member|const_alpha
 DECL|member|convertFromARGB32PM
+DECL|member|convertFromRGB32
 DECL|member|convertToARGB32PM
 DECL|member|data
 DECL|member|dest_fetch

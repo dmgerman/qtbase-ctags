@@ -146,7 +146,6 @@ DECL|function|grab
 DECL|function|grabKeyboard
 DECL|function|grabMouse
 DECL|function|grabWindow
-DECL|function|grabWindow
 DECL|function|heightForWidth
 DECL|function|hideEvent
 DECL|function|hideEvent
@@ -334,6 +333,7 @@ DECL|function|updateGeometry
 DECL|function|updateGeometry_data
 DECL|function|updateOnDestroyedSignal
 DECL|function|updateWhileMinimized
+DECL|function|verifyColor
 DECL|function|verifyWidgetMask
 DECL|function|visible
 DECL|function|visible_setWindowOpacity
@@ -354,6 +354,7 @@ DECL|function|~SiblingDeleter
 DECL|function|~tst_QWidget
 DECL|macro|CLEAR_MASK
 DECL|macro|NUM_WIDGETS
+DECL|macro|Q_CHECK_PAINTEVENTS
 DECL|macro|Q_CHECK_PAINTEVENTS
 DECL|macro|Q_CHECK_PAINTEVENTS
 DECL|macro|Q_CHECK_PAINTEVENTS

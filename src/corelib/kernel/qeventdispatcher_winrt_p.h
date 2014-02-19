@@ -1,0 +1,2 @@
+DECL|macro|QEVENTDISPATCHER_WINRT_P_H
+DECL|variable|QEventDispatcherWinRTPrivate

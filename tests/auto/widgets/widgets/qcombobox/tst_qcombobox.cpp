@@ -49,6 +49,7 @@ DECL|function|itemData
 DECL|function|itemListPosition
 DECL|function|keyBoardNavigationWithMouse
 DECL|function|keyPressEvent
+DECL|function|keyboardSelection
 DECL|function|layoutDirection
 DECL|function|maxVisibleItems
 DECL|function|modelDeleted

@@ -97,8 +97,6 @@ DECL|typedef|Q_FILE_INFO_BY_HANDLE_CLASS
 DECL|typedef|REPARSE_DATA_BUFFER
 DECL|typedef|SHARE_INFO_1
 DECL|typedef|intptr_t
-DECL|typedef|intptr_t
-DECL|typedef|intptr_t
 DECL|variable|currentUserSID
 DECL|variable|currentUserTrusteeW
 DECL|variable|ptrBuildTrusteeWithSidW

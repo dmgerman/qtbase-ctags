@@ -123,6 +123,7 @@ DECL|macro|SLJIT_NEGD
 DECL|macro|SLJIT_NEGS
 DECL|macro|SLJIT_NOP
 DECL|macro|SLJIT_NOT
+DECL|macro|SLJIT_NO_FLOAT_REGISTERS
 DECL|macro|SLJIT_NO_GEN_REGISTERS
 DECL|macro|SLJIT_NO_REGISTERS
 DECL|macro|SLJIT_NO_TMP_REGISTERS
@@ -173,6 +174,8 @@ DECL|member|cache_arg
 DECL|member|cache_arg
 DECL|member|cache_arg
 DECL|member|cache_arg
+DECL|member|cache_arg
+DECL|member|cache_argw
 DECL|member|cache_argw
 DECL|member|cache_argw
 DECL|member|cache_argw

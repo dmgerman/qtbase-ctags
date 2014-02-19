@@ -7,6 +7,7 @@ DECL|function|constructor_invalid_data
 DECL|function|debugStream
 DECL|function|debugStream_data
 DECL|function|guiVariantAtExit
+DECL|function|iconEquality
 DECL|function|implicitConstruction
 DECL|function|invalidQColor
 DECL|function|matrix

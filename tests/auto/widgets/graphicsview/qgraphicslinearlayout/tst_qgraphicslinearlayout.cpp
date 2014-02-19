@@ -1,6 +1,8 @@
+DECL|class|LayoutStyle
 DECL|class|RectWidget
 DECL|class|SubQGraphicsLinearLayout
 DECL|class|tst_QGraphicsLinearLayout
+DECL|function|LayoutStyle
 DECL|function|RectWidget
 DECL|function|SubQGraphicsLinearLayout
 DECL|function|alignment
@@ -11,6 +13,7 @@ DECL|function|cleanupTestCase
 DECL|function|combineSizePolicies
 DECL|function|count
 DECL|function|count_data
+DECL|function|defaultSpacing
 DECL|function|defaultStretchFactors
 DECL|function|defaultStretchFactors_data
 DECL|function|dump
@@ -61,8 +64,10 @@ DECL|function|testStretch
 DECL|function|updateGeometry
 DECL|function|widgetEvent
 DECL|member|graphicsSceneResize
+DECL|member|horizontalSpacing
 DECL|member|layoutDirectionChange
 DECL|member|layoutRequest
 DECL|member|m_brush
 DECL|member|m_sizeHints
+DECL|member|verticalSpacing
 DECL|typedef|IntList

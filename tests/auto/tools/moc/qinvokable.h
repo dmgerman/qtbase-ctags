@@ -1,0 +1,1 @@
+DECL|macro|QINVOKABLE_H

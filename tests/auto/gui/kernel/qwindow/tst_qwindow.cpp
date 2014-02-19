@@ -12,6 +12,7 @@ DECL|function|eventFilter
 DECL|function|eventIndex
 DECL|function|eventOrderOnShow
 DECL|function|initTestCase
+DECL|function|initialSize
 DECL|function|inputReentrancy
 DECL|function|isActive
 DECL|function|isExposed
@@ -28,6 +29,7 @@ DECL|function|mouseToTouchLoop
 DECL|function|mouseToTouchTranslation
 DECL|function|orientation
 DECL|function|positioning
+DECL|function|positioning_data
 DECL|function|received
 DECL|function|reset
 DECL|function|resetCounters

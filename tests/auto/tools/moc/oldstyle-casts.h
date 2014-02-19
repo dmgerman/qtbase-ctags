@@ -1,0 +1,1 @@
+DECL|macro|OLDSTYLE_CASTS_H

@@ -29,6 +29,7 @@ DECL|function|inputMethodQuery
 DECL|function|interpret
 DECL|function|interpretText
 DECL|function|isAccelerated
+DECL|function|isGroupSeparatorShown
 DECL|function|isReadOnly
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
@@ -52,6 +53,7 @@ DECL|function|setAlignment
 DECL|function|setButtonSymbols
 DECL|function|setCorrectionMode
 DECL|function|setFrame
+DECL|function|setGroupSeparatorShown
 DECL|function|setKeyboardTracking
 DECL|function|setLineEdit
 DECL|function|setRange

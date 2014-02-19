@@ -54,6 +54,7 @@ DECL|function|extendBlockwiseSelection
 DECL|function|extendWordwiseSelection
 DECL|function|extraSelections
 DECL|function|find
+DECL|function|find
 DECL|function|findNextPrevAnchor
 DECL|function|focusEvent
 DECL|function|formats

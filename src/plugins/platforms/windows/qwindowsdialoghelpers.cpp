@@ -68,6 +68,7 @@ DECL|function|QWindowsXpFileDialogHelper
 DECL|function|QWindowsXpNativeFileDialog
 DECL|function|QueryInterface
 DECL|function|Release
+DECL|function|cleanupThread
 DECL|function|close
 DECL|function|close
 DECL|function|close

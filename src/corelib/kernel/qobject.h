@@ -1,3 +1,6 @@
+DECL|function|QSignalBlocker
+DECL|function|QSignalBlocker
+DECL|function|QSignalBlocker
 DECL|function|connect
 DECL|function|qFindChild
 DECL|function|qFindChildren

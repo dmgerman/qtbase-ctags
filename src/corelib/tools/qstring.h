@@ -13,6 +13,7 @@ DECL|function|constEnd
 DECL|function|contains
 DECL|function|contains
 DECL|function|contains
+DECL|function|contains
 DECL|function|data
 DECL|function|data
 DECL|function|data_ptr

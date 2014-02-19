@@ -21,6 +21,7 @@ DECL|function|doInit
 DECL|function|fill
 DECL|function|fill
 DECL|function|fromImage
+DECL|function|fromImageInPlace
 DECL|function|fromImageReader
 DECL|function|grabWidget
 DECL|function|grabWindow

@@ -17,6 +17,7 @@ DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator ==
+DECL|function|stringDataFromQStringHelper
 DECL|function|toArray
 DECL|function|toArray
 DECL|function|toArray

@@ -1,0 +1,16 @@
+DECL|class|Parser
+DECL|function|Parser
+DECL|function|consumeRule
+DECL|function|main
+DECL|function|nextToken
+DECL|function|parse
+DECL|function|reallocateStack
+DECL|function|sym
+DECL|function|~Parser
+DECL|member|current_char
+DECL|member|ival
+DECL|member|stack_size
+DECL|member|state_stack
+DECL|member|sym_stack
+DECL|member|tos
+DECL|union|Value

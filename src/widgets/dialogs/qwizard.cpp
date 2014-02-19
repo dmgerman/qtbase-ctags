@@ -41,10 +41,12 @@ DECL|function|back
 DECL|function|button
 DECL|function|buttonDefaultText
 DECL|function|buttonLayoutContains
+DECL|function|buttonSlots
 DECL|function|buttonText
 DECL|function|buttonText
 DECL|function|cachedIsComplete
 DECL|function|changeSpacerSize
+DECL|function|changed_signal
 DECL|function|cleanupPage
 DECL|function|cleanupPage
 DECL|function|cleanupPagesNotInHistory
@@ -165,7 +167,6 @@ DECL|member|canFinish
 DECL|member|cancel
 DECL|member|changedSignal
 DECL|member|changedSignal
-DECL|member|changedSignal
 DECL|member|childMarginBottom
 DECL|member|childMarginLeft
 DECL|member|childMarginRight
@@ -256,5 +257,4 @@ DECL|variable|MacLayoutLeftMargin
 DECL|variable|MacLayoutRightMargin
 DECL|variable|ModernHeaderTopMargin
 DECL|variable|NFallbackDefaultProperties
-DECL|variable|buttonSlots
 DECL|variable|fallbackProperties

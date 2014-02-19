@@ -1,4 +1,3 @@
-DECL|function|LOGFONT_to_QFont
 DECL|function|addFontToDatabase
 DECL|function|createFontFile
 DECL|function|defaultFont
@@ -10,13 +9,5 @@ DECL|function|getFntTable
 DECL|function|populate
 DECL|function|populateFontDatabase
 DECL|function|storeFont
-DECL|function|systemFont
-DECL|function|verticalDPI
 DECL|function|weightFromInteger
 DECL|function|writingSystemFromCharSet
-DECL|variable|ch_CN_tryFonts
-DECL|variable|ch_TW_tryFonts
-DECL|variable|jp_tryFonts
-DECL|variable|kr_tryFonts
-DECL|variable|other_tryFonts
-DECL|variable|tryFonts

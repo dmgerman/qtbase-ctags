@@ -59,6 +59,7 @@ DECL|function|event
 DECL|function|extraSelections
 DECL|function|fillBackground
 DECL|function|find
+DECL|function|find
 DECL|function|firstVisibleBlock
 DECL|function|firstVisibleBlock
 DECL|function|focusInEvent
@@ -91,6 +92,7 @@ DECL|function|pageCount
 DECL|function|pageUpDown
 DECL|function|paintEvent
 DECL|function|paste
+DECL|function|placeholderText
 DECL|function|print
 DECL|function|priv
 DECL|function|redo
@@ -109,6 +111,7 @@ DECL|function|setDocument
 DECL|function|setExtraSelections
 DECL|function|setLineWrapMode
 DECL|function|setOverwriteMode
+DECL|function|setPlaceholderText
 DECL|function|setPlainText
 DECL|function|setReadOnly
 DECL|function|setTabChangesFocus

@@ -29,4 +29,5 @@ DECL|function|stretchFactor
 DECL|function|styleInfo
 DECL|function|~QGraphicsLinearLayout
 DECL|member|engine
+DECL|member|m_styleInfo
 DECL|member|orientation

@@ -15,10 +15,10 @@ DECL|variable|findEntry
 DECL|variable|findEntryInFile
 DECL|variable|findTagsInFile
 DECL|variable|generationDate
+DECL|variable|ianaIdData
 DECL|variable|mapTimezones
 DECL|variable|newTempFile
 DECL|variable|oldDataFile
-DECL|variable|olsenIdData
 DECL|variable|qtPath
 DECL|variable|s
 DECL|variable|s

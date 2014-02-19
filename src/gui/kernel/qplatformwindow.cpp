@@ -8,6 +8,7 @@ DECL|function|frameStrutEventsEnabled
 DECL|function|geometry
 DECL|function|handleContentOrientationChange
 DECL|function|initialGeometry
+DECL|function|invalidateSurface
 DECL|function|isActive
 DECL|function|isAlertState
 DECL|function|isEmbedded
@@ -15,6 +16,7 @@ DECL|function|isExposed
 DECL|function|lower
 DECL|function|mapFromGlobal
 DECL|function|mapToGlobal
+DECL|function|normalGeometry
 DECL|function|parent
 DECL|function|propagateSizeHints
 DECL|function|raise

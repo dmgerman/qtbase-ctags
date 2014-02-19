@@ -1,0 +1,11 @@
+DECL|function|QEGLPlatformBackingStore
+DECL|function|beginPaint
+DECL|function|composeAndFlush
+DECL|function|composite
+DECL|function|composited
+DECL|function|flush
+DECL|function|paintDevice
+DECL|function|resize
+DECL|function|toImage
+DECL|function|updateTexture
+DECL|function|~QEGLPlatformBackingStore

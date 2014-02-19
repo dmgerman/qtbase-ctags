@@ -1,2 +1,0 @@
-DECL|macro|QANDROIDOPENGLCONTEXT_H
-DECL|variable|QAndroidPlatformIntegration

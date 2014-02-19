@@ -1,2 +1,1 @@
 DECL|macro|QEGLFSINTEGRATION_H
-DECL|variable|QPlatformIntegration

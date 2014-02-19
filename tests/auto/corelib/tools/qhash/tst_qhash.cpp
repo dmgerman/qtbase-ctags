@@ -19,6 +19,7 @@ DECL|function|empty
 DECL|function|erase
 DECL|function|eraseValidIteratorOnSharedHash
 DECL|function|find
+DECL|function|fp_qhash_of_zero_is_zero
 DECL|function|initializerList
 DECL|function|insert1
 DECL|function|iterators

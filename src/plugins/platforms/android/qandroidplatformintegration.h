@@ -1,0 +1,5 @@
+DECL|macro|QANDROIDPLATFORMINTERATION_H
+DECL|variable|QAndroidPlatformServices
+DECL|variable|QAndroidSystemLocale
+DECL|variable|QDesktopWidget
+DECL|variable|QPlatformAccessibility

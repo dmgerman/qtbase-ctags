@@ -1,0 +1,5 @@
+DECL|macro|QANDROIDPLATFORMSCREEN_H
+DECL|variable|QAndroidPlatformBackingStore
+DECL|variable|QAndroidPlatformWindow
+DECL|variable|QObject
+DECL|variable|QPlatformScreen

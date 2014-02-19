@@ -12,9 +12,13 @@ DECL|function|dayName
 DECL|function|decimalPoint
 DECL|function|fallbackUiLocale
 DECL|function|firstDayOfWeek
+DECL|function|getCurrencyFormat
+DECL|function|getDateFormat
+DECL|function|getLocaleInfo
 DECL|function|getLocaleInfo
 DECL|function|getLocaleInfo_int
 DECL|function|getLocaleInfo_qchar
+DECL|function|getTimeFormat
 DECL|function|getWinLocaleName
 DECL|function|groupSeparator
 DECL|function|measurementSystem
@@ -52,6 +56,7 @@ DECL|macro|LOCALE_SSHORTESTDAYNAME7
 DECL|macro|LOCALE_SSHORTTIME
 DECL|macro|MUI_LANGUAGE_NAME
 DECL|member|iso_name
+DECL|member|lcName
 DECL|member|lcid
 DECL|member|substitutionType
 DECL|member|windows_code

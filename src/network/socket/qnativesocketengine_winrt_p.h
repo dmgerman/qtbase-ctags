@@ -1,0 +1,2 @@
+DECL|macro|QNATIVESOCKETENGINE_WINRT_P_H
+DECL|variable|QNativeSocketEnginePrivate

@@ -64,6 +64,7 @@ DECL|function|getData
 DECL|function|hostLookupSlot
 DECL|function|hostNotFound
 DECL|function|increaseReadBufferSize
+DECL|function|increaseReadBufferSizeFromSlot
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|initTestCase_data
@@ -106,6 +107,7 @@ DECL|function|run
 DECL|function|setInvalidSocketDescriptor
 DECL|function|setSocketDescriptor
 DECL|function|setSocketOption
+DECL|function|slotIncreaseReadBufferSizeReadyRead
 DECL|function|socketDescriptor
 DECL|function|socketInAThread
 DECL|function|socketsConstructedBeforeEventLoop

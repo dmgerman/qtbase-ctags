@@ -1,0 +1,11 @@
+DECL|class|QWindowsDirect2DDeviceContextPrivate
+DECL|function|QWindowsDirect2DDeviceContext
+DECL|function|QWindowsDirect2DDeviceContextPrivate
+DECL|function|begin
+DECL|function|begin
+DECL|function|end
+DECL|function|end
+DECL|function|get
+DECL|function|~QWindowsDirect2DDeviceContext
+DECL|member|deviceContext
+DECL|member|refCount

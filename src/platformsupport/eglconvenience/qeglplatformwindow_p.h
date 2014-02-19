@@ -1,0 +1,3 @@
+DECL|macro|QEGLPLATFORMWINDOW_H
+DECL|variable|QEGLPlatformBackingStore
+DECL|variable|QPlatformTextureList

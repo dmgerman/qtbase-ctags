@@ -1,3 +1,7 @@
+DECL|function|d2i
+DECL|function|f2i
+DECL|function|qFloatDistance
+DECL|function|qFloatDistance
 DECL|function|qInf
 DECL|function|qIsFinite
 DECL|function|qIsFinite

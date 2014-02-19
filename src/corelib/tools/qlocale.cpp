@@ -85,10 +85,7 @@ DECL|function|setNumberOptions
 DECL|function|standaloneDayName
 DECL|function|standaloneMonthName
 DECL|function|stringToDouble
-DECL|function|stringToDouble
 DECL|function|stringToLongLong
-DECL|function|stringToLongLong
-DECL|function|stringToUnsLongLong
 DECL|function|stringToUnsLongLong
 DECL|function|system
 DECL|function|systemData
@@ -109,6 +106,9 @@ DECL|function|toFloat
 DECL|function|toFloat
 DECL|function|toInt
 DECL|function|toInt
+DECL|function|toIntegral_helper
+DECL|function|toIntegral_helper
+DECL|function|toIntegral_helper
 DECL|function|toLongLong
 DECL|function|toLongLong
 DECL|function|toLower
@@ -143,7 +143,6 @@ DECL|function|withLikelySubtagsRemoved
 DECL|function|zeroDigit
 DECL|function|~QLocale
 DECL|function|~QSystemLocale
-DECL|macro|QT_MAX_FLOAT
 DECL|variable|_systemLocale
 DECL|variable|c_data
 DECL|variable|default_data

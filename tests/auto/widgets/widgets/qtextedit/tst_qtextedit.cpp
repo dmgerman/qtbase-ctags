@@ -42,6 +42,7 @@ DECL|function|copyAndSelectAllInReadonly
 DECL|function|copyAvailable
 DECL|function|copyAvailable_data
 DECL|function|copyPasteBackgroundImage
+DECL|function|countTextChangedOnRemove
 DECL|function|createMimeDataFromSelection
 DECL|function|createSelection
 DECL|function|ctrlAltInput
@@ -56,6 +57,9 @@ DECL|function|emptyAppend
 DECL|function|ensureCursorVisibleOnInitialShow
 DECL|function|ensureVisibleWithRtl
 DECL|function|extraSelections
+DECL|function|findBackwardWithRegExp
+DECL|function|findWithRegExp
+DECL|function|findWithRegExpReturnsFalseIfNoMoreResults
 DECL|function|frameBoundingRect
 DECL|function|fullWidthSelection
 DECL|function|fullWidthSelection2
