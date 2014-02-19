@@ -4,11 +4,11 @@ DECL|function|_q_dupEnvironment
 DECL|function|_q_notified
 DECL|function|add
 DECL|function|add_fd
-DECL|function|bb_select
 DECL|function|bytesAvailableFromStderr
 DECL|function|bytesAvailableFromStdout
 DECL|function|catchDeadChildren
 DECL|function|createChannel
+DECL|function|defaultNotifiers
 DECL|function|destroyChannel
 DECL|function|destroyPipe
 DECL|function|doSpawn
@@ -27,7 +27,6 @@ DECL|function|readFromStderr
 DECL|function|readFromStdout
 DECL|function|remove
 DECL|function|run
-DECL|function|select_msecs
 DECL|function|spawnChild
 DECL|function|startDetached
 DECL|function|startDetached
