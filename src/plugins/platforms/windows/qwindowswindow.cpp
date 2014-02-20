@@ -32,6 +32,7 @@ DECL|function|defaultCursor
 DECL|function|destroyWindow
 DECL|function|effectiveScreen
 DECL|function|ensureEglSurfaceHandle
+DECL|function|findTransientChild
 DECL|function|fireExpose
 DECL|function|fixTopLevelWindowFlags
 DECL|function|frame
@@ -105,6 +106,7 @@ DECL|function|show_sys
 DECL|function|startSystemResize
 DECL|function|stopAlertWindow
 DECL|function|topLevelOf
+DECL|function|transientParentHwnd
 DECL|function|updateDropSite
 DECL|function|updateTransientParent
 DECL|function|validSize
