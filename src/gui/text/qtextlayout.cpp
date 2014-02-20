@@ -17,6 +17,7 @@ DECL|function|cacheEnabled
 DECL|function|calculateNewWidth
 DECL|function|checkFullOtherwiseExtend
 DECL|function|clearAdditionalFormats
+DECL|function|clearFormats
 DECL|function|clearLayout
 DECL|function|clipIfValid
 DECL|function|createLine
@@ -33,6 +34,7 @@ DECL|function|endLayout
 DECL|function|font
 DECL|function|format
 DECL|function|formatIndex
+DECL|function|formats
 DECL|function|glyphRunWithInfo
 DECL|function|glyphRuns
 DECL|function|glyphRuns
@@ -69,6 +71,7 @@ DECL|function|setCursorMoveStyle
 DECL|function|setDescent
 DECL|function|setFlags
 DECL|function|setFont
+DECL|function|setFormats
 DECL|function|setLeadingIncluded
 DECL|function|setLineWidth
 DECL|function|setNumColumns
