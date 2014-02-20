@@ -1,4 +1,6 @@
 DECL|function|QWindowsClipboard
+DECL|function|cleanClipboardPostRoutine
+DECL|function|cleanup
 DECL|function|clear
 DECL|function|clipboardViewerWndProc
 DECL|function|isProcessBeingDebugged
