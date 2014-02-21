@@ -4,6 +4,7 @@ DECL|function|download_data
 DECL|function|errors
 DECL|function|errors_data
 DECL|function|headerFields
+DECL|function|initTestCase
 DECL|function|md5sum
 DECL|function|multipleRequests
 DECL|function|multipleRequestsFinishedSlot
