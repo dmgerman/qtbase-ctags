@@ -28,7 +28,6 @@ DECL|function|highlightToEndOfDocument2
 DECL|function|hitTest
 DECL|function|init
 DECL|function|noContentsChangedDuringHighlight
-DECL|function|operator ==
 DECL|function|pageCount
 DECL|function|preservePreeditArea
 DECL|function|rehighlight
