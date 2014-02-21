@@ -71,7 +71,7 @@ DECL|function|generateScriptItemsSmallCaps
 DECL|function|getClusterLength
 DECL|function|getSelectionBounds
 DECL|function|grow
-DECL|function|indexAdditionalFormats
+DECL|function|indexFormats
 DECL|function|init
 DECL|function|initWithScriptItem
 DECL|function|insertionPointsForLine
@@ -102,11 +102,11 @@ DECL|function|qt_true_matrix
 DECL|function|reallocate
 DECL|function|releaseCachedFontEngine
 DECL|function|resetFontEngineCache
-DECL|function|resolveAdditionalFormats
+DECL|function|resolveFormats
 DECL|function|set
-DECL|function|setAdditionalFormats
 DECL|function|setBoundary
 DECL|function|setDefaultHeight
+DECL|function|setFormats
 DECL|function|setPreeditArea
 DECL|function|shape
 DECL|function|shapeLine
