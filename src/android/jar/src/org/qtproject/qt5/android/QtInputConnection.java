@@ -60,4 +60,5 @@ DECL|method|setComposingText
 DECL|method|setComposingText
 DECL|method|setSelection
 DECL|method|setSelection
+DECL|method|updateCursorPosition
 DECL|package|org.qtproject.qt5.android

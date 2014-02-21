@@ -20,7 +20,6 @@ DECL|macro|GET_AND_CHECK_STATIC_METHOD
 DECL|member|m_hideSoftwareKeyboardMethodID
 DECL|member|m_ignoreMouseEvents
 DECL|member|m_isSoftwareKeyboardVisibleMethodID
-DECL|member|m_lastCursorPos
 DECL|member|m_mouseGrabber
 DECL|member|m_resetSoftwareKeyboardMethodID
 DECL|member|m_showSoftwareKeyboardMethodID
