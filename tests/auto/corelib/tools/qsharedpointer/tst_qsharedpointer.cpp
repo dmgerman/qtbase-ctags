@@ -66,6 +66,7 @@ DECL|function|lock
 DECL|function|map
 DECL|function|memoryManagement
 DECL|function|mixTrackingPointerCode
+DECL|function|moveSemantics
 DECL|function|noSharedPointerFromWeakQObject
 DECL|function|objectCast
 DECL|function|operator ()
