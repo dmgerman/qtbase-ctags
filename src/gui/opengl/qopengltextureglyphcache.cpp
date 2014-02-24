@@ -3,6 +3,7 @@ DECL|function|clear
 DECL|function|createTextureData
 DECL|function|fillTexture
 DECL|function|glyphPadding
+DECL|function|isCoreProfile
 DECL|function|maxTextureHeight
 DECL|function|maxTextureWidth
 DECL|function|resizeTextureData
