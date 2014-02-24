@@ -1,6 +1,8 @@
+DECL|function|AllocateCurrent
+DECL|function|DeallocateCurrent
 DECL|function|DllMain
+DECL|function|GetCurrentData
 DECL|function|error
-DECL|function|getCurrent
 DECL|function|getCurrentAPI
 DECL|function|getCurrentDisplay
 DECL|function|getCurrentDrawSurface
