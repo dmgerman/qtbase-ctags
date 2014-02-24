@@ -17,7 +17,6 @@ DECL|function|processCommonMetaCommand
 DECL|function|setLink
 DECL|function|terminate
 DECL|function|terminateParser
-DECL|function|titleFromName
 DECL|function|~CodeParser
 DECL|macro|COMMAND_COMPAT
 DECL|macro|COMMAND_DEPRECATED
@@ -39,7 +38,6 @@ DECL|macro|COMMAND_THREADSAFE
 DECL|macro|COMMAND_TITLE
 DECL|macro|COMMAND_WRAPPER
 DECL|member|currentSubDir_
-DECL|member|nameToTitle
 DECL|member|parsers
 DECL|member|showInternal
 DECL|variable|commonMetaCommands_

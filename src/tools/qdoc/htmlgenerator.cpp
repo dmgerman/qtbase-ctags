@@ -17,6 +17,7 @@ DECL|function|generateAtom
 DECL|function|generateBrief
 DECL|function|generateClassHierarchy
 DECL|function|generateClassLikeNode
+DECL|function|generateCollectionNode
 DECL|function|generateCollisionPages
 DECL|function|generateCompactList
 DECL|function|generateDetailedMember
@@ -32,13 +33,13 @@ DECL|function|generateIncludes
 DECL|function|generateInstantiatedBy
 DECL|function|generateLegaleseList
 DECL|function|generateLink
+DECL|function|generateList
 DECL|function|generateListOfAllMemberFile
 DECL|function|generateLowStatusMemberFile
 DECL|function|generateMacRef
 DECL|function|generateManifestFile
 DECL|function|generateManifestFiles
 DECL|function|generateNavigationBar
-DECL|function|generateOverviewList
 DECL|function|generateQmlInherits
 DECL|function|generateQmlInstantiates
 DECL|function|generateQmlItem

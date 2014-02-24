@@ -9,6 +9,7 @@ DECL|function|functions
 DECL|function|importId
 DECL|function|importUri
 DECL|function|isEmpty
+DECL|function|isPrivate
 DECL|function|name
 DECL|function|setFlagsType
 DECL|function|version
@@ -23,7 +24,8 @@ DECL|member|signature_
 DECL|member|version_
 DECL|struct|ImportRec
 DECL|struct|RelatedClass
-DECL|typedef|ExampleNodeMap
+DECL|typedef|CNMap
+DECL|typedef|CNMultiMap
 DECL|typedef|ImportList
 DECL|typedef|NodeList
 DECL|typedef|NodeMap
@@ -33,8 +35,9 @@ DECL|typedef|NodeTypePair
 DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QString
+DECL|typedef|QString
 DECL|variable|ClassNode
-DECL|variable|ClassNode
+DECL|variable|CollectionNode
 DECL|variable|EnumNode
 DECL|variable|ExampleNode
 DECL|variable|FunctionNode
@@ -45,6 +48,5 @@ DECL|variable|PropertyNode
 DECL|variable|QDocDatabase
 DECL|variable|QmlClassNode
 DECL|variable|QmlModuleNode
-DECL|variable|QmlPropertyNode
 DECL|variable|QmlPropertyNode
 DECL|variable|TypedefNode

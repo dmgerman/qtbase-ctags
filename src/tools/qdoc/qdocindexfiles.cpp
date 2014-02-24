@@ -9,6 +9,5 @@ DECL|function|readIndexFile
 DECL|function|readIndexSection
 DECL|function|readIndexes
 DECL|function|resolveIndex
-DECL|function|writeMembersAttribute
 DECL|function|~QDocIndexFiles
 DECL|member|qdocIndexFiles_

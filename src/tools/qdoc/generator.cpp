@@ -18,6 +18,7 @@ DECL|function|generateAtom
 DECL|function|generateAtomList
 DECL|function|generateBody
 DECL|function|generateClassLikeNode
+DECL|function|generateCollectionNode
 DECL|function|generateDocNode
 DECL|function|generateDocs
 DECL|function|generateExampleFiles
