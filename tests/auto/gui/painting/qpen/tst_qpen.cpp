@@ -2,6 +2,8 @@ DECL|class|tst_QPen
 DECL|function|constructor
 DECL|function|constructor_data
 DECL|function|getSetCheck
+DECL|function|move
+DECL|function|move_assign
 DECL|function|operator_eq_eq
 DECL|function|operator_eq_eq_data
 DECL|function|stream
