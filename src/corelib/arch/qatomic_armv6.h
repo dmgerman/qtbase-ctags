@@ -1,6 +1,8 @@
 DECL|enumerator|IsSupported
 DECL|enumerator|IsSupported
 DECL|enumerator|IsSupported
+DECL|function|extendTo32Bit
+DECL|function|shrinkFrom32Bit
 DECL|function|sizeof
 DECL|macro|QATOMIC_ARMV6_H
 DECL|macro|Q_ATOMIC_INT16_FETCH_AND_ADD_IS_ALWAYS_NATIVE
@@ -43,6 +45,7 @@ DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
+DECL|member|private
 DECL|struct|QAtomicOpsSupport
 DECL|struct|QAtomicOpsSupport
 DECL|struct|QAtomicOpsSupport
