@@ -5,6 +5,7 @@ DECL|enumerator|ARB
 DECL|enumerator|Core_3_0
 DECL|enumerator|Core_3_2
 DECL|enumerator|NotSupported
+DECL|enumerator|OES
 DECL|function|QOpenGLVertexArrayObject
 DECL|function|QOpenGLVertexArrayObject
 DECL|function|QOpenGLVertexArrayObjectPrivate
@@ -30,6 +31,5 @@ DECL|member|core_3_0
 DECL|member|core_3_2
 DECL|member|helper
 DECL|member|vao
-DECL|member|vaoFuncs
 DECL|member|vaoFuncs
 DECL|member|vaoFuncsType
