@@ -33,8 +33,6 @@ DECL|function|addUnresolvedBaseClass
 DECL|function|applyModuleName
 DECL|function|borrowParameterNames
 DECL|function|cleanId
-DECL|function|clearCurrentChild
-DECL|function|clearCurrentChildPointers
 DECL|function|clearPropertyGroupCount
 DECL|function|debug
 DECL|function|declarativeCppNode
@@ -112,7 +110,6 @@ DECL|function|removeRelated
 DECL|function|secondaryKeys
 DECL|function|setAssociatedEnum
 DECL|function|setAssociatedProperty
-DECL|function|setCurrentChild
 DECL|function|setDoc
 DECL|function|setIncludes
 DECL|function|setLink
