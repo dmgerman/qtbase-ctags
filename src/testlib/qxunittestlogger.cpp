@@ -8,3 +8,5 @@ DECL|function|leaveTestFunction
 DECL|function|startLogging
 DECL|function|stopLogging
 DECL|function|~QXunitTestLogger
+DECL|macro|max
+DECL|macro|min

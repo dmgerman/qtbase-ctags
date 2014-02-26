@@ -16,4 +16,6 @@ DECL|function|printMessage
 DECL|function|startLogging
 DECL|function|stopLogging
 DECL|function|~QPlainTestLogger
+DECL|macro|max
+DECL|macro|min
 DECL|namespace|QTest
