@@ -65,6 +65,7 @@ DECL|member|event_type
 DECL|member|extension
 DECL|member|length
 DECL|member|map_notify
+DECL|member|new_keyboard_notify
 DECL|member|response_type
 DECL|member|response_type
 DECL|member|sequence
