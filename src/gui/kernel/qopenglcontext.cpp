@@ -33,11 +33,14 @@ DECL|function|hasExtension
 DECL|function|hasProfiles
 DECL|function|insert
 DECL|function|insertFunctionsBackend
+DECL|function|isES
 DECL|function|isLegacyVersion
 DECL|function|isValid
 DECL|function|isValid
 DECL|function|makeCurrent
 DECL|function|maxTextureSize
+DECL|function|openGLModuleHandle
+DECL|function|openGLModuleType
 DECL|function|operator =
 DECL|function|profile
 DECL|function|qGLContextHandle

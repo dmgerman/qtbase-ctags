@@ -43,8 +43,6 @@ DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
-DECL|function|platformGLHandle
-DECL|function|platformGLType
 DECL|function|qopenglfResolveActiveTexture
 DECL|function|qopenglfResolveAttachShader
 DECL|function|qopenglfResolveBindAttribLocation
