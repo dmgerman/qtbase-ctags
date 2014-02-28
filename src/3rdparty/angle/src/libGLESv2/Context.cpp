@@ -41,6 +41,7 @@ DECL|function|getActiveQuery
 DECL|function|getArrayBuffer
 DECL|function|getArrayBufferHandle
 DECL|function|getBooleanv
+DECL|function|getBoundFramebufferTextureSerials
 DECL|function|getBuffer
 DECL|function|getCurrentProgramBinary
 DECL|function|getCurrentReadFormatType

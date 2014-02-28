@@ -33,6 +33,7 @@ DECL|function|screenDepth
 DECL|function|screenManager
 DECL|function|setAsyncExpose
 DECL|function|setKeyGrabber
+DECL|function|setTabletAbsoluteRange
 DECL|function|setWindowCreationContext
 DECL|function|systemInfo
 DECL|function|tabletSupport

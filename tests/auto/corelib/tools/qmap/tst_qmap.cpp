@@ -36,7 +36,6 @@ DECL|function|take
 DECL|function|testInsertMultiWithHint
 DECL|function|testInsertWithHint
 DECL|function|~MyClass
-DECL|macro|QT_STRICT_ITERATORS
 DECL|member|count
 DECL|member|count
 DECL|member|str

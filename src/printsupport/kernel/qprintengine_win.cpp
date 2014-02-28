@@ -6,7 +6,7 @@ DECL|function|QWin32PrintEngine
 DECL|function|abort
 DECL|function|begin
 DECL|function|composeGdiPath
-DECL|function|createDevNames
+DECL|function|createGlobalDevNames
 DECL|function|doReinit
 DECL|function|drawPath
 DECL|function|drawPixmap
@@ -20,6 +20,7 @@ DECL|function|fillPath_dev
 DECL|function|findCustomPaperSize
 DECL|function|getDC
 DECL|function|getPageMargins
+DECL|function|globalDevMode
 DECL|function|inchesToMM
 DECL|function|initDevRects
 DECL|function|initHDC
@@ -38,11 +39,10 @@ DECL|function|queryDefault
 DECL|function|queryDefaultPrinter
 DECL|function|queryResolutions
 DECL|function|qwcsnlen
-DECL|function|readDevmode
-DECL|function|readDevnames
 DECL|function|release
 DECL|function|releaseDC
 DECL|function|setDevModePaperFlags
+DECL|function|setGlobalDevMode
 DECL|function|setPageMargins
 DECL|function|setProperty
 DECL|function|strokePath

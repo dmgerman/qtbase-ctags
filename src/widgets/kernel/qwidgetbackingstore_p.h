@@ -5,4 +5,5 @@ DECL|member|nothingToPaint
 DECL|member|wasFlushed
 DECL|struct|BeginPaintInfo
 DECL|variable|QPlatformTextureList
+DECL|variable|QPlatformTextureListWatcher
 DECL|variable|QWidgetBackingStore

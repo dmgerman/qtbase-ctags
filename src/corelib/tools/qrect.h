@@ -103,4 +103,3 @@ DECL|function|y
 DECL|macro|QRECT_H
 DECL|member|operator
 DECL|member|operator
-DECL|variable|QMargins

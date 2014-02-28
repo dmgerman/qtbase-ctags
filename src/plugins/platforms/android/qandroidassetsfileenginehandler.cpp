@@ -20,6 +20,7 @@ DECL|function|isSequential
 DECL|function|next
 DECL|function|open
 DECL|function|pos
+DECL|function|prepopulateCache
 DECL|function|read
 DECL|function|seek
 DECL|function|setFileName

@@ -1,4 +1,5 @@
 DECL|function|AttributeSorter
+DECL|function|DiscardWorkaround
 DECL|function|ProgramBinary
 DECL|function|Sampler
 DECL|function|UniformLocation

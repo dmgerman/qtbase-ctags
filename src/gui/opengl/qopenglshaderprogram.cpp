@@ -22,6 +22,7 @@ DECL|function|compileSourceCode
 DECL|function|compileSourceCode
 DECL|function|compileSourceFile
 DECL|function|create
+DECL|function|create
 DECL|function|defaultInnerTessellationLevels
 DECL|function|defaultOuterTessellationLevels
 DECL|function|deleteShader

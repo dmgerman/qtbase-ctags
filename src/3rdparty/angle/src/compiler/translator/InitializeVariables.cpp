@@ -1,0 +1,4 @@
+DECL|function|constructFloatConstUnionNode
+DECL|function|constructIndexNode
+DECL|function|insertInitCode
+DECL|function|visitAggregate

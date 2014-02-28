@@ -1,9 +1,0 @@
-DECL|function|DetectRecursion
-DECL|function|FunctionNode
-DECL|function|addCallee
-DECL|function|detectRecursion
-DECL|function|detectRecursion
-DECL|function|findFunctionByName
-DECL|function|getName
-DECL|function|visitAggregate
-DECL|function|~DetectRecursion

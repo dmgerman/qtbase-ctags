@@ -55,6 +55,9 @@ DECL|function|getSerial
 DECL|function|getSerial
 DECL|function|getStencilSize
 DECL|function|getStencilSize
+DECL|function|getTextureSerial
+DECL|function|getTextureSerial
+DECL|function|getTextureSerial
 DECL|function|getWidth
 DECL|function|getWidth
 DECL|function|getWidth

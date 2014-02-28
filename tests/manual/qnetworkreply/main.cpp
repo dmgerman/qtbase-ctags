@@ -8,11 +8,16 @@ DECL|function|limiting_data
 DECL|function|readyReadSlot
 DECL|function|setSslConfiguration
 DECL|function|setSslConfiguration_data
+DECL|function|spdy
+DECL|function|spdyMultipleRequestsPerHost
+DECL|function|spdyReplyFinished
+DECL|function|spdy_data
 DECL|function|startTimer
 DECL|function|timeoutSlot
 DECL|function|uploadToFacebook
 DECL|macro|BANDWIDTH_LIMIT_BYTES
 DECL|macro|TIME_ESTIMATION_SECONDS
+DECL|member|m_manager
 DECL|member|stopwatch
 DECL|member|timer
 DECL|variable|reply

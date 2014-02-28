@@ -1,3 +1,5 @@
+DECL|function|SafeDelete
+DECL|function|SafeDeleteArray
 DECL|function|SafeRelease
 DECL|macro|COMMON_ANGLEUTILS_H_
 DECL|macro|DISALLOW_COPY_AND_ASSIGN

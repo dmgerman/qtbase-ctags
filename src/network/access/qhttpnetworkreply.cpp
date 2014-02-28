@@ -17,11 +17,13 @@ DECL|function|header
 DECL|function|headerField
 DECL|function|ignoreSslErrors
 DECL|function|ignoreSslErrors
+DECL|function|initializeInflateStream
 DECL|function|isChunked
 DECL|function|isCompressed
 DECL|function|isConnectionCloseEnabled
 DECL|function|isFinished
 DECL|function|isPipeliningUsed
+DECL|function|isSpdyUsed
 DECL|function|majorVersion
 DECL|function|minorVersion
 DECL|function|parseHeader
@@ -47,6 +49,7 @@ DECL|function|setErrorString
 DECL|function|setHeaderField
 DECL|function|setReadBufferSize
 DECL|function|setRequest
+DECL|function|setSpdyWasUsed
 DECL|function|setSslConfiguration
 DECL|function|setStatusCode
 DECL|function|setUrl

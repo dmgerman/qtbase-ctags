@@ -1,0 +1,5 @@
+DECL|macro|QSPDYPROTOCOLHANDLER_H
+DECL|typedef|HttpMessagePair
+DECL|typedef|QHttpNetworkRequest
+DECL|variable|QHttpNetworkRequest
+DECL|variable|QObject
