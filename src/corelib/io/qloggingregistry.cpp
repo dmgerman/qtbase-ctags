@@ -7,9 +7,12 @@ DECL|function|installFilter
 DECL|function|instance
 DECL|function|parse
 DECL|function|pass
+DECL|function|qtLoggingDebug
 DECL|function|registerCategory
 DECL|function|setApiRules
 DECL|function|setContent
 DECL|function|setContent
 DECL|function|unregisterCategory
 DECL|function|updateRules
+DECL|macro|debugMsg
+DECL|macro|warnMsg
