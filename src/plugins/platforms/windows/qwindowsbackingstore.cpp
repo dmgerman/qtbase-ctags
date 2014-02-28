@@ -5,4 +5,5 @@ DECL|function|getDC
 DECL|function|paintDevice
 DECL|function|resize
 DECL|function|scroll
+DECL|function|toImage
 DECL|function|~QWindowsBackingStore
