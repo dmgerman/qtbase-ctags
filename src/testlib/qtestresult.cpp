@@ -25,7 +25,6 @@ DECL|function|setCurrentTestObject
 DECL|function|setSkipCurrentTest
 DECL|function|skipCurrentTest
 DECL|function|verify
-DECL|member|currentAppName
 DECL|member|currentGlobalTestData
 DECL|member|currentTestData
 DECL|member|currentTestFunc
@@ -35,3 +34,4 @@ DECL|member|expectFailMode
 DECL|member|failed
 DECL|member|skipCurrentTest
 DECL|namespace|QTest
+DECL|variable|currentAppName
