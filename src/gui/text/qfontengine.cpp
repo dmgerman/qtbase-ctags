@@ -53,6 +53,7 @@ DECL|function|getGlyphBearings
 DECL|function|getGlyphPositions
 DECL|function|getPointInOutline
 DECL|function|getSfntTable
+DECL|function|getSfntTableData
 DECL|function|getTrueTypeGlyphIndex
 DECL|function|getUnscaledGlyph
 DECL|function|glyphCache
