@@ -28,6 +28,7 @@ DECL|function|getSfntTableData
 DECL|function|getUInt
 DECL|function|getUShort
 DECL|function|getUnscaledGlyph
+DECL|function|glyphIndex
 DECL|function|hasCFFTable
 DECL|function|hasCMapTable
 DECL|function|initFontInfo

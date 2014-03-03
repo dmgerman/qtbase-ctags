@@ -15,6 +15,7 @@ DECL|function|findGlyph
 DECL|function|generate
 DECL|function|getChar
 DECL|function|getSfntTableData
+DECL|function|glyphIndex
 DECL|function|init
 DECL|function|isValid
 DECL|function|leading

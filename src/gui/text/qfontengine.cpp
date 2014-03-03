@@ -58,6 +58,8 @@ DECL|function|getTrueTypeGlyphIndex
 DECL|function|getUnscaledGlyph
 DECL|function|glyphCache
 DECL|function|glyphCount
+DECL|function|glyphIndex
+DECL|function|glyphIndex
 DECL|function|harfbuzzFace
 DECL|function|harfbuzzFont
 DECL|function|hb_canRender
