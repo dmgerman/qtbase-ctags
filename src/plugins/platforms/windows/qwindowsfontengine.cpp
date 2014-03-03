@@ -12,7 +12,6 @@ DECL|function|averageCharWidth
 DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|calculateTTFGlyphWidth
-DECL|function|canRender
 DECL|function|cloneWithSize
 DECL|function|descent
 DECL|function|drawGDIGlyph

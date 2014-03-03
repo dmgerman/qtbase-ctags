@@ -6,7 +6,6 @@ DECL|function|alphaMapForGlyph
 DECL|function|ascent
 DECL|function|boundingBox
 DECL|function|boundingBox
-DECL|function|canRender
 DECL|function|createMultiFontEngine
 DECL|function|descent
 DECL|function|ensureFallbackFamiliesQueried

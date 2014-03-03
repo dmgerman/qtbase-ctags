@@ -15,7 +15,6 @@ DECL|function|averageCharWidth
 DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|boundingBox
-DECL|function|canRender
 DECL|function|cleanup
 DECL|function|clear
 DECL|function|cloneWithSize
