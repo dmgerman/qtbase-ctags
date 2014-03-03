@@ -1,1 +1,0 @@
-DECL|macro|GLWINDOW_H
