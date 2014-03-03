@@ -11,6 +11,7 @@ DECL|function|keysymToQtKey
 DECL|function|keysymToQtKey
 DECL|function|keysymToUnicode
 DECL|function|possibleKeys
+DECL|function|printKeymapError
 DECL|function|readXKBConfig
 DECL|function|release
 DECL|function|resolveMaskConflicts
