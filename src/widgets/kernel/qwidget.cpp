@@ -187,6 +187,7 @@ DECL|function|scroll
 DECL|function|scrollChildren
 DECL|function|sendPendingMoveAndResizeEvents
 DECL|function|sendResizeEvents
+DECL|function|sendWindowChangeToTextureChildrenRecursively
 DECL|function|setAcceptDrops
 DECL|function|setAccessibleDescription
 DECL|function|setAccessibleName
