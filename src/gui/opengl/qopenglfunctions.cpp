@@ -61,6 +61,7 @@ DECL|function|qopenglfResolveBufferSubData
 DECL|function|qopenglfResolveCheckFramebufferStatus
 DECL|function|qopenglfResolveClear
 DECL|function|qopenglfResolveClearColor
+DECL|function|qopenglfResolveClearDepthf
 DECL|function|qopenglfResolveClearStencil
 DECL|function|qopenglfResolveColorMask
 DECL|function|qopenglfResolveCompileShader
@@ -79,6 +80,7 @@ DECL|function|qopenglfResolveDeleteShader
 DECL|function|qopenglfResolveDeleteTextures
 DECL|function|qopenglfResolveDepthFunc
 DECL|function|qopenglfResolveDepthMask
+DECL|function|qopenglfResolveDepthRangef
 DECL|function|qopenglfResolveDetachShader
 DECL|function|qopenglfResolveDisable
 DECL|function|qopenglfResolveDisableVertexAttribArray
@@ -115,6 +117,7 @@ DECL|function|qopenglfResolveGetShaderPrecisionFormat
 DECL|function|qopenglfResolveGetShaderSource
 DECL|function|qopenglfResolveGetShaderiv
 DECL|function|qopenglfResolveGetString
+DECL|function|qopenglfResolveGetTexLevelParameteriv
 DECL|function|qopenglfResolveGetTexParameterfv
 DECL|function|qopenglfResolveGetTexParameteriv
 DECL|function|qopenglfResolveGetUniformLocation
@@ -192,6 +195,8 @@ DECL|function|qopenglfSpecialGetShaderPrecisionFormat
 DECL|function|qopenglfSpecialIsProgram
 DECL|function|qopenglfSpecialIsShader
 DECL|function|qopenglfSpecialReleaseShaderCompiler
+DECL|function|qopenglfTranslateClearDepthf
+DECL|function|qopenglfTranslateDepthRangef
 DECL|function|qt_gl_functions
 DECL|function|qt_gl_resolve_extensions
 DECL|function|qt_gl_resolve_features
