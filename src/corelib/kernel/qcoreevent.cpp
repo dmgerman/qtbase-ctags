@@ -1,4 +1,6 @@
-DECL|class|QEventUserEventRegistration
+DECL|enumerator|BitsPerInt
+DECL|enumerator|NumBits
+DECL|enumerator|NumInts
 DECL|function|QChildEvent
 DECL|function|QDeferredDeleteEvent
 DECL|function|QDynamicPropertyChangeEvent
@@ -12,5 +14,9 @@ DECL|function|~QDeferredDeleteEvent
 DECL|function|~QDynamicPropertyChangeEvent
 DECL|function|~QEvent
 DECL|function|~QTimerEvent
-DECL|member|mutex
-DECL|member|set
+DECL|member|data
+DECL|member|next
+DECL|struct|QBasicAtomicBitField
+DECL|typedef|UserEventTypeRegistry
+DECL|variable|UserEventRegistrationBitFieldSize
+DECL|variable|userEventTypeRegistry
