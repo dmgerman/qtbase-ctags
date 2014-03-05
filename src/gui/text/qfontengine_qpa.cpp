@@ -27,7 +27,6 @@ DECL|function|readValue
 DECL|function|recalcAdvances
 DECL|function|setFallbackFamiliesList
 DECL|function|stringToCMap
-DECL|function|type
 DECL|function|underlinePosition
 DECL|function|verifyHeader
 DECL|function|verifyTag
