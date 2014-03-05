@@ -37,7 +37,6 @@ DECL|function|loadEngine
 DECL|function|maxCharWidth
 DECL|function|minLeftBearing
 DECL|function|minRightBearing
-DECL|function|name
 DECL|function|properties
 DECL|function|qt_fixed_to_double
 DECL|function|qt_to_qpointf

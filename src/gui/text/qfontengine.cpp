@@ -84,7 +84,6 @@ DECL|function|maxCharWidth
 DECL|function|maxCharWidth
 DECL|function|minLeftBearing
 DECL|function|minRightBearing
-DECL|function|name
 DECL|function|operator =
 DECL|function|properties
 DECL|function|qt_addBitmapToPath

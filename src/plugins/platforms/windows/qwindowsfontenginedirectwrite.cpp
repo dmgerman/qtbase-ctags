@@ -31,7 +31,6 @@ DECL|function|initFontInfo
 DECL|function|leading
 DECL|function|lineThickness
 DECL|function|maxCharWidth
-DECL|function|name
 DECL|function|recalcAdvances
 DECL|function|stringToCMap
 DECL|function|supportsSubPixelPositions
