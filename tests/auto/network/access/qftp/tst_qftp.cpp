@@ -45,6 +45,8 @@ DECL|function|mkdir
 DECL|function|mkdir2
 DECL|function|mkdir2Slot
 DECL|function|mkdir_data
+DECL|function|msgComparison
+DECL|function|msgTimedOut
 DECL|function|newFtp
 DECL|function|operator <<
 DECL|function|operator =
@@ -87,6 +89,7 @@ DECL|member|networkSessionExplicit
 DECL|member|networkSessionImplicit
 DECL|member|newData_ba
 DECL|member|resultMap
+DECL|member|rfc3252File
 DECL|member|success
 DECL|member|uniqueExtension
 DECL|struct|CommandResult
