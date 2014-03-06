@@ -5,6 +5,7 @@ DECL|function|fromstrerror_helper
 DECL|function|fromstrerror_helper
 DECL|function|fullCpuArchitecture
 DECL|function|macVersion
+DECL|function|osKernelVersion
 DECL|function|osType
 DECL|function|osVersion
 DECL|function|prettyOsName
@@ -39,6 +40,7 @@ DECL|member|WindowsVersion
 DECL|member|callbacks
 DECL|member|sysName
 DECL|member|sysNameLower
+DECL|member|sysRelease
 DECL|member|versionIdentifier
 DECL|member|versionText
 DECL|struct|QInternal_CallBackTable
