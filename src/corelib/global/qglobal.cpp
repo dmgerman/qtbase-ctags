@@ -4,6 +4,7 @@ DECL|function|fromstrerror_helper
 DECL|function|fromstrerror_helper
 DECL|function|fullCpuArchitecture
 DECL|function|macVersion
+DECL|function|osType
 DECL|function|qBadAlloc
 DECL|function|qMemCopy
 DECL|function|qMemSet
