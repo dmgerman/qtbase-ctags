@@ -1,6 +1,8 @@
 DECL|function|activateCallbacks
+DECL|function|cpuArchitecture
 DECL|function|fromstrerror_helper
 DECL|function|fromstrerror_helper
+DECL|function|fullCpuArchitecture
 DECL|function|macVersion
 DECL|function|qBadAlloc
 DECL|function|qMemCopy
