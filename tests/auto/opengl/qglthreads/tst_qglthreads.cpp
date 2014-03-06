@@ -29,6 +29,7 @@ DECL|function|failed
 DECL|function|failed
 DECL|function|lock
 DECL|function|main
+DECL|function|moveContextToThread
 DECL|function|moveToThread
 DECL|function|moveToThread
 DECL|function|moveToThread
