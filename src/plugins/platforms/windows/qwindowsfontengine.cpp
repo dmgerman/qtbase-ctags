@@ -18,7 +18,6 @@ DECL|function|drawGDIGlyph
 DECL|function|emSquareSize
 DECL|function|faceId
 DECL|function|getCMap
-DECL|function|getChar
 DECL|function|getGlyphBearings
 DECL|function|getGlyphIndexes
 DECL|function|getOutlineMetrics
