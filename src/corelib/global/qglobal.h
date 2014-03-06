@@ -216,6 +216,7 @@ DECL|macro|dynamic_cast
 DECL|macro|foreach
 DECL|macro|forever
 DECL|macro|qPrintable
+DECL|macro|qUtf8Printable
 DECL|struct|QForeachContainerBase
 DECL|struct|QIntegerForSize
 DECL|struct|QIntegerForSize

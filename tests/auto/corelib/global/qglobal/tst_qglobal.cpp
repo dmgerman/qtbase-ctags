@@ -25,6 +25,8 @@ DECL|function|qCoreAppStartupFunction
 DECL|function|qCoreAppStartupFunctionRestart
 DECL|function|qIsNull
 DECL|function|qassert
+DECL|function|qprintable
+DECL|function|qprintable_data
 DECL|function|qstaticassert
 DECL|function|qtry
 DECL|function|~MyTrue
@@ -54,6 +56,7 @@ DECL|typedef|DependentType
 DECL|typedef|T
 DECL|typedef|fun
 DECL|typedef|memFun
+DECL|typedef|stringpair
 DECL|union|isEnum_C
 DECL|variable|qConstructorFunctionCtor
 DECL|variable|qConstructorFunctionValue
