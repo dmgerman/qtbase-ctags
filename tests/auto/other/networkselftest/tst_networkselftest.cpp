@@ -9,6 +9,7 @@ DECL|enumerator|RemoteDisconnect
 DECL|enumerator|Send
 DECL|enumerator|SkipBytes
 DECL|enumerator|StartEncryption
+DECL|enumerator|defaultReadTimeoutMS
 DECL|enum|Type
 DECL|function|Chat
 DECL|function|Chat
@@ -33,6 +34,7 @@ DECL|function|httpServerFiles_data
 DECL|function|httpsServer
 DECL|function|imapServer
 DECL|function|initTestCase
+DECL|function|msgDoSocketReadFailed
 DECL|function|netChat
 DECL|function|prettyByteArray
 DECL|function|remotePortsOpen
