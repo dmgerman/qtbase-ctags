@@ -35,6 +35,7 @@ DECL|function|fontDefToLOGFONT
 DECL|function|fontDir
 DECL|function|fontEngine
 DECL|function|fontEngine
+DECL|function|fontEngineMulti
 DECL|function|fontSmoothingGamma
 DECL|function|fontsAlwaysScalable
 DECL|function|getEnglishName

@@ -42,12 +42,12 @@ DECL|function|qt_to_qpointf
 DECL|function|recalcAdvances
 DECL|function|resolveGetCharWidthI
 DECL|function|selectDesignFont
+DECL|function|setFallbackFamiliesList
 DECL|function|stringToCMap
 DECL|function|supportsTransformation
 DECL|function|synthesized
 DECL|function|xHeight
 DECL|function|~QWindowsFontEngine
-DECL|function|~QWindowsMultiFontEngine
 DECL|macro|CLEARTYPE_QUALITY
 DECL|macro|GGO_UNHINTED
 DECL|macro|MAKE_TAG
