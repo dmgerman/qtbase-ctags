@@ -12,6 +12,7 @@ DECL|function|beginPaint
 DECL|function|createAngleBinary
 DECL|function|endPaint
 DECL|function|flush
+DECL|function|initialize
 DECL|function|operator <<
 DECL|function|paintDevice
 DECL|function|resize
