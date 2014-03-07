@@ -1,7 +1,10 @@
+DECL|class|MySpinBox
 DECL|class|SpinBox
 DECL|class|sizeHint_SpinBox
 DECL|class|tst_QSpinBox
+DECL|function|MySpinBox
 DECL|function|SpinBox
+DECL|function|changeEvent
 DECL|function|editingFinished
 DECL|function|getSetCheck
 DECL|function|init
@@ -49,5 +52,6 @@ DECL|function|valueFromTextAndValidate
 DECL|function|valueFromTextAndValidate_data
 DECL|member|actualTexts
 DECL|member|actualValues
+DECL|member|eventsReceived
 DECL|member|sizeHintRequests
 DECL|typedef|IntList
