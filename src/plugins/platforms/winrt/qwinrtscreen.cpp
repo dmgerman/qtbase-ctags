@@ -15,6 +15,7 @@ DECL|function|nativeOrientation
 DECL|function|nativeOrientationsFromQt
 DECL|function|onActivated
 DECL|function|onAutomationProviderRequested
+DECL|function|onBackButtonPressed
 DECL|function|onCharacterReceived
 DECL|function|onClosed
 DECL|function|onKeyDown
@@ -39,6 +40,7 @@ DECL|function|surfaceFormat
 DECL|function|topWindow
 DECL|typedef|ActivatedHandler
 DECL|typedef|AutomationProviderRequestedHandler
+DECL|typedef|BackPressedHandler
 DECL|typedef|CharacterReceivedHandler
 DECL|typedef|ClosedHandler
 DECL|typedef|InputEnabledHandler
