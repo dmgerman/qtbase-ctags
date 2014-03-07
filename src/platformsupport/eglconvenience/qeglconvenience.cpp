@@ -11,6 +11,7 @@ DECL|function|q_reduceConfigAttributes
 DECL|function|q_screenDepthFromFb
 DECL|function|q_screenSizeFromFb
 DECL|function|~QEglConfigChooser
+DECL|macro|EGL_OPENGL_ES3_BIT_KHR
 DECL|member|attr
 DECL|member|name
 DECL|struct|AttrInfo
