@@ -1,8 +1,12 @@
 DECL|class|QFontDatabasePrivate
+DECL|enumerator|EnsureCreated
+DECL|enumerator|EnsurePopulated
+DECL|enumerator|RequestFamily
 DECL|enumerator|Supported
 DECL|enumerator|Unknown
 DECL|enumerator|Unsupported
 DECL|enumerator|UnsupportedFT
+DECL|enum|FamilyRequestFlags
 DECL|enum|WritingSystemStatus
 DECL|function|Key
 DECL|function|Key
@@ -21,6 +25,7 @@ DECL|function|bestFoundry
 DECL|function|bestStyle
 DECL|function|bold
 DECL|function|createDatabase
+DECL|function|ensurePopulated
 DECL|function|fallbackFamilies
 DECL|function|families
 DECL|function|family
@@ -60,6 +65,7 @@ DECL|function|qt_fontdata_from_index
 DECL|function|qt_fontdatabase_mutex
 DECL|function|qt_registerAliasToFontFamily
 DECL|function|qt_registerFont
+DECL|function|qt_registerFontFamily
 DECL|function|qt_resolveFontFamilyAlias
 DECL|function|qt_script_for_writing_system
 DECL|function|qt_setQtEnableTestFont
@@ -123,6 +129,7 @@ DECL|member|name
 DECL|member|pitch
 DECL|member|pixelSize
 DECL|member|pixelSizes
+DECL|member|populated
 DECL|member|reregisterAppFonts
 DECL|member|size
 DECL|member|smoothScalable
