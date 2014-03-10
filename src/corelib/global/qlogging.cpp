@@ -48,6 +48,7 @@ DECL|macro|HANDLE_IF_TOKEN
 DECL|macro|IF_TOKEN
 DECL|macro|IF_TOKEN
 DECL|macro|QT_LOG_CODE
+DECL|macro|SD_JOURNAL_SUPPRESS_LOCATION
 DECL|macro|qCritical
 DECL|macro|qDebug
 DECL|macro|qFatal
