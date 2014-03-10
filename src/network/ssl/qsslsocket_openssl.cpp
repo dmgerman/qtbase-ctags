@@ -31,6 +31,8 @@ DECL|function|resetDefaultCiphers
 DECL|function|sessionCipher
 DECL|function|sessionProtocol
 DECL|function|setupOpenSslOptions
+DECL|function|sslLibraryBuildVersionNumber
+DECL|function|sslLibraryBuildVersionString
 DECL|function|sslLibraryVersionNumber
 DECL|function|sslLibraryVersionString
 DECL|function|start

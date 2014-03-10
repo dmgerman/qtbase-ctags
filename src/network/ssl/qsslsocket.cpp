@@ -95,6 +95,8 @@ DECL|function|socketOption
 DECL|function|sslConfiguration
 DECL|function|sslContext
 DECL|function|sslErrors
+DECL|function|sslLibraryBuildVersionNumber
+DECL|function|sslLibraryBuildVersionString
 DECL|function|sslLibraryVersionNumber
 DECL|function|sslLibraryVersionString
 DECL|function|startClientEncryption
