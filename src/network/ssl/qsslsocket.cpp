@@ -68,6 +68,7 @@ DECL|function|resume
 DECL|function|resumeSocketNotifiers
 DECL|function|rootCertOnDemandLoadingSupported
 DECL|function|sessionCipher
+DECL|function|sessionProtocol
 DECL|function|setCaCertificates
 DECL|function|setCiphers
 DECL|function|setCiphers

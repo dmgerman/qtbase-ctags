@@ -19,6 +19,7 @@ DECL|function|peerVerifyMode
 DECL|function|privateKey
 DECL|function|protocol
 DECL|function|sessionCipher
+DECL|function|sessionProtocol
 DECL|function|sessionTicket
 DECL|function|sessionTicketLifeTimeHint
 DECL|function|setAllowedNextProtocols
