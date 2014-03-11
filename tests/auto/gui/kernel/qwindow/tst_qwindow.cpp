@@ -41,6 +41,7 @@ DECL|function|testInputEvents
 DECL|function|touchCancel
 DECL|function|touchCancelWithTouchToMouse
 DECL|function|touchEvent
+DECL|function|touchInterruptedByPopup
 DECL|function|touchToMouseTranslation
 DECL|function|visibility
 DECL|function|windowModality
