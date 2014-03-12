@@ -11,6 +11,7 @@ DECL|function|findNodeInOpenNamespace
 DECL|function|findNodeInOpenNamespace
 DECL|function|findQmlType
 DECL|function|findQmlType
+DECL|function|findQmlType
 DECL|function|firstRoot
 DECL|function|firstTree
 DECL|function|generateIndex

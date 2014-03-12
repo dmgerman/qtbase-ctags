@@ -95,6 +95,7 @@ DECL|function|plainName
 DECL|function|primaryKeys
 DECL|function|printChildren
 DECL|function|printMembers
+DECL|function|qmlBaseNode
 DECL|function|qmlClassNode
 DECL|function|qmlFullBaseName
 DECL|function|qmlModuleIdentifier
