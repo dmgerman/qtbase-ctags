@@ -3,6 +3,7 @@ DECL|function|defaultInstall
 DECL|function|findDependencies
 DECL|function|getPdbTarget
 DECL|function|init
+DECL|function|msvcVersion
 DECL|function|nmakePathList
 DECL|function|var
 DECL|function|writeBuildRulesPart
