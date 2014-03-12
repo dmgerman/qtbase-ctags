@@ -94,6 +94,7 @@ DECL|function|keyReleaseEvent
 DECL|function|leaveModal
 DECL|function|leaveScene
 DECL|function|markDirty
+DECL|function|minimumRenderSize
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseGrabberItem
 DECL|function|mouseMoveEvent
@@ -134,6 +135,7 @@ DECL|function|setFont
 DECL|function|setFont_helper
 DECL|function|setForegroundBrush
 DECL|function|setItemIndexMethod
+DECL|function|setMinimumRenderSize
 DECL|function|setPalette
 DECL|function|setPalette_helper
 DECL|function|setScenePosItemEnabled

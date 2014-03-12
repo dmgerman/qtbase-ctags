@@ -12,6 +12,7 @@ DECL|class|FocusItem
 DECL|class|FocusWidget
 DECL|class|HoverItem
 DECL|class|InputMethodTester
+DECL|class|ItemCountsPaintCalls
 DECL|class|PolishItem
 DECL|class|Scene
 DECL|class|tst_QGraphicsScene
@@ -27,6 +28,7 @@ DECL|function|EventTester
 DECL|function|ExposedPixmapItem
 DECL|function|FocusWidget
 DECL|function|HoverItem
+DECL|function|ItemCountsPaintCalls
 DECL|function|PolishItem
 DECL|function|addEllipse
 DECL|function|addItem
@@ -88,6 +90,7 @@ DECL|function|items_QPolygonF_2
 DECL|function|items_QRectF
 DECL|function|items_QRectF_2
 DECL|function|items_QRectF_2_data
+DECL|function|minimumRenderSize
 DECL|function|mouseEventPropagation
 DECL|function|mouseEventPropagation_doubleclick
 DECL|function|mouseEventPropagation_focus
@@ -95,6 +98,7 @@ DECL|function|mouseEventPropagation_ignore
 DECL|function|mouseEventPropagation_mouseMove
 DECL|function|mouseGrabberItem
 DECL|function|mouseMoveEvent
+DECL|function|paint
 DECL|function|paint
 DECL|function|paint
 DECL|function|paint
@@ -170,6 +174,7 @@ DECL|member|polished
 DECL|member|queryCalls
 DECL|member|receivedSceneEventFilters
 DECL|member|receivedSceneEvents
+DECL|member|repaints
 DECL|member|repaints
 DECL|member|spied
 DECL|member|tabs
