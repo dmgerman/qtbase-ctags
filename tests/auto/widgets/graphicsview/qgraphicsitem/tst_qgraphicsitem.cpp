@@ -17,6 +17,7 @@ DECL|class|ImhTester
 DECL|class|Item
 DECL|class|ItemAddScene
 DECL|class|ItemChangeTester
+DECL|class|ItemCountsBoundingRectCalls
 DECL|class|ItemPaintsOutsideShape
 DECL|class|MoveWhileDying
 DECL|class|MyGraphicsItemWithItemChange
@@ -54,6 +55,7 @@ DECL|function|HoverItem
 DECL|function|ItemAddScene
 DECL|function|ItemChangeTester
 DECL|function|ItemChangeTester
+DECL|function|ItemCountsBoundingRectCalls
 DECL|function|MoveWhileDying
 DECL|function|MyGraphicsItemWithItemChange
 DECL|function|MyGraphicsView
@@ -89,6 +91,7 @@ DECL|function|activationOnShowHide
 DECL|function|addPanelToActiveScene
 DECL|function|advance
 DECL|function|ancestorFlags
+DECL|function|boundingRect
 DECL|function|boundingRect
 DECL|function|boundingRect
 DECL|function|boundingRect
@@ -204,6 +207,8 @@ DECL|function|itemClipsChildrenToShape4
 DECL|function|itemClipsChildrenToShape5
 DECL|function|itemClipsTextChildToShape
 DECL|function|itemClipsToShape
+DECL|function|itemContainsChildrenInShape
+DECL|function|itemContainsChildrenInShape2
 DECL|function|itemDiesDuringDraggingOperation
 DECL|function|itemHasNoContents
 DECL|function|itemIsInFront
@@ -351,6 +356,7 @@ DECL|macro|RESET_COUNTERS
 DECL|macro|RESET_REPAINT_COUNTERS
 DECL|macro|VERIFY_CONTROL_POINTS
 DECL|member|_count
+DECL|member|boundingRectCalls
 DECL|member|br
 DECL|member|brush
 DECL|member|brush
