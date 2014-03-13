@@ -18,6 +18,7 @@ DECL|function|handle
 DECL|function|hasAlphaChannel
 DECL|function|hdcForWidgetBackingStore
 DECL|function|init
+DECL|function|isItemViewDelegateLineEdit
 DECL|function|isTransparent
 DECL|function|isValid
 DECL|function|mask
