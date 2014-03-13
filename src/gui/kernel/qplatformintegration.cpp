@@ -14,6 +14,7 @@ DECL|function|hasCapability
 DECL|function|initialize
 DECL|function|inputContext
 DECL|function|nativeInterface
+DECL|function|openGLModuleType
 DECL|function|possibleKeys
 DECL|function|queryKeyboardModifiers
 DECL|function|screenAdded

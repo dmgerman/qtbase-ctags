@@ -1,0 +1,11 @@
+DECL|function|RenderWindow
+DECL|function|exposeEvent
+DECL|function|init
+DECL|function|render
+DECL|function|setupVertexAttribs
+DECL|variable|colors
+DECL|variable|fragmentShaderSource
+DECL|variable|fragmentShaderSource110
+DECL|variable|vertexShaderSource
+DECL|variable|vertexShaderSource110
+DECL|variable|vertices

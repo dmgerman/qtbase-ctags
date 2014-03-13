@@ -21,9 +21,11 @@ DECL|function|bestFoundry
 DECL|function|bestStyle
 DECL|function|bold
 DECL|function|createDatabase
+DECL|function|fallbackFamilies
 DECL|function|families
 DECL|function|family
 DECL|function|familyList
+DECL|function|findFont
 DECL|function|font
 DECL|function|foundry
 DECL|function|free
@@ -31,6 +33,7 @@ DECL|function|getEngineData
 DECL|function|getFontWeight
 DECL|function|hasFamily
 DECL|function|initFontDef
+DECL|function|initializeDb
 DECL|function|invalidate
 DECL|function|isApplicationFont
 DECL|function|isBitmapScalable
@@ -38,6 +41,10 @@ DECL|function|isFixedPitch
 DECL|function|isScalable
 DECL|function|isSmoothlyScalable
 DECL|function|italic
+DECL|function|load
+DECL|function|load
+DECL|function|loadEngine
+DECL|function|loadSingleEngine
 DECL|function|match
 DECL|function|matchFamilyName
 DECL|function|matchesFamilyName
@@ -51,8 +58,15 @@ DECL|function|pointSizes
 DECL|function|qt_cleanupFontDatabase
 DECL|function|qt_fontdata_from_index
 DECL|function|qt_fontdatabase_mutex
+DECL|function|qt_registerAliasToFontFamily
+DECL|function|qt_registerFont
+DECL|function|qt_resolveFontFamilyAlias
 DECL|function|qt_script_for_writing_system
 DECL|function|qt_setQtEnableTestFont
+DECL|function|registerFont
+DECL|function|removeAllApplicationFonts
+DECL|function|removeApplicationFont
+DECL|function|resolveFontFamilyAlias
 DECL|function|smoothSizes
 DECL|function|standardSizes
 DECL|function|style
@@ -60,6 +74,7 @@ DECL|function|styleString
 DECL|function|styleString
 DECL|function|styleStringHelper
 DECL|function|styles
+DECL|function|supportsThreadedFontRendering
 DECL|function|systemFont
 DECL|function|weight
 DECL|function|weightFromInteger

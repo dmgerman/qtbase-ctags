@@ -10,6 +10,7 @@ DECL|function|compactObject
 DECL|function|fromBinary
 DECL|function|fromJson
 DECL|function|fromJsonErrors
+DECL|function|fromVariant
 DECL|function|fromVariantMap
 DECL|function|init
 DECL|function|initTestCase

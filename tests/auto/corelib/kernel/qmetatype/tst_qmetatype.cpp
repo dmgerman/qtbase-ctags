@@ -94,6 +94,7 @@ DECL|function|create
 DECL|function|create
 DECL|function|createCopy
 DECL|function|createCopy_data
+DECL|function|createTypeName
 DECL|function|create_data
 DECL|function|customDebugStream
 DECL|function|customTypeNotYetConvertible

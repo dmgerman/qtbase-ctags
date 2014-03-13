@@ -17,6 +17,7 @@ DECL|function|nativeResourceFunctionForScreen
 DECL|function|qPlatformScreenForWindow
 DECL|function|requestSystemTrayWindowDock
 DECL|function|resourceType
+DECL|function|rootWindow
 DECL|function|screenForWindow
 DECL|function|setAppTime
 DECL|function|setAppUserTime

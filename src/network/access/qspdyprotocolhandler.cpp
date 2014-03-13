@@ -1,6 +1,7 @@
 DECL|function|QSpdyProtocolHandler
 DECL|function|_q_readyRead
 DECL|function|_q_receiveReply
+DECL|function|_q_replyDestroyed
 DECL|function|_q_uploadDataReadyRead
 DECL|function|appendIntToFourBytes
 DECL|function|appendIntToThreeBytes

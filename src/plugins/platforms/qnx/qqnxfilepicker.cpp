@@ -5,6 +5,7 @@ DECL|function|cleanup
 DECL|function|close
 DECL|function|defaultSaveFileNames
 DECL|function|directories
+DECL|function|filePickerType
 DECL|function|filters
 DECL|function|handleFilePickerResponse
 DECL|function|mode

@@ -16,6 +16,7 @@ DECL|function|operator <<
 DECL|function|qDebugQLatin1String
 DECL|function|qDebugQStringRef
 DECL|function|stateSaver
+DECL|function|textStreamModifiers
 DECL|function|veryLongWarningMessage
 DECL|function|warningWithoutDebug
 DECL|function|~MessageHandlerSetter

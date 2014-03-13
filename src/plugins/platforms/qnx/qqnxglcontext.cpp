@@ -5,6 +5,7 @@ DECL|function|doneCurrent
 DECL|function|getEglDisplay
 DECL|function|getProcAddress
 DECL|function|initialize
+DECL|function|isSharing
 DECL|function|makeCurrent
 DECL|function|shutdown
 DECL|function|swapBuffers

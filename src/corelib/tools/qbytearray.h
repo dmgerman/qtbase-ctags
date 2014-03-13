@@ -45,6 +45,8 @@ DECL|member|ptr
 DECL|struct|QByteArrayDataPtr
 DECL|struct|QStaticByteArrayData
 DECL|typedef|QByteArrayData
+DECL|variable|CFData
+DECL|variable|NSData
 DECL|variable|QByteRef
 DECL|variable|QDataStream
 DECL|variable|QList

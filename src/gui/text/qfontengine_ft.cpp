@@ -15,7 +15,6 @@ DECL|function|averageCharWidth
 DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|boundingBox
-DECL|function|canRender
 DECL|function|cleanup
 DECL|function|clear
 DECL|function|cloneWithSize
@@ -31,7 +30,6 @@ DECL|function|faceId
 DECL|function|filterPixel
 DECL|function|fsType
 DECL|function|ft_getSfntTable
-DECL|function|getChar
 DECL|function|getFace
 DECL|function|getPointInOutline
 DECL|function|getPointInOutline
@@ -39,6 +37,7 @@ DECL|function|getSfntTable
 DECL|function|getSfntTableData
 DECL|function|getUnscaledGlyph
 DECL|function|glyphCount
+DECL|function|glyphIndex
 DECL|function|init
 DECL|function|init
 DECL|function|initFromFontEngine

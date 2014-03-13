@@ -1,2 +1,2 @@
-DECL|macro|QQNXTHEME_H
+DECL|macro|QBLACKBERRYTHEME_H
 DECL|variable|QQnxIntegration

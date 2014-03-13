@@ -6,10 +6,10 @@ DECL|function|GlyphCacheEntry
 DECL|function|GlyphCacheEntry
 DECL|function|QFontEngine
 DECL|function|QFontEngineBox
+DECL|function|QFontEngineBox
 DECL|function|QFontEngineMulti
 DECL|function|QFontEngine_startCollectingEngines
 DECL|function|QFontEngine_stopCollectingEngines
-DECL|function|QTestFontEngine
 DECL|function|addBitmapFontToPath
 DECL|function|addGlyphsToPath
 DECL|function|addOutlineToPath
@@ -38,6 +38,7 @@ DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|canRender
 DECL|function|canRender
+DECL|function|canRender
 DECL|function|clearGlyphCache
 DECL|function|cloneWithSize
 DECL|function|collectSingleContour
@@ -53,10 +54,13 @@ DECL|function|getGlyphBearings
 DECL|function|getGlyphPositions
 DECL|function|getPointInOutline
 DECL|function|getSfntTable
+DECL|function|getSfntTableData
 DECL|function|getTrueTypeGlyphIndex
 DECL|function|getUnscaledGlyph
 DECL|function|glyphCache
 DECL|function|glyphCount
+DECL|function|glyphIndex
+DECL|function|glyphIndex
 DECL|function|harfbuzzFace
 DECL|function|harfbuzzFont
 DECL|function|hb_canRender
@@ -80,7 +84,6 @@ DECL|function|maxCharWidth
 DECL|function|maxCharWidth
 DECL|function|minLeftBearing
 DECL|function|minRightBearing
-DECL|function|name
 DECL|function|operator =
 DECL|function|properties
 DECL|function|qt_addBitmapToPath
@@ -98,8 +101,6 @@ DECL|function|subPixelPositionForX
 DECL|function|supportsScript
 DECL|function|supportsTransformation
 DECL|function|tightBoundingBox
-DECL|function|type
-DECL|function|type
 DECL|function|underlinePosition
 DECL|function|underlinePosition
 DECL|function|unlockAlphaMapForGlyph

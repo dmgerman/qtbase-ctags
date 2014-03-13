@@ -6,15 +6,14 @@ DECL|function|alphaMapForGlyph
 DECL|function|ascent
 DECL|function|boundingBox
 DECL|function|boundingBox
-DECL|function|canRender
 DECL|function|createMultiFontEngine
 DECL|function|descent
 DECL|function|ensureFallbackFamiliesQueried
 DECL|function|extractHeaderField
 DECL|function|findGlyph
 DECL|function|generate
-DECL|function|getChar
 DECL|function|getSfntTableData
+DECL|function|glyphIndex
 DECL|function|init
 DECL|function|isValid
 DECL|function|leading
@@ -27,7 +26,6 @@ DECL|function|readValue
 DECL|function|recalcAdvances
 DECL|function|setFallbackFamiliesList
 DECL|function|stringToCMap
-DECL|function|type
 DECL|function|underlinePosition
 DECL|function|verifyHeader
 DECL|function|verifyTag
