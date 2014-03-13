@@ -25,6 +25,7 @@ DECL|function|registerFoundOption
 DECL|function|setApplicationDescription
 DECL|function|setSingleDashWordOptionMode
 DECL|function|showHelp
+DECL|function|showVersion
 DECL|function|unknownOptionNames
 DECL|function|value
 DECL|function|value
