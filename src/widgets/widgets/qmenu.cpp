@@ -109,4 +109,3 @@ DECL|member|causedMenu
 DECL|member|causedStack
 DECL|member|mouseDown
 DECL|member|sloppyDelayTimer
-DECL|variable|MenuFadeTimeInSec
