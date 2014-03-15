@@ -6,10 +6,12 @@ DECL|function|commit
 DECL|function|commitText
 DECL|function|createConnection
 DECL|function|cursorRectChanged
+DECL|function|deleteSurroundingText
 DECL|function|invokeAction
 DECL|function|isValid
 DECL|function|reset
 DECL|function|setFocusObject
+DECL|function|surroundingTextRequired
 DECL|function|update
 DECL|function|updatePreeditText
 DECL|function|x11FilterEvent
@@ -18,5 +20,6 @@ DECL|function|~QIBusPlatformInputContextPrivate
 DECL|member|bus
 DECL|member|connection
 DECL|member|context
+DECL|member|needsSurroundingText
 DECL|member|predit
 DECL|member|valid
