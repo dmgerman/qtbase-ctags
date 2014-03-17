@@ -22,7 +22,10 @@ DECL|function|isChunked
 DECL|function|isCompressed
 DECL|function|isConnectionCloseEnabled
 DECL|function|isFinished
+DECL|function|isHttpRedirect
 DECL|function|isPipeliningUsed
+DECL|function|isRedirecting
+DECL|function|isRedirecting
 DECL|function|isSpdyUsed
 DECL|function|majorVersion
 DECL|function|minorVersion
@@ -41,6 +44,7 @@ DECL|function|readReplyBodyChunked
 DECL|function|readReplyBodyRaw
 DECL|function|readStatus
 DECL|function|reasonPhrase
+DECL|function|redirectUrl
 DECL|function|removeAutoDecompressHeader
 DECL|function|request
 DECL|function|setContentLength
@@ -48,6 +52,7 @@ DECL|function|setDownstreamLimited
 DECL|function|setErrorString
 DECL|function|setHeaderField
 DECL|function|setReadBufferSize
+DECL|function|setRedirectUrl
 DECL|function|setRequest
 DECL|function|setSpdyWasUsed
 DECL|function|setSslConfiguration

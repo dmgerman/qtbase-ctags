@@ -11,6 +11,7 @@ DECL|function|hasRawHeader
 DECL|function|header
 DECL|function|headerName
 DECL|function|headerValue
+DECL|function|maximumRedirectsAllowed
 DECL|function|name_to_month
 DECL|function|operator =
 DECL|function|operator ==
@@ -29,6 +30,7 @@ DECL|function|setAllRawHeaders
 DECL|function|setAttribute
 DECL|function|setCookedHeader
 DECL|function|setHeader
+DECL|function|setMaximumRedirectsAllowed
 DECL|function|setOriginatingObject
 DECL|function|setPriority
 DECL|function|setRawHeader
@@ -41,6 +43,8 @@ DECL|function|toHttpDate
 DECL|function|url
 DECL|function|~QNetworkRequest
 DECL|function|~QNetworkRequestPrivate
+DECL|member|maxRedirectCount
+DECL|member|maxRedirectsAllowed
 DECL|member|priority
 DECL|member|sslConfiguration
 DECL|member|url

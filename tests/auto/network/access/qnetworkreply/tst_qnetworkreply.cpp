@@ -197,6 +197,10 @@ DECL|function|ioGetFromHttpsWithSslErrors
 DECL|function|ioGetFromHttpsWithSslHandshakeError
 DECL|function|ioGetWithManyProxies
 DECL|function|ioGetWithManyProxies_data
+DECL|function|ioHttpChangeMaxRedirects
+DECL|function|ioHttpRedirectErrors
+DECL|function|ioHttpRedirectErrors_data
+DECL|function|ioHttpSingleRedirect
 DECL|function|ioPostToHttpEmptyUploadProgress
 DECL|function|ioPostToHttpFromFile
 DECL|function|ioPostToHttpFromFile_data
@@ -338,6 +342,7 @@ DECL|function|synchronousAuthenticationCache
 DECL|function|synchronousRequest
 DECL|function|synchronousRequestSslFailure
 DECL|function|synchronousRequest_data
+DECL|function|tempRedirectReplyStr
 DECL|function|threadStartedSlot
 DECL|function|timeoutSlot
 DECL|function|timeoutSlot

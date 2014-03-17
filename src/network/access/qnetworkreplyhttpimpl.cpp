@@ -20,11 +20,13 @@ DECL|function|close
 DECL|function|completeCacheSave
 DECL|function|convert
 DECL|function|createCache
+DECL|function|createRedirectRequest
 DECL|function|createUploadByteDevice
 DECL|function|emitReplyUploadProgress
 DECL|function|error
 DECL|function|fetchCacheMetaData
 DECL|function|finished
+DECL|function|getRedirectOperation
 DECL|function|httpAuthenticationRequired
 DECL|function|httpError
 DECL|function|ignoreSslErrors
@@ -33,10 +35,12 @@ DECL|function|initCacheSaveDevice
 DECL|function|invalidateCache
 DECL|function|isCachingAllowed
 DECL|function|isCachingEnabled
+DECL|function|isHttpRedirectResponse
 DECL|function|isSeparator
 DECL|function|isSequential
 DECL|function|loadFromCacheIfAllowed
 DECL|function|migrateBackend
+DECL|function|onRedirected
 DECL|function|parseHttpOptionHeader
 DECL|function|postRequest
 DECL|function|proxyAuthenticationRequired

@@ -26,6 +26,7 @@ DECL|function|indexOf
 DECL|function|init
 DECL|function|isSsl
 DECL|function|networkLayerDetected
+DECL|function|parseRedirectResponse
 DECL|function|pauseConnection
 DECL|function|port
 DECL|function|preConnectFinished
