@@ -25,6 +25,8 @@ DECL|function|key
 DECL|function|keys
 DECL|function|keys
 DECL|function|noexcept
+DECL|function|noexcept
+DECL|function|noexcept
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator

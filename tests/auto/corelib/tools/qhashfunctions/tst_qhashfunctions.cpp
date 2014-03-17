@@ -1,5 +1,11 @@
 DECL|class|tst_QHashFunctions
 DECL|function|fp_qhash_of_zero_is_zero
+DECL|function|qHash
 DECL|function|qhash
 DECL|function|qthash
 DECL|function|qthash_data
+DECL|function|range
+DECL|function|rangeCommutative
+DECL|member|i
+DECL|namespace|SomeNamespace
+DECL|struct|Hashable
