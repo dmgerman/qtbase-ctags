@@ -6,9 +6,12 @@ DECL|function|doneCurrent
 DECL|function|format
 DECL|function|getGlString
 DECL|function|getProcAddress
+DECL|function|init
+DECL|function|init
 DECL|function|isSharing
 DECL|function|isValid
 DECL|function|makeCurrent
+DECL|function|nativeHandle
 DECL|function|queryDummyContext
 DECL|function|supportsThreading
 DECL|function|swapBuffers

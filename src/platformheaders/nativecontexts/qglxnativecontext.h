@@ -1,0 +1,12 @@
+DECL|function|QGLXNativeContext
+DECL|function|QGLXNativeContext
+DECL|function|context
+DECL|function|display
+DECL|function|visualId
+DECL|function|window
+DECL|macro|QGLXNATIVECONTEXT_H
+DECL|member|m_display
+DECL|member|m_visualId
+DECL|member|m_window
+DECL|member|private
+DECL|struct|QGLXNativeContext

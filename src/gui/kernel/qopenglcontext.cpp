@@ -40,6 +40,7 @@ DECL|function|isValid
 DECL|function|isValid
 DECL|function|makeCurrent
 DECL|function|maxTextureSize
+DECL|function|nativeHandle
 DECL|function|openGLModuleHandle
 DECL|function|openGLModuleType
 DECL|function|operator =
@@ -52,6 +53,7 @@ DECL|function|screen
 DECL|function|setCurrentContext
 DECL|function|setFormat
 DECL|function|setGlobalShareContext
+DECL|function|setNativeHandle
 DECL|function|setProfile
 DECL|function|setQGLContextHandle
 DECL|function|setScreen

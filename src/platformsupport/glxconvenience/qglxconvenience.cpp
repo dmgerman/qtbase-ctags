@@ -11,6 +11,7 @@ DECL|function|qglx_findConfig
 DECL|function|qglx_findVisualInfo
 DECL|function|qglx_reduceSurfaceFormat
 DECL|function|qglx_surfaceFormatFromGLXFBConfig
+DECL|function|qglx_surfaceFormatFromVisualInfo
 DECL|macro|CursorShape
 DECL|macro|FocusIn
 DECL|macro|FocusOut
