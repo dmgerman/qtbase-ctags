@@ -152,6 +152,7 @@ DECL|function|isValid
 DECL|function|isValid
 DECL|function|key
 DECL|function|key
+DECL|function|msgImperialPageSizeInch
 DECL|function|name
 DECL|function|name
 DECL|function|operator <<
