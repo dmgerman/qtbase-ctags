@@ -23,3 +23,4 @@ DECL|function|printableMargins
 DECL|function|qwcsnlen
 DECL|function|state
 DECL|function|~QWindowsPrintDevice
+DECL|macro|DC_COLLATE
