@@ -7,6 +7,7 @@ DECL|function|QPrinterInfoPrivate
 DECL|function|availablePrinterNames
 DECL|function|availablePrinters
 DECL|function|cleanup
+DECL|function|defaultDuplexMode
 DECL|function|defaultPageSize
 DECL|function|defaultPrinter
 DECL|function|defaultPrinterName
@@ -22,6 +23,7 @@ DECL|function|operator =
 DECL|function|printerInfo
 DECL|function|printerName
 DECL|function|state
+DECL|function|supportedDuplexModes
 DECL|function|supportedPageSizes
 DECL|function|supportedPaperSizes
 DECL|function|supportedResolutions
