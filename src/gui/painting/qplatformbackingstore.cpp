@@ -9,6 +9,8 @@ DECL|function|beginPaint
 DECL|function|clear
 DECL|function|composeAndFlush
 DECL|function|count
+DECL|function|deviceRect
+DECL|function|deviceRegion
 DECL|function|endPaint
 DECL|function|geometry
 DECL|function|isLocked
