@@ -19,6 +19,8 @@ DECL|function|removeCallbackForHandle
 DECL|function|round_to_nearest_multiple_of_4
 DECL|function|setting
 DECL|function|updateValue
+DECL|macro|ADJUST_BO
+DECL|macro|VALIDATE_LENGTH
 DECL|member|callback_links
 DECL|member|func
 DECL|member|handle
