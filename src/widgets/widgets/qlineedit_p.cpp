@@ -25,5 +25,6 @@ DECL|function|setClearButtonEnabled
 DECL|function|setCursorVisible
 DECL|function|setOpacity
 DECL|function|startOpacityAnimation
+DECL|function|updateCursor
 DECL|function|updatePasswordEchoEditing
 DECL|function|xToPos
