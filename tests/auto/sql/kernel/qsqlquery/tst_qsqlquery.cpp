@@ -18,6 +18,8 @@ DECL|function|QTBUG_2192
 DECL|function|QTBUG_2192_data
 DECL|function|QTBUG_23895
 DECL|function|QTBUG_23895_data
+DECL|function|QTBUG_36211
+DECL|function|QTBUG_36211_data
 DECL|function|QTBUG_5251
 DECL|function|QTBUG_5251_data
 DECL|function|QTBUG_551
