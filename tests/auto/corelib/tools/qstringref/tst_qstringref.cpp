@@ -4,6 +4,8 @@ DECL|enumerator|ByteOrder
 DECL|enumerator|LittleEndian
 DECL|function|cleanup
 DECL|function|compare
+DECL|function|compare2
+DECL|function|compare2_data
 DECL|function|compare_data
 DECL|function|contains
 DECL|function|count
