@@ -37,6 +37,7 @@ DECL|function|insertTarget
 DECL|function|refForAtom
 DECL|function|relatesTypes
 DECL|function|resolveCppToQmlLinks
+DECL|function|resolveFunctionTarget
 DECL|function|resolveInheritance
 DECL|function|resolveInheritanceHelper
 DECL|function|resolveProperties

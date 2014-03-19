@@ -45,13 +45,14 @@ DECL|function|qdocDB
 DECL|function|readIndexes
 DECL|function|resolveIssues
 DECL|function|resolveQmlInheritance
-DECL|function|resolveTargetHelper
+DECL|function|resolveTarget
 DECL|function|resolveType
 DECL|function|resolveTypeHelper
 DECL|function|searchOrder
 DECL|function|setSearchOrder
 DECL|function|~QDocDatabase
 DECL|function|~QDocForest
+DECL|member|debug
 DECL|member|qdocDB_
 DECL|member|typeNodeMap_
 DECL|variable|emptyNodeMap_
