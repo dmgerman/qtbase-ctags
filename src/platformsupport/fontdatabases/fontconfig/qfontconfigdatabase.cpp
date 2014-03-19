@@ -3,6 +3,7 @@ DECL|function|defaultFont
 DECL|function|defaultHintStyleFromMatch
 DECL|function|fallbacksForFamily
 DECL|function|fontEngine
+DECL|function|fontEngine
 DECL|function|fontEngineMulti
 DECL|function|getFcFamilyForStyleHint
 DECL|function|populateFontDatabase
