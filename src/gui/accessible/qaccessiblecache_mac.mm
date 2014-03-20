@@ -1,9 +1,9 @@
 /****************************************************************************
 **
-** Copyright (C) 2013 Digia Plc and/or its subsidiary(-ies).
+** Copyright (C) 2014 Digia Plc and/or its subsidiary(-ies).
 ** Contact: http://www.qt-project.org/legal
 **
-** This file is part of the plugins of the Qt Toolkit.
+** This file is part of the QtGui module of the Qt Toolkit.
 **
 ** $QT_BEGIN_LICENSE:LGPL$
 ** Commercial License Usage
@@ -39,52 +39,29 @@
 **
 ****************************************************************************/
 
-#include <Carbon/Carbon.h>
+#include "qaccessiblecache_p.h"
 
-#include "qnsview.h"
-#include "qcocoahelpers.h"
-#include "qcocoaaccessibility.h"
-#include "qcocoaaccessibilityelement.h"
-#include "qcocoaintegration.h"
+#ifdef Q_OS_OSX
 
-#include <QtGui/qaccessible.h>
-#include <QtCore/QDebug>
+QT_BEGIN_NAMESPACE
 
-#import <AppKit/NSAccessibility.h>
-
-@implementation QNSView (QNSViewAccessibility)
-
-- (id)childAccessibleElement {
-    if (!m_window->accessibleRoot())
-        return nil;
-
-    QAccessible::Id childId = QAccessible::uniqueId(m_window->accessibleRoot());
-    return [QCocoaAccessibleElement elementWithId: childId];
+void QAccessibleCache::insertElement(QAccessible::Id axid, QCocoaAccessibleElement *element) const
+{
+    cocoaElements[axid] = element;
 }
 
-// The QNSView is a container that the user does not interact directly with:
-// Remove it from the user-visible accessibility tree.
-- (BOOL)accessibilityIsIgnored {
-    return YES;
+void QAccessibleCache::removeCocoaElement(QAccessible::Id axid)
+{
+    QCocoaAccessibleElement *element = elementForId(axid);
+    [element invalidate];
+    cocoaElements.remove(axid);
 }
 
-- (id)accessibilityAttributeValue:(NSString *)attribute {
-    // activate accessibility updates
-    QCocoaIntegration::instance()->accessibility()->setActive(true);
-
-    if ([attribute isEqualToString:NSAccessibilityChildrenAttribute]) {
-        return NSAccessibilityUnignoredChildrenForOnlyChild([self childAccessibleElement]);
-    } else {
-        return [super accessibilityAttributeValue:attribute];
-    }
+QCocoaAccessibleElement *QAccessibleCache::elementForId(QAccessible::Id axid) const
+{
+    return cocoaElements.value(axid);
 }
 
-- (id)accessibilityHitTest:(NSPoint)point {
-    return [[self childAccessibleElement] accessibilityHitTest: point];
-}
+QT_END_NAMESPACE
 
-- (id)accessibilityFocusedUIElement {
-    return [[self childAccessibleElement] accessibilityFocusedUIElement];
-}
-
-@end
+#endif
