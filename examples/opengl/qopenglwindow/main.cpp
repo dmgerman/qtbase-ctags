@@ -1,0 +1,13 @@
+DECL|class|OpenGLWindow
+DECL|function|OpenGLWindow
+DECL|function|main
+DECL|function|painterPathForTriangle
+DECL|member|m_brush
+DECL|member|m_fragment_toy
+DECL|member|m_model_text
+DECL|member|m_model_triangle
+DECL|member|m_projection
+DECL|member|m_text_layout
+DECL|member|m_view
+DECL|member|m_window_normalised_matrix
+DECL|member|m_window_painter_matrix

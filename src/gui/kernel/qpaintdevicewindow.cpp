@@ -1,0 +1,9 @@
+DECL|function|QPaintDeviceWindow
+DECL|function|event
+DECL|function|exposeEvent
+DECL|function|metric
+DECL|function|paintEngine
+DECL|function|paintEvent
+DECL|function|update
+DECL|function|update
+DECL|function|update

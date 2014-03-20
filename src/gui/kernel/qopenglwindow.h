@@ -1,0 +1,2 @@
+DECL|macro|QOPENGLWINDOW_H
+DECL|variable|QOpenGLWindowPrivate

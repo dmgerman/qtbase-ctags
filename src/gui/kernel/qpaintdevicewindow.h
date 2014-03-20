@@ -1,0 +1,4 @@
+DECL|macro|QPAINTDEVICEWINDOW_H
+DECL|variable|QPaintDeviceWindowPrivate
+DECL|variable|QPaintEvent
+DECL|variable|QWindow
