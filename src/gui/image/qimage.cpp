@@ -127,4 +127,6 @@ DECL|macro|QIMAGE_SANITYCHECK_MEMORY
 DECL|macro|close
 DECL|macro|read
 DECL|macro|write
+DECL|member|NImageFormats
+DECL|variable|pixelformats
 DECL|variable|qimage_serial_number

@@ -10,6 +10,9 @@ DECL|function|convertToFormatPreserveDotsPrMeter
 DECL|function|convertToFormatPreserveText
 DECL|function|convertToFormatRgb888ToRGB32
 DECL|function|convertToFormat_data
+DECL|function|convertToImageFormat
+DECL|function|convertToImageFormat_data
+DECL|function|convertToPixelFormat
 DECL|function|copy
 DECL|function|count
 DECL|function|create

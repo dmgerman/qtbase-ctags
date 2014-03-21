@@ -1,0 +1,10 @@
+DECL|class|tst_QPixelFormat
+DECL|function|testCMYK
+DECL|function|testEnums
+DECL|function|testHSLandHSV
+DECL|function|testOperators
+DECL|function|testQVectorOfFormats
+DECL|function|testRGB
+DECL|function|testYUV
+DECL|function|testYUV_data
+DECL|variable|tst_QPixelFormat
