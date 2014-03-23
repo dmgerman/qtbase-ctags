@@ -1,6 +1,4 @@
-DECL|class|PageSizeControl
 DECL|class|PrintPreviewDialog
-DECL|function|PageSizeControl
 DECL|function|PrintDialogPanel
 DECL|function|PrintPreviewDialog
 DECL|function|applySettings
@@ -22,10 +20,8 @@ DECL|function|showPreviewDialog
 DECL|function|showPrintDialog
 DECL|function|slotPaintRequested
 DECL|function|~PrintDialogPanel
-DECL|member|m_height
-DECL|member|m_width
-DECL|variable|modeComboData
 DECL|variable|orientationComboData
 DECL|variable|pageSizeComboData
 DECL|variable|printDialogOptions
 DECL|variable|printRangeOptions
+DECL|variable|printerModeComboData
