@@ -23,6 +23,9 @@ DECL|macro|COMPILER_STRING
 DECL|macro|COMPILER_STRING
 DECL|macro|COMPILER_STRING
 DECL|macro|COMPILER_STRING
+DECL|macro|DEBUG_STRING
+DECL|macro|DEBUG_STRING
+DECL|macro|QT_BUILD_STR
 DECL|member|haveEffectivePaths
 DECL|member|haveEffectiveSourcePaths
 DECL|member|havePaths
