@@ -22,6 +22,7 @@ DECL|macro|COMPILER_STRING
 DECL|macro|COMPILER_STRING
 DECL|macro|COMPILER_STRING
 DECL|macro|COMPILER_STRING
+DECL|macro|COMPILER_STRING
 DECL|member|haveEffectivePaths
 DECL|member|haveEffectiveSourcePaths
 DECL|member|havePaths
