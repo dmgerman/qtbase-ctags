@@ -1,4 +1,5 @@
 DECL|function|cupsOptionsList
+DECL|function|jobHoldToString
 DECL|function|setBannerPages
 DECL|function|setCupsOption
 DECL|function|setCupsOptions
