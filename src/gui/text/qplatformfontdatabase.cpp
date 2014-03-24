@@ -28,9 +28,11 @@ DECL|function|fontEngineMulti
 DECL|function|fontsAlwaysScalable
 DECL|function|invalidate
 DECL|function|operator =
+DECL|function|populateFamily
 DECL|function|populateFontDatabase
 DECL|function|registerAliasToFontFamily
 DECL|function|registerFont
+DECL|function|registerFontFamily
 DECL|function|registerQPF2Font
 DECL|function|releaseHandle
 DECL|function|resolveFontFamilyAlias

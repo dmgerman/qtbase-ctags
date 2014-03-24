@@ -1,12 +1,11 @@
 DECL|function|QCupsPrintEngine
 DECL|function|QCupsPrintEnginePrivate
+DECL|function|changePrinter
 DECL|function|closePrintDevice
 DECL|function|openPrintDevice
 DECL|function|property
-DECL|function|setCupsDefaults
-DECL|function|setPaperName
-DECL|function|setPaperSize
+DECL|function|setPageSize
 DECL|function|setProperty
-DECL|function|updatePaperSize
+DECL|function|setupDefaultPrinter
 DECL|function|~QCupsPrintEngine
 DECL|function|~QCupsPrintEnginePrivate

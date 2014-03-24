@@ -4,6 +4,7 @@ DECL|function|addProfiles
 DECL|function|addRenderWindow
 DECL|function|addRenderableTypes
 DECL|function|addVersions
+DECL|function|printFormat
 DECL|function|renderWindowError
 DECL|function|renderWindowReady
 DECL|function|start

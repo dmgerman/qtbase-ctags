@@ -36,6 +36,8 @@ DECL|function|output_file_open
 DECL|function|output_hex_blob
 DECL|function|output_html_string
 DECL|function|output_quoted_string
+DECL|function|printBold
+DECL|function|printBold
 DECL|function|process_input
 DECL|function|process_sqliterc
 DECL|function|resolve_backslashes
@@ -54,6 +56,9 @@ DECL|function|test_breakpoint
 DECL|function|timeDiff
 DECL|function|timeDiff
 DECL|function|timeOfDay
+DECL|function|tryToClone
+DECL|function|tryToCloneData
+DECL|function|tryToCloneSchema
 DECL|function|usage
 DECL|macro|ArraySize
 DECL|macro|BEGIN_TIMER
@@ -65,6 +70,8 @@ DECL|macro|END_TIMER
 DECL|macro|HAS_TIMER
 DECL|macro|HAS_TIMER
 DECL|macro|HAS_TIMER
+DECL|macro|HAVE_READLINE
+DECL|macro|HAVE_READLINE
 DECL|macro|IsDigit
 DECL|macro|IsSpace
 DECL|macro|MODE_Column
@@ -95,6 +102,7 @@ DECL|macro|stifle_history
 DECL|macro|write_history
 DECL|member|actualWidth
 DECL|member|aiIndent
+DECL|member|autoEQP
 DECL|member|cSeparator
 DECL|member|cTerm
 DECL|member|cnt

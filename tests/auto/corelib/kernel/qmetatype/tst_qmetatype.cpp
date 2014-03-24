@@ -170,6 +170,7 @@ DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
+DECL|macro|ADD_TESTSPACE
 DECL|macro|CHECK_BUILTIN
 DECL|macro|CHECK_BUILTIN
 DECL|macro|CREATE_AND_VERIFY_CONTAINER
@@ -252,6 +253,7 @@ DECL|struct|MessageHandlerCustom
 DECL|struct|MetaEnumToType
 DECL|struct|MetaTypeIdStruct
 DECL|struct|MetaTypeIdStructDefaultTemplateValue
+DECL|struct|QungTfu
 DECL|struct|RegisterMetaTypeStruct
 DECL|struct|RegisterMetaTypeStructDefaultTemplateValue
 DECL|struct|SecondBase

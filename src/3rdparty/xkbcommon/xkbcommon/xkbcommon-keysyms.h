@@ -1244,6 +1244,7 @@ DECL|macro|XKB_KEY_XF86AudioCycleTrack
 DECL|macro|XKB_KEY_XF86AudioForward
 DECL|macro|XKB_KEY_XF86AudioLowerVolume
 DECL|macro|XKB_KEY_XF86AudioMedia
+DECL|macro|XKB_KEY_XF86AudioMicMute
 DECL|macro|XKB_KEY_XF86AudioMute
 DECL|macro|XKB_KEY_XF86AudioNext
 DECL|macro|XKB_KEY_XF86AudioPause
@@ -1792,6 +1793,7 @@ DECL|macro|XKB_KEY_dead_abovecomma
 DECL|macro|XKB_KEY_dead_abovedot
 DECL|macro|XKB_KEY_dead_abovereversedcomma
 DECL|macro|XKB_KEY_dead_abovering
+DECL|macro|XKB_KEY_dead_aboveverticalline
 DECL|macro|XKB_KEY_dead_acute
 DECL|macro|XKB_KEY_dead_belowbreve
 DECL|macro|XKB_KEY_dead_belowcircumflex
@@ -1801,6 +1803,7 @@ DECL|macro|XKB_KEY_dead_belowdot
 DECL|macro|XKB_KEY_dead_belowmacron
 DECL|macro|XKB_KEY_dead_belowring
 DECL|macro|XKB_KEY_dead_belowtilde
+DECL|macro|XKB_KEY_dead_belowverticalline
 DECL|macro|XKB_KEY_dead_breve
 DECL|macro|XKB_KEY_dead_capital_schwa
 DECL|macro|XKB_KEY_dead_caron
@@ -1819,6 +1822,8 @@ DECL|macro|XKB_KEY_dead_horn
 DECL|macro|XKB_KEY_dead_i
 DECL|macro|XKB_KEY_dead_invertedbreve
 DECL|macro|XKB_KEY_dead_iota
+DECL|macro|XKB_KEY_dead_longsolidusoverlay
+DECL|macro|XKB_KEY_dead_lowline
 DECL|macro|XKB_KEY_dead_macron
 DECL|macro|XKB_KEY_dead_o
 DECL|macro|XKB_KEY_dead_ogonek

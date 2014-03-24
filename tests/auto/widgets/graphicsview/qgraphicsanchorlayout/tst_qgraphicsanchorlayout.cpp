@@ -21,6 +21,7 @@ DECL|function|invalidHierarchyCheck
 DECL|function|layoutDirection
 DECL|function|layoutHasConflict
 DECL|function|layoutSpacing
+DECL|function|msgStability
 DECL|function|paint
 DECL|function|parallel
 DECL|function|parallel2

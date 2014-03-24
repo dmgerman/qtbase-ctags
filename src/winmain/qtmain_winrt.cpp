@@ -9,6 +9,7 @@ DECL|function|Run
 DECL|function|SetWindow
 DECL|function|Uninitialize
 DECL|function|WinMain
+DECL|function|devMessageHandler
 DECL|function|onActivated
 DECL|function|~AppContainer
 DECL|macro|CoreApplicationClass
@@ -21,4 +22,5 @@ DECL|member|m_argv
 DECL|member|newmode
 DECL|typedef|ActivatedHandler
 DECL|typedef|_startupinfo
+DECL|variable|defaultMessageHandler
 DECL|variable|g_mainExitCode

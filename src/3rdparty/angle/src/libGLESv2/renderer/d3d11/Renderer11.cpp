@@ -32,6 +32,8 @@ DECL|function|drawArrays
 DECL|function|drawElements
 DECL|function|drawLineLoop
 DECL|function|drawTriangleFan
+DECL|function|fillLineLoopIndices
+DECL|function|fillTriangleFanIndices
 DECL|function|generateConfigs
 DECL|function|generateMipmap
 DECL|function|get32BitIndexSupport

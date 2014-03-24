@@ -16,6 +16,7 @@ DECL|member|m_frame
 DECL|member|m_matrixUniform
 DECL|member|m_posAttr
 DECL|member|m_program
+DECL|member|q
 DECL|member|w
 DECL|variable|fragmentShaderSource
 DECL|variable|vertexShaderSource

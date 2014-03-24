@@ -13,7 +13,6 @@ DECL|enumerator|ACTION_TYPE_CTRL_SET
 DECL|enumerator|ACTION_TYPE_GROUP_LATCH
 DECL|enumerator|ACTION_TYPE_GROUP_LOCK
 DECL|enumerator|ACTION_TYPE_GROUP_SET
-DECL|enumerator|ACTION_TYPE_KEY_REDIRECT
 DECL|enumerator|ACTION_TYPE_MOD_LATCH
 DECL|enumerator|ACTION_TYPE_MOD_LOCK
 DECL|enumerator|ACTION_TYPE_MOD_SET
@@ -101,7 +100,6 @@ DECL|member|flags
 DECL|member|flags
 DECL|member|flags
 DECL|member|flags
-DECL|member|flags
 DECL|member|format
 DECL|member|group
 DECL|member|group
@@ -115,7 +113,6 @@ DECL|member|key_aliases
 DECL|member|keycode
 DECL|member|keycodes_section_name
 DECL|member|keymap_get_as_string
-DECL|member|keymap_new_from_buffer
 DECL|member|keymap_new_from_file
 DECL|member|keymap_new_from_names
 DECL|member|keymap_new_from_string
@@ -139,19 +136,17 @@ DECL|member|mods
 DECL|member|mods
 DECL|member|mods
 DECL|member|mods
-DECL|member|mods
-DECL|member|mods_mask
 DECL|member|name
 DECL|member|name
 DECL|member|name
 DECL|member|name
-DECL|member|new_kc
 DECL|member|num_entries
 DECL|member|num_group_names
 DECL|member|num_groups
 DECL|member|num_groups
 DECL|member|num_key_aliases
 DECL|member|num_levels
+DECL|member|num_sym_interprets
 DECL|member|num_syms
 DECL|member|num_types
 DECL|member|out_of_range_group_action
@@ -160,7 +155,6 @@ DECL|member|preserve
 DECL|member|priv
 DECL|member|ptr
 DECL|member|real
-DECL|member|redirect
 DECL|member|refcnt
 DECL|member|repeat
 DECL|member|repeat_delay
@@ -185,15 +179,12 @@ DECL|member|type
 DECL|member|type
 DECL|member|type
 DECL|member|type
-DECL|member|type
 DECL|member|types
 DECL|member|types_section_name
 DECL|member|u
 DECL|member|value
 DECL|member|virtual_mod
 DECL|member|vmodmap
-DECL|member|vmods
-DECL|member|vmods_mask
 DECL|member|which_groups
 DECL|member|which_mods
 DECL|member|x
@@ -217,7 +208,6 @@ DECL|struct|xkb_pointer_action
 DECL|struct|xkb_pointer_button_action
 DECL|struct|xkb_pointer_default_action
 DECL|struct|xkb_private_action
-DECL|struct|xkb_redirect_key_action
 DECL|struct|xkb_switch_screen_action
 DECL|struct|xkb_sym_interpret
 DECL|union|xkb_action

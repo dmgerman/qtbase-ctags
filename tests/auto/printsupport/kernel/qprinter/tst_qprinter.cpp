@@ -21,7 +21,6 @@ DECL|function|fontEmbedding
 DECL|function|fromToPage
 DECL|function|fullPage
 DECL|function|initTestCase
-DECL|function|msgSizeMismatch
 DECL|function|orientation
 DECL|function|outputFileName
 DECL|function|outputFormat
@@ -37,7 +36,6 @@ DECL|function|printRange
 DECL|function|printerName
 DECL|function|printerSelectionOption
 DECL|function|resolution
-DECL|function|setGetPaperSize
 DECL|function|slotPaintRequested
 DECL|function|supportedPaperSources
 DECL|function|supportedResolutions
@@ -49,7 +47,6 @@ DECL|function|testMargins_data
 DECL|function|testMulitpleSets
 DECL|function|testMulitpleSets_data
 DECL|function|testMultipleKeys
-DECL|function|testNonExistentPrinter
 DECL|function|testPageMargins
 DECL|function|testPageMargins_data
 DECL|function|testPageMetrics

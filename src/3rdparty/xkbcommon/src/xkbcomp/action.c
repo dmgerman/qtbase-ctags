@@ -42,7 +42,6 @@ DECL|function|NewActionsInfo
 DECL|function|ReportActionNotArray
 DECL|function|ReportIllegal
 DECL|function|ReportMismatch
-DECL|function|ReportNotFound
 DECL|function|SetActionField
 DECL|function|fieldText
 DECL|function|stringToAction

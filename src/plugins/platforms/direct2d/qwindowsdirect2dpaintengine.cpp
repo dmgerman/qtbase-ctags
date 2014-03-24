@@ -5,6 +5,8 @@ DECL|enumerator|D2DDebugDrawPixmapTag
 DECL|enumerator|D2DDebugDrawStaticTextItemTag
 DECL|enumerator|D2DDebugDrawTextItemTag
 DECL|enumerator|D2DDebugFillTag
+DECL|enumerator|SimpleSystemClip
+DECL|enumerator|UserClip
 DECL|function|QWindowsDirect2DPaintEngine
 DECL|function|QWindowsDirect2DPaintEnginePrivate
 DECL|function|antialiasMode
@@ -59,8 +61,8 @@ DECL|member|bitmap
 DECL|member|brush
 DECL|member|brush
 DECL|member|brush
+DECL|member|clipFlags
 DECL|member|clipPath
-DECL|member|clipPushed
 DECL|member|currentBrushOrigin
 DECL|member|emulate
 DECL|member|emulate

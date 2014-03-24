@@ -42,6 +42,7 @@ DECL|macro|__NR_inotify_add_watch
 DECL|macro|__NR_inotify_add_watch
 DECL|macro|__NR_inotify_add_watch
 DECL|macro|__NR_inotify_add_watch
+DECL|macro|__NR_inotify_add_watch
 DECL|macro|__NR_inotify_init
 DECL|macro|__NR_inotify_init
 DECL|macro|__NR_inotify_init
@@ -68,6 +69,8 @@ DECL|macro|__NR_inotify_init1
 DECL|macro|__NR_inotify_init1
 DECL|macro|__NR_inotify_init1
 DECL|macro|__NR_inotify_init1
+DECL|macro|__NR_inotify_init1
+DECL|macro|__NR_inotify_rm_watch
 DECL|macro|__NR_inotify_rm_watch
 DECL|macro|__NR_inotify_rm_watch
 DECL|macro|__NR_inotify_rm_watch

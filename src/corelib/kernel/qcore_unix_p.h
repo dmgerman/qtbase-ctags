@@ -19,4 +19,5 @@ DECL|member|array
 DECL|member|buf
 DECL|member|val
 DECL|union|qt_semun
+DECL|variable|QSocketNotifier
 DECL|variable|operator
