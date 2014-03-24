@@ -1,3 +1,4 @@
+DECL|function|bannerPageToString
 DECL|function|cupsOptionsList
 DECL|function|jobHoldToString
 DECL|function|setBannerPages
