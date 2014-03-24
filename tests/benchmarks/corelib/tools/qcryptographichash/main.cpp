@@ -1,0 +1,13 @@
+DECL|class|tst_bench_QCryptographicHash
+DECL|function|addData
+DECL|function|addDataChunked
+DECL|function|addDataChunked_data
+DECL|function|addData_data
+DECL|function|algoname
+DECL|function|hash
+DECL|function|hash_data
+DECL|function|time
+DECL|function|tst_bench_QCryptographicHash
+DECL|member|blockOfData
+DECL|variable|MaxBlockSize
+DECL|variable|MaxCryptoAlgorithm
