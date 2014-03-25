@@ -2,6 +2,14 @@ DECL|class|tst_QMath
 DECL|function|degreesToRadians
 DECL|function|degreesToRadians_data
 DECL|function|fastSinCos
+DECL|function|qNextPowerOfTwo32S
+DECL|function|qNextPowerOfTwo32S_data
+DECL|function|qNextPowerOfTwo32U
+DECL|function|qNextPowerOfTwo32U_data
+DECL|function|qNextPowerOfTwo64S
+DECL|function|qNextPowerOfTwo64S_data
+DECL|function|qNextPowerOfTwo64U
+DECL|function|qNextPowerOfTwo64U_data
 DECL|function|radiansToDegrees
 DECL|function|radiansToDegrees_data
 DECL|variable|PI

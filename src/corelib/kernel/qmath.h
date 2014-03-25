@@ -12,6 +12,12 @@ DECL|function|qFastCos
 DECL|function|qFastSin
 DECL|function|qFloor
 DECL|function|qLn
+DECL|function|qNextPowerOfTwo
+DECL|function|qNextPowerOfTwo
+DECL|function|qNextPowerOfTwo
+DECL|function|qNextPowerOfTwo
+DECL|function|qNextPowerOfTwo
+DECL|function|qNextPowerOfTwo
 DECL|function|qPow
 DECL|function|qRadiansToDegrees
 DECL|function|qRadiansToDegrees
