@@ -1,4 +1,5 @@
 DECL|class|tst_QStringList
+DECL|function|assignmentOperator
 DECL|function|contains
 DECL|function|filter
 DECL|function|indexOf
