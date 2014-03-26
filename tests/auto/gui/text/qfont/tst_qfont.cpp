@@ -15,7 +15,8 @@ DECL|function|lastResortFont
 DECL|function|msgNotAcceptableFont
 DECL|function|resetFont
 DECL|function|resolve
-DECL|function|serializeSpacing
+DECL|function|serialize
+DECL|function|serialize_data
 DECL|function|setFontRaw
 DECL|function|sharing
 DECL|function|styleName
