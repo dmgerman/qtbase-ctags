@@ -19,6 +19,7 @@ DECL|field|startOffset
 DECL|field|text
 DECL|method|QtInputConnection
 DECL|method|beginBatchEdit
+DECL|method|beginBatchEdit
 DECL|method|commitCompletion
 DECL|method|commitCompletion
 DECL|method|commitText
@@ -28,6 +29,7 @@ DECL|method|copyURL
 DECL|method|cut
 DECL|method|deleteSurroundingText
 DECL|method|deleteSurroundingText
+DECL|method|endBatchEdit
 DECL|method|endBatchEdit
 DECL|method|finishComposingText
 DECL|method|finishComposingText
