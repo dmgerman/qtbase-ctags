@@ -14,5 +14,6 @@ DECL|member|IID_IUnknown
 DECL|member|compile
 DECL|member|m_data
 DECL|member|m_ref
+DECL|namespace|D3D
 DECL|namespace|D3DCompiler
 DECL|typedef|D3DCompileFunc
