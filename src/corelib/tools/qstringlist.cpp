@@ -14,6 +14,8 @@ DECL|function|QStringList_replaceInStrings
 DECL|function|QStringList_replaceInStrings
 DECL|function|QStringList_replaceInStrings
 DECL|function|QStringList_sort
-DECL|function|caseInsensitiveLessThan
 DECL|function|indexOfMutating
 DECL|function|lastIndexOfMutating
+DECL|function|operator ()
+DECL|struct|CaseInsensitiveLessThan
+DECL|typedef|result_type
