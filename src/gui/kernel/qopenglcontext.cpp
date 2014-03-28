@@ -28,6 +28,7 @@ DECL|function|freeResource
 DECL|function|functions
 DECL|function|functionsBackend
 DECL|function|getProcAddress
+DECL|function|globalShareContext
 DECL|function|handle
 DECL|function|hasExtension
 DECL|function|hasProfiles
@@ -50,6 +51,7 @@ DECL|function|resources
 DECL|function|screen
 DECL|function|setCurrentContext
 DECL|function|setFormat
+DECL|function|setGlobalShareContext
 DECL|function|setProfile
 DECL|function|setQGLContextHandle
 DECL|function|setScreen
@@ -78,4 +80,5 @@ DECL|member|makeCurrentTracker
 DECL|member|makeCurrentTrackerMutex
 DECL|member|minorVersion
 DECL|member|profile
+DECL|variable|global_share_context
 DECL|variable|qwindow_context_storage
