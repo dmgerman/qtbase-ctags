@@ -1,3 +1,4 @@
+DECL|function|affect_lock_text
 DECL|function|check_write_buf
 DECL|function|do_realloc
 DECL|function|text_v1_keymap_get_as_string

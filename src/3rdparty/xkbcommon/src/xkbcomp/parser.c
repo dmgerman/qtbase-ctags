@@ -65,8 +65,6 @@ DECL|enum|yytokentype
 DECL|function|YYID
 DECL|function|_xkbcommon_error
 DECL|function|parse
-DECL|function|parser_error
-DECL|function|parser_warn
 DECL|function|resolve_keysym
 DECL|function|yy_reduce_print
 DECL|function|yy_stack_print
@@ -225,9 +223,9 @@ DECL|macro|YY_STACK_PRINT
 DECL|macro|YY_SYMBOL_PRINT
 DECL|macro|YY_SYMBOL_PRINT
 DECL|macro|alloca
-DECL|macro|scanner
-DECL|macro|scanner
-DECL|macro|scanner
+DECL|macro|param_scanner
+DECL|macro|parser_err
+DECL|macro|parser_warn
 DECL|macro|short
 DECL|macro|yychar
 DECL|macro|yyclearin

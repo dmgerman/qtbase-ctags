@@ -37,3 +37,10 @@ DECL|macro|UTILS_H
 DECL|macro|XKB_EXPORT
 DECL|macro|XKB_EXPORT
 DECL|macro|XKB_EXPORT
+DECL|macro|likely
+DECL|macro|likely
+DECL|macro|secure_getenv
+DECL|macro|secure_getenv
+DECL|macro|secure_getenv
+DECL|macro|unlikely
+DECL|macro|unlikely

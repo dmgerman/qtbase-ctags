@@ -10,6 +10,7 @@ DECL|function|xkb_context_get_default_options
 DECL|function|xkb_context_get_default_rules
 DECL|function|xkb_context_get_default_variant
 DECL|function|xkb_context_num_failed_include_paths
+DECL|function|xkb_context_sanitize_rule_names
 DECL|function|xkb_log
 DECL|macro|DEFAULT_XKB_OPTIONS
 DECL|macro|DEFAULT_XKB_VARIANT
