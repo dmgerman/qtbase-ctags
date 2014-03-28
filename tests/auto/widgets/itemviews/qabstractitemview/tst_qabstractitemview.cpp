@@ -68,6 +68,8 @@ DECL|function|task257481_emptyEditor
 DECL|function|testChangeEditorState
 DECL|function|testClickedSignal
 DECL|function|testDelegateDestroyEditor
+DECL|function|testFocusPolicy
+DECL|function|testFocusPolicy_data
 DECL|function|testNoActivateOnDisabledItem
 DECL|function|tst_QAbstractItemView
 DECL|function|tst_closeEditor
