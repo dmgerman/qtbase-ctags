@@ -11,6 +11,8 @@ DECL|function|QTBUG30595_rtl_submenu
 DECL|function|QTBUG7411_submenus_activate
 DECL|function|QTBUG7907_submenus_autoselect
 DECL|function|QTBUG_10735_crashWithDialog
+DECL|function|QTBUG_37933_ampersands
+DECL|function|QTBUG_37933_ampersands_data
 DECL|function|activateAction
 DECL|function|activateLastAction
 DECL|function|activeSubMenuPosition
