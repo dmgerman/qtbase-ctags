@@ -3,6 +3,7 @@ DECL|function|dialogResult
 DECL|function|dialogResult
 DECL|function|exec
 DECL|function|hide
+DECL|function|htmlText
 DECL|function|registerNatives
 DECL|function|show
 DECL|macro|FIND_AND_CHECK_CLASS
