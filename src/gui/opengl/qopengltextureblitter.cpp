@@ -14,6 +14,7 @@ DECL|function|blit
 DECL|function|blit
 DECL|function|create
 DECL|function|destroy
+DECL|function|isCreated
 DECL|function|prepareProgram
 DECL|function|release
 DECL|function|setSwizzleRB
