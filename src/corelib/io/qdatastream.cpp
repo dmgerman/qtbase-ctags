@@ -1,4 +1,3 @@
-DECL|enumerator|DefaultStreamVersion
 DECL|function|QDataStream
 DECL|function|QDataStream
 DECL|function|QDataStream
