@@ -22,7 +22,6 @@ DECL|function|checkFields
 DECL|function|exec
 DECL|function|init
 DECL|function|initResources
-DECL|function|selectPdfPsPrinter
 DECL|function|selectPrinter
 DECL|function|selectPrinter
 DECL|function|setOptionsPane
@@ -47,6 +46,7 @@ DECL|member|collapseButton
 DECL|member|d
 DECL|member|filePrintersAdded
 DECL|member|m_buttons
+DECL|member|m_currentPrintDevice
 DECL|member|m_jobOptions
 DECL|member|options
 DECL|member|optionsPane

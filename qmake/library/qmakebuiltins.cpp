@@ -11,6 +11,7 @@ DECL|enumerator|E_FIND
 DECL|enumerator|E_FIRST
 DECL|enumerator|E_FORMAT_NUMBER
 DECL|enumerator|E_FROMFILE
+DECL|enumerator|E_GETENV
 DECL|enumerator|E_INVALID
 DECL|enumerator|E_JOIN
 DECL|enumerator|E_LAST

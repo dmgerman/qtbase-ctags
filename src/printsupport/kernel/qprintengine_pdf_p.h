@@ -3,7 +3,6 @@ DECL|variable|QDataStream
 DECL|variable|QFile
 DECL|variable|QImage
 DECL|variable|QPdfEngine
-DECL|variable|QPdfPrintEngine
 DECL|variable|QPdfPrintEnginePrivate
 DECL|variable|QPen
 DECL|variable|QPointF

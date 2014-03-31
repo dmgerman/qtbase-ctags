@@ -11,6 +11,7 @@ DECL|function|createWindowData
 DECL|function|drag
 DECL|function|fontDatabase
 DECL|function|hasCapability
+DECL|function|initialize
 DECL|function|inputContext
 DECL|function|instance
 DECL|function|isQMLApplication

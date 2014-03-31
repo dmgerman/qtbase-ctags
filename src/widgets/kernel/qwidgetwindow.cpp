@@ -25,6 +25,7 @@ DECL|function|handleTouchEvent
 DECL|function|handleWheelEvent
 DECL|function|handleWindowStateChangedEvent
 DECL|function|nativeEvent
+DECL|function|repaintWindow
 DECL|function|updateGeometry
 DECL|function|updateNormalGeometry
 DECL|function|updateObjectName

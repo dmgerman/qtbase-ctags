@@ -18,6 +18,7 @@ DECL|function|PushButton1
 DECL|function|PushButton2
 DECL|function|QTBUG11658_cachecrash
 DECL|function|QTBUG15910_crashNullWidget
+DECL|function|QTBUG36933_brokenPseudoClassLookup
 DECL|function|SingleInheritanceDialog
 DECL|function|appStyle
 DECL|function|applicationStyleSheet

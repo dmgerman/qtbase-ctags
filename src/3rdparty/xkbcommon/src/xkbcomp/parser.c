@@ -65,6 +65,9 @@ DECL|enum|yytokentype
 DECL|function|YYID
 DECL|function|_xkbcommon_error
 DECL|function|parse
+DECL|function|parser_error
+DECL|function|parser_warn
+DECL|function|resolve_keysym
 DECL|function|yy_reduce_print
 DECL|function|yy_stack_print
 DECL|function|yy_symbol_print
@@ -171,8 +174,6 @@ DECL|macro|YYLEX
 DECL|macro|YYLEX
 DECL|macro|YYLLOC_DEFAULT
 DECL|macro|YYLSP_NEEDED
-DECL|macro|YYLTYPE_IS_DECLARED
-DECL|macro|YYLTYPE_IS_TRIVIAL
 DECL|macro|YYMALLOC
 DECL|macro|YYMAXDEPTH
 DECL|macro|YYMAXUTOK
@@ -217,7 +218,6 @@ DECL|macro|YYUSE
 DECL|macro|YY_
 DECL|macro|YY_
 DECL|macro|YY_LOCATION_PRINT
-DECL|macro|YY_LOCATION_PRINT
 DECL|macro|YY_REDUCE_PRINT
 DECL|macro|YY_REDUCE_PRINT
 DECL|macro|YY_STACK_PRINT
@@ -227,6 +227,7 @@ DECL|macro|YY_SYMBOL_PRINT
 DECL|macro|alloca
 DECL|macro|scanner
 DECL|macro|scanner
+DECL|macro|scanner
 DECL|macro|short
 DECL|macro|yychar
 DECL|macro|yyclearin
@@ -234,8 +235,6 @@ DECL|macro|yydebug
 DECL|macro|yyerrok
 DECL|macro|yyerror
 DECL|macro|yylex
-DECL|macro|yylloc
-DECL|macro|yyltype
 DECL|macro|yylval
 DECL|macro|yynerrs
 DECL|macro|yypact_value_is_default
@@ -249,8 +248,6 @@ DECL|member|ctx
 DECL|member|expr
 DECL|member|file
 DECL|member|file_type
-DECL|member|first_column
-DECL|member|first_line
 DECL|member|geom
 DECL|member|groupCompat
 DECL|member|interp
@@ -258,8 +255,7 @@ DECL|member|ival
 DECL|member|keyAlias
 DECL|member|keyCode
 DECL|member|keyType
-DECL|member|last_column
-DECL|member|last_line
+DECL|member|keysym
 DECL|member|ledMap
 DECL|member|ledName
 DECL|member|mapFlags
@@ -272,15 +268,11 @@ DECL|member|scanner
 DECL|member|str
 DECL|member|sval
 DECL|member|syms
-DECL|member|uval
 DECL|member|var
 DECL|member|vmod
-DECL|member|yyls_alloc
 DECL|member|yyss_alloc
 DECL|member|yyvs_alloc
-DECL|struct|YYLTYPE
 DECL|struct|parser_param
-DECL|typedef|YYLTYPE
 DECL|typedef|YYSTYPE
 DECL|typedef|yytype_int16
 DECL|typedef|yytype_int16

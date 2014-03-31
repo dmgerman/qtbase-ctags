@@ -1,0 +1,5 @@
+DECL|function|adopt_atom
+DECL|function|adopt_atoms
+DECL|function|get_atom_name
+DECL|function|xkb_x11_get_core_keyboard_device_id
+DECL|function|xkb_x11_setup_xkb_extension

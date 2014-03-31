@@ -46,6 +46,7 @@ DECL|function|setBrush
 DECL|function|setCoords
 DECL|function|setScissor
 DECL|function|setState
+DECL|function|setTranslateZ
 DECL|function|shouldDrawCachedGlyphs
 DECL|function|stroke
 DECL|function|stroke

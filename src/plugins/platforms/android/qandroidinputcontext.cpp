@@ -33,6 +33,8 @@ DECL|function|isInputPanelVisible
 DECL|function|keyboardRect
 DECL|function|paste
 DECL|function|paste
+DECL|function|queryFocusObjectThreadSafe
+DECL|function|queryFocusObjectUnsafe
 DECL|function|reset
 DECL|function|selectAll
 DECL|function|selectAll
@@ -47,6 +49,7 @@ DECL|function|setSelection
 DECL|function|setSelection
 DECL|function|showInputPanel
 DECL|function|update
+DECL|function|updateCursorPosition
 DECL|function|updateCursorPosition
 DECL|function|~QAndroidInputContext
 DECL|variable|QtExtractedTextClassName

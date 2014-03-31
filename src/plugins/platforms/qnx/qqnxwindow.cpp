@@ -25,6 +25,7 @@ DECL|function|setRotation
 DECL|function|setScreen
 DECL|function|setVisible
 DECL|function|setWindowState
+DECL|function|shouldMakeFullScreen
 DECL|function|updateVisibility
 DECL|function|updateZorder
 DECL|function|updateZorder

@@ -72,6 +72,7 @@ DECL|function|hitTest
 DECL|function|init
 DECL|function|inputMethodEvent
 DECL|function|inputMethodQuery
+DECL|function|inputMethodQuery
 DECL|function|insertFromMimeData
 DECL|function|insertFromMimeData
 DECL|function|insertPlainText

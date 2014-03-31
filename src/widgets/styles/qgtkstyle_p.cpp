@@ -6,7 +6,6 @@ DECL|function|applyCustomPaletteHash
 DECL|function|classPath
 DECL|function|cleanupGtkWidgets
 DECL|function|eventFilter
-DECL|function|extract_filter
 DECL|function|getFilesystemIcon
 DECL|function|getGConfBool
 DECL|function|getGConfString
@@ -25,16 +24,11 @@ DECL|function|initGtkMenu
 DECL|function|initGtkTreeview
 DECL|function|initGtkWidgets
 DECL|function|isKDE4Session
-DECL|function|openDirectory
-DECL|function|openFilename
-DECL|function|openFilenames
 DECL|function|operator ==
 DECL|function|qHash
 DECL|function|removeWidgetFromMap
 DECL|function|resolveGConf
 DECL|function|resolveGtk
-DECL|function|saveFilename
-DECL|function|setupGtkFileChooser
 DECL|function|setupGtkWidget
 DECL|function|updateTheme
 DECL|function|update_toolbar_style
@@ -74,21 +68,8 @@ DECL|member|gtk_combo_box_new
 DECL|member|gtk_container_add
 DECL|member|gtk_container_forall
 DECL|member|gtk_container_get_type
-DECL|member|gtk_dialog_run
 DECL|member|gtk_entry_new
 DECL|member|gtk_expander_new
-DECL|member|gtk_file_chooser_add_filter
-DECL|member|gtk_file_chooser_dialog_new
-DECL|member|gtk_file_chooser_get_filename
-DECL|member|gtk_file_chooser_get_filenames
-DECL|member|gtk_file_chooser_get_filter
-DECL|member|gtk_file_chooser_set_current_folder
-DECL|member|gtk_file_chooser_set_current_name
-DECL|member|gtk_file_chooser_set_filename
-DECL|member|gtk_file_chooser_set_filter
-DECL|member|gtk_file_filter_add_pattern
-DECL|member|gtk_file_filter_new
-DECL|member|gtk_file_filter_set_name
 DECL|member|gtk_fixed_new
 DECL|member|gtk_frame_new
 DECL|member|gtk_hbutton_box_new

@@ -3,6 +3,7 @@ DECL|enumerator|Invalid
 DECL|enumerator|Match
 DECL|enumerator|NoMatch
 DECL|enum|LoggingRuleState
+DECL|function|QLoggingRegistry_checkErrors
 DECL|function|QLoggingRegistry_config
 DECL|function|QLoggingRegistry_environment
 DECL|function|QLoggingRegistry_rulePriorities

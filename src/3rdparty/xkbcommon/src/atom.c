@@ -1,11 +1,9 @@
 DECL|function|atom_intern
 DECL|function|atom_lookup
-DECL|function|atom_strdup
 DECL|function|atom_table_free
 DECL|function|atom_table_new
 DECL|function|atom_text
-DECL|function|find_node_pointer
-DECL|function|free_atom
+DECL|function|find_atom_pointer
 DECL|member|atom
 DECL|member|fingerprint
 DECL|member|left

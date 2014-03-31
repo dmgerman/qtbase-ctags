@@ -25,6 +25,7 @@ DECL|function|autoBufferSwap
 DECL|function|clipTest
 DECL|function|colormap
 DECL|function|destroyFBOAfterContext
+DECL|function|extensions
 DECL|function|fboFormat
 DECL|function|fuzzyCompareImages
 DECL|function|fuzzyComparePixels

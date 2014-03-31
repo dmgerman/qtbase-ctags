@@ -20,6 +20,7 @@ DECL|function|rotatedPainter
 DECL|function|scaledPainter
 DECL|function|setFont
 DECL|function|setPenPlainText
+DECL|function|setPenPlainText_data
 DECL|function|setPenRichText
 DECL|function|setTextWidth
 DECL|function|supportsTransformations
@@ -30,3 +31,4 @@ DECL|function|tst_QStaticText
 DECL|function|underlinedColor_qtbug20159
 DECL|function|unprintableCharacter_qtbug12614
 DECL|member|m_whiteSquare
+DECL|variable|Format

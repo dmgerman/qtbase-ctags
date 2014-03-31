@@ -1,5 +1,11 @@
+DECL|enumerator|CommandLineError
+DECL|enumerator|CommandLineHelpRequested
+DECL|enumerator|CommandLineOk
+DECL|enumerator|CommandLineVersionRequested
+DECL|enum|CommandLineParseResult
 DECL|function|DnsManager
 DECL|function|execute
 DECL|function|main
+DECL|function|parseCommandLine
 DECL|function|showResults
-DECL|function|usage
+DECL|function|typeFromParameter

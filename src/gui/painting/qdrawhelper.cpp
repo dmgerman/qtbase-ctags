@@ -231,11 +231,13 @@ DECL|function|preload
 DECL|function|process
 DECL|function|qBlendTexture
 DECL|function|qInitDrawhelperAsm
+DECL|function|qt_alphamapblit_argb32
 DECL|function|qt_alphamapblit_quint16
-DECL|function|qt_alphamapblit_quint32
-DECL|function|qt_alphargbblit_quint32
+DECL|function|qt_alphamapblit_rgba8888
+DECL|function|qt_alphargbblit_argb32
+DECL|function|qt_bitmapblit_argb32
 DECL|function|qt_bitmapblit_quint16
-DECL|function|qt_bitmapblit_quint32
+DECL|function|qt_bitmapblit_rgba8888
 DECL|function|qt_bitmapblit_template
 DECL|function|qt_fetch_conical_gradient
 DECL|function|qt_fetch_linear_gradient

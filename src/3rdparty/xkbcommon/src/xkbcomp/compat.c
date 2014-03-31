@@ -45,6 +45,8 @@ DECL|member|led
 DECL|member|merge
 DECL|member|merge
 DECL|member|name
+DECL|member|sym_interprets
+DECL|struct|collect
 DECL|typedef|CompatInfo
 DECL|typedef|LedInfo
 DECL|typedef|SymInterpInfo

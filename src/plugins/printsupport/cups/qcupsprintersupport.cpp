@@ -1,13 +1,7 @@
 DECL|function|QCupsPrinterSupport
-DECL|function|availablePrinters
+DECL|function|availablePrintDeviceIds
 DECL|function|createNativePrintEngine
 DECL|function|createPaintEngine
-DECL|function|cupsOption
-DECL|function|freeCupsPrinters
-DECL|function|loadCups
-DECL|function|loadCupsPrinters
-DECL|function|printerOption
-DECL|function|printerOptions
-DECL|function|supportedPaperSizes
-DECL|function|supportedSizesWithNames
+DECL|function|createPrintDevice
+DECL|function|defaultPrintDeviceId
 DECL|function|~QCupsPrinterSupport
