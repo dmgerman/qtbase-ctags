@@ -42,7 +42,6 @@ DECL|function|qt_to_qpointf
 DECL|function|recalcAdvances
 DECL|function|resolveGetCharWidthI
 DECL|function|selectDesignFont
-DECL|function|setFallbackFamiliesList
 DECL|function|stringToCMap
 DECL|function|supportsTransformation
 DECL|function|synthesized

@@ -7,6 +7,7 @@ DECL|function|fontEngine
 DECL|function|fontEngineMulti
 DECL|function|getFcFamilyForStyleHint
 DECL|function|populateFontDatabase
+DECL|function|populateFromPattern
 DECL|function|queryFont
 DECL|function|requiresOpenType
 DECL|function|resolveFontFamilyAlias

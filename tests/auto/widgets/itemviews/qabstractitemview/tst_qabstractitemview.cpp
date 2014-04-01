@@ -23,6 +23,7 @@ DECL|enumerator|NoState
 DECL|enum|tst_CursorAction
 DECL|enum|tst_State
 DECL|function|MyAbstractItemDelegate
+DECL|function|QTBUG31411_noSelection
 DECL|function|QTBUG6407_extendedSelection
 DECL|function|QTBUG6753_selectOnSelection
 DECL|function|StateChangeDelegate
@@ -68,6 +69,8 @@ DECL|function|task257481_emptyEditor
 DECL|function|testChangeEditorState
 DECL|function|testClickedSignal
 DECL|function|testDelegateDestroyEditor
+DECL|function|testFocusPolicy
+DECL|function|testFocusPolicy_data
 DECL|function|testNoActivateOnDisabledItem
 DECL|function|tst_QAbstractItemView
 DECL|function|tst_closeEditor

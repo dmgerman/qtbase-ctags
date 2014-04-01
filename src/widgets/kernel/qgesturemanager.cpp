@@ -7,6 +7,7 @@ DECL|function|filterEvent
 DECL|function|filterEvent
 DECL|function|filterEvent
 DECL|function|filterEventThroughContexts
+DECL|function|gesturePending
 DECL|function|getGestureTargets
 DECL|function|getState
 DECL|function|recycle

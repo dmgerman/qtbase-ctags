@@ -8,6 +8,7 @@ DECL|function|lower
 DECL|function|nativeOrientation
 DECL|function|orientation
 DECL|function|raise
+DECL|function|rasterSurfaces
 DECL|function|removeWindow
 DECL|function|scheduleUpdate
 DECL|function|setDirty

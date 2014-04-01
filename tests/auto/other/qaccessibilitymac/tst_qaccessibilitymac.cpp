@@ -7,4 +7,5 @@ DECL|function|clearChildren
 DECL|function|hierarchyTest
 DECL|function|init
 DECL|function|lineEditTest
+DECL|function|singleWidgetTest
 DECL|member|m_window
