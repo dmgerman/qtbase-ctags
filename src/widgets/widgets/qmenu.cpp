@@ -8,6 +8,7 @@ DECL|function|QTornOffMenuPrivate
 DECL|function|_q_actionHovered
 DECL|function|_q_actionTriggered
 DECL|function|_q_overrideMenuActionDestroyed
+DECL|function|_q_platformMenuAboutToShow
 DECL|function|actionAt
 DECL|function|actionAt
 DECL|function|actionEvent
