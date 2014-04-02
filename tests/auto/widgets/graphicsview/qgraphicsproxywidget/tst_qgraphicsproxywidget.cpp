@@ -158,6 +158,8 @@ DECL|member|item
 DECL|member|keyPress
 DECL|member|layout
 DECL|member|leaveCount
+DECL|member|m_embeddedPopupSet
+DECL|member|m_timer
 DECL|member|moveCount
 DECL|member|npaints
 DECL|member|npaints

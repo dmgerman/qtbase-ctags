@@ -3,6 +3,7 @@ DECL|class|tst_QSettings
 DECL|function|allKeys
 DECL|function|allKeys_data
 DECL|function|beginGroup
+DECL|function|canWriteNativeSystemSettings
 DECL|function|childGroups
 DECL|function|childGroups_data
 DECL|function|childKeys
@@ -71,6 +72,7 @@ DECL|function|testThreadSafety
 DECL|function|testUpdateRequestEvent
 DECL|function|testVariantTypes
 DECL|function|testVariantTypes_data
+DECL|function|tst_QSettings
 DECL|function|writeCustom1File
 DECL|function|writeCustom2File
 DECL|function|writeCustom3File
@@ -84,7 +86,9 @@ DECL|macro|testUnescapedStringList
 DECL|macro|testVal
 DECL|macro|testVal
 DECL|macro|testVariant
+DECL|member|m_canWriteNativeSystemSettings
 DECL|member|param
 DECL|variable|NumIterations
 DECL|variable|NumThreads
+DECL|variable|insufficientPermissionSkipMessage
 DECL|variable|numThreadSafetyFailures

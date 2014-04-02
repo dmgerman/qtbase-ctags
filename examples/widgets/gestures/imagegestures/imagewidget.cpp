@@ -4,6 +4,7 @@ DECL|function|gestureEvent
 DECL|function|goNextImage
 DECL|function|goPrevImage
 DECL|function|goToImage
+DECL|function|grabGestures
 DECL|function|loadImage
 DECL|function|mouseDoubleClickEvent
 DECL|function|openDirectory

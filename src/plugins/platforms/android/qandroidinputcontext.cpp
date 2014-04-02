@@ -1,5 +1,7 @@
 DECL|function|QAndroidInputContext
 DECL|function|androidInputContext
+DECL|function|beginBatchEdit
+DECL|function|beginBatchEdit
 DECL|function|clear
 DECL|function|commit
 DECL|function|commitText
@@ -12,6 +14,8 @@ DECL|function|cut
 DECL|function|cut
 DECL|function|deleteSurroundingText
 DECL|function|deleteSurroundingText
+DECL|function|endBatchEdit
+DECL|function|endBatchEdit
 DECL|function|finishComposingText
 DECL|function|finishComposingText
 DECL|function|focusObjectInputMethodQuery

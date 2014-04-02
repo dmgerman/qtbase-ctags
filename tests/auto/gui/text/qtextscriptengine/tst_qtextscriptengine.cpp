@@ -3,6 +3,7 @@ DECL|function|bengali
 DECL|function|bengali_data
 DECL|function|cleanup
 DECL|function|combiningMarks_qtbug15675
+DECL|function|combiningMarks_qtbug15675_data
 DECL|function|controlInSyllable_qtbug14204
 DECL|function|devanagari
 DECL|function|devanagari_data

@@ -8,4 +8,4 @@ DECL|function|task230994_iconSize
 DECL|function|triggered
 DECL|function|tst_QToolButton
 DECL|function|~tst_QToolButton
-DECL|member|w
+DECL|member|m_menu

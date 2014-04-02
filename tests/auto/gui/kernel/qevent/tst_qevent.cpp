@@ -1,5 +1,7 @@
 DECL|class|tst_QEvent
+DECL|function|exhaustEventTypeRegistration
 DECL|function|registerEventType
 DECL|function|registerEventType_data
 DECL|function|tst_QEvent
 DECL|function|~tst_QEvent
+DECL|member|registerEventTypeSucceeded
