@@ -9,7 +9,6 @@ DECL|function|findFile
 DECL|function|getAllFiles
 DECL|function|getBool
 DECL|function|getCanonicalPathList
-DECL|function|getCleanPathList
 DECL|function|getExampleImageFiles
 DECL|function|getExampleQdocFiles
 DECL|function|getExpanded
@@ -18,7 +17,6 @@ DECL|function|getIncludeFilePath
 DECL|function|getInt
 DECL|function|getOutputDir
 DECL|function|getOutputFormats
-DECL|function|getPathList
 DECL|function|getRegExp
 DECL|function|getRegExpList
 DECL|function|getString
