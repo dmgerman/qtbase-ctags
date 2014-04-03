@@ -20,6 +20,10 @@ DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
 DECL|function|mapGlobal
 DECL|function|mask
+DECL|function|modalDialog
+DECL|function|modalDialogClosingOneOfTwoModal
+DECL|function|modalWindowModallity
+DECL|function|modalWithChildWindow
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseEventSequence
 DECL|function|mouseMoveEvent

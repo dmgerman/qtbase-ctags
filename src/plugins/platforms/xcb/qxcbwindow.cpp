@@ -49,6 +49,8 @@ DECL|function|checkEvent
 DECL|function|checkEvent
 DECL|function|create
 DECL|function|destroy
+DECL|function|doFocusIn
+DECL|function|doFocusOut
 DECL|function|eglSurface
 DECL|function|focusInPeeker
 DECL|function|format
@@ -85,6 +87,7 @@ DECL|function|positionIncludesFrame
 DECL|function|propagateSizeHints
 DECL|function|qRectToXCBRectangle
 DECL|function|raise
+DECL|function|relayFocusToModalWindow
 DECL|function|requestActivateWindow
 DECL|function|sendXEmbedMessage
 DECL|function|setAlertState
@@ -107,6 +110,7 @@ DECL|function|setWindowState
 DECL|function|setWindowTitle
 DECL|function|show
 DECL|function|startSystemResize
+DECL|function|tlWindow
 DECL|function|toWindow
 DECL|function|updateDoesNotAcceptFocus
 DECL|function|updateMotifWmHintsBeforeMap
