@@ -16,6 +16,9 @@ DECL|function|atEnd
 DECL|function|create
 DECL|function|create
 DECL|function|create
+DECL|function|createShared
+DECL|function|createShared
+DECL|function|createShared
 DECL|function|disableReset
 DECL|function|isSequential
 DECL|function|readData
