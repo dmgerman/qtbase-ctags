@@ -207,5 +207,6 @@ DECL|member|presses
 DECL|member|receivedEnterEvent
 DECL|member|receivedLeaveEvent
 DECL|member|releases
+DECL|member|rootWindow
 DECL|member|spied
 DECL|member|transform
