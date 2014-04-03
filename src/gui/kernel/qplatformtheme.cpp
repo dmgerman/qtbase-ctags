@@ -23,6 +23,10 @@ DECL|function|font
 DECL|function|initializeSystemPalette
 DECL|function|keyBindings
 DECL|function|maybeSwapShortcut
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
+DECL|function|operator ()
 DECL|function|palette
 DECL|function|standardButtonText
 DECL|function|standardPixmap
@@ -32,3 +36,5 @@ DECL|function|~QPlatformTheme
 DECL|function|~QPlatformThemePrivate
 DECL|member|keyBindings
 DECL|member|numberOfKeyBindings
+DECL|struct|ByStandardKey
+DECL|typedef|result_type
