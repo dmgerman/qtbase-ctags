@@ -35,6 +35,7 @@ DECL|function|quitOnLastWindowClosed
 DECL|function|resetCounts
 DECL|function|setFocusObject
 DECL|function|topLevelWindows
+DECL|function|windowIcon
 DECL|member|blocked
 DECL|member|customEvents
 DECL|member|enters
