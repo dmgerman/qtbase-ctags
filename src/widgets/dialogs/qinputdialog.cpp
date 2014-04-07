@@ -1,7 +1,6 @@
 DECL|class|QInputDialogDoubleSpinBox
 DECL|class|QInputDialogPrivate
 DECL|class|QInputDialogSpinBox
-DECL|enumerator|AcceptedSignal
 DECL|enumerator|DoubleValueSelectedSignal
 DECL|enumerator|IntValueSelectedSignal
 DECL|enumerator|NumCandidateSignals
