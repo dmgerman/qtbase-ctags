@@ -27,6 +27,7 @@ DECL|function|initializeXRandr
 DECL|function|initializeXRender
 DECL|function|initializeXShape
 DECL|function|internAtom
+DECL|function|ioErrorHandler
 DECL|function|lock
 DECL|function|log
 DECL|function|nullErrorHandler
@@ -78,6 +79,7 @@ DECL|member|xkbType
 DECL|struct|qt_xcb_ge_event_t
 DECL|typedef|_xkb_event
 DECL|typedef|qt_xcb_ge_event_t
+DECL|variable|xcbConnectionErrors
 DECL|variable|xcb_atomnames
 DECL|variable|xcb_errors
 DECL|variable|xcb_protocol_request_codes
