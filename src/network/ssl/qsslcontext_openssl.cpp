@@ -12,4 +12,5 @@ DECL|function|npnContext
 DECL|function|sessionASN1
 DECL|function|sessionTicketLifeTimeHint
 DECL|function|setSessionASN1
+DECL|function|sharedFromConfiguration
 DECL|function|~QSslContext
