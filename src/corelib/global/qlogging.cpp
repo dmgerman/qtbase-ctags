@@ -57,6 +57,9 @@ DECL|member|fromEnvironment
 DECL|member|literals
 DECL|member|mutex
 DECL|member|mutex
+DECL|member|startTime
+DECL|member|timeFormat
+DECL|member|timer
 DECL|member|tokens
 DECL|struct|QMessagePattern
 DECL|typedef|QtMsgHandler
@@ -80,4 +83,5 @@ DECL|variable|msgHandlerGrabbed
 DECL|variable|msgHandlerGrabbed
 DECL|variable|pidTokenC
 DECL|variable|threadidTokenC
+DECL|variable|timeTokenC
 DECL|variable|typeTokenC
