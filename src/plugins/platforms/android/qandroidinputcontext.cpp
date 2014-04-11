@@ -49,6 +49,7 @@ DECL|function|setComposingRegion
 DECL|function|setComposingRegion
 DECL|function|setComposingText
 DECL|function|setComposingText
+DECL|function|setFocusObject
 DECL|function|setSelection
 DECL|function|setSelection
 DECL|function|showInputPanel
