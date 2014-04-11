@@ -180,6 +180,7 @@ DECL|function|setStaticField
 DECL|function|setStaticField
 DECL|function|setStaticField
 DECL|function|setStaticField
+DECL|function|threadBaseName
 DECL|function|toString
 DECL|function|~QJNIEnvironmentPrivate
 DECL|function|~QJNIEnvironmentPrivateTLS

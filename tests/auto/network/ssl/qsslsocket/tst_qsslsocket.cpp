@@ -39,8 +39,10 @@ DECL|function|connectToHostEncryptedWithVerificationPeerName
 DECL|function|constructing
 DECL|function|defaultCaCertificates
 DECL|function|defaultCiphers
+DECL|function|dhServer
 DECL|function|disconnectFromHostWhenConnected
 DECL|function|disconnectFromHostWhenConnecting
+DECL|function|ecdhServer
 DECL|function|encryptWithoutConnecting
 DECL|function|enterLoop
 DECL|function|exitLoop
@@ -127,6 +129,7 @@ DECL|function|writeBigChunk
 DECL|function|~ThreadedSslServer
 DECL|function|~tst_QSslSocket
 DECL|macro|QSSLSOCKET_CERTUNTRUSTED_WORKAROUND
+DECL|member|ciphers
 DECL|member|dataReadSemaphore
 DECL|member|loopLevel
 DECL|member|loopLevel

@@ -11,7 +11,6 @@ DECL|function|generateXML
 DECL|function|outputFileConfig
 DECL|function|outputFileConfigs
 DECL|function|outputFilter
-DECL|function|platformToolSetVersion
 DECL|function|toString
 DECL|function|toString
 DECL|function|toString

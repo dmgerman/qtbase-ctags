@@ -16,6 +16,7 @@ DECL|function|blockSize
 DECL|function|cancel
 DECL|function|distance
 DECL|function|instantiate
+DECL|function|msgBlockSize
 DECL|function|multipleResults
 DECL|function|noIterations
 DECL|function|operator !=
@@ -35,6 +36,8 @@ DECL|function|shouldThrottleThread
 DECL|function|stresstest
 DECL|function|throttling
 DECL|member|i
+DECL|member|peakBegin
+DECL|member|peakBlockSize
 DECL|member|throttling
 DECL|namespace|std
 DECL|struct|TestIterator
@@ -42,6 +45,5 @@ DECL|struct|iterator_traits
 DECL|typedef|iterator_category
 DECL|variable|counter
 DECL|variable|iterations
-DECL|variable|peakBlockSize
 DECL|variable|threads
 DECL|variable|threadsMutex

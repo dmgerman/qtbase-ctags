@@ -35,6 +35,7 @@ DECL|function|mergeBuildProject
 DECL|function|openOutput
 DECL|function|outputVariables
 DECL|function|replaceExtraCompilerVariables
+DECL|function|retrievePlatformToolSet
 DECL|function|which_dotnet_version
 DECL|function|writeMakefile
 DECL|function|writeProjectMakefile

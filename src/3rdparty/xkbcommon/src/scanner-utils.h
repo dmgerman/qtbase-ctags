@@ -11,6 +11,9 @@ DECL|function|svaleq
 DECL|function|svaleq_prefix
 DECL|macro|XKBCOMP_SCANNER_UTILS_H
 DECL|macro|lit
+DECL|macro|scanner_err
+DECL|macro|scanner_log
+DECL|macro|scanner_warn
 DECL|member|buf
 DECL|member|buf_pos
 DECL|member|column

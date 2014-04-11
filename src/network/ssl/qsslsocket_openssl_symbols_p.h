@@ -22,6 +22,8 @@ DECL|macro|q_SKM_sk_value
 DECL|macro|q_SSL_CTX_add_extra_chain_cert
 DECL|macro|q_SSL_CTX_set_mode
 DECL|macro|q_SSL_CTX_set_options
+DECL|macro|q_SSL_CTX_set_tmp_dh
+DECL|macro|q_SSL_CTX_set_tmp_ecdh
 DECL|macro|q_X509_dup
 DECL|macro|q_X509_get_notAfter
 DECL|macro|q_X509_get_notBefore
@@ -32,6 +34,6 @@ DECL|macro|q_sk_SSL_CIPHER_value
 DECL|macro|q_sk_X509_num
 DECL|macro|q_sk_X509_value
 DECL|variable|QDateTime
+DECL|variable|q_DH_new
 DECL|variable|q_SSL_get_current_cipher
 DECL|variable|q_SSL_get_peer_certificate
-DECL|variable|q_i2d_DSAPrivateKey

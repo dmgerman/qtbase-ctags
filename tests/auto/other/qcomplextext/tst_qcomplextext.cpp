@@ -5,6 +5,8 @@ DECL|function|bidiCursorMovement
 DECL|function|bidiCursorMovement_data
 DECL|function|bidiCursor_PDF
 DECL|function|bidiCursor_qtbug2795
+DECL|function|bidiInvalidCursorNoMovement
+DECL|function|bidiInvalidCursorNoMovement_data
 DECL|function|bidiReorderString
 DECL|function|bidiReorderString_data
 DECL|function|cleanup

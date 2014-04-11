@@ -99,6 +99,7 @@ DECL|function|replace
 DECL|function|replaceComplex
 DECL|function|replaceInt
 DECL|function|replaceMovable
+DECL|function|reserve
 DECL|function|runSetSharableTest
 DECL|function|setSharableComplex
 DECL|function|setSharableComplex_data
