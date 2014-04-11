@@ -3,7 +3,6 @@ DECL|function|createEGLSurface
 DECL|function|destroyEGLSurface
 DECL|function|getSurface
 DECL|function|pixelFormat
-DECL|function|requestedBufferSize
 DECL|function|resetBuffers
 DECL|function|setGeometry
 DECL|function|setPlatformOpenGLContext

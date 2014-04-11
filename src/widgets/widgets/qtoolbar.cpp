@@ -15,6 +15,7 @@ DECL|function|addWidget
 DECL|function|allowedAreas
 DECL|function|changeEvent
 DECL|function|clear
+DECL|function|enableMacToolBar
 DECL|function|endDrag
 DECL|function|event
 DECL|function|iconSize

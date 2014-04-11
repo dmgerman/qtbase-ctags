@@ -9,7 +9,7 @@ DECL|function|handleKeyReleaseEvent
 DECL|function|handleMappingNotifyEvent
 DECL|function|keysymToQtKey
 DECL|function|keysymToQtKey
-DECL|function|keysymToUnicode
+DECL|function|lookupString
 DECL|function|possibleKeys
 DECL|function|printKeymapError
 DECL|function|readXKBConfig

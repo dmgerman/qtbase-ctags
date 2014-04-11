@@ -52,11 +52,7 @@ DECL|function|split_comma_separated_string
 DECL|function|strip_spaces
 DECL|function|xkb_components_from_rules
 DECL|macro|SVAL_LIT
-DECL|macro|matcher_error
-DECL|macro|matcher_error1
-DECL|macro|scanner_error
-DECL|macro|scanner_error1
-DECL|member|column
+DECL|macro|matcher_err
 DECL|member|ctx
 DECL|member|defined_kccgst_mask
 DECL|member|defined_mlvo_mask
@@ -67,8 +63,6 @@ DECL|member|kccgst_at_pos
 DECL|member|kccgst_value_at_pos
 DECL|member|layout_idx
 DECL|member|layouts
-DECL|member|line
-DECL|member|loc
 DECL|member|mapping
 DECL|member|match_type_at_pos
 DECL|member|mlvo_at_pos
@@ -90,7 +84,6 @@ DECL|member|val
 DECL|member|variant_idx
 DECL|member|variants
 DECL|struct|group
-DECL|struct|location
 DECL|struct|mapping
 DECL|struct|matcher
 DECL|struct|rule

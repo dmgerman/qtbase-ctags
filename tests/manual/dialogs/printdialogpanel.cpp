@@ -5,6 +5,7 @@ DECL|function|applySettings
 DECL|function|createPrinter
 DECL|function|customPageSize
 DECL|function|deletePrinter
+DECL|function|directPrint
 DECL|function|drawHorizCmRuler
 DECL|function|drawVertCmRuler
 DECL|function|enablePanels

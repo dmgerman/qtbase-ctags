@@ -39,7 +39,6 @@ DECL|function|paintRect
 DECL|function|paintRect
 DECL|function|paintRectPixels
 DECL|function|paintRectPoints
-DECL|function|qt_clamp
 DECL|function|qt_convertMargins
 DECL|function|qt_convertPoint
 DECL|function|qt_pointMultiplier

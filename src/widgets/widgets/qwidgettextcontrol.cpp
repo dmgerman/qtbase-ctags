@@ -3,6 +3,7 @@ DECL|function|QWidgetTextControl
 DECL|function|QWidgetTextControl
 DECL|function|QWidgetTextControl
 DECL|function|QWidgetTextControlPrivate
+DECL|function|_q_contentsChanged
 DECL|function|_q_copyLink
 DECL|function|_q_deleteSelected
 DECL|function|_q_documentLayoutChanged

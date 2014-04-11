@@ -19,6 +19,7 @@ DECL|member|m_argc
 DECL|member|m_argc
 DECL|member|m_argv
 DECL|member|m_argv
+DECL|member|m_deleteArgv0
 DECL|member|newmode
 DECL|typedef|ActivatedHandler
 DECL|typedef|_startupinfo

@@ -1,5 +1,7 @@
+DECL|class|QPrinterPagedPaintDevicePrivate
 DECL|function|QPrinter
 DECL|function|QPrinter
+DECL|function|QPrinterPagedPaintDevicePrivate
 DECL|function|abort
 DECL|function|actualNumCopies
 DECL|function|changeEngines
@@ -25,7 +27,6 @@ DECL|function|numCopies
 DECL|function|orientation
 DECL|function|outputFileName
 DECL|function|outputFormat
-DECL|function|pageLayout
 DECL|function|pageOrder
 DECL|function|pageRect
 DECL|function|pageRect
@@ -63,12 +64,8 @@ DECL|function|setNumCopies
 DECL|function|setOrientation
 DECL|function|setOutputFileName
 DECL|function|setOutputFormat
-DECL|function|setPageLayout
-DECL|function|setPageMargins
 DECL|function|setPageMargins
 DECL|function|setPageOrder
-DECL|function|setPageOrientation
-DECL|function|setPageSize
 DECL|function|setPageSize
 DECL|function|setPageSizeMM
 DECL|function|setPaperName
@@ -89,5 +86,7 @@ DECL|function|supportsMultipleCopies
 DECL|function|toPage
 DECL|function|winPageSize
 DECL|function|~QPrinter
+DECL|function|~QPrinterPagedPaintDevicePrivate
 DECL|macro|ABORT_IF_ACTIVE
 DECL|macro|ABORT_IF_ACTIVE_RETURN
+DECL|member|pd

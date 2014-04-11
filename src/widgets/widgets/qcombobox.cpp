@@ -115,6 +115,7 @@ DECL|function|setValidator
 DECL|function|setView
 DECL|function|showEvent
 DECL|function|showEvent
+DECL|function|showNativePopup
 DECL|function|showPopup
 DECL|function|sizeAdjustPolicy
 DECL|function|sizeHint

@@ -1,3 +1,4 @@
+DECL|function|operator
 DECL|macro|B0
 DECL|macro|QPAGESIZE_H
 DECL|variable|QPageSizePrivate
