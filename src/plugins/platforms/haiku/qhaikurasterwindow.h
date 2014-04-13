@@ -1,0 +1,2 @@
+DECL|macro|QHAIKURASTERWINDOW_H
+DECL|variable|QObject

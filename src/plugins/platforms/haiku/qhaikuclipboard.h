@@ -1,0 +1,2 @@
+DECL|macro|QHAIKUCLIPBOARD_H
+DECL|variable|QPlatformClipboard
