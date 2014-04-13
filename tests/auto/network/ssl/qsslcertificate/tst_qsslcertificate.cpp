@@ -31,6 +31,7 @@ DECL|function|publicKey
 DECL|function|publicKey_data
 DECL|function|readFile
 DECL|function|run
+DECL|function|selfsignedCertificates
 DECL|function|subjectAlternativeNames
 DECL|function|subjectAlternativeNames_data
 DECL|function|subjectAndIssuerAttributes

@@ -23,6 +23,7 @@ DECL|function|init
 DECL|function|isBlacklisted
 DECL|function|isBlacklisted
 DECL|function|isNull
+DECL|function|isSelfSigned
 DECL|function|issuerInfo
 DECL|function|issuerInfo
 DECL|function|issuerInfoAttributes
