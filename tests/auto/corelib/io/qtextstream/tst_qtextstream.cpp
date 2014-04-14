@@ -79,6 +79,7 @@ DECL|function|readLinesFromBufferCRCR
 DECL|function|readNewlines
 DECL|function|readNewlines_data
 DECL|function|readStdin
+DECL|function|runOnExit
 DECL|function|seek
 DECL|function|setCodec
 DECL|function|setDevice
