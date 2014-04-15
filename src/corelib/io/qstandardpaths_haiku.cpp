@@ -1,0 +1,7 @@
+DECL|function|appendOrganizationAndApp
+DECL|function|haikuAppStandardPath
+DECL|function|haikuAppStandardPaths
+DECL|function|haikuStandardPath
+DECL|function|haikuStandardPaths
+DECL|function|standardLocations
+DECL|function|writableLocation
