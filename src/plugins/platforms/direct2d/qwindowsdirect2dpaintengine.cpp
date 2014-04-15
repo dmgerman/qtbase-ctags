@@ -1,3 +1,4 @@
+DECL|class|Direct2DPathGeometryWriter
 DECL|class|QWindowsDirect2DPaintEnginePrivate
 DECL|enumerator|D2DDebugDrawImageTag
 DECL|enumerator|D2DDebugDrawInitialStateTag
@@ -7,10 +8,13 @@ DECL|enumerator|D2DDebugDrawTextItemTag
 DECL|enumerator|D2DDebugFillTag
 DECL|enumerator|SimpleSystemClip
 DECL|enumerator|UserClip
+DECL|function|Direct2DPathGeometryWriter
 DECL|function|QWindowsDirect2DPaintEngine
 DECL|function|QWindowsDirect2DPaintEnginePrivate
+DECL|function|adjusted
 DECL|function|antialiasMode
 DECL|function|applyBrushOrigin
+DECL|function|begin
 DECL|function|begin
 DECL|function|brushChanged
 DECL|function|brushOriginChanged
@@ -19,7 +23,9 @@ DECL|function|clip
 DECL|function|clip
 DECL|function|clip
 DECL|function|clipEnabledChanged
+DECL|function|close
 DECL|function|compositionModeChanged
+DECL|function|curveTo
 DECL|function|dc
 DECL|function|drawGlyphRun
 DECL|function|drawImage
@@ -31,10 +37,14 @@ DECL|function|factory
 DECL|function|fill
 DECL|function|fontFaceFromFontEngine
 DECL|function|fontSizeInDIP
+DECL|function|geometry
 DECL|function|interpolationMode
+DECL|function|isInFigure
+DECL|function|lineTo
+DECL|function|moveTo
 DECL|function|negateCurrentBrushOrigin
 DECL|function|opacityChanged
-DECL|function|painterPathToPathGeometry
+DECL|function|painterPathToID2D1PathGeometry
 DECL|function|penChanged
 DECL|function|pixelSizeToDIP
 DECL|function|pointSizeToDIP
@@ -43,6 +53,8 @@ DECL|function|pushClip
 DECL|function|renderHintsChanged
 DECL|function|reset
 DECL|function|reset
+DECL|function|setAliasingEnabled
+DECL|function|setWindingFillEnabled
 DECL|function|to_d2d_brush
 DECL|function|transformChanged
 DECL|function|type
@@ -66,6 +78,10 @@ DECL|member|clipPath
 DECL|member|currentBrushOrigin
 DECL|member|emulate
 DECL|member|emulate
+DECL|member|m_geometry
+DECL|member|m_inFigure
+DECL|member|m_roundCoordinates
+DECL|member|m_sink
 DECL|member|pen
 DECL|member|qbrush
 DECL|member|qpen
