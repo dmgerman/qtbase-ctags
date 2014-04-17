@@ -12,6 +12,7 @@ DECL|function|basicTest_data
 DECL|function|bla
 DECL|function|destroyAfterQCoreApplication
 DECL|function|fileChanged
+DECL|function|msgFileOperationFailed
 DECL|function|nonExistingFile
 DECL|function|removeFileAndUnWatch
 DECL|function|removePath
