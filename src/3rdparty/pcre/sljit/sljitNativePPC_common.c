@@ -1,10 +1,10 @@
 DECL|function|can_cache
+DECL|function|detect_jump_type
 DECL|function|emit_op
 DECL|function|emit_op_mem2
 DECL|function|get_bo_bi_flags
 DECL|function|getput_arg
 DECL|function|getput_arg_fast
-DECL|function|optimize_jump
 DECL|function|ppc_cache_flush
 DECL|function|push_inst
 DECL|function|sljit_emit_const
@@ -37,8 +37,6 @@ DECL|macro|ADDI
 DECL|macro|ADDIC
 DECL|macro|ADDIS
 DECL|macro|ADDME
-DECL|macro|ADDR_MODE2
-DECL|macro|ADJUST_CACHED_IMM
 DECL|macro|ADJUST_CACHED_IMM
 DECL|macro|ALT_FORM1
 DECL|macro|ALT_FORM2
@@ -109,6 +107,7 @@ DECL|macro|IMM
 DECL|macro|INDEXED
 DECL|macro|INST_CODE_AND_DST
 DECL|macro|INST_CODE_AND_DST
+DECL|macro|INT_ALIGNED
 DECL|macro|INT_DATA
 DECL|macro|INVERT_BIT
 DECL|macro|LD
@@ -149,6 +148,8 @@ DECL|macro|SIGNED_DATA
 DECL|macro|SIMM_MAX
 DECL|macro|SIMM_MIN
 DECL|macro|SLD
+DECL|macro|SLJIT_PASS_ENTRY_ADDR_TO_CALL
+DECL|macro|SLJIT_PPC_STACK_FRAME_V2
 DECL|macro|SLOW_DEST
 DECL|macro|SLW
 DECL|macro|SRAD
@@ -182,11 +183,14 @@ DECL|macro|TEST_UH_IMM
 DECL|macro|TEST_UI_IMM
 DECL|macro|TEST_UI_IMM
 DECL|macro|TEST_UL_IMM
+DECL|macro|TMP_CALL_REG
+DECL|macro|TMP_CALL_REG
 DECL|macro|TMP_FREG1
 DECL|macro|TMP_FREG2
 DECL|macro|TMP_REG1
 DECL|macro|TMP_REG2
 DECL|macro|TMP_REG3
+DECL|macro|TMP_ZERO
 DECL|macro|UIMM_MAX
 DECL|macro|UPDATE_REQ
 DECL|macro|WORD_DATA
@@ -194,7 +198,6 @@ DECL|macro|WRITE_BACK
 DECL|macro|XOR
 DECL|macro|XORI
 DECL|macro|XORIS
-DECL|macro|ZERO_REG
 DECL|typedef|sljit_ins
 DECL|variable|data_transfer_insts
 DECL|variable|reg_map

@@ -10,7 +10,6 @@ DECL|function|get_cc
 DECL|function|get_imm
 DECL|function|getput_arg
 DECL|function|getput_arg_fast
-DECL|function|inline_set_jump_addr
 DECL|function|load_immediate
 DECL|function|modify_imm32_const
 DECL|function|push_inst16
@@ -134,7 +133,6 @@ DECL|macro|SBCI
 DECL|macro|SBCS
 DECL|macro|SBC_W
 DECL|macro|SET_FLAGS
-DECL|macro|SET_MULOV
 DECL|macro|SET_REGS44
 DECL|macro|SIGNED
 DECL|macro|SLOW_DEST

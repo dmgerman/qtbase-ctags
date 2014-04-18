@@ -5,6 +5,8 @@ DECL|enumerator|type_then_trap
 DECL|enum|control_types
 DECL|enum|frame_types
 DECL|function|add_jump
+DECL|function|add_label_addr
+DECL|function|add_prefix_byte
 DECL|function|add_stub
 DECL|function|allocate_stack
 DECL|function|bracketend
@@ -18,7 +20,6 @@ DECL|function|check_hspace
 DECL|function|check_newlinechar
 DECL|function|check_opcode_types
 DECL|function|check_partial
-DECL|function|check_ranges
 DECL|function|check_start_used_ptr
 DECL|function|check_str_end
 DECL|function|check_vspace
@@ -65,7 +66,7 @@ DECL|function|do_revertframes
 DECL|function|do_search_mark
 DECL|function|do_utf_caselesscmp
 DECL|function|do_utfreadchar
-DECL|function|do_utfreadchar
+DECL|function|do_utfreadchar16
 DECL|function|do_utfreadtype8
 DECL|function|fast_forward_first_char
 DECL|function|fast_forward_first_n_chars
@@ -74,11 +75,11 @@ DECL|function|fast_forward_start_bits
 DECL|function|flush_stubs
 DECL|function|free_stack
 DECL|function|get_class_iterator_size
-DECL|function|get_ctype_ranges
 DECL|function|get_framesize
 DECL|function|get_iterator_parameters
 DECL|function|get_private_data_copy_length
 DECL|function|init_frame
+DECL|function|is_char7_bitset
 DECL|function|is_powerof2
 DECL|function|jit_compile
 DECL|function|jit_free
@@ -89,6 +90,7 @@ DECL|function|mainloop_entry
 DECL|function|match_capture_common
 DECL|function|match_once_common
 DECL|function|next_opcode
+DECL|function|no_alternatives
 DECL|function|pcre_assign_jit_stack
 DECL|function|pcre_assign_jit_stack
 DECL|function|pcre_jit_exec
@@ -100,9 +102,12 @@ DECL|function|pcre_jit_stack_free
 DECL|function|pcre_jit_stack_free
 DECL|function|peek_char
 DECL|function|read_char
+DECL|function|read_char7_type
 DECL|function|read_char8_type
+DECL|function|read_char_range
 DECL|function|reset_ovector
 DECL|function|return_with_partial_match
+DECL|function|scan_prefix
 DECL|function|search_requested_char
 DECL|function|set_jumps
 DECL|function|set_private_data_ptrs
@@ -152,6 +157,8 @@ DECL|macro|LIMIT_MATCH
 DECL|macro|LOCALS0
 DECL|macro|LOCALS1
 DECL|macro|MACHINE_STACK_SIZE
+DECL|macro|MAX_N_BYTES
+DECL|macro|MAX_N_BYTES
 DECL|macro|MAX_N_CHARS
 DECL|macro|MAX_N_CHARS
 DECL|macro|MAX_RANGE_SIZE
@@ -175,6 +182,7 @@ DECL|macro|PUSH_BACKTRACK
 DECL|macro|PUSH_BACKTRACK
 DECL|macro|PUSH_BACKTRACK_NOVALUE
 DECL|macro|PUSH_BACKTRACK_NOVALUE
+DECL|macro|READ_CHAR_MAX
 DECL|macro|RETURN_ADDR
 DECL|macro|SET_CHAR_OFFSET
 DECL|macro|SET_CHAR_OFFSET
@@ -200,6 +208,7 @@ DECL|macro|UCD_BLOCK_MASK
 DECL|macro|UCD_BLOCK_SHIFT
 DECL|member|accept
 DECL|member|accept_label
+DECL|member|addr
 DECL|member|alternative_matchingpath
 DECL|member|anynewline
 DECL|member|asbyte
@@ -216,6 +225,8 @@ DECL|member|asuchars
 DECL|member|asushort
 DECL|member|asushort
 DECL|member|begin
+DECL|member|bsr_nlmax
+DECL|member|bsr_nlmin
 DECL|member|bsr_nltype
 DECL|member|c
 DECL|member|calllimit
@@ -239,7 +250,6 @@ DECL|member|condfailed
 DECL|member|control_head_ptr
 DECL|member|ctypes
 DECL|member|currententry
-DECL|member|digits
 DECL|member|end
 DECL|member|endonly
 DECL|member|entries
@@ -247,6 +257,7 @@ DECL|member|entry
 DECL|member|executable_funcs
 DECL|member|executable_sizes
 DECL|member|fcc
+DECL|member|ff_newline_shortcut
 DECL|member|first_line_end
 DECL|member|forced_quit
 DECL|member|forced_quit_label
@@ -263,6 +274,8 @@ DECL|member|hspace
 DECL|member|inlined_pattern
 DECL|member|jscript_compat
 DECL|member|jump
+DECL|member|label
+DECL|member|label_addrs
 DECL|member|lcc
 DECL|member|length
 DECL|member|limit_match
@@ -273,6 +286,7 @@ DECL|member|mark_ptr
 DECL|member|matchingpath
 DECL|member|matchingpath
 DECL|member|matchingpath
+DECL|member|might_be_empty
 DECL|member|mode
 DECL|member|name_count
 DECL|member|name_entry_size
@@ -282,7 +296,10 @@ DECL|member|newline
 DECL|member|next
 DECL|member|next
 DECL|member|next
+DECL|member|next
 DECL|member|nextbacktracks
+DECL|member|nlmax
+DECL|member|nlmin
 DECL|member|nltype
 DECL|member|notbol
 DECL|member|notempty
@@ -306,6 +323,10 @@ DECL|member|quit
 DECL|member|quit
 DECL|member|quit
 DECL|member|quit_label
+DECL|member|read_only_data
+DECL|member|read_only_data
+DECL|member|read_only_data_ptr
+DECL|member|read_only_data_size
 DECL|member|real_offset_count
 DECL|member|recursive_head_ptr
 DECL|member|recursive_matchingpath
@@ -337,6 +358,7 @@ DECL|member|use_ucp
 DECL|member|userdata
 DECL|member|utf
 DECL|member|utfreadchar
+DECL|member|utfreadchar16
 DECL|member|utfreadtype8
 DECL|member|vspace
 DECL|member|wordboundary
@@ -352,6 +374,7 @@ DECL|struct|executable_functions
 DECL|struct|iterator_backtrack
 DECL|struct|jit_arguments
 DECL|struct|jump_list
+DECL|struct|label_addr_list
 DECL|struct|recurse_backtrack
 DECL|struct|recurse_entry
 DECL|struct|stub_list
@@ -368,12 +391,14 @@ DECL|typedef|iterator_backtrack
 DECL|typedef|jit_arguments
 DECL|typedef|jit_function
 DECL|typedef|jump_list
+DECL|typedef|label_addr_list
 DECL|typedef|recurse_backtrack
 DECL|typedef|recurse_entry
 DECL|typedef|stub_list
 DECL|typedef|then_trap_backtrack
 DECL|variable|length
 DECL|variable|offsets
+DECL|variable|ones_in_half_byte
 DECL|variable|options
 DECL|variable|start_offset
 DECL|variable|subject

@@ -175,6 +175,8 @@ DECL|member|cache_arg
 DECL|member|cache_arg
 DECL|member|cache_arg
 DECL|member|cache_arg
+DECL|member|cache_arg
+DECL|member|cache_argw
 DECL|member|cache_argw
 DECL|member|cache_argw
 DECL|member|cache_argw
@@ -201,6 +203,7 @@ DECL|member|last_jump
 DECL|member|last_label
 DECL|member|limit
 DECL|member|local_size
+DECL|member|locals_offset
 DECL|member|locals_offset
 DECL|member|logical_local_size
 DECL|member|max_limit

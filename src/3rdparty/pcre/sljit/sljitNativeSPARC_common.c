@@ -1,11 +1,11 @@
 DECL|function|can_cache
+DECL|function|detect_jump_type
 DECL|function|emit_op
 DECL|function|emit_op_mem
 DECL|function|emit_op_mem2
 DECL|function|get_cc
 DECL|function|getput_arg
 DECL|function|getput_arg_fast
-DECL|function|optimize_jump
 DECL|function|push_inst
 DECL|function|sljit_emit_const
 DECL|function|sljit_emit_enter
@@ -71,7 +71,6 @@ DECL|macro|IMM_ARG
 DECL|macro|IMM_OP
 DECL|macro|INT_DATA
 DECL|macro|JMPL
-DECL|macro|LINK_REG
 DECL|macro|LOAD_DATA
 DECL|macro|MAX_DISP
 DECL|macro|MEM_MASK
@@ -117,6 +116,7 @@ DECL|macro|SUBC
 DECL|macro|TA
 DECL|macro|TMP_FREG1
 DECL|macro|TMP_FREG2
+DECL|macro|TMP_LINK
 DECL|macro|TMP_REG1
 DECL|macro|TMP_REG2
 DECL|macro|TMP_REG3

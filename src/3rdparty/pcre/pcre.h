@@ -265,14 +265,17 @@ DECL|variable|pcre16_callout
 DECL|variable|pcre16_free
 DECL|variable|pcre16_malloc
 DECL|variable|pcre16_stack_free
+DECL|variable|pcre16_stack_guard
 DECL|variable|pcre16_stack_malloc
 DECL|variable|pcre32_callout
 DECL|variable|pcre32_free
 DECL|variable|pcre32_malloc
 DECL|variable|pcre32_stack_free
+DECL|variable|pcre32_stack_guard
 DECL|variable|pcre32_stack_malloc
 DECL|variable|pcre_callout
 DECL|variable|pcre_free
 DECL|variable|pcre_malloc
 DECL|variable|pcre_stack_free
+DECL|variable|pcre_stack_guard
 DECL|variable|pcre_stack_malloc
