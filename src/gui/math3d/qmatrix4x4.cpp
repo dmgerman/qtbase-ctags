@@ -42,4 +42,5 @@ DECL|function|translate
 DECL|function|translate
 DECL|function|translate
 DECL|function|transposed
+DECL|function|viewport
 DECL|variable|inv_dist_to_plane

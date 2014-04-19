@@ -128,6 +128,7 @@ DECL|function|transposed4x3
 DECL|function|transposed4x4
 DECL|function|tst_QMatrixNxN
 DECL|function|tst_QMatrixNxN4x4Properties
+DECL|function|viewport
 DECL|function|~tst_QMatrixNxN
 DECL|macro|ROTATE4
 DECL|member|flagBits
