@@ -41,6 +41,7 @@ DECL|function|serialize_data
 DECL|function|validity
 DECL|function|validity_data
 DECL|function|verifyEquality
+DECL|macro|forceOptimize
 DECL|member|captured
 DECL|member|hasMatch
 DECL|member|hasPartialMatch

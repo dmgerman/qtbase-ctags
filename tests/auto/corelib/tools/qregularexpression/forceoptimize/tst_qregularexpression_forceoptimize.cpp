@@ -1,0 +1,1 @@
+DECL|class|tst_QRegularExpression_ForceOptimize

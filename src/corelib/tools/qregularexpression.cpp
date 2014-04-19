@@ -1,4 +1,7 @@
 DECL|class|QPcreJitStackPointer
+DECL|enumerator|ImmediateOptimizeOption
+DECL|enumerator|LazyOptimizeOption
+DECL|enum|OptimizePatternOption
 DECL|function|QPcreJitStackPointer
 DECL|function|QRegularExpression
 DECL|function|QRegularExpression
@@ -62,6 +65,7 @@ DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator >>
+DECL|function|optimize
 DECL|function|optimizePattern
 DECL|function|pattern
 DECL|function|patternErrorOffset
