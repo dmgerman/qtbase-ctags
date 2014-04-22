@@ -88,6 +88,7 @@ DECL|function|makeRenderer11
 DECL|function|markAllStateDirty
 DECL|function|maskedClear
 DECL|function|notifyDeviceLost
+DECL|function|onSuspend
 DECL|function|readPixelColor
 DECL|function|readPixels
 DECL|function|readTextureData
@@ -114,3 +115,4 @@ DECL|macro|D3D11_MESSAGE_ID_DEVICE_DRAW_RENDERTARGETVIEW_NOT_SET
 DECL|member|DepthStencilFormats
 DECL|member|RenderTargetFormats
 DECL|namespace|rx
+DECL|typedef|SuspendEventHandler
