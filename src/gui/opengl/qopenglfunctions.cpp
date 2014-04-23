@@ -117,7 +117,6 @@ DECL|function|qopenglfResolveGetShaderPrecisionFormat
 DECL|function|qopenglfResolveGetShaderSource
 DECL|function|qopenglfResolveGetShaderiv
 DECL|function|qopenglfResolveGetString
-DECL|function|qopenglfResolveGetTexLevelParameteriv
 DECL|function|qopenglfResolveGetTexParameterfv
 DECL|function|qopenglfResolveGetTexParameteriv
 DECL|function|qopenglfResolveGetUniformLocation

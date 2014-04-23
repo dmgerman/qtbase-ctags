@@ -13,18 +13,19 @@ DECL|function|close
 DECL|function|connectToHost
 DECL|function|connectToHostByName
 DECL|function|createNewSocket
-DECL|function|engine
 DECL|function|fetchConnectionParameters
 DECL|function|get_Capacity
 DECL|function|get_Length
+DECL|function|handleBindCompleted
 DECL|function|handleClientConnection
+DECL|function|handleConnectToHost
 DECL|function|handleNewDatagram
 DECL|function|handleReadyRead
+DECL|function|handleWriteCompleted
 DECL|function|hasPendingDatagrams
 DECL|function|initialize
 DECL|function|initialize
 DECL|function|inputStream
-DECL|function|interruptEventDispatcher
 DECL|function|isExceptionNotificationEnabled
 DECL|function|isReadNotificationEnabled
 DECL|function|isValid
@@ -33,7 +34,7 @@ DECL|function|joinMulticastGroup
 DECL|function|leaveMulticastGroup
 DECL|function|listen
 DECL|function|multicastInterface
-DECL|function|nativeWrite
+DECL|function|opStatus
 DECL|function|option
 DECL|function|option
 DECL|function|pendingDatagramSize
@@ -43,7 +44,6 @@ DECL|function|read
 DECL|function|readDatagram
 DECL|function|receiveBufferSize
 DECL|function|sendBufferSize
-DECL|function|setEngine
 DECL|function|setError
 DECL|function|setExceptionNotificationEnabled
 DECL|function|setInputStream
@@ -69,8 +69,8 @@ DECL|macro|Q_CHECK_STATES
 DECL|macro|Q_CHECK_TYPE
 DECL|macro|Q_CHECK_VALID_SOCKETLAYER
 DECL|macro|Q_TR
+DECL|macro|READ_BUFFER_SIZE
 DECL|member|m_bytes
-DECL|member|m_engine
 DECL|member|m_length
 DECL|member|m_stream
 DECL|member|pendingTcpSockets
@@ -78,6 +78,7 @@ DECL|member|socketCount
 DECL|struct|SocketHandler
 DECL|typedef|ClientConnectedHandler
 DECL|typedef|DatagramReceivedHandler
+DECL|typedef|IAsyncBufferOperation
 DECL|typedef|SocketReadCompletedHandler
 DECL|typedef|SocketWriteCompletedHandler
 DECL|typedef|TcpSocketHash
