@@ -61,6 +61,8 @@ DECL|function|fromEncoded
 DECL|function|fromLocalFile
 DECL|function|fromLocalFile_data
 DECL|function|fromUserInput
+DECL|function|fromUserInputWithCwd
+DECL|function|fromUserInputWithCwd_data
 DECL|function|fromUserInput_data
 DECL|function|getSetCheck
 DECL|function|hasFragment

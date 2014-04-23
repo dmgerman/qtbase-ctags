@@ -66,6 +66,7 @@ DECL|function|fromLocalFile
 DECL|function|fromPercentEncoding
 DECL|function|fromStringList
 DECL|function|fromUserInput
+DECL|function|fromUserInput
 DECL|function|ftpScheme
 DECL|function|hasAuthority
 DECL|function|hasFragment
