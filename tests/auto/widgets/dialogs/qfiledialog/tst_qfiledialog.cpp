@@ -42,6 +42,7 @@ DECL|function|selectFile
 DECL|function|selectFile_data
 DECL|function|selectFiles
 DECL|function|selectFilter
+DECL|function|selectedFilesWithoutWidgets
 DECL|function|setEmptyNameFilter
 DECL|function|setNameFilter
 DECL|function|setNameFilter_data
