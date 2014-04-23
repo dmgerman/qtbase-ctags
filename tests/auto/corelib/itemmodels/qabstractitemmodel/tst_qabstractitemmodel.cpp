@@ -109,3 +109,4 @@ DECL|typedef|Position
 DECL|typedef|Selection
 DECL|typedef|StringTable
 DECL|typedef|StringTableRow
+DECL|variable|LayoutChangeHint
