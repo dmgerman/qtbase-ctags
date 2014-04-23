@@ -34,6 +34,10 @@ DECL|function|drawPixmap
 DECL|function|drawStaticTextItem
 DECL|function|drawTextItem
 DECL|function|end
+DECL|function|ensureBrush
+DECL|function|ensureBrush
+DECL|function|ensurePen
+DECL|function|ensurePen
 DECL|function|factory
 DECL|function|fill
 DECL|function|fontFaceFromFontEngine
@@ -54,6 +58,7 @@ DECL|function|renderHintsChanged
 DECL|function|reset
 DECL|function|reset
 DECL|function|setAliasingEnabled
+DECL|function|setState
 DECL|function|setWindingFillEnabled
 DECL|function|to_d2d_brush
 DECL|function|transformChanged
