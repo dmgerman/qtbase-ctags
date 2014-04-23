@@ -11,3 +11,4 @@ DECL|macro|QT_BRUSH_TEXTURE_UNIT
 DECL|macro|QT_IMAGE_TEXTURE_UNIT
 DECL|macro|QT_MASK_TEXTURE_UNIT
 DECL|variable|QGL2PaintEngineExPrivate
+DECL|variable|QPaintEngineExPrivate

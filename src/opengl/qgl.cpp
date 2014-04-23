@@ -101,10 +101,12 @@ DECL|function|plane
 DECL|function|profile
 DECL|function|qDrawTextureRect
 DECL|function|qOpenGLVersionFlagsFromString
+DECL|function|qgl1_functions
 DECL|function|qglClearColor
 DECL|function|qglColor
 DECL|function|qgl_byteSwapImage
 DECL|function|qgl_extensions
+DECL|function|qgl_functions
 DECL|function|qgl_hasExtension
 DECL|function|qgl_hasFeature
 DECL|function|qgluProject
