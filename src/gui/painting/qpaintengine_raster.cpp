@@ -88,7 +88,6 @@ DECL|function|initialize
 DECL|function|initializeRasterizer
 DECL|function|isAbove
 DECL|function|isPixelAligned
-DECL|function|isRect
 DECL|function|isUnclipped
 DECL|function|isUnclipped
 DECL|function|isUnclipped_normalized

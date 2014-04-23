@@ -1,13 +1,15 @@
 DECL|class|Direct2DPathGeometryWriter
 DECL|class|QWindowsDirect2DPaintEnginePrivate
+DECL|enumerator|AxisAlignedClip
 DECL|enumerator|D2DDebugDrawImageTag
 DECL|enumerator|D2DDebugDrawInitialStateTag
 DECL|enumerator|D2DDebugDrawPixmapTag
 DECL|enumerator|D2DDebugDrawStaticTextItemTag
 DECL|enumerator|D2DDebugDrawTextItemTag
 DECL|enumerator|D2DDebugFillTag
+DECL|enumerator|LayerClip
 DECL|enumerator|SimpleSystemClip
-DECL|enumerator|UserClip
+DECL|enum|ClipType
 DECL|function|Direct2DPathGeometryWriter
 DECL|function|QWindowsDirect2DPaintEngine
 DECL|function|QWindowsDirect2DPaintEnginePrivate
@@ -18,8 +20,7 @@ DECL|function|begin
 DECL|function|begin
 DECL|function|brushChanged
 DECL|function|brushOriginChanged
-DECL|function|clip
-DECL|function|clip
+DECL|function|clearClips
 DECL|function|clip
 DECL|function|clip
 DECL|function|clipEnabledChanged
@@ -48,7 +49,6 @@ DECL|function|painterPathToID2D1PathGeometry
 DECL|function|penChanged
 DECL|function|pixelSizeToDIP
 DECL|function|pointSizeToDIP
-DECL|function|popClip
 DECL|function|pushClip
 DECL|function|renderHintsChanged
 DECL|function|reset
@@ -61,7 +61,6 @@ DECL|function|type
 DECL|function|updateBrush
 DECL|function|updateBrushOrigin
 DECL|function|updateClipEnabled
-DECL|function|updateClipPath
 DECL|function|updateCompositionMode
 DECL|function|updateHints
 DECL|function|updateOpacity
@@ -74,7 +73,6 @@ DECL|member|brush
 DECL|member|brush
 DECL|member|brush
 DECL|member|clipFlags
-DECL|member|clipPath
 DECL|member|currentBrushOrigin
 DECL|member|emulate
 DECL|member|emulate
@@ -83,6 +81,7 @@ DECL|member|m_inFigure
 DECL|member|m_roundCoordinates
 DECL|member|m_sink
 DECL|member|pen
+DECL|member|pushedClips
 DECL|member|qbrush
 DECL|member|qpen
 DECL|member|strokeStyle
