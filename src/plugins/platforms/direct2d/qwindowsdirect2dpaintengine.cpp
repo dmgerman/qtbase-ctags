@@ -54,6 +54,7 @@ DECL|function|penChanged
 DECL|function|pixelSizeToDIP
 DECL|function|pointSizeToDIP
 DECL|function|pushClip
+DECL|function|rasterFill
 DECL|function|renderHintsChanged
 DECL|function|reset
 DECL|function|reset
