@@ -51,6 +51,7 @@ DECL|function|ungrabServer
 DECL|function|unlock
 DECL|function|updateScreens
 DECL|function|windowEventListenerFromId
+DECL|function|xi2GetButtonState
 DECL|function|xi2GetValuatorValueIfSet
 DECL|function|xi2PrepareXIGenericDeviceEvent
 DECL|function|xi2ValuatorOffset
