@@ -1,0 +1,2 @@
+DECL|macro|QWINDOWSOPENGLCONTEXT_H
+DECL|variable|QWindowsOpenGLContext

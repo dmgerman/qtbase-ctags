@@ -9,6 +9,7 @@ DECL|function|choosePixelFormat
 DECL|function|create
 DECL|function|createContext
 DECL|function|createContext
+DECL|function|createContext
 DECL|function|createDummyGLContext
 DECL|function|createDummyGLWindow
 DECL|function|createDummyWindowOpenGLContextData
@@ -22,6 +23,7 @@ DECL|function|getProcAddress
 DECL|function|glWindowOf
 DECL|function|handleOf
 DECL|function|hasGLOverlay
+DECL|function|init
 DECL|function|initPixelFormatDescriptor
 DECL|function|isAcceptableFormat
 DECL|function|isDirectRendering
@@ -33,6 +35,9 @@ DECL|function|qPixelFormatFromSurfaceFormat
 DECL|function|qSurfaceFormatFromHDC
 DECL|function|qSurfaceFormatFromPixelFormat
 DECL|function|releaseDCs
+DECL|function|resolve
+DECL|function|setPixelFormat
+DECL|function|swapBuffers
 DECL|function|swapBuffers
 DECL|function|testFlag
 DECL|function|~QOpenGLTemporaryContext
@@ -109,5 +114,6 @@ DECL|macro|WGL_TYPE_COLORINDEX_ARB
 DECL|macro|WGL_TYPE_RGBA_ARB
 DECL|member|m_current
 DECL|member|m_previous
+DECL|member|opengl32
 DECL|namespace|ARB
 DECL|namespace|GDI

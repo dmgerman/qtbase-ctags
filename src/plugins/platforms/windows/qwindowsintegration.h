@@ -1,2 +1,3 @@
 DECL|macro|QWINDOWSINTEGRATION_H
+DECL|variable|QWindowsStaticOpenGLContext
 DECL|variable|QWindowsWindow

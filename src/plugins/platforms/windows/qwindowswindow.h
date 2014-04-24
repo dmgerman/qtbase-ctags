@@ -31,10 +31,10 @@ DECL|member|maximumSize
 DECL|member|minimumSize
 DECL|member|obtainedGeometry
 DECL|member|requestedGeometry
+DECL|member|staticOpenGLContext
 DECL|member|style
 DECL|struct|QWindowCreationContext
 DECL|struct|QWindowsGeometryHint
 DECL|struct|QWindowsWindowData
 DECL|variable|QDebug
-DECL|variable|QWindowsEGLStaticContext
 DECL|variable|QWindowsOleDropTarget

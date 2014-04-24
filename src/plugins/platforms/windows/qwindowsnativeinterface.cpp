@@ -1,6 +1,7 @@
 DECL|function|asyncExpose
 DECL|function|createMessageWindow
 DECL|function|nativeResourceForContext
+DECL|function|nativeResourceForIntegration
 DECL|function|nativeResourceForWindow
 DECL|function|registerWindowClass
 DECL|function|setAsyncExpose
