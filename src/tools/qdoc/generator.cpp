@@ -50,10 +50,11 @@ DECL|function|outFileName
 DECL|function|outputPrefix
 DECL|function|parseArg
 DECL|function|plainCode
-DECL|function|setDebugFlag
 DECL|function|setImageFileExtensions
 DECL|function|singularPlural
 DECL|function|skipAtoms
+DECL|function|startDebugging
+DECL|function|stopDebugging
 DECL|function|supplementAlsoList
 DECL|function|terminate
 DECL|function|terminateGenerator

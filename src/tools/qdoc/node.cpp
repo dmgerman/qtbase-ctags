@@ -38,6 +38,7 @@ DECL|function|debug
 DECL|function|declarativeCppNode
 DECL|function|deleteChildren
 DECL|function|disambiguate
+DECL|function|element
 DECL|function|extractClassName
 DECL|function|findAny
 DECL|function|findChildNode
