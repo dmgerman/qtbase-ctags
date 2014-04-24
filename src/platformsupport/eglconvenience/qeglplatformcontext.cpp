@@ -1,5 +1,5 @@
 DECL|function|QEGLPlatformContext
-DECL|function|QEGLPlatformContext
+DECL|function|adopt
 DECL|function|doneCurrent
 DECL|function|eglConfig
 DECL|function|eglContext
@@ -9,6 +9,7 @@ DECL|function|getProcAddress
 DECL|function|init
 DECL|function|makeCurrent
 DECL|function|swapBuffers
+DECL|function|updateFormatFromGL
 DECL|function|~QEGLPlatformContext
 DECL|macro|EGL_CONTEXT_FLAGS_KHR
 DECL|macro|EGL_CONTEXT_MINOR_VERSION_KHR

@@ -20,6 +20,7 @@ DECL|function|initialize
 DECL|function|inputContext
 DECL|function|makeCurrent
 DECL|function|moveToScreen
+DECL|function|nativeHandle
 DECL|function|nativeInterface
 DECL|function|possibleKeys
 DECL|function|queryKeyboardModifiers
