@@ -118,7 +118,6 @@ DECL|function|signalOffset
 DECL|function|signature
 DECL|function|static_metacall
 DECL|function|stringData
-DECL|function|stringSize
 DECL|function|tag
 DECL|function|tag
 DECL|function|tr
