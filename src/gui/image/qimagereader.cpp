@@ -55,8 +55,10 @@ DECL|function|setQuality
 DECL|function|setScaledClipRect
 DECL|function|setScaledSize
 DECL|function|size
+DECL|function|subType
 DECL|function|supportedImageFormats
 DECL|function|supportedMimeTypes
+DECL|function|supportedSubTypes
 DECL|function|supportsAnimation
 DECL|function|supportsOption
 DECL|function|text

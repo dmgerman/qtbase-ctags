@@ -22,11 +22,14 @@ DECL|function|setFileName
 DECL|function|setFormat
 DECL|function|setGamma
 DECL|function|setQuality
+DECL|function|setSubType
 DECL|function|setText
+DECL|function|subType
 DECL|function|supportedImageFormats
 DECL|function|supportedImageHandlerFormats
 DECL|function|supportedImageHandlerMimeTypes
 DECL|function|supportedMimeTypes
+DECL|function|supportedSubTypes
 DECL|function|supportsOption
 DECL|function|write
 DECL|function|~QImageWriter
@@ -41,4 +44,5 @@ DECL|member|handler
 DECL|member|imageWriterError
 DECL|member|q
 DECL|member|quality
+DECL|member|subType
 DECL|member|text
