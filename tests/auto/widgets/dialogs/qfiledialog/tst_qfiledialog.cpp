@@ -30,6 +30,7 @@ DECL|function|historyBack
 DECL|function|historyForward
 DECL|function|iconProvider
 DECL|function|init
+DECL|function|isCaseSensitiveFileSystem
 DECL|function|isReadOnly
 DECL|function|itemDelegate
 DECL|function|labelText
@@ -39,6 +40,7 @@ DECL|function|resolveSymlinks
 DECL|function|saveButtonText
 DECL|function|saveButtonText_data
 DECL|function|selectFile
+DECL|function|selectFileWrongCaseSaveAs
 DECL|function|selectFile_data
 DECL|function|selectFiles
 DECL|function|selectFilter
