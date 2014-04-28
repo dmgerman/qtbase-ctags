@@ -77,4 +77,3 @@ DECL|function|writeSubDirs
 DECL|function|writeSubMakeCall
 DECL|function|writeSubTargetCall
 DECL|function|writeSubTargets
-DECL|macro|S_ISDIR
