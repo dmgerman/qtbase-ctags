@@ -91,3 +91,4 @@ DECL|member|pushedClips
 DECL|member|qbrush
 DECL|member|qpen
 DECL|member|strokeStyle
+DECL|variable|MAGICAL_ALIASING_OFFSET
