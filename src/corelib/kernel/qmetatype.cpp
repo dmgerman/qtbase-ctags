@@ -126,6 +126,7 @@ DECL|macro|QT_METATYPE_TYPEID_TYPENAME_CONVERTER
 DECL|macro|QT_METATYPE_TYPEID_TYPENAME_CONVERTER
 DECL|member|IsAccepted
 DECL|member|alias
+DECL|member|false_element
 DECL|member|iface
 DECL|member|info
 DECL|member|lock
@@ -139,10 +140,12 @@ DECL|member|m_type
 DECL|member|m_type
 DECL|member|m_where
 DECL|member|map
+DECL|member|true_element
 DECL|member|type
 DECL|member|typeName
 DECL|member|typeName
 DECL|member|typeNameLength
+DECL|namespace|QtMetaTypePrivate
 DECL|namespace|QtPrivate
 DECL|struct|Acceptor
 DECL|struct|ConstructorImpl
