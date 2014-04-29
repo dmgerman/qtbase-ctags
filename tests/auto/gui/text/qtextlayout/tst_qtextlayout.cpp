@@ -32,6 +32,7 @@ DECL|function|horizontalAlignmentMultiline_data
 DECL|function|horizontalAlignment_data
 DECL|function|init
 DECL|function|integerOverflow
+DECL|function|justifyTrailingSpaces
 DECL|function|lineBreaking
 DECL|function|lineWidthFromBOM
 DECL|function|longText
