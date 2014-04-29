@@ -2,6 +2,7 @@ DECL|class|QDebugStateSaverPrivate
 DECL|function|QDebugStateSaver
 DECL|function|QDebugStateSaverPrivate
 DECL|function|restoreState
+DECL|function|~QDebug
 DECL|function|~QDebugStateSaver
 DECL|macro|QT_NO_DEBUG
 DECL|macro|qDebug
