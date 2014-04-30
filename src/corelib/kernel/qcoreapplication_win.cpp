@@ -12,6 +12,7 @@ DECL|function|qWinAppCmdShow
 DECL|function|qWinAppInst
 DECL|function|qWinAppPrevInst
 DECL|function|qWinMain
+DECL|function|qWinMain
 DECL|function|removePostedTimerEvent
 DECL|function|valueCheck
 DECL|macro|ENDSESSION_CLOSEAPP
