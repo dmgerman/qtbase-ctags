@@ -11,6 +11,7 @@ DECL|function|handleDisplayChange
 DECL|function|handleScreenChanges
 DECL|function|indexOfMonitor
 DECL|function|indexOfMonitor
+DECL|function|monitorDPI
 DECL|function|monitorData
 DECL|function|monitorEnumCallback
 DECL|function|operator <<

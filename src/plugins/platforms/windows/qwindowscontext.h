@@ -1,5 +1,8 @@
+DECL|function|isValid
 DECL|macro|QWINDOWSCONTEXT_H
 DECL|member|closeTouchInputHandle
+DECL|member|getDpiForMonitor
+DECL|member|getProcessDpiAwareness
 DECL|member|getTouchInputInfo
 DECL|member|isHungAppWindow
 DECL|member|registerTouchWindow
@@ -8,12 +11,16 @@ DECL|member|sHGetImageList
 DECL|member|sHGetStockIconInfo
 DECL|member|setLayeredWindowAttributes
 DECL|member|setProcessDPIAware
+DECL|member|setProcessDpiAwareness
 DECL|member|unregisterTouchWindow
 DECL|member|updateLayeredWindow
 DECL|member|updateLayeredWindowIndirect
+DECL|struct|QWindowsShcoreDLL
 DECL|struct|QWindowsShell32DLL
 DECL|struct|QWindowsUser32DLL
 DECL|typedef|CloseTouchInputHandle
+DECL|typedef|GetDpiForMonitor
+DECL|typedef|GetProcessDpiAwareness
 DECL|typedef|GetTouchInputInfo
 DECL|typedef|IsHungAppWindow
 DECL|typedef|RegisterTouchWindow
@@ -22,6 +29,7 @@ DECL|typedef|SHGetImageList
 DECL|typedef|SHGetStockIconInfo
 DECL|typedef|SetLayeredWindowAttributes
 DECL|typedef|SetProcessDPIAware
+DECL|typedef|SetProcessDpiAwareness
 DECL|typedef|UnregisterTouchWindow
 DECL|typedef|UpdateLayeredWindow
 DECL|typedef|UpdateLayeredWindowIndirect

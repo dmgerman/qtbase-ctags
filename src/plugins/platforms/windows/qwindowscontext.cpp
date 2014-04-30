@@ -1,5 +1,6 @@
 DECL|function|QWindowsContext
 DECL|function|QWindowsContextPrivate
+DECL|function|QWindowsShcoreDLL
 DECL|function|QWindowsShell32DLL
 DECL|function|QWindowsUser32DLL
 DECL|function|addWindow
@@ -19,6 +20,7 @@ DECL|function|handleFocusEvent
 DECL|function|hasTouchSupport
 DECL|function|init
 DECL|function|init
+DECL|function|init
 DECL|function|initTouch
 DECL|function|instance
 DECL|function|keyGrabber
@@ -33,6 +35,7 @@ DECL|function|screenDepth
 DECL|function|screenManager
 DECL|function|setAsyncExpose
 DECL|function|setKeyGrabber
+DECL|function|setProcessDpiAwareness
 DECL|function|setTabletAbsoluteRange
 DECL|function|setWindowCreationContext
 DECL|function|systemInfo
@@ -61,6 +64,7 @@ DECL|member|m_screenManager
 DECL|member|m_systemInfo
 DECL|member|m_tabletSupport
 DECL|member|m_windows
+DECL|member|shcoredll
 DECL|member|shell32dll
 DECL|member|user32dll
 DECL|member|verbose
