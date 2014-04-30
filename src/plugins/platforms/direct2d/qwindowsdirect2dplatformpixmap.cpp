@@ -1,5 +1,7 @@
 DECL|class|QWindowsDirect2DPlatformPixmapPrivate
 DECL|function|QWindowsDirect2DPlatformPixmap
+DECL|function|QWindowsDirect2DPlatformPixmap
+DECL|function|QWindowsDirect2DPlatformPixmapPrivate
 DECL|function|QWindowsDirect2DPlatformPixmapPrivate
 DECL|function|bitmap
 DECL|function|devicePixelRatio
@@ -13,7 +15,9 @@ DECL|function|setDevicePixelRatio
 DECL|function|toImage
 DECL|function|toImage
 DECL|function|~QWindowsDirect2DPlatformPixmap
+DECL|function|~QWindowsDirect2DPlatformPixmapPrivate
 DECL|member|bitmap
 DECL|member|device
 DECL|member|devicePixelRatio
+DECL|member|owns_bitmap
 DECL|variable|qt_d2dpixmap_serno

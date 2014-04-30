@@ -1,1 +1,2 @@
 DECL|macro|QWINDOWSDIRECT2DBACKINGSTORE_H
+DECL|variable|QWindowsDirect2DWindow
