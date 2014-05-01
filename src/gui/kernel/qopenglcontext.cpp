@@ -34,8 +34,8 @@ DECL|function|hasExtension
 DECL|function|hasProfiles
 DECL|function|insert
 DECL|function|insertFunctionsBackend
-DECL|function|isES
 DECL|function|isLegacyVersion
+DECL|function|isOpenGLES
 DECL|function|isValid
 DECL|function|isValid
 DECL|function|makeCurrent
