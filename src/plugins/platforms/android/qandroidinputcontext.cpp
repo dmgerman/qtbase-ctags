@@ -19,6 +19,8 @@ DECL|function|endBatchEdit
 DECL|function|finishComposingText
 DECL|function|finishComposingText
 DECL|function|focusObjectInputMethodQuery
+DECL|function|getAbsoluteCursorPosition
+DECL|function|getBlockPosition
 DECL|function|getCursorCapsMode
 DECL|function|getCursorCapsMode
 DECL|function|getExtractedText
