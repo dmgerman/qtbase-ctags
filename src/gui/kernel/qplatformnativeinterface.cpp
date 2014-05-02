@@ -8,6 +8,7 @@ DECL|function|nativeResourceFunctionForContext
 DECL|function|nativeResourceFunctionForIntegration
 DECL|function|nativeResourceFunctionForScreen
 DECL|function|nativeResourceFunctionForWindow
+DECL|function|platformFunction
 DECL|function|setWindowProperty
 DECL|function|windowProperties
 DECL|function|windowProperty

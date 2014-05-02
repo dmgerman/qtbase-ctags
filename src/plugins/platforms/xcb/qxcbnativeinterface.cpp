@@ -15,6 +15,7 @@ DECL|function|nativeResourceForWindow
 DECL|function|nativeResourceFunctionForContext
 DECL|function|nativeResourceFunctionForIntegration
 DECL|function|nativeResourceFunctionForScreen
+DECL|function|platformFunction
 DECL|function|qPlatformScreenForWindow
 DECL|function|requestSystemTrayWindowDock
 DECL|function|resourceType

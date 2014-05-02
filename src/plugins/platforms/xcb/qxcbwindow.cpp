@@ -108,6 +108,8 @@ DECL|function|setWindowFlags
 DECL|function|setWindowIcon
 DECL|function|setWindowState
 DECL|function|setWindowTitle
+DECL|function|setWmWindowType
+DECL|function|setWmWindowTypeStatic
 DECL|function|show
 DECL|function|startSystemResize
 DECL|function|tlWindow
@@ -120,6 +122,7 @@ DECL|function|updateSyncRequestCounter
 DECL|function|winId
 DECL|function|windowEvent
 DECL|function|windowToWmGeometry
+DECL|function|wmWindowTypes
 DECL|function|~QXcbWindow
 DECL|macro|FocusIn
 DECL|macro|XCB_WM_STATE_ICONIC
@@ -153,3 +156,4 @@ DECL|member|m_window
 DECL|member|status
 DECL|struct|QtMotifWmHints
 DECL|variable|XEMBED_VERSION
+DECL|variable|wm_window_type_property_id

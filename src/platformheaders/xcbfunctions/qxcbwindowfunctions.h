@@ -1,0 +1,2 @@
+DECL|macro|QXCBWINDOWFUNCTIONS_H
+DECL|variable|QWindow

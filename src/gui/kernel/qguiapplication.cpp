@@ -70,6 +70,7 @@ DECL|function|notifyWindowIconChanged
 DECL|function|operator ==
 DECL|function|overrideCursor
 DECL|function|palette
+DECL|function|platformFunction
 DECL|function|platformName
 DECL|function|platformNativeInterface
 DECL|function|primaryScreen
