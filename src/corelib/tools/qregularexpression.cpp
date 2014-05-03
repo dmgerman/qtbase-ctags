@@ -1,6 +1,9 @@
 DECL|class|QPcreJitStackPointer
+DECL|enumerator|CheckSubjectString
+DECL|enumerator|DontCheckSubjectString
 DECL|enumerator|ImmediateOptimizeOption
 DECL|enumerator|LazyOptimizeOption
+DECL|enum|CheckSubjectStringOption
 DECL|enum|OptimizePatternOption
 DECL|function|QPcreJitStackPointer
 DECL|function|QRegularExpression
