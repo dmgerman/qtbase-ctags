@@ -42,6 +42,8 @@ DECL|function|toString
 DECL|function|toText
 DECL|function|utf8SubjectNames
 DECL|function|verify
+DECL|function|version
+DECL|function|version_data
 DECL|macro|VERIFY_VERBOSE
 DECL|macro|VERIFY_VERBOSE
 DECL|member|cert
