@@ -23,6 +23,7 @@ DECL|function|qt_mac_create_fsref
 DECL|function|qt_mac_from_pascal_string
 DECL|function|qt_mac_to_pascal_string
 DECL|function|qunsetenv
+DECL|function|readEtcOsRelease
 DECL|function|registerCallback
 DECL|function|unknownText
 DECL|function|unquote
@@ -30,6 +31,7 @@ DECL|function|unregisterCallback
 DECL|function|winOsVersion
 DECL|function|winVer_helper
 DECL|function|windowsVersion
+DECL|macro|USE_ETC_OS_RELEASE
 DECL|macro|VER_PLATFORM_WIN32_CE
 DECL|macro|VER_PLATFORM_WIN32_NT
 DECL|macro|VER_PLATFORM_WIN32_WINDOWS
