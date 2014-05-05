@@ -16,6 +16,7 @@ DECL|function|QTBUG14614_gradientCacheRaceCondition
 DECL|function|QTBUG17053_zeroDashPattern
 DECL|function|QTBUG25153_drawLine
 DECL|function|QTBUG26013_squareCapStroke
+DECL|function|QTBUG38781_NoBrushAndQBitmap
 DECL|function|QTBUG5939_attachPainterPrivate
 DECL|function|TestProxy
 DECL|function|TestWidget
