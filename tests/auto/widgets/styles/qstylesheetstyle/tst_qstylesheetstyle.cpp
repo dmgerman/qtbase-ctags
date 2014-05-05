@@ -24,6 +24,7 @@ DECL|function|appStyle
 DECL|function|applicationStyleSheet
 DECL|function|attributesList
 DECL|function|background
+DECL|function|centerOnScreen
 DECL|function|changeEvent
 DECL|function|changeStyleInChangeEvent
 DECL|function|complexWidgetFocus
