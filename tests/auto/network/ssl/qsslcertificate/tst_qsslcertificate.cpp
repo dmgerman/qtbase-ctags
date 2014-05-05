@@ -9,6 +9,7 @@ DECL|function|compareCertificates
 DECL|function|constructingGarbage
 DECL|function|constructor
 DECL|function|constructor_data
+DECL|function|constructor_device
 DECL|function|convertDigest
 DECL|function|copyAndAssign
 DECL|function|copyAndAssign_data
