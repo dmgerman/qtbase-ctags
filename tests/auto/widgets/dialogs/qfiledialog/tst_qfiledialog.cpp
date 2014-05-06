@@ -1,6 +1,8 @@
+DECL|class|DialogRejecter
 DECL|class|MyAbstractItemDelegate
 DECL|class|QNonNativeFileDialog
 DECL|class|tst_QFiledialog
+DECL|function|DialogRejecter
 DECL|function|MyAbstractItemDelegate
 DECL|function|QNonNativeFileDialog
 DECL|function|acceptMode
@@ -25,6 +27,7 @@ DECL|function|filesSelectedSignal_data
 DECL|function|filterSelectedSignal
 DECL|function|filters
 DECL|function|focus
+DECL|function|getFileUrl
 DECL|function|history
 DECL|function|historyBack
 DECL|function|historyForward
@@ -36,6 +39,7 @@ DECL|function|itemDelegate
 DECL|function|labelText
 DECL|function|paint
 DECL|function|proxymodel
+DECL|function|rejectFileDialog
 DECL|function|resolveSymlinks
 DECL|function|saveButtonText
 DECL|function|saveButtonText_data
