@@ -39,6 +39,7 @@ DECL|function|setElideMode
 DECL|function|setIconSize
 DECL|function|setMovable
 DECL|function|setTabBar
+DECL|function|setTabBarAutoHide
 DECL|function|setTabEnabled
 DECL|function|setTabIcon
 DECL|function|setTabPosition
@@ -52,6 +53,7 @@ DECL|function|setUsesScrollButtons
 DECL|function|showEvent
 DECL|function|sizeHint
 DECL|function|tabBar
+DECL|function|tabBarAutoHide
 DECL|function|tabIcon
 DECL|function|tabInserted
 DECL|function|tabPosition

@@ -5,6 +5,7 @@ DECL|class|Widget10052
 DECL|class|tst_QTabBar
 DECL|function|TitleChangeTabBar
 DECL|function|Widget10052
+DECL|function|autoHide
 DECL|function|callMoveTab
 DECL|function|changeTitleWhileDoubleClickingTab
 DECL|function|cleanupTestCase

@@ -6,6 +6,8 @@ DECL|function|addTab
 DECL|function|addTab
 DECL|function|at
 DECL|function|at
+DECL|function|autoHide
+DECL|function|autoHideTabs
 DECL|function|calculateNewPosition
 DECL|function|changeEvent
 DECL|function|computeElidedText
@@ -47,6 +49,7 @@ DECL|function|refresh
 DECL|function|removeTab
 DECL|function|resizeEvent
 DECL|function|selectionBehaviorOnRemove
+DECL|function|setAutoHide
 DECL|function|setCurrentIndex
 DECL|function|setCurrentNextEnabledIndex
 DECL|function|setDocumentMode
