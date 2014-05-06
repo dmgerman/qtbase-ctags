@@ -1,3 +1,4 @@
+DECL|enumerator|Display
 DECL|enumerator|EglContext
 DECL|enumerator|EglDisplay
 DECL|enumerator|EglWindow
@@ -17,6 +18,7 @@ DECL|function|initialize
 DECL|function|nativeInterface
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForIntegration
+DECL|function|nativeResourceForScreen
 DECL|function|nativeResourceForWindow
 DECL|function|nativeResourceFunctionForContext
 DECL|function|resourceType
