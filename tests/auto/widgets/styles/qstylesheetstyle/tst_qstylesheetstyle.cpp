@@ -1,3 +1,4 @@
+DECL|class|ApplicationStyleSetter
 DECL|class|ChangeEventWidget
 DECL|class|DoubleInheritanceDialog
 DECL|class|FriendlySpinBox
@@ -9,6 +10,7 @@ DECL|class|tst_QStyleSheetStyle
 DECL|function|APPBACKGROUND
 DECL|function|APPCOLOR
 DECL|function|APPFONTSIZE
+DECL|function|ApplicationStyleSetter
 DECL|function|BACKGROUND
 DECL|function|COLOR
 DECL|function|DoubleInheritanceDialog
@@ -75,6 +77,8 @@ DECL|function|widgetStyleSheet
 DECL|function|widgetsAfterAppStyleSheet
 DECL|function|widgetsBeforeAppStyleSheet
 DECL|function|windowStyleSheet
+DECL|function|~ApplicationStyleSetter
 DECL|function|~tst_QStyleSheetStyle
+DECL|member|m_oldStyleName
 DECL|member|style
 DECL|namespace|ns
