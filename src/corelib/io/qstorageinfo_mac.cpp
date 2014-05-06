@@ -1,0 +1,10 @@
+DECL|function|CFDictionaryGetInt64
+DECL|function|doStat
+DECL|function|initRootPath
+DECL|function|mountedVolumes
+DECL|function|retrieveLabel
+DECL|function|retrievePosixInfo
+DECL|function|retrieveUrlProperties
+DECL|function|root
+DECL|macro|QT_STATFS
+DECL|macro|QT_STATFSBUF

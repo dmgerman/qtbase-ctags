@@ -1,0 +1,21 @@
+DECL|function|QStorageInfo
+DECL|function|QStorageInfo
+DECL|function|QStorageInfo
+DECL|function|QStorageInfo
+DECL|function|bytesAvailable
+DECL|function|bytesFree
+DECL|function|bytesTotal
+DECL|function|device
+DECL|function|displayName
+DECL|function|fileSystemType
+DECL|function|isReadOnly
+DECL|function|isReady
+DECL|function|isValid
+DECL|function|mountedVolumes
+DECL|function|name
+DECL|function|operator =
+DECL|function|refresh
+DECL|function|root
+DECL|function|rootPath
+DECL|function|setPath
+DECL|function|~QStorageInfo
