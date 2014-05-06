@@ -20,6 +20,7 @@ DECL|function|iconProvider
 DECL|function|indexPath
 DECL|function|init
 DECL|function|initTestCase
+DECL|function|lastEntry
 DECL|function|mkdir
 DECL|function|nameFilters
 DECL|function|naturalCompare

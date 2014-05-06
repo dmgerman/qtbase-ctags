@@ -132,12 +132,14 @@ DECL|function|resizeCtorAndDtor
 DECL|function|resizePOD
 DECL|function|resizePOD_data
 DECL|function|setSharable
+DECL|function|setSharable
 DECL|function|setSharableCustom
 DECL|function|setSharableCustom_data
 DECL|function|setSharableInt
 DECL|function|setSharableInt_data
 DECL|function|setSharableMovable
 DECL|function|setSharableMovable_data
+DECL|function|setSharable_data
 DECL|function|setSharable_data
 DECL|function|size
 DECL|function|sizeCustom

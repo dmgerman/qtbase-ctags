@@ -2,6 +2,7 @@ DECL|function|XInput2DeviceData
 DECL|function|deviceForId
 DECL|function|finalizeXInput2
 DECL|function|fixed1616ToReal
+DECL|function|handleEnterEvent
 DECL|function|initializeXInput2
 DECL|function|valuatorNormalized
 DECL|function|xi2HandleEvent

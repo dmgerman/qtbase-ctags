@@ -10,8 +10,7 @@ DECL|function|nonCharacters
 DECL|function|nonCharacters_data
 DECL|function|roundTrip
 DECL|function|roundTrip_data
+DECL|function|to8Bit
 DECL|member|codec
 DECL|member|from8BitPtr
-DECL|member|to8Bit
-DECL|member|to8Bit
 DECL|variable|utf8bom
