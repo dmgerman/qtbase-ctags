@@ -13,6 +13,7 @@ DECL|function|notifyActiveWindowChange
 DECL|function|openPopup
 DECL|function|qt_cleanup
 DECL|function|qt_init
+DECL|function|qt_init_tooltip_palette
 DECL|function|qt_tlw_for_window
 DECL|function|qt_try_modal
 DECL|function|qt_win_display_dc

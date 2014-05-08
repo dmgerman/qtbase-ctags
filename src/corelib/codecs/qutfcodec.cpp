@@ -42,3 +42,4 @@ DECL|function|simdEncodeAscii
 DECL|function|~QUtf16Codec
 DECL|function|~QUtf32Codec
 DECL|function|~QUtf8Codec
+DECL|variable|utf8bom

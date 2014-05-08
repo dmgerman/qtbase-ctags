@@ -48,6 +48,7 @@ DECL|function|directory
 DECL|function|directoryUrl
 DECL|function|done
 DECL|function|emitFilesSelected
+DECL|function|fileFromPath
 DECL|function|fileMode
 DECL|function|filter
 DECL|function|getEnvironmentVariable
@@ -66,6 +67,7 @@ DECL|function|iconProvider
 DECL|function|init
 DECL|function|initHelper
 DECL|function|initialSelection
+DECL|function|isCaseSensitiveFileSystem
 DECL|function|isNameFilterDetailsVisible
 DECL|function|isReadOnly
 DECL|function|itemDelegate

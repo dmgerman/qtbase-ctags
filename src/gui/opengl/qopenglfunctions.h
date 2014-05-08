@@ -70,7 +70,6 @@ DECL|function|glGetShaderPrecisionFormat
 DECL|function|glGetShaderSource
 DECL|function|glGetShaderiv
 DECL|function|glGetString
-DECL|function|glGetTexLevelParameteriv
 DECL|function|glGetTexParameterfv
 DECL|function|glGetTexParameteriv
 DECL|function|glGetUniformLocation
