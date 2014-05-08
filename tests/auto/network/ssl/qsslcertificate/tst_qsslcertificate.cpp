@@ -9,6 +9,7 @@ DECL|function|compareCertificates
 DECL|function|constructingGarbage
 DECL|function|constructor
 DECL|function|constructor_data
+DECL|function|constructor_device
 DECL|function|convertDigest
 DECL|function|copyAndAssign
 DECL|function|copyAndAssign_data
@@ -43,6 +44,8 @@ DECL|function|toString
 DECL|function|toText
 DECL|function|utf8SubjectNames
 DECL|function|verify
+DECL|function|version
+DECL|function|version_data
 DECL|macro|VERIFY_VERBOSE
 DECL|macro|VERIFY_VERBOSE
 DECL|member|cert

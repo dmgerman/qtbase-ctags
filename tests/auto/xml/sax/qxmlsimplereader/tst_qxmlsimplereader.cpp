@@ -35,6 +35,7 @@ DECL|function|warning
 DECL|function|~tst_QXmlSimpleReader
 DECL|macro|CHUNK_SIZE
 DECL|macro|TEST_PORT
+DECL|member|listening
 DECL|member|prefix
 DECL|member|publicId
 DECL|member|quit_soon

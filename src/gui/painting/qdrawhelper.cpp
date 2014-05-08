@@ -314,6 +314,7 @@ DECL|function|storePixel
 DECL|function|storePixels
 DECL|function|storePixels
 DECL|macro|BILINEAR_DOWNSCALE_BOUNDS_PROLOG
+DECL|macro|BILINEAR_ROTATE_BOUNDS_PROLOG
 DECL|macro|FIXPT_BITS
 DECL|macro|FIXPT_SIZE
 DECL|macro|MASK
