@@ -15,6 +15,7 @@ DECL|function|monitorDPI
 DECL|function|monitorData
 DECL|function|monitorEnumCallback
 DECL|function|operator <<
+DECL|function|removeScreen
 DECL|function|screenOf
 DECL|function|sharedCursor
 DECL|function|virtualSiblings
