@@ -20,6 +20,7 @@ DECL|function|isValid
 DECL|function|leading
 DECL|function|lineThickness
 DECL|function|loadFromData
+DECL|function|loadFromData
 DECL|function|loadFromFile
 DECL|function|maxCharWidth
 DECL|function|operator =
