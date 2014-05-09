@@ -14,8 +14,10 @@ DECL|function|cacheStatistics
 DECL|function|capitalization
 DECL|function|cleanup
 DECL|function|cleanup
+DECL|function|cleanup
 DECL|function|clear
 DECL|function|decreaseCost
+DECL|function|defaultFamily
 DECL|function|detach
 DECL|function|detachButKeepEngineData
 DECL|function|engineForScript
@@ -33,6 +35,7 @@ DECL|function|get_extended_font_bits
 DECL|function|get_font_bits
 DECL|function|hintingPreference
 DECL|function|increaseCost
+DECL|function|initialize
 DECL|function|insertEngine
 DECL|function|insertEngineData
 DECL|function|insertSubstitution
@@ -43,6 +46,8 @@ DECL|function|isCopyOf
 DECL|function|italic
 DECL|function|kerning
 DECL|function|key
+DECL|function|lastResortFamily
+DECL|function|lastResortFont
 DECL|function|letterSpacing
 DECL|function|letterSpacingType
 DECL|function|operator !=
@@ -67,6 +72,7 @@ DECL|function|qt_defaultDpiX
 DECL|function|qt_defaultDpiY
 DECL|function|rawMode
 DECL|function|rawMode
+DECL|function|rawName
 DECL|function|removeSubstitutions
 DECL|function|resolve
 DECL|function|resolve
@@ -81,6 +87,7 @@ DECL|function|setPixelSize
 DECL|function|setPointSize
 DECL|function|setPointSizeF
 DECL|function|setRawMode
+DECL|function|setRawName
 DECL|function|setStretch
 DECL|function|setStrikeOut
 DECL|function|setStyle
