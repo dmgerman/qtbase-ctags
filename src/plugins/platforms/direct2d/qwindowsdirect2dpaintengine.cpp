@@ -38,6 +38,7 @@ DECL|function|close
 DECL|function|compositionModeChanged
 DECL|function|curveTo
 DECL|function|dc
+DECL|function|draw
 DECL|function|drawEllipse
 DECL|function|drawEllipse
 DECL|function|drawGlyphRun
@@ -56,6 +57,7 @@ DECL|function|ensureBrush
 DECL|function|ensurePen
 DECL|function|ensurePen
 DECL|function|factory
+DECL|function|fill
 DECL|function|fill
 DECL|function|fillRect
 DECL|function|fontFaceFromFontEngine
@@ -79,6 +81,8 @@ DECL|function|reset
 DECL|function|setAliasingEnabled
 DECL|function|setState
 DECL|function|setWindingFillEnabled
+DECL|function|stroke
+DECL|function|stroke
 DECL|function|to_d2d_brush
 DECL|function|transformChanged
 DECL|function|type
