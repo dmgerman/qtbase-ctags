@@ -1,6 +1,10 @@
 DECL|function|QKeyMapper
+DECL|function|QKeyMapperPrivate
 DECL|function|changeKeyboard
+DECL|function|clearMappings
 DECL|function|instance
+DECL|function|possibleKeys
 DECL|function|possibleKeys
 DECL|function|qt_keymapper_private
 DECL|function|~QKeyMapper
+DECL|function|~QKeyMapperPrivate
