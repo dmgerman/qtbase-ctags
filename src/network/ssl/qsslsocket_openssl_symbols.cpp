@@ -1,3 +1,5 @@
+DECL|function|q_getTimeFromASN1
+DECL|function|q_resolveOpenSslSymbols
 DECL|function|qsslSocketCannotResolveSymbolWarning
 DECL|function|qsslSocketUnresolvedSymbolWarning
 DECL|macro|RESOLVEFUNC
