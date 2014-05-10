@@ -37,6 +37,7 @@ DECL|function|isBound
 DECL|function|isBound
 DECL|function|isBound
 DECL|function|isCreated
+DECL|function|isFixedSamplePositions
 DECL|function|isStorageAllocated
 DECL|function|isTextureView
 DECL|function|layers
@@ -57,6 +58,7 @@ DECL|function|release
 DECL|function|release
 DECL|function|release
 DECL|function|release
+DECL|function|samples
 DECL|function|setAutoMipMapGenerationEnabled
 DECL|function|setBorderColor
 DECL|function|setBorderColor
@@ -82,6 +84,7 @@ DECL|function|setData
 DECL|function|setData
 DECL|function|setData
 DECL|function|setDepthStencilMode
+DECL|function|setFixedSamplePositions
 DECL|function|setFormat
 DECL|function|setLayers
 DECL|function|setLevelOfDetailRange
@@ -96,6 +99,7 @@ DECL|function|setMipBaseLevel
 DECL|function|setMipLevelRange
 DECL|function|setMipLevels
 DECL|function|setMipMaxLevel
+DECL|function|setSamples
 DECL|function|setSize
 DECL|function|setSwizzleMask
 DECL|function|setSwizzleMask
