@@ -103,6 +103,7 @@ DECL|function|~QTBUG13079_Node
 DECL|function|~QTBUG13079_NodeAssoc
 DECL|function|~QTBUG13079_NodePtr
 DECL|function|~tst_Collections
+DECL|macro|QVERIFY_TYPE
 DECL|macro|STUFF
 DECL|macro|STUFF
 DECL|macro|TEST_ASSOCIATIVE_CONTAINER
