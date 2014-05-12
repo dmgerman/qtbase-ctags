@@ -8,6 +8,8 @@ DECL|function|QFontEngine
 DECL|function|QFontEngineBox
 DECL|function|QFontEngineBox
 DECL|function|QFontEngineMulti
+DECL|function|QFontEngineMultiBasicImpl
+DECL|function|QFontEngineMultiBasicImpl
 DECL|function|QFontEngine_startCollectingEngines
 DECL|function|QFontEngine_stopCollectingEngines
 DECL|function|addBitmapFontToPath
@@ -43,11 +45,13 @@ DECL|function|clearGlyphCache
 DECL|function|cloneWithSize
 DECL|function|collectSingleContour
 DECL|function|convertToPostscriptFontFamilyName
+DECL|function|createMultiFontEngine
 DECL|function|descent
 DECL|function|descent
 DECL|function|doKerning
 DECL|function|doKerning
 DECL|function|draw
+DECL|function|ensureFallbackFamiliesQueried
 DECL|function|getCMap
 DECL|function|getGlyphBearings
 DECL|function|getGlyphBearings
@@ -73,12 +77,14 @@ DECL|function|hb_getPointInOutline
 DECL|function|hb_getSFntTable
 DECL|function|hb_stringToGlyphs
 DECL|function|highByte
+DECL|function|init
 DECL|function|kerning
 DECL|function|lastRightBearing
 DECL|function|leading
 DECL|function|leading
 DECL|function|lineThickness
 DECL|function|lineThickness
+DECL|function|loadEngine
 DECL|function|loadKerningPairs
 DECL|function|lockedAlphaMapForGlyph
 DECL|function|maxCharWidth
@@ -93,6 +99,7 @@ DECL|function|qtransform_equals_no_translate
 DECL|function|recalcAdvances
 DECL|function|recalcAdvances
 DECL|function|removeGlyphFromCache
+DECL|function|setFallbackFamiliesList
 DECL|function|setGlyphCache
 DECL|function|shouldLoadFontEngineForCharacter
 DECL|function|stringToCMap
