@@ -19,6 +19,7 @@ DECL|function|fromData
 DECL|function|fromDevice
 DECL|function|fromPath
 DECL|function|handle
+DECL|function|importPKCS12
 DECL|function|init
 DECL|function|isBlacklisted
 DECL|function|isBlacklisted

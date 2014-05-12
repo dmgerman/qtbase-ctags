@@ -46,7 +46,6 @@ DECL|function|encryptedBytesToWrite
 DECL|function|flush
 DECL|function|ignoreSslErrors
 DECL|function|ignoreSslErrors
-DECL|function|importPKCS12
 DECL|function|init
 DECL|function|isEncrypted
 DECL|function|isPaused

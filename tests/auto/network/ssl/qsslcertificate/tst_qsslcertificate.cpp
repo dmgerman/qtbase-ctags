@@ -28,6 +28,7 @@ DECL|function|largeSerialNumber
 DECL|function|multipleCommonNames
 DECL|function|nulInCN
 DECL|function|nulInSan
+DECL|function|pkcs12
 DECL|function|publicKey
 DECL|function|publicKey_data
 DECL|function|readFile

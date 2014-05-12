@@ -73,7 +73,6 @@ DECL|function|onReadyReadFirstBytes
 DECL|function|peerCertificate
 DECL|function|peerCertificateChain
 DECL|function|peerVerifyError
-DECL|function|pkcs12
 DECL|function|privateKey
 DECL|function|privateKeyOpaque
 DECL|function|protocol
