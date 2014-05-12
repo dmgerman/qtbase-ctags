@@ -1,5 +1,7 @@
 DECL|class|QGLDefaultExtensions
 DECL|class|QGLDefaultOverlayFormat
+DECL|class|QGLTemporaryContextPrivate
+DECL|function|QGLContext
 DECL|function|QGLContext
 DECL|function|QGLContext
 DECL|function|QGLContextGroup
@@ -10,6 +12,7 @@ DECL|function|QGLDefaultOverlayFormat
 DECL|function|QGLFormat
 DECL|function|QGLFormat
 DECL|function|QGLFormat
+DECL|function|QGLTemporaryContext
 DECL|function|QGLTextureCache
 DECL|function|QGLWidget
 DECL|function|QGLWidget
@@ -40,11 +43,16 @@ DECL|function|bindTexture
 DECL|function|bindTexture
 DECL|function|blueBufferSize
 DECL|function|canBindCompressedTexture
+DECL|function|chooseContext
 DECL|function|cleanup
 DECL|function|cleanupBeforePixmapDestruction
+DECL|function|cleanupColormaps
 DECL|function|cleanupTexturesForCacheKey
 DECL|function|cleanupTexturesForPixampData
+DECL|function|colorIndex
+DECL|function|colormap
 DECL|function|context
+DECL|function|contextHandle
 DECL|function|convertFromGLImage
 DECL|function|convertToGLFormat
 DECL|function|convertToGLFormatHelper
@@ -59,18 +67,26 @@ DECL|function|detach
 DECL|function|device
 DECL|function|deviceIsPixmap
 DECL|function|doneCurrent
+DECL|function|doneCurrent
 DECL|function|doubleBuffer
 DECL|function|drawTexture
 DECL|function|drawTexture
 DECL|function|drawTexture
 DECL|function|drawTexture
+DECL|function|event
 DECL|function|format
 DECL|function|format
+DECL|function|fromOpenGLContext
+DECL|function|fromSurfaceFormat
 DECL|function|functions
+DECL|function|getProcAddress
 DECL|function|glDraw
 DECL|function|glInit
 DECL|function|grabFrameBuffer
 DECL|function|greenBufferSize
+DECL|function|hasOpenGL
+DECL|function|hasOpenGLOverlays
+DECL|function|init
 DECL|function|init
 DECL|function|initContext
 DECL|function|initializeGL
@@ -85,6 +101,8 @@ DECL|function|isValid
 DECL|function|isValid
 DECL|function|majorVersion
 DECL|function|makeCurrent
+DECL|function|makeCurrent
+DECL|function|makeOverlayCurrent
 DECL|function|maxTextureSize
 DECL|function|minorVersion
 DECL|function|moveToThread
@@ -93,12 +111,15 @@ DECL|function|operator !=
 DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator ==
+DECL|function|overlayContext
+DECL|function|overlayTransparentColor
 DECL|function|paintEngine
 DECL|function|paintEvent
 DECL|function|paintGL
 DECL|function|paintOverlayGL
 DECL|function|plane
 DECL|function|profile
+DECL|function|qDeleteQGLContext
 DECL|function|qDrawTextureRect
 DECL|function|qOpenGLVersionFlagsFromString
 DECL|function|qgl1_functions
@@ -129,10 +150,13 @@ DECL|function|remove
 DECL|function|remove
 DECL|function|removeContextTextures
 DECL|function|removeShare
+DECL|function|renderCxPm
 DECL|function|renderPixmap
 DECL|function|renderText
 DECL|function|renderText
 DECL|function|requestedFormat
+DECL|function|reset
+DECL|function|resizeEvent
 DECL|function|resizeGL
 DECL|function|resizeOverlayGL
 DECL|function|samples
@@ -142,6 +166,8 @@ DECL|function|setAlpha
 DECL|function|setAlphaBufferSize
 DECL|function|setAutoBufferSwap
 DECL|function|setBlueBufferSize
+DECL|function|setColormap
+DECL|function|setContext
 DECL|function|setCurrentContext
 DECL|function|setDefaultFormat
 DECL|function|setDefaultOverlayFormat
@@ -171,7 +197,9 @@ DECL|function|setValid
 DECL|function|setVersion
 DECL|function|setVertexAttribArrayEnabled
 DECL|function|setWindowCreated
+DECL|function|setupSharing
 DECL|function|stencilBufferSize
+DECL|function|swapBuffers
 DECL|function|swapBuffers
 DECL|function|swapInterval
 DECL|function|swapRegion
@@ -179,13 +207,16 @@ DECL|function|syncGlState
 DECL|function|testOption
 DECL|function|textureCacheLimit
 DECL|function|textureCacheLookup
+DECL|function|toSurfaceFormat
 DECL|function|transform_point
 DECL|function|updateGL
+DECL|function|updateOverlayGL
 DECL|function|windowCreated
 DECL|function|~QGLContext
 DECL|function|~QGLContextGroup
 DECL|function|~QGLContextPrivate
 DECL|function|~QGLFormat
+DECL|function|~QGLTemporaryContext
 DECL|function|~QGLTextureCache
 DECL|function|~QGLThreadContext
 DECL|function|~QGLWidget
@@ -230,6 +261,7 @@ DECL|member|alphaMask
 DECL|member|bitsPerPixel
 DECL|member|blueMask
 DECL|member|context
+DECL|member|context
 DECL|member|currentCtx
 DECL|member|dataSize
 DECL|member|ddsPixelFormat
@@ -254,9 +286,11 @@ DECL|member|m_list
 DECL|member|m_mutex
 DECL|member|magic
 DECL|member|mipMapCount
+DECL|member|oldContext
 DECL|member|redMask
 DECL|member|surfaceCount
 DECL|member|width
+DECL|member|window
 DECL|struct|DDSFormat
 DECL|struct|PvrHeader
 DECL|struct|QGLContextGroupList
