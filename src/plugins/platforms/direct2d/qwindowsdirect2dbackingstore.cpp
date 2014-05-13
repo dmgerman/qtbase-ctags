@@ -1,7 +1,9 @@
 DECL|function|QWindowsDirect2DBackingStore
 DECL|function|beginPaint
+DECL|function|bitmap
 DECL|function|endPaint
 DECL|function|flush
+DECL|function|nativeWindow
 DECL|function|paintDevice
 DECL|function|platformPixmap
 DECL|function|resize

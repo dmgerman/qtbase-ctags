@@ -29,6 +29,9 @@ DECL|function|getUnscaledGlyph
 DECL|function|glyphIndex
 DECL|function|hasCFFTable
 DECL|function|hasCMapTable
+DECL|function|hasEbdtTable
+DECL|function|hasGlyfTable
+DECL|function|hasUnreliableGlyphOutline
 DECL|function|initFontInfo
 DECL|function|leading
 DECL|function|lineThickness

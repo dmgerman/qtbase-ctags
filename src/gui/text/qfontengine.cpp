@@ -63,6 +63,7 @@ DECL|function|glyphIndex
 DECL|function|glyphIndex
 DECL|function|harfbuzzFace
 DECL|function|harfbuzzFont
+DECL|function|hasUnreliableGlyphOutline
 DECL|function|hb_canRender
 DECL|function|hb_freeFace
 DECL|function|hb_getAdvances

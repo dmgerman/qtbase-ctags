@@ -1,5 +1,13 @@
+DECL|class|Direct2DVersion
 DECL|class|QWindowsDirect2DIntegrationPrivate
+DECL|enumerator|D2DMinVersionPart1
+DECL|enumerator|D2DMinVersionPart2
+DECL|enumerator|D2DMinVersionPart3
+DECL|enumerator|D2DMinVersionPart4
+DECL|function|Direct2DVersion
+DECL|function|Direct2DVersion
 DECL|function|QWindowsDirect2DIntegration
+DECL|function|cmp
 DECL|function|create
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformPixmap
@@ -7,7 +15,15 @@ DECL|function|createPlatformWindow
 DECL|function|direct2DContext
 DECL|function|init
 DECL|function|instance
+DECL|function|isValid
+DECL|function|minimumVersion
 DECL|function|nativeInterface
+DECL|function|operator <
+DECL|function|systemVersion
 DECL|function|~QWindowsDirect2DIntegration
 DECL|member|m_d2dContext
 DECL|member|m_nativeInterface
+DECL|member|partFour
+DECL|member|partOne
+DECL|member|partThree
+DECL|member|partTwo

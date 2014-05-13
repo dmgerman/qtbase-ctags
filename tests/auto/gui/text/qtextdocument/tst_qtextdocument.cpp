@@ -1,10 +1,12 @@
 DECL|class|BaseDocument
+DECL|class|ContentsChangeHandler
 DECL|class|CursorPosSignalSpy
 DECL|class|MyAbstractTextDocumentLayout
 DECL|class|Receiver
 DECL|class|TestDocument
 DECL|class|TestSyntaxHighlighter
 DECL|class|tst_QTextDocument
+DECL|function|ContentsChangeHandler
 DECL|function|CursorPosSignalSpy
 DECL|function|MyAbstractTextDocumentLayout
 DECL|function|QTBUG25778_pixelSizeFromHtml
@@ -90,6 +92,7 @@ DECL|function|receiveCursorPositionChangedAfterContentsChange
 DECL|function|resolvedFontInEmptyFormat
 DECL|function|revisionWithUndoCompressionAndUndo
 DECL|function|revisions
+DECL|function|saveModifiedText
 DECL|function|setFragmentMarkersInHtmlExport
 DECL|function|setPlainText
 DECL|function|setTextPreservesUndoRedoEnabled
@@ -98,6 +101,7 @@ DECL|function|stylesheetFont_data
 DECL|function|task240325
 DECL|function|testUndoBlocks
 DECL|function|testUndoCommandAdded
+DECL|function|textCursorUsageWithinContentsChange
 DECL|function|textFrameIterator
 DECL|function|toHtml
 DECL|function|toHtml2
@@ -116,6 +120,7 @@ DECL|member|calls
 DECL|member|cursor
 DECL|member|defaultFont
 DECL|member|doc
+DECL|member|doc
 DECL|member|first
 DECL|member|htmlHead
 DECL|member|htmlTail
@@ -123,4 +128,6 @@ DECL|member|ok
 DECL|member|resourceLoaded
 DECL|member|resourceUrl
 DECL|member|string
+DECL|member|text
 DECL|member|url
+DECL|member|verticalMovementX

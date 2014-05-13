@@ -13,9 +13,11 @@ DECL|function|paintOnScreen
 DECL|function|pointerEvent
 DECL|function|pos
 DECL|function|resetResources
+DECL|function|scheduleUpdate
 DECL|function|setCurrentCursor
 DECL|function|setMouseDeviceDiscovery
 DECL|function|setPos
+DECL|function|update
 DECL|function|update
 DECL|function|updateMouseStatus
 DECL|function|~QEGLPlatformCursor
