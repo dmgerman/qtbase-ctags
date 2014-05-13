@@ -40,6 +40,8 @@ DECL|function|utf8Codec
 DECL|function|utf8Codec_data
 DECL|function|utf8bom
 DECL|function|utf8bom_data
+DECL|function|utf8stateful
+DECL|function|utf8stateful_data
 DECL|function|utfHeaders
 DECL|function|utfHeaders_data
 DECL|function|~DontCrashAtExit
