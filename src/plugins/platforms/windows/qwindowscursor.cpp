@@ -7,8 +7,8 @@ DECL|function|QWindowsWindowCursorData
 DECL|function|QWindowsWindowCursorData
 DECL|function|changeCursor
 DECL|function|createBitmapCursor
-DECL|function|createBitmapCursorFromData
 DECL|function|createPixmapCursor
+DECL|function|createPixmapCursorFromData
 DECL|function|createSystemCursor
 DECL|function|cursor
 DECL|function|cursorState
@@ -18,7 +18,9 @@ DECL|function|mousePosition
 DECL|function|operator =
 DECL|function|pixmapWindowCursor
 DECL|function|setPos
+DECL|function|standardCursorSize
 DECL|function|standardWindowCursor
+DECL|function|systemCursorSize
 DECL|function|~QWindowsWindowCursor
 DECL|function|~QWindowsWindowCursorData
 DECL|member|m_cursor
