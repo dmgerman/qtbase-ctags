@@ -29,9 +29,13 @@ DECL|function|length
 DECL|function|length_data
 DECL|function|mid
 DECL|function|nan
+DECL|function|operator ==
+DECL|function|operator ==
 DECL|function|operator_eqeq_nullstring
 DECL|function|right
 DECL|function|sign
+DECL|function|split
+DECL|function|split_data
 DECL|function|startsWith
 DECL|function|toDouble
 DECL|function|toDouble_data

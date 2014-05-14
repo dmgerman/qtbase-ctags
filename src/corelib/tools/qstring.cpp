@@ -171,6 +171,8 @@ DECL|function|split
 DECL|function|split
 DECL|function|split
 DECL|function|split
+DECL|function|split
+DECL|function|split
 DECL|function|splitRef
 DECL|function|splitRef
 DECL|function|splitRef
