@@ -86,6 +86,8 @@ DECL|function|nan
 DECL|function|nanAndInf
 DECL|function|nullFromUtf8
 DECL|function|number
+DECL|function|operator ==
+DECL|function|operator ==
 DECL|function|operatorGreaterWithQLatin1String
 DECL|function|operator_eqeq_bytearray
 DECL|function|operator_eqeq_bytearray_data
@@ -131,9 +133,27 @@ DECL|function|sign
 DECL|function|simplified
 DECL|function|simplified_data
 DECL|function|split
+DECL|function|split
+DECL|function|split
+DECL|function|split
+DECL|function|split
+DECL|function|split
+DECL|function|split
+DECL|function|split
+DECL|function|split
+DECL|function|split
+DECL|function|splitRef
+DECL|function|splitRef_data
+DECL|function|splitRef_regexp
+DECL|function|splitRef_regexp_data
+DECL|function|splitRef_regularexpression
+DECL|function|splitRef_regularexpression_data
 DECL|function|split_data
 DECL|function|split_regexp
+DECL|function|split_regexp
 DECL|function|split_regexp_data
+DECL|function|split_regularexpression
+DECL|function|split_regularexpression_data
 DECL|function|sprintf
 DECL|function|sprintfZU
 DECL|function|startsWith
@@ -221,6 +241,10 @@ DECL|macro|TEST_TO_UINT
 DECL|macro|isnan
 DECL|macro|isnan
 DECL|macro|isnan
+DECL|member|string
+DECL|member|string
+DECL|struct|StringSplitWrapper
+DECL|struct|StringSplitWrapper
 DECL|typedef|IntList
 DECL|variable|be_inf_bytes
 DECL|variable|be_nan_bytes
