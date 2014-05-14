@@ -17,6 +17,7 @@ DECL|function|instance
 DECL|function|isQMLApplication
 DECL|function|keyBoardAutoRepeatRateMS
 DECL|function|options
+DECL|function|parseIntOption
 DECL|function|parseOptions
 DECL|function|possibleKeys
 DECL|function|queryKeyboardModifiers
