@@ -1,3 +1,5 @@
+DECL|class|QDBusBlockingCallWatcher
+DECL|function|QDBusBlockingCallWatcher
 DECL|function|QDBusConnectionPrivate
 DECL|function|activateCall
 DECL|function|activateInternalFilters
@@ -80,9 +82,13 @@ DECL|function|unregisterService
 DECL|function|unregisterServiceNoLock
 DECL|function|waitForFinished
 DECL|function|~QDBusActivateObjectEvent
+DECL|function|~QDBusBlockingCallWatcher
 DECL|function|~QDBusConnectionPrivate
 DECL|macro|DBUS_TYPE_UNIX_FD
 DECL|macro|qDBusDebug
+DECL|member|m_callTimer
+DECL|member|m_maxCallTimeoutMs
+DECL|member|m_message
 DECL|typedef|QDBusSpyHook
 DECL|typedef|QDBusSpyHookList
 DECL|variable|DIRECT_DELIVERY
