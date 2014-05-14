@@ -6,6 +6,8 @@ DECL|function|QWindowsWindowCursor
 DECL|function|QWindowsWindowCursorData
 DECL|function|QWindowsWindowCursorData
 DECL|function|changeCursor
+DECL|function|createBitmapCursor
+DECL|function|createBitmapCursorFromData
 DECL|function|createPixmapCursor
 DECL|function|createSystemCursor
 DECL|function|cursor
@@ -21,3 +23,6 @@ DECL|function|~QWindowsWindowCursor
 DECL|function|~QWindowsWindowCursorData
 DECL|member|m_cursor
 DECL|member|m_handle
+DECL|member|resource
+DECL|member|shape
+DECL|struct|QWindowsStandardCursorMapping
