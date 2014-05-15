@@ -69,7 +69,6 @@ DECL|member|leading
 DECL|member|leading
 DECL|member|leadingIncluded
 DECL|member|length
-DECL|member|levels
 DECL|member|line
 DECL|member|lineEnd
 DECL|member|lineNum
@@ -81,7 +80,6 @@ DECL|member|num_glyphs
 DECL|member|offsets
 DECL|member|operator
 DECL|member|operator
-DECL|member|pos_x
 DECL|member|position
 DECL|member|private
 DECL|member|public
