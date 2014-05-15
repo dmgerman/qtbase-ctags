@@ -4,6 +4,7 @@ DECL|function|QDnsHostAddressRecord
 DECL|function|QDnsHostAddressRecord
 DECL|function|QDnsLookup
 DECL|function|QDnsLookup
+DECL|function|QDnsLookup
 DECL|function|QDnsLookupThreadPool
 DECL|function|QDnsMailExchangeRecord
 DECL|function|QDnsMailExchangeRecord
