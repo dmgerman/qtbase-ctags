@@ -60,8 +60,6 @@ DECL|macro|TT_PRIM_CSPLINE
 DECL|macro|_WIN32_WINNT
 DECL|macro|_WIN32_WINNT
 DECL|typedef|PtrGetCharWidthI
-DECL|typedef|SCRIPT_CACHE
-DECL|typedef|fScriptFreeCache
 DECL|variable|char_table
 DECL|variable|char_table_entries
 DECL|variable|ptrGetCharWidthI
