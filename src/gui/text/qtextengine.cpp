@@ -90,9 +90,6 @@ DECL|function|nextLogicalPosition
 DECL|function|offsetInLigature
 DECL|function|operator ()
 DECL|function|operator ()
-DECL|function|operator ()
-DECL|function|operator ()
-DECL|function|operator ()
 DECL|function|pdf
 DECL|function|positionAfterVisualMovement
 DECL|function|positionInLigature
@@ -114,7 +111,6 @@ DECL|function|shapeText
 DECL|function|shapeTextWithHarfbuzz
 DECL|function|shapeTextWithHarfbuzzNG
 DECL|function|skipBoundryNeutrals
-DECL|function|splitItem
 DECL|function|stringMidRetainingBidiCC
 DECL|function|tightBoundingBox
 DECL|function|transformed
@@ -147,7 +143,6 @@ DECL|member|type
 DECL|struct|QBidiControl
 DECL|struct|QBidiStatus
 DECL|struct|QJustificationPoint
-DECL|struct|QScriptItemComparator
 DECL|variable|directions
 DECL|variable|sizeof
 DECL|variable|sizeof
