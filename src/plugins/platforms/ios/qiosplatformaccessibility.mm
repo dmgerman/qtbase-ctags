@@ -1,6 +1,6 @@
 /****************************************************************************
 **
-** Copyright (C) 2013 Digia Plc and/or its subsidiary(-ies).
+** Copyright (C) 2014 Digia Plc and/or its subsidiary(-ies).
 ** Contact: http://www.qt-project.org/legal
 **
 ** This file is part of the plugins of the Qt Toolkit.
@@ -39,52 +39,47 @@
 **
 ****************************************************************************/
 
-#include <Carbon/Carbon.h>
+#include "qiosplatformaccessibility.h"
 
-#include "qnsview.h"
-#include "qcocoahelpers.h"
-#include "qcocoaaccessibility.h"
-#include "qcocoaaccessibilityelement.h"
-#include "qcocoaintegration.h"
+#include <QtGui/QtGui>
+#include "qioswindow.h"
 
-#include <QtGui/qaccessible.h>
-#include <QtCore/QDebug>
+QIOSPlatformAccessibility::QIOSPlatformAccessibility()
+{}
 
-#import <AppKit/NSAccessibility.h>
+QIOSPlatformAccessibility::~QIOSPlatformAccessibility()
+{}
 
-@implementation QNSView (QNSViewAccessibility)
 
-- (id)childAccessibleElement {
-    if (!m_window->accessibleRoot())
-        return nil;
+void invalidateCache(QAccessibleInterface *iface)
+{
+    if (!iface || !iface->isValid()) {
+        qWarning() << "invalid accessible interface: " << iface;
+        return;
+    }
 
-    QAccessible::Id childId = QAccessible::uniqueId(m_window->accessibleRoot());
-    return [QMacAccessibilityElement elementWithId: childId];
+    QWindow *win = 0;
+    QAccessibleInterface *parent = iface;
+    do {
+        win = parent->window();
+        parent = parent->parent();
+    } while (!win && parent);
+    Q_ASSERT(win && win->handle());
+    QIOSWindow *window = static_cast<QIOSWindow*>(win->handle());
+    window->clearAccessibleCache();
 }
 
-// The QNSView is a container that the user does not interact directly with:
-// Remove it from the user-visible accessibility tree.
-- (BOOL)accessibilityIsIgnored {
-    return YES;
-}
 
-- (id)accessibilityAttributeValue:(NSString *)attribute {
-    // activate accessibility updates
-    QCocoaIntegration::instance()->accessibility()->setActive(true);
-
-    if ([attribute isEqualToString:NSAccessibilityChildrenAttribute]) {
-        return NSAccessibilityUnignoredChildrenForOnlyChild([self childAccessibleElement]);
-    } else {
-        return [super accessibilityAttributeValue:attribute];
+void QIOSPlatformAccessibility::notifyAccessibilityUpdate(QAccessibleEvent *event)
+{
+    switch (event->type()) {
+    case QAccessible::ObjectCreated:
+    case QAccessible::ObjectShow:
+    case QAccessible::ObjectHide:
+    case QAccessible::ObjectDestroyed:
+        invalidateCache(event->accessibleInterface());
+        break;
+    default:
+        break;
     }
 }
-
-- (id)accessibilityHitTest:(NSPoint)point {
-    return [[self childAccessibleElement] accessibilityHitTest: point];
-}
-
-- (id)accessibilityFocusedUIElement {
-    return [[self childAccessibleElement] accessibilityFocusedUIElement];
-}
-
-@end
