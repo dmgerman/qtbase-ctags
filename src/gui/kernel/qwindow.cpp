@@ -8,11 +8,14 @@ DECL|function|applyCursor
 DECL|function|baseSize
 DECL|function|clearFocusObject
 DECL|function|close
+DECL|function|connectToScreen
 DECL|function|contentOrientation
 DECL|function|create
 DECL|function|cursor
 DECL|function|destroy
 DECL|function|devicePixelRatio
+DECL|function|disconnectFromScreen
+DECL|function|emitScreenChangedRecursion
 DECL|function|event
 DECL|function|exposeEvent
 DECL|function|filePath
@@ -91,10 +94,10 @@ DECL|function|setParent
 DECL|function|setPosition
 DECL|function|setPosition
 DECL|function|setScreen
-DECL|function|setScreen
 DECL|function|setSizeIncrement
 DECL|function|setSurfaceType
 DECL|function|setTitle
+DECL|function|setTopLevelScreen
 DECL|function|setTransientParent
 DECL|function|setVisibility
 DECL|function|setVisible
@@ -122,5 +125,6 @@ DECL|function|updateVisibility
 DECL|function|visibility
 DECL|function|wheelEvent
 DECL|function|winId
+DECL|function|windowRecreationRequired
 DECL|function|windowState
 DECL|function|~QWindow
