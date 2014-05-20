@@ -3,6 +3,7 @@ DECL|function|Surface
 DECL|function|SurfaceWindowProc
 DECL|function|checkForOutOfDateSwapChain
 DECL|function|getBoundTexture
+DECL|function|getCoreWindowSize
 DECL|function|getFormat
 DECL|function|getHeight
 DECL|function|getSwapChain
