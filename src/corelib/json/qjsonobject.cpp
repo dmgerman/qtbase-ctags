@@ -8,6 +8,7 @@ DECL|function|detach
 DECL|function|erase
 DECL|function|find
 DECL|function|fromVariantMap
+DECL|function|initialize
 DECL|function|insert
 DECL|function|isEmpty
 DECL|function|keyAt
