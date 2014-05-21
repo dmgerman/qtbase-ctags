@@ -30,6 +30,7 @@ DECL|function|begin
 DECL|function|begin
 DECL|function|brushChanged
 DECL|function|brushOriginChanged
+DECL|function|cleanup_func
 DECL|function|clearClips
 DECL|function|clip
 DECL|function|clip
@@ -96,6 +97,8 @@ DECL|function|updatePen
 DECL|function|updateTransform
 DECL|function|vectorPathToID2D1PathGeometry
 DECL|macro|D2D_TAG
+DECL|member|aliased
+DECL|member|antiAliased
 DECL|member|bitmap
 DECL|member|brush
 DECL|member|brush
@@ -114,4 +117,5 @@ DECL|member|pushedClips
 DECL|member|qbrush
 DECL|member|qpen
 DECL|member|strokeStyle
+DECL|struct|D2DVectorPathCache
 DECL|variable|MAGICAL_ALIASING_OFFSET
