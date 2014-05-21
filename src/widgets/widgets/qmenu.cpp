@@ -1,10 +1,12 @@
 DECL|class|QTornOffMenu
 DECL|class|QTornOffMenuPrivate
+DECL|class|ResetOnDestroy
 DECL|function|QMenu
 DECL|function|QMenu
 DECL|function|QMenu
 DECL|function|QTornOffMenu
 DECL|function|QTornOffMenuPrivate
+DECL|function|ResetOnDestroy
 DECL|function|_q_actionHovered
 DECL|function|_q_actionTriggered
 DECL|function|_q_overrideMenuActionDestroyed
@@ -32,10 +34,12 @@ DECL|function|adjustMenuSizeForScreen
 DECL|function|calcCausedStack
 DECL|function|calcCausedStack
 DECL|function|changeEvent
+DECL|function|childLeave
 DECL|function|clear
 DECL|function|columnCount
 DECL|function|copyActionToPlatformItem
 DECL|function|defaultAction
+DECL|function|enter
 DECL|function|enterEvent
 DECL|function|event
 DECL|function|exec
@@ -43,7 +47,9 @@ DECL|function|exec
 DECL|function|exec
 DECL|function|focusNextPrevChild
 DECL|function|getLastVisibleAction
+DECL|function|handleEnterLeaveEvents
 DECL|function|hasMouseMoved
+DECL|function|hasParentActiveDelayTimer
 DECL|function|hideEvent
 DECL|function|hideMenu
 DECL|function|hideTearOffMenu
@@ -56,7 +62,6 @@ DECL|function|insertSection
 DECL|function|insertSection
 DECL|function|insertSeparator
 DECL|function|internalDelayedPopup
-DECL|function|internalSetSloppyAction
 DECL|function|isEmpty
 DECL|function|isTearOffEnabled
 DECL|function|isTearOffMenuVisible
@@ -75,6 +80,7 @@ DECL|function|popup
 DECL|function|popupAction
 DECL|function|popupGeometry
 DECL|function|popupGeometry
+DECL|function|reset
 DECL|function|scrollMenu
 DECL|function|scrollMenu
 DECL|function|scrollMenu
@@ -90,6 +96,7 @@ DECL|function|setOverrideMenuAction
 DECL|function|setPlatformMenu
 DECL|function|setPlatformMenu
 DECL|function|setSeparatorsCollapsible
+DECL|function|setSubMenuPopup
 DECL|function|setSyncAction
 DECL|function|setTearOffEnabled
 DECL|function|setTitle
@@ -97,6 +104,7 @@ DECL|function|setToolTipsVisible
 DECL|function|sizeHint
 DECL|function|syncPlatformMenu
 DECL|function|syncWithMenu
+DECL|function|timeout
 DECL|function|timerEvent
 DECL|function|title
 DECL|function|toolTipsVisible
@@ -106,6 +114,9 @@ DECL|function|updateActionRects
 DECL|function|updateLayoutDirection
 DECL|function|wheelEvent
 DECL|function|~QMenu
+DECL|function|~ResetOnDestroy
 DECL|member|causedMenu
 DECL|member|causedStack
+DECL|member|guard
 DECL|member|mouseDown
+DECL|member|toReset
