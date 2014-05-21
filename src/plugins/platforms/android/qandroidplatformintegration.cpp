@@ -3,6 +3,7 @@ DECL|function|accessibility
 DECL|function|clipboard
 DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
+DECL|function|createPlatformOffscreenSurface
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
