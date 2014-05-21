@@ -1,0 +1,16 @@
+DECL|enumerator|NO_COLOR
+DECL|enumerator|TRANSPARENT_COLOR
+DECL|function|Res_png_9patch
+DECL|macro|EXTRACT_H
+DECL|member|colors
+DECL|member|numColors
+DECL|member|numXDivs
+DECL|member|numYDivs
+DECL|member|paddingBottom
+DECL|member|paddingLeft
+DECL|member|paddingRight
+DECL|member|paddingTop
+DECL|member|wasDeserialized
+DECL|member|xDivs
+DECL|member|yDivs
+DECL|struct|Res_png_9patch

@@ -1,0 +1,8 @@
+DECL|function|Java_org_qtproject_qt5_android_ExtractStyle_extractChunkInfo
+DECL|function|Java_org_qtproject_qt5_android_ExtractStyle_extractNativeChunkInfo
+DECL|function|deserialize
+DECL|function|deserializeInternal
+DECL|macro|LOGE
+DECL|macro|LOGF
+DECL|macro|LOGI
+DECL|macro|LOG_TAG

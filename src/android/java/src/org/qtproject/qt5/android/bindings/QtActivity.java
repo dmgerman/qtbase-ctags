@@ -12,6 +12,7 @@ DECL|field|ENVIRONMENT_VARIABLES
 DECL|field|ENVIRONMENT_VARIABLES_KEY
 DECL|field|ERROR_CODE_KEY
 DECL|field|ERROR_MESSAGE_KEY
+DECL|field|EXTRACT_STYLE_KEY
 DECL|field|INCOMPATIBLE_MINISTRO_VERSION
 DECL|field|LIB_PATH_KEY
 DECL|field|LOADER_CLASS_NAME_KEY
@@ -32,6 +33,7 @@ DECL|field|SOURCES_KEY
 DECL|field|STATIC_INIT_CLASSES_KEY
 DECL|field|m_activityInfo
 DECL|field|m_classLoader
+DECL|field|m_displayDensity
 DECL|field|m_ministroConnection
 DECL|field|m_qtLibs
 DECL|field|m_repository

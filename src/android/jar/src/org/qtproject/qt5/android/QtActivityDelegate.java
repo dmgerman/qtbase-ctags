@@ -6,6 +6,7 @@ DECL|field|ApplicationInactive
 DECL|field|ApplicationSuspended
 DECL|field|BUNDLED_LIBRARIES_KEY
 DECL|field|ENVIRONMENT_VARIABLES_KEY
+DECL|field|EXTRACT_STYLE_KEY
 DECL|field|ImhDate
 DECL|field|ImhDialableCharactersOnly
 DECL|field|ImhDigitsOnly
