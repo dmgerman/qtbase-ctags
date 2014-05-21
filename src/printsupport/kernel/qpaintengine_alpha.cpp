@@ -4,6 +4,7 @@ DECL|function|addAlphaRect
 DECL|function|addPenWidth
 DECL|function|alphaClipping
 DECL|function|begin
+DECL|function|canSeeTroughBackground
 DECL|function|cleanUp
 DECL|function|continueCall
 DECL|function|drawAlphaImage
@@ -16,7 +17,6 @@ DECL|function|end
 DECL|function|flushAndInit
 DECL|function|fullyContained
 DECL|function|resetState
-DECL|function|toRect
 DECL|function|updateState
 DECL|function|~QAlphaPaintEngine
 DECL|function|~QAlphaPaintEnginePrivate
