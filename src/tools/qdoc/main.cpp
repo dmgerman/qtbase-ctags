@@ -7,7 +7,6 @@ DECL|function|processQdocconfFile
 DECL|variable|currentDir
 DECL|variable|defines
 DECL|variable|dependModules
-DECL|variable|documentationPath
 DECL|variable|highlighting
 DECL|variable|indexDirs
 DECL|variable|noLinkErrors
