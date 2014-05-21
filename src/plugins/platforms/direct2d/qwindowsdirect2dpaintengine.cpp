@@ -70,7 +70,6 @@ DECL|function|lineTo
 DECL|function|moveTo
 DECL|function|negateCurrentBrushOrigin
 DECL|function|opacityChanged
-DECL|function|painterPathToID2D1PathGeometry
 DECL|function|penChanged
 DECL|function|pixelSizeToDIP
 DECL|function|pointSizeToDIP
