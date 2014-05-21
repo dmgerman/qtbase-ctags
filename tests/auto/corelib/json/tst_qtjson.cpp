@@ -1,4 +1,5 @@
 DECL|class|tst_QtJson
+DECL|function|arrayInitializerList
 DECL|function|assignArrays
 DECL|function|assignObjects
 DECL|function|assignToDocument

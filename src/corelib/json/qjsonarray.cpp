@@ -9,6 +9,7 @@ DECL|function|detach
 DECL|function|first
 DECL|function|fromStringList
 DECL|function|fromVariantList
+DECL|function|initialize
 DECL|function|insert
 DECL|function|isEmpty
 DECL|function|last
