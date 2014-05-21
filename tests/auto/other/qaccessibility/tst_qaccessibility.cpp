@@ -29,7 +29,6 @@ DECL|function|fuzzyRectCompare
 DECL|function|groupBoxTest
 DECL|function|hideShowTest
 DECL|function|incClickCount
-DECL|function|indexOfChild
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|labelTest
