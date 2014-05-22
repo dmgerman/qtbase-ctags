@@ -3,6 +3,7 @@ DECL|function|addWindow
 DECL|function|coreWindow
 DECL|function|cursor
 DECL|function|depth
+DECL|function|devicePixelRatio
 DECL|function|eglDisplay
 DECL|function|eglSurface
 DECL|function|format
@@ -10,6 +11,7 @@ DECL|function|geometry
 DECL|function|handleExpose
 DECL|function|inputContext
 DECL|function|keyboardModifiers
+DECL|function|logicalDpi
 DECL|function|lower
 DECL|function|nativeOrientation
 DECL|function|nativeOrientationsFromQt
@@ -18,6 +20,7 @@ DECL|function|onAutomationProviderRequested
 DECL|function|onBackButtonPressed
 DECL|function|onCharacterReceived
 DECL|function|onClosed
+DECL|function|onDpiChanged
 DECL|function|onKeyDown
 DECL|function|onKeyUp
 DECL|function|onOrientationChanged
@@ -29,6 +32,7 @@ DECL|function|onSizeChanged
 DECL|function|onSuspended
 DECL|function|onVisibilityChanged
 DECL|function|orientation
+DECL|function|physicalSize
 DECL|function|qIsNonPrintable
 DECL|function|qKeyFromCode
 DECL|function|qKeyFromVirtual
@@ -43,6 +47,8 @@ DECL|typedef|AutomationProviderRequestedHandler
 DECL|typedef|BackPressedHandler
 DECL|typedef|CharacterReceivedHandler
 DECL|typedef|ClosedHandler
+DECL|typedef|DisplayInformationHandler
+DECL|typedef|DisplayInformationHandler
 DECL|typedef|InputEnabledHandler
 DECL|typedef|KeyHandler
 DECL|typedef|PointerHandler
