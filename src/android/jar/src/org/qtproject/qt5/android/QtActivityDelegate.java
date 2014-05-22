@@ -100,5 +100,6 @@ DECL|method|setKeyboardVisibility
 DECL|method|setSurfaceGeometry
 DECL|method|showSoftwareKeyboard
 DECL|method|startApplication
+DECL|method|updateFullScreen
 DECL|method|updateSelection
 DECL|package|org.qtproject.qt5.android

@@ -54,6 +54,7 @@ DECL|function|inputMethodQueryImHints
 DECL|function|inputMethodQueryImHints_data
 DECL|function|insertAndScrollToBottom
 DECL|function|insertFromMimeData
+DECL|function|layoutAfterMultiLineRemove
 DECL|function|lineCount
 DECL|function|lineWrapModes
 DECL|function|lineWrapProperty

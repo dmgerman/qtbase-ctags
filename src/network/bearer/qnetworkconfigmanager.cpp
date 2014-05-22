@@ -1,9 +1,10 @@
 DECL|function|QNetworkConfigurationManager
-DECL|function|addPostRoutine
+DECL|function|addPreAndPostRoutine
 DECL|function|allConfigurations
 DECL|function|capabilities
 DECL|function|configurationFromIdentifier
 DECL|function|connManager_cleanup
+DECL|function|connManager_prepare
 DECL|function|defaultConfiguration
 DECL|function|isOnline
 DECL|function|qNetworkConfigurationManagerPrivate
