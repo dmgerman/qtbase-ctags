@@ -103,6 +103,8 @@ DECL|function|boundingRegion
 DECL|function|boundingRegion_data
 DECL|function|cacheMode
 DECL|function|cacheMode2
+DECL|function|centerOnScreen
+DECL|function|centerOnScreen
 DECL|function|changeGeometry
 DECL|function|childAcceptsHoverEvents
 DECL|function|children
