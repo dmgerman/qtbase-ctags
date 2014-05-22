@@ -20,6 +20,7 @@ DECL|function|init
 DECL|function|initTestCase
 DECL|function|invalidRawFont
 DECL|function|multipleRawFontsFromData
+DECL|function|rawFontFromInvalidData
 DECL|function|rawFontSetPixelSize
 DECL|function|rawFontSetPixelSize_data
 DECL|function|supportedWritingSystems

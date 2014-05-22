@@ -11,6 +11,7 @@ DECL|function|componentVerbose
 DECL|function|createDummyWindow
 DECL|function|defaultDPI
 DECL|function|displayContext
+DECL|function|errorMessageFromComError
 DECL|function|findClosestPlatformWindow
 DECL|function|findPlatformWindow
 DECL|function|findPlatformWindowAt

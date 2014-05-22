@@ -24,3 +24,4 @@ DECL|function|variant
 DECL|function|version
 DECL|macro|ISLESS
 DECL|macro|ISMORE
+DECL|variable|digits
