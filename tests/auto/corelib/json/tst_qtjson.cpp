@@ -8,6 +8,7 @@ DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|compactArray
 DECL|function|compactObject
+DECL|function|constNullObject
 DECL|function|fromBinary
 DECL|function|fromJson
 DECL|function|fromJsonErrors
