@@ -126,6 +126,7 @@ DECL|function|alias
 DECL|function|alsoList
 DECL|function|append
 DECL|function|append
+DECL|function|append
 DECL|function|appendChar
 DECL|function|appendToCode
 DECL|function|appendToCode
@@ -151,6 +152,7 @@ DECL|function|expandMacro
 DECL|function|expandMacroToString
 DECL|function|getArgument
 DECL|function|getBracedArgument
+DECL|function|getBracketedArgument
 DECL|function|getCode
 DECL|function|getMetaCommandArgument
 DECL|function|getOptionalArgument
@@ -170,6 +172,7 @@ DECL|function|isBlankLine
 DECL|function|isEmpty
 DECL|function|isEnumDocSimplifiable
 DECL|function|isLeftBraceAhead
+DECL|function|isLeftBracketAhead
 DECL|function|keywords
 DECL|function|leavePara
 DECL|function|leaveTableRow

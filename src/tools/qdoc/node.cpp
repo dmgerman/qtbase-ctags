@@ -69,6 +69,7 @@ DECL|function|idNumber
 DECL|function|incPropertyGroupCount
 DECL|function|inheritedStatus
 DECL|function|inheritedThreadSafeness
+DECL|function|initialize
 DECL|function|isInternal
 DECL|function|isQmlNode
 DECL|function|isSameSignature
@@ -109,6 +110,7 @@ DECL|function|reconstructParams
 DECL|function|removeChild
 DECL|function|removeFromRelated
 DECL|function|removeRelated
+DECL|function|root
 DECL|function|secondaryKeys
 DECL|function|setAssociatedEnum
 DECL|function|setAssociatedProperty
@@ -137,6 +139,7 @@ DECL|function|~InnerNode
 DECL|function|~NameCollisionNode
 DECL|function|~Node
 DECL|function|~QmlClassNode
+DECL|member|goals_
 DECL|member|inheritedBy
 DECL|member|operators_
 DECL|member|propertyGroupCount_

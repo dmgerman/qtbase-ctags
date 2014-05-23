@@ -40,11 +40,13 @@ DECL|function|generateMacRef
 DECL|function|generateManifestFile
 DECL|function|generateManifestFiles
 DECL|function|generateNavigationBar
+DECL|function|generateQmlBasicTypePage
 DECL|function|generateQmlInherits
 DECL|function|generateQmlInstantiates
 DECL|function|generateQmlItem
 DECL|function|generateQmlRequisites
 DECL|function|generateQmlSummary
+DECL|function|generateQmlTypePage
 DECL|function|generateRequisites
 DECL|function|generateSection
 DECL|function|generateSectionInheritedList
@@ -53,6 +55,7 @@ DECL|function|generateStatus
 DECL|function|generateSynopsis
 DECL|function|generateTableOfContents
 DECL|function|generateTitle
+DECL|function|getAutoLink
 DECL|function|getLink
 DECL|function|hOffset
 DECL|function|highlightedCode

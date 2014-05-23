@@ -40,6 +40,7 @@ DECL|function|generateLegaleseList
 DECL|function|generateLink
 DECL|function|generateLowStatusMembers
 DECL|function|generateOverviewList
+DECL|function|generateQmlBasicTypePage
 DECL|function|generateQmlInheritedBy
 DECL|function|generateQmlInherits
 DECL|function|generateQmlInstantiates
