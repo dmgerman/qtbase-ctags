@@ -195,6 +195,7 @@ DECL|method|getJsonArray
 DECL|method|getJsonChunkInfo
 DECL|method|getJsonRect
 DECL|method|getLayerDrawable
+DECL|method|getRotateDrawable
 DECL|method|getStateListDrawable
 DECL|method|getStateListDrawable_old
 DECL|method|getStatesList
