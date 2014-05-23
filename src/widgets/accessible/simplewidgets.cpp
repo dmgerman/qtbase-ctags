@@ -42,6 +42,7 @@ DECL|function|minimumStepSize
 DECL|function|minimumValue
 DECL|function|offsetAtPoint
 DECL|function|progressBar
+DECL|function|rect
 DECL|function|relations
 DECL|function|relations
 DECL|function|removeSelection
