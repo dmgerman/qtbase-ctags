@@ -39,7 +39,7 @@ DECL|function|option
 DECL|function|option
 DECL|function|pendingDatagramSize
 DECL|function|put_Length
-DECL|function|qt_QStringFromHSTRING
+DECL|function|qt_QStringFromHString
 DECL|function|read
 DECL|function|readDatagram
 DECL|function|receiveBufferSize
