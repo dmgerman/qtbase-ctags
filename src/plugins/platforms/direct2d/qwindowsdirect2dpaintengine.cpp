@@ -22,6 +22,7 @@ DECL|function|QWindowsDirect2DPaintEngine
 DECL|function|QWindowsDirect2DPaintEnginePrivate
 DECL|function|adjustForAliasing
 DECL|function|adjustForAliasing
+DECL|function|adjustLine
 DECL|function|adjusted
 DECL|function|antiAliasingEnabled
 DECL|function|antialiasMode
@@ -66,6 +67,7 @@ DECL|function|fontSizeInDIP
 DECL|function|geometry
 DECL|function|interpolationMode
 DECL|function|isInFigure
+DECL|function|isLinePositivelySloped
 DECL|function|lineTo
 DECL|function|moveTo
 DECL|function|negateCurrentBrushOrigin
