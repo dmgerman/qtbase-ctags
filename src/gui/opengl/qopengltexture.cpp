@@ -108,6 +108,7 @@ DECL|function|setWrapMode
 DECL|function|setWrapMode
 DECL|function|setWrapMode
 DECL|function|swizzleMask
+DECL|function|target
 DECL|function|textureId
 DECL|function|width
 DECL|function|wrapMode
