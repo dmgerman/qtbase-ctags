@@ -126,4 +126,3 @@ DECL|member|valid
 DECL|member|valid
 DECL|member|valid
 DECL|member|valid
-DECL|variable|dbusConnection
