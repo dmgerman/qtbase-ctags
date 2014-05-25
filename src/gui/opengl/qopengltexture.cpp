@@ -54,6 +54,8 @@ DECL|function|mipBaseLevel
 DECL|function|mipLevelRange
 DECL|function|mipLevels
 DECL|function|mipMaxLevel
+DECL|function|pixelFormatCompatibleWithInternalFormat
+DECL|function|pixelTypeCompatibleWithInternalFormat
 DECL|function|release
 DECL|function|release
 DECL|function|release
