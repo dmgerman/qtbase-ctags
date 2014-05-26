@@ -74,7 +74,7 @@ DECL|function|handlePropertyNotifyEvent
 DECL|function|handleUnmapNotifyEvent
 DECL|function|handleXEmbedMessage
 DECL|function|hide
-DECL|function|imageFormatForDepth
+DECL|function|imageFormatForVisual
 DECL|function|isEmbedded
 DECL|function|isExposed
 DECL|function|isTransient

@@ -138,6 +138,8 @@ DECL|function|comp_func_solid_SourceIn
 DECL|function|comp_func_solid_SourceOut
 DECL|function|comp_func_solid_SourceOver
 DECL|function|comp_func_solid_XOR
+DECL|function|convertA2RGB30PMFromARGB32PM
+DECL|function|convertA2RGB30PMToARGB32PM
 DECL|function|convertARGB32FromARGB32PM
 DECL|function|convertARGB32ToARGB32PM
 DECL|function|convertARGBPMFromARGB32PM
@@ -149,6 +151,8 @@ DECL|function|convertPassThrough
 DECL|function|convertRGB16FromARGB32PM
 DECL|function|convertRGB16FromRGB32
 DECL|function|convertRGB16ToRGB32
+DECL|function|convertRGB30FromARGB32PM
+DECL|function|convertRGB30FromRGB32
 DECL|function|convertRGBA8888FromARGB32PM
 DECL|function|convertRGBA8888PMFromARGB32PM
 DECL|function|convertRGBA8888PMToARGB32PM
