@@ -150,7 +150,13 @@ DECL|field|View_paddingTop
 DECL|field|View_saveEnabled
 DECL|field|View_scrollX
 DECL|field|View_scrollY
+DECL|field|View_scrollbarFadeDuration
+DECL|field|View_scrollbarSize
 DECL|field|View_scrollbarStyle
+DECL|field|View_scrollbarThumbHorizontal
+DECL|field|View_scrollbarThumbVertical
+DECL|field|View_scrollbarTrackHorizontal
+DECL|field|View_scrollbarTrackVertical
 DECL|field|View_scrollbars
 DECL|field|View_soundEffectsEnabled
 DECL|field|View_tag
