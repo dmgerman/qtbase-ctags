@@ -150,6 +150,7 @@ DECL|field|View_paddingTop
 DECL|field|View_saveEnabled
 DECL|field|View_scrollX
 DECL|field|View_scrollY
+DECL|field|View_scrollbarDefaultDelayBeforeFade
 DECL|field|View_scrollbarFadeDuration
 DECL|field|View_scrollbarSize
 DECL|field|View_scrollbarStyle
