@@ -4,6 +4,7 @@ DECL|function|PermissionRestorer
 DECL|function|msgCannotOpen
 DECL|function|restore
 DECL|function|saveTwice
+DECL|function|symlink
 DECL|function|textStreamAutoFlush
 DECL|function|textStreamManualFlush
 DECL|function|transactionalWrite
