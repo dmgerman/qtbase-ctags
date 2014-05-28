@@ -68,11 +68,6 @@ DECL|function|operator <
 DECL|function|organizationName
 DECL|function|pathHashKey
 DECL|function|processChild
-DECL|function|qIsLikelyToBeNfs
-DECL|function|qIsLikelyToBeNfs
-DECL|function|qIsLikelyToBeNfs
-DECL|function|qIsLikelyToBeNfs
-DECL|function|qt_isEvilFsTypeName
 DECL|function|readIniFile
 DECL|function|readIniLine
 DECL|function|readIniSection
@@ -99,7 +94,6 @@ DECL|function|stringToVariant
 DECL|function|sync
 DECL|function|sync
 DECL|function|syncConfFile
-DECL|function|unixLock
 DECL|function|update
 DECL|function|value
 DECL|function|variantListToStringList
@@ -111,14 +105,10 @@ DECL|function|~QConfFile
 DECL|function|~QConfFileSettingsPrivate
 DECL|function|~QSettings
 DECL|function|~QSettingsPrivate
-DECL|macro|AUTOFSNG_SUPER_MAGIC
-DECL|macro|AUTOFS_SUPER_MAGIC
 DECL|macro|CSIDL_APPDATA
 DECL|macro|CSIDL_COMMON_APPDATA
 DECL|macro|FLUSH_CURRENT_SECTION
 DECL|macro|FLUSH_CURRENT_SECTION
-DECL|macro|NFS_SUPER_MAGIC
-DECL|macro|Q_AUTOTEST_EXPORT_HELPER
 DECL|member|caseSensitivity
 DECL|member|extension
 DECL|member|keyMap

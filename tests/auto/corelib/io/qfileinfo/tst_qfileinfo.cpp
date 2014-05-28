@@ -65,6 +65,11 @@ DECL|function|ntfsJunctionPointsAndSymlinks_data
 DECL|function|owner
 DECL|function|permission
 DECL|function|permission_data
+DECL|function|qIsLikelyToBeNfs
+DECL|function|qIsLikelyToBeNfs
+DECL|function|qIsLikelyToBeNfs
+DECL|function|qIsLikelyToBeNfs
+DECL|function|qt_isEvilFsTypeName
 DECL|function|refresh
 DECL|function|size
 DECL|function|size_data
@@ -75,6 +80,9 @@ DECL|function|testDecomposedUnicodeNames
 DECL|function|testDecomposedUnicodeNames_data
 DECL|function|tst_QFileInfo
 DECL|function|~NativeFileCreator
+DECL|macro|AUTOFSNG_SUPER_MAGIC
+DECL|macro|AUTOFS_SUPER_MAGIC
+DECL|macro|NFS_SUPER_MAGIC
 DECL|macro|Q_NO_SYMLINKS
 DECL|member|m_currentDir
 DECL|member|m_dir
