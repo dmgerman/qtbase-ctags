@@ -1,6 +1,7 @@
 DECL|class|PermissionRestorer
 DECL|class|tst_QSaveFile
 DECL|function|PermissionRestorer
+DECL|function|directory
 DECL|function|msgCannotOpen
 DECL|function|restore
 DECL|function|saveTwice
