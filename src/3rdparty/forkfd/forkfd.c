@@ -7,6 +7,7 @@ DECL|function|freeInfo
 DECL|function|isChildReady
 DECL|function|notifyAndFreeInfo
 DECL|function|sigchld_handler
+DECL|function|spawnfd
 DECL|function|tryAllocateInSection
 DECL|function|tryReaping
 DECL|macro|CHILDREN_IN_BIG_ARRAY
