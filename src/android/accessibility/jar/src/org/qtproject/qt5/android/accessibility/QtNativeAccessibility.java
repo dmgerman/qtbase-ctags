@@ -6,5 +6,7 @@ DECL|method|hitTest
 DECL|method|parentId
 DECL|method|populateNode
 DECL|method|screenRect
+DECL|method|scrollBackward
+DECL|method|scrollForward
 DECL|method|setActive
 DECL|package|org.qtproject.qt5.android.accessibility

@@ -1,0 +1,4 @@
+DECL|function|effectiveActionNames
+DECL|function|performAction
+DECL|function|performEffectiveAction
+DECL|namespace|QAccessibleBridgeUtils
