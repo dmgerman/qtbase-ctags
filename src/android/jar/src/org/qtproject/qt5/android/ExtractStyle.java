@@ -192,6 +192,7 @@ DECL|method|extractProgressBarInfo
 DECL|method|extractTextAppearanceInformations
 DECL|method|extractViewInformations
 DECL|method|findPatchesMarings
+DECL|method|getAnimationDrawable
 DECL|method|getColorStateList
 DECL|method|getDrawable
 DECL|method|getField
