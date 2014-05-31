@@ -197,6 +197,8 @@ DECL|method|extractItemsStyle
 DECL|method|extractNativeChunkInfo
 DECL|method|extractProgressBar
 DECL|method|extractProgressBarInfo
+DECL|method|extractSwitch
+DECL|method|extractTextAppearanceInformations
 DECL|method|extractTextAppearanceInformations
 DECL|method|extractViewInformations
 DECL|method|findPatchesMarings
