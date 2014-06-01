@@ -1,6 +1,10 @@
+DECL|function|QT_MANGLE_NAMESPACE
+DECL|function|QT_MANGLE_NAMESPACE
+DECL|function|QT_MANGLE_NAMESPACE
 DECL|macro|QCOCOAWINDOW_H
 DECL|typedef|QCocoaNSWindow
 DECL|variable|QCocoaMenuBar
-DECL|variable|QNSWindowDelegate
+DECL|variable|QT_NAMESPACE_ALIAS_OBJC_CLASS
+DECL|variable|QT_NAMESPACE_ALIAS_OBJC_CLASS
 DECL|variable|grabbingMouse
 DECL|variable|helper
