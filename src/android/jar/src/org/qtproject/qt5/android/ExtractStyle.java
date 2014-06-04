@@ -200,6 +200,7 @@ DECL|method|extractProgressBarInfo
 DECL|method|extractSwitch
 DECL|method|extractTextAppearanceInformations
 DECL|method|extractTextAppearanceInformations
+DECL|method|extractToolBar
 DECL|method|extractViewInformations
 DECL|method|findPatchesMarings
 DECL|method|getAnimationDrawable
