@@ -214,6 +214,7 @@ DECL|method|extractTextAppearance
 DECL|method|extractTextAppearanceInformations
 DECL|method|extractToolBar
 DECL|method|extractViewInformations
+DECL|method|extractWindow
 DECL|method|findPatchesMarings
 DECL|method|getAnimationDrawable
 DECL|method|getColorStateList
