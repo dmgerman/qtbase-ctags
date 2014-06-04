@@ -4,6 +4,7 @@ DECL|class|QtTestItemDelegate
 DECL|class|QtTestTableModel
 DECL|class|QtTestTableView
 DECL|class|TableView7774
+DECL|class|TableViewWithCursorExposed
 DECL|class|TestTableView
 DECL|class|task173773_EventFilter
 DECL|class|tst_QTableView
@@ -21,6 +22,7 @@ DECL|enum|CursorAction
 DECL|function|Model
 DECL|function|QtTestTableModel
 DECL|function|QtTestTableView
+DECL|function|TableViewWithCursorExposed
 DECL|function|TestTableView
 DECL|function|ValueSaver
 DECL|function|addColumnWhileEditing
@@ -48,6 +50,8 @@ DECL|function|data
 DECL|function|disableColumn
 DECL|function|disableRow
 DECL|function|doMoveCursor
+DECL|function|editSpanFromDirections
+DECL|function|editSpanFromDirections_data
 DECL|function|emptyModel
 DECL|function|enableColumn
 DECL|function|enableRow
@@ -164,6 +168,7 @@ DECL|function|taskQTBUG_8777_scrollToSpans
 DECL|function|tst_QTableView
 DECL|function|viewOptions
 DECL|function|viewOptions
+DECL|function|visualCursorIndex
 DECL|function|visualRect
 DECL|function|visualRect_data
 DECL|function|visualRegionForSelection
