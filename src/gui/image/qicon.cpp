@@ -1,4 +1,6 @@
+DECL|class|ImageReader
 DECL|function|IconCache
+DECL|function|ImageReader
 DECL|function|QIcon
 DECL|function|QIcon
 DECL|function|QIcon
@@ -21,6 +23,8 @@ DECL|function|bestSizeMatch
 DECL|function|cacheKey
 DECL|function|clone
 DECL|function|detach
+DECL|function|findBySize
+DECL|function|format
 DECL|function|fromTheme
 DECL|function|hasThemeIcon
 DECL|function|isDetached
@@ -32,6 +36,7 @@ DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator >>
 DECL|function|operator QVariant
+DECL|function|origIcoDepth
 DECL|function|paint
 DECL|function|paint
 DECL|function|pixmap
@@ -42,6 +47,7 @@ DECL|function|qt_cleanup_icon_cache
 DECL|function|qt_effective_device_pixel_ratio
 DECL|function|qt_iconEngineFactoryLoader
 DECL|function|read
+DECL|function|read
 DECL|function|setThemeName
 DECL|function|setThemeSearchPaths
 DECL|function|themeName
@@ -51,5 +57,7 @@ DECL|function|virtual_hook
 DECL|function|write
 DECL|function|~QIcon
 DECL|function|~QPixmapIconEngine
+DECL|member|m_atEnd
+DECL|member|m_reader
 DECL|struct|IconCache
 DECL|variable|serialNumCounter
