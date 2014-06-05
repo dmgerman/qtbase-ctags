@@ -20,6 +20,7 @@ DECL|function|setDefaultDisplayMetrics
 DECL|function|setDesktopSize
 DECL|function|setDisplayMetrics
 DECL|function|setScreenOrientation
+DECL|function|setScreenSize
 DECL|function|styleHint
 DECL|function|themeNames
 DECL|function|~QAndroidPlatformIntegration
@@ -27,5 +28,7 @@ DECL|member|m_defaultGeometryHeight
 DECL|member|m_defaultGeometryWidth
 DECL|member|m_defaultPhysicalSizeHeight
 DECL|member|m_defaultPhysicalSizeWidth
+DECL|member|m_defaultScreenHeight
+DECL|member|m_defaultScreenWidth
 DECL|member|m_nativeOrientation
 DECL|member|m_orientation
