@@ -188,6 +188,7 @@ DECL|method|close
 DECL|method|drawPatch
 DECL|method|endObject
 DECL|method|extractAbsSeekBar
+DECL|method|extractCalendar
 DECL|method|extractCheckedTextView
 DECL|method|extractChunkInfo
 DECL|method|extractCompoundButton
