@@ -14,6 +14,7 @@ DECL|function|installUpdateHandler
 DECL|function|isActive
 DECL|function|localizedActionDescription
 DECL|function|localizedActionName
+DECL|function|localizedDescription
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator ==
@@ -21,6 +22,7 @@ DECL|function|platformAccessibility
 DECL|function|pressAction
 DECL|function|qAccessibleCleanup
 DECL|function|qAccessibleEventString
+DECL|function|qAccessibleLocalizedActionDescription
 DECL|function|qAccessibleRoleString
 DECL|function|qAccessibleTextBoundaryHelper
 DECL|function|queryAccessibleInterface
