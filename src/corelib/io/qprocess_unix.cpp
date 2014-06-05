@@ -4,8 +4,7 @@ DECL|function|_q_dupEnvironment
 DECL|function|_q_notified
 DECL|function|add
 DECL|function|add_fd
-DECL|function|bytesAvailableFromStderr
-DECL|function|bytesAvailableFromStdout
+DECL|function|bytesAvailableInChannel
 DECL|function|catchDeadChildren
 DECL|function|closeChannel
 DECL|function|defaultNotifiers
@@ -23,8 +22,7 @@ DECL|function|qt_create_pipe
 DECL|function|qt_prettyDebug
 DECL|function|qt_sa_sigchld_sigaction
 DECL|function|qt_timeout_value
-DECL|function|readFromStderr
-DECL|function|readFromStdout
+DECL|function|readFromChannel
 DECL|function|remove
 DECL|function|run
 DECL|function|spawnChild

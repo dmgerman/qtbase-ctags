@@ -82,6 +82,7 @@ DECL|function|systemEnvironment
 DECL|function|terminate
 DECL|function|toList
 DECL|function|toStringList
+DECL|function|tryReadFromChannel
 DECL|function|value
 DECL|function|waitForBytesWritten
 DECL|function|waitForFinished

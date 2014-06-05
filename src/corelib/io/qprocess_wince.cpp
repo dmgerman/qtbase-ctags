@@ -1,6 +1,5 @@
 DECL|function|_q_notified
-DECL|function|bytesAvailableFromStderr
-DECL|function|bytesAvailableFromStdout
+DECL|function|bytesAvailableInChannel
 DECL|function|closeChannel
 DECL|function|destroyPipe
 DECL|function|drainOutputPipes
@@ -11,8 +10,7 @@ DECL|function|pipeWriterBytesToWrite
 DECL|function|processStarted
 DECL|function|qt_create_commandline
 DECL|function|qt_terminateApp
-DECL|function|readFromStderr
-DECL|function|readFromStdout
+DECL|function|readFromChannel
 DECL|function|startDetached
 DECL|function|startProcess
 DECL|function|systemEnvironment
