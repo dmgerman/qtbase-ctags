@@ -6,6 +6,7 @@ DECL|function|QWinRTInputContext
 DECL|function|RangeFromChild
 DECL|function|RangeFromPoint
 DECL|function|SetValue
+DECL|function|getInputPane
 DECL|function|get_DocumentRange
 DECL|function|get_HostRawElementProvider
 DECL|function|get_IsReadOnly

@@ -23,6 +23,7 @@ DECL|function|mask
 DECL|function|modalDialog
 DECL|function|modalDialogClosingOneOfTwoModal
 DECL|function|modalWindowModallity
+DECL|function|modalWindowPosition
 DECL|function|modalWithChildWindow
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseEventSequence

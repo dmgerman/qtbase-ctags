@@ -36,6 +36,7 @@ DECL|field|m_backKeyPressedSent
 DECL|field|m_contextMenuVisible
 DECL|field|m_currentRotation
 DECL|field|m_debuggerProcess
+DECL|field|m_dummyView
 DECL|field|m_editText
 DECL|field|m_environmentVariables
 DECL|field|m_fullScreen

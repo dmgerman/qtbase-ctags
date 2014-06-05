@@ -1,4 +1,5 @@
 DECL|function|defaultFont
+DECL|function|defaultFont
 DECL|function|fontDir
 DECL|function|fontEngine
 DECL|function|populateFamily

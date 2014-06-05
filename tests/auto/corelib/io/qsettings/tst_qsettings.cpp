@@ -21,6 +21,7 @@ DECL|function|fileName
 DECL|function|fromFile
 DECL|function|fromFile_data
 DECL|function|getSetCheck
+DECL|function|iniCodec
 DECL|function|iniEscapedKey
 DECL|function|iniEscapedStringList
 DECL|function|iniUnescapedKey
