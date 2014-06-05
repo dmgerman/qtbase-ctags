@@ -7,9 +7,8 @@ DECL|function|add_fd
 DECL|function|bytesAvailableFromStderr
 DECL|function|bytesAvailableFromStdout
 DECL|function|catchDeadChildren
-DECL|function|createChannel
+DECL|function|closeChannel
 DECL|function|defaultNotifiers
-DECL|function|destroyChannel
 DECL|function|destroyPipe
 DECL|function|doSpawn
 DECL|function|execChild
@@ -17,6 +16,7 @@ DECL|function|findExitCode
 DECL|function|initializeProcessManager
 DECL|function|killProcess
 DECL|function|lock
+DECL|function|openChannel
 DECL|function|processManager
 DECL|function|processStarted
 DECL|function|qt_create_pipe

@@ -1,14 +1,14 @@
 DECL|function|_q_notified
 DECL|function|bytesAvailableFromStderr
 DECL|function|bytesAvailableFromStdout
-DECL|function|createChannel
-DECL|function|destroyChannel
+DECL|function|closeChannel
 DECL|function|destroyPipe
 DECL|function|drainOutputPipes
 DECL|function|duplicateStdWriteChannel
 DECL|function|findExitCode
 DECL|function|flushPipeWriter
 DECL|function|killProcess
+DECL|function|openChannel
 DECL|function|pipeWriterBytesToWrite
 DECL|function|processStarted
 DECL|function|qt_create_commandline
