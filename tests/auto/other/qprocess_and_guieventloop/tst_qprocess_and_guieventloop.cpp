@@ -1,0 +1,2 @@
+DECL|class|tst_QProcess_and_GuiEventLoop
+DECL|function|waitForAndEventLoop
