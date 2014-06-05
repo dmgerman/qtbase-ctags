@@ -39,6 +39,7 @@ DECL|function|QShortcutEvent
 DECL|function|QShowEvent
 DECL|function|QStatusTipEvent
 DECL|function|QTabletEvent
+DECL|function|QTabletEvent
 DECL|function|QToolBarChangeEvent
 DECL|function|QTouchEvent
 DECL|function|QWhatsThisClickedEvent
@@ -50,6 +51,8 @@ DECL|function|QWindowStateChangeEvent
 DECL|function|TouchPoint
 DECL|function|TouchPoint
 DECL|function|applicationState
+DECL|function|button
+DECL|function|buttons
 DECL|function|contentPos
 DECL|function|contentPos
 DECL|function|contentPosRange

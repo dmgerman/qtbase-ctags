@@ -13,6 +13,7 @@ DECL|function|xi2HandleTabletEvent
 DECL|function|xi2ReportTabletEvent
 DECL|function|xi2Select
 DECL|function|xi2SetupDevices
+DECL|function|xiToQtMouseButton
 DECL|macro|FINGER_MAX_WIDTH_MM
 DECL|member|firstPressedNormalPosition
 DECL|member|firstPressedPosition

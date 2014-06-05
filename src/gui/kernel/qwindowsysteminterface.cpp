@@ -39,6 +39,8 @@ DECL|function|handleTabletEnterProximityEvent
 DECL|function|handleTabletEnterProximityEvent
 DECL|function|handleTabletEvent
 DECL|function|handleTabletEvent
+DECL|function|handleTabletEvent
+DECL|function|handleTabletEvent
 DECL|function|handleTabletLeaveProximityEvent
 DECL|function|handleTabletLeaveProximityEvent
 DECL|function|handleThemeChange
