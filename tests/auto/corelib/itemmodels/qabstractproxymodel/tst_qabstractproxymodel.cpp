@@ -1,6 +1,7 @@
 DECL|class|AnotherStandardItemModelWithCustomRoleNames
 DECL|class|StandardItemModelWithCustomRoleNames
 DECL|class|SubQAbstractProxyModel
+DECL|class|SwappingProxy
 DECL|class|tst_QAbstractProxyModel
 DECL|enumerator|AnotherCustomRole1
 DECL|enumerator|AnotherCustomRole2
@@ -11,6 +12,7 @@ DECL|enum|CustomRole
 DECL|function|AnotherStandardItemModelWithCustomRoleNames
 DECL|function|StandardItemModelWithCustomRoleNames
 DECL|function|columnCount
+DECL|function|columnCount
 DECL|function|data
 DECL|function|data_data
 DECL|function|flags
@@ -18,8 +20,10 @@ DECL|function|flags_data
 DECL|function|headerData
 DECL|function|headerData_data
 DECL|function|index
+DECL|function|index
 DECL|function|itemData
 DECL|function|itemData_data
+DECL|function|mapFromSource
 DECL|function|mapFromSource
 DECL|function|mapFromSource
 DECL|function|mapFromSource_data
@@ -29,13 +33,18 @@ DECL|function|mapSelectionToSource
 DECL|function|mapSelectionToSource_data
 DECL|function|mapToSource
 DECL|function|mapToSource
+DECL|function|mapToSource
 DECL|function|mapToSource_data
+DECL|function|parent
 DECL|function|parent
 DECL|function|qabstractproxymodel
 DECL|function|revert
 DECL|function|rowCount
+DECL|function|rowCount
 DECL|function|setSourceModel
 DECL|function|submit
 DECL|function|submit_data
+DECL|function|swapRow
 DECL|function|testRoleNames
+DECL|function|testSwappingRowsProxy
 DECL|function|verifySubSetOf

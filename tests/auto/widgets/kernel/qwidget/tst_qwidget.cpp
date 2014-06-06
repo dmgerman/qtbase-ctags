@@ -266,6 +266,7 @@ DECL|function|restoreVersion1Geometry
 DECL|function|restoreVersion1Geometry_data
 DECL|function|saveRestoreGeometry
 DECL|function|scroll
+DECL|function|scrollNativeChildren
 DECL|function|scrollWithoutBackingStore
 DECL|function|sendUpdateRequestImmediately
 DECL|function|setAcceptMouse

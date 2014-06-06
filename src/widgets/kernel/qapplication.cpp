@@ -34,6 +34,7 @@ DECL|function|font
 DECL|function|font
 DECL|function|font
 DECL|function|fontMetrics
+DECL|function|get_style_class_name
 DECL|function|giveFocusAccordingToFocusPolicy
 DECL|function|globalStrut
 DECL|function|grabForPopup
@@ -53,6 +54,7 @@ DECL|function|isWindowBlocked
 DECL|function|keyboardInputInterval
 DECL|function|keypadNavigationEnabled
 DECL|function|modalState
+DECL|function|nativeStyleClassName
 DECL|function|navigationMode
 DECL|function|notify
 DECL|function|notifyActiveWindowChange
@@ -141,6 +143,7 @@ DECL|member|load_testability
 DECL|member|main_widget
 DECL|member|navigationMode
 DECL|member|oldEditFocus
+DECL|member|overrides_native_style
 DECL|member|popupWidgets
 DECL|member|self
 DECL|member|set_font

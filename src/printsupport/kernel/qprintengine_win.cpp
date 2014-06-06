@@ -20,6 +20,8 @@ DECL|function|fillPath
 DECL|function|fillPath_dev
 DECL|function|getDC
 DECL|function|globalDevMode
+DECL|function|indexOfId
+DECL|function|indexOfWindowsId
 DECL|function|initHDC
 DECL|function|initialize
 DECL|function|metric

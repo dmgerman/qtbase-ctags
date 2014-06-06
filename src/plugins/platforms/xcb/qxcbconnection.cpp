@@ -44,6 +44,7 @@ DECL|function|sendConnectionEvent
 DECL|function|setFocusWindow
 DECL|function|start
 DECL|function|sync
+DECL|function|syncWindow
 DECL|function|systemTrayTracker
 DECL|function|translateMouseButton
 DECL|function|translateMouseButtons

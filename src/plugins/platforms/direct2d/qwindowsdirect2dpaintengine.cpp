@@ -22,6 +22,7 @@ DECL|function|QWindowsDirect2DPaintEngine
 DECL|function|QWindowsDirect2DPaintEnginePrivate
 DECL|function|adjustForAliasing
 DECL|function|adjustForAliasing
+DECL|function|adjustLine
 DECL|function|adjusted
 DECL|function|antiAliasingEnabled
 DECL|function|antialiasMode
@@ -30,6 +31,7 @@ DECL|function|begin
 DECL|function|begin
 DECL|function|brushChanged
 DECL|function|brushOriginChanged
+DECL|function|cleanup_func
 DECL|function|clearClips
 DECL|function|clip
 DECL|function|clip
@@ -65,11 +67,11 @@ DECL|function|fontSizeInDIP
 DECL|function|geometry
 DECL|function|interpolationMode
 DECL|function|isInFigure
+DECL|function|isLinePositivelySloped
 DECL|function|lineTo
 DECL|function|moveTo
 DECL|function|negateCurrentBrushOrigin
 DECL|function|opacityChanged
-DECL|function|painterPathToID2D1PathGeometry
 DECL|function|penChanged
 DECL|function|pixelSizeToDIP
 DECL|function|pointSizeToDIP
@@ -96,6 +98,8 @@ DECL|function|updatePen
 DECL|function|updateTransform
 DECL|function|vectorPathToID2D1PathGeometry
 DECL|macro|D2D_TAG
+DECL|member|aliased
+DECL|member|antiAliased
 DECL|member|bitmap
 DECL|member|brush
 DECL|member|brush
@@ -114,4 +118,5 @@ DECL|member|pushedClips
 DECL|member|qbrush
 DECL|member|qpen
 DECL|member|strokeStyle
+DECL|struct|D2DVectorPathCache
 DECL|variable|MAGICAL_ALIASING_OFFSET

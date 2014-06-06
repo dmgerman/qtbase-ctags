@@ -81,6 +81,7 @@ DECL|function|isTransient
 DECL|function|lower
 DECL|function|mapFromGlobal
 DECL|function|mapToGlobal
+DECL|function|needsSync
 DECL|function|netWmStates
 DECL|function|pending
 DECL|function|positionIncludesFrame

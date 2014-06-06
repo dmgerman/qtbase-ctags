@@ -1,4 +1,5 @@
 DECL|function|QWinRTWindow
+DECL|function|devicePixelRatio
 DECL|function|format
 DECL|function|isActive
 DECL|function|isExposed
