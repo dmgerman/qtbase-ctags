@@ -1,1 +1,2 @@
 DECL|macro|QWINRTSERVICES_H
+DECL|variable|QWinRTServicesPrivate
