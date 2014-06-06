@@ -1,7 +1,6 @@
 DECL|class|EventReportWidget
 DECL|enumerator|TabletButtonPress
 DECL|enumerator|TabletButtonRelease
-DECL|enumerator|TabletDraw
 DECL|enumerator|TabletMove
 DECL|enum|TabletPointType
 DECL|function|EventReportWidget
@@ -15,9 +14,13 @@ DECL|function|mouseReleaseEvent
 DECL|function|outputMouseEvent
 DECL|function|paintEvent
 DECL|function|tabletEvent
+DECL|member|button
+DECL|member|m_lastButton
 DECL|member|m_lastIsMouseMove
 DECL|member|m_lastIsTabletMove
 DECL|member|m_points
 DECL|member|pos
+DECL|member|pressure
+DECL|member|ptype
 DECL|member|type
 DECL|struct|TabletPoint
