@@ -48,7 +48,7 @@ DECL|field|m_mainLib
 DECL|field|m_metaState
 DECL|field|m_nativeOrientation
 DECL|field|m_nativeViews
-DECL|field|m_opionsMenuIsVisible
+DECL|field|m_optionsMenuIsVisible
 DECL|field|m_quitApp
 DECL|field|m_showHideTimeStamp
 DECL|field|m_started
