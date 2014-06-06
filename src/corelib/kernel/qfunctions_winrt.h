@@ -1,4 +1,10 @@
 DECL|macro|QFUNCTIONS_WINRT_H
+DECL|macro|Q_ASSERT_SUCCEEDED
+DECL|macro|RETURN_FALSE_IF_FAILED
+DECL|macro|RETURN_HR_IF_FAILED
+DECL|macro|RETURN_IF_FAILED
+DECL|macro|RETURN_OK_IF_FAILED
+DECL|macro|RETURN_VOID_IF_FAILED
 DECL|macro|generate_inline_return_func0
 DECL|macro|generate_inline_return_func1
 DECL|macro|generate_inline_return_func2
