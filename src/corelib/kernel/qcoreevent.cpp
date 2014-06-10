@@ -17,5 +17,4 @@ DECL|member|data
 DECL|member|next
 DECL|struct|QBasicAtomicBitField
 DECL|typedef|UserEventTypeRegistry
-DECL|variable|UserEventRegistrationBitFieldSize
 DECL|variable|userEventTypeRegistry
