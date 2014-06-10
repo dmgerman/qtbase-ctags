@@ -135,6 +135,7 @@ DECL|function|subclasses
 DECL|function|terminate
 DECL|function|threadSafeness
 DECL|function|toFlagValue
+DECL|function|tree
 DECL|function|~InnerNode
 DECL|function|~NameCollisionNode
 DECL|function|~Node

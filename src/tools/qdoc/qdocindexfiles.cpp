@@ -11,3 +11,5 @@ DECL|function|readIndexes
 DECL|function|resolveIndex
 DECL|function|~QDocIndexFiles
 DECL|member|qdocIndexFiles_
+DECL|variable|readingRoot
+DECL|variable|top

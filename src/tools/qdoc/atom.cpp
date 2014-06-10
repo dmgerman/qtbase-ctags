@@ -1,4 +1,6 @@
 DECL|function|LinkAtom
+DECL|function|LinkAtom
+DECL|function|LinkAtom
 DECL|function|dump
 DECL|function|next
 DECL|function|next

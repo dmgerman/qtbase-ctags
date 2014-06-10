@@ -127,6 +127,7 @@ DECL|function|alsoList
 DECL|function|append
 DECL|function|append
 DECL|function|append
+DECL|function|append
 DECL|function|appendChar
 DECL|function|appendToCode
 DECL|function|appendToCode

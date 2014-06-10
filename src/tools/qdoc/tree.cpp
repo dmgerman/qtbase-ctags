@@ -41,6 +41,7 @@ DECL|function|resolveFunctionTarget
 DECL|function|resolveInheritance
 DECL|function|resolveInheritanceHelper
 DECL|function|resolveProperties
+DECL|function|resolveTarget
 DECL|function|resolveTargets
 DECL|function|~Tree
 DECL|variable|t

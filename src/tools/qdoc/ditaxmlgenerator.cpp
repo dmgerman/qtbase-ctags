@@ -52,6 +52,7 @@ DECL|function|generateSection
 DECL|function|generateSectionInheritedList
 DECL|function|generateStatus
 DECL|function|generateTableOfContents
+DECL|function|getAutoLink
 DECL|function|getLink
 DECL|function|getMarkedUpSynopsis
 DECL|function|getMetadataElement
