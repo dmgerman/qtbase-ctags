@@ -35,6 +35,7 @@ DECL|function|testDebugStream
 DECL|function|testDetachBug
 DECL|function|testDocument
 DECL|function|testDuplicateKeys
+DECL|function|testJsonValueRefDefault
 DECL|function|testNumbers
 DECL|function|testNumbers_2
 DECL|function|testNumbers_3
