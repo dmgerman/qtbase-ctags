@@ -23,6 +23,7 @@ DECL|function|enumerator
 DECL|function|enumerator
 DECL|function|enumeratorCount
 DECL|function|enumeratorOffset
+DECL|function|findMethodCandidates
 DECL|function|fromSignalImpl
 DECL|function|get
 DECL|function|getParameterTypes
