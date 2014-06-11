@@ -189,6 +189,8 @@ DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|moveChild
 DECL|function|moveChild_data
+DECL|function|moveEvent
+DECL|function|moveEvent
 DECL|function|moveInResizeEvent
 DECL|function|moveRect
 DECL|function|moveWindowInShowEvent
@@ -394,7 +396,10 @@ DECL|member|m_log
 DECL|member|m_modifiers
 DECL|member|m_mouseEventCount
 DECL|member|m_platform
-DECL|member|m_resizeEventCount
+DECL|member|m_spontaneousMoveEventCount
+DECL|member|m_spontaneousResizeEventCount
+DECL|member|m_synthesizedMoveEventCount
+DECL|member|m_synthesizedResizeEventCount
 DECL|member|m_touchEventCount
 DECL|member|m_widget
 DECL|member|m_winIdList
