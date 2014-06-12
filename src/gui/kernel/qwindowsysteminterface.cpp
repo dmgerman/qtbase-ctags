@@ -60,6 +60,7 @@ DECL|function|peekWindowSystemEvent
 DECL|function|qt_handleKeyEvent
 DECL|function|qt_handleMouseEvent
 DECL|function|qt_handleTouchEvent
+DECL|function|qt_sendShortcutOverrideEvent
 DECL|function|registerTouchDevice
 DECL|function|removeWindowSystemEvent
 DECL|function|sendWindowSystemEvents
@@ -70,6 +71,7 @@ DECL|function|tryHandleExtendedShortcutEvent
 DECL|function|tryHandleExtendedShortcutEvent
 DECL|function|tryHandleShortcutEvent
 DECL|function|tryHandleShortcutEvent
+DECL|function|tryHandleShortcutEventToObject
 DECL|function|windowSystemEventsQueued
 DECL|function|windowSystemEventsQueued
 DECL|member|eventTime

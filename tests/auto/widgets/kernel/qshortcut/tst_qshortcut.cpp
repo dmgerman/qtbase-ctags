@@ -1,3 +1,4 @@
+DECL|class|OverrideCountingWidget
 DECL|class|TestEdit
 DECL|class|tst_QShortcut
 DECL|enumerator|Ambiguous
@@ -23,6 +24,7 @@ DECL|enumerator|TriggerSlot7
 DECL|enum|Action
 DECL|enum|Result
 DECL|enum|Widget
+DECL|function|OverrideCountingWidget
 DECL|function|TestEdit
 DECL|function|ambigSlot1
 DECL|function|ambigSlot2
@@ -38,6 +40,7 @@ DECL|function|clearAllShortcuts
 DECL|function|context
 DECL|function|defElements
 DECL|function|disabledItems
+DECL|function|duplicatedShortcutOverride
 DECL|function|event
 DECL|function|initTestCase
 DECL|function|keypressConsumption
@@ -70,6 +73,7 @@ DECL|member|currentAction
 DECL|member|currentResult
 DECL|member|edit
 DECL|member|mainW
+DECL|member|overrideCount
 DECL|member|sbText
 DECL|member|shortcuts
 DECL|variable|Action
