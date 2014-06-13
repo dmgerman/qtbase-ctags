@@ -3,9 +3,12 @@ DECL|function|createMessageWindow
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForIntegration
 DECL|function|nativeResourceForWindow
+DECL|function|registerMimeType
 DECL|function|registerWindowClass
+DECL|function|registerWindowsMime
 DECL|function|setAsyncExpose
 DECL|function|setWindowProperty
+DECL|function|unregisterWindowsMime
 DECL|function|windowProperties
 DECL|function|windowProperty
 DECL|function|windowProperty

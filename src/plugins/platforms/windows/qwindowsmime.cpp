@@ -64,6 +64,7 @@ DECL|function|msgConversionError
 DECL|function|qt_read_dibv5
 DECL|function|qt_write_dibv5
 DECL|function|readDib
+DECL|function|registerMime
 DECL|function|registerMimeType
 DECL|function|setCf
 DECL|function|setData
