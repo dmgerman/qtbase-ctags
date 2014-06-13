@@ -1,6 +1,8 @@
 DECL|class|Resolver
 DECL|class|Resolver
+DECL|enumerator|ResolveANGLE
 DECL|enumerator|ResolveEXT
+DECL|enumerator|ResolveNV
 DECL|enumerator|ResolveOES
 DECL|enum|ResolvePolicy
 DECL|function|QOpenGLExtensions
