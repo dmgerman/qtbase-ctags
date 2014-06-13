@@ -1,4 +1,5 @@
 DECL|enumerator|Display
+DECL|enumerator|EglConfig
 DECL|enumerator|EglContext
 DECL|enumerator|EglDisplay
 DECL|enumerator|EglWindow
