@@ -4,6 +4,8 @@ DECL|function|SharedResource
 DECL|function|SharedResource
 DECL|function|SharedResourceTracker
 DECL|function|aboutToBeDestroyed
+DECL|function|bufferCreate
+DECL|function|bufferMapRange
 DECL|function|common_data
 DECL|function|createSurface
 DECL|function|defaultSurfaceFormat

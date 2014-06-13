@@ -11,6 +11,7 @@ DECL|function|destroy
 DECL|function|freeBufferFunc
 DECL|function|isCreated
 DECL|function|map
+DECL|function|mapRange
 DECL|function|operator =
 DECL|function|read
 DECL|function|release

@@ -138,6 +138,7 @@ DECL|function|qopenglfResolveIsTexture
 DECL|function|qopenglfResolveLineWidth
 DECL|function|qopenglfResolveLinkProgram
 DECL|function|qopenglfResolveMapBuffer
+DECL|function|qopenglfResolveMapBufferRange
 DECL|function|qopenglfResolvePixelStorei
 DECL|function|qopenglfResolvePolygonOffset
 DECL|function|qopenglfResolveReadPixels
