@@ -4,6 +4,7 @@ DECL|function|QThreadPoolPrivate
 DECL|function|QThreadPoolThread
 DECL|function|activeThreadCount
 DECL|function|activeThreadCount
+DECL|function|cancel
 DECL|function|clear
 DECL|function|clear
 DECL|function|enqueueTask
@@ -21,6 +22,7 @@ DECL|function|setExpiryTimeout
 DECL|function|setMaxThreadCount
 DECL|function|start
 DECL|function|startThread
+DECL|function|stealAndRunRunnable
 DECL|function|stealRunnable
 DECL|function|tooManyThreadsActive
 DECL|function|tryStart
