@@ -124,6 +124,7 @@ DECL|function|spacing
 DECL|function|timerEvent
 DECL|function|updateArrow
 DECL|function|updateDelegate
+DECL|function|updateFocusPolicy
 DECL|function|updateHoverControl
 DECL|function|updateLayoutDirection
 DECL|function|updateLineEditGeometry
