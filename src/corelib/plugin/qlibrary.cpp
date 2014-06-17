@@ -19,6 +19,7 @@ DECL|function|load
 DECL|function|load
 DECL|function|loadHints
 DECL|function|loadPlugin
+DECL|function|mergeLoadHints
 DECL|function|qlibraryCleanup
 DECL|function|qt_debug_component
 DECL|function|qt_find_pattern
