@@ -16,12 +16,14 @@ DECL|function|eglContextForContext
 DECL|function|fontDatabase
 DECL|function|hasCapability
 DECL|function|initialize
+DECL|function|loadKeymapStatic
 DECL|function|nativeInterface
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForIntegration
 DECL|function|nativeResourceForScreen
 DECL|function|nativeResourceForWindow
 DECL|function|nativeResourceFunctionForContext
+DECL|function|platformFunction
 DECL|function|resourceType
 DECL|function|services
 DECL|function|~QEGLPlatformIntegration
