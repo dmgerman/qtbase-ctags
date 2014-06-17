@@ -145,8 +145,10 @@ DECL|field|View_onClick
 DECL|field|View_overScrollMode
 DECL|field|View_padding
 DECL|field|View_paddingBottom
+DECL|field|View_paddingEnd
 DECL|field|View_paddingLeft
 DECL|field|View_paddingRight
+DECL|field|View_paddingStart
 DECL|field|View_paddingTop
 DECL|field|View_saveEnabled
 DECL|field|View_scrollX
@@ -199,6 +201,7 @@ DECL|method|extractNativeChunkInfo
 DECL|method|extractProgressBar
 DECL|method|extractProgressBarInfo
 DECL|method|extractSwitch
+DECL|method|extractTabBar
 DECL|method|extractTextAppearanceInformations
 DECL|method|extractTextAppearanceInformations
 DECL|method|extractToolBar
