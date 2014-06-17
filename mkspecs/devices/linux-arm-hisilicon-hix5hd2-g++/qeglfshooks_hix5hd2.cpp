@@ -1,0 +1,10 @@
+DECL|class|QEglFSHiX5Hd2Hooks
+DECL|function|createNativeWindow
+DECL|function|destroyNativeWindow
+DECL|function|fbInit
+DECL|function|platformInit
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|variable|eglFSHiX5Hd2Hooks
+DECL|variable|platformHooks
