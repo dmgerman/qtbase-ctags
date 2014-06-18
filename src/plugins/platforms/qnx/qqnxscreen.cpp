@@ -14,6 +14,7 @@ DECL|function|determineScreenSize
 DECL|function|findMultimediaWindow
 DECL|function|findMultimediaWindow
 DECL|function|findWindow
+DECL|function|grabWindow
 DECL|function|isOrthogonal
 DECL|function|keyboardHeightChanged
 DECL|function|lowerWindow
