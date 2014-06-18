@@ -1,7 +1,9 @@
 DECL|class|EventSpy
+DECL|class|MultiWidget
 DECL|class|MyTextEdit
 DECL|class|tst_QMdiSubWindow
 DECL|function|EventSpy
+DECL|function|MultiWidget
 DECL|function|MyTextEdit
 DECL|function|changeFocusWithTab
 DECL|function|clear
@@ -28,6 +30,7 @@ DECL|function|resizeEvents
 DECL|function|resizeEvents_data
 DECL|function|resizeTimer
 DECL|function|restoreFocus
+DECL|function|restoreFocusOverCreation
 DECL|function|sendMouseDoubleClick
 DECL|function|sendMouseMove
 DECL|function|sendMousePress
@@ -58,6 +61,8 @@ DECL|function|triggerSignal
 DECL|member|_count
 DECL|member|acceptClose
 DECL|member|eventToSpy
+DECL|member|m_lineEdit1
+DECL|member|m_lineEdit2
 DECL|variable|DialogWindowFlags
 DECL|variable|StandardWindowFlags
 DECL|variable|WindowFlags

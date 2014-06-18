@@ -101,6 +101,7 @@ DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|sizeParameters
+DECL|function|storeFocusWidget
 DECL|function|systemMenu
 DECL|function|testOption
 DECL|function|timerEvent
