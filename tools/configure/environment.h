@@ -6,5 +6,6 @@ DECL|enumerator|CC_MSVC2008
 DECL|enumerator|CC_MSVC2010
 DECL|enumerator|CC_MSVC2012
 DECL|enumerator|CC_MSVC2013
+DECL|enumerator|CC_MSVC2015
 DECL|enumerator|CC_UNKNOWN
 DECL|enum|Compiler
