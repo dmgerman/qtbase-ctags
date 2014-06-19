@@ -7,6 +7,7 @@ DECL|function|MyLine
 DECL|function|MyPoint
 DECL|function|assignment
 DECL|function|criticalWithoutDebug
+DECL|function|debugNoQuotes
 DECL|function|debugSpaceHandling
 DECL|function|debugWithBool
 DECL|function|defaultMessagehandler
@@ -14,6 +15,8 @@ DECL|function|doDebug
 DECL|function|myMessageHandler
 DECL|function|operator <<
 DECL|function|operator <<
+DECL|function|qDebugQByteArray
+DECL|function|qDebugQChar
 DECL|function|qDebugQLatin1String
 DECL|function|qDebugQStringRef
 DECL|function|stateSaver
