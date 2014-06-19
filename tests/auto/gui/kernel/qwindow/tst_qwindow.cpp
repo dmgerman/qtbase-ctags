@@ -34,6 +34,7 @@ DECL|function|mouseToTouchLoop
 DECL|function|mouseToTouchTranslation
 DECL|function|orientation
 DECL|function|positioning
+DECL|function|positioningDuringMinimized
 DECL|function|positioning_data
 DECL|function|received
 DECL|function|reset
