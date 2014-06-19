@@ -59,6 +59,7 @@ DECL|function|sliderTest
 DECL|function|spinBoxTest
 DECL|function|state
 DECL|function|statesStructTest
+DECL|function|subWindowTest
 DECL|function|subclassedWidget
 DECL|function|tabTest
 DECL|function|tabWidgetTest
