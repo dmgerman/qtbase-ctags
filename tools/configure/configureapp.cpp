@@ -10,7 +10,6 @@ DECL|function|ArchData
 DECL|function|Configure
 DECL|function|FileWriter
 DECL|function|addDefine
-DECL|function|appendMakeItem
 DECL|function|applySpecSpecifics
 DECL|function|autoDetection
 DECL|function|buildQmake
