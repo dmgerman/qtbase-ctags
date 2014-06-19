@@ -70,6 +70,7 @@ DECL|function|split_data
 DECL|function|startsWith
 DECL|function|startsWith_char
 DECL|function|startsWith_data
+DECL|function|stdString
 DECL|function|swap
 DECL|function|toFromHex
 DECL|function|toFromHex_data
