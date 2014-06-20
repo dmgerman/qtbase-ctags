@@ -2,8 +2,10 @@ DECL|function|QAbstractProxyModel
 DECL|function|QAbstractProxyModel
 DECL|function|_q_sourceModelDestroyed
 DECL|function|buddy
+DECL|function|canDropMimeData
 DECL|function|canFetchMore
 DECL|function|data
+DECL|function|dropMimeData
 DECL|function|fetchMore
 DECL|function|flags
 DECL|function|hasChildren

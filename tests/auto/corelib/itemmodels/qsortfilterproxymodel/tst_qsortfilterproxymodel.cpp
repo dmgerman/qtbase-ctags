@@ -1,6 +1,7 @@
 DECL|class|ChangableHeaderData
 DECL|class|CustomDataProxy
 DECL|class|CustomRoleNameModel
+DECL|class|DropTestModel
 DECL|class|EvenOddFilterModel
 DECL|class|FilterProxy
 DECL|class|FilterProxy2
@@ -18,6 +19,7 @@ DECL|class|tst_QSortFilterProxyModel
 DECL|function|ChangableHeaderData
 DECL|function|CustomDataProxy
 DECL|function|CustomRoleNameModel
+DECL|function|DropTestModel
 DECL|function|FilterProxy
 DECL|function|FilterProxy2
 DECL|function|FilteredColumnProxyModel
@@ -71,6 +73,7 @@ DECL|function|filterTable
 DECL|function|filter_data
 DECL|function|filter_qtbug30662
 DECL|function|filteredColumns
+DECL|function|forwardDropApi
 DECL|function|getSetCheck
 DECL|function|hasChildren
 DECL|function|headerDataChanged
