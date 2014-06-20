@@ -92,6 +92,8 @@ DECL|macro|GL_SAMPLER
 DECL|macro|GL_SHADER
 DECL|macro|GL_STACK_OVERFLOW
 DECL|macro|GL_STACK_UNDERFLOW
+DECL|macro|USE_MANUAL_DEFS
+DECL|macro|USE_MANUAL_DEFS
 DECL|member|context
 DECL|member|glDebugMessageCallback
 DECL|member|glDebugMessageControl
