@@ -30,6 +30,7 @@ DECL|function|focusObject
 DECL|function|focusOutEvent
 DECL|function|genericPluginsAndWindowSystemEvents
 DECL|function|keyboardModifiers
+DECL|function|layoutDirection
 DECL|function|modalWindow
 DECL|function|quitOnLastWindowClosed
 DECL|function|resetCounts
