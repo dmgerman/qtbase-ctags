@@ -19,6 +19,7 @@ DECL|function|qDebugQByteArray
 DECL|function|qDebugQChar
 DECL|function|qDebugQLatin1String
 DECL|function|qDebugQStringRef
+DECL|function|resetFormat
 DECL|function|stateSaver
 DECL|function|textStreamModifiers
 DECL|function|threadSafeMessageHandler
