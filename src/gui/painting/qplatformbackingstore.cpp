@@ -16,6 +16,7 @@ DECL|function|geometry
 DECL|function|isLocked
 DECL|function|lock
 DECL|function|scroll
+DECL|function|stacksOnTop
 DECL|function|textureId
 DECL|function|toImage
 DECL|function|toTexture
@@ -27,6 +28,7 @@ DECL|member|blitter
 DECL|member|locked
 DECL|member|rect
 DECL|member|size
+DECL|member|stacksOnTop
 DECL|member|textureId
 DECL|member|textureId
 DECL|member|textureSize

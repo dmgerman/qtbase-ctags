@@ -1,0 +1,10 @@
+DECL|class|MyGLWidget
+DECL|class|MyGLWidget
+DECL|function|MyGLWidget
+DECL|function|initializeGL
+DECL|function|initializeGL
+DECL|function|paintGL
+DECL|function|paintGL
+DECL|function|resizeGL
+DECL|variable|format
+DECL|variable|widget

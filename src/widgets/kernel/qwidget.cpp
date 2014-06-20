@@ -217,6 +217,8 @@ DECL|function|scroll
 DECL|function|scrollChildren
 DECL|function|scroll_sys
 DECL|function|scroll_sys
+DECL|function|sendComposeStatus
+DECL|function|sendPaintEvent
 DECL|function|sendPendingMoveAndResizeEvents
 DECL|function|sendResizeEvents
 DECL|function|sendWindowChangeToTextureChildrenRecursively
