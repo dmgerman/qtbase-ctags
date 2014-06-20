@@ -92,6 +92,7 @@ DECL|function|grabGesture
 DECL|function|grabKeyboard
 DECL|function|grabMouse
 DECL|function|grabMouse
+DECL|function|grabMouseForWidget
 DECL|function|grabShortcut
 DECL|function|grabberWindow
 DECL|function|graphicsEffect
@@ -191,6 +192,7 @@ DECL|function|registerDropSite
 DECL|function|registerWidget
 DECL|function|releaseKeyboard
 DECL|function|releaseMouse
+DECL|function|releaseMouseGrabOfWidget
 DECL|function|releaseShortcut
 DECL|function|removeAction
 DECL|function|render
@@ -399,6 +401,7 @@ DECL|member|maxInstances
 DECL|struct|QWidgetExceptionCleaner
 DECL|variable|activeXNativeParentHandleProperty
 DECL|variable|keyboardGrb
+DECL|variable|mouseGrabWithCursor
 DECL|variable|qt_enable_backingstore
 DECL|variable|qt_mac_clearDirtyOnWidgetInsideDrawWidget
 DECL|variable|qt_mouseGrb
