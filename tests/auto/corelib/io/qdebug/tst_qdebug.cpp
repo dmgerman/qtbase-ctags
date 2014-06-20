@@ -2,6 +2,9 @@ DECL|class|MessageHandlerSetter
 DECL|class|MyLine
 DECL|class|MyPoint
 DECL|class|tst_QDebug
+DECL|enumerator|Flag1
+DECL|enumerator|Flag2
+DECL|enum|TestEnum
 DECL|function|MessageHandlerSetter
 DECL|function|MyLine
 DECL|function|MyPoint
@@ -17,6 +20,7 @@ DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|qDebugQByteArray
 DECL|function|qDebugQChar
+DECL|function|qDebugQFlags
 DECL|function|qDebugQLatin1String
 DECL|function|qDebugQStringRef
 DECL|function|resetFormat
