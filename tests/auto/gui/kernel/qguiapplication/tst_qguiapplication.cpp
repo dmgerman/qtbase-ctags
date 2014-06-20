@@ -32,6 +32,7 @@ DECL|function|genericPluginsAndWindowSystemEvents
 DECL|function|keyboardModifiers
 DECL|function|layoutDirection
 DECL|function|modalWindow
+DECL|function|palette
 DECL|function|quitOnLastWindowClosed
 DECL|function|resetCounts
 DECL|function|setFocusObject
