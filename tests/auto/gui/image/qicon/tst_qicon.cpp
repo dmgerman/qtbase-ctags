@@ -10,6 +10,7 @@ DECL|function|cacheKey
 DECL|function|detach
 DECL|function|fromTheme
 DECL|function|haveImageFormat
+DECL|function|initTestCase
 DECL|function|isNull
 DECL|function|name
 DECL|function|operator <
@@ -20,5 +21,8 @@ DECL|function|swap
 DECL|function|task184901_badCache
 DECL|function|task223279_inconsistentAddFile
 DECL|function|tst_QIcon
+DECL|member|m_pngImageFileName
+DECL|member|m_pngRectFileName
+DECL|member|m_sourceFileName
 DECL|member|staticIcon
 DECL|member|staticIcon
