@@ -247,4 +247,3 @@ DECL|variable|cltSq
 DECL|variable|cltUnknown
 DECL|variable|cltWS
 DECL|variable|nameCharTable
-DECL|variable|qt_xml_skipped_entity_in_content
