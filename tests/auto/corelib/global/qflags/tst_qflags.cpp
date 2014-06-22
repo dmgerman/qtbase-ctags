@@ -1,4 +1,5 @@
 DECL|class|MyStrictEnum
+DECL|class|MyStrictNoOpEnum
 DECL|class|tst_QFlags
 DECL|enumerator|Four
 DECL|enumerator|One
@@ -7,12 +8,17 @@ DECL|enumerator|Zero
 DECL|enum|MyEnum
 DECL|function|classEnum
 DECL|function|constExpr
+DECL|function|initializerLists
 DECL|function|signedness
 DECL|function|testFlag
 DECL|function|testFlagMultiBits
 DECL|function|testFlagZeroFlag
 DECL|function|verifyConstExpr
 DECL|member|StrictFour
+DECL|member|StrictFour
+DECL|member|StrictOne
 DECL|member|StrictOne
 DECL|member|StrictTwo
+DECL|member|StrictTwo
+DECL|member|StrictZero
 DECL|member|StrictZero
