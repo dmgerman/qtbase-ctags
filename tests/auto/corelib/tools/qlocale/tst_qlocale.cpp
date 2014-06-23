@@ -48,6 +48,7 @@ DECL|function|shortTimeType
 DECL|function|standaloneDayName
 DECL|function|standaloneDayName_data
 DECL|function|standaloneMonthName
+DECL|function|systemLocaleFormatNumber
 DECL|function|testInfAndNan
 DECL|function|testNames
 DECL|function|testNames_data
