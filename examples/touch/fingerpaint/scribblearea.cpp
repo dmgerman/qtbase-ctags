@@ -7,3 +7,5 @@ DECL|function|print
 DECL|function|resizeEvent
 DECL|function|resizeImage
 DECL|function|saveImage
+DECL|variable|MaximumDiameter
+DECL|variable|MinimumDiameter
