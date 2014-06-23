@@ -65,6 +65,7 @@ DECL|function|tabWidgetTest
 DECL|function|tableTest
 DECL|function|text
 DECL|function|textAttributes
+DECL|function|textAttributes_data
 DECL|function|textBrowserTest
 DECL|function|textEditTest
 DECL|function|treeTest
