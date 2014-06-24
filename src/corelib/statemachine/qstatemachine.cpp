@@ -100,6 +100,7 @@ DECL|function|selectTransitions
 DECL|function|setAnimated
 DECL|function|setError
 DECL|function|setGlobalRestorePolicy
+DECL|function|setRunning
 DECL|function|start
 DECL|function|stateEntryLessThan
 DECL|function|stateExitLessThan

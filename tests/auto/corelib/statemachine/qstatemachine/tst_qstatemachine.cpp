@@ -155,6 +155,7 @@ DECL|function|run
 DECL|function|setDelay
 DECL|function|setProp
 DECL|function|setPropertyAfterRestore
+DECL|function|setRunning
 DECL|function|setString
 DECL|function|signalTransitionNormalizeSignature
 DECL|function|signalTransitionRegistrationThreadSafety
@@ -188,6 +189,8 @@ DECL|function|transitionsFromParallelStateWithNoChildren
 DECL|function|twoAnimatedTransitions
 DECL|function|twoAnimations
 DECL|macro|QCOREAPPLICATION_EXEC
+DECL|macro|TEST_RUNNING_CHANGED
+DECL|macro|TEST_RUNNING_CHANGED_STARTED_STOPPED
 DECL|member|counter
 DECL|member|enteredPassed
 DECL|member|error
