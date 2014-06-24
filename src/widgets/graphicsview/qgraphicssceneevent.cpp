@@ -34,6 +34,7 @@ DECL|function|buttons
 DECL|function|buttons
 DECL|function|delta
 DECL|function|dropAction
+DECL|function|flags
 DECL|function|lastPos
 DECL|function|lastPos
 DECL|function|lastScenePos
@@ -80,6 +81,7 @@ DECL|function|setButtons
 DECL|function|setButtons
 DECL|function|setDelta
 DECL|function|setDropAction
+DECL|function|setFlags
 DECL|function|setLastPos
 DECL|function|setLastPos
 DECL|function|setLastScenePos
@@ -118,7 +120,9 @@ DECL|function|setScreenPos
 DECL|function|setScreenPos
 DECL|function|setScreenPos
 DECL|function|setSource
+DECL|function|setSource
 DECL|function|setWidget
+DECL|function|source
 DECL|function|source
 DECL|function|widget
 DECL|function|~QGraphicsSceneContextMenuEvent
@@ -140,6 +144,7 @@ DECL|member|buttons
 DECL|member|buttons
 DECL|member|delta
 DECL|member|dropAction
+DECL|member|flags
 DECL|member|lastPos
 DECL|member|lastPos
 DECL|member|lastScenePos
@@ -178,5 +183,6 @@ DECL|member|screenPos
 DECL|member|screenPos
 DECL|member|screenPos
 DECL|member|screenPos
+DECL|member|source
 DECL|member|source
 DECL|member|widget
