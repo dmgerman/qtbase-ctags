@@ -17,11 +17,15 @@ DECL|function|destroy
 DECL|function|isCreated
 DECL|function|prepareProgram
 DECL|function|release
+DECL|function|setOpacity
 DECL|function|setSwizzleRB
 DECL|function|sourceTransform
 DECL|function|targetTransform
 DECL|function|~QOpenGLTextureBlitter
 DECL|function|~TextureBinder
+DECL|member|opacity
+DECL|member|opacityOld
+DECL|member|opacityUniformPos
 DECL|member|program
 DECL|member|swizzle
 DECL|member|swizzleOld

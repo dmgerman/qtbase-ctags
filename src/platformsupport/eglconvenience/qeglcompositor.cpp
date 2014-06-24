@@ -1,8 +1,13 @@
+DECL|function|BlendStateBinder
 DECL|function|QEGLCompositor
 DECL|function|destroy
 DECL|function|instance
 DECL|function|render
 DECL|function|renderAll
 DECL|function|schedule
+DECL|function|set
+DECL|function|~BlendStateBinder
 DECL|function|~QEGLCompositor
+DECL|member|m_blend
+DECL|struct|BlendStateBinder
 DECL|variable|compositor
