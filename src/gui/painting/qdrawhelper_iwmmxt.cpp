@@ -1,8 +1,0 @@
-DECL|function|_load_alpha
-DECL|function|alpha
-DECL|function|end
-DECL|function|qt_blend_color_argb_iwmmxt
-DECL|macro|_MM_SHUFFLE
-DECL|struct|QIWMMXTIntrinsics
-DECL|variable|qt_functionForModeSolid_IWMMXT
-DECL|variable|qt_functionForMode_IWMMXT

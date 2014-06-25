@@ -4,7 +4,6 @@ DECL|function|qDetectCpuFeatures
 DECL|function|qDumpCPUFeatures
 DECL|macro|AT_HWCAP
 DECL|macro|HWCAP_CRUNCH
-DECL|macro|HWCAP_IWMMXT
 DECL|macro|HWCAP_NEON
 DECL|macro|HWCAP_THUMBEE
 DECL|macro|HWCAP_VFPv3

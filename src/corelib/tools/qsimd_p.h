@@ -4,7 +4,6 @@ DECL|enumerator|AVX2
 DECL|enumerator|DSP
 DECL|enumerator|DSPR2
 DECL|enumerator|HLE
-DECL|enumerator|IWMMXT
 DECL|enumerator|NEON
 DECL|enumerator|QSimdInitialized
 DECL|enumerator|RTM
