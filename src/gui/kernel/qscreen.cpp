@@ -33,3 +33,4 @@ DECL|function|updatePrimaryOrientation
 DECL|function|virtualGeometry
 DECL|function|virtualSiblings
 DECL|function|virtualSize
+DECL|function|~QScreen
