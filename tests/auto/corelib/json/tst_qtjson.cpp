@@ -22,6 +22,8 @@ DECL|function|nesting
 DECL|function|nullArrays
 DECL|function|nullObject
 DECL|function|nullValues
+DECL|function|objectEquals
+DECL|function|objectEquals_data
 DECL|function|parseDuplicateKeys
 DECL|function|parseNumbers
 DECL|function|parseStrings
@@ -61,6 +63,7 @@ DECL|function|toJsonSillyNumericValues
 DECL|function|toVariantList
 DECL|function|toVariantMap
 DECL|function|tst_QtJson
+DECL|function|undefinedKeys
 DECL|function|undefinedValues
 DECL|function|validation
 DECL|function|valueEquals
