@@ -1,6 +1,9 @@
 DECL|macro|RANGECONTROLS_H
 DECL|variable|QAbstractSlider
 DECL|variable|QAbstractSpinBox
+DECL|variable|QAccessibleLineEdit
+DECL|variable|QAccessibleTextInterface
+DECL|variable|QAccessibleValueInterface
 DECL|variable|QAccessibleWidget
 DECL|variable|QAccessibleWidget
 DECL|variable|QDial
