@@ -40,6 +40,7 @@ DECL|function|isServiceRegisteredByThread
 DECL|function|objectDestroyed
 DECL|function|operator <<
 DECL|function|operator <<
+DECL|function|orgFreedesktopDBusString
 DECL|function|placeMetaCall
 DECL|function|postEventToThread
 DECL|function|prepareHook
