@@ -1,6 +1,7 @@
 DECL|function|activateCallbacks
 DECL|function|buildAbi
 DECL|function|buildCpuArchitecture
+DECL|function|currentCpuArchitecture
 DECL|function|detectUnixVersion
 DECL|function|fromstrerror_helper
 DECL|function|fromstrerror_helper
