@@ -46,6 +46,8 @@ DECL|function|openGLModuleType
 DECL|function|operator =
 DECL|function|profile
 DECL|function|qGLContextHandle
+DECL|function|qt_gl_global_share_context
+DECL|function|qt_gl_set_global_share_context
 DECL|function|removeContext
 DECL|function|removeFunctionsBackend
 DECL|function|resources
