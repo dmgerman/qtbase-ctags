@@ -40,6 +40,8 @@ DECL|function|detach
 DECL|function|devType
 DECL|function|devicePixelRatio
 DECL|function|doImageIO
+DECL|function|do_mirror
+DECL|function|do_mirror_data
 DECL|function|dotsPerMeterX
 DECL|function|dotsPerMeterY
 DECL|function|fill
@@ -58,10 +60,7 @@ DECL|function|load
 DECL|function|load
 DECL|function|loadFromData
 DECL|function|metric
-DECL|function|mirror_horizonal_bitmap
 DECL|function|mirrored_helper
-DECL|function|mirrored_helper_loop
-DECL|function|mirrored_helper_loop_inplace
 DECL|function|mirrored_inplace
 DECL|function|offset
 DECL|function|operator !=

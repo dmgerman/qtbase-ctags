@@ -12,6 +12,7 @@ DECL|function|mouseDoubleClickEvent
 DECL|function|mousePressEvent
 DECL|function|paintEvent
 DECL|function|remove_sys
+DECL|function|resizeEvent
 DECL|function|showMessage_sys
 DECL|function|supportsMessages_sys
 DECL|function|systemTrayIcon

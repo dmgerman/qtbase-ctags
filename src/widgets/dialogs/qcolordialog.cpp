@@ -119,6 +119,7 @@ DECL|function|setCurrentAlpha
 DECL|function|setCurrentColor
 DECL|function|setCurrentColor
 DECL|function|setCurrentQColor
+DECL|function|setCurrentRgbColor
 DECL|function|setCustomColor
 DECL|function|setHsv
 DECL|function|setOption

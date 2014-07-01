@@ -1,6 +1,7 @@
 DECL|function|QPixmapIconEngineEntry
 DECL|function|QPixmapIconEngineEntry
 DECL|function|QPixmapIconEngineEntry
+DECL|function|QPixmapIconEngineEntry
 DECL|function|isNull
 DECL|macro|QICON_P_H
 DECL|member|fileName

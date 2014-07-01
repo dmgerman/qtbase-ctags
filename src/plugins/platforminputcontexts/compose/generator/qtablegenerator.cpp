@@ -1,5 +1,6 @@
 DECL|function|TableGenerator
 DECL|function|composeTable
+DECL|function|composeTableForLocale
 DECL|function|findComposeFile
 DECL|function|findSystemComposeDir
 DECL|function|fromBase16

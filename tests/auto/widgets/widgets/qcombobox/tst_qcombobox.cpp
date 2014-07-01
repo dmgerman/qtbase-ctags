@@ -74,6 +74,7 @@ DECL|function|separatorItem_data
 DECL|function|setCurrentIndex
 DECL|function|setCurrentText
 DECL|function|setCurrentText_data
+DECL|function|setCustomModelAndView
 DECL|function|setData
 DECL|function|setEditable
 DECL|function|setFrameless

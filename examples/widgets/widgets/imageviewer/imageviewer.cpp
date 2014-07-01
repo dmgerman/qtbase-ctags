@@ -4,6 +4,7 @@ DECL|function|adjustScrollBar
 DECL|function|createActions
 DECL|function|createMenus
 DECL|function|fitToWindow
+DECL|function|loadFile
 DECL|function|normalSize
 DECL|function|open
 DECL|function|print

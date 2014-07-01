@@ -8,6 +8,7 @@ DECL|function|convertFromImage
 DECL|function|convertFromImageCacheKey
 DECL|function|convertFromImageDetach
 DECL|function|convertFromImageNoDetach
+DECL|function|convertFromImageShouldDetach
 DECL|function|convertFromImage_data
 DECL|function|copy
 DECL|function|copyOnNonAlignedBoundary

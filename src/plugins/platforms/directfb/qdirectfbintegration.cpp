@@ -1,10 +1,10 @@
 DECL|function|QDirectFbIntegration
+DECL|function|connectToDirectFb
 DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow
 DECL|function|fontDatabase
-DECL|function|initialize
 DECL|function|initializeDirectFB
 DECL|function|initializeInput
 DECL|function|initializeScreen

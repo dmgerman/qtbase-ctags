@@ -78,6 +78,7 @@ DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|mouseReleaseEvent
 DECL|function|newHoverControl
+DECL|function|operator ()
 DECL|function|paintEvent
 DECL|function|popupGeometry
 DECL|function|recomputeSizeHint
@@ -123,6 +124,7 @@ DECL|function|spacing
 DECL|function|timerEvent
 DECL|function|updateArrow
 DECL|function|updateDelegate
+DECL|function|updateFocusPolicy
 DECL|function|updateHoverControl
 DECL|function|updateLayoutDirection
 DECL|function|updateLineEditGeometry
@@ -135,3 +137,6 @@ DECL|function|viewContainer
 DECL|function|viewDestroyed
 DECL|function|wheelEvent
 DECL|function|~QComboBox
+DECL|member|cb
+DECL|member|index
+DECL|struct|IndexSetter
