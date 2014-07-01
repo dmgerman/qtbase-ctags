@@ -10,6 +10,7 @@ DECL|function|criticalWithoutDebug
 DECL|function|debugSpaceHandling
 DECL|function|debugWithBool
 DECL|function|defaultMessagehandler
+DECL|function|doDebug
 DECL|function|myMessageHandler
 DECL|function|operator <<
 DECL|function|operator <<
@@ -17,6 +18,8 @@ DECL|function|qDebugQLatin1String
 DECL|function|qDebugQStringRef
 DECL|function|stateSaver
 DECL|function|textStreamModifiers
+DECL|function|threadSafeMessageHandler
+DECL|function|threadSafety
 DECL|function|veryLongWarningMessage
 DECL|function|warningWithoutDebug
 DECL|function|~MessageHandlerSetter
@@ -28,6 +31,9 @@ DECL|member|v2
 DECL|variable|s_file
 DECL|variable|s_function
 DECL|variable|s_line
+DECL|variable|s_messages
 DECL|variable|s_msg
 DECL|variable|s_msgType
+DECL|variable|s_mutex
+DECL|variable|s_sema
 DECL|variable|tst_QDebug

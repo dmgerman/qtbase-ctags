@@ -6,10 +6,12 @@ DECL|function|handleEnterEvent
 DECL|function|initializeXInput2
 DECL|function|valuatorNormalized
 DECL|function|xi2HandleEvent
+DECL|function|xi2HandleHierachyEvent
 DECL|function|xi2HandleScrollEvent
 DECL|function|xi2HandleTabletEvent
 DECL|function|xi2ReportTabletEvent
 DECL|function|xi2Select
+DECL|function|xi2SetupDevices
 DECL|macro|FINGER_MAX_WIDTH_MM
 DECL|member|firstPressedNormalPosition
 DECL|member|firstPressedPosition

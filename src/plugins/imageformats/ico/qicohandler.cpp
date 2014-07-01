@@ -76,3 +76,4 @@ DECL|typedef|ICONDIRENTRY
 DECL|typedef|LPBMP_INFOHDR
 DECL|typedef|LPICONDIR
 DECL|typedef|LPICONDIRENTRY
+DECL|variable|icoOrigDepthKey

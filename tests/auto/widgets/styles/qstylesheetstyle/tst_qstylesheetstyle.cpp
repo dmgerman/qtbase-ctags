@@ -62,6 +62,7 @@ DECL|function|sizeFromContents
 DECL|function|standardIcon
 DECL|function|standardPixmap
 DECL|function|styleHint
+DECL|function|styleSheetChangeBeforePolish
 DECL|function|subControlRect
 DECL|function|subElementRect
 DECL|function|tabAlignement

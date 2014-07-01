@@ -2,7 +2,6 @@ DECL|class|QtSurface
 DECL|field|m_accessibilityDelegate
 DECL|field|m_gestureDetector
 DECL|method|QtSurface
-DECL|method|dispatchHoverEvent
 DECL|method|onTouchEvent
 DECL|method|onTrackballEvent
 DECL|method|surfaceChanged

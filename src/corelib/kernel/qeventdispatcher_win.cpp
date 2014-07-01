@@ -5,6 +5,7 @@ DECL|enumerator|WM_QT_SOCKETNOTIFIER
 DECL|function|QEventDispatcherWin32
 DECL|function|QEventDispatcherWin32
 DECL|function|QEventDispatcherWin32Private
+DECL|function|QWindowsMessageWindowClassContext
 DECL|function|SocketAsyncHandler
 DECL|function|WSAAsyncSelect
 DECL|function|activateEventNotifier
@@ -44,6 +45,7 @@ DECL|function|unregisterTimers
 DECL|function|wakeUp
 DECL|function|~QEventDispatcherWin32
 DECL|function|~QEventDispatcherWin32Private
+DECL|function|~QWindowsMessageWindowClassContext
 DECL|function|~SocketAsyncHandler
 DECL|macro|DWORD_PTR
 DECL|macro|QS_RAWINPUT
@@ -52,6 +54,8 @@ DECL|macro|TIME_KILL_SYNCHRONOUS
 DECL|macro|WM_GESTURE
 DECL|macro|WM_GESTURENOTIFY
 DECL|macro|WM_TOUCH
+DECL|member|atom
+DECL|member|className
 DECL|member|cond
 DECL|member|ev
 DECL|member|handle
@@ -59,6 +63,7 @@ DECL|member|msg
 DECL|member|mutex
 DECL|member|sockets
 DECL|member|supposedToDie
+DECL|struct|QWindowsMessageWindowClassContext
 DECL|struct|SockInfo
 DECL|typedef|ptimeKillEvent
 DECL|typedef|ptimeSetEvent

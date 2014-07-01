@@ -1,3 +1,4 @@
+DECL|class|HoverEventListener
 DECL|class|QtAccessibilityDelegate
 DECL|field|DEFAULT_CLASS_NAME
 DECL|field|INVALID_ID
@@ -16,6 +17,7 @@ DECL|method|getEventForVirtualViewId
 DECL|method|getNodeForView
 DECL|method|getNodeForVirtualViewId
 DECL|method|invalidateVirtualViewId
+DECL|method|onHover
 DECL|method|performActionForVirtualViewId
 DECL|method|sendEventForVirtualViewId
 DECL|method|setHoveredVirtualViewId

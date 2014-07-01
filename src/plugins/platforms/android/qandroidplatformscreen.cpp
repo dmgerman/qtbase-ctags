@@ -11,9 +11,10 @@ DECL|function|raise
 DECL|function|rasterSurfaces
 DECL|function|removeWindow
 DECL|function|scheduleUpdate
+DECL|function|setAvailableGeometry
 DECL|function|setDirty
-DECL|function|setGeometry
 DECL|function|setPhysicalSize
+DECL|function|setSize
 DECL|function|surfaceChanged
 DECL|function|topLevelAt
 DECL|function|topWindow

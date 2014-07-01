@@ -35,6 +35,7 @@ DECL|function|platformWindowFromId
 DECL|function|printXcbEvent
 DECL|function|processXcbEvents
 DECL|function|qatom
+DECL|function|registerEventDispatcher
 DECL|function|registerForEvents
 DECL|function|release
 DECL|function|removeWindowEventListener

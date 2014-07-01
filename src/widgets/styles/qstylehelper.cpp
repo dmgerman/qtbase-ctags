@@ -1,4 +1,5 @@
 DECL|function|angle
+DECL|function|backgroundColor
 DECL|function|calcBigLineSize
 DECL|function|calcLines
 DECL|function|calcRadialPos

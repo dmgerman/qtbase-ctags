@@ -4,6 +4,8 @@ DECL|class|SubQNetworkDiskCache
 DECL|class|tst_QNetworkDiskCache
 DECL|function|MiniHttpServer
 DECL|function|Runner
+DECL|function|accessAfterRemove
+DECL|function|accessAfterRemoveReadyReadSlot
 DECL|function|cacheSize
 DECL|function|call_expire
 DECL|function|call_fileMetaData
@@ -40,6 +42,7 @@ DECL|macro|NUM_SUBDIRECTORIES
 DECL|member|cachePath
 DECL|member|client
 DECL|member|dataToTransmit
+DECL|member|diskCache
 DECL|member|doClose
 DECL|member|dt
 DECL|member|multiple
@@ -47,4 +50,5 @@ DECL|member|other
 DECL|member|receivedData
 DECL|member|tempDir
 DECL|member|totalConnections
+DECL|member|url
 DECL|member|write
