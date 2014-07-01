@@ -4,6 +4,7 @@ DECL|function|EatSignalSpyNotificationsPredicate
 DECL|function|capabilityFunctions
 DECL|function|cleanupTestCase
 DECL|function|clearBeforeSetText
+DECL|function|copyImage
 DECL|function|copy_exit_paste
 DECL|function|init
 DECL|function|initTestCase
