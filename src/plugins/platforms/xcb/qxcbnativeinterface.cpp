@@ -2,12 +2,14 @@ DECL|function|QXcbNativeInterface
 DECL|function|appTime
 DECL|function|appUserTime
 DECL|function|beep
+DECL|function|clearRegion
 DECL|function|connectionForWindow
 DECL|function|displayForWindow
 DECL|function|eglContextForContext
 DECL|function|eglDisplayForWindow
 DECL|function|getTimestamp
 DECL|function|glxContextForContext
+DECL|function|locateSystemTray
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForIntegration
 DECL|function|nativeResourceForScreen
@@ -28,4 +30,5 @@ DECL|function|startupId
 DECL|function|systemTrayAvailable
 DECL|function|systemTrayTracker
 DECL|function|systemTrayWindowGlobalGeometry
+DECL|function|systrayVisualHasAlphaChannel
 DECL|function|x11Screen
