@@ -56,6 +56,7 @@ DECL|function|q_NTLM_SSPI_library_load
 DECL|function|realm
 DECL|function|setOption
 DECL|function|setPassword
+DECL|function|setRealm
 DECL|function|setUser
 DECL|function|updateCredentials
 DECL|function|user
