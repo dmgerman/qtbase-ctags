@@ -114,8 +114,10 @@ DECL|macro|XF86XK_MonBrightnessUp
 DECL|macro|XF86XK_Music
 DECL|macro|XF86XK_MyComputer
 DECL|macro|XF86XK_MySites
+DECL|macro|XF86XK_New
 DECL|macro|XF86XK_News
 DECL|macro|XF86XK_OfficeHome
+DECL|macro|XF86XK_Open
 DECL|macro|XF86XK_OpenURL
 DECL|macro|XF86XK_Option
 DECL|macro|XF86XK_Paste

@@ -22,6 +22,7 @@ DECL|function|storeKey
 DECL|function|toKeyOrUnicode
 DECL|function|translateKeyEvent
 DECL|function|translateKeyEventInternal
+DECL|function|translateMultimediaKeyEventInternal
 DECL|function|updateKeyMap
 DECL|function|updatePossibleKeyCodes
 DECL|function|winceKeyBend
@@ -44,6 +45,7 @@ DECL|member|state
 DECL|member|text
 DECL|struct|KeyRecord
 DECL|struct|KeyRecorder
+DECL|variable|CmdTbl
 DECL|variable|KeyTbl
 DECL|variable|ModsTbl
 DECL|variable|NumMods
