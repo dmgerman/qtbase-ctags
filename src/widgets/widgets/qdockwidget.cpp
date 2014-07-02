@@ -48,6 +48,7 @@ DECL|function|setAllowedAreas
 DECL|function|setFeatures
 DECL|function|setFloating
 DECL|function|setGeometry
+DECL|function|setResizerActive
 DECL|function|setTitleBarWidget
 DECL|function|setVerticalTitleBar
 DECL|function|setWidget
