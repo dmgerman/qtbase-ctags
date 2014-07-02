@@ -61,6 +61,7 @@ DECL|function|verifyConfiguration
 DECL|function|~Configure
 DECL|macro|MARK_OPTION
 DECL|macro|for
+DECL|member|isHost
 DECL|member|key
 DECL|member|qmakespec
 DECL|member|subarchKey
