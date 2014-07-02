@@ -7,7 +7,10 @@ DECL|class|QColorShower
 DECL|class|QColorWell
 DECL|class|QWellArray
 DECL|enumerator|coff
+DECL|enumerator|colorColumns
+DECL|enumerator|customColorRows
 DECL|enumerator|foff
+DECL|enumerator|standardColorRows
 DECL|function|QColSpinBox
 DECL|function|QColorDialog
 DECL|function|QColorDialog
