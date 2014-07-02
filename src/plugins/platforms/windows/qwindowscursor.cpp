@@ -12,6 +12,8 @@ DECL|function|createPixmapCursorFromData
 DECL|function|createSystemCursor
 DECL|function|cursor
 DECL|function|cursorState
+DECL|function|customCursor
+DECL|function|customCursor
 DECL|function|handle
 DECL|function|isNull
 DECL|function|mousePosition
@@ -23,8 +25,14 @@ DECL|function|standardWindowCursor
 DECL|function|systemCursorSize
 DECL|function|~QWindowsWindowCursor
 DECL|function|~QWindowsWindowCursorData
+DECL|member|fileName
+DECL|member|hotSpotX
+DECL|member|hotSpotY
 DECL|member|m_cursor
 DECL|member|m_handle
 DECL|member|resource
 DECL|member|shape
+DECL|member|shape
+DECL|member|size
+DECL|struct|QWindowsCustomPngCursor
 DECL|struct|QWindowsStandardCursorMapping
