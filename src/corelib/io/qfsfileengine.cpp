@@ -34,6 +34,7 @@ DECL|function|size
 DECL|function|sizeFdFh
 DECL|function|supportsExtension
 DECL|function|syncToDisk
+DECL|function|unmapAll
 DECL|function|write
 DECL|function|writeFdFh
 DECL|function|~QFSFileEngine
