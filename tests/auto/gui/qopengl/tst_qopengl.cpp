@@ -36,6 +36,7 @@ DECL|function|textureblitterFullTargetRectTransform
 DECL|function|textureblitterPartOriginBottomLeftSourceRectTransform
 DECL|function|textureblitterPartOriginTopLeftSourceRectTransform
 DECL|function|textureblitterPartTargetRectTransform
+DECL|function|vaoCreate
 DECL|function|~SharedResource
 DECL|macro|QFUZZY_COMPARE_IMAGES
 DECL|macro|QFUZZY_COMPARE_PIXELS
