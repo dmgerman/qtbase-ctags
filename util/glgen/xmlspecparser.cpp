@@ -1,0 +1,11 @@
+DECL|function|parse
+DECL|function|parseCommand
+DECL|function|parseCommands
+DECL|function|parseExtension
+DECL|function|parseFeature
+DECL|function|parseFunctions
+DECL|function|parseParam
+DECL|function|parseRemoveCore
+DECL|function|parseRequire
+DECL|macro|qXmlSpecParserDebug
+DECL|macro|qXmlSpecParserDebug
