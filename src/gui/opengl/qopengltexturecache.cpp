@@ -15,5 +15,8 @@ DECL|function|invalidate
 DECL|function|invalidateResource
 DECL|function|~QOpenGLTextureCache
 DECL|function|~QOpenGLTextureCacheWrapper
+DECL|macro|GL_BGR
+DECL|macro|GL_BGRA
+DECL|macro|GL_UNSIGNED_INT_8_8_8_8_REV
 DECL|member|m_mutex
 DECL|member|m_resource
