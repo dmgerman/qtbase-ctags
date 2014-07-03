@@ -38,6 +38,7 @@ DECL|function|showMenuAction
 DECL|function|textAfterOffset
 DECL|function|textAtOffset
 DECL|function|textBeforeOffset
+DECL|function|textLineBoundary
 DECL|function|toggleAction
 DECL|function|uniqueId
 DECL|function|uniqueId

@@ -1,0 +1,2 @@
+DECL|macro|ACCESSIBLEWIDGETS_H
+DECL|variable|QAccessibleWidget
