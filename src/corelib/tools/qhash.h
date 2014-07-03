@@ -1,4 +1,4 @@
-DECL|function|QHashDummyNode
+DECL|function|QHashNode
 DECL|function|QHashNode
 DECL|function|clear
 DECL|function|constFind
@@ -34,6 +34,7 @@ DECL|function|remove
 DECL|function|remove
 DECL|function|reserve
 DECL|function|same_key
+DECL|function|same_key
 DECL|function|take
 DECL|function|uniqueKeys
 DECL|function|unite
@@ -43,7 +44,6 @@ DECL|function|values
 DECL|function|values
 DECL|function|willGrow
 DECL|macro|QHASH_H
-DECL|member|Key
 DECL|member|Key
 DECL|member|Key
 DECL|member|Key
@@ -145,9 +145,10 @@ DECL|member|size
 DECL|member|strictAlignment
 DECL|member|userNumBits
 DECL|member|value
+DECL|member|value
 DECL|struct|Node
 DECL|struct|QHashData
-DECL|struct|QHashDummyNode
+DECL|struct|QHashDummyValue
 DECL|struct|QHashDummyValue
 DECL|struct|QHashNode
 DECL|variable|Key
