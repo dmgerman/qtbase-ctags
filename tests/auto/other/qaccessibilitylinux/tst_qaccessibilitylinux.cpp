@@ -4,11 +4,13 @@ DECL|function|AccessibleTestWindow
 DECL|function|addWidget
 DECL|function|cleanupTestCase
 DECL|function|clearChildren
+DECL|function|getAtspiState
 DECL|function|getChildren
 DECL|function|getInterface
 DECL|function|getParent
 DECL|function|initTestCase
 DECL|function|registerDbus
+DECL|function|testFocus
 DECL|function|testLabel
 DECL|function|testLineEdit
 DECL|function|testListWidget
