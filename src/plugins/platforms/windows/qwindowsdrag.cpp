@@ -63,7 +63,3 @@ DECL|typedef|ActionCursorMap
 DECL|typedef|ActionCursorMapConstIt
 DECL|typedef|ActionCursorMapIt
 DECL|typedef|DragCursorHandlePtr
-DECL|variable|copyDragCursorXpmC
-DECL|variable|ignoreDragCursorXpmC
-DECL|variable|linkDragCursorXpmC
-DECL|variable|moveDragCursorXpmC
