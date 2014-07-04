@@ -1,0 +1,15 @@
+DECL|class|CommandId
+DECL|class|QWinRTMessageDialogHelperPrivate
+DECL|function|CommandId
+DECL|function|QWinRTMessageDialogHelper
+DECL|function|exec
+DECL|function|hide
+DECL|function|onCompleted
+DECL|function|show
+DECL|function|~QWinRTMessageDialogHelper
+DECL|member|button
+DECL|member|info
+DECL|member|loop
+DECL|member|shown
+DECL|member|theme
+DECL|typedef|DialogCompletedHandler

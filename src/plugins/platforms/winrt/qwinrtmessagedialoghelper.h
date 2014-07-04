@@ -1,0 +1,3 @@
+DECL|macro|QWINRTMESSAGEDIALOGHELPER_H
+DECL|variable|QWinRTMessageDialogHelperPrivate
+DECL|variable|QWinRTTheme
