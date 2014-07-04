@@ -22,6 +22,7 @@ DECL|function|propagateSizeHints
 DECL|function|raise
 DECL|function|requestActivateWindow
 DECL|function|screen
+DECL|function|screenForGeometry
 DECL|function|setAlertState
 DECL|function|setFrameStrutEventsEnabled
 DECL|function|setGeometry

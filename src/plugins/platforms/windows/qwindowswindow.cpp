@@ -30,7 +30,6 @@ DECL|function|debugWindowFlags
 DECL|function|debugWindowStates
 DECL|function|defaultCursor
 DECL|function|destroyWindow
-DECL|function|effectiveScreen
 DECL|function|findTransientChild
 DECL|function|fireExpose
 DECL|function|fixTopLevelWindowFlags
