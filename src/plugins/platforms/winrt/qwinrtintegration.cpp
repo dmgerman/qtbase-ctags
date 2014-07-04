@@ -5,7 +5,6 @@ DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|fontDatabase
-DECL|function|getSettings
 DECL|function|hasCapability
 DECL|function|inputContext
 DECL|function|queryKeyboardModifiers

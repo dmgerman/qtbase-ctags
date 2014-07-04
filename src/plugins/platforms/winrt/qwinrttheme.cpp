@@ -1,3 +1,5 @@
-DECL|function|QWinRTPlatformTheme
+DECL|function|QWinRTTheme
 DECL|function|createPlatformDialogHelper
+DECL|function|styleHint
+DECL|function|uiSettings
 DECL|function|usePlatformNativeDialog
