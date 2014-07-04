@@ -30,7 +30,7 @@ DECL|function|resizeWindows
 DECL|function|rootWindow
 DECL|function|setRootWindow
 DECL|function|setRotation
-DECL|function|topMostChildWindow
+DECL|function|topLevelAt
 DECL|function|updateHierarchy
 DECL|function|windowClosed
 DECL|function|windowGroupStateChanged

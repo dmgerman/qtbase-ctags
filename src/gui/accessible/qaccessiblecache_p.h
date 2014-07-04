@@ -1,2 +1,1 @@
 DECL|macro|QACCESSIBLECACHE_P
-DECL|variable|QMacAccessibilityElement
