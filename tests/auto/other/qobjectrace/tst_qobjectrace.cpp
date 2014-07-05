@@ -5,6 +5,7 @@ DECL|class|RaceThread
 DECL|class|tst_QObjectRace
 DECL|enumerator|OneMinute
 DECL|enumerator|TwoMinutes
+DECL|function|MyObject
 DECL|function|RaceObject
 DECL|function|RaceThread
 DECL|function|addThread
@@ -26,6 +27,7 @@ DECL|function|slot6
 DECL|function|slot7
 DECL|function|start
 DECL|function|theSlot
+DECL|function|~MyObject
 DECL|macro|EXTRA_THREAD_WAIT
 DECL|macro|MAIN_THREAD_WAIT
 DECL|member|_signals
@@ -36,6 +38,7 @@ DECL|member|count
 DECL|member|number
 DECL|member|object
 DECL|member|objects
+DECL|member|ok
 DECL|member|stopWatch
 DECL|member|threads
 DECL|struct|Functor
