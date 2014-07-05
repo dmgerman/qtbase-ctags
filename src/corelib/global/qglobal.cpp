@@ -1,9 +1,9 @@
 DECL|function|activateCallbacks
-DECL|function|cpuArchitecture
+DECL|function|buildAbi
+DECL|function|buildCpuArchitecture
 DECL|function|detectUnixVersion
 DECL|function|fromstrerror_helper
 DECL|function|fromstrerror_helper
-DECL|function|fullCpuArchitecture
 DECL|function|macVersion
 DECL|function|osKernelVersion
 DECL|function|osType
