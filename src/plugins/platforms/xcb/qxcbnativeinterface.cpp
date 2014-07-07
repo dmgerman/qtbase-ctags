@@ -8,6 +8,7 @@ DECL|function|displayForWindow
 DECL|function|eglContextForContext
 DECL|function|eglDisplayForWindow
 DECL|function|getTimestamp
+DECL|function|glxConfigForContext
 DECL|function|glxContextForContext
 DECL|function|locateSystemTray
 DECL|function|nativeResourceForContext
