@@ -5,6 +5,7 @@ DECL|function|beep
 DECL|function|clearRegion
 DECL|function|connectionForWindow
 DECL|function|displayForWindow
+DECL|function|eglConfigForContext
 DECL|function|eglContextForContext
 DECL|function|eglDisplayForWindow
 DECL|function|getTimestamp
