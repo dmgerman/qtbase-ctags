@@ -1,4 +1,6 @@
 DECL|class|tst_QtJson
+DECL|function|arrayEquals
+DECL|function|arrayEquals_data
 DECL|function|arrayInitializerList
 DECL|function|assignArrays
 DECL|function|assignObjects
