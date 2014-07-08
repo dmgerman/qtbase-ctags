@@ -37,6 +37,10 @@ DECL|function|fontType
 DECL|function|fromMap
 DECL|function|generatedIconPixmap
 DECL|function|hitTestComplexControl
+DECL|function|img
+DECL|function|img
+DECL|function|img
+DECL|function|imgCheckBox
 DECL|function|initPadding
 DECL|function|layer
 DECL|function|padding
@@ -59,10 +63,12 @@ DECL|function|size
 DECL|function|size
 DECL|function|size
 DECL|function|size
+DECL|function|sizeCheckBox
 DECL|function|sizeFromContents
 DECL|function|sizeFromContents
 DECL|function|sizeFromContents
 DECL|function|sizeFromContents
+DECL|function|sizeImage
 DECL|function|standardPalette
 DECL|function|standardPixmap
 DECL|function|styleHint
