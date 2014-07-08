@@ -48,9 +48,10 @@ DECL|function|keepSize
 DECL|function|minimumSize
 DECL|function|minimumSize
 DECL|function|moveToolBar
+DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|plug
 DECL|function|plug
-DECL|function|qt_dumpLayout
 DECL|function|raise
 DECL|function|remove
 DECL|function|remove
