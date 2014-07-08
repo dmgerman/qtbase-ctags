@@ -2,7 +2,6 @@ DECL|function|activateCallbacks
 DECL|function|buildAbi
 DECL|function|buildCpuArchitecture
 DECL|function|currentCpuArchitecture
-DECL|function|detectUnixVersion
 DECL|function|fromstrerror_helper
 DECL|function|fromstrerror_helper
 DECL|function|kernelType
@@ -45,9 +44,6 @@ DECL|member|callbacks
 DECL|member|prettyName
 DECL|member|productType
 DECL|member|productVersion
-DECL|member|sysName
-DECL|member|sysNameLower
-DECL|member|sysRelease
 DECL|struct|QInternal_CallBackTable
 DECL|struct|QUnixOSVersion
 DECL|typedef|SeedStorage
