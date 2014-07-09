@@ -153,5 +153,6 @@ DECL|function|viewMode
 DECL|function|workingDirectory
 DECL|function|~QFileDialog
 DECL|function|~QFileDialogPrivate
+DECL|macro|QT_NO_URL_CAST_FROM_STRING
 DECL|macro|Q_EMBEDDED_SMALLSCREEN
 DECL|variable|QFileDialogMagic
