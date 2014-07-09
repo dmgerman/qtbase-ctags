@@ -44,7 +44,6 @@ DECL|function|createToolButtons
 DECL|function|createWidgets
 DECL|function|currentView
 DECL|function|defaultSuffix
-DECL|function|dialogResultToUrl
 DECL|function|directory
 DECL|function|directoryUrl
 DECL|function|done
