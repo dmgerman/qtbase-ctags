@@ -8,6 +8,8 @@ DECL|function|_q_autoCompleteFileName
 DECL|function|_q_createDirectory
 DECL|function|_q_currentChanged
 DECL|function|_q_deleteCurrent
+DECL|function|_q_emitUrlSelected
+DECL|function|_q_emitUrlsSelected
 DECL|function|_q_enterDirectory
 DECL|function|_q_fileRenamed
 DECL|function|_q_goHome
@@ -15,8 +17,6 @@ DECL|function|_q_goToDirectory
 DECL|function|_q_goToUrl
 DECL|function|_q_nativeCurrentChanged
 DECL|function|_q_nativeEnterDirectory
-DECL|function|_q_nativeFileSelected
-DECL|function|_q_nativeFilesSelected
 DECL|function|_q_navigateBackward
 DECL|function|_q_navigateForward
 DECL|function|_q_navigateToParent
