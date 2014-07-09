@@ -171,6 +171,9 @@ DECL|function|split
 DECL|function|split
 DECL|function|split
 DECL|function|split
+DECL|function|splitString
+DECL|function|splitString
+DECL|function|splitString
 DECL|function|sprintf
 DECL|function|startsWith
 DECL|function|startsWith
