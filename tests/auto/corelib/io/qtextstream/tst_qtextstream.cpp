@@ -114,6 +114,8 @@ DECL|macro|IMPLEMENT_STREAM_LEFT_REAL_OPERATOR_TEST
 DECL|macro|IMPLEMENT_STREAM_RIGHT_INT_OPERATOR_TEST
 DECL|macro|IMPLEMENT_STREAM_RIGHT_REAL_OPERATOR_TEST
 DECL|member|m_lock
+DECL|member|m_rfc3261FilePath
+DECL|member|m_shiftJisFilePath
 DECL|member|tempDir
 DECL|member|testFileName
 DECL|struct|QMetaTypeId

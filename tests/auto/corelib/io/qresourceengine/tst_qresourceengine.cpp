@@ -9,3 +9,5 @@ DECL|function|initTestCase
 DECL|function|searchPath
 DECL|function|searchPath_data
 DECL|function|setLocale
+DECL|function|tst_QResourceEngine
+DECL|member|m_runtimeResourceRcc

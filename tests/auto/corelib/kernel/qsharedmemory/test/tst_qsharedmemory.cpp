@@ -39,4 +39,5 @@ DECL|macro|EXISTING_SIZE
 DECL|member|existingSharedMemory
 DECL|member|jail
 DECL|member|keys
+DECL|member|m_helperBinary
 DECL|member|producer

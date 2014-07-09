@@ -19,3 +19,4 @@ DECL|function|~tst_Spdy
 DECL|member|m_manager
 DECL|member|m_multipleRepliesFinishedCount
 DECL|member|m_multipleRequestsCount
+DECL|member|m_rfc3252FilePath

@@ -34,6 +34,7 @@ DECL|function|fromWinHBITMAP_data
 DECL|function|fromWinHICON
 DECL|function|fromWinHICON_data
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|isNull
 DECL|function|lenientCompare
 DECL|function|load
@@ -65,3 +66,6 @@ DECL|function|transformed
 DECL|function|transformed2
 DECL|function|tst_QPixmap
 DECL|function|~tst_QPixmap
+DECL|member|m_convertFromImage
+DECL|member|m_loadFromData
+DECL|member|m_prefix

@@ -17,3 +17,4 @@ DECL|function|undo
 DECL|macro|EXISTING_SHARE
 DECL|macro|HELPERWAITTIME
 DECL|member|existingLock
+DECL|member|m_helperBinary

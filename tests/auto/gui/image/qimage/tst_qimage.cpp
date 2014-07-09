@@ -33,6 +33,7 @@ DECL|function|fillPixel_data
 DECL|function|fillRGB888
 DECL|function|formatHandlersInput
 DECL|function|formatHandlersInput_data
+DECL|function|initTestCase
 DECL|function|inplaceConversion
 DECL|function|inplaceConversion_data
 DECL|function|inplaceMirrored
@@ -77,6 +78,7 @@ DECL|function|transformed
 DECL|function|transformed2
 DECL|function|transformed_data
 DECL|function|tst_QImage
+DECL|member|m_prefix
 DECL|variable|monoPixmap
 DECL|variable|transformed_image_height
 DECL|variable|transformed_image_width
