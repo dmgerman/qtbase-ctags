@@ -1,13 +1,6 @@
-DECL|function|MessageHandlerInvalidType
-DECL|function|handler
-DECL|function|~MessageHandlerInvalidType
 DECL|macro|TST_QVARIANT_CANCONVERT_COMPARE_DATA
 DECL|macro|TST_QVARIANT_CANCONVERT_DATATABLE_HEADERS
 DECL|macro|TST_QVARIANT_CANCONVERT_FETCH_DATA
 DECL|macro|TST_QVARIANT_COMMON
 DECL|member|currentId
 DECL|member|ok
-DECL|member|ok
-DECL|member|ok
-DECL|member|oldMsgHandler
-DECL|struct|MessageHandlerInvalidType
