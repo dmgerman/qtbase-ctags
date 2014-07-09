@@ -1,12 +1,4 @@
 DECL|class|tst_QMetaType
-DECL|function|constructCoreType
-DECL|function|constructCoreTypeCopy
-DECL|function|constructCoreTypeCopy_data
-DECL|function|constructCoreTypeStaticLess
-DECL|function|constructCoreTypeStaticLess_data
-DECL|function|constructCoreType_data
-DECL|function|constructCustomType
-DECL|function|constructCustomType_data
 DECL|function|constructInPlace
 DECL|function|constructInPlaceCopy
 DECL|function|constructInPlaceCopyStaticLess
