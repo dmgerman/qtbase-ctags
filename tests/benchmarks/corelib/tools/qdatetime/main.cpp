@@ -1,13 +1,4 @@
 DECL|class|tst_QDateTime
-DECL|enumerator|JULIAN_DAY_1950
-DECL|enumerator|JULIAN_DAY_1960
-DECL|enumerator|JULIAN_DAY_2010
-DECL|enumerator|JULIAN_DAY_2011
-DECL|enumerator|JULIAN_DAY_2020
-DECL|enumerator|JULIAN_DAY_2050
-DECL|enumerator|JULIAN_DAY_2060
-DECL|enumerator|MSECS_PER_DAY
-DECL|enumerator|SECS_PER_DAY
 DECL|function|addDays
 DECL|function|addDaysTz
 DECL|function|addMSecs
