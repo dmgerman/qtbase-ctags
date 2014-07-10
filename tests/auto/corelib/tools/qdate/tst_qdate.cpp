@@ -41,6 +41,7 @@ DECL|function|operator_insert_extract_data
 DECL|function|operator_lt
 DECL|function|operator_lt_eq
 DECL|function|printNegativeYear
+DECL|function|qdebug
 DECL|function|roundtrip
 DECL|function|roundtripGermanLocale
 DECL|function|shortDayName
