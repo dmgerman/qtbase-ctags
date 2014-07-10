@@ -534,6 +534,7 @@ DECL|member|parent
 DECL|member|prefix
 DECL|member|prev
 DECL|member|publicId
+DECL|member|reader
 DECL|member|readonly
 DECL|member|ref
 DECL|member|ref

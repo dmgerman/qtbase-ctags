@@ -41,6 +41,7 @@ DECL|function|filterLinks
 DECL|function|getSetCheck
 DECL|function|homePath
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|isReadable
 DECL|function|isRelative
 DECL|function|isRelativePath
@@ -76,6 +77,7 @@ DECL|function|setPath
 DECL|function|setPath_data
 DECL|function|tempPath
 DECL|function|testCaching
+DECL|function|tst_QDir
 DECL|function|updateFileLists
 DECL|macro|CD_INTO
 DECL|macro|DIR
