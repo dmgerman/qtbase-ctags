@@ -36,6 +36,7 @@ DECL|function|justifyTrailingSpaces
 DECL|function|lineBreaking
 DECL|function|lineWidthFromBOM
 DECL|function|longText
+DECL|function|nbsp
 DECL|function|noWrap
 DECL|function|setNumColumnsWordWrap
 DECL|function|setNumColumnsWrapAtWordBoundaryOrAnywhere
