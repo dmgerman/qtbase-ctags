@@ -69,7 +69,8 @@ DECL|function|operator =
 DECL|function|operator >
 DECL|function|operator >=
 DECL|function|qMessagePattern
-DECL|function|qMessagePatternIf
+DECL|function|qMessagePattern_data
+DECL|function|setMessagePattern
 DECL|function|~TestClass4
 DECL|macro|ADD
 DECL|member|c
