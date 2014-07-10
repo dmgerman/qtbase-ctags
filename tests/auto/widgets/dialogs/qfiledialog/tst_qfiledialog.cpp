@@ -8,7 +8,6 @@ DECL|function|QNonNativeFileDialog
 DECL|function|acceptMode
 DECL|function|args
 DECL|function|caption
-DECL|function|cleanup
 DECL|function|clearLineEdit
 DECL|function|completer
 DECL|function|completer_data
@@ -32,6 +31,7 @@ DECL|function|historyBack
 DECL|function|historyForward
 DECL|function|iconProvider
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|isCaseSensitiveFileSystem
 DECL|function|isReadOnly
 DECL|function|itemDelegate
