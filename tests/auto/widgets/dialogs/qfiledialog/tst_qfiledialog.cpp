@@ -27,7 +27,6 @@ DECL|function|filesSelectedSignal_data
 DECL|function|filterSelectedSignal
 DECL|function|filters
 DECL|function|focus
-DECL|function|getFileUrl
 DECL|function|history
 DECL|function|historyBack
 DECL|function|historyForward
@@ -40,6 +39,7 @@ DECL|function|labelText
 DECL|function|paint
 DECL|function|proxymodel
 DECL|function|rejectFileDialog
+DECL|function|rejectModalDialogs
 DECL|function|resolveSymlinks
 DECL|function|saveButtonText
 DECL|function|saveButtonText_data
