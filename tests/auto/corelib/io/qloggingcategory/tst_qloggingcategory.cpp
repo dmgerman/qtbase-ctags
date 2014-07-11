@@ -3,6 +3,7 @@ DECL|class|LogThread
 DECL|class|tst_QLogging
 DECL|function|Configuration
 DECL|function|LogThread
+DECL|function|QLoggingCategoryMacro
 DECL|function|QLoggingCategory_categoryName
 DECL|function|QLoggingCategory_installFilter
 DECL|function|QLoggingCategory_isEnabled

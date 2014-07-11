@@ -1,5 +1,7 @@
 DECL|function|QLoggingCategory
+DECL|function|QLoggingCategory
 DECL|function|defaultCategory
+DECL|function|init
 DECL|function|installFilter
 DECL|function|isEnabled
 DECL|function|setBoolLane
