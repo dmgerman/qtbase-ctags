@@ -197,6 +197,7 @@ DECL|method|extractCompoundButton
 DECL|method|extractImageViewInformations
 DECL|method|extractItemStyle
 DECL|method|extractItemsStyle
+DECL|method|extractListView
 DECL|method|extractNativeChunkInfo
 DECL|method|extractProgressBar
 DECL|method|extractProgressBarInfo
