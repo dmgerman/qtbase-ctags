@@ -20,5 +20,7 @@ DECL|function|resolveFunc
 DECL|function|swapBuffers
 DECL|function|~QWindowsEGLContext
 DECL|function|~QWindowsEGLStaticContext
+DECL|macro|RESOLVE
+DECL|macro|RESOLVE
 DECL|member|libEGL
 DECL|member|libGLESv2

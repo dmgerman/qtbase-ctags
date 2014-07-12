@@ -1,4 +1,5 @@
 DECL|function|moduleHandle
+DECL|function|moduleHandle
 DECL|macro|QWINDOWSEGLCONTEXT_H
 DECL|member|eglBindAPI
 DECL|member|eglChooseConfig
