@@ -73,6 +73,7 @@ DECL|function|qMessagePattern_data
 DECL|function|setMessagePattern
 DECL|function|~TestClass4
 DECL|macro|ADD
+DECL|macro|QT_NAMESPACE_STR
 DECL|member|c
 DECL|member|c1
 DECL|member|foo

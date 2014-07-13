@@ -47,12 +47,16 @@ DECL|macro|HANDLE_IF_TOKEN
 DECL|macro|HANDLE_IF_TOKEN
 DECL|macro|IF_TOKEN
 DECL|macro|IF_TOKEN
+DECL|macro|QLOGGING_HAVE_BACKTRACE
+DECL|macro|QLOGGING_HAVE_BACKTRACE
 DECL|macro|QT_LOG_CODE
 DECL|macro|SD_JOURNAL_SUPPRESS_LOCATION
 DECL|macro|qCritical
 DECL|macro|qDebug
 DECL|macro|qFatal
 DECL|macro|qWarning
+DECL|member|backtraceDepth
+DECL|member|backtraceSeparator
 DECL|member|fromEnvironment
 DECL|member|literals
 DECL|member|mutex
@@ -64,6 +68,7 @@ DECL|member|tokens
 DECL|struct|QMessagePattern
 DECL|typedef|QtMsgHandler
 DECL|variable|appnameTokenC
+DECL|variable|backtraceTokenC
 DECL|variable|categoryTokenC
 DECL|variable|defaultPattern
 DECL|variable|emptyTokenC
