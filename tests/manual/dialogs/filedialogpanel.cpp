@@ -6,6 +6,7 @@ DECL|function|addButton
 DECL|function|allowedSchemes
 DECL|function|apply
 DECL|function|applySettings
+DECL|function|currentDirectoryUrl
 DECL|function|deleteModalDialog
 DECL|function|deleteNonModalDialog
 DECL|function|enableDeleteModalDialogButton
