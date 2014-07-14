@@ -61,6 +61,7 @@ DECL|member|dialogs
 DECL|member|highlighted
 DECL|member|lastMenu
 DECL|member|m_currentIndex
+DECL|member|m_onStatusTipTimerExecuted
 DECL|member|menus
 DECL|member|painted
 DECL|member|statustip
