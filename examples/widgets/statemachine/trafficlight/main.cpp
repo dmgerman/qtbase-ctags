@@ -8,7 +8,6 @@ DECL|function|createLightState
 DECL|function|greenLight
 DECL|function|isOn
 DECL|function|main
-DECL|function|paintEvent
 DECL|function|redLight
 DECL|function|setOn
 DECL|function|turnOff

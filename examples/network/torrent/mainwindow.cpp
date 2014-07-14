@@ -14,7 +14,6 @@ DECL|function|dropEvent
 DECL|function|loadSettings
 DECL|function|moveTorrentDown
 DECL|function|moveTorrentUp
-DECL|function|paint
 DECL|function|pauseTorrent
 DECL|function|rateFromValue
 DECL|function|removeTorrent
@@ -31,3 +30,5 @@ DECL|function|updatePeerInfo
 DECL|function|updateProgress
 DECL|function|updateState
 DECL|function|updateUploadRate
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE

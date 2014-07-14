@@ -6,17 +6,8 @@ DECL|function|ListObject
 DECL|function|MainWindow
 DECL|function|RectObject
 DECL|function|ViewObject
-DECL|function|boundingRect
-DECL|function|boundingRect
-DECL|function|boundingRect
-DECL|function|event
 DECL|function|fillList
 DECL|function|main
-DECL|function|paint
-DECL|function|paint
-DECL|function|paint
-DECL|function|resizeEvent
-DECL|function|sceneEvent
 DECL|function|viewport
 DECL|macro|NUM_ITEMS
 DECL|macro|NUM_LISTS

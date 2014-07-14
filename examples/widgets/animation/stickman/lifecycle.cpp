@@ -5,8 +5,6 @@ DECL|function|KeyPressTransition
 DECL|function|LifeCycle
 DECL|function|LightningStrikesTransition
 DECL|function|addActivity
-DECL|function|eventTest
-DECL|function|eventTest
 DECL|function|makeState
 DECL|function|setDeathAnimation
 DECL|function|start

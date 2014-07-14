@@ -11,14 +11,8 @@ DECL|function|StateSwitchTransition
 DECL|function|StateSwitcher
 DECL|function|addState
 DECL|function|createGeometryState
-DECL|function|eventTest
 DECL|function|main
-DECL|function|onEntry
-DECL|function|onExit
-DECL|function|onTransition
-DECL|function|paint
 DECL|function|rand
-DECL|function|resizeEvent
 DECL|member|m_lastIndex
 DECL|member|m_rand
 DECL|member|m_rand

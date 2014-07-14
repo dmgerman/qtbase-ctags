@@ -1,8 +1,6 @@
 DECL|class|Consumer
 DECL|class|Producer
 DECL|function|main
-DECL|function|run
-DECL|function|run
 DECL|member|finish
 DECL|variable|BufferSize
 DECL|variable|DataSize

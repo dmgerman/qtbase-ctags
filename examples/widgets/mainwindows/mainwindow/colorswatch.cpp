@@ -36,6 +36,9 @@ DECL|function|tabInto
 DECL|function|updateContextMenu
 DECL|function|updateMask
 DECL|macro|DEBUG_SIZEHINTS
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|color
 DECL|member|minSzHint
 DECL|member|szHint

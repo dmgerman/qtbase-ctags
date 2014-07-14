@@ -4,6 +4,8 @@ DECL|function|initialize
 DECL|function|loadShader
 DECL|function|main
 DECL|function|render
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|m_colAttr
 DECL|member|m_frame
 DECL|member|m_matrixUniform

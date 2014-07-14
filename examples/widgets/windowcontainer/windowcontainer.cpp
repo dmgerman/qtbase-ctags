@@ -1,14 +1,6 @@
 DECL|class|Window
 DECL|function|Window
-DECL|function|focusInEvent
-DECL|function|focusOutEvent
-DECL|function|keyPressEvent
-DECL|function|keyReleaseEvent
 DECL|function|main
-DECL|function|mouseMoveEvent
-DECL|function|mousePressEvent
-DECL|function|mouseReleaseEvent
-DECL|function|render
 DECL|member|m_focus
 DECL|member|m_key
 DECL|member|m_mouseDown

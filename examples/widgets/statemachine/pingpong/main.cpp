@@ -8,9 +8,4 @@ DECL|function|PingTransition
 DECL|function|Pinger
 DECL|function|PongEvent
 DECL|function|PongTransition
-DECL|function|eventTest
-DECL|function|eventTest
 DECL|function|main
-DECL|function|onEntry
-DECL|function|onTransition
-DECL|function|onTransition

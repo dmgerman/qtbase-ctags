@@ -4,12 +4,8 @@ DECL|class|FactorialLoopTransition
 DECL|function|Factorial
 DECL|function|FactorialDoneTransition
 DECL|function|FactorialLoopTransition
-DECL|function|eventTest
-DECL|function|eventTest
 DECL|function|fac
 DECL|function|main
-DECL|function|onTransition
-DECL|function|onTransition
 DECL|function|setFac
 DECL|function|setX
 DECL|function|x
