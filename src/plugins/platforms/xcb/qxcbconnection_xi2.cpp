@@ -4,6 +4,7 @@ DECL|function|finalizeXInput2
 DECL|function|fixed1616ToReal
 DECL|function|handleEnterEvent
 DECL|function|initializeXInput2
+DECL|function|toolIdToTabletDevice
 DECL|function|valuatorNormalized
 DECL|function|xi2HandleEvent
 DECL|function|xi2HandleHierachyEvent
