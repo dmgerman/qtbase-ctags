@@ -3,6 +3,7 @@ DECL|function|addAppFont
 DECL|function|addAppFont_data
 DECL|function|aliases
 DECL|function|cleanup
+DECL|function|fallbackFonts
 DECL|function|fixedPitch
 DECL|function|fixedPitch_data
 DECL|function|init
