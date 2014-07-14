@@ -43,7 +43,6 @@ DECL|function|qKeyFromVirtual
 DECL|function|qtOrientationsFromNative
 DECL|function|raise
 DECL|function|removeWindow
-DECL|function|setOrientationUpdateMask
 DECL|function|surfaceFormat
 DECL|function|topWindow
 DECL|function|~QWinRTScreen
@@ -54,7 +53,6 @@ DECL|member|buttonsTokens
 DECL|member|coreWindow
 DECL|member|cursor
 DECL|member|displayInformation
-DECL|member|displayInformationStatics
 DECL|member|displayTokens
 DECL|member|eglDisplay
 DECL|member|eglSurface
