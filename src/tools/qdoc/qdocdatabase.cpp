@@ -29,6 +29,7 @@ DECL|function|getMainClasses
 DECL|function|getNamespaces
 DECL|function|getObsoleteClasses
 DECL|function|getObsoleteQmlTypes
+DECL|function|getQmlBasicTypes
 DECL|function|getQmlTypeMap
 DECL|function|getQmlTypes
 DECL|function|getQmlTypesWithObsoleteMembers
