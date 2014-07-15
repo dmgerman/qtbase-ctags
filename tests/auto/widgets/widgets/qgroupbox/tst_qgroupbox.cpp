@@ -3,6 +3,7 @@ DECL|function|childrenAreDisabled
 DECL|function|clickTimestampSlot
 DECL|function|clicked
 DECL|function|clicked_data
+DECL|function|enabledChildPropagation
 DECL|function|enabledPropagation
 DECL|function|init
 DECL|function|propagateFocus
