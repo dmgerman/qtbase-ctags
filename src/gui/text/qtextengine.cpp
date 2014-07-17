@@ -95,6 +95,8 @@ DECL|function|positionAfterVisualMovement
 DECL|function|positionInLigature
 DECL|function|prevCharJoins
 DECL|function|previousLogicalPosition
+DECL|function|qt_getDefaultJustificationOpportunities
+DECL|function|qt_getJustificationOpportunities
 DECL|function|qt_true_matrix
 DECL|function|reallocate
 DECL|function|releaseCachedFontEngine
