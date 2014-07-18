@@ -22,9 +22,9 @@ DECL|function|qDefaultMessageHandler
 DECL|function|qDefaultMsgHandler
 DECL|function|qErrnoWarning
 DECL|function|qErrnoWarning
+DECL|function|qFormatLogMessage
 DECL|function|qInstallMessageHandler
 DECL|function|qInstallMsgHandler
-DECL|function|qMessageFormatString
 DECL|function|qSetMessagePattern
 DECL|function|qWinLogToStderr
 DECL|function|qt_message

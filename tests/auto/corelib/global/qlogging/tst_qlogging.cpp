@@ -15,6 +15,8 @@ DECL|function|cleanupFuncinfo_data
 DECL|function|customMessageHandler
 DECL|function|customMsgHandler
 DECL|function|defaultHandler
+DECL|function|formatLogMessage
+DECL|function|formatLogMessage_data
 DECL|function|func2
 DECL|function|func3
 DECL|function|func_KPKVvoid
@@ -73,6 +75,7 @@ DECL|function|qMessagePattern_data
 DECL|function|setMessagePattern
 DECL|function|~TestClass4
 DECL|macro|ADD
+DECL|macro|BA
 DECL|macro|QT_NAMESPACE_STR
 DECL|member|c
 DECL|member|c1
