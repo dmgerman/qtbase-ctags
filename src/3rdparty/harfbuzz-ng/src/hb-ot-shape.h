@@ -1,3 +1,1 @@
 DECL|macro|HB_OT_SHAPE_H
-DECL|macro|HB_OT_SHAPE_H_IN
-DECL|macro|HB_OT_SHAPE_H_IN
