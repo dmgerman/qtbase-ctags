@@ -22,7 +22,6 @@ DECL|function|paintEvent
 DECL|function|paintEvent
 DECL|function|paintEvent
 DECL|function|paintEvent
-DECL|function|~IconDrawing
 DECL|member|button
 DECL|member|fileToolBar
 DECL|member|iconHighDPI
@@ -31,6 +30,7 @@ DECL|member|image1X
 DECL|member|image2X
 DECL|member|imageLarge
 DECL|member|lineEdit
+DECL|member|m_temporaryDir
 DECL|member|pixmap1X
 DECL|member|pixmap1X
 DECL|member|pixmap2X
