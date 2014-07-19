@@ -3,6 +3,7 @@ DECL|function|accessibleInterface
 DECL|function|accessibleInterfaces
 DECL|function|actionInterface
 DECL|function|applicationInterface
+DECL|function|childrenChanged
 DECL|function|componentInterface
 DECL|function|editableTextInterface
 DECL|function|eventListenerDeregistered
