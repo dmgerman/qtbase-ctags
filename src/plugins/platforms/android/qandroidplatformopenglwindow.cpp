@@ -1,4 +1,5 @@
 DECL|function|QAndroidPlatformOpenGLWindow
+DECL|function|applicationStateChanged
 DECL|function|checkNativeSurface
 DECL|function|clearEgl
 DECL|function|createEgl

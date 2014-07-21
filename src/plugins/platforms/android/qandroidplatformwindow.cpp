@@ -1,4 +1,6 @@
 DECL|function|QAndroidPlatformWindow
+DECL|function|applicationStateChanged
+DECL|function|isExposed
 DECL|function|lower
 DECL|function|platformScreen
 DECL|function|propagateSizeHints

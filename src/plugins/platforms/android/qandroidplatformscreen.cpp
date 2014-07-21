@@ -2,6 +2,7 @@ DECL|class|ScopedProfiler
 DECL|function|QAndroidPlatformScreen
 DECL|function|ScopedProfiler
 DECL|function|addWindow
+DECL|function|applicationStateChanged
 DECL|function|doRedraw
 DECL|function|logicalDpi
 DECL|function|lower
@@ -9,6 +10,7 @@ DECL|function|nativeOrientation
 DECL|function|orientation
 DECL|function|raise
 DECL|function|rasterSurfaces
+DECL|function|releaseSurface
 DECL|function|removeWindow
 DECL|function|scheduleUpdate
 DECL|function|setAvailableGeometry
