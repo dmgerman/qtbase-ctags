@@ -74,10 +74,7 @@ DECL|variable|m_main
 DECL|variable|m_mainLibraryHnd
 DECL|variable|m_methodErrorMsg
 DECL|variable|m_pauseApplication
-DECL|variable|m_pauseApplicationMutex
-DECL|variable|m_pauseApplicationSemaphore
 DECL|variable|m_qtTag
-DECL|variable|m_quitAppSemaphore
 DECL|variable|m_resourcesObj
 DECL|variable|m_scaledDensity
 DECL|variable|m_setFullScreenMethodID
