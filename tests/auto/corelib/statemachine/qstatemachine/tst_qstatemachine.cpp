@@ -188,7 +188,9 @@ DECL|function|transitionWithParent
 DECL|function|transitionsFromParallelStateWithNoChildren
 DECL|function|twoAnimatedTransitions
 DECL|function|twoAnimations
+DECL|macro|DEFINE_ACTIVE_SPY
 DECL|macro|QCOREAPPLICATION_EXEC
+DECL|macro|TEST_ACTIVE_CHANGED
 DECL|macro|TEST_RUNNING_CHANGED
 DECL|macro|TEST_RUNNING_CHANGED_STARTED_STOPPED
 DECL|member|counter

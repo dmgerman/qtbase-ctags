@@ -1,6 +1,7 @@
 DECL|function|QAbstractState
 DECL|function|QAbstractState
 DECL|function|QAbstractStatePrivate
+DECL|function|active
 DECL|function|callOnEntry
 DECL|function|callOnExit
 DECL|function|emitEntered
