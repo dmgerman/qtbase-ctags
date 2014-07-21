@@ -1,4 +1,5 @@
 DECL|class|tst_QRingBuffer
+DECL|function|appendAndRead
 DECL|function|readPointerAtPositionEmptyRead
 DECL|function|readPointerAtPositionReadTooMuch
 DECL|function|readPointerAtPositionWithHead
