@@ -35,6 +35,7 @@ DECL|function|setFileName
 DECL|function|setFileNameAndVersion
 DECL|function|setFileNameAndVersion
 DECL|function|setLoadHints
+DECL|function|setLoadHints
 DECL|function|unload
 DECL|function|unload
 DECL|function|updatePluginState
