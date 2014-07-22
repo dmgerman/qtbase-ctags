@@ -202,7 +202,7 @@ DECL|method|extractProgressBar
 DECL|method|extractProgressBarInfo
 DECL|method|extractSwitch
 DECL|method|extractTabBar
-DECL|method|extractTextAppearanceInformations
+DECL|method|extractTextAppearance
 DECL|method|extractTextAppearanceInformations
 DECL|method|extractToolBar
 DECL|method|extractViewInformations
