@@ -5,6 +5,7 @@ DECL|function|MyFriendlySplitter
 DECL|function|MyTextEdit
 DECL|function|addThirdWidget
 DECL|function|addWidget
+DECL|function|autoAdd
 DECL|function|cleanupTestCase
 DECL|function|getSetCheck
 DECL|function|init

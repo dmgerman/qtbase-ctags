@@ -28,6 +28,8 @@ DECL|function|showSizeGrip
 DECL|function|snapToDefaultButton
 DECL|function|timerEvent
 DECL|function|toolDialogPosition
+DECL|function|transientParent
+DECL|function|transientParent_data
 DECL|function|tst_QDialog
 DECL|function|wasActive
 DECL|member|called
