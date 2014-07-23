@@ -1,4 +1,5 @@
 DECL|function|QLineEditIconButton
+DECL|function|_q_clearButtonClicked
 DECL|function|_q_completionHighlighted
 DECL|function|_q_cursorPositionChanged
 DECL|function|_q_editFocusChange
