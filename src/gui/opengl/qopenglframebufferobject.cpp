@@ -33,6 +33,7 @@ DECL|function|operator =
 DECL|function|operator ==
 DECL|function|qt_gl_read_framebuffer
 DECL|function|qt_gl_read_framebuffer
+DECL|function|qt_gl_read_framebuffer_rgb10a2
 DECL|function|qt_gl_read_framebuffer_rgba8
 DECL|function|release
 DECL|function|samples
@@ -58,8 +59,11 @@ DECL|macro|GL_DRAW_FRAMEBUFFER
 DECL|macro|GL_MAX_SAMPLES
 DECL|macro|GL_READ_FRAMEBUFFER
 DECL|macro|GL_RENDERBUFFER_SAMPLES
+DECL|macro|GL_RGB10
+DECL|macro|GL_RGB10_A2
 DECL|macro|GL_RGB8
 DECL|macro|GL_RGBA8
+DECL|macro|GL_UNSIGNED_INT_2_10_10_10_REV
 DECL|macro|GL_UNSIGNED_INT_8_8_8_8_REV
 DECL|macro|QT_CHECK_GLERROR
 DECL|macro|QT_RESET_GLERROR

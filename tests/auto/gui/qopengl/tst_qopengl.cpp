@@ -8,6 +8,8 @@ DECL|function|common_data
 DECL|function|createSurface
 DECL|function|fboHandleNulledAfterContextDestroyed
 DECL|function|fboRendering
+DECL|function|fboRenderingRGB30
+DECL|function|fboRenderingRGB30_data
 DECL|function|fboRendering_data
 DECL|function|fboSimpleRendering
 DECL|function|fboSimpleRendering_data
@@ -39,6 +41,9 @@ DECL|function|textureblitterPartTargetRectTransform
 DECL|function|vaoCreate
 DECL|function|wglContextWrap
 DECL|function|~SharedResource
+DECL|macro|GL_FRAMEBUFFER_RENDERABLE
+DECL|macro|GL_FULL_SUPPORT
+DECL|macro|GL_RGB10_A2
 DECL|macro|QFUZZY_COMPARE_IMAGES
 DECL|macro|QFUZZY_COMPARE_PIXELS
 DECL|member|destructorCalls
