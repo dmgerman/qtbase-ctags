@@ -58,6 +58,7 @@ DECL|function|setSslConfigurationImplementation
 DECL|function|size
 DECL|function|sslConfigurationImplementation
 DECL|function|start
+DECL|function|uploadByteDeviceReadyReadSlot
 DECL|function|wantUploadDataSlot
 DECL|function|~QNetworkReplyHttpImpl
 DECL|function|~QNetworkReplyHttpImplPrivate

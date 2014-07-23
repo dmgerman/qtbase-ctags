@@ -16,6 +16,7 @@ DECL|class|ProxyChangeHelper
 DECL|class|QtBug13431Helper
 DECL|class|QtBug27161Helper
 DECL|class|RateControlledReader
+DECL|class|RateLimitedUploadDevice
 DECL|class|SlowReader
 DECL|class|SocketPair
 DECL|class|SslServer
@@ -45,10 +46,12 @@ DECL|function|ProxyChangeHelper
 DECL|function|ProxyData
 DECL|function|QtBug27161Helper
 DECL|function|RateControlledReader
+DECL|function|RateLimitedUploadDevice
 DECL|function|SlowReader
 DECL|function|SocketPair
 DECL|function|SslServer
 DECL|function|allCookies
+DECL|function|atEnd
 DECL|function|authenticationCacheAfterCancel
 DECL|function|authenticationCacheAfterCancel_data
 DECL|function|authenticationRequired
@@ -62,6 +65,7 @@ DECL|function|backgroundRequestConnectInBackground_data
 DECL|function|backgroundRequestInterruption
 DECL|function|backgroundRequestInterruption_data
 DECL|function|backgroundRequest_data
+DECL|function|bytesAvailable
 DECL|function|bytesWrittenSlot
 DECL|function|bytesWrittenSlot
 DECL|function|bytesWrittenSlot
@@ -216,6 +220,7 @@ DECL|function|ioPutToFtpFromFile
 DECL|function|ioPutToFtpFromFile_data
 DECL|function|ioPutToHttpFromFile
 DECL|function|ioPutToHttpFromFile_data
+DECL|function|isSequential
 DECL|function|lastModifiedHeaderForFile
 DECL|function|lastModifiedHeaderForHttp
 DECL|function|md5sum
@@ -265,6 +270,7 @@ DECL|function|putToHttps
 DECL|function|putToHttpsSynchronous
 DECL|function|putToHttpsSynchronous_data
 DECL|function|putToHttps_data
+DECL|function|putWithRateLimiting
 DECL|function|qtbug12908compressedHttpReply
 DECL|function|qtbug13431replyThrottling
 DECL|function|qtbug15311doubleContentLength
@@ -277,6 +283,7 @@ DECL|function|qtbug4121unknownAuthentication
 DECL|function|queryProxy
 DECL|function|rateControl
 DECL|function|rateControl_data
+DECL|function|readData
 DECL|function|readyRead
 DECL|function|readyReadSlot
 DECL|function|readyReadSlot
@@ -295,6 +302,7 @@ DECL|function|run
 DECL|function|runCustomRequest
 DECL|function|runMultipartRequest
 DECL|function|runSimpleRequest
+DECL|function|seek
 DECL|function|sendCookies
 DECL|function|sendCookiesSynchronous
 DECL|function|sendCookiesSynchronous_data
@@ -306,6 +314,7 @@ DECL|function|serverPort
 DECL|function|setAllCookies
 DECL|function|setDataToTransmit
 DECL|function|setupSslServer
+DECL|function|size
 DECL|function|slotDataReady
 DECL|function|slotError
 DECL|function|slotSslErrors
@@ -328,6 +337,7 @@ DECL|function|synchronousRequestSslFailure
 DECL|function|synchronousRequest_data
 DECL|function|threadStartedSlot
 DECL|function|timeoutSlot
+DECL|function|timeoutSlot
 DECL|function|timerEvent
 DECL|function|toString
 DECL|function|toString
@@ -340,6 +350,7 @@ DECL|function|uploadProgress_data
 DECL|function|waitForFinish
 DECL|function|waitForNextConnectionSocket
 DECL|function|wrapUp
+DECL|function|writeData
 DECL|function|writeLastData
 DECL|function|writeNextData
 DECL|function|~HttpAbortHelper
@@ -347,6 +358,8 @@ DECL|function|~MySpyMemoryCache
 DECL|function|~tst_QNetworkReply
 DECL|macro|RUN_REQUEST
 DECL|member|accumulate
+DECL|member|bandwidthQuota
+DECL|member|buffer
 DECL|member|bytesAvailableList
 DECL|member|bytesToRead
 DECL|member|cache
@@ -356,6 +369,7 @@ DECL|member|client
 DECL|member|client
 DECL|member|cond
 DECL|member|cookieJar
+DECL|member|data
 DECL|member|data
 DECL|member|data
 DECL|member|dataIndex
@@ -400,6 +414,7 @@ DECL|member|proxies
 DECL|member|proxy
 DECL|member|proxyPassword
 DECL|member|proxyUserName
+DECL|member|read
 DECL|member|readBufferSize
 DECL|member|ready
 DECL|member|ready
@@ -424,6 +439,7 @@ DECL|member|storedSslConfiguration
 DECL|member|tag
 DECL|member|testDataDir
 DECL|member|testFileName
+DECL|member|timer
 DECL|member|toReturn
 DECL|member|totalBytes
 DECL|member|totalBytesRead
