@@ -2,6 +2,7 @@ DECL|class|DnDEventLoggerWidget
 DECL|class|TestWidget
 DECL|class|tst_QWidget_window
 DECL|function|DnDEventLoggerWidget
+DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|dragEnterEvent
 DECL|function|dragLeaveEvent

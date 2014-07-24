@@ -17,6 +17,7 @@ DECL|function|TestPlugin
 DECL|function|abortQuitOnShow
 DECL|function|allWindows
 DECL|function|changeFocusWindow
+DECL|function|cleanup
 DECL|function|create
 DECL|function|customEvent
 DECL|function|displayName

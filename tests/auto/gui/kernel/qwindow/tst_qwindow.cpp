@@ -6,6 +6,7 @@ DECL|function|InputTestWindow
 DECL|function|TabletTestWindow
 DECL|function|Window
 DECL|function|activateAndClose
+DECL|function|cleanup
 DECL|function|close
 DECL|function|event
 DECL|function|eventFilter
