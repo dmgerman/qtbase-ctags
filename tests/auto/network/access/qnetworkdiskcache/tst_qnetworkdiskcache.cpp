@@ -33,6 +33,8 @@ DECL|function|run
 DECL|function|setCacheDirectory
 DECL|function|setCacheDirectory_data
 DECL|function|setupWithOne
+DECL|function|streamVersion
+DECL|function|streamVersion_data
 DECL|function|sync
 DECL|function|tst_QNetworkDiskCache
 DECL|function|updateMetaData
