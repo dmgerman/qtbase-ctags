@@ -41,6 +41,8 @@ DECL|function|inplaceMirrored_data
 DECL|function|inplaceRgbMirrored
 DECL|function|inplaceRgbSwapped
 DECL|function|inplaceRgbSwapped_data
+DECL|function|invertPixelsRGB
+DECL|function|invertPixelsRGB_data
 DECL|function|load
 DECL|function|loadFromData
 DECL|function|loadFromDataStream
