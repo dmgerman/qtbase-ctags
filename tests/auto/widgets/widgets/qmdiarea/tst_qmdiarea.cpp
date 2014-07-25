@@ -18,6 +18,7 @@ DECL|function|cascadeAndTileSubWindows
 DECL|function|changeModified
 DECL|function|changeWindowTitle
 DECL|function|childSize
+DECL|function|cleanup
 DECL|function|clear
 DECL|function|closeWindows
 DECL|function|count
