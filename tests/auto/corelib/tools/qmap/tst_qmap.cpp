@@ -25,6 +25,7 @@ DECL|function|key
 DECL|function|keys_values_uniqueKeys
 DECL|function|lowerUpperBound
 DECL|function|mergeCompare
+DECL|function|operator <
 DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator_eq
@@ -38,6 +39,9 @@ DECL|function|testInsertWithHint
 DECL|function|~MyClass
 DECL|member|count
 DECL|member|count
+DECL|member|id
 DECL|member|str
+DECL|member|value
+DECL|struct|IdentityTracker
 DECL|typedef|MyMap
 DECL|typedef|StringMap
