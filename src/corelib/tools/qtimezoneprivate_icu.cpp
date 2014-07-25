@@ -24,5 +24,5 @@ DECL|function|ucalDisplayNameType
 DECL|function|ucalOffsetsAtTime
 DECL|function|ucalTimeZoneDisplayName
 DECL|function|ucalTimeZoneTransition
-DECL|function|uenumToIdSet
+DECL|function|uenumToIdList
 DECL|function|~QIcuTimeZonePrivate
