@@ -30,6 +30,7 @@ DECL|function|data
 DECL|function|derefUniqueFont
 DECL|function|extraTryFontsForFamily
 DECL|function|fallbacksForFamily
+DECL|function|familyForStyleHint
 DECL|function|familyName
 DECL|function|fontDefToLOGFONT
 DECL|function|fontDir
