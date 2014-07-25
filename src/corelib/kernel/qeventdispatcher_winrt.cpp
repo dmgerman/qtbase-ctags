@@ -36,6 +36,7 @@ DECL|member|interrupt
 DECL|member|interval
 DECL|member|isFinished
 DECL|member|obj
+DECL|member|thread
 DECL|member|timeout
 DECL|member|timer
 DECL|member|timerDict
