@@ -65,6 +65,7 @@ DECL|member|logicalDpi
 DECL|member|logicalSize
 DECL|member|nativeOrientation
 DECL|member|orientation
+DECL|member|physicalDpi
 DECL|member|scaleFactor
 DECL|member|surfaceFormat
 DECL|member|touchDevice
