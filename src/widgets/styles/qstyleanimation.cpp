@@ -11,6 +11,7 @@ DECL|function|delay
 DECL|function|duration
 DECL|function|endImage
 DECL|function|endValue
+DECL|function|frameRate
 DECL|function|isUpdateNeeded
 DECL|function|isUpdateNeeded
 DECL|function|isUpdateNeeded
@@ -21,11 +22,13 @@ DECL|function|setDelay
 DECL|function|setDuration
 DECL|function|setEndImage
 DECL|function|setEndValue
+DECL|function|setFrameRate
 DECL|function|setSpeed
 DECL|function|setStartImage
 DECL|function|setStartTime
 DECL|function|setStartValue
 DECL|function|speed
+DECL|function|start
 DECL|function|startImage
 DECL|function|startTime
 DECL|function|startValue
