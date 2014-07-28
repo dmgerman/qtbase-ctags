@@ -58,7 +58,10 @@ DECL|function|contentPos
 DECL|function|contentPosRange
 DECL|function|flags
 DECL|function|flags
+DECL|function|formatInputMethodEvent
+DECL|function|formatInputMethodQueryEvent
 DECL|function|formatTouchEvent
+DECL|function|formatUnicodeString
 DECL|function|id
 DECL|function|isOverride
 DECL|function|lastNormalizedPos
