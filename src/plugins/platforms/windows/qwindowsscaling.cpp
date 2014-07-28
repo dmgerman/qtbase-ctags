@@ -1,0 +1,3 @@
+DECL|function|determineUiScaleFactor
+DECL|member|m_factor
+DECL|variable|devicePixelRatioEnvVar
