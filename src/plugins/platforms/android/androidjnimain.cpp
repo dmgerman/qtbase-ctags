@@ -3,6 +3,7 @@ DECL|function|activity
 DECL|function|androidPlatformIntegration
 DECL|function|applicationClass
 DECL|function|assetManager
+DECL|function|blockEventLoopsWhenSuspended
 DECL|function|classErrorMsgFmt
 DECL|function|createBitmap
 DECL|function|createBitmap
