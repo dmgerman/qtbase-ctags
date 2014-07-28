@@ -43,12 +43,11 @@ DECL|function|extractClassName
 DECL|function|findAny
 DECL|function|findChildNode
 DECL|function|findChildNode
-DECL|function|findChildNode
+DECL|function|findChildren
 DECL|function|findCorrespondingCppProperty
 DECL|function|findEnumNodeForValue
 DECL|function|findFunctionNode
 DECL|function|findFunctionNode
-DECL|function|findNodes
 DECL|function|findPropertyNode
 DECL|function|findQmlBaseNode
 DECL|function|fixBaseClasses

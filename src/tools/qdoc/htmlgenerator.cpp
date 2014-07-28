@@ -76,7 +76,6 @@ DECL|function|~HtmlGenerator
 DECL|macro|APPEND
 DECL|macro|APPEND
 DECL|macro|COMMAND_VERSION
-DECL|macro|DEBUG_ABSTRACT
 DECL|member|debugging_on
 DECL|member|divNavTop
 DECL|member|id
