@@ -1,0 +1,12 @@
+DECL|class|PaintedWindow
+DECL|function|PaintedWindow
+DECL|function|main
+DECL|function|paintEvent
+DECL|function|painterPathForTriangle
+DECL|function|resizeEvent
+DECL|member|m_brush
+DECL|member|m_model
+DECL|member|m_projection
+DECL|member|m_timer
+DECL|member|m_view
+DECL|member|m_window_matrix
