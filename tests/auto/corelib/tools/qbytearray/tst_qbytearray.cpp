@@ -85,6 +85,8 @@ DECL|function|toULong
 DECL|function|toULongLong
 DECL|function|toULongLong_data
 DECL|function|toULong_data
+DECL|function|toUpperLower
+DECL|function|toUpperLower_data
 DECL|function|tst_QByteArray
 DECL|function|verifyZeroTermination
 DECL|function|verifyZeroTermination
