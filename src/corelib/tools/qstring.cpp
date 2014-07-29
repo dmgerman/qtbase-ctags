@@ -16,6 +16,12 @@ DECL|function|arg
 DECL|function|arg
 DECL|function|arg
 DECL|function|arg
+DECL|function|caseDiff
+DECL|function|caseDiff
+DECL|function|caseDiff
+DECL|function|caseSpecial
+DECL|function|caseSpecial
+DECL|function|caseSpecial
 DECL|function|chop
 DECL|function|compare
 DECL|function|compare
@@ -24,6 +30,7 @@ DECL|function|compare_helper
 DECL|function|compare_helper
 DECL|function|contains
 DECL|function|contains
+DECL|function|convertCase
 DECL|function|count
 DECL|function|count
 DECL|function|count
@@ -32,6 +39,7 @@ DECL|function|count
 DECL|function|count
 DECL|function|count
 DECL|function|count
+DECL|function|detachAndConvertCase
 DECL|function|endsWith
 DECL|function|endsWith
 DECL|function|endsWith
@@ -258,6 +266,10 @@ DECL|member|null
 DECL|member|occurrences
 DECL|member|pos
 DECL|member|string
+DECL|namespace|QUnicodeTables
 DECL|struct|ArgEscapeData
+DECL|struct|CasefoldTraits
+DECL|struct|LowercaseTraits
 DECL|struct|QStringCapture
 DECL|struct|UnrollTailLoop
+DECL|struct|UppercaseTraits
