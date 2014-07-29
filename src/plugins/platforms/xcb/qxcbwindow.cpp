@@ -60,7 +60,6 @@ DECL|function|handleButtonPressEvent
 DECL|function|handleButtonReleaseEvent
 DECL|function|handleClientMessageEvent
 DECL|function|handleConfigureNotifyEvent
-DECL|function|handleContentOrientationChange
 DECL|function|handleEnterNotifyEvent
 DECL|function|handleExposeEvent
 DECL|function|handleFocusInEvent
