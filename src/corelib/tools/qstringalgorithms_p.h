@@ -1,0 +1,11 @@
+DECL|function|isSpace
+DECL|function|isSpace
+DECL|function|simplified_helper
+DECL|function|trimmed_helper
+DECL|function|trimmed_helper_positions
+DECL|macro|QSTRINGALGORITHMS_P_H
+DECL|member|isConst
+DECL|struct|QStringAlgorithms
+DECL|typedef|Char
+DECL|typedef|NakedStringType
+DECL|typedef|size_type
