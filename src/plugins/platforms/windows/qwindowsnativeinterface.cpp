@@ -1,3 +1,12 @@
+DECL|enumerator|EglConfigType
+DECL|enumerator|EglContextType
+DECL|enumerator|EglDisplayType
+DECL|enumerator|GetDCType
+DECL|enumerator|GlHandleType
+DECL|enumerator|HandleType
+DECL|enumerator|ReleaseDCType
+DECL|enumerator|RenderingContextType
+DECL|enum|ResourceType
 DECL|function|asyncExpose
 DECL|function|createMessageWindow
 DECL|function|nativeResourceForContext
@@ -6,6 +15,7 @@ DECL|function|nativeResourceForWindow
 DECL|function|registerMimeType
 DECL|function|registerWindowClass
 DECL|function|registerWindowsMime
+DECL|function|resourceType
 DECL|function|setAsyncExpose
 DECL|function|setWindowProperty
 DECL|function|unregisterWindowsMime
