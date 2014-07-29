@@ -177,7 +177,8 @@ DECL|function|setNum
 DECL|function|setNum
 DECL|function|setRawData
 DECL|function|setUnicode
-DECL|function|simplified
+DECL|function|simplified_helper
+DECL|function|simplified_helper
 DECL|function|split
 DECL|function|split
 DECL|function|split
@@ -242,7 +243,8 @@ DECL|function|toUpper_helper
 DECL|function|toUtf8
 DECL|function|toUtf8_helper
 DECL|function|trimmed
-DECL|function|trimmed
+DECL|function|trimmed_helper
+DECL|function|trimmed_helper
 DECL|function|truncate
 DECL|function|ucstrcmp
 DECL|function|ucstrcmp

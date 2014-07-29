@@ -88,7 +88,8 @@ DECL|function|setNum
 DECL|function|setNum
 DECL|function|setNum
 DECL|function|setRawData
-DECL|function|simplified
+DECL|function|simplified_helper
+DECL|function|simplified_helper
 DECL|function|split
 DECL|function|startsWith
 DECL|function|startsWith
@@ -116,7 +117,8 @@ DECL|function|toULongLong
 DECL|function|toUShort
 DECL|function|toUpper_helper
 DECL|function|toUpper_helper
-DECL|function|trimmed
+DECL|function|trimmed_helper
+DECL|function|trimmed_helper
 DECL|function|truncate
 DECL|macro|IS_RAW_DATA
 DECL|macro|REHASH
