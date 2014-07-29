@@ -1,5 +1,4 @@
 DECL|class|QOpenGLVertexArrayObjectPrivate
-DECL|class|QVertexArrayObjectHelper
 DECL|enumerator|APPLE
 DECL|enumerator|ARB
 DECL|enumerator|Core_3_0
@@ -9,7 +8,6 @@ DECL|enumerator|OES
 DECL|function|QOpenGLVertexArrayObject
 DECL|function|QOpenGLVertexArrayObject
 DECL|function|QOpenGLVertexArrayObjectPrivate
-DECL|function|QVertexArrayObjectHelper
 DECL|function|_q_contextAboutToBeDestroyed
 DECL|function|bind
 DECL|function|bind
@@ -17,11 +15,9 @@ DECL|function|create
 DECL|function|create
 DECL|function|destroy
 DECL|function|destroy
-DECL|function|glBindVertexArray
-DECL|function|glDeleteVertexArrays
-DECL|function|glGenVertexArrays
 DECL|function|isCreated
 DECL|function|objectId
+DECL|function|qtInitializeVertexArrayObjectHelper
 DECL|function|release
 DECL|function|release
 DECL|function|~QOpenGLVertexArrayObject

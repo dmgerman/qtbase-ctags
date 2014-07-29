@@ -1,0 +1,3 @@
+DECL|macro|QOPENGLVERTEXARRAYOBJECT_P_H
+DECL|variable|QOpenGLContext
+DECL|variable|QOpenGLVertexArrayObjectHelper
