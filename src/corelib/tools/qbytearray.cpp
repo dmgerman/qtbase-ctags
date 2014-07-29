@@ -95,6 +95,7 @@ DECL|function|startsWith
 DECL|function|startsWith
 DECL|function|toBase64
 DECL|function|toBase64
+DECL|function|toCase_template
 DECL|function|toDouble
 DECL|function|toFloat
 DECL|function|toHex
@@ -118,3 +119,5 @@ DECL|function|truncate
 DECL|macro|IS_RAW_DATA
 DECL|macro|REHASH
 DECL|variable|crc_tbl
+DECL|variable|latin1_lowercased
+DECL|variable|latin1_uppercased

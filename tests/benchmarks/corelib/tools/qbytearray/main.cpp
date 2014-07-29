@@ -1,3 +1,14 @@
 DECL|class|tst_qbytearray
 DECL|function|append
 DECL|function|append_data
+DECL|function|bittest
+DECL|function|initTestCase
+DECL|function|latin1Uppercasing_bitcheck
+DECL|function|latin1Uppercasing_category
+DECL|function|latin1Uppercasing_qt54
+DECL|function|latin1Uppercasing_xlate
+DECL|function|latin1Uppercasing_xlate_checked
+DECL|member|sourcecode
+DECL|variable|categories
+DECL|variable|shouldUppercase
+DECL|variable|uppercased
