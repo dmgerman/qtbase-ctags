@@ -4,4 +4,5 @@ DECL|function|autoShow
 DECL|function|autoShow_data
 DECL|function|cleanup
 DECL|function|getSetCheck
+DECL|function|settingCustomWidgets
 DECL|function|task198202
