@@ -1,8 +1,16 @@
+DECL|class|QTestTranslator
+DECL|class|QTranslatorGuard
 DECL|class|tst_QProgressDialog
 DECL|function|QTBUG_31046
+DECL|function|QTestTranslator
+DECL|function|QTranslatorGuard
 DECL|function|autoShow
 DECL|function|autoShow_data
 DECL|function|cleanup
 DECL|function|getSetCheck
+DECL|function|i18n
 DECL|function|settingCustomWidgets
 DECL|function|task198202
+DECL|function|~QTranslatorGuard
+DECL|member|m_str
+DECL|member|t
