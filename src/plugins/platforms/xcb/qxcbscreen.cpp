@@ -1,6 +1,7 @@
 DECL|function|QXcbScreen
 DECL|function|cursor
 DECL|function|depthOfVisual
+DECL|function|devicePixelRatio
 DECL|function|format
 DECL|function|grabWindow
 DECL|function|handleScreenChange
