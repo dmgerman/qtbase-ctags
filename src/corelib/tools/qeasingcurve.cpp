@@ -1,10 +1,5 @@
 DECL|class|QEasingCurveFunction
 DECL|class|QEasingCurvePrivate
-DECL|enumerator|In
-DECL|enumerator|InOut
-DECL|enumerator|Out
-DECL|enumerator|OutIn
-DECL|enum|Type
 DECL|function|BackEase
 DECL|function|BezierEase
 DECL|function|BounceEase
@@ -14,6 +9,7 @@ DECL|function|QEasingCurve
 DECL|function|QEasingCurveFunction
 DECL|function|QEasingCurvePrivate
 DECL|function|QEasingCurvePrivate
+DECL|function|TCBEase
 DECL|function|TCBPoint
 DECL|function|TCBPoint
 DECL|function|_acos
