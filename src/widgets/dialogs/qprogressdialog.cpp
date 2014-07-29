@@ -24,6 +24,7 @@ DECL|function|setAutoReset
 DECL|function|setBar
 DECL|function|setCancelButton
 DECL|function|setCancelButtonText
+DECL|function|setCancelButtonText
 DECL|function|setLabel
 DECL|function|setLabelText
 DECL|function|setMaximum
