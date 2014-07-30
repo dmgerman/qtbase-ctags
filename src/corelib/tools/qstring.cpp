@@ -197,7 +197,8 @@ DECL|function|startsWith
 DECL|function|startsWith
 DECL|function|startsWith
 DECL|function|startsWith
-DECL|function|toCaseFolded
+DECL|function|toCaseFolded_helper
+DECL|function|toCaseFolded_helper
 DECL|function|toDouble
 DECL|function|toDouble
 DECL|function|toFloat
@@ -217,7 +218,8 @@ DECL|function|toLong
 DECL|function|toLong
 DECL|function|toLongLong
 DECL|function|toLongLong
-DECL|function|toLower
+DECL|function|toLower_helper
+DECL|function|toLower_helper
 DECL|function|toShort
 DECL|function|toShort
 DECL|function|toString
@@ -232,7 +234,8 @@ DECL|function|toUShort
 DECL|function|toUcs4
 DECL|function|toUcs4
 DECL|function|toUcs4_helper
-DECL|function|toUpper
+DECL|function|toUpper_helper
+DECL|function|toUpper_helper
 DECL|function|toUtf8
 DECL|function|toUtf8_helper
 DECL|function|trimmed
