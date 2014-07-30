@@ -14,7 +14,6 @@ DECL|function|getCompositionStringConvertedRange
 DECL|function|handleIME_Request
 DECL|function|imeNotifyCancelComposition
 DECL|function|initContext
-DECL|function|inputMethodQuery
 DECL|function|instance
 DECL|function|intermediateMarkup
 DECL|function|invokeAction
