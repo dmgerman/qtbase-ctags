@@ -12,6 +12,7 @@ DECL|function|metaTypes
 DECL|function|operators
 DECL|function|properties
 DECL|function|propertyDefaults
+DECL|function|propertyOrderIsNotImportant
 DECL|function|setCustomType
 DECL|function|setEasing
 DECL|function|setupBezierSpline
