@@ -19,6 +19,7 @@ DECL|function|intermediateMarkup
 DECL|function|invokeAction
 DECL|function|reconvertString
 DECL|function|reset
+DECL|function|setFocusObject
 DECL|function|standardFormat
 DECL|function|startComposition
 DECL|function|startContextComposition
