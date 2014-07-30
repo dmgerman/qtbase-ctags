@@ -18,7 +18,6 @@ DECL|function|generateBrief
 DECL|function|generateClassHierarchy
 DECL|function|generateClassLikeNode
 DECL|function|generateCollectionNode
-DECL|function|generateCollisionPages
 DECL|function|generateCompactList
 DECL|function|generateDetailedMember
 DECL|function|generateDetailedQmlMember

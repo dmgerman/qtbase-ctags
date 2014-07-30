@@ -42,7 +42,6 @@ DECL|variable|EnumNode
 DECL|variable|ExampleNode
 DECL|variable|FunctionNode
 DECL|variable|InnerNode
-DECL|variable|NameCollisionNode
 DECL|variable|Node
 DECL|variable|PropertyNode
 DECL|variable|QDocDatabase
