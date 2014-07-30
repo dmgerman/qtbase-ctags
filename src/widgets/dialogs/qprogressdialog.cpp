@@ -9,6 +9,7 @@ DECL|function|autoReset
 DECL|function|cancel
 DECL|function|changeEvent
 DECL|function|closeEvent
+DECL|function|ensureSizeIsAtLeastSizeHint
 DECL|function|forceShow
 DECL|function|init
 DECL|function|labelText
