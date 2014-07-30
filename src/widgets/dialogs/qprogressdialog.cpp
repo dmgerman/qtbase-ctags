@@ -3,6 +3,7 @@ DECL|function|QProgressDialog
 DECL|function|QProgressDialog
 DECL|function|QProgressDialogPrivate
 DECL|function|_q_disconnectOnClose
+DECL|function|adoptChildWidget
 DECL|function|autoClose
 DECL|function|autoReset
 DECL|function|cancel
