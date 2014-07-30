@@ -1,3 +1,4 @@
+DECL|class|DrawableCache
 DECL|class|ExtractStyle
 DECL|class|FakeCanvas
 DECL|class|SimpleJsonWriter
@@ -169,16 +170,20 @@ DECL|field|WINDOW_FOCUSED_STATE_SET
 DECL|field|chunkData
 DECL|field|defaultBackgroundColor
 DECL|field|defaultTextColor
+DECL|field|drawable
 DECL|field|e
 DECL|field|m_addComma
 DECL|field|m_context
+DECL|field|m_drawableCache
 DECL|field|m_extractPath
 DECL|field|m_indentLevel
 DECL|field|m_theme
 DECL|field|m_writer
+DECL|field|object
 DECL|field|s
 DECL|field|sScaleTypeArray
 DECL|field|styleableClass
+DECL|method|DrawableCache
 DECL|method|ExtractStyle
 DECL|method|SimpleJsonWriter
 DECL|method|Size
