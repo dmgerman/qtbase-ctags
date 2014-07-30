@@ -3,6 +3,7 @@ DECL|function|QCommandLineParser
 DECL|function|QCommandLineParserPrivate
 DECL|function|addHelpOption
 DECL|function|addOption
+DECL|function|addOptions
 DECL|function|addPositionalArgument
 DECL|function|addVersionOption
 DECL|function|aliases

@@ -2,6 +2,8 @@ DECL|class|QCommandLineOptionPrivate
 DECL|function|QCommandLineOption
 DECL|function|QCommandLineOption
 DECL|function|QCommandLineOption
+DECL|function|QCommandLineOption
+DECL|function|QCommandLineOption
 DECL|function|QCommandLineOptionPrivate
 DECL|function|defaultValues
 DECL|function|description

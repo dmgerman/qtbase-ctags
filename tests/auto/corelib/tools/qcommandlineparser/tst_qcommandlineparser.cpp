@@ -3,6 +3,7 @@ DECL|function|initTestCase
 DECL|function|parsingModes_data
 DECL|function|testBooleanOption
 DECL|function|testBooleanOption_data
+DECL|function|testCpp11StyleInitialization
 DECL|function|testDefaultValue
 DECL|function|testDoubleDash
 DECL|function|testDoubleDash_data
