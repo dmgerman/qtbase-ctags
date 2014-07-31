@@ -387,6 +387,7 @@ DECL|member|lineEdit
 DECL|member|m_acceptMouse
 DECL|member|m_acceptTouch
 DECL|member|m_appModifiers
+DECL|member|m_availableTopLeft
 DECL|member|m_count
 DECL|member|m_eventCounter
 DECL|member|m_lastMouseEventPos
@@ -395,6 +396,7 @@ DECL|member|m_modifiers
 DECL|member|m_mouseEventCount
 DECL|member|m_platform
 DECL|member|m_resizeEventCount
+DECL|member|m_testWidgetSize
 DECL|member|m_touchEventCount
 DECL|member|m_widget
 DECL|member|m_winIdList
