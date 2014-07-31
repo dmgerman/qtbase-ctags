@@ -1,2 +1,3 @@
 DECL|function|QWinRTEGLContext
 DECL|function|eglSurfaceForPlatformSurface
+DECL|function|getProcAddress
