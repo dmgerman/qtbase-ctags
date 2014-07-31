@@ -36,6 +36,7 @@ DECL|function|output_file_open
 DECL|function|output_hex_blob
 DECL|function|output_html_string
 DECL|function|output_quoted_string
+DECL|function|output_reset
 DECL|function|printBold
 DECL|function|printBold
 DECL|function|process_input
@@ -122,6 +123,7 @@ DECL|member|nIndent
 DECL|member|nLine
 DECL|member|nullvalue
 DECL|member|out
+DECL|member|outCount
 DECL|member|outfile
 DECL|member|pLog
 DECL|member|pStmt
@@ -164,4 +166,3 @@ DECL|variable|stdin_is_interactive
 DECL|variable|zHelp
 DECL|variable|zOptions
 DECL|variable|zShellStatic
-DECL|variable|zTimerHelp
