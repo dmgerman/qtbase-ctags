@@ -25,6 +25,10 @@ DECL|function|qFormatLogMessage
 DECL|function|qInstallMessageHandler
 DECL|function|qInstallMsgHandler
 DECL|function|qSetMessagePattern
+DECL|function|qt_gettid
+DECL|function|qt_gettid
+DECL|function|qt_gettid
+DECL|function|qt_gettid
 DECL|function|qt_logging_to_console
 DECL|function|qt_message
 DECL|function|qt_message_fatal
@@ -85,6 +89,7 @@ DECL|variable|messageTokenC
 DECL|variable|msgHandler
 DECL|variable|msgHandlerGrabbed
 DECL|variable|pidTokenC
+DECL|variable|qthreadptrTokenC
 DECL|variable|threadidTokenC
 DECL|variable|timeTokenC
 DECL|variable|typeTokenC
