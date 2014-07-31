@@ -61,7 +61,6 @@ DECL|member|fromEnvironment
 DECL|member|literals
 DECL|member|mutex
 DECL|member|mutex
-DECL|member|startTime
 DECL|member|timeFormat
 DECL|member|timer
 DECL|member|tokens
