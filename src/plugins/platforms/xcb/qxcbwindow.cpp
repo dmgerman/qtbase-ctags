@@ -85,6 +85,7 @@ DECL|function|needsSync
 DECL|function|netWmStates
 DECL|function|pending
 DECL|function|positionIncludesFrame
+DECL|function|postSyncWindowRequest
 DECL|function|propagateSizeHints
 DECL|function|qRectToXCBRectangle
 DECL|function|raise

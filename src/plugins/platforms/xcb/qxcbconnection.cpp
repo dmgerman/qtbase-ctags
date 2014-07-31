@@ -9,6 +9,7 @@ DECL|function|addWindowEventListener
 DECL|function|atomName
 DECL|function|checkEvent
 DECL|function|checkEvent
+DECL|function|event
 DECL|function|findOrCreateScreen
 DECL|function|formatForDepth
 DECL|function|getTimestamp
@@ -27,6 +28,7 @@ DECL|function|initializeXRandr
 DECL|function|initializeXRender
 DECL|function|initializeXShape
 DECL|function|internAtom
+DECL|function|invalidate
 DECL|function|ioErrorHandler
 DECL|function|lock
 DECL|function|log
@@ -45,7 +47,6 @@ DECL|function|sendConnectionEvent
 DECL|function|setFocusWindow
 DECL|function|start
 DECL|function|sync
-DECL|function|syncWindow
 DECL|function|systemTrayTracker
 DECL|function|translateMouseButton
 DECL|function|translateMouseButtons
