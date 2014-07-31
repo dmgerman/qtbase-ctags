@@ -198,12 +198,14 @@ DECL|method|extractAbsSeekBar
 DECL|method|extractCalendar
 DECL|method|extractCheckedTextView
 DECL|method|extractChunkInfo
+DECL|method|extractChunkInfo20
 DECL|method|extractCompoundButton
 DECL|method|extractImageViewInformations
 DECL|method|extractItemStyle
 DECL|method|extractItemsStyle
 DECL|method|extractListView
 DECL|method|extractNativeChunkInfo
+DECL|method|extractNativeChunkInfo20
 DECL|method|extractProgressBar
 DECL|method|extractProgressBarInfo
 DECL|method|extractSwitch
