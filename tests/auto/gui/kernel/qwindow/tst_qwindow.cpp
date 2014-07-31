@@ -61,8 +61,10 @@ DECL|member|ignoreMouse
 DECL|member|ignoreTouch
 DECL|member|keyPressCode
 DECL|member|keyReleaseCode
+DECL|member|m_availableTopLeft
 DECL|member|m_order
 DECL|member|m_received
+DECL|member|m_testWindowSize
 DECL|member|mouseDoubleClickedCount
 DECL|member|mouseMoveButton
 DECL|member|mouseMoveScreenPos
