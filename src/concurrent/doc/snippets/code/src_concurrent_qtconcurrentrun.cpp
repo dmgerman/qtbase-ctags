@@ -8,6 +8,8 @@ DECL|variable|future
 DECL|variable|future
 DECL|variable|future
 DECL|variable|future
+DECL|variable|future
 DECL|variable|image
 DECL|variable|integer
+DECL|variable|pool
 DECL|variable|string
