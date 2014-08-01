@@ -1,3 +1,4 @@
+DECL|class|DebugHelper
 DECL|function|QActionEvent
 DECL|function|QApplicationStateChangeEvent
 DECL|function|QCloseEvent
@@ -56,10 +57,15 @@ DECL|function|buttons
 DECL|function|contentPos
 DECL|function|contentPos
 DECL|function|contentPosRange
+DECL|function|eventClassName
+DECL|function|eventTypeName
 DECL|function|flags
 DECL|function|flags
+DECL|function|focusReasonToString
+DECL|function|formatDropEvent
 DECL|function|formatInputMethodEvent
 DECL|function|formatInputMethodQueryEvent
+DECL|function|formatTabletEvent
 DECL|function|formatTouchEvent
 DECL|function|formatUnicodeString
 DECL|function|id
@@ -70,6 +76,9 @@ DECL|function|lastScenePos
 DECL|function|lastScreenPos
 DECL|function|matches
 DECL|function|modifiers
+DECL|function|mouseButtonToString
+DECL|function|mouseButtonsToString
+DECL|function|mouseEventSourceToString
 DECL|function|normalizedPos
 DECL|function|openFile
 DECL|function|operator <<
