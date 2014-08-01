@@ -12,8 +12,15 @@ DECL|function|TestClass4
 DECL|function|cleanup
 DECL|function|cleanupFuncinfo
 DECL|function|cleanupFuncinfo_data
+DECL|function|const_lvalue
+DECL|function|const_rvalue
 DECL|function|customMessageHandler
 DECL|function|customMsgHandler
+DECL|function|decltype
+DECL|function|decltype
+DECL|function|decltype_param
+DECL|function|decltype_template_param
+DECL|function|decltype_template_param2
 DECL|function|defaultHandler
 DECL|function|formatLogMessage
 DECL|function|formatLogMessage_data
@@ -55,6 +62,7 @@ DECL|function|initTestCase
 DECL|function|installBothHandler
 DECL|function|installMessageHandler
 DECL|function|installMsgHandler
+DECL|function|lvalue
 DECL|function|operator %
 DECL|function|operator ()
 DECL|function|operator *
@@ -72,6 +80,7 @@ DECL|function|operator >
 DECL|function|operator >=
 DECL|function|qMessagePattern
 DECL|function|qMessagePattern_data
+DECL|function|rvalue
 DECL|function|setMessagePattern
 DECL|function|~TestClass4
 DECL|macro|ADD
