@@ -11,8 +11,8 @@ DECL|function|quad
 DECL|function|resizeGL
 DECL|function|setLogo
 DECL|function|setScaling
+DECL|function|setShowBubbles
 DECL|function|setTexture
 DECL|function|setTransparent
-DECL|function|showBubbles
 DECL|function|~GLWidget
 DECL|variable|bubbleNum
