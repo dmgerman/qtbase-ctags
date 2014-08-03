@@ -24,6 +24,7 @@ DECL|enumerator|MethodSlot
 DECL|enumerator|MethodTypeMask
 DECL|enumerator|Notify
 DECL|enumerator|OutputRevision
+DECL|enumerator|PropertyAccessInStaticMetaCall
 DECL|enumerator|Readable
 DECL|enumerator|RequiresVariantMetaObject
 DECL|enumerator|Resettable
