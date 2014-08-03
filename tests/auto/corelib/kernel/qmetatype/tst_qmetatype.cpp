@@ -117,6 +117,7 @@ DECL|function|isRegisteredStaticLess
 DECL|function|isRegisteredStaticLess_data
 DECL|function|isRegistered_data
 DECL|function|metaObject
+DECL|function|metaObject_data
 DECL|function|namespaces
 DECL|function|normalizedTypes
 DECL|function|operator !=
@@ -227,6 +228,7 @@ DECL|macro|TST_QMETATYPE_TYPE_DATA
 DECL|macro|TST_QMETATYPE_TYPE_DATA
 DECL|macro|TST_QMETATYPE_TYPE_DATA_ALIAS
 DECL|macro|TYPENAME_DATA
+DECL|member|Q_GADGET
 DECL|member|_
 DECL|member|_
 DECL|member|_
@@ -267,6 +269,7 @@ DECL|struct|MessageHandlerCustom
 DECL|struct|MetaEnumToType
 DECL|struct|MetaTypeIdStruct
 DECL|struct|MetaTypeIdStructDefaultTemplateValue
+DECL|struct|MyGadget
 DECL|struct|QungTfu
 DECL|struct|RegisterMetaTypeStruct
 DECL|struct|RegisterMetaTypeStructDefaultTemplateValue
@@ -358,6 +361,7 @@ DECL|variable|CustomConvertibleType
 DECL|variable|CustomConvertibleType2
 DECL|variable|CustomDebugStreamableType
 DECL|variable|FlagsDataEnum
+DECL|variable|MyGadget
 DECL|variable|UndefinedFunction0
 DECL|variable|UndefinedFunction1
 DECL|variable|UndefinedFunction2
