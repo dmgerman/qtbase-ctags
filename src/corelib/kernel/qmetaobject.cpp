@@ -107,7 +107,9 @@ DECL|function|rawReturnTypeName
 DECL|function|rawStringData
 DECL|function|rawTypeNameFromTypeInfo
 DECL|function|read
+DECL|function|readOnGadget
 DECL|function|reset
+DECL|function|resetOnGadget
 DECL|function|returnType
 DECL|function|returnType
 DECL|function|revision
@@ -135,3 +137,4 @@ DECL|function|value
 DECL|function|valueToKey
 DECL|function|valueToKeys
 DECL|function|write
+DECL|function|writeOnGadget
