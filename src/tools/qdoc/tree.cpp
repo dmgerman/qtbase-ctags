@@ -7,6 +7,7 @@ DECL|function|addToGroup
 DECL|function|addToModule
 DECL|function|addToQmlModule
 DECL|function|allBaseClasses
+DECL|function|checkForCollision
 DECL|function|findClassNode
 DECL|function|findDocNodeByTitle
 DECL|function|findFunctionNode
