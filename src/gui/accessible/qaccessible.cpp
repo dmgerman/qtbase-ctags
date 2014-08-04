@@ -8,6 +8,7 @@ DECL|function|deleteAccessibleInterface
 DECL|function|focusChild
 DECL|function|foregroundColor
 DECL|function|increaseAction
+DECL|function|installActivationObserver
 DECL|function|installFactory
 DECL|function|installRootObjectHandler
 DECL|function|installUpdateHandler
@@ -28,7 +29,9 @@ DECL|function|qAccessibleTextBoundaryHelper
 DECL|function|queryAccessibleInterface
 DECL|function|registerAccessibleInterface
 DECL|function|relations
+DECL|function|removeActivationObserver
 DECL|function|removeFactory
+DECL|function|setActive
 DECL|function|setFocusAction
 DECL|function|setRootObject
 DECL|function|showMenuAction
