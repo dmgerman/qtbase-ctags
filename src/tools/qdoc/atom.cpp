@@ -7,4 +7,5 @@ DECL|function|next
 DECL|function|typeString
 DECL|member|english
 DECL|member|no
+DECL|member|noError_
 DECL|variable|atms
