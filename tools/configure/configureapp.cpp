@@ -10,6 +10,7 @@ DECL|function|ArchData
 DECL|function|Configure
 DECL|function|FileWriter
 DECL|function|addDefine
+DECL|function|addSysroot
 DECL|function|applySpecSpecifics
 DECL|function|autoDetection
 DECL|function|buildQmake
@@ -60,6 +61,7 @@ DECL|function|verifyConfiguration
 DECL|function|~Configure
 DECL|macro|MARK_OPTION
 DECL|macro|for
+DECL|member|isHost
 DECL|member|key
 DECL|member|qmakespec
 DECL|member|subarchKey
