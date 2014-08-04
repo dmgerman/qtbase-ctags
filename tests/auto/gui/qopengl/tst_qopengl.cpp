@@ -22,6 +22,7 @@ DECL|function|freeResource
 DECL|function|fuzzyCompareImages
 DECL|function|fuzzyComparePixels
 DECL|function|glxContextWrap
+DECL|function|imageFormatPainting
 DECL|function|invalidateResource
 DECL|function|multiGroupSharedResourceCleanup
 DECL|function|multiGroupSharedResourceCleanupCustom

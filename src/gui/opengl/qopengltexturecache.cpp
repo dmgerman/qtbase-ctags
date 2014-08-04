@@ -17,6 +17,7 @@ DECL|function|~QOpenGLTextureCache
 DECL|function|~QOpenGLTextureCacheWrapper
 DECL|macro|GL_BGR
 DECL|macro|GL_BGRA
+DECL|macro|GL_RED
 DECL|macro|GL_RGB10_A2
 DECL|macro|GL_UNSIGNED_INT_2_10_10_10_REV
 DECL|macro|GL_UNSIGNED_INT_8_8_8_8_REV
