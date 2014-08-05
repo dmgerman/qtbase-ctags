@@ -139,7 +139,6 @@ DECL|member|enabledAnimations
 DECL|member|focus_widget
 DECL|member|hidden_focus_widget
 DECL|member|leaveAfterRelease
-DECL|member|load_testability
 DECL|member|main_widget
 DECL|member|navigationMode
 DECL|member|oldEditFocus
