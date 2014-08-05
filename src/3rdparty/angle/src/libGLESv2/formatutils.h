@@ -1,0 +1,8 @@
+DECL|macro|LIBGLESV2_FORMATUTILS_H_
+DECL|typedef|ColorCopyFunction
+DECL|typedef|ColorReadFunction
+DECL|typedef|ColorWriteFunction
+DECL|typedef|InitializeTextureDataFunction
+DECL|typedef|LoadImageFunction
+DECL|typedef|MipGenerationFunction
+DECL|typedef|VertexCopyFunction

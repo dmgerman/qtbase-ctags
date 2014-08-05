@@ -1,0 +1,1 @@
+DECL|macro|LIBGLESV2_STATE_H_

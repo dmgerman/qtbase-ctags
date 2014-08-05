@@ -1,12 +1,6 @@
 DECL|function|TVersionGLSL
 DECL|function|updateVersion
 DECL|function|visitAggregate
-DECL|function|visitBinary
-DECL|function|visitBranch
-DECL|function|visitConstantUnion
-DECL|function|visitLoop
-DECL|function|visitSelection
 DECL|function|visitSymbol
-DECL|function|visitUnary
 DECL|variable|GLSL_VERSION_110
 DECL|variable|GLSL_VERSION_120

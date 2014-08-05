@@ -1,0 +1,8 @@
+DECL|function|ValidES3ReadFormatType
+DECL|function|ValidateClearBuffer
+DECL|function|ValidateES3CopyTexImageParameters
+DECL|function|ValidateES3TexImageParameters
+DECL|function|ValidateES3TexStorageParameters
+DECL|function|ValidateFramebufferTextureLayer
+DECL|function|ValidateInvalidateFramebufferParameters
+DECL|namespace|gl

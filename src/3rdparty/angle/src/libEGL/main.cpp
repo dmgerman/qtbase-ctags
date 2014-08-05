@@ -16,4 +16,3 @@ DECL|function|setCurrentReadSurface
 DECL|namespace|egl
 DECL|namespace|egl
 DECL|variable|currentTLS
-DECL|variable|currentTLS

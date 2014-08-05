@@ -1,0 +1,11 @@
+DECL|function|VertexBuffer11
+DECL|function|discard
+DECL|function|getBuffer
+DECL|function|getBufferSize
+DECL|function|getSpaceRequired
+DECL|function|initialize
+DECL|function|makeVertexBuffer11
+DECL|function|setBufferSize
+DECL|function|storeVertexAttributes
+DECL|function|~VertexBuffer11
+DECL|namespace|rx

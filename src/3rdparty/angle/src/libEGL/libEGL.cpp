@@ -16,6 +16,7 @@ DECL|function|eglGetCurrentDisplay
 DECL|function|eglGetCurrentSurface
 DECL|function|eglGetDisplay
 DECL|function|eglGetError
+DECL|function|eglGetPlatformDisplayEXT
 DECL|function|eglGetProcAddress
 DECL|function|eglInitialize
 DECL|function|eglMakeCurrent

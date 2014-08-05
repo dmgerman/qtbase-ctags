@@ -1,0 +1,8 @@
+DECL|function|ConstructIndexNode
+DECL|function|ConstructMatrixIndexBinaryNode
+DECL|function|ConstructVectorIndexBinaryNode
+DECL|function|ContainsMatrixNode
+DECL|function|ContainsVectorNode
+DECL|function|createTempVariable
+DECL|function|scalarizeArgs
+DECL|function|visitAggregate

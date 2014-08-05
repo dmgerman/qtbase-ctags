@@ -1,3 +1,9 @@
+DECL|enumerator|COMMON_BUILTINS
+DECL|enumerator|ESSL1_BUILTINS
+DECL|enumerator|ESSL3_BUILTINS
+DECL|enumerator|GLOBAL_LEVEL
+DECL|enumerator|LAST_BUILTIN_LEVEL
+DECL|enum|ESymbolLevel
 DECL|macro|_SYMBOL_TABLE_INCLUDED_
 DECL|member|name
 DECL|member|type

@@ -1,9 +1,0 @@
-DECL|function|BufferStorage9
-DECL|function|clear
-DECL|function|getData
-DECL|function|getSize
-DECL|function|makeBufferStorage9
-DECL|function|setData
-DECL|function|supportsDirectBinding
-DECL|function|~BufferStorage9
-DECL|namespace|rx

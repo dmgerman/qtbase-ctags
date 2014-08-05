@@ -1,0 +1,11 @@
+DECL|function|CastStateValue
+DECL|function|CastStateValueToInt
+DECL|function|CastStateValues
+DECL|member|mEnumForType
+DECL|member|mEnumForType
+DECL|member|mEnumForType
+DECL|member|mEnumForType
+DECL|member|mEnumForType
+DECL|member|mEnumForType
+DECL|namespace|gl
+DECL|struct|CastStateValueEnum

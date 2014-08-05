@@ -1,0 +1,12 @@
+DECL|function|Decorate
+DECL|function|DecorateField
+DECL|function|DecoratePrivate
+DECL|function|DecorateUniform
+DECL|function|InterpolationString
+DECL|function|QualifiedStructNameString
+DECL|function|QualifierString
+DECL|function|SamplerString
+DECL|function|StructNameString
+DECL|function|TextureString
+DECL|function|TypeString
+DECL|namespace|sh

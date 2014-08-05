@@ -1,2 +1,6 @@
 DECL|function|TranslatorHLSL
+DECL|function|getInterfaceBlockRegister
+DECL|function|getUniformRegister
+DECL|function|hasInterfaceBlock
+DECL|function|hasUniform
 DECL|function|translate

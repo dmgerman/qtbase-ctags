@@ -1,12 +1,3 @@
-DECL|class|IntegerForLoopUnrollMarker
-DECL|function|FillLoopIndexInfo
-DECL|function|GetLoopIndexValue
-DECL|function|MarkForLoopsWithIntegerIndicesForUnrolling
-DECL|function|NeedsToReplaceSymbolWithValue
-DECL|function|Pop
-DECL|function|Push
-DECL|function|SatisfiesLoopCondition
-DECL|function|Step
-DECL|function|evaluateIntConstant
-DECL|function|getLoopIncrement
+DECL|function|visitBinary
 DECL|function|visitLoop
+DECL|function|visitSymbol

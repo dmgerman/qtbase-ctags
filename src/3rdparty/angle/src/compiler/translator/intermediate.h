@@ -27,16 +27,14 @@ DECL|enumerator|EOpConstructMat2
 DECL|enumerator|EOpConstructMat3
 DECL|enumerator|EOpConstructMat4
 DECL|enumerator|EOpConstructStruct
+DECL|enumerator|EOpConstructUInt
+DECL|enumerator|EOpConstructUVec2
+DECL|enumerator|EOpConstructUVec3
+DECL|enumerator|EOpConstructUVec4
 DECL|enumerator|EOpConstructVec2
 DECL|enumerator|EOpConstructVec3
 DECL|enumerator|EOpConstructVec4
 DECL|enumerator|EOpContinue
-DECL|enumerator|EOpConvBoolToFloat
-DECL|enumerator|EOpConvBoolToInt
-DECL|enumerator|EOpConvFloatToBool
-DECL|enumerator|EOpConvFloatToInt
-DECL|enumerator|EOpConvIntToBool
-DECL|enumerator|EOpConvIntToFloat
 DECL|enumerator|EOpCos
 DECL|enumerator|EOpCross
 DECL|enumerator|EOpDFdx
@@ -59,6 +57,7 @@ DECL|enumerator|EOpFwidth
 DECL|enumerator|EOpGreaterThan
 DECL|enumerator|EOpGreaterThanEqual
 DECL|enumerator|EOpIndexDirect
+DECL|enumerator|EOpIndexDirectInterfaceBlock
 DECL|enumerator|EOpIndexDirectStruct
 DECL|enumerator|EOpIndexIndirect
 DECL|enumerator|EOpInitialize
@@ -122,7 +121,7 @@ DECL|enumerator|PreVisit
 DECL|enum|TLoopType
 DECL|enum|TOperator
 DECL|enum|Visit
-DECL|macro|__INTERMEDIATE_H
+DECL|macro|COMPILER_TRANSLATOR_INTERMEDIATE_H_
 DECL|member|node1
 DECL|member|node2
 DECL|struct|TIntermNodePair
@@ -133,6 +132,7 @@ DECL|variable|TIntermAggregate
 DECL|variable|TIntermBinary
 DECL|variable|TIntermConstantUnion
 DECL|variable|TIntermLoop
+DECL|variable|TIntermRaw
 DECL|variable|TIntermSelection
 DECL|variable|TIntermSymbol
 DECL|variable|TIntermTraverser

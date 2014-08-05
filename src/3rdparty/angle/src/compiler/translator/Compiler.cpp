@@ -1,7 +1,9 @@
 DECL|class|TScopedPoolAllocator
 DECL|class|TScopedSymbolTableLevel
+DECL|function|GetGlobalMaxTokenSize
 DECL|function|Init
 DECL|function|InitBuiltInSymbolTable
+DECL|function|IsWebGLBasedSpec
 DECL|function|TCompiler
 DECL|function|TScopedPoolAllocator
 DECL|function|TScopedSymbolTableLevel
@@ -18,15 +20,14 @@ DECL|function|getArrayBoundsClamper
 DECL|function|getArrayIndexClampingStrategy
 DECL|function|getBuiltInFunctionEmulator
 DECL|function|getExtensionBehavior
-DECL|function|getMappedNameMaxLength
 DECL|function|getResources
 DECL|function|initializeGLPosition
 DECL|function|initializeVaryingsWithoutStaticUse
-DECL|function|isWebGLBasedSpec
 DECL|function|limitExpressionComplexity
-DECL|function|mapLongVariableNames
 DECL|function|rewriteCSSShader
+DECL|function|setResourceString
 DECL|function|validateLimitations
+DECL|function|validateOutputs
 DECL|function|~TCompiler
 DECL|function|~TScopedPoolAllocator
 DECL|function|~TScopedSymbolTableLevel

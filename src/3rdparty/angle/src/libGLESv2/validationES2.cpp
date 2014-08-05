@@ -1,0 +1,7 @@
+DECL|function|ValidES2ReadFormatType
+DECL|function|ValidateES2CopyTexImageParameters
+DECL|function|ValidateES2TexImageParameters
+DECL|function|ValidateES2TexStorageParameters
+DECL|function|validateSubImageParams2D
+DECL|function|validateSubImageParamsCube
+DECL|namespace|gl

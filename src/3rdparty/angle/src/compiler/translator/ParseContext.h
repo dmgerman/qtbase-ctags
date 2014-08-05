@@ -1,5 +1,6 @@
 DECL|function|TParseContext
 DECL|function|extensionBehavior
+DECL|function|getShaderVersion
 DECL|function|infoSink
 DECL|function|numErrors
 DECL|function|pragma
@@ -9,6 +10,8 @@ DECL|member|checksPrecisionErrors
 DECL|member|col
 DECL|member|compileOptions
 DECL|member|currentFunctionType
+DECL|member|defaultBlockStorage
+DECL|member|defaultMatrixPacking
 DECL|member|diagnostics
 DECL|member|directiveHandler
 DECL|member|fragmentPrecisionHigh
@@ -20,6 +23,7 @@ DECL|member|row
 DECL|member|scanner
 DECL|member|shaderSpec
 DECL|member|shaderType
+DECL|member|shaderVersion
 DECL|member|sourcePath
 DECL|member|structNestingLevel
 DECL|member|symbolTable

@@ -1,13 +1,13 @@
 DECL|function|CompareStruct
 DECL|function|CompareStructure
 DECL|function|GetHigherPrecision
+DECL|function|ValidateMultiplication
 DECL|function|addAssign
 DECL|function|addBinaryMath
 DECL|function|addBranch
 DECL|function|addBranch
 DECL|function|addComma
 DECL|function|addConstantUnion
-DECL|function|addConversion
 DECL|function|addIndex
 DECL|function|addLoop
 DECL|function|addSelection
@@ -15,8 +15,13 @@ DECL|function|addSelection
 DECL|function|addSwizzle
 DECL|function|addSymbol
 DECL|function|addUnaryMath
+DECL|function|enqueueChildren
+DECL|function|enqueueChildren
+DECL|function|enqueueChildren
+DECL|function|enqueueChildren
+DECL|function|enqueueChildren
+DECL|function|enqueueChildren
 DECL|function|fold
-DECL|function|getOperatorString
 DECL|function|growAggregate
 DECL|function|hash
 DECL|function|isAssignment
@@ -25,7 +30,6 @@ DECL|function|makeAggregate
 DECL|function|postProcess
 DECL|function|promote
 DECL|function|promote
-DECL|function|promoteConstantUnion
 DECL|function|remove
 DECL|function|replaceChildNode
 DECL|function|replaceChildNode

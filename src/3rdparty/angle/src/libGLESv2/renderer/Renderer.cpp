@@ -1,11 +1,11 @@
+DECL|function|CreateRenderer
 DECL|function|Renderer
-DECL|function|compileToBinary
+DECL|function|getRendererCaps
+DECL|function|getRendererExtensions
+DECL|function|getRendererTextureCaps
 DECL|function|glCreateRenderer
 DECL|function|glDestroyRenderer
-DECL|function|initializeCompiler
 DECL|function|~Renderer
-DECL|macro|D3DCOMPILER_DLL
-DECL|macro|D3DERR_OUTOFVIDEOMEMORY
-DECL|macro|QT_D3DCOMPILER_DLL
+DECL|macro|ANGLE_DEFAULT_D3D11
 DECL|namespace|rx
-DECL|typedef|pD3DCompile
+DECL|typedef|CreateRendererFunction

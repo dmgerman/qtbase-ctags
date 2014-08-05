@@ -1,5 +1,14 @@
-DECL|function|Uniform
+DECL|function|LinkedUniform
+DECL|function|UniformBlock
+DECL|function|dataSize
 DECL|function|elementCount
 DECL|function|isArray
-DECL|function|~Uniform
+DECL|function|isArrayElement
+DECL|function|isInDefaultBlock
+DECL|function|isReferencedByFragmentShader
+DECL|function|isReferencedByFragmentShader
+DECL|function|isReferencedByVertexShader
+DECL|function|isReferencedByVertexShader
+DECL|function|isSampler
+DECL|function|~LinkedUniform
 DECL|namespace|gl

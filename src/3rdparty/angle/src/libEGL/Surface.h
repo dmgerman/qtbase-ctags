@@ -1,2 +1,1 @@
-DECL|macro|EGLAPI
 DECL|macro|LIBEGL_SURFACE_H_

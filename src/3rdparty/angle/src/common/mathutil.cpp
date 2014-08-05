@@ -1,0 +1,12 @@
+DECL|function|convert999E5toRGBFloats
+DECL|function|convertRGBFloatsTo999E5
+DECL|member|B
+DECL|member|E
+DECL|member|G
+DECL|member|R
+DECL|member|g_sharedexp_bias
+DECL|member|g_sharedexp_mantissabits
+DECL|member|g_sharedexp_max
+DECL|member|g_sharedexp_maxexponent
+DECL|namespace|gl
+DECL|struct|RGB9E5Data

@@ -1,0 +1,10 @@
+DECL|function|TransformFeedback
+DECL|function|getDrawMode
+DECL|function|isPaused
+DECL|function|isStarted
+DECL|function|pause
+DECL|function|resume
+DECL|function|start
+DECL|function|stop
+DECL|function|~TransformFeedback
+DECL|namespace|gl

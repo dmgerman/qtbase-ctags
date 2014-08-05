@@ -1,0 +1,4 @@
+DECL|function|ComputeVertexAttributeStride
+DECL|function|ComputeVertexAttributeTypeSize
+DECL|function|VertexAttribute
+DECL|namespace|gl

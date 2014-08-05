@@ -1,9 +1,1 @@
-DECL|class|RemoveTree
 DECL|function|RemoveAllTreeNodes
-DECL|function|RemoveTree
-DECL|function|visitAggregate
-DECL|function|visitBinary
-DECL|function|visitConstantUnion
-DECL|function|visitSelection
-DECL|function|visitSymbol
-DECL|function|visitUnary

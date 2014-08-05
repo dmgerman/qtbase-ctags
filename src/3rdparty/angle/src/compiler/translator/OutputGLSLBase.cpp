@@ -16,6 +16,7 @@ DECL|function|visitLoop
 DECL|function|visitSelection
 DECL|function|visitSymbol
 DECL|function|visitUnary
+DECL|function|writeBuiltInFunctionTriplet
 DECL|function|writeConstantUnion
 DECL|function|writeFunctionParameters
 DECL|function|writeTriplet

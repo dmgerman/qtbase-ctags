@@ -1,0 +1,11 @@
+DECL|function|Query11
+DECL|function|begin
+DECL|function|checkOcclusionQuery
+DECL|function|checkStreamOutPrimitivesWritten
+DECL|function|end
+DECL|function|getResult
+DECL|function|isResultAvailable
+DECL|function|isStarted
+DECL|function|testQuery
+DECL|function|~Query11
+DECL|namespace|rx
