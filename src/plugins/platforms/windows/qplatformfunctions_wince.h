@@ -13,7 +13,6 @@ DECL|macro|CS_OWNDC
 DECL|macro|CWP_SKIPINVISIBLE
 DECL|macro|CWP_SKIPTRANSPARENT
 DECL|macro|ChangeClipboardChain
-DECL|macro|ChildWindowFromPointEx
 DECL|macro|DEVICE_FONTTYPE
 DECL|macro|FE_FONTSMOOTHINGCLEARTYPE
 DECL|macro|GA_PARENT
@@ -73,7 +72,6 @@ DECL|macro|WM_THEMECHANGED
 DECL|macro|WM_TOUCH
 DECL|macro|WM_WINDOWPOSCHANGING
 DECL|macro|WS_EX_LAYERED
-DECL|macro|findPlatformWindowAt
 DECL|member|apfx
 DECL|member|cb
 DECL|member|cpfx

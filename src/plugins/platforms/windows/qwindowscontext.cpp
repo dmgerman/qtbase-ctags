@@ -15,6 +15,7 @@ DECL|function|errorMessageFromComError
 DECL|function|findClosestPlatformWindow
 DECL|function|findPlatformWindow
 DECL|function|findPlatformWindowAt
+DECL|function|findPlatformWindowHelper
 DECL|function|findWindow
 DECL|function|handleContextMenuEvent
 DECL|function|handleFocusEvent
