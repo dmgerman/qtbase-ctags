@@ -7,6 +7,7 @@ DECL|function|htmlText
 DECL|function|registerNatives
 DECL|function|show
 DECL|macro|FIND_AND_CHECK_CLASS
+DECL|member|QtMessageHandlerHelperClassName
 DECL|member|g_messageDialogHelperClass
 DECL|member|methods
 DECL|namespace|QtAndroidDialogHelpers

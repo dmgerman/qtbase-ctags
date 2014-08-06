@@ -13,7 +13,6 @@ DECL|function|desktopHeightPixels
 DECL|function|desktopWidthPixels
 DECL|function|destroySurface
 DECL|function|deviceName
-DECL|function|findClass
 DECL|function|handleOrientationChanged
 DECL|function|hideStatusBar
 DECL|function|insertNativeView
