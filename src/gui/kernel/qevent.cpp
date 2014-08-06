@@ -67,6 +67,7 @@ DECL|function|formatInputMethodEvent
 DECL|function|formatInputMethodQueryEvent
 DECL|function|formatTabletEvent
 DECL|function|formatTouchEvent
+DECL|function|formatTouchPoint
 DECL|function|formatUnicodeString
 DECL|function|id
 DECL|function|isOverride
@@ -81,6 +82,7 @@ DECL|function|mouseButtonsToString
 DECL|function|mouseEventSourceToString
 DECL|function|normalizedPos
 DECL|function|openFile
+DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|orientation
 DECL|function|overshootDistance
