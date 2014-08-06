@@ -14,9 +14,12 @@ DECL|function|removeDuplicates
 DECL|function|replaceInStrings
 DECL|function|replaceInStrings
 DECL|function|replaceInStrings
+DECL|function|self
+DECL|function|self
 DECL|function|sort
 DECL|macro|QSTRINGLIST_H
 DECL|typedef|QMutableStringListIterator
 DECL|typedef|QStringListIterator
 DECL|variable|QRegExp
 DECL|variable|QRegularExpression
+DECL|variable|QStringList
