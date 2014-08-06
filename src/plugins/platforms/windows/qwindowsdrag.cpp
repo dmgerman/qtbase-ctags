@@ -28,12 +28,11 @@ DECL|function|defaultCursor
 DECL|function|drag
 DECL|function|dropData
 DECL|function|dropHelper
-DECL|function|exposeEvent
 DECL|function|handleDrag
 DECL|function|instance
 DECL|function|operator <<
+DECL|function|paintEvent
 DECL|function|releaseDropDataObject
-DECL|function|render
 DECL|function|retrieveDataObject
 DECL|function|setPixmap
 DECL|function|toQtKeyboardModifiers
@@ -49,7 +48,6 @@ DECL|member|cacheKey
 DECL|member|cursor
 DECL|member|cursor
 DECL|member|hotSpot
-DECL|member|m_backingStore
 DECL|member|m_currentButtons
 DECL|member|m_cursors
 DECL|member|m_drag
