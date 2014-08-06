@@ -1,7 +1,15 @@
 DECL|class|OpenGLWindow
 DECL|function|OpenGLWindow
+DECL|function|keyPressEvent
 DECL|function|main
+DECL|function|paintGL
 DECL|function|painterPathForTriangle
+DECL|function|resizeGL
+DECL|function|setAnimating
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|m_animate
 DECL|member|m_brush
 DECL|member|m_fragment_toy
 DECL|member|m_model_text
