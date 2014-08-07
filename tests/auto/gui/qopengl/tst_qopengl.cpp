@@ -6,6 +6,7 @@ DECL|function|SharedResourceTracker
 DECL|function|aboutToBeDestroyed
 DECL|function|common_data
 DECL|function|createSurface
+DECL|function|defaultSurfaceFormat
 DECL|function|fboHandleNulledAfterContextDestroyed
 DECL|function|fboRendering
 DECL|function|fboRenderingRGB30

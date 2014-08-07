@@ -6,6 +6,7 @@ DECL|function|QSurfaceFormatPrivate
 DECL|function|QSurfaceFormatPrivate
 DECL|function|alphaBufferSize
 DECL|function|blueBufferSize
+DECL|function|defaultFormat
 DECL|function|depthBufferSize
 DECL|function|detach
 DECL|function|greenBufferSize
@@ -23,6 +24,7 @@ DECL|function|renderableType
 DECL|function|samples
 DECL|function|setAlphaBufferSize
 DECL|function|setBlueBufferSize
+DECL|function|setDefaultFormat
 DECL|function|setDepthBufferSize
 DECL|function|setGreenBufferSize
 DECL|function|setMajorVersion

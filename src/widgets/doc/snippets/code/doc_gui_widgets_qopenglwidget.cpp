@@ -8,6 +8,7 @@ DECL|function|initializeGL
 DECL|function|initializeGL
 DECL|function|initializeGL
 DECL|function|initializeGL
+DECL|function|main
 DECL|function|paintGL
 DECL|function|paintGL
 DECL|function|resizeGL
