@@ -29,10 +29,12 @@ DECL|function|reset
 DECL|function|resizeEvent
 DECL|function|resizeGL
 DECL|function|resizeViewportFramebuffer
+DECL|function|resolveSamples
 DECL|function|setFormat
 DECL|function|textureId
 DECL|function|~QOpenGLWidget
 DECL|function|~QOpenGLWidgetPrivate
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
