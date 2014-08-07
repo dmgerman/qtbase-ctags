@@ -1,4 +1,0 @@
-DECL|macro|__IA2TypeLibrary_h__
-DECL|macro|__IAccessible2Lib_LIBRARY_DEFINED__
-DECL|macro|__REQUIRED_RPCNDR_H_VERSION__
-DECL|variable|LIBID_IAccessible2Lib
