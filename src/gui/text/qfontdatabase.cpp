@@ -42,6 +42,7 @@ DECL|function|invalidate
 DECL|function|isApplicationFont
 DECL|function|isBitmapScalable
 DECL|function|isFixedPitch
+DECL|function|isPrivateFamily
 DECL|function|isScalable
 DECL|function|isSmoothlyScalable
 DECL|function|italic
