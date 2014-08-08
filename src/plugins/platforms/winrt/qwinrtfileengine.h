@@ -1,0 +1,3 @@
+DECL|macro|QWINRTFILEENGINE_H
+DECL|variable|QWinRTFileEngineHandlerPrivate
+DECL|variable|QWinRTFileEnginePrivate
