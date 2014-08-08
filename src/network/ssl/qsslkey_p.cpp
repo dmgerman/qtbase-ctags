@@ -5,10 +5,7 @@ DECL|function|QSslKey
 DECL|function|QSslKey
 DECL|function|algorithm
 DECL|function|clear
-DECL|function|clear
-DECL|function|decodePem
 DECL|function|derFromPem
-DECL|function|fromEVP_PKEY
 DECL|function|handle
 DECL|function|isNull
 DECL|function|length
