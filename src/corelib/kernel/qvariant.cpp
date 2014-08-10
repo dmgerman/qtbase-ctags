@@ -98,6 +98,7 @@ DECL|function|isNull
 DECL|function|isNull
 DECL|function|key
 DECL|function|load
+DECL|function|metaEnumFromType
 DECL|function|nameToType
 DECL|function|normalizeLong
 DECL|function|normalizeLowerRanks

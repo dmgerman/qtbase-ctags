@@ -5,6 +5,7 @@ DECL|class|CustomQObjectDerivedNoMetaType
 DECL|class|EnumTest_Enum7
 DECL|class|SmartPointer
 DECL|class|tst_QVariant
+DECL|enumerator|EnumTest_Enum0_negValue
 DECL|enumerator|EnumTest_Enum0_value
 DECL|enumerator|EnumTest_Enum1_bigValue
 DECL|enumerator|EnumTest_Enum1_value
@@ -14,9 +15,14 @@ DECL|enumerator|EnumTest_Enum4_bigValue
 DECL|enumerator|EnumTest_Enum4_value
 DECL|enumerator|EnumTest_Enum5_value
 DECL|enumerator|EnumTest_Enum6_value
-DECL|enumerator|ensureSignedEnum0
+DECL|enumerator|MetaEnsureSignedEnum0
+DECL|enumerator|MetaEnumTest_Enum0_value
+DECL|enumerator|MetaEnumTest_Enum1_bigValue
+DECL|enumerator|MetaEnumTest_Enum1_value
 DECL|enum|EnumTest_Enum0
 DECL|enum|EnumTest_Enum1
+DECL|enum|MetaEnumTest_Enum0
+DECL|enum|MetaEnumTest_Enum1
 DECL|enum|qint64
 DECL|enum|quint64
 DECL|enum|uchar
@@ -26,6 +32,11 @@ DECL|function|CustomComparable
 DECL|function|CustomQObject
 DECL|function|CustomQObjectDerived
 DECL|function|CustomQObjectDerivedNoMetaType
+DECL|function|ENUM_SIZE
+DECL|function|ENUM_SIZE
+DECL|function|ENUM_SIZE
+DECL|function|ENUM_SIZE
+DECL|function|ENUM_SIZE
 DECL|function|Foo
 DECL|function|MessageHandlerType
 DECL|function|MyClass
@@ -115,6 +126,7 @@ DECL|function|loadQt4Stream_data
 DECL|function|loadQt5Stream
 DECL|function|loadQt5Stream_data
 DECL|function|loadUnknownUserType
+DECL|function|metaEnums
 DECL|function|moreCustomTypes
 DECL|function|movabilityTest
 DECL|function|numericalConvert
@@ -163,6 +175,7 @@ DECL|function|setValue
 DECL|function|streamInvalidVariant
 DECL|function|swap
 DECL|function|testVariant
+DECL|function|testVariantMeta
 DECL|function|timeToDateTime
 DECL|function|toBool
 DECL|function|toBool_data
@@ -238,8 +251,11 @@ DECL|macro|CONSTRUCT
 DECL|macro|CONSTRUCT
 DECL|macro|CONVERT_META_TYPE
 DECL|macro|CONVERT_META_TYPE
+DECL|macro|ENUM_SIZE
+DECL|macro|ENUM_SIZE
 DECL|macro|FOR_EACH_CORE_CLASS
 DECL|macro|FOR_EACH_CORE_CLASS
+DECL|macro|METAENUMS_TEST
 DECL|macro|N
 DECL|macro|N
 DECL|macro|N
