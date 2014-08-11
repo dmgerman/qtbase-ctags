@@ -5,6 +5,9 @@ DECL|function|format
 DECL|function|grabWindow
 DECL|function|handleScreenChange
 DECL|function|logicalDpi
+DECL|function|parseXftHintStyle
+DECL|function|parseXftInt
+DECL|function|parseXftRgba
 DECL|function|readXResources
 DECL|function|sendStartupMessage
 DECL|function|topLevelAt
