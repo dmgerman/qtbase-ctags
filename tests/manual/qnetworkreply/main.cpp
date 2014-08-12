@@ -1,10 +1,14 @@
 DECL|class|HttpReceiver
 DECL|class|tst_qnetworkreply
+DECL|function|authentication
+DECL|function|authenticationRequiredSlot
 DECL|function|createFacebookMultiPart
 DECL|function|finishedSlot
 DECL|function|initTestCase
 DECL|function|limiting
 DECL|function|limiting_data
+DECL|function|proxyAuthentication
+DECL|function|proxyAuthentication_data
 DECL|function|readyReadSlot
 DECL|function|setSslConfiguration
 DECL|function|setSslConfiguration_data
