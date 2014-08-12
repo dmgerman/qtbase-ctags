@@ -10,11 +10,13 @@ DECL|function|QKdeTheme
 DECL|function|QKdeThemePrivate
 DECL|function|ResourceHelper
 DECL|function|clear
+DECL|function|configureFonts
 DECL|function|createKdeTheme
 DECL|function|createUnixTheme
 DECL|function|font
 DECL|function|font
 DECL|function|font
+DECL|function|gtkFontName
 DECL|function|kdeColor
 DECL|function|kdeFont
 DECL|function|kdeGlobals
@@ -31,6 +33,7 @@ DECL|function|themeNames
 DECL|function|xdgIconThemePaths
 DECL|member|fixedFont
 DECL|member|fixedFont
+DECL|member|fontsConfigured
 DECL|member|iconFallbackThemeName
 DECL|member|iconThemeName
 DECL|member|kdeDirs
