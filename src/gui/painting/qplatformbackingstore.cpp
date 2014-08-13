@@ -26,6 +26,7 @@ DECL|function|~QPlatformBackingStorePrivate
 DECL|function|~QPlatformTextureList
 DECL|member|blitter
 DECL|member|locked
+DECL|member|needsSwizzle
 DECL|member|rect
 DECL|member|size
 DECL|member|stacksOnTop
