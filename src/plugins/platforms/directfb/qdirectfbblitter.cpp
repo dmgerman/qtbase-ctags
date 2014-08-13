@@ -5,11 +5,14 @@ DECL|function|alphaPixmapFormat
 DECL|function|dfb_blitter_capabilities
 DECL|function|doLock
 DECL|function|doUnlock
+DECL|function|drawCachedGlyphs
 DECL|function|drawPixmap
 DECL|function|drawPixmapOpacity
 DECL|function|fillRect
 DECL|function|fromDataBufferDescription
 DECL|function|fromFile
 DECL|function|pixmapFormat
+DECL|function|resizeTextureData
 DECL|function|selectPixmapFormat
+DECL|function|sourceSurface
 DECL|function|~QDirectFbBlitter

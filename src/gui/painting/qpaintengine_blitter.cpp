@@ -6,6 +6,7 @@ DECL|function|QBlitterPaintEnginePrivate
 DECL|function|begin
 DECL|function|brushChanged
 DECL|function|canBlitterAlphaFillRect
+DECL|function|canBlitterDrawCachedGlyphs
 DECL|function|canBlitterDrawPixmap
 DECL|function|canBlitterDrawPixmapOpacity
 DECL|function|canBlitterDrawRectMask
@@ -14,6 +15,7 @@ DECL|function|checkStateAgainstMask
 DECL|function|clipAndDrawPixmap
 DECL|function|clipEnabledChanged
 DECL|function|compositionModeChanged
+DECL|function|drawCachedGlyphs
 DECL|function|drawEllipse
 DECL|function|drawImage
 DECL|function|drawImage
