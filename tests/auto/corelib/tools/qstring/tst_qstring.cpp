@@ -119,9 +119,13 @@ DECL|function|indexOfInvalidRegex
 DECL|function|indexOf_data
 DECL|function|insert_char
 DECL|function|insert_char_data
+DECL|function|insert_charstar
+DECL|function|insert_charstar_data
 DECL|function|insert_data
 DECL|function|insert_impl
 DECL|function|insert_impl
+DECL|function|insert_qbytearray
+DECL|function|insert_qbytearray_data
 DECL|function|insert_qchar
 DECL|function|insert_qchar_data
 DECL|function|insert_qcharstar_int
@@ -130,6 +134,8 @@ DECL|function|insert_qlatin1string
 DECL|function|insert_qlatin1string_data
 DECL|function|insert_qstring
 DECL|function|insert_qstring_data
+DECL|function|insert_qstringref
+DECL|function|insert_qstringref_data
 DECL|function|insert_special_cases
 DECL|function|integer_conversion
 DECL|function|integer_conversion_data
