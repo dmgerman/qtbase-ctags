@@ -205,10 +205,14 @@ DECL|function|prepend_qbytearray
 DECL|function|prepend_qbytearray_data
 DECL|function|prepend_qchar
 DECL|function|prepend_qchar_data
+DECL|function|prepend_qcharstar_int
+DECL|function|prepend_qcharstar_int_data
 DECL|function|prepend_qlatin1string
 DECL|function|prepend_qlatin1string_data
 DECL|function|prepend_qstring
 DECL|function|prepend_qstring_data
+DECL|function|prepend_qstringref
+DECL|function|prepend_qstringref_data
 DECL|function|ref
 DECL|function|remove_regexp
 DECL|function|remove_regexp_data
