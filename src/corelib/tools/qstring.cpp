@@ -135,6 +135,7 @@ DECL|function|qt_find_latin1_string
 DECL|function|qt_from_latin1
 DECL|function|qt_last_index_of
 DECL|function|qt_section_chunk
+DECL|function|qt_section_chunk
 DECL|function|qt_starts_with
 DECL|function|qt_starts_with
 DECL|function|qt_string_count
