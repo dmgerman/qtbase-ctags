@@ -1,4 +1,16 @@
 DECL|class|tst_QString
+DECL|function|escape
+DECL|function|escape
+DECL|function|optimize
+DECL|function|optimize
+DECL|function|section_data_impl
+DECL|function|section_impl
+DECL|function|section_regexp
+DECL|function|section_regexp_data
+DECL|function|section_regularexpression
+DECL|function|section_regularexpression_data
+DECL|function|section_string
+DECL|function|section_string_data
 DECL|function|toCaseFolded
 DECL|function|toCaseFolded_data
 DECL|function|toLower
