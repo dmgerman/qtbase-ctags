@@ -9,6 +9,7 @@ DECL|function|onCreateContextMenu
 DECL|function|onOptionsItemSelected
 DECL|function|onOptionsMenuClosed
 DECL|function|onPrepareOptionsMenu
+DECL|function|openOptionsMenu
 DECL|function|registerNatives
 DECL|function|removeAmpersandEscapes
 DECL|function|removeMenuBar
@@ -29,6 +30,7 @@ DECL|member|menuBars
 DECL|member|menuNoneValue
 DECL|member|methods
 DECL|member|openContextMenuMethodID
+DECL|member|openOptionsMenuMethodID
 DECL|member|pendingContextMenus
 DECL|member|resetOptionsMenuMethodID
 DECL|member|setCheckableMenuItemMethodID
