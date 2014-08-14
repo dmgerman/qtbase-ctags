@@ -15,6 +15,7 @@ DECL|function|makeSureTheComfortFunctionsCompile
 DECL|function|operator ==
 DECL|function|operator_eq
 DECL|function|qHash
+DECL|function|qhash
 DECL|function|remove
 DECL|function|reserve
 DECL|function|setOperations
