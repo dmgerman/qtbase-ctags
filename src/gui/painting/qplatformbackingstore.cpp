@@ -14,6 +14,7 @@ DECL|function|deviceRegion
 DECL|function|endPaint
 DECL|function|flags
 DECL|function|geometry
+DECL|function|graphicsBuffer
 DECL|function|isLocked
 DECL|function|lock
 DECL|function|scroll
@@ -30,7 +31,6 @@ DECL|member|flags
 DECL|member|locked
 DECL|member|needsSwizzle
 DECL|member|rect
-DECL|member|size
 DECL|member|textureId
 DECL|member|textureId
 DECL|member|textureSize

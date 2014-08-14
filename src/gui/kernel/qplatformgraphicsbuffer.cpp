@@ -1,0 +1,10 @@
+DECL|function|QPlatformGraphicsBuffer
+DECL|function|bindToTexture
+DECL|function|byteCount
+DECL|function|bytesPerLine
+DECL|function|data
+DECL|function|data
+DECL|function|lock
+DECL|function|origin
+DECL|function|unlock
+DECL|function|~QPlatformGraphicsBuffer

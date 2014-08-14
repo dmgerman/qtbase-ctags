@@ -1,0 +1,2 @@
+DECL|function|bindSWToTexture
+DECL|function|lockAndBindToTexture

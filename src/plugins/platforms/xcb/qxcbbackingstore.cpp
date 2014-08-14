@@ -1,10 +1,14 @@
+DECL|class|QXcbShmGraphicsBuffer
 DECL|class|QXcbShmImage
 DECL|function|QXcbBackingStore
+DECL|function|QXcbShmGraphicsBuffer
 DECL|function|QXcbShmImage
 DECL|function|beginPaint
 DECL|function|composeAndFlush
 DECL|function|destroy
 DECL|function|flush
+DECL|function|graphicsBuffer
+DECL|function|graphicsBuffer
 DECL|function|image
 DECL|function|paintDevice
 DECL|function|preparePaint
@@ -15,9 +19,12 @@ DECL|function|size
 DECL|function|toImage
 DECL|function|~QXcbBackingStore
 DECL|function|~QXcbShmImage
+DECL|member|m_access_lock
 DECL|member|m_dirty
 DECL|member|m_gc
 DECL|member|m_gc_window
+DECL|member|m_graphics_buffer
+DECL|member|m_image
 DECL|member|m_qimage
 DECL|member|m_shm_info
 DECL|member|m_xcb_image
