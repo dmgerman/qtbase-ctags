@@ -14,6 +14,7 @@ DECL|function|mouseReleaseEvent
 DECL|function|outputMouseEvent
 DECL|function|paintEvent
 DECL|function|tabletEvent
+DECL|member|angle
 DECL|member|button
 DECL|member|m_lastButton
 DECL|member|m_lastIsMouseMove
