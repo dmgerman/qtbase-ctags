@@ -5,7 +5,6 @@ DECL|function|grabWindow
 DECL|function|logicalDpi
 DECL|function|nativeOrientation
 DECL|function|orientation
-DECL|function|pageFlipper
 DECL|function|physicalSize
 DECL|function|platformScreenForWindow
 DECL|function|refreshRate
