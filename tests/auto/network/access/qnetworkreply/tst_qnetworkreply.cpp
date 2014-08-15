@@ -121,6 +121,7 @@ DECL|function|getFromFile
 DECL|function|getFromFileSpecial
 DECL|function|getFromFileSpecial_data
 DECL|function|getFromFtp
+DECL|function|getFromFtpAfterError
 DECL|function|getFromFtp_data
 DECL|function|getFromHttp
 DECL|function|getFromHttpIntoBuffer
