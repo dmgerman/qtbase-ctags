@@ -46,6 +46,7 @@ DECL|function|indexOfSlot
 DECL|function|indexOfSlotRelative
 DECL|function|invoke
 DECL|function|invokeMethod
+DECL|function|invokeOnGadget
 DECL|function|isConstant
 DECL|function|isDesignable
 DECL|function|isEditable

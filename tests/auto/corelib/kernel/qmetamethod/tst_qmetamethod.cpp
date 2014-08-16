@@ -1,4 +1,5 @@
 DECL|class|MethodTestObject
+DECL|class|MyGadget
 DECL|class|tst_QMetaMethod
 DECL|function|MethodTestObject
 DECL|function|MethodTestObject
@@ -16,6 +17,8 @@ DECL|function|customTypeSlot
 DECL|function|customUnregisteredTypeInvokable
 DECL|function|customUnregisteredTypeSlot
 DECL|function|fromSignal
+DECL|function|gadget
+DECL|function|getValue
 DECL|function|invalidMethod
 DECL|function|method
 DECL|function|method_data
@@ -25,6 +28,7 @@ DECL|function|qstringInvokable
 DECL|function|qstringSlot
 DECL|function|qvariantInvokableBoolIntUIntLonglongULonglongDoubleLongShortCharUlongUshortUcharFloat
 DECL|function|qvariantSlotBoolIntUIntLonglongULonglongDoubleLongShortCharUlongUshortUcharFloat
+DECL|function|setValue
 DECL|function|voidInvokable
 DECL|function|voidInvokableCustomType
 DECL|function|voidInvokableCustomUnregisteredType
@@ -41,5 +45,6 @@ DECL|function|voidSlotQReal
 DECL|function|voidSlotQString
 DECL|macro|FROMSIGNAL_HELPER
 DECL|macro|FROMSIGNAL_HELPER
+DECL|member|m_value
 DECL|struct|CustomType
 DECL|struct|CustomUnregisteredType
