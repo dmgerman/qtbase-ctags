@@ -17,8 +17,8 @@ DECL|function|addFile
 DECL|function|dataFiles
 DECL|function|interpretResourceFile
 DECL|function|msgOpenReadFailed
+DECL|function|operator ()
 DECL|function|output
-DECL|function|qt_rcc_compare_hash
 DECL|function|readFiles
 DECL|function|reset
 DECL|function|resourceDataFileMap
@@ -54,3 +54,5 @@ DECL|member|m_language
 DECL|member|m_name
 DECL|member|m_nameOffset
 DECL|member|m_parent
+DECL|struct|qt_rcc_compare_hash
+DECL|typedef|result_type
