@@ -20,6 +20,7 @@ DECL|function|isNull
 DECL|function|me
 DECL|function|qvariantCast
 DECL|function|run
+DECL|function|swap
 DECL|function|threadSafety
 DECL|function|~ChildObject
 DECL|function|~ChildWidget
