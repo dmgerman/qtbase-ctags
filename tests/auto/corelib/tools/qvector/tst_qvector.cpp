@@ -112,6 +112,10 @@ DECL|function|isEmpty
 DECL|function|last
 DECL|function|lastIndexOf
 DECL|function|mid
+DECL|function|move
+DECL|function|moveCustom
+DECL|function|moveInt
+DECL|function|moveMovable
 DECL|function|operator <
 DECL|function|operator =
 DECL|function|operator =
@@ -174,6 +178,12 @@ DECL|function|~Foo
 DECL|function|~Movable
 DECL|function|~RemoveLastTestClass
 DECL|function|~SharedVectorChecker
+DECL|macro|T_BAR
+DECL|macro|T_BAZ
+DECL|macro|T_BLAH
+DECL|macro|T_CAT
+DECL|macro|T_DOG
+DECL|macro|T_FOO
 DECL|member|MaxIndex
 DECL|member|Values
 DECL|member|Values
