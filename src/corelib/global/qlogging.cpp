@@ -1,5 +1,6 @@
 DECL|function|QMessagePattern
 DECL|function|android_default_message_handler
+DECL|function|backtraceFramesForLogMessage
 DECL|function|copy
 DECL|function|critical
 DECL|function|critical
@@ -13,6 +14,7 @@ DECL|function|debug
 DECL|function|debug
 DECL|function|debug
 DECL|function|debug
+DECL|function|formatBacktraceForLogMessage
 DECL|function|grabMessageHandler
 DECL|function|grabMessageHandler
 DECL|function|info
