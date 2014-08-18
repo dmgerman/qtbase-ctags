@@ -6,7 +6,6 @@ DECL|function|exposeEvent
 DECL|function|extrude
 DECL|function|initialize
 DECL|function|mousePressEvent
-DECL|function|paintQtLogo
 DECL|function|quad
 DECL|function|render
 DECL|function|setAnimating

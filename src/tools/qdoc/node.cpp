@@ -64,6 +64,7 @@ DECL|function|hasClasses
 DECL|function|hasMembers
 DECL|function|hasNamespaces
 DECL|function|hasQmlProperty
+DECL|function|hasQmlProperty
 DECL|function|idForNode
 DECL|function|idNumber
 DECL|function|incPropertyGroupCount

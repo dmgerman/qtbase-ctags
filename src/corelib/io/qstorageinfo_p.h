@@ -1,0 +1,1 @@
+DECL|macro|QSTORAGEINFO_P_H

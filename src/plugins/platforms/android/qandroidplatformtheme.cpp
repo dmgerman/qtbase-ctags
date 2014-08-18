@@ -7,6 +7,7 @@ DECL|function|font
 DECL|function|fontType
 DECL|function|palette
 DECL|function|paletteType
+DECL|function|showPlatformMenuBar
 DECL|function|standardButtonText
 DECL|function|themeHint
 DECL|function|usePlatformNativeDialog

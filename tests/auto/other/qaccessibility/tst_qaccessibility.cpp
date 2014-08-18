@@ -43,6 +43,8 @@ DECL|function|init
 DECL|function|initTestCase
 DECL|function|labelTest
 DECL|function|lineEditTest
+DECL|function|lineEditTextFunctions
+DECL|function|lineEditTextFunctions_data
 DECL|function|listTest
 DECL|function|mainWindowTest
 DECL|function|mdiAreaTest

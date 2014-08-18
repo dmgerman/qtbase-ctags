@@ -12,6 +12,7 @@ DECL|function|event
 DECL|function|eventFilter
 DECL|function|eventIndex
 DECL|function|eventOrderOnShow
+DECL|function|exposeRegion
 DECL|function|initTestCase
 DECL|function|initialSize
 DECL|function|inputReentrancy
@@ -62,6 +63,7 @@ DECL|member|ignoreTouch
 DECL|member|keyPressCode
 DECL|member|keyReleaseCode
 DECL|member|m_availableTopLeft
+DECL|member|m_exposeRegion
 DECL|member|m_order
 DECL|member|m_received
 DECL|member|m_testWindowSize

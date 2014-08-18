@@ -50,6 +50,7 @@ DECL|method|onOptionsItemSelected
 DECL|method|onOptionsMenuClosed
 DECL|method|onPrepareOptionsMenu
 DECL|method|openContextMenu
+DECL|method|openOptionsMenu
 DECL|method|openURL
 DECL|method|quitApp
 DECL|method|quitQtAndroidPlugin

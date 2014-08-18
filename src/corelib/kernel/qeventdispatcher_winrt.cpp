@@ -8,6 +8,7 @@ DECL|function|WinRTTimerInfo
 DECL|function|cancel
 DECL|function|closingDown
 DECL|function|event
+DECL|function|fetchCoreDispatcher
 DECL|function|flush
 DECL|function|hasPendingEvents
 DECL|function|interrupt
