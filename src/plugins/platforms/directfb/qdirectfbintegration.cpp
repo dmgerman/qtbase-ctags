@@ -9,4 +9,5 @@ DECL|function|hasCapability
 DECL|function|initializeDirectFB
 DECL|function|initializeInput
 DECL|function|initializeScreen
+DECL|function|services
 DECL|function|~QDirectFbIntegration
