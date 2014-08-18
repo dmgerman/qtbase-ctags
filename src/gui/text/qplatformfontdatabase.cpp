@@ -27,6 +27,7 @@ DECL|function|fontEngine
 DECL|function|fontEngineMulti
 DECL|function|fontsAlwaysScalable
 DECL|function|invalidate
+DECL|function|isPrivateFontFamily
 DECL|function|operator =
 DECL|function|populateFamily
 DECL|function|populateFontDatabase
