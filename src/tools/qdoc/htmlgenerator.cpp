@@ -44,6 +44,7 @@ DECL|function|generateQmlBasicTypePage
 DECL|function|generateQmlInherits
 DECL|function|generateQmlInstantiates
 DECL|function|generateQmlItem
+DECL|function|generateQmlMemberFile
 DECL|function|generateQmlRequisites
 DECL|function|generateQmlSummary
 DECL|function|generateQmlTypePage
