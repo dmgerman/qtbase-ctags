@@ -9,5 +9,6 @@ DECL|function|getFntTable
 DECL|function|populate
 DECL|function|populateFontDatabase
 DECL|function|storeFont
+DECL|function|storeFontSub
 DECL|function|weightFromInteger
 DECL|function|writingSystemFromCharSet
