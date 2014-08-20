@@ -15,6 +15,7 @@ DECL|function|currentLoopTime
 DECL|function|currentTime
 DECL|function|direction
 DECL|function|elapsed
+DECL|function|elapsed
 DECL|function|ensureTimerUpdate
 DECL|function|event
 DECL|function|group
@@ -47,6 +48,7 @@ DECL|function|setState
 DECL|function|setTimingInterval
 DECL|function|start
 DECL|function|start
+DECL|function|startAnimationDriver
 DECL|function|startAnimationTimer
 DECL|function|startAnimations
 DECL|function|startTime
@@ -55,6 +57,7 @@ DECL|function|startTimers
 DECL|function|state
 DECL|function|stop
 DECL|function|stop
+DECL|function|stopAnimationDriver
 DECL|function|stopAnimationTimer
 DECL|function|stopTimer
 DECL|function|stopTimer
