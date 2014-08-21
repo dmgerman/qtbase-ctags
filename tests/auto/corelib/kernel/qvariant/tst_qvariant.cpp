@@ -62,6 +62,8 @@ DECL|function|compare
 DECL|function|compare
 DECL|function|compareCustomTypes
 DECL|function|comparePointers
+DECL|function|compareSanity
+DECL|function|compareSanity_data
 DECL|function|constData
 DECL|function|constructor
 DECL|function|constructor_invalid
