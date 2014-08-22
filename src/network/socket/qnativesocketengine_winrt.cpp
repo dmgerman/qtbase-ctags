@@ -13,6 +13,7 @@ DECL|function|close
 DECL|function|connectToHost
 DECL|function|connectToHostByName
 DECL|function|createNewSocket
+DECL|function|establishRead
 DECL|function|fetchConnectionParameters
 DECL|function|get_Capacity
 DECL|function|get_Length
