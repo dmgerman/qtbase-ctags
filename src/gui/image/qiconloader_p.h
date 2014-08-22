@@ -4,6 +4,8 @@ DECL|enumerator|Threshold
 DECL|enum|Type
 DECL|function|QIconDirInfo
 DECL|macro|QICONLOADER_P_H
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|basePixmap
 DECL|member|maxSize
 DECL|member|minSize
