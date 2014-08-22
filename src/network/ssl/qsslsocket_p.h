@@ -7,3 +7,4 @@ DECL|typedef|PtrCertOpenSystemStoreW
 DECL|typedef|PtrSecCertificateCopyData
 DECL|typedef|PtrSecTrustCopyAnchorCertificates
 DECL|typedef|PtrSecTrustSettingsCopyCertificates
+DECL|variable|QSslContext
