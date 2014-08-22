@@ -10,6 +10,7 @@ DECL|function|isSelfSigned
 DECL|function|issuerInfo
 DECL|function|issuerInfo
 DECL|function|issuerInfoAttributes
+DECL|function|matchLineFeed
 DECL|function|operator ==
 DECL|function|publicKey
 DECL|function|serialNumber
@@ -21,3 +22,5 @@ DECL|function|toDer
 DECL|function|toPem
 DECL|function|toText
 DECL|function|version
+DECL|macro|BEGINCERTSTRING
+DECL|macro|ENDCERTSTRING
