@@ -25,6 +25,8 @@ DECL|function|sizeConstraints
 DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|taskQTBUG_27420_takeAtShouldUnparentLayout
+DECL|function|taskQTBUG_40609_addingLayoutToItself
+DECL|function|taskQTBUG_40609_addingWidgetToItsOwnLayout
 DECL|function|taskQTBUG_7103_minMaxWidthNotRespected
 DECL|function|testLayoutEngine
 DECL|function|testLayoutEngine_data
