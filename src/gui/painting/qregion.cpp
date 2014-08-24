@@ -15,7 +15,6 @@ DECL|function|QRegion
 DECL|function|QRegion
 DECL|function|QRegionPrivate
 DECL|function|QRegionPrivate
-DECL|function|QRegionPrivate
 DECL|function|QRegionSpan
 DECL|function|QRegionSpan
 DECL|function|RectInRegion
@@ -86,7 +85,6 @@ DECL|function|operator -
 DECL|function|operator -=
 DECL|function|operator <<
 DECL|function|operator <<
-DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator >>
