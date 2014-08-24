@@ -55,6 +55,7 @@ DECL|function|indexOf
 DECL|function|indexOf2
 DECL|function|indexOf2_data
 DECL|function|indexOf3_data
+DECL|function|indexOfInvalidRegex
 DECL|function|indexOf_data
 DECL|function|inf
 DECL|function|insert
