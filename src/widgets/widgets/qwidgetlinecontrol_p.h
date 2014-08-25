@@ -1,2 +1,2 @@
 DECL|macro|DrawText
-DECL|macro|QWidgetLineControl_P_H
+DECL|macro|QWIDGETLINECONTROL_P_H
