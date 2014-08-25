@@ -94,4 +94,5 @@ DECL|member|faces
 DECL|member|library
 DECL|variable|char_table
 DECL|variable|char_table_entries
+DECL|variable|emptyGlyph
 DECL|variable|subpixel_filter
