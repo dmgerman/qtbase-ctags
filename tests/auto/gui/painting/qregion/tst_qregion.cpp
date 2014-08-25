@@ -14,6 +14,7 @@ DECL|function|intersects_region
 DECL|function|intersects_region_data
 DECL|function|isEmpty
 DECL|function|isEmpty_data
+DECL|function|moveSemantics
 DECL|function|operator_intersect
 DECL|function|operator_intersect_data
 DECL|function|operator_minus
