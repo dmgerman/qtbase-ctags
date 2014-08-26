@@ -109,6 +109,7 @@ DECL|function|verticalOffset
 DECL|function|virtualAutocompletion
 DECL|function|visualRect
 DECL|function|visualRegionForSelection
+DECL|function|wheelClosingPopup
 DECL|macro|GET_SELECTION
 DECL|macro|WHEEL_DELTA
 DECL|member|edit
