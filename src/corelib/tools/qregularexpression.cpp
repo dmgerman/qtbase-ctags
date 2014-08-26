@@ -42,6 +42,7 @@ DECL|function|errorString
 DECL|function|escape
 DECL|function|getPatternInfo
 DECL|function|globalMatch
+DECL|function|globalMatch
 DECL|function|hasMatch
 DECL|function|hasNext
 DECL|function|hasNext
@@ -51,6 +52,7 @@ DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid
 DECL|function|lastCapturedIndex
+DECL|function|match
 DECL|function|match
 DECL|function|matchOptions
 DECL|function|matchOptions

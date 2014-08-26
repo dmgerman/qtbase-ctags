@@ -41,6 +41,7 @@ DECL|function|regularExpressionMatch_data
 DECL|function|serialize
 DECL|function|serialize_data
 DECL|function|testMatch
+DECL|function|testMatchImpl
 DECL|function|validity
 DECL|function|validity_data
 DECL|function|verifyEquality
