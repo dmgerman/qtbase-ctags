@@ -10,6 +10,7 @@ DECL|function|clearFocusObject
 DECL|function|close
 DECL|function|contentOrientation
 DECL|function|create
+DECL|function|create
 DECL|function|cursor
 DECL|function|destroy
 DECL|function|devicePixelRatio
