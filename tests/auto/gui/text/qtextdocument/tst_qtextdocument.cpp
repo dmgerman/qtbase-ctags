@@ -26,6 +26,7 @@ DECL|function|basicIsModifiedChecks
 DECL|function|blockBoundingRect
 DECL|function|blockCount
 DECL|function|blockCountChanged
+DECL|function|buildRegExpData
 DECL|function|capitalizationHtmlInExport
 DECL|function|characterAt
 DECL|function|cleanup
@@ -58,6 +59,8 @@ DECL|function|find2
 DECL|function|findMultiple
 DECL|function|findWithRegExp
 DECL|function|findWithRegExp_data
+DECL|function|findWithRegularExpression
+DECL|function|findWithRegularExpression_data
 DECL|function|find_data
 DECL|function|firstLast
 DECL|function|frameBoundingRect

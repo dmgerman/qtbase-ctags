@@ -50,9 +50,12 @@ DECL|function|find
 DECL|function|find
 DECL|function|find
 DECL|function|find
+DECL|function|find
+DECL|function|find
 DECL|function|findBlock
 DECL|function|findBlockByLineNumber
 DECL|function|findBlockByNumber
+DECL|function|findInBlock
 DECL|function|findInBlock
 DECL|function|findUrlForImage
 DECL|function|firstBlock
