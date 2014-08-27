@@ -48,6 +48,8 @@ DECL|function|ignoreSslErrors
 DECL|function|ignoreSslErrors
 DECL|function|init
 DECL|function|isEncrypted
+DECL|function|isMatchingHostname
+DECL|function|isMatchingHostname
 DECL|function|isPaused
 DECL|function|localCertificate
 DECL|function|localCertificateChain
