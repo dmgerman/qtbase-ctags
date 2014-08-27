@@ -28,6 +28,7 @@ DECL|function|nativeLanguageName
 DECL|function|negativeSign
 DECL|function|pmText
 DECL|function|positiveSign
+DECL|function|qt_inIsoNametoLCID
 DECL|function|qt_localeFromLCID
 DECL|function|query
 DECL|function|substituteDigits
