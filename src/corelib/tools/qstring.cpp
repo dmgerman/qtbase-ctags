@@ -75,11 +75,13 @@ DECL|function|indexOf
 DECL|function|indexOf
 DECL|function|indexOf
 DECL|function|indexOf
+DECL|function|indexOf
 DECL|function|insert
 DECL|function|insert
 DECL|function|insert
 DECL|function|isRightToLeft
 DECL|function|isSimpleText
+DECL|function|lastIndexOf
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
