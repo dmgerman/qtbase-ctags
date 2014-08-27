@@ -4,5 +4,7 @@ DECL|function|flush
 DECL|function|pixmap
 DECL|function|present
 DECL|function|resizeSwapChain
+DECL|function|setWindowFlags
 DECL|function|setupBitmap
+DECL|function|setupSwapChain
 DECL|function|~QWindowsDirect2DWindow
