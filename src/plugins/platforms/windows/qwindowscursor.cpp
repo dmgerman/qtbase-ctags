@@ -19,6 +19,7 @@ DECL|function|isNull
 DECL|function|mousePosition
 DECL|function|operator =
 DECL|function|pixmapWindowCursor
+DECL|function|pos
 DECL|function|setPos
 DECL|function|standardCursorSize
 DECL|function|standardWindowCursor
