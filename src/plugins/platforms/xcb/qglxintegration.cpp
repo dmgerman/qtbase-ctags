@@ -10,6 +10,7 @@ DECL|function|isSharing
 DECL|function|isValid
 DECL|function|makeCurrent
 DECL|function|queryDummyContext
+DECL|function|screenForPlatformSurface
 DECL|function|supportsThreading
 DECL|function|swapBuffers
 DECL|function|updateFormatFromContext
