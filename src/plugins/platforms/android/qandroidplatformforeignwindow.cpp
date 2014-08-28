@@ -1,3 +1,6 @@
 DECL|function|QAndroidPlatformForeignWindow
+DECL|function|applicationStateChanged
 DECL|function|setGeometry
+DECL|function|setParent
+DECL|function|setVisible
 DECL|function|~QAndroidPlatformForeignWindow
