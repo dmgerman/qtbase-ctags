@@ -16,7 +16,6 @@ DECL|function|toEncryptedPemOrDer
 DECL|function|toEncryptedPemOrDer_data
 DECL|function|toPemOrDer
 DECL|function|toPemOrDer_data
-DECL|macro|WINRT_EXPECT_FAILURES
 DECL|member|algorithm
 DECL|member|fileInfo
 DECL|member|format
