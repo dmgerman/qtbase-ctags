@@ -1,7 +1,9 @@
+DECL|class|ColoredWindow
 DECL|class|InputTestWindow
 DECL|class|TabletTestWindow
 DECL|class|Window
 DECL|class|tst_QWindow
+DECL|function|ColoredWindow
 DECL|function|InputTestWindow
 DECL|function|TabletTestWindow
 DECL|function|Window
@@ -18,6 +20,7 @@ DECL|function|initialSize
 DECL|function|inputReentrancy
 DECL|function|isActive
 DECL|function|isExposed
+DECL|function|isNativeWindowVisible
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
 DECL|function|mapGlobal
@@ -54,6 +57,7 @@ DECL|function|touchToMouseTranslation
 DECL|function|visibility
 DECL|function|windowModality
 DECL|function|windowModality_QTBUG27039
+DECL|function|windowsTransientChildren
 DECL|member|eventDevice
 DECL|member|eventGlobal
 DECL|member|eventLocal
@@ -63,6 +67,7 @@ DECL|member|ignoreTouch
 DECL|member|keyPressCode
 DECL|member|keyReleaseCode
 DECL|member|m_availableTopLeft
+DECL|member|m_color
 DECL|member|m_exposeRegion
 DECL|member|m_order
 DECL|member|m_received
