@@ -12,6 +12,7 @@ DECL|function|drawComplexControl
 DECL|function|drawControl
 DECL|function|drawPrimitive
 DECL|function|eventFilter
+DECL|function|fixedPixelMetric
 DECL|function|hasSeenAlt
 DECL|function|pixelMetric
 DECL|function|pixelMetricFromSystemDp

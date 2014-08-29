@@ -10,6 +10,7 @@ DECL|function|deleteClonedAnimationStyleOption
 DECL|function|drawComplexControl
 DECL|function|drawControl
 DECL|function|drawPrimitive
+DECL|function|fixedPixelMetric
 DECL|function|hitTestComplexControl
 DECL|function|initTreeViewTheming
 DECL|function|isUpdateNeeded
