@@ -24,9 +24,11 @@ DECL|function|isValid
 DECL|function|mask
 DECL|function|operator <
 DECL|function|pixelMetric
+DECL|function|pixelMetricFromSystemDp
 DECL|function|polish
 DECL|function|polish
 DECL|function|polish
+DECL|function|progressBarOrientation
 DECL|function|qt_add_rect
 DECL|function|qt_hrgn_from_qregion
 DECL|function|region

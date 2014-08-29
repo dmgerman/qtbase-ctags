@@ -6,8 +6,14 @@ DECL|enum|AlphaChannelType
 DECL|function|ThemeMapData
 DECL|function|ThemeMapKey
 DECL|function|ThemeMapKey
+DECL|function|margins
+DECL|function|margins
 DECL|function|operator
 DECL|function|qHash
+DECL|function|size
+DECL|function|themeMargins
+DECL|function|themeMargins
+DECL|function|themeSize
 DECL|macro|BT_BORDERFILL
 DECL|macro|BT_IMAGEFILE
 DECL|macro|BT_NONE

@@ -6,6 +6,7 @@ DECL|enum|QSliderDirection
 DECL|function|QWindowsStyle
 DECL|function|QWindowsStyle
 DECL|function|QWindowsStylePrivate
+DECL|function|appDevicePixelRatio
 DECL|function|colorref2qrgb
 DECL|function|drawComplexControl
 DECL|function|drawControl
@@ -13,6 +14,7 @@ DECL|function|drawPrimitive
 DECL|function|eventFilter
 DECL|function|hasSeenAlt
 DECL|function|pixelMetric
+DECL|function|pixelMetricFromSystemDp
 DECL|function|polish
 DECL|function|polish
 DECL|function|polish
@@ -35,6 +37,7 @@ DECL|member|cbSize
 DECL|member|hIcon
 DECL|member|iIcon
 DECL|member|iSysImageIndex
+DECL|member|m_appDevicePixelRatio
 DECL|member|szPath
 DECL|typedef|PtrSHGetStockIconInfo
 DECL|typedef|QSHSTOCKICONINFO
