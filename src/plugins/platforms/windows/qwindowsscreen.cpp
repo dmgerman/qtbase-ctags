@@ -1,6 +1,7 @@
 DECL|function|QWindowsScreen
 DECL|function|QWindowsScreenData
 DECL|function|QWindowsScreenManager
+DECL|function|clearScreens
 DECL|function|deviceDPI
 DECL|function|deviceDPI
 DECL|function|deviceSizeMM
