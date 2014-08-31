@@ -108,6 +108,8 @@ DECL|member|regularExpression
 DECL|member|stack
 DECL|member|studyData
 DECL|member|subject
+DECL|member|subjectLength
+DECL|member|subjectStart
 DECL|member|usedCount
 DECL|member|usingCrLfNewlines
 DECL|struct|QRegularExpressionMatchIteratorPrivate
