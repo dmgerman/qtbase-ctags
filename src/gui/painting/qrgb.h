@@ -5,7 +5,8 @@ DECL|function|qGray
 DECL|function|qGreen
 DECL|function|qIsGray
 DECL|function|qPremultiply
-DECL|function|qPremultiply
+DECL|function|qPremultiply_impl
+DECL|function|qPremultiply_impl
 DECL|function|qRed
 DECL|function|qRgb
 DECL|function|qRgba
