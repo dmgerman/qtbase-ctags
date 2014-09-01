@@ -70,7 +70,6 @@ DECL|method|getAppIconSize
 DECL|method|hasPermanentMenuKey
 DECL|method|hideSoftwareKeyboard
 DECL|method|insertNativeView
-DECL|method|isSoftwareKeyboardVisible
 DECL|method|loadApplication
 DECL|method|onActivityResult
 DECL|method|onConfigurationChanged
