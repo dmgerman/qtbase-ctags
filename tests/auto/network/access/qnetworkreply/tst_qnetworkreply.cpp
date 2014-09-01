@@ -260,6 +260,7 @@ DECL|function|putGetDeleteGetFromHttp_data
 DECL|function|putToFile
 DECL|function|putToFile_data
 DECL|function|putToFtp
+DECL|function|putToFtpWithInvalidCredentials
 DECL|function|putToFtp_data
 DECL|function|putToHttp
 DECL|function|putToHttpMultipart
