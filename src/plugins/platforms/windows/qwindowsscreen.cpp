@@ -11,9 +11,12 @@ DECL|function|handleDisplayChange
 DECL|function|handleScreenChanges
 DECL|function|indexOfMonitor
 DECL|function|indexOfMonitor
+DECL|function|maxMonitorHorizResolution
 DECL|function|monitorDPI
 DECL|function|monitorData
+DECL|function|monitorData
 DECL|function|monitorEnumCallback
+DECL|function|monitorResolutionEnumCallback
 DECL|function|operator <<
 DECL|function|removeScreen
 DECL|function|screenOf

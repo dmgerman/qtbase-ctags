@@ -23,8 +23,6 @@ DECL|function|id_function
 DECL|function|importPKCS12
 DECL|function|initLock
 DECL|function|initSslContext
-DECL|function|isMatchingHostname
-DECL|function|isMatchingHostname
 DECL|function|lock
 DECL|function|locking_function
 DECL|function|q_X509Callback

@@ -1,0 +1,26 @@
+DECL|function|certificatesFromDer
+DECL|function|certificatesFromPem
+DECL|function|effectiveDate
+DECL|function|expiryDate
+DECL|function|extensions
+DECL|function|handle
+DECL|function|init
+DECL|function|isNull
+DECL|function|isSelfSigned
+DECL|function|issuerInfo
+DECL|function|issuerInfo
+DECL|function|issuerInfoAttributes
+DECL|function|matchLineFeed
+DECL|function|operator ==
+DECL|function|publicKey
+DECL|function|serialNumber
+DECL|function|subjectAlternativeNames
+DECL|function|subjectInfo
+DECL|function|subjectInfo
+DECL|function|subjectInfoAttributes
+DECL|function|toDer
+DECL|function|toPem
+DECL|function|toText
+DECL|function|version
+DECL|macro|BEGINCERTSTRING
+DECL|macro|ENDCERTSTRING

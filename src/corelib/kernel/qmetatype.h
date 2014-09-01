@@ -62,6 +62,7 @@ DECL|struct|QMetaTypeId2
 DECL|struct|T
 DECL|struct|T
 DECL|struct|true
+DECL|typedef|QByteArrayList
 DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QVariantHash

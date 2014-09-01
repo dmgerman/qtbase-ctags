@@ -12,7 +12,9 @@ DECL|function|isDetached
 DECL|function|javaIterator
 DECL|function|javaMutableIterator
 DECL|function|makeSureTheComfortFunctionsCompile
+DECL|function|operator ==
 DECL|function|operator_eq
+DECL|function|qHash
 DECL|function|remove
 DECL|function|reserve
 DECL|function|setOperations
@@ -22,3 +24,6 @@ DECL|function|stlIterator
 DECL|function|stlMutableIterator
 DECL|function|swap
 DECL|function|toNumber
+DECL|member|id
+DECL|member|value
+DECL|struct|IdentityTracker

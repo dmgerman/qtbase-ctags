@@ -14,4 +14,5 @@ DECL|variable|QStringList
 DECL|variable|node_
 DECL|variable|priority_
 DECL|variable|ref_
+DECL|variable|title_
 DECL|variable|type_

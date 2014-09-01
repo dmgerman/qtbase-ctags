@@ -1,10 +1,10 @@
-DECL|function|XInput2DeviceData
-DECL|function|deviceForId
+DECL|function|XInput2TouchDeviceData
 DECL|function|finalizeXInput2
 DECL|function|fixed1616ToReal
 DECL|function|handleEnterEvent
 DECL|function|initializeXInput2
 DECL|function|toolIdToTabletDevice
+DECL|function|touchDeviceForId
 DECL|function|valuatorNormalized
 DECL|function|xi2HandleEvent
 DECL|function|xi2HandleHierachyEvent
@@ -21,4 +21,4 @@ DECL|member|pointPressedPosition
 DECL|member|qtTouchDevice
 DECL|member|size
 DECL|member|xiDeviceInfo
-DECL|struct|XInput2DeviceData
+DECL|struct|XInput2TouchDeviceData

@@ -35,7 +35,9 @@ DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==
+DECL|function|operator ==
 DECL|function|operator_eq
+DECL|function|qHash
 DECL|function|qHash
 DECL|function|qHash
 DECL|function|qHash
@@ -67,9 +69,12 @@ DECL|member|count
 DECL|member|count
 DECL|member|count
 DECL|member|data
+DECL|member|id
 DECL|member|j
 DECL|member|str
+DECL|member|value
 DECL|struct|Foo
+DECL|struct|IdentityTracker
 DECL|struct|OneArgumentQHashStruct1
 DECL|struct|OneArgumentQHashStruct2
 DECL|struct|OneArgumentQHashStruct3

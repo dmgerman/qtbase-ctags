@@ -10,13 +10,14 @@ DECL|function|equalsOperator
 DECL|function|initTestCase
 DECL|function|length
 DECL|function|length_data
+DECL|function|noPassphraseChecks
 DECL|function|passphraseChecks
+DECL|function|passphraseChecks_data
 DECL|function|readFile
 DECL|function|toEncryptedPemOrDer
 DECL|function|toEncryptedPemOrDer_data
 DECL|function|toPemOrDer
 DECL|function|toPemOrDer_data
-DECL|macro|WINRT_EXPECT_FAILURES
 DECL|member|algorithm
 DECL|member|fileInfo
 DECL|member|format

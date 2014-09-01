@@ -1,10 +1,14 @@
 DECL|function|QXcbScreen
 DECL|function|cursor
 DECL|function|depthOfVisual
+DECL|function|devicePixelRatio
 DECL|function|format
 DECL|function|grabWindow
 DECL|function|handleScreenChange
 DECL|function|logicalDpi
+DECL|function|parseXftHintStyle
+DECL|function|parseXftInt
+DECL|function|parseXftRgba
 DECL|function|readXResources
 DECL|function|sendStartupMessage
 DECL|function|topLevelAt

@@ -63,7 +63,6 @@ DECL|function|fill
 DECL|function|fill
 DECL|function|fillRect
 DECL|function|fontFaceFromFontEngine
-DECL|function|fontSizeInDIP
 DECL|function|geometry
 DECL|function|interpolationMode
 DECL|function|isInFigure
@@ -74,7 +73,6 @@ DECL|function|negateCurrentBrushOrigin
 DECL|function|opacityChanged
 DECL|function|penChanged
 DECL|function|pixelSizeToDIP
-DECL|function|pointSizeToDIP
 DECL|function|pushClip
 DECL|function|rasterFill
 DECL|function|renderHintsChanged

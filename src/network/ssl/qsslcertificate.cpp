@@ -12,6 +12,7 @@ DECL|function|isBlacklisted
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator =
+DECL|function|parse
 DECL|function|subjectInfoToString
 DECL|function|verify
 DECL|function|~QSslCertificate

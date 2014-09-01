@@ -78,6 +78,7 @@ DECL|member|imageFiles
 DECL|member|imgFileExts
 DECL|member|noLinkErrors_
 DECL|member|outDir_
+DECL|member|outFileNames_
 DECL|member|outSubdir_
 DECL|member|outputFormats
 DECL|member|outputPrefixes
@@ -90,4 +91,3 @@ DECL|member|sinceTitles
 DECL|member|styleDirs
 DECL|member|styleFiles
 DECL|member|useOutputSubdirs_
-DECL|variable|outFileNames

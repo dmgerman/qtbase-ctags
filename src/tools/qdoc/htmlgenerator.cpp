@@ -18,7 +18,6 @@ DECL|function|generateBrief
 DECL|function|generateClassHierarchy
 DECL|function|generateClassLikeNode
 DECL|function|generateCollectionNode
-DECL|function|generateCollisionPages
 DECL|function|generateCompactList
 DECL|function|generateDetailedMember
 DECL|function|generateDetailedQmlMember
@@ -44,6 +43,7 @@ DECL|function|generateQmlBasicTypePage
 DECL|function|generateQmlInherits
 DECL|function|generateQmlInstantiates
 DECL|function|generateQmlItem
+DECL|function|generateQmlMemberFile
 DECL|function|generateQmlRequisites
 DECL|function|generateQmlSummary
 DECL|function|generateQmlTypePage
@@ -76,7 +76,6 @@ DECL|function|~HtmlGenerator
 DECL|macro|APPEND
 DECL|macro|APPEND
 DECL|macro|COMMAND_VERSION
-DECL|macro|DEBUG_ABSTRACT
 DECL|member|debugging_on
 DECL|member|divNavTop
 DECL|member|id

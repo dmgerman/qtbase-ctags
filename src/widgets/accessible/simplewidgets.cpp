@@ -64,7 +64,6 @@ DECL|function|text
 DECL|function|text
 DECL|function|text
 DECL|function|text
-DECL|function|text
 DECL|function|textAfterOffset
 DECL|function|textAtOffset
 DECL|function|textBeforeOffset

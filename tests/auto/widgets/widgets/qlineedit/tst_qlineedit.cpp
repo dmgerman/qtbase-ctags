@@ -43,6 +43,7 @@ DECL|function|cursorPosition
 DECL|function|cursorPositionChanged
 DECL|function|cursorPositionChanged_data
 DECL|function|cut
+DECL|function|cutWithoutSelection
 DECL|function|deleteSelectedText
 DECL|function|displayText
 DECL|function|displayText_data

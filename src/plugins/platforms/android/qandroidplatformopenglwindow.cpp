@@ -5,6 +5,7 @@ DECL|function|clearEgl
 DECL|function|createEgl
 DECL|function|eglSurface
 DECL|function|format
+DECL|function|repaint
 DECL|function|setGeometry
 DECL|function|surfaceChanged
 DECL|function|~QAndroidPlatformOpenGLWindow

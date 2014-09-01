@@ -1,0 +1,1 @@
+DECL|macro|QASN1ELEMENT_P_H

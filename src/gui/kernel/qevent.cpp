@@ -80,6 +80,7 @@ DECL|function|modifiers
 DECL|function|mouseButtonToString
 DECL|function|mouseButtonsToString
 DECL|function|mouseEventSourceToString
+DECL|function|nativeGestureTypeToString
 DECL|function|normalizedPos
 DECL|function|openFile
 DECL|function|operator <<

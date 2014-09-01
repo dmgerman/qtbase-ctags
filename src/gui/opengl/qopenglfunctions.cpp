@@ -202,6 +202,7 @@ DECL|function|qopenglfTranslateDepthRangef
 DECL|function|qt_gl_functions
 DECL|function|qt_gl_resolve_extensions
 DECL|function|qt_gl_resolve_features
+DECL|macro|GL_FRAMEBUFFER_SRGB_CAPABLE_EXT
 DECL|macro|RESOLVER_COMMON
 DECL|macro|RESOLVER_COMMON_NON_VOID
 DECL|macro|RESOLVER_COMMON_VOID
