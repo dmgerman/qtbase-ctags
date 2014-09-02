@@ -42,7 +42,6 @@ DECL|function|hash
 DECL|function|hash
 DECL|function|hash
 DECL|function|hash
-DECL|function|hash
 DECL|function|indexForFormat
 DECL|function|insertProperty
 DECL|function|intProperty
