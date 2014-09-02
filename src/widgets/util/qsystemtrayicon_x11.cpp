@@ -10,6 +10,7 @@ DECL|function|isSystemTrayAvailable_sys
 DECL|function|locateSystemTray
 DECL|function|mouseDoubleClickEvent
 DECL|function|mousePressEvent
+DECL|function|moveEvent
 DECL|function|paintEvent
 DECL|function|remove_sys
 DECL|function|resizeEvent

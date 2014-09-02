@@ -27,6 +27,7 @@ DECL|function|showMessage_sys_qpa
 DECL|function|supportsMessages
 DECL|function|timerEvent
 DECL|function|toolTip
+DECL|function|updateBalloonPosition
 DECL|function|updateIcon_sys_qpa
 DECL|function|updateMenu_sys_qpa
 DECL|function|updateToolTip_sys_qpa
