@@ -7,6 +7,7 @@ DECL|function|read
 DECL|function|read
 DECL|function|toDateTime
 DECL|function|toInfo
+DECL|function|toInteger
 DECL|function|toObjectId
 DECL|function|toObjectName
 DECL|function|toString
