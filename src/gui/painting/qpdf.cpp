@@ -31,6 +31,7 @@ DECL|function|generateLinearGradientShader
 DECL|function|generateMatrix
 DECL|function|generatePath
 DECL|function|gradientBrush
+DECL|function|is_monochrome
 DECL|function|lineToHook
 DECL|function|metric
 DECL|function|moveToHook
