@@ -51,6 +51,7 @@ DECL|field|m_nativeViews
 DECL|field|m_optionsMenuIsVisible
 DECL|field|m_quitApp
 DECL|field|m_showHideTimeStamp
+DECL|field|m_softInputMode
 DECL|field|m_started
 DECL|field|m_super_dispatchKeyEvent
 DECL|field|m_super_onActivityResult
