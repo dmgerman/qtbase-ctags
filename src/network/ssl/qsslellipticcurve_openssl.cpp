@@ -1,0 +1,9 @@
+DECL|function|fromShortName
+DECL|function|isTlsNamedCurve
+DECL|function|longName
+DECL|function|shortName
+DECL|macro|NID_brainpoolP256r1
+DECL|macro|NID_brainpoolP384r1
+DECL|macro|NID_brainpoolP512r1
+DECL|variable|tlsNamedCurveNIDCount
+DECL|variable|tlsNamedCurveNIDs

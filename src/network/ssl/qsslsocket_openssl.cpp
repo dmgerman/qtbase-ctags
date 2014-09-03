@@ -27,6 +27,7 @@ DECL|function|lock
 DECL|function|locking_function
 DECL|function|q_X509Callback
 DECL|function|resetDefaultCiphers
+DECL|function|resetDefaultEllipticCurves
 DECL|function|sessionCipher
 DECL|function|sessionProtocol
 DECL|function|setupOpenSslOptions

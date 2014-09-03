@@ -4,6 +4,7 @@ DECL|function|allowedNextProtocols
 DECL|function|caCertificates
 DECL|function|ciphers
 DECL|function|defaultConfiguration
+DECL|function|ellipticCurves
 DECL|function|isNull
 DECL|function|localCertificate
 DECL|function|localCertificateChain
@@ -26,6 +27,7 @@ DECL|function|setAllowedNextProtocols
 DECL|function|setCaCertificates
 DECL|function|setCiphers
 DECL|function|setDefaultConfiguration
+DECL|function|setEllipticCurves
 DECL|function|setLocalCertificate
 DECL|function|setLocalCertificateChain
 DECL|function|setPeerVerifyDepth
