@@ -2,6 +2,8 @@ DECL|class|tst_QAsn1Element
 DECL|function|dateTime
 DECL|function|dateTime_data
 DECL|function|emptyConstructor
+DECL|function|equals
+DECL|function|equals_data
 DECL|function|integer
 DECL|function|integer_data
 DECL|function|invalid
@@ -10,3 +12,5 @@ DECL|function|objectIdentifier
 DECL|function|objectIdentifier_data
 DECL|function|octetString
 DECL|function|octetString_data
+DECL|function|toBool
+DECL|function|toBool_data
