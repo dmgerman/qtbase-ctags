@@ -1,4 +1,5 @@
 DECL|function|QDesktopWidget
+DECL|function|_q_availableGeometryChanged
 DECL|function|_q_updateScreens
 DECL|function|availableGeometry
 DECL|function|availableGeometry
