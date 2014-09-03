@@ -4,6 +4,7 @@ DECL|function|_q_removeAnimation
 DECL|function|animation
 DECL|function|animationTargets
 DECL|function|calcArrow
+DECL|function|cbegin
 DECL|function|drawArrow
 DECL|function|drawComplexControl
 DECL|function|drawControl
@@ -11,11 +12,13 @@ DECL|function|drawPrimitive
 DECL|function|generatedIconPixmap
 DECL|function|hitTestComplexControl
 DECL|function|layoutSpacing
+DECL|function|operator []
 DECL|function|pixelMetric
 DECL|function|polish
 DECL|function|polish
 DECL|function|polish
 DECL|function|qt_intensity
+DECL|function|size
 DECL|function|sizeFromContents
 DECL|function|standardIcon
 DECL|function|standardPixmap
@@ -32,3 +35,5 @@ DECL|function|viewItemLayout
 DECL|function|viewItemSize
 DECL|function|viewItemTextLayout
 DECL|function|~QCommonStyle
+DECL|member|data
+DECL|struct|StaticPolygonF
