@@ -1,0 +1,7 @@
+DECL|variable|QIOSInputContext
+DECL|variable|UIKeyInput
+DECL|variable|UITextInputTraits
+DECL|variable|autocorrectionType
+DECL|variable|enablesReturnKeyAutomatically
+DECL|variable|keyboardType
+DECL|variable|secureTextEntry
