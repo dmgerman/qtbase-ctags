@@ -3,3 +3,4 @@ DECL|variable|QPainter
 DECL|variable|QPixmap
 DECL|variable|QStyleOption
 DECL|variable|QStyleOptionSlider
+DECL|variable|QWindow
