@@ -1,5 +1,6 @@
 DECL|enumerator|DeepNesting
 DECL|enumerator|DocumentTooLarge
+DECL|enumerator|GarbageAtEnd
 DECL|enumerator|IllegalEscapeSequence
 DECL|enumerator|IllegalNumber
 DECL|enumerator|IllegalUTF8String

@@ -16,6 +16,7 @@ DECL|function|fromJson
 DECL|function|fromJsonErrors
 DECL|function|fromVariant
 DECL|function|fromVariantMap
+DECL|function|garbageAtEnd
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|keySorting
