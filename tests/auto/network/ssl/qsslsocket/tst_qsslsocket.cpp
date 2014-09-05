@@ -72,7 +72,6 @@ DECL|function|newSocket
 DECL|function|onReadyReadFirstBytes
 DECL|function|peerCertificate
 DECL|function|peerCertificateChain
-DECL|function|peerVerifyError
 DECL|function|privateKey
 DECL|function|privateKeyOpaque
 DECL|function|protocol
@@ -128,6 +127,8 @@ DECL|function|wildcardCertificateNames
 DECL|function|writeBigChunk
 DECL|function|~ThreadedSslServer
 DECL|function|~tst_QSslSocket
+DECL|macro|FLUKE_CERTIFICATE_ERROR
+DECL|macro|FLUKE_CERTIFICATE_ERROR
 DECL|macro|QSSLSOCKET_CERTUNTRUSTED_WORKAROUND
 DECL|member|ciphers
 DECL|member|dataReadSemaphore
