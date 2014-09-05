@@ -68,6 +68,7 @@ DECL|function|toVariantMap
 DECL|function|tst_QtJson
 DECL|function|undefinedKeys
 DECL|function|undefinedValues
+DECL|function|unicodeKeys
 DECL|function|validation
 DECL|function|valueEquals
 DECL|macro|INVALID_UNICODE
