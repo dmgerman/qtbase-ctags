@@ -1,0 +1,13 @@
+DECL|class|tst_qtextstream
+DECL|enumerator|CharInput
+DECL|enumerator|CharStarInput
+DECL|enumerator|DeviceOutput
+DECL|enumerator|QCharInput
+DECL|enumerator|QStringInput
+DECL|enumerator|StringOutput
+DECL|enum|Input
+DECL|enum|Output
+DECL|function|writeSingleChar
+DECL|function|writeSingleChar_data
+DECL|variable|Input
+DECL|variable|Output
