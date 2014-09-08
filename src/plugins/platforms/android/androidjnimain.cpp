@@ -4,6 +4,8 @@ DECL|function|androidPlatformIntegration
 DECL|function|applicationClass
 DECL|function|assetManager
 DECL|function|blockEventLoopsWhenSuspended
+DECL|function|bringChildToBack
+DECL|function|bringChildToFront
 DECL|function|classErrorMsgFmt
 DECL|function|createBitmap
 DECL|function|createBitmap

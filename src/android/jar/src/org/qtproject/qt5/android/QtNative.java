@@ -19,6 +19,8 @@ DECL|field|m_oldy
 DECL|field|m_started
 DECL|method|activity
 DECL|method|activityDelegate
+DECL|method|bringChildToBack
+DECL|method|bringChildToFront
 DECL|method|classLoader
 DECL|method|clearLostActions
 DECL|method|closeContextMenu
