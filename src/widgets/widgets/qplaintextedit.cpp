@@ -139,6 +139,7 @@ DECL|function|verticalOffset
 DECL|function|wheelEvent
 DECL|function|wordWrapMode
 DECL|function|zoomIn
+DECL|function|zoomInF
 DECL|function|zoomOut
 DECL|function|~QPlainTextDocumentLayout
 DECL|function|~QPlainTextEdit

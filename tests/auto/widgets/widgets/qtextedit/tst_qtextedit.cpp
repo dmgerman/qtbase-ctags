@@ -4,6 +4,7 @@ DECL|class|PublicTextEdit
 DECL|class|QtTestDocumentLayout
 DECL|class|SignalReceiver
 DECL|class|TestEdit
+DECL|class|TextEdit
 DECL|class|UndoRedoRecorder
 DECL|class|tst_QTextEdit
 DECL|function|CursorPositionChangedRecorder
@@ -11,6 +12,7 @@ DECL|function|MyTextEdit
 DECL|function|QtTestDocumentLayout
 DECL|function|SignalReceiver
 DECL|function|TestEdit
+DECL|function|TextEdit
 DECL|function|UndoRedoRecorder
 DECL|function|adjustScrollbars
 DECL|function|appendOnEmptyDocumentShouldReuseInitialParagraph
@@ -131,6 +133,8 @@ DECL|function|undoRedo
 DECL|function|undoRedoAfterSetContent
 DECL|function|undoRedoAvailableRepetition
 DECL|function|undoRedoShouldRepositionTextEditCursor
+DECL|function|wheelEvent
+DECL|function|wheelEvent
 DECL|function|wordWrapProperty
 DECL|macro|ff
 DECL|member|canInsertCallCount
