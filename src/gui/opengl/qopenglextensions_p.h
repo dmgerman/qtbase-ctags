@@ -1,4 +1,5 @@
 DECL|function|glBlitFramebuffer
+DECL|function|glDiscardFramebufferEXT
 DECL|function|glGetBufferSubData
 DECL|function|glMapBuffer
 DECL|function|glMapBufferRange

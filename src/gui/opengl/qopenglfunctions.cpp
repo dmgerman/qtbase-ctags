@@ -84,6 +84,7 @@ DECL|function|qopenglfResolveDepthRangef
 DECL|function|qopenglfResolveDetachShader
 DECL|function|qopenglfResolveDisable
 DECL|function|qopenglfResolveDisableVertexAttribArray
+DECL|function|qopenglfResolveDiscardFramebuffer
 DECL|function|qopenglfResolveDrawArrays
 DECL|function|qopenglfResolveDrawElements
 DECL|function|qopenglfResolveEnable
