@@ -48,4 +48,5 @@ DECL|member|systemFont
 DECL|member|systemFont
 DECL|member|toolBarIconSize
 DECL|member|toolButtonStyle
+DECL|member|wheelScrollLines
 DECL|variable|defaultSystemFontNameC
