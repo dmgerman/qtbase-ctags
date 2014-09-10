@@ -1,0 +1,4 @@
+DECL|function|Q_DECLARE_LOGGING_CATEGORY
+DECL|variable|QOffscreenSurface
+DECL|variable|QPlatformOffscreenSurface
+DECL|variable|QXcbNativeInterfaceHandler

@@ -1,0 +1,2 @@
+DECL|macro|QXCBGLXINTEGRATION_H
+DECL|variable|QXcbNativeInterfaceHandler

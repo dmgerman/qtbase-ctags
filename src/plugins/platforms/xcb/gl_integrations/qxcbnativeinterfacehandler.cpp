@@ -1,0 +1,8 @@
+DECL|function|QXcbNativeInterfaceHandler
+DECL|function|nativeResourceFunctionForBackingStore
+DECL|function|nativeResourceFunctionForContext
+DECL|function|nativeResourceFunctionForIntegration
+DECL|function|nativeResourceFunctionForScreen
+DECL|function|nativeResourceFunctionForWindow
+DECL|function|platformFunction
+DECL|function|~QXcbNativeInterfaceHandler

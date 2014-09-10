@@ -1,0 +1,6 @@
+DECL|function|QXcbEglIntegration
+DECL|function|createPlatformOffscreenSurface
+DECL|function|createPlatformOpenGLContext
+DECL|function|createWindow
+DECL|function|initialize
+DECL|function|~QXcbEglIntegration

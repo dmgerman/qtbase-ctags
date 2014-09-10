@@ -1,0 +1,2 @@
+DECL|macro|QXCBEGLWINDOW_H
+DECL|variable|QXcbEglIntegration

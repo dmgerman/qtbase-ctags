@@ -1,0 +1,5 @@
+DECL|function|QXcbGlxNativeInterfaceHandler
+DECL|function|glxConfigForContext
+DECL|function|glxContextForContext
+DECL|function|nativeResourceFunctionForContext
+DECL|function|resourceType
