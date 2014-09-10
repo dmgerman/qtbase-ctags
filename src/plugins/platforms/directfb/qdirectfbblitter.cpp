@@ -6,6 +6,7 @@ DECL|function|dfb_blitter_capabilities
 DECL|function|doLock
 DECL|function|doUnlock
 DECL|function|drawCachedGlyphs
+DECL|function|drawDebugRect
 DECL|function|drawPixmap
 DECL|function|drawPixmapOpacity
 DECL|function|fillRect

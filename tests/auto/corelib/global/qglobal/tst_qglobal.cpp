@@ -12,6 +12,7 @@ DECL|enum|isEnum_B_Byte
 DECL|enum|isEnum_B_Int
 DECL|enum|isEnum_B_Short
 DECL|function|MyTrue
+DECL|function|buildAbiEndianness
 DECL|function|checkptr
 DECL|function|foo
 DECL|function|for_each

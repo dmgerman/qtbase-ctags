@@ -47,6 +47,7 @@ DECL|function|~Buffer11
 DECL|function|~BufferStorage11
 DECL|function|~NativeBuffer11
 DECL|function|~PackStorage11
+DECL|macro|D3D11_MAP_FLAG_DO_NOT_WAIT
 DECL|member|mBufferSize
 DECL|member|mDataModified
 DECL|member|mMemoryBuffer

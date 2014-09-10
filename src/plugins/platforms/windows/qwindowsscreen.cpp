@@ -4,7 +4,6 @@ DECL|function|QWindowsScreenManager
 DECL|function|deviceDPI
 DECL|function|deviceDPI
 DECL|function|deviceSizeMM
-DECL|function|findTopLevelAt
 DECL|function|grabWindow
 DECL|function|handleChanges
 DECL|function|handleDisplayChange
@@ -17,11 +16,12 @@ DECL|function|monitorData
 DECL|function|monitorData
 DECL|function|monitorEnumCallback
 DECL|function|monitorResolutionEnumCallback
+DECL|function|moveToVirtualScreen
 DECL|function|operator <<
 DECL|function|removeScreen
 DECL|function|screenOf
 DECL|function|sharedCursor
+DECL|function|topLevelAt
 DECL|function|virtualSiblings
 DECL|function|windowAt
-DECL|function|windowUnderMouse
 DECL|typedef|WindowsScreenDataList

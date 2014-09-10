@@ -1,3 +1,7 @@
+DECL|enumerator|Running
+DECL|enumerator|StopRequest
+DECL|enumerator|Stopping
+DECL|enum|States
 DECL|function|QAndroidEventDispatcher
 DECL|function|addEventDispatcher
 DECL|function|goingToStop

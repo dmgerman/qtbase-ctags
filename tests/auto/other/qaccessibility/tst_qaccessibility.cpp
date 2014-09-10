@@ -1,15 +1,7 @@
 DECL|class|CounterButton
-DECL|class|KFooButton
-DECL|class|QtTestAccessibleWidget
-DECL|class|QtTestAccessibleWidgetIface
-DECL|class|QtTestAccessibleWidgetSubclass
 DECL|class|tst_QAccessibility
 DECL|function|CounterButton
 DECL|function|IsValidCEPlatform
-DECL|function|KFooButton
-DECL|function|QtTestAccessibleWidget
-DECL|function|QtTestAccessibleWidgetIface
-DECL|function|QtTestAccessibleWidgetSubclass
 DECL|function|abstractScrollAreaTest
 DECL|function|accelerators
 DECL|function|accessibleInterfaceAbove
@@ -36,7 +28,6 @@ DECL|function|eventTest
 DECL|function|fuzzyRectCompare
 DECL|function|groupBoxTest
 DECL|function|hideShowTest
-DECL|function|ifaceFactory
 DECL|function|incClickCount
 DECL|function|indexOfChild
 DECL|function|init
@@ -66,11 +57,12 @@ DECL|function|subclassedWidget
 DECL|function|tabTest
 DECL|function|tabWidgetTest
 DECL|function|tableTest
-DECL|function|text
 DECL|function|textAttributes
 DECL|function|textAttributes_data
 DECL|function|textBrowserTest
 DECL|function|textEditTest
+DECL|function|textInterfaceTest
+DECL|function|textInterfaceTest_data
 DECL|function|treeTest
 DECL|function|tst_QAccessibility
 DECL|function|verifyChild

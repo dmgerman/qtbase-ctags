@@ -283,6 +283,7 @@ DECL|function|removeFromGroup
 DECL|function|renderSceneToImage
 DECL|function|reset
 DECL|function|reset
+DECL|function|resolvePaletteForItemChildren
 DECL|function|scene
 DECL|function|sceneBoundingRect
 DECL|function|sceneEvent

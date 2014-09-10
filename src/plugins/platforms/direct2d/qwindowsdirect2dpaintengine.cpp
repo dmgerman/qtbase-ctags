@@ -106,6 +106,7 @@ DECL|member|clipFlags
 DECL|member|currentBrushOrigin
 DECL|member|emulate
 DECL|member|emulate
+DECL|member|flags
 DECL|member|fontCache
 DECL|member|m_geometry
 DECL|member|m_inFigure

@@ -1,5 +1,10 @@
+DECL|enumerator|DnsNameType
+DECL|enumerator|Rfc822NameType
+DECL|enumerator|UniformResourceIdentifierType
+DECL|enum|GeneralNameType
 DECL|function|certificatesFromDer
 DECL|function|certificatesFromPem
+DECL|function|colonSeparatedHex
 DECL|function|effectiveDate
 DECL|function|expiryDate
 DECL|function|extensions
@@ -12,6 +17,8 @@ DECL|function|issuerInfo
 DECL|function|issuerInfoAttributes
 DECL|function|matchLineFeed
 DECL|function|operator ==
+DECL|function|parse
+DECL|function|parseExtension
 DECL|function|publicKey
 DECL|function|serialNumber
 DECL|function|subjectAlternativeNames

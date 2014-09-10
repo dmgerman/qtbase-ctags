@@ -2,3 +2,4 @@ DECL|macro|QEGLPLATFORMCURSOR_H
 DECL|variable|QDeviceDiscovery
 DECL|variable|QEGLPlatformCursor
 DECL|variable|QOpenGLShaderProgram
+DECL|variable|QPlatformCursor

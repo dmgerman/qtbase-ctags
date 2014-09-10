@@ -6,6 +6,8 @@ DECL|function|copyAndAssign
 DECL|function|copyAndAssign_data
 DECL|function|createPlainTestRows
 DECL|function|emptyConstructor
+DECL|function|encrypt
+DECL|function|encrypt_data
 DECL|function|equalsOperator
 DECL|function|initTestCase
 DECL|function|length
@@ -18,6 +20,7 @@ DECL|function|toEncryptedPemOrDer
 DECL|function|toEncryptedPemOrDer_data
 DECL|function|toPemOrDer
 DECL|function|toPemOrDer_data
+DECL|macro|TEST_CRYPTO
 DECL|member|algorithm
 DECL|member|fileInfo
 DECL|member|format
