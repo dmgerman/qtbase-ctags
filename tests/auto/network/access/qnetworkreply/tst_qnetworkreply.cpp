@@ -100,6 +100,7 @@ DECL|function|doRead
 DECL|function|dontInsertPartialContentIntoTheCache
 DECL|function|downloadProgress
 DECL|function|downloadProgress_data
+DECL|function|emitAllUploadProgressSignals
 DECL|function|emitErrorForAllReplies
 DECL|function|emitErrorForAllRepliesSlot
 DECL|function|encrypted
