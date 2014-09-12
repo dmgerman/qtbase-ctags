@@ -5,6 +5,7 @@ DECL|class|QCalendarDayValidator
 DECL|class|QCalendarDelegate
 DECL|class|QCalendarModel
 DECL|class|QCalendarMonthValidator
+DECL|class|QCalendarTextNavigator
 DECL|class|QCalendarView
 DECL|class|QCalendarWidgetPrivate
 DECL|class|QCalendarYearValidator
@@ -25,6 +26,7 @@ DECL|function|QCalendarDayValidator
 DECL|function|QCalendarDelegate
 DECL|function|QCalendarModel
 DECL|function|QCalendarMonthValidator
+DECL|function|QCalendarTextNavigator
 DECL|function|QCalendarView
 DECL|function|QCalendarWidget
 DECL|function|QCalendarWidgetPrivate
@@ -188,15 +190,21 @@ DECL|function|~QCalendarDateValidator
 DECL|function|~QCalendarWidget
 DECL|member|cachedSizeHint
 DECL|member|calendarWidgetPrivate
+DECL|member|m_acceptTimer
 DECL|member|m_currentDate
 DECL|member|m_currentToken
 DECL|member|m_date
+DECL|member|m_date
 DECL|member|m_dateEditEnabled
 DECL|member|m_dateFormats
+DECL|member|m_dateFrame
+DECL|member|m_dateText
+DECL|member|m_dateValidator
 DECL|member|m_day
 DECL|member|m_dayFormats
 DECL|member|m_dayValidator
 DECL|member|m_delegate
+DECL|member|m_editDelay
 DECL|member|m_firstColumn
 DECL|member|m_firstDay
 DECL|member|m_firstRow
@@ -225,6 +233,7 @@ DECL|member|m_tokens
 DECL|member|m_view
 DECL|member|m_view
 DECL|member|m_weekNumbersShown
+DECL|member|m_widget
 DECL|member|m_year
 DECL|member|m_yearValidator
 DECL|member|monthButton
