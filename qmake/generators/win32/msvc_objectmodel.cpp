@@ -40,6 +40,7 @@ DECL|function|parseOption
 DECL|function|parseOption
 DECL|function|parseOption
 DECL|function|parseRuntimeCheckOption
+DECL|function|unknownOptionWarning
 DECL|function|vcCommandSeparator
 DECL|function|write
 DECL|function|write
