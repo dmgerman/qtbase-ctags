@@ -1,8 +1,10 @@
 DECL|class|MyFriendlySplitter
 DECL|class|MyTextEdit
+DECL|class|TestSplitterStyle
 DECL|class|tst_QSplitter
 DECL|function|MyFriendlySplitter
 DECL|function|MyTextEdit
+DECL|function|TestSplitterStyle
 DECL|function|addThirdWidget
 DECL|function|addWidget
 DECL|function|autoAdd
@@ -14,6 +16,7 @@ DECL|function|insertWidget
 DECL|function|minimumSizeHint
 DECL|function|removeThirdWidget
 DECL|function|rubberBandNotInSplitter
+DECL|function|saveAndRestoreHandleWidth
 DECL|function|saveAndRestoreState
 DECL|function|saveAndRestoreStateOfNotYetShownSplitter
 DECL|function|saveAndRestoreState_data
@@ -36,6 +39,7 @@ DECL|function|testShowHide
 DECL|function|testShowHide_data
 DECL|function|tst_QSplitter
 DECL|function|~tst_QSplitter
+DECL|member|handleWidth
 DECL|member|m_iFactor
 DECL|member|splitter
 DECL|member|w1
