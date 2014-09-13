@@ -73,6 +73,7 @@ DECL|function|firstColumnDay
 DECL|function|firstDayOfWeek
 DECL|function|flags
 DECL|function|formatForCell
+DECL|function|formatNumber
 DECL|function|getCurrentDate
 DECL|function|handleKey
 DECL|function|handleKey
