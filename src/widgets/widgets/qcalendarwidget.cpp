@@ -10,6 +10,7 @@ DECL|class|QCalendarView
 DECL|class|QCalendarWidgetPrivate
 DECL|class|QCalendarYearValidator
 DECL|class|QPrevNextCalButton
+DECL|class|StaticDayOfWeekAssociativeArray
 DECL|enumerator|ColumnCount
 DECL|enumerator|HeaderColumn
 DECL|enumerator|HeaderRow
@@ -102,6 +103,7 @@ DECL|function|mousePressEvent
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|moveCursor
+DECL|function|noexcept
 DECL|function|paint
 DECL|function|paintCell
 DECL|function|paintCell
@@ -212,6 +214,8 @@ DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|cachedSizeHint
 DECL|member|calendarWidgetPrivate
+DECL|member|contained
+DECL|member|data
 DECL|member|m_acceptTimer
 DECL|member|m_currentDate
 DECL|member|m_currentToken
