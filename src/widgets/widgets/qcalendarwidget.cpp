@@ -34,7 +34,6 @@ DECL|function|QCalendarWidgetPrivate
 DECL|function|QCalendarYearValidator
 DECL|function|QPrevNextCalButton
 DECL|function|SectionToken
-DECL|function|SectionToken
 DECL|function|_q_editingFinished
 DECL|function|_q_monthChanged
 DECL|function|_q_nextMonthClicked
@@ -90,7 +89,6 @@ DECL|function|internalUpdate
 DECL|function|isDateEditEnabled
 DECL|function|isGridVisible
 DECL|function|isNavigationBarVisible
-DECL|function|isNull
 DECL|function|keyPressEvent
 DECL|function|keyPressEvent
 DECL|function|maximumDate
