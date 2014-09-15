@@ -17,6 +17,7 @@ DECL|function|finishedCurrentTestDataCleanup
 DECL|function|finishedCurrentTestFunction
 DECL|function|isExpectFailData
 DECL|function|reset
+DECL|function|setBlacklistCurrentTest
 DECL|function|setCurrentAppName
 DECL|function|setCurrentGlobalTestData
 DECL|function|setCurrentTestData
@@ -25,6 +26,7 @@ DECL|function|setCurrentTestObject
 DECL|function|setSkipCurrentTest
 DECL|function|skipCurrentTest
 DECL|function|verify
+DECL|member|blacklistCurrentTest
 DECL|member|currentGlobalTestData
 DECL|member|currentTestData
 DECL|member|currentTestFunc

@@ -1,5 +1,7 @@
 DECL|class|TestLoggers
 DECL|function|IgnoreResultList
+DECL|function|addBFail
+DECL|function|addBPass
 DECL|function|addBenchmarkResult
 DECL|function|addBenchmarkResult
 DECL|function|addFail
@@ -12,6 +14,7 @@ DECL|function|addSkip
 DECL|function|addXFail
 DECL|function|addXPass
 DECL|function|append
+DECL|function|blacklistCount
 DECL|function|clearIgnoreMessages
 DECL|function|clearList
 DECL|function|destroyLoggers
@@ -50,6 +53,7 @@ DECL|function|verboseLevel
 DECL|function|warn
 DECL|macro|FOREACH_LOGGER
 DECL|macro|FOREACH_LOGGER
+DECL|member|blacklists
 DECL|member|fails
 DECL|member|ignoreResultList
 DECL|member|installedTestCoverage
