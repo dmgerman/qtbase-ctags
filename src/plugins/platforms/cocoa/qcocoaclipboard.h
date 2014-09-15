@@ -1,1 +1,2 @@
 DECL|macro|QCOCOACLIPBOARD_H
+DECL|variable|QObject
