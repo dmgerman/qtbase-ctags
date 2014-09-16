@@ -1,0 +1,9 @@
+DECL|class|tst_toolsupport
+DECL|function|offsets
+DECL|function|offsets_data
+DECL|function|pmm_to_offsetof
+DECL|macro|RUN_MEMBER_OFFSET_TEST
+DECL|macro|RUN_MEMBER_OFFSET_TEST
+DECL|macro|private
+DECL|macro|protected
+DECL|variable|tst_toolsupport
