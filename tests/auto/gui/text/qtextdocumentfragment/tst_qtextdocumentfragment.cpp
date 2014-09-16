@@ -125,6 +125,7 @@ DECL|function|html_listIndents3
 DECL|function|html_listIndents4
 DECL|function|html_listIndents5
 DECL|function|html_listIndents6
+DECL|function|html_listIndents7
 DECL|function|html_listMargins
 DECL|function|html_listStart1
 DECL|function|html_listStart2
