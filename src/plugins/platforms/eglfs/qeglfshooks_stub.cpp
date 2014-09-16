@@ -12,6 +12,7 @@ DECL|function|physicalScreenSize
 DECL|function|platformDestroy
 DECL|function|platformDisplay
 DECL|function|platformInit
+DECL|function|presentBuffer
 DECL|function|screenDepth
 DECL|function|screenFormat
 DECL|function|screenSize
