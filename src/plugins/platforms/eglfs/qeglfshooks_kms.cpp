@@ -11,12 +11,11 @@ DECL|function|physicalScreenSize
 DECL|function|platformDestroy
 DECL|function|platformDisplay
 DECL|function|platformInit
+DECL|function|presentBuffer
 DECL|function|screenDepth
 DECL|function|screenSize
 DECL|function|setup_kms
 DECL|function|surfaceFormatFor
-DECL|function|waitForVSync
-DECL|function|waitForVSyncImpl
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
