@@ -27,6 +27,7 @@ DECL|function|tst_show_move
 DECL|function|tst_show_move_hide_show
 DECL|function|tst_show_resize
 DECL|function|tst_show_resize_hide_show
+DECL|function|tst_updateWinId_QTBUG40681
 DECL|function|tst_windowFilePath
 DECL|function|tst_windowFilePathAndwindowTitle
 DECL|function|tst_windowFilePathAndwindowTitle_data
