@@ -3,6 +3,7 @@ DECL|function|QSqlDriver
 DECL|function|beginTransaction
 DECL|function|cancelQuery
 DECL|function|commitTransaction
+DECL|function|dbmsType
 DECL|function|escapeIdentifier
 DECL|function|formatValue
 DECL|function|handle
