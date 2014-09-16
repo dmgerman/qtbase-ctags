@@ -7,6 +7,7 @@ DECL|function|QKmsCursor
 DECL|function|bufferDestroyedHandler
 DECL|function|changeCursor
 DECL|function|createCursor
+DECL|function|createNativeOffscreenWindow
 DECL|function|createNativeWindow
 DECL|function|destroyNativeWindow
 DECL|function|framebufferForBufferObject
@@ -24,8 +25,11 @@ DECL|function|screenDepth
 DECL|function|screenSize
 DECL|function|setPos
 DECL|function|setup_kms
+DECL|function|supportsPBuffers
 DECL|function|surfaceFormatFor
 DECL|function|~QKmsCursor
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE

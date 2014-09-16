@@ -1,0 +1,2 @@
+DECL|function|QEglFSOffscreenWindow
+DECL|function|~QEglFSOffscreenWindow

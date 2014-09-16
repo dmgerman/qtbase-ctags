@@ -1,3 +1,5 @@
 DECL|function|QEglFSContext
+DECL|function|createTemporaryOffscreenSurface
+DECL|function|destroyTemporaryOffscreenSurface
 DECL|function|eglSurfaceForPlatformSurface
 DECL|function|swapBuffers

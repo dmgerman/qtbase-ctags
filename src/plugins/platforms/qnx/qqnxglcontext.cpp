@@ -4,10 +4,10 @@ DECL|function|contextAttrs
 DECL|function|doneCurrent
 DECL|function|getEglDisplay
 DECL|function|getProcAddress
-DECL|function|initialize
+DECL|function|initializeContext
 DECL|function|isSharing
 DECL|function|makeCurrent
-DECL|function|shutdown
+DECL|function|shutdownContext
 DECL|function|swapBuffers
 DECL|function|~QQnxGLContext
 DECL|macro|qGLContextDebug

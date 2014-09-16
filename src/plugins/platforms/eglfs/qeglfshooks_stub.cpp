@@ -1,4 +1,5 @@
 DECL|function|createCursor
+DECL|function|createNativeOffscreenWindow
 DECL|function|createNativeWindow
 DECL|function|destroyNativeWindow
 DECL|function|fbDeviceName
@@ -16,6 +17,7 @@ DECL|function|presentBuffer
 DECL|function|screenDepth
 DECL|function|screenFormat
 DECL|function|screenSize
+DECL|function|supportsPBuffers
 DECL|function|surfaceFormatFor
 DECL|function|waitForVSync
 DECL|variable|framebuffer
