@@ -57,6 +57,7 @@ DECL|function|itemStreaming
 DECL|function|itemStreaming_data
 DECL|function|itemWidget
 DECL|function|item_data
+DECL|function|mimeData
 DECL|function|modelChanged
 DECL|function|moveItemsPriv
 DECL|function|moveItemsPriv_data

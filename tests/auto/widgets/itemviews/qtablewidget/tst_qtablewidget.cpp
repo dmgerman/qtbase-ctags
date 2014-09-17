@@ -1,5 +1,7 @@
 DECL|class|QObjectTableItem
+DECL|class|TestTableWidget
 DECL|class|tst_QTableWidget
+DECL|function|TestTableWidget
 DECL|function|cellWidget
 DECL|function|cleanup
 DECL|function|cleanupTestCase
@@ -21,6 +23,7 @@ DECL|function|itemStreaming
 DECL|function|itemStreaming_data
 DECL|function|itemWithHeaderItems
 DECL|function|item_data
+DECL|function|mimeData
 DECL|function|removeColumn
 DECL|function|removeColumn_data
 DECL|function|removeRow
