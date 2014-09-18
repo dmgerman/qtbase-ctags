@@ -1,6 +1,7 @@
 DECL|function|QApplication
 DECL|function|QApplicationPrivate
 DECL|function|aboutQt
+DECL|function|activateImplicitTouchGrab
 DECL|function|activeModalWidget
 DECL|function|activePopupWidget
 DECL|function|activeWindow
