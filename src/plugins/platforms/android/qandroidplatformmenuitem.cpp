@@ -12,6 +12,7 @@ DECL|function|setChecked
 DECL|function|setEnabled
 DECL|function|setFont
 DECL|function|setIcon
+DECL|function|setIconSize
 DECL|function|setIsSeparator
 DECL|function|setMenu
 DECL|function|setRole
