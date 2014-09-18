@@ -4,3 +4,5 @@ DECL|member|currentState
 DECL|struct|ImeState
 DECL|variable|QIOSKeyboardListener
 DECL|variable|QIOSTextInputResponder
+DECL|variable|kImePlatformDataInputAccessoryView
+DECL|variable|kImePlatformDataInputView
