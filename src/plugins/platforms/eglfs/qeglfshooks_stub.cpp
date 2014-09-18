@@ -15,7 +15,9 @@ DECL|function|platformDisplay
 DECL|function|platformInit
 DECL|function|presentBuffer
 DECL|function|screenDepth
+DECL|function|screenDestroy
 DECL|function|screenFormat
+DECL|function|screenInit
 DECL|function|screenSize
 DECL|function|supportsPBuffers
 DECL|function|surfaceFormatFor
