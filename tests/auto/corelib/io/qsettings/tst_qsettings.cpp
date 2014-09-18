@@ -73,6 +73,7 @@ DECL|function|testThreadSafety
 DECL|function|testUpdateRequestEvent
 DECL|function|testVariantTypes
 DECL|function|testVariantTypes_data
+DECL|function|trailingWhitespace
 DECL|function|tst_QSettings
 DECL|function|writeCustom1File
 DECL|function|writeCustom2File
