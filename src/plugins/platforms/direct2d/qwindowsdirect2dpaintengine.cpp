@@ -1,5 +1,7 @@
 DECL|class|Direct2DPathGeometryWriter
 DECL|class|QWindowsDirect2DPaintEnginePrivate
+DECL|class|QWindowsDirect2DPaintEngineSuspenderImpl
+DECL|class|QWindowsDirect2DPaintEngineSuspenderPrivate
 DECL|enumerator|AxisAlignedClip
 DECL|enumerator|D2DDebugDrawEllipseFTag
 DECL|enumerator|D2DDebugDrawEllipseTag
@@ -20,6 +22,9 @@ DECL|enum|ClipType
 DECL|function|Direct2DPathGeometryWriter
 DECL|function|QWindowsDirect2DPaintEngine
 DECL|function|QWindowsDirect2DPaintEnginePrivate
+DECL|function|QWindowsDirect2DPaintEngineSuspender
+DECL|function|QWindowsDirect2DPaintEngineSuspenderImpl
+DECL|function|QWindowsDirect2DPaintEngineSuspenderPrivate
 DECL|function|adjustForAliasing
 DECL|function|adjustForAliasing
 DECL|function|adjustLine
@@ -78,11 +83,14 @@ DECL|function|rasterFill
 DECL|function|renderHintsChanged
 DECL|function|reset
 DECL|function|reset
+DECL|function|resume
+DECL|function|resume
 DECL|function|setAliasingEnabled
 DECL|function|setState
 DECL|function|setWindingFillEnabled
 DECL|function|stroke
 DECL|function|stroke
+DECL|function|suspend
 DECL|function|to_d2d_brush
 DECL|function|transformChanged
 DECL|function|type
@@ -95,6 +103,8 @@ DECL|function|updateOpacity
 DECL|function|updatePen
 DECL|function|updateTransform
 DECL|function|vectorPathToID2D1PathGeometry
+DECL|function|~QWindowsDirect2DPaintEngineSuspender
+DECL|function|~QWindowsDirect2DPaintEngineSuspenderImpl
 DECL|macro|D2D_TAG
 DECL|member|aliased
 DECL|member|antiAliased
@@ -104,10 +114,15 @@ DECL|member|brush
 DECL|member|brush
 DECL|member|clipFlags
 DECL|member|currentBrushOrigin
+DECL|member|dcSuspender
 DECL|member|emulate
 DECL|member|emulate
+DECL|member|engineSuspender
+DECL|member|fallbackImage
 DECL|member|flags
 DECL|member|fontCache
+DECL|member|m_active
+DECL|member|m_engine
 DECL|member|m_geometry
 DECL|member|m_inFigure
 DECL|member|m_roundCoordinates
