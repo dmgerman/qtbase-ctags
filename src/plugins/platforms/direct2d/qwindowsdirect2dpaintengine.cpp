@@ -93,6 +93,7 @@ DECL|function|stroke
 DECL|function|suspend
 DECL|function|to_d2d_brush
 DECL|function|transformChanged
+DECL|function|transformFromLine
 DECL|function|type
 DECL|function|updateBrush
 DECL|function|updateBrushOrigin
@@ -114,6 +115,7 @@ DECL|member|brush
 DECL|member|brush
 DECL|member|clipFlags
 DECL|member|currentBrushOrigin
+DECL|member|dashBrush
 DECL|member|dcSuspender
 DECL|member|emulate
 DECL|member|emulate
