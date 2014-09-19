@@ -4,9 +4,9 @@ DECL|function|createContext
 DECL|function|createOffscreenSurface
 DECL|function|createScreen
 DECL|function|createWindow
+DECL|function|destroy
 DECL|function|hasCapability
 DECL|function|initResources
 DECL|function|initialize
 DECL|function|nativeDisplay
 DECL|function|styleHint
-DECL|function|~QEglFSIntegration
