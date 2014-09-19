@@ -49,6 +49,8 @@ DECL|function|removeSelection
 DECL|function|replaceText
 DECL|function|role
 DECL|function|role
+DECL|function|role
+DECL|function|role
 DECL|function|scrollToSubstring
 DECL|function|selection
 DECL|function|selectionCount
