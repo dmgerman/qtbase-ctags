@@ -43,3 +43,5 @@ DECL|macro|S_ISCHR
 DECL|macro|S_ISFIFO
 DECL|macro|S_ISREG
 DECL|macro|S_ISSOCK
+DECL|typedef|SignedIOType
+DECL|typedef|UnsignedIOType
