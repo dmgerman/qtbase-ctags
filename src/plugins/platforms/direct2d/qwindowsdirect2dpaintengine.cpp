@@ -73,7 +73,6 @@ DECL|function|moveTo
 DECL|function|negateCurrentBrushOrigin
 DECL|function|opacityChanged
 DECL|function|penChanged
-DECL|function|pixelSizeToDIP
 DECL|function|pushClip
 DECL|function|rasterFill
 DECL|function|renderHintsChanged
