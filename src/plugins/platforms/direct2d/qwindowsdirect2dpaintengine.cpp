@@ -67,6 +67,7 @@ DECL|function|geometry
 DECL|function|interpolationMode
 DECL|function|isInFigure
 DECL|function|isLinePositivelySloped
+DECL|function|layerOptions
 DECL|function|lineTo
 DECL|function|moveTo
 DECL|function|negateCurrentBrushOrigin
