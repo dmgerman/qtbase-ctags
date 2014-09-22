@@ -9,6 +9,8 @@ DECL|function|addChildWidget
 DECL|function|addWidget
 DECL|function|adoptLayout
 DECL|function|alignmentRect
+DECL|function|checkLayout
+DECL|function|checkWidget
 DECL|function|childEvent
 DECL|function|closestAcceptableSize
 DECL|function|contentsMargins

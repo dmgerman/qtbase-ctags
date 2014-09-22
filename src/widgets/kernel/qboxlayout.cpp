@@ -14,7 +14,6 @@ DECL|function|addStretch
 DECL|function|addStrut
 DECL|function|addWidget
 DECL|function|calcHfw
-DECL|function|checkWidget
 DECL|function|count
 DECL|function|deleteAll
 DECL|function|direction

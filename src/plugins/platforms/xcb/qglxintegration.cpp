@@ -13,6 +13,7 @@ DECL|function|isValid
 DECL|function|makeCurrent
 DECL|function|nativeHandle
 DECL|function|queryDummyContext
+DECL|function|screenForPlatformSurface
 DECL|function|supportsThreading
 DECL|function|swapBuffers
 DECL|function|updateFormatFromContext
