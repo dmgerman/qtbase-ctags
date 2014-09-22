@@ -6,4 +6,5 @@ DECL|function|operator <<
 DECL|function|operator >>
 DECL|function|qHash
 DECL|function|segments
+DECL|function|setVector
 DECL|function|toString
