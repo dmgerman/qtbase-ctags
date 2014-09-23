@@ -28,6 +28,7 @@ DECL|function|displayHash
 DECL|function|elfHash
 DECL|function|filterByName
 DECL|function|filterForExtraCompiler
+DECL|function|findFile
 DECL|function|fixCommandLine
 DECL|function|generateXML
 DECL|function|generateXML
