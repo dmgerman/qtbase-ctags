@@ -7,6 +7,7 @@ DECL|function|QOpenGLVersionStatus
 DECL|function|operator
 DECL|function|operator
 DECL|macro|QOPENGLVERSIONFUNCTIONS_H
+DECL|macro|QOPENGL_DEPRECATEDFUNCTION
 DECL|member|status
 DECL|member|version
 DECL|struct|QOpenGLVersionStatus
