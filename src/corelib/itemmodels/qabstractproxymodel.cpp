@@ -26,5 +26,6 @@ DECL|function|sort
 DECL|function|sourceModel
 DECL|function|span
 DECL|function|submit
+DECL|function|supportedDragActions
 DECL|function|supportedDropActions
 DECL|function|~QAbstractProxyModel
