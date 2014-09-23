@@ -26,6 +26,7 @@ DECL|function|attrT
 DECL|function|attrX
 DECL|function|displayHash
 DECL|function|elfHash
+DECL|function|filterByName
 DECL|function|filterForExtraCompiler
 DECL|function|fixCommandLine
 DECL|function|generateXML
