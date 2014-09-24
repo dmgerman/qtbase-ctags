@@ -229,7 +229,6 @@ DECL|method|getJsonRect
 DECL|method|getLayerDrawable
 DECL|method|getRotateDrawable
 DECL|method|getStateListDrawable
-DECL|method|getStateListDrawable_old
 DECL|method|getStatesList
 DECL|method|getStatesName
 DECL|method|getStatesName
