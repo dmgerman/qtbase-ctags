@@ -34,6 +34,7 @@ DECL|function|lock
 DECL|function|log
 DECL|function|nullErrorHandler
 DECL|function|platformWindowFromId
+DECL|function|primaryScreen
 DECL|function|printXcbEvent
 DECL|function|processXcbEvents
 DECL|function|qatom
