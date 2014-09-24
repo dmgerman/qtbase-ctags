@@ -15,6 +15,7 @@ DECL|function|activeSubWindow
 DECL|function|addAndRemoveWindows
 DECL|function|addAndRemoveWindowsWithReparenting
 DECL|function|cascadeAndTileSubWindows
+DECL|function|cascadedDeltaY
 DECL|function|changeModified
 DECL|function|changeWindowTitle
 DECL|function|childSize
