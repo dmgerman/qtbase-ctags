@@ -32,6 +32,8 @@ DECL|function|remove
 DECL|function|run
 DECL|function|setCacheDirectory
 DECL|function|setCacheDirectory_data
+DECL|function|setCookieHeader
+DECL|function|setCookieHeaderMetaDataChangedSlot
 DECL|function|setupWithOne
 DECL|function|streamVersion
 DECL|function|streamVersion_data
@@ -47,6 +49,7 @@ DECL|member|dataToTransmit
 DECL|member|diskCache
 DECL|member|doClose
 DECL|member|dt
+DECL|member|manager
 DECL|member|multiple
 DECL|member|other
 DECL|member|receivedData
