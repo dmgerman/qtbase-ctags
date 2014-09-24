@@ -299,6 +299,7 @@ DECL|function|showAndMoveChild
 DECL|function|showEvent
 DECL|function|showFullScreen
 DECL|function|showHideEvent
+DECL|function|showHideEventWhileMinimize
 DECL|function|showHideEvent_data
 DECL|function|showHideShowX11
 DECL|function|showMaximized
