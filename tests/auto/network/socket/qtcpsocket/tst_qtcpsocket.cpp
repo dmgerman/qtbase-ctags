@@ -29,6 +29,7 @@ DECL|function|blockingIMAP
 DECL|function|cleanup
 DECL|function|cleanup
 DECL|function|clear
+DECL|function|clientSendDataOnDelayedDisconnect
 DECL|function|closed
 DECL|function|connectDisconnectConnectDisconnect
 DECL|function|connectToLocalHostNoService
