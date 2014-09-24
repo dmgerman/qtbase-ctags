@@ -11,6 +11,7 @@ DECL|function|close
 DECL|function|connectToScreen
 DECL|function|contentOrientation
 DECL|function|create
+DECL|function|create
 DECL|function|cursor
 DECL|function|destroy
 DECL|function|devicePixelRatio

@@ -16,4 +16,5 @@ DECL|variable|QShowEvent
 DECL|variable|QTabletEvent
 DECL|variable|QTouchEvent
 DECL|variable|QWheelEvent
+DECL|variable|QWindowContainer
 DECL|variable|QWindowPrivate

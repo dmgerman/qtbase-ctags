@@ -18,7 +18,6 @@ DECL|function|addWidget
 DECL|function|alignment
 DECL|function|cellRect
 DECL|function|cellRect
-DECL|function|checkWidget
 DECL|function|colSpacing
 DECL|function|colStretch
 DECL|function|columnCount

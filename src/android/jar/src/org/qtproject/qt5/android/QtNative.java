@@ -32,7 +32,6 @@ DECL|method|handleOrientationChanged
 DECL|method|hasClipboardText
 DECL|method|hideSoftwareKeyboard
 DECL|method|insertNativeView
-DECL|method|isSoftwareKeyboardVisible
 DECL|method|keyDown
 DECL|method|keyUp
 DECL|method|keyboardVisibilityChanged

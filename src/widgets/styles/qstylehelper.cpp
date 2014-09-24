@@ -8,5 +8,6 @@ DECL|function|drawBorderPixmap
 DECL|function|drawDial
 DECL|function|hasAncestor
 DECL|function|isInstanceOf
+DECL|function|styleObjectWindow
 DECL|function|uniqueName
 DECL|namespace|QStyleHelper

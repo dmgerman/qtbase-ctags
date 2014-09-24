@@ -20,6 +20,7 @@ DECL|function|cursorToXForInlineObjects
 DECL|function|cursorToXForSetColumns
 DECL|function|cursorToXForTrailingSpaces
 DECL|function|cursorToXForTrailingSpaces_data
+DECL|function|cursorToXInvalidInput
 DECL|function|defaultWordSeparators
 DECL|function|defaultWordSeparators_data
 DECL|function|forcedBreaks
