@@ -12,6 +12,7 @@ DECL|function|cut
 DECL|function|findMdiChild
 DECL|function|newFile
 DECL|function|open
+DECL|function|openFile
 DECL|function|paste
 DECL|function|readSettings
 DECL|function|save
