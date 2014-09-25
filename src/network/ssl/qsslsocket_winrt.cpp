@@ -9,7 +9,6 @@ DECL|function|disconnected
 DECL|function|ensureInitialized
 DECL|function|importPKCS12
 DECL|function|noexcept
-DECL|function|noexcept
 DECL|function|onSslUpgrade
 DECL|function|resetDefaultCiphers
 DECL|function|sessionCipher
