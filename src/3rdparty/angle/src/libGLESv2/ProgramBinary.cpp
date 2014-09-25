@@ -1,6 +1,9 @@
 DECL|function|AttributeSorter
-DECL|function|GetInputLayoutFromShader
+DECL|function|GetDefaultInputLayoutFromShader
+DECL|function|GetDefaultOutputLayoutFromShader
 DECL|function|GetTextureType
+DECL|function|IsRowMajorLayout
+DECL|function|IsRowMajorLayout
 DECL|function|LinkedVarying
 DECL|function|LinkedVarying
 DECL|function|ParseAndStripArrayIndex
@@ -62,7 +65,6 @@ DECL|function|getVertexExecutableForInputLayout
 DECL|function|indexSamplerUniform
 DECL|function|indexUniforms
 DECL|function|initAttributesByLayout
-DECL|function|initializeUniformStorage
 DECL|function|isValidUniformLocation
 DECL|function|isValidated
 DECL|function|issueSerial
@@ -70,11 +72,10 @@ DECL|function|link
 DECL|function|linkAttributes
 DECL|function|linkUniformBlocks
 DECL|function|linkUniforms
-DECL|function|linkValidateFields
-DECL|function|linkValidateVariables
-DECL|function|linkValidateVariables
-DECL|function|linkValidateVariables
+DECL|function|linkValidateInterfaceBlockFields
+DECL|function|linkValidateUniforms
 DECL|function|linkValidateVariablesBase
+DECL|function|linkValidateVaryings
 DECL|function|linkVaryings
 DECL|function|load
 DECL|function|matchesSignature
@@ -115,8 +116,6 @@ DECL|function|validateSamplers
 DECL|function|~PixelExecutable
 DECL|function|~ProgramBinary
 DECL|function|~VertexExecutable
-DECL|macro|far
-DECL|macro|near
 DECL|member|mCurrentSerial
 DECL|member|originalIndices
 DECL|namespace|gl

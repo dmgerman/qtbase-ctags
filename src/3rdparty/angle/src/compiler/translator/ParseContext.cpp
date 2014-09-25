@@ -30,6 +30,7 @@ DECL|function|exitStructDeclaration
 DECL|function|extensionErrorCheck
 DECL|function|findFunction
 DECL|function|foldConstConstructor
+DECL|function|getNamedVariable
 DECL|function|globalErrorCheck
 DECL|function|handleExtensionDirective
 DECL|function|handlePragmaDirective
@@ -48,6 +49,7 @@ DECL|function|parseArrayDeclarator
 DECL|function|parseDeclarator
 DECL|function|parseGlobalLayoutQualifier
 DECL|function|parseInitDeclarator
+DECL|function|parseInvariantDeclaration
 DECL|function|parseLayoutQualifier
 DECL|function|parseLayoutQualifier
 DECL|function|parseMatrixFields

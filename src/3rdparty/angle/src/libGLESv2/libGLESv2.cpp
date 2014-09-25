@@ -280,3 +280,6 @@ DECL|function|glVertexAttribIPointer
 DECL|function|glVertexAttribPointer
 DECL|function|glViewport
 DECL|function|glWaitSync
+DECL|macro|GL_APICALL
+DECL|macro|GL_APICALL
+DECL|macro|GL_GLEXT_PROTOTYPES

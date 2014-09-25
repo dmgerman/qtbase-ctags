@@ -39,3 +39,5 @@ DECL|function|validateConfig
 DECL|function|validateContext
 DECL|function|validateDisplay
 DECL|function|validateSurface
+DECL|macro|EGLAPI
+DECL|macro|EGLAPI

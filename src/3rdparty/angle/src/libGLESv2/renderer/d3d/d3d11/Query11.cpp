@@ -1,15 +1,8 @@
 DECL|function|Query11
 DECL|function|begin
-DECL|function|checkOcclusionQuery
-DECL|function|checkStreamOutPrimitivesWritten
 DECL|function|end
 DECL|function|getResult
 DECL|function|isResultAvailable
-DECL|function|isStarted
 DECL|function|testQuery
 DECL|function|~Query11
-DECL|member|NumPrimitivesWritten
-DECL|member|PrimitivesStorageNeeded
 DECL|namespace|rx
-DECL|struct|D3D11_QUERY_DATA_SO_STATISTICS
-DECL|typedef|D3D11_QUERY_DATA_SO_STATISTICS

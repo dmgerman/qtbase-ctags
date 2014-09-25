@@ -1,5 +1,7 @@
 DECL|function|DefaultFramebuffer
 DECL|function|Framebuffer
+DECL|function|GetAttachmentRenderTarget
+DECL|function|GetAttachmentSerial
 DECL|function|completeness
 DECL|function|completeness
 DECL|function|createAttachment
@@ -8,6 +10,7 @@ DECL|function|detachTexture
 DECL|function|getAttachment
 DECL|function|getAttachment
 DECL|function|getColorbuffer
+DECL|function|getColorbuffersForRender
 DECL|function|getDepthOrStencilbuffer
 DECL|function|getDepthStencilBuffer
 DECL|function|getDepthbuffer
@@ -20,6 +23,8 @@ DECL|function|getStencilbuffer
 DECL|function|hasEnabledColorAttachment
 DECL|function|hasStencil
 DECL|function|hasValidDepthStencil
+DECL|function|invalidate
+DECL|function|invalidateSub
 DECL|function|isEnabledColorAttachment
 DECL|function|setColorbuffer
 DECL|function|setDepthStencilBuffer
@@ -29,3 +34,4 @@ DECL|function|setStencilbuffer
 DECL|function|usingExtendedDrawBuffers
 DECL|function|~Framebuffer
 DECL|namespace|gl
+DECL|namespace|rx

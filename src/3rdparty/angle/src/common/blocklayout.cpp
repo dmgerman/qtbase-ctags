@@ -7,8 +7,6 @@ DECL|function|HLSLVariableRegisterCount
 DECL|function|Std140BlockEncoder
 DECL|function|advanceOffset
 DECL|function|advanceOffset
-DECL|function|encodeInterfaceBlockField
-DECL|function|encodeInterfaceBlockFields
 DECL|function|encodeType
 DECL|function|enterAggregateType
 DECL|function|enterAggregateType

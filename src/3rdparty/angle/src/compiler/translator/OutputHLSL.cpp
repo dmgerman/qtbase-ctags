@@ -1,16 +1,8 @@
-DECL|class|DeclareVaryingTraverser
-DECL|function|DeclareVaryingTraverser
 DECL|function|OutputHLSL
 DECL|function|argumentString
-DECL|function|declareVaryingToList
-DECL|function|getAttributes
 DECL|function|getBodyStream
 DECL|function|getInterfaceBlockRegisterMap
-DECL|function|getInterfaceBlocks
-DECL|function|getOutputVariables
 DECL|function|getUniformRegisterMap
-DECL|function|getUniforms
-DECL|function|getVaryings
 DECL|function|handleExcessiveLoop
 DECL|function|header
 DECL|function|initializer
@@ -34,8 +26,6 @@ DECL|function|visitRaw
 DECL|function|visitSelection
 DECL|function|visitSymbol
 DECL|function|visitUnary
-DECL|function|visitVariable
 DECL|function|writeConstantUnion
 DECL|function|~OutputHLSL
-DECL|member|mInterpolation
 DECL|namespace|sh

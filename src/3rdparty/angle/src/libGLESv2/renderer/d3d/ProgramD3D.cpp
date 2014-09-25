@@ -1,0 +1,12 @@
+DECL|function|ProgramD3D
+DECL|function|getPixelExecutableForOutputLayout
+DECL|function|getVertexExecutableForInputLayout
+DECL|function|initializeUniformStorage
+DECL|function|link
+DECL|function|load
+DECL|function|makeProgramD3D
+DECL|function|makeProgramD3D
+DECL|function|reset
+DECL|function|save
+DECL|function|~ProgramD3D
+DECL|namespace|rx

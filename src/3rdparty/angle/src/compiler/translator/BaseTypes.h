@@ -22,7 +22,6 @@ DECL|enumerator|EbtISampler3D
 DECL|enumerator|EbtISamplerCube
 DECL|enumerator|EbtInt
 DECL|enumerator|EbtInterfaceBlock
-DECL|enumerator|EbtInvariant
 DECL|enumerator|EbtSampler2D
 DECL|enumerator|EbtSampler2DArray
 DECL|enumerator|EbtSampler2DArrayShadow
@@ -91,7 +90,6 @@ DECL|function|IsSamplerCube
 DECL|function|IsShadowSampler
 DECL|function|SupportsPrecision
 DECL|function|create
-DECL|function|getBasicString
 DECL|function|getBlockStorageString
 DECL|function|getInterpolationString
 DECL|function|getMatrixPackingString

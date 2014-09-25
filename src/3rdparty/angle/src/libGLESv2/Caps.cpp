@@ -19,6 +19,8 @@ DECL|function|TextureCaps
 DECL|function|begin
 DECL|function|end
 DECL|function|get
+DECL|function|getMaxSamples
+DECL|function|getNearestSamples
 DECL|function|getStrings
 DECL|function|insert
 DECL|function|remove

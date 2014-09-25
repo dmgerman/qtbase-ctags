@@ -55,6 +55,8 @@ DECL|function|getVertexAttribCurrentValues
 DECL|function|getVertexAttribPointer
 DECL|function|getVertexAttribState
 DECL|function|getViewport
+DECL|function|hasMappedBuffer
+DECL|function|initialize
 DECL|function|isBlendEnabled
 DECL|function|isCullFaceEnabled
 DECL|function|isDepthTestEnabled
@@ -70,6 +72,7 @@ DECL|function|removeArrayBufferBinding
 DECL|function|removeDrawFramebufferBinding
 DECL|function|removeReadFramebufferBinding
 DECL|function|removeVertexArrayBinding
+DECL|function|reset
 DECL|function|setActiveQuery
 DECL|function|setActiveSampler
 DECL|function|setArrayBufferBinding

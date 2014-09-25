@@ -1,5 +1,6 @@
 DECL|function|BuiltinInfo
 DECL|function|DynamicHLSL
+DECL|function|GetOutputAtLocation
 DECL|function|HLSLComponentTypeString
 DECL|function|HLSLComponentTypeString
 DECL|function|HLSLMatrixTypeString
@@ -35,7 +36,6 @@ DECL|member|glPosition
 DECL|member|index
 DECL|member|semantic
 DECL|member|systemValue
-DECL|namespace|gl
-DECL|namespace|gl_d3d
+DECL|namespace|rx
 DECL|struct|BuiltinInfo
 DECL|struct|SemanticInfo
