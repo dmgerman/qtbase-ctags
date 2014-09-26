@@ -14,6 +14,7 @@ DECL|function|canceledGestures
 DECL|function|centerPoint
 DECL|function|changeFlags
 DECL|function|delta
+DECL|function|formatGestureHeader
 DECL|function|gesture
 DECL|function|gestureCancelPolicy
 DECL|function|gestureType
@@ -31,6 +32,8 @@ DECL|function|lastRotationAngle
 DECL|function|lastScaleFactor
 DECL|function|mapToGraphicsScene
 DECL|function|offset
+DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|position
 DECL|function|position
 DECL|function|rotationAngle
