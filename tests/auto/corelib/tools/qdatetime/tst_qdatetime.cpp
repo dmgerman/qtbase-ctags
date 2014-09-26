@@ -43,6 +43,7 @@ DECL|function|invalidTime
 DECL|function|isDaylightTime
 DECL|function|isNull
 DECL|function|isValid
+DECL|function|macTypes
 DECL|function|maxJd
 DECL|function|minJd
 DECL|function|msecsTo
