@@ -130,5 +130,6 @@ DECL|function|updateDefaultTextOption
 DECL|function|wheelEvent
 DECL|function|wordWrapMode
 DECL|function|zoomIn
+DECL|function|zoomInF
 DECL|function|zoomOut
 DECL|function|~QTextEdit

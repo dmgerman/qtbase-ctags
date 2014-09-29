@@ -102,7 +102,6 @@ DECL|function|qHash
 DECL|function|qt_detectRTLLanguage
 DECL|function|queryKeyboardModifiers
 DECL|function|quitOnLastWindowClosed
-DECL|function|reportAvailableGeometryChange
 DECL|function|reportGeometryChange
 DECL|function|reportLogicalDotsPerInchChange
 DECL|function|reportRefreshRateChange

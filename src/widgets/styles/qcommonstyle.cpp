@@ -3,6 +3,7 @@ DECL|function|QCommonStyle
 DECL|function|_q_removeAnimation
 DECL|function|animation
 DECL|function|animationTargets
+DECL|function|cachedPixmapFromXPM
 DECL|function|calcArrow
 DECL|function|cbegin
 DECL|function|drawArrow

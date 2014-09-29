@@ -1,6 +1,1 @@
 DECL|variable|QIOSWindow
-DECL|variable|autocorrectionType
-DECL|variable|enablesReturnKeyAutomatically
-DECL|variable|inUpdateKeyboardLayout
-DECL|variable|keyboardType
-DECL|variable|secureTextEntry

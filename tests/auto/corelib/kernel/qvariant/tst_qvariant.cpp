@@ -62,6 +62,8 @@ DECL|function|compare
 DECL|function|compare
 DECL|function|compareCustomTypes
 DECL|function|comparePointers
+DECL|function|compareSanity
+DECL|function|compareSanity_data
 DECL|function|constData
 DECL|function|constructor
 DECL|function|constructor_invalid
@@ -125,6 +127,12 @@ DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|operator >>
+DECL|function|operator QString
+DECL|function|operator QString
+DECL|function|operator double
+DECL|function|operator double
+DECL|function|operator int
+DECL|function|operator int
 DECL|function|operator_eq_eq
 DECL|function|operator_eq_eq_data
 DECL|function|operator_eq_eq_rhs
@@ -202,6 +210,7 @@ DECL|function|typeName
 DECL|function|typeName_data
 DECL|function|typeToName
 DECL|function|url
+DECL|function|userConversion
 DECL|function|userType
 DECL|function|value
 DECL|function|value
@@ -245,6 +254,10 @@ DECL|member|count
 DECL|member|count
 DECL|member|count
 DECL|member|customNonQObjectPointer
+DECL|member|d
+DECL|member|d
+DECL|member|dummy
+DECL|member|dummy2
 DECL|member|e
 DECL|member|ensureSignedEnum7
 DECL|member|i
@@ -273,6 +286,7 @@ DECL|member|y
 DECL|member|z
 DECL|namespace|MyNS
 DECL|struct|AssociativeContainer
+DECL|struct|BigConvertible
 DECL|struct|Blah
 DECL|struct|ContainerAPI
 DECL|struct|ContainerAPI
@@ -282,6 +296,7 @@ DECL|struct|ContainerAPI
 DECL|struct|ContainerAPI
 DECL|struct|ContainerAPI
 DECL|struct|Converter
+DECL|struct|Convertible
 DECL|struct|CustomComparable
 DECL|struct|CustomStreamableClass
 DECL|struct|Data
@@ -305,6 +320,8 @@ DECL|typedef|StdUnorderedMap_int_bool
 DECL|typedef|const_iterator
 DECL|typedef|element_type
 DECL|typedef|value_type
+DECL|variable|BigConvertible
+DECL|variable|Convertible
 DECL|variable|CustomStreamableClass
 DECL|variable|WontCompare
 DECL|variable|instanceCount

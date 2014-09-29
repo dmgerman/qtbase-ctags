@@ -9,6 +9,7 @@ DECL|function|generateCondition
 DECL|function|generateXML
 DECL|function|generateXML
 DECL|function|outputFileConfig
+DECL|function|outputFileConfig
 DECL|function|outputFileConfigs
 DECL|function|outputFilter
 DECL|function|toString

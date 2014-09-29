@@ -1,4 +1,7 @@
 DECL|class|tst_QDir
+DECL|enumerator|HandleUnc
+DECL|enumerator|IgnoreUnc
+DECL|enum|UncHandling
 DECL|function|QDir_default
 DECL|function|absoluteFilePath
 DECL|function|absoluteFilePath_data
@@ -57,6 +60,8 @@ DECL|function|match_data
 DECL|function|mkdir
 DECL|function|mkdir_data
 DECL|function|nativeSeparators
+DECL|function|normalizePathSegments
+DECL|function|normalizePathSegments_data
 DECL|function|operator_eq
 DECL|function|relativeFilePath
 DECL|function|relativeFilePath_data

@@ -77,6 +77,8 @@ DECL|function|mapOpenMode
 DECL|function|mapOpenMode_data
 DECL|function|mapResource
 DECL|function|mapResource_data
+DECL|function|mapWrittenFile
+DECL|function|mapWrittenFile_data
 DECL|function|map_data
 DECL|function|miscWithUncPathAsCurrentDir
 DECL|function|missingEndOfLine

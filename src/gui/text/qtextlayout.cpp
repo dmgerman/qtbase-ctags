@@ -29,7 +29,6 @@ DECL|function|draw
 DECL|function|draw
 DECL|function|drawCursor
 DECL|function|drawCursor
-DECL|function|drawMenuText
 DECL|function|endLayout
 DECL|function|font
 DECL|function|format

@@ -85,7 +85,6 @@ DECL|variable|messageHandler
 DECL|variable|messageTokenC
 DECL|variable|msgHandler
 DECL|variable|msgHandlerGrabbed
-DECL|variable|msgHandlerGrabbed
 DECL|variable|pidTokenC
 DECL|variable|threadidTokenC
 DECL|variable|timeTokenC

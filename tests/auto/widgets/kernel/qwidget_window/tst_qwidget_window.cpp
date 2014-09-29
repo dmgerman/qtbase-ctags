@@ -21,12 +21,14 @@ DECL|function|tst_min_max_size_data
 DECL|function|tst_move_show
 DECL|function|tst_paintEventOnSecondShow
 DECL|function|tst_qtbug35600
+DECL|function|tst_recreateWindow_QTBUG40817
 DECL|function|tst_resize_show
 DECL|function|tst_showWithoutActivating
 DECL|function|tst_show_move
 DECL|function|tst_show_move_hide_show
 DECL|function|tst_show_resize
 DECL|function|tst_show_resize_hide_show
+DECL|function|tst_updateWinId_QTBUG40681
 DECL|function|tst_windowFilePath
 DECL|function|tst_windowFilePathAndwindowTitle
 DECL|function|tst_windowFilePathAndwindowTitle_data

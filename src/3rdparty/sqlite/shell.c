@@ -41,6 +41,7 @@ DECL|function|printBold
 DECL|function|printBold
 DECL|function|process_input
 DECL|function|process_sqliterc
+DECL|function|readfileFunc
 DECL|function|resolve_backslashes
 DECL|function|run_schema_dump_query
 DECL|function|run_table_dump_query
@@ -61,6 +62,7 @@ DECL|function|tryToClone
 DECL|function|tryToCloneData
 DECL|function|tryToCloneSchema
 DECL|function|usage
+DECL|function|writefileFunc
 DECL|macro|ArraySize
 DECL|macro|BEGIN_TIMER
 DECL|macro|BEGIN_TIMER
@@ -121,6 +123,7 @@ DECL|member|nAlloc
 DECL|member|nErr
 DECL|member|nIndent
 DECL|member|nLine
+DECL|member|newline
 DECL|member|nullvalue
 DECL|member|out
 DECL|member|outCount

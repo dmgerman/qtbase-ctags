@@ -85,6 +85,7 @@ DECL|function|isDetached
 DECL|function|isEmpty
 DECL|function|isEmpty
 DECL|function|isHex
+DECL|function|isIp6
 DECL|function|isLocalFile
 DECL|function|isLocalFile
 DECL|function|isParentOf

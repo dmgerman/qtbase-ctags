@@ -30,7 +30,6 @@ DECL|function|handleMouseEvent
 DECL|function|handleMouseEvent
 DECL|function|handleNativeEvent
 DECL|function|handlePlatformPanelEvent
-DECL|function|handleScreenAvailableGeometryChange
 DECL|function|handleScreenGeometryChange
 DECL|function|handleScreenLogicalDotsPerInchChange
 DECL|function|handleScreenOrientationChange

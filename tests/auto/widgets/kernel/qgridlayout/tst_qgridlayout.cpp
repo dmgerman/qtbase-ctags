@@ -52,6 +52,8 @@ DECL|function|styleDependentSpacingsAndMargins
 DECL|function|styleDependentSpacingsAndMargins_data
 DECL|function|subElementRect
 DECL|function|taskQTBUG_27420_takeAtShouldUnparentLayout
+DECL|function|taskQTBUG_40609_addingLayoutToItself
+DECL|function|taskQTBUG_40609_addingWidgetToItsOwnLayout
 DECL|function|tst_QGridLayout
 DECL|function|~tst_QGridLayout
 DECL|macro|CT1

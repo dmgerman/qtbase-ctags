@@ -1,4 +1,5 @@
 DECL|class|AnotherStandardItemModelWithCustomRoleNames
+DECL|class|StandardItemModelWithCustomDragAndDrop
 DECL|class|StandardItemModelWithCustomRoleNames
 DECL|class|SubQAbstractProxyModel
 DECL|class|SwappingProxy
@@ -35,6 +36,7 @@ DECL|function|mapToSource
 DECL|function|mapToSource
 DECL|function|mapToSource
 DECL|function|mapToSource_data
+DECL|function|mimeTypes
 DECL|function|parent
 DECL|function|parent
 DECL|function|qabstractproxymodel
@@ -44,7 +46,10 @@ DECL|function|rowCount
 DECL|function|setSourceModel
 DECL|function|submit
 DECL|function|submit_data
+DECL|function|supportedDragActions
+DECL|function|supportedDropActions
 DECL|function|swapRow
+DECL|function|testDragAndDrop
 DECL|function|testRoleNames
 DECL|function|testSwappingRowsProxy
 DECL|function|verifySubSetOf

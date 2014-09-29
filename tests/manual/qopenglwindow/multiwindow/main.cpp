@@ -1,0 +1,12 @@
+DECL|class|Window
+DECL|function|Window
+DECL|function|main
+DECL|function|paintGL
+DECL|member|b
+DECL|member|fps
+DECL|member|g
+DECL|member|idx
+DECL|member|r
+DECL|member|t
+DECL|member|t2
+DECL|member|y

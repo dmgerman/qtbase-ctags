@@ -27,4 +27,3 @@ DECL|function|toVariantMap
 DECL|function|value
 DECL|function|valueAt
 DECL|function|~QJsonObject
-DECL|member|mutex

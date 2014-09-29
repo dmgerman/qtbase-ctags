@@ -62,6 +62,8 @@ DECL|field|m_super_onRestoreInstanceState
 DECL|field|m_super_onRetainNonConfigurationInstance
 DECL|field|m_super_onSaveInstanceState
 DECL|field|m_surfaces
+DECL|method|bringChildToBack
+DECL|method|bringChildToFront
 DECL|method|closeContextMenu
 DECL|method|createSurface
 DECL|method|debugLog
@@ -72,7 +74,6 @@ DECL|method|getAppIconSize
 DECL|method|hasPermanentMenuKey
 DECL|method|hideSoftwareKeyboard
 DECL|method|insertNativeView
-DECL|method|isSoftwareKeyboardVisible
 DECL|method|loadApplication
 DECL|method|onActivityResult
 DECL|method|onConfigurationChanged

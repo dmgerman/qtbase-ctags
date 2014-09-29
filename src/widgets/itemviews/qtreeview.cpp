@@ -87,6 +87,7 @@ DECL|function|reexpand
 DECL|function|removeViewItems
 DECL|function|renderTreeToPixmapForAnimation
 DECL|function|reset
+DECL|function|resetIndentation
 DECL|function|resizeColumnToContents
 DECL|function|rootIsDecorated
 DECL|function|rowHeight
@@ -130,6 +131,7 @@ DECL|function|timerEvent
 DECL|function|treePosition
 DECL|function|uniformRowHeights
 DECL|function|updateGeometries
+DECL|function|updateIndentationFromStyle
 DECL|function|updateScrollBars
 DECL|function|verticalOffset
 DECL|function|viewIndex

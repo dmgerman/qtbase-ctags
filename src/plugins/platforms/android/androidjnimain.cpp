@@ -4,6 +4,8 @@ DECL|function|androidPlatformIntegration
 DECL|function|applicationClass
 DECL|function|assetManager
 DECL|function|blockEventLoopsWhenSuspended
+DECL|function|bringChildToBack
+DECL|function|bringChildToFront
 DECL|function|classErrorMsgFmt
 DECL|function|createBitmap
 DECL|function|createBitmap
@@ -13,7 +15,6 @@ DECL|function|desktopHeightPixels
 DECL|function|desktopWidthPixels
 DECL|function|destroySurface
 DECL|function|deviceName
-DECL|function|findClass
 DECL|function|handleOrientationChanged
 DECL|function|hideStatusBar
 DECL|function|insertNativeView
@@ -67,7 +68,6 @@ DECL|variable|m_createSurfaceMethodID
 DECL|variable|m_desktopHeightPixels
 DECL|variable|m_desktopWidthPixels
 DECL|variable|m_destroySurfaceMethodID
-DECL|variable|m_insertNativeViewMethodID
 DECL|variable|m_javaVM
 DECL|variable|m_loadClassMethodID
 DECL|variable|m_main

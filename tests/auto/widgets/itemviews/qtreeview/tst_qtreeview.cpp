@@ -5,6 +5,7 @@ DECL|class|Node
 DECL|class|QtTestModel
 DECL|class|RepaintTreeView
 DECL|class|TestDelegate
+DECL|class|TestTreeViewStyle
 DECL|class|TreeView
 DECL|class|TreeViewQTBUG_9216
 DECL|class|task174627_TreeView
@@ -28,6 +29,7 @@ DECL|function|QtTestModel
 DECL|function|QtTestModel
 DECL|function|RepaintTreeView
 DECL|function|TestDelegate
+DECL|function|TestTreeViewStyle
 DECL|function|addRowsWhileSectionsAreHidden
 DECL|function|aiv_priv
 DECL|function|alternatingRowColors
@@ -82,6 +84,7 @@ DECL|function|headerSections_unhideSection
 DECL|function|hiddenItems
 DECL|function|horizontalScrollMode
 DECL|function|iconSize
+DECL|function|indentation
 DECL|function|index
 DECL|function|index
 DECL|function|index
@@ -202,6 +205,7 @@ DECL|member|deadChildren
 DECL|member|decorationsEnabled
 DECL|member|doCompare
 DECL|member|fetched
+DECL|member|indentation
 DECL|member|isDead
 DECL|member|levels
 DECL|member|m_block

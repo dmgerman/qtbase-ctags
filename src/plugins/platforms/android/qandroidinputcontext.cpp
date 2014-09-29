@@ -18,7 +18,8 @@ DECL|function|endBatchEdit
 DECL|function|endBatchEdit
 DECL|function|finishComposingText
 DECL|function|finishComposingText
-DECL|function|focusObjectInputMethodQuery
+DECL|function|focusObjectInputMethodQueryThreadSafe
+DECL|function|focusObjectInputMethodQueryUnsafe
 DECL|function|getAbsoluteCursorPosition
 DECL|function|getBlockPosition
 DECL|function|getCursorCapsMode
@@ -44,9 +45,8 @@ DECL|function|queryFocusObjectUnsafe
 DECL|function|reset
 DECL|function|selectAll
 DECL|function|selectAll
-DECL|function|sendEvent
-DECL|function|sendEvent
-DECL|function|sendInputMethodEvent
+DECL|function|sendInputMethodEventThreadSafe
+DECL|function|sendInputMethodEventUnsafe
 DECL|function|setComposingRegion
 DECL|function|setComposingRegion
 DECL|function|setComposingText

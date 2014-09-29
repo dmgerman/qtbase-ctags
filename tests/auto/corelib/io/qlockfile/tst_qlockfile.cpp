@@ -1,10 +1,12 @@
 DECL|class|tst_QLockFile
 DECL|function|initTestCase
 DECL|function|lockFromThread
+DECL|function|lockFromThread
 DECL|function|lockOutOtherProcess
 DECL|function|lockOutOtherThread
 DECL|function|lockUnlock
 DECL|function|noPermissions
+DECL|function|raceWithOtherThread
 DECL|function|staleLockFromCrashedProcess
 DECL|function|staleLockFromCrashedProcess_data
 DECL|function|staleLockRace

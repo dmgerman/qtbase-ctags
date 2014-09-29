@@ -16,6 +16,7 @@ DECL|function|fromJson
 DECL|function|fromJsonErrors
 DECL|function|fromVariant
 DECL|function|fromVariantMap
+DECL|function|garbageAtEnd
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|keySorting
@@ -66,8 +67,8 @@ DECL|function|toJsonSillyNumericValues
 DECL|function|toVariantList
 DECL|function|toVariantMap
 DECL|function|tst_QtJson
-DECL|function|undefinedKeys
 DECL|function|undefinedValues
+DECL|function|unicodeKeys
 DECL|function|validation
 DECL|function|valueEquals
 DECL|macro|INVALID_UNICODE

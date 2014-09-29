@@ -7,10 +7,10 @@ DECL|method|LayoutParams
 DECL|method|QtLayout
 DECL|method|QtLayout
 DECL|method|QtLayout
-DECL|method|bringChildFront
 DECL|method|checkLayoutParams
 DECL|method|generateDefaultLayoutParams
 DECL|method|generateLayoutParams
+DECL|method|moveChild
 DECL|method|onLayout
 DECL|method|onMeasure
 DECL|method|onSizeChanged

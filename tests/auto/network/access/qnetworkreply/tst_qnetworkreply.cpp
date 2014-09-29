@@ -121,6 +121,7 @@ DECL|function|getFromFile
 DECL|function|getFromFileSpecial
 DECL|function|getFromFileSpecial_data
 DECL|function|getFromFtp
+DECL|function|getFromFtpAfterError
 DECL|function|getFromFtp_data
 DECL|function|getFromHttp
 DECL|function|getFromHttpIntoBuffer
@@ -259,6 +260,7 @@ DECL|function|putGetDeleteGetFromHttp_data
 DECL|function|putToFile
 DECL|function|putToFile_data
 DECL|function|putToFtp
+DECL|function|putToFtpWithInvalidCredentials
 DECL|function|putToFtp_data
 DECL|function|putToHttp
 DECL|function|putToHttpMultipart

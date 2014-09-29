@@ -50,6 +50,8 @@ DECL|function|valueChangedHelper
 DECL|function|valueFromText
 DECL|function|valueFromTextAndValidate
 DECL|function|valueFromTextAndValidate_data
+DECL|function|wheelEvent
+DECL|function|wheelEvents
 DECL|member|actualTexts
 DECL|member|actualValues
 DECL|member|eventsReceived

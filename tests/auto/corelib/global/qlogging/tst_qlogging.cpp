@@ -63,6 +63,8 @@ DECL|function|installBothHandler
 DECL|function|installMessageHandler
 DECL|function|installMsgHandler
 DECL|function|lvalue
+DECL|function|nested_struct
+DECL|function|nested_struct_const
 DECL|function|operator %
 DECL|function|operator ()
 DECL|function|operator *

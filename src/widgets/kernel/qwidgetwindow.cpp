@@ -20,12 +20,14 @@ DECL|function|handleMouseEvent
 DECL|function|handleMoveEvent
 DECL|function|handleNonClientAreaMouseEvent
 DECL|function|handleResizeEvent
+DECL|function|handleScreenChange
 DECL|function|handleTabletEvent
 DECL|function|handleTouchEvent
 DECL|function|handleWheelEvent
 DECL|function|handleWindowStateChangedEvent
 DECL|function|nativeEvent
 DECL|function|repaintWindow
+DECL|function|sendScreenChangeRecursively
 DECL|function|updateGeometry
 DECL|function|updateNormalGeometry
 DECL|function|updateObjectName

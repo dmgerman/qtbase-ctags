@@ -26,6 +26,7 @@ DECL|function|attrT
 DECL|function|attrX
 DECL|function|displayHash
 DECL|function|elfHash
+DECL|function|filterByName
 DECL|function|filterForExtraCompiler
 DECL|function|fixCommandLine
 DECL|function|generateXML
@@ -40,6 +41,7 @@ DECL|function|parseOption
 DECL|function|parseOption
 DECL|function|parseOption
 DECL|function|parseRuntimeCheckOption
+DECL|function|unknownOptionWarning
 DECL|function|vcCommandSeparator
 DECL|function|write
 DECL|function|write
