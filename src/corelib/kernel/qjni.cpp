@@ -106,7 +106,6 @@ DECL|function|callStaticObjectMethod
 DECL|function|callStaticObjectMethod
 DECL|function|exceptionCheckAndClear
 DECL|function|findClass
-DECL|function|findClass
 DECL|function|fromString
 DECL|function|getCachedClass
 DECL|function|getCachedFieldID
@@ -144,6 +143,7 @@ DECL|function|isSameObject
 DECL|function|isValid
 DECL|function|keyBase
 DECL|function|loadClass
+DECL|function|loadClassDotEnc
 DECL|function|operator ->
 DECL|function|operator JNIEnv*
 DECL|function|qt_convertJString
