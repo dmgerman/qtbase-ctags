@@ -26,6 +26,7 @@ DECL|method|clearLostActions
 DECL|method|closeContextMenu
 DECL|method|createSurface
 DECL|method|destroySurface
+DECL|method|fillContextMenu
 DECL|method|getAction
 DECL|method|getClipboardText
 DECL|method|getLostActions

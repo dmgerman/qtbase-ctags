@@ -82,6 +82,7 @@ DECL|method|onContextMenuClosed
 DECL|method|onCreate
 DECL|method|onCreateContextMenu
 DECL|method|onCreateOptionsMenu
+DECL|method|onCreatePopupMenu
 DECL|method|onDestroy
 DECL|method|onKeyDown
 DECL|method|onKeyUp
