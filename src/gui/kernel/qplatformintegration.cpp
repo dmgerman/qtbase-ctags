@@ -12,6 +12,7 @@ DECL|function|destroy
 DECL|function|destroyScreen
 DECL|function|drag
 DECL|function|fontDatabase
+DECL|function|hardwareCompositor
 DECL|function|hasCapability
 DECL|function|initialize
 DECL|function|inputContext

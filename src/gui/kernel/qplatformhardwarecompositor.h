@@ -1,0 +1,2 @@
+DECL|macro|QPLATFORMHARDWARECOMPOSITOR_H
+DECL|variable|QPlatformGraphicsBuffer
