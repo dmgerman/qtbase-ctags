@@ -21,6 +21,7 @@ DECL|function|parent
 DECL|function|propagateSizeHints
 DECL|function|raise
 DECL|function|requestActivateWindow
+DECL|function|requestUpdate
 DECL|function|screen
 DECL|function|screenForGeometry
 DECL|function|setAlertState

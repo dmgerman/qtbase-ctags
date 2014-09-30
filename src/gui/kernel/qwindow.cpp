@@ -13,6 +13,7 @@ DECL|function|contentOrientation
 DECL|function|create
 DECL|function|create
 DECL|function|cursor
+DECL|function|deliverUpdateRequest
 DECL|function|destroy
 DECL|function|devicePixelRatio
 DECL|function|disconnectFromScreen
@@ -63,6 +64,7 @@ DECL|function|qt_window_private
 DECL|function|raise
 DECL|function|reportContentOrientationChange
 DECL|function|requestActivate
+DECL|function|requestUpdate
 DECL|function|requestedFormat
 DECL|function|resize
 DECL|function|resize
