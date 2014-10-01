@@ -1,8 +1,10 @@
+DECL|class|is_qlist_array_memory_layout
 DECL|class|tst_QList
 DECL|enumerator|Constructed
 DECL|enumerator|Constructed
 DECL|enumerator|Destructed
 DECL|enumerator|Destructed
+DECL|enumerator|value
 DECL|enum|State
 DECL|enum|State
 DECL|function|Complex
@@ -169,6 +171,7 @@ DECL|macro|T_CAT
 DECL|macro|T_DOG
 DECL|macro|T_FOO
 DECL|macro|T_WEEE
+DECL|member|c
 DECL|member|checkSum
 DECL|member|dummyForGuard
 DECL|member|i
@@ -180,6 +183,7 @@ DECL|member|liveCount
 DECL|member|liveCount
 DECL|member|liveCount
 DECL|member|maxSize
+DECL|member|n
 DECL|member|padding
 DECL|member|state
 DECL|member|state
@@ -190,8 +194,10 @@ DECL|member|values
 DECL|member|values
 DECL|struct|Complex
 DECL|struct|Movable
+DECL|struct|No
 DECL|struct|Optimal
 DECL|struct|SimpleValue
+DECL|struct|Yes
 DECL|variable|Complex
 DECL|variable|isComplex
 DECL|variable|isComplex

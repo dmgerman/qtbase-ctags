@@ -26,6 +26,9 @@ DECL|member|operator
 DECL|member|ref
 DECL|member|shared_null
 DECL|struct|Data
+DECL|struct|NotArrayCompatibleLayout
+DECL|struct|NotIndirectLayout
+DECL|struct|NotIndirectLayout
 DECL|struct|QListData
 DECL|struct|QListSpecialMethods
 DECL|variable|QByteArray
