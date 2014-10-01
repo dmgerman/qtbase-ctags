@@ -1,3 +1,4 @@
 DECL|class|tst_QNetworkAccessManager
+DECL|function|alwaysCacheRequest
 DECL|function|networkAccessible
 DECL|function|tst_QNetworkAccessManager
