@@ -2,8 +2,10 @@ DECL|function|creationTimeBefore
 DECL|function|loadIndexFiles
 DECL|function|main
 DECL|function|processQdocconfFile
+DECL|typedef|Translator
 DECL|variable|autolinkErrors
 DECL|variable|currentDir
+DECL|variable|defaults
 DECL|variable|defines
 DECL|variable|dependModules
 DECL|variable|highlighting
@@ -13,3 +15,5 @@ DECL|variable|obsoleteLinks
 DECL|variable|prevCurrentDir
 DECL|variable|redirectDocumentationToDevNull
 DECL|variable|showInternal
+DECL|variable|singleExec
+DECL|variable|translators

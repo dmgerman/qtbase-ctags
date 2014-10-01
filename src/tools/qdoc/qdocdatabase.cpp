@@ -45,11 +45,14 @@ DECL|function|newPrimaryTree
 DECL|function|nextRoot
 DECL|function|nextTree
 DECL|function|processForest
+DECL|function|processForest
 DECL|function|qdocDB
 DECL|function|readIndexes
 DECL|function|resolveIssues
 DECL|function|resolveQmlInheritance
+DECL|function|resolveStuff
 DECL|function|searchOrder
+DECL|function|setPrimaryTree
 DECL|function|setSearchOrder
 DECL|function|~QDocDatabase
 DECL|function|~QDocForest

@@ -25,6 +25,7 @@ DECL|function|getStringSet
 DECL|function|isMetaKeyChar
 DECL|function|load
 DECL|function|load
+DECL|function|loadMaster
 DECL|function|numParams
 DECL|function|open
 DECL|function|popWorkingDir
@@ -93,6 +94,7 @@ DECL|member|REDIRECTDOCUMENTATIONTODEVNULL
 DECL|member|SCRIPTDIRS
 DECL|member|SCRIPTS
 DECL|member|SHOWINTERNAL
+DECL|member|SINGLEEXEC
 DECL|member|SOURCEDIRS
 DECL|member|SOURCEENCODING
 DECL|member|SOURCES

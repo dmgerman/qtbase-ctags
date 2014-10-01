@@ -37,7 +37,7 @@ DECL|macro|COMMAND_SUBTITLE
 DECL|macro|COMMAND_THREADSAFE
 DECL|macro|COMMAND_TITLE
 DECL|macro|COMMAND_WRAPPER
-DECL|member|currentSubDir_
 DECL|member|parsers
-DECL|member|showInternal
+DECL|member|showInternal_
+DECL|member|singleExec_
 DECL|variable|commonMetaCommands_
