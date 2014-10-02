@@ -5,5 +5,4 @@ DECL|function|glMapBufferRange
 DECL|function|glRenderbufferStorageMultisample
 DECL|function|glUnmapBuffer
 DECL|macro|QOPENGL_EXTENSIONS_P_H
-DECL|typedef|GLchar
 DECL|variable|QOpenGLExtensionsPrivate
