@@ -8,6 +8,7 @@ DECL|function|createPlatformSessionManager
 DECL|function|createPlatformSharedGraphicsCache
 DECL|function|createPlatformTheme
 DECL|function|defaultWindowState
+DECL|function|destroy
 DECL|function|drag
 DECL|function|fontDatabase
 DECL|function|hasCapability
