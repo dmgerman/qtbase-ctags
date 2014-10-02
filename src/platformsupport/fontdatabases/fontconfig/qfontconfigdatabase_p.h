@@ -1,1 +1,2 @@
 DECL|macro|QFONTCONFIGDATABASE_H
+DECL|variable|QFontEngineFT

@@ -11,6 +11,7 @@ DECL|function|populateFromPattern
 DECL|function|queryFont
 DECL|function|requiresOpenType
 DECL|function|resolveFontFamilyAlias
+DECL|function|setupFontEngine
 DECL|function|stretchFromFcWidth
 DECL|function|subpixelTypeFromMatch
 DECL|function|weightFromFcWeight
