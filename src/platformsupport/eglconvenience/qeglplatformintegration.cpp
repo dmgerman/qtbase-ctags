@@ -1,9 +1,9 @@
-DECL|enumerator|Display
 DECL|enumerator|EglConfig
 DECL|enumerator|EglContext
 DECL|enumerator|EglDisplay
 DECL|enumerator|EglWindow
 DECL|enumerator|NativeDisplay
+DECL|enumerator|XlibDisplay
 DECL|enum|ResourceType
 DECL|function|QEGLPlatformIntegration
 DECL|function|createEventDispatcher
