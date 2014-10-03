@@ -1,2 +1,0 @@
-DECL|macro|EXTRAFILTERSPLUGIN_H
-DECL|variable|QObject
