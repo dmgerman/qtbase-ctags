@@ -68,7 +68,6 @@ DECL|function|mode
 DECL|function|mode
 DECL|function|networkInterface
 DECL|function|rsnFlags
-DECL|function|serviceName
 DECL|function|setConnections
 DECL|function|setConnections
 DECL|function|setConnections
