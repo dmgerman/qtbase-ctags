@@ -6,4 +6,4 @@ DECL|function|getPixmap
 DECL|function|getPixmapSize
 DECL|function|image
 DECL|function|intrinsicSize
-DECL|function|resolve2xFile
+DECL|function|resolveFileName
