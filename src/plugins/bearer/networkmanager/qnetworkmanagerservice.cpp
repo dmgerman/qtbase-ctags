@@ -1,5 +1,6 @@
 DECL|class|QNetworkManagerConnectionActivePrivate
 DECL|class|QNetworkManagerInterfaceAccessPointPrivate
+DECL|class|QNetworkManagerInterfaceDeviceModemPrivate
 DECL|class|QNetworkManagerInterfaceDevicePrivate
 DECL|class|QNetworkManagerInterfaceDeviceWiredPrivate
 DECL|class|QNetworkManagerInterfaceDeviceWirelessPrivate
@@ -11,6 +12,7 @@ DECL|function|QNetworkManagerConnectionActive
 DECL|function|QNetworkManagerInterface
 DECL|function|QNetworkManagerInterfaceAccessPoint
 DECL|function|QNetworkManagerInterfaceDevice
+DECL|function|QNetworkManagerInterfaceDeviceModem
 DECL|function|QNetworkManagerInterfaceDeviceWired
 DECL|function|QNetworkManagerInterfaceDeviceWireless
 DECL|function|QNetworkManagerIp4Config
@@ -30,6 +32,8 @@ DECL|function|connectionInterface
 DECL|function|connectionInterface
 DECL|function|connectionInterface
 DECL|function|connectionInterface
+DECL|function|connectionInterface
+DECL|function|currentCapabilities
 DECL|function|deactivateConnection
 DECL|function|defaultRoute
 DECL|function|deviceType
@@ -62,12 +66,15 @@ DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid
+DECL|function|isValid
 DECL|function|listConnections
 DECL|function|maxBitrate
 DECL|function|mode
 DECL|function|mode
+DECL|function|modemCapabilities
 DECL|function|networkInterface
 DECL|function|rsnFlags
+DECL|function|setConnections
 DECL|function|setConnections
 DECL|function|setConnections
 DECL|function|setConnections
@@ -92,6 +99,7 @@ DECL|function|~QNetworkManagerConnectionActive
 DECL|function|~QNetworkManagerInterface
 DECL|function|~QNetworkManagerInterfaceAccessPoint
 DECL|function|~QNetworkManagerInterfaceDevice
+DECL|function|~QNetworkManagerInterfaceDeviceModem
 DECL|function|~QNetworkManagerInterfaceDeviceWired
 DECL|function|~QNetworkManagerInterfaceDeviceWireless
 DECL|function|~QNetworkManagerIp4Config
@@ -106,6 +114,8 @@ DECL|member|connectionInterface
 DECL|member|connectionInterface
 DECL|member|connectionInterface
 DECL|member|connectionInterface
+DECL|member|connectionInterface
+DECL|member|path
 DECL|member|path
 DECL|member|path
 DECL|member|path
@@ -116,6 +126,7 @@ DECL|member|path
 DECL|member|path
 DECL|member|service
 DECL|member|settingsMap
+DECL|member|valid
 DECL|member|valid
 DECL|member|valid
 DECL|member|valid

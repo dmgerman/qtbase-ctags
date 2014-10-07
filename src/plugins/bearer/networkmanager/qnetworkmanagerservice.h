@@ -25,6 +25,7 @@ DECL|macro|NM_DBUS_INTERFACE
 DECL|macro|NM_DBUS_INTERFACE_ACCESS_POINT
 DECL|macro|NM_DBUS_INTERFACE_ACTIVE_CONNECTION
 DECL|macro|NM_DBUS_INTERFACE_DEVICE
+DECL|macro|NM_DBUS_INTERFACE_DEVICE_MODEM
 DECL|macro|NM_DBUS_INTERFACE_DEVICE_WIRED
 DECL|macro|NM_DBUS_INTERFACE_DEVICE_WIRELESS
 DECL|macro|NM_DBUS_INTERFACE_IP4_CONFIG
@@ -43,6 +44,7 @@ DECL|typedef|QString
 DECL|typedef|ServerThing
 DECL|variable|QNetworkManagerConnectionActivePrivate
 DECL|variable|QNetworkManagerInterfaceAccessPointPrivate
+DECL|variable|QNetworkManagerInterfaceDeviceModemPrivate
 DECL|variable|QNetworkManagerInterfaceDevicePrivate
 DECL|variable|QNetworkManagerInterfaceDeviceWiredPrivate
 DECL|variable|QNetworkManagerInterfaceDeviceWirelessPrivate
