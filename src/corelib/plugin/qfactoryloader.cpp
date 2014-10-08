@@ -4,8 +4,10 @@ DECL|function|QFactoryLoaderPrivate
 DECL|function|indexOf
 DECL|function|instance
 DECL|function|keyMap
+DECL|function|keysKeyLiteral
 DECL|function|library
 DECL|function|metaData
+DECL|function|metaDataKeyLiteral
 DECL|function|refreshAll
 DECL|function|update
 DECL|function|~QFactoryLoader
