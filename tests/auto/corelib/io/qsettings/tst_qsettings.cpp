@@ -60,6 +60,7 @@ DECL|function|testCaseSensitivity_data
 DECL|function|testChildKeysAndGroups
 DECL|function|testChildKeysAndGroups_data
 DECL|function|testEmptyData
+DECL|function|testEmptyKey
 DECL|function|testErrorHandling
 DECL|function|testErrorHandling_data
 DECL|function|testEscapes
