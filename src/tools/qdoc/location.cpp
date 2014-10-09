@@ -14,6 +14,7 @@ DECL|function|logToStdErr
 DECL|function|operator =
 DECL|function|pop
 DECL|function|push
+DECL|function|report
 DECL|function|start
 DECL|function|terminate
 DECL|function|toString

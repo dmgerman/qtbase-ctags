@@ -39,6 +39,7 @@ DECL|function|generateMacRef
 DECL|function|generateManifestFile
 DECL|function|generateManifestFiles
 DECL|function|generateNavigationBar
+DECL|function|generateQAPage
 DECL|function|generateQmlBasicTypePage
 DECL|function|generateQmlInherits
 DECL|function|generateQmlInstantiates

@@ -111,6 +111,7 @@ DECL|member|TRANSLATORS
 DECL|member|URL
 DECL|member|VERSION
 DECL|member|VERSIONSYM
+DECL|member|WRITEQAPAGES
 DECL|member|accum
 DECL|member|debug_
 DECL|member|dot

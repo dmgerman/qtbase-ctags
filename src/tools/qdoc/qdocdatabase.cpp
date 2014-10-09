@@ -25,6 +25,7 @@ DECL|function|getCompatibilityClasses
 DECL|function|getCppClasses
 DECL|function|getFunctionIndex
 DECL|function|getLegaleseTexts
+DECL|function|getLinkCounts
 DECL|function|getMainClasses
 DECL|function|getNamespaces
 DECL|function|getObsoleteClasses
@@ -44,6 +45,7 @@ DECL|function|newIndexTree
 DECL|function|newPrimaryTree
 DECL|function|nextRoot
 DECL|function|nextTree
+DECL|function|printLinkCounts
 DECL|function|processForest
 DECL|function|processForest
 DECL|function|qdocDB

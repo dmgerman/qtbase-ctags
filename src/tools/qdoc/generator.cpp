@@ -82,9 +82,10 @@ DECL|member|outFileNames_
 DECL|member|outSubdir_
 DECL|member|outputFormats
 DECL|member|outputPrefixes
-DECL|member|project
+DECL|member|project_
 DECL|member|qdocPass_
 DECL|member|qdocSingleExec_
+DECL|member|qdocWriteQaPages_
 DECL|member|redirectDocumentationToDevNull_
 DECL|member|scriptDirs
 DECL|member|scriptFiles

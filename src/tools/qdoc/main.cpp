@@ -17,3 +17,4 @@ DECL|variable|redirectDocumentationToDevNull
 DECL|variable|showInternal
 DECL|variable|singleExec
 DECL|variable|translators
+DECL|variable|writeQaPages
