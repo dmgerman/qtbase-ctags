@@ -1,5 +1,0 @@
-DECL|macro|COMMON_EVENT_TRACER_H_
-DECL|macro|TRACE_ENTRY
-DECL|macro|TRACE_ENTRY
-DECL|typedef|AddTraceEventFunc
-DECL|typedef|GetCategoryEnabledFlagFunc

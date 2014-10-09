@@ -15,7 +15,6 @@ DECL|function|debug
 DECL|function|debug
 DECL|function|grabMessageHandler
 DECL|function|grabMessageHandler
-DECL|function|hasStdErr
 DECL|function|isFatal
 DECL|function|qCleanupFuncinfo
 DECL|function|qDefaultMessageHandler
@@ -26,7 +25,7 @@ DECL|function|qFormatLogMessage
 DECL|function|qInstallMessageHandler
 DECL|function|qInstallMsgHandler
 DECL|function|qSetMessagePattern
-DECL|function|qWinLogToStderr
+DECL|function|qt_logging_to_console
 DECL|function|qt_message
 DECL|function|qt_message_fatal
 DECL|function|qt_message_output
@@ -42,6 +41,7 @@ DECL|function|warning
 DECL|function|warning
 DECL|function|warning
 DECL|function|warning
+DECL|function|willLogToConsole
 DECL|function|~QMessagePattern
 DECL|macro|HANDLE_IF_TOKEN
 DECL|macro|HANDLE_IF_TOKEN

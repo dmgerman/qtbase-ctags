@@ -1,2 +1,2 @@
-DECL|function|CopyBGRAUByteToRGBAUByte
+DECL|function|CopyBGRA8ToRGBA8
 DECL|namespace|rx

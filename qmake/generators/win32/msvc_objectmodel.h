@@ -88,7 +88,6 @@ DECL|enumerator|floatingPointPrecise
 DECL|enumerator|floatingPointStrict
 DECL|enumerator|genProxyManaged
 DECL|enumerator|genProxyNative
-DECL|enumerator|lexyacc
 DECL|enumerator|linkIncrementalDefault
 DECL|enumerator|linkIncrementalNo
 DECL|enumerator|linkIncrementalYes
@@ -123,9 +122,6 @@ DECL|enumerator|midlWarningLevel_1
 DECL|enumerator|midlWarningLevel_2
 DECL|enumerator|midlWarningLevel_3
 DECL|enumerator|midlWarningLevel_4
-DECL|enumerator|mocHdr
-DECL|enumerator|mocSrc
-DECL|enumerator|none
 DECL|enumerator|optFolding
 DECL|enumerator|optFoldingDefault
 DECL|enumerator|optLTCGDefault
@@ -310,7 +306,6 @@ DECL|enum|browseInfoOption
 DECL|enum|callingConventionOption
 DECL|enum|charSet
 DECL|enum|compileAsManagedOptions
-DECL|enum|customBuildCheck
 DECL|enum|debugOption
 DECL|enum|eAppProtectionOption
 DECL|enum|enhancedInstructionSetOption

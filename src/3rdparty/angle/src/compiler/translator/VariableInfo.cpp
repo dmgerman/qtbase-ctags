@@ -4,8 +4,11 @@ DECL|function|ExpandUserDefinedVariable
 DECL|function|ExpandVariable
 DECL|function|ExpandVariables
 DECL|function|FindVariable
+DECL|function|GetBlockLayoutType
+DECL|function|InterfaceBlockFieldName
 DECL|function|NameHashingTraverser
 DECL|function|visitAggregate
+DECL|function|visitBinary
 DECL|function|visitInfoList
 DECL|function|visitSymbol
 DECL|function|visitVariable
@@ -13,3 +16,4 @@ DECL|function|visitVariable
 DECL|function|visitVariable
 DECL|function|visitVariable
 DECL|member|mHashFunction
+DECL|namespace|sh

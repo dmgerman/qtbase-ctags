@@ -3,6 +3,10 @@ DECL|enumerator|INITIAL_STREAM_BUFFER_SIZE
 DECL|function|ElementsInBuffer
 DECL|function|StreamingBufferElementCount
 DECL|function|VertexDataManager
+DECL|function|invalidateMatchingStaticData
 DECL|function|prepareVertexData
+DECL|function|reserveSpaceForAttrib
+DECL|function|storeAttribute
+DECL|function|storeCurrentValue
 DECL|function|~VertexDataManager
 DECL|namespace|rx

@@ -89,6 +89,7 @@ DECL|function|textObscuredByScrollbars
 DECL|function|tst_QPlainTextEdit
 DECL|function|undoAvailable
 DECL|function|undoAvailableAfterPaste
+DECL|function|undoCommandRemovesAndReinsertsBlock
 DECL|function|undoRedo
 DECL|function|undoRedoAfterSetContent
 DECL|function|undoRedoAvailableRepetition

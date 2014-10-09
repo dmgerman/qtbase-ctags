@@ -1,3 +1,5 @@
+DECL|function|ComputeRange
+DECL|function|ComputeTypedRange
 DECL|function|IndexBounds
 DECL|function|IndexBounds
 DECL|function|IndexRange

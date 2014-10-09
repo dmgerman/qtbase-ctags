@@ -8,7 +8,6 @@ DECL|function|NativeBuffer11
 DECL|function|PackPixelsParams
 DECL|function|PackPixelsParams
 DECL|function|PackStorage11
-DECL|function|clear
 DECL|function|copyFromStorage
 DECL|function|copyFromStorage
 DECL|function|copySubData
@@ -38,8 +37,10 @@ DECL|function|packPixels
 DECL|function|resize
 DECL|function|resize
 DECL|function|setData
+DECL|function|setData
 DECL|function|setDataRevision
 DECL|function|setSubData
+DECL|function|supportsDirectBinding
 DECL|function|unmap
 DECL|function|unmap
 DECL|function|unmap
@@ -47,7 +48,6 @@ DECL|function|~Buffer11
 DECL|function|~BufferStorage11
 DECL|function|~NativeBuffer11
 DECL|function|~PackStorage11
-DECL|macro|D3D11_MAP_FLAG_DO_NOT_WAIT
 DECL|member|mBufferSize
 DECL|member|mDataModified
 DECL|member|mMemoryBuffer

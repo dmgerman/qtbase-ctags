@@ -1,5 +1,4 @@
 DECL|function|Buffer9
-DECL|function|clear
 DECL|function|copySubData
 DECL|function|getData
 DECL|function|getRenderer

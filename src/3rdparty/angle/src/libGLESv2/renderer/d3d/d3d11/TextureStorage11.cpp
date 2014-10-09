@@ -9,16 +9,25 @@ DECL|function|TextureStorage11_2DArray
 DECL|function|TextureStorage11_3D
 DECL|function|TextureStorage11_Cube
 DECL|function|add
+DECL|function|associateImage
+DECL|function|associateImage
+DECL|function|associateImage
+DECL|function|associateImage
+DECL|function|copySubresourceLevel
 DECL|function|createSRV
 DECL|function|createSRV
 DECL|function|createSRV
 DECL|function|createSRV
+DECL|function|disassociateImage
+DECL|function|disassociateImage
+DECL|function|disassociateImage
+DECL|function|disassociateImage
 DECL|function|find
-DECL|function|generateMipmap
-DECL|function|generateMipmap
-DECL|function|generateMipmap
-DECL|function|generateMipmap
 DECL|function|generateMipmapLayer
+DECL|function|generateMipmaps
+DECL|function|generateMipmaps
+DECL|function|generateMipmaps
+DECL|function|generateMipmaps
 DECL|function|generateSwizzles
 DECL|function|getBindFlags
 DECL|function|getLevelCount
@@ -27,9 +36,8 @@ DECL|function|getLevelHeight
 DECL|function|getLevelWidth
 DECL|function|getRenderTarget
 DECL|function|getRenderTarget
-DECL|function|getRenderTargetFace
-DECL|function|getRenderTargetLayer
-DECL|function|getRenderTargetLayer
+DECL|function|getRenderTarget
+DECL|function|getRenderTarget
 DECL|function|getResource
 DECL|function|getResource
 DECL|function|getResource
@@ -45,13 +53,13 @@ DECL|function|getSwizzleTexture
 DECL|function|getSwizzleTexture
 DECL|function|getSwizzleTexture
 DECL|function|getSwizzleTexture
-DECL|function|getTextureLevelDepth
-DECL|function|getTextureLevelDepth
-DECL|function|getTextureLevelDepth
-DECL|function|getTextureLevelDepth
 DECL|function|getTopLevel
 DECL|function|invalidateSwizzleCache
 DECL|function|invalidateSwizzleCacheLevel
+DECL|function|isAssociatedImageValid
+DECL|function|isAssociatedImageValid
+DECL|function|isAssociatedImageValid
+DECL|function|isAssociatedImageValid
 DECL|function|isManaged
 DECL|function|isRenderTarget
 DECL|function|makeTextureStorage11
@@ -62,6 +70,10 @@ DECL|function|makeTextureStorage11_Cube
 DECL|function|operator !=
 DECL|function|operator ==
 DECL|function|operator ==
+DECL|function|releaseAssociatedImage
+DECL|function|releaseAssociatedImage
+DECL|function|releaseAssociatedImage
+DECL|function|releaseAssociatedImage
 DECL|function|updateSubresourceLevel
 DECL|function|verifySwizzleExists
 DECL|function|~SRVCache

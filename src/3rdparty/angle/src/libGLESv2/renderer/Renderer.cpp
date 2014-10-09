@@ -7,5 +7,6 @@ DECL|function|glCreateRenderer
 DECL|function|glDestroyRenderer
 DECL|function|~Renderer
 DECL|macro|ANGLE_DEFAULT_D3D11
+DECL|macro|ANGLE_DEFAULT_D3D11
 DECL|namespace|rx
 DECL|typedef|CreateRendererFunction

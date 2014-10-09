@@ -12,6 +12,7 @@ DECL|function|inFontUcs4
 DECL|function|init
 DECL|function|lineWidth
 DECL|function|metrics
+DECL|function|mnemonicTextWidth
 DECL|function|same
 DECL|function|tst_QFontMetrics
 DECL|function|veryNarrowElidedText

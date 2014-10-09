@@ -11,14 +11,13 @@ DECL|function|getActualFormat
 DECL|function|getAlphaSize
 DECL|function|getBlueSize
 DECL|function|getDepthSize
-DECL|function|getDepthStencil
-DECL|function|getDepthStencil
 DECL|function|getGreenSize
 DECL|function|getHeight
 DECL|function|getHeight
 DECL|function|getInternalFormat
 DECL|function|getInternalFormat
 DECL|function|getRedSize
+DECL|function|getRenderTarget
 DECL|function|getRenderTarget
 DECL|function|getRenderTarget
 DECL|function|getSamples
@@ -35,6 +34,7 @@ DECL|function|setStorage
 DECL|function|~Colorbuffer
 DECL|function|~DepthStencilbuffer
 DECL|function|~Depthbuffer
+DECL|function|~Renderbuffer
 DECL|function|~RenderbufferStorage
 DECL|function|~Stencilbuffer
 DECL|member|mCurrentSerial

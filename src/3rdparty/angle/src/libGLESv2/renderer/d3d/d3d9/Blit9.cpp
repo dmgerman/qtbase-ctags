@@ -1,8 +1,8 @@
 DECL|function|Blit9
 DECL|function|boxFilter
 DECL|function|copy
-DECL|function|copy
-DECL|function|copy
+DECL|function|copy2D
+DECL|function|copyCube
 DECL|function|copySurfaceToTexture
 DECL|function|formatConvert
 DECL|function|getSurfaceRect

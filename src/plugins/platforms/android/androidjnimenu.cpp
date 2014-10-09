@@ -1,6 +1,7 @@
 DECL|function|addAllMenuItemsToMenu
 DECL|function|addMenuBar
 DECL|function|androidPlatformMenuDestroyed
+DECL|function|fillContextMenu
 DECL|function|fillMenuItem
 DECL|function|hideContextMenu
 DECL|function|onContextItemSelected
