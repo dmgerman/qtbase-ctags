@@ -1,0 +1,16 @@
+DECL|class|EventReader
+DECL|function|EventReader
+DECL|function|createNativeWindow
+DECL|function|destroyNativeWindow
+DECL|function|hasCapability
+DECL|function|platformDestroy
+DECL|function|platformDisplay
+DECL|function|platformInit
+DECL|function|run
+DECL|function|screenSize
+DECL|function|sendConnectionEvent
+DECL|function|translateMouseButton
+DECL|function|translateMouseButtons
+DECL|macro|DISPLAY
+DECL|member|m_integration
+DECL|variable|running

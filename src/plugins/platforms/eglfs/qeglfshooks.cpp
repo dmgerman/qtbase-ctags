@@ -1,0 +1,1 @@
+DECL|function|qt_egl_device_integration

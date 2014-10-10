@@ -1,0 +1,2 @@
+DECL|macro|QEGLFSX11INTEGRATION_H
+DECL|variable|EventReader

@@ -1,3 +1,4 @@
+DECL|function|create
 DECL|function|createCursor
 DECL|function|createNativeOffscreenWindow
 DECL|function|createNativeWindow
@@ -6,6 +7,8 @@ DECL|function|fbDeviceName
 DECL|function|filterConfig
 DECL|function|framebufferIndex
 DECL|function|hasCapability
+DECL|function|keys
+DECL|function|loadIntegration
 DECL|function|logicalDpi
 DECL|function|nativeOrientation
 DECL|function|orientation
@@ -21,6 +24,6 @@ DECL|function|screenInit
 DECL|function|screenSize
 DECL|function|supportsPBuffers
 DECL|function|surfaceFormatFor
+DECL|function|usesDefaultScreen
 DECL|function|waitForVSync
 DECL|variable|framebuffer
-DECL|variable|stubHooks
