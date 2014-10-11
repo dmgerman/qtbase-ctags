@@ -80,6 +80,7 @@ DECL|function|macTypes
 DECL|function|mid
 DECL|function|midRef
 DECL|function|nanAndInf
+DECL|function|nullFromLocal8Bit
 DECL|function|nullFromUtf8
 DECL|function|number
 DECL|function|operator ==
