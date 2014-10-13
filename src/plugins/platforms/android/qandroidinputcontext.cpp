@@ -55,6 +55,7 @@ DECL|function|setFocusObject
 DECL|function|setSelection
 DECL|function|setSelection
 DECL|function|showInputPanel
+DECL|function|showInputPanelLater
 DECL|function|update
 DECL|function|updateCursorPosition
 DECL|function|updateCursorPosition
