@@ -20,6 +20,7 @@ DECL|enumerator|MoveRight
 DECL|enumerator|MoveUp
 DECL|enum|CursorAction
 DECL|function|Model
+DECL|function|QTest__keySequence
 DECL|function|QtTestTableModel
 DECL|function|QtTestTableView
 DECL|function|TableViewWithCursorExposed
@@ -126,6 +127,8 @@ DECL|function|selectColumn
 DECL|function|selectColumn_data
 DECL|function|selectRow
 DECL|function|selectRow_data
+DECL|function|selectall
+DECL|function|selectall_data
 DECL|function|selectedIndexes
 DECL|function|selection
 DECL|function|selectionSignal
