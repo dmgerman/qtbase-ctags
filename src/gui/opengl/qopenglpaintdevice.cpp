@@ -1,14 +1,12 @@
 DECL|class|QOpenGLEngineThreadStorage
-DECL|class|QOpenGLPaintDevicePrivate
+DECL|function|QOpenGLPaintDevice
 DECL|function|QOpenGLPaintDevice
 DECL|function|QOpenGLPaintDevice
 DECL|function|QOpenGLPaintDevice
 DECL|function|QOpenGLPaintDevicePrivate
-DECL|function|beginPaint
 DECL|function|context
 DECL|function|dotsPerMeterX
 DECL|function|dotsPerMeterY
-DECL|function|endPaint
 DECL|function|engine
 DECL|function|ensureActiveTarget
 DECL|function|metric
@@ -21,11 +19,4 @@ DECL|function|setPaintFlipped
 DECL|function|setSize
 DECL|function|size
 DECL|function|~QOpenGLPaintDevice
-DECL|member|ctx
-DECL|member|devicePixelRatio
-DECL|member|dpmx
-DECL|member|dpmy
-DECL|member|engine
-DECL|member|flipped
-DECL|member|size
 DECL|member|storage

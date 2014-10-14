@@ -1,7 +1,9 @@
 DECL|class|QOpenGLWidgetPaintDevice
+DECL|class|QOpenGLWidgetPaintDevicePrivate
 DECL|class|QOpenGLWidgetPrivate
 DECL|function|QOpenGLWidget
 DECL|function|QOpenGLWidgetPaintDevice
+DECL|function|QOpenGLWidgetPaintDevicePrivate
 DECL|function|QOpenGLWidgetPrivate
 DECL|function|beginCompose
 DECL|function|beginPaint
