@@ -4,9 +4,11 @@ DECL|function|QOpenGLPaintDevice
 DECL|function|QOpenGLPaintDevice
 DECL|function|QOpenGLPaintDevice
 DECL|function|QOpenGLPaintDevicePrivate
+DECL|function|beginPaint
 DECL|function|context
 DECL|function|dotsPerMeterX
 DECL|function|dotsPerMeterY
+DECL|function|endPaint
 DECL|function|engine
 DECL|function|ensureActiveTarget
 DECL|function|metric
