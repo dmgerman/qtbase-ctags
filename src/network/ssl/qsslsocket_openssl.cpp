@@ -26,6 +26,7 @@ DECL|function|initSslContext
 DECL|function|lock
 DECL|function|locking_function
 DECL|function|q_X509Callback
+DECL|function|q_ssl_psk_client_callback
 DECL|function|resetDefaultCiphers
 DECL|function|resetDefaultEllipticCurves
 DECL|function|sessionCipher
@@ -41,6 +42,7 @@ DECL|function|startHandshake
 DECL|function|startServerEncryption
 DECL|function|supportsSsl
 DECL|function|systemCaCertificates
+DECL|function|tlsPskClientCallback
 DECL|function|transmit
 DECL|function|verify
 DECL|function|~QOpenSslLocks
@@ -56,6 +58,7 @@ DECL|member|mutex
 DECL|member|ptrSecCertificateCopyData
 DECL|member|ptrSecTrustCopyAnchorCertificates
 DECL|member|ptrSecTrustSettingsCopyCertificates
+DECL|member|s_indexForSSLExtraData
 DECL|member|s_libraryLoaded
 DECL|member|s_loadRootCertsOnDemand
 DECL|member|s_loadedCiphersAndCerts

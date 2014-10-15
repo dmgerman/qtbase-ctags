@@ -33,6 +33,7 @@ DECL|macro|q_sk_SSL_CIPHER_num
 DECL|macro|q_sk_SSL_CIPHER_value
 DECL|macro|q_sk_X509_num
 DECL|macro|q_sk_X509_value
+DECL|typedef|q_psk_client_callback_t
 DECL|variable|QDateTime
 DECL|variable|q_DH_new
 DECL|variable|q_SSL_get_current_cipher

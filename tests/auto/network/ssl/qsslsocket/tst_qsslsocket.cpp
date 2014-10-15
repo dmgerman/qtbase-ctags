@@ -1,3 +1,4 @@
+DECL|class|PskProvider
 DECL|class|SetReadBufferSize_task_250027_handler
 DECL|class|SslServer
 DECL|class|SslServer2
@@ -14,9 +15,19 @@ DECL|enumerator|AuthNtlm
 DECL|enumerator|HttpProxy
 DECL|enumerator|NoAuth
 DECL|enumerator|NoProxy
+DECL|enumerator|PskConnectDoNotHandlePsk
+DECL|enumerator|PskConnectEmptyCredentials
+DECL|enumerator|PskConnectRightCredentialsDoNotVerifyPeer
+DECL|enumerator|PskConnectRightCredentialsPeerVerifyFailure
+DECL|enumerator|PskConnectRightCredentialsVerifyPeer
+DECL|enumerator|PskConnectWrongCredentials
+DECL|enumerator|PskConnectWrongIdentity
+DECL|enumerator|PskConnectWrongPreSharedKey
 DECL|enumerator|Socks5Proxy
 DECL|enumerator|TypeMask
 DECL|enum|ProxyTests
+DECL|enum|PskConnectTestType
+DECL|function|PskProvider
 DECL|function|SslServer
 DECL|function|SslServer3
 DECL|function|SslServer4
@@ -77,6 +88,7 @@ DECL|function|privateKeyOpaque
 DECL|function|protocol
 DECL|function|protocolServerSide
 DECL|function|protocolServerSide_data
+DECL|function|providePsk
 DECL|function|proxyAuthenticationRequired
 DECL|function|qtbug18498_peek
 DECL|function|qtbug18498_peek2
@@ -93,8 +105,10 @@ DECL|function|setDefaultCaCertificates
 DECL|function|setDefaultCiphers
 DECL|function|setEmptyDefaultConfiguration
 DECL|function|setEmptyKey
+DECL|function|setIdentity
 DECL|function|setLocalCertificate
 DECL|function|setLocalCertificateChain
+DECL|function|setPreSharedKey
 DECL|function|setPrivateKey
 DECL|function|setReadBufferSize
 DECL|function|setReadBufferSize_task_250027
@@ -103,6 +117,8 @@ DECL|function|setSslConfiguration
 DECL|function|setSslConfiguration_data
 DECL|function|simpleConnect
 DECL|function|simpleConnectWithIgnore
+DECL|function|simplePskConnect
+DECL|function|simplePskConnect_data
 DECL|function|spontaneousWrite
 DECL|function|sslErrors
 DECL|function|sslErrors_data
@@ -136,9 +152,11 @@ DECL|member|loopLevel
 DECL|member|loopLevel
 DECL|member|m_certFile
 DECL|member|m_certFile
+DECL|member|m_identity
 DECL|member|m_interFile
 DECL|member|m_keyFile
 DECL|member|m_keyFile
+DECL|member|m_psk
 DECL|member|ok
 DECL|member|protocol
 DECL|member|proxyAuthCalled
@@ -152,3 +170,8 @@ DECL|member|socket
 DECL|member|storedExpectedSslErrors
 DECL|typedef|QSslSocketPtr
 DECL|typedef|SslErrorList
+DECL|variable|PSK_CIPHER_WITHOUT_AUTH
+DECL|variable|PSK_CLIENT_IDENTITY
+DECL|variable|PSK_CLIENT_PRESHAREDKEY
+DECL|variable|PSK_SERVER_IDENTITY_HINT
+DECL|variable|PSK_SERVER_PORT

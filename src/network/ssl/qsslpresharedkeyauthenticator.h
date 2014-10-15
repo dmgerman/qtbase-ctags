@@ -1,0 +1,3 @@
+DECL|function|operator
+DECL|macro|QSSLPRESHAREDKEYAUTHENTICATOR_H
+DECL|variable|QSslPreSharedKeyAuthenticatorPrivate
