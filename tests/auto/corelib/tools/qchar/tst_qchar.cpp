@@ -27,10 +27,14 @@ DECL|function|normalization
 DECL|function|normalizationCorrections
 DECL|function|normalization_data
 DECL|function|normalization_manual
+DECL|function|operators
+DECL|function|operators_data
 DECL|function|script
 DECL|function|toCaseFolded
 DECL|function|toLower
 DECL|function|toTitle
 DECL|function|toUpper
 DECL|function|unicodeVersion
+DECL|macro|CHECK
+DECL|macro|CHECK
 DECL|member|app
