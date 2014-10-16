@@ -91,6 +91,8 @@ DECL|function|end
 DECL|function|end
 DECL|function|end
 DECL|function|end
+DECL|function|find
+DECL|function|find
 DECL|function|isNull
 DECL|function|isNull
 DECL|function|key
