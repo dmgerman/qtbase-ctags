@@ -1,0 +1,1 @@
+DECL|macro|QPIXMAPSTYLE_H
