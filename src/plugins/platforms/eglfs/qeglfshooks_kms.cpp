@@ -57,6 +57,8 @@ DECL|function|waitForFlip
 DECL|function|waitForVSync
 DECL|function|~QEglFSKmsCursor
 DECL|function|~QEglFSKmsScreen
+DECL|macro|DRM_CAP_CURSOR_HEIGHT
+DECL|macro|DRM_CAP_CURSOR_WIDTH
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
@@ -95,6 +97,7 @@ DECL|member|m_bo
 DECL|member|m_cursor
 DECL|member|m_cursorAtlas
 DECL|member|m_cursorImage
+DECL|member|m_cursorSize
 DECL|member|m_device
 DECL|member|m_device
 DECL|member|m_dri_fd
