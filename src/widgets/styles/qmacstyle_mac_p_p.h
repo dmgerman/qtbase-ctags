@@ -7,6 +7,7 @@ DECL|enumerator|QCocoaCheckBox
 DECL|enumerator|QCocoaComboBox
 DECL|enumerator|QCocoaHorizontalSlider
 DECL|enumerator|QCocoaPopupButton
+DECL|enumerator|QCocoaPullDownButton
 DECL|enumerator|QCocoaPushButton
 DECL|enumerator|QCocoaRadioButton
 DECL|enumerator|QCocoaVerticalSlider
