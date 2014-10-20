@@ -52,6 +52,7 @@ DECL|function|keyPressEvent
 DECL|function|keyboardSelection
 DECL|function|layoutDirection
 DECL|function|maxVisibleItems
+DECL|function|maxVisibleItems_data
 DECL|function|modelDeleted
 DECL|function|mouseWheel
 DECL|function|mouseWheel_data
