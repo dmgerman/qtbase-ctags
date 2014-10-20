@@ -23,6 +23,7 @@ DECL|function|firstPemCertificateFromPem
 DECL|function|fromDevice
 DECL|function|fromPath
 DECL|function|fromPath_data
+DECL|function|hash
 DECL|function|initTestCase
 DECL|function|largeExpirationDate
 DECL|function|largeSerialNumber

@@ -1,6 +1,7 @@
 DECL|function|childIdListForAccessibleObject
 DECL|function|clickAction
 DECL|function|descriptionForAccessibleObject
+DECL|function|descriptionForAccessibleObject_helper
 DECL|function|hitTest
 DECL|function|interfaceFromId
 DECL|function|parentId

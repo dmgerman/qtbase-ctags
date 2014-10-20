@@ -8,8 +8,6 @@ DECL|function|disconnectSocketFromHost
 DECL|function|disconnected
 DECL|function|ensureInitialized
 DECL|function|importPKCS12
-DECL|function|noexcept
-DECL|function|noexcept
 DECL|function|onSslUpgrade
 DECL|function|resetDefaultCiphers
 DECL|function|sessionCipher
@@ -30,7 +28,6 @@ DECL|member|additionalCertificates
 DECL|member|certificateMutex
 DECL|member|hostNameFactory
 DECL|member|rootStore
-DECL|member|s_libraryLoaded
 DECL|member|s_loadRootCertsOnDemand
 DECL|member|s_loadedCiphersAndCerts
 DECL|member|systemCaCertificates

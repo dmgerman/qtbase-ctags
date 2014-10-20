@@ -11,4 +11,3 @@ DECL|function|paintQtLogo
 DECL|function|quad
 DECL|function|render
 DECL|function|~GLWidget
-DECL|variable|bubbleNum

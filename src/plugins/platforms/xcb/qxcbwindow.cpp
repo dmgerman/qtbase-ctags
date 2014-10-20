@@ -36,11 +36,15 @@ DECL|enumerator|XEMBED_REQUEST_FOCUS
 DECL|enumerator|XEMBED_UNREGISTER_ACCELERATOR
 DECL|enumerator|XEMBED_WINDOW_ACTIVATE
 DECL|enumerator|XEMBED_WINDOW_DEACTIVATE
+DECL|enumerator|baseEventMask
+DECL|enumerator|defaultEventMask
 DECL|enumerator|defaultWindowHeight
 DECL|enumerator|defaultWindowWidth
+DECL|enumerator|transparentForInputEventMask
 DECL|enum|QX11EmbedFocusInDetail
 DECL|enum|QX11EmbedInfoFlags
 DECL|enum|QX11EmbedMessageType
+DECL|enum|quint32
 DECL|function|ExposeCompressor
 DECL|function|QXcbWindow
 DECL|function|activeWindowChangeQueued

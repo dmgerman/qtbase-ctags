@@ -28,7 +28,6 @@ DECL|function|freeResource
 DECL|function|functions
 DECL|function|functionsBackend
 DECL|function|getProcAddress
-DECL|function|globalShareContext
 DECL|function|handle
 DECL|function|hasExtension
 DECL|function|hasProfiles
@@ -54,7 +53,6 @@ DECL|function|resources
 DECL|function|screen
 DECL|function|setCurrentContext
 DECL|function|setFormat
-DECL|function|setGlobalShareContext
 DECL|function|setNativeHandle
 DECL|function|setProfile
 DECL|function|setQGLContextHandle

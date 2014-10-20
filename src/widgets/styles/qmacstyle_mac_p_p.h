@@ -5,9 +5,12 @@ DECL|enumerator|QAquaSizeUnknown
 DECL|enumerator|QCocoaArrowButton
 DECL|enumerator|QCocoaCheckBox
 DECL|enumerator|QCocoaComboBox
+DECL|enumerator|QCocoaHorizontalSlider
 DECL|enumerator|QCocoaPopupButton
+DECL|enumerator|QCocoaPullDownButton
 DECL|enumerator|QCocoaPushButton
 DECL|enumerator|QCocoaRadioButton
+DECL|enumerator|QCocoaVerticalSlider
 DECL|enum|QAquaWidgetSize
 DECL|enum|QCocoaWidgetKind
 DECL|macro|CT1

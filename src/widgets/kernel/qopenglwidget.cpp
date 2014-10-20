@@ -1,9 +1,12 @@
 DECL|class|QOpenGLWidgetPaintDevice
+DECL|class|QOpenGLWidgetPaintDevicePrivate
 DECL|class|QOpenGLWidgetPrivate
 DECL|function|QOpenGLWidget
 DECL|function|QOpenGLWidgetPaintDevice
+DECL|function|QOpenGLWidgetPaintDevicePrivate
 DECL|function|QOpenGLWidgetPrivate
 DECL|function|beginCompose
+DECL|function|beginPaint
 DECL|function|context
 DECL|function|defaultFramebufferObject
 DECL|function|doneCurrent
@@ -15,6 +18,7 @@ DECL|function|grabFramebuffer
 DECL|function|grabFramebuffer
 DECL|function|initialize
 DECL|function|initializeGL
+DECL|function|initializeViewportFramebuffer
 DECL|function|invokeUserPaint
 DECL|function|isValid
 DECL|function|makeCurrent
@@ -41,9 +45,12 @@ DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|context
 DECL|member|fakeHidden
 DECL|member|fbo
+DECL|member|flushPending
 DECL|member|inBackingStorePaint
 DECL|member|initialized
 DECL|member|paintDevice

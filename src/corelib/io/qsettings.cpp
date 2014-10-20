@@ -109,6 +109,7 @@ DECL|macro|CSIDL_APPDATA
 DECL|macro|CSIDL_COMMON_APPDATA
 DECL|macro|FLUSH_CURRENT_SECTION
 DECL|macro|FLUSH_CURRENT_SECTION
+DECL|macro|Q_XDG_PLATFORM
 DECL|member|caseSensitivity
 DECL|member|extension
 DECL|member|keyMap
