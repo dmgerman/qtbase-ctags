@@ -42,6 +42,7 @@ DECL|function|domains
 DECL|function|flags
 DECL|function|frequency
 DECL|function|getAccessPoints
+DECL|function|getConnectionByUuid
 DECL|function|getDevices
 DECL|function|getId
 DECL|function|getMacAddress
@@ -73,7 +74,9 @@ DECL|function|mode
 DECL|function|mode
 DECL|function|modemCapabilities
 DECL|function|networkInterface
+DECL|function|requestScan
 DECL|function|rsnFlags
+DECL|function|scanIsDone
 DECL|function|setConnections
 DECL|function|setConnections
 DECL|function|setConnections

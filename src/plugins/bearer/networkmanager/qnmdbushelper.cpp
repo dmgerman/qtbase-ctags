@@ -1,4 +1,5 @@
 DECL|function|QNmDBusHelper
+DECL|function|activeConnectionPropertiesChanged
 DECL|function|deviceStateChanged
 DECL|function|slotAccessPointAdded
 DECL|function|slotAccessPointRemoved
