@@ -28,8 +28,8 @@ DECL|function|next
 DECL|function|next
 DECL|function|next
 DECL|function|next
-DECL|function|retreiveVolumeInfo
 DECL|function|retrieveLabel
+DECL|function|retrieveVolumeInfo
 DECL|function|root
 DECL|function|rootPath
 DECL|function|rootPath
