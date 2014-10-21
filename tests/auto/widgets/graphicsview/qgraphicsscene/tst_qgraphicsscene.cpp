@@ -75,6 +75,7 @@ DECL|function|inputMethod
 DECL|function|inputMethodEvent
 DECL|function|inputMethodQuery
 DECL|function|inputMethod_data
+DECL|function|insertionOrder
 DECL|function|isActive
 DECL|function|itemChange
 DECL|function|itemIndexMethod
