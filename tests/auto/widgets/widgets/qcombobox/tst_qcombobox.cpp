@@ -106,6 +106,7 @@ DECL|function|task_QTBUG_31146_popupCompletion
 DECL|function|textpixmapdata
 DECL|function|textpixmapdata_data
 DECL|function|tst_QComboBox
+DECL|function|updateDelegateOnEditableChange
 DECL|function|verticalOffset
 DECL|function|virtualAutocompletion
 DECL|function|visualRect
