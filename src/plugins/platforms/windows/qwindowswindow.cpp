@@ -102,6 +102,7 @@ DECL|function|show_sys
 DECL|function|startSystemResize
 DECL|function|stopAlertWindow
 DECL|function|surface
+DECL|function|testShowWithoutActivating
 DECL|function|topLevelOf
 DECL|function|transientParentHwnd
 DECL|function|updateDropSite
