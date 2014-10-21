@@ -1,6 +1,7 @@
 DECL|class|TestWidget
 DECL|class|tst_QGestureRecognizer
 DECL|enumerator|StandardPinchSubTest
+DECL|enumerator|SwipeChangeDirectionSubTest
 DECL|enumerator|SwipeLineSubTest
 DECL|enumerator|TwoFingerPanSubTest
 DECL|enum|PanSubTest
