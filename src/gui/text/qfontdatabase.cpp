@@ -83,7 +83,6 @@ DECL|function|styles
 DECL|function|supportsThreadedFontRendering
 DECL|function|systemFont
 DECL|function|weight
-DECL|function|weightFromInteger
 DECL|function|writingSystemName
 DECL|function|writingSystemSample
 DECL|function|writingSystems

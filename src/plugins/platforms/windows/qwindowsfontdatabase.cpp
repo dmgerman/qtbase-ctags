@@ -64,7 +64,6 @@ DECL|function|systemDefaultFont
 DECL|function|systemFont
 DECL|function|tableDirectoryEntry
 DECL|function|verticalDPI
-DECL|function|weightFromInteger
 DECL|function|writingSystemFromCharSet
 DECL|function|~CustomFontFileLoader
 DECL|function|~DirectWriteFontFileLoader

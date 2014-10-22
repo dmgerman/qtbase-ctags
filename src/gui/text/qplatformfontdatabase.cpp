@@ -40,6 +40,7 @@ DECL|function|resolveFontFamilyAlias
 DECL|function|setSupported
 DECL|function|standardSizes
 DECL|function|supported
+DECL|function|weightFromInteger
 DECL|function|writingSystemsFromTrueTypeBits
 DECL|function|~QPlatformFontDatabase
 DECL|function|~QSupportedWritingSystems

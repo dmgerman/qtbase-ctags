@@ -13,6 +13,3 @@ DECL|typedef|qt_get_font_table_func_t
 DECL|variable|QFontEngineGlyphCache
 DECL|variable|QGlyph
 DECL|variable|QPainterPath
-DECL|variable|qt_extralightFontWeight
-DECL|variable|qt_mediumFontWeight
-DECL|variable|qt_thinFontWeight
