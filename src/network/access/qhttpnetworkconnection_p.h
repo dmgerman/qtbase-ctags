@@ -6,3 +6,4 @@ DECL|variable|QHostInfo
 DECL|variable|QHttpNetworkConnectionPrivate
 DECL|variable|QHttpNetworkReply
 DECL|variable|QHttpNetworkRequest
+DECL|variable|QHttpThreadDelegate
