@@ -37,6 +37,7 @@ DECL|function|dockWidgetArea
 DECL|function|dockWidgetGeometries
 DECL|function|dockWidgetSize
 DECL|function|findWidgetRecursively
+DECL|function|fixedSizeCentralWidget
 DECL|function|getSetCheck
 DECL|function|hideBeforeLayout
 DECL|function|iconSize
