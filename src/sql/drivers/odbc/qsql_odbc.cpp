@@ -62,8 +62,11 @@ DECL|function|qMakeError
 DECL|function|qMakeError
 DECL|function|qMakeFieldInfo
 DECL|function|qMakeFieldInfo
+DECL|function|qMakeFieldInfo
 DECL|function|qODBCWarn
 DECL|function|qODBCWarn
+DECL|function|qODBCWarn
+DECL|function|qSqlWarning
 DECL|function|qSqlWarning
 DECL|function|qSqlWarning
 DECL|function|qWarnODBCHandle
