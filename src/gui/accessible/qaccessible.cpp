@@ -16,11 +16,13 @@ DECL|function|isActive
 DECL|function|localizedActionDescription
 DECL|function|localizedActionName
 DECL|function|localizedDescription
+DECL|function|nextPageAction
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator ==
 DECL|function|platformAccessibility
 DECL|function|pressAction
+DECL|function|previousPageAction
 DECL|function|qAccessibleCleanup
 DECL|function|qAccessibleEventString
 DECL|function|qAccessibleLocalizedActionDescription
@@ -31,6 +33,10 @@ DECL|function|registerAccessibleInterface
 DECL|function|relations
 DECL|function|removeActivationObserver
 DECL|function|removeFactory
+DECL|function|scrollDownAction
+DECL|function|scrollLeftAction
+DECL|function|scrollRightAction
+DECL|function|scrollUpAction
 DECL|function|setActive
 DECL|function|setFocusAction
 DECL|function|setRootObject
@@ -48,8 +54,14 @@ DECL|function|window
 DECL|function|~QAccessibleInterface
 DECL|member|decreaseAction
 DECL|member|increaseAction
+DECL|member|nextPageAction
 DECL|member|pressAction
+DECL|member|previousPageAction
 DECL|member|rootObjectHandler
+DECL|member|scrollDownAction
+DECL|member|scrollLeftAction
+DECL|member|scrollRightAction
+DECL|member|scrollUpAction
 DECL|member|setFocusAction
 DECL|member|showMenuAction
 DECL|member|toggleAction
