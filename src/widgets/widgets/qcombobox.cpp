@@ -122,6 +122,7 @@ DECL|function|sizeAdjustPolicy
 DECL|function|sizeHint
 DECL|function|spacing
 DECL|function|timerEvent
+DECL|function|topMargin
 DECL|function|updateArrow
 DECL|function|updateDelegate
 DECL|function|updateFocusPolicy

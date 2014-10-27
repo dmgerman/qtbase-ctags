@@ -31,6 +31,7 @@ DECL|function|initSourceFiles
 DECL|function|initTranslationFiles
 DECL|function|initWMAppManifest
 DECL|function|initWinDeployQtTool
+DECL|function|isStandardSuffix
 DECL|function|mergeBuildProject
 DECL|function|openOutput
 DECL|function|outputVariables

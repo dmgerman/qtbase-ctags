@@ -89,6 +89,7 @@ DECL|function|keyReleaseEvent
 DECL|function|keyReleaseEvent_data
 DECL|function|leaveEvent
 DECL|function|makeDndEvent
+DECL|function|mapToGlobal
 DECL|function|maximumSize
 DECL|function|minimumSize
 DECL|function|mouseDoubleClickEvent

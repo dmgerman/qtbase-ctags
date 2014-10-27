@@ -4,6 +4,7 @@ DECL|function|ItemDesc
 DECL|function|RectWidget
 DECL|function|addItem
 DECL|function|addItem_data
+DECL|function|addWidget
 DECL|function|alignment
 DECL|function|alignment
 DECL|function|alignment2
@@ -40,6 +41,7 @@ DECL|function|hfw
 DECL|function|hfw1
 DECL|function|hfw2
 DECL|function|hfw3
+DECL|function|hiddenItems
 DECL|function|horizontalSpacing
 DECL|function|horizontalSpacing_data
 DECL|function|init
@@ -80,12 +82,14 @@ DECL|function|setColumnSpacing_data
 DECL|function|setConstraintFunction
 DECL|function|setGeometry
 DECL|function|setGeometry_data
+DECL|function|setRetainSizeWhenHidden
 DECL|function|setRowFixedHeight
 DECL|function|setRowSpacing
 DECL|function|setRowSpacing_data
 DECL|function|setSizeHint
 DECL|function|setSpacing
 DECL|function|setSpacing_data
+DECL|function|setVisible
 DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|sizeHint

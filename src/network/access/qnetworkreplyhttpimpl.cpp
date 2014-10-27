@@ -6,6 +6,7 @@ DECL|function|_q_cacheLoadReadyRead
 DECL|function|_q_cacheSaveDeviceAboutToClose
 DECL|function|_q_error
 DECL|function|_q_finished
+DECL|function|_q_metaDataChanged
 DECL|function|_q_networkSessionConnected
 DECL|function|_q_networkSessionFailed
 DECL|function|_q_networkSessionUsagePoliciesChanged
@@ -35,7 +36,6 @@ DECL|function|isCachingEnabled
 DECL|function|isSeparator
 DECL|function|isSequential
 DECL|function|loadFromCacheIfAllowed
-DECL|function|metaDataChanged
 DECL|function|migrateBackend
 DECL|function|parseHttpOptionHeader
 DECL|function|postRequest

@@ -1,4 +1,5 @@
 DECL|class|QWindowsWindowCursorData
+DECL|function|QWindowsCursor
 DECL|function|QWindowsCursorCacheKey
 DECL|function|QWindowsWindowCursor
 DECL|function|QWindowsWindowCursor
@@ -15,6 +16,7 @@ DECL|function|cursorState
 DECL|function|customCursor
 DECL|function|customCursor
 DECL|function|handle
+DECL|function|initResources
 DECL|function|isNull
 DECL|function|mousePosition
 DECL|function|operator =

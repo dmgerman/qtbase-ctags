@@ -56,6 +56,7 @@ DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|sizeHint
+DECL|function|sizeHintOfHiddenLayout
 DECL|function|sizeHints
 DECL|function|tst_QGraphicsLayout
 DECL|function|updateParentWidget
