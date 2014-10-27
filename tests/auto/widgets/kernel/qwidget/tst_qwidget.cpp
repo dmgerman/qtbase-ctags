@@ -328,6 +328,7 @@ DECL|function|testWindowIconChangeEventPropagation
 DECL|function|timerEvent
 DECL|function|toplevelLineEditFocus
 DECL|function|touchEventSynthesizedMouseEvent
+DECL|function|transientParent
 DECL|function|translucentWidget
 DECL|function|tst_QWidget
 DECL|function|underMouse

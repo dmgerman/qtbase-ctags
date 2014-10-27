@@ -34,6 +34,7 @@ DECL|function|qt_hrgn_from_qregion
 DECL|function|region
 DECL|function|resolveSymbols
 DECL|function|resolveSymbols
+DECL|function|scrollBarGripperBounds
 DECL|function|setTransparency
 DECL|function|showProperties
 DECL|function|showProperty

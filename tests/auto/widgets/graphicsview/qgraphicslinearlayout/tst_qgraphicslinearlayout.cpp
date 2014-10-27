@@ -20,6 +20,7 @@ DECL|function|dump
 DECL|function|dump_data
 DECL|function|geometry
 DECL|function|geometry_data
+DECL|function|hiddenItems
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|insertItem

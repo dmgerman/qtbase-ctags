@@ -2,6 +2,7 @@ DECL|class|tst_QCalendarWidget
 DECL|function|buttonClickCheck
 DECL|function|cleanup
 DECL|function|cleanupTestCase
+DECL|function|contentsMargins
 DECL|function|firstDayOfWeek
 DECL|function|getSetCheck
 DECL|function|init

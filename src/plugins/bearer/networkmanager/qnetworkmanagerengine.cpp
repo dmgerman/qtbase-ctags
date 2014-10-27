@@ -9,6 +9,7 @@ DECL|function|connectionFromId
 DECL|function|createSessionBackend
 DECL|function|defaultConfiguration
 DECL|function|deviceAdded
+DECL|function|deviceConnectionsChanged
 DECL|function|devicePropertiesChanged
 DECL|function|deviceRemoved
 DECL|function|disconnectFromId
@@ -23,6 +24,7 @@ DECL|function|parseConnection
 DECL|function|removeAccessPoint
 DECL|function|removeConnection
 DECL|function|requestUpdate
+DECL|function|scanFinished
 DECL|function|sessionStateForId
 DECL|function|startTime
 DECL|function|updateAccessPoint

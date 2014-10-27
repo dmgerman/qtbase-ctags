@@ -6,6 +6,7 @@ DECL|function|defaultOkButton
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|postKeyReturn
+DECL|function|qtbug_41513_stylesheetStyle
 DECL|function|runSlotWithFailsafeTimer
 DECL|function|setFont
 DECL|function|setNonStandardFontSize
@@ -15,3 +16,4 @@ DECL|function|testNonStandardFontSize
 DECL|function|testSetFont
 DECL|function|tst_QFontDialog
 DECL|function|~tst_QFontDialog
+DECL|variable|offendingStyleSheet

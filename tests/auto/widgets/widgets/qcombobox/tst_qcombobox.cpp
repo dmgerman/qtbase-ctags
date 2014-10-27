@@ -52,6 +52,7 @@ DECL|function|keyPressEvent
 DECL|function|keyboardSelection
 DECL|function|layoutDirection
 DECL|function|maxVisibleItems
+DECL|function|maxVisibleItems_data
 DECL|function|modelDeleted
 DECL|function|mouseWheel
 DECL|function|mouseWheel_data
@@ -105,6 +106,7 @@ DECL|function|task_QTBUG_31146_popupCompletion
 DECL|function|textpixmapdata
 DECL|function|textpixmapdata_data
 DECL|function|tst_QComboBox
+DECL|function|updateDelegateOnEditableChange
 DECL|function|verticalOffset
 DECL|function|virtualAutocompletion
 DECL|function|visualRect

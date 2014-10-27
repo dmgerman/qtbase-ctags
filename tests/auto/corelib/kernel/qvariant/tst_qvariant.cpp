@@ -72,6 +72,7 @@ DECL|function|convertBoolToByteArray
 DECL|function|convertBoolToByteArray_data
 DECL|function|convertByteArrayToBool
 DECL|function|convertByteArrayToBool_data
+DECL|function|convertIterables
 DECL|function|convertMetaType
 DECL|function|convertToQUint8
 DECL|function|copy_constructor
