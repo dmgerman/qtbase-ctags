@@ -31,8 +31,10 @@ DECL|function|fixInheritance
 DECL|function|getCorrespondingCollection
 DECL|function|getGroup
 DECL|function|getModule
+DECL|function|getNewLinkTarget
 DECL|function|getQmlModule
 DECL|function|getRef
+DECL|function|getTargetList
 DECL|function|insertQmlType
 DECL|function|insertTarget
 DECL|function|matchPathAndTarget

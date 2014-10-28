@@ -32,6 +32,7 @@ DECL|function|generateIncludes
 DECL|function|generateInstantiatedBy
 DECL|function|generateLegaleseList
 DECL|function|generateLink
+DECL|function|generateLinksToLinksPage
 DECL|function|generateList
 DECL|function|generateListOfAllMemberFile
 DECL|function|generateLowStatusMemberFile
