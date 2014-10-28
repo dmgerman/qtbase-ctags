@@ -17,6 +17,7 @@ DECL|function|preprocess
 DECL|function|preprocessed
 DECL|function|primary_expression
 DECL|function|primary_expression_lookup
+DECL|function|readOrMapFile
 DECL|function|relational_expression
 DECL|function|shift_expression
 DECL|function|skipBranch

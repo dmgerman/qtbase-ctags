@@ -9,4 +9,4 @@ DECL|typedef|MacroName
 DECL|typedef|MacroName
 DECL|typedef|MacroName
 DECL|typedef|Macros
-DECL|variable|QIODevice
+DECL|variable|QFile
