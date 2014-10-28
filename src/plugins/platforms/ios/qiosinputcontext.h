@@ -6,3 +6,4 @@ DECL|variable|QIOSKeyboardListener
 DECL|variable|QIOSTextInputResponder
 DECL|variable|kImePlatformDataInputAccessoryView
 DECL|variable|kImePlatformDataInputView
+DECL|variable|kImePlatformDataReturnKeyType
