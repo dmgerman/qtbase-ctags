@@ -5,6 +5,7 @@ DECL|function|keyUp
 DECL|function|keyboardVisibilityChanged
 DECL|function|longPress
 DECL|function|mapAndroidKey
+DECL|function|mapAndroidModifiers
 DECL|function|mouseDown
 DECL|function|mouseMove
 DECL|function|mouseUp
