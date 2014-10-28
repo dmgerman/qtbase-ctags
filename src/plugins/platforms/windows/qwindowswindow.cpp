@@ -42,6 +42,7 @@ DECL|function|getSizeHints
 DECL|function|handleCalculateSize
 DECL|function|handleCompositionSettingsChanged
 DECL|function|handleGeometryChange
+DECL|function|handleGeometryChanging
 DECL|function|handleHidden
 DECL|function|handleMoved
 DECL|function|handleNonClientHitTest
