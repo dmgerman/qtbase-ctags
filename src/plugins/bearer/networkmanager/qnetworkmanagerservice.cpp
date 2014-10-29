@@ -74,6 +74,13 @@ DECL|function|mode
 DECL|function|mode
 DECL|function|modemCapabilities
 DECL|function|networkInterface
+DECL|function|propertiesSwap
+DECL|function|propertiesSwap
+DECL|function|propertiesSwap
+DECL|function|propertiesSwap
+DECL|function|propertiesSwap
+DECL|function|propertiesSwap
+DECL|function|propertiesSwap
 DECL|function|requestScan
 DECL|function|rsnFlags
 DECL|function|scanIsDone
@@ -86,6 +93,9 @@ DECL|function|setConnections
 DECL|function|setConnections
 DECL|function|setConnections
 DECL|function|setConnections
+DECL|function|slotAccessPointAdded
+DECL|function|slotAccessPointRemoved
+DECL|function|slotSettingsRemoved
 DECL|function|specificObject
 DECL|function|speed
 DECL|function|ssid
@@ -94,6 +104,7 @@ DECL|function|state
 DECL|function|state
 DECL|function|strength
 DECL|function|udi
+DECL|function|version
 DECL|function|wirelessCapabilities
 DECL|function|wirelessEnabled
 DECL|function|wirelessHardwareEnabled

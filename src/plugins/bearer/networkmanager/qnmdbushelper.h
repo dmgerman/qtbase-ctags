@@ -1,2 +1,0 @@
-DECL|macro|QNMDBUSHELPERPRIVATE_H
-DECL|variable|QObject

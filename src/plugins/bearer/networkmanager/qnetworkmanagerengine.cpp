@@ -4,13 +4,15 @@ DECL|function|activeConnectionPropertiesChanged
 DECL|function|bytesReceived
 DECL|function|bytesWritten
 DECL|function|capabilities
+DECL|function|changedModem
 DECL|function|connectToId
 DECL|function|connectionFromId
+DECL|function|contextName
 DECL|function|createSessionBackend
+DECL|function|currentBearerType
 DECL|function|defaultConfiguration
 DECL|function|deviceAdded
 DECL|function|deviceConnectionsChanged
-DECL|function|devicePropertiesChanged
 DECL|function|deviceRemoved
 DECL|function|disconnectFromId
 DECL|function|getInterfaceFromId
@@ -27,6 +29,5 @@ DECL|function|requestUpdate
 DECL|function|scanFinished
 DECL|function|sessionStateForId
 DECL|function|startTime
-DECL|function|updateAccessPoint
 DECL|function|updateConnection
 DECL|function|~QNetworkManagerEngine
