@@ -9,6 +9,7 @@ DECL|function|isConnected
 DECL|function|main
 DECL|function|newMyObject
 DECL|function|registerMyObject
+DECL|function|requestSync
 DECL|function|slotSpyServer
 DECL|function|valueSpyServer
 DECL|function|~MyServer
