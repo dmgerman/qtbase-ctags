@@ -52,7 +52,6 @@ DECL|enum|ThreadAction
 DECL|function|QDBusDispatchLocker
 DECL|function|QDBusMutexLocker
 DECL|function|QDBusReadLocker
-DECL|function|QDBusWatchAndTimeoutLocker
 DECL|function|QDBusWriteLocker
 DECL|function|reportThreadAction
 DECL|function|reportThreadAction
@@ -76,6 +75,5 @@ DECL|struct|QDBusLockerBase
 DECL|struct|QDBusLockerBase
 DECL|struct|QDBusLockerBase
 DECL|struct|QDBusLockerBase
-DECL|struct|QDBusMutexLocker
 DECL|struct|QDBusMutexLocker
 DECL|typedef|qdbusThreadDebugFunc
