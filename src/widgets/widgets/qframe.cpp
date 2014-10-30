@@ -10,6 +10,7 @@ DECL|function|frameShape
 DECL|function|frameStyle
 DECL|function|frameWidth
 DECL|function|init
+DECL|function|initStyleOption
 DECL|function|lineWidth
 DECL|function|midLineWidth
 DECL|function|paintEvent
