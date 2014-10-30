@@ -30,6 +30,7 @@ DECL|function|generateFunctionIndex
 DECL|function|generateHeader
 DECL|function|generateIncludes
 DECL|function|generateInstantiatedBy
+DECL|function|generateKeywordAnchors
 DECL|function|generateLegaleseList
 DECL|function|generateLink
 DECL|function|generateLinksToLinksPage
