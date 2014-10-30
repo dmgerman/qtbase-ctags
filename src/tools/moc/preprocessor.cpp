@@ -11,6 +11,7 @@ DECL|function|logical_AND_expression
 DECL|function|logical_OR_expression
 DECL|function|macroExpand
 DECL|function|macroExpandIdentifier
+DECL|function|mergeStringLiterals
 DECL|function|multiplicative_expression
 DECL|function|parseDefineArguments
 DECL|function|preprocess

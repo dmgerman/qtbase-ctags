@@ -18,6 +18,7 @@ DECL|class|QTBUG9354_constInName
 DECL|class|QTBUG_17635_InvokableAndProperty
 DECL|class|SignalConnectionTester
 DECL|class|StaticPluginInstance
+DECL|class|StringLiteralsInMacroExtension
 DECL|class|SubClassFromPrivateSignals
 DECL|class|TestClassReferencingUnrelatedEnum
 DECL|class|TestTemplate2
@@ -182,6 +183,7 @@ DECL|function|slotsWithVoidTemplate
 DECL|function|someSlot
 DECL|function|someSlot2
 DECL|function|specifyMetaTagsFromCmdline
+DECL|function|strignLiteralsInMacroExtension
 DECL|function|structQObject
 DECL|function|templateGtGt
 DECL|function|testSlot
@@ -218,6 +220,12 @@ DECL|macro|FOR_EACH_SLOT_ARG_TYPE
 DECL|macro|FOR_EACH_SLOT_ARG_TYPE
 DECL|macro|MACRO_DEFINED
 DECL|macro|MACRO_WITH_POSSIBLE_COMPILER_SPECIFIC_ATTRIBUTES
+DECL|macro|Macro
+DECL|macro|Macro
+DECL|macro|Macro
+DECL|macro|Macro
+DECL|macro|Macro
+DECL|macro|Macro
 DECL|macro|SKIP_NEWLINE_TEST
 DECL|macro|TYPE_LOOP
 DECL|macro|TYPE_LOOP
