@@ -45,6 +45,7 @@ DECL|method|mouseDown
 DECL|method|mouseMove
 DECL|method|mouseUp
 DECL|method|onActivityResult
+DECL|method|onAndroidUiThread
 DECL|method|onContextItemSelected
 DECL|method|onContextMenuClosed
 DECL|method|onCreateContextMenu
@@ -60,6 +61,7 @@ DECL|method|registerClipboardManager
 DECL|method|resetOptionsMenu
 DECL|method|resetSoftwareKeyboard
 DECL|method|runAction
+DECL|method|runQtOnUiThread
 DECL|method|sendTouchEvent
 DECL|method|sendTrackballEvent
 DECL|method|setActivity
