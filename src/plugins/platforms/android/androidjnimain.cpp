@@ -77,7 +77,6 @@ DECL|variable|m_pauseApplication
 DECL|variable|m_qtTag
 DECL|variable|m_resourcesObj
 DECL|variable|m_scaledDensity
-DECL|variable|m_setFullScreenMethodID
 DECL|variable|m_setSurfaceGeometryMethodID
 DECL|variable|m_statusBarShowing
 DECL|variable|m_surfaceId
