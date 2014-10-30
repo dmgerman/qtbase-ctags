@@ -83,6 +83,7 @@ DECL|function|read
 DECL|function|read
 DECL|function|readAll
 DECL|function|readLine
+DECL|function|readLine
 DECL|function|readPtr
 DECL|function|realNumberNotation
 DECL|function|realNumberPrecision

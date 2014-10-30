@@ -1,6 +1,8 @@
+DECL|class|ErrorDevice
 DECL|class|FakeBuffer
 DECL|class|tst_QTextStream
 DECL|enumerator|Defined
+DECL|function|CompareIndicesForArray
 DECL|function|FakeBuffer
 DECL|function|QChar_operators_FromDevice
 DECL|function|QChar_operators_FromDevice_data
@@ -48,6 +50,7 @@ DECL|function|numeralCase
 DECL|function|numeralCase_data
 DECL|function|octTest
 DECL|function|octTest_data
+DECL|function|operator ()
 DECL|function|performance
 DECL|function|pos
 DECL|function|pos2
@@ -74,6 +77,7 @@ DECL|function|readLineFromTextDevice
 DECL|function|readLineFromTextDevice_data
 DECL|function|readLineMaxlen
 DECL|function|readLineMaxlen_data
+DECL|function|readLineOverload
 DECL|function|readLineUntilNull
 DECL|function|readLinesFromBufferCRCR
 DECL|function|readNewlines
@@ -113,10 +117,12 @@ DECL|macro|IMPLEMENT_STREAM_LEFT_INT_OPERATOR_TEST
 DECL|macro|IMPLEMENT_STREAM_LEFT_REAL_OPERATOR_TEST
 DECL|macro|IMPLEMENT_STREAM_RIGHT_INT_OPERATOR_TEST
 DECL|macro|IMPLEMENT_STREAM_RIGHT_REAL_OPERATOR_TEST
+DECL|member|array
 DECL|member|m_lock
 DECL|member|m_rfc3261FilePath
 DECL|member|m_shiftJisFilePath
 DECL|member|tempDir
 DECL|member|testFileName
+DECL|struct|CompareIndicesForArray
 DECL|struct|QMetaTypeId
 DECL|variable|QTextStreamFunction
