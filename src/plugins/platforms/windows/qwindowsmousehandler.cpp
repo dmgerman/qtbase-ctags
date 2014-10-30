@@ -1,5 +1,6 @@
 DECL|function|QWindowsMouseHandler
 DECL|function|compressMouseMove
+DECL|function|createTouchDevice
 DECL|function|isValidWheelReceiver
 DECL|function|queryMouseButtons
 DECL|function|translateMouseEvent
