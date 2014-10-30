@@ -15,6 +15,7 @@ DECL|function|fromBinary
 DECL|function|fromJson
 DECL|function|fromJsonErrors
 DECL|function|fromVariant
+DECL|function|fromVariantHash
 DECL|function|fromVariantMap
 DECL|function|garbageAtEnd
 DECL|function|init
@@ -64,6 +65,7 @@ DECL|function|toAndFromBinary_data
 DECL|function|toJson
 DECL|function|toJsonLargeNumericValues
 DECL|function|toJsonSillyNumericValues
+DECL|function|toVariantHash
 DECL|function|toVariantList
 DECL|function|toVariantMap
 DECL|function|tst_QtJson

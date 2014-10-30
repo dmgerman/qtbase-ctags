@@ -7,6 +7,7 @@ DECL|function|contains
 DECL|function|detach
 DECL|function|erase
 DECL|function|find
+DECL|function|fromVariantHash
 DECL|function|fromVariantMap
 DECL|function|initialize
 DECL|function|insert
@@ -23,6 +24,7 @@ DECL|function|remove
 DECL|function|setValueAt
 DECL|function|size
 DECL|function|take
+DECL|function|toVariantHash
 DECL|function|toVariantMap
 DECL|function|value
 DECL|function|valueAt
