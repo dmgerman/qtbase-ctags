@@ -20,6 +20,8 @@ DECL|function|Flags
 DECL|function|Flags
 DECL|function|Flags
 DECL|function|MetaObject
+DECL|function|MetaObject
+DECL|function|MetaObject
 DECL|function|QCustomTypeInfo
 DECL|function|QMetaType
 DECL|function|QMetaType
@@ -159,6 +161,8 @@ DECL|struct|DestructorImpl
 DECL|struct|DestructorImpl
 DECL|struct|FlagsImpl
 DECL|struct|FlagsImpl
+DECL|struct|MetaObjectImpl
+DECL|struct|MetaObjectImpl
 DECL|struct|SizeOfImpl
 DECL|struct|SizeOfImpl
 DECL|struct|TypeInfoImpl
