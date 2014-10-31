@@ -144,6 +144,7 @@ DECL|function|qt_restore_gl_state
 DECL|function|qt_save_gl_state
 DECL|function|qt_set_gl_library_name
 DECL|function|redBufferSize
+DECL|function|refreshCurrentFbo
 DECL|function|remove
 DECL|function|remove
 DECL|function|remove
@@ -168,6 +169,7 @@ DECL|function|setBlueBufferSize
 DECL|function|setColormap
 DECL|function|setContext
 DECL|function|setCurrentContext
+DECL|function|setCurrentFbo
 DECL|function|setDefaultFormat
 DECL|function|setDefaultOverlayFormat
 DECL|function|setDepth
