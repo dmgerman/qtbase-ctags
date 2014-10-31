@@ -1,8 +1,5 @@
 DECL|function|qAbs
 DECL|function|qBound
-DECL|function|qForeachContainer
-DECL|function|qForeachContainerNew
-DECL|function|qForeachPointer
 DECL|function|qFuzzyCompare
 DECL|function|qFuzzyCompare
 DECL|function|qFuzzyIsNull
@@ -177,8 +174,6 @@ DECL|macro|Q_DISABLE_COPY
 DECL|macro|Q_DUMMY_COMPARISON_OPERATOR
 DECL|macro|Q_DUMMY_COMPARISON_OPERATOR
 DECL|macro|Q_FOREACH
-DECL|macro|Q_FOREACH
-DECL|macro|Q_FOREACH
 DECL|macro|Q_FOREVER
 DECL|macro|Q_FORWARD_DECLARE_CF_TYPE
 DECL|macro|Q_FORWARD_DECLARE_MUTABLE_CF_TYPE
@@ -218,7 +213,6 @@ DECL|macro|foreach
 DECL|macro|forever
 DECL|macro|qPrintable
 DECL|macro|qUtf8Printable
-DECL|struct|QForeachContainerBase
 DECL|struct|QIntegerForSize
 DECL|struct|QIntegerForSize
 DECL|struct|QIntegerForSize
