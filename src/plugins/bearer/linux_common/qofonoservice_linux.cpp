@@ -18,6 +18,7 @@ DECL|function|getProperty
 DECL|function|getProperty
 DECL|function|getProperty
 DECL|function|getTechnology
+DECL|function|interfaces
 DECL|function|isOnline
 DECL|function|isPowered
 DECL|function|modemAdded

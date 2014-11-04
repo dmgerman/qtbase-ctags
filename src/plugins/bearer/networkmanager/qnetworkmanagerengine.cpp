@@ -4,7 +4,6 @@ DECL|function|activeConnectionPropertiesChanged
 DECL|function|bytesReceived
 DECL|function|bytesWritten
 DECL|function|capabilities
-DECL|function|changedModem
 DECL|function|connectToId
 DECL|function|connectionFromId
 DECL|function|contextName
