@@ -1,6 +1,5 @@
 DECL|function|do_gettime
 DECL|function|elapsedAndRestart
-DECL|function|fractionAdjustment
 DECL|function|qt_clock_gettime
 DECL|function|qt_nanosleep
 DECL|function|unixCheckClockType
