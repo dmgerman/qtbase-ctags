@@ -33,6 +33,7 @@ DECL|function|generateInstantiatedBy
 DECL|function|generateKeywordAnchors
 DECL|function|generateLegaleseList
 DECL|function|generateLink
+DECL|function|generateLinksToBrokenLinksPage
 DECL|function|generateLinksToLinksPage
 DECL|function|generateList
 DECL|function|generateListOfAllMemberFile
