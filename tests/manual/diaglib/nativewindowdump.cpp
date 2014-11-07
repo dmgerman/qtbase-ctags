@@ -1,0 +1,3 @@
+DECL|function|dumpNativeQtTopLevels
+DECL|function|dumpNativeWindows
+DECL|namespace|QtDiag
