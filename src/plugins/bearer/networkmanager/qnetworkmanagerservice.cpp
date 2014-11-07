@@ -36,6 +36,7 @@ DECL|function|connectionInterface
 DECL|function|connectionInterface
 DECL|function|currentCapabilities
 DECL|function|deactivateConnection
+DECL|function|default6Route
 DECL|function|defaultRoute
 DECL|function|deviceType
 DECL|function|devices
