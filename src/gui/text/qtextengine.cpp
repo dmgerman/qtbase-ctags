@@ -145,6 +145,7 @@ DECL|struct|QBidiControl
 DECL|struct|QBidiStatus
 DECL|struct|QJustificationPoint
 DECL|variable|directions
+DECL|variable|s_shapersForOsxFreeType
 DECL|variable|sizeof
 DECL|variable|sizeof
 DECL|variable|sizeof
