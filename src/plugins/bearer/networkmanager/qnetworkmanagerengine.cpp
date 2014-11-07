@@ -29,4 +29,5 @@ DECL|function|scanFinished
 DECL|function|sessionStateForId
 DECL|function|startTime
 DECL|function|updateConnection
+DECL|function|wiredCarrierChanged
 DECL|function|~QNetworkManagerEngine

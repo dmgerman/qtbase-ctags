@@ -21,6 +21,7 @@ DECL|function|QNetworkManagerSettingsConnection
 DECL|function|activateConnection
 DECL|function|activeAccessPoint
 DECL|function|activeConnections
+DECL|function|availableConnections
 DECL|function|bitrate
 DECL|function|carrier
 DECL|function|connection
