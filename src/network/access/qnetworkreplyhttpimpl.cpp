@@ -46,6 +46,7 @@ DECL|function|replyDownloadMetaData
 DECL|function|replyDownloadProgressSlot
 DECL|function|replyEncrypted
 DECL|function|replyFinished
+DECL|function|replyPreSharedKeyAuthenticationRequiredSlot
 DECL|function|replySslConfigurationChanged
 DECL|function|replySslErrors
 DECL|function|resetUploadDataSlot

@@ -5,6 +5,7 @@ DECL|function|_q_disconnected
 DECL|function|_q_encrypted
 DECL|function|_q_encryptedBytesWritten
 DECL|function|_q_error
+DECL|function|_q_preSharedKeyAuthenticationRequired
 DECL|function|_q_proxyAuthenticationRequired
 DECL|function|_q_readyRead
 DECL|function|_q_receiveReply

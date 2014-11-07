@@ -4,6 +4,7 @@ DECL|function|_q_networkSessionStateChanged
 DECL|function|_q_onlineStateChanged
 DECL|function|_q_replyEncrypted
 DECL|function|_q_replyFinished
+DECL|function|_q_replyPreSharedKeyAuthenticationRequired
 DECL|function|_q_replySslErrors
 DECL|function|activeConfiguration
 DECL|function|authenticationRequired
