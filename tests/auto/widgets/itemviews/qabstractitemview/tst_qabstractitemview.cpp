@@ -1,3 +1,4 @@
+DECL|class|GeometriesTestView
 DECL|class|MyAbstractItemDelegate
 DECL|class|StateChangeDelegate
 DECL|class|StateChangeModel
@@ -22,6 +23,7 @@ DECL|enumerator|MoveUp
 DECL|enumerator|NoState
 DECL|enum|tst_CursorAction
 DECL|enum|tst_State
+DECL|function|GeometriesTestView
 DECL|function|MyAbstractItemDelegate
 DECL|function|QTBUG31411_noSelection
 DECL|function|QTBUG39324_settingSameInstanceOfIndexWidget
@@ -32,6 +34,7 @@ DECL|function|StateChangeModel
 DECL|function|TestModel
 DECL|function|basic_tests
 DECL|function|centerOnScreen
+DECL|function|changeSize
 DECL|function|cleanupTestCase
 DECL|function|columnDelegate
 DECL|function|createEditor
@@ -63,6 +66,7 @@ DECL|function|setModel_data
 DECL|function|shiftArrowSelectionAfterScrolling
 DECL|function|shiftSelectionAfterRubberbandSelection
 DECL|function|sizeHint
+DECL|function|sizeHintChangeTriggersLayout
 DECL|function|task200665_itemEntered
 DECL|function|task221955_selectedEditor
 DECL|function|task250754_fontChange
@@ -113,4 +117,6 @@ DECL|function|~tst_QAbstractItemView
 DECL|member|calledVirtualDtor
 DECL|member|openedEditor
 DECL|member|setData_count
+DECL|member|size
+DECL|member|updateGeometriesCalled
 DECL|typedef|IntList
