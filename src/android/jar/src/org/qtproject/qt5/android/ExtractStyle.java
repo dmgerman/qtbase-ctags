@@ -180,6 +180,7 @@ DECL|field|m_indentLevel
 DECL|field|m_theme
 DECL|field|m_writer
 DECL|field|object
+DECL|field|rippleDrawableClass
 DECL|field|s
 DECL|field|sScaleTypeArray
 DECL|field|styleableClass
@@ -229,6 +230,7 @@ DECL|method|getJsonArray
 DECL|method|getJsonChunkInfo
 DECL|method|getJsonRect
 DECL|method|getLayerDrawable
+DECL|method|getRippleDrawable
 DECL|method|getRotateDrawable
 DECL|method|getStateListDrawable
 DECL|method|getStatesList
