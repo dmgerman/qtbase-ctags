@@ -32,7 +32,6 @@ DECL|function|initWinDeployQtTool
 DECL|function|isStandardSuffix
 DECL|function|mergeBuildProject
 DECL|function|openOutput
-DECL|function|outputVariables
 DECL|function|replaceExtraCompilerVariables
 DECL|function|retrievePlatformToolSet
 DECL|function|which_dotnet_version
