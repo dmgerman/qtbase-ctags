@@ -191,8 +191,8 @@ DECL|function|value
 DECL|function|~QVariant
 DECL|function|~const_iterator
 DECL|function|~const_iterator
-DECL|macro|DBL_DIG
-DECL|macro|FLT_DIG
+DECL|macro|DBL_MANT_DIG
+DECL|macro|FLT_MANT_DIG
 DECL|member|Handlers
 DECL|member|Handlers
 DECL|member|IsAccepted
@@ -202,5 +202,8 @@ DECL|member|qt_kernel_variant_handler
 DECL|struct|Acceptor
 DECL|struct|CoreTypesFilter
 DECL|variable|handlerManager
+DECL|variable|log10_2_10000
 DECL|variable|mapIdFromQt3ToCurrent
+DECL|variable|max_digits10_double
+DECL|variable|max_digits10_float
 DECL|variable|qCanConvertMatrix

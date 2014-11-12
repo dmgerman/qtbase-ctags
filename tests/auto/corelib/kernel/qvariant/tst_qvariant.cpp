@@ -87,6 +87,8 @@ DECL|function|debugStream_data
 DECL|function|end
 DECL|function|enums
 DECL|function|forwardDeclare
+DECL|function|fpStringRoundtrip
+DECL|function|fpStringRoundtrip_data
 DECL|function|get
 DECL|function|get
 DECL|function|get
@@ -114,6 +116,7 @@ DECL|function|loadUnknownUserType
 DECL|function|moreCustomTypes
 DECL|function|movabilityTest
 DECL|function|numericalConvert
+DECL|function|numericalConvert_data
 DECL|function|operator ()
 DECL|function|operator ->
 DECL|function|operator <<
