@@ -216,7 +216,9 @@ DECL|method|extractToolBar
 DECL|method|extractViewInformations
 DECL|method|extractWindow
 DECL|method|findPatchesMarings
+DECL|method|getAccessibleField
 DECL|method|getAnimationDrawable
+DECL|method|getClass
 DECL|method|getColorStateList
 DECL|method|getDrawable
 DECL|method|getField
@@ -232,7 +234,6 @@ DECL|method|getStateListDrawable
 DECL|method|getStatesList
 DECL|method|getStatesName
 DECL|method|getStatesName
-DECL|method|getStylableClass
 DECL|method|isHardwareAccelerated
 DECL|method|name
 DECL|method|stateSetUnion
