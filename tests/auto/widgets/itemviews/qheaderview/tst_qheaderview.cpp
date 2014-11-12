@@ -1,5 +1,6 @@
 DECL|class|QtTestModel
 DECL|class|SimpleModel
+DECL|class|TestHeaderViewStyle
 DECL|class|TestStyle
 DECL|class|XResetModel
 DECL|class|protected_QHeaderView
@@ -11,6 +12,7 @@ DECL|function|QTBUG7833_sectionClicked
 DECL|function|QTBUG8650_crashOnInsertSections
 DECL|function|QtTestModel
 DECL|function|SimpleModel
+DECL|function|TestHeaderViewStyle
 DECL|function|additionalInit
 DECL|function|calculateAndCheck
 DECL|function|checkHeaderViewOrder
@@ -27,6 +29,7 @@ DECL|function|defaultAlignment
 DECL|function|defaultAlignment_data
 DECL|function|defaultSectionSize
 DECL|function|defaultSectionSizeTest
+DECL|function|defaultSectionSizeTestStyles
 DECL|function|defaultSectionSize_data
 DECL|function|defaultSizeTest
 DECL|function|defaultSizeTest_data
@@ -145,6 +148,7 @@ DECL|function|visualIndexAtTest_data
 DECL|function|visualIndexAt_data
 DECL|function|~tst_QHeaderView
 DECL|member|cols
+DECL|member|horizontalSectionSize
 DECL|member|lastPosition
 DECL|member|m_col_count
 DECL|member|m_tableview

@@ -58,6 +58,7 @@ DECL|function|read
 DECL|function|recalcSectionStartPos
 DECL|function|removeSectionsFromSectionItems
 DECL|function|reset
+DECL|function|resetDefaultSectionSize
 DECL|function|resizeContentsPrecision
 DECL|function|resizeSection
 DECL|function|resizeSectionItem
@@ -114,6 +115,7 @@ DECL|function|sortIndicatorSection
 DECL|function|stretchLastSection
 DECL|function|stretchSectionCount
 DECL|function|swapSections
+DECL|function|updateDefaultSectionSizeFromStyle
 DECL|function|updateGeometries
 DECL|function|updateHiddenSections
 DECL|function|updateSection
