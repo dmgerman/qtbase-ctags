@@ -5,6 +5,7 @@ DECL|function|allocateImmutableStorage
 DECL|function|allocateMutableStorage
 DECL|function|allocateStorage
 DECL|function|allocateStorage
+DECL|function|allocateStorage
 DECL|function|bind
 DECL|function|bind
 DECL|function|bind
@@ -38,6 +39,7 @@ DECL|function|isBound
 DECL|function|isBound
 DECL|function|isCreated
 DECL|function|isFixedSamplePositions
+DECL|function|isSizedTextureFormat
 DECL|function|isStorageAllocated
 DECL|function|isTextureView
 DECL|function|layers
