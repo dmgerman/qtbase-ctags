@@ -75,6 +75,7 @@ DECL|method|destroySurface
 DECL|method|dispatchKeyEvent
 DECL|method|getActionBar
 DECL|method|getAppIconSize
+DECL|method|getSurfaceCount
 DECL|method|hasPermanentMenuKey
 DECL|method|hideSoftwareKeyboard
 DECL|method|insertNativeView
