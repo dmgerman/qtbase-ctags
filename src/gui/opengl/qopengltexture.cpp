@@ -41,6 +41,7 @@ DECL|function|isCreated
 DECL|function|isFixedSamplePositions
 DECL|function|isSizedTextureFormat
 DECL|function|isStorageAllocated
+DECL|function|isTextureTargetMultisample
 DECL|function|isTextureView
 DECL|function|layers
 DECL|function|levelOfDetailRange
