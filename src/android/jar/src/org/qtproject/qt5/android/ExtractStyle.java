@@ -185,6 +185,7 @@ DECL|field|rippleDrawableClass
 DECL|field|s
 DECL|field|sScaleTypeArray
 DECL|field|styleableClass
+DECL|field|vectorDrawableClass
 DECL|method|DrawableCache
 DECL|method|ExtractStyle
 DECL|method|SimpleJsonWriter
@@ -242,9 +243,13 @@ DECL|method|getStateTransitions
 DECL|method|getStatesList
 DECL|method|getStatesName
 DECL|method|getStatesName
+DECL|method|getVGroup
+DECL|method|getVPath
+DECL|method|getVectorDrawable
 DECL|method|isHardwareAccelerated
 DECL|method|name
 DECL|method|stateSetUnion
+DECL|method|tryGetAccessibleField
 DECL|method|value
 DECL|method|writeIndent
 DECL|package|org.qtproject.qt5.android
