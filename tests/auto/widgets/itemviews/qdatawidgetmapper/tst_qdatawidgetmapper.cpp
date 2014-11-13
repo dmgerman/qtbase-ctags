@@ -3,8 +3,10 @@ DECL|function|addMapping
 DECL|function|changingValues
 DECL|function|comboBox
 DECL|function|currentIndexChanged
+DECL|function|initTestCase
 DECL|function|mappedWidgetAt
 DECL|function|navigate
 DECL|function|setData
 DECL|function|setModel
 DECL|function|testModel
+DECL|function|textEditDoesntChangeFocusOnTab_qtbug3305
