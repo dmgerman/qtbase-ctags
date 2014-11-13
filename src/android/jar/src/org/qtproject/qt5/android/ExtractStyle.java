@@ -167,6 +167,7 @@ DECL|field|View_soundEffectsEnabled
 DECL|field|View_tag
 DECL|field|View_visibility
 DECL|field|WINDOW_FOCUSED_STATE_SET
+DECL|field|animatedStateListDrawableClass
 DECL|field|chunkData
 DECL|field|defaultBackgroundColor
 DECL|field|defaultTextColor
@@ -218,7 +219,9 @@ DECL|method|extractToolBar
 DECL|method|extractViewInformations
 DECL|method|extractWindow
 DECL|method|findPatchesMarings
+DECL|method|findStateIndex
 DECL|method|getAccessibleField
+DECL|method|getAnimatedStateListDrawable
 DECL|method|getAnimationDrawable
 DECL|method|getClass
 DECL|method|getColorStateList
@@ -233,7 +236,9 @@ DECL|method|getJsonRect
 DECL|method|getLayerDrawable
 DECL|method|getRippleDrawable
 DECL|method|getRotateDrawable
+DECL|method|getStateIds
 DECL|method|getStateListDrawable
+DECL|method|getStateTransitions
 DECL|method|getStatesList
 DECL|method|getStatesName
 DECL|method|getStatesName
