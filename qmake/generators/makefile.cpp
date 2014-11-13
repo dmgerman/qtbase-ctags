@@ -21,7 +21,6 @@ DECL|function|findFileInfo
 DECL|function|findFilesInVPATH
 DECL|function|findSubDirsSubTargets
 DECL|function|fixPathForFile
-DECL|function|fixifySpecdir
 DECL|function|init
 DECL|function|initCompiler
 DECL|function|initOutPaths
