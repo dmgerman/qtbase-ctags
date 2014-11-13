@@ -80,6 +80,8 @@ DECL|function|handlePropertyNotifyEvent
 DECL|function|handleUnmapNotifyEvent
 DECL|function|handleXEmbedMessage
 DECL|function|hide
+DECL|function|ignoreEnterEvent
+DECL|function|ignoreLeaveEvent
 DECL|function|imageFormatForVisual
 DECL|function|isEmbedded
 DECL|function|isExposed
