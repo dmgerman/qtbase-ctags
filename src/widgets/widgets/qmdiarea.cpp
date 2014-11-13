@@ -74,6 +74,7 @@ DECL|function|setViewMode
 DECL|function|setViewMode
 DECL|function|setupViewport
 DECL|function|showEvent
+DECL|function|showRubberBandFor
 DECL|function|sizeHint
 DECL|function|subWindowFromIndex
 DECL|function|subWindowList
