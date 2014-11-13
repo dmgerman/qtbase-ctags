@@ -18,6 +18,7 @@ DECL|function|QNetworkManagerInterfaceDeviceWireless
 DECL|function|QNetworkManagerIp4Config
 DECL|function|QNetworkManagerSettings
 DECL|function|QNetworkManagerSettingsConnection
+DECL|function|accessPointsFinished
 DECL|function|activateConnection
 DECL|function|activeAccessPoint
 DECL|function|activeConnections

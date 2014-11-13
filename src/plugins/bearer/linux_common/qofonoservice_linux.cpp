@@ -7,6 +7,7 @@ DECL|function|accessPointName
 DECL|function|active
 DECL|function|bearer
 DECL|function|contexts
+DECL|function|contextsWithProperties
 DECL|function|currentModem
 DECL|function|getModems
 DECL|function|getProperties
