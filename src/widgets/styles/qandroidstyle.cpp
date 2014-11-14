@@ -33,7 +33,6 @@ DECL|function|drawPrimitive
 DECL|function|extractIntArray
 DECL|function|extractMargins
 DECL|function|extractState
-DECL|function|fontType
 DECL|function|fromMap
 DECL|function|generatedIconPixmap
 DECL|function|hitTestComplexControl
@@ -45,7 +44,6 @@ DECL|function|initPadding
 DECL|function|layer
 DECL|function|padding
 DECL|function|padding
-DECL|function|paletteType
 DECL|function|pixelMetric
 DECL|function|polish
 DECL|function|qtControl
@@ -58,7 +56,6 @@ DECL|function|setFactor
 DECL|function|setFactor
 DECL|function|setPaddingLeftToSizeWidth
 DECL|function|setPaddingLeftToSizeWidth
-DECL|function|setPaletteColor
 DECL|function|size
 DECL|function|size
 DECL|function|size
@@ -98,8 +95,3 @@ DECL|function|~AndroidStateDrawable
 DECL|function|~QAndroidStyle
 DECL|member|NO_COLOR
 DECL|member|TRANSPARENT_COLOR
-DECL|member|textStyle_bold
-DECL|member|textStyle_italic
-DECL|member|typeface_monospace
-DECL|member|typeface_sans
-DECL|member|typeface_serif
