@@ -36,12 +36,9 @@ DECL|function|extractState
 DECL|function|fromMap
 DECL|function|generatedIconPixmap
 DECL|function|hitTestComplexControl
-DECL|function|img
-DECL|function|img
-DECL|function|img
-DECL|function|imgCheckBox
 DECL|function|initPadding
 DECL|function|layer
+DECL|function|padding
 DECL|function|padding
 DECL|function|padding
 DECL|function|pixelMetric
@@ -60,7 +57,8 @@ DECL|function|size
 DECL|function|size
 DECL|function|size
 DECL|function|size
-DECL|function|sizeCheckBox
+DECL|function|size
+DECL|function|size
 DECL|function|sizeFromContents
 DECL|function|sizeFromContents
 DECL|function|sizeFromContents
