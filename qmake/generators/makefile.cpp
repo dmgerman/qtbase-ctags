@@ -13,13 +13,13 @@ DECL|function|fileFixify
 DECL|function|fileFixify
 DECL|function|fileInfo
 DECL|function|filePrefixRoot
-DECL|function|fileVarGlue
 DECL|function|filterIncludedFiles
 DECL|function|findDependencies
 DECL|function|findFileForDep
 DECL|function|findFileInfo
 DECL|function|findFilesInVPATH
 DECL|function|findSubDirsSubTargets
+DECL|function|fixFileVarGlue
 DECL|function|fixPathForFile
 DECL|function|init
 DECL|function|initCompiler
