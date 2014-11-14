@@ -1,7 +1,6 @@
 DECL|class|QItemDelegatePrivate
 DECL|function|QItemDelegate
 DECL|function|QItemDelegatePrivate
-DECL|function|_q_commitDataAndCloseEditor
 DECL|function|createEditor
 DECL|function|decoration
 DECL|function|doCheck
@@ -32,7 +31,6 @@ DECL|function|setOptions
 DECL|function|sizeHint
 DECL|function|textLayoutBounds
 DECL|function|textRectangle
-DECL|function|tryFixup
 DECL|function|updateEditorGeometry
 DECL|function|valueToText
 DECL|function|widget

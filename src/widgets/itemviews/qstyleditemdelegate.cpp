@@ -1,7 +1,6 @@
 DECL|class|QStyledItemDelegatePrivate
 DECL|function|QStyledItemDelegate
 DECL|function|QStyledItemDelegatePrivate
-DECL|function|_q_commitDataAndCloseEditor
 DECL|function|createEditor
 DECL|function|displayText
 DECL|function|editorEvent
@@ -14,7 +13,6 @@ DECL|function|setEditorData
 DECL|function|setItemEditorFactory
 DECL|function|setModelData
 DECL|function|sizeHint
-DECL|function|tryFixup
 DECL|function|updateEditorGeometry
 DECL|function|widget
 DECL|function|~QStyledItemDelegate
