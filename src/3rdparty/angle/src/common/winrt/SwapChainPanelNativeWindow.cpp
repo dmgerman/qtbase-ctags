@@ -1,0 +1,8 @@
+DECL|function|GetSwapChainPanelSize
+DECL|function|createSwapChain
+DECL|function|initialize
+DECL|function|registerForSizeChangeEvents
+DECL|function|scaleSwapChain
+DECL|function|unregisterForSizeChangeEvents
+DECL|function|~SwapChainPanelNativeWindow
+DECL|namespace|rx

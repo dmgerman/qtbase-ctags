@@ -1,4 +1,5 @@
 DECL|function|ArrayString
+DECL|function|IsMaskFlagSet
 DECL|function|MakeStaticString
 DECL|function|SafeDelete
 DECL|function|SafeDeleteArray

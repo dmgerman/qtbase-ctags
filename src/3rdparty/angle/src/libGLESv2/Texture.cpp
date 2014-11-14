@@ -33,8 +33,6 @@ DECL|function|getInternalFormat
 DECL|function|getInternalFormat
 DECL|function|getInternalFormat
 DECL|function|getLayers
-DECL|function|getNativeTexture
-DECL|function|getSamplerStateWithNativeOffset
 DECL|function|getTarget
 DECL|function|getTextureSerial
 DECL|function|getUsage
@@ -66,6 +64,7 @@ DECL|function|isSamplerComplete
 DECL|function|isSamplerComplete
 DECL|function|isSamplerComplete
 DECL|function|isSamplerComplete
+DECL|function|issueTextureSerial
 DECL|function|layerIndexToTarget
 DECL|function|mipLevels
 DECL|function|releaseTexImage
@@ -76,12 +75,7 @@ DECL|function|setCompressedImage
 DECL|function|setImage
 DECL|function|setImage
 DECL|function|setImage
-DECL|function|setImageNegX
-DECL|function|setImageNegY
-DECL|function|setImageNegZ
-DECL|function|setImagePosX
-DECL|function|setImagePosY
-DECL|function|setImagePosZ
+DECL|function|setImage
 DECL|function|setUsage
 DECL|function|storage
 DECL|function|storage
@@ -101,4 +95,5 @@ DECL|function|~Texture2D
 DECL|function|~Texture2DArray
 DECL|function|~Texture3D
 DECL|function|~TextureCubeMap
+DECL|member|mCurrentTextureSerial
 DECL|namespace|gl

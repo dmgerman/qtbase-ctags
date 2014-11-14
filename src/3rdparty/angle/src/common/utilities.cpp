@@ -5,6 +5,7 @@ DECL|function|IsSampler
 DECL|function|IsTriangleMode
 DECL|function|MatrixComponentCount
 DECL|function|MatrixRegisterCount
+DECL|function|Sleep
 DECL|function|TransposeMatrixType
 DECL|function|VariableBoolVectorType
 DECL|function|VariableColumnCount
