@@ -1,4 +1,7 @@
 DECL|class|QCommandLineParserPrivate
+DECL|enumerator|ErrorMessage
+DECL|enumerator|UsageMessage
+DECL|enum|MessageType
 DECL|function|QCommandLineParser
 DECL|function|QCommandLineParserPrivate
 DECL|function|addHelpOption
@@ -10,6 +13,7 @@ DECL|function|aliases
 DECL|function|applicationDescription
 DECL|function|checkParsed
 DECL|function|clearPositionalArguments
+DECL|function|displayMessageBox
 DECL|function|errorText
 DECL|function|helpText
 DECL|function|helpText
@@ -26,6 +30,7 @@ DECL|function|registerFoundOption
 DECL|function|setApplicationDescription
 DECL|function|setSingleDashWordOptionMode
 DECL|function|showHelp
+DECL|function|showParserMessage
 DECL|function|showVersion
 DECL|function|unknownOptionNames
 DECL|function|value
