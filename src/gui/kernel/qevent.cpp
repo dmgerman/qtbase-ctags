@@ -32,6 +32,7 @@ DECL|function|QMoveEvent
 DECL|function|QNativeGestureEvent
 DECL|function|QPaintEvent
 DECL|function|QPaintEvent
+DECL|function|QPlatformSurfaceEvent
 DECL|function|QResizeEvent
 DECL|function|QScreenOrientationChangeEvent
 DECL|function|QScrollEvent
@@ -157,6 +158,7 @@ DECL|function|~QKeyEvent
 DECL|function|~QMouseEvent
 DECL|function|~QMoveEvent
 DECL|function|~QPaintEvent
+DECL|function|~QPlatformSurfaceEvent
 DECL|function|~QResizeEvent
 DECL|function|~QScreenOrientationChangeEvent
 DECL|function|~QScrollEvent
