@@ -37,14 +37,12 @@ DECL|function|isNull
 DECL|function|load
 DECL|function|load
 DECL|function|metric
-DECL|function|metric
 DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator >>
 DECL|function|outputFormatList
 DECL|function|outputFormats
 DECL|function|outputFormats
-DECL|function|paintEngine
 DECL|function|paintEngine
 DECL|function|parameters
 DECL|function|picture

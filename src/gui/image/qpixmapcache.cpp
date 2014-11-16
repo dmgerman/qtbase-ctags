@@ -43,6 +43,7 @@ DECL|function|~Key
 DECL|function|~QPMCache
 DECL|function|~QPixmapCacheEntry
 DECL|macro|Q_TEST_QPIXMAPCACHE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|cacheKeys
 DECL|member|freeKey
 DECL|member|keyArray

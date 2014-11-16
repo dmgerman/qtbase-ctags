@@ -15,14 +15,12 @@ DECL|function|anchorAt
 DECL|function|append
 DECL|function|autoFormatting
 DECL|function|canInsertFromMimeData
-DECL|function|canInsertFromMimeData
 DECL|function|canPaste
 DECL|function|changeEvent
 DECL|function|clear
 DECL|function|contextMenuEvent
 DECL|function|copy
 DECL|function|createAutoBulletList
-DECL|function|createMimeDataFromSelection
 DECL|function|createMimeDataFromSelection
 DECL|function|createStandardContextMenu
 DECL|function|createStandardContextMenu
@@ -57,7 +55,6 @@ DECL|function|init
 DECL|function|inputMethodEvent
 DECL|function|inputMethodQuery
 DECL|function|inputMethodQuery
-DECL|function|insertFromMimeData
 DECL|function|insertFromMimeData
 DECL|function|insertHtml
 DECL|function|insertPlainText

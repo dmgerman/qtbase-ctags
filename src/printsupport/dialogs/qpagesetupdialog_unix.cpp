@@ -16,7 +16,6 @@ DECL|function|leftMarginChanged
 DECL|function|pageOrientationChanged
 DECL|function|pageSizeChanged
 DECL|function|pagesPerSheetChanged
-DECL|function|paintEvent
 DECL|function|rightMarginChanged
 DECL|function|selectPrinter
 DECL|function|setPageLayout

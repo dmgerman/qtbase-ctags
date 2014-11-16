@@ -23,6 +23,13 @@ DECL|function|showEvent
 DECL|function|showText
 DECL|function|~QWhatsThat
 DECL|function|~QWhatsThisPrivate
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|action
 DECL|member|anchor
 DECL|member|background

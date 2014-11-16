@@ -4,7 +4,6 @@ DECL|function|QMinimalEglScreen
 DECL|function|createAndSetPlatformContext
 DECL|function|createAndSetPlatformContext
 DECL|function|depth
-DECL|function|eglSurfaceForPlatformSurface
 DECL|function|format
 DECL|function|geometry
 DECL|function|platformContext

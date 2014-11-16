@@ -21,10 +21,6 @@ DECL|function|addCubicBezierSegment
 DECL|function|addTCBSegment
 DECL|function|amplitude
 DECL|function|copy
-DECL|function|copy
-DECL|function|copy
-DECL|function|copy
-DECL|function|copy
 DECL|function|cosacos
 DECL|function|curveToFunc
 DECL|function|curveToFunctionObject
@@ -56,11 +52,6 @@ DECL|function|singleRealSolutionForCubic
 DECL|function|tcbToBezier
 DECL|function|toCubicSpline
 DECL|function|type
-DECL|function|value
-DECL|function|value
-DECL|function|value
-DECL|function|value
-DECL|function|value
 DECL|function|value
 DECL|function|valueForProgress
 DECL|function|~QEasingCurve

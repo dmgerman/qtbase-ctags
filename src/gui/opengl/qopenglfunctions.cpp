@@ -14,13 +14,11 @@ DECL|function|QOpenGLFunctionsPrivate
 DECL|function|QOpenGLFunctionsPrivateEx
 DECL|function|Resolver
 DECL|function|Resolver
-DECL|function|freeResource
 DECL|function|functionResolver
 DECL|function|functionResolverWithFallback
 DECL|function|hasOpenGLExtension
 DECL|function|hasOpenGLFeature
 DECL|function|initializeOpenGLFunctions
-DECL|function|invalidateResource
 DECL|function|openGLExtensions
 DECL|function|openGLFeatures
 DECL|function|operator ()

@@ -25,6 +25,8 @@ DECL|function|size
 DECL|function|writeData
 DECL|function|~QBuffer
 DECL|function|~QBufferPrivate
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|buf
 DECL|member|defaultBuf
 DECL|member|signalConnectionCount

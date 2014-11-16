@@ -40,6 +40,8 @@ DECL|function|~QPrintDialogPrivate
 DECL|function|~QPrintPropertiesDialog
 DECL|function|~QUnixPrintWidget
 DECL|function|~QUnixPrintWidgetPrivate
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|bottom
 DECL|member|buttons
 DECL|member|collapseButton

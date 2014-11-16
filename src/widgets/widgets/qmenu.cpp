@@ -14,7 +14,6 @@ DECL|function|_q_platformMenuAboutToShow
 DECL|function|actionAt
 DECL|function|actionAt
 DECL|function|actionEvent
-DECL|function|actionEvent
 DECL|function|actionGeometry
 DECL|function|actionRect
 DECL|function|activateAction
@@ -31,7 +30,6 @@ DECL|function|addSection
 DECL|function|addSection
 DECL|function|addSeparator
 DECL|function|adjustMenuSizeForScreen
-DECL|function|calcCausedStack
 DECL|function|calcCausedStack
 DECL|function|changeEvent
 DECL|function|childLeave

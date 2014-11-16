@@ -3,7 +3,6 @@ DECL|function|QTcpServer
 DECL|function|QTcpServerPrivate
 DECL|function|addPendingConnection
 DECL|function|close
-DECL|function|closeNotification
 DECL|function|connectionNotification
 DECL|function|errorString
 DECL|function|exceptionNotification
@@ -31,6 +30,7 @@ DECL|function|writeNotification
 DECL|function|~QTcpServer
 DECL|function|~QTcpServerPrivate
 DECL|macro|Q_CHECK_SOCKETENGINE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|address
 DECL|member|maxConnections
 DECL|member|pendingConnections

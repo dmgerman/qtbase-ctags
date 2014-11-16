@@ -7,9 +7,7 @@ DECL|function|blitProgram
 DECL|function|cleanupCustomStage
 DECL|function|currentProgram
 DECL|function|findProgramInCache
-DECL|function|freeResource
 DECL|function|getUniformLocation
-DECL|function|invalidateResource
 DECL|function|optimiseForBrushTransform
 DECL|function|removeCustomStage
 DECL|function|setCompositionMode

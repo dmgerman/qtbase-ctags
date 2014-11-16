@@ -41,7 +41,6 @@ DECL|function|isSortingEnabled
 DECL|function|moveCursor
 DECL|function|operator <<
 DECL|function|paintEvent
-DECL|function|paintEvent
 DECL|function|resizeColumnToContents
 DECL|function|resizeColumnsToContents
 DECL|function|resizeRowToContents

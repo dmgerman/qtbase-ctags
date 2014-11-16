@@ -19,6 +19,8 @@ DECL|function|writingSystemForFont
 DECL|function|writingSystemFromLocale
 DECL|function|writingSystemFromScript
 DECL|function|~QFontComboBox
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|bitmap
 DECL|member|currentFont
 DECL|member|filters

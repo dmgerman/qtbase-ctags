@@ -59,6 +59,12 @@ DECL|function|valueFromText
 DECL|function|~QDoubleSpinBox
 DECL|function|~QSpinBox
 DECL|macro|QSBDEBUG
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|actualMax
 DECL|member|actualMin
 DECL|member|decimals

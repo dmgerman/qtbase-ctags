@@ -43,6 +43,7 @@ DECL|function|setSource
 DECL|function|setSource
 DECL|function|source
 DECL|function|~QTextBrowser
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|currentURL
 DECL|member|focusIndicatorAnchor
 DECL|member|focusIndicatorPosition

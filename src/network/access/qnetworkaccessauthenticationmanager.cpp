@@ -4,7 +4,6 @@ DECL|function|authenticationKey
 DECL|function|cacheCredentials
 DECL|function|cacheProxyCredentials
 DECL|function|clearCache
-DECL|function|dispose
 DECL|function|fetchCachedCredentials
 DECL|function|fetchCachedProxyCredentials
 DECL|function|findClosestMatch

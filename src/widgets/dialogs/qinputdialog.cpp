@@ -42,13 +42,9 @@ DECL|function|intMinimum
 DECL|function|intStep
 DECL|function|intValue
 DECL|function|isComboBoxEditable
-DECL|function|keyPressEvent
-DECL|function|keyPressEvent
 DECL|function|labelText
 DECL|function|listViewText
 DECL|function|minimumSizeHint
-DECL|function|mousePressEvent
-DECL|function|mousePressEvent
 DECL|function|notifyTextChanged
 DECL|function|notifyTextChanged
 DECL|function|okButtonText

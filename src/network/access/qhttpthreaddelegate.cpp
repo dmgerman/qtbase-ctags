@@ -4,7 +4,6 @@ DECL|function|QNetworkAccessCachedHttpConnection
 DECL|function|abortRequest
 DECL|function|cacheCredentialsSlot
 DECL|function|dataReadProgressSlot
-DECL|function|dispose
 DECL|function|downloadBufferDeleter
 DECL|function|encryptedSlot
 DECL|function|finishedSlot

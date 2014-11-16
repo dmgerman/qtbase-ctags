@@ -36,6 +36,10 @@ DECL|function|setTable
 DECL|function|translateFieldNames
 DECL|function|updateRowInTable
 DECL|function|~QSqlRelationalTableModel
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|baseRec
 DECL|member|dictionary
 DECL|member|firstSelect

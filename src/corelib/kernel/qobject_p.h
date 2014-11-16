@@ -4,11 +4,9 @@ DECL|function|createProperty
 DECL|function|disconnectNotify
 DECL|function|isSignalConnected
 DECL|function|metaCall
-DECL|function|metaCall
 DECL|function|objectDestroyed
 DECL|function|resetCurrentSender
 DECL|function|setCurrentSender
-DECL|function|toDynamicMetaObject
 DECL|function|~QDynamicMetaObjectData
 DECL|macro|QOBJECT_P_H
 DECL|member|ownedByQml1

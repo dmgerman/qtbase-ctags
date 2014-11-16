@@ -69,3 +69,7 @@ DECL|function|widget
 DECL|function|widgetForRole
 DECL|function|~QDockWidget
 DECL|function|~QDockWidgetLayout
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE

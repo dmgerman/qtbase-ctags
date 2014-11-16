@@ -74,7 +74,6 @@ DECL|function|isFinalPage
 DECL|function|isVistaThemeEnabled
 DECL|function|isVistaThemeEnabled
 DECL|function|layoutInfoForCurrentPage
-DECL|function|minimumSizeHint
 DECL|function|nativeEvent
 DECL|function|next
 DECL|function|nextId
@@ -150,6 +149,7 @@ DECL|function|wizard
 DECL|function|wizardStyle
 DECL|function|~QWizard
 DECL|function|~QWizardPage
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|antiFlickerWidget
 DECL|member|back
 DECL|member|bannerPixmap

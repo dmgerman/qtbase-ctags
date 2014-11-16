@@ -19,10 +19,7 @@ DECL|function|_q_setMode
 DECL|function|_q_zoomFactorChanged
 DECL|function|_q_zoomIn
 DECL|function|_q_zoomOut
-DECL|function|createPopupMenu
 DECL|function|done
-DECL|function|focusInEvent
-DECL|function|focusOutEvent
 DECL|function|handleReturnPressed
 DECL|function|init
 DECL|function|initResources
@@ -36,7 +33,6 @@ DECL|function|setupActions
 DECL|function|updateNavActions
 DECL|function|updatePageNumLabel
 DECL|function|updateZoomFactor
-DECL|function|validate
 DECL|function|~QPrintPreviewDialog
 DECL|member|facingModeAction
 DECL|member|firstPageAction

@@ -14,6 +14,7 @@ DECL|function|timerEvent
 DECL|function|timerEvent
 DECL|function|~QSingleShotTimer
 DECL|function|~QTimer
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|hasValidReceiver
 DECL|member|receiver
 DECL|member|slotObj

@@ -15,6 +15,11 @@ DECL|function|run
 DECL|function|run
 DECL|function|scroll
 DECL|function|~QAlphaWidget
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|alpha
 DECL|member|anim
 DECL|member|anim

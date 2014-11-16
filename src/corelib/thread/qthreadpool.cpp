@@ -29,6 +29,7 @@ DECL|function|tryToStartMoreThreads
 DECL|function|waitForDone
 DECL|function|waitForDone
 DECL|function|~QThreadPool
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|manager
 DECL|member|runnable
 DECL|member|runnableReady

@@ -120,6 +120,7 @@ DECL|macro|S5_UDP_ASSOCIATE
 DECL|macro|S5_VERSION_5
 DECL|macro|SOCKS5_BLOCKING_BIND_TIMEOUT
 DECL|macro|SOCKS5_BLOCKING_BIND_TIMEOUT
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|address
 DECL|member|associateAddress
 DECL|member|associatePort

@@ -7,6 +7,5 @@ DECL|function|fontDatabase
 DECL|function|hasCapability
 DECL|function|instance
 DECL|function|parseOptions
-DECL|function|populateFontDatabase
 DECL|function|~QMinimalIntegration
 DECL|variable|debugBackingStoreEnvironmentVariable

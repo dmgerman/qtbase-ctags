@@ -64,3 +64,5 @@ DECL|function|sizeHint
 DECL|function|timerEvent
 DECL|function|updateGeometries
 DECL|function|~QMenuBar
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE

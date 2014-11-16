@@ -1,3 +1,4 @@
 DECL|class|QEvdevTouchScreenPlugin
 DECL|function|QEvdevTouchScreenPlugin
 DECL|function|create
+DECL|member|Q_DECL_OVERRIDE

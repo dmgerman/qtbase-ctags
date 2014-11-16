@@ -40,6 +40,9 @@ DECL|function|~QXcbDrag
 DECL|function|~QXcbDropData
 DECL|macro|DEBUG
 DECL|macro|DNDDEBUG
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|atom
 DECL|member|drag
 DECL|variable|xdnd_version

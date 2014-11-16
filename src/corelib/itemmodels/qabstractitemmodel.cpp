@@ -26,13 +26,11 @@ DECL|function|changePersistentIndexList
 DECL|function|child
 DECL|function|column
 DECL|function|columnCount
-DECL|function|columnCount
 DECL|function|columnsAboutToBeInserted
 DECL|function|columnsAboutToBeRemoved
 DECL|function|columnsInserted
 DECL|function|columnsRemoved
 DECL|function|create
-DECL|function|data
 DECL|function|data
 DECL|function|decodeData
 DECL|function|defaultRoleNames
@@ -58,10 +56,8 @@ DECL|function|flags
 DECL|function|hasChildren
 DECL|function|hasChildren
 DECL|function|hasChildren
-DECL|function|hasChildren
 DECL|function|hasIndex
 DECL|function|headerData
-DECL|function|index
 DECL|function|index
 DECL|function|index
 DECL|function|insertColumns
@@ -92,7 +88,6 @@ DECL|function|operator const QModelIndex&
 DECL|function|parent
 DECL|function|parent
 DECL|function|parent
-DECL|function|parent
 DECL|function|persistentIndexList
 DECL|function|removeColumns
 DECL|function|removePersistentIndexData
@@ -101,7 +96,6 @@ DECL|function|resetInternalData
 DECL|function|revert
 DECL|function|roleNames
 DECL|function|row
-DECL|function|rowCount
 DECL|function|rowsAboutToBeInserted
 DECL|function|rowsAboutToBeRemoved
 DECL|function|rowsInserted

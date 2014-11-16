@@ -7,25 +7,18 @@ DECL|function|QStaticText
 DECL|function|QStaticText
 DECL|function|QStaticTextPrivate
 DECL|function|QStaticTextPrivate
-DECL|function|begin
 DECL|function|chars
 DECL|function|chars
 DECL|function|detach
-DECL|function|drawPixmap
-DECL|function|drawPolygon
-DECL|function|drawTextItem
-DECL|function|end
 DECL|function|get
 DECL|function|glyphs
 DECL|function|glyphs
 DECL|function|init
 DECL|function|items
 DECL|function|items
-DECL|function|metric
 DECL|function|operator !=
 DECL|function|operator =
 DECL|function|operator ==
-DECL|function|paintEngine
 DECL|function|paintText
 DECL|function|performanceHint
 DECL|function|positions
@@ -42,8 +35,6 @@ DECL|function|text
 DECL|function|textFormat
 DECL|function|textOption
 DECL|function|textWidth
-DECL|function|type
-DECL|function|updateState
 DECL|function|~DrawTextItemDevice
 DECL|function|~QStaticText
 DECL|function|~QStaticTextItem

@@ -3,16 +3,13 @@ DECL|function|QOffscreenBackingStore
 DECL|function|QOffscreenCursor
 DECL|function|QOffscreenScreen
 DECL|function|backingStoreForWinId
-DECL|function|changeCursor
 DECL|function|clearHash
 DECL|function|flush
 DECL|function|grabWindow
 DECL|function|grabWindow
 DECL|function|paintDevice
-DECL|function|pos
 DECL|function|resize
 DECL|function|scroll
-DECL|function|setPos
 DECL|function|~QOffscreenBackingStore
 DECL|member|m_backingStoreForWinIdHash
 DECL|member|m_pos

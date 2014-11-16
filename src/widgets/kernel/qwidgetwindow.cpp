@@ -1,10 +1,8 @@
 DECL|class|QWidgetWindowPrivate
 DECL|function|QWidgetWindow
 DECL|function|accessibleRoot
-DECL|function|clearFocusObject
 DECL|function|closestAcceptableGeometry
 DECL|function|event
-DECL|function|eventReceiver
 DECL|function|focusObject
 DECL|function|getFocusWidget
 DECL|function|handleCloseEvent

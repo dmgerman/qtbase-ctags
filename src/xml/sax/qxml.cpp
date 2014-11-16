@@ -30,7 +30,6 @@ DECL|function|attributeDecl
 DECL|function|characters
 DECL|function|clear
 DECL|function|columnNumber
-DECL|function|columnNumber
 DECL|function|comment
 DECL|function|contentHandler
 DECL|function|data
@@ -71,7 +70,6 @@ DECL|function|isExpandedEntityValueTooLarge
 DECL|function|is_S
 DECL|function|length
 DECL|function|lexicalHandler
-DECL|function|lineNumber
 DECL|function|lineNumber
 DECL|function|localName
 DECL|function|message

@@ -95,3 +95,5 @@ DECL|function|useScrollBar
 DECL|function|viewMode
 DECL|function|viewportEvent
 DECL|function|~QMdiArea
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE

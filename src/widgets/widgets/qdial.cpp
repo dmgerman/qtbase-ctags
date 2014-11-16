@@ -22,4 +22,5 @@ DECL|function|sliderChange
 DECL|function|valueFromPoint
 DECL|function|wrapping
 DECL|function|~QDial
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|target

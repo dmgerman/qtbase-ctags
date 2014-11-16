@@ -104,3 +104,4 @@ DECL|function|updateTabBarShapes
 DECL|function|usesHIToolBar
 DECL|function|validateToolBarArea
 DECL|function|~QMainWindowLayout
+DECL|member|Q_DECL_OVERRIDE

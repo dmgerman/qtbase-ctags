@@ -62,7 +62,6 @@ DECL|function|map
 DECL|function|mappingBuffer
 DECL|function|mappingFile
 DECL|function|mappingRoot
-DECL|function|mappingRoot
 DECL|function|mappingRootSubdir
 DECL|function|mkdir
 DECL|function|name
@@ -95,8 +94,6 @@ DECL|function|setSource
 DECL|function|size
 DECL|function|size
 DECL|function|supportsExtension
-DECL|function|type
-DECL|function|type
 DECL|function|type
 DECL|function|unmap
 DECL|function|unregisterResource

@@ -13,9 +13,6 @@ DECL|function|leafCount
 DECL|function|rectForIndex
 DECL|function|removeItem
 DECL|function|removeItems
-DECL|function|visit
-DECL|function|visit
-DECL|function|visit
 DECL|function|~QGraphicsSceneBspTree
 DECL|member|foundItems
 DECL|member|item

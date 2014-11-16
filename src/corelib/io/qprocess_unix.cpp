@@ -41,6 +41,7 @@ DECL|function|waitForWrite
 DECL|function|writeToStdin
 DECL|function|~QProcessManager
 DECL|macro|environ
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|children
 DECL|member|deathPipe
 DECL|member|exitResult

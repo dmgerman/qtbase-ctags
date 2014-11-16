@@ -52,7 +52,6 @@ DECL|function|frameEndIndex
 DECL|function|frameStartIndex
 DECL|function|isEmpty
 DECL|function|metric
-DECL|function|metric
 DECL|function|numFrames
 DECL|function|opacityChanged
 DECL|function|operator <<
@@ -64,7 +63,6 @@ DECL|function|operator >>
 DECL|function|operator >>
 DECL|function|operator >>
 DECL|function|operator >>
-DECL|function|paintEngine
 DECL|function|paintEngine
 DECL|function|penChanged
 DECL|function|process
@@ -80,7 +78,6 @@ DECL|function|setDpiY
 DECL|function|setState
 DECL|function|setupTransform
 DECL|function|stroke
-DECL|function|systemStateChanged
 DECL|function|transformChanged
 DECL|function|updateBoundingRect
 DECL|function|~QPaintBuffer

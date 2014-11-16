@@ -24,6 +24,11 @@ DECL|function|text
 DECL|function|timerEvent
 DECL|function|tipChanged
 DECL|function|~QTipLabel
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|expireTimer
 DECL|member|fadingOut
 DECL|member|hideTimer

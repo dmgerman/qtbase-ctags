@@ -31,6 +31,11 @@ DECL|function|stack
 DECL|function|stackChanged
 DECL|function|stackDestroyed
 DECL|function|~QUndoView
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|group
 DECL|member|m_clean_icon
 DECL|member|m_emty_label

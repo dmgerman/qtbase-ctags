@@ -5,7 +5,6 @@ DECL|function|QNetworkAccessFtpBackend
 DECL|function|closeDownstreamChannel
 DECL|function|create
 DECL|function|disconnectFromFtp
-DECL|function|dispose
 DECL|function|downstreamReadyWrite
 DECL|function|ftpConnectionReady
 DECL|function|ftpDone

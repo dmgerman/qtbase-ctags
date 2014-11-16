@@ -53,6 +53,14 @@ DECL|function|setListStyle
 DECL|function|setWidthAttribute
 DECL|function|topMargin
 DECL|macro|MAX_ENTITY
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|code
 DECL|member|name
 DECL|member|parser

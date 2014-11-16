@@ -1,4 +1,10 @@
 DECL|macro|VALIDATOR_H
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|private
 DECL|struct|TreeWalker
 DECL|variable|Driver

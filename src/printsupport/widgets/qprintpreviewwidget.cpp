@@ -22,7 +22,6 @@ DECL|function|pageNumber
 DECL|function|paint
 DECL|function|populateScene
 DECL|function|print
-DECL|function|resizeEvent
 DECL|function|setAllPagesViewMode
 DECL|function|setCurrentPage
 DECL|function|setCurrentPage
@@ -36,7 +35,6 @@ DECL|function|setVisible
 DECL|function|setZoomFactor
 DECL|function|setZoomFactor
 DECL|function|setZoomMode
-DECL|function|showEvent
 DECL|function|updatePreview
 DECL|function|viewMode
 DECL|function|zoom
@@ -45,6 +43,7 @@ DECL|function|zoomIn
 DECL|function|zoomMode
 DECL|function|zoomOut
 DECL|function|~QPrintPreviewWidget
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|brect
 DECL|member|curPage
 DECL|member|fitting

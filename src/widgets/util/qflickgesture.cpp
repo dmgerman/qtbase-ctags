@@ -17,7 +17,6 @@ DECL|function|scrollerBecameActive
 DECL|function|scrollerWasIntercepted
 DECL|function|sendMouseEvent
 DECL|function|shouldEventBeIgnored
-DECL|function|timerEvent
 DECL|function|~QFlickGesture
 DECL|macro|qFGDebug
 DECL|member|inst

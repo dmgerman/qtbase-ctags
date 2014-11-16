@@ -41,7 +41,6 @@ DECL|function|changeEvent
 DECL|function|checkBox
 DECL|function|clickedButton
 DECL|function|closeEvent
-DECL|function|contextMenuEvent
 DECL|function|copy
 DECL|function|critical
 DECL|function|critical
@@ -105,7 +104,6 @@ DECL|function|showEvent
 DECL|function|showNewMessageBox
 DECL|function|showOldMessageBox
 DECL|function|showOldMessageBox
-DECL|function|sizeHint
 DECL|function|standardButton
 DECL|function|standardButtons
 DECL|function|standardIcon
@@ -120,6 +118,9 @@ DECL|function|warning
 DECL|function|warning
 DECL|function|warning
 DECL|function|~QMessageBox
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|autoAddOkButton
 DECL|member|buttonBox
 DECL|member|checkbox

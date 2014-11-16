@@ -39,7 +39,6 @@ DECL|function|error
 DECL|function|errorString
 DECL|function|event
 DECL|function|eventFilter
-DECL|function|eventTest
 DECL|function|execute
 DECL|function|executeTransitionContent
 DECL|function|exitStates
@@ -72,7 +71,6 @@ DECL|function|metaObject
 DECL|function|microstep
 DECL|function|onEntry
 DECL|function|onExit
-DECL|function|onTransition
 DECL|function|postDelayedEvent
 DECL|function|postEvent
 DECL|function|postExternalEvent

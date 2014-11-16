@@ -46,6 +46,9 @@ DECL|function|toolTip
 DECL|function|updateTabs
 DECL|function|widget
 DECL|function|~QToolBox
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|button
 DECL|member|currentPage
 DECL|member|indexInPage

@@ -20,6 +20,8 @@ DECL|function|toString
 DECL|function|toString
 DECL|function|updateChildrenSizes
 DECL|macro|QGRAPHICSANCHORLAYOUT_P_H
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|dependency
 DECL|member|distance
 DECL|member|firstEdge

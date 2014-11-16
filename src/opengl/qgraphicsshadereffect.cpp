@@ -11,6 +11,7 @@ DECL|function|setUniforms
 DECL|function|setUniformsDirty
 DECL|function|~QGraphicsShaderEffect
 DECL|macro|QGL_HAVE_CUSTOM_SHADERS
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|customShaderStage
 DECL|member|effect
 DECL|member|pixelShaderFragment

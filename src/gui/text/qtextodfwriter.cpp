@@ -6,8 +6,6 @@ DECL|function|QTextOdfWriter
 DECL|function|QXmlStreamStrategy
 DECL|function|QZipStreamStrategy
 DECL|function|addFile
-DECL|function|addFile
-DECL|function|addFile
 DECL|function|bulletChar
 DECL|function|createUniqueImageName
 DECL|function|pixelToPoint

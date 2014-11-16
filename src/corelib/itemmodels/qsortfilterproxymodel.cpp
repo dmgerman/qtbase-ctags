@@ -114,6 +114,7 @@ DECL|function|updateChildrenMapping
 DECL|function|update_persistent_indexes
 DECL|function|update_source_sort_column
 DECL|function|~QSortFilterProxyModel
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|dynamic_sortfilter
 DECL|member|end
 DECL|member|filter_column

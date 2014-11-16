@@ -23,5 +23,7 @@ DECL|function|valuePropertyName
 DECL|function|~QDefaultFactoryCleaner
 DECL|function|~QItemEditorCreatorBase
 DECL|function|~QItemEditorFactory
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|struct|QDefaultFactoryCleaner
 DECL|variable|q_default_factory

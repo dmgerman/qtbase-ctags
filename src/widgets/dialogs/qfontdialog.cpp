@@ -11,7 +11,6 @@ DECL|function|_q_writingSystemHighlighted
 DECL|function|canBeNativeDialog
 DECL|function|changeEvent
 DECL|function|count
-DECL|function|currentChanged
 DECL|function|currentFont
 DECL|function|currentItem
 DECL|function|currentText

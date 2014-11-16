@@ -23,7 +23,6 @@ DECL|function|exec
 DECL|function|fetch
 DECL|function|fetchFirst
 DECL|function|fetchLast
-DECL|function|fieldSerial
 DECL|function|formatValue
 DECL|function|getPSQLVersion
 DECL|function|handle

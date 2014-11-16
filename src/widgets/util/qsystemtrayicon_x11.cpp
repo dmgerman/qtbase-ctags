@@ -23,4 +23,10 @@ DECL|function|updateIcon_sys
 DECL|function|updateMenu_sys
 DECL|function|updateToolTip_sys
 DECL|function|~QSystemTrayIconPrivate
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|q

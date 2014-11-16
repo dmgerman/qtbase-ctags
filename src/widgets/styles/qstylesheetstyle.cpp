@@ -106,7 +106,6 @@ DECL|function|QStyleSheetStylePrivate
 DECL|function|QStyleSheetStyleRecursionGuard
 DECL|function|QStyleSheetStyleSelector
 DECL|function|adjustSize
-DECL|function|attribute
 DECL|function|background
 DECL|function|baseStyle
 DECL|function|baseStyleCanDraw
@@ -142,15 +141,12 @@ DECL|function|drawItemText
 DECL|function|drawOutline
 DECL|function|drawPrimitive
 DECL|function|drawRule
-DECL|function|duplicateNode
 DECL|function|embeddedWidget
 DECL|function|event
 DECL|function|extendedPseudoClass
 DECL|function|fixupBorder
-DECL|function|freeNode
 DECL|function|generatedIconPixmap
 DECL|function|geometry
-DECL|function|hasAttributes
 DECL|function|hasBackground
 DECL|function|hasBorder
 DECL|function|hasBorderImage
@@ -170,7 +166,6 @@ DECL|function|hasStyleRule
 DECL|function|hitTestComplexControl
 DECL|function|initObject
 DECL|function|isNaturalChild
-DECL|function|isNullNode
 DECL|function|isOpaque
 DECL|function|isTransparent
 DECL|function|itemPixmapRect
@@ -179,16 +174,12 @@ DECL|function|layoutSpacing
 DECL|function|minimumContentsSize
 DECL|function|minimumSize
 DECL|function|nativeFrameWidth
-DECL|function|nodeIds
-DECL|function|nodeNameEquals
-DECL|function|nodeNames
 DECL|function|objectDestroyed
 DECL|function|originRect
 DECL|function|outline
 DECL|function|outlineRect
 DECL|function|paddingRect
 DECL|function|palette
-DECL|function|parentNode
 DECL|function|parentObject
 DECL|function|pixelMetric
 DECL|function|polish
@@ -197,7 +188,6 @@ DECL|function|polish
 DECL|function|position
 DECL|function|positionRect
 DECL|function|positionRect
-DECL|function|previousSiblingNode
 DECL|function|propertyNameForStandardPixmap
 DECL|function|pseudoClass
 DECL|function|qt_check_if_internal_object

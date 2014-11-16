@@ -14,6 +14,8 @@ DECL|function|showMessage
 DECL|function|showMessage
 DECL|function|sizeHint
 DECL|function|~QErrorMessage
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|again
 DECL|member|currentMessage
 DECL|member|currentType

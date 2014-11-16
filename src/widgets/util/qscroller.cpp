@@ -9,7 +9,6 @@ DECL|function|createScrollingSegments
 DECL|function|createScrollingSegments
 DECL|function|differentialForProgress
 DECL|function|dpi
-DECL|function|duration
 DECL|function|ensureVisible
 DECL|function|ensureVisible
 DECL|function|finalPosition
@@ -72,7 +71,6 @@ DECL|function|timerEventWhileDragging
 DECL|function|timerEventWhileScrolling
 DECL|function|timerTick
 DECL|function|ungrabGesture
-DECL|function|updateCurrentTime
 DECL|function|updateVelocity
 DECL|function|velocity
 DECL|function|~QScroller

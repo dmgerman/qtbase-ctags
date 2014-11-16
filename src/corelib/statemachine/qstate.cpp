@@ -14,12 +14,10 @@ DECL|function|emitFinished
 DECL|function|emitPropertiesAssigned
 DECL|function|errorState
 DECL|function|event
-DECL|function|eventTest
 DECL|function|historyStates
 DECL|function|initialState
 DECL|function|onEntry
 DECL|function|onExit
-DECL|function|onTransition
 DECL|function|removeTransition
 DECL|function|setChildMode
 DECL|function|setErrorState

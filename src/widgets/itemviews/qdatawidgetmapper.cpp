@@ -17,7 +17,6 @@ DECL|function|currentIndex
 DECL|function|findWidget
 DECL|function|flipEventFilters
 DECL|function|focusNextPrevChild
-DECL|function|focusNextPrevChild
 DECL|function|indexAt
 DECL|function|itemCount
 DECL|function|itemDelegate
