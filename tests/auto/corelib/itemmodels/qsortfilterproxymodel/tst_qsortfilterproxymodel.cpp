@@ -39,9 +39,11 @@ DECL|function|chainedProxyModelRoleNames
 DECL|function|changeFilter
 DECL|function|changeFilter_data
 DECL|function|changeSourceData
+DECL|function|changeSourceDataKeepsStableSorting_qtbug1548
 DECL|function|changeSourceData_data
 DECL|function|changeSourceLayout
 DECL|function|checkHierarchy
+DECL|function|checkSortedTableModel
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|columnCount
