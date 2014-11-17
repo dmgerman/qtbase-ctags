@@ -13,6 +13,7 @@ DECL|function|setIconText_data
 DECL|function|setStandardKeys
 DECL|function|setText
 DECL|function|setText_data
+DECL|function|setUnknownFont
 DECL|function|task200823_tooltip
 DECL|function|task229128TriggeredSignalWhenInActiongroup
 DECL|function|task229128TriggeredSignalWithoutActiongroup
