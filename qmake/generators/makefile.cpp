@@ -36,6 +36,8 @@ DECL|function|prlFileName
 DECL|function|processPrlFile
 DECL|function|processPrlFiles
 DECL|function|projectFile
+DECL|function|qv
+DECL|function|qv
 DECL|function|replaceExtraCompilerVariables
 DECL|function|setProjectFile
 DECL|function|shellQuote
