@@ -12,6 +12,7 @@ DECL|function|endContextComposition
 DECL|function|getCompositionString
 DECL|function|getCompositionStringConvertedRange
 DECL|function|handleIME_Request
+DECL|function|hasCapability
 DECL|function|imeNotifyCancelComposition
 DECL|function|initContext
 DECL|function|instance
