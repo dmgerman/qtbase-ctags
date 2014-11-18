@@ -11,6 +11,7 @@ DECL|function|flags
 DECL|function|hasChildren
 DECL|function|headerData
 DECL|function|itemData
+DECL|function|mapDropCoordinatesToSource
 DECL|function|mapSelectionFromSource
 DECL|function|mapSelectionToSource
 DECL|function|mimeData
