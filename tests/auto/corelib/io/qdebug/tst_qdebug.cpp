@@ -22,6 +22,7 @@ DECL|function|qDebugQByteArray
 DECL|function|qDebugQChar
 DECL|function|qDebugQFlags
 DECL|function|qDebugQLatin1String
+DECL|function|qDebugQString
 DECL|function|qDebugQStringRef
 DECL|function|resetFormat
 DECL|function|stateSaver
