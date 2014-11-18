@@ -30,6 +30,7 @@ DECL|function|apply
 DECL|function|apply
 DECL|function|centralWidget
 DECL|function|centralWidgetSize
+DECL|function|cleanup
 DECL|function|constructor
 DECL|function|corner
 DECL|function|createPopupMenu
