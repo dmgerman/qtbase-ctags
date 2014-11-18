@@ -61,6 +61,8 @@ DECL|function|compare
 DECL|function|compare
 DECL|function|compare
 DECL|function|compareCustomTypes
+DECL|function|compareNumbers
+DECL|function|compareNumbers_data
 DECL|function|comparePointers
 DECL|function|compareSanity
 DECL|function|compareSanity_data

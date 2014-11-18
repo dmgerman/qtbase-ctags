@@ -91,11 +91,15 @@ DECL|function|end
 DECL|function|end
 DECL|function|end
 DECL|function|end
+DECL|function|integralCompare
 DECL|function|isNull
 DECL|function|isNull
 DECL|function|key
 DECL|function|load
 DECL|function|nameToType
+DECL|function|normalizeLong
+DECL|function|normalizeLowerRanks
+DECL|function|numericTypePromotion
 DECL|function|operator !=
 DECL|function|operator !=
 DECL|function|operator *
