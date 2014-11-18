@@ -99,6 +99,7 @@ DECL|function|load
 DECL|function|nameToType
 DECL|function|normalizeLong
 DECL|function|normalizeLowerRanks
+DECL|function|numericCompare
 DECL|function|numericTypePromotion
 DECL|function|operator !=
 DECL|function|operator !=
@@ -133,6 +134,7 @@ DECL|function|operator >>
 DECL|function|operator >>
 DECL|function|operator []
 DECL|function|qConvertToNumber
+DECL|function|qConvertToRealNumber
 DECL|function|qConvertToUnsignedNumber
 DECL|function|qIsFloatingPoint
 DECL|function|qIsNumericType
