@@ -1,6 +1,7 @@
 DECL|class|QDebugStateSaverPrivate
 DECL|function|QDebugStateSaver
 DECL|function|QDebugStateSaverPrivate
+DECL|function|putByteArray
 DECL|function|putEscapedString
 DECL|function|putString
 DECL|function|putUcs4
