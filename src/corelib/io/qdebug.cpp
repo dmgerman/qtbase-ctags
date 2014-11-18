@@ -1,6 +1,7 @@
 DECL|class|QDebugStateSaverPrivate
 DECL|function|QDebugStateSaver
 DECL|function|QDebugStateSaverPrivate
+DECL|function|putUcs4
 DECL|function|resetFormat
 DECL|function|restoreState
 DECL|function|~QDebug
