@@ -100,7 +100,6 @@ DECL|function|toCase_template
 DECL|function|toDouble
 DECL|function|toFloat
 DECL|function|toHex
-DECL|function|toHexHelper
 DECL|function|toInt
 DECL|function|toIntegral_helper
 DECL|function|toIntegral_helper
