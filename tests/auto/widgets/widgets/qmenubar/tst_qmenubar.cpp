@@ -18,8 +18,11 @@ DECL|function|check_escKey
 DECL|function|check_homeKey
 DECL|function|check_menuPosition
 DECL|function|check_shortcutPress
+DECL|function|cleanup
 DECL|function|clear
 DECL|function|closeOnSecondClick
+DECL|function|cornerWidgets
+DECL|function|cornerWidgets_data
 DECL|function|count
 DECL|function|createCharacterAction
 DECL|function|getSetCheck
@@ -29,6 +32,7 @@ DECL|function|initWindowWithComplexMenuBar
 DECL|function|initWindowWithSimpleMenuBar
 DECL|function|insertItem_QString_QObject
 DECL|function|menubarSizeHint
+DECL|function|msgComparison
 DECL|function|onComplexActionTriggered
 DECL|function|onSimpleActivated
 DECL|function|removeItem
