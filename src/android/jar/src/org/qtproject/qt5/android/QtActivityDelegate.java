@@ -109,6 +109,7 @@ DECL|method|setFullScreen
 DECL|method|setKeyboardVisibility
 DECL|method|setSurfaceGeometry
 DECL|method|showSoftwareKeyboard
+DECL|method|shutdown
 DECL|method|startApplication
 DECL|method|updateFullScreen
 DECL|method|updateSelection
