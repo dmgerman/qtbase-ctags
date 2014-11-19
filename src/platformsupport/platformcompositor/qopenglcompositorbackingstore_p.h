@@ -1,0 +1,3 @@
+DECL|macro|QOPENGLCOMPOSITORBACKINGSTORE_H
+DECL|variable|QOpenGLContext
+DECL|variable|QPlatformTextureList

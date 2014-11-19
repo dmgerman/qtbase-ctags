@@ -1,4 +1,0 @@
-DECL|macro|QEGLCOMPOSITOR_H
-DECL|variable|QEGLPlatformWindow
-DECL|variable|QOpenGLContext
-DECL|variable|QOpenGLTextureBlitter
