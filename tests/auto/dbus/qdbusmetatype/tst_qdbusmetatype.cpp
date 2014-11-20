@@ -16,6 +16,10 @@ DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator <<
+DECL|function|operator <<
+DECL|function|operator <<
+DECL|function|operator >>
+DECL|function|operator >>
 DECL|function|operator >>
 DECL|function|operator >>
 DECL|function|operator >>
@@ -33,7 +37,10 @@ DECL|function|staticTypes
 DECL|function|staticTypes_data
 DECL|member|intStringMap
 DECL|member|m1
+DECL|member|m1
 DECL|member|m2
+DECL|member|m2
+DECL|member|m3
 DECL|member|m3
 DECL|member|m4
 DECL|member|m5
@@ -41,6 +48,9 @@ DECL|member|m6
 DECL|member|m7
 DECL|member|stringStringMap
 DECL|member|stringStruct1Map
+DECL|member|v1
+DECL|member|v2
+DECL|member|v3
 DECL|struct|Invalid0
 DECL|struct|Invalid1
 DECL|struct|Invalid2
@@ -53,6 +63,8 @@ DECL|struct|Struct1
 DECL|struct|Struct2
 DECL|struct|Struct3
 DECL|struct|Struct4
+DECL|struct|Struct5
+DECL|struct|Struct6
 DECL|typedef|IntStringMap
 DECL|typedef|StringPair
 DECL|typedef|StringStringMap
