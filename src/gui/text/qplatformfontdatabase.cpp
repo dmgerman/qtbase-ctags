@@ -39,6 +39,7 @@ DECL|function|releaseHandle
 DECL|function|resolveFontFamilyAlias
 DECL|function|setSupported
 DECL|function|standardSizes
+DECL|function|subpixelAntialiasingTypeHint
 DECL|function|supported
 DECL|function|weightFromInteger
 DECL|function|writingSystemsFromTrueTypeBits

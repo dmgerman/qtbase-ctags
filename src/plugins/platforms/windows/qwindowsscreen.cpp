@@ -23,6 +23,7 @@ DECL|function|removeScreen
 DECL|function|screenAtDp
 DECL|function|screenOf
 DECL|function|sharedCursor
+DECL|function|subpixelAntialiasingTypeHint
 DECL|function|topLevelAt
 DECL|function|virtualSiblings
 DECL|function|windowAt
