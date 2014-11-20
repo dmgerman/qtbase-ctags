@@ -8,6 +8,7 @@ DECL|function|~MakefileGenerator
 DECL|macro|MAKEFILE_H
 DECL|macro|QT_PCLOSE
 DECL|macro|QT_POPEN
+DECL|member|forShell
 DECL|member|hash
 DECL|member|in
 DECL|member|out
