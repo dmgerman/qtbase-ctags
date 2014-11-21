@@ -8,12 +8,12 @@ DECL|function|TextureStorage11_2D
 DECL|function|TextureStorage11_2DArray
 DECL|function|TextureStorage11_3D
 DECL|function|TextureStorage11_Cube
-DECL|function|add
 DECL|function|associateImage
 DECL|function|associateImage
 DECL|function|associateImage
 DECL|function|associateImage
 DECL|function|copySubresourceLevel
+DECL|function|copyToStorage
 DECL|function|createSRV
 DECL|function|createSRV
 DECL|function|createSRV
@@ -22,12 +22,7 @@ DECL|function|disassociateImage
 DECL|function|disassociateImage
 DECL|function|disassociateImage
 DECL|function|disassociateImage
-DECL|function|find
-DECL|function|generateMipmapLayer
-DECL|function|generateMipmaps
-DECL|function|generateMipmaps
-DECL|function|generateMipmaps
-DECL|function|generateMipmaps
+DECL|function|generateMipmap
 DECL|function|generateSwizzles
 DECL|function|getBindFlags
 DECL|function|getLevelCount
@@ -68,15 +63,15 @@ DECL|function|makeTextureStorage11_2DArray
 DECL|function|makeTextureStorage11_3D
 DECL|function|makeTextureStorage11_Cube
 DECL|function|operator !=
+DECL|function|operator <
 DECL|function|operator ==
-DECL|function|operator ==
 DECL|function|releaseAssociatedImage
 DECL|function|releaseAssociatedImage
 DECL|function|releaseAssociatedImage
 DECL|function|releaseAssociatedImage
+DECL|function|setData
 DECL|function|updateSubresourceLevel
 DECL|function|verifySwizzleExists
-DECL|function|~SRVCache
 DECL|function|~TextureStorage11
 DECL|function|~TextureStorage11_2D
 DECL|function|~TextureStorage11_2DArray

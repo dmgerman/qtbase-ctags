@@ -51,6 +51,7 @@ DECL|function|generateRequisites
 DECL|function|generateSection
 DECL|function|generateSectionInheritedList
 DECL|function|generateSectionList
+DECL|function|generateSidebar
 DECL|function|generateStatus
 DECL|function|generateSynopsis
 DECL|function|generateTableOfContents

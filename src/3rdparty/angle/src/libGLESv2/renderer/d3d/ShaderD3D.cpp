@@ -1,4 +1,5 @@
 DECL|function|FilterInactiveVariables
+DECL|function|GetShaderTypeString
 DECL|function|GetShaderVariables
 DECL|function|ShaderD3D
 DECL|function|compareVarying
@@ -7,6 +8,7 @@ DECL|function|compileToHLSL
 DECL|function|getCompiler
 DECL|function|getCompilerOutputType
 DECL|function|getD3DWorkarounds
+DECL|function|getDebugInfo
 DECL|function|getInterfaceBlockRegister
 DECL|function|getSemanticIndex
 DECL|function|getUniformRegister

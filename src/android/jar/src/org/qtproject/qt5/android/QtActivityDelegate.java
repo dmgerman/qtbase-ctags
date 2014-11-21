@@ -1,3 +1,4 @@
+DECL|class|DebugWaitRunnable
 DECL|class|QtActivityDelegate
 DECL|field|APPLICATION_PARAMETERS_KEY
 DECL|field|ApplicationActive
@@ -62,6 +63,9 @@ DECL|field|m_super_onRestoreInstanceState
 DECL|field|m_super_onRetainNonConfigurationInstance
 DECL|field|m_super_onSaveInstanceState
 DECL|field|m_surfaces
+DECL|field|socket
+DECL|field|wasFailure
+DECL|method|DebugWaitRunnable
 DECL|method|bringChildToBack
 DECL|method|bringChildToFront
 DECL|method|closeContextMenu
@@ -99,11 +103,13 @@ DECL|method|onTerminate
 DECL|method|openContextMenu
 DECL|method|resetOptionsMenu
 DECL|method|resetSoftwareKeyboard
+DECL|method|run
 DECL|method|setActionBarVisibility
 DECL|method|setFullScreen
 DECL|method|setKeyboardVisibility
 DECL|method|setSurfaceGeometry
 DECL|method|showSoftwareKeyboard
+DECL|method|shutdown
 DECL|method|startApplication
 DECL|method|updateFullScreen
 DECL|method|updateSelection

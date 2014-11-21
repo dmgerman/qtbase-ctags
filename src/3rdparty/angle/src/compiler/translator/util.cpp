@@ -2,10 +2,12 @@ DECL|function|ArrayString
 DECL|function|GLVariablePrecision
 DECL|function|GLVariableType
 DECL|function|GetInterpolationType
+DECL|function|GetVariableTraverser
 DECL|function|IsVarying
 DECL|function|IsVaryingIn
 DECL|function|IsVaryingOut
 DECL|function|atof_clamp
 DECL|function|atoi_clamp
+DECL|function|setTypeSpecificInfo
 DECL|function|traverse
 DECL|namespace|sh

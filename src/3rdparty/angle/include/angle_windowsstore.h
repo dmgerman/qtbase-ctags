@@ -1,0 +1,3 @@
+DECL|macro|ANGLE_WINDOWSSTORE_H_
+DECL|variable|EGLNativeWindowTypeProperty
+DECL|variable|EGLRenderSurfaceSizeProperty

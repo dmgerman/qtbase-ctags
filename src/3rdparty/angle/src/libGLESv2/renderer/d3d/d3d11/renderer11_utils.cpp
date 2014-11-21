@@ -12,6 +12,7 @@ DECL|function|ConvertTextureWrap
 DECL|function|GenerateCaps
 DECL|function|GenerateInitialTextureData
 DECL|function|GenerateTextureFormatCaps
+DECL|function|GenerateWorkarounds
 DECL|function|GetAttachmentRenderTarget
 DECL|function|GetDerivativeInstructionSupport
 DECL|function|GetEventQuerySupport
@@ -30,8 +31,8 @@ DECL|function|GetMaximumPixelUniformBlocks
 DECL|function|GetMaximumPixelUniformVectors
 DECL|function|GetMaximumSimultaneousRenderTargets
 DECL|function|GetMaximumStreamOutputBuffers
-DECL|function|GetMaximumStreamOutputInterleavedComponenets
-DECL|function|GetMaximumStreamOutputSeparateCompeonents
+DECL|function|GetMaximumStreamOutputInterleavedComponents
+DECL|function|GetMaximumStreamOutputSeparateComponents
 DECL|function|GetMaximumTexelOffset
 DECL|function|GetMaximumVertexInputSlots
 DECL|function|GetMaximumVertexOutputVectors
@@ -65,7 +66,6 @@ DECL|macro|D3D11_REQ_TEXTURE3D_U_V_OR_W_DIMENSION
 DECL|macro|D3D11_REQ_TEXTURECUBE_DIMENSION
 DECL|macro|D3D11_SO_BUFFER_SLOT_COUNT
 DECL|macro|D3D11_STANDARD_VERTEX_ELEMENT_COUNT
-DECL|macro|D3D11_VS_OUTPUT_REGISTER_COUNT
 DECL|macro|D3D_FL9_1_DEFAULT_MAX_ANISOTROPY
 DECL|macro|D3D_FL9_1_IA_PRIMITIVE_MAX_COUNT
 DECL|macro|D3D_FL9_1_REQ_TEXTURE2D_U_OR_V_DIMENSION

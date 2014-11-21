@@ -89,6 +89,7 @@ DECL|enumerator|EOpNormalize
 DECL|enumerator|EOpNotEqual
 DECL|enumerator|EOpNull
 DECL|enumerator|EOpParameters
+DECL|enumerator|EOpPositive
 DECL|enumerator|EOpPostDecrement
 DECL|enumerator|EOpPostIncrement
 DECL|enumerator|EOpPow

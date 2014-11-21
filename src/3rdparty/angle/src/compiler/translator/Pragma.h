@@ -1,6 +1,10 @@
+DECL|function|STDGL
 DECL|function|TPragma
 DECL|function|TPragma
 DECL|macro|COMPILER_PRAGMA_H_
 DECL|member|debug
+DECL|member|invariantAll
 DECL|member|optimize
+DECL|member|stdgl
+DECL|struct|STDGL
 DECL|struct|TPragma

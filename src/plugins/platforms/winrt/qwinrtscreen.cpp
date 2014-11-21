@@ -4,6 +4,7 @@ DECL|function|addWindow
 DECL|function|coreWindow
 DECL|function|cursor
 DECL|function|depth
+DECL|function|eglConfig
 DECL|function|eglDisplay
 DECL|function|eglSurface
 DECL|function|format
@@ -46,6 +47,7 @@ DECL|function|removeWindow
 DECL|function|surfaceFormat
 DECL|function|topWindow
 DECL|function|~QWinRTScreen
+DECL|macro|EGL_EGLEXT_PROTOTYPES
 DECL|member|activeKeys
 DECL|member|application
 DECL|member|applicationTokens
@@ -54,6 +56,7 @@ DECL|member|coreWindow
 DECL|member|cursor
 DECL|member|displayInformation
 DECL|member|displayTokens
+DECL|member|eglConfig
 DECL|member|eglDisplay
 DECL|member|eglSurface
 DECL|member|hardwareButtons

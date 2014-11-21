@@ -1,10 +1,8 @@
 DECL|function|Image9
 DECL|function|copy
+DECL|function|copy
 DECL|function|copyLockableSurfaces
-DECL|function|copyToStorage2D
-DECL|function|copyToStorage2DArray
-DECL|function|copyToStorage3D
-DECL|function|copyToStorageCube
+DECL|function|copyToStorage
 DECL|function|copyToSurface
 DECL|function|createSurface
 DECL|function|generateMip

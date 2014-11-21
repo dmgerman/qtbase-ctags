@@ -7,7 +7,9 @@ DECL|function|VertexFormat
 DECL|function|VertexFormat
 DECL|function|VertexFormat
 DECL|function|operator !=
+DECL|function|operator !=
 DECL|function|operator <
+DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|swizzleRequired
 DECL|namespace|gl

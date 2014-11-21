@@ -1,8 +1,9 @@
 DECL|function|AllocateCurrent
+DECL|function|CreateThreadLocalIndex
 DECL|function|DeallocateCurrent
+DECL|function|DestroyThreadLocalIndex
 DECL|function|DllMain
 DECL|function|GetCurrentData
-DECL|function|error
 DECL|function|getContext
 DECL|function|getDisplay
 DECL|function|getNonLostContext

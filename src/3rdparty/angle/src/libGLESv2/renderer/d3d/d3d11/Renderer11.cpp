@@ -1,4 +1,5 @@
 DECL|enumerator|MAX_TEXTURE_IMAGE_UNITS_VTF_SM4
+DECL|function|GetSRVResource
 DECL|function|Renderer11
 DECL|function|applyIndexBuffer
 DECL|function|applyPrimitiveType
@@ -15,18 +16,17 @@ DECL|function|copyImage2D
 DECL|function|copyImage2DArray
 DECL|function|copyImage3D
 DECL|function|copyImageCube
-DECL|function|copyToRenderTarget2D
-DECL|function|copyToRenderTarget2DArray
-DECL|function|copyToRenderTarget3D
-DECL|function|copyToRenderTargetCube
 DECL|function|createBuffer
-DECL|function|createFence
+DECL|function|createFenceNV
+DECL|function|createFenceSync
 DECL|function|createImage
 DECL|function|createIndexBuffer
 DECL|function|createProgram
 DECL|function|createQuery
 DECL|function|createRenderTarget
 DECL|function|createRenderTarget
+DECL|function|createRenderbuffer
+DECL|function|createRenderbuffer
 DECL|function|createShader
 DECL|function|createSwapChain
 DECL|function|createTexture
@@ -51,6 +51,7 @@ DECL|function|generateCaps
 DECL|function|generateConfigs
 DECL|function|generateMipmap
 DECL|function|generateSwizzle
+DECL|function|generateWorkarounds
 DECL|function|getAdapterIdentifier
 DECL|function|getAdapterVendor
 DECL|function|getLUID
@@ -91,6 +92,7 @@ DECL|function|setOneTimeRenderTarget
 DECL|function|setRasterizerState
 DECL|function|setSamplerState
 DECL|function|setScissorRectangle
+DECL|function|setShaderResource
 DECL|function|setTexture
 DECL|function|setUniformBuffers
 DECL|function|setViewport
@@ -99,6 +101,7 @@ DECL|function|sync
 DECL|function|testDeviceLost
 DECL|function|testDeviceResettable
 DECL|function|unapplyRenderTargets
+DECL|function|unsetSRVsWithResource
 DECL|function|~Renderer11
 DECL|macro|ANGLE_SKIP_DXGI_1_2_CHECK
 DECL|macro|ANGLE_SUPPRESS_D3D11_HAZARD_WARNINGS

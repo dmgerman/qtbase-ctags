@@ -2,6 +2,7 @@ DECL|function|BufferD3D
 DECL|function|initializeStaticData
 DECL|function|invalidateStaticData
 DECL|function|makeBufferD3D
+DECL|function|makeFromBuffer
 DECL|function|promoteStaticUsage
 DECL|function|updateSerial
 DECL|function|~BufferD3D

@@ -4,6 +4,7 @@ DECL|function|GetGlobalMaxTokenSize
 DECL|function|Init
 DECL|function|InitBuiltInSymbolTable
 DECL|function|IsWebGLBasedSpec
+DECL|function|MapSpecToShaderVersion
 DECL|function|TCompiler
 DECL|function|TScopedPoolAllocator
 DECL|function|TScopedSymbolTableLevel
@@ -28,6 +29,7 @@ DECL|function|rewriteCSSShader
 DECL|function|setResourceString
 DECL|function|validateLimitations
 DECL|function|validateOutputs
+DECL|function|writePragma
 DECL|function|~TCompiler
 DECL|function|~TScopedPoolAllocator
 DECL|function|~TScopedSymbolTableLevel

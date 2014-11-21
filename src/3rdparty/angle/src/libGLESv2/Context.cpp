@@ -1,11 +1,4 @@
 DECL|function|Context
-DECL|function|applyRenderTarget
-DECL|function|applyShaders
-DECL|function|applyState
-DECL|function|applyTextures
-DECL|function|applyTextures
-DECL|function|applyTransformFeedbackBuffers
-DECL|function|applyUniformBuffers
 DECL|function|beginQuery
 DECL|function|bindArrayBuffer
 DECL|function|bindCopyReadBuffer
@@ -64,14 +57,12 @@ DECL|function|detachVertexArray
 DECL|function|drawArrays
 DECL|function|drawElements
 DECL|function|endQuery
-DECL|function|generateSwizzles
-DECL|function|generateSwizzles
 DECL|function|getBooleanv
-DECL|function|getBoundFramebufferTextureSerials
 DECL|function|getBuffer
 DECL|function|getCaps
 DECL|function|getClientVersion
 DECL|function|getCurrentReadFormatType
+DECL|function|getData
 DECL|function|getError
 DECL|function|getExtensionString
 DECL|function|getExtensionString
@@ -81,7 +72,6 @@ DECL|function|getFenceNV
 DECL|function|getFenceSync
 DECL|function|getFloatv
 DECL|function|getFramebuffer
-DECL|function|getIncompleteTexture
 DECL|function|getIndexedInteger64v
 DECL|function|getIndexedIntegerv
 DECL|function|getIndexedQueryParameterInfo
@@ -120,7 +110,6 @@ DECL|function|isSampler
 DECL|function|linkProgram
 DECL|function|makeCurrent
 DECL|function|markContextLost
-DECL|function|markTransformFeedbackUsage
 DECL|function|readPixels
 DECL|function|recordError
 DECL|function|releaseShaderCompiler
@@ -128,9 +117,7 @@ DECL|function|samplerParameterf
 DECL|function|samplerParameteri
 DECL|function|setFramebufferZero
 DECL|function|setProgramBinary
-DECL|function|setRenderbufferStorage
 DECL|function|setVertexAttribDivisor
-DECL|function|skipDraw
 DECL|function|sync
 DECL|function|useProgram
 DECL|function|~Context

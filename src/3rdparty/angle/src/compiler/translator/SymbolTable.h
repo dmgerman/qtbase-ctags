@@ -1,10 +1,10 @@
-DECL|enumerator|COMMON_BUILTINS
-DECL|enumerator|ESSL1_BUILTINS
-DECL|enumerator|ESSL3_BUILTINS
-DECL|enumerator|GLOBAL_LEVEL
-DECL|enumerator|LAST_BUILTIN_LEVEL
-DECL|enum|ESymbolLevel
 DECL|macro|_SYMBOL_TABLE_INCLUDED_
 DECL|member|name
 DECL|member|type
 DECL|struct|TParameter
+DECL|typedef|ESymbolLevel
+DECL|variable|COMMON_BUILTINS
+DECL|variable|ESSL1_BUILTINS
+DECL|variable|ESSL3_BUILTINS
+DECL|variable|GLOBAL_LEVEL
+DECL|variable|LAST_BUILTIN_LEVEL

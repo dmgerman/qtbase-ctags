@@ -17,6 +17,7 @@ DECL|function|event
 DECL|function|flush
 DECL|function|hasPendingEvents
 DECL|function|inputTimerMask
+DECL|function|installMessageHook
 DECL|function|interrupt
 DECL|function|processEvents
 DECL|function|qt_GetMessageHook
@@ -37,6 +38,7 @@ DECL|function|select
 DECL|function|sendPostedEvents
 DECL|function|sendTimerEvent
 DECL|function|startingUp
+DECL|function|uninstallMessageHook
 DECL|function|unregisterEventNotifier
 DECL|function|unregisterSocketNotifier
 DECL|function|unregisterTimer

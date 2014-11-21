@@ -22,6 +22,7 @@ DECL|function|isValidSurface
 DECL|function|notifyDeviceLost
 DECL|function|recreateSwapChains
 DECL|function|restoreLostDevice
+DECL|function|setAttributes
 DECL|function|supportsPlatformD3D
 DECL|function|supportsPlatformOpenGL
 DECL|function|terminate

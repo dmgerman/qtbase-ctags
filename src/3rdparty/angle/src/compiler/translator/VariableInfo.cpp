@@ -1,8 +1,8 @@
 DECL|class|NameHashingTraverser
 DECL|function|CollectVariables
+DECL|function|ExpandUniforms
 DECL|function|ExpandUserDefinedVariable
 DECL|function|ExpandVariable
-DECL|function|ExpandVariables
 DECL|function|FindVariable
 DECL|function|GetBlockLayoutType
 DECL|function|InterfaceBlockFieldName

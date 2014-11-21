@@ -6,7 +6,7 @@ DECL|function|copyCube
 DECL|function|copySurfaceToTexture
 DECL|function|formatConvert
 DECL|function|getSurfaceRect
-DECL|function|initGeometry
+DECL|function|initialize
 DECL|function|render
 DECL|function|restoreState
 DECL|function|saveState
