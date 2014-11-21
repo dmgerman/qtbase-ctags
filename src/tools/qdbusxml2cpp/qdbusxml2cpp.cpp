@@ -8,6 +8,7 @@ DECL|function|cpp
 DECL|function|header
 DECL|function|main
 DECL|function|makeArgNames
+DECL|function|methodName
 DECL|function|moc
 DECL|function|nextArg
 DECL|function|nonConstRefArg
