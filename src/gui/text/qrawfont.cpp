@@ -8,7 +8,6 @@ DECL|function|alphaMapForGlyph
 DECL|function|ascent
 DECL|function|averageCharWidth
 DECL|function|boundingRect
-DECL|function|cleanUp
 DECL|function|descent
 DECL|function|familyName
 DECL|function|fontTable
