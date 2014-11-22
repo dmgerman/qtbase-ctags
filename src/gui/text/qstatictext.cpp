@@ -7,8 +7,6 @@ DECL|function|QStaticText
 DECL|function|QStaticText
 DECL|function|QStaticTextPrivate
 DECL|function|QStaticTextPrivate
-DECL|function|chars
-DECL|function|chars
 DECL|function|detach
 DECL|function|get
 DECL|function|glyphs
@@ -39,7 +37,6 @@ DECL|function|~DrawTextItemDevice
 DECL|function|~QStaticText
 DECL|function|~QStaticTextItem
 DECL|function|~QStaticTextPrivate
-DECL|member|m_chars
 DECL|member|m_currentColor
 DECL|member|m_dirtyPen
 DECL|member|m_glyphs
