@@ -12,6 +12,7 @@ DECL|function|QFontEngineMultiBasicImpl
 DECL|function|QFontEngineMultiBasicImpl
 DECL|function|QFontEngine_startCollectingEngines
 DECL|function|QFontEngine_stopCollectingEngines
+DECL|function|QTestFontEngine
 DECL|function|addBitmapFontToPath
 DECL|function|addGlyphsToPath
 DECL|function|addOutlineToPath
