@@ -1,7 +1,6 @@
 DECL|function|VcprojGenerator
 DECL|function|collectDependencies
 DECL|function|createProjectWriter
-DECL|function|fixFilename
 DECL|function|getProjectUUID
 DECL|function|hasBuiltinCompiler
 DECL|function|increaseUUID
