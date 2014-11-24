@@ -2,6 +2,7 @@ DECL|function|defaultFont
 DECL|function|defaultFont
 DECL|function|fontDir
 DECL|function|fontEngine
+DECL|function|fontsAlwaysScalable
 DECL|function|populateFamily
 DECL|function|populateFontDatabase
 DECL|function|releaseHandle
