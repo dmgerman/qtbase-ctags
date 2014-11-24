@@ -6,6 +6,7 @@ DECL|function|fontEngine
 DECL|function|fontEngine
 DECL|function|fontEngineMulti
 DECL|function|getFcFamilyForStyleHint
+DECL|function|mapToQtWeightForRange
 DECL|function|populateFontDatabase
 DECL|function|populateFromPattern
 DECL|function|queryFont
@@ -19,5 +20,6 @@ DECL|member|ScriptCount
 DECL|member|WritingSystemsCount
 DECL|member|WritingSystemsCount
 DECL|variable|languageForWritingSystem
+DECL|variable|maxWeight
 DECL|variable|openType
 DECL|variable|specialLanguages
