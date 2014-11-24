@@ -149,6 +149,8 @@ DECL|function|userName
 DECL|function|validateComponent
 DECL|function|validateComponent
 DECL|function|validityError
+DECL|function|webDavScheme
+DECL|function|webDavSslTag
 DECL|function|~QUrl
 DECL|function|~QUrlPrivate
 DECL|macro|colon_uchar

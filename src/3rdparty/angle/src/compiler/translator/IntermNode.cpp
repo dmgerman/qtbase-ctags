@@ -20,4 +20,7 @@ DECL|function|replaceChildNode
 DECL|function|replaceChildNode
 DECL|function|replaceChildNode
 DECL|function|replaceChildNode
+DECL|function|setBuiltInFunctionPrecision
+DECL|function|setPrecisionFromChildren
+DECL|function|setTypePreservePrecision
 DECL|macro|REPLACE_IF_IS

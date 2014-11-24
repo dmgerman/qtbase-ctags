@@ -2,13 +2,16 @@ DECL|class|KeyChecker
 DECL|function|KeyChecker
 DECL|function|QXcbKeyboard
 DECL|function|checkEvent
+DECL|function|checkForLatinLayout
 DECL|function|clearXKBConfig
 DECL|function|handleKeyEvent
 DECL|function|handleKeyPressEvent
 DECL|function|handleKeyReleaseEvent
 DECL|function|handleMappingNotifyEvent
+DECL|function|isLatin
 DECL|function|keysymToQtKey
 DECL|function|keysymToQtKey
+DECL|function|lookupLatinKeysym
 DECL|function|lookupString
 DECL|function|possibleKeys
 DECL|function|printKeymapError

@@ -1,8 +1,10 @@
 DECL|function|ImeState
 DECL|macro|QIOSINPUTCONTEXT_H
 DECL|member|currentState
+DECL|member|focusObject
 DECL|struct|ImeState
 DECL|variable|QIOSKeyboardListener
 DECL|variable|QIOSTextInputResponder
 DECL|variable|kImePlatformDataInputAccessoryView
 DECL|variable|kImePlatformDataInputView
+DECL|variable|kImePlatformDataReturnKeyType

@@ -44,7 +44,6 @@ DECL|function|columnViewportPosition_data
 DECL|function|columnWidth
 DECL|function|columnWidthHint
 DECL|function|columnWidth_data
-DECL|function|currentChanged
 DECL|function|data
 DECL|function|data
 DECL|function|data
@@ -140,6 +139,7 @@ DECL|function|setModel
 DECL|function|setSelection
 DECL|function|sizeHint
 DECL|function|sizeHintForRow
+DECL|function|slotCurrentChanged
 DECL|function|sortingEnabled
 DECL|function|sortingEnabled_data
 DECL|function|span

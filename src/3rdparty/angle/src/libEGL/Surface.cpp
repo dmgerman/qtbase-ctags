@@ -17,15 +17,14 @@ DECL|function|getWindowHandle
 DECL|function|initialize
 DECL|function|isFixedSize
 DECL|function|isPostSubBufferSupported
-DECL|function|onDpiChanged
-DECL|function|onOrientationChanged
-DECL|function|onSizeChanged
 DECL|function|postSubBuffer
 DECL|function|release
 DECL|function|resetSwapChain
 DECL|function|resetSwapChain
 DECL|function|resizeSwapChain
 DECL|function|setBoundTexture
+DECL|function|setFixedHeight
+DECL|function|setFixedWidth
 DECL|function|setSwapInterval
 DECL|function|subclassWindow
 DECL|function|swap

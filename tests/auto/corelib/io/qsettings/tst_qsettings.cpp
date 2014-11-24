@@ -3,6 +3,7 @@ DECL|class|tst_QSettings
 DECL|function|allKeys
 DECL|function|allKeys_data
 DECL|function|beginGroup
+DECL|function|bom
 DECL|function|canWriteNativeSystemSettings
 DECL|function|childGroups
 DECL|function|childGroups_data

@@ -1,7 +1,6 @@
-DECL|function|Fence9
-DECL|function|hasError
-DECL|function|isSet
+DECL|function|FenceNV9
+DECL|function|finishFence
 DECL|function|set
 DECL|function|test
-DECL|function|~Fence9
+DECL|function|~FenceNV9
 DECL|namespace|rx

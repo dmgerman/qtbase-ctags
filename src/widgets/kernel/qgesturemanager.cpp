@@ -10,6 +10,7 @@ DECL|function|filterEventThroughContexts
 DECL|function|gesturePending
 DECL|function|getGestureTargets
 DECL|function|getState
+DECL|function|panTouchPoints
 DECL|function|recycle
 DECL|function|registerGestureRecognizer
 DECL|function|unregisterGestureRecognizer

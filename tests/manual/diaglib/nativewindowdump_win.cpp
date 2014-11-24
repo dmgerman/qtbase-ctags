@@ -1,0 +1,16 @@
+DECL|function|DumpContext
+DECL|function|dumpNativeQtTopLevels
+DECL|function|dumpNativeWindowRecursion
+DECL|function|dumpNativeWindowRecursionByZ
+DECL|function|dumpNativeWindows
+DECL|function|dumpNativeWindows
+DECL|function|dumpWindowEnumChildProc
+DECL|function|findQtTopLevelEnumChildProc
+DECL|function|findQtTopLevels
+DECL|function|formatNativeWindow
+DECL|macro|debugWinStyle
+DECL|member|indentation
+DECL|member|stream
+DECL|namespace|QtDiag
+DECL|struct|DumpContext
+DECL|typedef|WIdVector

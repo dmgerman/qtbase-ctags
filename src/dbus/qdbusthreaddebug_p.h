@@ -25,6 +25,7 @@ DECL|enumerator|HandleObjectCallAction
 DECL|enumerator|HandleObjectCallPostEventAction
 DECL|enumerator|HandleObjectCallSemaphoreAction
 DECL|enumerator|HandleSignalAction
+DECL|enumerator|HuntAndEmitAction
 DECL|enumerator|KillTimerAction
 DECL|enumerator|MessageResultReceivedAction
 DECL|enumerator|ObjectDestroyedAction
@@ -36,6 +37,8 @@ DECL|enumerator|RegisterServiceAction
 DECL|enumerator|RelaySignalAction
 DECL|enumerator|RemoveTimeoutAction
 DECL|enumerator|RemoveWatchAction
+DECL|enumerator|SendMessageAction
+DECL|enumerator|SendWithReplyAndBlockAction
 DECL|enumerator|SendWithReplyAsyncAction
 DECL|enumerator|SocketReadAction
 DECL|enumerator|SocketWriteAction
@@ -49,7 +52,6 @@ DECL|enum|ThreadAction
 DECL|function|QDBusDispatchLocker
 DECL|function|QDBusMutexLocker
 DECL|function|QDBusReadLocker
-DECL|function|QDBusWatchAndTimeoutLocker
 DECL|function|QDBusWriteLocker
 DECL|function|reportThreadAction
 DECL|function|reportThreadAction
@@ -73,6 +75,5 @@ DECL|struct|QDBusLockerBase
 DECL|struct|QDBusLockerBase
 DECL|struct|QDBusLockerBase
 DECL|struct|QDBusLockerBase
-DECL|struct|QDBusMutexLocker
 DECL|struct|QDBusMutexLocker
 DECL|typedef|qdbusThreadDebugFunc

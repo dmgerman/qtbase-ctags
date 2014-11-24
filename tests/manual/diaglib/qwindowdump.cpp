@@ -1,0 +1,13 @@
+DECL|class|QWindow
+DECL|function|dumpAllWindows
+DECL|function|dumpAllWindows
+DECL|function|dumpWindowRecursion
+DECL|function|formatObject
+DECL|function|formatRect
+DECL|function|formatWindow
+DECL|function|formatWindow
+DECL|function|formatWindowFlags
+DECL|function|indentStream
+DECL|macro|debugFlag
+DECL|macro|debugType
+DECL|namespace|QtDiag

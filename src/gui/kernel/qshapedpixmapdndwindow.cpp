@@ -4,3 +4,4 @@ DECL|function|render
 DECL|function|setHotspot
 DECL|function|setPixmap
 DECL|function|updateGeometry
+DECL|function|~QShapedPixmapWindow

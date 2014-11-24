@@ -107,7 +107,6 @@ DECL|function|reportRefreshRateChange
 DECL|function|reportScreenOrientationChange
 DECL|function|reportScreenOrientationChange
 DECL|function|restoreOverrideCursor
-DECL|function|runningUnderDebugger
 DECL|function|saveState
 DECL|function|screens
 DECL|function|sendQWindowEventToQPlatformWindow
@@ -162,7 +161,6 @@ DECL|member|mousePressX
 DECL|member|mousePressY
 DECL|member|mouse_buttons
 DECL|member|mouse_double_click_distance
-DECL|member|noGrab
 DECL|member|obey_desktop_settings
 DECL|member|platform_integration
 DECL|member|platform_name

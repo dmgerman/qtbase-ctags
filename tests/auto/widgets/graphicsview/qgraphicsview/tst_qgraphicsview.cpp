@@ -171,6 +171,7 @@ DECL|function|task253415_reconnectUpdateSceneOnSceneChanged
 DECL|function|task255529_transformationAnchorMouseAndViewportMargins
 DECL|function|task259503_scrollingArtifacts
 DECL|function|transformationAnchor
+DECL|function|tst_QGraphicsView
 DECL|function|update
 DECL|function|update2
 DECL|function|update2_data
@@ -202,6 +203,7 @@ DECL|member|numPaints
 DECL|member|orientation
 DECL|member|painted
 DECL|member|paints
+DECL|member|platformName
 DECL|member|pressAccepted
 DECL|member|pressForwarded
 DECL|member|presses

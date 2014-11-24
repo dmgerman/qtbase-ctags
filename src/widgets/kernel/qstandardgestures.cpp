@@ -1,4 +1,3 @@
-DECL|function|QPanGestureRecognizer
 DECL|function|QPinchGestureRecognizer
 DECL|function|QSwipeGestureRecognizer
 DECL|function|QTapAndHoldGestureRecognizer
@@ -8,6 +7,8 @@ DECL|function|create
 DECL|function|create
 DECL|function|create
 DECL|function|create
+DECL|function|panOffset
+DECL|function|panTouchPoints
 DECL|function|recognize
 DECL|function|recognize
 DECL|function|recognize

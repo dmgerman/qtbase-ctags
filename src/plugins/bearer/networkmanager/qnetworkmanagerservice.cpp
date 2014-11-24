@@ -18,9 +18,11 @@ DECL|function|QNetworkManagerInterfaceDeviceWireless
 DECL|function|QNetworkManagerIp4Config
 DECL|function|QNetworkManagerSettings
 DECL|function|QNetworkManagerSettingsConnection
+DECL|function|accessPointsFinished
 DECL|function|activateConnection
 DECL|function|activeAccessPoint
 DECL|function|activeConnections
+DECL|function|availableConnections
 DECL|function|bitrate
 DECL|function|carrier
 DECL|function|connection
@@ -35,6 +37,7 @@ DECL|function|connectionInterface
 DECL|function|connectionInterface
 DECL|function|currentCapabilities
 DECL|function|deactivateConnection
+DECL|function|default6Route
 DECL|function|defaultRoute
 DECL|function|deviceType
 DECL|function|devices
@@ -74,6 +77,13 @@ DECL|function|mode
 DECL|function|mode
 DECL|function|modemCapabilities
 DECL|function|networkInterface
+DECL|function|propertiesSwap
+DECL|function|propertiesSwap
+DECL|function|propertiesSwap
+DECL|function|propertiesSwap
+DECL|function|propertiesSwap
+DECL|function|propertiesSwap
+DECL|function|propertiesSwap
 DECL|function|requestScan
 DECL|function|rsnFlags
 DECL|function|scanIsDone
@@ -86,6 +96,9 @@ DECL|function|setConnections
 DECL|function|setConnections
 DECL|function|setConnections
 DECL|function|setConnections
+DECL|function|slotAccessPointAdded
+DECL|function|slotAccessPointRemoved
+DECL|function|slotSettingsRemoved
 DECL|function|specificObject
 DECL|function|speed
 DECL|function|ssid
@@ -94,6 +107,7 @@ DECL|function|state
 DECL|function|state
 DECL|function|strength
 DECL|function|udi
+DECL|function|version
 DECL|function|wirelessCapabilities
 DECL|function|wirelessEnabled
 DECL|function|wirelessHardwareEnabled

@@ -16,14 +16,9 @@ DECL|function|touchAdd
 DECL|function|touchBegin
 DECL|function|touchEnd
 DECL|function|updateSelection
-DECL|macro|GET_AND_CHECK_STATIC_METHOD
-DECL|member|m_hideSoftwareKeyboardMethodID
 DECL|member|m_ignoreMouseEvents
 DECL|member|m_mouseGrabber
-DECL|member|m_resetSoftwareKeyboardMethodID
-DECL|member|m_showSoftwareKeyboardMethodID
 DECL|member|m_softwareKeyboardVisible
 DECL|member|m_touchPoints
-DECL|member|m_updateSelectionMethodID
 DECL|member|methods
 DECL|namespace|QtAndroidInput

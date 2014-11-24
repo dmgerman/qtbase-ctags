@@ -26,14 +26,11 @@ DECL|macro|GET_AND_CHECK_STATIC_METHOD
 DECL|member|activeTopLevelWindow
 DECL|member|addMenuItemMethodID
 DECL|member|clearMenuMethodID
-DECL|member|closeContextMenuMethodID
 DECL|member|menuBars
 DECL|member|menuNoneValue
 DECL|member|methods
 DECL|member|openContextMenuMethodID
-DECL|member|openOptionsMenuMethodID
 DECL|member|pendingContextMenus
-DECL|member|resetOptionsMenuMethodID
 DECL|member|setCheckableMenuItemMethodID
 DECL|member|setCheckedMenuItemMethodID
 DECL|member|setEnabledMenuItemMethodID

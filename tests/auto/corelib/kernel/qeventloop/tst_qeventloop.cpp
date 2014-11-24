@@ -49,6 +49,10 @@ DECL|member|cond
 DECL|member|count
 DECL|member|dataArrived
 DECL|member|dataArrived
+DECL|member|dataReadable
+DECL|member|dataReadable
+DECL|member|dataSent
+DECL|member|dataSent
 DECL|member|el
 DECL|member|eventLoop
 DECL|member|eventLoop

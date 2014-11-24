@@ -1,4 +1,5 @@
 DECL|class|Direct2DVersion
+DECL|class|QWindowsDirect2DEventDispatcher
 DECL|class|QWindowsDirect2DIntegrationPrivate
 DECL|enumerator|D2DMinVersionPart1
 DECL|enumerator|D2DMinVersionPart2
@@ -6,9 +7,11 @@ DECL|enumerator|D2DMinVersionPart3
 DECL|enumerator|D2DMinVersionPart4
 DECL|function|Direct2DVersion
 DECL|function|Direct2DVersion
+DECL|function|QWindowsDirect2DEventDispatcher
 DECL|function|QWindowsDirect2DIntegration
 DECL|function|cmp
 DECL|function|create
+DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformPixmap
 DECL|function|createPlatformWindow

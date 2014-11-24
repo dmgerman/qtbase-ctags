@@ -17,6 +17,7 @@ DECL|function|getSourceImpl
 DECL|function|getSourceLength
 DECL|function|getTranslatedSource
 DECL|function|getTranslatedSourceLength
+DECL|function|getTranslatedSourceWithDebugInfo
 DECL|function|getUniforms
 DECL|function|getUniforms
 DECL|function|getVaryings

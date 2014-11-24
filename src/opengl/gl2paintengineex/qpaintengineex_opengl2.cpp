@@ -41,6 +41,7 @@ DECL|function|regenerateClip
 DECL|function|renderHintsChanged
 DECL|function|resetClipIfNeeded
 DECL|function|resetGLState
+DECL|function|resetOpenGLContextActiveEngine
 DECL|function|scaleRect
 DECL|function|setBrush
 DECL|function|setCoords

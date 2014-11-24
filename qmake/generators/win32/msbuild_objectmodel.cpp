@@ -170,6 +170,7 @@ DECL|variable|_ItemGroup
 DECL|variable|_KeyContainer
 DECL|variable|_KeyFile
 DECL|variable|_LargeAddressAware
+DECL|variable|_Lib
 DECL|variable|_Link
 DECL|variable|_LinkDLL
 DECL|variable|_LinkErrorReporting

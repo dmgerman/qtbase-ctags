@@ -2,7 +2,6 @@ DECL|function|FenceNV
 DECL|function|FenceSync
 DECL|function|clientWait
 DECL|function|finishFence
-DECL|function|getFencei
 DECL|function|getStatus
 DECL|function|isFence
 DECL|function|serverWait

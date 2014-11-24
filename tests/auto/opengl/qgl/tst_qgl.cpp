@@ -6,6 +6,7 @@ DECL|class|GLWidget
 DECL|class|MyGLContext
 DECL|class|MyGLWidget
 DECL|class|Producer
+DECL|class|QOpenGLFramebufferObjectPaintDevice
 DECL|class|RenderPixmapWidget
 DECL|class|ReplaceClippingGLWidget
 DECL|class|UnclippedWidget
@@ -18,13 +19,16 @@ DECL|function|GLWidget
 DECL|function|MyGLContext
 DECL|function|MyGLWidget
 DECL|function|Producer
+DECL|function|QOpenGLFramebufferObjectPaintDevice
 DECL|function|UnclippedWidget
 DECL|function|Widget
 DECL|function|appDefaultDepth
 DECL|function|autoBufferSwap
 DECL|function|clipTest
 DECL|function|colormap
+DECL|function|currentFboSync
 DECL|function|destroyFBOAfterContext
+DECL|function|ensureActiveTarget
 DECL|function|extensions
 DECL|function|fboFormat
 DECL|function|fuzzyCompareImages
@@ -72,6 +76,7 @@ DECL|function|textureCleanup
 DECL|function|threadImages
 DECL|function|timerEvent
 DECL|function|timerEvent
+DECL|function|toImage
 DECL|function|tst_QGL
 DECL|function|tst_QGLResource
 DECL|function|windowCreated
@@ -93,6 +98,7 @@ DECL|member|fboImage
 DECL|member|fboPainterBeginOk
 DECL|member|images
 DECL|member|iterations
+DECL|member|m_fbo
 DECL|member|m_image
 DECL|member|painted
 DECL|member|producer

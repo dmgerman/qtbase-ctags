@@ -6,7 +6,9 @@ DECL|function|exceptionCheck
 DECL|function|handleActivityResult
 DECL|function|initJNI
 DECL|function|javaVM
+DECL|function|onAndroidUiThread
 DECL|function|registerActivityResultListener
+DECL|function|runOnUiThread
 DECL|function|setAndroidSdkVersion
 DECL|function|unregisterActivityResultListener
 DECL|member|listeners
@@ -14,4 +16,6 @@ DECL|member|mutex
 DECL|variable|g_androidSdkVersion
 DECL|variable|g_jActivity
 DECL|variable|g_jClassLoader
+DECL|variable|g_jNativeClass
 DECL|variable|g_javaVM
+DECL|variable|g_runQtOnUiThreadMethodID

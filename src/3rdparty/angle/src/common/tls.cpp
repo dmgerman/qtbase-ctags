@@ -2,5 +2,8 @@ DECL|function|CreateTLSIndex
 DECL|function|DestroyTLSIndex
 DECL|function|GetTLSValue
 DECL|function|SetTLSValue
-DECL|variable|freeIndices
-DECL|variable|tls
+DECL|typedef|ThreadLocalData
+DECL|variable|allThreadData
+DECL|variable|currentThreadData
+DECL|variable|freeTlsIndices
+DECL|variable|nextTlsIndex

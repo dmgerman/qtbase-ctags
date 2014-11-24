@@ -28,9 +28,11 @@ DECL|function|handleWindowStateChangedEvent
 DECL|function|nativeEvent
 DECL|function|repaintWindow
 DECL|function|sendScreenChangeRecursively
-DECL|function|updateGeometry
+DECL|function|updateMargins
 DECL|function|updateNormalGeometry
 DECL|function|updateObjectName
+DECL|function|updatePos
+DECL|function|updateSize
 DECL|function|~QWidgetWindow
 DECL|variable|qt_button_down
 DECL|variable|qt_last_mouse_receiver

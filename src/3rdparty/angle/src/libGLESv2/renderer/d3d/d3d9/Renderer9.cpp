@@ -25,12 +25,9 @@ DECL|function|copyImage2DArray
 DECL|function|copyImage3D
 DECL|function|copyImageCube
 DECL|function|copyToRenderTarget
-DECL|function|copyToRenderTarget2D
-DECL|function|copyToRenderTarget2DArray
-DECL|function|copyToRenderTarget3D
-DECL|function|copyToRenderTargetCube
 DECL|function|createBuffer
-DECL|function|createFence
+DECL|function|createFenceNV
+DECL|function|createFenceSync
 DECL|function|createImage
 DECL|function|createIndexBuffer
 DECL|function|createIndexBuffer
@@ -39,6 +36,8 @@ DECL|function|createProgram
 DECL|function|createQuery
 DECL|function|createRenderTarget
 DECL|function|createRenderTarget
+DECL|function|createRenderbuffer
+DECL|function|createRenderbuffer
 DECL|function|createShader
 DECL|function|createSwapChain
 DECL|function|createTexture
@@ -66,6 +65,7 @@ DECL|function|generateCaps
 DECL|function|generateConfigs
 DECL|function|generateMipmap
 DECL|function|generateSwizzle
+DECL|function|generateWorkarounds
 DECL|function|getAdapterIdentifier
 DECL|function|getAdapterVendor
 DECL|function|getBufferPool
@@ -117,7 +117,6 @@ DECL|function|testDeviceLost
 DECL|function|testDeviceResettable
 DECL|function|~Renderer9
 DECL|macro|ANGLE_COMPILE_OPTIMIZATION_LEVEL
-DECL|macro|ANGLE_ENABLE_D3D9EX
 DECL|macro|REF_RAST
 DECL|member|DepthStencilFormats
 DECL|member|RenderTargetFormats

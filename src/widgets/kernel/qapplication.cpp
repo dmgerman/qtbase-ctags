@@ -54,6 +54,7 @@ DECL|function|isWindowBlocked
 DECL|function|keyboardInputInterval
 DECL|function|keypadNavigationEnabled
 DECL|function|modalState
+DECL|function|mouseEventSource
 DECL|function|nativeStyleClassName
 DECL|function|navigationMode
 DECL|function|notify

@@ -1,8 +1,0 @@
-DECL|function|QNmDBusHelper
-DECL|function|activeConnectionPropertiesChanged
-DECL|function|deviceStateChanged
-DECL|function|slotAccessPointAdded
-DECL|function|slotAccessPointRemoved
-DECL|function|slotPropertiesChanged
-DECL|function|slotSettingsRemoved
-DECL|function|~QNmDBusHelper

@@ -1,2 +1,11 @@
 DECL|macro|QANDROIDPLATFORMTHEME_H
+DECL|member|QByteArray
+DECL|member|QByteArray
+DECL|member|m_QWidgetsFonts
+DECL|member|m_QWidgetsPalettes
+DECL|member|m_fonts
+DECL|member|m_palettes
+DECL|member|m_standardPalette
+DECL|member|m_styleData
+DECL|struct|AndroidStyle
 DECL|variable|QAndroidPlatformNativeInterface

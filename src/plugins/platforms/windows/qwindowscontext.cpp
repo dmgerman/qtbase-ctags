@@ -19,7 +19,6 @@ DECL|function|findPlatformWindowHelper
 DECL|function|findWindow
 DECL|function|handleContextMenuEvent
 DECL|function|handleFocusEvent
-DECL|function|hasTouchSupport
 DECL|function|init
 DECL|function|init
 DECL|function|init

@@ -91,6 +91,7 @@ DECL|function|signalEmissionsPeer
 DECL|function|signalEmissionsPeer_data
 DECL|function|signalEmissions_data
 DECL|function|slotSpyPeer
+DECL|function|syncPeer
 DECL|function|toString
 DECL|function|typeMatching
 DECL|function|typeMatching_data

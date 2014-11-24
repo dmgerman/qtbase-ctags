@@ -1,7 +1,4 @@
 DECL|function|TextureStorage
 DECL|function|getRenderTargetSerial
-DECL|function|getTextureSerial
 DECL|function|initializeSerials
-DECL|function|issueTextureSerial
-DECL|member|mCurrentTextureSerial
 DECL|namespace|rx
