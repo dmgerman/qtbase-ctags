@@ -36,10 +36,8 @@ DECL|function|parseHttpResponse
 DECL|function|password
 DECL|function|qCreatev2Hash
 DECL|function|qEncodeHmacMd5
-DECL|function|qEncodeLmResponse
 DECL|function|qEncodeLmv2Response
 DECL|function|qEncodeNtlmBuffer
-DECL|function|qEncodeNtlmResponse
 DECL|function|qEncodeNtlmString
 DECL|function|qEncodeNtlmv2Response
 DECL|function|qExtractServerTime
