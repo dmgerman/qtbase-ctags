@@ -47,6 +47,7 @@ DECL|function|lastRow
 DECL|function|maybeExpandGrid
 DECL|function|normalize
 DECL|function|operator ==
+DECL|function|qround
 DECL|function|regenerateGrid
 DECL|function|removeItem
 DECL|function|reset
