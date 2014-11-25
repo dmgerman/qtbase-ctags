@@ -8,8 +8,6 @@ DECL|function|QFontEngine
 DECL|function|QFontEngineBox
 DECL|function|QFontEngineBox
 DECL|function|QFontEngineMulti
-DECL|function|QFontEngineMultiBasicImpl
-DECL|function|QFontEngineMultiBasicImpl
 DECL|function|QFontEngine_startCollectingEngines
 DECL|function|QFontEngine_stopCollectingEngines
 DECL|function|QTestFontEngine
@@ -52,6 +50,7 @@ DECL|function|descent
 DECL|function|doKerning
 DECL|function|doKerning
 DECL|function|draw
+DECL|function|ensureEngineAt
 DECL|function|ensureFallbackFamiliesQueried
 DECL|function|getCMap
 DECL|function|getGlyphBearings
@@ -78,7 +77,6 @@ DECL|function|hb_getPointInOutline
 DECL|function|hb_getSFntTable
 DECL|function|hb_stringToGlyphs
 DECL|function|highByte
-DECL|function|init
 DECL|function|kerning
 DECL|function|lastRightBearing
 DECL|function|leading
