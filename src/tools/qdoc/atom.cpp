@@ -4,6 +4,7 @@ DECL|function|LinkAtom
 DECL|function|dump
 DECL|function|next
 DECL|function|next
+DECL|function|resolveSquareBracketParams
 DECL|function|typeString
 DECL|member|english
 DECL|member|no
