@@ -57,6 +57,7 @@ DECL|function|findBlockByLineNumber
 DECL|function|findBlockByNumber
 DECL|function|findInBlock
 DECL|function|findInBlock
+DECL|function|findInBlock
 DECL|function|findUrlForImage
 DECL|function|firstBlock
 DECL|function|formatDifference
