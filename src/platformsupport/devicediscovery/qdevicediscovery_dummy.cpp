@@ -1,5 +1,3 @@
-DECL|function|QDeviceDiscovery
-DECL|function|checkDeviceType
+DECL|function|QDeviceDiscoveryDummy
 DECL|function|create
 DECL|function|scanConnectedDevices
-DECL|function|~QDeviceDiscovery

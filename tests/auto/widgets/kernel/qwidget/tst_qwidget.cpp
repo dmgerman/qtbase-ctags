@@ -223,7 +223,6 @@ DECL|function|palettePropagation
 DECL|function|palettePropagation2
 DECL|function|parentDestroyedSlot
 DECL|function|persistentWinId
-DECL|function|popupEnterLeave
 DECL|function|properTabHandlingWhenDisabled_QTBUG27417
 DECL|function|qobject_castInDestroyedSlot
 DECL|function|qt_wince_is_platform

@@ -12,6 +12,7 @@ DECL|function|endContextComposition
 DECL|function|getCompositionString
 DECL|function|getCompositionStringConvertedRange
 DECL|function|handleIME_Request
+DECL|function|hasCapability
 DECL|function|imeNotifyCancelComposition
 DECL|function|initContext
 DECL|function|instance
@@ -25,3 +26,4 @@ DECL|function|startComposition
 DECL|function|startContextComposition
 DECL|function|update
 DECL|function|~QWindowsInputContext
+DECL|member|m_defaultContext

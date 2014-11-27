@@ -2,6 +2,7 @@ DECL|class|QWidgetWindowPrivate
 DECL|function|QWidgetWindow
 DECL|function|accessibleRoot
 DECL|function|clearFocusObject
+DECL|function|closestAcceptableGeometry
 DECL|function|event
 DECL|function|eventReceiver
 DECL|function|focusObject
@@ -34,6 +35,7 @@ DECL|function|updateObjectName
 DECL|function|updatePos
 DECL|function|updateSize
 DECL|function|~QWidgetWindow
+DECL|member|Q_DECL_OVERRIDE
 DECL|variable|qt_button_down
 DECL|variable|qt_last_mouse_receiver
 DECL|variable|qt_popup_down

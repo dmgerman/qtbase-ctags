@@ -6,6 +6,7 @@ DECL|function|emitInputPanelVisibleChanged
 DECL|function|emitKeyboardRectChanged
 DECL|function|emitLocaleChanged
 DECL|function|filterEvent
+DECL|function|hasCapability
 DECL|function|hideInputPanel
 DECL|function|inputDirection
 DECL|function|inputMethodAccepted

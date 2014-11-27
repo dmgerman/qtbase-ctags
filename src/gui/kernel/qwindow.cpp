@@ -8,6 +8,7 @@ DECL|function|applyCursor
 DECL|function|baseSize
 DECL|function|clearFocusObject
 DECL|function|close
+DECL|function|closestAcceptableGeometry
 DECL|function|connectToScreen
 DECL|function|contentOrientation
 DECL|function|create
