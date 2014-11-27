@@ -1,0 +1,1 @@
+DECL|macro|QTUIOCURSOR_P_H
