@@ -7,7 +7,7 @@ DECL|function|disconnectFromHost
 DECL|function|disconnectSocketFromHost
 DECL|function|disconnected
 DECL|function|ensureInitialized
-DECL|function|importPKCS12
+DECL|function|importPkcs12
 DECL|function|onSslUpgrade
 DECL|function|resetDefaultCiphers
 DECL|function|sessionCipher
