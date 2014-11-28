@@ -405,4 +405,5 @@ DECL|variable|qFetchPixels
 DECL|variable|qPixelLayouts
 DECL|variable|qStorePixels
 DECL|variable|qt_fetch_radial_gradient
+DECL|variable|qt_needs_a8_gamma_correction
 DECL|variable|sourceFetch
