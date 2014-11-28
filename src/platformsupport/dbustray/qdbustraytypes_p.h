@@ -9,5 +9,3 @@ DECL|member|width
 DECL|struct|QXdgDBusImageStruct
 DECL|struct|QXdgDBusToolTipStruct
 DECL|typedef|QXdgDBusImageVector
-DECL|variable|operator
-DECL|variable|operator

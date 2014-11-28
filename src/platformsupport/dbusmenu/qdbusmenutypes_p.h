@@ -1,0 +1,8 @@
+DECL|macro|QDBUSMENUTYPES_H
+DECL|typedef|QDBusMenuEventList
+DECL|typedef|QDBusMenuItemKeysList
+DECL|typedef|QDBusMenuItemList
+DECL|typedef|QDBusMenuLayoutItemList
+DECL|variable|QDBusMenuItem
+DECL|variable|QDBusPlatformMenu
+DECL|variable|QDBusPlatformMenuItem

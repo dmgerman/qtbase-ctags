@@ -5,4 +5,5 @@ DECL|function|operator <<
 DECL|function|operator >>
 DECL|function|operator >>
 DECL|function|operator >>
-DECL|function|registerDBusTrayTypes
+DECL|variable|IconNormalSmallSize
+DECL|variable|IconSizeLimit

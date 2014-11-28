@@ -12,11 +12,14 @@ DECL|function|ResourceHelper
 DECL|function|clear
 DECL|function|configureFonts
 DECL|function|createKdeTheme
+DECL|function|createPlatformSystemTrayIcon
+DECL|function|createPlatformSystemTrayIcon
 DECL|function|createUnixTheme
 DECL|function|font
 DECL|function|font
 DECL|function|font
 DECL|function|gtkFontName
+DECL|function|isDBusTrayAvailable
 DECL|function|kdeColor
 DECL|function|kdeFont
 DECL|function|kdeGlobals

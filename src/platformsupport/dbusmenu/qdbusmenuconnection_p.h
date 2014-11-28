@@ -1,0 +1,3 @@
+DECL|macro|DBUSCONNECTION_H
+DECL|variable|QDBusServiceWatcher
+DECL|variable|QDBusTrayIcon

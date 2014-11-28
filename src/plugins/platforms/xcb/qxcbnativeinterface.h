@@ -1,4 +1,5 @@
 DECL|macro|QXCBNATIVEINTERFACE_H
+DECL|variable|QDBusMenuConnection
 DECL|variable|QWidget
 DECL|variable|QXcbConnection
 DECL|variable|QXcbNativeInterfaceHandler

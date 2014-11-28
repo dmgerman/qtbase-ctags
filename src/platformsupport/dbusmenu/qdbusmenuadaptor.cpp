@@ -1,0 +1,12 @@
+DECL|function|AboutToShow
+DECL|function|AboutToShowGroup
+DECL|function|Event
+DECL|function|EventGroup
+DECL|function|GetGroupProperties
+DECL|function|GetLayout
+DECL|function|GetProperty
+DECL|function|QDBusMenuAdaptor
+DECL|function|status
+DECL|function|textDirection
+DECL|function|version
+DECL|function|~QDBusMenuAdaptor
