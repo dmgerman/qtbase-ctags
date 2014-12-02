@@ -7,8 +7,6 @@ DECL|enumerator|D2DDebugDrawEllipseFTag
 DECL|enumerator|D2DDebugDrawEllipseTag
 DECL|enumerator|D2DDebugDrawImageTag
 DECL|enumerator|D2DDebugDrawInitialStateTag
-DECL|enumerator|D2DDebugDrawLineFsTag
-DECL|enumerator|D2DDebugDrawLinesTag
 DECL|enumerator|D2DDebugDrawPixmapTag
 DECL|enumerator|D2DDebugDrawRectFsTag
 DECL|enumerator|D2DDebugDrawRectsTag
@@ -50,8 +48,6 @@ DECL|function|drawEllipse
 DECL|function|drawEllipse
 DECL|function|drawGlyphRun
 DECL|function|drawImage
-DECL|function|drawLines
-DECL|function|drawLines
 DECL|function|drawPixmap
 DECL|function|drawRects
 DECL|function|drawRects
@@ -64,7 +60,6 @@ DECL|function|ensureBrush
 DECL|function|ensurePen
 DECL|function|ensurePen
 DECL|function|factory
-DECL|function|fill
 DECL|function|fill
 DECL|function|fillRect
 DECL|function|fontFaceFromFontEngine
@@ -86,6 +81,7 @@ DECL|function|reset
 DECL|function|resume
 DECL|function|resume
 DECL|function|setAliasingEnabled
+DECL|function|setPositiveSlopeAdjustmentEnabled
 DECL|function|setState
 DECL|function|setWindingFillEnabled
 DECL|function|stroke
@@ -116,6 +112,7 @@ DECL|member|brush
 DECL|member|clipFlags
 DECL|member|currentBrushOrigin
 DECL|member|dashBrush
+DECL|member|dashLength
 DECL|member|dcSuspender
 DECL|member|emulate
 DECL|member|emulate
@@ -124,9 +121,11 @@ DECL|member|fallbackImage
 DECL|member|flags
 DECL|member|fontCache
 DECL|member|m_active
+DECL|member|m_adjustPositivelySlopedLines
 DECL|member|m_engine
 DECL|member|m_geometry
 DECL|member|m_inFigure
+DECL|member|m_previousPoint
 DECL|member|m_roundCoordinates
 DECL|member|m_sink
 DECL|member|pen
