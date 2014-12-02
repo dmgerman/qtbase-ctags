@@ -109,6 +109,7 @@ DECL|function|rawStringData
 DECL|function|rawTypeNameFromTypeInfo
 DECL|function|read
 DECL|function|readOnGadget
+DECL|function|registerPropertyType
 DECL|function|reset
 DECL|function|resetOnGadget
 DECL|function|returnType
