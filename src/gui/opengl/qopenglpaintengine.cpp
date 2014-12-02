@@ -5,6 +5,10 @@ DECL|function|QOpenGL2PaintEngineState
 DECL|function|QOpenGLStaticTextUserData
 DECL|function|begin
 DECL|function|beginNativePainting
+DECL|function|bindTexture
+DECL|function|bindTexture
+DECL|function|bindTexture
+DECL|function|bindTexture
 DECL|function|brushChanged
 DECL|function|brushOriginChanged
 DECL|function|cleanupVectorPath
@@ -59,7 +63,7 @@ DECL|function|updateBrushUniforms
 DECL|function|updateClipScissorTest
 DECL|function|updateCompositionMode
 DECL|function|updateMatrix
-DECL|function|updateTextureFilter
+DECL|function|updateTexture
 DECL|function|useSimpleShader
 DECL|function|writeClip
 DECL|function|~QOpenGL2PaintEngineEx
@@ -70,12 +74,15 @@ DECL|member|cacheSerialNumber
 DECL|member|cacheSize
 DECL|member|glyphFormat
 DECL|member|ibo
+DECL|member|image
 DECL|member|indexCount
 DECL|member|indexType
 DECL|member|iscale
+DECL|member|options
 DECL|member|primitiveType
 DECL|member|textureCoordinateArray
 DECL|member|vbo
 DECL|member|vertexCoordinateArray
 DECL|member|vertexCount
+DECL|struct|ImageWithBindOptions
 DECL|struct|QOpenGL2PEVectorPathCache
