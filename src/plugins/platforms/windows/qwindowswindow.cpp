@@ -43,6 +43,7 @@ DECL|function|handleCalculateSize
 DECL|function|handleCompositionSettingsChanged
 DECL|function|handleGeometryChange
 DECL|function|handleGeometryChanging
+DECL|function|handleGeometryChangingMessage
 DECL|function|handleHidden
 DECL|function|handleMoved
 DECL|function|handleNonClientHitTest
