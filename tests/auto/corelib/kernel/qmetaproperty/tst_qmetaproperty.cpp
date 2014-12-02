@@ -2,6 +2,7 @@ DECL|class|MyGadget
 DECL|class|tst_QMetaProperty
 DECL|enumerator|EnumType1
 DECL|enum|EnumType
+DECL|function|TypeLazyRegistration
 DECL|function|gadget
 DECL|function|getValue
 DECL|function|getValue
@@ -9,6 +10,7 @@ DECL|function|get_value
 DECL|function|hasStdCppSet
 DECL|function|isConstant
 DECL|function|isFinal
+DECL|function|readAndWriteWithLazyRegistration
 DECL|function|resetValue
 DECL|function|setValue
 DECL|function|setValue
@@ -16,4 +18,10 @@ DECL|function|set_value
 DECL|function|value10
 DECL|function|value8
 DECL|function|value9
+DECL|member|_read
+DECL|member|_write
 DECL|member|m_value
+DECL|struct|CustomReadObject
+DECL|struct|CustomWriteObject
+DECL|struct|CustomWriteObjectChild
+DECL|struct|TypeLazyRegistration
