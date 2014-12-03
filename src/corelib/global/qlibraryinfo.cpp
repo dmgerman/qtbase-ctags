@@ -38,6 +38,7 @@ DECL|macro|ICC_VERSION
 DECL|macro|QT_BUILD_STR
 DECL|macro|SHARED_STRING
 DECL|macro|SHARED_STRING
+DECL|member|haveDevicePaths
 DECL|member|haveEffectivePaths
 DECL|member|haveEffectiveSourcePaths
 DECL|member|havePaths
