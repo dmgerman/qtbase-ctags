@@ -34,7 +34,6 @@ DECL|function|findFont
 DECL|function|font
 DECL|function|foundry
 DECL|function|free
-DECL|function|getEngineData
 DECL|function|getFontWeight
 DECL|function|hasFamily
 DECL|function|initFontDef
