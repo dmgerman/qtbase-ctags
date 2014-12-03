@@ -42,6 +42,7 @@ DECL|function|chainedProxyModelRoleNames
 DECL|function|changeFilter
 DECL|function|changeFilter_data
 DECL|function|changeSourceData
+DECL|function|changeSourceDataForwardsRoles_qtbug35440
 DECL|function|changeSourceDataKeepsStableSorting_qtbug1548
 DECL|function|changeSourceData_data
 DECL|function|changeSourceLayout
