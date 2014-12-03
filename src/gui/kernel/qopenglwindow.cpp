@@ -1,6 +1,7 @@
 DECL|class|QOpenGLWindowPaintDevice
 DECL|class|QOpenGLWindowPrivate
 DECL|function|QOpenGLWindow
+DECL|function|QOpenGLWindow
 DECL|function|QOpenGLWindowPaintDevice
 DECL|function|QOpenGLWindowPrivate
 DECL|function|bindFBO
@@ -21,6 +22,7 @@ DECL|function|paintUnderGL
 DECL|function|redirected
 DECL|function|resizeEvent
 DECL|function|resizeGL
+DECL|function|shareContext
 DECL|function|updateBehavior
 DECL|function|~QOpenGLWindowPrivate
 DECL|macro|GL_DRAW_FRAMEBUFFER
@@ -34,4 +36,5 @@ DECL|member|hasFboBlit
 DECL|member|m_window
 DECL|member|offscreenSurface
 DECL|member|paintDevice
+DECL|member|shareContext
 DECL|member|updateBehavior
