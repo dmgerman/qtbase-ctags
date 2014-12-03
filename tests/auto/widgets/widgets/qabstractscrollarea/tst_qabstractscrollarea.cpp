@@ -1,6 +1,8 @@
+DECL|class|ScrollArea
 DECL|class|ViewportCrashWidget
 DECL|class|tst_QAbstractScrollArea
 DECL|function|ViewportCrashWidget
+DECL|function|margins
 DECL|function|objectNaming
 DECL|function|patternBackground
 DECL|function|scrollBarWidgets

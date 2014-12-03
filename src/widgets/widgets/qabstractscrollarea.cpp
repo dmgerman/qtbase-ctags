@@ -53,6 +53,7 @@ DECL|function|verticalScrollBar
 DECL|function|verticalScrollBarPolicy
 DECL|function|viewport
 DECL|function|viewportEvent
+DECL|function|viewportMargins
 DECL|function|viewportSizeHint
 DECL|function|wheelEvent
 DECL|function|widgets
