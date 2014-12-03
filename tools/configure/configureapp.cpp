@@ -52,7 +52,6 @@ DECL|function|reloadCmdLine
 DECL|function|saveCmdLine
 DECL|function|showLicense
 DECL|function|showSummary
-DECL|function|stripPrefix
 DECL|function|substPrefix
 DECL|function|tokenLength
 DECL|function|tryCompileProject
