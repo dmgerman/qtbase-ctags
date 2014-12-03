@@ -8,7 +8,6 @@ DECL|function|create
 DECL|function|create
 DECL|function|create
 DECL|function|panOffset
-DECL|function|panTouchPoints
 DECL|function|recognize
 DECL|function|recognize
 DECL|function|recognize
