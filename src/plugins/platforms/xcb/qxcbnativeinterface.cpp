@@ -27,6 +27,7 @@ DECL|function|rootWindow
 DECL|function|screenForWindow
 DECL|function|setAppTime
 DECL|function|setAppUserTime
+DECL|function|setParentRelativeBackPixmap
 DECL|function|setStartupId
 DECL|function|startupId
 DECL|function|systemTrayAvailable
