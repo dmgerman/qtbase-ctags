@@ -8,6 +8,10 @@ DECL|macro|qCDebug
 DECL|macro|qCDebug
 DECL|macro|qCDebug
 DECL|macro|qCDebug
+DECL|macro|qCInfo
+DECL|macro|qCInfo
+DECL|macro|qCInfo
+DECL|macro|qCInfo
 DECL|macro|qCWarning
 DECL|macro|qCWarning
 DECL|macro|qCWarning

@@ -1,6 +1,7 @@
 DECL|enumerator|QtCriticalMsg
 DECL|enumerator|QtDebugMsg
 DECL|enumerator|QtFatalMsg
+DECL|enumerator|QtInfoMsg
 DECL|enumerator|QtSystemMsg
 DECL|enumerator|QtWarningMsg
 DECL|enum|QtMsgType
@@ -20,6 +21,9 @@ DECL|macro|qDebug
 DECL|macro|qDebug
 DECL|macro|qDebug
 DECL|macro|qFatal
+DECL|macro|qInfo
+DECL|macro|qInfo
+DECL|macro|qInfo
 DECL|macro|qWarning
 DECL|macro|qWarning
 DECL|macro|qWarning

@@ -15,6 +15,12 @@ DECL|function|debug
 DECL|function|debug
 DECL|function|grabMessageHandler
 DECL|function|grabMessageHandler
+DECL|function|info
+DECL|function|info
+DECL|function|info
+DECL|function|info
+DECL|function|info
+DECL|function|info
 DECL|function|isFatal
 DECL|function|qCleanupFuncinfo
 DECL|function|qDefaultMessageHandler
@@ -58,6 +64,7 @@ DECL|macro|__has_include
 DECL|macro|qCritical
 DECL|macro|qDebug
 DECL|macro|qFatal
+DECL|macro|qInfo
 DECL|macro|qWarning
 DECL|member|backtraceDepth
 DECL|member|backtraceSeparator
@@ -82,6 +89,7 @@ DECL|variable|ifCategoryTokenC
 DECL|variable|ifCriticalTokenC
 DECL|variable|ifDebugTokenC
 DECL|variable|ifFatalTokenC
+DECL|variable|ifInfoTokenC
 DECL|variable|ifWarningTokenC
 DECL|variable|lineTokenC
 DECL|variable|messageHandler
