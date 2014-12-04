@@ -9,6 +9,7 @@ DECL|function|ArchData
 DECL|function|ArchData
 DECL|function|Configure
 DECL|function|FileWriter
+DECL|function|addConfStr
 DECL|function|addDefine
 DECL|function|addSysroot
 DECL|function|applySpecSpecifics
@@ -52,7 +53,6 @@ DECL|function|reloadCmdLine
 DECL|function|saveCmdLine
 DECL|function|showLicense
 DECL|function|showSummary
-DECL|function|substPrefix
 DECL|function|tokenLength
 DECL|function|tryCompileProject
 DECL|function|validateArgs
