@@ -49,6 +49,7 @@ DECL|function|QWheelEvent
 DECL|function|QWheelEvent
 DECL|function|QWheelEvent
 DECL|function|QWheelEvent
+DECL|function|QWheelEvent
 DECL|function|QWindowStateChangeEvent
 DECL|function|TouchPoint
 DECL|function|TouchPoint
