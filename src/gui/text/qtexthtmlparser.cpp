@@ -51,6 +51,7 @@ DECL|function|setFloatAttribute
 DECL|function|setIntAttribute
 DECL|function|setListStyle
 DECL|function|setWidthAttribute
+DECL|function|standardDeclarationForNode
 DECL|function|topMargin
 DECL|macro|MAX_ENTITY
 DECL|member|Q_DECL_OVERRIDE
