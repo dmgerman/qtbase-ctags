@@ -135,6 +135,7 @@ DECL|function|viewportSizeHint
 DECL|function|visualIndex
 DECL|function|visualRect
 DECL|function|visualRegionForSelection
+DECL|function|wheelEvent
 DECL|function|wordWrap
 DECL|function|~QListView
 DECL|function|~QListViewPrivate

@@ -45,6 +45,7 @@ DECL|function|getHWNDForWidget
 DECL|function|getSetCheck
 DECL|function|hideFirstRow
 DECL|function|hideRows
+DECL|function|horizontalScrollingByVerticalWheelEvents
 DECL|function|indexAt
 DECL|function|init
 DECL|function|initTestCase
