@@ -31,7 +31,6 @@ DECL|field|MAIN_LIBRARY_KEY
 DECL|field|NATIVE_LIBRARIES_KEY
 DECL|field|NECESSITAS_API_LEVEL_KEY
 DECL|field|STATIC_INIT_CLASSES_KEY
-DECL|field|m_accView
 DECL|field|m_activity
 DECL|field|m_applicationParameters
 DECL|field|m_backKeyPressedSent
