@@ -5,6 +5,7 @@ DECL|function|abbreviation
 DECL|function|availableTimeZoneIds
 DECL|function|clone
 DECL|function|data
+DECL|function|dataForLocalTime
 DECL|function|daylightTimeOffset
 DECL|function|displayName
 DECL|function|hasDaylightTime
