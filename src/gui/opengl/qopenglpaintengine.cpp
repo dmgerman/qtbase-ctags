@@ -10,6 +10,7 @@ DECL|function|bindTexture
 DECL|function|bindTexture
 DECL|function|bindTexture
 DECL|function|bindTexture
+DECL|function|bindTexture
 DECL|function|brushChanged
 DECL|function|brushOriginChanged
 DECL|function|cleanupVectorPath
