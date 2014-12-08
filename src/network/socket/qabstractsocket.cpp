@@ -41,7 +41,6 @@ DECL|function|peerName
 DECL|function|peerPort
 DECL|function|proxy
 DECL|function|qt_prettyDebug
-DECL|function|qt_timeout_value
 DECL|function|readBufferSize
 DECL|function|readData
 DECL|function|readFromSocket
