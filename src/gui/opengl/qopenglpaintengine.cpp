@@ -3,6 +3,7 @@ DECL|function|QOpenGL2PaintEngineEx
 DECL|function|QOpenGL2PaintEngineState
 DECL|function|QOpenGL2PaintEngineState
 DECL|function|QOpenGLStaticTextUserData
+DECL|function|activateTextureUnit
 DECL|function|begin
 DECL|function|beginNativePainting
 DECL|function|bindTexture
