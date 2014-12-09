@@ -4,10 +4,13 @@ DECL|function|fractionAdjustment
 DECL|function|qt_clock_gettime
 DECL|function|qt_nanosleep
 DECL|function|unixCheckClockType
+DECL|macro|CLOCK_REALTIME
 DECL|macro|INVALID_CLOCK
 DECL|macro|INVALID_CLOCK
 DECL|macro|IS_VALID_CLOCK
 DECL|macro|IS_VALID_CLOCK
 DECL|macro|_POSIX_C_SOURCE
+DECL|macro|_POSIX_MONOTONIC_CLOCK
+DECL|macro|_POSIX_MONOTONIC_CLOCK
 DECL|macro|_POSIX_MONOTONIC_CLOCK
 DECL|macro|_POSIX_MONOTONIC_CLOCK
