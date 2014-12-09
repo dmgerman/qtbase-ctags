@@ -1,5 +1,6 @@
 DECL|function|QLinuxFbIntegration
 DECL|function|createEventDispatcher
+DECL|function|createInputHandlers
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformWindow
 DECL|function|fontDatabase

@@ -2,3 +2,4 @@ DECL|macro|QLINUXFBINTEGRATION_H
 DECL|variable|QAbstractEventDispatcher
 DECL|variable|QFbVtHandler
 DECL|variable|QLinuxFbScreen
+DECL|variable|QPlatformIntegration

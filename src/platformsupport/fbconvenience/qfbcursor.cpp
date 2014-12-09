@@ -8,3 +8,4 @@ DECL|function|setCursor
 DECL|function|setCursor
 DECL|function|setCursor
 DECL|function|setDirty
+DECL|function|setMouseDeviceDiscovery
