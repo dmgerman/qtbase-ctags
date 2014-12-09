@@ -62,6 +62,7 @@ DECL|function|touchCancelWithTouchToMouse
 DECL|function|touchEvent
 DECL|function|touchInterruptedByPopup
 DECL|function|touchToMouseTranslation
+DECL|function|touchToMouseTranslationForDevices
 DECL|function|visibility
 DECL|function|windowModality
 DECL|function|windowModality_QTBUG27039

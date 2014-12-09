@@ -130,7 +130,6 @@ DECL|function|shouldQuitInternal
 DECL|function|showModalWindow
 DECL|function|styleHints
 DECL|function|sync
-DECL|function|synthesizeMouseFromTouchEventsEnabled
 DECL|function|topLevelAt
 DECL|function|topLevelWindows
 DECL|function|tryCloseAllWindows

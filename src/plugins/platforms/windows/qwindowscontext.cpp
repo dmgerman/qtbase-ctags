@@ -41,6 +41,7 @@ DECL|function|setTabletAbsoluteRange
 DECL|function|setWindowCreationContext
 DECL|function|systemInfo
 DECL|function|tabletSupport
+DECL|function|touchDevice
 DECL|function|unregisterWindowClasses
 DECL|function|useRTLExtensions
 DECL|function|useRTL_Extensions
