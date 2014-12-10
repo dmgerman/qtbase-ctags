@@ -15,5 +15,3 @@ DECL|function|recycle
 DECL|function|registerGestureRecognizer
 DECL|function|unregisterGestureRecognizer
 DECL|function|~QGestureManager
-DECL|macro|DEBUG
-DECL|macro|DEBUG
