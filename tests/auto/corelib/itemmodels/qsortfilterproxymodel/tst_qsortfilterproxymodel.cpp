@@ -170,7 +170,6 @@ DECL|member|fetched
 DECL|member|m_backgroundColours
 DECL|member|m_model
 DECL|member|m_model
-DECL|member|m_model
 DECL|member|m_p1PersistentAfter
 DECL|member|m_p1PersistentBefore
 DECL|member|m_p2FirstProxyChild

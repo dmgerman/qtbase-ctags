@@ -1,8 +1,17 @@
 DECL|function|ImeState
+DECL|function|KeyboardState
 DECL|macro|QIOSINPUTCONTEXT_H
+DECL|member|animationCurve
+DECL|member|animationDuration
 DECL|member|currentState
 DECL|member|focusObject
+DECL|member|keyboardAnimating
+DECL|member|keyboardEndRect
+DECL|member|keyboardRect
+DECL|member|keyboardVisible
 DECL|struct|ImeState
+DECL|struct|KeyboardState
+DECL|variable|KeyboardState
 DECL|variable|QIOSKeyboardListener
 DECL|variable|QIOSTextInputResponder
 DECL|variable|kImePlatformDataInputAccessoryView

@@ -32,6 +32,8 @@ DECL|function|centralWidget
 DECL|function|centralWidgetSize
 DECL|function|cleanup
 DECL|function|constructor
+DECL|function|contentsMargins
+DECL|function|contentsMargins_data
 DECL|function|corner
 DECL|function|createPopupMenu
 DECL|function|dockWidgetArea

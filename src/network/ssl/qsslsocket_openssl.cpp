@@ -20,7 +20,7 @@ DECL|function|fetchCaRootForCert
 DECL|function|getErrorsFromOpenSsl
 DECL|function|globalLock
 DECL|function|id_function
-DECL|function|importPKCS12
+DECL|function|importPkcs12
 DECL|function|initLock
 DECL|function|initSslContext
 DECL|function|lock

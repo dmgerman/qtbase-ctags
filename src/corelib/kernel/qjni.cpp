@@ -184,7 +184,6 @@ DECL|function|setStaticField
 DECL|function|setStaticField
 DECL|function|setStaticField
 DECL|function|setStaticField
-DECL|function|threadBaseName
 DECL|function|toDotEncodedClassName
 DECL|function|toString
 DECL|function|~QJNIEnvironmentPrivate
@@ -193,3 +192,4 @@ DECL|function|~QJNIObjectData
 DECL|typedef|JClassHash
 DECL|typedef|JFieldIDHash
 DECL|typedef|JMethodIDHash
+DECL|variable|qJniThreadName

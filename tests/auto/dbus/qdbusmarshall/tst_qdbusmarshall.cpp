@@ -43,6 +43,7 @@ DECL|function|sendVariant
 DECL|function|sendVariant_data
 DECL|function|theSlot
 DECL|function|~SetResetValue
+DECL|macro|QT_LINKED_LIBDBUS
 DECL|member|fileDescriptorPassing
 DECL|member|list
 DECL|member|oldValue

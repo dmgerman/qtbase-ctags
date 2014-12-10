@@ -7,6 +7,7 @@ DECL|function|applyTextures
 DECL|function|applyTransformFeedbackBuffers
 DECL|function|applyUniformBuffers
 DECL|function|blitFramebuffer
+DECL|function|cleanup
 DECL|function|clear
 DECL|function|clearBufferfi
 DECL|function|clearBufferfv

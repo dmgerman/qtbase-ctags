@@ -1,11 +1,15 @@
+DECL|class|AccessibilityManagerListener
 DECL|class|HoverEventListener
 DECL|class|QtAccessibilityDelegate
 DECL|field|DEFAULT_CLASS_NAME
 DECL|field|INVALID_ID
 DECL|field|TAG
+DECL|field|m_activity
+DECL|field|m_activityDelegate
 DECL|field|m_focusedVirtualViewId
 DECL|field|m_globalOffset
 DECL|field|m_hoveredVirtualViewId
+DECL|field|m_layout
 DECL|field|m_manager
 DECL|field|m_nodeProvider
 DECL|field|m_view
@@ -17,6 +21,7 @@ DECL|method|getEventForVirtualViewId
 DECL|method|getNodeForView
 DECL|method|getNodeForVirtualViewId
 DECL|method|invalidateVirtualViewId
+DECL|method|onAccessibilityStateChanged
 DECL|method|onHover
 DECL|method|performActionForVirtualViewId
 DECL|method|sendEventForVirtualViewId

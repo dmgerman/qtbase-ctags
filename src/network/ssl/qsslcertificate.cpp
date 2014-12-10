@@ -6,7 +6,7 @@ DECL|function|digest
 DECL|function|fromData
 DECL|function|fromDevice
 DECL|function|fromPath
-DECL|function|importPKCS12
+DECL|function|importPkcs12
 DECL|function|isBlacklisted
 DECL|function|isBlacklisted
 DECL|function|operator <<
