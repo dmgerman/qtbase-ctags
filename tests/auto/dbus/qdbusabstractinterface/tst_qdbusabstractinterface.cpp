@@ -13,6 +13,7 @@ DECL|function|callErrorsPeer_data
 DECL|function|callErrors_data
 DECL|function|callWithTimeout
 DECL|function|cleanup
+DECL|function|cleanupTestCase
 DECL|function|complexMethodArgs
 DECL|function|complexPropDirectRead
 DECL|function|complexPropDirectReadPeer
@@ -104,6 +105,7 @@ DECL|function|variantPropWritePeer
 DECL|function|~DBusServerThread
 DECL|member|callCount
 DECL|member|m_ready
+DECL|member|peerAddress
 DECL|member|proc
 DECL|member|targetObj
 DECL|typedef|Pinger
