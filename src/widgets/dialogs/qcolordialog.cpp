@@ -116,6 +116,7 @@ DECL|function|setCol
 DECL|function|setCol
 DECL|function|setCol
 DECL|function|setColor
+DECL|function|setCrossVisible
 DECL|function|setCurrent
 DECL|function|setCurrentAlpha
 DECL|function|setCurrentAlpha
@@ -156,6 +157,7 @@ DECL|member|cellh
 DECL|member|cellw
 DECL|member|col
 DECL|member|colorDialog
+DECL|member|crossVisible
 DECL|member|curCol
 DECL|member|curCol
 DECL|member|curQColor
