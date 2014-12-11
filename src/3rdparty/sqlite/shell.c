@@ -86,6 +86,9 @@ DECL|macro|MODE_Line
 DECL|macro|MODE_List
 DECL|macro|MODE_Semi
 DECL|macro|MODE_Tcl
+DECL|macro|SHFLG_Lookaside
+DECL|macro|SHFLG_Pagecache
+DECL|macro|SHFLG_Scratch
 DECL|macro|ToLower
 DECL|macro|UNUSED_PARAMETER
 DECL|macro|_CRT_SECURE_NO_WARNINGS
@@ -113,7 +116,6 @@ DECL|member|colWidth
 DECL|member|colWidth
 DECL|member|db
 DECL|member|echoOn
-DECL|member|explainPrev
 DECL|member|iIndent
 DECL|member|in
 DECL|member|mode
@@ -124,6 +126,7 @@ DECL|member|nErr
 DECL|member|nIndent
 DECL|member|nLine
 DECL|member|newline
+DECL|member|normalMode
 DECL|member|nullvalue
 DECL|member|out
 DECL|member|outCount
@@ -131,6 +134,7 @@ DECL|member|outfile
 DECL|member|pLog
 DECL|member|pStmt
 DECL|member|separator
+DECL|member|shellFlgs
 DECL|member|showHeader
 DECL|member|showHeader
 DECL|member|statsOn
@@ -144,10 +148,12 @@ DECL|member|zFile
 DECL|member|zFreeOnClose
 DECL|member|zVfs
 DECL|struct|CSVReader
-DECL|struct|callback_data
-DECL|struct|previous_mode_data
+DECL|struct|SavedModeInfo
+DECL|struct|ShellState
 DECL|typedef|CSVReader
 DECL|typedef|GETPROCTIMES
+DECL|typedef|SavedModeInfo
+DECL|typedef|ShellState
 DECL|variable|Argv0
 DECL|variable|bail_on_error
 DECL|variable|continuePrompt
