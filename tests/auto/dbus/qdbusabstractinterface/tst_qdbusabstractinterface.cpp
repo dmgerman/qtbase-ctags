@@ -103,6 +103,7 @@ DECL|function|variantPropReadPeer
 DECL|function|variantPropWrite
 DECL|function|variantPropWritePeer
 DECL|function|~DBusServerThread
+DECL|macro|EXE
 DECL|member|callCount
 DECL|member|m_ready
 DECL|member|peerAddress

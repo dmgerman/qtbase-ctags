@@ -54,6 +54,7 @@ DECL|function|signal
 DECL|function|signalPeer
 DECL|function|spySlot
 DECL|function|testServiceOwnerChanged
+DECL|macro|EXE
 DECL|macro|TEST_INTERFACE_NAME
 DECL|macro|TEST_SIGNAL_NAME
 DECL|member|callArgs
