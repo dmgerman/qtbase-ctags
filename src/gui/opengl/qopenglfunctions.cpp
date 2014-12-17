@@ -5,6 +5,7 @@ DECL|enumerator|ResolveEXT
 DECL|enumerator|ResolveNV
 DECL|enumerator|ResolveOES
 DECL|enum|ResolvePolicy
+DECL|function|QOpenGLES3Helper
 DECL|function|QOpenGLExtensions
 DECL|function|QOpenGLExtensions
 DECL|function|QOpenGLExtensionsPrivate
@@ -17,10 +18,12 @@ DECL|function|Resolver
 DECL|function|freeResource
 DECL|function|functionResolver
 DECL|function|functionResolverWithFallback
+DECL|function|gles3Helper
 DECL|function|hasOpenGLExtension
 DECL|function|hasOpenGLFeature
 DECL|function|initializeOpenGLFunctions
 DECL|function|invalidateResource
+DECL|function|isES3
 DECL|function|openGLExtensions
 DECL|function|openGLFeatures
 DECL|function|operator ()
