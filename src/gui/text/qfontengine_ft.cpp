@@ -47,7 +47,6 @@ DECL|function|lineThickness
 DECL|function|loadFlags
 DECL|function|loadGlyph
 DECL|function|loadGlyphFor
-DECL|function|loadGlyphs
 DECL|function|loadTransformedGlyphSet
 DECL|function|lockFace
 DECL|function|lockedAlphaMapForGlyph
