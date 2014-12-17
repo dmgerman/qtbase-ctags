@@ -1,9 +1,12 @@
 DECL|class|tst_QSizePolicy
 DECL|function|PrettyPrint
+DECL|function|data
 DECL|function|dataStream
 DECL|function|defaultValues
 DECL|function|getSetCheck
+DECL|function|getSetCheck_data
 DECL|function|horizontalStretch
+DECL|function|makeRow
 DECL|function|qtest
 DECL|function|s
 DECL|function|verticalStretch
@@ -12,6 +15,8 @@ DECL|macro|CHECK
 DECL|macro|CHECK
 DECL|macro|CHECK2
 DECL|macro|CHECK2
+DECL|macro|FETCH_TEST_DATA
+DECL|macro|FETCH_TEST_DATA
 DECL|macro|ITEMCOUNT
 DECL|macro|ITEMCOUNT
 DECL|member|m_s
