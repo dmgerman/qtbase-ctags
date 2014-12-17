@@ -5,3 +5,4 @@ DECL|function|getSetCheck
 DECL|function|horizontalStretch
 DECL|function|verticalStretch
 DECL|macro|ITEMCOUNT
+DECL|macro|ITEMCOUNT
