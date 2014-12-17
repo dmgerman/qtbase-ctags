@@ -10,8 +10,6 @@ DECL|function|join
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
-DECL|function|operator
-DECL|function|operator
 DECL|function|removeDuplicates
 DECL|function|replaceInStrings
 DECL|function|replaceInStrings
