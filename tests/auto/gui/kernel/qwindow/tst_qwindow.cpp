@@ -69,6 +69,7 @@ DECL|member|keyReleaseCode
 DECL|member|m_availableTopLeft
 DECL|member|m_color
 DECL|member|m_exposeRegion
+DECL|member|m_framePositionsOnMove
 DECL|member|m_order
 DECL|member|m_received
 DECL|member|m_testWindowSize
