@@ -84,6 +84,7 @@ DECL|function|qMessagePattern
 DECL|function|qMessagePattern_data
 DECL|function|rvalue
 DECL|function|setMessagePattern
+DECL|function|tst_qmessagehandler
 DECL|function|~TestClass4
 DECL|macro|ADD
 DECL|macro|BA
