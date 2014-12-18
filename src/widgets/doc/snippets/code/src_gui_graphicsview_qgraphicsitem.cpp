@@ -1,8 +1,6 @@
 DECL|class|CustomItem
-DECL|class|CustomItem
 DECL|class|QGraphicsPathItem
 DECL|class|SimpleItem
-DECL|enumerator|Type
 DECL|enumerator|Type
 DECL|enumerator|Type
 DECL|function|CustomItem
@@ -15,7 +13,6 @@ DECL|function|paint
 DECL|function|paint
 DECL|function|setRadius
 DECL|function|shape
-DECL|function|type
 DECL|function|type
 DECL|function|type
 DECL|variable|ObjectName

@@ -7,6 +7,7 @@ DECL|function|font
 DECL|function|fontType
 DECL|function|fontType
 DECL|function|loadAndroidStyle
+DECL|function|loadStyleData
 DECL|function|palette
 DECL|function|paletteType
 DECL|function|paletteType
