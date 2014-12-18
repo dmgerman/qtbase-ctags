@@ -17,7 +17,6 @@ DECL|function|qRound
 DECL|function|qRound64
 DECL|function|qRound64
 DECL|function|qSwap
-DECL|function|qUnused
 DECL|function|q_check_ptr
 DECL|function|qt_dynamic_cast_check
 DECL|function|qt_noop
@@ -203,7 +202,6 @@ DECL|macro|Q_STATIC_ASSERT_X
 DECL|macro|Q_UINT64_C
 DECL|macro|Q_UINT64_C
 DECL|macro|Q_UNIMPLEMENTED
-DECL|macro|Q_UNUSED
 DECL|macro|Q_UNUSED
 DECL|macro|Q_WIDGETS_EXPORT
 DECL|macro|Q_WIDGETS_EXPORT

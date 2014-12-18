@@ -236,7 +236,6 @@ DECL|function|multiply_op
 DECL|function|overlay_op
 DECL|function|pixelLayoutARGBPM
 DECL|function|pixelLayoutRGB
-DECL|function|preload
 DECL|function|process
 DECL|function|qBlendTexture
 DECL|function|qInitDrawhelperAsm
@@ -374,12 +373,8 @@ DECL|macro|OP
 DECL|macro|OP
 DECL|macro|OP
 DECL|macro|PRELOAD_COND
-DECL|macro|PRELOAD_COND
-DECL|macro|PRELOAD_COND2
 DECL|macro|PRELOAD_COND2
 DECL|macro|PRELOAD_INIT
-DECL|macro|PRELOAD_INIT
-DECL|macro|PRELOAD_INIT2
 DECL|macro|PRELOAD_INIT2
 DECL|macro|__ARM_NEON__
 DECL|macro|comp_func_Clear_impl
@@ -396,8 +391,6 @@ DECL|struct|QBlendBase
 DECL|struct|QFullCoverage
 DECL|struct|QPartialCoverage
 DECL|typedef|FetchPixelFunc
-DECL|variable|L2CacheLineLength
-DECL|variable|L2CacheLineLengthInInts
 DECL|variable|buffer_size
 DECL|variable|destFetchProc
 DECL|variable|destStoreProc
