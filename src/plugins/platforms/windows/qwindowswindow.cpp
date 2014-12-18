@@ -72,6 +72,7 @@ DECL|function|qRegionToWinRegion
 DECL|function|qSizeOfRect
 DECL|function|qrectFromRECT
 DECL|function|raise
+DECL|function|registerTouchWindow
 DECL|function|releaseDC
 DECL|function|requestActivateWindow
 DECL|function|setAlertState
@@ -90,6 +91,7 @@ DECL|function|setOpacity
 DECL|function|setParent
 DECL|function|setParent_sys
 DECL|function|setStyle
+DECL|function|setTouchWindowTouchTypeStatic
 DECL|function|setVisible
 DECL|function|setWindowFlags
 DECL|function|setWindowFlags_sys

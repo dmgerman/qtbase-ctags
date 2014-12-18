@@ -12,6 +12,7 @@ DECL|function|createMessageWindow
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForIntegration
 DECL|function|nativeResourceForWindow
+DECL|function|platformFunction
 DECL|function|registerMimeType
 DECL|function|registerWindowClass
 DECL|function|registerWindowsMime
