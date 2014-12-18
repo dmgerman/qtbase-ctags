@@ -111,7 +111,6 @@ DECL|member|data
 DECL|member|encoding
 DECL|member|encoding
 DECL|member|fallbackFamilies
-DECL|member|fallbackFamilies
 DECL|member|families
 DECL|member|families
 DECL|member|family
