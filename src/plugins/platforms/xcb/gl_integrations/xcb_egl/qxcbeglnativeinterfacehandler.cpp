@@ -1,7 +1,9 @@
 DECL|function|QXcbEglNativeInterfaceHandler
 DECL|function|eglConfigForContext
 DECL|function|eglContextForContext
+DECL|function|eglDisplay
 DECL|function|eglDisplayForWindow
 DECL|function|nativeResourceFunctionForContext
+DECL|function|nativeResourceFunctionForIntegration
 DECL|function|nativeResourceFunctionForWindow
 DECL|function|resourceType
