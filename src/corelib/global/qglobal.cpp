@@ -2,6 +2,8 @@ DECL|function|activateCallbacks
 DECL|function|buildAbi
 DECL|function|buildCpuArchitecture
 DECL|function|currentCpuArchitecture
+DECL|function|determineWinOsVersionFallbackPost8
+DECL|function|determineWinOsVersionPost8
 DECL|function|fromstrerror_helper
 DECL|function|fromstrerror_helper
 DECL|function|kernelType
