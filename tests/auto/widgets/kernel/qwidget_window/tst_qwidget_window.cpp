@@ -1,9 +1,11 @@
 DECL|class|DnDEventLoggerWidget
+DECL|class|EventFilter
 DECL|class|MoveWidget
 DECL|class|ResizeWidget
 DECL|class|TestWidget
 DECL|class|tst_QWidget_window
 DECL|function|DnDEventLoggerWidget
+DECL|function|EventFilter
 DECL|function|MoveWidget
 DECL|function|ResizeWidget
 DECL|function|cleanup
@@ -13,6 +15,7 @@ DECL|function|dragLeaveEvent
 DECL|function|dragMoveEvent
 DECL|function|dropEvent
 DECL|function|event
+DECL|function|filterEventType
 DECL|function|formatDropEvent
 DECL|function|initTestCase
 DECL|function|msgEventAccepted
@@ -20,6 +23,7 @@ DECL|function|reset
 DECL|function|setFrameless
 DECL|function|tst_QWidget_window
 DECL|function|tst_dnd
+DECL|function|tst_eventfilter_on_toplevel
 DECL|function|tst_min_max_size
 DECL|function|tst_min_max_size_data
 DECL|function|tst_move_count
@@ -39,6 +43,7 @@ DECL|function|tst_windowFilePath
 DECL|function|tst_windowFilePathAndwindowTitle
 DECL|function|tst_windowFilePathAndwindowTitle_data
 DECL|function|tst_windowFilePath_data
+DECL|member|eventCount
 DECL|member|m_first
 DECL|member|m_log
 DECL|member|m_next
