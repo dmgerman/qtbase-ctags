@@ -21,6 +21,7 @@ DECL|function|~QFlickGesture
 DECL|macro|qFGDebug
 DECL|member|inst
 DECL|member|mouseButton
+DECL|member|mouseEventSource
 DECL|member|mouseTarget
 DECL|member|pressDelayEvent
 DECL|member|pressDelayTimer
