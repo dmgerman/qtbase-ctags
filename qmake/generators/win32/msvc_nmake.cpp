@@ -5,6 +5,7 @@ DECL|function|getPdbTarget
 DECL|function|init
 DECL|function|msvcVersion
 DECL|function|nmakePathList
+DECL|function|sourceFilesForImplicitRulesFilter
 DECL|function|var
 DECL|function|writeBuildRulesPart
 DECL|function|writeImplicitRulesPart
