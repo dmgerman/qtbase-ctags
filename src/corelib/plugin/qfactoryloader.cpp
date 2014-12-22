@@ -1,6 +1,7 @@
 DECL|class|QFactoryLoaderPrivate
 DECL|function|QFactoryLoader
 DECL|function|QFactoryLoaderPrivate
+DECL|function|iidKeyLiteral
 DECL|function|indexOf
 DECL|function|instance
 DECL|function|keyMap
@@ -10,6 +11,7 @@ DECL|function|metaData
 DECL|function|metaDataKeyLiteral
 DECL|function|refreshAll
 DECL|function|update
+DECL|function|versionKeyLiteral
 DECL|function|~QFactoryLoader
 DECL|function|~QFactoryLoaderPrivate
 DECL|member|cs
