@@ -10,6 +10,7 @@ DECL|function|abort
 DECL|function|atEnd
 DECL|function|bind
 DECL|function|bind
+DECL|function|bind
 DECL|function|bytesAvailable
 DECL|function|bytesToWrite
 DECL|function|canCloseNotification

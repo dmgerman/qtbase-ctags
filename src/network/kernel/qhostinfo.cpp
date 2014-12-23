@@ -22,6 +22,7 @@ DECL|function|lookupHost
 DECL|function|lookupId
 DECL|function|operator =
 DECL|function|put
+DECL|function|qt_qhostinfo_cache_inject
 DECL|function|qt_qhostinfo_clear_cache
 DECL|function|qt_qhostinfo_enable_cache
 DECL|function|qt_qhostinfo_lookup

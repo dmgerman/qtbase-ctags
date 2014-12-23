@@ -24,6 +24,8 @@ DECL|function|abortiveClose
 DECL|function|abortiveClose_abortSlot
 DECL|function|atEnd
 DECL|function|bind
+DECL|function|bindThenResolveHost
+DECL|function|bindThenResolveHost_data
 DECL|function|bind_data
 DECL|function|blockingIMAP
 DECL|function|cleanup
@@ -150,6 +152,8 @@ DECL|member|endPoints
 DECL|member|exitCode
 DECL|member|expectedLength
 DECL|member|expectedReplyIMAP_cached
+DECL|member|firstFailInfo
+DECL|member|firstFailName
 DECL|member|lastQuery
 DECL|member|loopLevel
 DECL|member|loopLevel
