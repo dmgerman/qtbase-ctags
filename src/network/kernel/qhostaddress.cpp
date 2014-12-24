@@ -43,6 +43,7 @@ DECL|function|setAddress
 DECL|function|setPrefixLength
 DECL|function|setScopeId
 DECL|function|toIPv4Address
+DECL|function|toIPv4Address
 DECL|function|toIPv6Address
 DECL|function|toString
 DECL|function|~QHostAddress
