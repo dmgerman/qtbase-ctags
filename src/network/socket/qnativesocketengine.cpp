@@ -7,6 +7,7 @@ DECL|function|QNativeSocketEnginePrivate
 DECL|function|QReadNotifier
 DECL|function|QWriteNotifier
 DECL|function|accept
+DECL|function|adjustAddressProtocol
 DECL|function|bind
 DECL|function|bytesAvailable
 DECL|function|bytesToWrite
