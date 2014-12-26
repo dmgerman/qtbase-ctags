@@ -142,6 +142,7 @@ DECL|function|sizeHint
 DECL|function|standardColor
 DECL|function|testOption
 DECL|function|updateCell
+DECL|function|updateColorLabelText
 DECL|function|updateQColor
 DECL|function|val2y
 DECL|function|y2val
