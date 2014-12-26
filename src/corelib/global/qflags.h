@@ -1,4 +1,4 @@
-DECL|function|QIncompatibleFlag
+DECL|function|i
 DECL|macro|QFLAGS_H
 DECL|macro|Q_DECLARE_FLAGS
 DECL|macro|Q_DECLARE_FLAGS
