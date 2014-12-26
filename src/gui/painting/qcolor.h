@@ -1,11 +1,7 @@
 DECL|function|QColor
 DECL|function|QColor
 DECL|function|QColor
-DECL|function|QColor
-DECL|function|QColor
-DECL|function|darker
-DECL|function|isValid
-DECL|function|lighter
+DECL|function|cspec
 DECL|macro|QCOLOR_H
 DECL|variable|QColor
 DECL|variable|QColormap

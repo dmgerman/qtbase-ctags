@@ -1,18 +1,4 @@
-DECL|function|QColor
-DECL|function|QColor
-DECL|function|QColor
-DECL|function|QColor
-DECL|function|alpha
-DECL|function|alphaF
-DECL|function|black
-DECL|function|blackF
-DECL|function|blue
-DECL|function|blueF
 DECL|function|colorNames
-DECL|function|convertTo
-DECL|function|cyan
-DECL|function|cyanF
-DECL|function|dark
 DECL|function|fromCmyk
 DECL|function|fromCmykF
 DECL|function|fromHsl
@@ -20,11 +6,7 @@ DECL|function|fromHslF
 DECL|function|fromHsv
 DECL|function|fromHsvF
 DECL|function|fromRgb
-DECL|function|fromRgb
 DECL|function|fromRgbF
-DECL|function|fromRgba
-DECL|function|fromRgba64
-DECL|function|fromRgba64
 DECL|function|getCmyk
 DECL|function|getCmykF
 DECL|function|getHsl
@@ -33,42 +15,13 @@ DECL|function|getHsv
 DECL|function|getHsvF
 DECL|function|getRgb
 DECL|function|getRgbF
-DECL|function|green
-DECL|function|greenF
-DECL|function|hslHue
-DECL|function|hslHueF
-DECL|function|hslSaturation
-DECL|function|hslSaturationF
-DECL|function|hsvHue
-DECL|function|hsvHueF
-DECL|function|hsvSaturation
-DECL|function|hsvSaturationF
-DECL|function|hue
-DECL|function|hueF
-DECL|function|invalidate
 DECL|function|isValidColor
-DECL|function|light
-DECL|function|lightness
-DECL|function|lightnessF
-DECL|function|magenta
-DECL|function|magentaF
 DECL|function|name
 DECL|function|name
-DECL|function|operator !=
 DECL|function|operator <<
 DECL|function|operator <<
-DECL|function|operator =
-DECL|function|operator =
-DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|operator QVariant
-DECL|function|red
-DECL|function|redF
-DECL|function|rgb
-DECL|function|rgba
-DECL|function|rgba64
-DECL|function|saturation
-DECL|function|saturationF
 DECL|function|setAlpha
 DECL|function|setAlphaF
 DECL|function|setBlue
@@ -86,18 +39,7 @@ DECL|function|setNamedColor
 DECL|function|setRed
 DECL|function|setRedF
 DECL|function|setRgb
-DECL|function|setRgb
 DECL|function|setRgbF
-DECL|function|setRgba
-DECL|function|setRgba64
-DECL|function|toCmyk
-DECL|function|toHsl
-DECL|function|toHsv
-DECL|function|toRgb
-DECL|function|value
-DECL|function|valueF
-DECL|function|yellow
-DECL|function|yellowF
 DECL|macro|QCOLOR_INT_RANGE_CHECK
 DECL|macro|QCOLOR_REAL_RANGE_CHECK
 DECL|macro|QRGB
