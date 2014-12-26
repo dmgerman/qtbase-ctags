@@ -9,7 +9,6 @@ DECL|function|insertRow
 DECL|function|moveColumn
 DECL|function|moveRow
 DECL|function|parent
-DECL|function|qHash
 DECL|function|removeColumn
 DECL|function|removeRow
 DECL|function|sibling
