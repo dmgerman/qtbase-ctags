@@ -37,12 +37,9 @@ DECL|function|registerVirtualObject
 DECL|function|removeConnection
 DECL|function|send
 DECL|function|sender
-DECL|function|sender
 DECL|function|sessionBus
 DECL|function|setBusService
 DECL|function|setConnection
-DECL|function|setSender
-DECL|function|setSender
 DECL|function|systemBus
 DECL|function|unregisterObject
 DECL|function|unregisterService
