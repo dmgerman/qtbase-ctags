@@ -1,6 +1,7 @@
 DECL|class|QDBusBlockingCallWatcher
 DECL|function|QDBusBlockingCallWatcher
 DECL|function|QDBusConnectionPrivate
+DECL|function|_q_newConnection
 DECL|function|activateCall
 DECL|function|activateInternalFilters
 DECL|function|activateObject
