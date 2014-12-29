@@ -38,7 +38,6 @@ DECL|enumerator|RelaySignalAction
 DECL|enumerator|RemoveTimeoutAction
 DECL|enumerator|RemoveWatchAction
 DECL|enumerator|SendMessageAction
-DECL|enumerator|SendWithReplyAsyncAction
 DECL|enumerator|SocketReadAction
 DECL|enumerator|SocketWriteAction
 DECL|enumerator|TimerEventAction
