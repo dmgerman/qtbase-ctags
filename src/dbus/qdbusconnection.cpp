@@ -2,6 +2,7 @@ DECL|class|QDBusDefaultConnection
 DECL|function|QDBusConnection
 DECL|function|QDBusConnection
 DECL|function|QDBusConnection
+DECL|function|QDBusConnectionManager
 DECL|function|QDBusDefaultConnection
 DECL|function|asyncCall
 DECL|function|baseService
@@ -36,6 +37,7 @@ DECL|function|registerObject
 DECL|function|registerService
 DECL|function|registerVirtualObject
 DECL|function|removeConnection
+DECL|function|run
 DECL|function|send
 DECL|function|sender
 DECL|function|sessionBus
