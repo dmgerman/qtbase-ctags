@@ -64,6 +64,7 @@ DECL|function|registerServiceNoLock
 DECL|function|relaySignal
 DECL|function|send
 DECL|function|sendError
+DECL|function|sendInternal
 DECL|function|sendWithReply
 DECL|function|sendWithReplyAsync
 DECL|function|sendWithReplyLocal
