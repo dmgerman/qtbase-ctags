@@ -78,7 +78,6 @@ DECL|function|timerEvent
 DECL|function|unregisterObject
 DECL|function|unregisterService
 DECL|function|unregisterServiceNoLock
-DECL|function|waitForFinished
 DECL|function|~QDBusActivateObjectEvent
 DECL|function|~QDBusBlockingCallWatcher
 DECL|function|~QDBusConnectionPrivate
