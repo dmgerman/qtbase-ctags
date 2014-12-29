@@ -16,5 +16,6 @@ DECL|function|sequentialPauseGroup
 DECL|function|updateCurrentTime
 DECL|function|zeroDuration
 DECL|function|~EnableConsistentTiming
+DECL|macro|BAD_TIMER_RESOLUTION
 DECL|member|m_updateCurrentTimeCount
-DECL|variable|winTimerError
+DECL|variable|timerError

@@ -1,10 +1,15 @@
+DECL|class|QTBUG_42871_Handler
 DECL|class|SingleStepTestScrollBar
 DECL|class|tst_QScrollBar
 DECL|function|QTBUG_27308
+DECL|function|QTBUG_42871
+DECL|function|QTBUG_42871_Handler
 DECL|function|SingleStepTestScrollBar
 DECL|function|centerOnScreen
 DECL|function|centerOnScreen
 DECL|function|hideAndShow
 DECL|function|scrollSingleStep
 DECL|function|task_209492
+DECL|function|valueUpdated
 DECL|macro|WHEEL_DELTA
+DECL|member|updatesCount
