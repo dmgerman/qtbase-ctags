@@ -13,7 +13,6 @@ DECL|function|connectRelay
 DECL|function|connectSignal
 DECL|function|connectSignal
 DECL|function|connectionCapabilies
-DECL|function|customEvent
 DECL|function|deliverCall
 DECL|function|disconnectRelay
 DECL|function|disconnectSignal
@@ -47,9 +46,6 @@ DECL|function|qDBusAddSpyHook
 DECL|function|qDBusAddTimeout
 DECL|function|qDBusAddWatch
 DECL|function|qDBusNewConnection
-DECL|function|qDBusRealAddTimeout
-DECL|function|qDBusRealAddWatch
-DECL|function|qDBusRealToggleWatch
 DECL|function|qDBusRemoveTimeout
 DECL|function|qDBusRemoveWatch
 DECL|function|qDBusResultReceived
