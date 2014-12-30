@@ -98,6 +98,7 @@ DECL|function|typeMatching_data
 DECL|function|valueSpyPeer
 DECL|function|writeProperties
 DECL|function|writePropertiesPeer
+DECL|macro|EXE
 DECL|member|b
 DECL|member|bytearraySpy
 DECL|member|d

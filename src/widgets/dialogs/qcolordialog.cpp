@@ -194,6 +194,7 @@ DECL|member|curQColor
 DECL|member|curRow
 DECL|member|d
 DECL|member|gEd
+DECL|member|gl
 DECL|member|hEd
 DECL|member|htEd
 DECL|member|hue

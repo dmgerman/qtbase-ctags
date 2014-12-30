@@ -42,6 +42,7 @@ DECL|function|setReadOnly
 DECL|function|setSelection
 DECL|function|stripString
 DECL|function|timerEvent
+DECL|function|undo
 DECL|function|updateDisplayText
 DECL|function|updatePasswordEchoEditing
 DECL|function|xToPos

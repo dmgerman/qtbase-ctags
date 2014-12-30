@@ -12,6 +12,7 @@ DECL|function|roundTrip
 DECL|function|roundTripVariant
 DECL|function|roundTripVariant_data
 DECL|function|roundTrip_data
+DECL|macro|EXE
 DECL|member|local
 DECL|member|proc
 DECL|member|remote

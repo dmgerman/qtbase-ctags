@@ -19,6 +19,7 @@ DECL|function|linkLocalIPv4
 DECL|function|linkLocalIPv6
 DECL|function|loop
 DECL|function|loop_data
+DECL|function|makeNonAny
 DECL|function|multicast
 DECL|function|multicastJoinBeforeBind
 DECL|function|multicastJoinBeforeBind_data
