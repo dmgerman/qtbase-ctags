@@ -6,15 +6,16 @@ DECL|function|callCount
 DECL|function|complexProp
 DECL|function|emitSignal
 DECL|function|handleConnection
-DECL|function|isConnected
 DECL|function|main
 DECL|function|prop1
 DECL|function|quit
 DECL|function|reset
 DECL|function|setComplexProp
 DECL|function|setProp1
+DECL|function|waitForConnected
 DECL|member|callArgs
 DECL|member|callCount
+DECL|member|callPendingReply
 DECL|member|m_conn
 DECL|member|obj
 DECL|variable|objectPath

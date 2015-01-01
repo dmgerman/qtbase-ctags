@@ -5,7 +5,6 @@ DECL|function|clearValueSpy
 DECL|function|emitSignal
 DECL|function|emitSignal2
 DECL|function|handleConnection
-DECL|function|isConnected
 DECL|function|main
 DECL|function|newMyObject
 DECL|function|quit
@@ -13,7 +12,9 @@ DECL|function|registerMyObject
 DECL|function|requestSync
 DECL|function|slotSpyServer
 DECL|function|valueSpyServer
+DECL|function|waitForConnected
 DECL|function|~MyServer
+DECL|member|callPendingReply
 DECL|member|m_conn
 DECL|member|obj
 DECL|variable|objectPath
