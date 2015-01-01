@@ -9,6 +9,7 @@ DECL|function|handleConnection
 DECL|function|isConnected
 DECL|function|main
 DECL|function|prop1
+DECL|function|quit
 DECL|function|reset
 DECL|function|setComplexProp
 DECL|function|setProp1

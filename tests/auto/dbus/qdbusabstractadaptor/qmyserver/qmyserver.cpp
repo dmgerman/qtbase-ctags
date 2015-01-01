@@ -8,6 +8,7 @@ DECL|function|handleConnection
 DECL|function|isConnected
 DECL|function|main
 DECL|function|newMyObject
+DECL|function|quit
 DECL|function|registerMyObject
 DECL|function|requestSync
 DECL|function|slotSpyServer
