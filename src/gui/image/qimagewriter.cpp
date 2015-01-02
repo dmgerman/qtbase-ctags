@@ -14,6 +14,8 @@ DECL|function|errorString
 DECL|function|fileName
 DECL|function|format
 DECL|function|gamma
+DECL|function|optimizedWrite
+DECL|function|progressiveScanWrite
 DECL|function|quality
 DECL|function|setCompression
 DECL|function|setDescription
@@ -21,6 +23,8 @@ DECL|function|setDevice
 DECL|function|setFileName
 DECL|function|setFormat
 DECL|function|setGamma
+DECL|function|setOptimizedWrite
+DECL|function|setProgressiveScanWrite
 DECL|function|setQuality
 DECL|function|setSubType
 DECL|function|setText
@@ -42,6 +46,8 @@ DECL|member|format
 DECL|member|gamma
 DECL|member|handler
 DECL|member|imageWriterError
+DECL|member|optimizedWrite
+DECL|member|progressiveScanWrite
 DECL|member|q
 DECL|member|quality
 DECL|member|subType

@@ -56,6 +56,8 @@ DECL|member|format
 DECL|member|info
 DECL|member|iod_src
 DECL|member|memDevice
+DECL|member|optimize
+DECL|member|progressive
 DECL|member|q
 DECL|member|quality
 DECL|member|readTexts
