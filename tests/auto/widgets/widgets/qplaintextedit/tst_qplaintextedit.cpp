@@ -31,6 +31,7 @@ DECL|function|cleanup
 DECL|function|clearMustNotChangeClipboard
 DECL|function|clearMustNotResetRootFrameMarginToDefault
 DECL|function|colorfulAppend
+DECL|function|contextMenu
 DECL|function|copyAndSelectAllInReadonly
 DECL|function|copyAvailable
 DECL|function|copyAvailable_data

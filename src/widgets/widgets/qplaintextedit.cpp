@@ -35,6 +35,7 @@ DECL|function|copy
 DECL|function|createMimeDataFromSelection
 DECL|function|createMimeDataFromSelection
 DECL|function|createStandardContextMenu
+DECL|function|createStandardContextMenu
 DECL|function|currentCharFormat
 DECL|function|cursorForPosition
 DECL|function|cursorRect
