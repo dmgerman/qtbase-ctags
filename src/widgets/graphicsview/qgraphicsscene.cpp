@@ -142,6 +142,7 @@ DECL|function|setScenePosItemEnabled
 DECL|function|setSceneRect
 DECL|function|setSelectionArea
 DECL|function|setSelectionArea
+DECL|function|setSelectionArea
 DECL|function|setSortCacheEnabled
 DECL|function|setStickyFocus
 DECL|function|setStyle

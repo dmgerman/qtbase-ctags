@@ -138,6 +138,7 @@ DECL|function|replayMouseMove
 DECL|function|reset
 DECL|function|resizeAnchor
 DECL|function|rotated_rubberBand
+DECL|function|rubberBandExtendSelection
 DECL|function|rubberBandSelectionMode
 DECL|function|scene
 DECL|function|sceneEvent
