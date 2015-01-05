@@ -19,7 +19,6 @@ DECL|function|create
 DECL|function|createShared
 DECL|function|createShared
 DECL|function|createShared
-DECL|function|disableReset
 DECL|function|isSequential
 DECL|function|readData
 DECL|function|readPointer
