@@ -3,12 +3,10 @@ DECL|function|QPair
 DECL|function|QPair
 DECL|function|QPair
 DECL|function|noexcept
-DECL|function|operator
-DECL|function|operator
-DECL|function|operator
-DECL|function|operator
-DECL|function|operator
-DECL|function|qMakePair
+DECL|function|noexcept
+DECL|function|noexcept
+DECL|function|noexcept
+DECL|function|noexcept
 DECL|macro|QPAIR_H
 DECL|member|TT1
 DECL|member|TT1
