@@ -1,3 +1,4 @@
+DECL|class|ContentsChangedFunctor
 DECL|class|CursorPositionChangedRecorder
 DECL|class|MyTextEdit
 DECL|class|QtTestDocumentLayout
@@ -5,6 +6,7 @@ DECL|class|SignalReceiver
 DECL|class|TestEdit
 DECL|class|UndoRedoRecorder
 DECL|class|tst_QPlainTextEdit
+DECL|function|ContentsChangedFunctor
 DECL|function|CursorPositionChangedRecorder
 DECL|function|MyTextEdit
 DECL|function|QtTestDocumentLayout
@@ -63,6 +65,7 @@ DECL|function|mouseCursorShape
 DECL|function|moveCursor
 DECL|function|noPropertiesOnDefaultTextEditCharFormat
 DECL|function|numPadKeyNavigation
+DECL|function|operator ()
 DECL|function|overwriteMode
 DECL|function|pageCount
 DECL|function|paragSeparatorOnPlaintextAppend
@@ -85,6 +88,7 @@ DECL|function|shiftBackspace
 DECL|function|shiftDownInLineLastShouldSelectToEnd
 DECL|function|shiftDownInLineLastShouldSelectToEnd_data
 DECL|function|shiftEnterShouldInsertLineSeparator
+DECL|function|taskQTBUG_43562_lineCountCrash
 DECL|function|textObscuredByScrollbars
 DECL|function|tst_QPlainTextEdit
 DECL|function|undoAvailable
@@ -112,6 +116,7 @@ DECL|member|redoCount
 DECL|member|redoRepetitions
 DECL|member|resizeEventCalled
 DECL|member|rootFrameMargin
+DECL|member|textEdit
 DECL|member|undoCount
 DECL|member|undoRepetitions
 DECL|member|useBiggerSize
