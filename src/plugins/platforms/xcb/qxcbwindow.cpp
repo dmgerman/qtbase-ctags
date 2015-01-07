@@ -101,6 +101,7 @@ DECL|function|qRectToXCBRectangle
 DECL|function|raise
 DECL|function|relayFocusToModalWindow
 DECL|function|requestActivateWindow
+DECL|function|screenForNativeGeometry
 DECL|function|sendXEmbedMessage
 DECL|function|setAlertState
 DECL|function|setCursor
