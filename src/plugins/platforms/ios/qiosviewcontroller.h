@@ -1,2 +1,1 @@
 DECL|variable|QIOSScreen
-DECL|variable|preferredStatusBarUpdateAnimation
