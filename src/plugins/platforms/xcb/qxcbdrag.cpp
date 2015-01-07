@@ -24,6 +24,7 @@ DECL|function|handle_xdnd_status
 DECL|function|hasFormat_sys
 DECL|function|init
 DECL|function|move
+DECL|function|ownsDragObject
 DECL|function|platformDropData
 DECL|function|retrieveData_sys
 DECL|function|send_leave
