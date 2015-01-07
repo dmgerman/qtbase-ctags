@@ -4,6 +4,7 @@ DECL|function|createPlatformOpenGLContext
 DECL|function|createWindow
 DECL|function|handleXcbEvent
 DECL|function|initialize
+DECL|function|supportsThreadedOpenGL
 DECL|function|~QXcbGlxIntegration
 DECL|macro|XCB_GLX_BUFFER_SWAP_COMPLETE
 DECL|member|display
