@@ -1,3 +1,4 @@
+DECL|function|noexcept
 DECL|function|qAbs
 DECL|function|qBound
 DECL|function|qFuzzyCompare
@@ -16,7 +17,6 @@ DECL|function|qRound
 DECL|function|qRound
 DECL|function|qRound64
 DECL|function|qRound64
-DECL|function|qSwap
 DECL|function|q_check_ptr
 DECL|function|qt_dynamic_cast_check
 DECL|function|qt_noop
