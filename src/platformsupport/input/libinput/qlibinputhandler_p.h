@@ -1,2 +1,5 @@
 DECL|macro|QLIBINPUTHANDLER_P_H
+DECL|variable|QLibInputKeyboard
+DECL|variable|QLibInputPointer
+DECL|variable|QLibInputTouch
 DECL|variable|QSocketNotifier
