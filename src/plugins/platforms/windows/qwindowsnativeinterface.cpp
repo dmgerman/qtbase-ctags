@@ -9,6 +9,7 @@ DECL|enumerator|RenderingContextType
 DECL|enum|ResourceType
 DECL|function|asyncExpose
 DECL|function|createMessageWindow
+DECL|function|gpu
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForIntegration
 DECL|function|nativeResourceForWindow
