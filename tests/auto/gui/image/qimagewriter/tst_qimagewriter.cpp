@@ -22,5 +22,6 @@ DECL|function|writeToInvalidDevice
 DECL|function|~tst_QImageWriter
 DECL|macro|SKIP_IF_UNSUPPORTED
 DECL|member|prefix
+DECL|member|writePrefix
 DECL|typedef|QIntList
 DECL|typedef|QStringMap
