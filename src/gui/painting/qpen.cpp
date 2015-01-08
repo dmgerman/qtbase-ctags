@@ -3,7 +3,6 @@ DECL|function|QPen
 DECL|function|QPen
 DECL|function|QPen
 DECL|function|QPen
-DECL|function|QPen
 DECL|function|QPenDataHolder
 DECL|function|QPenPrivate
 DECL|function|brush
@@ -19,7 +18,6 @@ DECL|function|joinStyle
 DECL|function|miterLimit
 DECL|function|operator <<
 DECL|function|operator <<
-DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|operator QVariant
