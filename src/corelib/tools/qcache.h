@@ -1,4 +1,3 @@
-DECL|function|QCache
 DECL|function|clear
 DECL|function|insert
 DECL|function|object
@@ -27,3 +26,4 @@ DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
+DECL|variable|amaxCost

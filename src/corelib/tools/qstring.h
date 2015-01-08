@@ -1,5 +1,4 @@
 DECL|function|QString
-DECL|function|QString
 DECL|function|QStringRef
 DECL|function|Q_DECLARE_SHARED
 DECL|function|at
@@ -49,6 +48,7 @@ DECL|function|reserve
 DECL|function|setCell
 DECL|function|setRow
 DECL|function|setUtf16
+DECL|function|sharedNull
 DECL|function|squeeze
 DECL|function|unicode
 DECL|function|~QString

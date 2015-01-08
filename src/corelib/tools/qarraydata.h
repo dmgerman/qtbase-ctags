@@ -21,8 +21,6 @@ DECL|function|end
 DECL|function|fromRawData
 DECL|function|isMutable
 DECL|function|sharedEmpty
-DECL|function|sharedNull
-DECL|function|sharedNull
 DECL|function|unsharableEmpty
 DECL|macro|QARRAYDATA_H
 DECL|macro|Q_ARRAY_LITERAL
