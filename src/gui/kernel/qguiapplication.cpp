@@ -47,6 +47,7 @@ DECL|function|initFontUnlocked
 DECL|function|initPalette
 DECL|function|init_platform
 DECL|function|init_plugins
+DECL|function|inputDeviceManager
 DECL|function|inputMethod
 DECL|function|isSavingSession
 DECL|function|isSessionRestored
@@ -154,6 +155,7 @@ DECL|member|generic_plugin_list
 DECL|member|height
 DECL|member|m_fakeMouseSourcePointId
 DECL|member|m_fakeTouchDevice
+DECL|member|m_inputDeviceManager
 DECL|member|modifier_buttons
 DECL|member|mousePressButton
 DECL|member|mousePressTime

@@ -1,0 +1,2 @@
+DECL|macro|QINPUTDEVICEMANAGER_P_H
+DECL|variable|QInputDeviceManagerPrivate

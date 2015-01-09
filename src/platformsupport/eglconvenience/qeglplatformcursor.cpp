@@ -1,5 +1,4 @@
 DECL|function|QEGLPlatformCursor
-DECL|function|QEGLPlatformCursorDeviceListener
 DECL|function|changeCursor
 DECL|function|createCursorTexture
 DECL|function|createShaderPrograms
@@ -7,15 +6,13 @@ DECL|function|cursorRect
 DECL|function|draw
 DECL|function|hasMouse
 DECL|function|initCursorAtlas
-DECL|function|onDeviceAdded
-DECL|function|onDeviceRemoved
+DECL|function|onDeviceListChanged
 DECL|function|paintOnScreen
 DECL|function|pointerEvent
 DECL|function|pos
 DECL|function|resetResources
 DECL|function|scheduleUpdate
 DECL|function|setCurrentCursor
-DECL|function|setMouseDeviceDiscovery
 DECL|function|setPos
 DECL|function|update
 DECL|function|update

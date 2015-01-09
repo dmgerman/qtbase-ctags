@@ -1,3 +1,3 @@
 DECL|macro|QFBCURSOR_P_H
-DECL|variable|QDeviceDiscovery
+DECL|variable|QFbCursor
 DECL|variable|QFbScreen

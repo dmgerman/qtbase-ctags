@@ -3,9 +3,12 @@ DECL|function|changeCursor
 DECL|function|dirtyRect
 DECL|function|drawCursor
 DECL|function|getCurrentRect
+DECL|function|hasMouse
+DECL|function|onDeviceListChanged
 DECL|function|pointerEvent
 DECL|function|setCursor
 DECL|function|setCursor
 DECL|function|setCursor
 DECL|function|setDirty
-DECL|function|setMouseDeviceDiscovery
+DECL|function|updateMouseStatus
+DECL|function|~QFbCursor
