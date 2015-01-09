@@ -9,3 +9,4 @@ DECL|function|hasCapability
 DECL|function|initResources
 DECL|function|initialize
 DECL|function|nativeDisplay
+DECL|function|removeScreen
