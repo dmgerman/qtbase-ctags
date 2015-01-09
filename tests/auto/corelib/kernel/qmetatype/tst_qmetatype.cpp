@@ -24,6 +24,7 @@ DECL|function|Bar
 DECL|function|CustomComparable
 DECL|function|CustomConvertibleType
 DECL|function|CustomConvertibleType2
+DECL|function|CustomEqualsOnlyType
 DECL|function|CustomMultiInheritanceObject
 DECL|function|CustomObject
 DECL|function|CustomQObject
@@ -31,6 +32,7 @@ DECL|function|MessageHandlerCustom
 DECL|function|MetaTypeTorturer
 DECL|function|MyObject
 DECL|function|automaticTemplateRegistration
+DECL|function|compareCustomEqualOnlyType
 DECL|function|compareCustomType
 DECL|function|compareCustomType_data
 DECL|function|constRefs
@@ -122,10 +124,12 @@ DECL|function|namespaces
 DECL|function|normalizedTypes
 DECL|function|operator !=
 DECL|function|operator !=
+DECL|function|operator !=
 DECL|function|operator ()
 DECL|function|operator <
 DECL|function|operator <<
 DECL|function|operator <<
+DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==
@@ -171,6 +175,7 @@ DECL|function|type_fromSubString_data
 DECL|function|typedefs
 DECL|function|~CustomConvertibleType
 DECL|function|~CustomConvertibleType2
+DECL|function|~CustomEqualsOnlyType
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
 DECL|macro|ADD_METATYPE_TEST_ROW
@@ -251,6 +256,7 @@ DECL|member|s_ok
 DECL|member|s_value
 DECL|member|s_value
 DECL|member|t
+DECL|member|val
 DECL|namespace|TestSpace
 DECL|struct|Bar
 DECL|struct|ConvertFunctor
@@ -258,6 +264,7 @@ DECL|struct|CustomComparable
 DECL|struct|CustomConvertibleType
 DECL|struct|CustomConvertibleType2
 DECL|struct|CustomDebugStreamableType
+DECL|struct|CustomEqualsOnlyType
 DECL|struct|CustomMovable
 DECL|struct|CustomStreamableType
 DECL|struct|DefaultValueFactory
@@ -360,6 +367,7 @@ DECL|typedef|UndefinedFunction4
 DECL|variable|CustomConvertibleType
 DECL|variable|CustomConvertibleType2
 DECL|variable|CustomDebugStreamableType
+DECL|variable|CustomEqualsOnlyType
 DECL|variable|FlagsDataEnum
 DECL|variable|MyGadget
 DECL|variable|UndefinedFunction0

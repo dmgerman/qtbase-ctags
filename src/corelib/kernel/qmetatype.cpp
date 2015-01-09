@@ -69,6 +69,7 @@ DECL|function|destroyExtended
 DECL|function|destruct
 DECL|function|destructExtended
 DECL|function|dtor
+DECL|function|equals
 DECL|function|flagsExtended
 DECL|function|function
 DECL|function|hasRegisteredComparators
