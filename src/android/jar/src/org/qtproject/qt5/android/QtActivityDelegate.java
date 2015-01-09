@@ -91,6 +91,7 @@ DECL|method|onCreatePopupMenu
 DECL|method|onDestroy
 DECL|method|onKeyDown
 DECL|method|onKeyUp
+DECL|method|onNewIntent
 DECL|method|onOptionsItemSelected
 DECL|method|onOptionsMenuClosed
 DECL|method|onPause

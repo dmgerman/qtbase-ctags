@@ -49,6 +49,7 @@ DECL|method|onAndroidUiThread
 DECL|method|onContextItemSelected
 DECL|method|onContextMenuClosed
 DECL|method|onCreateContextMenu
+DECL|method|onNewIntent
 DECL|method|onOptionsItemSelected
 DECL|method|onOptionsMenuClosed
 DECL|method|onPrepareOptionsMenu
