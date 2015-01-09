@@ -17,6 +17,7 @@ DECL|function|checkReceiverThread
 DECL|function|cleanupThreadData
 DECL|function|closingDown
 DECL|function|compressEvent
+DECL|function|contains
 DECL|function|createEventDispatcher
 DECL|function|deref
 DECL|function|event
@@ -30,6 +31,7 @@ DECL|function|init
 DECL|function|initLocale
 DECL|function|installNativeEventFilter
 DECL|function|installTranslator
+DECL|function|isArgvModified
 DECL|function|isQuitLockEnabled
 DECL|function|isSetuidAllowed
 DECL|function|isTranslatorInstalled
