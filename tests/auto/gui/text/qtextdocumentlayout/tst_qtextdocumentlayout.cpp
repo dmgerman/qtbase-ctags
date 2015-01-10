@@ -1,4 +1,5 @@
 DECL|class|tst_QTextDocumentLayout
+DECL|function|blockVisibility
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clippedTableCell
