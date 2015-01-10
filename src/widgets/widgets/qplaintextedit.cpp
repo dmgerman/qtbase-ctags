@@ -11,6 +11,7 @@ DECL|function|_q_cursorPositionChanged
 DECL|function|_q_repaintContents
 DECL|function|_q_verticalScrollbarActionTriggered
 DECL|function|anchorAt
+DECL|function|anchorAt
 DECL|function|append
 DECL|function|appendHtml
 DECL|function|appendPlainText
