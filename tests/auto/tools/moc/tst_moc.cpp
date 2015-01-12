@@ -113,6 +113,7 @@ DECL|function|foo
 DECL|function|foo
 DECL|function|forgottenQInterface
 DECL|function|frameworkSearchPath
+DECL|function|gadgetHierarchy
 DECL|function|getChicken
 DECL|function|getEgg
 DECL|function|ignoreOptionClashes
