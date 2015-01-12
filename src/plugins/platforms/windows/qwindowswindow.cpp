@@ -52,6 +52,7 @@ DECL|function|handleWindowStateChange
 DECL|function|handleWmPaint
 DECL|function|hide_sys
 DECL|function|initialize
+DECL|function|invalidateSurface
 DECL|function|isActive
 DECL|function|isEmbedded
 DECL|function|isEnabled
