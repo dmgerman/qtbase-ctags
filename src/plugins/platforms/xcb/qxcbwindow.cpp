@@ -87,8 +87,9 @@ DECL|function|isEmbedded
 DECL|function|isExposed
 DECL|function|isTransient
 DECL|function|lower
+DECL|function|mapExposeFromNative
 DECL|function|mapFromGlobal
-DECL|function|mapFromNative
+DECL|function|mapGeometryFromNative
 DECL|function|mapToGlobal
 DECL|function|mapToNative
 DECL|function|needsSync
