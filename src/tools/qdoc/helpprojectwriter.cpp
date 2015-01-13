@@ -8,6 +8,7 @@ DECL|function|generateSection
 DECL|function|generateSections
 DECL|function|keywordDetails
 DECL|function|readSelectors
+DECL|function|reset
 DECL|function|writeHashFile
 DECL|function|writeNode
 DECL|function|writeSection
