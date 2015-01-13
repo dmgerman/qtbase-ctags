@@ -16,6 +16,8 @@ DECL|function|borderColor
 DECL|function|borderColor
 DECL|function|boundTextureId
 DECL|function|boundTextureId
+DECL|function|comparisonFunction
+DECL|function|comparisonMode
 DECL|function|create
 DECL|function|create
 DECL|function|createTextureView
@@ -69,6 +71,8 @@ DECL|function|setBorderColor
 DECL|function|setBorderColor
 DECL|function|setBorderColor
 DECL|function|setBorderColor
+DECL|function|setComparisonFunction
+DECL|function|setComparisonMode
 DECL|function|setCompressedData
 DECL|function|setCompressedData
 DECL|function|setCompressedData
