@@ -128,6 +128,7 @@ DECL|function|removeSourceRows_data
 DECL|function|resetInternalData
 DECL|function|resetInvalidate
 DECL|function|resetInvalidate_data
+DECL|function|resortingDoesNotBreakTreeModels
 DECL|function|roleNames
 DECL|function|rowCount
 DECL|function|rowCount
