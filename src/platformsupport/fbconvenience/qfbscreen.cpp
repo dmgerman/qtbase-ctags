@@ -1,6 +1,7 @@
 DECL|function|QFbScreen
 DECL|function|addWindow
 DECL|function|doRedraw
+DECL|function|event
 DECL|function|generateRects
 DECL|function|initializeCompositor
 DECL|function|lower

@@ -1,4 +1,9 @@
 DECL|function|QFbBackingStore
+DECL|function|beginPaint
+DECL|function|endPaint
 DECL|function|flush
+DECL|function|image
+DECL|function|lock
 DECL|function|resize
+DECL|function|unlock
 DECL|function|~QFbBackingStore
