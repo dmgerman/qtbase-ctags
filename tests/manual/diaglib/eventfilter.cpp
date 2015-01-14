@@ -1,6 +1,11 @@
 DECL|function|EventFilter
 DECL|function|EventFilter
 DECL|function|eventFilter
+DECL|function|formatApplicationState
+DECL|function|formatObject
 DECL|function|init
 DECL|function|matchesType
+DECL|macro|HAVE_APPLICATION
+DECL|macro|HAVE_APPLICATION
+DECL|macro|HAVE_GUI_APPLICATION
 DECL|namespace|QtDiag
