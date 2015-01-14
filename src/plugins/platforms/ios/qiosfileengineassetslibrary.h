@@ -1,0 +1,3 @@
+DECL|macro|QIOSFILEENGINEASSETSLIBRARY_H
+DECL|variable|ALAsset
+DECL|variable|QIOSAssetData
