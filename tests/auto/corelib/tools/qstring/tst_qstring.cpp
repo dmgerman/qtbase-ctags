@@ -190,6 +190,7 @@ DECL|function|trimmed
 DECL|function|truncate
 DECL|function|truncateWithNegative
 DECL|function|tst_QString
+DECL|function|unicodeStrings
 DECL|function|utf8
 DECL|function|utf8_data
 DECL|function|verifyZeroTermination
