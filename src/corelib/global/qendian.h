@@ -55,3 +55,6 @@ DECL|function|quint8
 DECL|function|quint8
 DECL|function|quint8
 DECL|macro|QENDIAN_H
+DECL|macro|QT_HAS_BUILTIN
+DECL|macro|QT_HAS_BUILTIN
+DECL|macro|QT_HAS_BUILTIN
