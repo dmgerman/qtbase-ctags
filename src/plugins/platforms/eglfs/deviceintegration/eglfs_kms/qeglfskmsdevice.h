@@ -1,0 +1,2 @@
+DECL|macro|QEGLFSKMSDEVICE_H
+DECL|variable|QEglFSKmsScreen
