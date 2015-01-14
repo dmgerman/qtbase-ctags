@@ -21,7 +21,6 @@ DECL|function|mergeLine
 DECL|function|operator ()
 DECL|function|prepareChunk
 DECL|function|q26Dot6Compare
-DECL|function|qFloorF
 DECL|function|qSafeDivide
 DECL|function|qSafeFloatToQ16Dot16
 DECL|function|qScanConvert
