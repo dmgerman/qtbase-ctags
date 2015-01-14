@@ -2,3 +2,4 @@ DECL|macro|QDBUSTRAYICON_H
 DECL|variable|QDBusMenuAdaptor
 DECL|variable|QDBusPlatformMenu
 DECL|variable|QStatusNotifierItemAdaptor
+DECL|variable|QXdgNotificationInterface

@@ -1,4 +1,5 @@
 DECL|function|QDBusTrayIcon
+DECL|function|actionInvoked
 DECL|function|activate
 DECL|function|attentionTimerExpired
 DECL|function|cleanup
@@ -7,6 +8,7 @@ DECL|function|createMenu
 DECL|function|dBusConnection
 DECL|function|init
 DECL|function|isSystemTrayAvailable
+DECL|function|notificationClosed
 DECL|function|setStatus
 DECL|function|showMessage
 DECL|function|tempIcon
@@ -14,6 +16,9 @@ DECL|function|updateIcon
 DECL|function|updateMenu
 DECL|function|updateToolTip
 DECL|function|~QDBusTrayIcon
+DECL|variable|DefaultAction
 DECL|variable|KDEItemFormat
 DECL|variable|TempFileTemplate
+DECL|variable|XdgNotificationPath
+DECL|variable|XdgNotificationService
 DECL|variable|instanceCount
