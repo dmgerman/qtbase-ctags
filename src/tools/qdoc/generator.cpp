@@ -86,6 +86,7 @@ DECL|member|project_
 DECL|member|qdocPass_
 DECL|member|qdocSingleExec_
 DECL|member|qdocWriteQaPages_
+DECL|member|qmlTypeContext_
 DECL|member|redirectDocumentationToDevNull_
 DECL|member|scriptDirs
 DECL|member|scriptFiles
