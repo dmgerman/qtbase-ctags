@@ -1,3 +1,2 @@
 DECL|class|tst_QPainterPathStroker
 DECL|function|strokeEmptyPath
-DECL|macro|_USE_MATH_DEFINES

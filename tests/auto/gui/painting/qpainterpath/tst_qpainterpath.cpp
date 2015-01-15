@@ -45,4 +45,3 @@ DECL|function|translate
 DECL|macro|ANGLE
 DECL|macro|M_PI
 DECL|macro|SIGN
-DECL|macro|_USE_MATH_DEFINES
