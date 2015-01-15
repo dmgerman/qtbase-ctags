@@ -31,7 +31,6 @@ DECL|member|maximumSize
 DECL|member|minimumSize
 DECL|member|obtainedGeometry
 DECL|member|requestedGeometry
-DECL|member|staticOpenGLContext
 DECL|member|style
 DECL|member|window
 DECL|struct|QWindowCreationContext

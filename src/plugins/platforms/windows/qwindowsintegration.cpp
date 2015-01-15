@@ -11,7 +11,6 @@ DECL|function|createPlatformWindow
 DECL|function|createWindowData
 DECL|function|doCreate
 DECL|function|drag
-DECL|function|ensureStaticOpenGLContext
 DECL|function|fontDatabase
 DECL|function|hasCapability
 DECL|function|initialize
@@ -41,4 +40,3 @@ DECL|member|m_options
 DECL|member|m_services
 DECL|member|m_staticOpenGLContext
 DECL|struct|QWindowsIntegrationPrivate
-DECL|variable|q_staticOpenGLContext
