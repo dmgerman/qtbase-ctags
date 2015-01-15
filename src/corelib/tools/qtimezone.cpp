@@ -35,8 +35,10 @@ DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|previousTransition
 DECL|function|standardTimeOffset
+DECL|function|systemTimeZone
 DECL|function|systemTimeZoneId
 DECL|function|transitions
+DECL|function|utc
 DECL|function|windowsIdToDefaultIanaId
 DECL|function|windowsIdToDefaultIanaId
 DECL|function|windowsIdToIanaIds
