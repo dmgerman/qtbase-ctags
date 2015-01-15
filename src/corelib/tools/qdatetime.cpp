@@ -136,6 +136,7 @@ DECL|function|timeToMSecs
 DECL|function|timeZone
 DECL|function|timeZoneAbbreviation
 DECL|function|toMSecsSinceEpoch
+DECL|function|toMSecsSinceEpoch
 DECL|function|toOffsetFromUtc
 DECL|function|toOffsetString
 DECL|function|toString
