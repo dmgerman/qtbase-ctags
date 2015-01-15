@@ -75,6 +75,7 @@ DECL|function|selectionChanged
 DECL|function|selectionChanged
 DECL|function|setCurrentIndex
 DECL|function|setCurrentIndex
+DECL|function|setModel
 DECL|function|setSelectionModel
 DECL|function|splitOnInsert
 DECL|function|testChainedSelectionClear

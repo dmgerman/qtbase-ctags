@@ -31,6 +31,7 @@ DECL|function|merge
 DECL|function|mergeIndexes
 DECL|function|mergeRowLengths
 DECL|function|model
+DECL|function|model
 DECL|function|operator <<
 DECL|function|qSelectionPersistentRowLengths
 DECL|function|qSelectionPersistentindexes
@@ -46,5 +47,6 @@ DECL|function|selectedIndexes
 DECL|function|selectedRows
 DECL|function|selection
 DECL|function|setCurrentIndex
+DECL|function|setModel
 DECL|function|split
 DECL|function|~QItemSelectionModel
