@@ -8,6 +8,7 @@ DECL|function|QWindowsGeometryHint
 DECL|function|QWindowsWindow
 DECL|function|RECTfromQRect
 DECL|function|WindowCreationData
+DECL|function|aboutToMakeCurrent
 DECL|function|addRectToWinRegion
 DECL|function|alertWindow
 DECL|function|applyBlurBehindWindow
@@ -108,9 +109,11 @@ DECL|function|testShowWithoutActivating
 DECL|function|topLevelOf
 DECL|function|transientParentHwnd
 DECL|function|updateDropSite
+DECL|function|updateGLWindowSettings
 DECL|function|updateTransientParent
 DECL|function|validSize
 DECL|function|windowEvent
+DECL|function|windowIsOpenGL
 DECL|function|~QWindowsWindow
 DECL|member|desktop
 DECL|member|dialog
@@ -118,7 +121,6 @@ DECL|member|embedded
 DECL|member|exStyle
 DECL|member|flags
 DECL|member|hasAlpha
-DECL|member|isGL
 DECL|member|parentHandle
 DECL|member|popup
 DECL|member|style
