@@ -62,6 +62,7 @@ DECL|function|itemWidget
 DECL|function|itemWidget_data
 DECL|function|keyboardNavigation
 DECL|function|match
+DECL|function|nonEditableTristate
 DECL|function|operator <<
 DECL|function|populate
 DECL|function|randomExpand
