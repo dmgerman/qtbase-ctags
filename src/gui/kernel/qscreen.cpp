@@ -11,7 +11,6 @@ DECL|function|grabWindow
 DECL|function|handle
 DECL|function|isLandscape
 DECL|function|isPortrait
-DECL|function|log2
 DECL|function|logicalDotsPerInch
 DECL|function|logicalDotsPerInchX
 DECL|function|logicalDotsPerInchY
