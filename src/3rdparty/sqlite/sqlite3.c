@@ -21,6 +21,7 @@ DECL|function|addAggInfoColumn
 DECL|function|addAggInfoFunc
 DECL|function|addArgumentToVtab
 DECL|function|addModuleArgument
+DECL|function|addScanStatus
 DECL|function|addToBlockedList
 DECL|function|addToSavepointBitvecs
 DECL|function|addToVTrans
@@ -48,7 +49,6 @@ DECL|function|analyzeTable
 DECL|function|apiOomError
 DECL|function|applyAffinity
 DECL|function|applyNumericAffinity
-DECL|function|assemblePage
 DECL|function|assertCellInfo
 DECL|function|assertTruncateConstraint
 DECL|function|assertTruncateConstraintCb
@@ -120,6 +120,7 @@ DECL|function|checkList
 DECL|function|checkListProperties
 DECL|function|checkPage
 DECL|function|checkPtrmap
+DECL|function|checkReadTransaction
 DECL|function|checkRef
 DECL|function|checkSavepointCount
 DECL|function|checkTreePage
@@ -222,6 +223,7 @@ DECL|function|dup8bytes
 DECL|function|dupedExprNodeSize
 DECL|function|dupedExprSize
 DECL|function|dupedExprStructSize
+DECL|function|editPage
 DECL|function|enable_simulated_io_errors
 DECL|function|enlargeAndAppend
 DECL|function|enterMutex
@@ -626,7 +628,6 @@ DECL|function|insertElement
 DECL|function|instrFunc
 DECL|function|intTestFunc
 DECL|function|invalidateAllOverflowCache
-DECL|function|invalidateCachedKeyInfo
 DECL|function|invalidateIncrblobCursors
 DECL|function|invalidateTempStorage
 DECL|function|invokeValueDestructor
@@ -638,6 +639,7 @@ DECL|function|isFatalError
 DECL|function|isLikeOrGlob
 DECL|function|isLookaside
 DECL|function|isMatchOfColumn
+DECL|function|isSetNullAction
 DECL|function|isSimpleCount
 DECL|function|isSystemTable
 DECL|function|isVowel
@@ -676,6 +678,7 @@ DECL|function|m_eq_1
 DECL|function|m_gt_0
 DECL|function|m_gt_1
 DECL|function|mallocWithAlarm
+DECL|function|markTermAsChild
 DECL|function|matchQuality
 DECL|function|measureAllocationSize
 DECL|function|memTracePrint
@@ -732,6 +735,7 @@ DECL|function|multiSelect
 DECL|function|multiSelectCollSeq
 DECL|function|multiSelectOrderBy
 DECL|function|multiSelectOrderByKeyInfo
+DECL|function|multiSelectValues
 DECL|function|nameInUsingClause
 DECL|function|newDatabase
 DECL|function|newRowid
@@ -783,7 +787,10 @@ DECL|function|openStatTable
 DECL|function|openSubJournal
 DECL|function|operatorMask
 DECL|function|osLocaltime
+DECL|function|pageFindSlot
+DECL|function|pageFreeArray
 DECL|function|pageInJournal
+DECL|function|pageInsertArray
 DECL|function|pageReinit
 DECL|function|pagerAcquireMapPage
 DECL|function|pagerBeginReadTransaction
@@ -918,6 +925,7 @@ DECL|function|readInt64
 DECL|function|readJournalHdr
 DECL|function|readMasterJournal
 DECL|function|readsTable
+DECL|function|rebuildPage
 DECL|function|recordFunc
 DECL|function|registerTokenizer
 DECL|function|registerTrace
@@ -1029,6 +1037,7 @@ DECL|function|selectInnerLoop
 DECL|function|selectNodeIsConstant
 DECL|function|selectOpName
 DECL|function|selectPopWith
+DECL|function|selectWrongNumTermsError
 DECL|function|semCheckReservedLock
 DECL|function|semClose
 DECL|function|semLock
@@ -1307,6 +1316,7 @@ DECL|function|sqlite3ExprIsConstant
 DECL|function|sqlite3ExprIsConstantNotJoin
 DECL|function|sqlite3ExprIsConstantOrFunction
 DECL|function|sqlite3ExprIsInteger
+DECL|function|sqlite3ExprIsTableConstant
 DECL|function|sqlite3ExprListAppend
 DECL|function|sqlite3ExprListCheckLength
 DECL|function|sqlite3ExprListCompare
@@ -1431,6 +1441,9 @@ DECL|function|sqlite3HashClear
 DECL|function|sqlite3HashFind
 DECL|function|sqlite3HashInit
 DECL|function|sqlite3HashInsert
+DECL|function|sqlite3HeaderSizeBtree
+DECL|function|sqlite3HeaderSizePcache
+DECL|function|sqlite3HeaderSizePcache1
 DECL|function|sqlite3HeapNearlyFull
 DECL|function|sqlite3HexToBlob
 DECL|function|sqlite3HexToInt
@@ -1616,6 +1629,7 @@ DECL|function|sqlite3PagerCloseWal
 DECL|function|sqlite3PagerCodec
 DECL|function|sqlite3PagerCommitPhaseOne
 DECL|function|sqlite3PagerCommitPhaseTwo
+DECL|function|sqlite3PagerDataVersion
 DECL|function|sqlite3PagerDontWrite
 DECL|function|sqlite3PagerExclusiveLock
 DECL|function|sqlite3PagerFile
@@ -1645,6 +1659,7 @@ DECL|function|sqlite3PagerPagenumber
 DECL|function|sqlite3PagerReadFileheader
 DECL|function|sqlite3PagerRef
 DECL|function|sqlite3PagerRefcount
+DECL|function|sqlite3PagerRekey
 DECL|function|sqlite3PagerRollback
 DECL|function|sqlite3PagerSavepoint
 DECL|function|sqlite3PagerSetBusyhandler
@@ -1937,6 +1952,7 @@ DECL|function|sqlite3VdbeResetStepResult
 DECL|function|sqlite3VdbeResolveLabel
 DECL|function|sqlite3VdbeRewind
 DECL|function|sqlite3VdbeRunOnlyOnce
+DECL|function|sqlite3VdbeScanStatus
 DECL|function|sqlite3VdbeSerialGet
 DECL|function|sqlite3VdbeSerialPut
 DECL|function|sqlite3VdbeSerialType
@@ -2198,6 +2214,8 @@ DECL|function|sqlite3_status
 DECL|function|sqlite3_step
 DECL|function|sqlite3_stmt_busy
 DECL|function|sqlite3_stmt_readonly
+DECL|function|sqlite3_stmt_scanstatus
+DECL|function|sqlite3_stmt_scanstatus_reset
 DECL|function|sqlite3_stmt_status
 DECL|function|sqlite3_strglob
 DECL|function|sqlite3_stricmp
@@ -2359,6 +2377,7 @@ DECL|function|vacuumFinalize
 DECL|function|valueFromExpr
 DECL|function|valueNew
 DECL|function|valueToText
+DECL|function|vdbeAssertFieldCountWithinLimits
 DECL|function|vdbeCommit
 DECL|function|vdbeCompareMemString
 DECL|function|vdbeFreeOpArray
@@ -2466,6 +2485,7 @@ DECL|function|walMerge
 DECL|function|walMergesort
 DECL|function|walNextHash
 DECL|function|walPagesize
+DECL|function|walRestartHdr
 DECL|function|walRestartLog
 DECL|function|walShmBarrier
 DECL|function|walTryBeginRead
@@ -2665,6 +2685,7 @@ DECL|macro|BTREE_AUTOVACUUM_INCR
 DECL|macro|BTREE_AUTOVACUUM_NONE
 DECL|macro|BTREE_BLOBKEY
 DECL|macro|BTREE_BULKLOAD
+DECL|macro|BTREE_DATA_VERSION
 DECL|macro|BTREE_DEFAULT_CACHE_SIZE
 DECL|macro|BTREE_FILE_FORMAT
 DECL|macro|BTREE_FREE_PAGE_COUNT
@@ -2862,9 +2883,10 @@ DECL|macro|HASHTABLE_NSLOT
 DECL|macro|HAVE_FULLFSYNC
 DECL|macro|HAVE_FULLFSYNC
 DECL|macro|HAVE_LOCALTIME_S
+DECL|macro|HAVE_LOCALTIME_S
+DECL|macro|HAVE_LOCALTIME_S
 DECL|macro|HAVE_MREMAP
 DECL|macro|HAVE_MREMAP
-DECL|macro|HAVE_STRCHRNUL
 DECL|macro|HasRowid
 DECL|macro|INCRINIT_NORMAL
 DECL|macro|INCRINIT_ROOT
@@ -3317,6 +3339,7 @@ DECL|macro|PTRMAP_PAGENO
 DECL|macro|PTRMAP_PTROFFSET
 DECL|macro|PTRMAP_ROOTPAGE
 DECL|macro|PragFlag_NeedSchema
+DECL|macro|PragFlag_ReadOnly
 DECL|macro|PragTyp_ACTIVATE_EXTENSIONS
 DECL|macro|PragTyp_AUTO_VACUUM
 DECL|macro|PragTyp_BUSY_TIMEOUT
@@ -3407,6 +3430,7 @@ DECL|macro|SAVEPOINT_BEGIN
 DECL|macro|SAVEPOINT_RELEASE
 DECL|macro|SAVEPOINT_ROLLBACK
 DECL|macro|SAVE_SZ
+DECL|macro|SCHEMA_ENC
 DECL|macro|SCHEMA_TABLE
 DECL|macro|SELECTTRACE
 DECL|macro|SELECTTRACE
@@ -3415,6 +3439,7 @@ DECL|macro|SELECTTRACE_ENABLED
 DECL|macro|SETBIT
 DECL|macro|SET_FULLSYNC
 DECL|macro|SF_Aggregate
+DECL|macro|SF_AllValues
 DECL|macro|SF_Compound
 DECL|macro|SF_Distinct
 DECL|macro|SF_Expanded
@@ -3434,7 +3459,6 @@ DECL|macro|SLOT_4_2_0
 DECL|macro|SMALLEST_INT64
 DECL|macro|SMALLEST_INT64
 DECL|macro|SORTER_MAX_MERGE_COUNT
-DECL|macro|SORTER_MIN_WORKING
 DECL|macro|SORTFLAG_UseSorter
 DECL|macro|SPILLFLAG_NOSYNC
 DECL|macro|SPILLFLAG_OFF
@@ -3489,6 +3513,7 @@ DECL|macro|SQLITE_CANTOPEN_NOTEMPDIR
 DECL|macro|SQLITE_CHECKPOINT_FULL
 DECL|macro|SQLITE_CHECKPOINT_PASSIVE
 DECL|macro|SQLITE_CHECKPOINT_RESTART
+DECL|macro|SQLITE_CHECKPOINT_TRUNCATE
 DECL|macro|SQLITE_CONFIG_COVERING_INDEX_SCAN
 DECL|macro|SQLITE_CONFIG_GETMALLOC
 DECL|macro|SQLITE_CONFIG_GETMUTEX
@@ -3505,6 +3530,8 @@ DECL|macro|SQLITE_CONFIG_MUTEX
 DECL|macro|SQLITE_CONFIG_PAGECACHE
 DECL|macro|SQLITE_CONFIG_PCACHE
 DECL|macro|SQLITE_CONFIG_PCACHE2
+DECL|macro|SQLITE_CONFIG_PCACHE_HDRSZ
+DECL|macro|SQLITE_CONFIG_PMASZ
 DECL|macro|SQLITE_CONFIG_SCRATCH
 DECL|macro|SQLITE_CONFIG_SERIALIZED
 DECL|macro|SQLITE_CONFIG_SINGLETHREAD
@@ -3799,6 +3826,7 @@ DECL|macro|SQLITE_MAX_MMAP_SIZE_xc
 DECL|macro|SQLITE_MAX_PAGE_COUNT
 DECL|macro|SQLITE_MAX_PAGE_SIZE
 DECL|macro|SQLITE_MAX_PAGE_SIZE
+DECL|macro|SQLITE_MAX_PMASZ
 DECL|macro|SQLITE_MAX_SCHEMA_RETRY
 DECL|macro|SQLITE_MAX_SQL_LENGTH
 DECL|macro|SQLITE_MAX_TRIGGER_DEPTH
@@ -3927,6 +3955,12 @@ DECL|macro|SQLITE_RecTriggers
 DECL|macro|SQLITE_RecoveryMode
 DECL|macro|SQLITE_ReverseOrder
 DECL|macro|SQLITE_SAVEPOINT
+DECL|macro|SQLITE_SCANSTAT_EST
+DECL|macro|SQLITE_SCANSTAT_EXPLAIN
+DECL|macro|SQLITE_SCANSTAT_NAME
+DECL|macro|SQLITE_SCANSTAT_NLOOP
+DECL|macro|SQLITE_SCANSTAT_NVISIT
+DECL|macro|SQLITE_SCANSTAT_SELECTID
 DECL|macro|SQLITE_SCHEMA
 DECL|macro|SQLITE_SELECT
 DECL|macro|SQLITE_SET_LOCKPROXYFILE
@@ -3936,6 +3970,7 @@ DECL|macro|SQLITE_SHM_NLOCK
 DECL|macro|SQLITE_SHM_SHARED
 DECL|macro|SQLITE_SHM_UNLOCK
 DECL|macro|SQLITE_SKIP_UTF8
+DECL|macro|SQLITE_SORTER_PMASZ
 DECL|macro|SQLITE_SOURCE_ID
 DECL|macro|SQLITE_SO_ASC
 DECL|macro|SQLITE_SO_DESC
@@ -3965,7 +4000,7 @@ DECL|macro|SQLITE_SYNC_NORMAL
 DECL|macro|SQLITE_SYSTEM_MALLOC
 DECL|macro|SQLITE_ShortColNames
 DECL|macro|SQLITE_SqlTrace
-DECL|macro|SQLITE_Stat3
+DECL|macro|SQLITE_Stat34
 DECL|macro|SQLITE_SubqCoroutine
 DECL|macro|SQLITE_TEMP_FILE_PREFIX
 DECL|macro|SQLITE_TEMP_STORE
@@ -4470,6 +4505,7 @@ DECL|macro|WHERE_ONETABLE_ONLY
 DECL|macro|WHERE_ORDERBY_MAX
 DECL|macro|WHERE_ORDERBY_MIN
 DECL|macro|WHERE_ORDERBY_NORMAL
+DECL|macro|WHERE_PARTIALIDX
 DECL|macro|WHERE_REOPEN_IDX
 DECL|macro|WHERE_SKIPSCAN
 DECL|macro|WHERE_SORTBYGROUP
@@ -4541,6 +4577,7 @@ DECL|macro|_HWTIME_H_
 DECL|macro|_HWTIME_H_
 DECL|macro|_LARGEFILE_SOURCE
 DECL|macro|_LARGE_FILE
+DECL|macro|_MSVC_H_
 DECL|macro|_OS_COMMON_H_
 DECL|macro|_OS_COMMON_H_
 DECL|macro|_OS_COMMON_H_
@@ -4563,6 +4600,7 @@ DECL|macro|_USE_32BIT_TIME_T
 DECL|macro|_VDBEINT_H_
 DECL|macro|_WAL_H_
 DECL|macro|_XOPEN_SOURCE
+DECL|macro|addScanStatus
 DECL|macro|afpfsByteRangeLock2FSCTL
 DECL|macro|assertCellInfo
 DECL|macro|assertMutexHeld
@@ -4606,8 +4644,6 @@ DECL|macro|etSQLESCAPE3
 DECL|macro|etSRCLIST
 DECL|macro|etSTRING
 DECL|macro|etTOKEN
-DECL|macro|expensive_assert
-DECL|macro|expensive_assert
 DECL|macro|explainComposite
 DECL|macro|explainOneScan
 DECL|macro|explainSetInteger
@@ -4909,6 +4945,7 @@ DECL|macro|sqlite3VdbeIOTraceSql
 DECL|macro|sqlite3VdbeLeave
 DECL|macro|sqlite3VdbeMemExpandBlob
 DECL|macro|sqlite3VdbeMemSetDouble
+DECL|macro|sqlite3VdbeScanStatus
 DECL|macro|sqlite3ViewGetColumnNames
 DECL|macro|sqlite3VtabClear
 DECL|macro|sqlite3VtabCommit
@@ -5165,7 +5202,6 @@ DECL|macro|sqlite3_strglob
 DECL|macro|sqlite3_stricmp
 DECL|macro|sqlite3_strnicmp
 DECL|macro|sqlite3_table_column_metadata
-DECL|macro|sqlite3_table_column_metadata
 DECL|macro|sqlite3_test_control
 DECL|macro|sqlite3_thread_cleanup
 DECL|macro|sqlite3_threadsafe
@@ -5237,6 +5273,7 @@ DECL|macro|unixShmLock
 DECL|macro|unixShmMap
 DECL|macro|unixShmUnmap
 DECL|macro|unlikely
+DECL|macro|vdbeAssertFieldCountWithinLimits
 DECL|macro|vdbeInvokeSqllog
 DECL|macro|vdbeSorterBlockDebug
 DECL|macro|vdbeSorterExtendFile
@@ -5395,6 +5432,7 @@ DECL|member|aRowid
 DECL|member|aSalt
 DECL|member|aSample
 DECL|member|aSavepoint
+DECL|member|aScan
 DECL|member|aSegment
 DECL|member|aSemName
 DECL|member|aSortOrder
@@ -5422,15 +5460,19 @@ DECL|member|addrBody
 DECL|member|addrBrk
 DECL|member|addrCont
 DECL|member|addrCrTab
+DECL|member|addrExplain
 DECL|member|addrFillSub
 DECL|member|addrFirst
 DECL|member|addrInTop
+DECL|member|addrLoop
 DECL|member|addrNxt
 DECL|member|addrOpenEphm
 DECL|member|addrSkip
 DECL|member|addrSkipPK
 DECL|member|addrSortIndex
 DECL|member|addrTnct
+DECL|member|addrVisit
+DECL|member|addrVisit
 DECL|member|affSdst
 DECL|member|affinity
 DECL|member|affinity
@@ -5455,6 +5497,8 @@ DECL|member|anDLt
 DECL|member|anDLt
 DECL|member|anEq
 DECL|member|anEq
+DECL|member|anExec
+DECL|member|anExec
 DECL|member|anLt
 DECL|member|anLt
 DECL|member|anOutput
@@ -5734,6 +5778,7 @@ DECL|member|doclist
 DECL|member|doingRerun
 DECL|member|done
 DECL|member|done
+DECL|member|eCode
 DECL|member|eCoordType
 DECL|member|eCreate
 DECL|member|eDest
@@ -5760,6 +5805,7 @@ DECL|member|eType
 DECL|member|eWithin
 DECL|member|eWithin
 DECL|member|enable_shared_cache
+DECL|member|enc
 DECL|member|enc
 DECL|member|enc
 DECL|member|enc
@@ -5836,6 +5882,7 @@ DECL|member|hMap
 DECL|member|hMutex
 DECL|member|hPending
 DECL|member|hShared
+DECL|member|hasBeenUsed
 DECL|member|hasCompound
 DECL|member|hasMutex
 DECL|member|hasMutex
@@ -5848,7 +5895,6 @@ DECL|member|ht
 DECL|member|ht
 DECL|member|htsize
 DECL|member|htsize
-DECL|member|i
 DECL|member|i
 DECL|member|i
 DECL|member|i
@@ -5890,10 +5936,13 @@ DECL|member|iConstExprReg
 DECL|member|iContinue
 DECL|member|iCoord
 DECL|member|iCur
+DECL|member|iCur
 DECL|member|iCurrent
 DECL|member|iCurrentBlock
 DECL|member|iCurrentTime
 DECL|member|iCursor
+DECL|member|iDataVersion
+DECL|member|iDataVersion
 DECL|member|iDb
 DECL|member|iDb
 DECL|member|iDb
@@ -6003,6 +6052,7 @@ DECL|member|iRowid
 DECL|member|iSDParm
 DECL|member|iSavepoint
 DECL|member|iSdst
+DECL|member|iSelectID
 DECL|member|iSelectId
 DECL|member|iSelectId
 DECL|member|iSize
@@ -6256,6 +6306,7 @@ DECL|member|n
 DECL|member|n
 DECL|member|n
 DECL|member|n
+DECL|member|n
 DECL|member|n90pct
 DECL|member|nAccumulator
 DECL|member|nAdvance
@@ -6325,6 +6376,7 @@ DECL|member|nData
 DECL|member|nData
 DECL|member|nData
 DECL|member|nDb
+DECL|member|nDbChange
 DECL|member|nDeferredCons
 DECL|member|nDeferredCons
 DECL|member|nDeferredImmCons
@@ -6344,6 +6396,7 @@ DECL|member|nEquiv
 DECL|member|nErr
 DECL|member|nErr
 DECL|member|nErr
+DECL|member|nEst
 DECL|member|nException
 DECL|member|nExpr
 DECL|member|nExt
@@ -6493,6 +6546,7 @@ DECL|member|nRow
 DECL|member|nRow
 DECL|member|nRowAvg
 DECL|member|nRowEst
+DECL|member|nRowEst0
 DECL|member|nRowLogEst
 DECL|member|nRowOut
 DECL|member|nRowid
@@ -6501,6 +6555,7 @@ DECL|member|nSample
 DECL|member|nSampleCol
 DECL|member|nSavepoint
 DECL|member|nSavepoint
+DECL|member|nScan
 DECL|member|nScratch
 DECL|member|nScratchFree
 DECL|member|nSdst
@@ -6584,6 +6639,7 @@ DECL|member|next_stmt
 DECL|member|noCase
 DECL|member|noLock
 DECL|member|noPayload
+DECL|member|noSkipScan
 DECL|member|noSync
 DECL|member|notIndexed
 DECL|member|notNull
@@ -6792,7 +6848,6 @@ DECL|member|pIter
 DECL|member|pKey
 DECL|member|pKey
 DECL|member|pKey
-DECL|member|pKeyInfo
 DECL|member|pKeyInfo
 DECL|member|pKeyInfo
 DECL|member|pKeyInfo
@@ -7264,6 +7319,7 @@ DECL|member|szPage
 DECL|member|szPage
 DECL|member|szPage
 DECL|member|szPage
+DECL|member|szPma
 DECL|member|szRegion
 DECL|member|szRegion
 DECL|member|szRow
@@ -7625,6 +7681,7 @@ DECL|member|zName
 DECL|member|zName
 DECL|member|zName
 DECL|member|zName
+DECL|member|zName
 DECL|member|zPath
 DECL|member|zPath
 DECL|member|zPfx
@@ -7775,6 +7832,7 @@ DECL|struct|SQLiteThread
 DECL|struct|SQLiteThread
 DECL|struct|SQLiteThread
 DECL|struct|Savepoint
+DECL|struct|ScanStatus
 DECL|struct|Schema
 DECL|struct|ScratchFreeslot
 DECL|struct|SegmentNode
@@ -8023,6 +8081,7 @@ DECL|typedef|RtreeValue
 DECL|typedef|RtreeValue
 DECL|typedef|SQLiteThread
 DECL|typedef|Savepoint
+DECL|typedef|ScanStatus
 DECL|typedef|Schema
 DECL|typedef|ScratchFreeslot
 DECL|typedef|SegmentNode
