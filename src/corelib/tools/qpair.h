@@ -1,7 +1,6 @@
-DECL|function|QPair
-DECL|function|QPair
-DECL|function|QPair
-DECL|function|QPair
+DECL|function|T2
+DECL|function|T2
+DECL|function|T2
 DECL|function|noexcept
 DECL|function|noexcept
 DECL|function|noexcept
