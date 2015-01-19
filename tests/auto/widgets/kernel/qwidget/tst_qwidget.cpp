@@ -194,6 +194,7 @@ DECL|function|moveRect
 DECL|function|moveWindowInShowEvent
 DECL|function|moveWindowInShowEvent_data
 DECL|function|movedAndResizedAttributes
+DECL|function|msgComparisonFailed
 DECL|function|msgEventListMismatch
 DECL|function|msgExpectFailQtBug26424
 DECL|function|msgRgbMismatch
