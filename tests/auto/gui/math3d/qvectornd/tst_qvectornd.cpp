@@ -78,6 +78,8 @@ DECL|function|normalized3
 DECL|function|normalized3_data
 DECL|function|normalized4
 DECL|function|normalized4_data
+DECL|function|project
+DECL|function|project_data
 DECL|function|properties
 DECL|function|setVector2D
 DECL|function|setVector3D
@@ -90,6 +92,8 @@ DECL|function|subtract4
 DECL|function|subtract4_data
 DECL|function|tst_QVectorND
 DECL|function|tst_QVectorNDProperties
+DECL|function|unproject
+DECL|function|unproject_data
 DECL|function|vector2D
 DECL|function|vector3D
 DECL|function|vector4D

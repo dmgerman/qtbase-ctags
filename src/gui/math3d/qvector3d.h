@@ -13,5 +13,6 @@ DECL|function|z
 DECL|macro|QVECTOR3D_H
 DECL|member|operator
 DECL|variable|QMatrix4x4
+DECL|variable|QRect
 DECL|variable|QVector2D
 DECL|variable|QVector4D

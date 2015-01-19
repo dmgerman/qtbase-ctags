@@ -17,5 +17,7 @@ DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator >>
 DECL|function|operator QVariant
+DECL|function|project
 DECL|function|toVector2D
 DECL|function|toVector4D
+DECL|function|unproject
