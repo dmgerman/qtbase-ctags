@@ -114,6 +114,7 @@ DECL|function|updateTransientParent
 DECL|function|validSize
 DECL|function|windowEvent
 DECL|function|windowIsOpenGL
+DECL|function|windowPlacementOffset
 DECL|function|~QWindowsWindow
 DECL|member|desktop
 DECL|member|dialog
