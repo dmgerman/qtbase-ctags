@@ -1,2 +1,2 @@
 DECL|variable|QIOSScreen
-DECL|variable|prefersStatusBarHidden
+DECL|variable|preferredStatusBarUpdateAnimation
