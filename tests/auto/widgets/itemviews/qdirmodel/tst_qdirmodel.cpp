@@ -7,6 +7,7 @@ DECL|function|filter
 DECL|function|getSetCheck
 DECL|function|hidden
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|mkdir
 DECL|function|mkdir_data
 DECL|function|rmdir

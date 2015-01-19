@@ -28,6 +28,7 @@ DECL|function|_q_newHsv
 DECL|function|_q_newStandard
 DECL|function|_q_nextCustom
 DECL|function|_q_pickScreenColor
+DECL|function|_q_updateColorPicking
 DECL|function|canBeNativeDialog
 DECL|function|cellBrush
 DECL|function|cellGeometry
@@ -143,6 +144,7 @@ DECL|function|standardColor
 DECL|function|testOption
 DECL|function|updateCell
 DECL|function|updateColorLabelText
+DECL|function|updateColorPicking
 DECL|function|updateQColor
 DECL|function|val2y
 DECL|function|y2val

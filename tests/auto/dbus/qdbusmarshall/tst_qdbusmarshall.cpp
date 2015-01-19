@@ -6,6 +6,7 @@ DECL|function|basicNumericTypes_data
 DECL|function|basicStringTypes_data
 DECL|function|cleanup
 DECL|function|cleanup
+DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|demarshallAsString
 DECL|function|demarshallInvalidByteArray
@@ -52,8 +53,9 @@ DECL|member|proc
 DECL|member|tempFile
 DECL|member|value
 DECL|struct|DisconnectRawDBus
-DECL|struct|GenericUnref
 DECL|struct|SetResetValue
+DECL|struct|UnrefDBusMessage
+DECL|struct|UnrefDBusPendingCall
 DECL|struct|UnregisteredType
 DECL|typedef|ScopedDBusConnection
 DECL|typedef|ScopedDBusMessage

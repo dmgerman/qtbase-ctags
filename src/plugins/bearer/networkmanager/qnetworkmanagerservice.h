@@ -18,6 +18,7 @@ DECL|enumerator|NM_DEVICE_STATE_UNAVAILABLE
 DECL|enumerator|NM_DEVICE_STATE_UNKNOWN
 DECL|enumerator|NM_DEVICE_STATE_UNMANAGED
 DECL|enum|NMDeviceType
+DECL|function|QT_PREPEND_NAMESPACE
 DECL|macro|NM_802_11_AP_FLAGS_NONE
 DECL|macro|NM_802_11_AP_FLAGS_PRIVACY
 DECL|macro|NM_DBUS_IFACE_SETTINGS
@@ -43,12 +44,3 @@ DECL|typedef|NMDeviceType
 DECL|typedef|QNmSettingsMap
 DECL|typedef|QString
 DECL|typedef|ServerThing
-DECL|variable|QNetworkManagerConnectionActivePrivate
-DECL|variable|QNetworkManagerInterfaceAccessPointPrivate
-DECL|variable|QNetworkManagerInterfaceDeviceModemPrivate
-DECL|variable|QNetworkManagerInterfaceDevicePrivate
-DECL|variable|QNetworkManagerInterfaceDeviceWiredPrivate
-DECL|variable|QNetworkManagerInterfaceDeviceWirelessPrivate
-DECL|variable|QNetworkManagerIp4ConfigPrivate
-DECL|variable|QNetworkManagerSettingsConnectionPrivate
-DECL|variable|QNetworkManagerSettingsPrivate

@@ -87,6 +87,7 @@ DECL|function|drawRect_task215378
 DECL|function|drawRect_task247505
 DECL|function|drawRoundRect
 DECL|function|drawRoundRect_data
+DECL|function|drawTextNoHinting
 DECL|function|drawTextOpacity
 DECL|function|drawTextOutsideGuiThread
 DECL|function|drawTextWithComplexBrush
