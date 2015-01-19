@@ -43,7 +43,6 @@ DECL|function|number
 DECL|function|number
 DECL|function|operator <<
 DECL|function|operator =
-DECL|function|operator =
 DECL|function|operator >>
 DECL|function|prepend
 DECL|function|prepend

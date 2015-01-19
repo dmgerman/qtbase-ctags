@@ -1,6 +1,5 @@
 DECL|function|QVariant
 DECL|function|QVariant
-DECL|function|QVariant
 DECL|function|isDetached
 DECL|function|isValid
 DECL|function|operator

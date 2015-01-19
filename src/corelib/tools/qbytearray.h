@@ -1,5 +1,3 @@
-DECL|function|QByteArray
-DECL|function|QByteArray
 DECL|function|at
 DECL|function|begin
 DECL|function|begin
@@ -9,6 +7,7 @@ DECL|function|cend
 DECL|function|constBegin
 DECL|function|constData
 DECL|function|constEnd
+DECL|function|d
 DECL|function|data
 DECL|function|data
 DECL|function|data_ptr
@@ -28,6 +27,7 @@ DECL|function|qstrlen
 DECL|function|qstrncmp
 DECL|function|qstrnlen
 DECL|function|reserve
+DECL|function|sharedNull
 DECL|function|size
 DECL|function|squeeze
 DECL|function|~QByteArray
