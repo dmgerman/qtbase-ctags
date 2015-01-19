@@ -1,3 +1,5 @@
+DECL|function|QXdgDBusImageStruct
+DECL|function|QXdgDBusImageStruct
 DECL|macro|QDBUSTRAYTYPES_P_H
 DECL|member|data
 DECL|member|height
