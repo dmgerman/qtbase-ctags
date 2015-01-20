@@ -1,7 +1,4 @@
 DECL|class|tst_QString
-DECL|enumerator|BigEndian
-DECL|enumerator|ByteOrder
-DECL|enumerator|LittleEndian
 DECL|function|QCharRefDetaching
 DECL|function|QCharRefMutableUnicode
 DECL|function|STL
@@ -57,7 +54,6 @@ DECL|function|indexOf2_data
 DECL|function|indexOf3_data
 DECL|function|indexOfInvalidRegex
 DECL|function|indexOf_data
-DECL|function|inf
 DECL|function|insert
 DECL|function|integer_conversion
 DECL|function|integer_conversion_data
@@ -83,7 +79,6 @@ DECL|function|localeAwareCompare_data
 DECL|function|macTypes
 DECL|function|mid
 DECL|function|midRef
-DECL|function|nan
 DECL|function|nanAndInf
 DECL|function|nullFromUtf8
 DECL|function|number
@@ -204,13 +199,7 @@ DECL|macro|CHECK_INF
 DECL|macro|CHECK_NAN
 DECL|macro|CHECK_NAN
 DECL|macro|CREATE_REF
-DECL|macro|INFINITY
-DECL|macro|INFINITY
-DECL|macro|INFINITY
 DECL|macro|MY_DOUBLE_EPSILON
-DECL|macro|NAN
-DECL|macro|NAN
-DECL|macro|NAN
 DECL|macro|QCOMPARE
 DECL|macro|QCOMPARE
 DECL|macro|QSTRING_FROM_QCHARARRAY
@@ -239,15 +228,8 @@ DECL|macro|TEST_TO_INT
 DECL|macro|TEST_TO_INT
 DECL|macro|TEST_TO_UINT
 DECL|macro|TEST_TO_UINT
-DECL|macro|isnan
-DECL|macro|isnan
-DECL|macro|isnan
 DECL|member|string
 DECL|member|string
 DECL|struct|StringSplitWrapper
 DECL|struct|StringSplitWrapper
 DECL|typedef|IntList
-DECL|variable|be_inf_bytes
-DECL|variable|be_nan_bytes
-DECL|variable|le_inf_bytes
-DECL|variable|le_nan_bytes
