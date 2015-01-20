@@ -1,4 +1,5 @@
 DECL|class|tst_QPluginLoader
+DECL|function|absolutePath
 DECL|function|cleanup
 DECL|function|deleteinstanceOnUnload
 DECL|function|errorString
