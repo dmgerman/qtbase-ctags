@@ -152,5 +152,9 @@ DECL|function|weekNumber
 DECL|function|year
 DECL|function|zoneMSecsToEpochMSecs
 DECL|function|~QDateTime
+DECL|member|day
+DECL|member|month
+DECL|member|year
+DECL|struct|ParsedDate
 DECL|variable|monthDays
 DECL|variable|qt_shortMonthNames
