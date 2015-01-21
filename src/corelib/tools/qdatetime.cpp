@@ -152,9 +152,13 @@ DECL|function|weekNumber
 DECL|function|year
 DECL|function|zoneMSecsToEpochMSecs
 DECL|function|~QDateTime
+DECL|member|date
 DECL|member|day
 DECL|member|month
+DECL|member|time
+DECL|member|utcOffset
 DECL|member|year
 DECL|struct|ParsedDate
+DECL|struct|ParsedRfcDateTime
 DECL|variable|monthDays
 DECL|variable|qt_shortMonthNames
