@@ -37,6 +37,6 @@ DECL|typedef|KeysAndNodes
 DECL|typedef|MemberMap
 DECL|typedef|QString
 DECL|typedef|QStringList
-DECL|typedef|QmlClassNode
-DECL|typedef|QmlClassNode
+DECL|typedef|QmlTypeNode
+DECL|typedef|QmlTypeNode
 DECL|variable|Config

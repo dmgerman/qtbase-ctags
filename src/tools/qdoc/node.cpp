@@ -12,9 +12,9 @@ DECL|function|Parameter
 DECL|function|Parameter
 DECL|function|PropertyNode
 DECL|function|QmlBasicTypeNode
-DECL|function|QmlClassNode
 DECL|function|QmlPropertyGroupNode
 DECL|function|QmlPropertyNode
+DECL|function|QmlTypeNode
 DECL|function|TypedefNode
 DECL|function|accessString
 DECL|function|accessString
@@ -132,7 +132,7 @@ DECL|function|toFlagValue
 DECL|function|tree
 DECL|function|~InnerNode
 DECL|function|~Node
-DECL|function|~QmlClassNode
+DECL|function|~QmlTypeNode
 DECL|member|goals_
 DECL|member|inheritedBy
 DECL|member|operators_
