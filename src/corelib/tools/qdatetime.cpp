@@ -104,6 +104,7 @@ DECL|function|qHash
 DECL|function|qt_localtime
 DECL|function|qt_mktime
 DECL|function|qt_monthNumberFromShortName
+DECL|function|qt_monthNumberFromShortName
 DECL|function|qt_timezone
 DECL|function|qt_tzname
 DECL|function|qt_tzset
