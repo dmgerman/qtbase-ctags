@@ -71,7 +71,6 @@ DECL|function|resize
 DECL|function|resize
 DECL|function|resizeEvent
 DECL|function|screen
-DECL|function|screenDestroyed
 DECL|function|setBaseSize
 DECL|function|setCursor
 DECL|function|setCursor
