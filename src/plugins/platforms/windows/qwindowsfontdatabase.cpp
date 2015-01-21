@@ -12,6 +12,7 @@ DECL|function|EmbeddedFont
 DECL|function|GetFileSize
 DECL|function|GetLastWriteTime
 DECL|function|LOGFONT_to_QFont
+DECL|function|PopulateFamiliesContext
 DECL|function|QWindowsFontDatabase
 DECL|function|QWindowsFontEngineData
 DECL|function|QueryInterface
@@ -49,8 +50,9 @@ DECL|function|initDirectWrite
 DECL|function|loader
 DECL|function|localizedName
 DECL|function|operator <<
-DECL|function|populate
+DECL|function|populateFamily
 DECL|function|populateFontDatabase
+DECL|function|populateFontFamilies
 DECL|function|refUniqueFont
 DECL|function|releaseHandle
 DECL|function|removeApplicationFonts
@@ -107,6 +109,7 @@ DECL|member|platformID
 DECL|member|rangeShift
 DECL|member|scalerType
 DECL|member|searchRange
+DECL|member|seenSystemDefaultFont
 DECL|member|selection
 DECL|member|strikeOutPosition
 DECL|member|strikeOutSize
@@ -119,6 +122,7 @@ DECL|member|superscriptXOffset
 DECL|member|superscriptXSize
 DECL|member|superscriptYOffset
 DECL|member|superscriptYSize
+DECL|member|systemDefaultFont
 DECL|member|type
 DECL|member|typoAscender
 DECL|member|typoDescender
@@ -134,6 +138,7 @@ DECL|struct|NameRecord
 DECL|struct|NameTable
 DECL|struct|OS2Table
 DECL|struct|OffsetSubTable
+DECL|struct|PopulateFamiliesContext
 DECL|struct|TableDirectory
 DECL|typedef|FontEngineThreadLocalData
 DECL|typedef|QWindowsFontEngineDataPtr
