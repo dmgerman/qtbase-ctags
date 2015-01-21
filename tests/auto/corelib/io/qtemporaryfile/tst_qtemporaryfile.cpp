@@ -1,4 +1,5 @@
 DECL|class|tst_QTemporaryFile
+DECL|function|ChdirOnReturn
 DECL|function|QTBUG_4796
 DECL|function|QTBUG_4796_data
 DECL|function|autoRemove
@@ -28,3 +29,6 @@ DECL|function|setTemplateAfterOpen
 DECL|function|size
 DECL|function|stressTest
 DECL|function|write
+DECL|function|~ChdirOnReturn
+DECL|member|dir
+DECL|struct|ChdirOnReturn

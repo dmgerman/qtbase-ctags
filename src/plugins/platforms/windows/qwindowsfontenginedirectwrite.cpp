@@ -12,6 +12,7 @@ DECL|function|Release
 DECL|function|SetFillMode
 DECL|function|SetSegmentFlags
 DECL|function|addGlyphsToPath
+DECL|function|alphaMapBoundingBox
 DECL|function|alphaMapForGlyph
 DECL|function|alphaRGBMapForGlyph
 DECL|function|ascent

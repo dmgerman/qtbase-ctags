@@ -6,5 +6,6 @@ DECL|variable|QColorShower
 DECL|variable|QDialogButtonBox
 DECL|variable|QLabel
 DECL|variable|QPushButton
+DECL|variable|QTimer
 DECL|variable|QVBoxLayout
 DECL|variable|QWellArray

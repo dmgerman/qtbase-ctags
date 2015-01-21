@@ -36,9 +36,11 @@ DECL|function|isPrefixOf_data
 DECL|function|moveSemantics
 DECL|function|normalized
 DECL|function|normalized_data
+DECL|function|operator +
 DECL|function|serialize
 DECL|function|serialize_data
 DECL|function|singleInstanceData
 DECL|function|toString
 DECL|function|toString_data
 DECL|macro|Q_MSVC_2010
+DECL|namespace|UglyOperator

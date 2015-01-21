@@ -9,6 +9,7 @@ DECL|function|currentDirectory
 DECL|function|currentFileName
 DECL|function|currentProFile
 DECL|function|debugMsgInternal
+DECL|function|defaultMsvcArchitecture
 DECL|function|evaluateBoolFunction
 DECL|function|evaluateCommand
 DECL|function|evaluateConditional
@@ -40,6 +41,8 @@ DECL|function|loadSpec
 DECL|function|loadSpecInternal
 DECL|function|map
 DECL|function|message
+DECL|function|msvcArchitecture
+DECL|function|msvcBinDirToQMakeArch
 DECL|function|operator ==
 DECL|function|prepareFunctionArgs
 DECL|function|prepareProject
