@@ -59,7 +59,6 @@ DECL|function|removeKey
 DECL|function|sharedFontData
 DECL|function|sharedFontData
 DECL|function|storeFont
-DECL|function|storeFontSub
 DECL|function|systemDefaultFont
 DECL|function|systemFont
 DECL|function|tableDirectoryEntry
