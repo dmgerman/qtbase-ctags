@@ -1,1 +1,2 @@
 DECL|macro|QIOSBACKINGSTORE_H
+DECL|variable|QOpenGLPaintDevice
