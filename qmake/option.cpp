@@ -14,7 +14,7 @@ DECL|function|postProcessProject
 DECL|function|prepareProject
 DECL|function|qmakeAddCacheClear
 DECL|function|qmakeClearCaches
-DECL|function|qt_libraryInfoFile
+DECL|function|qmake_libraryInfoFile
 DECL|function|usage
 DECL|function|warn_msg
 DECL|function|~QMakeCacheClearItem
