@@ -1,5 +1,6 @@
 DECL|class|BaseObject
 DECL|class|MyObject
+DECL|class|MyObjectWithoutInterface
 DECL|class|MyServer
 DECL|class|MyServer2
 DECL|class|QDBusSpy
@@ -9,6 +10,7 @@ DECL|class|VirtualObject
 DECL|class|tst_QDBusConnection
 DECL|function|BaseObject
 DECL|function|MyObject
+DECL|function|MyObjectWithoutInterface
 DECL|function|MyServer
 DECL|function|MyServer2
 DECL|function|RaceConditionSignalWaiter
@@ -16,6 +18,7 @@ DECL|function|TestObject
 DECL|function|VirtualObject
 DECL|function|anotherMethod
 DECL|function|asyncReply
+DECL|function|callMethod
 DECL|function|callMethod
 DECL|function|callMethodPeer
 DECL|function|callSelf
@@ -35,6 +38,7 @@ DECL|function|handleMessage
 DECL|function|handlePing
 DECL|function|introspect
 DECL|function|method
+DECL|function|method
 DECL|function|multipleInterfacesInQObject
 DECL|function|nestedCallWithCallback
 DECL|function|noConnection
@@ -46,6 +50,8 @@ DECL|function|registerObject2
 DECL|function|registerObjectPeer
 DECL|function|registerObjectPeer2
 DECL|function|registerObjectPeer_data
+DECL|function|registerObjectWithInterface
+DECL|function|registerObjectWithInterface_data
 DECL|function|registerObject_data
 DECL|function|registerQObjectChildren
 DECL|function|registerQObjectChildrenPeer
@@ -68,14 +74,19 @@ DECL|function|~TestObject
 DECL|member|args
 DECL|member|callCount
 DECL|member|callCount
+DECL|member|callCount
 DECL|member|count
 DECL|member|func
+DECL|member|interface
+DECL|member|interface
 DECL|member|lastMessage
 DECL|member|m_conn
 DECL|member|m_connections
 DECL|member|m_obj
 DECL|member|m_obj
 DECL|member|m_path
+DECL|member|path
+DECL|member|path
 DECL|member|path
 DECL|member|path
 DECL|member|replyArguments
