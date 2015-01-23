@@ -24,6 +24,7 @@ DECL|function|resizeEvent
 DECL|function|resizeGL
 DECL|function|shareContext
 DECL|function|updateBehavior
+DECL|function|~QOpenGLWindow
 DECL|function|~QOpenGLWindowPrivate
 DECL|macro|GL_DRAW_FRAMEBUFFER
 DECL|macro|GL_READ_FRAMEBUFFER
