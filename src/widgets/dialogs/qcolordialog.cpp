@@ -43,7 +43,6 @@ DECL|function|cellRect
 DECL|function|cellWidth
 DECL|function|changeEvent
 DECL|function|colPt
-DECL|function|colorDialog
 DECL|function|columnAt
 DECL|function|columnX
 DECL|function|currentAlpha
@@ -55,7 +54,6 @@ DECL|function|currentQColor
 DECL|function|currentQColor
 DECL|function|customColor
 DECL|function|customCount
-DECL|function|done
 DECL|function|done
 DECL|function|dragEnterEvent
 DECL|function|dragEnterEvent
@@ -216,7 +214,6 @@ DECL|member|curQColor
 DECL|member|curRow
 DECL|member|custom
 DECL|member|d
-DECL|member|delegate
 DECL|member|dummyTransparentWindow
 DECL|member|gEd
 DECL|member|gl
@@ -266,8 +263,6 @@ DECL|member|screenColorPicking
 DECL|member|selCol
 DECL|member|selRow
 DECL|member|selectedQColor
-DECL|member|sharedColorPanelAvailable
-DECL|member|sharedColorPanelAvailable
 DECL|member|smallDisplay
 DECL|member|standard
 DECL|member|updateTimer
