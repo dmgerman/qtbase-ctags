@@ -71,9 +71,11 @@ DECL|function|isWrapper
 DECL|function|isWritable
 DECL|function|itemAccess
 DECL|function|itemValue
+DECL|function|logicalModuleIdentifier
+DECL|function|logicalModuleName
+DECL|function|logicalModuleVersion
 DECL|function|makeUndocumentedChildrenInternal
 DECL|function|match
-DECL|function|moduleName
 DECL|function|nodeSubtypeString
 DECL|function|nodeSubtypeString
 DECL|function|nodeTypeString
@@ -86,6 +88,7 @@ DECL|function|overloads
 DECL|function|pageTypeString
 DECL|function|pageTypeString
 DECL|function|parameterNames
+DECL|function|physicalModuleName
 DECL|function|plainFullName
 DECL|function|plainName
 DECL|function|primaryKeys
@@ -94,9 +97,6 @@ DECL|function|printMembers
 DECL|function|qmlBaseNode
 DECL|function|qmlClassNode
 DECL|function|qmlFullBaseName
-DECL|function|qmlModuleIdentifier
-DECL|function|qmlModuleName
-DECL|function|qmlModuleVersion
 DECL|function|qualifiedDataType
 DECL|function|rawParameters
 DECL|function|reconstruct
