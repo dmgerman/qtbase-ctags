@@ -1,4 +1,6 @@
+DECL|class|QtQHashSeedSaver
 DECL|class|tst_QSet
+DECL|function|QtQHashSeedSaver
 DECL|function|begin
 DECL|function|capacity
 DECL|function|clear
@@ -25,6 +27,9 @@ DECL|function|stlIterator
 DECL|function|stlMutableIterator
 DECL|function|swap
 DECL|function|toNumber
+DECL|function|~QtQHashSeedSaver
 DECL|member|id
+DECL|member|newSeed
+DECL|member|oldSeed
 DECL|member|value
 DECL|struct|IdentityTracker
