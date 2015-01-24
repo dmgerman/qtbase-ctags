@@ -25,6 +25,7 @@ DECL|function|compareModels
 DECL|function|createChildren
 DECL|function|data
 DECL|function|findItems
+DECL|function|getMimeDataWithInvalidModelIndex
 DECL|function|getSetHeaderItem
 DECL|function|getSetItemData
 DECL|function|getSetItemPrototype
