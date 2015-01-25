@@ -1,3 +1,4 @@
+DECL|class|ArgMapper
 DECL|class|qt_section_chunk
 DECL|function|QString
 DECL|function|QString
@@ -16,6 +17,7 @@ DECL|function|arg
 DECL|function|arg
 DECL|function|arg
 DECL|function|arg
+DECL|function|assignArgumentNumberToEachOfTheNs
 DECL|function|caseDiff
 DECL|function|caseDiff
 DECL|function|caseDiff
@@ -56,6 +58,7 @@ DECL|function|extractSections
 DECL|function|fill
 DECL|function|findArgEscapes
 DECL|function|findChar
+DECL|function|found
 DECL|function|fromAscii_helper
 DECL|function|fromLatin1_helper
 DECL|function|fromLocal8Bit_helper
@@ -113,6 +116,7 @@ DECL|function|number
 DECL|function|number
 DECL|function|number
 DECL|function|number
+DECL|function|numberToArgsIndex
 DECL|function|operator <
 DECL|function|operator <
 DECL|function|operator <
@@ -263,18 +267,22 @@ DECL|macro|LLONG_MIN
 DECL|macro|REHASH
 DECL|macro|ULLONG_MAX
 DECL|macro|truncate
+DECL|member|argPosToNumberMap
 DECL|member|escape_len
+DECL|member|lastNumber
 DECL|member|len
 DECL|member|length
 DECL|member|locale_occurrences
 DECL|member|min_escape
 DECL|member|no
 DECL|member|null
+DECL|member|numArgs
 DECL|member|occurrences
 DECL|member|pos
 DECL|member|string
 DECL|namespace|QUnicodeTables
 DECL|struct|ArgEscapeData
+DECL|struct|AssignmentResult
 DECL|struct|CasefoldTraits
 DECL|struct|LowercaseTraits
 DECL|struct|QStringCapture
