@@ -2,6 +2,7 @@ DECL|function|QQuaternion
 DECL|function|QQuaternion
 DECL|function|QQuaternion
 DECL|function|conjugate
+DECL|function|inverted
 DECL|function|isIdentity
 DECL|function|isNull
 DECL|function|scalar

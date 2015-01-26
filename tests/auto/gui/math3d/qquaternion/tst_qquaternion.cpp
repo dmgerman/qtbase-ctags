@@ -10,6 +10,8 @@ DECL|function|divide
 DECL|function|divide_data
 DECL|function|fromAxisAndAngle
 DECL|function|fromAxisAndAngle_data
+DECL|function|inverted
+DECL|function|inverted_data
 DECL|function|length
 DECL|function|length_data
 DECL|function|metaTypes
