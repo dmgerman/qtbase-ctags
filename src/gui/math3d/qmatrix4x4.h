@@ -2,6 +2,7 @@ DECL|function|QMatrix4x4
 DECL|function|QMatrix4x4
 DECL|function|column
 DECL|function|fill
+DECL|function|isAffine
 DECL|function|isIdentity
 DECL|function|operator
 DECL|function|operator
