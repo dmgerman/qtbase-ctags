@@ -30,6 +30,12 @@ DECL|function|divide3
 DECL|function|divide3_data
 DECL|function|divide4
 DECL|function|divide4_data
+DECL|function|divideFactor2
+DECL|function|divideFactor2_data
+DECL|function|divideFactor3
+DECL|function|divideFactor3_data
+DECL|function|divideFactor4
+DECL|function|divideFactor4_data
 DECL|function|dotProduct2
 DECL|function|dotProduct2_data
 DECL|function|dotProduct3
