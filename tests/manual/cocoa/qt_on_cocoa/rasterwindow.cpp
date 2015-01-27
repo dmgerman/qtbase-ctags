@@ -1,5 +1,4 @@
-DECL|function|Window
-DECL|function|Window
+DECL|function|RasterWindow
 DECL|function|exposeEvent
 DECL|function|initialize
 DECL|function|keyPressEvent
