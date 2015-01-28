@@ -14,6 +14,7 @@ DECL|function|testQConicalGradientSetters
 DECL|function|testQGradientCopyConstructor
 DECL|function|testQLinearGradientSetters
 DECL|function|testQRadialGradientSetters
+DECL|function|textureBrushComparison
 DECL|function|textureBrushStream
 DECL|function|textures
 DECL|function|tst_QBrush
