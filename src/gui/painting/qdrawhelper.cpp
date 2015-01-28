@@ -142,6 +142,7 @@ DECL|function|convertA2RGB30PMFromARGB32PM
 DECL|function|convertA2RGB30PMToARGB32PM
 DECL|function|convertARGB32FromARGB32PM
 DECL|function|convertARGB32ToARGB32PM
+DECL|function|convertARGB32ToARGB32PM_sse4
 DECL|function|convertARGBPMFromARGB32PM
 DECL|function|convertARGBPMToARGB32PM
 DECL|function|convertAlpha8FromARGB32PM
@@ -162,6 +163,7 @@ DECL|function|convertRGBA8888FromARGB32PM
 DECL|function|convertRGBA8888PMFromARGB32PM
 DECL|function|convertRGBA8888PMToARGB32PM
 DECL|function|convertRGBA8888ToARGB32PM
+DECL|function|convertRGBA8888ToARGB32PM_sse4
 DECL|function|convertRGBFromARGB32PM
 DECL|function|convertRGBFromRGB32
 DECL|function|convertRGBXFromARGB32PM

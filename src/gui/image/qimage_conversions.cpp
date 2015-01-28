@@ -13,9 +13,11 @@ DECL|function|convert_ARGB_PM_to_RGBx
 DECL|function|convert_ARGB_to_A2RGB30
 DECL|function|convert_ARGB_to_ARGB_PM
 DECL|function|convert_ARGB_to_ARGB_PM_inplace
+DECL|function|convert_ARGB_to_ARGB_PM_sse4
 DECL|function|convert_ARGB_to_Indexed8
 DECL|function|convert_ARGB_to_RGBA
 DECL|function|convert_ARGB_to_RGBA_PM
+DECL|function|convert_ARGB_to_RGBA_PM_sse4
 DECL|function|convert_ARGB_to_RGBA_inplace
 DECL|function|convert_ARGB_to_RGBx
 DECL|function|convert_Alpha8_to_Indexed8
