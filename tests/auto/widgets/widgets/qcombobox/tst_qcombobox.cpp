@@ -63,6 +63,7 @@ DECL|function|onCurrentIndexChanged
 DECL|function|paint
 DECL|function|parent
 DECL|function|pixmapIcon
+DECL|function|popupWheelHandling
 DECL|function|removeColumns
 DECL|function|removeItem
 DECL|function|removeRows
@@ -111,7 +112,6 @@ DECL|function|verticalOffset
 DECL|function|virtualAutocompletion
 DECL|function|visualRect
 DECL|function|visualRegionForSelection
-DECL|function|wheelClosingPopup
 DECL|macro|GET_SELECTION
 DECL|macro|WHEEL_DELTA
 DECL|member|edit

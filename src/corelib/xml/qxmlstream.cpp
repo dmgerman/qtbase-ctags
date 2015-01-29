@@ -2,6 +2,7 @@ DECL|class|QXmlStreamWriterPrivate
 DECL|enumerator|NameBeginning
 DECL|enumerator|NameNotBeginning
 DECL|enumerator|NotName
+DECL|enumerator|StreamEOF
 DECL|enum|NameChar
 DECL|function|QXmlStreamAttribute
 DECL|function|QXmlStreamAttribute
