@@ -105,6 +105,8 @@ DECL|function|setHeaderData
 DECL|function|setItemData
 DECL|function|sibling
 DECL|function|sibling
+DECL|function|sibling
+DECL|function|sibling
 DECL|function|sort
 DECL|function|span
 DECL|function|staticEmptyModel
