@@ -42,6 +42,7 @@ DECL|variable|QActionEvent
 DECL|variable|QBackingStore
 DECL|variable|QCloseEvent
 DECL|variable|QContextMenuEvent
+DECL|variable|QDebug
 DECL|variable|QDragEnterEvent
 DECL|variable|QDragLeaveEvent
 DECL|variable|QDragMoveEvent

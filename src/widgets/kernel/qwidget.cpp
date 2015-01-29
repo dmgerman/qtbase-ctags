@@ -81,6 +81,7 @@ DECL|function|focusPolicy
 DECL|function|focusProxy
 DECL|function|focusWidget
 DECL|function|foregroundRole
+DECL|function|formatWidgetAttributes
 DECL|function|frameGeometry
 DECL|function|frameSize
 DECL|function|frameStrut
@@ -163,6 +164,7 @@ DECL|function|navigateToDirection
 DECL|function|nearestGraphicsProxyWidget
 DECL|function|nextInFocusChain
 DECL|function|normalGeometry
+DECL|function|operator <<
 DECL|function|overrideWindowFlags
 DECL|function|overrideWindowState
 DECL|function|paintBackground

@@ -1,6 +1,7 @@
 DECL|macro|QWINDOW_H
 DECL|variable|QAccessibleInterface
 DECL|variable|QBackingStore
+DECL|variable|QDebug
 DECL|variable|QExposeEvent
 DECL|variable|QFocusEvent
 DECL|variable|QHideEvent

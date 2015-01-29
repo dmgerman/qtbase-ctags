@@ -6,6 +6,7 @@ DECL|function|availableVirtualGeometry
 DECL|function|availableVirtualSize
 DECL|function|depth
 DECL|function|devicePixelRatio
+DECL|function|formatRect
 DECL|function|geometry
 DECL|function|grabWindow
 DECL|function|handle
@@ -17,6 +18,7 @@ DECL|function|logicalDotsPerInchY
 DECL|function|mapBetween
 DECL|function|name
 DECL|function|nativeOrientation
+DECL|function|operator <<
 DECL|function|orientation
 DECL|function|orientationUpdateMask
 DECL|function|physicalDotsPerInch

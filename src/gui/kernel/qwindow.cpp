@@ -60,6 +60,7 @@ DECL|function|mouseReleaseEvent
 DECL|function|moveEvent
 DECL|function|nativeEvent
 DECL|function|opacity
+DECL|function|operator <<
 DECL|function|parent
 DECL|function|qt_window_private
 DECL|function|raise
