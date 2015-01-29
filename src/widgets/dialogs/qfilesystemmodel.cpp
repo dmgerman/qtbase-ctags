@@ -67,6 +67,7 @@ DECL|function|setNameFilters
 DECL|function|setReadOnly
 DECL|function|setResolveSymlinks
 DECL|function|setRootPath
+DECL|function|sibling
 DECL|function|size
 DECL|function|size
 DECL|function|size
