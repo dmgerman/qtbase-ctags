@@ -14,6 +14,7 @@ DECL|function|name
 DECL|function|name_data
 DECL|function|namehex
 DECL|function|namehex_data
+DECL|function|premultiply
 DECL|function|setBlue
 DECL|function|setCmyk
 DECL|function|setGreen
@@ -40,6 +41,7 @@ DECL|function|toRgb
 DECL|function|toRgbNonDestructive
 DECL|function|toRgb_data
 DECL|function|tst_QColor
+DECL|function|unpremultiply_sse4
 DECL|function|veryFuzzyCompare
 DECL|macro|rgb
 DECL|macro|rgb
