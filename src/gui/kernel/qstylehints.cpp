@@ -20,6 +20,7 @@ DECL|function|showIsFullScreen
 DECL|function|startDragDistance
 DECL|function|startDragTime
 DECL|function|startDragVelocity
+DECL|function|tabFocusBehavior
 DECL|function|themeableHint
 DECL|function|useRtlExtensions
 DECL|member|m_cursorFlashTime
