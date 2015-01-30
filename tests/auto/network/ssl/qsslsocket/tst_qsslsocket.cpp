@@ -130,6 +130,8 @@ DECL|function|systemCaCertificates
 DECL|function|timeout
 DECL|function|tst_QSslSocket
 DECL|function|untrustedWorkaroundSlot
+DECL|function|verifyClientCertificate
+DECL|function|verifyClientCertificate_data
 DECL|function|verifyDepth
 DECL|function|verifyMode
 DECL|function|versionAccessors
@@ -146,8 +148,10 @@ DECL|function|~tst_QSslSocket
 DECL|macro|FLUKE_CERTIFICATE_ERROR
 DECL|macro|FLUKE_CERTIFICATE_ERROR
 DECL|macro|QSSLSOCKET_CERTUNTRUSTED_WORKAROUND
+DECL|member|addCaCertificates
 DECL|member|ciphers
 DECL|member|dataReadSemaphore
+DECL|member|ignoreSslErrors
 DECL|member|loopLevel
 DECL|member|loopLevel
 DECL|member|m_certFile
@@ -158,6 +162,7 @@ DECL|member|m_keyFile
 DECL|member|m_keyFile
 DECL|member|m_psk
 DECL|member|ok
+DECL|member|peerVerifyMode
 DECL|member|protocol
 DECL|member|proxyAuthCalled
 DECL|member|serverPort
@@ -175,3 +180,4 @@ DECL|variable|PSK_CLIENT_IDENTITY
 DECL|variable|PSK_CLIENT_PRESHAREDKEY
 DECL|variable|PSK_SERVER_IDENTITY_HINT
 DECL|variable|PSK_SERVER_PORT
+DECL|variable|PeerVerifyMode
