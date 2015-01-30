@@ -22,6 +22,7 @@ DECL|function|append
 DECL|function|contains
 DECL|function|contains
 DECL|function|hash
+DECL|function|insertUnique
 DECL|function|join
 DECL|function|join
 DECL|function|mid
@@ -33,6 +34,8 @@ DECL|function|qHash
 DECL|function|removeAll
 DECL|function|removeAll
 DECL|function|removeDuplicates
+DECL|function|removeEach
+DECL|function|removeEmpty
 DECL|function|setValue
 DECL|function|setValue
 DECL|function|toQString

@@ -34,7 +34,6 @@ DECL|function|getStr
 DECL|function|idealThreadCount
 DECL|function|initFrom
 DECL|function|initStatics
-DECL|function|insertUnique
 DECL|function|isActiveConfig
 DECL|function|loadDefaults
 DECL|function|loadSpec
@@ -48,8 +47,6 @@ DECL|function|prepareFunctionArgs
 DECL|function|prepareProject
 DECL|function|propertyValue
 DECL|function|qHash
-DECL|function|removeAll
-DECL|function|removeEach
 DECL|function|replaceInList
 DECL|function|setTemplate
 DECL|function|setupProject
@@ -68,7 +65,6 @@ DECL|function|visitProFile
 DECL|function|visitProFunctionDef
 DECL|function|visitProLoop
 DECL|function|visitProVariable
-DECL|function|zipEmpty
 DECL|function|~QMakeBaseEnv
 DECL|function|~QMakeEvaluator
 DECL|macro|fL1S
