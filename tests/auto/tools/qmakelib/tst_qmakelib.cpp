@@ -1,4 +1,9 @@
 DECL|class|tst_qmakelib
+DECL|function|pathUtils
 DECL|function|proStringList
+DECL|function|quoteArgUnix
+DECL|function|quoteArgUnix_data
+DECL|function|quoteArgWin
+DECL|function|quoteArgWin_data
 DECL|function|tst_qmakelib
 DECL|function|~tst_qmakelib
