@@ -34,8 +34,6 @@ DECL|function|~QByteArray
 DECL|macro|QBYTEARRAY_H
 DECL|macro|QByteArrayLiteral
 DECL|macro|QByteArrayLiteral
-DECL|macro|QT_USE_FAST_OPERATOR_PLUS
-DECL|macro|QT_USE_QSTRINGBUILDER
 DECL|macro|Q_REQUIRED_RESULT
 DECL|macro|Q_REQUIRED_RESULT
 DECL|macro|Q_REQUIRED_RESULT_pushed

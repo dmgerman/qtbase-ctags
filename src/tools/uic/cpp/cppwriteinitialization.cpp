@@ -64,9 +64,6 @@ DECL|function|noTrCall
 DECL|function|openIfndef
 DECL|function|pixCall
 DECL|function|pixCall
-DECL|function|qHash
-DECL|function|qHash
-DECL|function|qHash
 DECL|function|toolBarAreaStringFromDOMAttributes
 DECL|function|trCall
 DECL|function|trCall
