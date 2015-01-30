@@ -29,7 +29,6 @@ DECL|function|maximumSize
 DECL|function|maximumSize
 DECL|function|minimumSize
 DECL|function|minimumSize
-DECL|function|minimumSizeHint
 DECL|function|minimumTitleWidth
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseMoveEvent

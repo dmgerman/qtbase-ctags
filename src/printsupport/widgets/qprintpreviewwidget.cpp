@@ -8,7 +8,6 @@ DECL|function|QPrintPreviewWidget
 DECL|function|QPrintPreviewWidgetPrivate
 DECL|function|_q_fit
 DECL|function|_q_updateCurrentPage
-DECL|function|boundingRect
 DECL|function|calcCurrentPage
 DECL|function|currentPage
 DECL|function|fitInView
