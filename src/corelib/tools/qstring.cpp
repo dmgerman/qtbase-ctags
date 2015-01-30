@@ -1,5 +1,7 @@
-DECL|class|ArgMapper
+DECL|class|QTypeInfo
 DECL|class|qt_section_chunk
+DECL|enumerator|ExpectedParts
+DECL|function|Part
 DECL|function|QString
 DECL|function|QString
 DECL|function|QString
@@ -18,7 +20,6 @@ DECL|function|arg
 DECL|function|arg
 DECL|function|arg
 DECL|function|asprintf
-DECL|function|assignArgumentNumberToEachOfTheNs
 DECL|function|caseDiff
 DECL|function|caseDiff
 DECL|function|caseDiff
@@ -59,7 +60,6 @@ DECL|function|extractSections
 DECL|function|fill
 DECL|function|findArgEscapes
 DECL|function|findChar
-DECL|function|found
 DECL|function|fromAscii_helper
 DECL|function|fromLatin1_helper
 DECL|function|fromLocal8Bit_helper
@@ -104,6 +104,7 @@ DECL|function|leftJustified
 DECL|function|leftRef
 DECL|function|localeAwareCompare
 DECL|function|localeAwareCompare_helper
+DECL|function|makeArgIndexToPlaceholderMap
 DECL|function|mergeQuestionMarks
 DECL|function|mid
 DECL|function|mid
@@ -117,7 +118,7 @@ DECL|function|number
 DECL|function|number
 DECL|function|number
 DECL|function|number
-DECL|function|numberToArgsIndex
+DECL|function|number
 DECL|function|operator <
 DECL|function|operator <
 DECL|function|operator <
@@ -130,6 +131,7 @@ DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator >
 DECL|function|operator >>
+DECL|function|parseMultiArgFormatString
 DECL|function|qFindString
 DECL|function|qIsDigit
 DECL|function|qIsUpper
@@ -169,6 +171,7 @@ DECL|function|replace
 DECL|function|replaceArgEscapes
 DECL|function|replace_helper
 DECL|function|resize
+DECL|function|resolveStringRefsAndReturnTotalSize
 DECL|function|right
 DECL|function|right
 DECL|function|rightJustified
@@ -269,24 +272,28 @@ DECL|macro|LLONG_MIN
 DECL|macro|REHASH
 DECL|macro|ULLONG_MAX
 DECL|macro|truncate
-DECL|member|argPosToNumberMap
+DECL|member|Q_DECL_NOTHROW
 DECL|member|escape_len
-DECL|member|lastNumber
+DECL|member|len
 DECL|member|len
 DECL|member|length
 DECL|member|locale_occurrences
 DECL|member|min_escape
 DECL|member|no
 DECL|member|null
-DECL|member|numArgs
+DECL|member|number
 DECL|member|occurrences
 DECL|member|pos
+DECL|member|pos
 DECL|member|string
+DECL|member|stringRef
 DECL|namespace|QUnicodeTables
 DECL|struct|ArgEscapeData
-DECL|struct|AssignmentResult
 DECL|struct|CasefoldTraits
 DECL|struct|LowercaseTraits
+DECL|struct|Part
 DECL|struct|QStringCapture
 DECL|struct|UnrollTailLoop
 DECL|struct|UppercaseTraits
+DECL|typedef|ArgIndexToPlaceholderMap
+DECL|typedef|ParseResult
