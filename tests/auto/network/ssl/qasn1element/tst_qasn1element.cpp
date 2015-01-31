@@ -12,5 +12,7 @@ DECL|function|objectIdentifier
 DECL|function|objectIdentifier_data
 DECL|function|octetString
 DECL|function|octetString_data
+DECL|function|string
+DECL|function|string_data
 DECL|function|toBool
 DECL|function|toBool_data
