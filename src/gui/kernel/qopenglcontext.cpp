@@ -64,6 +64,7 @@ DECL|function|shareContext
 DECL|function|shareGroup
 DECL|function|shareHandle
 DECL|function|shares
+DECL|function|supportsThreadedOpenGL
 DECL|function|surface
 DECL|function|swapBuffers
 DECL|function|textureFunctions
