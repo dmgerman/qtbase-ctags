@@ -1,7 +1,3 @@
-DECL|enumerator|DnsNameType
-DECL|enumerator|Rfc822NameType
-DECL|enumerator|UniformResourceIdentifierType
-DECL|enum|GeneralNameType
 DECL|function|certificatesFromDer
 DECL|function|certificatesFromPem
 DECL|function|colonSeparatedHex
