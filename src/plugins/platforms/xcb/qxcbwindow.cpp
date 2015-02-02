@@ -136,6 +136,7 @@ DECL|function|winId
 DECL|function|windowEvent
 DECL|function|windowToWmGeometry
 DECL|function|wmWindowTypes
+DECL|function|xcbScreen
 DECL|function|~QXcbWindow
 DECL|macro|FocusIn
 DECL|macro|XCB_WM_STATE_ICONIC
