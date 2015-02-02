@@ -4,12 +4,15 @@ DECL|function|QStorageIterator
 DECL|function|QStorageIterator
 DECL|function|QStorageIterator
 DECL|function|QStorageIterator
+DECL|function|QStorageIterator
+DECL|function|device
 DECL|function|device
 DECL|function|device
 DECL|function|device
 DECL|function|device
 DECL|function|device
 DECL|function|doStat
+DECL|function|fileSystemType
 DECL|function|fileSystemType
 DECL|function|fileSystemType
 DECL|function|fileSystemType
@@ -22,7 +25,9 @@ DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid
+DECL|function|isValid
 DECL|function|mountedVolumes
+DECL|function|next
 DECL|function|next
 DECL|function|next
 DECL|function|next
@@ -36,6 +41,8 @@ DECL|function|rootPath
 DECL|function|rootPath
 DECL|function|rootPath
 DECL|function|rootPath
+DECL|function|rootPath
+DECL|function|~QStorageIterator
 DECL|function|~QStorageIterator
 DECL|function|~QStorageIterator
 DECL|function|~QStorageIterator
@@ -59,8 +66,12 @@ DECL|member|file
 DECL|member|fp
 DECL|member|fp
 DECL|member|m_device
+DECL|member|m_device
+DECL|member|m_fileSystemType
 DECL|member|m_fileSystemType
 DECL|member|m_rootPath
+DECL|member|m_rootPath
+DECL|member|m_volumeRoster
 DECL|member|mnt
 DECL|member|mnt
 DECL|member|stat_buf
