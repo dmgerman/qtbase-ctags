@@ -27,6 +27,7 @@ DECL|function|owner
 DECL|function|ownsMode
 DECL|function|requestor
 DECL|function|reset
+DECL|function|screen
 DECL|function|sendSelection
 DECL|function|sendTargetsSelection
 DECL|function|setMimeData
