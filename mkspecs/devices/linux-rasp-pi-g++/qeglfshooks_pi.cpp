@@ -4,17 +4,10 @@ DECL|function|createNativeWindow
 DECL|function|destroyDispmanxLayer
 DECL|function|destroyNativeWindow
 DECL|function|hasCapability
-DECL|function|moveDispmanxLayer
 DECL|function|platformDestroy
 DECL|function|platformDisplay
 DECL|function|platformInit
 DECL|function|screenSize
-DECL|macro|ELEMENT_CHANGE_DEST_RECT
-DECL|macro|ELEMENT_CHANGE_LAYER
-DECL|macro|ELEMENT_CHANGE_MASK_RESOURCE
-DECL|macro|ELEMENT_CHANGE_OPACITY
-DECL|macro|ELEMENT_CHANGE_SRC_RECT
-DECL|macro|ELEMENT_CHANGE_TRANSFORM
 DECL|variable|dispman_display
 DECL|variable|eglFSPiHooks
 DECL|variable|platformHooks
