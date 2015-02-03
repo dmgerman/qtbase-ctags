@@ -104,6 +104,7 @@ DECL|function|callStaticObjectMethod
 DECL|function|callStaticObjectMethod
 DECL|function|callStaticObjectMethodV
 DECL|function|callStaticObjectMethodV
+DECL|function|cleanup
 DECL|function|exceptionCheckAndClear
 DECL|function|findClass
 DECL|function|fromLocalRef

@@ -5,3 +5,6 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|macro|QJNI_P_H
+DECL|struct|QJNILocalRefDeleter
+DECL|typedef|QJNIScopedLocalRef
+DECL|typedef|_jobject
