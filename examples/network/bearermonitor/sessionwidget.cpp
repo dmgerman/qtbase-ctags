@@ -1,7 +1,6 @@
 DECL|function|SessionWidget
 DECL|function|clearError
 DECL|function|closeSession
-DECL|function|deleteSession
 DECL|function|openSession
 DECL|function|openSyncSession
 DECL|function|stopSession
