@@ -8,6 +8,7 @@ DECL|function|dumpWindowEnumChildProc
 DECL|function|findQtTopLevelEnumChildProc
 DECL|function|findQtTopLevels
 DECL|function|formatNativeWindow
+DECL|macro|WS_EX_NOREDIRECTIONBITMAP
 DECL|macro|debugWinStyle
 DECL|member|indentation
 DECL|member|stream
