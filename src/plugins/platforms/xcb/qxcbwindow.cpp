@@ -91,6 +91,7 @@ DECL|function|mapFromGlobal
 DECL|function|mapGeometryFromNative
 DECL|function|mapToGlobal
 DECL|function|mapToNative
+DECL|function|maybeSetScreen
 DECL|function|needsSync
 DECL|function|netWmStates
 DECL|function|pending
