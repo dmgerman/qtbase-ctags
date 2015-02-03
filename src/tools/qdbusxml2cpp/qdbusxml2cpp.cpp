@@ -31,7 +31,6 @@ DECL|macro|PROGRAMCOPYRIGHT
 DECL|macro|PROGRAMNAME
 DECL|macro|PROGRAMVERSION
 DECL|variable|adaptorFile
-DECL|variable|classCreationTime
 DECL|variable|commandLine
 DECL|variable|forwardDeclarations
 DECL|variable|globalClassName
