@@ -40,6 +40,7 @@ DECL|function|start
 DECL|function|startClientEncryption
 DECL|function|startHandshake
 DECL|function|startServerEncryption
+DECL|function|storePeerCertificates
 DECL|function|supportsSsl
 DECL|function|systemCaCertificates
 DECL|function|tlsPskClientCallback
