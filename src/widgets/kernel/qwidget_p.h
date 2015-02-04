@@ -42,6 +42,7 @@ DECL|member|inRepaint
 DECL|member|inTopLevelResize
 DECL|member|inch
 DECL|member|incw
+DECL|member|initialScreenIndex
 DECL|member|isMove
 DECL|member|isSetGeometry
 DECL|member|mask
@@ -67,7 +68,6 @@ DECL|member|rgn
 DECL|member|role
 DECL|member|savedFlags
 DECL|member|savedWindowAttributesFromMaximized
-DECL|member|screenIndex
 DECL|member|shareContext
 DECL|member|sharedPainter
 DECL|member|sharedPainter
