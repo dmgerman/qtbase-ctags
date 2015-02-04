@@ -14,6 +14,7 @@ DECL|function|configureFonts
 DECL|function|createKdeTheme
 DECL|function|createPlatformSystemTrayIcon
 DECL|function|createPlatformSystemTrayIcon
+DECL|function|createPlatformSystemTrayIcon
 DECL|function|createUnixTheme
 DECL|function|font
 DECL|function|font
