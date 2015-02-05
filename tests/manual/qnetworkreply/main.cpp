@@ -7,6 +7,7 @@ DECL|function|finishedSlot
 DECL|function|initTestCase
 DECL|function|limiting
 DECL|function|limiting_data
+DECL|function|npnWithEmptyList
 DECL|function|proxyAuthentication
 DECL|function|proxyAuthentication_data
 DECL|function|readyReadSlot
