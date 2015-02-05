@@ -1,5 +1,7 @@
 DECL|class|tst_QImageConversion
 DECL|function|convertGeneric
+DECL|function|convertGenericInplace
+DECL|function|convertGenericInplace_data
 DECL|function|convertGeneric_data
 DECL|function|convertRgb32ToRgb888
 DECL|function|convertRgb32ToRgb888_data

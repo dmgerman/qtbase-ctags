@@ -145,6 +145,7 @@ DECL|function|convertARGB32FromARGB32PM_sse4
 DECL|function|convertARGB32ToARGB32PM
 DECL|function|convertARGB32ToARGB32PM_sse4
 DECL|function|convertARGBPMFromARGB32PM
+DECL|function|convertARGBPMFromRGB32
 DECL|function|convertARGBPMToARGB32PM
 DECL|function|convertAlpha8FromARGB32PM
 DECL|function|convertAlpha8ToRGB32
