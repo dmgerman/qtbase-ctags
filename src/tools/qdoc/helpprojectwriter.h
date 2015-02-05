@@ -2,7 +2,6 @@ DECL|macro|HELPPROJECTWRITER_H
 DECL|member|Node
 DECL|member|QString
 DECL|member|QString
-DECL|member|QString
 DECL|member|Type
 DECL|member|customFilters
 DECL|member|excluded
