@@ -3,7 +3,6 @@ DECL|function|ProjectBuilderMakefileGenerator
 DECL|function|ProjectBuilderSources
 DECL|function|ProjectBuilderSubDirs
 DECL|function|compilerName
-DECL|function|escapeFilePath
 DECL|function|files
 DECL|function|findProgram
 DECL|function|fixForOutput
