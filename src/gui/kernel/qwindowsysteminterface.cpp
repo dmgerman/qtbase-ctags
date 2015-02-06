@@ -64,7 +64,7 @@ DECL|function|qt_sendShortcutOverrideEvent
 DECL|function|registerTouchDevice
 DECL|function|removeWindowSystemEvent
 DECL|function|sendWindowSystemEvents
-DECL|function|setSynchronousWindowsSystemEvents
+DECL|function|setSynchronousWindowSystemEvents
 DECL|function|touchPoint
 DECL|function|touchPointList
 DECL|function|tryHandleExtendedShortcutEvent
@@ -77,5 +77,5 @@ DECL|function|windowSystemEventsQueued
 DECL|member|eventTime
 DECL|member|eventsFlushed
 DECL|member|flushEventMutex
-DECL|member|synchronousWindowsSystemEvents
+DECL|member|synchronousWindowSystemEvents
 DECL|member|windowSystemEventQueue
