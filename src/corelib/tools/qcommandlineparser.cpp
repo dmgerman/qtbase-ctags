@@ -28,6 +28,7 @@ DECL|function|process
 DECL|function|process
 DECL|function|registerFoundOption
 DECL|function|setApplicationDescription
+DECL|function|setOptionsAfterPositionalArgumentsMode
 DECL|function|setSingleDashWordOptionMode
 DECL|function|showHelp
 DECL|function|showParserMessage
@@ -50,6 +51,7 @@ DECL|member|nameHash
 DECL|member|needsParsing
 DECL|member|optionNames
 DECL|member|optionValuesHash
+DECL|member|optionsAfterPositionalArgumentsMode
 DECL|member|positionalArgumentDefinitions
 DECL|member|positionalArgumentList
 DECL|member|singleDashWordOptionMode

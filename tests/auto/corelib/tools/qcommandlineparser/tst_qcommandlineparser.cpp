@@ -15,6 +15,8 @@ DECL|function|testMissingOptionValue
 DECL|function|testMultipleNames
 DECL|function|testMultipleNames_data
 DECL|function|testMultipleValuesOption
+DECL|function|testOptionsAndPositional
+DECL|function|testOptionsAndPositional_data
 DECL|function|testPositionalArguments
 DECL|function|testProcessNotCalled
 DECL|function|testQuoteEscaping
