@@ -1,5 +1,6 @@
 DECL|class|AutoMetaTypeObject
 DECL|class|C
+DECL|class|CustomGadget
 DECL|class|CustomMultiInheritanceObject
 DECL|class|CustomNonQObject
 DECL|class|CustomObject
@@ -13,6 +14,8 @@ DECL|class|P
 DECL|class|tst_QMetaType
 DECL|enumerator|IsInitialized
 DECL|enumerator|Val1
+DECL|enumerator|Val1
+DECL|enumerator|Val2
 DECL|enumerator|Val2
 DECL|enumerator|Val3
 DECL|enumerator|Value
@@ -20,6 +23,7 @@ DECL|enumerator|Value
 DECL|enumerator|isStreamable
 DECL|enumerator|value
 DECL|enum|A
+DECL|enum|CustomQEnum
 DECL|enum|FlagsDataEnum
 DECL|enum|MyEnum
 DECL|enum|isEnumTest_Enum0

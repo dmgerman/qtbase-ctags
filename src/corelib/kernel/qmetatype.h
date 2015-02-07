@@ -1,6 +1,8 @@
 DECL|enumerator|Defined
 DECL|enumerator|Defined
 DECL|enumerator|Defined
+DECL|enumerator|Defined
+DECL|enumerator|Defined
 DECL|enumerator|IsBuiltIn
 DECL|function|QT_FOR_EACH_AUTOMATIC_TEMPLATE_1ARG
 DECL|function|QT_FOR_EACH_AUTOMATIC_TEMPLATE_SMART_POINTER
@@ -20,6 +22,8 @@ DECL|function|qRegisterMetaType
 DECL|function|qRegisterMetaType
 DECL|function|qRegisterMetaTypeStreamOperators
 DECL|function|qRegisterMetaTypeStreamOperators
+DECL|function|qt_metatype_id
+DECL|function|qt_metatype_id
 DECL|function|qt_metatype_id
 DECL|function|qt_metatype_id
 DECL|function|sizeOf
@@ -58,10 +62,12 @@ DECL|macro|Q_DECLARE_SEQUENTIAL_CONTAINER_METATYPE_ITER
 DECL|macro|Q_DECLARE_SEQUENTIAL_CONTAINER_METATYPE_ITER
 DECL|macro|Q_DECLARE_SMART_POINTER_METATYPE
 DECL|macro|Q_FORWARD_DECLARE_METATYPE_TEMPLATE_2ARG_ITER
+DECL|struct|IsEnumeration
+DECL|struct|IsGadget
+DECL|struct|PointerToQObject
 DECL|struct|QMetaTypeId2
 DECL|struct|T
 DECL|struct|T
-DECL|struct|true
 DECL|typedef|QByteArrayList
 DECL|typedef|QString
 DECL|typedef|QString
@@ -74,5 +80,6 @@ DECL|variable|QObject
 DECL|variable|QWidget
 DECL|variable|T
 DECL|variable|T
-DECL|variable|bool
+DECL|variable|T
+DECL|variable|T
 DECL|variable|defined
