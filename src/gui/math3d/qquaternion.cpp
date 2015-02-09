@@ -12,4 +12,5 @@ DECL|function|operator >>
 DECL|function|operator QVariant
 DECL|function|rotatedVector
 DECL|function|slerp
+DECL|function|toAxisAndAngle
 DECL|function|toRotationMatrix

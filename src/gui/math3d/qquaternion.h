@@ -12,6 +12,7 @@ DECL|function|setVector
 DECL|function|setX
 DECL|function|setY
 DECL|function|setZ
+DECL|function|toAxisAndAngle
 DECL|function|toVector4D
 DECL|function|vector
 DECL|function|x
