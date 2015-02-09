@@ -17,11 +17,6 @@ DECL|function|qLess
 DECL|function|qLowerBound
 DECL|function|qLowerBound
 DECL|function|qLowerBound
-DECL|function|qPopulationCount
-DECL|function|qPopulationCount
-DECL|function|qPopulationCount
-DECL|function|qPopulationCount
-DECL|function|qPopulationCount
 DECL|function|qSort
 DECL|function|qSort
 DECL|function|qSort
