@@ -10,6 +10,8 @@ DECL|function|divide
 DECL|function|divide_data
 DECL|function|fromAxisAndAngle
 DECL|function|fromAxisAndAngle_data
+DECL|function|fromEulerAngles
+DECL|function|fromEulerAngles_data
 DECL|function|fromRotationMatrix
 DECL|function|fromRotationMatrix_data
 DECL|function|inverted
@@ -21,6 +23,9 @@ DECL|function|multiply
 DECL|function|multiplyFactor
 DECL|function|multiplyFactor_data
 DECL|function|multiply_data
+DECL|function|myFuzzyCompare
+DECL|function|myFuzzyCompareDegrees
+DECL|function|myFuzzyCompareRadians
 DECL|function|negate
 DECL|function|negate_data
 DECL|function|nlerp

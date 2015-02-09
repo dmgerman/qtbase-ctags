@@ -1,5 +1,6 @@
 DECL|function|fromAxisAndAngle
 DECL|function|fromAxisAndAngle
+DECL|function|fromEulerAngles
 DECL|function|fromRotationMatrix
 DECL|function|length
 DECL|function|lengthSquared
@@ -13,4 +14,5 @@ DECL|function|operator QVariant
 DECL|function|rotatedVector
 DECL|function|slerp
 DECL|function|toAxisAndAngle
+DECL|function|toEulerAngles
 DECL|function|toRotationMatrix

@@ -2,6 +2,7 @@ DECL|function|QQuaternion
 DECL|function|QQuaternion
 DECL|function|QQuaternion
 DECL|function|conjugate
+DECL|function|fromEulerAngles
 DECL|function|inverted
 DECL|function|isIdentity
 DECL|function|isNull
@@ -13,6 +14,7 @@ DECL|function|setX
 DECL|function|setY
 DECL|function|setZ
 DECL|function|toAxisAndAngle
+DECL|function|toEulerAngles
 DECL|function|toVector4D
 DECL|function|vector
 DECL|function|x
