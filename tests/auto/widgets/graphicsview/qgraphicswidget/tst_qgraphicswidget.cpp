@@ -69,6 +69,7 @@ DECL|function|call_sceneEvent
 DECL|function|call_showEvent
 DECL|function|call_sizeHint
 DECL|function|call_updateGeometry
+DECL|function|call_windowFrameSectionAt
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clear
@@ -187,6 +188,7 @@ DECL|function|widgetSendsGeometryChanges
 DECL|function|width
 DECL|function|windowFlags
 DECL|function|windowFlags_data
+DECL|function|windowFrameSectionAt
 DECL|function|~StyledGraphicsWidget
 DECL|member|_count
 DECL|member|changes

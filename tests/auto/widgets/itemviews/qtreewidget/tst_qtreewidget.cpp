@@ -39,6 +39,7 @@ DECL|function|fillTreeWidget
 DECL|function|findItems
 DECL|function|findItemsInColumn
 DECL|function|findItems_data
+DECL|function|getMimeDataWithInvalidItem
 DECL|function|getSetCheck
 DECL|function|indexFromItem
 DECL|function|indexFromItem
@@ -62,6 +63,7 @@ DECL|function|itemWidget
 DECL|function|itemWidget_data
 DECL|function|keyboardNavigation
 DECL|function|match
+DECL|function|mimeData
 DECL|function|nonEditableTristate
 DECL|function|operator <<
 DECL|function|populate

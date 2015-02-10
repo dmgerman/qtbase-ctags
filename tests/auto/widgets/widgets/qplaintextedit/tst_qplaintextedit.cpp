@@ -25,6 +25,8 @@ DECL|function|canInsertFromMimeData
 DECL|function|canPaste
 DECL|function|charFormat
 DECL|function|charFormatChanged
+DECL|function|charWithAltOrCtrlModifier
+DECL|function|charWithAltOrCtrlModifier_data
 DECL|function|cleanup
 DECL|function|clearMustNotChangeClipboard
 DECL|function|clearMustNotResetRootFrameMarginToDefault
@@ -34,7 +36,6 @@ DECL|function|copyAvailable
 DECL|function|copyAvailable_data
 DECL|function|createMimeDataFromSelection
 DECL|function|createSelection
-DECL|function|ctrlAltInput
 DECL|function|cursorPositionChanged
 DECL|function|documentChanged
 DECL|function|documentSize

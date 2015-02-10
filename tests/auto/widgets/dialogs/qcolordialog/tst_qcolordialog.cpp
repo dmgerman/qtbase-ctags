@@ -1,5 +1,6 @@
 DECL|class|TestNativeDialog
 DECL|class|tst_QColorDialog
+DECL|function|QTBUG_43548_initialColor
 DECL|function|TestNativeDialog
 DECL|function|cleanup
 DECL|function|cleanupTestCase

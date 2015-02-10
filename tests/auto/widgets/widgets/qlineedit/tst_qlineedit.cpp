@@ -33,6 +33,7 @@ DECL|function|bidiVisualMovement_data
 DECL|function|centerOnScreen
 DECL|function|centerOnScreen
 DECL|function|charWithAltOrCtrlModifier
+DECL|function|charWithAltOrCtrlModifier_data
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clear
