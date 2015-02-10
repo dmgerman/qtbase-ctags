@@ -2,6 +2,7 @@ DECL|function|QBalloonTip
 DECL|function|QSystemTrayIcon
 DECL|function|QSystemTrayIcon
 DECL|function|_q_emitActivated
+DECL|function|addPlatformMenu
 DECL|function|balloon
 DECL|function|contextMenu
 DECL|function|event

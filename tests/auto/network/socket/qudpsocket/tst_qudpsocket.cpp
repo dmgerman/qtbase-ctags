@@ -35,6 +35,8 @@ DECL|function|outOfProcessUnconnectedClientServerTest
 DECL|function|pendingDatagramSize
 DECL|function|performance
 DECL|function|readLine
+DECL|function|readyRead
+DECL|function|readyReadForEmptyDatagram
 DECL|function|setMulticastInterface
 DECL|function|setMulticastInterface_data
 DECL|function|tst_QUdpSocket

@@ -11,6 +11,7 @@ DECL|function|defaultAction
 DECL|function|defaultPixmap
 DECL|function|dragActionsToString
 DECL|function|isAccepted
+DECL|function|ownsDragObject
 DECL|function|updateAction
 DECL|function|~QPlatformDrag
 DECL|member|cursor_drop_action

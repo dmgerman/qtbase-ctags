@@ -16,6 +16,7 @@ DECL|function|EventLogger
 DECL|function|EventSpy
 DECL|function|HoverButton
 DECL|function|MainWidget
+DECL|function|QTBUG_43780_visibility
 DECL|function|QTBUG_6986_sendMouseEventToAlienWidget
 DECL|function|Scene
 DECL|function|ScrollWidget

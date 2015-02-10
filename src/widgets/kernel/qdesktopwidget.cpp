@@ -12,4 +12,5 @@ DECL|function|screenGeometry
 DECL|function|screenGeometry
 DECL|function|screenNumber
 DECL|function|screenNumber
+DECL|function|screenNumber
 DECL|function|~QDesktopWidget

@@ -1,4 +1,5 @@
 DECL|class|tst_QTemporaryDir
+DECL|function|QTBUG43352_failedSetPermissions
 DECL|function|QTBUG_4796
 DECL|function|QTBUG_4796_data
 DECL|function|autoRemove

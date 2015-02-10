@@ -94,6 +94,7 @@ DECL|function|operator =
 DECL|function|properties
 DECL|function|qt_addBitmapToPath
 DECL|function|qt_get_font_table_default
+DECL|function|qt_useHarfbuzzNG
 DECL|function|qtransform_equals_no_translate
 DECL|function|recalcAdvances
 DECL|function|recalcAdvances
@@ -125,4 +126,3 @@ DECL|variable|enginesCollector
 DECL|variable|hb_fontClass
 DECL|variable|sizeof
 DECL|variable|sizeof
-DECL|variable|useHarfbuzzNG

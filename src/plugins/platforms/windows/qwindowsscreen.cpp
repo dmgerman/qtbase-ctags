@@ -20,6 +20,7 @@ DECL|function|monitorResolutionEnumCallback
 DECL|function|moveToVirtualScreen
 DECL|function|operator <<
 DECL|function|removeScreen
+DECL|function|screenAtDp
 DECL|function|screenOf
 DECL|function|sharedCursor
 DECL|function|topLevelAt
