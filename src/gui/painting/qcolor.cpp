@@ -1,6 +1,7 @@
 DECL|function|QColor
 DECL|function|QColor
 DECL|function|QColor
+DECL|function|QColor
 DECL|function|alpha
 DECL|function|alphaF
 DECL|function|black
@@ -22,6 +23,8 @@ DECL|function|fromRgb
 DECL|function|fromRgb
 DECL|function|fromRgbF
 DECL|function|fromRgba
+DECL|function|fromRgba64
+DECL|function|fromRgba64
 DECL|function|getCmyk
 DECL|function|getCmykF
 DECL|function|getHsl
@@ -63,6 +66,7 @@ DECL|function|red
 DECL|function|redF
 DECL|function|rgb
 DECL|function|rgba
+DECL|function|rgba64
 DECL|function|saturation
 DECL|function|saturationF
 DECL|function|setAlpha
@@ -85,6 +89,7 @@ DECL|function|setRgb
 DECL|function|setRgb
 DECL|function|setRgbF
 DECL|function|setRgba
+DECL|function|setRgba64
 DECL|function|toCmyk
 DECL|function|toHsl
 DECL|function|toHsv

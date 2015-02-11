@@ -15,6 +15,9 @@ DECL|function|name_data
 DECL|function|namehex
 DECL|function|namehex_data
 DECL|function|premultiply
+DECL|function|qrgba64
+DECL|function|qrgba64Equivalence
+DECL|function|qrgba64Premultiply
 DECL|function|setBlue
 DECL|function|setCmyk
 DECL|function|setGreen

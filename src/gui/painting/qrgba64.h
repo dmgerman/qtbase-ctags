@@ -1,0 +1,9 @@
+DECL|function|qAlpha
+DECL|function|qBlue
+DECL|function|qGreen
+DECL|function|qPremultiply
+DECL|function|qRed
+DECL|function|qRgba64
+DECL|function|qRgba64
+DECL|function|qUnpremultiply
+DECL|macro|QRGBA64_H
