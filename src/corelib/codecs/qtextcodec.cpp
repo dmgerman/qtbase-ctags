@@ -38,3 +38,5 @@ DECL|function|~ConverterState
 DECL|function|~QTextCodec
 DECL|function|~QTextDecoder
 DECL|function|~QTextEncoder
+DECL|typedef|ByteArrayListConstIt
+DECL|typedef|TextCodecListConstIt

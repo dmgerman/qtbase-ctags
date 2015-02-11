@@ -17,6 +17,8 @@ DECL|function|~QIcuCodec
 DECL|member|index
 DECL|member|mib
 DECL|struct|MibToName
+DECL|typedef|ByteArrayListConstIt
+DECL|typedef|TextCodecListConstIt
 DECL|variable|mibToName
 DECL|variable|mibToNameSize
 DECL|variable|mibToNameTable
