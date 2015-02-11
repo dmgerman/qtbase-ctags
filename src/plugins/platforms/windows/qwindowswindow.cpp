@@ -26,7 +26,6 @@ DECL|function|createRectRegion
 DECL|function|debugWinExStyle
 DECL|function|debugWinStyle
 DECL|function|debugWindowFlags
-DECL|function|debugWindowStates
 DECL|function|defaultCursor
 DECL|function|destroyWindow
 DECL|function|findTransientChild
