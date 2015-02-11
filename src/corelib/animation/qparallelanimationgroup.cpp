@@ -13,3 +13,6 @@ DECL|function|updateCurrentTime
 DECL|function|updateDirection
 DECL|function|updateState
 DECL|function|~QParallelAnimationGroup
+DECL|typedef|AnimationListConstIt
+DECL|typedef|AnimationTimeHashConstIt
+DECL|typedef|AnimationTimeHashIt

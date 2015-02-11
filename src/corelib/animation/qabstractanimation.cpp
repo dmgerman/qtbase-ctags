@@ -78,3 +78,5 @@ DECL|function|~QAbstractAnimation
 DECL|function|~QAnimationDriver
 DECL|macro|DEFAULT_TIMER_INTERVAL
 DECL|macro|PAUSE_TIMER_COARSE_THRESHOLD
+DECL|typedef|AnimationListConstIt
+DECL|typedef|TimerListConstIt

@@ -20,3 +20,4 @@ DECL|function|updateCurrentTime
 DECL|function|updateDirection
 DECL|function|updateState
 DECL|function|~QSequentialAnimationGroup
+DECL|typedef|AnimationListConstIt
