@@ -5,7 +5,6 @@ DECL|class|TestProxy
 DECL|class|TestWidget
 DECL|class|TextDrawerThread
 DECL|class|ViewportTestWidget
-DECL|class|quint24
 DECL|class|tst_QPainter
 DECL|enumerator|Antialiasing
 DECL|enumerator|Dashing
@@ -112,6 +111,9 @@ DECL|function|fillRect3_data
 DECL|function|fillRect4
 DECL|function|fillRect4_data
 DECL|function|fillRectNonPremul
+DECL|function|fillRectNonPremul_data
+DECL|function|fillRectRGB30
+DECL|function|fillRectRGB30_data
 DECL|function|fillRect_data
 DECL|function|fillRect_objectBoundingModeGradient
 DECL|function|fillRect_stretchToDeviceMode
@@ -148,8 +150,6 @@ DECL|function|linearGradientSymmetry_data
 DECL|function|metric
 DECL|function|monoImages
 DECL|function|no_porter_duff
-DECL|function|operator ==
-DECL|function|operator quint32
 DECL|function|outlineFillConsistency
 DECL|function|paint
 DECL|function|paintEngine
@@ -164,7 +164,6 @@ DECL|function|qHash
 DECL|function|qimageFormats
 DECL|function|qimageFormats_data
 DECL|function|qt_compose_alpha
-DECL|function|quint24
 DECL|function|randInRect
 DECL|function|randf
 DECL|function|rasterizer_asserts
@@ -203,7 +202,6 @@ DECL|macro|FOR_EACH_NEIGHBOR_8
 DECL|macro|FOR_EACH_NEIGHBOR_8
 DECL|macro|FPE_TEST
 DECL|macro|FPE_TEST
-DECL|member|data
 DECL|member|deviceTransform
 DECL|member|deviceTransform
 DECL|member|hasPainted

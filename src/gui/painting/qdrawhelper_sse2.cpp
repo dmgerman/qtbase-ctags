@@ -5,6 +5,7 @@ DECL|function|comp_func_Source_sse2
 DECL|function|comp_func_solid_SourceOver_sse2
 DECL|function|qt_bitmapblit16_sse2
 DECL|function|qt_bitmapblit32_sse2
+DECL|function|qt_bitmapblit32_sse2_base
 DECL|function|qt_bitmapblit8888_sse2
 DECL|function|qt_blend_argb32_on_argb32_sse2
 DECL|function|qt_blend_rgb32_on_rgb32_sse2
