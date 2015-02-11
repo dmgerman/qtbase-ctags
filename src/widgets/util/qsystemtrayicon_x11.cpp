@@ -29,4 +29,5 @@ DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
+DECL|member|background
 DECL|member|q
