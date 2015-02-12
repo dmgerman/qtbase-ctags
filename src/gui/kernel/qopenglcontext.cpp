@@ -28,6 +28,7 @@ DECL|function|freeResource
 DECL|function|functions
 DECL|function|functionsBackend
 DECL|function|getProcAddress
+DECL|function|globalShareContext
 DECL|function|handle
 DECL|function|hasExtension
 DECL|function|hasProfiles
