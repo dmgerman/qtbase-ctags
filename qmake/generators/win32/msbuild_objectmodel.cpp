@@ -12,6 +12,7 @@ DECL|function|outputFileConfig
 DECL|function|outputFileConfig
 DECL|function|outputFileConfigs
 DECL|function|outputFilter
+DECL|function|stringBeforeFirstBackslash
 DECL|function|toString
 DECL|function|toString
 DECL|function|toString
