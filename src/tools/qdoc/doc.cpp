@@ -219,8 +219,6 @@ DECL|function|untabifyEtc
 DECL|function|~Doc
 DECL|function|~DocPrivate
 DECL|function|~TopicRef
-DECL|macro|COMMAND_BRIEF
-DECL|macro|COMMAND_QMLBRIEF
 DECL|member|alias
 DECL|member|alsoList
 DECL|member|braceDepth

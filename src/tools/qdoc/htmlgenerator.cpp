@@ -21,8 +21,8 @@ DECL|function|generateCollectionNode
 DECL|function|generateCompactList
 DECL|function|generateDetailedMember
 DECL|function|generateDetailedQmlMember
-DECL|function|generateDocNode
 DECL|function|generateDocs
+DECL|function|generateDocumentNode
 DECL|function|generateExtractionMark
 DECL|function|generateFooter
 DECL|function|generateFullName

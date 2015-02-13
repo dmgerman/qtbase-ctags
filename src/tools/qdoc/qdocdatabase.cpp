@@ -38,7 +38,6 @@ DECL|function|getServiceClasses
 DECL|function|getSinceMap
 DECL|function|indexSearchOrder
 DECL|function|initializeDB
-DECL|function|mergeCollectionMaps
 DECL|function|mergeCollections
 DECL|function|mergeCollections
 DECL|function|newIndexTree
