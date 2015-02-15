@@ -1,8 +1,12 @@
 DECL|function|AtSpiAdaptor
+DECL|function|AtSpiAttribute
 DECL|function|accessibleInterface
 DECL|function|accessibleInterfaces
 DECL|function|actionInterface
 DECL|function|applicationInterface
+DECL|function|atspiColor
+DECL|function|atspiSize
+DECL|function|atspiTextAttribute
 DECL|function|childrenChanged
 DECL|function|componentInterface
 DECL|function|editableTextInterface
@@ -21,6 +25,7 @@ DECL|function|handleMessage
 DECL|function|inheritsQAction
 DECL|function|interfaceFromPath
 DECL|function|introspect
+DECL|function|isNull
 DECL|function|notify
 DECL|function|notifyAboutCreation
 DECL|function|notifyAboutDestruction
@@ -46,4 +51,7 @@ DECL|function|variantForPath
 DECL|function|windowActivated
 DECL|function|~AtSpiAdaptor
 DECL|macro|qAtspiDebug
+DECL|member|name
+DECL|member|value
+DECL|struct|AtSpiAttribute
 DECL|variable|isDebugging
