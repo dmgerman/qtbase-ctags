@@ -2,6 +2,7 @@ DECL|function|QXcbNativeInterface
 DECL|function|addHandler
 DECL|function|appTime
 DECL|function|appUserTime
+DECL|function|atspiBus
 DECL|function|beep
 DECL|function|connectionForWindow
 DECL|function|display
