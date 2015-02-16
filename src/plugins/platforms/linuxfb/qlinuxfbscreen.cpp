@@ -5,6 +5,7 @@ DECL|function|determineFormat
 DECL|function|determineGeometry
 DECL|function|determinePhysicalSize
 DECL|function|doRedraw
+DECL|function|grabWindow
 DECL|function|initialize
 DECL|function|openFramebufferDevice
 DECL|function|openTtyDevice
