@@ -13,4 +13,5 @@ DECL|function|setGeometry
 DECL|function|setPhysicalSize
 DECL|function|topLevelAt
 DECL|function|topWindow
+DECL|function|windowForId
 DECL|function|~QFbScreen
