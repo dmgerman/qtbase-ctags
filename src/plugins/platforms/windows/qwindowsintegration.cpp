@@ -15,7 +15,6 @@ DECL|function|fontDatabase
 DECL|function|hasCapability
 DECL|function|initialize
 DECL|function|inputContext
-DECL|function|instance
 DECL|function|isQMLApplication
 DECL|function|keyBoardAutoRepeatRateMS
 DECL|function|openGLModuleType
@@ -36,6 +35,7 @@ DECL|member|m_context
 DECL|member|m_drag
 DECL|member|m_fontDatabase
 DECL|member|m_inputContext
+DECL|member|m_instance
 DECL|member|m_options
 DECL|member|m_services
 DECL|member|m_staticOpenGLContext

@@ -25,4 +25,5 @@ DECL|function|sync
 DECL|function|themeNames
 DECL|function|wmClass
 DECL|function|~QXcbIntegration
+DECL|member|m_instance
 DECL|variable|resourceNameVar
