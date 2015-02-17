@@ -102,6 +102,8 @@ DECL|function|qRectToXCBRectangle
 DECL|function|raise
 DECL|function|relayFocusToModalWindow
 DECL|function|requestActivateWindow
+DECL|function|requestSystemTrayWindowDock
+DECL|function|requestSystemTrayWindowDockStatic
 DECL|function|screenForNativeGeometry
 DECL|function|sendXEmbedMessage
 DECL|function|setAlertState
@@ -116,6 +118,8 @@ DECL|function|setNetWmStates
 DECL|function|setNetWmWindowFlags
 DECL|function|setOpacity
 DECL|function|setParent
+DECL|function|setParentRelativeBackPixmap
+DECL|function|setParentRelativeBackPixmapStatic
 DECL|function|setTransparentForMouseEvents
 DECL|function|setVisible
 DECL|function|setWindowFlags
@@ -126,6 +130,8 @@ DECL|function|setWmWindowType
 DECL|function|setWmWindowTypeStatic
 DECL|function|show
 DECL|function|startSystemResize
+DECL|function|systemTrayWindowGlobalGeometry
+DECL|function|systemTrayWindowGlobalGeometryStatic
 DECL|function|tlWindow
 DECL|function|toWindow
 DECL|function|updateDoesNotAcceptFocus
