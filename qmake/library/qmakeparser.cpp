@@ -19,6 +19,7 @@ DECL|function|putBlock
 DECL|function|putBlockLen
 DECL|function|putHashStr
 DECL|function|putLineMarker
+DECL|function|putOperator
 DECL|function|putTok
 DECL|function|read
 DECL|function|read
