@@ -46,6 +46,7 @@ DECL|function|positioning
 DECL|function|positioningDuringMinimized
 DECL|function|positioning_data
 DECL|function|received
+DECL|function|requestUpdate
 DECL|function|reset
 DECL|function|resetCounters
 DECL|function|resizeEventAfterResize

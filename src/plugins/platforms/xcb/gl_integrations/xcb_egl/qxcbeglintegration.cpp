@@ -3,4 +3,5 @@ DECL|function|createPlatformOffscreenSurface
 DECL|function|createPlatformOpenGLContext
 DECL|function|createWindow
 DECL|function|initialize
+DECL|function|xlib_display
 DECL|function|~QXcbEglIntegration
