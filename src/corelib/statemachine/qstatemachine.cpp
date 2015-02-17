@@ -18,6 +18,7 @@ DECL|function|addDefaultAnimation
 DECL|function|addDescendantStatesToEnter
 DECL|function|addState
 DECL|function|addStatesToEnter
+DECL|function|beginMacrostep
 DECL|function|beginMicrostep
 DECL|function|beginSelectTransitions
 DECL|function|cancelAllDelayedEvents
@@ -39,6 +40,7 @@ DECL|function|dequeueExternalEvent
 DECL|function|dequeueInternalEvent
 DECL|function|effectiveTargetStates
 DECL|function|emitStateFinished
+DECL|function|endMacrostep
 DECL|function|endMicrostep
 DECL|function|endSelectTransitions
 DECL|function|enterStates
@@ -83,6 +85,7 @@ DECL|function|maybeRegisterSignalTransition
 DECL|function|maybeRegisterTransition
 DECL|function|metaObject
 DECL|function|microstep
+DECL|function|noMicrostep
 DECL|function|onEntry
 DECL|function|onExit
 DECL|function|postDelayedEvent
@@ -90,6 +93,7 @@ DECL|function|postEvent
 DECL|function|postExternalEvent
 DECL|function|postInternalEvent
 DECL|function|processEvents
+DECL|function|processedPendingEvents
 DECL|function|qHash
 DECL|function|qcoreStateMachineHandler
 DECL|function|qt_metacall
