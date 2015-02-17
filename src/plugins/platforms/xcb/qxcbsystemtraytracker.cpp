@@ -10,3 +10,4 @@ DECL|function|notifyManagerClientMessageEvent
 DECL|function|requestSystemTrayWindowDock
 DECL|function|systemTrayWindowGlobalGeometry
 DECL|function|trayWindow
+DECL|function|visualHasAlphaChannel

@@ -54,6 +54,8 @@ DECL|function|ungrabServer
 DECL|function|unlock
 DECL|function|updateScreens
 DECL|function|windowEventListenerFromId
+DECL|function|xEmbedSystemTrayAvailable
+DECL|function|xEmbedSystemTrayVisualHasAlphaChannel
 DECL|function|xi2GetValuatorValueIfSet
 DECL|function|xi2PrepareXIGenericDeviceEvent
 DECL|function|xi2ValuatorOffset
