@@ -1,9 +1,11 @@
 DECL|function|QMakeParser
+DECL|function|acceptColon
 DECL|function|bogusTest
 DECL|function|discardFile
 DECL|function|discardFileFromCache
 DECL|function|discardFiles
 DECL|function|enterScope
+DECL|function|failOperator
 DECL|function|finalizeCall
 DECL|function|finalizeCond
 DECL|function|finalizeHashStr
@@ -24,6 +26,7 @@ DECL|function|putTok
 DECL|function|read
 DECL|function|read
 DECL|function|resolveVariable
+DECL|function|warnOperator
 DECL|function|~ProFileCache
 DECL|macro|FLUSH_LHS_LITERAL
 DECL|macro|FLUSH_LHS_LITERAL
