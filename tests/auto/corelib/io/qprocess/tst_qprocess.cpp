@@ -80,6 +80,9 @@ DECL|function|start
 DECL|function|startDetached
 DECL|function|startFailMessage
 DECL|function|startFinishStartFinish
+DECL|function|startStopStartStop
+DECL|function|startStopStartStopBuffers
+DECL|function|startStopStartStopBuffers_data
 DECL|function|startWithOldOpen
 DECL|function|startWithOpen
 DECL|function|switchReadChannels
