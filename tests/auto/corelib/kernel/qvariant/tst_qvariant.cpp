@@ -16,6 +16,7 @@ DECL|enumerator|EnumTest_Enum4_value
 DECL|enumerator|EnumTest_Enum5_value
 DECL|enumerator|EnumTest_Enum6_value
 DECL|enumerator|MetaEnsureSignedEnum0
+DECL|enumerator|MetaEnumTest_Enum0_dummy
 DECL|enumerator|MetaEnumTest_Enum0_value
 DECL|enumerator|MetaEnumTest_Enum1_bigValue
 DECL|enumerator|MetaEnumTest_Enum1_value
