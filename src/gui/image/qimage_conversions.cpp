@@ -27,6 +27,7 @@ DECL|function|convert_Indexed8_to_X32
 DECL|function|convert_Mono_to_Indexed8
 DECL|function|convert_Mono_to_X32
 DECL|function|convert_RGB30_to_RGB
+DECL|function|convert_RGB888_to_RGB
 DECL|function|convert_RGBA_to_ARGB
 DECL|function|convert_RGBA_to_ARGB_inplace
 DECL|function|convert_RGBA_to_RGB
@@ -49,6 +50,8 @@ DECL|function|mask_alpha_converter_inplace
 DECL|function|qGamma_correct_back_to_linear_cs
 DECL|function|qInitImageConversions
 DECL|function|qUnpremultiplyRgb30
+DECL|function|qt_convert_rgb888_to_rgb32
+DECL|function|qt_convert_rgb888_to_rgbx8888
 DECL|function|qt_get_bitflip_array
 DECL|function|swap_bit_order
 DECL|macro|DITHER
@@ -67,6 +70,7 @@ DECL|member|pix
 DECL|member|rgb
 DECL|member|used
 DECL|struct|QRgbMap
+DECL|typedef|Rgb888ToRgbConverter
 DECL|variable|bitflip
 DECL|variable|qimage_converter_map
 DECL|variable|qimage_inplace_converter_map
