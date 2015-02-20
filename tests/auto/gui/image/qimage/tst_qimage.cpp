@@ -23,6 +23,7 @@ DECL|function|createHeuristicMask
 DECL|function|createInvalidXPM
 DECL|function|deepCopyWhenPaintingActive
 DECL|function|destructor
+DECL|function|devicePixelRatio
 DECL|function|dotsPerMeterAndDpi
 DECL|function|dotsPerMeterZero
 DECL|function|exifOrientation
