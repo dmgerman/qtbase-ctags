@@ -13,6 +13,7 @@ DECL|function|QDistanceField
 DECL|function|QDistanceField
 DECL|function|QDistanceField
 DECL|function|QDistanceField
+DECL|function|QDistanceField
 DECL|function|QDistanceFieldData
 DECL|function|bits
 DECL|function|bits
