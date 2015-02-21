@@ -105,6 +105,7 @@ DECL|function|remoteCloseErrorSlot
 DECL|function|run
 DECL|function|run
 DECL|function|run
+DECL|function|serverDisconnectWithBuffered
 DECL|function|setInvalidSocketDescriptor
 DECL|function|setSocketDescriptor
 DECL|function|setSocketOption
