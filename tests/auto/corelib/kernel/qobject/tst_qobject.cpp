@@ -23,6 +23,7 @@ DECL|class|EmitThread
 DECL|class|EventSpy
 DECL|class|ExceptionThrower
 DECL|class|FooObject
+DECL|class|ForwardDeclareArguments
 DECL|class|FunctorArgDifferenceObject
 DECL|class|GetSenderObject
 DECL|class|LotsOfSignalsAndSlots
@@ -129,6 +130,7 @@ DECL|function|connectDisconnectNotifyPMF
 DECL|function|connectDisconnectNotifyTestSlot
 DECL|function|connectDisconnectNotify_data
 DECL|function|connectDisconnectNotify_shadowing
+DECL|function|connectForwardDeclare
 DECL|function|connectFunctorArgDifference
 DECL|function|connectFunctorDeadlock
 DECL|function|connectFunctorOverload_impl
@@ -227,6 +229,7 @@ DECL|function|metamethod
 DECL|function|moveToThread
 DECL|function|myFloat
 DECL|function|myQReal
+DECL|function|mySlot
 DECL|function|namespaces
 DECL|function|noDeclarativeParentChangedOnDestruction
 DECL|function|normalize
