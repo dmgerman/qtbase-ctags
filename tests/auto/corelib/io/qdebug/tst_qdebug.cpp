@@ -29,6 +29,7 @@ DECL|function|stateSaver
 DECL|function|textStreamModifiers
 DECL|function|threadSafeMessageHandler
 DECL|function|threadSafety
+DECL|function|verbosity
 DECL|function|veryLongWarningMessage
 DECL|function|warningWithoutDebug
 DECL|function|~MessageHandlerSetter
