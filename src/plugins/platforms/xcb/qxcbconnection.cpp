@@ -9,8 +9,11 @@ DECL|function|addWindowEventListener
 DECL|function|atomName
 DECL|function|checkEvent
 DECL|function|checkEvent
+DECL|function|checkOutputIsPrimary
+DECL|function|createScreen
 DECL|function|event
-DECL|function|findOrCreateScreen
+DECL|function|findScreenForCrtc
+DECL|function|findScreenForOutput
 DECL|function|formatForDepth
 DECL|function|getTimestamp
 DECL|function|grabServer
@@ -21,6 +24,7 @@ DECL|function|handleMotionNotify
 DECL|function|handleXcbError
 DECL|function|handleXcbEvent
 DECL|function|initializeAllAtoms
+DECL|function|initializeScreens
 DECL|function|initializeXFixes
 DECL|function|initializeXKB
 DECL|function|initializeXRandr
@@ -54,6 +58,7 @@ DECL|function|ungrabServer
 DECL|function|unlock
 DECL|function|updateScreens
 DECL|function|windowEventListenerFromId
+DECL|function|xcbScreenForRootWindow
 DECL|function|xi2GetValuatorValueIfSet
 DECL|function|xi2PrepareXIGenericDeviceEvent
 DECL|function|xi2ValuatorOffset
