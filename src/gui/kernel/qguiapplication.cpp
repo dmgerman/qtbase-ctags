@@ -169,6 +169,7 @@ DECL|member|platform_theme
 DECL|member|qt_clipboard
 DECL|member|screen_list
 DECL|member|self
+DECL|member|styleHints
 DECL|member|tabletPressTarget
 DECL|member|tabletState
 DECL|member|width

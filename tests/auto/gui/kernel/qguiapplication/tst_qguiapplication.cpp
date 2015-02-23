@@ -38,6 +38,8 @@ DECL|function|palette
 DECL|function|quitOnLastWindowClosed
 DECL|function|resetCounts
 DECL|function|setFocusObject
+DECL|function|settableStyleHints
+DECL|function|settableStyleHints_data
 DECL|function|topLevelWindows
 DECL|function|windowIcon
 DECL|member|blocked
