@@ -1,0 +1,2 @@
+DECL|function|colorSpaceToImageFormat
+DECL|function|imageFormatToColorSpace

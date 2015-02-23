@@ -34,6 +34,7 @@ DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|previousTransition
+DECL|function|set_union
 DECL|function|standardTimeOffset
 DECL|function|systemTimeZone
 DECL|function|systemTimeZoneId

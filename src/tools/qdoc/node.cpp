@@ -1,5 +1,5 @@
 DECL|function|ClassNode
-DECL|function|DocNode
+DECL|function|DocumentNode
 DECL|function|EnumNode
 DECL|function|FunctionNode
 DECL|function|FunctionNode
@@ -111,11 +111,12 @@ DECL|function|setAssociatedProperty
 DECL|function|setDoc
 DECL|function|setIncludes
 DECL|function|setLink
+DECL|function|setLogicalModuleInfo
+DECL|function|setLogicalModuleInfo
 DECL|function|setOverload
 DECL|function|setOverload
 DECL|function|setOverriddenFrom
 DECL|function|setPageType
-DECL|function|setQmlModuleInfo
 DECL|function|setReimp
 DECL|function|setReimplementedFrom
 DECL|function|setRelates

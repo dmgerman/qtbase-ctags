@@ -1,0 +1,3 @@
+DECL|macro|QHAIKURASTERWINDOWSURFACE_H
+DECL|variable|BBitmap
+DECL|variable|QHaikuRasterWindow

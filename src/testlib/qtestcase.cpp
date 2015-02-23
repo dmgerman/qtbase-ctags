@@ -33,6 +33,7 @@ DECL|function|qElementData
 DECL|function|qExec
 DECL|function|qExec
 DECL|function|qExpectFail
+DECL|function|qExtractTestData
 DECL|function|qFail
 DECL|function|qFindTestData
 DECL|function|qFindTestData

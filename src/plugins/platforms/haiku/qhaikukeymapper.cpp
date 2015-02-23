@@ -1,0 +1,3 @@
+DECL|function|translateKeyCode
+DECL|variable|Haiku_ScanCodes
+DECL|variable|Haiku_ScanCodes_Numlock

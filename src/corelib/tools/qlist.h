@@ -11,6 +11,8 @@ DECL|function|node_construct
 DECL|function|node_copy
 DECL|function|node_destruct
 DECL|function|node_destruct
+DECL|function|op_eq_impl
+DECL|function|op_eq_impl
 DECL|function|removeAll
 DECL|function|removeOne
 DECL|function|size
@@ -26,6 +28,9 @@ DECL|member|operator
 DECL|member|ref
 DECL|member|shared_null
 DECL|struct|Data
+DECL|struct|NotArrayCompatibleLayout
+DECL|struct|NotIndirectLayout
+DECL|struct|NotIndirectLayout
 DECL|struct|QListData
 DECL|struct|QListSpecialMethods
 DECL|variable|QByteArray

@@ -11,8 +11,10 @@ DECL|function|QOpenGLFunctions_1_4_CoreBackend
 DECL|function|QOpenGLFunctions_1_4_DeprecatedBackend
 DECL|function|QOpenGLFunctions_1_5_CoreBackend
 DECL|function|QOpenGLFunctions_2_0_CoreBackend
+DECL|function|QOpenGLFunctions_2_0_DeprecatedBackend
 DECL|function|QOpenGLFunctions_2_1_CoreBackend
 DECL|function|QOpenGLFunctions_3_0_CoreBackend
+DECL|function|QOpenGLFunctions_3_0_DeprecatedBackend
 DECL|function|QOpenGLFunctions_3_1_CoreBackend
 DECL|function|QOpenGLFunctions_3_2_CoreBackend
 DECL|function|QOpenGLFunctions_3_3_CoreBackend
@@ -31,6 +33,8 @@ DECL|function|isInitialized
 DECL|function|owningContext
 DECL|function|removeFunctionsBackend
 DECL|function|setOwningContext
+DECL|function|versionStatus
+DECL|function|versionStatus
 DECL|function|versionStatus
 DECL|function|versionStatus
 DECL|function|versionStatus

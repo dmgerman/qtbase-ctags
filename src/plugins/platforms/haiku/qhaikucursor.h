@@ -1,0 +1,1 @@
+DECL|macro|QHAIKUCURSOR_H

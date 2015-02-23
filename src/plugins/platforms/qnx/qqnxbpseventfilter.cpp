@@ -2,9 +2,7 @@ DECL|function|QQnxBpsEventFilter
 DECL|function|handleNavigatorEvent
 DECL|function|installOnEventDispatcher
 DECL|function|nativeEventFilter
-DECL|function|registerForDialogEvents
 DECL|function|registerForScreenEvents
-DECL|function|unregisterForDialogEvents
 DECL|function|unregisterForScreenEvents
 DECL|function|~QQnxBpsEventFilter
 DECL|macro|qBpsEventFilterDebug

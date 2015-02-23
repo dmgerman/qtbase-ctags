@@ -4,6 +4,8 @@ DECL|function|buildArgs
 DECL|function|build_args
 DECL|function|canExecute
 DECL|function|createObjectList
+DECL|function|depVar
+DECL|function|escapeDependencyPath
 DECL|function|escapeDependencyPaths
 DECL|function|escapeDependencyPaths
 DECL|function|escapeFilePath
@@ -13,6 +15,9 @@ DECL|function|fileFixify
 DECL|function|fileFixify
 DECL|function|fileInfo
 DECL|function|filePrefixRoot
+DECL|function|fileVar
+DECL|function|fileVarGlue
+DECL|function|fileVarList
 DECL|function|filterIncludedFiles
 DECL|function|findDependencies
 DECL|function|findFileForDep
@@ -20,6 +25,8 @@ DECL|function|findFileInfo
 DECL|function|findFilesInVPATH
 DECL|function|findSubDirsSubTargets
 DECL|function|fixFileVarGlue
+DECL|function|fixLibFlag
+DECL|function|fixLibFlags
 DECL|function|fixPathForFile
 DECL|function|init
 DECL|function|initCompiler
@@ -42,10 +49,6 @@ DECL|function|replaceExtraCompilerVariables
 DECL|function|setProjectFile
 DECL|function|shellQuote
 DECL|function|specdir
-DECL|function|unescapeFilePath
-DECL|function|unescapeFilePath
-DECL|function|unescapeFilePaths
-DECL|function|unescapeFilePaths
 DECL|function|val
 DECL|function|val
 DECL|function|valGlue
