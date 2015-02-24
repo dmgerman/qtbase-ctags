@@ -1,8 +1,10 @@
 DECL|function|QFbVtHandler
-DECL|function|cleanup
-DECL|function|crashHandler
+DECL|function|handleInt
+DECL|function|handleSignal
+DECL|function|restoreKeyboard
+DECL|function|suspend
 DECL|function|~QFbVtHandler
-DECL|macro|HAS_VT
 DECL|macro|KBD_OFF_MODE
 DECL|macro|KBD_OFF_MODE
-DECL|member|self
+DECL|macro|KDSKBMUTE
+DECL|macro|VTH_ENABLED
