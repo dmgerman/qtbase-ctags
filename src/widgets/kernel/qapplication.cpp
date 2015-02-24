@@ -128,6 +128,7 @@ DECL|function|widgetAt
 DECL|function|windowIcon
 DECL|function|~QApplication
 DECL|function|~QApplicationPrivate
+DECL|macro|CHECK_QAPP_INSTANCE
 DECL|member|active_window
 DECL|member|app_cspec
 DECL|member|app_strut

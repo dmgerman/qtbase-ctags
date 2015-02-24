@@ -86,6 +86,7 @@ DECL|function|setFont
 DECL|function|setFont_data
 DECL|function|settableStyleHints
 DECL|function|settableStyleHints_data
+DECL|function|staticFunctions
 DECL|function|staticSetup
 DECL|function|style
 DECL|function|task109149

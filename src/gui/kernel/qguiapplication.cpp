@@ -141,6 +141,7 @@ DECL|function|updateFilteredScreenOrientation
 DECL|function|windowIcon
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
+DECL|macro|CHECK_QAPP_INSTANCE
 DECL|member|app_font
 DECL|member|app_icon
 DECL|member|app_pal
