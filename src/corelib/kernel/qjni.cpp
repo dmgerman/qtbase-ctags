@@ -106,6 +106,7 @@ DECL|function|callStaticObjectMethodV
 DECL|function|callStaticObjectMethodV
 DECL|function|exceptionCheckAndClear
 DECL|function|findClass
+DECL|function|fromLocalRef
 DECL|function|fromString
 DECL|function|getCachedClass
 DECL|function|getCachedFieldID
