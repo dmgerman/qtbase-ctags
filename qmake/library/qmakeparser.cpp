@@ -12,6 +12,16 @@ DECL|function|finalizeHashStr
 DECL|function|finalizeTest
 DECL|function|flushCond
 DECL|function|flushScopes
+DECL|function|formatProBlock
+DECL|function|getBlock
+DECL|function|getHashStr
+DECL|function|getRawStr
+DECL|function|getRawUint
+DECL|function|getRawUshort
+DECL|function|getStr
+DECL|function|getSubBlock
+DECL|function|getUint
+DECL|function|getUshort
 DECL|function|initialize
 DECL|function|leaveScope
 DECL|function|message
@@ -28,6 +38,7 @@ DECL|function|read
 DECL|function|resolveVariable
 DECL|function|warnOperator
 DECL|function|~ProFileCache
+DECL|macro|BOUNDS_CHECK
 DECL|macro|FLUSH_LHS_LITERAL
 DECL|macro|FLUSH_LHS_LITERAL
 DECL|macro|FLUSH_LITERAL
