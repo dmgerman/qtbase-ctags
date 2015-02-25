@@ -5,8 +5,11 @@ DECL|function|findComposeFile
 DECL|function|findSystemComposeDir
 DECL|function|fromBase16
 DECL|function|fromBase8
+DECL|function|getCacheFilePath
 DECL|function|initPossibleLocations
 DECL|function|keysymToUtf8
+DECL|function|loadCache
+DECL|function|localHostName
 DECL|function|locale
 DECL|function|orderComposeTable
 DECL|function|parseComposeFile
@@ -14,7 +17,15 @@ DECL|function|parseIncludeInstruction
 DECL|function|parseKeySequence
 DECL|function|printComposeTable
 DECL|function|processFile
+DECL|function|readFileMetadata
 DECL|function|readLocaleAliases
 DECL|function|readLocaleMappings
+DECL|function|saveCache
 DECL|function|systemComposeDir
 DECL|function|~TableGenerator
+DECL|member|cacheVersion
+DECL|member|fileSize
+DECL|member|lastModified
+DECL|member|reserved
+DECL|struct|QComposeCacheFileHeader
+DECL|variable|SupportedCacheVersion
