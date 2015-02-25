@@ -22,6 +22,7 @@ DECL|function|comment
 DECL|function|country
 DECL|function|country
 DECL|function|data
+DECL|function|data
 DECL|function|dataForLocalTime
 DECL|function|daylightTimeOffset
 DECL|function|daylightTimeOffset

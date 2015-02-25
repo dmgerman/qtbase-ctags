@@ -6,6 +6,7 @@ DECL|function|createPlatformWindow
 DECL|function|fontDatabase
 DECL|function|hasCapability
 DECL|function|initialize
+DECL|function|nativeInterface
 DECL|function|screens
 DECL|function|services
 DECL|function|~QLinuxFbIntegration

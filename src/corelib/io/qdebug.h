@@ -4,6 +4,7 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
+DECL|function|operator
 DECL|macro|QDEBUG_H
 DECL|macro|QT_FORWARD_DECLARE_CF_TYPE
 DECL|macro|QT_FORWARD_DECLARE_CF_TYPE
@@ -19,6 +20,7 @@ DECL|macro|QT_FOR_EACH_CORE_GRAPHICS_TYPE
 DECL|macro|QT_FOR_EACH_MUTABLE_CORE_FOUNDATION_TYPE
 DECL|macro|QT_FOR_EACH_MUTABLE_CORE_GRAPHICS_TYPE
 DECL|macro|Q_DECLARE_QDEBUG_OPERATOR_FOR_CF_TYPE
+DECL|member|Value
 DECL|member|operator
 DECL|variable|NSObject
 DECL|variable|QT_FORWARD_DECLARE_CF_TYPE

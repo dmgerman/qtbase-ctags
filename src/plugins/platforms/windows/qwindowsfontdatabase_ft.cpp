@@ -2,10 +2,16 @@ DECL|function|addFontToDatabase
 DECL|function|createFontFile
 DECL|function|defaultFont
 DECL|function|fallbacksForFamily
+DECL|function|findFontFile
+DECL|function|findFontKey
 DECL|function|fontDir
 DECL|function|fontEngine
 DECL|function|fontEngine
+DECL|function|fontKeys
 DECL|function|fontNameFromTTFile
+DECL|function|fontSettingsApplication
+DECL|function|fontSettingsGroup
+DECL|function|fontSettingsOrganization
 DECL|function|getFntTable
 DECL|function|populate
 DECL|function|populateFontDatabase
@@ -14,6 +20,8 @@ DECL|function|writingSystemFromCharSet
 DECL|member|checkSum
 DECL|member|encodingID
 DECL|member|entrySelector
+DECL|member|fileName
+DECL|member|fontNames
 DECL|member|fontSelector
 DECL|member|languageID
 DECL|member|length
@@ -30,6 +38,8 @@ DECL|member|storageOffset
 DECL|member|stringLength
 DECL|member|stringOffset
 DECL|member|tag
+DECL|struct|FontKey
+DECL|typedef|FontKeys
 DECL|typedef|NAME_RECORD
 DECL|typedef|NAME_TABLE_HEADER
 DECL|typedef|OFFSET_TABLE

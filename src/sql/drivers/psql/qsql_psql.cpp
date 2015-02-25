@@ -8,6 +8,7 @@ DECL|function|QPSQLResult
 DECL|function|QPSQLResultPrivate
 DECL|function|_q_handleNotification
 DECL|function|appendTables
+DECL|function|assignSpecialPsqlFloatValue
 DECL|function|beginTransaction
 DECL|function|cleanup
 DECL|function|close

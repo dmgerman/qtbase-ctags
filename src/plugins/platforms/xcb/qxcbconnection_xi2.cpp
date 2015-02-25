@@ -5,7 +5,9 @@ DECL|function|handleEnterEvent
 DECL|function|initializeXInput2
 DECL|function|toolIdToTabletDevice
 DECL|function|touchDeviceForId
+DECL|function|updateScrollingDevice
 DECL|function|valuatorNormalized
+DECL|function|xi2HandleDeviceChangedEvent
 DECL|function|xi2HandleEvent
 DECL|function|xi2HandleHierachyEvent
 DECL|function|xi2HandleScrollEvent
