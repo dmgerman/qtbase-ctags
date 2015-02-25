@@ -17,6 +17,7 @@ DECL|function|grabServer
 DECL|function|handleButtonPress
 DECL|function|handleButtonRelease
 DECL|function|handleClientMessageEvent
+DECL|function|handleMotionNotify
 DECL|function|handleXcbError
 DECL|function|handleXcbEvent
 DECL|function|initializeAllAtoms

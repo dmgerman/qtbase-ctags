@@ -129,6 +129,8 @@ DECL|function|prev
 DECL|function|prev_data
 DECL|function|psql_bindWithDoubleColonCastOperator
 DECL|function|psql_bindWithDoubleColonCastOperator_data
+DECL|function|psql_specialFloatValues
+DECL|function|psql_specialFloatValues_data
 DECL|function|queryOnInvalidDatabase
 DECL|function|queryOnInvalidDatabase_data
 DECL|function|query_exec

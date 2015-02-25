@@ -18,6 +18,7 @@ DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|contentsRect
 DECL|function|distributeMultiCell
+DECL|function|dontCrashWhenExtendsToEnd
 DECL|function|getItemPosition
 DECL|function|heightForWidth
 DECL|function|init
