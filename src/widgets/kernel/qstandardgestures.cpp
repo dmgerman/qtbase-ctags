@@ -18,3 +18,5 @@ DECL|function|reset
 DECL|function|reset
 DECL|function|reset
 DECL|function|reset
+DECL|variable|kSingleStepScaleMax
+DECL|variable|kSingleStepScaleMin
