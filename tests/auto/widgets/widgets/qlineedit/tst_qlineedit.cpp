@@ -19,6 +19,7 @@ DECL|enum|State
 DECL|function|InputMaskValidator
 DECL|function|LineEdit
 DECL|function|QIntFixValidator
+DECL|function|QTBUG1266_setInputMaskEmittingTextEdited
 DECL|function|QTBUG13520_textNotVisible
 DECL|function|QTBUG16850_setSelection
 DECL|function|QTBUG5786_undoPaste
