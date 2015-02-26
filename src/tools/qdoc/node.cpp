@@ -28,6 +28,7 @@ DECL|function|addMember
 DECL|function|addParameter
 DECL|function|addResolvedBaseClass
 DECL|function|addUnresolvedBaseClass
+DECL|function|addUnresolvedUsingClause
 DECL|function|borrowParameterNames
 DECL|function|cleanId
 DECL|function|clearPropertyGroupCount
