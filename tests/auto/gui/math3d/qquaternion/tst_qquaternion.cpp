@@ -8,6 +8,8 @@ DECL|function|conjugate_data
 DECL|function|create
 DECL|function|divide
 DECL|function|divide_data
+DECL|function|dotProduct
+DECL|function|dotProduct_data
 DECL|function|fromAxisAndAngle
 DECL|function|fromAxisAndAngle_data
 DECL|function|fromEulerAngles
