@@ -16,5 +16,6 @@ DECL|function|operator <<
 DECL|function|operator >>
 DECL|function|operator QVariant
 DECL|function|rotatedVector
+DECL|function|rotationTo
 DECL|function|slerp
 DECL|function|toRotationMatrix

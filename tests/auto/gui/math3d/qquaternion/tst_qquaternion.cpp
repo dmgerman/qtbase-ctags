@@ -42,6 +42,8 @@ DECL|function|normalized
 DECL|function|normalized_data
 DECL|function|properties
 DECL|function|quaternion
+DECL|function|rotationTo
+DECL|function|rotationTo_data
 DECL|function|setQuaternion
 DECL|function|slerp
 DECL|function|slerp_data
