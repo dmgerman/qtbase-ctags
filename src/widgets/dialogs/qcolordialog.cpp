@@ -248,6 +248,8 @@ DECL|member|nrows
 DECL|member|ok
 DECL|member|oldCurrent
 DECL|member|options
+DECL|member|pHeight
+DECL|member|pWidth
 DECL|member|pix
 DECL|member|pix
 DECL|member|pressPos
@@ -275,5 +277,3 @@ DECL|member|val
 DECL|member|values
 DECL|struct|QWellArrayData
 DECL|variable|DefaultWindowFlags
-DECL|variable|pHeight
-DECL|variable|pWidth
