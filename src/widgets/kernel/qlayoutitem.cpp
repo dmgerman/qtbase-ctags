@@ -33,6 +33,7 @@ DECL|function|setGeometry
 DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|sizeHint
+DECL|function|sizePolicy
 DECL|function|spacerItem
 DECL|function|spacerItem
 DECL|function|toLayoutItemRect
