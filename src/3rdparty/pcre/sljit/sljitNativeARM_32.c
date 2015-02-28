@@ -30,6 +30,9 @@ DECL|function|sljit_emit_enter
 DECL|function|sljit_emit_fast_enter
 DECL|function|sljit_emit_fast_return
 DECL|function|sljit_emit_fop1
+DECL|function|sljit_emit_fop1_cmp
+DECL|function|sljit_emit_fop1_convd_fromw
+DECL|function|sljit_emit_fop1_convw_fromd
 DECL|function|sljit_emit_fop2
 DECL|function|sljit_emit_ijump
 DECL|function|sljit_emit_jump
@@ -81,7 +84,6 @@ DECL|macro|EMIT_FPU_OPERATION
 DECL|macro|EMIT_FPU_OPERATION
 DECL|macro|EMIT_FULL_DATA_PROCESS_INS_AND_RETURN
 DECL|macro|EMIT_FULL_DATA_PROCESS_INS_AND_RETURN
-DECL|macro|EMIT_INSTRUCTION
 DECL|macro|EMIT_SHIFT_INS_AND_RETURN
 DECL|macro|EMIT_SHIFT_INS_AND_RETURN
 DECL|macro|EOR_DP
@@ -134,7 +136,11 @@ DECL|macro|UXTH
 DECL|macro|VABS_F32
 DECL|macro|VADD_F32
 DECL|macro|VCMP_F32
+DECL|macro|VCVT_F32_S32
+DECL|macro|VCVT_F64_F32
+DECL|macro|VCVT_S32_F32
 DECL|macro|VDIV_F32
+DECL|macro|VMOV
 DECL|macro|VMOV_F32
 DECL|macro|VMRS
 DECL|macro|VMUL_F32

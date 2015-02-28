@@ -8,6 +8,7 @@ DECL|function|add_jump
 DECL|function|add_label_addr
 DECL|function|add_prefix_byte
 DECL|function|add_stub
+DECL|function|allocate_read_only_data
 DECL|function|allocate_stack
 DECL|function|bracketend
 DECL|function|byte_sequence_compare
@@ -73,6 +74,7 @@ DECL|function|fast_forward_first_n_chars
 DECL|function|fast_forward_newline
 DECL|function|fast_forward_start_bits
 DECL|function|flush_stubs
+DECL|function|free_read_only_data
 DECL|function|free_stack
 DECL|function|get_class_iterator_size
 DECL|function|get_framesize
@@ -208,7 +210,6 @@ DECL|macro|UCD_BLOCK_MASK
 DECL|macro|UCD_BLOCK_SHIFT
 DECL|member|accept
 DECL|member|accept_label
-DECL|member|addr
 DECL|member|alternative_matchingpath
 DECL|member|anynewline
 DECL|member|asbyte
@@ -323,10 +324,8 @@ DECL|member|quit
 DECL|member|quit
 DECL|member|quit
 DECL|member|quit_label
-DECL|member|read_only_data
-DECL|member|read_only_data
-DECL|member|read_only_data_ptr
-DECL|member|read_only_data_size
+DECL|member|read_only_data_head
+DECL|member|read_only_data_heads
 DECL|member|real_offset_count
 DECL|member|recursive_head_ptr
 DECL|member|recursive_matchingpath
@@ -354,6 +353,7 @@ DECL|member|topbacktracks
 DECL|member|u
 DECL|member|uchar_ptr
 DECL|member|ucharptr
+DECL|member|update_addr
 DECL|member|use_ucp
 DECL|member|userdata
 DECL|member|utf

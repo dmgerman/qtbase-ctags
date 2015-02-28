@@ -83,6 +83,7 @@ DECL|enumerator|ERR82
 DECL|enumerator|ERR83
 DECL|enumerator|ERR84
 DECL|enumerator|ERR85
+DECL|enumerator|ERR86
 DECL|enumerator|ERR9
 DECL|enumerator|ERRCOUNT
 DECL|enumerator|ESC_A
@@ -1143,6 +1144,7 @@ DECL|member|hasthen
 DECL|member|hitend
 DECL|member|hwm
 DECL|member|ignore_skip_arg
+DECL|member|iscondassert
 DECL|member|jscript_compat
 DECL|member|lcc
 DECL|member|lcc
