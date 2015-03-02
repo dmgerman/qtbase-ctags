@@ -107,6 +107,7 @@ DECL|function|create
 DECL|function|create
 DECL|function|create
 DECL|function|create
+DECL|function|create
 DECL|function|createCopy
 DECL|function|createCopy_data
 DECL|function|createTypeName
@@ -290,6 +291,7 @@ DECL|struct|RegisterMetaTypeStruct
 DECL|struct|RegisterMetaTypeStructDefaultTemplateValue
 DECL|struct|SecondBase
 DECL|struct|StreamingTraits
+DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory
 DECL|struct|TestValueFactory

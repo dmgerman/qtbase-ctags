@@ -46,6 +46,7 @@ DECL|function|QVariant
 DECL|function|QVariant
 DECL|function|QVariant
 DECL|function|QVariant
+DECL|function|QVariant
 DECL|function|at
 DECL|function|begin
 DECL|function|begin
@@ -175,6 +176,7 @@ DECL|function|toLocale
 DECL|function|toLongLong
 DECL|function|toMap
 DECL|function|toModelIndex
+DECL|function|toPersistentModelIndex
 DECL|function|toPoint
 DECL|function|toPointF
 DECL|function|toReal
