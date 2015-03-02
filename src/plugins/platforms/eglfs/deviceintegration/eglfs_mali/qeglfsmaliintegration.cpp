@@ -1,0 +1,3 @@
+DECL|function|createNativeWindow
+DECL|function|destroyNativeWindow
+DECL|function|platformInit

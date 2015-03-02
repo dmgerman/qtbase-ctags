@@ -1,4 +1,3 @@
-DECL|class|QEglFSPiHooks
 DECL|function|createDispmanxLayer
 DECL|function|createNativeWindow
 DECL|function|destroyDispmanxLayer
@@ -9,5 +8,3 @@ DECL|function|platformDisplay
 DECL|function|platformInit
 DECL|function|screenSize
 DECL|variable|dispman_display
-DECL|variable|eglFSPiHooks
-DECL|variable|platformHooks
