@@ -124,6 +124,8 @@ DECL|function|setTransparentForMouseEvents
 DECL|function|setVisible
 DECL|function|setWindowFlags
 DECL|function|setWindowIcon
+DECL|function|setWindowIconText
+DECL|function|setWindowIconTextStatic
 DECL|function|setWindowState
 DECL|function|setWindowTitle
 DECL|function|setWmWindowType
