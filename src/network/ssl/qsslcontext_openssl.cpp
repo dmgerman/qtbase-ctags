@@ -5,6 +5,7 @@ DECL|function|error
 DECL|function|errorString
 DECL|function|fromConfiguration
 DECL|function|get_dh1024
+DECL|function|msgErrorSettingEllipticCurves
 DECL|function|next_proto_cb
 DECL|function|npnContext
 DECL|function|sessionASN1

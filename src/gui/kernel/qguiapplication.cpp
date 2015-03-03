@@ -130,7 +130,6 @@ DECL|function|shouldQuitInternal
 DECL|function|showModalWindow
 DECL|function|styleHints
 DECL|function|sync
-DECL|function|synthesizeMouseFromTouchEventsEnabled
 DECL|function|topLevelAt
 DECL|function|topLevelWindows
 DECL|function|tryCloseAllWindows
@@ -142,6 +141,7 @@ DECL|function|updateFilteredScreenOrientation
 DECL|function|windowIcon
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
+DECL|macro|CHECK_QAPP_INSTANCE
 DECL|member|app_font
 DECL|member|app_icon
 DECL|member|app_pal
@@ -170,6 +170,7 @@ DECL|member|platform_theme
 DECL|member|qt_clipboard
 DECL|member|screen_list
 DECL|member|self
+DECL|member|styleHints
 DECL|member|tabletPressTarget
 DECL|member|tabletState
 DECL|member|width

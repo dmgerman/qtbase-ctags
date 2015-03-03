@@ -3,9 +3,12 @@ DECL|function|cursor
 DECL|function|depthOfVisual
 DECL|function|devicePixelRatio
 DECL|function|format
+DECL|function|formatRect
+DECL|function|formatSizeF
 DECL|function|grabWindow
 DECL|function|handleScreenChange
 DECL|function|logicalDpi
+DECL|function|operator <<
 DECL|function|parseXftHintStyle
 DECL|function|parseXftInt
 DECL|function|parseXftRgba

@@ -2,6 +2,8 @@ DECL|function|ImportRec
 DECL|function|RelatedClass
 DECL|function|RelatedClass
 DECL|function|RelatedClass
+DECL|function|UsingClause
+DECL|function|UsingClause
 DECL|function|VariableNode
 DECL|function|addFunction
 DECL|function|addSignal
@@ -11,7 +13,10 @@ DECL|function|importUri
 DECL|function|isEmpty
 DECL|function|isPrivate
 DECL|function|name
+DECL|function|node
 DECL|function|setFlagsType
+DECL|function|setNode
+DECL|function|signature
 DECL|function|version
 DECL|macro|NODE_H
 DECL|member|access_
@@ -19,11 +24,14 @@ DECL|member|importId_
 DECL|member|importUri_
 DECL|member|name_
 DECL|member|node_
+DECL|member|node_
 DECL|member|path_
+DECL|member|signature_
 DECL|member|signature_
 DECL|member|version_
 DECL|struct|ImportRec
 DECL|struct|RelatedClass
+DECL|struct|UsingClause
 DECL|typedef|CNMap
 DECL|typedef|CNMultiMap
 DECL|typedef|ImportList
