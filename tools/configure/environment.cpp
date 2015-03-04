@@ -8,6 +8,7 @@ DECL|function|detectQMakeSpec
 DECL|function|execute
 DECL|function|execute
 DECL|function|findFileInPaths
+DECL|function|gccVersion
 DECL|function|headerPaths
 DECL|function|libraryPaths
 DECL|function|mingwPaths
