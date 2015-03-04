@@ -59,6 +59,7 @@ DECL|function|maximumSize
 DECL|function|minimumSize
 DECL|function|minimumSize
 DECL|function|minimumSize
+DECL|function|moveTab
 DECL|function|next
 DECL|function|operator =
 DECL|function|paintSep
@@ -104,6 +105,7 @@ DECL|function|tabBarMinimumSize
 DECL|function|tabBarSizeHint
 DECL|function|tabContentRect
 DECL|function|tabId
+DECL|function|tabIndexToListIndex
 DECL|function|tabifyDockWidget
 DECL|function|takeAt
 DECL|function|takeAt

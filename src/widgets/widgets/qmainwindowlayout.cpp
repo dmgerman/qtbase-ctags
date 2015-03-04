@@ -82,6 +82,7 @@ DECL|function|startSeparatorMove
 DECL|function|statusBar
 DECL|function|tabBarShapeFrom
 DECL|function|tabChanged
+DECL|function|tabMoved
 DECL|function|tabPosition
 DECL|function|tabShape
 DECL|function|tabifyDockWidget
