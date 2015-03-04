@@ -24,6 +24,7 @@ DECL|function|setScreenSize
 DECL|function|styleHint
 DECL|function|themeNames
 DECL|function|~QAndroidPlatformIntegration
+DECL|member|m_defaultApplicationState
 DECL|member|m_defaultGeometryHeight
 DECL|member|m_defaultGeometryWidth
 DECL|member|m_defaultPhysicalSizeHeight
