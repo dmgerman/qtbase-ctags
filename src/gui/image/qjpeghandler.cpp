@@ -8,7 +8,6 @@ DECL|function|QJpegHandlerPrivate
 DECL|function|applyExifOrientation
 DECL|function|canRead
 DECL|function|canRead
-DECL|function|convert_rgb888_to_rgb32_C
 DECL|function|ensureValidImage
 DECL|function|getExifOrientation
 DECL|function|my_error_exit
