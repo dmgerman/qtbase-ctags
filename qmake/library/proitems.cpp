@@ -21,6 +21,8 @@ DECL|function|append
 DECL|function|append
 DECL|function|contains
 DECL|function|contains
+DECL|function|getHashStr
+DECL|function|getStr
 DECL|function|hash
 DECL|function|insertUnique
 DECL|function|join
