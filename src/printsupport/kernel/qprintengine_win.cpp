@@ -25,11 +25,13 @@ DECL|function|indexOfWindowsId
 DECL|function|initHDC
 DECL|function|initialize
 DECL|function|metric
+DECL|function|msgBeginFailed
 DECL|function|newPage
 DECL|function|printerState
 DECL|function|property
 DECL|function|release
 DECL|function|releaseDC
+DECL|function|resetDC
 DECL|function|setGlobalDevMode
 DECL|function|setPageSize
 DECL|function|setProperty
