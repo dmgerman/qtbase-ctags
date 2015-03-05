@@ -19,6 +19,8 @@ DECL|function|floatingPointNaN
 DECL|function|floatingPointPrecision
 DECL|function|getSetCheck
 DECL|function|isSequential
+DECL|function|nestedTransactionsResult
+DECL|function|nestedTransactionsResult_data
 DECL|function|pos
 DECL|function|qBrushData
 DECL|function|qByteArrayData
@@ -139,6 +141,8 @@ DECL|function|stream_qint64
 DECL|function|stream_qint64_data
 DECL|function|stream_writeError
 DECL|function|stringData
+DECL|function|transaction
+DECL|function|transaction_data
 DECL|function|writeData
 DECL|function|writeHash
 DECL|function|writeMap
