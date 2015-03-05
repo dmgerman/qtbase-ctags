@@ -1,4 +1,8 @@
+DECL|class|QDockWidgetGroupLayout
+DECL|class|QDockWidgetGroupWindowItem
 DECL|class|QMainWindowTabBar
+DECL|function|QDockWidgetGroupLayout
+DECL|function|QDockWidgetGroupWindowItem
 DECL|function|QMainWindowLayout
 DECL|function|QMainWindowLayoutState
 DECL|function|QMainWindowTabBar
@@ -6,6 +10,7 @@ DECL|function|addDockWidget
 DECL|function|addItem
 DECL|function|addToolBar
 DECL|function|addToolBarBreak
+DECL|function|adjustFlags
 DECL|function|animationFinished
 DECL|function|apply
 DECL|function|applyState
@@ -16,8 +21,11 @@ DECL|function|clear
 DECL|function|contains
 DECL|function|corner
 DECL|function|count
+DECL|function|createTabbedDockWindow
 DECL|function|deleteAllLayoutItems
 DECL|function|deleteCentralWidgetItem
+DECL|function|destroyIfEmpty
+DECL|function|dockInfo
 DECL|function|dockWidgetArea
 DECL|function|documentMode
 DECL|function|dumpLayout
@@ -25,9 +33,11 @@ DECL|function|dumpLayout
 DECL|function|dumpLayout
 DECL|function|endSeparatorMove
 DECL|function|event
+DECL|function|event
 DECL|function|findChildrenHelper
 DECL|function|fitLayout
 DECL|function|fixToolBarOrientation
+DECL|function|frameWidth
 DECL|function|gapIndex
 DECL|function|gapRect
 DECL|function|getSeparatorWidget
@@ -45,11 +55,18 @@ DECL|function|itemAt
 DECL|function|itemAt
 DECL|function|itemRect
 DECL|function|keepSize
+DECL|function|lay
+DECL|function|layoutInfo
+DECL|function|layoutInfo
 DECL|function|minimumSize
 DECL|function|minimumSize
+DECL|function|mouseMoveEvent
+DECL|function|mouseReleaseEvent
 DECL|function|moveToolBar
+DECL|function|nativeWindowDeco
 DECL|function|operator <<
 DECL|function|operator <<
+DECL|function|paintEvent
 DECL|function|plug
 DECL|function|plug
 DECL|function|raise
@@ -98,11 +115,19 @@ DECL|function|toToolBarArea
 DECL|function|toggleToolBarsVisible
 DECL|function|toolBarArea
 DECL|function|toolBarBreak
+DECL|function|topDockWidget
 DECL|function|unplug
 DECL|function|unplug
 DECL|function|updateGapIndicator
 DECL|function|updateTabBarShapes
 DECL|function|usesHIToolBar
 DECL|function|validateToolBarArea
+DECL|function|~QDockWidgetGroupLayout
 DECL|function|~QMainWindowLayout
 DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|draggingDock
+DECL|member|info
+DECL|member|mainWindow
+DECL|member|resizer

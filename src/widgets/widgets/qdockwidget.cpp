@@ -21,7 +21,6 @@ DECL|function|init
 DECL|function|initDrag
 DECL|function|initStyleOption
 DECL|function|isAnimating
-DECL|function|isXcb
 DECL|function|itemAt
 DECL|function|itemForRole
 DECL|function|leaveEvent
@@ -43,6 +42,7 @@ DECL|function|paintEvent
 DECL|function|perp
 DECL|function|pick
 DECL|function|plug
+DECL|function|qt_mainwindow_layout_from_dock
 DECL|function|setAllowedAreas
 DECL|function|setFeatures
 DECL|function|setFloating
@@ -66,6 +66,7 @@ DECL|function|unplug
 DECL|function|updateButtons
 DECL|function|widget
 DECL|function|widgetForRole
+DECL|function|wmSupportsNativeWindowDeco
 DECL|function|~QDockWidget
 DECL|function|~QDockWidgetLayout
 DECL|member|Q_DECL_OVERRIDE

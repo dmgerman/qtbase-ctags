@@ -73,6 +73,7 @@ DECL|function|realMaxSize
 DECL|function|realMinSize
 DECL|function|remove
 DECL|function|remove
+DECL|function|reparentWidgets
 DECL|function|restoreDockWidget
 DECL|function|restoreState
 DECL|function|restoreState
