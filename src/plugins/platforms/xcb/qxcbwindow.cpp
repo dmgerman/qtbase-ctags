@@ -100,6 +100,7 @@ DECL|function|positionIncludesFrame
 DECL|function|postSyncWindowRequest
 DECL|function|propagateSizeHints
 DECL|function|qRectToXCBRectangle
+DECL|function|qstringToXTP
 DECL|function|raise
 DECL|function|relayFocusToModalWindow
 DECL|function|requestActivateWindow
