@@ -15,6 +15,7 @@ DECL|function|print
 DECL|function|printedMessages
 DECL|function|proParser
 DECL|function|proParser_data
+DECL|function|proString
 DECL|function|proStringList
 DECL|function|quoteArgUnix
 DECL|function|quoteArgUnix_data
