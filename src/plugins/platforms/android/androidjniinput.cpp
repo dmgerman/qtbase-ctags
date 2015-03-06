@@ -12,6 +12,7 @@ DECL|function|mouseUp
 DECL|function|registerNatives
 DECL|function|resetSoftwareKeyboard
 DECL|function|showSoftwareKeyboard
+DECL|function|tabletEvent
 DECL|function|toString
 DECL|function|touchAdd
 DECL|function|touchBegin

@@ -77,6 +77,7 @@ DECL|method|showSoftwareKeyboard
 DECL|method|startApplication
 DECL|method|startQtAndroidPlugin
 DECL|method|startQtApplication
+DECL|method|tabletEvent
 DECL|method|terminateQt
 DECL|method|touchAdd
 DECL|method|touchBegin
