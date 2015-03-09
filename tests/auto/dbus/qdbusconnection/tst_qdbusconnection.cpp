@@ -60,6 +60,8 @@ DECL|function|secondCallWithCallback
 DECL|function|send
 DECL|function|sendAsync
 DECL|function|sendSignal
+DECL|function|sendSignalToName
+DECL|function|sendSignalToOtherName
 DECL|function|sendWithGui
 DECL|function|serviceName
 DECL|function|serviceRegistrationRaceCondition

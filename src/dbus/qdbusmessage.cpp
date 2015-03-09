@@ -9,6 +9,7 @@ DECL|function|createErrorReply
 DECL|function|createMethodCall
 DECL|function|createReply
 DECL|function|createSignal
+DECL|function|createTargetedSignal
 DECL|function|data
 DECL|function|debugVariantList
 DECL|function|errorMessage
