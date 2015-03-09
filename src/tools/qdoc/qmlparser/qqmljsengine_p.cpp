@@ -1,6 +1,7 @@
 DECL|function|Engine
 DECL|function|addComment
 DECL|function|comments
+DECL|function|directives
 DECL|function|integerFromString
 DECL|function|integerFromString
 DECL|function|lexer
@@ -8,6 +9,7 @@ DECL|function|newStringRef
 DECL|function|newStringRef
 DECL|function|pool
 DECL|function|setCode
+DECL|function|setDirectives
 DECL|function|setLexer
 DECL|function|toDigit
 DECL|function|~Engine

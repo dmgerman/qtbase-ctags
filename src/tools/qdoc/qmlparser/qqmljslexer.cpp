@@ -19,6 +19,7 @@ DECL|function|isLineTerminator
 DECL|function|isLineTerminatorSequence
 DECL|function|isOctalDigit
 DECL|function|isUnicodeEscapeSequence
+DECL|function|isUriToken
 DECL|function|lex
 DECL|function|prevTerminator
 DECL|function|qmlMode
@@ -33,3 +34,4 @@ DECL|function|syncProhibitAutomaticSemicolon
 DECL|function|tokenEndColumn
 DECL|function|tokenEndLine
 DECL|function|tokenText
+DECL|variable|uriTokens
