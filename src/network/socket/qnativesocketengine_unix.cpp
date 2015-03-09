@@ -1,5 +1,6 @@
 DECL|function|createNewSocket
 DECL|function|fetchConnectionParameters
+DECL|function|makeScopeId
 DECL|function|multicastMembershipHelper
 DECL|function|nativeAccept
 DECL|function|nativeBind
