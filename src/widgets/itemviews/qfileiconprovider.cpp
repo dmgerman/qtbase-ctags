@@ -1,3 +1,5 @@
+DECL|class|QFileIconEngine
+DECL|function|QFileIconEngine
 DECL|function|QFileIconProvider
 DECL|function|QFileIconProviderPrivate
 DECL|function|getIcon
@@ -9,3 +11,5 @@ DECL|function|options
 DECL|function|setOptions
 DECL|function|type
 DECL|function|~QFileIconProvider
+DECL|member|m_fileIconProvider
+DECL|member|m_fileInfo
