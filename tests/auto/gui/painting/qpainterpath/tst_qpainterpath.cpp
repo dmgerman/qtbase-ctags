@@ -42,6 +42,4 @@ DECL|function|testStroker
 DECL|function|testStroker_data
 DECL|function|testToFillPolygons
 DECL|function|translate
-DECL|macro|ANGLE
-DECL|macro|M_PI
 DECL|macro|SIGN
