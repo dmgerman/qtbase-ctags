@@ -1,6 +1,5 @@
 DECL|function|QRgbMap
 DECL|function|convertRGB32FromARGB32PM
-DECL|function|convertRGB32FromARGB32PM_sse4
 DECL|function|convertRGB32ToARGB32PM
 DECL|function|convert_A2RGB30_PM_to_RGB30
 DECL|function|convert_A2RGB30_PM_to_RGB30_inplace
@@ -8,7 +7,6 @@ DECL|function|convert_ARGB_PM_to_ARGB
 DECL|function|convert_ARGB_PM_to_Indexed8
 DECL|function|convert_ARGB_PM_to_Mono
 DECL|function|convert_ARGB_to_ARGB_PM
-DECL|function|convert_ARGB_to_ARGB_PM_sse4
 DECL|function|convert_ARGB_to_Indexed8
 DECL|function|convert_ARGB_to_RGBA
 DECL|function|convert_ARGB_to_RGBA_inplace
