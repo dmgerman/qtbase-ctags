@@ -23,6 +23,7 @@ DECL|function|addDefaultCaCertificates
 DECL|function|addDefaultCaCertificates
 DECL|function|addDefaultCaCertificates
 DECL|function|atEnd
+DECL|function|bind
 DECL|function|bytesAvailable
 DECL|function|bytesToWrite
 DECL|function|caCertificates

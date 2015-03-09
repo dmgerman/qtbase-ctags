@@ -1,3 +1,6 @@
 DECL|macro|QWINDOWSDIRECT2DBITMAP_H
+DECL|variable|QColor
+DECL|variable|QImage
+DECL|variable|QSize
 DECL|variable|QWindowsDirect2DBitmapPrivate
 DECL|variable|QWindowsDirect2DDeviceContext

@@ -5,6 +5,8 @@ DECL|function|compare
 DECL|function|compare_data
 DECL|function|constructor_QString
 DECL|function|constructor_QString_data
+DECL|function|convertv4v6
+DECL|function|convertv4v6_data
 DECL|function|hashKey
 DECL|function|init
 DECL|function|isInSubnet

@@ -1,5 +1,4 @@
 DECL|class|QPlatformDragPrivate
-DECL|function|KeyboardModifiersToString
 DECL|function|QPlatformDrag
 DECL|function|QPlatformDragPrivate
 DECL|function|QPlatformDragQtResponse
@@ -9,7 +8,6 @@ DECL|function|answerRect
 DECL|function|currentDrag
 DECL|function|defaultAction
 DECL|function|defaultPixmap
-DECL|function|dragActionsToString
 DECL|function|isAccepted
 DECL|function|ownsDragObject
 DECL|function|updateAction

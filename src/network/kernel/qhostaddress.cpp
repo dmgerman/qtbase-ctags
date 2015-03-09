@@ -11,6 +11,7 @@ DECL|function|QHostAddressPrivate
 DECL|function|clear
 DECL|function|clear
 DECL|function|clearBits
+DECL|function|convertToIpv4
 DECL|function|isInSubnet
 DECL|function|isInSubnet
 DECL|function|isLoopback
@@ -24,7 +25,6 @@ DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|parse
 DECL|function|parseIp6
-DECL|function|parseMappedAddress
 DECL|function|parseSubnet
 DECL|function|prefixLength
 DECL|function|protocol
@@ -42,6 +42,7 @@ DECL|function|setAddress
 DECL|function|setAddress
 DECL|function|setPrefixLength
 DECL|function|setScopeId
+DECL|function|toIPv4Address
 DECL|function|toIPv4Address
 DECL|function|toIPv6Address
 DECL|function|toString

@@ -1,1 +1,2 @@
 DECL|macro|QWINDOWSDIRECT2DWINDOW_H
+DECL|variable|QWindowsDirect2DBitmap

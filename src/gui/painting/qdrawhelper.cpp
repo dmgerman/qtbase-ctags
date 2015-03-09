@@ -149,16 +149,11 @@ DECL|function|convertARGBPMFromRGB32
 DECL|function|convertARGBPMToARGB32PM
 DECL|function|convertAlpha8FromARGB32PM
 DECL|function|convertAlpha8ToRGB32
-DECL|function|convertFromARGB32PM
-DECL|function|convertFromRGB32
 DECL|function|convertGrayscale8FromARGB32PM
 DECL|function|convertGrayscale8FromRGB32
 DECL|function|convertGrayscale8ToRGB32
 DECL|function|convertIndexedToARGB32PM
 DECL|function|convertPassThrough
-DECL|function|convertRGB16FromARGB32PM
-DECL|function|convertRGB16FromRGB32
-DECL|function|convertRGB16ToRGB32
 DECL|function|convertRGB30FromARGB32PM
 DECL|function|convertRGB30FromRGB32
 DECL|function|convertRGBA8888FromARGB32PM
@@ -172,8 +167,6 @@ DECL|function|convertRGBFromRGB32
 DECL|function|convertRGBXFromARGB32PM
 DECL|function|convertRGBXFromARGB32PM_sse4
 DECL|function|convertRGBXFromRGB32
-DECL|function|convertToARGB32PM
-DECL|function|convertToRGB32
 DECL|function|convertToRGB32
 DECL|function|darken_op
 DECL|function|destFetch
