@@ -104,6 +104,7 @@ DECL|member|cachedApplicationFilePath
 DECL|member|eventDispatcher
 DECL|member|is_app_closing
 DECL|member|is_app_running
+DECL|member|manual_libpaths
 DECL|member|mtx
 DECL|member|orgDomain
 DECL|member|orgName

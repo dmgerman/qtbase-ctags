@@ -18,6 +18,7 @@ DECL|function|ProcessEventsAlwaysSendsPostedEventsObject
 DECL|function|QTBUG31606_QEventDestructorDeadLock
 DECL|function|QuitTester
 DECL|function|Thread
+DECL|function|addRemoveLibPaths
 DECL|function|applicationEventFilters_auxThread
 DECL|function|applicationEventFilters_mainThread
 DECL|function|applicationPid
