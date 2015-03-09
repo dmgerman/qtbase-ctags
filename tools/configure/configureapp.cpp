@@ -28,6 +28,7 @@ DECL|function|displayConfig
 DECL|function|displayHelp
 DECL|function|firstLicensePath
 DECL|function|flush
+DECL|function|formatConfigPath
 DECL|function|formatPath
 DECL|function|formatPaths
 DECL|function|generateCachefile

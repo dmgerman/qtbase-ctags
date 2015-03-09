@@ -1,7 +1,9 @@
 DECL|class|tst_QUdpSocket
+DECL|function|bindAndConnectToHost
 DECL|function|bindMode
 DECL|function|broadcasting
 DECL|function|cleanup
+DECL|function|connectToHost
 DECL|function|constructing
 DECL|function|dualStack
 DECL|function|dualStackAutoBinding
@@ -34,7 +36,6 @@ DECL|function|outOfProcessConnectedClientServerTest
 DECL|function|outOfProcessUnconnectedClientServerTest
 DECL|function|pendingDatagramSize
 DECL|function|performance
-DECL|function|readLine
 DECL|function|readyRead
 DECL|function|readyReadForEmptyDatagram
 DECL|function|setMulticastInterface

@@ -128,6 +128,7 @@ DECL|function|loadQt5Stream
 DECL|function|loadQt5Stream_data
 DECL|function|loadUnknownUserType
 DECL|function|metaEnums
+DECL|function|modelIndexConversion
 DECL|function|moreCustomTypes
 DECL|function|movabilityTest
 DECL|function|numericalConvert

@@ -7,6 +7,7 @@ DECL|function|QNativeSocketEnginePrivate
 DECL|function|QReadNotifier
 DECL|function|QWriteNotifier
 DECL|function|accept
+DECL|function|adjustAddressProtocol
 DECL|function|bind
 DECL|function|bytesAvailable
 DECL|function|bytesToWrite
@@ -55,6 +56,7 @@ DECL|macro|Q_CHECK_INVALID_SOCKETLAYER
 DECL|macro|Q_CHECK_NOT_STATE
 DECL|macro|Q_CHECK_STATE
 DECL|macro|Q_CHECK_STATES
+DECL|macro|Q_CHECK_STATES3
 DECL|macro|Q_CHECK_TYPE
 DECL|macro|Q_CHECK_VALID_SOCKETLAYER
 DECL|macro|Q_TR

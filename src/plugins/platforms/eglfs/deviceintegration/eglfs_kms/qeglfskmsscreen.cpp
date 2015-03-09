@@ -1,3 +1,5 @@
+DECL|class|QEglFSKmsInterruptHandler
+DECL|function|QEglFSKmsInterruptHandler
 DECL|function|QEglFSKmsScreen
 DECL|function|bufferDestroyedHandler
 DECL|function|createSurface
@@ -9,11 +11,15 @@ DECL|function|flipFinished
 DECL|function|format
 DECL|function|framebufferForBufferObject
 DECL|function|geometry
+DECL|function|handleSuspendRequest
 DECL|function|logicalDpi
 DECL|function|name
 DECL|function|nativeOrientation
 DECL|function|orientation
 DECL|function|physicalSize
 DECL|function|restoreMode
+DECL|function|restoreVideoMode
 DECL|function|waitForFlip
 DECL|function|~QEglFSKmsScreen
+DECL|member|m_screen
+DECL|member|m_vtHandler

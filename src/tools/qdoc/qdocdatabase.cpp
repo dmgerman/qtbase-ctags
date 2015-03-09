@@ -27,7 +27,6 @@ DECL|function|getFunctionIndex
 DECL|function|getLegaleseTexts
 DECL|function|getLinkCounts
 DECL|function|getMainClasses
-DECL|function|getNamespaces
 DECL|function|getObsoleteClasses
 DECL|function|getObsoleteQmlTypes
 DECL|function|getQmlBasicTypes
@@ -50,6 +49,7 @@ DECL|function|processForest
 DECL|function|qdocDB
 DECL|function|readIndexes
 DECL|function|resolveIssues
+DECL|function|resolveNamespaces
 DECL|function|resolveQmlInheritance
 DECL|function|resolveStuff
 DECL|function|searchOrder

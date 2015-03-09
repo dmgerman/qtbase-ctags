@@ -18,6 +18,7 @@ DECL|function|orientationChanged
 DECL|function|pageDimensionsChanged
 DECL|function|pageSizeChanged
 DECL|function|print
+DECL|function|print
 DECL|function|printerChanged
 DECL|function|retrieveSettings
 DECL|function|showPageSetupDialog
