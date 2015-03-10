@@ -1,3 +1,4 @@
+DECL|function|convertToLevelAndOption
 DECL|function|createNewSocket
 DECL|function|fetchConnectionParameters
 DECL|function|makeScopeId
