@@ -6,9 +6,11 @@ DECL|function|getCurrentRect
 DECL|function|hasMouse
 DECL|function|onDeviceListChanged
 DECL|function|pointerEvent
+DECL|function|pos
 DECL|function|setCursor
 DECL|function|setCursor
 DECL|function|setCursor
 DECL|function|setDirty
+DECL|function|setPos
 DECL|function|updateMouseStatus
 DECL|function|~QFbCursor
