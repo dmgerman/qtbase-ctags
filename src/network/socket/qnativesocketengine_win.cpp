@@ -37,3 +37,5 @@ DECL|macro|SO_EXCLUSIVEADDRUSE
 DECL|macro|WSA_FLAG_NO_HANDLE_INHERIT
 DECL|macro|WS_ERROR_DEBUG
 DECL|macro|_WSAIOW
+DECL|variable|recvmsg
+DECL|variable|sendmsg
