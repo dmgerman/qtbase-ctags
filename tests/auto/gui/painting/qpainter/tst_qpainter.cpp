@@ -62,6 +62,7 @@ DECL|function|drawImage_task217400
 DECL|function|drawImage_task217400_data
 DECL|function|drawImage_task258776
 DECL|function|drawLine
+DECL|function|drawLineEndPoints
 DECL|function|drawLine_clipped
 DECL|function|drawLine_data
 DECL|function|drawLine_task121143
