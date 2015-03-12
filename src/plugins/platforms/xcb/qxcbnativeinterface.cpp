@@ -3,6 +3,7 @@ DECL|function|addHandler
 DECL|function|appTime
 DECL|function|appUserTime
 DECL|function|beep
+DECL|function|connection
 DECL|function|connectionForWindow
 DECL|function|display
 DECL|function|displayForWindow
