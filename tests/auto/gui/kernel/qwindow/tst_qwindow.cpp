@@ -12,6 +12,7 @@ DECL|function|Window
 DECL|function|activateAndClose
 DECL|function|cleanup
 DECL|function|close
+DECL|function|destroyResetsFocusWindow
 DECL|function|event
 DECL|function|eventFilter
 DECL|function|eventFilter
