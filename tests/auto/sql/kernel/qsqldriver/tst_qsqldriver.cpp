@@ -1,6 +1,7 @@
 DECL|class|tst_QSqlDriver
 DECL|function|cleanup
 DECL|function|cleanupTestCase
+DECL|function|formatValue
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|initTestCase_data
