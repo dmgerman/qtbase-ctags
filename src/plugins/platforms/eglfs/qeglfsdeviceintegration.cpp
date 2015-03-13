@@ -17,6 +17,7 @@ DECL|function|platformDestroy
 DECL|function|platformDisplay
 DECL|function|platformInit
 DECL|function|presentBuffer
+DECL|function|refreshRate
 DECL|function|screenDepth
 DECL|function|screenDestroy
 DECL|function|screenFormat
