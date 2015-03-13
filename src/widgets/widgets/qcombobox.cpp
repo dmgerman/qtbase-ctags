@@ -20,6 +20,7 @@ DECL|function|autoCompletion
 DECL|function|autoCompletionCaseSensitivity
 DECL|function|changeEvent
 DECL|function|changeEvent
+DECL|function|cleanupNativePopup
 DECL|function|clear
 DECL|function|clearEditText
 DECL|function|comboStyleOption
@@ -138,6 +139,7 @@ DECL|function|viewContainer
 DECL|function|viewDestroyed
 DECL|function|wheelEvent
 DECL|function|~QComboBox
+DECL|function|~QComboBoxPrivate
 DECL|member|cb
 DECL|member|index
 DECL|struct|IndexSetter
