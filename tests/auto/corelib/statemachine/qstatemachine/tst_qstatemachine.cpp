@@ -202,7 +202,6 @@ DECL|member|events
 DECL|member|firstEventWasCancelled
 DECL|member|m_cond
 DECL|member|m_count
-DECL|member|m_count
 DECL|member|m_delay
 DECL|member|m_eventSource
 DECL|member|m_eventTestArgs
