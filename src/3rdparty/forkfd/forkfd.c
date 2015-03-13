@@ -13,9 +13,9 @@ DECL|function|tryReaping
 DECL|macro|CHILDREN_IN_BIG_ARRAY
 DECL|macro|CHILDREN_IN_SMALL_ARRAY
 DECL|macro|EINTR_LOOP
+DECL|macro|HAVE_BROKEN_WAITID_ALL
 DECL|macro|HAVE_EVENTFD
 DECL|macro|HAVE_PIPE2
-DECL|macro|HAVE_WAITID
 DECL|macro|HAVE_WAITID
 DECL|macro|_GNU_SOURCE
 DECL|macro|_POSIX_C_SOURCE
@@ -41,3 +41,5 @@ DECL|variable|children
 DECL|variable|forkfd_initialization
 DECL|variable|forkfd_status
 DECL|variable|old_sigaction
+DECL|variable|waitid_p_all_works
+DECL|variable|waitid_p_all_works
