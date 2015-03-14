@@ -11,6 +11,7 @@ DECL|function|isChildReady
 DECL|function|notifyAndFreeInfo
 DECL|function|sigchld_handler
 DECL|function|spawnfd
+DECL|function|system_forkfd
 DECL|function|tryAllocateInSection
 DECL|function|tryReaping
 DECL|macro|CHILDREN_IN_BIG_ARRAY
@@ -47,5 +48,6 @@ DECL|variable|children
 DECL|variable|forkfd_initialization
 DECL|variable|forkfd_status
 DECL|variable|old_sigaction
+DECL|variable|system_has_forkfd
 DECL|variable|waitid_works
 DECL|variable|waitid_works
