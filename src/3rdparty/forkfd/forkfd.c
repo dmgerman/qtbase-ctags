@@ -1,5 +1,6 @@
 DECL|function|allocateInfo
 DECL|function|cleanup
+DECL|function|convertStatusToForkfdInfo
 DECL|function|create_pipe
 DECL|function|forkfd
 DECL|function|forkfd_close
@@ -18,10 +19,10 @@ DECL|macro|EINTR_LOOP
 DECL|macro|HAVE_BROKEN_WAITID
 DECL|macro|HAVE_EVENTFD
 DECL|macro|HAVE_PIPE2
+DECL|macro|HAVE_WAIT4
+DECL|macro|HAVE_WAIT4
 DECL|macro|HAVE_WAITID
 DECL|macro|_GNU_SOURCE
-DECL|macro|_POSIX_C_SOURCE
-DECL|macro|_XOPEN_SOURCE
 DECL|macro|sizeofarray
 DECL|member|busyCount
 DECL|member|deathPipe
