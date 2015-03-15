@@ -1,0 +1,6 @@
+DECL|function|RegularExpressionDialog
+DECL|function|copyEscapedPatternToClipboard
+DECL|function|refresh
+DECL|function|setupLeftUi
+DECL|function|setupRightUi
+DECL|function|setupUi
