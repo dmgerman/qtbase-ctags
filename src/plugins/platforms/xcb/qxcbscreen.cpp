@@ -16,6 +16,7 @@ DECL|function|readXResources
 DECL|function|sendStartupMessage
 DECL|function|topLevelAt
 DECL|function|updateGeometry
+DECL|function|updateGeometry
 DECL|function|updateRefreshRate
 DECL|function|visualForId
 DECL|function|windowShown

@@ -5,6 +5,7 @@ DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clicked
 DECL|function|defaultAndAutoDefault
+DECL|function|emitReleasedAfterChange
 DECL|function|getSetCheck
 DECL|function|helperSlotDelete
 DECL|function|init

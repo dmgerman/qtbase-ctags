@@ -16,6 +16,7 @@ DECL|function|exit
 DECL|function|isFinished
 DECL|function|isInterruptionRequested
 DECL|function|isRunning
+DECL|function|loopLevel
 DECL|function|priority
 DECL|function|quit
 DECL|function|ref

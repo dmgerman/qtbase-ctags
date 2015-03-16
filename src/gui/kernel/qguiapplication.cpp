@@ -148,6 +148,7 @@ DECL|member|app_pal
 DECL|member|applicationState
 DECL|member|buttons
 DECL|member|corner
+DECL|member|currentMousePressWindow
 DECL|member|currentMouseWindow
 DECL|member|displayName
 DECL|member|focus_window

@@ -8,6 +8,7 @@ DECL|function|q_hasEglExtension
 DECL|function|q_physicalScreenSizeFromFb
 DECL|function|q_printEglConfig
 DECL|function|q_reduceConfigAttributes
+DECL|function|q_refreshRateFromFb
 DECL|function|q_screenDepthFromFb
 DECL|function|q_screenSizeFromFb
 DECL|function|~QEglConfigChooser

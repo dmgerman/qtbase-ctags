@@ -1,0 +1,2 @@
+DECL|function|convertRGB32FromARGB32PM_sse4
+DECL|function|convert_ARGB_to_ARGB_PM_sse4

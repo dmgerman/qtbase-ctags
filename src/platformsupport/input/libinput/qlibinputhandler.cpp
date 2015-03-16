@@ -2,6 +2,7 @@ DECL|function|QLibInputHandler
 DECL|function|liClose
 DECL|function|liLogHandler
 DECL|function|liOpen
+DECL|function|onCursorPositionChangeRequested
 DECL|function|onReadyRead
 DECL|function|processEvent
 DECL|function|~QLibInputHandler
