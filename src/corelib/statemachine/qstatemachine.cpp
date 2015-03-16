@@ -46,6 +46,7 @@ DECL|function|exitStates
 DECL|function|findErrorState
 DECL|function|findLCA
 DECL|function|get
+DECL|function|getProperAncestors
 DECL|function|globalRestorePolicy
 DECL|function|goToState
 DECL|function|handleFilteredEvent
@@ -57,7 +58,7 @@ DECL|function|initializeAnimations
 DECL|function|isAnimated
 DECL|function|isAtomic
 DECL|function|isCompound
-DECL|function|isDescendantOf
+DECL|function|isDescendant
 DECL|function|isExternalEventQueueEmpty
 DECL|function|isFinal
 DECL|function|isInFinalState
@@ -77,7 +78,6 @@ DECL|function|postEvent
 DECL|function|postExternalEvent
 DECL|function|postInternalEvent
 DECL|function|processEvents
-DECL|function|properAncestors
 DECL|function|qHash
 DECL|function|qcoreStateMachineHandler
 DECL|function|qt_metacall
