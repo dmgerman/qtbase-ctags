@@ -16,6 +16,7 @@ DECL|function|convertToIpv4
 DECL|function|isInSubnet
 DECL|function|isInSubnet
 DECL|function|isLoopback
+DECL|function|isMulticast
 DECL|function|isNull
 DECL|function|operator <<
 DECL|function|operator <<
