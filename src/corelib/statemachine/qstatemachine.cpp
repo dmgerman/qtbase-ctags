@@ -14,6 +14,7 @@ DECL|function|_q_start
 DECL|function|_q_startDelayedEventTimer
 DECL|function|addAncestorStatesToEnter
 DECL|function|addDefaultAnimation
+DECL|function|addDescendantStatesToEnter
 DECL|function|addState
 DECL|function|addStatesToEnter
 DECL|function|beginMicrostep
@@ -23,11 +24,12 @@ DECL|function|cancelDelayedEvent
 DECL|function|clearError
 DECL|function|clearHistory
 DECL|function|cloneEvent
+DECL|function|computeEntrySet
 DECL|function|computePendingRestorables
 DECL|function|computePropertyAssignments
-DECL|function|computeStatesToEnter
 DECL|function|computeStatesToExit
 DECL|function|configuration
+DECL|function|containsDecendantOf
 DECL|function|createInitialTransition
 DECL|function|defaultAnimations
 DECL|function|dequeueExternalEvent
@@ -45,8 +47,11 @@ DECL|function|executeTransitionContent
 DECL|function|exitStates
 DECL|function|findErrorState
 DECL|function|findLCA
+DECL|function|findLCCA
 DECL|function|get
+DECL|function|getEffectiveTargetStates
 DECL|function|getProperAncestors
+DECL|function|getTransitionDomain
 DECL|function|globalRestorePolicy
 DECL|function|goToState
 DECL|function|handleFilteredEvent
