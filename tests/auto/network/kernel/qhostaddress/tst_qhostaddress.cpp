@@ -22,7 +22,5 @@ DECL|function|specialAddresses
 DECL|function|specialAddresses_data
 DECL|function|streaming
 DECL|function|streaming_data
-DECL|function|toString
 DECL|function|tst_QHostAddress
 DECL|function|~tst_QHostAddress
-DECL|namespace|QTest
