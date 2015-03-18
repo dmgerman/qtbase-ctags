@@ -1,4 +1,5 @@
 DECL|function|QWindowsSockInit
+DECL|function|convertToLevelAndOption
 DECL|function|createNewSocket
 DECL|function|fetchConnectionParameters
 DECL|function|multicastMembershipHelper

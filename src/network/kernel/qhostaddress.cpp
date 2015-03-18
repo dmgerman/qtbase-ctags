@@ -7,6 +7,7 @@ DECL|function|QHostAddress
 DECL|function|QHostAddress
 DECL|function|QHostAddress
 DECL|function|QHostAddress
+DECL|function|QHostAddress
 DECL|function|QHostAddressPrivate
 DECL|function|clear
 DECL|function|clear
@@ -30,6 +31,7 @@ DECL|function|prefixLength
 DECL|function|protocol
 DECL|function|qHash
 DECL|function|scopeId
+DECL|function|setAddress
 DECL|function|setAddress
 DECL|function|setAddress
 DECL|function|setAddress

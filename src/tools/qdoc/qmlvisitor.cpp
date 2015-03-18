@@ -1,4 +1,6 @@
+DECL|class|QmlSignatureParser
 DECL|function|QmlDocVisitor
+DECL|function|QmlSignatureParser
 DECL|function|applyDocumentation
 DECL|function|applyMetacommands
 DECL|function|endVisit
@@ -10,7 +12,14 @@ DECL|function|endVisit
 DECL|function|endVisit
 DECL|function|endVisit
 DECL|function|getFullyQualifiedId
+DECL|function|lexeme
+DECL|function|match
+DECL|function|matchDataType
+DECL|function|matchFunctionDecl
+DECL|function|matchParameter
 DECL|function|precedingComment
+DECL|function|previousLexeme
+DECL|function|readToken
 DECL|function|splitQmlPropertyArg
 DECL|function|visit
 DECL|function|visit
@@ -58,3 +67,10 @@ DECL|macro|COMMAND_QMLSIGNAL
 DECL|macro|COMMAND_QMLTYPE
 DECL|macro|COMMAND_SINCE
 DECL|macro|COMMAND_WRAPPER
+DECL|member|funcName_
+DECL|member|func_
+DECL|member|location_
+DECL|member|names_
+DECL|member|signature_
+DECL|member|tok_
+DECL|member|tokenizer_

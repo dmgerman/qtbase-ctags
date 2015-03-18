@@ -6,6 +6,7 @@ DECL|member|getDpiForMonitor
 DECL|member|getProcessDpiAwareness
 DECL|member|getTouchInputInfo
 DECL|member|isHungAppWindow
+DECL|member|isTouchWindow
 DECL|member|registerTouchWindow
 DECL|member|removeClipboardFormatListener
 DECL|member|sHCreateItemFromParsingName
@@ -26,6 +27,7 @@ DECL|typedef|GetDpiForMonitor
 DECL|typedef|GetProcessDpiAwareness
 DECL|typedef|GetTouchInputInfo
 DECL|typedef|IsHungAppWindow
+DECL|typedef|IsTouchWindow
 DECL|typedef|RegisterTouchWindow
 DECL|typedef|RemoveClipboardFormatListener
 DECL|typedef|SHCreateItemFromParsingName

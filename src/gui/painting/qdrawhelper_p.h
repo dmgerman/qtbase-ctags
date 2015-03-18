@@ -49,6 +49,8 @@ DECL|function|qGreen565
 DECL|function|qRadialDeterminant
 DECL|function|qRed565
 DECL|function|qRgbSwapRgb30
+DECL|function|qt_convertARGB32ToARGB32PM
+DECL|function|qt_convertRGBA8888ToARGB32PM
 DECL|function|qt_div_255
 DECL|function|qt_fetch_radial_gradient_template
 DECL|function|qt_gradient_clamp

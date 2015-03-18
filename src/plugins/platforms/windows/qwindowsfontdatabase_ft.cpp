@@ -1,3 +1,4 @@
+DECL|function|PopulateFamiliesContext
 DECL|function|addFontToDatabase
 DECL|function|createFontFile
 DECL|function|defaultFont
@@ -13,8 +14,9 @@ DECL|function|fontSettingsApplication
 DECL|function|fontSettingsGroup
 DECL|function|fontSettingsOrganization
 DECL|function|getFntTable
-DECL|function|populate
+DECL|function|populateFamily
 DECL|function|populateFontDatabase
+DECL|function|populateFontFamilies
 DECL|function|storeFont
 DECL|function|writingSystemFromCharSet
 DECL|member|checkSum
@@ -34,11 +36,14 @@ DECL|member|offset
 DECL|member|platformID
 DECL|member|rangeShift
 DECL|member|searchRange
+DECL|member|seenSystemDefaultFont
 DECL|member|storageOffset
 DECL|member|stringLength
 DECL|member|stringOffset
+DECL|member|systemDefaultFont
 DECL|member|tag
 DECL|struct|FontKey
+DECL|struct|PopulateFamiliesContext
 DECL|typedef|FontKeys
 DECL|typedef|NAME_RECORD
 DECL|typedef|NAME_TABLE_HEADER

@@ -8,6 +8,7 @@ DECL|function|haveGroup
 DECL|function|isDebugBuild
 DECL|function|licensedProducts
 DECL|function|licensee
+DECL|function|load
 DECL|function|location
 DECL|function|platformPluginArguments
 DECL|function|qt_core_boilerplate
@@ -43,6 +44,7 @@ DECL|member|haveEffectivePaths
 DECL|member|haveEffectiveSourcePaths
 DECL|member|havePaths
 DECL|member|key
+DECL|member|reloadOnQAppAvailable
 DECL|member|settings
 DECL|member|value
 DECL|struct|QLibrarySettings

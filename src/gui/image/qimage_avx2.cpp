@@ -1,0 +1,1 @@
+DECL|function|convert_ARGB_to_ARGB_PM_avx2

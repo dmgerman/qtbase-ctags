@@ -11,6 +11,7 @@ DECL|function|_q_PKCS7_data
 DECL|function|_q_SSLRead
 DECL|function|_q_SSLWrite
 DECL|function|_q_makePkcs12
+DECL|function|canIgnoreTrustVerificationFailure
 DECL|function|checkSslErrors
 DECL|function|continueHandshake
 DECL|function|destroySslContext
