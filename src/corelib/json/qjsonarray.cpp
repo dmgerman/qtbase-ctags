@@ -6,6 +6,7 @@ DECL|function|at
 DECL|function|compact
 DECL|function|contains
 DECL|function|detach
+DECL|function|detach2
 DECL|function|first
 DECL|function|fromStringList
 DECL|function|fromVariantList

@@ -5,6 +5,7 @@ DECL|function|compact
 DECL|function|constFind
 DECL|function|contains
 DECL|function|detach
+DECL|function|detach2
 DECL|function|erase
 DECL|function|find
 DECL|function|fromVariantHash
