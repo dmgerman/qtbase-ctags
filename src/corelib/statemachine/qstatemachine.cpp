@@ -25,9 +25,10 @@ DECL|function|clearError
 DECL|function|clearHistory
 DECL|function|cloneEvent
 DECL|function|computeEntrySet
+DECL|function|computeExitSet
+DECL|function|computeExitSet_Unordered
 DECL|function|computePendingRestorables
 DECL|function|computePropertyAssignments
-DECL|function|computeStatesToExit
 DECL|function|configuration
 DECL|function|containsDecendantOf
 DECL|function|createInitialTransition
@@ -69,7 +70,6 @@ DECL|function|isFinal
 DECL|function|isInFinalState
 DECL|function|isInternalEventQueueEmpty
 DECL|function|isParallel
-DECL|function|isPreempted
 DECL|function|isRunning
 DECL|function|maybeRegisterEventTransition
 DECL|function|maybeRegisterSignalTransition
@@ -94,6 +94,7 @@ DECL|function|registerRestorable
 DECL|function|registerSignalTransition
 DECL|function|registerTransition
 DECL|function|registerTransitions
+DECL|function|removeConflictingTransitions
 DECL|function|removeDefaultAnimation
 DECL|function|removeState
 DECL|function|restorablesToPropertyList
@@ -114,6 +115,7 @@ DECL|function|toFinalState
 DECL|function|toHistoryState
 DECL|function|toStandardState
 DECL|function|toStandardState
+DECL|function|transitionStateEntryLessThan
 DECL|function|unregisterAllTransitions
 DECL|function|unregisterEventTransition
 DECL|function|unregisterRestorables
