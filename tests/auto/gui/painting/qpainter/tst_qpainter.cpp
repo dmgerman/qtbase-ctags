@@ -80,6 +80,8 @@ DECL|function|drawPixmap_comp
 DECL|function|drawPixmap_comp_data
 DECL|function|drawPointScaled
 DECL|function|drawPolygon
+DECL|function|drawPolyline
+DECL|function|drawPolyline_data
 DECL|function|drawRect
 DECL|function|drawRect2
 DECL|function|drawRect_data
