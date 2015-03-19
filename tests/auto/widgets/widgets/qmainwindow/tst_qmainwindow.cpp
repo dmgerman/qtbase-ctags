@@ -50,6 +50,8 @@ DECL|function|isSeparator
 DECL|function|menuBar
 DECL|function|removeDockWidget
 DECL|function|removeToolBar
+DECL|function|resizeDocks
+DECL|function|resizeDocks_data
 DECL|function|restoreState
 DECL|function|restoreStateFromPreviousVersion
 DECL|function|saveRestore

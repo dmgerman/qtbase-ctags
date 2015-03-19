@@ -33,6 +33,7 @@ DECL|function|qt_setMainWindowTitleWidget
 DECL|function|removeDockWidget
 DECL|function|removeToolBar
 DECL|function|removeToolBarBreak
+DECL|function|resizeDocks
 DECL|function|restoreDockWidget
 DECL|function|restoreState
 DECL|function|saveState
