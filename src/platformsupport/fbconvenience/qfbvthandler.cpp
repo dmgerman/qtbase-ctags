@@ -2,6 +2,7 @@ DECL|function|QFbVtHandler
 DECL|function|handleInt
 DECL|function|handleSignal
 DECL|function|restoreKeyboard
+DECL|function|setTTYCursor
 DECL|function|suspend
 DECL|function|~QFbVtHandler
 DECL|macro|KBD_OFF_MODE
