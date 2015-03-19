@@ -5,14 +5,8 @@ DECL|function|FT_BASE_DEF
 DECL|function|FT_BASE_DEF
 DECL|function|FT_BASE_DEF
 DECL|function|FT_BASE_DEF
-DECL|function|FT_BASE_DEF
-DECL|function|FT_BASE_DEF
-DECL|function|FT_BASE_DEF
-DECL|function|FT_BASE_DEF
-DECL|function|FT_BASE_DEF
 DECL|function|FT_EXPORT_DEF
 DECL|function|FT_EXPORT_DEF
-DECL|function|FT_Free
 DECL|function|FT_List_Add
 DECL|function|FT_List_Finalize
 DECL|function|FT_List_Insert

@@ -51,4 +51,4 @@ DECL|typedef|PS_Mask_Table
 DECL|typedef|PS_Mask_TableRec
 DECL|variable|funcs
 DECL|variable|funcs
-DECL|variable|ps_hints_done
+DECL|variable|hints

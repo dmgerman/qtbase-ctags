@@ -1,4 +1,3 @@
-DECL|function|FT_LOCAL
 DECL|function|ps_dimension_add_counter
 DECL|function|ps_dimension_add_t1stem
 DECL|function|ps_dimension_done
@@ -12,6 +11,7 @@ DECL|function|ps_hint_table_done
 DECL|function|ps_hint_table_ensure
 DECL|function|ps_hints_close
 DECL|function|ps_hints_done
+DECL|function|ps_hints_init
 DECL|function|ps_hints_open
 DECL|function|ps_hints_stem
 DECL|function|ps_hints_t1reset

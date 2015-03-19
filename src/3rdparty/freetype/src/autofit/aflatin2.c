@@ -17,7 +17,8 @@ DECL|function|af_latin2_metrics_scale
 DECL|function|af_latin2_metrics_scale_dim
 DECL|function|af_latin2_snap_width
 DECL|macro|AF_LATIN_MAX_TEST_CHARACTERS
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
 DECL|macro|SORT_SEGMENTS
 DECL|variable|af_latin2_blue_chars
 DECL|variable|af_latin2_hints_link_segments
-DECL|variable|af_latin2_uniranges

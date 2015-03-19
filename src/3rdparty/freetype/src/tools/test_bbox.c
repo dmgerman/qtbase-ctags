@@ -11,6 +11,8 @@ DECL|macro|XX
 DECL|variable|dummy_contour_1
 DECL|variable|dummy_outline_1
 DECL|variable|dummy_outline_2
+DECL|variable|dummy_outline_3
 DECL|variable|dummy_tag_1
 DECL|variable|dummy_vec_1
 DECL|variable|dummy_vec_2
+DECL|variable|dummy_vec_3

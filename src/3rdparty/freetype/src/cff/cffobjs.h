@@ -1,6 +1,8 @@
 DECL|macro|__CFFOBJS_H__
-DECL|member|extension_component
+DECL|member|darken_params
 DECL|member|hint
+DECL|member|hinting_engine
+DECL|member|no_stem_darkening
 DECL|member|ox
 DECL|member|oy
 DECL|member|root

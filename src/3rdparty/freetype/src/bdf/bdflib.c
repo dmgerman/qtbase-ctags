@@ -34,6 +34,7 @@ DECL|macro|ACMSG12
 DECL|macro|ACMSG13
 DECL|macro|ACMSG14
 DECL|macro|ACMSG15
+DECL|macro|ACMSG16
 DECL|macro|ACMSG2
 DECL|macro|ACMSG3
 DECL|macro|ACMSG4
@@ -42,10 +43,17 @@ DECL|macro|ACMSG6
 DECL|macro|ACMSG7
 DECL|macro|ACMSG8
 DECL|macro|ACMSG9
+DECL|macro|DBGMSG1
+DECL|macro|DBGMSG2
 DECL|macro|ERRMSG1
 DECL|macro|ERRMSG2
 DECL|macro|ERRMSG3
 DECL|macro|ERRMSG4
+DECL|macro|ERRMSG5
+DECL|macro|ERRMSG6
+DECL|macro|ERRMSG7
+DECL|macro|ERRMSG8
+DECL|macro|ERRMSG9
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
 DECL|macro|INITIAL_HT_SIZE
@@ -66,7 +74,7 @@ DECL|macro|_BDF_SIZE
 DECL|macro|_BDF_START
 DECL|macro|_BDF_SWIDTH
 DECL|macro|_BDF_SWIDTH_ADJ
-DECL|macro|isdigok
+DECL|macro|_bdf_strncmp
 DECL|macro|sbitset
 DECL|macro|setsbit
 DECL|member|cnt

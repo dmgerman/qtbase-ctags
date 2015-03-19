@@ -2,6 +2,7 @@ DECL|function|FT_BASE_DEF
 DECL|function|FT_BASE_DEF
 DECL|function|FT_Message
 DECL|function|FT_Panic
+DECL|function|FT_Throw
 DECL|function|FT_Trace_Get_Name
 DECL|function|FT_Trace_Get_Name
 DECL|function|ft_debug_init

@@ -28,11 +28,10 @@ DECL|member|dump_lines
 DECL|member|finish
 DECL|member|get_markup
 DECL|member|get_markup_items
-DECL|member|get_markup_name
 DECL|member|get_markup_text
 DECL|member|get_markup_words
+DECL|member|get_markup_words_all
 DECL|member|get_name
-DECL|member|get_start
 DECL|member|location
 DECL|member|parse_sources
 DECL|member|process
@@ -42,6 +41,5 @@ DECL|member|reset
 DECL|member|set_section
 DECL|variable|re_code_end
 DECL|variable|re_code_start
-DECL|variable|re_field
 DECL|variable|re_header_macro
 DECL|variable|re_identifier

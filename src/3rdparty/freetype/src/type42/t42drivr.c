@@ -1,4 +1,4 @@
-DECL|function|T42_Get_Interface
+DECL|function|FT_CALLBACK_DEF
 DECL|function|t42_get_glyph_name
 DECL|function|t42_get_name_index
 DECL|function|t42_get_ps_font_name

@@ -1,0 +1,9 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|FT_LOCAL_DEF
+DECL|function|cf2_stack_clear
+DECL|function|cf2_stack_free
+DECL|function|cf2_stack_pushFixed
+DECL|function|cf2_stack_pushInt

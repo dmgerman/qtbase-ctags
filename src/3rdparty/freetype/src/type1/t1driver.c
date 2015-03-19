@@ -1,4 +1,4 @@
-DECL|function|Get_Interface
+DECL|function|FT_CALLBACK_DEF
 DECL|function|Get_Kerning
 DECL|function|t1_get_glyph_name
 DECL|function|t1_get_name_index
@@ -6,6 +6,7 @@ DECL|function|t1_get_ps_name
 DECL|function|t1_ps_get_font_extra
 DECL|function|t1_ps_get_font_info
 DECL|function|t1_ps_get_font_private
+DECL|function|t1_ps_get_font_value
 DECL|function|t1_ps_has_glyph_names
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT

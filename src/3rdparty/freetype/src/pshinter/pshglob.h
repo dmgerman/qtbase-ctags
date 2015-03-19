@@ -61,4 +61,3 @@ DECL|typedef|PSH_WidthRec
 DECL|typedef|PSH_Widths
 DECL|typedef|PSH_WidthsRec
 DECL|variable|funcs
-DECL|variable|psh_blues_snap_stem

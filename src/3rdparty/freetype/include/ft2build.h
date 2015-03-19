@@ -1,1 +1,1 @@
-DECL|macro|__FT2_BUILD_GENERIC_H__
+DECL|macro|__FT2BUILD_H__

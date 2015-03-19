@@ -1,0 +1,9 @@
+DECL|macro|__CF2READ_H__
+DECL|member|end
+DECL|member|error
+DECL|member|ptr
+DECL|member|start
+DECL|struct|CF2_BufferRec_
+DECL|typedef|CF2_Buffer
+DECL|typedef|CF2_BufferRec
+DECL|variable|cf2_buf_isEnd

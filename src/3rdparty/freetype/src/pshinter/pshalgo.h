@@ -23,8 +23,6 @@ DECL|macro|PSH_DIR_HORIZONTAL
 DECL|macro|PSH_DIR_IS_HORIZONTAL
 DECL|macro|PSH_DIR_IS_VERTICAL
 DECL|macro|PSH_DIR_VERTICAL
-DECL|macro|PSH_POINT_ANGLE
-DECL|macro|PSH_POINT_EQUAL_ORG
 DECL|macro|__PSHALGO_H__
 DECL|macro|psh_hint_activate
 DECL|macro|psh_hint_deactivate
@@ -52,8 +50,6 @@ DECL|macro|psh_point_set_off
 DECL|macro|psh_point_set_positive
 DECL|macro|psh_point_set_smooth
 DECL|macro|psh_point_set_strong
-DECL|member|angle_in
-DECL|member|angle_out
 DECL|member|contour
 DECL|member|contours
 DECL|member|count

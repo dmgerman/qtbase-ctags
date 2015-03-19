@@ -9,6 +9,7 @@ DECL|member|bytes
 DECL|member|cache_count
 DECL|member|cache_fd
 DECL|member|cache_first
+DECL|member|cf2_instance
 DECL|member|charset
 DECL|member|charset_offset
 DECL|member|charstring_type
@@ -58,6 +59,7 @@ DECL|member|format
 DECL|member|full_name
 DECL|member|global_subrs
 DECL|member|global_subrs_index
+DECL|member|has_font_matrix
 DECL|member|header_size
 DECL|member|initial_random_seed
 DECL|member|is_fixed_pitch
@@ -77,13 +79,12 @@ DECL|member|num_blue_values
 DECL|member|num_faces
 DECL|member|num_family_blues
 DECL|member|num_family_other_blues
-DECL|member|num_global_subrs
 DECL|member|num_glyphs
 DECL|member|num_glyphs
-DECL|member|num_local_subrs
 DECL|member|num_other_blues
 DECL|member|num_snap_heights
 DECL|member|num_snap_widths
+DECL|member|num_strings
 DECL|member|num_subfonts
 DECL|member|off_size
 DECL|member|offset
@@ -109,7 +110,8 @@ DECL|member|standard_width
 DECL|member|start
 DECL|member|stream
 DECL|member|stream
-DECL|member|string_index
+DECL|member|string_pool
+DECL|member|strings
 DECL|member|stroke_width
 DECL|member|subfonts
 DECL|member|synthetic_base

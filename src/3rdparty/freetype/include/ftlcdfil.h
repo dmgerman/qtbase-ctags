@@ -1,0 +1,9 @@
+DECL|enumerator|FT_LCD_FILTER_DEFAULT
+DECL|enumerator|FT_LCD_FILTER_LEGACY
+DECL|enumerator|FT_LCD_FILTER_LIGHT
+DECL|enumerator|FT_LCD_FILTER_MAX
+DECL|enumerator|FT_LCD_FILTER_NONE
+DECL|enum|FT_LcdFilter_
+DECL|macro|__FT_LCD_FILTER_H__
+DECL|typedef|FT_LcdFilter
+DECL|variable|FT_Library_SetLcdFilterWeights

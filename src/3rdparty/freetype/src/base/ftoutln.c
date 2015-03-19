@@ -9,6 +9,7 @@ DECL|function|FT_EXPORT_DEF
 DECL|function|FT_EXPORT_DEF
 DECL|function|FT_EXPORT_DEF
 DECL|function|FT_EXPORT_DEF
+DECL|function|FT_EXPORT_DEF
 DECL|function|FT_Outline_Get_CBox
 DECL|function|FT_Outline_Reverse
 DECL|function|FT_Outline_Transform

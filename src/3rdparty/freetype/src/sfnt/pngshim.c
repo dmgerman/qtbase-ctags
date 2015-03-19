@@ -1,0 +1,8 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|convert_bytes_to_data
+DECL|function|error_callback
+DECL|function|multiply_alpha
+DECL|function|premultiply_data
+DECL|function|read_data_from_FT_Stream
+DECL|function|warning_callback
+DECL|macro|PNG_SKIP_SETJMP_CHECK

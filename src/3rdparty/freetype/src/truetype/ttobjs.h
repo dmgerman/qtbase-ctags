@@ -3,6 +3,7 @@ DECL|enumerator|tt_coderange_font
 DECL|enumerator|tt_coderange_glyph
 DECL|enumerator|tt_coderange_none
 DECL|enum|TT_CodeRange_Tag_
+DECL|macro|IS_HINTED
 DECL|macro|TT_MAX_CODE_RANGES
 DECL|macro|__TTOBJS_H__
 DECL|member|GS
@@ -23,14 +24,16 @@ DECL|member|debug
 DECL|member|delta_base
 DECL|member|delta_shift
 DECL|member|dualVector
-DECL|member|extension_component
+DECL|member|end
 DECL|member|freeVector
 DECL|member|function_defs
 DECL|member|gep0
 DECL|member|gep1
 DECL|member|gep2
+DECL|member|inline_delta
 DECL|member|instruct_control
 DECL|member|instruction_defs
+DECL|member|interpreter_version
 DECL|member|loop
 DECL|member|max_func
 DECL|member|max_function_defs
@@ -60,6 +63,7 @@ DECL|member|scan_type
 DECL|member|single_width_cutin
 DECL|member|single_width_value
 DECL|member|size
+DECL|member|sph_fdef_flags
 DECL|member|start
 DECL|member|storage
 DECL|member|storage_size

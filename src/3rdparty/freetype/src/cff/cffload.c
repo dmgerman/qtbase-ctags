@@ -17,6 +17,7 @@ DECL|function|cff_index_forget_element
 DECL|function|cff_index_get_name
 DECL|function|cff_index_get_pointers
 DECL|function|cff_index_get_sid_string
+DECL|function|cff_index_get_string
 DECL|function|cff_index_init
 DECL|function|cff_index_load_offsets
 DECL|function|cff_index_read_offset
