@@ -16,6 +16,7 @@ DECL|variable|_values
 DECL|variable|approved
 DECL|variable|contributed
 DECL|variable|doc_cache
+DECL|variable|lookup_chain_cache
 DECL|variable|parent_locales
 DECL|variable|provisional
 DECL|variable|unconfirmed
