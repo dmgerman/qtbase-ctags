@@ -7,6 +7,7 @@ DECL|function|findAlias
 DECL|function|findChild
 DECL|function|findEntry
 DECL|function|findTagsInFile
+DECL|function|parseDoc
 DECL|function|resolve
 DECL|member|__init__
 DECL|member|__init__
