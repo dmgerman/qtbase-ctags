@@ -9,6 +9,7 @@ DECL|function|initCompilerTool
 DECL|function|initConfiguration
 DECL|function|initCustomBuildTool
 DECL|function|initDeploymentTool
+DECL|function|initDistributionFiles
 DECL|function|initExtraCompilerOutputs
 DECL|function|initFormFiles
 DECL|function|initGeneratedFiles
@@ -50,6 +51,7 @@ DECL|member|versionStr
 DECL|struct|DotNetCombo
 DECL|struct|VcsolutionDepend
 DECL|variable|_GUIDDeploymentFiles
+DECL|variable|_GUIDDistributionFiles
 DECL|variable|_GUIDExtraCompilerFiles
 DECL|variable|_GUIDFormFiles
 DECL|variable|_GUIDGeneratedFiles
