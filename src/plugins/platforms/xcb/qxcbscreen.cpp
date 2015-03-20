@@ -9,6 +9,10 @@ DECL|function|formatSizeF
 DECL|function|grabWindow
 DECL|function|handleScreenChange
 DECL|function|logicalDpi
+DECL|function|mapFromNative
+DECL|function|mapFromNative
+DECL|function|mapToNative
+DECL|function|mapToNative
 DECL|function|operator <<
 DECL|function|parseXftHintStyle
 DECL|function|parseXftInt
