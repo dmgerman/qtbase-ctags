@@ -23,8 +23,6 @@ DECL|function|privateSignals
 DECL|function|slot
 DECL|function|testSlot
 DECL|function|transitions
-DECL|function|tst_QState
 DECL|member|called
-DECL|member|functionCalled
 DECL|member|m_type
 DECL|member|testPassed
