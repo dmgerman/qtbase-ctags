@@ -6,6 +6,9 @@ DECL|member|append
 DECL|variable|GENERATED_BLOCK_END
 DECL|variable|GENERATED_BLOCK_START
 DECL|variable|cldrPath
+DECL|variable|cldr_version
+DECL|variable|countryId
+DECL|variable|data
 DECL|variable|data
 DECL|variable|data
 DECL|variable|dataFilePath
@@ -16,6 +19,7 @@ DECL|variable|findEntryInFile
 DECL|variable|findTagsInFile
 DECL|variable|generationDate
 DECL|variable|ianaIdData
+DECL|variable|ldml
 DECL|variable|mapTimezones
 DECL|variable|newTempFile
 DECL|variable|oldDataFile
