@@ -1,5 +1,6 @@
 DECL|class|ClearWidget
 DECL|class|CountingGraphicsView
+DECL|class|FboCheckWidget
 DECL|class|PaintCountWidget
 DECL|class|PainterWidget
 DECL|class|tst_QOpenGLWidget
@@ -13,6 +14,7 @@ DECL|function|clearAndResizeAndGrab
 DECL|function|create
 DECL|function|createNonTopLevel
 DECL|function|drawForeground
+DECL|function|fboRedirect
 DECL|function|paintCount
 DECL|function|painter
 DECL|function|reparentToAlreadyCreated
