@@ -3,6 +3,7 @@ DECL|function|appendAndRead
 DECL|function|chop
 DECL|function|free
 DECL|function|indexOf
+DECL|function|peek
 DECL|function|readLine
 DECL|function|readPointerAtPositionEmptyRead
 DECL|function|readPointerAtPositionReadTooMuch
