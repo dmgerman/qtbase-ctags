@@ -10,6 +10,7 @@ DECL|enumerator|KoreanCsbBit
 DECL|enumerator|KoreanJohabCsbBit
 DECL|enumerator|Latin1CsbBit
 DECL|enumerator|SimplifiedChineseCsbBit
+DECL|enumerator|SymbolCsbBit
 DECL|enumerator|ThaiCsbBit
 DECL|enumerator|TraditionalChineseCsbBit
 DECL|enumerator|TurkishCsbBit
