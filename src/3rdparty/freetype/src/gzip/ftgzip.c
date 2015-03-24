@@ -1,5 +1,7 @@
 DECL|function|FT_EXPORT_DEF
 DECL|function|FT_EXPORT_DEF
+DECL|function|FT_EXPORT_DEF
+DECL|function|FT_EXPORT_DEF
 DECL|function|ft_gzip_alloc
 DECL|function|ft_gzip_check_header
 DECL|function|ft_gzip_file_done
@@ -16,6 +18,7 @@ DECL|function|ft_gzip_stream_io
 DECL|function|zcalloc
 DECL|function|zcfree
 DECL|macro|FT_ERR_BASE
+DECL|macro|FT_ERR_PREFIX
 DECL|macro|FT_ERR_PREFIX
 DECL|macro|FT_GZIP_ASCII_FLAG
 DECL|macro|FT_GZIP_BUFFER_SIZE

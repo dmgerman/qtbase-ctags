@@ -16,6 +16,5 @@ DECL|function|af_latin_metrics_init_widths
 DECL|function|af_latin_metrics_scale
 DECL|function|af_latin_metrics_scale_dim
 DECL|function|af_latin_snap_width
-DECL|macro|AF_LATIN_MAX_TEST_CHARACTERS
-DECL|variable|af_latin_blue_chars
-DECL|variable|af_latin_uniranges
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT

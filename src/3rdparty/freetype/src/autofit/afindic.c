@@ -2,4 +2,3 @@ DECL|function|af_indic_hints_apply
 DECL|function|af_indic_hints_init
 DECL|function|af_indic_metrics_init
 DECL|function|af_indic_metrics_scale
-DECL|variable|af_indic_uniranges

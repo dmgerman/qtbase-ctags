@@ -21,6 +21,7 @@ DECL|function|FT_Stroker_Export
 DECL|function|FT_Stroker_ExportBorder
 DECL|function|FT_Stroker_Rewind
 DECL|function|FT_Stroker_Set
+DECL|function|ft_angle_mean
 DECL|function|ft_conic_is_small_enough
 DECL|function|ft_conic_split
 DECL|function|ft_cubic_is_small_enough
@@ -57,9 +58,12 @@ DECL|member|angle_out
 DECL|member|borders
 DECL|member|center
 DECL|member|first_point
+DECL|member|handle_wide_strokes
 DECL|member|library
 DECL|member|line_cap
 DECL|member|line_join
+DECL|member|line_join_saved
+DECL|member|line_length
 DECL|member|max_points
 DECL|member|memory
 DECL|member|miter_limit
@@ -69,10 +73,10 @@ DECL|member|points
 DECL|member|radius
 DECL|member|start
 DECL|member|subpath_angle
+DECL|member|subpath_line_length
 DECL|member|subpath_open
 DECL|member|subpath_start
 DECL|member|tags
-DECL|member|valid
 DECL|member|valid
 DECL|struct|FT_StrokeBorderRec_
 DECL|struct|FT_StrokerRec_

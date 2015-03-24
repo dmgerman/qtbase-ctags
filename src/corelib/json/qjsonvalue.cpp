@@ -30,5 +30,6 @@ DECL|function|toObject
 DECL|function|toString
 DECL|function|toValue
 DECL|function|toVariant
+DECL|function|toVariant
 DECL|function|type
 DECL|function|~QJsonValue

@@ -1,2 +1,10 @@
 DECL|function|autofit_module_class_pic_free
 DECL|function|autofit_module_class_pic_init
+DECL|macro|SCRIPT
+DECL|macro|SCRIPT
+DECL|macro|STYLE
+DECL|macro|STYLE
+DECL|macro|WRITING_SYSTEM
+DECL|macro|WRITING_SYSTEM
+DECL|macro|WRITING_SYSTEM
+DECL|macro|WRITING_SYSTEM

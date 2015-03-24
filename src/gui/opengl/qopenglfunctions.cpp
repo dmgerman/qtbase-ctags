@@ -15,6 +15,7 @@ DECL|function|QOpenGLFunctionsPrivate
 DECL|function|QOpenGLFunctionsPrivateEx
 DECL|function|Resolver
 DECL|function|Resolver
+DECL|function|flushShared
 DECL|function|functionResolver
 DECL|function|functionResolverWithFallback
 DECL|function|gles3Helper

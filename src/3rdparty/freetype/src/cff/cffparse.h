@@ -15,6 +15,7 @@ DECL|member|array_max
 DECL|member|code
 DECL|member|count_offset
 DECL|member|cursor
+DECL|member|id
 DECL|member|kind
 DECL|member|library
 DECL|member|limit

@@ -11,6 +11,10 @@ DECL|member|location
 DECL|member|parse_file
 DECL|member|process_normal_line
 DECL|member|reset
+DECL|variable|any
+DECL|variable|gunk
+DECL|variable|ltrs
+DECL|variable|punc
 DECL|variable|re_bold
 DECL|variable|re_crossref
 DECL|variable|re_italic
@@ -20,3 +24,5 @@ DECL|variable|re_source_block_format2
 DECL|variable|re_source_block_formats
 DECL|variable|re_source_crossref
 DECL|variable|re_source_sep
+DECL|variable|re_url
+DECL|variable|urls

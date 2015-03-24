@@ -10,10 +10,12 @@ DECL|function|FT_BASE_DEF
 DECL|function|FT_BASE_DEF
 DECL|function|FT_BASE_DEF
 DECL|function|FT_BASE_DEF
-DECL|function|FT_BASE_DEF
-DECL|function|FT_BASE_DEF
 DECL|function|FT_CMap_Done
 DECL|function|FT_Done_GlyphSlot
+DECL|function|FT_EXPORT_DEF
+DECL|function|FT_EXPORT_DEF
+DECL|function|FT_EXPORT_DEF
+DECL|function|FT_EXPORT_DEF
 DECL|function|FT_EXPORT_DEF
 DECL|function|FT_EXPORT_DEF
 DECL|function|FT_EXPORT_DEF
@@ -88,6 +90,7 @@ DECL|function|ft_glyphslot_init
 DECL|function|ft_glyphslot_set_bitmap
 DECL|function|ft_lookup_PS_in_sfnt_stream
 DECL|function|ft_lookup_glyph_renderer
+DECL|function|ft_property_do
 DECL|function|ft_recompute_scaled_metrics
 DECL|function|ft_remove_renderer
 DECL|function|ft_set_current_renderer
@@ -100,6 +103,10 @@ DECL|function|memory_stream_close
 DECL|function|new_memory_stream
 DECL|function|open_face
 DECL|macro|FREETYPE_VER_FIXED
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT

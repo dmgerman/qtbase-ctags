@@ -114,6 +114,7 @@ DECL|function|setIncludes
 DECL|function|setLink
 DECL|function|setLogicalModuleInfo
 DECL|function|setLogicalModuleInfo
+DECL|function|setOutputSubdirectory
 DECL|function|setOverload
 DECL|function|setOverload
 DECL|function|setOverriddenFrom

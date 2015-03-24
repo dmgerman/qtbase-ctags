@@ -3,6 +3,8 @@ DECL|function|Foo
 DECL|function|Foo
 DECL|function|MyBase
 DECL|function|MyBase
+DECL|function|MyComplex
+DECL|function|MyMovable
 DECL|function|MyPrimitive
 DECL|function|MyPrimitive
 DECL|function|append
@@ -13,11 +15,17 @@ DECL|function|countMoved
 DECL|function|first
 DECL|function|hasMoved
 DECL|function|indexOf
+DECL|function|initializeList
+DECL|function|initializeListComplex
+DECL|function|initializeListInt
+DECL|function|initializeListMovable
 DECL|function|last
 DECL|function|lastIndexOf
 DECL|function|oldTests
 DECL|function|operator =
 DECL|function|operator =
+DECL|function|operator ==
+DECL|function|operator ==
 DECL|function|realloc
 DECL|function|reallocTest
 DECL|function|removeLast
@@ -31,6 +39,8 @@ DECL|member|copyCount
 DECL|member|data
 DECL|member|errorCount
 DECL|member|errorCount
+DECL|member|i
+DECL|member|i
 DECL|member|isCopy
 DECL|member|liveCount
 DECL|member|liveCount

@@ -14,7 +14,6 @@ DECL|function|parse_buildchar
 DECL|function|parse_charstrings
 DECL|function|parse_dict
 DECL|function|parse_encoding
-DECL|function|parse_font_matrix
 DECL|function|parse_private
 DECL|function|parse_subrs
 DECL|function|parse_weight_vector
@@ -23,8 +22,11 @@ DECL|function|t1_allocate_blend
 DECL|function|t1_done_loader
 DECL|function|t1_init_loader
 DECL|function|t1_load_keyword
+DECL|function|t1_parse_font_matrix
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
+DECL|macro|IS_INCREMENTAL
+DECL|macro|IS_INCREMENTAL
 DECL|macro|T1_FIELD_COUNT
 DECL|macro|TABLE_EXTEND
 DECL|variable|t1_keywords

@@ -21,6 +21,7 @@ DECL|function|fromInvalidUtf8Sequence
 DECL|function|fromUnicode
 DECL|function|fromUnicode_data
 DECL|function|invalidNames
+DECL|function|iso8859_16
 DECL|function|mibForTSCII
 DECL|function|moreToFromUnicode
 DECL|function|moreToFromUnicode_data

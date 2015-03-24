@@ -10,6 +10,7 @@ DECL|member|buildchar
 DECL|member|builder
 DECL|member|cff
 DECL|member|current
+DECL|member|current_subfont
 DECL|member|cursor
 DECL|member|face
 DECL|member|flex_state
@@ -53,4 +54,8 @@ DECL|struct|CFF_Decoder_Zone_
 DECL|typedef|CFF_Builder
 DECL|typedef|CFF_Decoder
 DECL|typedef|CFF_Decoder_Zone
+DECL|variable|builder
+DECL|variable|cff_builder_add_point
+DECL|variable|cff_builder_start_point
 DECL|variable|cff_decoder_parse_charstrings
+DECL|variable|cff_get_glyph_data

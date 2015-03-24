@@ -1,5 +1,7 @@
 DECL|function|af_warper_compute
 DECL|function|af_warper_compute_line_best
-DECL|variable|af_warper_dummy
+DECL|macro|FT_COMPONENT
+DECL|macro|FT_COMPONENT
+DECL|typedef|_af_warp_dummy
 DECL|variable|af_warper_weights
 DECL|variable|af_warper_weights

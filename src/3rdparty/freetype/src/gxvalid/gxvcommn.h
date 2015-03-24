@@ -20,10 +20,13 @@ DECL|macro|GXV_GLYPHOFFSET_SIZE
 DECL|macro|GXV_INIT
 DECL|macro|GXV_INIT
 DECL|macro|GXV_LIMIT_CHECK
+DECL|macro|GXV_LOAD_TRACE_VARS
+DECL|macro|GXV_LOAD_UNUSED_VARS
 DECL|macro|GXV_NAME_ENTER
 DECL|macro|GXV_NAME_ENTER
 DECL|macro|GXV_ODTECT
 DECL|macro|GXV_ODTECT_INIT
+DECL|macro|GXV_SET_ERR_IF_PARANOID
 DECL|macro|GXV_STATEHEADER_SIZE
 DECL|macro|GXV_STATETABLE_HEADER_SIZE
 DECL|macro|GXV_SUBTABLE_LIMIT_CHECK
@@ -37,6 +40,7 @@ DECL|macro|GXV_TRACE_HEXDUMP_SFNTNAME
 DECL|macro|GXV_USHORT_TO_SHORT
 DECL|macro|GXV_XSTATEHEADER_SIZE
 DECL|macro|GXV_XSTATETABLE_HEADER_SIZE
+DECL|macro|IS_PARANOID_VALIDATION
 DECL|macro|__GXVCOMMN_H__
 DECL|member|c
 DECL|member|debug_function_name
@@ -53,6 +57,8 @@ DECL|member|lookuptbl_head
 DECL|member|lookupval_func
 DECL|member|lookupval_sign
 DECL|member|maxClassID
+DECL|member|max_gid
+DECL|member|min_gid
 DECL|member|nClasses
 DECL|member|nRanges
 DECL|member|name

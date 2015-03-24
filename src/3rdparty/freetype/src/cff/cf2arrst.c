@@ -1,0 +1,9 @@
+DECL|function|FT_LOCAL_DEF
+DECL|function|cf2_arrstack_clear
+DECL|function|cf2_arrstack_finalize
+DECL|function|cf2_arrstack_getBuffer
+DECL|function|cf2_arrstack_getPointer
+DECL|function|cf2_arrstack_init
+DECL|function|cf2_arrstack_push
+DECL|function|cf2_arrstack_setCount
+DECL|function|cf2_arrstack_setNumElements

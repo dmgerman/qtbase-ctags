@@ -10,7 +10,6 @@ DECL|member|y_scale
 DECL|struct|T1_GlyphSlotRec_
 DECL|struct|T1_SizeRec_
 DECL|typedef|T1_CharMap
-DECL|typedef|T1_Driver
 DECL|typedef|T1_GlyphSlot
 DECL|typedef|T1_GlyphSlotRec
 DECL|typedef|T1_Glyph_Hints

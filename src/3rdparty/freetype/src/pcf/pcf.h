@@ -45,6 +45,8 @@ DECL|member|charmap
 DECL|member|charmap_handle
 DECL|member|charset_encoding
 DECL|member|charset_registry
+DECL|member|comp_source
+DECL|member|comp_stream
 DECL|member|constantMetrics
 DECL|member|constantWidth
 DECL|member|count
@@ -58,8 +60,6 @@ DECL|member|fontAscent
 DECL|member|fontDescent
 DECL|member|format
 DECL|member|glyph
-DECL|member|gzip_source
-DECL|member|gzip_stream
 DECL|member|inkInside
 DECL|member|inkMetrics
 DECL|member|ink_maxbounds

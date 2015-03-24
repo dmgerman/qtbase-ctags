@@ -1,7 +1,9 @@
 DECL|function|FT_CALLBACK_DEF
-DECL|function|Load_Glyph
 DECL|function|tt_get_advances
 DECL|function|tt_get_kerning
+DECL|function|tt_glyph_load
+DECL|function|tt_property_get
+DECL|function|tt_property_set
 DECL|function|tt_size_request
 DECL|function|tt_size_select
 DECL|macro|FT_COMPONENT

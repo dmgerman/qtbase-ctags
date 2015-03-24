@@ -1,7 +1,5 @@
 DECL|class|HtmlFormatter
-DECL|function|dump_html_code
 DECL|function|html_quote
-DECL|function|html_quote0
 DECL|member|__init__
 DECL|member|block_enter
 DECL|member|block_exit
@@ -15,7 +13,6 @@ DECL|member|make_html_code
 DECL|member|make_html_items
 DECL|member|make_html_para
 DECL|member|make_html_word
-DECL|member|make_html_words
 DECL|member|make_section_url
 DECL|member|markup_enter
 DECL|member|markup_exit
@@ -35,11 +32,15 @@ DECL|member|toc_index
 DECL|member|toc_section_enter
 DECL|member|toc_section_exit
 DECL|variable|chapter_footer
+DECL|variable|chapter_inter
 DECL|variable|code_footer
 DECL|variable|description_footer
+DECL|variable|description_header
 DECL|variable|header_location_footer
+DECL|variable|header_location_header
 DECL|variable|keyword_suffix
 DECL|variable|marker_footer
+DECL|variable|marker_header
 DECL|variable|marker_inter
 DECL|variable|para_footer
 DECL|variable|para_header
@@ -48,3 +49,4 @@ DECL|variable|section_synopsis_header
 DECL|variable|section_title_footer
 DECL|variable|section_title_header
 DECL|variable|source_footer
+DECL|variable|source_header

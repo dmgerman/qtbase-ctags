@@ -35,11 +35,6 @@ DECL|function|t1_lookup_glyph_by_stdcharcode
 DECL|function|t1operator_seac
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
-DECL|macro|add_contour
-DECL|macro|add_point
-DECL|macro|add_point1
-DECL|macro|check_points
-DECL|macro|close_contour
-DECL|macro|start_point
+DECL|macro|Fix2Int
 DECL|typedef|T1_Operator
 DECL|variable|t1_args_count

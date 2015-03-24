@@ -1,8 +1,10 @@
 DECL|function|FT_BASE_DEF
 DECL|function|FT_BASE_DEF
+DECL|function|FT_LOCAL_DEF
 DECL|function|FT_Raccess_Guess
 DECL|function|FT_Raccess_Guess
 DECL|function|ft_raccess_sort_ref_by_id
+DECL|function|raccess_get_rule_type_from_rule_index
 DECL|function|raccess_guess_apple_double
 DECL|function|raccess_guess_apple_generic
 DECL|function|raccess_guess_apple_single
@@ -17,4 +19,3 @@ DECL|function|raccess_guess_vfat
 DECL|function|raccess_make_file_name
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
-DECL|typedef|raccess_guess_func

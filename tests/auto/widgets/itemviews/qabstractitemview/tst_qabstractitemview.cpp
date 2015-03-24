@@ -64,6 +64,7 @@ DECL|function|setItemDelegate_data
 DECL|function|setModel
 DECL|function|setModel_data
 DECL|function|shiftArrowSelectionAfterScrolling
+DECL|function|shiftSelectionAfterChangingModelContents
 DECL|function|shiftSelectionAfterRubberbandSelection
 DECL|function|sizeHint
 DECL|function|sizeHintChangeTriggersLayout

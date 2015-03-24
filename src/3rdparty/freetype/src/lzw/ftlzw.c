@@ -11,6 +11,7 @@ DECL|function|ft_lzw_stream_close
 DECL|function|ft_lzw_stream_io
 DECL|macro|FT_ERR_BASE
 DECL|macro|FT_ERR_PREFIX
+DECL|macro|FT_ERR_PREFIX
 DECL|macro|FT_LZW_BUFFER_SIZE
 DECL|macro|__FTERRORS_H__
 DECL|member|buffer

@@ -11,5 +11,7 @@ DECL|function|cff_size_done
 DECL|function|cff_size_get_globals_funcs
 DECL|function|cff_slot_done
 DECL|function|cff_strcpy
+DECL|function|remove_style
+DECL|function|remove_subset_prefix
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT

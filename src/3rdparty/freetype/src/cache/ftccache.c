@@ -8,6 +8,7 @@ DECL|function|FT_LOCAL_DEF
 DECL|function|ftc_cache_add
 DECL|function|ftc_cache_done
 DECL|function|ftc_cache_resize
+DECL|function|ftc_get_top_node_for_hash
 DECL|function|ftc_node_destroy
 DECL|function|ftc_node_hash_link
 DECL|function|ftc_node_hash_unlink

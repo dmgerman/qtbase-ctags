@@ -1,4 +1,5 @@
 DECL|function|FT_MulDiv
+DECL|function|FT_MulDiv_No_Round
 DECL|macro|FT_BEGIN_HEADER
 DECL|macro|FT_END_HEADER
 DECL|macro|FT_LOCAL_DEF
@@ -15,6 +16,7 @@ DECL|typedef|FT_Error
 DECL|typedef|FT_F26Dot6
 DECL|typedef|FT_Free_Func
 DECL|typedef|FT_Int
+DECL|typedef|FT_Int64
 DECL|typedef|FT_Int64
 DECL|typedef|FT_Long
 DECL|typedef|FT_Memory

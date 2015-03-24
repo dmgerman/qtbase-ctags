@@ -8,6 +8,9 @@ DECL|macro|FTC_NODE
 DECL|macro|FTC_NODE_P
 DECL|macro|FTC_NODE__NEXT
 DECL|macro|FTC_NODE__PREV
+DECL|macro|FTC_NODE__TOP_FOR_HASH
+DECL|macro|FTC_NODE__TOP_FOR_HASH
+DECL|macro|_FTC_FACE_ID_HASH
 DECL|macro|__FTCCACHE_H__
 DECL|member|buckets
 DECL|member|cache_done

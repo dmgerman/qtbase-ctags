@@ -4,6 +4,7 @@ DECL|function|gxv_just_actSubrecord_type2_validate
 DECL|function|gxv_just_actSubrecord_type4_validate
 DECL|function|gxv_just_actSubrecord_type5_validate
 DECL|function|gxv_just_actSubrecord_validate
+DECL|function|gxv_just_check_max_gid
 DECL|function|gxv_just_classTable_entry_validate
 DECL|function|gxv_just_justClassTable_validate
 DECL|function|gxv_just_justData_lookuptable_validate
