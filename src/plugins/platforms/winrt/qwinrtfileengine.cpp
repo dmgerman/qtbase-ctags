@@ -9,6 +9,7 @@ DECL|function|create
 DECL|function|fileFlags
 DECL|function|fileName
 DECL|function|fileTime
+DECL|function|flush
 DECL|function|getDestinationFolder
 DECL|function|open
 DECL|function|pos
@@ -31,6 +32,7 @@ DECL|member|fileName
 DECL|member|files
 DECL|member|firstDot
 DECL|member|lastSeparator
+DECL|member|openMode
 DECL|member|pos
 DECL|member|q_ptr
 DECL|member|stream
