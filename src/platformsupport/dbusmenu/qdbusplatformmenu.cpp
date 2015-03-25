@@ -27,9 +27,9 @@ DECL|function|setText
 DECL|function|setVisible
 DECL|function|setVisible
 DECL|function|syncMenuItem
-DECL|function|topLevelMenus
 DECL|function|trigger
 DECL|function|~QDBusPlatformMenu
+DECL|member|m_topLevelMenus
 DECL|variable|menuItemsByID
 DECL|variable|menusByID
 DECL|variable|nextDBusID

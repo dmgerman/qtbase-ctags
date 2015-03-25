@@ -13,4 +13,5 @@ DECL|function|operator >>
 DECL|function|operator >>
 DECL|function|populate
 DECL|function|populate
+DECL|function|populate
 DECL|function|registerDBusTypes
