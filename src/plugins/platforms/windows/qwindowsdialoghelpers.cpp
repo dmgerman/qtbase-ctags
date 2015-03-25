@@ -112,6 +112,7 @@ DECL|function|hide
 DECL|function|hideFiltersDetails
 DECL|function|indexOfNameFilter
 DECL|function|init
+DECL|function|isClsid
 DECL|function|isQQuickWindow
 DECL|function|itemPath
 DECL|function|itemPaths
@@ -226,7 +227,6 @@ DECL|macro|GPS_TEMPORARY
 DECL|macro|IID_IShellItem
 DECL|macro|LFF_FORCEFILESYSTEM
 DECL|macro|QT_NO_URL_CAST_FROM_STRING
-DECL|macro|STRICT_TYPED_ITEMIDS
 DECL|macro|_WIN32_WINNT
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
