@@ -60,6 +60,7 @@ DECL|member|progressive
 DECL|member|q
 DECL|member|quality
 DECL|member|readTexts
+DECL|member|rgb888ToRgb32ConverterPtr
 DECL|member|scaledClipRect
 DECL|member|scaledSize
 DECL|member|setjmp_buffer
@@ -71,4 +72,3 @@ DECL|struct|my_jpeg_source_mgr
 DECL|typedef|Rgb888ToRgb32Converter
 DECL|typedef|boolean
 DECL|variable|max_buf
-DECL|variable|rgb888ToRgb32ConverterPtr
