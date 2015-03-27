@@ -110,6 +110,7 @@ DECL|function|isEmpty
 DECL|function|last
 DECL|function|lastIndexOf
 DECL|function|mid
+DECL|function|operator <
 DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator =
