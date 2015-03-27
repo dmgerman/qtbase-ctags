@@ -85,6 +85,9 @@ DECL|function|move
 DECL|function|moveComplex
 DECL|function|moveMovable
 DECL|function|moveOptimal
+DECL|function|operator <
+DECL|function|operator <
+DECL|function|operator <
 DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator =
