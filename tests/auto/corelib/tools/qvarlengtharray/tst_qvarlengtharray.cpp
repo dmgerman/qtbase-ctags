@@ -26,6 +26,7 @@ DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator ==
+DECL|function|operators
 DECL|function|realloc
 DECL|function|reallocTest
 DECL|function|removeLast

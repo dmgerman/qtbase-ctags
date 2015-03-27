@@ -7,6 +7,9 @@ DECL|function|insert
 DECL|function|insert
 DECL|function|insert
 DECL|function|lastIndexOf
+DECL|function|noexcept
+DECL|function|noexcept
+DECL|function|noexcept
 DECL|function|operator
 DECL|function|operator
 DECL|function|prepend
@@ -20,6 +23,10 @@ DECL|function|squeeze
 DECL|function|value
 DECL|function|value
 DECL|macro|QVARLENGTHARRAY_H
+DECL|variable|Prealloc1
+DECL|variable|Prealloc1
+DECL|variable|Prealloc1
+DECL|variable|Prealloc1
 DECL|variable|Prealloc1
 DECL|variable|Prealloc1
 DECL|variable|QPodList
@@ -65,3 +72,7 @@ DECL|variable|T
 DECL|variable|T
 DECL|variable|T
 DECL|variable|T
+DECL|variable|T
+DECL|variable|T
+DECL|variable|T
+DECL|variable|operator
