@@ -52,6 +52,7 @@ DECL|function|waitForReadOrWrite
 DECL|function|waitForWrite
 DECL|function|write
 DECL|function|writeDatagram
+DECL|function|writeIOStream
 DECL|function|~QNativeSocketEngine
 DECL|function|~QNativeSocketEnginePrivate
 DECL|macro|Q_CHECK_INVALID_SOCKETLAYER
