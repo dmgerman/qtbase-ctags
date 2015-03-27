@@ -18,10 +18,7 @@ DECL|function|findScreenForOutput
 DECL|function|formatForDepth
 DECL|function|getTimestamp
 DECL|function|grabServer
-DECL|function|handleButtonPress
-DECL|function|handleButtonRelease
 DECL|function|handleClientMessageEvent
-DECL|function|handleMotionNotify
 DECL|function|handleXcbError
 DECL|function|handleXcbEvent
 DECL|function|initializeAllAtoms
@@ -61,6 +58,7 @@ DECL|function|updateScreens
 DECL|function|virtualDesktopForRootWindow
 DECL|function|windowEventListenerFromId
 DECL|function|xi2GetValuatorValueIfSet
+DECL|function|xi2MouseEvents
 DECL|function|xi2PrepareXIGenericDeviceEvent
 DECL|function|xi2ValuatorOffset
 DECL|function|xlib_display
