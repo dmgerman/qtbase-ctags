@@ -32,6 +32,7 @@ DECL|function|createInitialTransition
 DECL|function|defaultAnimations
 DECL|function|dequeueExternalEvent
 DECL|function|dequeueInternalEvent
+DECL|function|emitStateFinished
 DECL|function|endMicrostep
 DECL|function|endSelectTransitions
 DECL|function|enterStates
