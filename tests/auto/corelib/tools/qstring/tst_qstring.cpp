@@ -238,6 +238,7 @@ DECL|function|reserve
 DECL|function|resizeAfterFromRawData
 DECL|function|resizeAfterReserve
 DECL|function|resizeWithNegative
+DECL|function|reverseIterators
 DECL|function|right
 DECL|function|rightJustified
 DECL|function|rightRef
