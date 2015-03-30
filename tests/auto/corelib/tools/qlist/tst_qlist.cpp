@@ -115,6 +115,10 @@ DECL|function|replaceComplex
 DECL|function|replaceMovable
 DECL|function|replaceOptimal
 DECL|function|reserve
+DECL|function|reverseIterators
+DECL|function|reverseIteratorsComplex
+DECL|function|reverseIteratorsMovable
+DECL|function|reverseIteratorsOptimal
 DECL|function|runSetSharableTest
 DECL|function|setSharableComplex
 DECL|function|setSharableComplex_data
