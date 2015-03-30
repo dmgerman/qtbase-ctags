@@ -6,16 +6,15 @@ DECL|function|activateCall
 DECL|function|activateInternalFilters
 DECL|function|activateObject
 DECL|function|activateSignal
+DECL|function|addSignalHook
 DECL|function|buildMatchRule
 DECL|function|checkThread
 DECL|function|closeConnection
 DECL|function|connectRelay
 DECL|function|connectSignal
-DECL|function|connectSignal
 DECL|function|connectionCapabilies
 DECL|function|deliverCall
 DECL|function|disconnectRelay
-DECL|function|disconnectSignal
 DECL|function|disconnectSignal
 DECL|function|doDispatch
 DECL|function|findChildObject
@@ -59,6 +58,8 @@ DECL|function|registerObject
 DECL|function|registerService
 DECL|function|registerServiceNoLock
 DECL|function|relaySignal
+DECL|function|removeSignalHook
+DECL|function|removeSignalHookNoLock
 DECL|function|send
 DECL|function|sendError
 DECL|function|sendInternal
