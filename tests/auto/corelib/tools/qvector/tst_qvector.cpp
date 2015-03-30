@@ -135,6 +135,7 @@ DECL|function|resizeComplex_data
 DECL|function|resizeCtorAndDtor
 DECL|function|resizePOD
 DECL|function|resizePOD_data
+DECL|function|reverseIterators
 DECL|function|setSharable
 DECL|function|setSharable
 DECL|function|setSharableCustom
