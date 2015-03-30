@@ -31,6 +31,7 @@ DECL|function|realloc
 DECL|function|reallocTest
 DECL|function|removeLast
 DECL|function|resize
+DECL|function|reverseIterators
 DECL|function|squeeze
 DECL|function|~Foo
 DECL|function|~MyBase
