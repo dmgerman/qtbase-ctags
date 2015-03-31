@@ -1,10 +1,13 @@
 DECL|class|tst_QDBusServiceWatcher
+DECL|function|disconnectedConnection
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|modeChange
+DECL|function|setConnection
 DECL|function|tst_QDBusServiceWatcher
 DECL|function|watchForCreation
 DECL|function|watchForDisappearance
+DECL|function|watchForDisappearanceUniqueConnection
 DECL|function|watchForOwnerChange
 DECL|member|serviceName
 DECL|member|testCounter

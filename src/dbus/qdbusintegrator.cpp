@@ -34,6 +34,7 @@ DECL|function|huntAndDestroy
 DECL|function|huntAndEmit
 DECL|function|huntAndUnregister
 DECL|function|isServiceRegisteredByThread
+DECL|function|matchArgsForService
 DECL|function|objectDestroyed
 DECL|function|operator <<
 DECL|function|operator <<
@@ -75,6 +76,8 @@ DECL|function|timerEvent
 DECL|function|unregisterObject
 DECL|function|unregisterService
 DECL|function|unregisterServiceNoLock
+DECL|function|unwatchService
+DECL|function|watchService
 DECL|function|~QDBusActivateObjectEvent
 DECL|function|~QDBusBlockingCallWatcher
 DECL|function|~QDBusConnectionPrivate
