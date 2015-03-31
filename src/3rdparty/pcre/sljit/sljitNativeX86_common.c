@@ -24,8 +24,9 @@ DECL|function|get_jump_code
 DECL|function|init_compiler
 DECL|function|sljit_emit_const
 DECL|function|sljit_emit_fop1
-DECL|function|sljit_emit_fop1
-DECL|function|sljit_emit_fop2
+DECL|function|sljit_emit_fop1_cmp
+DECL|function|sljit_emit_fop1_convd_fromw
+DECL|function|sljit_emit_fop1_convw_fromd
 DECL|function|sljit_emit_fop2
 DECL|function|sljit_emit_ijump
 DECL|function|sljit_emit_jump
@@ -73,6 +74,9 @@ DECL|macro|CMP
 DECL|macro|CMP_EAX_i32
 DECL|macro|CMP_r_rm
 DECL|macro|CMP_rm_r
+DECL|macro|CVTPD2PS_x_xm
+DECL|macro|CVTSI2SD_x_rm
+DECL|macro|CVTTSD2SI_r_xm
 DECL|macro|DIV
 DECL|macro|DIVSD_x_xm
 DECL|macro|EMIT_MOV
@@ -87,6 +91,8 @@ DECL|macro|EX86_PREF_F3
 DECL|macro|EX86_REX
 DECL|macro|EX86_SHIFT_INS
 DECL|macro|EX86_SSE2
+DECL|macro|EX86_SSE2_OP1
+DECL|macro|EX86_SSE2_OP2
 DECL|macro|GROUP_0F
 DECL|macro|GROUP_BINARY_81
 DECL|macro|GROUP_BINARY_83
@@ -111,6 +117,7 @@ DECL|macro|JE_i8
 DECL|macro|JMP_i32
 DECL|macro|JMP_i8
 DECL|macro|JMP_rm
+DECL|macro|JNE_i8
 DECL|macro|LEA_r_m
 DECL|macro|MOD_DISP8
 DECL|macro|MOD_REG
@@ -177,6 +184,7 @@ DECL|macro|TMP_REG1
 DECL|macro|TMP_REG2
 DECL|macro|TMP_REG3
 DECL|macro|UCOMISD_x_xm
+DECL|macro|UNPCKLPD_x_xm
 DECL|macro|XCHG_EAX_r
 DECL|macro|XCHG_r_rm
 DECL|macro|XOR

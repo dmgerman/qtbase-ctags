@@ -15,12 +15,11 @@ DECL|function|_q_updateFocusObject
 DECL|function|allWindows
 DECL|function|applicationDisplayName
 DECL|function|applicationState
-DECL|function|apply
-DECL|function|apply
 DECL|function|applyCursor
 DECL|function|applyCursor
+DECL|function|applyTo
 DECL|function|applyWindowCursor
-DECL|function|applyWindowGeometrySpecification
+DECL|function|applyWindowGeometrySpecificationTo
 DECL|function|changeOverrideCursor
 DECL|function|clearFontUnlocked
 DECL|function|clearPalette
