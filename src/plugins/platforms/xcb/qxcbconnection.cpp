@@ -68,6 +68,7 @@ DECL|function|~QXcbConnectionGrabber
 DECL|macro|HANDLE_KEYBOARD_EVENT
 DECL|macro|HANDLE_PLATFORM_WINDOW_EVENT
 DECL|macro|PRINT_XCB_EVENT
+DECL|macro|XCB_GE_GENERIC
 DECL|member|any
 DECL|member|atom
 DECL|member|deviceID
