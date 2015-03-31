@@ -1,3 +1,4 @@
+DECL|enumerator|XCursorShape
 DECL|function|QXcbCursor
 DECL|function|QXcbCursorCacheKey
 DECL|function|changeCursor
@@ -12,6 +13,7 @@ DECL|function|queryPointer
 DECL|function|setPos
 DECL|function|updateCursorTheme
 DECL|function|~QXcbCursor
+DECL|macro|CursorShape
 DECL|typedef|PtrXcursorLibraryGetDefaultSize
 DECL|typedef|PtrXcursorLibraryGetTheme
 DECL|typedef|PtrXcursorLibraryLoadCursor

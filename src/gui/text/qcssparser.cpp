@@ -33,6 +33,7 @@ DECL|function|init
 DECL|function|intValue
 DECL|function|intValueHelper
 DECL|function|isHexDigit
+DECL|function|isInheritable
 DECL|function|lengthValue
 DECL|function|lengthValue
 DECL|function|lengthValueFromData

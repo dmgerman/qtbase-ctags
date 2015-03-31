@@ -145,6 +145,8 @@ DECL|function|toString
 DECL|function|toString
 DECL|function|toString
 DECL|function|toString
+DECL|function|toStringIsoDate
+DECL|function|toStringTextDate
 DECL|function|toTimeSpec
 DECL|function|toTimeZone
 DECL|function|toTime_t

@@ -57,6 +57,7 @@ DECL|function|devicePixelRatio
 DECL|function|doFocusIn
 DECL|function|doFocusOut
 DECL|function|dpr_ceil
+DECL|function|dpr_ceil
 DECL|function|dpr_floor
 DECL|function|focusInPeeker
 DECL|function|format
@@ -99,6 +100,7 @@ DECL|function|positionIncludesFrame
 DECL|function|postSyncWindowRequest
 DECL|function|propagateSizeHints
 DECL|function|qRectToXCBRectangle
+DECL|function|qstringToXTP
 DECL|function|raise
 DECL|function|relayFocusToModalWindow
 DECL|function|requestActivateWindow

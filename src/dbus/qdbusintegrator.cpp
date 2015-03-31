@@ -13,8 +13,6 @@ DECL|function|connectSignal
 DECL|function|connectSignal
 DECL|function|connectionCapabilies
 DECL|function|customEvent
-DECL|function|dbusInterfaceString
-DECL|function|dbusServiceString
 DECL|function|deleteYourself
 DECL|function|deliverCall
 DECL|function|disconnectRelay
@@ -40,7 +38,6 @@ DECL|function|isServiceRegisteredByThread
 DECL|function|objectDestroyed
 DECL|function|operator <<
 DECL|function|operator <<
-DECL|function|orgFreedesktopDBusString
 DECL|function|placeMetaCall
 DECL|function|postEventToThread
 DECL|function|prepareHook

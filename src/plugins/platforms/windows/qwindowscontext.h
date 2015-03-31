@@ -1,5 +1,6 @@
 DECL|function|isValid
 DECL|macro|QWINDOWSCONTEXT_H
+DECL|macro|STRICT_TYPED_ITEMIDS
 DECL|member|addClipboardFormatListener
 DECL|member|closeTouchInputHandle
 DECL|member|getDpiForMonitor
@@ -9,8 +10,10 @@ DECL|member|isHungAppWindow
 DECL|member|isTouchWindow
 DECL|member|registerTouchWindow
 DECL|member|removeClipboardFormatListener
+DECL|member|sHCreateItemFromIDList
 DECL|member|sHCreateItemFromParsingName
 DECL|member|sHGetImageList
+DECL|member|sHGetKnownFolderIDList
 DECL|member|sHGetStockIconInfo
 DECL|member|setLayeredWindowAttributes
 DECL|member|setProcessDPIAware
@@ -30,8 +33,10 @@ DECL|typedef|IsHungAppWindow
 DECL|typedef|IsTouchWindow
 DECL|typedef|RegisterTouchWindow
 DECL|typedef|RemoveClipboardFormatListener
+DECL|typedef|SHCreateItemFromIDList
 DECL|typedef|SHCreateItemFromParsingName
 DECL|typedef|SHGetImageList
+DECL|typedef|SHGetKnownFolderIDList
 DECL|typedef|SHGetStockIconInfo
 DECL|typedef|SetLayeredWindowAttributes
 DECL|typedef|SetProcessDPIAware

@@ -44,6 +44,7 @@ DECL|function|codecForHtml
 DECL|function|contentsChange
 DECL|function|copiedFontSize
 DECL|function|cssFontSizeString
+DECL|function|cssInheritance
 DECL|function|cursorPositionChanged
 DECL|function|cursorPositionChanged
 DECL|function|cursorPositionChanged

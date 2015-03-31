@@ -15,6 +15,7 @@ DECL|function|copyOnNonAlignedBoundary
 DECL|function|createMaskFromColor
 DECL|function|depthOfNullObjects
 DECL|function|detachOnLoad_QTBUG29639
+DECL|function|devicePixelRatio
 DECL|function|drawBitmap
 DECL|function|fill
 DECL|function|fill_data

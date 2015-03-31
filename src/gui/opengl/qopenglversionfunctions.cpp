@@ -28,9 +28,11 @@ DECL|function|QOpenGLFunctions_4_5_CoreBackend
 DECL|function|QOpenGLFunctions_4_5_DeprecatedBackend
 DECL|function|functionsBackend
 DECL|function|initializeOpenGLFunctions
+DECL|function|insertExternalFunctions
 DECL|function|insertFunctionsBackend
 DECL|function|isInitialized
 DECL|function|owningContext
+DECL|function|removeExternalFunctions
 DECL|function|removeFunctionsBackend
 DECL|function|setOwningContext
 DECL|function|versionStatus

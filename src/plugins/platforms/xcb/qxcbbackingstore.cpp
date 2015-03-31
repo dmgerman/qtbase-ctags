@@ -6,6 +6,7 @@ DECL|function|QXcbShmImage
 DECL|function|beginPaint
 DECL|function|composeAndFlush
 DECL|function|destroy
+DECL|function|endPaint
 DECL|function|flush
 DECL|function|graphicsBuffer
 DECL|function|graphicsBuffer

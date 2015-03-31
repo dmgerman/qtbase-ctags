@@ -1,9 +1,7 @@
 DECL|function|QDBusTrayIcon
 DECL|function|actionInvoked
-DECL|function|activate
 DECL|function|attentionTimerExpired
 DECL|function|cleanup
-DECL|function|contextMenu
 DECL|function|createMenu
 DECL|function|dBusConnection
 DECL|function|init
