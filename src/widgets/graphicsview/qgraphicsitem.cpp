@@ -146,6 +146,7 @@ DECL|function|focusScopeItem
 DECL|function|focusScopeItemChange
 DECL|function|font
 DECL|function|font
+DECL|function|formatGraphicsItemHelper
 DECL|function|genericMapFromScene
 DECL|function|grabGesture
 DECL|function|grabKeyboard
