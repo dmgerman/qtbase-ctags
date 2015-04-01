@@ -28,6 +28,7 @@ DECL|function|peek
 DECL|function|pos
 DECL|function|putChar
 DECL|function|putCharHelper
+DECL|function|qt_subtract_from_timeout
 DECL|function|read
 DECL|function|read
 DECL|function|readAll

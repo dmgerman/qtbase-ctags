@@ -59,7 +59,6 @@ DECL|function|pendingDatagramSize
 DECL|function|qt_socks5_get_host_address_and_port
 DECL|function|qt_socks5_set_host_address_and_port
 DECL|function|qt_socks5_set_host_name_and_port
-DECL|function|qt_timeout_value
 DECL|function|read
 DECL|function|readDatagram
 DECL|function|reauthenticate

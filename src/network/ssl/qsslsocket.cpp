@@ -68,7 +68,6 @@ DECL|function|peerVerifyMode
 DECL|function|peerVerifyName
 DECL|function|privateKey
 DECL|function|protocol
-DECL|function|qt_timeout_value
 DECL|function|readData
 DECL|function|resume
 DECL|function|resumeSocketNotifiers

@@ -19,6 +19,9 @@ DECL|function|sljit_emit_enter
 DECL|function|sljit_emit_fast_enter
 DECL|function|sljit_emit_fast_return
 DECL|function|sljit_emit_fop1
+DECL|function|sljit_emit_fop1_cmp
+DECL|function|sljit_emit_fop1_convd_fromw
+DECL|function|sljit_emit_fop1_convw_fromd
 DECL|function|sljit_emit_fop2
 DECL|function|sljit_emit_ijump
 DECL|function|sljit_emit_jump
@@ -64,6 +67,8 @@ DECL|macro|EORI
 DECL|macro|FABS
 DECL|macro|FADD
 DECL|macro|FCMP
+DECL|macro|FCVT
+DECL|macro|FCVTZS
 DECL|macro|FDIV
 DECL|macro|FMOV
 DECL|macro|FMUL
@@ -95,6 +100,7 @@ DECL|macro|RT
 DECL|macro|RT2
 DECL|macro|SBC
 DECL|macro|SBFM
+DECL|macro|SCVTF
 DECL|macro|SDIV
 DECL|macro|SET_FLAGS
 DECL|macro|SIGNED
@@ -119,7 +125,6 @@ DECL|macro|TMP_LR
 DECL|macro|TMP_REG1
 DECL|macro|TMP_REG2
 DECL|macro|TMP_REG3
-DECL|macro|TMP_REG4
 DECL|macro|TMP_SP
 DECL|macro|TMP_ZERO
 DECL|macro|UBFM

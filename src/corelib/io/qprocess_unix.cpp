@@ -13,7 +13,6 @@ DECL|function|openChannel
 DECL|function|processStarted
 DECL|function|qt_create_pipe
 DECL|function|qt_prettyDebug
-DECL|function|qt_timeout_value
 DECL|function|readFromChannel
 DECL|function|spawnChild
 DECL|function|startDetached
