@@ -11,16 +11,11 @@ DECL|function|createUuid
 DECL|function|createUuidV3
 DECL|function|createUuidV5
 DECL|function|fromRfc4122
-DECL|function|isNull
-DECL|function|operator <
 DECL|function|operator <<
 DECL|function|operator <<
-DECL|function|operator >
 DECL|function|operator >>
 DECL|function|toByteArray
 DECL|function|toRfc4122
 DECL|function|toString
-DECL|function|variant
-DECL|function|version
 DECL|macro|ISLESS
 DECL|macro|ISLESS
