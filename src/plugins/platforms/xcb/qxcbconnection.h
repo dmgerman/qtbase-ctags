@@ -23,6 +23,7 @@ DECL|variable|QXcbDrag
 DECL|variable|QXcbGlIntegration
 DECL|variable|QXcbKeyboard
 DECL|variable|QXcbNativeInterface
+DECL|variable|QXcbScreen
 DECL|variable|QXcbSystemTrayTracker
 DECL|variable|QXcbWMSupport
 DECL|variable|QXcbWindow

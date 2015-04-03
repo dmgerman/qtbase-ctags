@@ -57,8 +57,8 @@ DECL|function|translateMouseButtons
 DECL|function|ungrabServer
 DECL|function|unlock
 DECL|function|updateScreens
+DECL|function|virtualDesktopForRootWindow
 DECL|function|windowEventListenerFromId
-DECL|function|xcbScreenForRootWindow
 DECL|function|xi2GetValuatorValueIfSet
 DECL|function|xi2PrepareXIGenericDeviceEvent
 DECL|function|xi2ValuatorOffset

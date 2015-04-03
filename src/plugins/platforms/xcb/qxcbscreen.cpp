@@ -1,4 +1,5 @@
 DECL|function|QXcbScreen
+DECL|function|QXcbVirtualDesktop
 DECL|function|cursor
 DECL|function|depthOfVisual
 DECL|function|devicePixelRatio
@@ -22,4 +23,6 @@ DECL|function|visualForId
 DECL|function|windowShown
 DECL|function|xResource
 DECL|function|xSettings
+DECL|function|xSettings
 DECL|function|~QXcbScreen
+DECL|function|~QXcbVirtualDesktop
