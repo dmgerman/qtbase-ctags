@@ -1,4 +1,3 @@
-DECL|class|QDBusDefaultConnection
 DECL|enumerator|ConnectToBusByAddress
 DECL|enumerator|ConnectToPeerByAddress
 DECL|enumerator|ConnectToStandardBus
@@ -7,9 +6,9 @@ DECL|function|QDBusConnection
 DECL|function|QDBusConnection
 DECL|function|QDBusConnection
 DECL|function|QDBusConnectionManager
-DECL|function|QDBusDefaultConnection
 DECL|function|asyncCall
 DECL|function|baseService
+DECL|function|busConnection
 DECL|function|call
 DECL|function|callWithCallback
 DECL|function|callWithCallback
@@ -57,13 +56,9 @@ DECL|function|unregisterObject
 DECL|function|unregisterService
 DECL|function|~QDBusConnection
 DECL|function|~QDBusConnectionManager
-DECL|function|~QDBusDefaultConnection
 DECL|member|busAddress
 DECL|member|busType
 DECL|member|name
-DECL|member|ownName
 DECL|member|result
 DECL|member|type
 DECL|struct|ConnectionRequestData
-DECL|variable|_q_sessionBusName
-DECL|variable|_q_systemBusName
