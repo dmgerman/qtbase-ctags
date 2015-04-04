@@ -24,14 +24,10 @@ DECL|function|key
 DECL|function|key
 DECL|function|keys
 DECL|function|keys
-DECL|function|noexcept
-DECL|function|noexcept
-DECL|function|noexcept
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
-DECL|function|qHash
 DECL|function|remove
 DECL|function|remove
 DECL|function|reserve
@@ -154,9 +150,3 @@ DECL|struct|QHashDummyValue
 DECL|struct|QHashDummyValue
 DECL|struct|QHashNode
 DECL|variable|Key
-DECL|variable|QBitArray
-DECL|variable|QByteArray
-DECL|variable|QLatin1String
-DECL|variable|QString
-DECL|variable|QStringRef
-DECL|variable|T1

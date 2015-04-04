@@ -1,0 +1,11 @@
+DECL|function|noexcept
+DECL|function|noexcept
+DECL|function|noexcept
+DECL|function|qHash
+DECL|macro|QHASHFUNCTIONS_H
+DECL|variable|QBitArray
+DECL|variable|QByteArray
+DECL|variable|QLatin1String
+DECL|variable|QString
+DECL|variable|QStringRef
+DECL|variable|T1
