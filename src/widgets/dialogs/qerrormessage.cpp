@@ -5,6 +5,7 @@ DECL|function|QErrorMessageTextView
 DECL|function|changeEvent
 DECL|function|deleteStaticcQErrorMessage
 DECL|function|done
+DECL|function|isMessageToBeShown
 DECL|function|jump
 DECL|function|minimumSizeHint
 DECL|function|nextPending
