@@ -119,6 +119,7 @@ DECL|function|showEvent
 DECL|function|showEvent
 DECL|function|showNativePopup
 DECL|function|showPopup
+DECL|function|showPopupFromMouseEvent
 DECL|function|sizeAdjustPolicy
 DECL|function|sizeHint
 DECL|function|spacing

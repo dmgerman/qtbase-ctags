@@ -3,7 +3,9 @@ DECL|function|compressMouseMove
 DECL|function|createTouchDevice
 DECL|function|isValidWheelReceiver
 DECL|function|queryMouseButtons
+DECL|function|redirectWheelEvent
 DECL|function|translateMouseEvent
 DECL|function|translateMouseWheelEvent
+DECL|function|translateScrollEvent
 DECL|function|translateTouchEvent
 DECL|macro|PEEKMESSAGE_IS_BROKEN
