@@ -36,8 +36,11 @@ DECL|function|stringToCMap
 DECL|function|supportsSubPixelPositions
 DECL|function|underlinePosition
 DECL|function|xHeight
+DECL|function|~GeometrySink
 DECL|function|~QWindowsFontEngineDirectWrite
 DECL|macro|DESIGN_TO_LOGICAL
+DECL|macro|WINVER
+DECL|macro|WINVER
 DECL|macro|_WIN32_WINNT
 DECL|macro|_WIN32_WINNT
 DECL|member|m_path
