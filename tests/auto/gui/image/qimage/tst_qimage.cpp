@@ -74,6 +74,7 @@ DECL|function|setPixel
 DECL|function|setPixel_data
 DECL|function|smoothScale
 DECL|function|smoothScale2
+DECL|function|smoothScale2_data
 DECL|function|smoothScale3
 DECL|function|smoothScaleAlpha
 DECL|function|smoothScaleBig

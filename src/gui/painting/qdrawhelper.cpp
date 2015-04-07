@@ -219,8 +219,6 @@ DECL|function|greenWidth
 DECL|function|greenWidth
 DECL|function|handleSpans
 DECL|function|hardlight_op
-DECL|function|interpolate_4_pixels
-DECL|function|interpolate_4_pixels
 DECL|function|interpolate_4_pixels_16
 DECL|function|interpolate_pixel_rgb16_255
 DECL|function|interpolate_pixel_rgb16x2_255
