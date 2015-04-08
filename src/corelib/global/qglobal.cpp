@@ -1,3 +1,5 @@
+DECL|class|QWindowsSockInit
+DECL|function|QWindowsSockInit
 DECL|function|activateCallbacks
 DECL|function|buildAbi
 DECL|function|buildCpuArchitecture
@@ -12,6 +14,7 @@ DECL|function|getEtcFileFirstLine
 DECL|function|kernelType
 DECL|function|kernelVersion
 DECL|function|macVersion
+DECL|function|machineHostName
 DECL|function|prettyProductName
 DECL|function|productType
 DECL|function|productVersion
@@ -41,6 +44,7 @@ DECL|function|unregisterCallback
 DECL|function|winOsVersion
 DECL|function|winVer_helper
 DECL|function|windowsVersion
+DECL|function|~QWindowsSockInit
 DECL|macro|USE_ETC_OS_RELEASE
 DECL|macro|VER_PLATFORM_WIN32_CE
 DECL|macro|VER_PLATFORM_WIN32_NT
@@ -53,6 +57,7 @@ DECL|member|callbacks
 DECL|member|prettyName
 DECL|member|productType
 DECL|member|productVersion
+DECL|member|version
 DECL|struct|QInternal_CallBackTable
 DECL|struct|QUnixOSVersion
 DECL|typedef|SeedStorage

@@ -1,4 +1,3 @@
-DECL|function|QWindowsSockInit
 DECL|function|convertToLevelAndOption
 DECL|function|createNewSocket
 DECL|function|fetchConnectionParameters
@@ -29,7 +28,6 @@ DECL|function|qt_socket_getType
 DECL|function|setOption
 DECL|function|setPortAndAddress
 DECL|function|verboseWSErrorDebug
-DECL|function|~QWindowsSockInit
 DECL|macro|AF_INET6
 DECL|macro|IOC_VENDOR
 DECL|macro|IPV6_V6ONLY

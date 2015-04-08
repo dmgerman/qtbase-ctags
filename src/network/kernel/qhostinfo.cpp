@@ -17,6 +17,7 @@ DECL|function|get
 DECL|function|globalInstance
 DECL|function|hostName
 DECL|function|isEnabled
+DECL|function|localHostName
 DECL|function|lookupFinished
 DECL|function|lookupHost
 DECL|function|lookupId

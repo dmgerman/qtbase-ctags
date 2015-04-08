@@ -1,5 +1,4 @@
 DECL|function|fromName
-DECL|function|localHostName
 DECL|function|resolveLibrary
 DECL|function|translateWSAError
 DECL|macro|NI_MAXHOST

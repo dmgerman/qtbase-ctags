@@ -1,6 +1,5 @@
 DECL|function|fromName
 DECL|function|localDomainName
-DECL|function|localHostName
 DECL|function|resolveLibrary
 DECL|macro|QT_SOCKOPTLEN_T
 DECL|macro|Q_ADDRCONFIG
