@@ -16,6 +16,7 @@ DECL|function|mapToPolygon_data
 DECL|function|mapping_data
 DECL|function|matrix
 DECL|function|projectivePathMapping
+DECL|function|qhash
 DECL|function|scalarOps
 DECL|function|scale
 DECL|function|testOffset
