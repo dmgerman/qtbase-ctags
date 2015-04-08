@@ -1,1 +1,0 @@
-DECL|macro|LIBEGL_SURFACE_H_

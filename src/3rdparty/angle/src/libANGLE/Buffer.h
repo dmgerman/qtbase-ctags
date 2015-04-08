@@ -1,0 +1,1 @@
+DECL|macro|LIBANGLE_BUFFER_H_

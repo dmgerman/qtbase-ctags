@@ -7,6 +7,7 @@ DECL|enumerator|EbsShared
 DECL|enumerator|EbsStd140
 DECL|enumerator|EbsUnspecified
 DECL|enumerator|EbtAddress
+DECL|enumerator|EbtBVec
 DECL|enumerator|EbtBool
 DECL|enumerator|EbtFloat
 DECL|enumerator|EbtGSampler2D
@@ -14,12 +15,17 @@ DECL|enumerator|EbtGSampler2DArray
 DECL|enumerator|EbtGSampler3D
 DECL|enumerator|EbtGSamplerCube
 DECL|enumerator|EbtGVec4
+DECL|enumerator|EbtGenBType
+DECL|enumerator|EbtGenIType
+DECL|enumerator|EbtGenType
+DECL|enumerator|EbtGenUType
 DECL|enumerator|EbtGuardSamplerBegin
 DECL|enumerator|EbtGuardSamplerEnd
 DECL|enumerator|EbtISampler2D
 DECL|enumerator|EbtISampler2DArray
 DECL|enumerator|EbtISampler3D
 DECL|enumerator|EbtISamplerCube
+DECL|enumerator|EbtIVec
 DECL|enumerator|EbtInt
 DECL|enumerator|EbtInterfaceBlock
 DECL|enumerator|EbtSampler2D
@@ -37,6 +43,8 @@ DECL|enumerator|EbtUSampler2D
 DECL|enumerator|EbtUSampler2DArray
 DECL|enumerator|EbtUSampler3D
 DECL|enumerator|EbtUSamplerCube
+DECL|enumerator|EbtUVec
+DECL|enumerator|EbtVec
 DECL|enumerator|EbtVoid
 DECL|enumerator|EmpColumnMajor
 DECL|enumerator|EmpRowMajor
@@ -59,10 +67,13 @@ DECL|enumerator|EvqFrontFacing
 DECL|enumerator|EvqGlobal
 DECL|enumerator|EvqIn
 DECL|enumerator|EvqInOut
+DECL|enumerator|EvqInstanceID
 DECL|enumerator|EvqInternal
 DECL|enumerator|EvqInvariantVaryingIn
 DECL|enumerator|EvqInvariantVaryingOut
 DECL|enumerator|EvqLast
+DECL|enumerator|EvqLastFragColor
+DECL|enumerator|EvqLastFragData
 DECL|enumerator|EvqOut
 DECL|enumerator|EvqPointCoord
 DECL|enumerator|EvqPointSize
@@ -81,6 +92,7 @@ DECL|enum|TLayoutBlockStorage
 DECL|enum|TLayoutMatrixPacking
 DECL|enum|TPrecision
 DECL|enum|TQualifier
+DECL|function|IsInteger
 DECL|function|IsIntegerSampler
 DECL|function|IsSampler
 DECL|function|IsSampler2D
@@ -96,7 +108,7 @@ DECL|function|getMatrixPackingString
 DECL|function|getPrecisionString
 DECL|function|getQualifierString
 DECL|function|isEmpty
-DECL|macro|_BASICTYPES_INCLUDED_
+DECL|macro|COMPILER_TRANSLATOR_BASETYPES_H_
 DECL|member|blockStorage
 DECL|member|location
 DECL|member|matrixPacking

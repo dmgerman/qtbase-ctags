@@ -2,12 +2,6 @@ DECL|function|CompareStruct
 DECL|function|CompareStructure
 DECL|function|GetHigherPrecision
 DECL|function|ValidateMultiplication
-DECL|function|enqueueChildren
-DECL|function|enqueueChildren
-DECL|function|enqueueChildren
-DECL|function|enqueueChildren
-DECL|function|enqueueChildren
-DECL|function|enqueueChildren
 DECL|function|fold
 DECL|function|hash
 DECL|function|isAssignment
@@ -20,7 +14,10 @@ DECL|function|replaceChildNode
 DECL|function|replaceChildNode
 DECL|function|replaceChildNode
 DECL|function|replaceChildNode
+DECL|function|replaceChildNode
+DECL|function|replaceChildNode
 DECL|function|setBuiltInFunctionPrecision
 DECL|function|setPrecisionFromChildren
 DECL|function|setTypePreservePrecision
+DECL|function|updateTree
 DECL|macro|REPLACE_IF_IS

@@ -1,1 +1,1 @@
-DECL|macro|SystemInfo_h
+DECL|macro|THIRD_PARTY_SYSTEMINFO_SYSTEMINFO_H_

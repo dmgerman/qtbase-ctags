@@ -1,1 +1,0 @@
-DECL|macro|LIBEGL_MAIN_H_

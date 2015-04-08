@@ -6,4 +6,4 @@ DECL|enumerator|EPrefixUnimplemented
 DECL|enumerator|EPrefixWarning
 DECL|enum|TPrefixType
 DECL|function|fractionalPart
-DECL|macro|_INFOSINK_INCLUDED_
+DECL|macro|COMPILER_TRANSLATOR_INFOSINK_H_

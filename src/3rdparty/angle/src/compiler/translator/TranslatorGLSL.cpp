@@ -1,4 +1,11 @@
+DECL|class|TFragmentOutSearcher
+DECL|function|TFragmentOutSearcher
 DECL|function|TranslatorGLSL
+DECL|function|initBuiltInFunctionEmulator
 DECL|function|translate
+DECL|function|usesGlFragColor
+DECL|function|usesGlFragData
 DECL|function|writeExtensionBehavior
 DECL|function|writeVersion
+DECL|member|mUsesGlFragColor
+DECL|member|mUsesGlFragData

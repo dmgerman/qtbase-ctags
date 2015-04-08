@@ -12,6 +12,8 @@ DECL|function|TShHandleBase
 DECL|function|clearResults
 DECL|function|collectVariables
 DECL|function|compile
+DECL|function|compileTreeForTesting
+DECL|function|compileTreeImpl
 DECL|function|detectCallDepth
 DECL|function|enforceFragmentShaderTimingRestrictions
 DECL|function|enforcePackingRestrictions
@@ -22,6 +24,7 @@ DECL|function|getArrayIndexClampingStrategy
 DECL|function|getBuiltInFunctionEmulator
 DECL|function|getExtensionBehavior
 DECL|function|getResources
+DECL|function|getSourcePath
 DECL|function|initializeGLPosition
 DECL|function|initializeVaryingsWithoutStaticUse
 DECL|function|limitExpressionComplexity

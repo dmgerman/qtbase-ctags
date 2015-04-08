@@ -1,0 +1,1 @@
+DECL|macro|LIBANGLE_QUERY_H_

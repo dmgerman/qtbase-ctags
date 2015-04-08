@@ -2,18 +2,22 @@ DECL|class|BuiltInFunctionEmulationMarker
 DECL|function|BuiltInFunctionEmulationMarker
 DECL|function|BuiltInFunctionEmulator
 DECL|function|Cleanup
+DECL|function|FunctionId
+DECL|function|FunctionId
+DECL|function|FunctionId
 DECL|function|GetEmulatedFunctionName
-DECL|function|IdentifyFunction
-DECL|function|IdentifyFunction
+DECL|function|IsOutputEmpty
 DECL|function|MarkBuiltInFunctionsForEmulation
-DECL|function|OutputEmulatedFunctionDefinition
+DECL|function|OutputEmulatedFunctions
 DECL|function|SetFunctionCalled
 DECL|function|SetFunctionCalled
 DECL|function|SetFunctionCalled
+DECL|function|SetFunctionCalled
+DECL|function|addEmulatedFunction
+DECL|function|addEmulatedFunction
+DECL|function|addEmulatedFunction
+DECL|function|operator <
+DECL|function|operator ==
 DECL|function|visitAggregate
 DECL|function|visitUnary
-DECL|member|kFunctionEmulationFragmentMask
-DECL|member|kFunctionEmulationFragmentSource
-DECL|member|kFunctionEmulationVertexMask
-DECL|member|kFunctionEmulationVertexSource
 DECL|member|mEmulator
