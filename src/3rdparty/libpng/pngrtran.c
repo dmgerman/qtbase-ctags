@@ -1,5 +1,4 @@
 DECL|function|convert_gamma_value
-DECL|function|png_build_grayscale_palette
 DECL|function|png_do_chop
 DECL|function|png_do_compose
 DECL|function|png_do_encode_alpha
@@ -10,7 +9,6 @@ DECL|function|png_do_gamma
 DECL|function|png_do_gray_to_rgb
 DECL|function|png_do_quantize
 DECL|function|png_do_read_filler
-DECL|function|png_do_read_intrapixel
 DECL|function|png_do_read_invert_alpha
 DECL|function|png_do_read_swap_alpha
 DECL|function|png_do_read_transformations
@@ -23,6 +21,7 @@ DECL|function|png_init_palette_transformations
 DECL|function|png_init_read_transformations
 DECL|function|png_init_rgb_transformations
 DECL|function|png_read_transform_info
+DECL|function|png_rtran_ok
 DECL|function|png_set_alpha_mode
 DECL|function|png_set_alpha_mode_fixed
 DECL|function|png_set_background
