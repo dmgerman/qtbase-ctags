@@ -7,6 +7,8 @@ DECL|function|getSetCheck
 DECL|function|getSetCheck_data
 DECL|function|horizontalStretch
 DECL|function|makeRow
+DECL|function|qhash
+DECL|function|qhash_data
 DECL|function|qtest
 DECL|function|s
 DECL|function|verticalStretch
