@@ -29,7 +29,6 @@ DECL|function|listen
 DECL|function|multicastInterface
 DECL|function|option
 DECL|function|pendingDatagramSize
-DECL|function|qt_timeout_value
 DECL|function|read
 DECL|function|readDatagram
 DECL|function|readHttpHeader

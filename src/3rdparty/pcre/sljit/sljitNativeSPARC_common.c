@@ -12,6 +12,9 @@ DECL|function|sljit_emit_enter
 DECL|function|sljit_emit_fast_enter
 DECL|function|sljit_emit_fast_return
 DECL|function|sljit_emit_fop1
+DECL|function|sljit_emit_fop1_cmp
+DECL|function|sljit_emit_fop1_convd_fromw
+DECL|function|sljit_emit_fop1_convw_fromd
 DECL|function|sljit_emit_fop2
 DECL|function|sljit_emit_ijump
 DECL|function|sljit_emit_jump
@@ -56,12 +59,19 @@ DECL|macro|FCMPD
 DECL|macro|FCMPS
 DECL|macro|FDIVD
 DECL|macro|FDIVS
+DECL|macro|FDTOI
+DECL|macro|FDTOS
+DECL|macro|FITOD
+DECL|macro|FITOS
 DECL|macro|FLOAT_DATA
 DECL|macro|FLOAT_DATA
+DECL|macro|FLOAT_TMP_MEM_OFFSET
 DECL|macro|FMOVS
 DECL|macro|FMULD
 DECL|macro|FMULS
 DECL|macro|FNEGS
+DECL|macro|FSTOD
+DECL|macro|FSTOI
 DECL|macro|FSUBD
 DECL|macro|FSUBS
 DECL|macro|GPR_REG
@@ -98,6 +108,7 @@ DECL|macro|SET_FLAGS
 DECL|macro|SIGNED_DATA
 DECL|macro|SIMM_MAX
 DECL|macro|SIMM_MIN
+DECL|macro|SINGLE_DATA
 DECL|macro|SLL
 DECL|macro|SLLX
 DECL|macro|SLL_W
@@ -120,7 +131,6 @@ DECL|macro|TMP_LINK
 DECL|macro|TMP_REG1
 DECL|macro|TMP_REG2
 DECL|macro|TMP_REG3
-DECL|macro|TMP_REG4
 DECL|macro|UDIV
 DECL|macro|UMUL
 DECL|macro|WORD_DATA

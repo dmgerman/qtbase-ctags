@@ -1,4 +1,5 @@
 DECL|function|QAndroidPlatformMessageDialogHelper
+DECL|function|addButtons
 DECL|function|dialogResult
 DECL|function|dialogResult
 DECL|function|exec

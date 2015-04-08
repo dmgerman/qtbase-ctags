@@ -1,6 +1,9 @@
 DECL|class|PeekBug
+DECL|class|SequentialReadBuffer
 DECL|class|tst_QIODevice
 DECL|function|PeekBug
+DECL|function|SequentialReadBuffer
+DECL|function|buffer
 DECL|function|constructing_QFile
 DECL|function|constructing_QTcpSocket
 DECL|function|getSetCheck
@@ -8,6 +11,7 @@ DECL|function|initTestCase
 DECL|function|peek
 DECL|function|peekAndRead
 DECL|function|peekBug
+DECL|function|readAllKeepPosition
 DECL|function|readData
 DECL|function|readLine
 DECL|function|readLine2
@@ -17,4 +21,6 @@ DECL|function|read_QByteArray
 DECL|function|unget
 DECL|function|writeData
 DECL|member|alphabet
+DECL|member|buf
 DECL|member|counter
+DECL|member|offset
