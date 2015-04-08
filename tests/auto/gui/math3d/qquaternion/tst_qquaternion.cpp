@@ -14,6 +14,8 @@ DECL|function|fromAxes
 DECL|function|fromAxes_data
 DECL|function|fromAxisAndAngle
 DECL|function|fromAxisAndAngle_data
+DECL|function|fromDirection
+DECL|function|fromDirection_data
 DECL|function|fromEulerAngles
 DECL|function|fromEulerAngles_data
 DECL|function|fromRotationMatrix
@@ -49,6 +51,7 @@ DECL|function|slerp
 DECL|function|slerp_data
 DECL|function|subtract
 DECL|function|subtract_data
+DECL|function|testnameForAxis
 DECL|function|tst_QQuaternion
 DECL|function|tst_QQuaternionProperties
 DECL|function|~tst_QQuaternion

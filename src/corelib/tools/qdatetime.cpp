@@ -44,7 +44,6 @@ DECL|function|daysInMonth
 DECL|function|daysInYear
 DECL|function|daysTo
 DECL|function|daysTo
-DECL|function|detach
 DECL|function|elapsed
 DECL|function|epochMSecsToLocalTime
 DECL|function|fixedDate

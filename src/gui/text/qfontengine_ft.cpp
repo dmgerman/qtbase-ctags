@@ -10,7 +10,9 @@ DECL|function|addOutlineToPath
 DECL|function|alphaMapBoundingBox
 DECL|function|alphaMapForGlyph
 DECL|function|alphaMapForGlyph
+DECL|function|alphaMapFromGlyphData
 DECL|function|alphaRGBMapForGlyph
+DECL|function|areMetricsTooLarge
 DECL|function|ascent
 DECL|function|averageCharWidth
 DECL|function|boundingBox
