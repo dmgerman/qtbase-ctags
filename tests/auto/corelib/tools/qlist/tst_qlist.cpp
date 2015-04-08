@@ -98,6 +98,10 @@ DECL|function|operator int
 DECL|function|prepend
 DECL|function|qHash
 DECL|function|qHash
+DECL|function|qhash
+DECL|function|qhashComplex
+DECL|function|qhashMovable
+DECL|function|qhashOptimal
 DECL|function|removeAll
 DECL|function|removeAllComplex
 DECL|function|removeAllMovable
