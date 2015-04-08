@@ -120,6 +120,12 @@ DECL|function|prepend
 DECL|function|prependCustom
 DECL|function|prependInt
 DECL|function|prependMovable
+DECL|function|qHash
+DECL|function|qHash
+DECL|function|qhash
+DECL|function|qhashCustom
+DECL|function|qhashInt
+DECL|function|qhashMovable
 DECL|function|reallocAfterCopy
 DECL|function|reallocAfterCopy_data
 DECL|function|remove
