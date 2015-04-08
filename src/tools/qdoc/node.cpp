@@ -101,7 +101,7 @@ DECL|function|qmlTypeNode
 DECL|function|qualifiedDataType
 DECL|function|rawParameters
 DECL|function|reconstruct
-DECL|function|reconstructParams
+DECL|function|reconstructParameters
 DECL|function|removeChild
 DECL|function|removeFromRelated
 DECL|function|removeRelated
@@ -119,7 +119,7 @@ DECL|function|setOverload
 DECL|function|setOverload
 DECL|function|setOverriddenFrom
 DECL|function|setPageType
-DECL|function|setReimp
+DECL|function|setReimplemented
 DECL|function|setReimplementedFrom
 DECL|function|setRelates
 DECL|function|setSince
