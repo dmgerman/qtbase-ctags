@@ -1,4 +1,3 @@
-DECL|function|_q_notified
 DECL|function|bytesAvailableInChannel
 DECL|function|closeChannel
 DECL|function|destroyPipe
@@ -25,5 +24,4 @@ DECL|function|waitForReadyRead
 DECL|function|waitForStarted
 DECL|function|waitForWrite
 DECL|function|writeToStdin
-DECL|macro|NOTIFYTIMEOUT
 DECL|macro|PIPE_REJECT_REMOTE_CLIENTS
