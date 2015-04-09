@@ -1,6 +1,7 @@
 DECL|function|fromAxes
 DECL|function|fromAxisAndAngle
 DECL|function|fromAxisAndAngle
+DECL|function|fromDirection
 DECL|function|fromEulerAngles
 DECL|function|fromRotationMatrix
 DECL|function|getAxes
