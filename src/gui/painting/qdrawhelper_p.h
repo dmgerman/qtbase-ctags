@@ -126,6 +126,7 @@ DECL|member|const_alpha
 DECL|member|convertFromARGB32PM
 DECL|member|convertFromRGB32
 DECL|member|convertToARGB32PM
+DECL|member|convertToARGB64PM
 DECL|member|data
 DECL|member|destFetch
 DECL|member|destFetch64
@@ -229,6 +230,7 @@ DECL|typedef|CompositionFunction64
 DECL|typedef|CompositionFunctionSolid
 DECL|typedef|CompositionFunctionSolid64
 DECL|typedef|ConvertFunc
+DECL|typedef|ConvertFunc64
 DECL|typedef|DestFetchProc
 DECL|typedef|DestFetchProc64
 DECL|typedef|DestStoreProc
