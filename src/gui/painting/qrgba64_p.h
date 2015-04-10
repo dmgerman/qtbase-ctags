@@ -1,6 +1,8 @@
+DECL|function|addWithSaturation
 DECL|function|combineAlpha256
 DECL|function|interpolate255
 DECL|function|interpolate256
+DECL|function|interpolate65535
 DECL|function|multiplyAlpha255
 DECL|function|multiplyAlpha256
 DECL|function|multiplyAlpha65535
