@@ -140,6 +140,8 @@ DECL|function|updateMotifWmHintsBeforeMap
 DECL|function|updateNetWmStateBeforeMap
 DECL|function|updateNetWmUserTime
 DECL|function|updateSyncRequestCounter
+DECL|function|visualId
+DECL|function|visualIdStatic
 DECL|function|winId
 DECL|function|windowEvent
 DECL|function|windowToWmGeometry

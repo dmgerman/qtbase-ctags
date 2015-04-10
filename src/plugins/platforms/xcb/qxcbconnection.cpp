@@ -11,6 +11,7 @@ DECL|function|checkEvent
 DECL|function|checkEvent
 DECL|function|checkOutputIsPrimary
 DECL|function|createScreen
+DECL|function|createVisualInfoForDefaultVisualId
 DECL|function|event
 DECL|function|findScreenForCrtc
 DECL|function|findScreenForOutput

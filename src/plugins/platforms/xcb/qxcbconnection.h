@@ -1,5 +1,6 @@
 DECL|function|checkEvent
 DECL|function|q_xcb_call_template
+DECL|macro|CREATE_VISUALINFO_FROM_DEFAULT_VISUALID
 DECL|macro|DISPLAY_FROM_XCB
 DECL|macro|QXCBCONNECTION_H
 DECL|macro|Q_XCB_CALL
