@@ -65,9 +65,9 @@ DECL|macro|COMMAND_STARTPAGE
 DECL|macro|COMMAND_TYPEDEF
 DECL|macro|COMMAND_VARIABLE
 DECL|macro|CPPCODEPARSER_H
+DECL|variable|Aggregate
 DECL|variable|ClassNode
 DECL|variable|CodeChunk
 DECL|variable|CppCodeParserPrivate
 DECL|variable|FunctionNode
-DECL|variable|InnerNode
 DECL|variable|Tokenizer

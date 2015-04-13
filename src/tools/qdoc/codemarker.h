@@ -5,8 +5,8 @@ DECL|function|appendMember
 DECL|function|appendReimpMember
 DECL|function|isEmpty
 DECL|macro|CODEMARKER_H
-DECL|member|InnerNode
-DECL|member|InnerNode
+DECL|member|Aggregate
+DECL|member|Aggregate
 DECL|member|QString
 DECL|member|QString
 DECL|member|classKeysNodesList_

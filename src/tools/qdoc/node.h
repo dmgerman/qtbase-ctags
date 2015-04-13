@@ -44,12 +44,12 @@ DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QString
+DECL|variable|Aggregate
 DECL|variable|ClassNode
 DECL|variable|CollectionNode
 DECL|variable|EnumNode
 DECL|variable|ExampleNode
 DECL|variable|FunctionNode
-DECL|variable|InnerNode
 DECL|variable|Node
 DECL|variable|PropertyNode
 DECL|variable|QDocDatabase

@@ -13,6 +13,7 @@ DECL|function|fileName
 DECL|function|formattingLeftMap
 DECL|function|formattingRightMap
 DECL|function|fullDocumentLocation
+DECL|function|generateAggregate
 DECL|function|generateAlsoList
 DECL|function|generateAtom
 DECL|function|generateAtomList
@@ -25,7 +26,6 @@ DECL|function|generateExampleFiles
 DECL|function|generateFileList
 DECL|function|generateInheritedBy
 DECL|function|generateInherits
-DECL|function|generateInnerNode
 DECL|function|generateMaintainerList
 DECL|function|generateQmlInheritedBy
 DECL|function|generateQmlInherits

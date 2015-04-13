@@ -1,9 +1,9 @@
+DECL|function|Aggregate
 DECL|function|ClassNode
 DECL|function|DocumentNode
 DECL|function|EnumNode
 DECL|function|FunctionNode
 DECL|function|FunctionNode
-DECL|function|InnerNode
 DECL|function|LeafNode
 DECL|function|LeafNode
 DECL|function|NamespaceNode
@@ -133,7 +133,7 @@ DECL|function|terminate
 DECL|function|threadSafeness
 DECL|function|toFlagValue
 DECL|function|tree
-DECL|function|~InnerNode
+DECL|function|~Aggregate
 DECL|function|~Node
 DECL|function|~QmlTypeNode
 DECL|member|goals_
