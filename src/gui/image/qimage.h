@@ -2,9 +2,11 @@ DECL|function|Q_DECLARE_SHARED
 DECL|function|numBytes
 DECL|function|numColors
 DECL|function|pixel
+DECL|function|pixelColor
 DECL|function|pixelIndex
 DECL|function|setNumColors
 DECL|function|setPixel
+DECL|function|setPixelColor
 DECL|function|setText
 DECL|function|text
 DECL|function|text

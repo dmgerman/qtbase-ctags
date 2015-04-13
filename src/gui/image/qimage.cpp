@@ -72,6 +72,7 @@ DECL|function|operator >>
 DECL|function|operator QVariant
 DECL|function|paintEngine
 DECL|function|pixel
+DECL|function|pixelColor
 DECL|function|pixelIndex
 DECL|function|pixel_distance
 DECL|function|qt_xForm_helper
@@ -98,6 +99,7 @@ DECL|function|setDotsPerMeterX
 DECL|function|setDotsPerMeterY
 DECL|function|setOffset
 DECL|function|setPixel
+DECL|function|setPixelColor
 DECL|function|setText
 DECL|function|size
 DECL|function|smoothScaled

@@ -134,6 +134,8 @@ DECL|function|getSetCheck
 DECL|function|gradientInterpolation
 DECL|function|gradientPixelFormat
 DECL|function|gradientPixelFormat_data
+DECL|function|gradientRgb30
+DECL|function|gradientRgb30_data
 DECL|function|imageBlending
 DECL|function|imageBlending_clipped
 DECL|function|imageBlending_data
