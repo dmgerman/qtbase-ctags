@@ -134,8 +134,6 @@ DECL|function|getSetCheck
 DECL|function|gradientInterpolation
 DECL|function|gradientPixelFormat
 DECL|function|gradientPixelFormat_data
-DECL|function|gradientRgb30
-DECL|function|gradientRgb30_data
 DECL|function|imageBlending
 DECL|function|imageBlending_clipped
 DECL|function|imageBlending_data
@@ -147,6 +145,8 @@ DECL|function|initFrom
 DECL|function|inverseGradient
 DECL|function|largeImagePainting
 DECL|function|largeImagePainting_data
+DECL|function|linearGradientRgb30
+DECL|function|linearGradientRgb30_data
 DECL|function|linearGradientSymmetry
 DECL|function|linearGradientSymmetry_data
 DECL|function|metric
@@ -166,6 +166,8 @@ DECL|function|qHash
 DECL|function|qimageFormats
 DECL|function|qimageFormats_data
 DECL|function|qt_compose_alpha
+DECL|function|radialGradientRgb30
+DECL|function|radialGradientRgb30_data
 DECL|function|randInRect
 DECL|function|randf
 DECL|function|rasterizer_asserts

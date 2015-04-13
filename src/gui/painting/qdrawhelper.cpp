@@ -1,5 +1,7 @@
 DECL|class|BlendSrcGeneric
 DECL|class|BlendSrcGenericRGB64
+DECL|class|GradientBase32
+DECL|class|GradientBase64
 DECL|class|RadialFetchPlain
 DECL|enumerator|BlendTiled
 DECL|enumerator|BlendTransformed
@@ -236,6 +238,10 @@ DECL|function|fetchPixel
 DECL|function|fetchPixel
 DECL|function|fetchPixels
 DECL|function|fetchPixels
+DECL|function|fetchSingle
+DECL|function|fetchSingle
+DECL|function|fetchSingle
+DECL|function|fetchSingle
 DECL|function|fetchTransformed
 DECL|function|fetchTransformed64
 DECL|function|fetchTransformedARGB32PM
@@ -283,8 +289,12 @@ DECL|function|interpolate_pixel_rgb16_255
 DECL|function|interpolate_pixel_rgb16x2_255
 DECL|function|isSupported
 DECL|function|lighten_op
+DECL|function|memfill
+DECL|function|memfill
 DECL|function|mix_alpha
 DECL|function|multiply_op
+DECL|function|null
+DECL|function|null
 DECL|function|overlay_op
 DECL|function|pixelLayoutARGBPM
 DECL|function|pixelLayoutRGB
@@ -306,9 +316,13 @@ DECL|function|qt_bitmapblit_rgb30
 DECL|function|qt_bitmapblit_rgba8888
 DECL|function|qt_bitmapblit_template
 DECL|function|qt_fetch_conical_gradient
+DECL|function|qt_fetch_conical_gradient_rgb64
+DECL|function|qt_fetch_conical_gradient_template
 DECL|function|qt_fetch_linear_gradient
 DECL|function|qt_fetch_linear_gradient_rgb64
+DECL|function|qt_fetch_linear_gradient_template
 DECL|function|qt_fetch_radial_gradient_plain
+DECL|function|qt_fetch_radial_gradient_rgb64
 DECL|function|qt_gradient_argb32
 DECL|function|qt_gradient_pixel64_fixed
 DECL|function|qt_gradient_pixel_fixed
@@ -454,7 +468,10 @@ DECL|struct|QBlendBase
 DECL|struct|QFullCoverage
 DECL|struct|QPartialCoverage
 DECL|typedef|BlendType
+DECL|typedef|BlendType
 DECL|typedef|FetchPixelFunc
+DECL|typedef|Type
+DECL|typedef|Type
 DECL|variable|buffer_size
 DECL|variable|destFetchProc
 DECL|variable|destFetchProc64

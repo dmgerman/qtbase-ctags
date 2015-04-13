@@ -255,4 +255,5 @@ DECL|variable|QRasterBuffer
 DECL|variable|QRasterPaintEngine
 DECL|variable|QRasterPaintEngineState
 DECL|variable|RMASK
+DECL|variable|RadialFetchFunc
 DECL|variable|qt_bayer_matrix
