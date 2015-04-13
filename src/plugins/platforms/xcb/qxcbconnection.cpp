@@ -20,6 +20,8 @@ DECL|function|event
 DECL|function|findScreenForCrtc
 DECL|function|findScreenForOutput
 DECL|function|formatForDepth
+DECL|function|getQtSelectionOwner
+DECL|function|getSelectionOwner
 DECL|function|getTimestamp
 DECL|function|grabServer
 DECL|function|handleClientMessageEvent
