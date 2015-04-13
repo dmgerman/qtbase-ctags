@@ -18,6 +18,7 @@ DECL|function|canReadLine
 DECL|function|canReadNotification
 DECL|function|canWriteNotification
 DECL|function|close
+DECL|function|configureCreatedSocket
 DECL|function|connectToHost
 DECL|function|connectToHost
 DECL|function|connectionNotification
