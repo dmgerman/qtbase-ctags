@@ -105,6 +105,7 @@ DECL|function|historyStateHasNowhereToGo
 DECL|function|historyStates
 DECL|function|initialStateIsEnteredBeforeStartedEmitted
 DECL|function|initialStateIsFinal
+DECL|function|internalTransition
 DECL|function|machineWithParent
 DECL|function|multiTargetTransitionInsideParallelStateGroup
 DECL|function|nestedRestoreProperties
