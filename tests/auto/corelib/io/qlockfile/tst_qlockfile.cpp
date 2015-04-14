@@ -1,4 +1,5 @@
 DECL|class|tst_QLockFile
+DECL|function|corruptedLockFile
 DECL|function|initTestCase
 DECL|function|lockFromThread
 DECL|function|lockFromThread
