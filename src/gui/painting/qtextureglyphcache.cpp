@@ -5,3 +5,5 @@ DECL|function|fillTexture
 DECL|function|populate
 DECL|function|resizeTextureData
 DECL|function|textureMapForGlyph
+DECL|function|~QImageTextureGlyphCache
+DECL|function|~QTextureGlyphCache
