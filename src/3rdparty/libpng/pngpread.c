@@ -20,6 +20,8 @@ DECL|function|png_push_save_buffer
 DECL|function|png_read_push_finish_row
 DECL|function|png_set_progressive_read_fn
 DECL|macro|PNG_ERROR_MODE
+DECL|macro|PNG_PUSH_SAVE_BUFFER_IF_FULL
+DECL|macro|PNG_PUSH_SAVE_BUFFER_IF_LT
 DECL|macro|PNG_READ_CHUNK_MODE
 DECL|macro|PNG_READ_DONE_MODE
 DECL|macro|PNG_READ_IDAT_MODE
