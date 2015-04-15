@@ -1,1 +1,0 @@
-DECL|macro|XLIBUTILS_H
