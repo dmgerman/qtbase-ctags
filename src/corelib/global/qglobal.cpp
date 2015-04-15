@@ -7,6 +7,8 @@ DECL|function|determineWinOsVersionPost8
 DECL|function|findUnixOsVersion
 DECL|function|fromstrerror_helper
 DECL|function|fromstrerror_helper
+DECL|function|getEtcFileContent
+DECL|function|getEtcFileFirstLine
 DECL|function|kernelType
 DECL|function|kernelVersion
 DECL|function|macVersion
@@ -27,9 +29,11 @@ DECL|function|qt_mac_create_fsref
 DECL|function|qt_mac_from_pascal_string
 DECL|function|qt_mac_to_pascal_string
 DECL|function|qunsetenv
+DECL|function|readEtcDebianVersion
 DECL|function|readEtcFile
 DECL|function|readEtcLsbRelease
 DECL|function|readEtcOsRelease
+DECL|function|readEtcRedHatRelease
 DECL|function|registerCallback
 DECL|function|unknownText
 DECL|function|unquote
