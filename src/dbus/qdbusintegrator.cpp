@@ -13,7 +13,6 @@ DECL|function|connectSignal
 DECL|function|connectSignal
 DECL|function|connectionCapabilies
 DECL|function|customEvent
-DECL|function|deleteYourself
 DECL|function|deliverCall
 DECL|function|disconnectRelay
 DECL|function|disconnectSignal
