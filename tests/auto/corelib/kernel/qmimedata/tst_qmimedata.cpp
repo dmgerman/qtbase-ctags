@@ -1,3 +1,4 @@
+DECL|class|TstMetaData
 DECL|class|tst_QMimeData
 DECL|function|clear
 DECL|function|colorData
