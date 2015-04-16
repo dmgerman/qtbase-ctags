@@ -42,6 +42,7 @@ DECL|function|mainThread
 DECL|function|maybeQuit
 DECL|function|notify
 DECL|function|notifyInternal
+DECL|function|notifyInternal2
 DECL|function|notify_helper
 DECL|function|organizationDomain
 DECL|function|organizationName
