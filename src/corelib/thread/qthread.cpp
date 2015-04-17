@@ -1,4 +1,5 @@
 DECL|function|QAdoptedThread
+DECL|function|QDaemonThread
 DECL|function|QThread
 DECL|function|QThread
 DECL|function|QThread
@@ -26,8 +27,10 @@ DECL|function|run
 DECL|function|setEventDispatcher
 DECL|function|setPriority
 DECL|function|setStackSize
+DECL|function|setThreadDoesNotRequireCoreApplication
 DECL|function|stackSize
 DECL|function|~QAdoptedThread
+DECL|function|~QDaemonThread
 DECL|function|~QThread
 DECL|function|~QThreadData
 DECL|function|~QThreadPrivate

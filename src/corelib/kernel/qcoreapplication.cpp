@@ -20,6 +20,7 @@ DECL|function|compressEvent
 DECL|function|contains
 DECL|function|createEventDispatcher
 DECL|function|deref
+DECL|function|doNotify
 DECL|function|event
 DECL|function|eventDispatcher
 DECL|function|eventDispatcherReady
@@ -85,6 +86,7 @@ DECL|function|setQuitLockEnabled
 DECL|function|setSetuidAllowed
 DECL|function|startingUp
 DECL|function|testAttribute
+DECL|function|threadRequiresCoreApplication
 DECL|function|translate
 DECL|function|translate
 DECL|function|unlock

@@ -7,6 +7,7 @@ DECL|class|GlobalPostedEventsCountObject
 DECL|class|JobObject
 DECL|class|ProcessEventsAlwaysSendsPostedEventsObject
 DECL|class|QuitTester
+DECL|class|Thread
 DECL|class|ThreadedEventReceiver
 DECL|function|DeliverInDefinedOrderObject
 DECL|function|DeliverInDefinedOrderThread
@@ -16,6 +17,7 @@ DECL|function|JobObject
 DECL|function|ProcessEventsAlwaysSendsPostedEventsObject
 DECL|function|QTBUG31606_QEventDestructorDeadLock
 DECL|function|QuitTester
+DECL|function|Thread
 DECL|function|applicationEventFilters_auxThread
 DECL|function|applicationEventFilters_mainThread
 DECL|function|applicationPid
@@ -55,6 +57,8 @@ DECL|function|testQuitLock
 DECL|function|threadDestroyed
 DECL|function|threadFinished
 DECL|function|threadProgress
+DECL|function|threadedEventDelivery
+DECL|function|threadedEventDelivery_data
 DECL|function|timeout
 DECL|function|unregisterEventNotifier
 DECL|function|unregisterSocketNotifier
@@ -69,6 +73,7 @@ DECL|member|loopLevel
 DECL|member|other
 DECL|member|recordedEvents
 DECL|member|recordedEvents
+DECL|member|requiresCoreApplication
 DECL|member|startCount
 DECL|member|thread
 DECL|member|visited
