@@ -248,6 +248,7 @@ DECL|function|nestedEventLoops
 DECL|function|nestedEventLoops_slot
 DECL|function|newConnectionSlot
 DECL|function|newConnectionSlot
+DECL|function|notEnoughData
 DECL|function|onReadAndReschedule
 DECL|function|parentingRepliesToTheApp
 DECL|function|pipelining
@@ -440,6 +441,7 @@ DECL|member|multiple
 DECL|member|netConfMan
 DECL|member|networkConfiguration
 DECL|member|networkSession
+DECL|member|notEnoughDataForFastSender
 DECL|member|port
 DECL|member|protocol
 DECL|member|proxies
