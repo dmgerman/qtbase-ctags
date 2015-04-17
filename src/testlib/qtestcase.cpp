@@ -1,10 +1,13 @@
 DECL|class|FatalSignalHandler
 DECL|class|TestFunction
+DECL|class|WatchDog
 DECL|function|FatalSignalHandler
 DECL|function|QTestDataSetter
 DECL|function|TestFunction
+DECL|function|WatchDog
 DECL|function|addColumnInternal
 DECL|function|addResult
+DECL|function|beginTest
 DECL|function|cleanup
 DECL|function|compare_helper
 DECL|function|compare_string_helper
@@ -50,8 +53,11 @@ DECL|function|qToInt
 DECL|function|qVerify
 DECL|function|qWarn
 DECL|function|qtest_qParseArgs
+DECL|function|run
 DECL|function|set
 DECL|function|signal
+DECL|function|stackTrace
+DECL|function|testFinished
 DECL|function|testObject
 DECL|function|toHexRepresentation
 DECL|function|toPrettyCString
@@ -63,6 +69,7 @@ DECL|function|~FatalSignalHandler
 DECL|function|~QTestDataSetter
 DECL|function|~TestFuncCleanup
 DECL|function|~TestFunction
+DECL|function|~WatchDog
 DECL|macro|TO_STRING_IMPL
 DECL|member|currentTestObject
 DECL|member|data_
@@ -71,6 +78,7 @@ DECL|member|function_
 DECL|member|handledSignals
 DECL|member|keyDelay
 DECL|member|mouseDelay
+DECL|member|mutex
 DECL|member|noCrashHandler
 DECL|member|printAvailableFunctions
 DECL|member|testFuncCleaner
@@ -78,6 +86,8 @@ DECL|member|testFuncCount
 DECL|member|testFuncs
 DECL|member|testFunctions
 DECL|member|testTags
+DECL|member|timeout
+DECL|member|waitCondition
 DECL|namespace|QTest
 DECL|struct|QTestDataSetter
 DECL|struct|TestFuncCleanup
