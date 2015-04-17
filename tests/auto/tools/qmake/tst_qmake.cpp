@@ -24,6 +24,7 @@ DECL|function|proFileCache
 DECL|function|project
 DECL|function|prompt
 DECL|function|quotedfilenames
+DECL|function|resources
 DECL|function|simple_app
 DECL|function|simple_app_shadowbuild
 DECL|function|simple_app_shadowbuild2
@@ -36,6 +37,9 @@ DECL|function|tst_qmake
 DECL|function|variables
 DECL|function|~TempFile
 DECL|function|~tst_qmake
+DECL|macro|DIR_INFIX
+DECL|macro|DIR_INFIX
+DECL|macro|DIR_INFIX
 DECL|member|base_path
 DECL|member|test_compiler
 DECL|struct|TempFile
