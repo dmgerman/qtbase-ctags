@@ -1,6 +1,4 @@
 DECL|enumerator|DataHeaderSize
-DECL|function|at
-DECL|function|begin
 DECL|function|clear
 DECL|function|d
 DECL|function|d
@@ -8,10 +6,7 @@ DECL|function|dealloc
 DECL|function|detach
 DECL|function|detachShared
 DECL|function|dispose
-DECL|function|end
 DECL|function|isDetached
-DECL|function|isEmpty
-DECL|function|isEmpty
 DECL|function|node_construct
 DECL|function|node_copy
 DECL|function|node_destruct
@@ -21,8 +16,6 @@ DECL|function|op_eq_impl
 DECL|function|removeAll
 DECL|function|removeOne
 DECL|function|setSharable
-DECL|function|size
-DECL|function|size
 DECL|function|t
 DECL|function|t
 DECL|function|~QList
