@@ -99,6 +99,7 @@ DECL|function|resetProxy
 DECL|function|resume
 DECL|function|resume_data
 DECL|function|run
+DECL|function|serverCipherPreferences
 DECL|function|sessionCipher
 DECL|function|setCaCertificates
 DECL|function|setDefaultCaCertificates
@@ -150,6 +151,7 @@ DECL|macro|FLUKE_CERTIFICATE_ERROR
 DECL|macro|QSSLSOCKET_CERTUNTRUSTED_WORKAROUND
 DECL|member|addCaCertificates
 DECL|member|ciphers
+DECL|member|config
 DECL|member|dataReadSemaphore
 DECL|member|ignoreSslErrors
 DECL|member|loopLevel
