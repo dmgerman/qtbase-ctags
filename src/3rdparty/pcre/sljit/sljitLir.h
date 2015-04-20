@@ -3,7 +3,6 @@ DECL|function|sljit_get_const_addr
 DECL|function|sljit_get_generated_code_size
 DECL|function|sljit_get_jump_addr
 DECL|function|sljit_get_label_addr
-DECL|function|sljit_set_compiler_memory_error
 DECL|macro|SLJIT_ADD
 DECL|macro|SLJIT_ADDC
 DECL|macro|SLJIT_AND

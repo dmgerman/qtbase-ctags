@@ -328,6 +328,7 @@ DECL|function|testWindowIconChangeEventPropagation
 DECL|function|timerEvent
 DECL|function|toplevelLineEditFocus
 DECL|function|touchEventSynthesizedMouseEvent
+DECL|function|touchUpdateOnNewTouch
 DECL|function|transientParent
 DECL|function|translucentWidget
 DECL|function|tst_QWidget
@@ -399,7 +400,10 @@ DECL|member|m_mouseEventCount
 DECL|member|m_platform
 DECL|member|m_resizeEventCount
 DECL|member|m_testWidgetSize
+DECL|member|m_touchBeginCount
+DECL|member|m_touchEndCount
 DECL|member|m_touchEventCount
+DECL|member|m_touchUpdateCount
 DECL|member|m_widget
 DECL|member|m_winIdList
 DECL|member|m_windowsAnimationsEnabled
