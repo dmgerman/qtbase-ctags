@@ -40,6 +40,8 @@ DECL|function|initTestCase
 DECL|function|inplaceConversion
 DECL|function|inplaceConversion_data
 DECL|function|inplaceMirrored
+DECL|function|inplaceMirroredOdd
+DECL|function|inplaceMirroredOdd_data
 DECL|function|inplaceMirrored_data
 DECL|function|inplaceRgbMirrored
 DECL|function|inplaceRgbSwapped
