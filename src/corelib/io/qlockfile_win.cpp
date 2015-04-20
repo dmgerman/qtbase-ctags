@@ -1,3 +1,4 @@
+DECL|function|fileExists
 DECL|function|isApparentlyStale
 DECL|function|localHostName
 DECL|function|removeStaleLock
