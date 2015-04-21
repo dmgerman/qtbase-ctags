@@ -1,3 +1,4 @@
 DECL|macro|QPRINTERINFO_H
+DECL|variable|QDebug
 DECL|variable|QPrinterInfoPrivate
 DECL|variable|QPrinterInfoPrivateDeleter
