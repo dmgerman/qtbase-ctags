@@ -7,8 +7,8 @@ DECL|function|QImage
 DECL|function|QImage
 DECL|function|QImage
 DECL|function|QImage
-DECL|function|QImage
 DECL|function|QImageData
+DECL|function|QPaintDevice
 DECL|function|allGray
 DECL|function|alphaChannel
 DECL|function|bitPlaneCount
