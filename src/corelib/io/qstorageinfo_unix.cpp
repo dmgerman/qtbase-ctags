@@ -75,6 +75,7 @@ DECL|member|m_volumeRoster
 DECL|member|mnt
 DECL|member|mnt
 DECL|member|stat_buf
+DECL|member|stat_buf
 DECL|variable|bufferSize
 DECL|variable|pathMounted
 DECL|variable|pathMounted

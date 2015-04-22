@@ -8,6 +8,8 @@ DECL|enumerator|SH_ENFORCE_PACKING_RESTRICTIONS
 DECL|enumerator|SH_ESSL_OUTPUT
 DECL|enumerator|SH_GLES2_SPEC
 DECL|enumerator|SH_GLES3_SPEC
+DECL|enumerator|SH_GLSL_COMPATIBILITY_OUTPUT
+DECL|enumerator|SH_GLSL_CORE_OUTPUT
 DECL|enumerator|SH_GLSL_OUTPUT
 DECL|enumerator|SH_HLSL11_OUTPUT
 DECL|enumerator|SH_HLSL9_OUTPUT
@@ -36,11 +38,13 @@ DECL|macro|COMPILER_EXPORT
 DECL|macro|COMPILER_EXPORT
 DECL|macro|COMPILER_EXPORT
 DECL|macro|COMPILER_EXPORT
-DECL|macro|_COMPILER_INTERFACE_INCLUDED_
+DECL|macro|GLSLANG_SHADERLANG_H_
 DECL|member|ARB_texture_rectangle
+DECL|member|ARM_shader_framebuffer_fetch
 DECL|member|ArrayIndexClampingStrategy
 DECL|member|EXT_draw_buffers
 DECL|member|EXT_frag_depth
+DECL|member|EXT_shader_framebuffer_fetch
 DECL|member|EXT_shader_texture_lod
 DECL|member|FragmentPrecisionHigh
 DECL|member|HashFunction
@@ -59,8 +63,10 @@ DECL|member|MaxVertexTextureImageUnits
 DECL|member|MaxVertexUniformVectors
 DECL|member|MinProgramTexelOffset
 DECL|member|NV_draw_buffers
+DECL|member|NV_shader_framebuffer_fetch
 DECL|member|OES_EGL_image_external
 DECL|member|OES_standard_derivatives
+DECL|member|WEBGL_debug_shader_precision
 DECL|member|size
 DECL|member|string
 DECL|member|type

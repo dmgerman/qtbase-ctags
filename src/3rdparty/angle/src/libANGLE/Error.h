@@ -1,0 +1,1 @@
+DECL|macro|LIBANGLE_ERROR_H_

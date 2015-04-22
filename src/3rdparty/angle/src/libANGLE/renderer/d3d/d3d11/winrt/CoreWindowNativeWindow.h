@@ -1,0 +1,3 @@
+DECL|macro|LIBANGLE_RENDERER_D3D_D3D11_WINRT_COREWINDOWNATIVEWINDOW_H_
+DECL|typedef|IDisplayOrientationEventHandler
+DECL|typedef|IWindowSizeChangedEventHandler

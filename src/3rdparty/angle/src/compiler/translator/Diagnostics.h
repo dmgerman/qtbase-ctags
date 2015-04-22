@@ -1,2 +1,3 @@
-DECL|macro|COMPILER_DIAGNOSTICS_H_
+DECL|macro|COMPILER_TRANSLATOR_DIAGNOSTICS_H_
+DECL|member|Diagnostics
 DECL|variable|TInfoSink

@@ -1,7 +1,7 @@
-DECL|function|QSignalBlocker
-DECL|function|QSignalBlocker
-DECL|function|QSignalBlocker
 DECL|function|connect
+DECL|function|m_inhibited
+DECL|function|m_inhibited
+DECL|function|m_inhibited
 DECL|function|qFindChild
 DECL|function|qFindChildren
 DECL|function|qFindChildren
@@ -23,3 +23,4 @@ DECL|variable|QThread
 DECL|variable|QTimerEvent
 DECL|variable|QVariant
 DECL|variable|QWidget
+DECL|variable|o

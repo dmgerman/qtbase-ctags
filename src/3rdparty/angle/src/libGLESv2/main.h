@@ -1,1 +1,0 @@
-DECL|macro|LIBGLESV2_MAIN_H_

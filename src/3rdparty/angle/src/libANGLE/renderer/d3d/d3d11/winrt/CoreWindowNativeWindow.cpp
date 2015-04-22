@@ -1,0 +1,9 @@
+DECL|function|ConvertDipsToPixels
+DECL|function|GetCoreWindowSizeInPixels
+DECL|function|GetLogicalDpi
+DECL|function|createSwapChain
+DECL|function|initialize
+DECL|function|registerForSizeChangeEvents
+DECL|function|unregisterForSizeChangeEvents
+DECL|function|~CoreWindowNativeWindow
+DECL|namespace|rx

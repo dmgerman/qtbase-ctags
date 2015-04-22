@@ -1,5 +1,4 @@
 DECL|function|_q_dupEnvironment
-DECL|function|_q_notified
 DECL|function|add_fd
 DECL|function|bytesAvailableInChannel
 DECL|function|closeChannel

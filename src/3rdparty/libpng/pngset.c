@@ -1,3 +1,5 @@
+DECL|function|add_one_chunk
+DECL|function|check_location
 DECL|function|png_permit_mng_features
 DECL|function|png_set_IHDR
 DECL|function|png_set_PLTE

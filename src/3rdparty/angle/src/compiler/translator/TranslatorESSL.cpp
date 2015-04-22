@@ -1,3 +1,4 @@
 DECL|function|TranslatorESSL
+DECL|function|initBuiltInFunctionEmulator
 DECL|function|translate
 DECL|function|writeExtensionBehavior

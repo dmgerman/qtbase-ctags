@@ -1,0 +1,3 @@
+DECL|macro|QEVDEVTOUCHMANAGER_P_H
+DECL|variable|QDeviceDiscovery
+DECL|variable|QEvdevTouchScreenHandlerThread

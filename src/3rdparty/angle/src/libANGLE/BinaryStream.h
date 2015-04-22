@@ -1,0 +1,2 @@
+DECL|function|StaticAssertIsFundamental
+DECL|macro|LIBANGLE_BINARYSTREAM_H_

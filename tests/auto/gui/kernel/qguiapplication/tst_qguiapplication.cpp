@@ -41,6 +41,7 @@ DECL|function|setFocusObject
 DECL|function|settableStyleHints
 DECL|function|settableStyleHints_data
 DECL|function|staticFunctions
+DECL|function|testSetPaletteAttribute
 DECL|function|topLevelWindows
 DECL|function|windowIcon
 DECL|member|blocked

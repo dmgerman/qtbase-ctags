@@ -15,6 +15,7 @@ DECL|function|flush
 DECL|function|flush
 DECL|function|flush
 DECL|function|flush
+DECL|function|qInitBlendFunctions
 DECL|function|qt_blend_a2bgr30pm_on_a2rgb30pm
 DECL|function|qt_blend_a2rgb30pm_on_a2rgb30pm
 DECL|function|qt_blend_argb32_on_argb32

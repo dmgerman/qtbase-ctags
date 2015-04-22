@@ -1,0 +1,16 @@
+DECL|function|EmulatePrecision
+DECL|function|canRoundFloat
+DECL|function|createCompoundAssignmentFunctionCallNode
+DECL|function|createInternalFunctionCallNode
+DECL|function|createRoundingFunctionCallNode
+DECL|function|getFloatTypeStr
+DECL|function|parentUsesResult
+DECL|function|visitAggregate
+DECL|function|visitBinary
+DECL|function|visitSymbol
+DECL|function|visitUnary
+DECL|function|writeCommonPrecisionEmulationHelpers
+DECL|function|writeCompoundAssignmentPrecisionEmulation
+DECL|function|writeEmulationHelpers
+DECL|function|writeMatrixPrecisionEmulationHelper
+DECL|function|writeVectorPrecisionEmulationHelpers

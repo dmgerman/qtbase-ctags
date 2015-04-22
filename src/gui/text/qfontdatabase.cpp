@@ -103,7 +103,6 @@ DECL|member|applicationFonts
 DECL|member|askedForFallback
 DECL|member|avgwidth
 DECL|member|bitmapScalable
-DECL|member|bogusWritingSystems
 DECL|member|count
 DECL|member|count
 DECL|member|count

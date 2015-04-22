@@ -13,6 +13,7 @@ DECL|function|ascii85Encode
 DECL|function|begin
 DECL|function|clear
 DECL|function|constructor_helper
+DECL|function|createShadingFunction
 DECL|function|cubicToHook
 DECL|function|drawImage
 DECL|function|drawLines
@@ -27,9 +28,11 @@ DECL|function|drawTiledPixmap
 DECL|function|embedFont
 DECL|function|end
 DECL|function|generateDashes
+DECL|function|generateGradientShader
 DECL|function|generateLinearGradientShader
 DECL|function|generateMatrix
 DECL|function|generatePath
+DECL|function|generateRadialGradientShader
 DECL|function|gradientBrush
 DECL|function|is_monochrome
 DECL|function|lineToHook
@@ -80,12 +83,16 @@ DECL|function|writeInfo
 DECL|function|writePage
 DECL|function|writePageRoot
 DECL|function|writeTail
-DECL|function|writeTriangleLine
 DECL|function|xprintf
 DECL|function|~ByteStream
 DECL|function|~QPdfEnginePrivate
 DECL|macro|QT_PATH_ELEMENT
+DECL|member|function
+DECL|member|reverse
+DECL|member|start
+DECL|member|stop
 DECL|namespace|QPdf
+DECL|struct|QGradientBound
 DECL|variable|do_compress
 DECL|variable|do_compress
 DECL|variable|interpolateImages

@@ -69,6 +69,7 @@ DECL|function|sljit_get_local_base
 DECL|function|sljit_get_platform_name
 DECL|function|sljit_get_register_index
 DECL|function|sljit_is_fpu_available
+DECL|function|sljit_set_compiler_memory_error
 DECL|function|sljit_set_const
 DECL|function|sljit_set_context
 DECL|function|sljit_set_jump_addr

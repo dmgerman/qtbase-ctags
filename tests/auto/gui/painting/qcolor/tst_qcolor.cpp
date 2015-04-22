@@ -44,7 +44,6 @@ DECL|function|toRgb
 DECL|function|toRgbNonDestructive
 DECL|function|toRgb_data
 DECL|function|tst_QColor
-DECL|function|unpremultiply_sse4
 DECL|function|veryFuzzyCompare
 DECL|macro|rgb
 DECL|macro|rgb

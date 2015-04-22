@@ -4,6 +4,7 @@ DECL|function|buildMangledName
 DECL|function|calculateDeepestNesting
 DECL|function|calculateObjectSize
 DECL|function|containsArrays
+DECL|function|containsSamplers
 DECL|function|equals
 DECL|function|getBasicString
 DECL|function|getObjectSize

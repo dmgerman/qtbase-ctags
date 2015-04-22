@@ -1,0 +1,4 @@
+DECL|macro|ANGLE_PLATFORM_H
+DECL|typedef|ANGLEPlatformCurrentFunc
+DECL|typedef|ANGLEPlatformInitializeFunc
+DECL|typedef|ANGLEPlatformShutdownFunc

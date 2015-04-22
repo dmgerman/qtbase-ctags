@@ -1,6 +1,8 @@
 DECL|function|OutputHLSL
+DECL|function|addArrayAssignmentFunction
+DECL|function|addArrayEqualityFunction
+DECL|function|addStructEqualityFunction
 DECL|function|argumentString
-DECL|function|getBodyStream
 DECL|function|getInterfaceBlockRegisterMap
 DECL|function|getUniformRegisterMap
 DECL|function|handleExcessiveLoop
@@ -12,7 +14,9 @@ DECL|function|name
 DECL|function|operator <
 DECL|function|output
 DECL|function|outputConstructor
+DECL|function|outputEqual
 DECL|function|outputLineDirective
+DECL|function|outputTriplet
 DECL|function|outputTriplet
 DECL|function|structInitializerString
 DECL|function|traverseStatements
@@ -20,12 +24,17 @@ DECL|function|vectorSize
 DECL|function|visitAggregate
 DECL|function|visitBinary
 DECL|function|visitBranch
+DECL|function|visitCase
 DECL|function|visitConstantUnion
 DECL|function|visitLoop
 DECL|function|visitRaw
 DECL|function|visitSelection
+DECL|function|visitSwitch
 DECL|function|visitSymbol
 DECL|function|visitUnary
 DECL|function|writeConstantUnion
+DECL|function|writeDeferredGlobalInitializers
+DECL|function|writeEmulatedFunctionTriplet
+DECL|function|writeSameSymbolInitializer
 DECL|function|~OutputHLSL
 DECL|namespace|sh

@@ -1,5 +1,4 @@
 DECL|class|ValidateConstIndexExpr
-DECL|function|GetOperatorString
 DECL|function|ValidateConstIndexExpr
 DECL|function|ValidateLimitations
 DECL|function|error

@@ -142,6 +142,8 @@ DECL|function|propWriteCount
 DECL|function|propertiesAreAssignedBeforeEntryCallbacks
 DECL|function|propertiesAreAssignedBeforeEntryCallbacks_data
 DECL|function|propertiesAssignedSignalTransitionsReuseAnimationGroup
+DECL|function|qtbug_44783
+DECL|function|qtbug_44963
 DECL|function|removeDefaultAnimation
 DECL|function|restoreProperties
 DECL|function|restoreProperties2

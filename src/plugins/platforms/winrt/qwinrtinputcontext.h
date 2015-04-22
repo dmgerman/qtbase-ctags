@@ -3,3 +3,4 @@ DECL|member|WinRtClassicComMix
 DECL|variable|IRawElementProviderSimple
 DECL|variable|ITextProvider
 DECL|variable|QPlatformInputContext
+DECL|variable|QWinRTScreen

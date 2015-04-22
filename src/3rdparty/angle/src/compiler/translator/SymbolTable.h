@@ -1,4 +1,4 @@
-DECL|macro|_SYMBOL_TABLE_INCLUDED_
+DECL|macro|COMPILER_TRANSLATOR_SYMBOLTABLE_H_
 DECL|member|name
 DECL|member|type
 DECL|struct|TParameter

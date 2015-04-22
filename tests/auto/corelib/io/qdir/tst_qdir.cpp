@@ -29,6 +29,7 @@ DECL|function|drives
 DECL|function|entryList
 DECL|function|entryListSimple
 DECL|function|entryListSimple_data
+DECL|function|entryListTimedSort
 DECL|function|entryListWithSearchPaths
 DECL|function|entryListWithSymLinks
 DECL|function|entryList_data
