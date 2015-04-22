@@ -100,14 +100,12 @@ DECL|member|WritingSystemsCount
 DECL|member|aliases
 DECL|member|antialiased
 DECL|member|applicationFonts
-DECL|member|askedForFallback
 DECL|member|bitmapScalable
 DECL|member|count
 DECL|member|count
 DECL|member|count
 DECL|member|count
 DECL|member|data
-DECL|member|fallbackFamilies
 DECL|member|families
 DECL|member|families
 DECL|member|family
