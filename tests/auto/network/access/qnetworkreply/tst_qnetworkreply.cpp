@@ -287,6 +287,7 @@ DECL|function|qtbug27161httpHeaderMayBeDamaged
 DECL|function|qtbug27161httpHeaderMayBeDamaged_data
 DECL|function|qtbug28035browserDoesNotLoadQtProjectOrgCorrectly
 DECL|function|qtbug4121unknownAuthentication
+DECL|function|qtbug45581WrongReplyStatusCode
 DECL|function|queryProxy
 DECL|function|rateControl
 DECL|function|rateControl_data
