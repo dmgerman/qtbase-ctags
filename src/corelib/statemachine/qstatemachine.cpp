@@ -38,6 +38,7 @@ DECL|function|createInitialTransition
 DECL|function|defaultAnimations
 DECL|function|dequeueExternalEvent
 DECL|function|dequeueInternalEvent
+DECL|function|descendantDepth
 DECL|function|effectiveTargetStates
 DECL|function|emitStateFinished
 DECL|function|endMacrostep
