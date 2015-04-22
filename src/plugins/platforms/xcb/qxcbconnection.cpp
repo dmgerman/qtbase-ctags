@@ -11,6 +11,7 @@ DECL|function|checkEvent
 DECL|function|checkEvent
 DECL|function|checkOutputIsPrimary
 DECL|function|createScreen
+DECL|function|createVisualInfoForDefaultVisualId
 DECL|function|event
 DECL|function|findScreenForCrtc
 DECL|function|findScreenForOutput
@@ -57,10 +58,10 @@ DECL|function|translateMouseButtons
 DECL|function|ungrabServer
 DECL|function|unlock
 DECL|function|updateScreens
+DECL|function|virtualDesktopForRootWindow
 DECL|function|windowEventListenerFromId
 DECL|function|xEmbedSystemTrayAvailable
 DECL|function|xEmbedSystemTrayVisualHasAlphaChannel
-DECL|function|xcbScreenForRootWindow
 DECL|function|xi2GetValuatorValueIfSet
 DECL|function|xi2PrepareXIGenericDeviceEvent
 DECL|function|xi2ValuatorOffset
@@ -70,6 +71,7 @@ DECL|function|~QXcbConnectionGrabber
 DECL|macro|HANDLE_KEYBOARD_EVENT
 DECL|macro|HANDLE_PLATFORM_WINDOW_EVENT
 DECL|macro|PRINT_XCB_EVENT
+DECL|macro|XCB_GE_GENERIC
 DECL|member|any
 DECL|member|atom
 DECL|member|deviceID

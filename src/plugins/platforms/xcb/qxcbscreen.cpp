@@ -1,4 +1,5 @@
 DECL|function|QXcbScreen
+DECL|function|QXcbVirtualDesktop
 DECL|function|cursor
 DECL|function|depthOfVisual
 DECL|function|devicePixelRatio
@@ -8,6 +9,10 @@ DECL|function|formatSizeF
 DECL|function|grabWindow
 DECL|function|handleScreenChange
 DECL|function|logicalDpi
+DECL|function|mapFromNative
+DECL|function|mapFromNative
+DECL|function|mapToNative
+DECL|function|mapToNative
 DECL|function|operator <<
 DECL|function|parseXftHintStyle
 DECL|function|parseXftInt
@@ -22,4 +27,6 @@ DECL|function|visualForId
 DECL|function|windowShown
 DECL|function|xResource
 DECL|function|xSettings
+DECL|function|xSettings
 DECL|function|~QXcbScreen
+DECL|function|~QXcbVirtualDesktop

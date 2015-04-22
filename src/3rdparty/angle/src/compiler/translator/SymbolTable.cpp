@@ -1,12 +1,14 @@
-DECL|function|TSymbol
+DECL|function|IsGenType
+DECL|function|IsVecType
+DECL|function|SpecificType
+DECL|function|VectorType
 DECL|function|find
 DECL|function|find
 DECL|function|findBuiltIn
 DECL|function|getDefaultPrecision
 DECL|function|insert
 DECL|function|insertBuiltIn
-DECL|function|relateToExtension
-DECL|function|relateToOperator
+DECL|function|insertUnmangled
 DECL|function|~TFunction
 DECL|function|~TSymbolTable
 DECL|function|~TSymbolTableLevel

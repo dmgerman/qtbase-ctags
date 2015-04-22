@@ -14,7 +14,6 @@ DECL|function|activate
 DECL|function|activate
 DECL|function|activate
 DECL|function|addConnection
-DECL|function|blockSignals
 DECL|function|check_and_warn_compat
 DECL|function|check_method_code
 DECL|function|check_parent_thread

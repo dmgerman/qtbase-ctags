@@ -13,6 +13,7 @@ DECL|function|deviceIdKey
 DECL|function|driverVersionKey
 DECL|function|exceptionsKey
 DECL|function|featuresKey
+DECL|function|fromContext
 DECL|function|fromJson
 DECL|function|fromJson
 DECL|function|glVendorKey

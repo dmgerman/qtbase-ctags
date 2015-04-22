@@ -1,1 +1,2 @@
-DECL|macro|COMPILER_OUTPUTHLSL_H_
+DECL|macro|COMPILER_TRANSLATOR_OUTPUTHLSL_H_
+DECL|variable|BuiltInFunctionEmulator

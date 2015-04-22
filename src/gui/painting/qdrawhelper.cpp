@@ -175,8 +175,6 @@ DECL|function|greenWidth
 DECL|function|greenWidth
 DECL|function|greenWidth
 DECL|function|handleSpans
-DECL|function|interpolate_4_pixels
-DECL|function|interpolate_4_pixels
 DECL|function|interpolate_4_pixels_16
 DECL|function|interpolate_4_pixels_rgb64
 DECL|function|interpolate_4_pixels_rgb64

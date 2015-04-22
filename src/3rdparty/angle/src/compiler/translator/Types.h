@@ -10,7 +10,7 @@ DECL|function|setAggregate
 DECL|function|setArray
 DECL|function|setBasic
 DECL|function|setMatrix
-DECL|macro|_TYPES_INCLUDED
+DECL|macro|COMPILER_TRANSLATOR_TYPES_H_
 DECL|member|array
 DECL|member|arraySize
 DECL|member|layoutQualifier

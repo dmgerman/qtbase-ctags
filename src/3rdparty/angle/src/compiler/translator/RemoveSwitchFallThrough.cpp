@@ -1,0 +1,14 @@
+DECL|function|RemoveSwitchFallThrough
+DECL|function|handlePreviousCase
+DECL|function|outputSequence
+DECL|function|removeFallThrough
+DECL|function|visitAggregate
+DECL|function|visitBinary
+DECL|function|visitBranch
+DECL|function|visitCase
+DECL|function|visitConstantUnion
+DECL|function|visitLoop
+DECL|function|visitSelection
+DECL|function|visitSwitch
+DECL|function|visitSymbol
+DECL|function|visitUnary

@@ -1,1 +1,0 @@
-DECL|macro|LIBGLESV2_SHADER_H_

@@ -38,7 +38,6 @@ DECL|function|adjustUnderlines
 DECL|function|adjustUnderlines
 DECL|function|alignLine
 DECL|function|appendItems
-DECL|function|atSpace
 DECL|function|atWordSeparator
 DECL|function|attributes
 DECL|function|baseLevel

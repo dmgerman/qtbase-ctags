@@ -1,0 +1,9 @@
+DECL|function|Error
+DECL|function|Error
+DECL|function|Error
+DECL|function|createMessageString
+DECL|function|createMessageString
+DECL|function|getMessage
+DECL|function|getMessage
+DECL|namespace|egl
+DECL|namespace|gl

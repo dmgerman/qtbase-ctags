@@ -1,11 +1,13 @@
 DECL|function|AllocateFirstFreeBits
-DECL|function|IsCubemapTextureTarget
+DECL|function|CubeMapTextureTargetToLayerIndex
+DECL|function|IsCubeMapTextureTarget
 DECL|function|IsMatrixType
-DECL|function|IsSampler
+DECL|function|IsSamplerType
 DECL|function|IsTriangleMode
+DECL|function|LayerIndexToCubeMapTextureTarget
 DECL|function|MatrixComponentCount
 DECL|function|MatrixRegisterCount
-DECL|function|Sleep
+DECL|function|ScheduleYield
 DECL|function|TransposeMatrixType
 DECL|function|VariableBoolVectorType
 DECL|function|VariableColumnCount

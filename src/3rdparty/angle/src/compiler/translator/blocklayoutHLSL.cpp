@@ -1,0 +1,11 @@
+DECL|function|GetStrategyFor
+DECL|function|HLSLBlockEncoder
+DECL|function|HLSLVariableRegisterCount
+DECL|function|HLSLVariableRegisterCount
+DECL|function|HLSLVariableRegisterCount
+DECL|function|advanceOffset
+DECL|function|enterAggregateType
+DECL|function|exitAggregateType
+DECL|function|getBlockLayoutInfo
+DECL|function|skipRegisters
+DECL|namespace|sh

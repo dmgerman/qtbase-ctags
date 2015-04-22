@@ -9,6 +9,7 @@ DECL|function|qRed
 DECL|function|qRgb
 DECL|function|qRgba
 DECL|function|qUnpremultiply
+DECL|function|qUnpremultiply
 DECL|macro|QRGB_H
 DECL|typedef|QRgb
 DECL|variable|RGB_MASK

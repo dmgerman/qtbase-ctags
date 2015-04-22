@@ -20,6 +20,7 @@ DECL|enumerator|Tok_LeftParen
 DECL|enumerator|Tok_LeftParenAster
 DECL|enumerator|Tok_Number
 DECL|enumerator|Tok_QDOC_PROPERTY
+DECL|enumerator|Tok_QPrivateSignal
 DECL|enumerator|Tok_QT3_MOC_SUPPORT
 DECL|enumerator|Tok_QT3_SUPPORT
 DECL|enumerator|Tok_QT3_SUPPORT_CONSTRUCTOR

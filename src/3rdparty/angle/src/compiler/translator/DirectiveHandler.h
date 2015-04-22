@@ -1,2 +1,3 @@
-DECL|macro|COMPILER_DIRECTIVE_HANDLER_H_
+DECL|macro|COMPILER_TRANSLATOR_DIRECTIVEHANDLER_H_
+DECL|member|DirectiveHandler
 DECL|variable|TDiagnostics

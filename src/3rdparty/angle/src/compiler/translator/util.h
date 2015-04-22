@@ -1,2 +1,2 @@
-DECL|macro|COMPILER_UTIL_H
+DECL|macro|COMPILER_TRANSLATOR_UTIL_H_
 DECL|variable|TSymbolTable

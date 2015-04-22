@@ -13,11 +13,11 @@ DECL|function|get_IsReadOnly
 DECL|function|get_ProviderOptions
 DECL|function|get_SupportedTextSelection
 DECL|function|get_Value
+DECL|function|handleVisibilityChange
 DECL|function|hideInputPanel
 DECL|function|isInputPanelVisible
 DECL|function|keyboardRect
 DECL|function|onHiding
 DECL|function|onShowing
-DECL|function|setKeyboardRect
 DECL|function|showInputPanel
 DECL|typedef|InputPaneVisibilityHandler

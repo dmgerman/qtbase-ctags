@@ -1,0 +1,5 @@
+DECL|macro|LIBANGLE_RENDERER_D3D_D3D11_WINRT_INSPECTABLENATIVEWINDOW_H_
+DECL|member|Collections
+DECL|member|Foundation
+DECL|member|WRL
+DECL|member|Wrappers

@@ -1,0 +1,10 @@
+DECL|function|ShaderExecutableD3D
+DECL|function|UniformStorageD3D
+DECL|function|appendDebugInfo
+DECL|function|getDebugInfo
+DECL|function|getFunction
+DECL|function|getLength
+DECL|function|size
+DECL|function|~ShaderExecutableD3D
+DECL|function|~UniformStorageD3D
+DECL|namespace|rx

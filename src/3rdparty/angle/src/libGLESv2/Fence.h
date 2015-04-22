@@ -1,1 +1,0 @@
-DECL|macro|LIBGLESV2_FENCE_H_

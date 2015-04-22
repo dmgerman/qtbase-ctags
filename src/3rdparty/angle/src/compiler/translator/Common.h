@@ -1,9 +1,9 @@
 DECL|function|NewPoolTString
 DECL|function|str
+DECL|macro|COMPILER_TRANSLATOR_COMMON_H_
 DECL|macro|POOL_ALLOCATOR_NEW_DELETE
 DECL|macro|TPersistString
 DECL|macro|TPersistStringStream
-DECL|macro|_COMMON_INCLUDED_
 DECL|member|K
 DECL|member|first_file
 DECL|member|first_line

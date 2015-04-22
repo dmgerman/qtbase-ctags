@@ -1,8 +1,0 @@
-DECL|function|createSwapChain
-DECL|function|initialize
-DECL|function|onSizeChanged
-DECL|function|registerForSizeChangeEvents
-DECL|function|unregisterForSizeChangeEvents
-DECL|function|~CoreWindowNativeWindow
-DECL|namespace|rx
-DECL|typedef|SizeChangedHandler

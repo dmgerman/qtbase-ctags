@@ -12,6 +12,8 @@ DECL|typedef|EGLNativePixmapType
 DECL|typedef|EGLNativePixmapType
 DECL|typedef|EGLNativePixmapType
 DECL|typedef|EGLNativePixmapType
+DECL|typedef|EGLNativePixmapType
+DECL|typedef|EGLNativeWindowType
 DECL|typedef|EGLNativeWindowType
 DECL|typedef|EGLNativeWindowType
 DECL|typedef|EGLNativeWindowType

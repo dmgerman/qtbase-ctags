@@ -89,12 +89,17 @@ DECL|function|isTransient
 DECL|function|lower
 DECL|function|mapExposeFromNative
 DECL|function|mapFromGlobal
-DECL|function|mapGeometryFromNative
+DECL|function|mapFromNative
+DECL|function|mapFromNative
+DECL|function|mapLocalGeometryFromNative
+DECL|function|mapLocalGeometryToNative
 DECL|function|mapToGlobal
+DECL|function|mapToNative
 DECL|function|mapToNative
 DECL|function|maybeSetScreen
 DECL|function|needsSync
 DECL|function|netWmStates
+DECL|function|parentScreen
 DECL|function|pending
 DECL|function|positionIncludesFrame
 DECL|function|postSyncWindowRequest
@@ -143,6 +148,8 @@ DECL|function|updateMotifWmHintsBeforeMap
 DECL|function|updateNetWmStateBeforeMap
 DECL|function|updateNetWmUserTime
 DECL|function|updateSyncRequestCounter
+DECL|function|visualId
+DECL|function|visualIdStatic
 DECL|function|winId
 DECL|function|windowEvent
 DECL|function|windowToWmGeometry

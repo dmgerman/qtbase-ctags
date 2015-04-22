@@ -1,0 +1,11 @@
+DECL|function|LinkResult
+DECL|function|ParseAndStripArrayIndex
+DECL|function|getUniformBlockByIndex
+DECL|function|getUniformBlockIndex
+DECL|function|getUniformByLocation
+DECL|function|getUniformByName
+DECL|function|getUniformIndex
+DECL|function|getUniformLocation
+DECL|function|reset
+DECL|function|~ProgramImpl
+DECL|namespace|rx

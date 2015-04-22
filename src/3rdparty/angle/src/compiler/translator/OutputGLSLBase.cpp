@@ -10,10 +10,12 @@ DECL|function|structDeclared
 DECL|function|visitAggregate
 DECL|function|visitBinary
 DECL|function|visitBranch
+DECL|function|visitCase
 DECL|function|visitCodeBlock
 DECL|function|visitConstantUnion
 DECL|function|visitLoop
 DECL|function|visitSelection
+DECL|function|visitSwitch
 DECL|function|visitSymbol
 DECL|function|visitUnary
 DECL|function|writeBuiltInFunctionTriplet

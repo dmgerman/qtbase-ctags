@@ -44,6 +44,7 @@ DECL|function|qKeyFromVirtual
 DECL|function|qtOrientationsFromNative
 DECL|function|raise
 DECL|function|removeWindow
+DECL|function|scaleFactor
 DECL|function|surfaceFormat
 DECL|function|topWindow
 DECL|function|~QWinRTScreen

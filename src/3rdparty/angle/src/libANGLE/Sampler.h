@@ -1,0 +1,1 @@
+DECL|macro|LIBANGLE_SAMPLER_H_

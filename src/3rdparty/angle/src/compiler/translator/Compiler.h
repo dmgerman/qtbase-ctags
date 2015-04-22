@@ -1,4 +1,4 @@
-DECL|macro|_SHHANDLE_INCLUDED_
+DECL|macro|COMPILER_TRANSLATOR_COMPILER_H_
 DECL|variable|TCompiler
 DECL|variable|TDependencyGraph
 DECL|variable|TranslatorHLSL

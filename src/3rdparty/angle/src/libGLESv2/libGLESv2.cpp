@@ -1,3 +1,4 @@
+DECL|function|SetTraceFunctionPointers
 DECL|function|glActiveTexture
 DECL|function|glAttachShader
 DECL|function|glBeginQuery
@@ -10,7 +11,6 @@ DECL|function|glBindBufferRange
 DECL|function|glBindFramebuffer
 DECL|function|glBindRenderbuffer
 DECL|function|glBindSampler
-DECL|function|glBindTexImage
 DECL|function|glBindTexture
 DECL|function|glBindTransformFeedback
 DECL|function|glBindVertexArray
@@ -123,7 +123,6 @@ DECL|function|glGetInteger64v
 DECL|function|glGetIntegeri_v
 DECL|function|glGetIntegerv
 DECL|function|glGetInternalformativ
-DECL|function|glGetProcAddress
 DECL|function|glGetProgramBinary
 DECL|function|glGetProgramBinaryOES
 DECL|function|glGetProgramInfoLog
@@ -213,7 +212,6 @@ DECL|function|glStencilOpSeparate
 DECL|function|glTestFenceNV
 DECL|function|glTexImage2D
 DECL|function|glTexImage3D
-DECL|function|glTexImage3DOES
 DECL|function|glTexParameterf
 DECL|function|glTexParameterfv
 DECL|function|glTexParameteri
@@ -280,6 +278,3 @@ DECL|function|glVertexAttribIPointer
 DECL|function|glVertexAttribPointer
 DECL|function|glViewport
 DECL|function|glWaitSync
-DECL|macro|GL_APICALL
-DECL|macro|GL_APICALL
-DECL|macro|GL_GLEXT_PROTOTYPES

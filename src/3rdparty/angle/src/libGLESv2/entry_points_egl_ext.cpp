@@ -1,0 +1,4 @@
+DECL|function|GetPlatformDisplayEXT
+DECL|function|PostSubBufferNV
+DECL|function|QuerySurfacePointerANGLE
+DECL|namespace|egl

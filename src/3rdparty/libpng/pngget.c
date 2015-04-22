@@ -21,13 +21,13 @@ DECL|function|png_get_iCCP
 DECL|function|png_get_image_height
 DECL|function|png_get_image_width
 DECL|function|png_get_interlace_type
-DECL|function|png_get_io_chunk_name
 DECL|function|png_get_io_chunk_type
 DECL|function|png_get_io_state
 DECL|function|png_get_oFFs
 DECL|function|png_get_pCAL
 DECL|function|png_get_pHYs
 DECL|function|png_get_pHYs_dpi
+DECL|function|png_get_palette_max
 DECL|function|png_get_pixel_aspect_ratio
 DECL|function|png_get_pixel_aspect_ratio_fixed
 DECL|function|png_get_pixels_per_inch

@@ -1,0 +1,4 @@
+DECL|function|ANGLEPlatformCurrent
+DECL|function|ANGLEPlatformInitialize
+DECL|function|ANGLEPlatformShutdown
+DECL|member|currentPlatform

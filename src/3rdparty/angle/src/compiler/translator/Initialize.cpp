@@ -1,3 +1,4 @@
 DECL|function|IdentifyBuiltIns
 DECL|function|InitExtensionBehavior
 DECL|function|InsertBuiltInFunctions
+DECL|function|ResetExtensionBehavior

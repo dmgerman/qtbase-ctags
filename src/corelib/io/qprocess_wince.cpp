@@ -1,4 +1,3 @@
-DECL|function|_q_notified
 DECL|function|bytesAvailableInChannel
 DECL|function|closeChannel
 DECL|function|destroyPipe

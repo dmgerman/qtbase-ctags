@@ -1,0 +1,1 @@
+DECL|macro|LIBANGLE_UNIFORM_H_

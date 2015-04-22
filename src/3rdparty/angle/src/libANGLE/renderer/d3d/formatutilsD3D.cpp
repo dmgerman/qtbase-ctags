@@ -1,0 +1,7 @@
+DECL|function|BuildFormatWriteFunctionMap
+DECL|function|GetColorWriteFunction
+DECL|function|InsertFormatWriteFunctionMapping
+DECL|namespace|rx
+DECL|typedef|FormatTypePair
+DECL|typedef|FormatWriteFunctionMap
+DECL|typedef|FormatWriteFunctionPair

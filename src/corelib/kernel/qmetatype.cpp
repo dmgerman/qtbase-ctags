@@ -103,6 +103,7 @@ DECL|function|typeFlags
 DECL|function|typeInfo
 DECL|function|typeName
 DECL|function|unregisterConverterFunction
+DECL|function|unregisterType
 DECL|function|~QMetaTypeFunctionRegistry
 DECL|macro|NS
 DECL|macro|QT_ADD_STATIC_METATYPE

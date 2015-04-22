@@ -91,10 +91,13 @@ DECL|function|qt_strip_filters
 DECL|function|qt_tildeExpansion
 DECL|function|removeDirectory
 DECL|function|resolveSymlinks
+DECL|function|restoreFromSettings
 DECL|function|restoreState
+DECL|function|restoreWidgetState
 DECL|function|retranslateStrings
 DECL|function|retranslateWindowTitle
 DECL|function|rootIndex
+DECL|function|saveSettings
 DECL|function|saveState
 DECL|function|select
 DECL|function|selectFile
