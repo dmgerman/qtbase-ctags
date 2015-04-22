@@ -119,6 +119,7 @@ DECL|function|setError
 DECL|function|setGlobalRestorePolicy
 DECL|function|setRunning
 DECL|function|start
+DECL|function|startupHook
 DECL|function|stateEntryLessThan
 DECL|function|stateExitLessThan
 DECL|function|stop
