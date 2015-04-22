@@ -55,6 +55,7 @@ DECL|function|handleWindowActivated
 DECL|function|handleWindowScreenChanged
 DECL|function|handleWindowStateChanged
 DECL|function|handleWindowSystemEvent
+DECL|function|installWindowSystemEventHandler
 DECL|function|operator <<
 DECL|function|peekWindowSystemEvent
 DECL|function|qt_handleKeyEvent
@@ -63,6 +64,8 @@ DECL|function|qt_handleTouchEvent
 DECL|function|qt_sendShortcutOverrideEvent
 DECL|function|registerTouchDevice
 DECL|function|removeWindowSystemEvent
+DECL|function|removeWindowSystemEventhandler
+DECL|function|sendEvent
 DECL|function|sendWindowSystemEvents
 DECL|function|setSynchronousWindowSystemEvents
 DECL|function|touchPoint
@@ -74,6 +77,8 @@ DECL|function|tryHandleShortcutEvent
 DECL|function|tryHandleShortcutEventToObject
 DECL|function|windowSystemEventsQueued
 DECL|function|windowSystemEventsQueued
+DECL|function|~QWindowSystemEventHandler
+DECL|member|eventHandler
 DECL|member|eventTime
 DECL|member|eventsFlushed
 DECL|member|flushEventMutex

@@ -1,1 +1,2 @@
 DECL|macro|QWINDOWSYSTEMINTERFACE_P_H
+DECL|variable|QWindowSystemEventHandler
