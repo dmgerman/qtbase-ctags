@@ -1,6 +1,5 @@
 DECL|function|QWindowsPrintDevice
 DECL|function|QWindowsPrintDevice
-DECL|function|QWindowsPrintDevice
 DECL|function|availablePrintDeviceIds
 DECL|function|defaultColorMode
 DECL|function|defaultDuplexMode
@@ -16,8 +15,6 @@ DECL|function|loadInputSlots
 DECL|function|loadOutputBins
 DECL|function|loadPageSizes
 DECL|function|loadResolutions
-DECL|function|operator =
-DECL|function|operator ==
 DECL|function|paperBinToInputSlot
 DECL|function|printableMargins
 DECL|function|qwcsnlen
