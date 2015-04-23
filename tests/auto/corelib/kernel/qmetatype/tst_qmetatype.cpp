@@ -1,6 +1,7 @@
 DECL|class|AutoMetaTypeObject
 DECL|class|C
 DECL|class|CustomGadget
+DECL|class|CustomGadget_NonDefaultConstructible
 DECL|class|CustomMultiInheritanceObject
 DECL|class|CustomNonQObject
 DECL|class|CustomObject
@@ -35,6 +36,7 @@ DECL|function|CustomComparable
 DECL|function|CustomConvertibleType
 DECL|function|CustomConvertibleType2
 DECL|function|CustomEqualsOnlyType
+DECL|function|CustomGadget_NonDefaultConstructible
 DECL|function|CustomMultiInheritanceObject
 DECL|function|CustomObject
 DECL|function|CustomQObject
