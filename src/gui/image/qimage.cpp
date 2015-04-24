@@ -30,6 +30,7 @@ DECL|function|convertToFormat_helper
 DECL|function|convertToFormat_inplace
 DECL|function|convertWithPalette
 DECL|function|copy
+DECL|function|copyMetadata
 DECL|function|create
 DECL|function|create
 DECL|function|createAlphaMask

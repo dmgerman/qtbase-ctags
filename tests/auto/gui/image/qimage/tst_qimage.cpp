@@ -51,6 +51,7 @@ DECL|function|invertPixelsRGB_data
 DECL|function|load
 DECL|function|loadFromData
 DECL|function|loadFromDataStream
+DECL|function|metadataPassthrough
 DECL|function|mirrored
 DECL|function|mirrored_data
 DECL|function|nullSize
