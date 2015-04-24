@@ -54,4 +54,5 @@ DECL|struct|QUnixOSVersion
 DECL|typedef|SeedStorage
 DECL|typedef|SeedStorageType
 DECL|typedef|SeedStorageType
+DECL|variable|environmentMutex
 DECL|variable|qt_one
