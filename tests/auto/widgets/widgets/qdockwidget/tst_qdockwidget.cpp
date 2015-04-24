@@ -1,9 +1,11 @@
 DECL|class|tst_QDockWidget
 DECL|function|allowedAreas
+DECL|function|createTestDock
 DECL|function|dockLocationChanged
 DECL|function|features
 DECL|function|getSetCheck
 DECL|function|hasFeature
+DECL|function|restoreDockWidget
 DECL|function|restoreStateOfFloating
 DECL|function|setFeature
 DECL|function|setFloating
