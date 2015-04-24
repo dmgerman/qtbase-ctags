@@ -11,6 +11,8 @@ DECL|function|canReadLine
 DECL|function|checkWarnMessage
 DECL|function|close
 DECL|function|commitTransaction
+DECL|function|currentReadChannel
+DECL|function|currentWriteChannel
 DECL|function|debugBinaryString
 DECL|function|debugBinaryString
 DECL|function|errorString
@@ -35,6 +37,7 @@ DECL|function|qt_subtract_from_timeout
 DECL|function|read
 DECL|function|read
 DECL|function|readAll
+DECL|function|readChannelCount
 DECL|function|readLine
 DECL|function|readLine
 DECL|function|readLineData
@@ -42,9 +45,13 @@ DECL|function|reset
 DECL|function|rollbackTransaction
 DECL|function|seek
 DECL|function|seekBuffer
+DECL|function|setCurrentReadChannel
+DECL|function|setCurrentWriteChannel
 DECL|function|setErrorString
 DECL|function|setOpenMode
+DECL|function|setReadChannelCount
 DECL|function|setTextModeEnabled
+DECL|function|setWriteChannelCount
 DECL|function|size
 DECL|function|startTransaction
 DECL|function|ungetChar
@@ -52,6 +59,7 @@ DECL|function|waitForBytesWritten
 DECL|function|waitForReadyRead
 DECL|function|write
 DECL|function|write
+DECL|function|writeChannelCount
 DECL|function|~QIODevice
 DECL|function|~QIODevicePrivate
 DECL|macro|CHECK_MAXLEN
