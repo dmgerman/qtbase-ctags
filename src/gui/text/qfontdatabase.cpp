@@ -101,15 +101,12 @@ DECL|member|aliases
 DECL|member|antialiased
 DECL|member|applicationFonts
 DECL|member|askedForFallback
-DECL|member|avgwidth
 DECL|member|bitmapScalable
 DECL|member|count
 DECL|member|count
 DECL|member|count
 DECL|member|count
 DECL|member|data
-DECL|member|encoding
-DECL|member|encoding
 DECL|member|fallbackFamilies
 DECL|member|families
 DECL|member|families
@@ -122,7 +119,6 @@ DECL|member|handle
 DECL|member|key
 DECL|member|name
 DECL|member|name
-DECL|member|pitch
 DECL|member|pixelSize
 DECL|member|pixelSizes
 DECL|member|populated
@@ -136,13 +132,9 @@ DECL|member|styleName
 DECL|member|styles
 DECL|member|weight
 DECL|member|writingSystems
-DECL|member|xpoint
-DECL|member|xres
-DECL|member|yres
 DECL|struct|ApplicationFont
 DECL|struct|Key
 DECL|struct|QtFontDesc
-DECL|struct|QtFontEncoding
 DECL|struct|QtFontFamily
 DECL|struct|QtFontFoundry
 DECL|struct|QtFontSize
