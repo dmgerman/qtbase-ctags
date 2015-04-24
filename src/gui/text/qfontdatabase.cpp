@@ -114,7 +114,6 @@ DECL|member|fallbackFamilies
 DECL|member|families
 DECL|member|families
 DECL|member|family
-DECL|member|familyIndex
 DECL|member|fileName
 DECL|member|fixedPitch
 DECL|member|foundries
