@@ -13,6 +13,7 @@ DECL|function|convert_ARGB_to_RGBA_inplace
 DECL|function|convert_ARGB_to_RGBx
 DECL|function|convert_Alpha8_to_Indexed8
 DECL|function|convert_Alpha8_to_Indexed8_inplace
+DECL|function|convert_BGR30_to_A2RGB30_inplace
 DECL|function|convert_BGR30_to_RGB30
 DECL|function|convert_BGR30_to_RGB30_inplace
 DECL|function|convert_Grayscale8_to_Indexed8
@@ -36,6 +37,7 @@ DECL|function|convert_X_to_Mono
 DECL|function|convert_generic
 DECL|function|convert_generic_inplace
 DECL|function|convert_indexed8_to_ARGB_PM_inplace
+DECL|function|convert_indexed8_to_ARGB_inplace
 DECL|function|convert_indexed8_to_RGB16_inplace
 DECL|function|convert_indexed8_to_RGB_inplace
 DECL|function|convert_passthrough
@@ -45,6 +47,7 @@ DECL|function|fix_color_table
 DECL|function|mask_alpha_converter
 DECL|function|mask_alpha_converter_RGBx
 DECL|function|mask_alpha_converter_inplace
+DECL|function|mask_alpha_converter_rgbx_inplace
 DECL|function|qGamma_correct_back_to_linear_cs
 DECL|function|qInitImageConversions
 DECL|function|qUnpremultiplyRgb30
