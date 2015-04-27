@@ -3,6 +3,8 @@ DECL|function|qt_safe_connect
 DECL|function|qt_safe_inet_addr
 DECL|function|qt_safe_ioctl
 DECL|function|qt_safe_listen
+DECL|function|qt_safe_recvmsg
+DECL|function|qt_safe_sendmsg
 DECL|function|qt_safe_sendto
 DECL|function|qt_safe_socket
 DECL|macro|QNET_UNIX_P_H
