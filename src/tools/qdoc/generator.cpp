@@ -6,6 +6,7 @@ DECL|function|appendSortedNames
 DECL|function|appendSortedQmlNames
 DECL|function|augmentImageDirs
 DECL|function|beginSubPage
+DECL|function|cleanRef
 DECL|function|debug
 DECL|function|endSubPage
 DECL|function|fileBase

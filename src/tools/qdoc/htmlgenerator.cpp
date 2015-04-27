@@ -3,7 +3,6 @@ DECL|function|addLink
 DECL|function|anchorForNode
 DECL|function|beginDitamapPage
 DECL|function|beginLink
-DECL|function|cleanRef
 DECL|function|endDitamapPage
 DECL|function|endLink
 DECL|function|fileBase

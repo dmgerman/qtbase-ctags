@@ -1,4 +1,7 @@
 DECL|class|tst_QLockFile
+DECL|enumerator|ElevatedProcess
+DECL|enumerator|VirtualStore
+DECL|enum|ProcessProperty
 DECL|function|initTestCase
 DECL|function|lockFromThread
 DECL|function|lockFromThread
@@ -6,6 +9,8 @@ DECL|function|lockOutOtherProcess
 DECL|function|lockOutOtherThread
 DECL|function|lockUnlock
 DECL|function|noPermissions
+DECL|function|noPermissionsWindows
+DECL|function|processProperties
 DECL|function|raceWithOtherThread
 DECL|function|staleLockFromCrashedProcess
 DECL|function|staleLockFromCrashedProcess_data
