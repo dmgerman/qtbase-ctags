@@ -8,6 +8,7 @@ DECL|function|defaultInputSlot
 DECL|function|defaultOutputBin
 DECL|function|defaultPageSize
 DECL|function|defaultResolution
+DECL|function|format
 DECL|function|id
 DECL|function|isDefault
 DECL|function|isRemote
@@ -18,6 +19,7 @@ DECL|function|makeAndModel
 DECL|function|maximumPhysicalPageSize
 DECL|function|minimumPhysicalPageSize
 DECL|function|name
+DECL|function|operator <<
 DECL|function|operator =
 DECL|function|operator ==
 DECL|function|printableMargins

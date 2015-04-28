@@ -19,6 +19,7 @@ DECL|function|location
 DECL|function|makeAndModel
 DECL|function|maximumPhysicalPageSize
 DECL|function|minimumPhysicalPageSize
+DECL|function|operator <<
 DECL|function|operator =
 DECL|function|printerInfo
 DECL|function|printerName
