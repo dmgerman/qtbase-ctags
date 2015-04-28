@@ -51,6 +51,7 @@ DECL|function|qVerify
 DECL|function|qWarn
 DECL|function|qtest_qParseArgs
 DECL|function|set
+DECL|function|setMainSourcePath
 DECL|function|signal
 DECL|function|testObject
 DECL|function|toHexRepresentation
@@ -70,6 +71,7 @@ DECL|member|eventDelay
 DECL|member|function_
 DECL|member|handledSignals
 DECL|member|keyDelay
+DECL|member|mainSourcePath
 DECL|member|mouseDelay
 DECL|member|noCrashHandler
 DECL|member|printAvailableFunctions
