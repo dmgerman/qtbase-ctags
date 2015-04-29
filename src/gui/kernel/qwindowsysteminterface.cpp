@@ -78,6 +78,7 @@ DECL|function|tryHandleShortcutOverrideEvent
 DECL|function|windowSystemEventsQueued
 DECL|function|windowSystemEventsQueued
 DECL|function|~QWindowSystemEventHandler
+DECL|member|eventAccepted
 DECL|member|eventHandler
 DECL|member|eventTime
 DECL|member|eventsFlushed
