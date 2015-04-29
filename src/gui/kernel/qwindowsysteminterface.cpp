@@ -58,6 +58,7 @@ DECL|function|handleWindowSystemEvent
 DECL|function|installWindowSystemEventHandler
 DECL|function|operator <<
 DECL|function|peekWindowSystemEvent
+DECL|function|postWindowSystemEvent
 DECL|function|qt_handleKeyEvent
 DECL|function|qt_handleMouseEvent
 DECL|function|qt_handleTouchEvent
