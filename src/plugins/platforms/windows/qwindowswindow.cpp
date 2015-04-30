@@ -33,7 +33,7 @@ DECL|function|fixTopLevelWindowFlags
 DECL|function|frame
 DECL|function|frameGeometry
 DECL|function|frameGeometry_sys
-DECL|function|frameMarginsDp
+DECL|function|frameMargins
 DECL|function|fromWindow
 DECL|function|geometry_sys
 DECL|function|getDC
@@ -58,10 +58,10 @@ DECL|function|isEnabled
 DECL|function|isFullScreen_sys
 DECL|function|isVisible
 DECL|function|lower
-DECL|function|mapFromGlobalDp
-DECL|function|mapToGlobalDp
+DECL|function|mapFromGlobal
+DECL|function|mapToGlobal
 DECL|function|normalFrameGeometry
-DECL|function|normalGeometryDp
+DECL|function|normalGeometry
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator <<
@@ -82,7 +82,7 @@ DECL|function|setDropSiteEnabled
 DECL|function|setEnabled
 DECL|function|setExStyle
 DECL|function|setFrameStrutEventsEnabled
-DECL|function|setGeometryDp
+DECL|function|setGeometry
 DECL|function|setGeometry_sys
 DECL|function|setKeyboardGrabEnabled
 DECL|function|setMask
