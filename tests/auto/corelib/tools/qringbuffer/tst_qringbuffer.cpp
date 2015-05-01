@@ -10,6 +10,7 @@ DECL|function|readPointerAtPositionReadTooMuch
 DECL|function|readPointerAtPositionWithHead
 DECL|function|readPointerAtPositionWriteRead
 DECL|function|reserveAndRead
+DECL|function|reserveFrontAndRead
 DECL|function|sizeWhenEmpty
 DECL|function|sizeWhenReserved
 DECL|function|sizeWhenReservedAndChopped
