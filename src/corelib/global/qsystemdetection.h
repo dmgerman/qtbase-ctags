@@ -67,6 +67,9 @@ DECL|macro|__IPHONE_6_1
 DECL|macro|__IPHONE_7_0
 DECL|macro|__IPHONE_7_1
 DECL|macro|__IPHONE_8_0
+DECL|macro|__IPHONE_8_1
+DECL|macro|__IPHONE_8_2
+DECL|macro|__IPHONE_8_3
 DECL|macro|__MAC_10_10
 DECL|macro|__MAC_10_7
 DECL|macro|__MAC_10_8
