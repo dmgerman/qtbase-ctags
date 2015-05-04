@@ -25,8 +25,6 @@ DECL|function|deepCopyWhenPaintingActive
 DECL|function|destructor
 DECL|function|dotsPerMeterAndDpi
 DECL|function|dotsPerMeterZero
-DECL|function|exifOrientation
-DECL|function|exifOrientation_data
 DECL|function|fillColor
 DECL|function|fillColorWithAlpha
 DECL|function|fillColor_data

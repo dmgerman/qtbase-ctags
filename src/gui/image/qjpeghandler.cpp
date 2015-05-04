@@ -5,12 +5,10 @@ DECL|enumerator|Ready
 DECL|enum|State
 DECL|function|QJpegHandler
 DECL|function|QJpegHandlerPrivate
-DECL|function|applyExifOrientation
 DECL|function|canRead
 DECL|function|canRead
 DECL|function|convert_rgb888_to_rgb32_C
 DECL|function|ensureValidImage
-DECL|function|getExifOrientation
 DECL|function|my_error_exit
 DECL|function|my_jpeg_destination_mgr
 DECL|function|my_jpeg_source_mgr
@@ -26,7 +24,6 @@ DECL|function|qt_term_destination
 DECL|function|qt_term_source
 DECL|function|read
 DECL|function|read
-DECL|function|readExifHeader
 DECL|function|readJpegHeader
 DECL|function|read_jpeg_format
 DECL|function|read_jpeg_image
@@ -51,7 +48,6 @@ DECL|member|description
 DECL|member|device
 DECL|member|device
 DECL|member|err
-DECL|member|exifOrientation
 DECL|member|format
 DECL|member|info
 DECL|member|iod_src

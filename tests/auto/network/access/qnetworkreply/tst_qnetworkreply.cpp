@@ -13,6 +13,8 @@ DECL|class|MyMemoryCache
 DECL|class|MyProxyFactory
 DECL|class|MySpyMemoryCache
 DECL|class|ProxyChangeHelper
+DECL|class|PutWithServerClosingConnectionImmediatelyHandler
+DECL|class|PutWithServerClosingConnectionImmediatelyServer
 DECL|class|QtBug13431Helper
 DECL|class|QtBug27161Helper
 DECL|class|RateControlledReader
@@ -44,6 +46,8 @@ DECL|function|MyProxyFactory
 DECL|function|MySpyMemoryCache
 DECL|function|ProxyChangeHelper
 DECL|function|ProxyData
+DECL|function|PutWithServerClosingConnectionImmediatelyHandler
+DECL|function|PutWithServerClosingConnectionImmediatelyServer
 DECL|function|QtBug27161Helper
 DECL|function|RateControlledReader
 DECL|function|RateLimitedUploadDevice
@@ -80,6 +84,7 @@ DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|clear
 DECL|function|clear
+DECL|function|closeDelayed
 DECL|function|closeDuringDownload
 DECL|function|closeDuringDownload_data
 DECL|function|compressedHttpReplyBrokenGzip
@@ -89,12 +94,14 @@ DECL|function|connectSocketSignals
 DECL|function|connectToIPv6Address
 DECL|function|connectToIPv6Address_data
 DECL|function|create
+DECL|function|createHandlerForConnection
 DECL|function|createUniqueExtension
 DECL|function|data
 DECL|function|data
 DECL|function|deleteFromHttp
 DECL|function|deleteFromHttp_data
 DECL|function|deviceReady
+DECL|function|disconnectedSlot
 DECL|function|doRead
 DECL|function|doRead
 DECL|function|dontInsertPartialContentIntoTheCache
@@ -156,6 +163,8 @@ DECL|function|ignoreSslErrorsList_data
 DECL|function|incomingConnection
 DECL|function|incomingConnection
 DECL|function|incomingConnection
+DECL|function|increaseCorrect
+DECL|function|increaseCorrupt
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|insert
@@ -273,6 +282,7 @@ DECL|function|putToHttpsSynchronous
 DECL|function|putToHttpsSynchronous_data
 DECL|function|putToHttps_data
 DECL|function|putWithRateLimiting
+DECL|function|putWithServerClosingConnectionImmediately
 DECL|function|qtbug12908compressedHttpReply
 DECL|function|qtbug13431replyThrottling
 DECL|function|qtbug15311doubleContentLength
@@ -292,6 +302,7 @@ DECL|function|readyReadSlot
 DECL|function|readyReadSlot
 DECL|function|readyReadSlot
 DECL|function|readyReadSlot
+DECL|function|readyReadSlot
 DECL|function|receiveCookiesFromHttp
 DECL|function|receiveCookiesFromHttpSynchronous
 DECL|function|receiveCookiesFromHttpSynchronous_data
@@ -299,6 +310,7 @@ DECL|function|receiveCookiesFromHttp_data
 DECL|function|remove
 DECL|function|remove
 DECL|function|reply
+DECL|function|replyFinished
 DECL|function|replyFinished
 DECL|function|run
 DECL|function|runCustomRequest
@@ -398,11 +410,21 @@ DECL|member|loop
 DECL|member|mReply
 DECL|member|m_Timer
 DECL|member|m_buffers
+DECL|member|m_correctUploads
+DECL|member|m_corruptUploads
 DECL|member|m_data
 DECL|member|m_dlTimer
+DECL|member|m_expectedData
+DECL|member|m_expectedData
+DECL|member|m_expectedReplies
 DECL|member|m_insertedUrls
+DECL|member|m_parsedHeaders
+DECL|member|m_receivedData
+DECL|member|m_repliesFinished
 DECL|member|m_reply
 DECL|member|m_server
+DECL|member|m_socket
+DECL|member|m_ssl
 DECL|member|manager
 DECL|member|manager
 DECL|member|manager

@@ -21,6 +21,9 @@ DECL|function|createShared
 DECL|function|createShared
 DECL|function|disableReset
 DECL|function|isSequential
+DECL|function|pos
+DECL|function|pos
+DECL|function|pos
 DECL|function|readData
 DECL|function|readPointer
 DECL|function|readPointer
