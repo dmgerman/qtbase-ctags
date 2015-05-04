@@ -8,6 +8,8 @@ DECL|function|QJpegHandlerPrivate
 DECL|function|canRead
 DECL|function|canRead
 DECL|function|ensureValidImage
+DECL|function|exif2Qt
+DECL|function|getExifOrientation
 DECL|function|my_error_exit
 DECL|function|my_jpeg_destination_mgr
 DECL|function|my_jpeg_source_mgr
@@ -23,6 +25,7 @@ DECL|function|qt_term_destination
 DECL|function|qt_term_source
 DECL|function|read
 DECL|function|read
+DECL|function|readExifHeader
 DECL|function|readJpegHeader
 DECL|function|read_jpeg_format
 DECL|function|read_jpeg_image
@@ -62,6 +65,7 @@ DECL|member|scaledSize
 DECL|member|setjmp_buffer
 DECL|member|size
 DECL|member|state
+DECL|member|transformation
 DECL|struct|my_error_mgr
 DECL|struct|my_jpeg_destination_mgr
 DECL|struct|my_jpeg_source_mgr

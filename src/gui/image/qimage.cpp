@@ -75,6 +75,7 @@ DECL|function|paintEngine
 DECL|function|pixel
 DECL|function|pixelIndex
 DECL|function|pixel_distance
+DECL|function|qt_imageTransform
 DECL|function|qt_xForm_helper
 DECL|function|rect
 DECL|function|rgbSwapped_generic
