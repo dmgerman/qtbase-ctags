@@ -6,4 +6,5 @@ DECL|function|fontsAlwaysScalable
 DECL|function|populateFamily
 DECL|function|populateFontDatabase
 DECL|function|releaseHandle
+DECL|function|writingSystemFromUnicodeRange
 DECL|function|~QWinRTFontDatabase
