@@ -36,13 +36,16 @@ DECL|function|fillPixel_data
 DECL|function|fillRGB888
 DECL|function|formatHandlersInput
 DECL|function|formatHandlersInput_data
+DECL|function|formatToString
+DECL|function|genericRgbConversion
+DECL|function|genericRgbConversion_data
 DECL|function|initTestCase
-DECL|function|inplaceConversion
-DECL|function|inplaceConversion_data
 DECL|function|inplaceMirrored
 DECL|function|inplaceMirroredOdd
 DECL|function|inplaceMirroredOdd_data
 DECL|function|inplaceMirrored_data
+DECL|function|inplaceRgbConversion
+DECL|function|inplaceRgbConversion_data
 DECL|function|inplaceRgbMirrored
 DECL|function|inplaceRgbSwapped
 DECL|function|inplaceRgbSwapped_data
@@ -51,6 +54,7 @@ DECL|function|invertPixelsRGB_data
 DECL|function|load
 DECL|function|loadFromData
 DECL|function|loadFromDataStream
+DECL|function|metadataPassthrough
 DECL|function|mirrored
 DECL|function|mirrored_data
 DECL|function|nullSize
@@ -60,6 +64,7 @@ DECL|function|pointOverloads
 DECL|function|premultipliedAlphaConsistency
 DECL|function|rand8
 DECL|function|rasterClipping
+DECL|function|rgb30Unpremul
 DECL|function|rgbSwapped
 DECL|function|rgbSwapped_data
 DECL|function|rotate

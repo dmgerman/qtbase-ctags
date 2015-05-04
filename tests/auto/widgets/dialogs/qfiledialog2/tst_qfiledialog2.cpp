@@ -13,6 +13,7 @@ DECL|function|QTBUG4419_lineEditSelectAll
 DECL|function|QTBUG4842_selectFilterWithHideNameFilterDetails
 DECL|function|QTBUG6558_showDirsOnly
 DECL|function|cleanup
+DECL|function|cleanupSettingsFile
 DECL|function|close
 DECL|function|completionOnLevelAfterRoot
 DECL|function|deleteDirAndFiles
@@ -22,6 +23,7 @@ DECL|function|filter
 DECL|function|filterAcceptsRow
 DECL|function|heapCorruption
 DECL|function|init
+DECL|function|initTestCase
 DECL|function|lessThan
 DECL|function|listRoot
 DECL|function|openContextMenu
@@ -53,7 +55,6 @@ DECL|function|~FilterDirModel
 DECL|function|~tst_QFileDialog2
 DECL|member|m_root
 DECL|member|tempDir
-DECL|member|userSettings
 DECL|member|w
 DECL|struct|FriendlyQFileDialog
 DECL|struct|MenuCloser
