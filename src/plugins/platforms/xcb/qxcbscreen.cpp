@@ -23,6 +23,7 @@ DECL|function|topLevelAt
 DECL|function|updateGeometry
 DECL|function|updateGeometry
 DECL|function|updateRefreshRate
+DECL|function|virtualDpi
 DECL|function|visualForId
 DECL|function|windowShown
 DECL|function|xResource

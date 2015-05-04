@@ -8,6 +8,8 @@ DECL|function|QNonNativeFileDialog
 DECL|function|acceptMode
 DECL|function|args
 DECL|function|caption
+DECL|function|cleanup
+DECL|function|cleanupSettingsFile
 DECL|function|clearLineEdit
 DECL|function|completer
 DECL|function|completer_data
@@ -60,4 +62,3 @@ DECL|function|tst_QFiledialog
 DECL|function|viewMode
 DECL|function|widgetlessNativeDialog
 DECL|function|~tst_QFiledialog
-DECL|member|userSettings
