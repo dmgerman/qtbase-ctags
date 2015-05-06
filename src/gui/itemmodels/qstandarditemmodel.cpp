@@ -88,6 +88,7 @@ DECL|function|rowsAboutToBeInserted
 DECL|function|rowsAboutToBeRemoved
 DECL|function|rowsInserted
 DECL|function|rowsRemoved
+DECL|function|setAutoTristate
 DECL|function|setCheckable
 DECL|function|setChild
 DECL|function|setChild
@@ -114,6 +115,7 @@ DECL|function|setRowCount
 DECL|function|setSelectable
 DECL|function|setSortRole
 DECL|function|setTristate
+DECL|function|setUserTristate
 DECL|function|setVerticalHeaderItem
 DECL|function|setVerticalHeaderLabels
 DECL|function|sibling
