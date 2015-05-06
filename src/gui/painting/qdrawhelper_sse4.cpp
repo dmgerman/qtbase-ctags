@@ -1,3 +1,4 @@
+DECL|function|convertA2RGB30PMFromARGB32PM_sse4
 DECL|function|convertARGB32FromARGB32PM_sse4
 DECL|function|convertARGB32ToARGB32PM_sse4
 DECL|function|convertRGBA8888FromARGB32PM_sse4

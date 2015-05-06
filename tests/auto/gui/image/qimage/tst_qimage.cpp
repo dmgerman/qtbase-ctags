@@ -65,6 +65,8 @@ DECL|function|pointOverloads
 DECL|function|premultipliedAlphaConsistency
 DECL|function|rand8
 DECL|function|rasterClipping
+DECL|function|rgb30Repremul
+DECL|function|rgb30Repremul_data
 DECL|function|rgb30Unpremul
 DECL|function|rgbSwapped
 DECL|function|rgbSwapped_data
