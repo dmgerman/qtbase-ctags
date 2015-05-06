@@ -39,6 +39,7 @@ DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|clearButton
+DECL|function|clearButtonVisibleAfterSettingText_QTBUG_45518
 DECL|function|clearInputMask
 DECL|function|cursor
 DECL|function|cursorPosition
