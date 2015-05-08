@@ -2,7 +2,6 @@ DECL|class|DocParser
 DECL|class|DocPrivate
 DECL|class|DocPrivateExtra
 DECL|enumerator|CMD_A
-DECL|enumerator|CMD_ABSTRACT
 DECL|enumerator|CMD_ANNOTATEDLIST
 DECL|enumerator|CMD_B
 DECL|enumerator|CMD_BADCODE
@@ -20,7 +19,6 @@ DECL|enumerator|CMD_DIV
 DECL|enumerator|CMD_DOTS
 DECL|enumerator|CMD_E
 DECL|enumerator|CMD_ELSE
-DECL|enumerator|CMD_ENDABSTRACT
 DECL|enumerator|CMD_ENDCHAPTER
 DECL|enumerator|CMD_ENDCODE
 DECL|enumerator|CMD_ENDCPP

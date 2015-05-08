@@ -10,6 +10,7 @@ DECL|function|sourceFileNameFilter
 DECL|function|terminateParser
 DECL|function|topicCommands
 DECL|function|~QmlCodeParser
+DECL|macro|COMMAND_ABSTRACT
 DECL|macro|COMMAND_DEPRECATED
 DECL|macro|COMMAND_INGROUP
 DECL|macro|COMMAND_INJSMODULE

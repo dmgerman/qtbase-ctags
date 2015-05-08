@@ -31,6 +31,7 @@ DECL|function|visit
 DECL|function|visit
 DECL|function|visit
 DECL|function|~QmlDocVisitor
+DECL|macro|COMMAND_ABSTRACT
 DECL|macro|COMMAND_DEPRECATED
 DECL|macro|COMMAND_INGROUP
 DECL|macro|COMMAND_INJSMODULE
