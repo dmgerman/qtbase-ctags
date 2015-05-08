@@ -1,3 +1,4 @@
+DECL|class|ObjectDeleter
 DECL|class|tst_QDialogButtonBox
 DECL|function|acceptClicked
 DECL|function|addButton1
@@ -11,6 +12,8 @@ DECL|function|buttonRole
 DECL|function|buttonRole_data
 DECL|function|clear
 DECL|function|clear_data
+DECL|function|deleteButton
+DECL|function|deleteSender
 DECL|function|helpRequestedClicked
 DECL|function|layoutReuse
 DECL|function|rejectClicked
@@ -34,6 +37,7 @@ DECL|function|testDefaultButton_data
 DECL|function|testDelete
 DECL|function|testMultipleAdd
 DECL|function|testRemove
+DECL|function|testSignalEmissionAfterDelete_QTBUG_45835
 DECL|function|testSignalOrder
 DECL|function|testSignals
 DECL|function|testSignals_data
