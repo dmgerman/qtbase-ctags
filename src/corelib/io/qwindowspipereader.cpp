@@ -2,7 +2,6 @@ DECL|function|QWindowsPipeReader
 DECL|function|bytesAvailable
 DECL|function|canReadLine
 DECL|function|checkPipeState
-DECL|function|completeAsyncRead
 DECL|function|notified
 DECL|function|qt_cancelIo
 DECL|function|read

@@ -2,6 +2,7 @@ DECL|class|tst_QLockFile
 DECL|enumerator|ElevatedProcess
 DECL|enumerator|VirtualStore
 DECL|enum|ProcessProperty
+DECL|function|corruptedLockFile
 DECL|function|initTestCase
 DECL|function|lockFromThread
 DECL|function|lockFromThread
