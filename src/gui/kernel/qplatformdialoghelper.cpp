@@ -82,6 +82,7 @@ DECL|function|setOptions
 DECL|function|setSidebarUrls
 DECL|function|setStandardButtons
 DECL|function|setStandardColor
+DECL|function|setSupportedSchemes
 DECL|function|setText
 DECL|function|setViewMode
 DECL|function|setWindowTitle
@@ -93,6 +94,7 @@ DECL|function|standardButtons
 DECL|function|standardColor
 DECL|function|standardColors
 DECL|function|styleHint
+DECL|function|supportedSchemes
 DECL|function|testOption
 DECL|function|testOption
 DECL|function|testOption
@@ -132,6 +134,7 @@ DECL|member|options
 DECL|member|options
 DECL|member|sidebarUrls
 DECL|member|standardRgb
+DECL|member|supportedSchemes
 DECL|member|text
 DECL|member|viewMode
 DECL|member|windowTitle

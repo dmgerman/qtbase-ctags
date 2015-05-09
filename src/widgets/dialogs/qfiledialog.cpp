@@ -135,6 +135,7 @@ DECL|function|setReadOnly
 DECL|function|setResolveSymlinks
 DECL|function|setRootIndex
 DECL|function|setSidebarUrls
+DECL|function|setSupportedSchemes
 DECL|function|setViewMode
 DECL|function|setVisible
 DECL|function|showPopup
@@ -142,6 +143,7 @@ DECL|function|sidebarUrls
 DECL|function|sizeHint
 DECL|function|sizeHint
 DECL|function|splitPath
+DECL|function|supportedSchemes
 DECL|function|testOption
 DECL|function|typedFiles
 DECL|function|updateCancelButtonText
