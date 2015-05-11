@@ -4,13 +4,17 @@ DECL|function|QOpenGLWindow
 DECL|function|QOpenGLWindow
 DECL|function|QOpenGLWindowPaintDevice
 DECL|function|QOpenGLWindowPrivate
+DECL|function|beginPaint
 DECL|function|bindFBO
 DECL|function|context
 DECL|function|defaultFramebufferObject
 DECL|function|doneCurrent
+DECL|function|endPaint
 DECL|function|ensureActiveTarget
+DECL|function|flush
 DECL|function|get
 DECL|function|grabFramebuffer
+DECL|function|initialize
 DECL|function|initializeGL
 DECL|function|isValid
 DECL|function|makeCurrent
@@ -28,6 +32,9 @@ DECL|function|~QOpenGLWindow
 DECL|function|~QOpenGLWindowPrivate
 DECL|macro|GL_DRAW_FRAMEBUFFER
 DECL|macro|GL_READ_FRAMEBUFFER
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|backgroundColor
 DECL|member|blitter
