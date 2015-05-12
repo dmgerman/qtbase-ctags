@@ -22,6 +22,3 @@ DECL|macro|B_VAL
 DECL|macro|G_VAL
 DECL|macro|R_VAL
 DECL|namespace|QImageScale
-DECL|typedef|qt_qimageScaleFunc
-DECL|variable|qt_qimageScaleArgb
-DECL|variable|qt_qimageScaleRgb
