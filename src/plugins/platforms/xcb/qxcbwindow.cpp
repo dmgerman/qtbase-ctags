@@ -133,6 +133,7 @@ DECL|function|show
 DECL|function|startSystemResize
 DECL|function|systemTrayWindowGlobalGeometry
 DECL|function|systemTrayWindowGlobalGeometryStatic
+DECL|function|testShowWithoutActivating
 DECL|function|tlWindow
 DECL|function|toWindow
 DECL|function|updateDoesNotAcceptFocus
