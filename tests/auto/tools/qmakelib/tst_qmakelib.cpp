@@ -1,3 +1,6 @@
+DECL|function|cleanupTestCase
+DECL|function|doPrint
+DECL|function|initTestCase
 DECL|function|pathUtils
 DECL|function|print
 DECL|function|proString

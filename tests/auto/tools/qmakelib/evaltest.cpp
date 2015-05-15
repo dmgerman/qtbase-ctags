@@ -1,0 +1,10 @@
+DECL|function|addAssignments
+DECL|function|addControlStructs
+DECL|function|addExpansions
+DECL|function|addReplaceFunctions
+DECL|function|addTestFunctions
+DECL|function|compareState
+DECL|function|formatValue
+DECL|function|proEval
+DECL|function|proEval_data
+DECL|function|skipNoise
