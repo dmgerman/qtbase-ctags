@@ -1,5 +1,12 @@
 DECL|class|TokenStream
 DECL|function|TokenStream
+DECL|function|addParseAbuse
+DECL|function|addParseBraces
+DECL|function|addParseConditions
+DECL|function|addParseControlStatements
+DECL|function|addParseCustomFunctions
+DECL|function|addParseOperators
+DECL|function|addParseValues
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator <<
