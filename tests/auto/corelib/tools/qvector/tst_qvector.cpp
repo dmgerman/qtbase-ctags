@@ -37,6 +37,8 @@ DECL|function|clearCustom
 DECL|function|clearInt
 DECL|function|clearMovable
 DECL|function|constData
+DECL|function|constFirst
+DECL|function|constLast
 DECL|function|const_shared_null
 DECL|function|constructors_empty
 DECL|function|constructors_emptyReserve
