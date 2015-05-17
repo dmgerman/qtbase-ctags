@@ -52,6 +52,7 @@ DECL|function|toULongLong
 DECL|function|toULong_data
 DECL|function|toUShort
 DECL|function|trimmed
+DECL|function|truncate
 DECL|macro|CREATE_REF
 DECL|macro|INFINITY
 DECL|macro|INFINITY
