@@ -1,0 +1,5 @@
+DECL|macro|GLWIDGET_H
+DECL|variable|QOpenGLBuffer
+DECL|variable|QOpenGLShaderProgram
+DECL|variable|QOpenGLTexture
+DECL|variable|QOpenGLVertexArrayObject

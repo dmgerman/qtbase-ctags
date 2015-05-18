@@ -22,6 +22,7 @@ DECL|function|deleteQGLContext
 DECL|function|destroy
 DECL|function|doneCurrent
 DECL|function|extensions
+DECL|function|extraFunctions
 DECL|function|format
 DECL|function|free
 DECL|function|freeResource
