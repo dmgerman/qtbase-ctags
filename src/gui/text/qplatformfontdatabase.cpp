@@ -22,7 +22,6 @@ DECL|function|QWritingSystemsPrivate
 DECL|function|addApplicationFont
 DECL|function|defaultFont
 DECL|function|detach
-DECL|function|fallbacksForFamily
 DECL|function|fontDir
 DECL|function|fontEngine
 DECL|function|fontEngine
