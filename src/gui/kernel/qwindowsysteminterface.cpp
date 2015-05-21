@@ -68,8 +68,6 @@ DECL|function|removeWindowSystemEventhandler
 DECL|function|sendEvent
 DECL|function|sendWindowSystemEvents
 DECL|function|setSynchronousWindowSystemEvents
-DECL|function|touchPoint
-DECL|function|touchPointList
 DECL|function|tryHandleExtendedShortcutEvent
 DECL|function|tryHandleExtendedShortcutEvent
 DECL|function|tryHandleShortcutEvent
