@@ -15,6 +15,7 @@ DECL|function|clear
 DECL|function|constructor_helper
 DECL|function|createShadingFunction
 DECL|function|cubicToHook
+DECL|function|drawHyperlink
 DECL|function|drawImage
 DECL|function|drawLines
 DECL|function|drawPath
