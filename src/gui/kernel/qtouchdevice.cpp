@@ -5,6 +5,7 @@ DECL|function|devices
 DECL|function|isRegistered
 DECL|function|maximumTouchPoints
 DECL|function|name
+DECL|function|operator <<
 DECL|function|registerDevice
 DECL|function|setCapabilities
 DECL|function|setMaximumTouchPoints

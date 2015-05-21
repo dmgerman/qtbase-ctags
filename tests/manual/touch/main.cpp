@@ -8,7 +8,6 @@ DECL|function|appendToLog
 DECL|function|dumpTouchDevices
 DECL|function|eventFilter
 DECL|function|main
-DECL|function|operator <<
 DECL|function|touchWidget
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|m_logTextEdit
