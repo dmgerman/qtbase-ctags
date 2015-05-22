@@ -249,6 +249,7 @@ DECL|typedef|uchar
 DECL|typedef|uint
 DECL|typedef|ulong
 DECL|typedef|ushort
+DECL|variable|NSAutoreleasePool
 DECL|variable|QByteArray
 DECL|variable|QDataStream
 DECL|variable|QStaticAssertFailure

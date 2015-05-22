@@ -1,2 +1,0 @@
-DECL|macro|QCOCOAAUTORELEASEPOOL_H
-DECL|macro|slots
