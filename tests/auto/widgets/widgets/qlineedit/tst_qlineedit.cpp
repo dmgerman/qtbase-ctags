@@ -126,7 +126,9 @@ DECL|function|setValidator_QIntValidator
 DECL|function|setValidator_QIntValidator_data
 DECL|function|shouldShowPlaceholderText
 DECL|function|shouldShowPlaceholderText_data
+DECL|function|sideWidgetTestIcon
 DECL|function|sideWidgets
+DECL|function|sideWidgetsActionEvents
 DECL|function|task174640_editingFinished
 DECL|function|task180999_Widget
 DECL|function|task180999_focus
