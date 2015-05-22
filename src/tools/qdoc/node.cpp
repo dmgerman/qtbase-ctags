@@ -83,8 +83,6 @@ DECL|function|nodeTypeString
 DECL|function|nodeTypeString
 DECL|function|normalizeOverloads
 DECL|function|operator =
-DECL|function|overloadNumber
-DECL|function|overloadNumber
 DECL|function|overloads
 DECL|function|pageTypeString
 DECL|function|pageTypeString
@@ -116,8 +114,6 @@ DECL|function|setLocation
 DECL|function|setLogicalModuleInfo
 DECL|function|setLogicalModuleInfo
 DECL|function|setOutputSubdirectory
-DECL|function|setOverload
-DECL|function|setOverload
 DECL|function|setOverriddenFrom
 DECL|function|setPageType
 DECL|function|setReimplemented
