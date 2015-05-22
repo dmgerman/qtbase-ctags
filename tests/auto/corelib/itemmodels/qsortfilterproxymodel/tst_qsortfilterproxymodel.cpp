@@ -46,6 +46,7 @@ DECL|function|changeSourceDataForwardsRoles_qtbug35440
 DECL|function|changeSourceDataKeepsStableSorting_qtbug1548
 DECL|function|changeSourceData_data
 DECL|function|changeSourceLayout
+DECL|function|changeSourceLayoutFilteredOut
 DECL|function|checkHierarchy
 DECL|function|checkSortedTableModel
 DECL|function|cleanup

@@ -46,6 +46,7 @@ DECL|function|filterChanged
 DECL|function|filterKeyColumn
 DECL|function|filterRegExp
 DECL|function|filterRole
+DECL|function|filter_about_to_be_changed
 DECL|function|filter_changed
 DECL|function|flags
 DECL|function|handle_filter_changed
