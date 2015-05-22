@@ -158,7 +158,6 @@ DECL|function|resize
 DECL|function|resize_data
 DECL|function|respectHFW
 DECL|function|sceneEvent
-DECL|function|sendMouseMove
 DECL|function|setAttribute
 DECL|function|setAttribute_data
 DECL|function|setSizeHint
