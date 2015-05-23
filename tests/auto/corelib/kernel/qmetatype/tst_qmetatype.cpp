@@ -5,6 +5,7 @@ DECL|class|CustomMultiInheritanceObject
 DECL|class|CustomNonQObject
 DECL|class|CustomObject
 DECL|class|CustomQObject
+DECL|class|GadgetDerived
 DECL|class|IsRegisteredDummyType
 DECL|class|M
 DECL|class|MetaTypeTorturer
