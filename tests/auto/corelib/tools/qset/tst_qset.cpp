@@ -10,6 +10,7 @@ DECL|function|detach
 DECL|function|end
 DECL|function|initializerList
 DECL|function|insert
+DECL|function|intersects
 DECL|function|isDetached
 DECL|function|javaIterator
 DECL|function|javaMutableIterator
