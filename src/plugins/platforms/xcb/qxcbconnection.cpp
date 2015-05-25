@@ -10,6 +10,7 @@ DECL|function|atomName
 DECL|function|checkEvent
 DECL|function|checkEvent
 DECL|function|checkOutputIsPrimary
+DECL|function|clientLeader
 DECL|function|createScreen
 DECL|function|createVisualInfoForDefaultVisualId
 DECL|function|event
