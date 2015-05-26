@@ -29,6 +29,7 @@ DECL|function|zScale
 DECL|function|~QGraphicsRotation
 DECL|function|~QGraphicsScale
 DECL|function|~QGraphicsTransform
+DECL|function|~QGraphicsTransformPrivate
 DECL|member|angle
 DECL|member|axis
 DECL|member|origin
