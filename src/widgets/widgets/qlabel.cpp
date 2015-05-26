@@ -1,5 +1,6 @@
 DECL|function|QLabel
 DECL|function|QLabel
+DECL|function|QLabelPrivate
 DECL|function|_q_linkHovered
 DECL|function|_q_movieResized
 DECL|function|_q_movieUpdated
