@@ -58,3 +58,4 @@ DECL|function|viewportSizeHint
 DECL|function|wheelEvent
 DECL|function|widgets
 DECL|function|~QAbstractScrollArea
+DECL|function|~QAbstractScrollAreaPrivate

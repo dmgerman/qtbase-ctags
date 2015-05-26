@@ -65,3 +65,4 @@ DECL|function|updateLabel
 DECL|function|updateShortcut
 DECL|function|wordWrap
 DECL|function|~QLabel
+DECL|function|~QLabelPrivate

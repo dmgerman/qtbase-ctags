@@ -69,4 +69,5 @@ DECL|function|updateHandles
 DECL|function|widget
 DECL|function|~QSplitter
 DECL|function|~QSplitterHandle
+DECL|function|~QSplitterPrivate
 DECL|variable|SplitterMagic

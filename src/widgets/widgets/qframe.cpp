@@ -24,3 +24,4 @@ DECL|function|sizeHint
 DECL|function|updateFrameWidth
 DECL|function|updateStyledFrameWidths
 DECL|function|~QFrame
+DECL|function|~QFramePrivate
