@@ -15,6 +15,8 @@ DECL|function|setException
 DECL|function|throwPossibleException
 DECL|function|~Base
 DECL|function|~ExceptionHolder
+DECL|function|~QException
+DECL|function|~QUnhandledException
 DECL|member|exception
 DECL|member|hasThrown
 DECL|namespace|QtPrivate
