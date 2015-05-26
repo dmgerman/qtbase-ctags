@@ -37,6 +37,7 @@ DECL|function|~DrawTextItemDevice
 DECL|function|~QStaticText
 DECL|function|~QStaticTextItem
 DECL|function|~QStaticTextPrivate
+DECL|function|~QStaticTextUserData
 DECL|member|m_currentColor
 DECL|member|m_dirtyPen
 DECL|member|m_glyphs
