@@ -3,7 +3,6 @@ DECL|function|chop
 DECL|function|clear
 DECL|function|free
 DECL|function|indexOf
-DECL|function|indexOf
 DECL|function|peek
 DECL|function|read
 DECL|function|read
