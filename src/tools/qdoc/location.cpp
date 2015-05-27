@@ -7,6 +7,7 @@ DECL|function|emitMessage
 DECL|function|error
 DECL|function|fatal
 DECL|function|fileName
+DECL|function|fileSuffix
 DECL|function|information
 DECL|function|initialize
 DECL|function|internalError

@@ -112,6 +112,7 @@ DECL|function|setAssociatedProperty
 DECL|function|setDoc
 DECL|function|setIncludes
 DECL|function|setLink
+DECL|function|setLocation
 DECL|function|setLogicalModuleInfo
 DECL|function|setLogicalModuleInfo
 DECL|function|setOutputSubdirectory
