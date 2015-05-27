@@ -59,6 +59,7 @@ DECL|member|description
 DECL|member|dev
 DECL|member|disposal
 DECL|member|end_info
+DECL|member|fileGamma
 DECL|member|frames_written
 DECL|member|gamma
 DECL|member|gamma

@@ -33,6 +33,7 @@ DECL|function|error
 DECL|function|errorString
 DECL|function|fileName
 DECL|function|format
+DECL|function|gamma
 DECL|function|getText
 DECL|function|imageCount
 DECL|function|imageFormat
@@ -56,6 +57,7 @@ DECL|function|setDecideFormatFromContent
 DECL|function|setDevice
 DECL|function|setFileName
 DECL|function|setFormat
+DECL|function|setGamma
 DECL|function|setQuality
 DECL|function|setScaledClipRect
 DECL|function|setScaledSize
