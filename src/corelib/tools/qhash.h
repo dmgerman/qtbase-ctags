@@ -15,6 +15,7 @@ DECL|function|erase
 DECL|function|find
 DECL|function|find
 DECL|function|findNode
+DECL|function|findNode
 DECL|function|firstNode
 DECL|function|freeData
 DECL|function|hasShrunk
@@ -42,6 +43,8 @@ DECL|function|values
 DECL|function|values
 DECL|function|willGrow
 DECL|macro|QHASH_H
+DECL|member|Key
+DECL|member|Key
 DECL|member|Key
 DECL|member|Key
 DECL|member|Key
