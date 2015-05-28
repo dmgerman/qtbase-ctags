@@ -21,7 +21,8 @@ DECL|function|drawTitleText
 DECL|function|enterEvent
 DECL|function|eventFilter
 DECL|function|frameSizeDp
-DECL|function|getCaptionFont
+DECL|function|getCaptionLogFont
+DECL|function|getCaptionQFont
 DECL|function|getWindowBottomMargin
 DECL|function|getWindowBottomMargin
 DECL|function|glowSize
