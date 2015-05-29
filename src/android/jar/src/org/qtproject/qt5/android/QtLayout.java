@@ -15,4 +15,5 @@ DECL|method|moveChild
 DECL|method|onLayout
 DECL|method|onMeasure
 DECL|method|onSizeChanged
+DECL|method|setLayoutParams
 DECL|package|org.qtproject.qt5.android
