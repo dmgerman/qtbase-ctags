@@ -147,6 +147,7 @@ DECL|function|~QHideEvent
 DECL|function|~QHoverEvent
 DECL|function|~QIconDragEvent
 DECL|function|~QInputEvent
+DECL|function|~QInputMethodEvent
 DECL|function|~QInputMethodQueryEvent
 DECL|function|~QKeyEvent
 DECL|function|~QMouseEvent

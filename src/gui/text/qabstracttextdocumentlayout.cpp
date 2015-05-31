@@ -15,3 +15,4 @@ DECL|function|setPaintDevice
 DECL|function|unregisterHandler
 DECL|function|~QAbstractTextDocumentLayout
 DECL|function|~QAbstractTextDocumentLayoutPrivate
+DECL|function|~QTextObjectInterface
