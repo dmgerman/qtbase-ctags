@@ -19,4 +19,5 @@ DECL|function|setPaintFlipped
 DECL|function|setSize
 DECL|function|size
 DECL|function|~QOpenGLPaintDevice
+DECL|function|~QOpenGLPaintDevicePrivate
 DECL|member|storage

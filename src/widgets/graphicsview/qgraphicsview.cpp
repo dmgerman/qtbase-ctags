@@ -133,5 +133,6 @@ DECL|function|viewportTransform
 DECL|function|viewportUpdateMode
 DECL|function|wheelEvent
 DECL|function|~QGraphicsView
+DECL|function|~QGraphicsViewPrivate
 DECL|variable|QGRAPHICSVIEW_PREALLOC_STYLE_OPTIONS
 DECL|variable|QGRAPHICSVIEW_REGION_RECT_THRESHOLD

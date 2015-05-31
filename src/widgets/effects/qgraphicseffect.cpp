@@ -55,6 +55,7 @@ DECL|function|~QGraphicsBlurEffect
 DECL|function|~QGraphicsColorizeEffect
 DECL|function|~QGraphicsDropShadowEffect
 DECL|function|~QGraphicsEffect
+DECL|function|~QGraphicsEffectPrivate
 DECL|function|~QGraphicsEffectSource
 DECL|function|~QGraphicsEffectSourcePrivate
 DECL|function|~QGraphicsOpacityEffect

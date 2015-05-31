@@ -116,6 +116,7 @@ DECL|function|supportedDropActions
 DECL|function|typeOfVariant
 DECL|function|variantLessThan
 DECL|function|~QAbstractItemModel
+DECL|function|~QAbstractItemModelPrivate
 DECL|function|~QAbstractListModel
 DECL|function|~QAbstractTableModel
 DECL|function|~QPersistentModelIndex

@@ -33,6 +33,7 @@ DECL|function|systemRect
 DECL|function|text
 DECL|function|width
 DECL|function|~QPaintEngine
+DECL|function|~QPaintEnginePrivate
 DECL|member|x
 DECL|member|x
 DECL|member|y

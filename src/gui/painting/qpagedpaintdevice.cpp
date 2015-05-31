@@ -16,3 +16,4 @@ DECL|function|setPageSize
 DECL|function|setPageSize
 DECL|function|setPageSizeMM
 DECL|function|~QPagedPaintDevice
+DECL|function|~QPagedPaintDevicePrivate

@@ -103,7 +103,9 @@ DECL|function|timerEvent
 DECL|function|userData
 DECL|function|~Connection
 DECL|function|~Connection
+DECL|function|~QAbstractDynamicMetaObject
 DECL|function|~QConnectionSenderSwitcher
+DECL|function|~QDynamicMetaObjectData
 DECL|function|~QMetaCallEvent
 DECL|function|~QObject
 DECL|function|~QObjectData

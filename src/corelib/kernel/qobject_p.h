@@ -7,7 +7,6 @@ DECL|function|metaCall
 DECL|function|objectDestroyed
 DECL|function|resetCurrentSender
 DECL|function|setCurrentSender
-DECL|function|~QDynamicMetaObjectData
 DECL|macro|QOBJECT_P_H
 DECL|member|ownedByQml1
 DECL|member|signal_begin_callback

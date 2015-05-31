@@ -14,3 +14,4 @@ DECL|function|setEventSource
 DECL|function|setEventType
 DECL|function|unregister
 DECL|function|~QEventTransition
+DECL|function|~QEventTransitionPrivate
