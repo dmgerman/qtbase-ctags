@@ -476,6 +476,7 @@ DECL|function|~QAbstractGraphicsShapeItem
 DECL|function|~QGraphicsEllipseItem
 DECL|function|~QGraphicsItem
 DECL|function|~QGraphicsItemGroup
+DECL|function|~QGraphicsItemPrivate
 DECL|function|~QGraphicsLineItem
 DECL|function|~QGraphicsObject
 DECL|function|~QGraphicsPathItem
