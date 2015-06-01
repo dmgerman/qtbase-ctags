@@ -20,11 +20,11 @@ DECL|function|graphicsBuffer
 DECL|function|isLocked
 DECL|function|lock
 DECL|function|scroll
+DECL|function|source
 DECL|function|textureId
 DECL|function|toBottomLeftRect
 DECL|function|toImage
 DECL|function|toTexture
-DECL|function|widget
 DECL|function|window
 DECL|function|~QPlatformBackingStore
 DECL|function|~QPlatformBackingStorePrivate
@@ -35,10 +35,10 @@ DECL|member|flags
 DECL|member|locked
 DECL|member|needsSwizzle
 DECL|member|rect
+DECL|member|source
 DECL|member|textureId
 DECL|member|textureId
 DECL|member|textureSize
 DECL|member|textures
-DECL|member|widget
 DECL|member|window
 DECL|struct|QBackingstoreTextureInfo
