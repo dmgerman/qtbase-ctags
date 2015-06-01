@@ -1,7 +1,6 @@
 DECL|function|MingwMakefileGenerator
 DECL|function|createArObjectScriptFile
 DECL|function|createLdObjectScriptFile
-DECL|function|createRvctObjectScriptFile
 DECL|function|escapeDependencyPath
 DECL|function|findDependencies
 DECL|function|findLibraries
