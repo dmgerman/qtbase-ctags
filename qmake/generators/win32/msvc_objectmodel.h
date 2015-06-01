@@ -12,6 +12,7 @@ DECL|enumerator|NET2008
 DECL|enumerator|NET2010
 DECL|enumerator|NET2012
 DECL|enumerator|NET2013
+DECL|enumerator|NET2015
 DECL|enumerator|NETUnknown
 DECL|enumerator|RcEnglishCaribbean
 DECL|enumerator|_False

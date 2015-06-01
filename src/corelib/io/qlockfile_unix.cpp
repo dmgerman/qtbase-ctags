@@ -2,6 +2,7 @@ DECL|function|checkFcntlWorksAfterFlock
 DECL|function|fcntlWorksAfterFlock
 DECL|function|isApparentlyStale
 DECL|function|localHostName
+DECL|function|processNameByPid
 DECL|function|qt_write_loop
 DECL|function|removeStaleLock
 DECL|function|setNativeLocks

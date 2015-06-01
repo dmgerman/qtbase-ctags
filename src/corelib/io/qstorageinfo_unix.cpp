@@ -48,17 +48,8 @@ DECL|function|~QStorageIterator
 DECL|function|~QStorageIterator
 DECL|function|~QStorageIterator
 DECL|function|~QStorageIterator
-DECL|macro|QT_STATFS
-DECL|macro|QT_STATFS
-DECL|macro|QT_STATFS
-DECL|macro|QT_STATFS
-DECL|macro|QT_STATFS
-DECL|macro|QT_STATFSBUF
-DECL|macro|QT_STATFSBUF
-DECL|macro|QT_STATFSBUF
-DECL|macro|QT_STATFSBUF
-DECL|macro|QT_STATFSBUF
 DECL|macro|ST_RDONLY
+DECL|macro|_STATFS_F_FLAGS
 DECL|member|buffer
 DECL|member|currentIndex
 DECL|member|entryCount
@@ -74,7 +65,6 @@ DECL|member|m_rootPath
 DECL|member|m_volumeRoster
 DECL|member|mnt
 DECL|member|mnt
-DECL|member|stat_buf
 DECL|member|stat_buf
 DECL|variable|bufferSize
 DECL|variable|pathMounted

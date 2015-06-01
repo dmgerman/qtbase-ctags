@@ -3,6 +3,7 @@ DECL|class|EvilModel
 DECL|class|Model_11466
 DECL|class|Node
 DECL|class|QtTestModel
+DECL|class|Qtbug45697TestWidget
 DECL|class|RepaintTreeView
 DECL|class|TestDelegate
 DECL|class|TestTreeViewStyle
@@ -27,6 +28,7 @@ DECL|function|Model_11466
 DECL|function|Node
 DECL|function|QtTestModel
 DECL|function|QtTestModel
+DECL|function|Qtbug45697TestWidget
 DECL|function|RepaintTreeView
 DECL|function|TestDelegate
 DECL|function|TestTreeViewStyle
@@ -160,6 +162,7 @@ DECL|function|setSortingEnabled
 DECL|function|sizeHint
 DECL|function|sizeHintForColumn
 DECL|function|slotCurrentChanged
+DECL|function|slotTimer
 DECL|function|sortByColumn
 DECL|function|sortByColumn_data
 DECL|function|spanningItems
@@ -189,10 +192,12 @@ DECL|function|taskQTBUG_18539_emitLayoutChanged
 DECL|function|taskQTBUG_25333_adjustViewOptionsForIndex
 DECL|function|taskQTBUG_34717_collapseAtBottom
 DECL|function|taskQTBUG_37813_crash
+DECL|function|taskQTBUG_45697_crash
 DECL|function|taskQTBUG_6450_selectAllWith1stColumnHidden
 DECL|function|taskQTBUG_8176_emitOnExpandAll
 DECL|function|taskQTBUG_9216_setSizeAndUniformRowHeightsWrongRepaint
 DECL|function|testInitialFocus
+DECL|function|timerTick
 DECL|function|tst_QTreeView
 DECL|function|viewOptions
 DECL|function|~EvilModel
@@ -201,6 +206,7 @@ DECL|function|~tst_QTreeView
 DECL|macro|CHECK_VISIBLE
 DECL|member|children
 DECL|member|cols
+DECL|member|columnCount
 DECL|member|deadChildren
 DECL|member|decorationsEnabled
 DECL|member|doCompare
@@ -209,7 +215,11 @@ DECL|member|indentation
 DECL|member|isDead
 DECL|member|levels
 DECL|member|m_block
+DECL|member|m_model
 DECL|member|m_selectionModel
+DECL|member|m_sortFilterProxyModel
+DECL|member|m_timerTick
+DECL|member|m_treeView
 DECL|member|painted
 DECL|member|parent
 DECL|member|parentHash

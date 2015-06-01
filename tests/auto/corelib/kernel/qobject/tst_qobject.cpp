@@ -32,6 +32,8 @@ DECL|class|ManySignals
 DECL|class|MoveToThreadObject
 DECL|class|MoveToThreadThread
 DECL|class|MyFunctor
+DECL|class|NoDefaultConstructor
+DECL|class|NoDefaultContructorArguments
 DECL|class|NormalizeObject
 DECL|class|NotifyObject
 DECL|class|ObjectException
@@ -84,6 +86,7 @@ DECL|function|DynamicPropertyObject
 DECL|function|EventSpy
 DECL|function|MoveToThreadObject
 DECL|function|MyFunctor
+DECL|function|NoDefaultConstructor
 DECL|function|NotifyObject
 DECL|function|PropertyObject
 DECL|function|QCustomTypeChecker
@@ -138,6 +141,7 @@ DECL|function|connectFunctorOverloads
 DECL|function|connectFunctorQueued
 DECL|function|connectFunctorWithContext
 DECL|function|connectManyArguments
+DECL|function|connectNoDefaultConstructorArg
 DECL|function|connectNotify
 DECL|function|connectNotify
 DECL|function|connectNotify_connectSlotsByName
@@ -229,6 +233,7 @@ DECL|function|metamethod
 DECL|function|moveToThread
 DECL|function|myFloat
 DECL|function|myQReal
+DECL|function|mySlot
 DECL|function|mySlot
 DECL|function|namespaces
 DECL|function|noDeclarativeParentChangedOnDestruction

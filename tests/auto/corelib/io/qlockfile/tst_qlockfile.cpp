@@ -11,9 +11,11 @@ DECL|function|lockOutOtherThread
 DECL|function|lockUnlock
 DECL|function|noPermissions
 DECL|function|noPermissionsWindows
+DECL|function|overwritePidInLockFile
 DECL|function|processProperties
 DECL|function|raceWithOtherThread
 DECL|function|staleLockFromCrashedProcess
+DECL|function|staleLockFromCrashedProcessReusedPid
 DECL|function|staleLockFromCrashedProcess_data
 DECL|function|staleLockRace
 DECL|function|staleLongLockFromBusyProcess
