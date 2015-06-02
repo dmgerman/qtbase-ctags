@@ -8,6 +8,14 @@ DECL|field|ApplicationSuspended
 DECL|field|BUNDLED_LIBRARIES_KEY
 DECL|field|ENVIRONMENT_VARIABLES_KEY
 DECL|field|EXTRACT_STYLE_KEY
+DECL|field|EnterKeyDefault
+DECL|field|EnterKeyDone
+DECL|field|EnterKeyGo
+DECL|field|EnterKeyNext
+DECL|field|EnterKeyPrevious
+DECL|field|EnterKeyReturn
+DECL|field|EnterKeySearch
+DECL|field|EnterKeySend
 DECL|field|ImhDate
 DECL|field|ImhDialableCharactersOnly
 DECL|field|ImhDigitsOnly
