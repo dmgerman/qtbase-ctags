@@ -10,6 +10,7 @@ DECL|function|bytesToWrite
 DECL|function|canReadLine
 DECL|function|checkWarnMessage
 DECL|function|close
+DECL|function|commitTransaction
 DECL|function|debugBinaryString
 DECL|function|debugBinaryString
 DECL|function|errorString
@@ -18,6 +19,7 @@ DECL|function|isOpen
 DECL|function|isReadable
 DECL|function|isSequential
 DECL|function|isTextModeEnabled
+DECL|function|isTransactionStarted
 DECL|function|isWritable
 DECL|function|open
 DECL|function|openMode
@@ -37,11 +39,14 @@ DECL|function|readLine
 DECL|function|readLine
 DECL|function|readLineData
 DECL|function|reset
+DECL|function|rollbackTransaction
 DECL|function|seek
+DECL|function|seekBuffer
 DECL|function|setErrorString
 DECL|function|setOpenMode
 DECL|function|setTextModeEnabled
 DECL|function|size
+DECL|function|startTransaction
 DECL|function|ungetChar
 DECL|function|waitForBytesWritten
 DECL|function|waitForReadyRead
