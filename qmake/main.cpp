@@ -1,4 +1,5 @@
 DECL|function|doInstall
+DECL|function|doLink
 DECL|function|doSed
 DECL|function|main
 DECL|function|qmake_getpwd
