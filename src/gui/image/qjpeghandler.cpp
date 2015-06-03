@@ -5,10 +5,10 @@ DECL|enumerator|Ready
 DECL|enum|State
 DECL|function|QJpegHandler
 DECL|function|QJpegHandlerPrivate
-DECL|function|applyExifOrientation
 DECL|function|canRead
 DECL|function|canRead
 DECL|function|ensureValidImage
+DECL|function|exif2Qt
 DECL|function|getExifOrientation
 DECL|function|my_error_exit
 DECL|function|my_jpeg_destination_mgr
@@ -50,7 +50,6 @@ DECL|member|description
 DECL|member|device
 DECL|member|device
 DECL|member|err
-DECL|member|exifOrientation
 DECL|member|format
 DECL|member|info
 DECL|member|iod_src
@@ -66,6 +65,7 @@ DECL|member|scaledSize
 DECL|member|setjmp_buffer
 DECL|member|size
 DECL|member|state
+DECL|member|transformation
 DECL|struct|my_error_mgr
 DECL|struct|my_jpeg_destination_mgr
 DECL|struct|my_jpeg_source_mgr

@@ -55,6 +55,7 @@ DECL|function|qWarn
 DECL|function|qtest_qParseArgs
 DECL|function|run
 DECL|function|set
+DECL|function|setMainSourcePath
 DECL|function|signal
 DECL|function|stackTrace
 DECL|function|testFinished
@@ -77,6 +78,7 @@ DECL|member|eventDelay
 DECL|member|function_
 DECL|member|handledSignals
 DECL|member|keyDelay
+DECL|member|mainSourcePath
 DECL|member|mouseDelay
 DECL|member|mutex
 DECL|member|noCrashHandler

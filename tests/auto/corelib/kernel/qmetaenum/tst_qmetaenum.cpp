@@ -5,3 +5,6 @@ DECL|enum|SuperEnum
 DECL|function|fromType
 DECL|function|valuesToKeys
 DECL|function|valuesToKeys_data
+DECL|variable|Value
+DECL|variable|Value
+DECL|variable|Value

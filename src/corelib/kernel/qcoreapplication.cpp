@@ -94,7 +94,7 @@ DECL|function|~QMutexUnlocker
 DECL|member|app_compile_version
 DECL|member|app_libpaths
 DECL|member|application
-DECL|member|applicationNameCompat
+DECL|member|applicationNameSet
 DECL|member|applicationVersion
 DECL|member|attribs
 DECL|member|cachedApplicationFilePath

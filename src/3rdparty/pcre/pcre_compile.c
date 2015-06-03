@@ -57,14 +57,10 @@ DECL|macro|STRING
 DECL|macro|UTF_LENGTH
 DECL|macro|WORK_SIZE_SAFETY_MARGIN
 DECL|macro|XSTRING
-DECL|member|group
 DECL|member|len
 DECL|member|op
 DECL|member|op_arg
-DECL|member|prev
-DECL|struct|recurse_check
 DECL|struct|verbitem
-DECL|typedef|recurse_check
 DECL|typedef|verbitem
 DECL|variable|autoposstab
 DECL|variable|catposstab

@@ -5,6 +5,7 @@ DECL|class|QListViewShowEventListener
 DECL|class|QMoveCursorListView
 DECL|class|QtTestModel
 DECL|class|SetCurrentIndexAfterAppendRowCrashDialog
+DECL|class|TempStyleSetter
 DECL|class|TestDelegate
 DECL|class|tst_QListView
 DECL|enumerator|MoveDown
@@ -24,6 +25,7 @@ DECL|function|QListViewShowEventListener
 DECL|function|QMoveCursorListView
 DECL|function|QtTestModel
 DECL|function|SetCurrentIndexAfterAppendRowCrashDialog
+DECL|function|TempStyleSetter
 DECL|function|TestDelegate
 DECL|function|batchedMode
 DECL|function|buttonClicked
@@ -109,11 +111,13 @@ DECL|function|testViewOptions
 DECL|function|tst_QListView
 DECL|function|viewOptions
 DECL|function|wordWrap
+DECL|function|~TempStyleSetter
 DECL|function|~tst_QListView
 DECL|member|colCount
 DECL|member|listView
 DECL|member|m_icon
 DECL|member|m_index
+DECL|member|m_oldStyle
 DECL|member|m_shown
 DECL|member|m_sizeHint
 DECL|member|model

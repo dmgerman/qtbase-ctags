@@ -29,8 +29,6 @@ DECL|function|formatValue
 DECL|function|formatValueList
 DECL|function|formatValueListList
 DECL|function|getBlockLen
-DECL|function|getHashStr
-DECL|function|getStr
 DECL|function|idealThreadCount
 DECL|function|initFrom
 DECL|function|initStatics

@@ -1,4 +1,7 @@
 DECL|class|QImageReaderPrivate
+DECL|enumerator|ApplyTransform
+DECL|enumerator|DoNotApplyTransform
+DECL|enumerator|UsePluginDefault
 DECL|enumerator|_qt_BmpFormat
 DECL|enumerator|_qt_GifFormat
 DECL|enumerator|_qt_JpegFormat
@@ -17,6 +20,7 @@ DECL|function|QImageReader
 DECL|function|QImageReader
 DECL|function|QImageReaderPrivate
 DECL|function|autoDetectImageFormat
+DECL|function|autoTransform
 DECL|function|backgroundColor
 DECL|function|canRead
 DECL|function|clipRect
@@ -45,6 +49,7 @@ DECL|function|read
 DECL|function|scaledClipRect
 DECL|function|scaledSize
 DECL|function|setAutoDetectImageFormat
+DECL|function|setAutoTransform
 DECL|function|setBackgroundColor
 DECL|function|setClipRect
 DECL|function|setDecideFormatFromContent
@@ -63,9 +68,11 @@ DECL|function|supportsAnimation
 DECL|function|supportsOption
 DECL|function|text
 DECL|function|textKeys
+DECL|function|transformation
 DECL|function|~QImageReader
 DECL|function|~QImageReaderPrivate
 DECL|member|autoDetectImageFormat
+DECL|member|autoTransform
 DECL|member|clipRect
 DECL|member|deleteDevice
 DECL|member|device

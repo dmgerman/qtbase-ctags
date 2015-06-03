@@ -10,6 +10,7 @@ DECL|function|createScreens
 DECL|function|crtcForConnector
 DECL|function|device
 DECL|function|fd
+DECL|function|globalCursor
 DECL|function|handleDrmEvent
 DECL|function|nameForConnector
 DECL|function|open

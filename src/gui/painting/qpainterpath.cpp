@@ -1,6 +1,5 @@
 DECL|function|QPainterPath
 DECL|function|QPainterPath
-DECL|function|QPainterPath
 DECL|function|QPainterPathStroker
 DECL|function|QPainterPathStroker
 DECL|function|QPainterPathStrokerPrivate
@@ -114,5 +113,4 @@ DECL|macro|QT_BEZIER_A
 DECL|macro|QT_BEZIER_B
 DECL|macro|QT_BEZIER_C
 DECL|macro|QT_BEZIER_CHECK_T
-DECL|macro|SIGN
 DECL|struct|QPainterPathPrivateDeleter

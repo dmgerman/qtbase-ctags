@@ -3,8 +3,8 @@ DECL|function|QFileSelectorPrivate
 DECL|function|addStatics
 DECL|function|allSelectors
 DECL|function|extraSelectors
+DECL|function|isLocalScheme
 DECL|function|platformSelectors
-DECL|function|qrcScheme
 DECL|function|select
 DECL|function|select
 DECL|function|select

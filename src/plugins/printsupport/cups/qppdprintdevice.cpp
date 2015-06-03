@@ -1,6 +1,5 @@
 DECL|function|QPpdPrintDevice
 DECL|function|QPpdPrintDevice
-DECL|function|QPpdPrintDevice
 DECL|function|defaultColorMode
 DECL|function|defaultDuplexMode
 DECL|function|defaultInputSlot
@@ -17,8 +16,6 @@ DECL|function|loadOutputBins
 DECL|function|loadPageSizes
 DECL|function|loadPrinter
 DECL|function|loadResolutions
-DECL|function|operator =
-DECL|function|operator ==
 DECL|function|printableMargins
 DECL|function|printerOption
 DECL|function|printerTypeFlags

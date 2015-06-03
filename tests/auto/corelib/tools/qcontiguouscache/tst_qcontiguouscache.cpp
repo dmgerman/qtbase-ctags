@@ -4,6 +4,7 @@ DECL|function|RefCountingClass
 DECL|function|RefCountingClass
 DECL|function|append
 DECL|function|append_data
+DECL|function|assignment
 DECL|function|complexType
 DECL|function|empty
 DECL|function|modifyZeroCapacityCache

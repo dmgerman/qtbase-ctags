@@ -25,7 +25,6 @@ DECL|function|makeAndModel
 DECL|function|maximumPhysicalPageSize
 DECL|function|minimumPhysicalPageSize
 DECL|function|name
-DECL|function|operator ==
 DECL|function|printableMargins
 DECL|function|state
 DECL|function|supportedColorModes

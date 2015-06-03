@@ -15,7 +15,6 @@ DECL|function|childEvent
 DECL|function|closestAcceptableSize
 DECL|function|contentsMargins
 DECL|function|contentsRect
-DECL|function|controlType
 DECL|function|controlTypes
 DECL|function|createSpacerItem
 DECL|function|createWidgetItem
@@ -34,8 +33,6 @@ DECL|function|maximumSize
 DECL|function|menuBar
 DECL|function|menuBarHeightForWidth
 DECL|function|minimumSize
-DECL|function|operator <<
-DECL|function|operator >>
 DECL|function|parentWidget
 DECL|function|removeItem
 DECL|function|removeWidget
@@ -46,7 +43,6 @@ DECL|function|setAlignment
 DECL|function|setAlignment
 DECL|function|setContentsMargins
 DECL|function|setContentsMargins
-DECL|function|setControlType
 DECL|function|setEnabled
 DECL|function|setGeometry
 DECL|function|setMargin
@@ -62,6 +58,5 @@ DECL|function|totalSizeHint
 DECL|function|update
 DECL|function|widgetEvent
 DECL|function|~QLayout
-DECL|macro|VALUE_OF_BITS
 DECL|member|spacerItemFactoryMethod
 DECL|member|widgetItemFactoryMethod
