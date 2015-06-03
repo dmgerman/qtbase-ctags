@@ -18,6 +18,7 @@ DECL|function|QmlTypeNode
 DECL|function|TypedefNode
 DECL|function|accessString
 DECL|function|accessString
+DECL|function|addAssociatedProperty
 DECL|function|addChild
 DECL|function|addChild
 DECL|function|addDerivedClass
@@ -54,13 +55,12 @@ DECL|function|fullName
 DECL|function|fullTitle
 DECL|function|getMemberClasses
 DECL|function|getMemberNamespaces
-DECL|function|guid
+DECL|function|hasActiveAssociatedProperty
 DECL|function|hasClasses
 DECL|function|hasMembers
 DECL|function|hasNamespaces
 DECL|function|hasQmlProperty
 DECL|function|hasQmlProperty
-DECL|function|idForNode
 DECL|function|idNumber
 DECL|function|incPropertyGroupCount
 DECL|function|inheritedStatus
@@ -103,10 +103,10 @@ DECL|function|reconstructParameters
 DECL|function|removeChild
 DECL|function|removeFromRelated
 DECL|function|removeRelated
+DECL|function|role
 DECL|function|root
 DECL|function|secondaryKeys
 DECL|function|setAssociatedEnum
-DECL|function|setAssociatedProperty
 DECL|function|setDoc
 DECL|function|setIncludes
 DECL|function|setLink

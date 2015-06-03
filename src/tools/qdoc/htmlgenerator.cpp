@@ -12,6 +12,7 @@ DECL|function|format
 DECL|function|generateAllQmlMembersFile
 DECL|function|generateAnnotatedList
 DECL|function|generateAnnotatedList
+DECL|function|generateAssociatedPropertyNotes
 DECL|function|generateAtom
 DECL|function|generateBrief
 DECL|function|generateClassHierarchy

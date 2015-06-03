@@ -40,6 +40,7 @@ DECL|typedef|NodeMap
 DECL|typedef|NodeMultiMap
 DECL|typedef|NodeTypeList
 DECL|typedef|NodeTypePair
+DECL|typedef|PropNodeList
 DECL|typedef|QString
 DECL|typedef|QString
 DECL|typedef|QString
