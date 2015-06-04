@@ -5,7 +5,6 @@ DECL|function|detach
 DECL|function|detach_grow
 DECL|function|dispose
 DECL|function|erase
-DECL|function|grow
 DECL|function|insert
 DECL|function|move
 DECL|function|prepend

@@ -5,7 +5,9 @@ DECL|function|appendExtended
 DECL|function|appendExtended_data
 DECL|function|base64
 DECL|function|base64_data
+DECL|function|blockSizeCalculations
 DECL|function|byteRefDetaching
+DECL|function|checkSize
 DECL|function|chop
 DECL|function|chop_data
 DECL|function|compare
@@ -36,7 +38,6 @@ DECL|function|number
 DECL|function|prepend
 DECL|function|prependExtended
 DECL|function|prependExtended_data
-DECL|function|qAllocMore
 DECL|function|qCompress
 DECL|function|qCompress_data
 DECL|function|qCompressionZeroTermination
