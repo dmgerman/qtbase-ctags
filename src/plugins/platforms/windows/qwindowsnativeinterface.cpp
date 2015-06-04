@@ -11,6 +11,7 @@ DECL|function|asyncExpose
 DECL|function|beep
 DECL|function|createMessageWindow
 DECL|function|gpu
+DECL|function|logFontToQFont
 DECL|function|nativeResourceForContext
 DECL|function|nativeResourceForIntegration
 DECL|function|nativeResourceForWindow

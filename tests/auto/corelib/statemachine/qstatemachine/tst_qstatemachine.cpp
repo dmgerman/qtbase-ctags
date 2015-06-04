@@ -56,6 +56,7 @@ DECL|function|changeStateWhileAnimatingProperty
 DECL|function|childModeConstructor
 DECL|function|clearError
 DECL|function|clonedSignals
+DECL|function|conflictingTransition
 DECL|function|connectNotify
 DECL|function|createEventTransitionWhenRunning
 DECL|function|createSignalTransitionWhenRunning
@@ -105,6 +106,7 @@ DECL|function|historyStateHasNowhereToGo
 DECL|function|historyStates
 DECL|function|initialStateIsEnteredBeforeStartedEmitted
 DECL|function|initialStateIsFinal
+DECL|function|internalTransition
 DECL|function|machineWithParent
 DECL|function|multiTargetTransitionInsideParallelStateGroup
 DECL|function|nestedRestoreProperties
@@ -144,6 +146,7 @@ DECL|function|propertiesAreAssignedBeforeEntryCallbacks_data
 DECL|function|propertiesAssignedSignalTransitionsReuseAnimationGroup
 DECL|function|qtbug_44783
 DECL|function|qtbug_44963
+DECL|function|qtbug_46059
 DECL|function|removeDefaultAnimation
 DECL|function|restoreProperties
 DECL|function|restoreProperties2

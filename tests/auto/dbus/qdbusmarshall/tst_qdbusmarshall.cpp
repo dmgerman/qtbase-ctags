@@ -4,6 +4,7 @@ DECL|function|SetResetValue
 DECL|function|addBasicTypesColumns
 DECL|function|basicNumericTypes_data
 DECL|function|basicStringTypes_data
+DECL|function|canSendUnixFd
 DECL|function|cleanup
 DECL|function|cleanup
 DECL|function|cleanup
@@ -44,8 +45,8 @@ DECL|function|sendVariant
 DECL|function|sendVariant_data
 DECL|function|theSlot
 DECL|function|~SetResetValue
+DECL|macro|DBUS_TYPE_UNIX_FD
 DECL|macro|EXE
-DECL|macro|QT_LINKED_LIBDBUS
 DECL|member|fileDescriptorPassing
 DECL|member|list
 DECL|member|oldValue

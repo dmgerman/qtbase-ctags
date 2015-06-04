@@ -1136,6 +1136,7 @@ DECL|member|flags
 DECL|member|flags
 DECL|member|flags
 DECL|member|gbprop
+DECL|member|group
 DECL|member|group_num
 DECL|member|group_num
 DECL|member|had_accept
@@ -1215,6 +1216,7 @@ DECL|member|outer
 DECL|member|parens_depth
 DECL|member|partial
 DECL|member|poptions
+DECL|member|prev
 DECL|member|prevrec
 DECL|member|prevrec
 DECL|member|recursive
@@ -1270,6 +1272,7 @@ DECL|struct|open_capitem
 DECL|struct|pcre_study_data
 DECL|struct|real_pcre32
 DECL|struct|real_pcre8_or_16
+DECL|struct|recurse_check
 DECL|struct|recursion_info
 DECL|typedef|BOOL
 DECL|typedef|__assert_pcre_uchar32_size
@@ -1299,6 +1302,7 @@ DECL|typedef|real_pcre
 DECL|typedef|real_pcre16
 DECL|typedef|real_pcre32
 DECL|typedef|real_pcre8_or_16
+DECL|typedef|recurse_check
 DECL|typedef|recursion_info
 DECL|typedef|ucd_record
 DECL|typedef|ucp_type_table

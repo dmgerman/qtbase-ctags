@@ -8,6 +8,7 @@ DECL|function|atEnd
 DECL|function|bytesAvailable
 DECL|function|bytesToWrite
 DECL|function|canReadLine
+DECL|function|checkWarnMessage
 DECL|function|close
 DECL|function|debugBinaryString
 DECL|function|debugBinaryString

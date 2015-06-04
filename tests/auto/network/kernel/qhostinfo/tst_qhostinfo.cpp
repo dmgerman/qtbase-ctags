@@ -4,7 +4,6 @@ DECL|class|LookupThread
 DECL|class|tst_QHostInfo
 DECL|function|abort
 DECL|function|abortHostLookup
-DECL|function|abortHostLookupInDifferentThread
 DECL|function|blockingLookup
 DECL|function|blockingLookup_data
 DECL|function|cache

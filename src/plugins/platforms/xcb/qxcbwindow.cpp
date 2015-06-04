@@ -59,11 +59,14 @@ DECL|function|doFocusOut
 DECL|function|dpr_ceil
 DECL|function|dpr_ceil
 DECL|function|dpr_floor
+DECL|function|fixed1616ToInt
 DECL|function|focusInPeeker
 DECL|function|format
 DECL|function|frameMargins
 DECL|function|getMotifWmHints
 DECL|function|handleButtonPressEvent
+DECL|function|handleButtonPressEvent
+DECL|function|handleButtonReleaseEvent
 DECL|function|handleButtonReleaseEvent
 DECL|function|handleClientMessageEvent
 DECL|function|handleConfigureNotifyEvent
@@ -75,10 +78,12 @@ DECL|function|handleGenericEvent
 DECL|function|handleLeaveNotifyEvent
 DECL|function|handleMapNotifyEvent
 DECL|function|handleMotionNotifyEvent
+DECL|function|handleMotionNotifyEvent
 DECL|function|handleMouseEvent
 DECL|function|handlePropertyNotifyEvent
 DECL|function|handleUnmapNotifyEvent
 DECL|function|handleXEmbedMessage
+DECL|function|handleXIMouseEvent
 DECL|function|hide
 DECL|function|ignoreEnterEvent
 DECL|function|ignoreLeaveEvent

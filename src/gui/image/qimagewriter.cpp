@@ -28,6 +28,7 @@ DECL|function|setProgressiveScanWrite
 DECL|function|setQuality
 DECL|function|setSubType
 DECL|function|setText
+DECL|function|setTransformation
 DECL|function|subType
 DECL|function|supportedImageFormats
 DECL|function|supportedImageHandlerFormats
@@ -35,6 +36,7 @@ DECL|function|supportedImageHandlerMimeTypes
 DECL|function|supportedMimeTypes
 DECL|function|supportedSubTypes
 DECL|function|supportsOption
+DECL|function|transformation
 DECL|function|write
 DECL|function|~QImageWriter
 DECL|member|compression
@@ -52,3 +54,4 @@ DECL|member|q
 DECL|member|quality
 DECL|member|subType
 DECL|member|text
+DECL|member|transformation

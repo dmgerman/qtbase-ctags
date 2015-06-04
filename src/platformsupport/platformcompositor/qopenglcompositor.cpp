@@ -2,6 +2,7 @@ DECL|function|BlendStateBinder
 DECL|function|QOpenGLCompositor
 DECL|function|addWindow
 DECL|function|changeWindowIndex
+DECL|function|clippedBlit
 DECL|function|destroy
 DECL|function|grab
 DECL|function|handleRenderAllRequest
@@ -12,6 +13,7 @@ DECL|function|render
 DECL|function|renderAll
 DECL|function|set
 DECL|function|setTarget
+DECL|function|toBottomLeftRect
 DECL|function|update
 DECL|function|~BlendStateBinder
 DECL|function|~QOpenGLCompositor

@@ -33,6 +33,7 @@ DECL|function|msgSyntaxWarning
 DECL|function|opKey
 DECL|function|operator <<
 DECL|function|osKey
+DECL|function|qgpu_features
 DECL|function|readGpuFeatures
 DECL|function|readGpuFeatures
 DECL|function|readGpuFeatures

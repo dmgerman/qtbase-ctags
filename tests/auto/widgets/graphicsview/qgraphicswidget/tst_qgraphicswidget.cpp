@@ -40,6 +40,7 @@ DECL|function|ItemChangeTester
 DECL|function|MessUpPainterWidget
 DECL|function|PolishWidget
 DECL|function|ProxyStyle
+DECL|function|QTBUG_45867_send_itemChildAddedChange_to_parent
 DECL|function|QT_BUG_12056_tabFocusFirstUnsetWhenRemovingItems
 DECL|function|QT_BUG_6544_tabFocusFirstUnsetWhenRemovingItems
 DECL|function|RectItem

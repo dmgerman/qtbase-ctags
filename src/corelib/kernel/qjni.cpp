@@ -120,6 +120,8 @@ DECL|function|getField
 DECL|function|getField
 DECL|function|getField
 DECL|function|getField
+DECL|function|getFieldID
+DECL|function|getMethodID
 DECL|function|getObjectField
 DECL|function|getStaticField
 DECL|function|getStaticField
@@ -145,7 +147,6 @@ DECL|function|isSameObject
 DECL|function|isValid
 DECL|function|keyBase
 DECL|function|loadClass
-DECL|function|loadClassDotEnc
 DECL|function|operator ->
 DECL|function|operator JNIEnv*
 DECL|function|qt_convertJString
@@ -186,7 +187,7 @@ DECL|function|setStaticField
 DECL|function|setStaticField
 DECL|function|setStaticField
 DECL|function|setStaticField
-DECL|function|toDotEncodedClassName
+DECL|function|toBinaryEncClassName
 DECL|function|toString
 DECL|function|~QJNIEnvironmentPrivate
 DECL|function|~QJNIEnvironmentPrivateTLS

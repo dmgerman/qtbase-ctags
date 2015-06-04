@@ -4,6 +4,7 @@ DECL|function|byId
 DECL|function|byId
 DECL|function|byIds
 DECL|function|createMenuItem
+DECL|function|createSubMenu
 DECL|function|emitUpdated
 DECL|function|insertMenuItem
 DECL|function|items

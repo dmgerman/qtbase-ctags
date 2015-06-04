@@ -1,3 +1,5 @@
 DECL|function|QWinRTEGLContext
 DECL|function|eglSurfaceForPlatformSurface
 DECL|function|getProcAddress
+DECL|function|swapBuffers
+DECL|macro|EGL_EGLEXT_PROTOTYPES

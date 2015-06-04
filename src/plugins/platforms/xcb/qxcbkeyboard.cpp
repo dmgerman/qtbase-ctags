@@ -27,8 +27,11 @@ DECL|function|updateVModToRModMapping
 DECL|function|updateXKBMods
 DECL|function|updateXKBState
 DECL|function|updateXKBStateFromCore
+DECL|function|updateXKBStateFromXI
 DECL|function|xkbModMask
 DECL|function|~QXcbKeyboard
+DECL|macro|KeyPress
+DECL|macro|KeyRelease
 DECL|macro|XF86XK_AddFavorite
 DECL|macro|XF86XK_ApplicationLeft
 DECL|macro|XF86XK_ApplicationRight

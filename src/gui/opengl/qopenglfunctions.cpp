@@ -21,6 +21,7 @@ DECL|function|functionResolverWithFallback
 DECL|function|gles3Helper
 DECL|function|hasOpenGLExtension
 DECL|function|hasOpenGLFeature
+DECL|function|init
 DECL|function|initializeOpenGLFunctions
 DECL|function|isES3
 DECL|function|openGLExtensions
@@ -205,6 +206,7 @@ DECL|function|qopenglfTranslateDepthRangef
 DECL|function|qt_gl_functions
 DECL|function|qt_gl_resolve_extensions
 DECL|function|qt_gl_resolve_features
+DECL|function|resolve
 DECL|macro|GL_FRAMEBUFFER_SRGB_CAPABLE_EXT
 DECL|macro|RESOLVER_COMMON
 DECL|macro|RESOLVER_COMMON_NON_VOID

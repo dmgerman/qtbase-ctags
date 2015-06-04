@@ -12,6 +12,7 @@ DECL|function|platformDisplay
 DECL|function|platformInit
 DECL|function|presentBuffer
 DECL|function|screenInit
+DECL|function|separateScreens
 DECL|function|supportsPBuffers
 DECL|function|surfaceFormatFor
 DECL|function|usesDefaultScreen

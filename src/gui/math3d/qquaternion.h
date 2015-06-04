@@ -2,6 +2,7 @@ DECL|function|QQuaternion
 DECL|function|QQuaternion
 DECL|function|QQuaternion
 DECL|function|conjugate
+DECL|function|conjugated
 DECL|function|dotProduct
 DECL|function|fromEulerAngles
 DECL|function|getAxisAndAngle

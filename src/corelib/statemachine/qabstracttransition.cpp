@@ -13,8 +13,10 @@ DECL|function|machine
 DECL|function|removeAnimation
 DECL|function|setTargetState
 DECL|function|setTargetStates
+DECL|function|setTransitionType
 DECL|function|sourceState
 DECL|function|sourceState
 DECL|function|targetState
 DECL|function|targetStates
+DECL|function|transitionType
 DECL|function|~QAbstractTransition

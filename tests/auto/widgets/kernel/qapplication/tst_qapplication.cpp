@@ -74,6 +74,7 @@ DECL|function|nonGui
 DECL|function|ok_clicked
 DECL|function|processEventsOnly
 DECL|function|qtbug_12673
+DECL|function|quitApplication
 DECL|function|quitOnLastWindowClosed
 DECL|function|reset
 DECL|function|runTest
@@ -113,6 +114,7 @@ DECL|member|child_deleted
 DECL|member|d
 DECL|member|eventSpy
 DECL|member|okButton
+DECL|member|quitApplicationTriggered
 DECL|member|recordedEvents
 DECL|member|seenMouseEvent
 DECL|member|seenTouchEvent
