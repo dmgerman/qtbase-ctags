@@ -17,6 +17,7 @@ DECL|function|code
 DECL|function|constructing
 DECL|function|crashTest
 DECL|function|crashTest2
+DECL|function|createProcessArgumentsModifier
 DECL|function|deadWhileReading
 DECL|function|detachedWorkingDirectoryAndPid
 DECL|function|discardUnwantedOutput

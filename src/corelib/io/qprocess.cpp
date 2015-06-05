@@ -20,6 +20,7 @@ DECL|function|closeReadChannel
 DECL|function|closeWriteChannel
 DECL|function|closeWriteChannel
 DECL|function|contains
+DECL|function|createProcessArgumentsModifier
 DECL|function|environment
 DECL|function|error
 DECL|function|execute
@@ -55,6 +56,7 @@ DECL|function|readChannelMode
 DECL|function|readData
 DECL|function|remove
 DECL|function|setArguments
+DECL|function|setCreateProcessArgumentsModifier
 DECL|function|setEnvironment
 DECL|function|setError
 DECL|function|setErrorAndEmit
