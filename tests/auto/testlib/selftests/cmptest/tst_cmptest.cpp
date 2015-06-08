@@ -1,4 +1,7 @@
 DECL|class|tst_Cmptest
+DECL|enumerator|MyUnregisteredEnumValue1
+DECL|enumerator|MyUnregisteredEnumValue2
+DECL|enum|MyUnregisteredEnum
 DECL|function|boolfunc
 DECL|function|boolfunc2
 DECL|function|compareQImages
@@ -11,8 +14,10 @@ DECL|function|compareQStringLists
 DECL|function|compareQStringLists_data
 DECL|function|compare_boolfuncs
 DECL|function|compare_pointerfuncs
+DECL|function|compare_registered_enums
 DECL|function|compare_tostring
 DECL|function|compare_tostring_data
+DECL|function|compare_unregistered_enums
 DECL|function|intptr
 DECL|member|i
 DECL|struct|PhonyClass
