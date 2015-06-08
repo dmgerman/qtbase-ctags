@@ -1,5 +1,6 @@
 DECL|function|checkBlackLists
 DECL|function|checkCondition
+DECL|function|isGPUTestBlacklisted
 DECL|function|keywords
 DECL|function|parseBlackList
 DECL|function|parseGpuBlackList
