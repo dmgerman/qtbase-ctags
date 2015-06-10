@@ -10,6 +10,7 @@ DECL|function|get_value
 DECL|function|hasStdCppSet
 DECL|function|isConstant
 DECL|function|isFinal
+DECL|function|mapProperty
 DECL|function|readAndWriteWithLazyRegistration
 DECL|function|resetValue
 DECL|function|setValue
@@ -21,6 +22,7 @@ DECL|function|value9
 DECL|member|_read
 DECL|member|_write
 DECL|member|m_value
+DECL|member|map
 DECL|struct|CustomReadObject
 DECL|struct|CustomWriteObject
 DECL|struct|CustomWriteObjectChild
