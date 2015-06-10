@@ -10,6 +10,8 @@ DECL|function|common_data
 DECL|function|createSurface
 DECL|function|defaultSurfaceFormat
 DECL|function|fboHandleNulledAfterContextDestroyed
+DECL|function|fboMRT
+DECL|function|fboMRT_differentFormats
 DECL|function|fboRendering
 DECL|function|fboRenderingRGB30
 DECL|function|fboRenderingRGB30_data
@@ -22,6 +24,7 @@ DECL|function|freeResource
 DECL|function|fuzzyCompareImages
 DECL|function|fuzzyComparePixels
 DECL|function|glxContextWrap
+DECL|function|hasRGB10A2
 DECL|function|imageFormatPainting
 DECL|function|invalidateResource
 DECL|function|multiGroupSharedResourceCleanup
@@ -48,6 +51,8 @@ DECL|function|~SharedResource
 DECL|macro|GL_FRAMEBUFFER_RENDERABLE
 DECL|macro|GL_FULL_SUPPORT
 DECL|macro|GL_RGB10_A2
+DECL|macro|GL_RGB5_A1
+DECL|macro|GL_RGBA8
 DECL|macro|QFUZZY_COMPARE_IMAGES
 DECL|macro|QFUZZY_COMPARE_PIXELS
 DECL|member|destructorCalls
