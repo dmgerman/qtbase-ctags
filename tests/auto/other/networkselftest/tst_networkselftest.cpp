@@ -18,6 +18,7 @@ DECL|function|dnsResolution
 DECL|function|dnsResolution_data
 DECL|function|doSocketFlush
 DECL|function|doSocketRead
+DECL|function|ensureTermination
 DECL|function|expect
 DECL|function|ftpChat
 DECL|function|ftpProxyServer
@@ -35,6 +36,7 @@ DECL|function|httpsServer
 DECL|function|imapServer
 DECL|function|initTestCase
 DECL|function|msgDoSocketReadFailed
+DECL|function|msgProcessError
 DECL|function|netChat
 DECL|function|prettyByteArray
 DECL|function|remotePortsOpen
