@@ -220,12 +220,15 @@ DECL|struct|QIntegerForSize
 DECL|struct|QIntegerForSize
 DECL|struct|QIntegerForSize
 DECL|struct|QIntegerForSize
+DECL|struct|QIntegerForSize
 DECL|typedef|QFunctionPointer
 DECL|typedef|QNoImplicitBoolCast
 DECL|typedef|Signed
 DECL|typedef|Signed
 DECL|typedef|Signed
 DECL|typedef|Signed
+DECL|typedef|Signed
+DECL|typedef|Unsigned
 DECL|typedef|Unsigned
 DECL|typedef|Unsigned
 DECL|typedef|Unsigned
