@@ -6,6 +6,7 @@ DECL|function|MyLayout
 DECL|function|SizeHinterFrame
 DECL|function|addItem
 DECL|function|adjustSizeShouldMakeSureLayoutIsActivated
+DECL|function|cleanup
 DECL|function|controlTypes
 DECL|function|controlTypes2
 DECL|function|count

@@ -3,11 +3,13 @@ DECL|class|CrashedAction
 DECL|class|tst_QWidgetAction
 DECL|function|ComboAction
 DECL|function|CrashedAction
+DECL|function|cleanup
 DECL|function|createWidget
 DECL|function|createWidget
 DECL|function|createdWidgets
 DECL|function|customWidget
 DECL|function|defaultWidget
+DECL|function|initTestCase
 DECL|function|keepOwnership
 DECL|function|popup
 DECL|function|releaseWidgetCrash

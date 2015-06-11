@@ -35,6 +35,7 @@ DECL|function|ambigSlot6
 DECL|function|ambigSlot7
 DECL|function|ambiguousItems
 DECL|function|ambiguousRotation
+DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clearAllShortcuts
 DECL|function|context

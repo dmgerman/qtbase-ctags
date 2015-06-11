@@ -1,4 +1,5 @@
 DECL|class|tst_QActionGroup
+DECL|function|cleanup
 DECL|function|enabledPropagation
 DECL|function|exclusive
 DECL|function|separators

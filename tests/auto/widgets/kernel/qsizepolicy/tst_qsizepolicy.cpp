@@ -1,5 +1,6 @@
 DECL|class|tst_QSizePolicy
 DECL|function|PrettyPrint
+DECL|function|cleanup
 DECL|function|data
 DECL|function|dataStream
 DECL|function|defaultValues
