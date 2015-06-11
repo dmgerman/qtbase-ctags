@@ -5,11 +5,8 @@ DECL|function|CustomLayoutStyle
 DECL|function|Descr
 DECL|function|LayoutItem
 DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|expandingDirections
 DECL|function|geometry
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|insertLayout
 DECL|function|insertSpacerItem
 DECL|function|isEmpty
@@ -30,8 +27,6 @@ DECL|function|taskQTBUG_40609_addingWidgetToItsOwnLayout
 DECL|function|taskQTBUG_7103_minMaxWidthNotRespected
 DECL|function|testLayoutEngine
 DECL|function|testLayoutEngine_data
-DECL|function|tst_QBoxLayout
-DECL|function|~tst_QBoxLayout
 DECL|member|empty
 DECL|member|expanding
 DECL|member|hspacing
