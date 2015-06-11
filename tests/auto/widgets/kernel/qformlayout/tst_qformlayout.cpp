@@ -6,11 +6,8 @@ DECL|function|CustomLayoutStyle
 DECL|function|addRow
 DECL|function|buddies
 DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|contentsRect
 DECL|function|getItemPosition
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|insertRow_QLayout
 DECL|function|insertRow_QString_QLayout
 DECL|function|insertRow_QString_QWidget
@@ -37,8 +34,6 @@ DECL|function|takeAt
 DECL|function|taskQTBUG_27420_takeAtShouldUnparentLayout
 DECL|function|taskQTBUG_40609_addingLayoutToItself
 DECL|function|taskQTBUG_40609_addingWidgetToItsOwnLayout
-DECL|function|tst_QFormLayout
 DECL|function|wrapping
-DECL|function|~tst_QFormLayout
 DECL|member|hspacing
 DECL|member|vspacing
