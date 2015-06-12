@@ -87,4 +87,3 @@ DECL|member|makeCurrentTrackerMutex
 DECL|member|minorVersion
 DECL|member|profile
 DECL|variable|global_share_context
-DECL|variable|qwindow_context_storage
