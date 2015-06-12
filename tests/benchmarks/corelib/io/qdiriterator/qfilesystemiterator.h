@@ -1,2 +1,1 @@
 DECL|macro|QFILESYSTEMITERATOR_H
-DECL|variable|QFileSystemIteratorPrivate

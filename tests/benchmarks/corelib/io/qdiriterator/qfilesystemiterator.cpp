@@ -40,3 +40,4 @@ DECL|member|m_nextDirShown
 DECL|member|nameFilters
 DECL|member|q
 DECL|member|visitedLinks
+DECL|namespace|QDirIteratorTest
