@@ -3,13 +3,10 @@ DECL|class|QMetaMethodBuilderPrivate
 DECL|class|QMetaObjectBuilderPrivate
 DECL|class|QMetaPropertyBuilderPrivate
 DECL|function|QMetaEnumBuilderPrivate
-DECL|function|QMetaEnumBuilderPrivate
-DECL|function|QMetaMethodBuilderPrivate
 DECL|function|QMetaMethodBuilderPrivate
 DECL|function|QMetaObjectBuilder
 DECL|function|QMetaObjectBuilder
 DECL|function|QMetaObjectBuilderPrivate
-DECL|function|QMetaPropertyBuilderPrivate
 DECL|function|QMetaPropertyBuilderPrivate
 DECL|function|QMetaStringTable
 DECL|function|access
