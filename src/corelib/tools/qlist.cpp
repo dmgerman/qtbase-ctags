@@ -10,6 +10,7 @@ DECL|function|insert
 DECL|function|move
 DECL|function|prepend
 DECL|function|realloc
+DECL|function|realloc_grow
 DECL|function|remove
 DECL|function|remove
 DECL|member|shared_null
