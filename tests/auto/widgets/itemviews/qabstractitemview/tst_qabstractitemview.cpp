@@ -35,7 +35,7 @@ DECL|function|TestModel
 DECL|function|basic_tests
 DECL|function|centerOnScreen
 DECL|function|changeSize
-DECL|function|cleanupTestCase
+DECL|function|cleanup
 DECL|function|columnDelegate
 DECL|function|createEditor
 DECL|function|ctrlA
@@ -78,7 +78,6 @@ DECL|function|testDelegateDestroyEditor
 DECL|function|testFocusPolicy
 DECL|function|testFocusPolicy_data
 DECL|function|testNoActivateOnDisabledItem
-DECL|function|tst_QAbstractItemView
 DECL|function|tst_closeEditor
 DECL|function|tst_commitData
 DECL|function|tst_currentChanged
@@ -114,7 +113,6 @@ DECL|function|tst_verticalScrollbarValueChanged
 DECL|function|tst_verticalStepsPerItem
 DECL|function|tst_viewOptions
 DECL|function|tst_visualRegionForSelection
-DECL|function|~tst_QAbstractItemView
 DECL|member|calledVirtualDtor
 DECL|member|openedEditor
 DECL|member|setData_count
