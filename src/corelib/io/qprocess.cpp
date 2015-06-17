@@ -56,6 +56,8 @@ DECL|function|readData
 DECL|function|remove
 DECL|function|setArguments
 DECL|function|setEnvironment
+DECL|function|setError
+DECL|function|setErrorAndEmit
 DECL|function|setInputChannelMode
 DECL|function|setNativeArguments
 DECL|function|setProcessChannelMode
