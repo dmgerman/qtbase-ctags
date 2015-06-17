@@ -24,6 +24,7 @@ DECL|function|dump
 DECL|function|end
 DECL|function|end
 DECL|function|equal_range
+DECL|function|equal_range
 DECL|function|erase
 DECL|function|find
 DECL|function|find
@@ -72,6 +73,7 @@ DECL|macro|QMAP_H
 DECL|member|Key
 DECL|member|Key
 DECL|member|Key
+DECL|member|const_iterator
 DECL|member|header
 DECL|member|iterator
 DECL|member|key
@@ -91,6 +93,9 @@ DECL|struct|QMapNodeBase
 DECL|struct|QMapNodeBase
 DECL|typedef|Key
 DECL|typedef|Node
+DECL|variable|Key
+DECL|variable|Key
+DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
 DECL|variable|Key
