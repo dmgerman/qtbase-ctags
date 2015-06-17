@@ -17,6 +17,7 @@ DECL|function|activateAction
 DECL|function|activateLastAction
 DECL|function|activeSubMenuPosition
 DECL|function|addActionsAndClear
+DECL|function|addActionsConnect
 DECL|function|centerOnScreen
 DECL|function|centerOnScreen
 DECL|function|checkVisibility
@@ -52,6 +53,7 @@ DECL|function|task250673_activeMultiColumnSubMenuPosition
 DECL|function|task256918_setFont
 DECL|function|task258920_mouseBorder
 DECL|function|tearOff
+DECL|function|testFunction
 DECL|function|tst_QMenu
 DECL|function|widgetActionFocus
 DECL|member|activated

@@ -4,6 +4,7 @@ DECL|function|actionGeometry
 DECL|function|actionOwnership
 DECL|function|actionTriggered
 DECL|function|addAction
+DECL|function|addActionConnect
 DECL|function|addSeparator
 DECL|function|addWidget
 DECL|function|allowedAreas
@@ -17,6 +18,7 @@ DECL|function|slot
 DECL|function|slot
 DECL|function|task191727_layout
 DECL|function|task197996_visibility
+DECL|function|testFunction
 DECL|function|toggleViewAction
 DECL|function|toolButtonStyle
 DECL|function|tst_QToolBar
