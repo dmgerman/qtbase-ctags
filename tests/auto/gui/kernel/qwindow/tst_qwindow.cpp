@@ -40,11 +40,13 @@ DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
 DECL|function|mouseToTouchLoop
 DECL|function|mouseToTouchTranslation
+DECL|function|msgPointMismatch
 DECL|function|orientation
 DECL|function|platformSurface
 DECL|function|positioning
 DECL|function|positioningDuringMinimized
 DECL|function|positioning_data
+DECL|function|qFuzzyCompareWindowPosition
 DECL|function|received
 DECL|function|requestUpdate
 DECL|function|reset

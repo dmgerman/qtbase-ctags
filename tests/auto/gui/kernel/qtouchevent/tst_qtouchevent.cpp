@@ -19,8 +19,6 @@ DECL|function|touchBeginPropagatesWhenIgnored
 DECL|function|touchBeginWithGraphicsWidget
 DECL|function|touchDisabledByDefault
 DECL|function|touchEventAcceptedByDefault
-DECL|function|touchPoint
-DECL|function|touchPointList
 DECL|function|touchUpdateAndEndNeverPropagate
 DECL|function|tst_QTouchEvent
 DECL|function|tst_QTouchEventGraphicsItem
