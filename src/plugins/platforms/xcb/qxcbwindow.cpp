@@ -53,12 +53,8 @@ DECL|function|checkEvent
 DECL|function|checkEvent
 DECL|function|create
 DECL|function|destroy
-DECL|function|devicePixelRatio
 DECL|function|doFocusIn
 DECL|function|doFocusOut
-DECL|function|dpr_ceil
-DECL|function|dpr_ceil
-DECL|function|dpr_floor
 DECL|function|fixed1616ToInt
 DECL|function|focusInPeeker
 DECL|function|format
@@ -92,15 +88,8 @@ DECL|function|isEmbedded
 DECL|function|isExposed
 DECL|function|isTransient
 DECL|function|lower
-DECL|function|mapExposeFromNative
 DECL|function|mapFromGlobal
-DECL|function|mapFromNative
-DECL|function|mapFromNative
-DECL|function|mapLocalGeometryFromNative
-DECL|function|mapLocalGeometryToNative
 DECL|function|mapToGlobal
-DECL|function|mapToNative
-DECL|function|mapToNative
 DECL|function|maybeSetScreen
 DECL|function|needsSync
 DECL|function|netWmStates
@@ -116,7 +105,6 @@ DECL|function|relayFocusToModalWindow
 DECL|function|requestActivateWindow
 DECL|function|requestSystemTrayWindowDock
 DECL|function|requestSystemTrayWindowDockStatic
-DECL|function|screenForNativeGeometry
 DECL|function|sendXEmbedMessage
 DECL|function|setAlertState
 DECL|function|setCursor
@@ -186,7 +174,6 @@ DECL|member|decorations
 DECL|member|flags
 DECL|member|functions
 DECL|member|input_mode
-DECL|member|m_dpr
 DECL|member|m_pending
 DECL|member|m_region
 DECL|member|m_window
