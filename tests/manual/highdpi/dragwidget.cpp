@@ -1,0 +1,12 @@
+DECL|class|FramedLabel
+DECL|function|DragWidget
+DECL|function|FramedLabel
+DECL|function|dragEnterEvent
+DECL|function|dragLeaveEvent
+DECL|function|dragMoveEvent
+DECL|function|dropEvent
+DECL|function|hideEvent
+DECL|function|mousePressEvent
+DECL|function|paintEvent
+DECL|function|showEvent
+DECL|function|timerEvent
