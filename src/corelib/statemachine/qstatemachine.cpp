@@ -56,7 +56,6 @@ DECL|function|exitStates
 DECL|function|findErrorState
 DECL|function|findLCA
 DECL|function|findLCCA
-DECL|function|get
 DECL|function|getEffectiveTargetStates
 DECL|function|getProperAncestors
 DECL|function|getTransitionDomain

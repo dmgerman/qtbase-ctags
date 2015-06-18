@@ -4,7 +4,6 @@ DECL|function|QSignalTransitionPrivate
 DECL|function|callOnTransition
 DECL|function|event
 DECL|function|eventTest
-DECL|function|get
 DECL|function|maybeRegister
 DECL|function|onTransition
 DECL|function|senderObject

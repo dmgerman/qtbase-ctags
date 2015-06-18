@@ -3,7 +3,6 @@ DECL|function|QHistoryState
 DECL|function|QHistoryStatePrivate
 DECL|function|defaultState
 DECL|function|event
-DECL|function|get
 DECL|function|historyType
 DECL|function|onEntry
 DECL|function|onExit

@@ -7,8 +7,6 @@ DECL|function|callOnExit
 DECL|function|emitEntered
 DECL|function|emitExited
 DECL|function|event
-DECL|function|get
-DECL|function|get
 DECL|function|machine
 DECL|function|machine
 DECL|function|parentState
