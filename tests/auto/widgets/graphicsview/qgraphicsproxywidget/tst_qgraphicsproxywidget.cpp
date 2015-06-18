@@ -99,6 +99,7 @@ DECL|function|mouseDoubleClickEvent_data
 DECL|function|mouseMoveEvent
 DECL|function|mousePressReleaseEvent
 DECL|function|mousePressReleaseEvent_data
+DECL|function|msgPointMismatch
 DECL|function|paint
 DECL|function|paint
 DECL|function|paint
