@@ -1,11 +1,14 @@
+DECL|function|DefaultStateTransition
 DECL|function|QHistoryState
 DECL|function|QHistoryState
 DECL|function|QHistoryStatePrivate
 DECL|function|defaultState
+DECL|function|defaultTransition
 DECL|function|event
 DECL|function|historyType
 DECL|function|onEntry
 DECL|function|onExit
 DECL|function|setDefaultState
+DECL|function|setDefaultTransition
 DECL|function|setHistoryType
 DECL|function|~QHistoryState

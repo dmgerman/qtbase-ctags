@@ -147,6 +147,7 @@ DECL|function|propertiesAssignedSignalTransitionsReuseAnimationGroup
 DECL|function|qtbug_44783
 DECL|function|qtbug_44963
 DECL|function|qtbug_46059
+DECL|function|qtbug_46703
 DECL|function|removeDefaultAnimation
 DECL|function|restoreProperties
 DECL|function|restoreProperties2
