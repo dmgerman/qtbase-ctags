@@ -4,8 +4,6 @@ DECL|enumerator|soon_time
 DECL|function|Key
 DECL|function|Key
 DECL|function|QPMCache
-DECL|function|allPixmaps
-DECL|function|allPixmaps
 DECL|function|cacheLimit
 DECL|function|clear
 DECL|function|clear
