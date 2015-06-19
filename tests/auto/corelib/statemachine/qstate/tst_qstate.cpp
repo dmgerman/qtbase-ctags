@@ -19,6 +19,7 @@ DECL|function|emitTrigger
 DECL|function|eventTest
 DECL|function|historyInitialState
 DECL|function|onTransition
+DECL|function|parallelStateAndInitialState
 DECL|function|privateSignals
 DECL|function|slot
 DECL|function|testSlot
