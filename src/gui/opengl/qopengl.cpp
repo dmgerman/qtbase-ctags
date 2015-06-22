@@ -10,7 +10,6 @@ DECL|function|VersionTerm
 DECL|function|contains
 DECL|function|descriptionKey
 DECL|function|deviceIdKey
-DECL|function|driverDescriptionKey
 DECL|function|driverVersionKey
 DECL|function|exceptionsKey
 DECL|function|featuresKey
