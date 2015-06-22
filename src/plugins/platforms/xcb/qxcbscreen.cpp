@@ -12,6 +12,7 @@ DECL|function|operator <<
 DECL|function|parseXftHintStyle
 DECL|function|parseXftInt
 DECL|function|parseXftRgba
+DECL|function|pixelDensity
 DECL|function|readXResources
 DECL|function|sendStartupMessage
 DECL|function|topLevelAt
