@@ -15,6 +15,7 @@ DECL|function|size
 DECL|function|staticContents
 DECL|function|window
 DECL|function|~QBackingStore
+DECL|member|highDpiBackingstore
 DECL|member|platformBackingStore
 DECL|member|size
 DECL|member|staticContents

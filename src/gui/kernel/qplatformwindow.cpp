@@ -1,4 +1,5 @@
 DECL|function|QPlatformWindow
+DECL|function|constrainWindowSize
 DECL|function|devicePixelRatio
 DECL|function|effectiveScreen
 DECL|function|format
@@ -42,5 +43,11 @@ DECL|function|setWindowTitle
 DECL|function|startSystemResize
 DECL|function|winId
 DECL|function|window
+DECL|function|windowBaseSize
+DECL|function|windowClosestAcceptableGeometry
 DECL|function|windowEvent
+DECL|function|windowGeometry
+DECL|function|windowMaximumSize
+DECL|function|windowMinimumSize
+DECL|function|windowSizeIncrement
 DECL|function|~QPlatformWindow

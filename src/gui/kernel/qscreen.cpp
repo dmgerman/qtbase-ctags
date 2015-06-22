@@ -28,6 +28,7 @@ DECL|function|physicalSize
 DECL|function|primaryOrientation
 DECL|function|refreshRate
 DECL|function|setOrientationUpdateMask
+DECL|function|setPlatformScreen
 DECL|function|size
 DECL|function|transformBetween
 DECL|function|updatePrimaryOrientation

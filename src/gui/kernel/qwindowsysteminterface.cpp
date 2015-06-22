@@ -1,7 +1,7 @@
 DECL|function|ExposeEvent
-DECL|function|convertTouchPoints
 DECL|function|deferredFlushWindowSystemEvents
 DECL|function|flushWindowSystemEvents
+DECL|function|fromNativeTouchPoints
 DECL|function|getNonUserInputWindowSystemEvent
 DECL|function|getWindowSystemEvent
 DECL|function|handleApplicationStateChanged
@@ -68,6 +68,7 @@ DECL|function|removeWindowSystemEventhandler
 DECL|function|sendEvent
 DECL|function|sendWindowSystemEvents
 DECL|function|setSynchronousWindowSystemEvents
+DECL|function|toNativeTouchPoints
 DECL|function|tryHandleExtendedShortcutEvent
 DECL|function|tryHandleExtendedShortcutEvent
 DECL|function|tryHandleShortcutEvent

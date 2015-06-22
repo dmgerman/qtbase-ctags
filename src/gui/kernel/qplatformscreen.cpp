@@ -1,6 +1,7 @@
 DECL|function|QPlatformScreen
 DECL|function|angleBetween
 DECL|function|cursor
+DECL|function|deviceIndependentGeometry
 DECL|function|devicePixelRatio
 DECL|function|grabWindow
 DECL|function|log2
@@ -9,11 +10,13 @@ DECL|function|mapBetween
 DECL|function|nativeOrientation
 DECL|function|orientation
 DECL|function|physicalSize
+DECL|function|pixelDensity
 DECL|function|platformScreenForWindow
 DECL|function|powerState
 DECL|function|refreshRate
 DECL|function|resizeMaximizedWindows
 DECL|function|screen
+DECL|function|screenForPosition
 DECL|function|setOrientationUpdateMask
 DECL|function|setPowerState
 DECL|function|subpixelAntialiasingTypeHint
