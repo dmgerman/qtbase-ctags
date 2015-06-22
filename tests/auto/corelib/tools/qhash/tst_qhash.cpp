@@ -23,6 +23,7 @@ DECL|function|initializerList
 DECL|function|insert1
 DECL|function|iterators
 DECL|function|key
+DECL|function|keyIterator
 DECL|function|keys_values_uniqueKeys
 DECL|function|noNeedlessRehashes
 DECL|function|operator =

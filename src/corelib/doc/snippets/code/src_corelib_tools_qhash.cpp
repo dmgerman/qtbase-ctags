@@ -27,8 +27,11 @@ DECL|variable|i
 DECL|variable|i
 DECL|variable|i
 DECL|variable|i
+DECL|variable|keys
 DECL|variable|num1
 DECL|variable|num2
+DECL|variable|numPrimes
+DECL|variable|numPrimes
 DECL|variable|objectHash
 DECL|variable|timeout
 DECL|variable|timeout
