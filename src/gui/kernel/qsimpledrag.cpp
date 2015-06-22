@@ -10,8 +10,9 @@ DECL|function|enableEventFilter
 DECL|function|endDrag
 DECL|function|eventFilter
 DECL|function|exitDndEventLoop
+DECL|function|getNativeMousePos
 DECL|function|move
-DECL|function|move
+DECL|function|moveShapedPixmapWindow
 DECL|function|platformDropData
 DECL|function|restoreCursor
 DECL|function|startDrag

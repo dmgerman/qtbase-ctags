@@ -35,6 +35,7 @@ DECL|function|toXdndAction
 DECL|function|translateCoordinates
 DECL|function|windowInteractsWithPosition
 DECL|function|xcb_window
+DECL|function|xcb_window
 DECL|function|xdndObtainData
 DECL|function|xdndProxy
 DECL|function|~QXcbDrag
