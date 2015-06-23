@@ -4,8 +4,8 @@ DECL|enumerator|Err_Invalid_SubTable_Format
 DECL|enumerator|Err_Not_Covered
 DECL|enumerator|Err_Ok
 DECL|enum|HB_Compat_Error
+DECL|function|noexcept
 DECL|function|operator
-DECL|function|qHash
 DECL|macro|MAKE_TAG
 DECL|macro|QFONTENGINE_P_H
 DECL|typedef|qt_destroy_func_t
