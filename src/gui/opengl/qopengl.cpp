@@ -8,8 +8,10 @@ DECL|enum|Operator
 DECL|function|QOpenGLExtensionMatcher
 DECL|function|VersionTerm
 DECL|function|contains
+DECL|function|contains
 DECL|function|descriptionKey
 DECL|function|deviceIdKey
+DECL|function|driverDescriptionKey
 DECL|function|driverVersionKey
 DECL|function|exceptionsKey
 DECL|function|featuresKey
@@ -23,6 +25,7 @@ DECL|function|gpuFeatures
 DECL|function|gpuFeatures
 DECL|function|hostKernelVersion
 DECL|function|hostOs
+DECL|function|hostOsRelease
 DECL|function|idKey
 DECL|function|isNull
 DECL|function|isNull
@@ -37,12 +40,14 @@ DECL|function|qgpu_features
 DECL|function|readGpuFeatures
 DECL|function|readGpuFeatures
 DECL|function|readGpuFeatures
+DECL|function|releaseKey
 DECL|function|typeKey
 DECL|function|valueKey
 DECL|function|vendorIdKey
 DECL|function|versionKey
 DECL|member|number
 DECL|member|op
+DECL|member|release
 DECL|member|type
 DECL|member|versionTerm
 DECL|struct|OsTypeTerm
