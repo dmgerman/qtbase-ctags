@@ -1,5 +1,5 @@
-DECL|function|QPolygon
-DECL|function|QPolygonF
+DECL|function|Q_DECLARE_SHARED_NOT_MOVABLE_UNTIL_QT6
+DECL|function|Q_DECLARE_SHARED_NOT_MOVABLE_UNTIL_QT6
 DECL|function|point
 DECL|function|setPoint
 DECL|function|setPoint

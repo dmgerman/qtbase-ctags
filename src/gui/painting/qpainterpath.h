@@ -23,3 +23,4 @@ DECL|variable|QPen
 DECL|variable|QPolygonF
 DECL|variable|QRegion
 DECL|variable|QVectorPath
+DECL|variable|operator
