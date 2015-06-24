@@ -16,6 +16,7 @@ DECL|function|ClassDef
 DECL|function|EnumDef
 DECL|function|FunctionDef
 DECL|function|Interface
+DECL|function|Interface
 DECL|function|PropertyDef
 DECL|function|Type
 DECL|function|Type
