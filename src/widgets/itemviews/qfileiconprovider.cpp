@@ -11,5 +11,5 @@ DECL|function|options
 DECL|function|setOptions
 DECL|function|type
 DECL|function|~QFileIconProvider
-DECL|member|m_fileIconProvider
 DECL|member|m_fileInfo
+DECL|member|m_fipOpts
