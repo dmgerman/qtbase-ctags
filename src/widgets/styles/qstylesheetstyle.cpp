@@ -2,6 +2,7 @@ DECL|class|QRenderRule
 DECL|class|QStyleSheetStylePrivate
 DECL|class|QStyleSheetStyleRecursionGuard
 DECL|class|QStyleSheetStyleSelector
+DECL|class|QTypeInfo
 DECL|enumerator|All
 DECL|enumerator|Border
 DECL|enumerator|Margin
