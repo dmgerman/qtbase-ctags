@@ -29,6 +29,8 @@ DECL|function|beginOptimal
 DECL|function|check
 DECL|function|check
 DECL|function|check
+DECL|function|constFirst
+DECL|function|constLast
 DECL|function|constSharedNull
 DECL|function|constSharedNullComplex
 DECL|function|constSharedNullMovable
