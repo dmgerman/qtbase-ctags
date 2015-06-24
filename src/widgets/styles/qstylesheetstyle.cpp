@@ -225,7 +225,6 @@ DECL|function|unstylable
 DECL|function|updateObjects
 DECL|function|updateStyleSheetFont
 DECL|function|verticalTabs
-DECL|function|~QRenderRule
 DECL|function|~QStyleSheetStyle
 DECL|function|~QStyleSheetStyleRecursionGuard
 DECL|macro|OBJECT_PTR
