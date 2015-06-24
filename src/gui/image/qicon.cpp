@@ -27,6 +27,7 @@ DECL|function|format
 DECL|function|fromTheme
 DECL|function|hasThemeIcon
 DECL|function|isDetached
+DECL|function|isMask
 DECL|function|isNull
 DECL|function|key
 DECL|function|name
@@ -47,6 +48,7 @@ DECL|function|qt_effective_device_pixel_ratio
 DECL|function|qt_iconEngineFactoryLoader
 DECL|function|read
 DECL|function|read
+DECL|function|setIsMask
 DECL|function|setThemeName
 DECL|function|setThemeSearchPaths
 DECL|function|themeName
