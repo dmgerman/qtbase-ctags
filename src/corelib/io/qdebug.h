@@ -26,7 +26,7 @@ DECL|member|Value
 DECL|member|Value
 DECL|member|Value
 DECL|member|operator
+DECL|variable|Key
 DECL|variable|NSObject
 DECL|variable|T1
-DECL|variable|aKey
 DECL|variable|operator
