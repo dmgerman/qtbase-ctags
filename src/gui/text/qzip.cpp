@@ -74,8 +74,6 @@ DECL|enum|CompressionMethod
 DECL|enum|EntryType
 DECL|enum|GeneralPurposeFlag
 DECL|enum|HostOS
-DECL|function|FileInfo
-DECL|function|FileInfo
 DECL|function|QZipPrivate
 DECL|function|QZipReader
 DECL|function|QZipReader
@@ -107,10 +105,8 @@ DECL|function|fileInfoList
 DECL|function|fillFileInfo
 DECL|function|inflate
 DECL|function|isReadable
-DECL|function|isValid
 DECL|function|isWritable
 DECL|function|modeToPermissions
-DECL|function|operator =
 DECL|function|permissionsToMode
 DECL|function|readMSDosDate
 DECL|function|readUInt
@@ -124,7 +120,6 @@ DECL|function|toLocalHeader
 DECL|function|writeMSDosDate
 DECL|function|writeUInt
 DECL|function|writeUShort
-DECL|function|~FileInfo
 DECL|function|~QZipPrivate
 DECL|function|~QZipReader
 DECL|function|~QZipWriter
