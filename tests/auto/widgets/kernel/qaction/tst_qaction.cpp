@@ -8,6 +8,7 @@ DECL|function|cleanupTestCase
 DECL|function|enabledVisibleInteraction
 DECL|function|getSetCheck
 DECL|function|initTestCase
+DECL|function|repeat
 DECL|function|setIconText
 DECL|function|setIconText_data
 DECL|function|setStandardKeys
