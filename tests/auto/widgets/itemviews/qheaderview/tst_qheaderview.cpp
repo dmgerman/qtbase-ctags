@@ -127,6 +127,7 @@ DECL|function|showSortIndicator
 DECL|function|sizeHintCrash
 DECL|function|sortIndicatorTracking
 DECL|function|stretch
+DECL|function|stretchAndRestoreLastSection
 DECL|function|stretchSectionCount
 DECL|function|swapSections
 DECL|function|swapSectionsTest

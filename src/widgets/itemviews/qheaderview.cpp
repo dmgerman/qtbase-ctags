@@ -40,6 +40,7 @@ DECL|function|length
 DECL|function|logicalIndex
 DECL|function|logicalIndexAt
 DECL|function|maximumSectionSize
+DECL|function|maybeRestorePrevLastSectionAndStretchLast
 DECL|function|minimumSectionSize
 DECL|function|mouseDoubleClickEvent
 DECL|function|mouseMoveEvent
@@ -65,6 +66,7 @@ DECL|function|resizeSectionItem
 DECL|function|resizeSections
 DECL|function|resizeSections
 DECL|function|resizeSections
+DECL|function|restoreSizeOnPrevLastSection
 DECL|function|restoreState
 DECL|function|rowsInserted
 DECL|function|saveState
@@ -93,6 +95,7 @@ DECL|function|setHighlightSections
 DECL|function|setMaximumSectionSize
 DECL|function|setMinimumSectionSize
 DECL|function|setModel
+DECL|function|setNewLastSection
 DECL|function|setOffset
 DECL|function|setOffsetToLastSection
 DECL|function|setOffsetToSectionPosition
