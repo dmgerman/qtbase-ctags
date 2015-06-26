@@ -36,6 +36,9 @@ DECL|function|setPrivateKey
 DECL|function|setProtocol
 DECL|function|setSessionTicket
 DECL|function|setSslOption
+DECL|function|supportedCiphers
+DECL|function|supportedEllipticCurves
+DECL|function|systemCaCertificates
 DECL|function|testSslOption
 DECL|function|~QSslConfiguration
 DECL|member|NextProtocolHttp1_1

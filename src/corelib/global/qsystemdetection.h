@@ -1,4 +1,5 @@
 DECL|macro|MAC_OS_X_VERSION_10_10
+DECL|macro|MAC_OS_X_VERSION_10_11
 DECL|macro|MAC_OS_X_VERSION_10_7
 DECL|macro|MAC_OS_X_VERSION_10_8
 DECL|macro|MAC_OS_X_VERSION_10_9
@@ -67,7 +68,13 @@ DECL|macro|__IPHONE_6_1
 DECL|macro|__IPHONE_7_0
 DECL|macro|__IPHONE_7_1
 DECL|macro|__IPHONE_8_0
+DECL|macro|__IPHONE_8_1
+DECL|macro|__IPHONE_8_2
+DECL|macro|__IPHONE_8_3
+DECL|macro|__IPHONE_8_4
+DECL|macro|__IPHONE_9_0
 DECL|macro|__MAC_10_10
+DECL|macro|__MAC_10_11
 DECL|macro|__MAC_10_7
 DECL|macro|__MAC_10_8
 DECL|macro|__MAC_10_9
