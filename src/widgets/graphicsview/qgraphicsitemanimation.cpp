@@ -1,5 +1,4 @@
 DECL|class|QGraphicsItemAnimationPrivate
-DECL|function|Pair
 DECL|function|QGraphicsItemAnimation
 DECL|function|QGraphicsItemAnimationPrivate
 DECL|function|afterAnimationStep
