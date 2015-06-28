@@ -222,6 +222,7 @@ DECL|function|unpolish
 DECL|function|unpolish
 DECL|function|unsetClip
 DECL|function|unsetPalette
+DECL|function|unsetStyleSheetFont
 DECL|function|unstylable
 DECL|function|updateObjects
 DECL|function|updateStyleSheetFont

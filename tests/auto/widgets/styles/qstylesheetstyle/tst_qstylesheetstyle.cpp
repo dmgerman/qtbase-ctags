@@ -40,9 +40,11 @@ DECL|function|emptyStyleSheet
 DECL|function|focusColors
 DECL|function|fontPrecedence
 DECL|function|fontPropagation
+DECL|function|fontPropagation_data
 DECL|function|generatedIconPixmap
 DECL|function|hitTestComplexControl
 DECL|function|hoverColors
+DECL|function|init
 DECL|function|layoutSpacing
 DECL|function|layoutSpacing
 DECL|function|minmaxSizes
@@ -52,6 +54,7 @@ DECL|function|onWidgetDestroyed
 DECL|function|opaquePaintEvent
 DECL|function|opaquePaintEvent_data
 DECL|function|palettePropagation
+DECL|function|palettePropagation_data
 DECL|function|pixelMetric
 DECL|function|proxyStyle
 DECL|function|qproperty
@@ -74,6 +77,8 @@ DECL|function|toolTip
 DECL|function|transparent
 DECL|function|tst_QStyleSheetStyle
 DECL|function|widgetStyle
+DECL|function|widgetStylePropagation
+DECL|function|widgetStylePropagation_data
 DECL|function|widgetStyleSheet
 DECL|function|widgetsAfterAppStyleSheet
 DECL|function|widgetsBeforeAppStyleSheet
