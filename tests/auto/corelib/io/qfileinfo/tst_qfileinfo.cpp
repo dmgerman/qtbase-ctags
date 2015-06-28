@@ -88,7 +88,7 @@ DECL|macro|AUTOFS_SUPER_MAGIC
 DECL|macro|NFS_SUPER_MAGIC
 DECL|macro|Q_NO_SYMLINKS
 DECL|member|m_currentDir
-DECL|member|m_dataPath
+DECL|member|m_dataDir
 DECL|member|m_dir
 DECL|member|m_error
 DECL|member|m_fileName

@@ -78,6 +78,7 @@ DECL|method|getAppIconSize
 DECL|method|getSurfaceCount
 DECL|method|hasPermanentMenuKey
 DECL|method|hideSoftwareKeyboard
+DECL|method|initializeAccessibility
 DECL|method|insertNativeView
 DECL|method|loadApplication
 DECL|method|onActivityResult

@@ -41,10 +41,7 @@ DECL|function|defaultCaCertificates
 DECL|function|defaultCiphers
 DECL|function|defaultCiphers
 DECL|function|defaultConfiguration
-DECL|function|defaultEllipticCurves
-DECL|function|defaultEllipticCurves
 DECL|function|disconnectFromHost
-DECL|function|ellipticCurves
 DECL|function|encryptedBytesAvailable
 DECL|function|encryptedBytesToWrite
 DECL|function|flush
@@ -82,11 +79,8 @@ DECL|function|setDefaultCaCertificates
 DECL|function|setDefaultCiphers
 DECL|function|setDefaultCiphers
 DECL|function|setDefaultConfiguration
-DECL|function|setDefaultEllipticCurves
-DECL|function|setDefaultEllipticCurves
 DECL|function|setDefaultSupportedCiphers
 DECL|function|setDefaultSupportedEllipticCurves
-DECL|function|setEllipticCurves
 DECL|function|setLocalCertificate
 DECL|function|setLocalCertificate
 DECL|function|setLocalCertificateChain
@@ -112,7 +106,6 @@ DECL|function|startClientEncryption
 DECL|function|startServerEncryption
 DECL|function|supportedCiphers
 DECL|function|supportedCiphers
-DECL|function|supportedEllipticCurves
 DECL|function|supportedEllipticCurves
 DECL|function|supportsSsl
 DECL|function|systemCaCertificates

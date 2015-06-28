@@ -29,7 +29,6 @@ DECL|function|customColors
 DECL|function|defaultStyleHint
 DECL|function|defaultSuffix
 DECL|function|detailedText
-DECL|function|execModalForWindow
 DECL|function|fileMode
 DECL|function|filter
 DECL|function|history
