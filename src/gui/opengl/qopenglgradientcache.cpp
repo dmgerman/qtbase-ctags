@@ -6,10 +6,10 @@ DECL|function|cacheForContext
 DECL|function|cleanCache
 DECL|function|freeResource
 DECL|function|generateGradientColorTable
+DECL|function|generateGradientColorTable
 DECL|function|getBuffer
 DECL|function|invalidateResource
 DECL|function|~QOpenGL2GradientCache
 DECL|macro|GL_RGBA16
-DECL|macro|GL_RGBA8
 DECL|member|m_mutex
 DECL|member|m_resource
