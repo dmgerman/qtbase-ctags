@@ -3,6 +3,8 @@ DECL|function|cursor
 DECL|function|depth
 DECL|function|format
 DECL|function|geometry
+DECL|function|grabWindow
+DECL|function|handleCursorMove
 DECL|function|logicalDpi
 DECL|function|nativeOrientation
 DECL|function|orientation

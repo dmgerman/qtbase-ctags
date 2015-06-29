@@ -1,6 +1,6 @@
 DECL|class|CursorUpdateEvent
 DECL|function|CursorUpdateEvent
-DECL|function|QEGLPlatformCursor
+DECL|function|QEglFSCursor
 DECL|function|changeCursor
 DECL|function|createCursorTexture
 DECL|function|createShaderPrograms
@@ -20,6 +20,6 @@ DECL|function|setCurrentCursor
 DECL|function|setPos
 DECL|function|update
 DECL|function|updateMouseStatus
-DECL|function|~QEGLPlatformCursor
+DECL|function|~QEglFSCursor
 DECL|member|m_pos
 DECL|member|m_region

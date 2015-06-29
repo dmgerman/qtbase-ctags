@@ -1,1 +1,6 @@
 DECL|macro|QEGLFSINTEGRATION_H
+DECL|variable|QEglFSContext
+DECL|variable|QEglFSWindow
+DECL|variable|QEvdevKeyboardManager
+DECL|variable|QFbVtHandler
+DECL|variable|QPlatformIntegration

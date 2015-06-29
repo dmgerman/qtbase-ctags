@@ -1,5 +1,0 @@
-DECL|macro|QEGLPLATFORMCURSOR_H
-DECL|variable|QEGLPlatformCursor
-DECL|variable|QEGLPlatformScreen
-DECL|variable|QOpenGLShaderProgram
-DECL|variable|QPlatformCursor

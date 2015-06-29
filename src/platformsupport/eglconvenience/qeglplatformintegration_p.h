@@ -1,6 +1,0 @@
-DECL|macro|QEGLPLATFORMINTEGRATION_H
-DECL|variable|QEGLPlatformContext
-DECL|variable|QEGLPlatformWindow
-DECL|variable|QEvdevKeyboardManager
-DECL|variable|QFbVtHandler
-DECL|variable|QPlatformIntegration
