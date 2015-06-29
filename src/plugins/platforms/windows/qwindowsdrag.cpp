@@ -26,6 +26,7 @@ DECL|function|Release
 DECL|function|createCursors
 DECL|function|defaultCursor
 DECL|function|drag
+DECL|function|dragScaleFactor
 DECL|function|dropData
 DECL|function|dropHelper
 DECL|function|handleDrag

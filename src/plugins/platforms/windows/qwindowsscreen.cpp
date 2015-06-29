@@ -17,6 +17,7 @@ DECL|function|monitorData
 DECL|function|monitorEnumCallback
 DECL|function|moveToVirtualScreen
 DECL|function|operator <<
+DECL|function|pixelDensity
 DECL|function|removeScreen
 DECL|function|screenAtDp
 DECL|function|screenOf

@@ -107,6 +107,7 @@ DECL|function|startSystemResize
 DECL|function|stopAlertWindow
 DECL|function|surface
 DECL|function|testShowWithoutActivating
+DECL|function|toNativeSizeConstrained
 DECL|function|topLevelOf
 DECL|function|transientParentHwnd
 DECL|function|updateDropSite
