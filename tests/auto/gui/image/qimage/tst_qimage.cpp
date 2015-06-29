@@ -29,6 +29,7 @@ DECL|function|dotsPerMeterZero
 DECL|function|exifOrientation
 DECL|function|exifOrientation_data
 DECL|function|exif_QTBUG45865
+DECL|function|exif_invalid_data_QTBUG46870
 DECL|function|fillColor
 DECL|function|fillColorWithAlpha
 DECL|function|fillColor_data
