@@ -26,7 +26,6 @@ DECL|function|BYTE_MUL
 DECL|function|BYTE_MUL
 DECL|function|BYTE_MUL_RGB16
 DECL|function|BYTE_MUL_RGB16_32
-DECL|function|BYTE_MUL_RGB30
 DECL|function|INTERPOLATE_PIXEL_255
 DECL|function|INTERPOLATE_PIXEL_256
 DECL|function|INTERPOLATE_PIXEL_256
@@ -54,6 +53,7 @@ DECL|function|qConvertRgb32To16
 DECL|function|qGreen565
 DECL|function|qRadialDeterminant
 DECL|function|qRed565
+DECL|function|qRepremultiply
 DECL|function|qRepremultiply
 DECL|function|qRgbSwapRgb30
 DECL|function|qt_convertARGB32ToARGB32PM
