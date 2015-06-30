@@ -21,6 +21,7 @@ DECL|function|matchDocsAndStuff
 DECL|function|matchEnumDecl
 DECL|function|matchEnumItem
 DECL|function|matchFunctionDecl
+DECL|function|matchFunctionModifier
 DECL|function|matchModuleQualifier
 DECL|function|matchNamespaceDecl
 DECL|function|matchParameter
@@ -52,4 +53,5 @@ DECL|member|exampleDirs
 DECL|member|exampleFiles
 DECL|variable|inMacroCommand_
 DECL|variable|otherMetaCommands_
+DECL|variable|parsingHeaderFile_
 DECL|variable|topicCommands_
