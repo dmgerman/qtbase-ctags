@@ -7,6 +7,8 @@ DECL|function|commitText
 DECL|function|createConnection
 DECL|function|cursorRectChanged
 DECL|function|deleteSurroundingText
+DECL|function|filterEvent
+DECL|function|filterEventFinished
 DECL|function|invokeAction
 DECL|function|isValid
 DECL|function|reset
@@ -14,9 +16,9 @@ DECL|function|setFocusObject
 DECL|function|surroundingTextRequired
 DECL|function|update
 DECL|function|updatePreeditText
-DECL|function|x11FilterEvent
 DECL|function|~QIBusPlatformInputContext
 DECL|function|~QIBusPlatformInputContextPrivate
+DECL|macro|IBUS_RELEASE_MASK
 DECL|member|bus
 DECL|member|connection
 DECL|member|context

@@ -1,3 +1,2 @@
 DECL|macro|QIBUSPLATFORMINPUTCONTEXT_H
 DECL|variable|QDBusVariant
-DECL|variable|QIBusPlatformInputContextPrivate
