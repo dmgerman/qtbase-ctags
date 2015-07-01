@@ -7,4 +7,3 @@ DECL|function|qt_wince_is_platform
 DECL|function|qt_wince_is_pocket_pc
 DECL|function|qt_wince_is_smartphone
 DECL|function|qt_wince_is_windows_mobile_65
-DECL|macro|SPI_GETPLATFORMTYPE

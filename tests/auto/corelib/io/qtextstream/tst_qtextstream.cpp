@@ -75,9 +75,9 @@ DECL|function|readLineFromStringThenChangeString
 DECL|function|readLineFromString_data
 DECL|function|readLineFromTextDevice
 DECL|function|readLineFromTextDevice_data
+DECL|function|readLineInto
 DECL|function|readLineMaxlen
 DECL|function|readLineMaxlen_data
-DECL|function|readLineOverload
 DECL|function|readLineUntilNull
 DECL|function|readLinesFromBufferCRCR
 DECL|function|readNewlines
