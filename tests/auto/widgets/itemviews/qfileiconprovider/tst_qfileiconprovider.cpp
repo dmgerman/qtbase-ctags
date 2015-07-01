@@ -2,6 +2,7 @@ DECL|class|SubQFileIconProvider
 DECL|class|tst_QFileIconProvider
 DECL|function|cleanup
 DECL|function|cleanupTestCase
+DECL|function|getIcon
 DECL|function|iconInfo
 DECL|function|iconInfo_data
 DECL|function|iconType
@@ -10,5 +11,6 @@ DECL|function|init
 DECL|function|initTestCase
 DECL|function|qfileiconprovider
 DECL|function|qfileiconprovider_data
+DECL|function|taskQTBUG_46755_QFileIconEngine_crash
 DECL|function|type
 DECL|function|type_data

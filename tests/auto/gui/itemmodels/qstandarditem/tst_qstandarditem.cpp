@@ -27,6 +27,7 @@ DECL|function|insertRow
 DECL|function|insertRow_data
 DECL|function|insertRows
 DECL|function|insertRows_data
+DECL|function|lessThan
 DECL|function|operator <
 DECL|function|parent
 DECL|function|rowsColumnsCtor

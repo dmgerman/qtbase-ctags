@@ -23,5 +23,6 @@ DECL|member|firstPressedPosition
 DECL|member|pointPressedPosition
 DECL|member|qtTouchDevice
 DECL|member|size
+DECL|member|touchPoints
 DECL|member|xiDeviceInfo
 DECL|struct|XInput2TouchDeviceData

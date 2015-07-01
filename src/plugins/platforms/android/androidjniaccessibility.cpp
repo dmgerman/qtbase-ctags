@@ -3,6 +3,7 @@ DECL|function|clickAction
 DECL|function|descriptionForAccessibleObject
 DECL|function|descriptionForAccessibleObject_helper
 DECL|function|hitTest
+DECL|function|initialize
 DECL|function|interfaceFromId
 DECL|function|parentId
 DECL|function|populateNode

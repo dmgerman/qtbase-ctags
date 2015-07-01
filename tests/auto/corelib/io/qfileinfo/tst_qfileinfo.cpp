@@ -1,5 +1,7 @@
+DECL|class|FileDeleter
 DECL|class|NativeFileCreator
 DECL|class|tst_QFileInfo
+DECL|function|FileDeleter
 DECL|function|IsUserAdmin
 DECL|function|NativeFileCreator
 DECL|function|absFilePath
@@ -79,15 +81,17 @@ DECL|function|systemFiles
 DECL|function|testDecomposedUnicodeNames
 DECL|function|testDecomposedUnicodeNames_data
 DECL|function|tst_QFileInfo
+DECL|function|~FileDeleter
 DECL|function|~NativeFileCreator
 DECL|macro|AUTOFSNG_SUPER_MAGIC
 DECL|macro|AUTOFS_SUPER_MAGIC
 DECL|macro|NFS_SUPER_MAGIC
 DECL|macro|Q_NO_SYMLINKS
 DECL|member|m_currentDir
-DECL|member|m_dataPath
+DECL|member|m_dataDir
 DECL|member|m_dir
 DECL|member|m_error
+DECL|member|m_fileName
 DECL|member|m_filePath
 DECL|member|m_proFile
 DECL|member|m_resourcesDir

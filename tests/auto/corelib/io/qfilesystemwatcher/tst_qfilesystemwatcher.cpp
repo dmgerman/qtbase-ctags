@@ -27,6 +27,7 @@ DECL|function|receivedFilesMessage
 DECL|function|removeFileAndUnWatch
 DECL|function|removePath
 DECL|function|removePaths
+DECL|function|removePathsFilesInSameDirectory
 DECL|function|signalsEmittedAfterFileMoved
 DECL|function|spySlot
 DECL|function|tst_QFileSystemWatcher

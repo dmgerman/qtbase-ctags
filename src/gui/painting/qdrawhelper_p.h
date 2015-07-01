@@ -54,6 +54,7 @@ DECL|function|qConvertRgb32To16
 DECL|function|qGreen565
 DECL|function|qRadialDeterminant
 DECL|function|qRed565
+DECL|function|qRepremultiply
 DECL|function|qRgbSwapRgb30
 DECL|function|qt_convertARGB32ToARGB32PM
 DECL|function|qt_convertRGBA8888ToARGB32PM
