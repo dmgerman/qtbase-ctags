@@ -24,6 +24,7 @@ DECL|function|cancelLongTimer
 DECL|function|deleteLaterOnQTimer
 DECL|function|dontBlockEvents
 DECL|function|event
+DECL|function|fetchRemainingTime
 DECL|function|livelock
 DECL|function|livelock_data
 DECL|function|longLastingSlot
@@ -37,6 +38,8 @@ DECL|function|recurringTimer
 DECL|function|recurringTimer_data
 DECL|function|recurseOnTimeoutAndStopTimer
 DECL|function|remainingTime
+DECL|function|remainingTimeDuringActivation
+DECL|function|remainingTimeDuringActivation_data
 DECL|function|repeatThisSlot
 DECL|function|restartedTimerFiresTooSoon
 DECL|function|run
@@ -80,6 +83,7 @@ DECL|member|m_timer
 DECL|member|one
 DECL|member|postEventAtRightTime
 DECL|member|recurse
+DECL|member|remainingTime
 DECL|member|returnValue
 DECL|member|secondTimerId
 DECL|member|target
