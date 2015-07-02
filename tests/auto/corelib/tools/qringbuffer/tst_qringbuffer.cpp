@@ -1,6 +1,7 @@
 DECL|class|tst_QRingBuffer
 DECL|function|appendAndRead
 DECL|function|chop
+DECL|function|constructing
 DECL|function|free
 DECL|function|indexOf
 DECL|function|peek
@@ -11,7 +12,6 @@ DECL|function|readPointerAtPositionWithHead
 DECL|function|readPointerAtPositionWriteRead
 DECL|function|reserveAndRead
 DECL|function|reserveFrontAndRead
-DECL|function|sizeWhenEmpty
 DECL|function|sizeWhenReserved
 DECL|function|sizeWhenReservedAndChopped
 DECL|function|ungetChar
