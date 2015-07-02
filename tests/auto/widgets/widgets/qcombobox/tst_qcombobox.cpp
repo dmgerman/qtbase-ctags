@@ -69,6 +69,7 @@ DECL|function|removeItem
 DECL|function|removeRows
 DECL|function|reset
 DECL|function|resetModel
+DECL|function|respectChangedOwnershipOfItemView
 DECL|function|rowCount
 DECL|function|scrollTo
 DECL|function|separatorItem
