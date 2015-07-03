@@ -36,7 +36,11 @@ DECL|function|sync
 DECL|function|unescapedKey
 DECL|function|writeHandle
 DECL|function|~QWinSettingsPrivate
+DECL|macro|KEY_WOW64_32KEY
+DECL|macro|KEY_WOW64_64KEY
+DECL|member|access
 DECL|member|deleteWriteHandleOnExit
+DECL|member|m_access
 DECL|member|m_handle
 DECL|member|m_key
 DECL|member|m_parent_handle
