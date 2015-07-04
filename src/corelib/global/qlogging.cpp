@@ -42,6 +42,7 @@ DECL|function|qt_message_output
 DECL|function|qt_message_print
 DECL|function|setPattern
 DECL|function|slog2_default_handler
+DECL|function|syslog_default_message_handler
 DECL|function|systemd_default_message_handler
 DECL|function|ungrabMessageHandler
 DECL|function|ungrabMessageHandler
