@@ -1,8 +1,6 @@
 DECL|class|QDockWidgetGroupLayout
-DECL|class|QDockWidgetGroupWindowItem
 DECL|class|QMainWindowTabBar
 DECL|function|QDockWidgetGroupLayout
-DECL|function|QDockWidgetGroupWindowItem
 DECL|function|QMainWindowLayout
 DECL|function|QMainWindowLayoutState
 DECL|function|QMainWindowTabBar
@@ -55,7 +53,6 @@ DECL|function|itemAt
 DECL|function|itemAt
 DECL|function|itemRect
 DECL|function|keepSize
-DECL|function|lay
 DECL|function|layoutInfo
 DECL|function|layoutInfo
 DECL|function|minimumSize
