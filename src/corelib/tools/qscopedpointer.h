@@ -4,7 +4,6 @@ DECL|function|cleanup
 DECL|function|cleanup
 DECL|function|operator
 DECL|function|operator
-DECL|function|qSwap
 DECL|macro|QSCOPEDPOINTER_H
 DECL|struct|QScopedPointerArrayDeleter
 DECL|struct|QScopedPointerDeleter
@@ -14,6 +13,7 @@ DECL|typedef|QScopedPointerDeleteLater
 DECL|variable|Cleanup
 DECL|variable|Cleanup
 DECL|variable|QObject
+DECL|variable|T
 DECL|variable|T
 DECL|variable|T
 DECL|variable|T
