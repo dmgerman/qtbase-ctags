@@ -1,10 +1,10 @@
 DECL|function|QDBusObjectPath
 DECL|function|QDBusObjectPath
-DECL|function|QDBusObjectPath
 DECL|function|QDBusSignature
 DECL|function|QDBusSignature
-DECL|function|QDBusSignature
-DECL|function|QDBusVariant
+DECL|function|Q_DECLARE_SHARED_NOT_MOVABLE_UNTIL_QT6
+DECL|function|Q_DECLARE_SHARED_NOT_MOVABLE_UNTIL_QT6
+DECL|function|Q_DECLARE_SHARED_NOT_MOVABLE_UNTIL_QT6
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
