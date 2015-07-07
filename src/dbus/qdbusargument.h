@@ -1,6 +1,6 @@
 DECL|function|QVariant
 DECL|function|QVariant
-DECL|function|Q_DECLARE_METATYPE
+DECL|function|Q_DECLARE_SHARED_NOT_MOVABLE_UNTIL_QT6
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
