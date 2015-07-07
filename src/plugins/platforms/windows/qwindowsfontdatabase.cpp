@@ -51,6 +51,7 @@ DECL|function|loader
 DECL|function|localizedName
 DECL|function|operator <<
 DECL|function|populateFamily
+DECL|function|populateFamily
 DECL|function|populateFontDatabase
 DECL|function|populateFontFamilies
 DECL|function|refUniqueFont
