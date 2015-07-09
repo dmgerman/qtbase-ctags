@@ -1,4 +1,3 @@
-DECL|function|main
 DECL|variable|codec
 DECL|variable|codec
 DECL|variable|codec
