@@ -8,6 +8,7 @@ DECL|function|logicalDpi
 DECL|function|lower
 DECL|function|nativeOrientation
 DECL|function|orientation
+DECL|function|pixelDensity
 DECL|function|raise
 DECL|function|rasterSurfaces
 DECL|function|releaseSurface

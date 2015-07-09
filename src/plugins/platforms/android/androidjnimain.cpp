@@ -22,6 +22,7 @@ DECL|function|javaVM
 DECL|function|methodErrorMsgFmt
 DECL|function|onActivityResult
 DECL|function|onNewIntent
+DECL|function|pixelDensity
 DECL|function|qtTagText
 DECL|function|quitQtAndroidPlugin
 DECL|function|registerNatives
@@ -66,6 +67,7 @@ DECL|variable|m_classErrorMsg
 DECL|variable|m_classLoaderObject
 DECL|variable|m_createBitmapMethodID
 DECL|variable|m_createSurfaceMethodID
+DECL|variable|m_density
 DECL|variable|m_desktopHeightPixels
 DECL|variable|m_desktopWidthPixels
 DECL|variable|m_destroySurfaceMethodID
