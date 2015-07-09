@@ -94,6 +94,7 @@ DECL|function|minLeftBearing
 DECL|function|minRightBearing
 DECL|function|operator =
 DECL|function|properties
+DECL|function|qSafeFromBigEndian
 DECL|function|qt_addBitmapToPath
 DECL|function|qt_get_font_table_default
 DECL|function|qt_useHarfbuzzNG
