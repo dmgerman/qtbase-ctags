@@ -2,7 +2,6 @@ DECL|function|ImageViewer
 DECL|function|about
 DECL|function|adjustScrollBar
 DECL|function|createActions
-DECL|function|createMenus
 DECL|function|fitToWindow
 DECL|function|loadFile
 DECL|function|normalSize
