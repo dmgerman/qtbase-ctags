@@ -24,5 +24,3 @@ DECL|function|tst_QIcon
 DECL|member|m_pngImageFileName
 DECL|member|m_pngRectFileName
 DECL|member|m_sourceFileName
-DECL|member|staticIcon
-DECL|member|staticIcon
