@@ -1,2 +1,0 @@
-DECL|function|q_atomic_lock_int
-DECL|function|q_atomic_lock_ptr
