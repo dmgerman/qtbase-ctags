@@ -24,7 +24,6 @@ DECL|function|resetDefaultCiphers
 DECL|function|resetDefaultEllipticCurves
 DECL|function|sessionCipher
 DECL|function|sessionProtocol
-DECL|function|setError
 DECL|function|setSessionCertificate
 DECL|function|setSessionProtocol
 DECL|function|sslLibraryBuildVersionNumber
