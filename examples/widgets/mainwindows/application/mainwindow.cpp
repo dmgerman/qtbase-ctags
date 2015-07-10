@@ -2,9 +2,7 @@ DECL|function|MainWindow
 DECL|function|about
 DECL|function|closeEvent
 DECL|function|createActions
-DECL|function|createMenus
 DECL|function|createStatusBar
-DECL|function|createToolBars
 DECL|function|documentWasModified
 DECL|function|loadFile
 DECL|function|maybeSave
