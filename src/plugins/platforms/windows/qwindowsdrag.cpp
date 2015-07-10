@@ -49,6 +49,7 @@ DECL|member|cacheKey
 DECL|member|cursor
 DECL|member|cursor
 DECL|member|hotSpot
+DECL|member|m_canceled
 DECL|member|m_currentButtons
 DECL|member|m_cursors
 DECL|member|m_drag

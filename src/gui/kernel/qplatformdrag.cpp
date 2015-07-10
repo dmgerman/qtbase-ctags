@@ -5,6 +5,7 @@ DECL|function|QPlatformDragQtResponse
 DECL|function|QPlatformDropQtResponse
 DECL|function|acceptedAction
 DECL|function|answerRect
+DECL|function|cancelDrag
 DECL|function|currentDrag
 DECL|function|defaultAction
 DECL|function|defaultPixmap

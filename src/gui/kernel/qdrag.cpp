@@ -1,4 +1,5 @@
 DECL|function|QDrag
+DECL|function|cancel
 DECL|function|defaultAction
 DECL|function|dragCursor
 DECL|function|exec

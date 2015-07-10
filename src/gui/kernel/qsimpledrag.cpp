@@ -2,6 +2,7 @@ DECL|function|QBasicDrag
 DECL|function|QSimpleDrag
 DECL|function|cancel
 DECL|function|cancel
+DECL|function|cancelDrag
 DECL|function|disableEventFilter
 DECL|function|drag
 DECL|function|drop
