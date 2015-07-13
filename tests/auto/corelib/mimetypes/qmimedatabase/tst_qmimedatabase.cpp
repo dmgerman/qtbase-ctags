@@ -41,4 +41,5 @@ DECL|function|tst_QMimeDatabase
 DECL|function|waitAndRunUpdateMimeDatabase
 DECL|macro|RESOURCE_PREFIX
 DECL|variable|qmlAgainFileName
+DECL|variable|textXObjCSrcFileName
 DECL|variable|yastFileName
