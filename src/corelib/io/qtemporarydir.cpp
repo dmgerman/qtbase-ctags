@@ -5,6 +5,7 @@ DECL|function|QTemporaryDirPrivate
 DECL|function|autoRemove
 DECL|function|create
 DECL|function|defaultTemplateName
+DECL|function|errorString
 DECL|function|isValid
 DECL|function|nextRand
 DECL|function|path
@@ -15,5 +16,5 @@ DECL|function|setAutoRemove
 DECL|function|~QTemporaryDir
 DECL|function|~QTemporaryDirPrivate
 DECL|member|autoRemove
-DECL|member|path
+DECL|member|pathOrError
 DECL|member|success
