@@ -1,6 +1,7 @@
 DECL|function|aliases
 DECL|function|allMimeTypes
 DECL|function|checkHasMimeType
+DECL|function|copyResourceFile
 DECL|function|findByData
 DECL|function|findByData_data
 DECL|function|findByFile
