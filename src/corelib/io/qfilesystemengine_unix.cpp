@@ -1,4 +1,3 @@
-DECL|function|_q_isMacHidden
 DECL|function|absoluteName
 DECL|function|bundleName
 DECL|function|canonicalName
@@ -8,6 +7,7 @@ DECL|function|createLink
 DECL|function|currentPath
 DECL|function|fillMetaData
 DECL|function|getLinkTarget
+DECL|function|hasResourcePropertyFlag
 DECL|function|homePath
 DECL|function|id
 DECL|function|isPackage
