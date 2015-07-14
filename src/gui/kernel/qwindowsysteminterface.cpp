@@ -72,6 +72,7 @@ DECL|function|tryHandleExtendedShortcutEvent
 DECL|function|tryHandleShortcutEvent
 DECL|function|tryHandleShortcutEvent
 DECL|function|tryHandleShortcutEventToObject
+DECL|function|tryHandleShortcutOverrideEvent
 DECL|function|windowSystemEventsQueued
 DECL|function|windowSystemEventsQueued
 DECL|member|eventTime
