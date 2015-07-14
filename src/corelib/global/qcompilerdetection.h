@@ -463,6 +463,8 @@ DECL|macro|Q_UNREACHABLE_IMPL
 DECL|macro|Q_UNREACHABLE_IMPL
 DECL|macro|Q_UNREACHABLE_IMPL
 DECL|macro|Q_UNREACHABLE_IMPL
+DECL|macro|__USE_CONSTEXPR
+DECL|macro|__USE_NOEXCEPT
 DECL|macro|__has_extension
 DECL|macro|__is_empty
 DECL|macro|__is_pod
