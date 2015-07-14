@@ -17,7 +17,6 @@ DECL|function|addAncestorStatesToEnter
 DECL|function|addDefaultAnimation
 DECL|function|addDescendantStatesToEnter
 DECL|function|addState
-DECL|function|addStatesToEnter
 DECL|function|beginMacrostep
 DECL|function|beginMicrostep
 DECL|function|beginSelectTransitions
