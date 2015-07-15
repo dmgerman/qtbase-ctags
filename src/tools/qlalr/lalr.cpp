@@ -1,7 +1,7 @@
 DECL|function|Automaton
 DECL|function|Grammar
+DECL|function|Nullable
 DECL|function|State
-DECL|function|_Nullable
 DECL|function|build
 DECL|function|buildDefaultReduceActions
 DECL|function|buildDirectReads
@@ -49,5 +49,5 @@ DECL|macro|QLALR_NO_DEBUG_NULLABLES
 DECL|macro|QLALR_NO_DEBUG_READS
 DECL|member|_M_automaton
 DECL|member|items
+DECL|struct|Nullable
 DECL|struct|_Bucket
-DECL|struct|_Nullable
