@@ -3,9 +3,7 @@ DECL|function|MainWindow
 DECL|function|about
 DECL|function|closeEvent
 DECL|function|createActions
-DECL|function|createMenus
 DECL|function|createStatusBar
-DECL|function|createToolBars
 DECL|function|documentWasModified
 DECL|function|findMainWindow
 DECL|function|init
@@ -19,4 +17,5 @@ DECL|function|saveAs
 DECL|function|saveFile
 DECL|function|setCurrentFile
 DECL|function|strippedName
+DECL|function|tile
 DECL|function|writeSettings
