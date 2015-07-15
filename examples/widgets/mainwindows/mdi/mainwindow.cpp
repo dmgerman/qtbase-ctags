@@ -1,3 +1,5 @@
+DECL|class|ActiveMdiSubWindowFunctor
+DECL|function|ActiveMdiSubWindowFunctor
 DECL|function|MainWindow
 DECL|function|about
 DECL|function|activeMdiChild
@@ -5,20 +7,20 @@ DECL|function|closeEvent
 DECL|function|copy
 DECL|function|createActions
 DECL|function|createMdiChild
-DECL|function|createMenus
 DECL|function|createStatusBar
-DECL|function|createToolBars
 DECL|function|cut
 DECL|function|findMdiChild
 DECL|function|newFile
 DECL|function|open
 DECL|function|openFile
+DECL|function|operator ()
 DECL|function|paste
 DECL|function|readSettings
 DECL|function|save
 DECL|function|saveAs
-DECL|function|setActiveSubWindow
 DECL|function|switchLayoutDirection
 DECL|function|updateMenus
 DECL|function|updateWindowMenu
 DECL|function|writeSettings
+DECL|member|m_activeWindow
+DECL|member|m_mdiArea
