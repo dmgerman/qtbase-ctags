@@ -11,6 +11,7 @@ DECL|function|checkEvent
 DECL|function|checkEvent
 DECL|function|checkOutputIsPrimary
 DECL|function|checkXcbPollForQueuedEvent
+DECL|function|checkXcbPollForQueuedEvent
 DECL|function|clientLeader
 DECL|function|createScreen
 DECL|function|createVisualInfoForDefaultVisualId
