@@ -40,6 +40,7 @@ DECL|function|mainWindowTest
 DECL|function|mdiAreaTest
 DECL|function|mdiSubWindowTest
 DECL|function|menuTest
+DECL|function|msgRectMismatch
 DECL|function|navigateHierarchy
 DECL|function|onClicked
 DECL|function|queryIA2
