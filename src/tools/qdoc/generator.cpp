@@ -50,6 +50,7 @@ DECL|function|matchAhead
 DECL|function|out
 DECL|function|outFileName
 DECL|function|outputPrefix
+DECL|function|outputSuffix
 DECL|function|parseArg
 DECL|function|plainCode
 DECL|function|setImageFileExtensions
@@ -85,6 +86,7 @@ DECL|member|outFileNames_
 DECL|member|outSubdir_
 DECL|member|outputFormats
 DECL|member|outputPrefixes
+DECL|member|outputSuffixes
 DECL|member|project_
 DECL|member|qdocPass_
 DECL|member|qdocSingleExec_
