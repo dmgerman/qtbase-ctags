@@ -53,6 +53,7 @@ DECL|function|initTestCase
 DECL|function|isEditable
 DECL|function|keyboardSearch
 DECL|function|modelColumn
+DECL|function|modelIndexCount
 DECL|function|moveCursor
 DECL|function|moveCursor2
 DECL|function|moveCursor3
