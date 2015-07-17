@@ -1,5 +1,5 @@
 DECL|function|detectProcessorFeatures
-DECL|function|ffs
+DECL|function|ffsll
 DECL|function|qDetectCpuFeatures
 DECL|function|qDumpCPUFeatures
 DECL|macro|AT_HWCAP
@@ -8,10 +8,11 @@ DECL|macro|HWCAP_NEON
 DECL|macro|HWCAP_THUMBEE
 DECL|macro|HWCAP_VFPv3
 DECL|macro|HWCAP_VFPv3D16
-DECL|macro|ffs
-DECL|macro|ffs
+DECL|macro|ffsll
+DECL|macro|ffsll
 DECL|variable|features_count
 DECL|variable|features_indices
 DECL|variable|features_string
 DECL|variable|minFeature
+DECL|variable|qt_cpu_features
 DECL|variable|qt_cpu_features
