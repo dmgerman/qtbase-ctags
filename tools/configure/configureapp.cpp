@@ -18,6 +18,7 @@ DECL|function|autoDetection
 DECL|function|buildQmake
 DECL|function|checkAngleAvailability
 DECL|function|checkAvailability
+DECL|function|checkAvx512Availability
 DECL|function|compilerSupportsFlag
 DECL|function|defaultTo
 DECL|function|desc
