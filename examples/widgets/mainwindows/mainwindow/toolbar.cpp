@@ -6,11 +6,9 @@ DECL|function|allowLeft
 DECL|function|allowRight
 DECL|function|allowTop
 DECL|function|changeMovable
-DECL|function|enterEvent
 DECL|function|genIcon
 DECL|function|genIcon
 DECL|function|insertToolBarBreak
-DECL|function|leaveEvent
 DECL|function|order
 DECL|function|place
 DECL|function|placeBottom

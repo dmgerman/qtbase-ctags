@@ -17,7 +17,7 @@ DECL|function|changeVerticalTitleBar
 DECL|function|contextMenuEvent
 DECL|function|createSpinBox
 DECL|function|fgColorForName
-DECL|function|minimumSizeHint
+DECL|function|findByName
 DECL|function|minimumSizeHint
 DECL|function|mouseReleaseEvent
 DECL|function|paintEvent
@@ -30,14 +30,11 @@ DECL|function|placeTop
 DECL|function|resizeEvent
 DECL|function|setCustomSizeHint
 DECL|function|setCustomSizeHint
-DECL|function|sizeHint
 DECL|function|splitInto
 DECL|function|tabInto
 DECL|function|updateContextMenu
 DECL|function|updateMask
 DECL|macro|DEBUG_SIZEHINTS
-DECL|member|Q_DECL_OVERRIDE
-DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|color
 DECL|member|minSzHint
