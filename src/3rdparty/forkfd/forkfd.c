@@ -2,7 +2,9 @@ DECL|function|allocateInfo
 DECL|function|cleanup
 DECL|function|create_pipe
 DECL|function|forkfd
+DECL|function|forkfd_close
 DECL|function|forkfd_initialize
+DECL|function|forkfd_wait
 DECL|function|freeInfo
 DECL|function|isChildReady
 DECL|function|notifyAndFreeInfo
@@ -27,11 +29,14 @@ DECL|member|entries
 DECL|member|entries
 DECL|member|header
 DECL|member|header
+DECL|member|info
 DECL|member|nextArray
 DECL|member|pid
+DECL|member|rusage
 DECL|struct|BigArray
 DECL|struct|Header
 DECL|struct|SmallArray
+DECL|struct|pipe_payload
 DECL|struct|process_info
 DECL|typedef|BigArray
 DECL|typedef|Header

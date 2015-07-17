@@ -4,12 +4,12 @@ DECL|function|ThrowingType
 DECL|function|afterDestruction
 DECL|function|api
 DECL|function|beforeInitialization
+DECL|function|catchExceptionAndRetry
 DECL|function|constVolatile
 DECL|function|exception
 DECL|function|initTestCase
 DECL|function|otherFunction
 DECL|function|threadStressTest
-DECL|function|threadedException
 DECL|function|~ThrowingType
 DECL|member|constructedCount
 DECL|member|constructedCount

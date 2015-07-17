@@ -1,6 +1,7 @@
 DECL|class|QJpegHandlerPrivate
 DECL|enumerator|Error
 DECL|enumerator|ReadHeader
+DECL|enumerator|ReadingEnd
 DECL|enumerator|Ready
 DECL|enum|State
 DECL|function|QJpegHandler

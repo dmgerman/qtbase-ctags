@@ -10,6 +10,7 @@ DECL|function|SocketAsyncHandler
 DECL|function|WSAAsyncSelect
 DECL|function|activateEventNotifier
 DECL|function|activateEventNotifiers
+DECL|function|calculateNextTimeout
 DECL|function|closingDown
 DECL|function|createInternalHwnd
 DECL|function|doWsaAsyncSelect
