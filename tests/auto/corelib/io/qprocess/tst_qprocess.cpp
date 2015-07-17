@@ -58,6 +58,7 @@ DECL|function|restartProcessDeadlock
 DECL|function|run
 DECL|function|setEnvironment
 DECL|function|setEnvironment_data
+DECL|function|setNonExistentWorkingDirectory
 DECL|function|setProcessEnvironment
 DECL|function|setProcessEnvironment_data
 DECL|function|setStandardInputFile
