@@ -9,6 +9,7 @@ DECL|function|MyPrimitive
 DECL|function|MyPrimitive
 DECL|function|append
 DECL|function|appendCausingRealloc
+DECL|function|clear
 DECL|function|contains
 DECL|function|count
 DECL|function|countMoved
