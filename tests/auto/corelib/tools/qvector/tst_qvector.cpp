@@ -21,6 +21,7 @@ DECL|function|append
 DECL|function|appendCustom
 DECL|function|appendInt
 DECL|function|appendMovable
+DECL|function|appendRvalue
 DECL|function|assignmentCustom
 DECL|function|assignmentInt
 DECL|function|assignmentMovable

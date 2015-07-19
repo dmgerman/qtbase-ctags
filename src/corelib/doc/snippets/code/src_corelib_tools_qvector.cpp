@@ -7,8 +7,12 @@ DECL|variable|list
 DECL|variable|stdvector
 DECL|variable|stdvector
 DECL|variable|stringVector
+DECL|variable|three
+DECL|variable|three
 DECL|variable|vect
 DECL|variable|vect
+DECL|variable|vector
+DECL|variable|vector
 DECL|variable|vector
 DECL|variable|vector
 DECL|variable|vector
