@@ -82,6 +82,9 @@ DECL|variable|M
 DECL|variable|M
 DECL|variable|M
 DECL|variable|M
+DECL|variable|M
+DECL|variable|M
+DECL|variable|M
 DECL|variable|M1
 DECL|variable|M1
 DECL|variable|M2
@@ -129,3 +132,7 @@ DECL|variable|N
 DECL|variable|N
 DECL|variable|N
 DECL|variable|N
+DECL|variable|N
+DECL|variable|N
+DECL|variable|N
+DECL|variable|T
