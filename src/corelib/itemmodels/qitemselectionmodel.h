@@ -1,4 +1,3 @@
-DECL|function|QItemSelectionRange
 DECL|function|qHash
 DECL|macro|QITEMSELECTIONMODEL_H
 DECL|variable|QItemSelection
