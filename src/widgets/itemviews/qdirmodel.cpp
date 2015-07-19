@@ -62,7 +62,6 @@ DECL|function|supportedDropActions
 DECL|function|time
 DECL|function|type
 DECL|function|~QDirModel
-DECL|function|~QDirNode
 DECL|member|allowAppendChild
 DECL|member|children
 DECL|member|column
