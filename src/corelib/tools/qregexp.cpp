@@ -44,7 +44,6 @@ DECL|function|QRegExpAutomatonState
 DECL|function|QRegExpAutomatonState
 DECL|function|QRegExpCharClass
 DECL|function|QRegExpCharClass
-DECL|function|QRegExpCharClass
 DECL|function|QRegExpEngine
 DECL|function|QRegExpEngine
 DECL|function|QRegExpEngineKey
@@ -122,7 +121,6 @@ DECL|function|operator <
 DECL|function|operator <
 DECL|function|operator <<
 DECL|function|operator <<
-DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator =
 DECL|function|operator ==
