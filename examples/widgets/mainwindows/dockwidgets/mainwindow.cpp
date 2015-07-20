@@ -3,9 +3,7 @@ DECL|function|about
 DECL|function|addParagraph
 DECL|function|createActions
 DECL|function|createDockWindows
-DECL|function|createMenus
 DECL|function|createStatusBar
-DECL|function|createToolBars
 DECL|function|insertCustomer
 DECL|function|newLetter
 DECL|function|print
