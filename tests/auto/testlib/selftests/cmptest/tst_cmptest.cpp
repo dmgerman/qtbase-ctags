@@ -19,6 +19,11 @@ DECL|function|compare_tostring
 DECL|function|compare_tostring_data
 DECL|function|compare_unregistered_enums
 DECL|function|intptr
+DECL|function|opaqueFunc
+DECL|function|tryVerify
+DECL|function|tryVerify2
+DECL|function|verify
+DECL|function|verify2
 DECL|member|i
 DECL|struct|PhonyClass
 DECL|variable|i
