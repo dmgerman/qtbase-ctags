@@ -1,6 +1,5 @@
 DECL|function|Window
 DECL|function|browse
-DECL|function|createButton
 DECL|function|createComboBox
 DECL|function|createFilesTable
 DECL|function|find
