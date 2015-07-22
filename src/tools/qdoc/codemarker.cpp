@@ -1,5 +1,6 @@
 DECL|function|CodeMarker
 DECL|function|append
+DECL|function|appendProtectedString
 DECL|function|encode
 DECL|function|initialize
 DECL|function|initializeMarker
@@ -12,7 +13,6 @@ DECL|function|markerForCode
 DECL|function|markerForFileName
 DECL|function|markerForLanguage
 DECL|function|nodeForString
-DECL|function|protect
 DECL|function|protect
 DECL|function|qmlSections
 DECL|function|sortName
