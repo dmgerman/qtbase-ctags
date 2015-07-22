@@ -1,9 +1,12 @@
-DECL|function|GLWidget
+DECL|function|GLWindow
 DECL|function|initializeGL
 DECL|function|paintGL
 DECL|function|resizeGL
+DECL|function|setR
+DECL|function|setR2
 DECL|function|setZ
+DECL|function|startSecondStage
 DECL|function|versionedShaderCode
-DECL|function|~GLWidget
+DECL|function|~GLWindow
 DECL|variable|fragmentShaderSource
 DECL|variable|vertexShaderSource
