@@ -1,9 +1,9 @@
+DECL|function|Q_DECLARE_SHARED
 DECL|function|toCurrencyString
 DECL|function|toCurrencyString
 DECL|function|toCurrencyString
 DECL|function|toCurrencyString
 DECL|function|toCurrencyString
-DECL|function|toString
 DECL|function|toString
 DECL|function|toString
 DECL|function|toString
