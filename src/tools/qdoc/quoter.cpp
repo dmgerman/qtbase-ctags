@@ -13,3 +13,4 @@ DECL|function|replaceMultipleNewlines
 DECL|function|reset
 DECL|function|splitLines
 DECL|function|trimWhiteSpace
+DECL|member|commentHash
