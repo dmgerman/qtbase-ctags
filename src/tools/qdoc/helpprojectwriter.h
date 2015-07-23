@@ -9,6 +9,7 @@ DECL|member|extraFiles
 DECL|member|fileName
 DECL|member|files
 DECL|member|filterAttributes
+DECL|member|groups
 DECL|member|helpNamespace
 DECL|member|includeIndexNodes
 DECL|member|indexRoot
