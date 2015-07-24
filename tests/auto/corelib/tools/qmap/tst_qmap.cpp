@@ -22,6 +22,7 @@ DECL|function|initializerList
 DECL|function|insert
 DECL|function|iterators
 DECL|function|key
+DECL|function|keyIterator
 DECL|function|keys_values_uniqueKeys
 DECL|function|lowerUpperBound
 DECL|function|mergeCompare

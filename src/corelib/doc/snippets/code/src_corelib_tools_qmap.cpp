@@ -13,6 +13,7 @@ DECL|variable|i
 DECL|variable|i
 DECL|variable|i
 DECL|variable|i
+DECL|variable|keys
 DECL|variable|map
 DECL|variable|map
 DECL|variable|map
@@ -27,6 +28,8 @@ DECL|variable|map2
 DECL|variable|map3
 DECL|variable|num1
 DECL|variable|num2
+DECL|variable|numPrimes
+DECL|variable|numPrimes
 DECL|variable|timeout
 DECL|variable|timeout
 DECL|variable|upperBound
