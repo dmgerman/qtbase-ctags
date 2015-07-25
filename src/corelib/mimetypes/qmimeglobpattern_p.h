@@ -1,4 +1,5 @@
 DECL|function|QMimeGlobMatchResult
+DECL|function|Q_DECLARE_SHARED
 DECL|macro|QMIMEGLOBPATTERN_P_H
 DECL|member|m_foundSuffix
 DECL|member|m_matchingMimeTypes
