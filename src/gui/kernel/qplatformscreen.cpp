@@ -10,10 +10,12 @@ DECL|function|nativeOrientation
 DECL|function|orientation
 DECL|function|physicalSize
 DECL|function|platformScreenForWindow
+DECL|function|powerState
 DECL|function|refreshRate
 DECL|function|resizeMaximizedWindows
 DECL|function|screen
 DECL|function|setOrientationUpdateMask
+DECL|function|setPowerState
 DECL|function|subpixelAntialiasingTypeHint
 DECL|function|topLevelAt
 DECL|function|transformBetween
