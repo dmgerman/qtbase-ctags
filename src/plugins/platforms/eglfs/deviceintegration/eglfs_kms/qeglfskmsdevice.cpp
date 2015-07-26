@@ -6,6 +6,7 @@ DECL|enumerator|OutputConfigPreferred
 DECL|enum|OutputConfiguration
 DECL|function|QEglFSKmsDevice
 DECL|function|close
+DECL|function|connectorProperty
 DECL|function|createScreens
 DECL|function|crtcForConnector
 DECL|function|device

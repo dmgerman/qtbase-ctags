@@ -1,6 +1,7 @@
 DECL|macro|QEGLFSKMSSCREEN_H
 DECL|member|connector_id
 DECL|member|crtc_id
+DECL|member|dpms_prop
 DECL|member|mode
 DECL|member|mode_set
 DECL|member|modes

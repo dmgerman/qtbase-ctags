@@ -17,9 +17,11 @@ DECL|function|name
 DECL|function|nativeOrientation
 DECL|function|orientation
 DECL|function|physicalSize
+DECL|function|powerState
 DECL|function|refreshRate
 DECL|function|restoreMode
 DECL|function|restoreVideoMode
+DECL|function|setPowerState
 DECL|function|waitForFlip
 DECL|function|~QEglFSKmsScreen
 DECL|member|m_screen
