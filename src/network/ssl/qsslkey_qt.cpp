@@ -1,4 +1,6 @@
 DECL|function|clear
+DECL|function|createOidMap
+DECL|function|curveBits
 DECL|function|decodeDer
 DECL|function|decodePem
 DECL|function|deriveKey
@@ -6,4 +8,5 @@ DECL|function|handle
 DECL|function|length
 DECL|function|numberOfBits
 DECL|function|toPem
+DECL|typedef|OidLengthMap
 DECL|variable|bits_table
