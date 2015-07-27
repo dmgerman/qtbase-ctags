@@ -2,6 +2,7 @@ DECL|function|QStorageInfo
 DECL|function|QStorageInfo
 DECL|function|QStorageInfo
 DECL|function|QStorageInfo
+DECL|function|blockSize
 DECL|function|bytesAvailable
 DECL|function|bytesFree
 DECL|function|bytesTotal
