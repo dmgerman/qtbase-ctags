@@ -1,8 +1,6 @@
 DECL|enumerator|IsSupported
 DECL|enumerator|IsSupported
 DECL|macro|QGENERICATOMIC_H
-DECL|macro|always_inline
-DECL|macro|always_inline
 DECL|member|AddScale
 DECL|member|AddScale
 DECL|member|T
