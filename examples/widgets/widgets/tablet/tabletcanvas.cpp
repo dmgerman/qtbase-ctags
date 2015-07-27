@@ -1,5 +1,4 @@
 DECL|function|TabletCanvas
-DECL|function|brushPattern
 DECL|function|initPixmap
 DECL|function|loadImage
 DECL|function|paintEvent
