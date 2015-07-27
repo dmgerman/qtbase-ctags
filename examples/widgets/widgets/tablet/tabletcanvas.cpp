@@ -7,3 +7,4 @@ DECL|function|resizeEvent
 DECL|function|saveImage
 DECL|function|tabletEvent
 DECL|function|updateBrush
+DECL|function|updateCursor
