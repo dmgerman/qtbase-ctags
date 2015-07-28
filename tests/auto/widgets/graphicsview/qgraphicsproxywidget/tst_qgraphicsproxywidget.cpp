@@ -65,8 +65,6 @@ DECL|function|event
 DECL|function|eventFilter
 DECL|function|eventFilter
 DECL|function|eventFilter
-DECL|function|eventFilter
-DECL|function|eventFilter_data
 DECL|function|focusInEvent
 DECL|function|focusInEventNoWidget
 DECL|function|focusInEvent_data
@@ -137,6 +135,8 @@ DECL|function|tabFocus_complexTwoWidgets
 DECL|function|tabFocus_complexWidget
 DECL|function|tabFocus_simpleTwoWidgets
 DECL|function|tabFocus_simpleWidget
+DECL|function|testEventFilter
+DECL|function|testEventFilter_data
 DECL|function|tooltip_basic
 DECL|function|updateAndDelete
 DECL|function|updateScroll
