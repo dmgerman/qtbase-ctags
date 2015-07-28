@@ -64,8 +64,8 @@ DECL|function|setProcessEnvironment
 DECL|function|setProcessEnvironment_data
 DECL|function|setStandardInputFile
 DECL|function|setStandardOutputFile
-DECL|function|setStandardOutputFile2
 DECL|function|setStandardOutputFileAndWaitForBytesWritten
+DECL|function|setStandardOutputFileNullDevice
 DECL|function|setStandardOutputFile_data
 DECL|function|setStandardOutputProcess
 DECL|function|setStandardOutputProcess_data
