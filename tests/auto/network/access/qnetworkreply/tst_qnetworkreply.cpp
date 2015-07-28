@@ -371,6 +371,7 @@ DECL|function|writeNextData
 DECL|function|~HttpAbortHelper
 DECL|function|~MySpyMemoryCache
 DECL|function|~tst_QNetworkReply
+DECL|macro|FLUKE_CERTIFICATE_ERROR
 DECL|macro|RUN_REQUEST
 DECL|member|accumulate
 DECL|member|bandwidthQuota
