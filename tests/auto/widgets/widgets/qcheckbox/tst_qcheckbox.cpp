@@ -28,6 +28,4 @@ DECL|member|cur_state
 DECL|member|press_count
 DECL|member|release_count
 DECL|member|testWidget
-DECL|member|tmp
-DECL|member|tmp2
 DECL|member|toggle_count

@@ -150,7 +150,6 @@ DECL|member|earlyBytesWrittenCount
 DECL|member|earlyConstructedSockets
 DECL|member|earlyReadyReadCount
 DECL|member|endPoints
-DECL|member|exitCode
 DECL|member|expectedLength
 DECL|member|expectedReplyIMAP_cached
 DECL|member|firstFailInfo
@@ -162,7 +161,6 @@ DECL|member|networkTimeout
 DECL|member|nonBlockingIMAP_data
 DECL|member|nonBlockingIMAP_socket
 DECL|member|nonBlockingIMAP_totalWritten
-DECL|member|numConnections
 DECL|member|ok
 DECL|member|proxyAuthCalled
 DECL|member|quit

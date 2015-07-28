@@ -32,5 +32,4 @@ DECL|function|~tst_QLabel
 DECL|member|events
 DECL|member|testWidget
 DECL|member|test_box
-DECL|member|test_edit
 DECL|member|test_label
