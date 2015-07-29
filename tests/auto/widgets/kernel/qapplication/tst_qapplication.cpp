@@ -102,8 +102,6 @@ DECL|function|touchPoint
 DECL|function|touchPointList
 DECL|function|tst_QApplication
 DECL|function|wheelScrollLines
-DECL|function|windowsCommandLine
-DECL|function|windowsCommandLine_data
 DECL|function|~SpontaneousEvent
 DECL|function|~tst_QApplication
 DECL|macro|QT_TST_QAPP_DEBUG
