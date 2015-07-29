@@ -59,6 +59,7 @@ DECL|member|inBackingStorePaint
 DECL|member|initialized
 DECL|member|paintDevice
 DECL|member|requestedFormat
+DECL|member|requestedSamples
 DECL|member|resolvedFbo
 DECL|member|surface
 DECL|member|updateBehavior
