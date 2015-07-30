@@ -1,1 +1,0 @@
-DECL|macro|QGTK2PAINTER_P_H
