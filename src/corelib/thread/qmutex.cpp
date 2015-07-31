@@ -4,6 +4,8 @@ DECL|enumerator|MaxIndex
 DECL|function|QMutex
 DECL|function|QRecursiveMutexPrivate
 DECL|function|allocate
+DECL|function|freelist
+DECL|function|freelist
 DECL|function|isRecursive
 DECL|function|isRecursive
 DECL|function|release
