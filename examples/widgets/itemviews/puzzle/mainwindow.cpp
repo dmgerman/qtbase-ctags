@@ -1,4 +1,5 @@
 DECL|function|MainWindow
+DECL|function|loadImage
 DECL|function|openImage
 DECL|function|setCompleted
 DECL|function|setupMenus
