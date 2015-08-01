@@ -22,6 +22,7 @@ DECL|function|refreshRate
 DECL|function|restoreMode
 DECL|function|restoreVideoMode
 DECL|function|setPowerState
+DECL|function|subpixelAntialiasingTypeHint
 DECL|function|waitForFlip
 DECL|function|~QEglFSKmsScreen
 DECL|member|m_screen
