@@ -10,6 +10,8 @@ DECL|function|atomName
 DECL|function|checkEvent
 DECL|function|checkEvent
 DECL|function|checkOutputIsPrimary
+DECL|function|checkXcbPollForQueuedEvent
+DECL|function|checkXcbPollForQueuedEvent
 DECL|function|clientLeader
 DECL|function|createScreen
 DECL|function|createVisualInfoForDefaultVisualId
@@ -89,8 +91,10 @@ DECL|member|type
 DECL|member|window
 DECL|member|xkbType
 DECL|struct|qt_xcb_ge_event_t
+DECL|typedef|XcbPollForQueuedEventFunctionPointer
 DECL|typedef|_xkb_event
 DECL|typedef|qt_xcb_ge_event_t
+DECL|variable|local_xcb_poll_for_queued_event
 DECL|variable|xcbConnectionErrors
 DECL|variable|xcb_atomnames
 DECL|variable|xcb_errors

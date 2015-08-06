@@ -1,6 +1,8 @@
 DECL|class|MessageHandlerSetter
 DECL|class|MyLine
 DECL|class|MyPoint
+DECL|class|TestClassA
+DECL|class|TestClassB
 DECL|class|tst_QDebug
 DECL|enumerator|Flag1
 DECL|enumerator|Flag2
@@ -16,6 +18,7 @@ DECL|function|debugWithBool
 DECL|function|defaultMessagehandler
 DECL|function|doDebug
 DECL|function|myMessageHandler
+DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|qDebugQByteArray

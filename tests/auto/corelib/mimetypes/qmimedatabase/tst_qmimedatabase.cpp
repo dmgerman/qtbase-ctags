@@ -1,6 +1,7 @@
 DECL|function|aliases
 DECL|function|allMimeTypes
 DECL|function|checkHasMimeType
+DECL|function|copyResourceFile
 DECL|function|findByData
 DECL|function|findByData_data
 DECL|function|findByFile
@@ -30,6 +31,7 @@ DECL|function|mimeTypesForFileName
 DECL|function|mimeTypesForFileName_data
 DECL|function|msgMimeTypeForFileNameFailed
 DECL|function|runUpdateMimeDatabase
+DECL|function|seedAndTemplate
 DECL|function|suffixes
 DECL|function|suffixes_data
 DECL|function|testSuiteWarning

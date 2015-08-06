@@ -2,7 +2,6 @@ DECL|class|QFontEngineFTRawData
 DECL|function|QFontEngineFTRawData
 DECL|function|addApplicationFont
 DECL|function|addTTFile
-DECL|function|fallbacksForFamily
 DECL|function|fontEngine
 DECL|function|fontEngine
 DECL|function|initFromData

@@ -26,7 +26,7 @@ DECL|function|bestStyle
 DECL|function|bold
 DECL|function|createDatabase
 DECL|function|ensurePopulated
-DECL|function|fallbackFamilies
+DECL|function|fallbacksForFamily
 DECL|function|families
 DECL|function|family
 DECL|function|familyList
@@ -61,6 +61,7 @@ DECL|function|parseFontName
 DECL|function|pixelSize
 DECL|function|pointSizes
 DECL|function|qt_cleanupFontDatabase
+DECL|function|qt_fallbacksForFamily
 DECL|function|qt_fontdata_from_index
 DECL|function|qt_fontdatabase_mutex
 DECL|function|qt_registerAliasToFontFamily
