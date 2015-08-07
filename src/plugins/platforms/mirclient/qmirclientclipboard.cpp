@@ -1,0 +1,16 @@
+DECL|function|QMirClientClipboard
+DECL|function|deserializeMimeData
+DECL|function|mimeData
+DECL|function|onDBusClipboardGetContentsFinished
+DECL|function|onDBusClipboardSetContentsFinished
+DECL|function|ownsMode
+DECL|function|requestDBusClipboardContents
+DECL|function|serializeMimeData
+DECL|function|setDBusClipboardContents
+DECL|function|setMimeData
+DECL|function|setupDBus
+DECL|function|supportsMode
+DECL|function|updateMimeData
+DECL|function|~QMirClientClipboard
+DECL|member|maxBufferSize
+DECL|member|maxFormatsCount

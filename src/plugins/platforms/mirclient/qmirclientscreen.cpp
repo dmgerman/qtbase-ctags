@@ -1,0 +1,9 @@
+DECL|function|QMirClientScreen
+DECL|function|customEvent
+DECL|function|find_active_output
+DECL|function|handleWindowSurfaceResize
+DECL|function|orientationToStr
+DECL|function|printEglConfig
+DECL|function|~QMirClientScreen
+DECL|member|mType
+DECL|variable|kSwapInterval

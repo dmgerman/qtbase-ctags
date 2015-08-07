@@ -1,0 +1,4 @@
+DECL|macro|QMIRCLIENTCLIPBOARD_H
+DECL|variable|QDBusInterface
+DECL|variable|QDBusPendingCallWatcher
+DECL|variable|QObject

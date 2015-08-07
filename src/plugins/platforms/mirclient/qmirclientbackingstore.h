@@ -1,0 +1,4 @@
+DECL|macro|QMIRCLIENTBACKINGSTORE_H
+DECL|variable|QOpenGLContext
+DECL|variable|QOpenGLTexture
+DECL|variable|QOpenGLTextureBlitter

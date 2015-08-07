@@ -1,0 +1,6 @@
+DECL|macro|QMIRCLIENTWINDOW_H
+DECL|variable|QMirClientClipboard
+DECL|variable|QMirClientInput
+DECL|variable|QMirClientScreen
+DECL|variable|QMirClientWindowPrivate
+DECL|variable|QObject
