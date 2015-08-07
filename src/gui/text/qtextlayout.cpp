@@ -6,15 +6,15 @@ DECL|function|QTextLayout
 DECL|function|addNextCluster
 DECL|function|addSelectedRegionsToPath
 DECL|function|additionalFormats
-DECL|function|adjustPreviousRightBearing
-DECL|function|adjustRightBearing
-DECL|function|adjustRightBearing
 DECL|function|ascent
 DECL|function|ascent
 DECL|function|beginLayout
 DECL|function|boundingRect
 DECL|function|cacheEnabled
 DECL|function|calculateNewWidth
+DECL|function|calculateRightBearing
+DECL|function|calculateRightBearing
+DECL|function|calculateRightBearingForPreviousGlyph
 DECL|function|checkFullOtherwiseExtend
 DECL|function|clearAdditionalFormats
 DECL|function|clearLayout
@@ -51,6 +51,7 @@ DECL|function|maximumWidth
 DECL|function|minimumWidth
 DECL|function|naturalTextRect
 DECL|function|naturalTextWidth
+DECL|function|negativeRightBearing
 DECL|function|nextCursorPosition
 DECL|function|position
 DECL|function|position
@@ -97,6 +98,8 @@ DECL|macro|LB_DEBUG
 DECL|macro|ObjectSelectionBrush
 DECL|macro|SuppressBackground
 DECL|macro|SuppressText
+DECL|member|RightBearingNotCalculated
+DECL|member|RightBearingNotCalculated
 DECL|member|currentPosition
 DECL|member|fontEngine
 DECL|member|glyphCount
