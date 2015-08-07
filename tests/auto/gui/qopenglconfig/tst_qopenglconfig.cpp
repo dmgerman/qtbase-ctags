@@ -8,5 +8,6 @@ DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|testBugList
 DECL|function|testConfiguration
+DECL|function|testDefaultWindowsBlacklist
 DECL|function|testGlConfiguration
 DECL|macro|DUMP_CAPABILITY
