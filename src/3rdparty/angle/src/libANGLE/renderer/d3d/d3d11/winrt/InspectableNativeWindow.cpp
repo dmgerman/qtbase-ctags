@@ -1,3 +1,5 @@
+DECL|function|ConvertDipsToPixels
+DECL|function|GetLogicalDpi
 DECL|function|GetOptionalSizePropertyValue
 DECL|function|IsCoreWindow
 DECL|function|IsEGLConfiguredPropertySet
