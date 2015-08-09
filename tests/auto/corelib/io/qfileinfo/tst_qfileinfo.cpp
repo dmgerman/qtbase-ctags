@@ -73,6 +73,7 @@ DECL|function|qIsLikelyToBeNfs
 DECL|function|qIsLikelyToBeNfs
 DECL|function|qt_isEvilFsTypeName
 DECL|function|refresh
+DECL|function|seedAndTemplate
 DECL|function|size
 DECL|function|size_data
 DECL|function|suffix

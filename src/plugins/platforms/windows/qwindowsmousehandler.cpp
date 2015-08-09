@@ -4,6 +4,7 @@ DECL|function|createTouchDevice
 DECL|function|isValidWheelReceiver
 DECL|function|queryMouseButtons
 DECL|function|redirectWheelEvent
+DECL|function|translateGestureEvent
 DECL|function|translateMouseEvent
 DECL|function|translateMouseWheelEvent
 DECL|function|translateScrollEvent

@@ -30,6 +30,8 @@ DECL|function|exitLoopSlot
 DECL|function|exitStatus
 DECL|function|exitStatus_data
 DECL|function|failToStart
+DECL|function|failToStartEmptyArgs
+DECL|function|failToStartEmptyArgs_data
 DECL|function|failToStartWithEventLoop
 DECL|function|failToStartWithWait
 DECL|function|fileWriterProcess
