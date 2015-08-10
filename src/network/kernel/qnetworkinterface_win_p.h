@@ -120,18 +120,11 @@ DECL|member|SuffixOrigin
 DECL|member|Type
 DECL|member|ValidLifetime
 DECL|member|ZoneIndices
-DECL|member|qt_s6_addr
-DECL|member|sin6_addr
-DECL|member|sin6_family
-DECL|member|sin6_flowinfo
-DECL|member|sin6_port
-DECL|member|sin6_scope_id
 DECL|struct|_IP_ADAPTER_ADDRESSES
 DECL|struct|_IP_ADAPTER_INFO
 DECL|struct|_IP_ADAPTER_PREFIX
 DECL|struct|_IP_ADAPTER_UNICAST_ADDRESS
 DECL|struct|_IP_ADDR_STRING
-DECL|struct|qt_in6_addr
 DECL|typedef|FIXED_INFO
 DECL|typedef|IF_OPER_STATUS
 DECL|typedef|IP_ADAPTER_ADDRESSES
@@ -158,4 +151,3 @@ DECL|typedef|PIP_ADAPTER_UNICAST_ADDRESS
 DECL|typedef|PIP_ADDRESS_STRING
 DECL|typedef|PIP_ADDR_STRING
 DECL|typedef|PIP_MASK_STRING
-DECL|typedef|qt_sockaddr_in6
