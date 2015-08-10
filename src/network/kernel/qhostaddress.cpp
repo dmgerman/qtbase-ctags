@@ -56,6 +56,10 @@ DECL|macro|u_long
 DECL|macro|u_short
 DECL|member|a
 DECL|member|a6
+DECL|member|a6_32
+DECL|member|a6_64
+DECL|member|c
+DECL|member|c
 DECL|member|ipString
 DECL|member|isParsed
 DECL|member|protocol
