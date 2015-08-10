@@ -1,5 +1,6 @@
 DECL|function|QHttpNetworkReply
 DECL|function|QHttpNetworkReplyPrivate
+DECL|function|abort
 DECL|function|authenticationMethod
 DECL|function|bytesAvailable
 DECL|function|bytesAvailable
@@ -18,6 +19,7 @@ DECL|function|headerField
 DECL|function|ignoreSslErrors
 DECL|function|ignoreSslErrors
 DECL|function|initializeInflateStream
+DECL|function|isAborted
 DECL|function|isChunked
 DECL|function|isCompressed
 DECL|function|isConnectionCloseEnabled
