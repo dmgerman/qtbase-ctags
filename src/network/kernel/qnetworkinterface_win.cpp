@@ -1,9 +1,17 @@
 DECL|function|addressFromSockaddr
+DECL|function|interfaceIndexFromName
 DECL|function|interfaceListingWinXP
+DECL|function|interfaceNameFromIndex
 DECL|function|ipv4Netmasks
 DECL|function|localDomainName
 DECL|function|resolveLibs
 DECL|function|scan
 DECL|macro|WIN32_LEAN_AND_MEAN
+DECL|typedef|PtrConvertInterfaceIndexToLuid
+DECL|typedef|PtrConvertInterfaceLuidToIndex
 DECL|typedef|PtrConvertInterfaceLuidToName
+DECL|typedef|PtrConvertInterfaceNameToLuid
+DECL|variable|ptrConvertInterfaceIndexToLuid
+DECL|variable|ptrConvertInterfaceLuidToIndex
 DECL|variable|ptrConvertInterfaceLuidToName
+DECL|variable|ptrConvertInterfaceNameToLuid

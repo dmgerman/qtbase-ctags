@@ -2,8 +2,10 @@ DECL|function|addressFromSockaddr
 DECL|function|convertFlags
 DECL|function|createInterfaces
 DECL|function|findInterface
+DECL|function|interfaceIndexFromName
 DECL|function|interfaceListing
 DECL|function|interfaceListing
+DECL|function|interfaceNameFromIndex
 DECL|function|interfaceNames
 DECL|function|scan
 DECL|macro|IFF_RUNNING

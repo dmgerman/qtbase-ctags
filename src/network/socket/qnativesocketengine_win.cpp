@@ -25,7 +25,6 @@ DECL|function|qt_prettyDebug
 DECL|function|qt_socket_getMaxMsgSize
 DECL|function|qt_socket_getPortAndAddress
 DECL|function|qt_socket_getType
-DECL|function|scopeIdFromString
 DECL|function|setOption
 DECL|function|verboseWSErrorDebug
 DECL|macro|AF_INET6

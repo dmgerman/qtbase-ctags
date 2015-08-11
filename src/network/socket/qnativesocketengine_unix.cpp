@@ -25,5 +25,4 @@ DECL|function|nativeWrite
 DECL|function|option
 DECL|function|qt_prettyDebug
 DECL|function|qt_socket_getPortAndAddress
-DECL|function|scopeIdFromString
 DECL|function|setOption

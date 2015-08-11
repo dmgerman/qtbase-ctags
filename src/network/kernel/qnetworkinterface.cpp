@@ -17,6 +17,8 @@ DECL|function|interfaceFromIndex
 DECL|function|interfaceFromIndex
 DECL|function|interfaceFromName
 DECL|function|interfaceFromName
+DECL|function|interfaceIndexFromName
+DECL|function|interfaceNameFromIndex
 DECL|function|ip
 DECL|function|isValid
 DECL|function|makeHwAddress
