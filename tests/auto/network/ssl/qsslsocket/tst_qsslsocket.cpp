@@ -56,6 +56,8 @@ DECL|function|disconnectFromHostWhenConnecting
 DECL|function|ecdhServer
 DECL|function|encryptWithoutConnecting
 DECL|function|enterLoop
+DECL|function|ephemeralServerKey
+DECL|function|ephemeralServerKey_data
 DECL|function|exitLoop
 DECL|function|flush
 DECL|function|ignoreErrorListSlot

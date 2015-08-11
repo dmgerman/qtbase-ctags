@@ -24,6 +24,7 @@ DECL|macro|q_SSL_CTX_set_mode
 DECL|macro|q_SSL_CTX_set_options
 DECL|macro|q_SSL_CTX_set_tmp_dh
 DECL|macro|q_SSL_CTX_set_tmp_ecdh
+DECL|macro|q_SSL_get_server_tmp_key
 DECL|macro|q_X509_dup
 DECL|macro|q_X509_get_notAfter
 DECL|macro|q_X509_get_notBefore

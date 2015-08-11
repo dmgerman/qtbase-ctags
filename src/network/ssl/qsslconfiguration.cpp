@@ -5,6 +5,7 @@ DECL|function|caCertificates
 DECL|function|ciphers
 DECL|function|defaultConfiguration
 DECL|function|ellipticCurves
+DECL|function|ephemeralServerKey
 DECL|function|isNull
 DECL|function|localCertificate
 DECL|function|localCertificateChain
