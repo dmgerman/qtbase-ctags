@@ -5,3 +5,5 @@ DECL|function|localDomainName
 DECL|function|resolveLibs
 DECL|function|scan
 DECL|macro|WIN32_LEAN_AND_MEAN
+DECL|typedef|PtrConvertInterfaceLuidToName
+DECL|variable|ptrConvertInterfaceLuidToName
