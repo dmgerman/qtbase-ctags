@@ -1,13 +1,7 @@
 DECL|function|addressFromSockaddr
-DECL|function|interfaceListing
 DECL|function|interfaceListingWinXP
 DECL|function|ipv4Netmasks
 DECL|function|localDomainName
 DECL|function|resolveLibs
 DECL|function|scan
-DECL|typedef|PtrGetAdaptersAddresses
-DECL|typedef|PtrGetAdaptersInfo
-DECL|typedef|PtrGetNetworkParams
-DECL|variable|ptrGetAdaptersAddresses
-DECL|variable|ptrGetAdaptersInfo
-DECL|variable|ptrGetNetworkParams
+DECL|macro|WIN32_LEAN_AND_MEAN
