@@ -9,6 +9,7 @@ DECL|function|readIndexFile
 DECL|function|readIndexSection
 DECL|function|readIndexes
 DECL|function|resolveIndex
+DECL|function|resolveRelates
 DECL|function|~QDocIndexFiles
 DECL|member|qdocIndexFiles_
 DECL|variable|readingRoot
