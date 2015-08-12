@@ -1,6 +1,5 @@
 DECL|function|addressFromSockaddr
 DECL|function|interfaceListing
-DECL|function|interfaceListingWin2k
 DECL|function|interfaceListingWinXP
 DECL|function|ipv4Netmasks
 DECL|function|localDomainName
