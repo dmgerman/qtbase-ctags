@@ -1,3 +1,3 @@
 DECL|macro|QWINRTINTEGRATION_H
 DECL|variable|QAbstractEventDispatcher
-DECL|variable|QWinRTScreen
+DECL|variable|QWinRTIntegrationPrivate

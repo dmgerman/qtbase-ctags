@@ -1,3 +1,4 @@
+DECL|class|QWinRTWindowPrivate
 DECL|function|QWinRTWindow
 DECL|function|devicePixelRatio
 DECL|function|format
@@ -8,4 +9,10 @@ DECL|function|raise
 DECL|function|setGeometry
 DECL|function|setVisible
 DECL|function|setWindowTitle
+DECL|function|winId
 DECL|function|~QWinRTWindow
+DECL|macro|EGL_EGLEXT_PROTOTYPES
+DECL|member|screen
+DECL|member|surfaceFormat
+DECL|member|swapChainPanel
+DECL|member|windowTitle
