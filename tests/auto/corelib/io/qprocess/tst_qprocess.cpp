@@ -19,6 +19,7 @@ DECL|function|crashTest
 DECL|function|crashTest2
 DECL|function|deadWhileReading
 DECL|function|detachedWorkingDirectoryAndPid
+DECL|function|discardUnwantedOutput
 DECL|function|echoTest
 DECL|function|echoTest2
 DECL|function|echoTestGui
