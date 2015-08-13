@@ -20,6 +20,7 @@ DECL|function|changeFocusWindow
 DECL|function|cleanup
 DECL|function|create
 DECL|function|customEvent
+DECL|function|desktopFileName
 DECL|function|displayName
 DECL|function|doClose
 DECL|function|event

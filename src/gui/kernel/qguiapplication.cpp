@@ -28,6 +28,7 @@ DECL|function|commitData
 DECL|function|compressEvent
 DECL|function|createEventDispatcher
 DECL|function|createPlatformIntegration
+DECL|function|desktopFileName
 DECL|function|desktopSettingsAware
 DECL|function|devicePixelRatio
 DECL|function|emitLastWindowClosed
@@ -114,6 +115,7 @@ DECL|function|sessionId
 DECL|function|sessionKey
 DECL|function|setApplicationDisplayName
 DECL|function|setApplicationState
+DECL|function|setDesktopFileName
 DECL|function|setDesktopSettingsAware
 DECL|function|setFont
 DECL|function|setLayoutDirection
@@ -149,6 +151,7 @@ DECL|member|buttons
 DECL|member|corner
 DECL|member|currentMousePressWindow
 DECL|member|currentMouseWindow
+DECL|member|desktopFileName
 DECL|member|displayName
 DECL|member|focus_window
 DECL|member|generic_plugin_list
