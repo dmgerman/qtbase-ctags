@@ -1,3 +1,4 @@
+DECL|function|append
 DECL|function|at
 DECL|function|begin
 DECL|function|begin
@@ -20,6 +21,7 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
+DECL|function|prepend
 DECL|function|qCompress
 DECL|function|qUncompress
 DECL|function|qstrcmp

@@ -27,6 +27,7 @@ DECL|function|insert
 DECL|function|insert
 DECL|function|insert
 DECL|function|insert
+DECL|function|insert
 DECL|function|isNull
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf
