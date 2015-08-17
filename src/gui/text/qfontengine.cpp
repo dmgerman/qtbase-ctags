@@ -89,6 +89,8 @@ DECL|function|lockedAlphaMapForGlyph
 DECL|function|maxCharWidth
 DECL|function|maxCharWidth
 DECL|function|minLeftBearing
+DECL|function|minLeftBearing
+DECL|function|minRightBearing
 DECL|function|minRightBearing
 DECL|function|operator =
 DECL|function|properties
@@ -123,6 +125,7 @@ DECL|macro|GRID
 DECL|macro|GRID
 DECL|macro|SET
 DECL|macro|SET
+DECL|macro|kBearingNotInitialized
 DECL|variable|enginesCollector
 DECL|variable|hb_fontClass
 DECL|variable|sizeof

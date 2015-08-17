@@ -53,8 +53,6 @@ DECL|function|loadGlyphSet
 DECL|function|lockFace
 DECL|function|lockedAlphaMapForGlyph
 DECL|function|maxCharWidth
-DECL|function|minLeftBearing
-DECL|function|minRightBearing
 DECL|function|non_locked_face
 DECL|function|properties
 DECL|function|properties
@@ -90,8 +88,6 @@ DECL|macro|ROUND
 DECL|macro|TRUNC
 DECL|member|faces
 DECL|member|library
-DECL|variable|char_table
-DECL|variable|char_table_entries
 DECL|variable|emptyGlyph
 DECL|variable|ftInitialDefaultHintStyle
 DECL|variable|subpixel_filter
