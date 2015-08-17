@@ -51,6 +51,7 @@ DECL|member|nativeOrientation
 DECL|member|orientation
 DECL|member|physicalDpi
 DECL|member|scaleFactor
+DECL|member|statusBar
 DECL|member|surfaceFormat
 DECL|member|touchDevice
 DECL|member|touchPoints
