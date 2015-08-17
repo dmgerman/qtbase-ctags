@@ -1,6 +1,4 @@
-DECL|function|ConvertDipsToPixels
 DECL|function|GetCoreWindowSizeInPixels
-DECL|function|GetLogicalDpi
 DECL|function|createSwapChain
 DECL|function|initialize
 DECL|function|registerForSizeChangeEvents

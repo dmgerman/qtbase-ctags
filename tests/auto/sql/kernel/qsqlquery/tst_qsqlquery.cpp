@@ -70,6 +70,8 @@ DECL|function|forwardOnly_data
 DECL|function|generic_data
 DECL|function|init
 DECL|function|initTestCase
+DECL|function|integralTypesMysql
+DECL|function|integralTypesMysql_data
 DECL|function|invalidQuery
 DECL|function|invalidQuery_data
 DECL|function|isActive
@@ -141,6 +143,7 @@ DECL|function|record
 DECL|function|record_data
 DECL|function|record_sqlite
 DECL|function|record_sqlite_data
+DECL|function|runIntegralTypesMysqlTest
 DECL|function|seek
 DECL|function|seekForwardOnlyQuery
 DECL|function|seekForwardOnlyQuery_data

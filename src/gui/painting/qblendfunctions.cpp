@@ -16,16 +16,11 @@ DECL|function|flush
 DECL|function|flush
 DECL|function|flush
 DECL|function|qInitBlendFunctions
-DECL|function|qt_blend_a2bgr30pm_on_a2rgb30pm
-DECL|function|qt_blend_a2rgb30pm_on_a2rgb30pm
 DECL|function|qt_blend_argb32_on_argb32
 DECL|function|qt_blend_argb32_on_rgb16
 DECL|function|qt_blend_argb32_on_rgb16_const_alpha
-DECL|function|qt_blend_argb32pm_on_a2rgb30pm
 DECL|function|qt_blend_rgb16_on_rgb16
-DECL|function|qt_blend_rgb30_on_rgb30
 DECL|function|qt_blend_rgb32_on_rgb16
-DECL|function|qt_blend_rgb32_on_rgb30
 DECL|function|qt_blend_rgb32_on_rgb32
 DECL|function|qt_scale_image_argb32_on_argb32
 DECL|function|qt_scale_image_argb32_on_rgb16

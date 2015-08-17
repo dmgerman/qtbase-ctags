@@ -68,6 +68,7 @@ DECL|function|removeGlyphFromCache
 DECL|function|scaleOutline
 DECL|function|setDefaultHintStyle
 DECL|function|setGlyph
+DECL|function|setQtDefaultHintStyle
 DECL|function|shouldUseDesignMetrics
 DECL|function|stringToCMap
 DECL|function|supportsTransformation
@@ -92,4 +93,5 @@ DECL|member|library
 DECL|variable|char_table
 DECL|variable|char_table_entries
 DECL|variable|emptyGlyph
+DECL|variable|ftInitialDefaultHintStyle
 DECL|variable|subpixel_filter

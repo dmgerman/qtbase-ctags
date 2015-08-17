@@ -32,6 +32,7 @@ DECL|function|matchTypedefDecl
 DECL|function|matchUsingDecl
 DECL|function|otherMetaCommands
 DECL|function|parseHeaderFile
+DECL|function|parseParameters
 DECL|function|parseQiteratorDotH
 DECL|function|parseSourceFile
 DECL|function|previousLexeme
@@ -49,6 +50,7 @@ DECL|function|splitQmlPropertyGroupArg
 DECL|function|terminateParser
 DECL|function|topicCommands
 DECL|function|~CppCodeParser
+DECL|member|cppParser_
 DECL|member|exampleDirs
 DECL|member|exampleFiles
 DECL|variable|inMacroCommand_

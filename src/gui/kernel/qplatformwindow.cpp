@@ -46,6 +46,7 @@ DECL|function|window
 DECL|function|windowBaseSize
 DECL|function|windowClosestAcceptableGeometry
 DECL|function|windowEvent
+DECL|function|windowFrameGeometry
 DECL|function|windowGeometry
 DECL|function|windowMaximumSize
 DECL|function|windowMinimumSize

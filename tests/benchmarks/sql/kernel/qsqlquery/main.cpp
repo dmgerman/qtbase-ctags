@@ -1,5 +1,7 @@
 DECL|class|tst_QSqlQuery
 DECL|function|benchmark
+DECL|function|benchmarkSelectPrepared
+DECL|function|benchmarkSelectPrepared_data
 DECL|function|benchmark_data
 DECL|function|cleanup
 DECL|function|cleanupTestCase

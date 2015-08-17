@@ -6,6 +6,7 @@ DECL|function|findAllLegaleseTexts
 DECL|function|findAllNamespaces
 DECL|function|findAllObsoleteThings
 DECL|function|findAllSince
+DECL|function|findFunctionNode
 DECL|function|findNodeForAtom
 DECL|function|findNodeForTarget
 DECL|function|findNodeForTarget
