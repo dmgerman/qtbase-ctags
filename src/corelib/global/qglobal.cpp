@@ -4,8 +4,6 @@ DECL|function|activateCallbacks
 DECL|function|buildAbi
 DECL|function|buildCpuArchitecture
 DECL|function|currentCpuArchitecture
-DECL|function|determineWinOsVersionFallbackPost8
-DECL|function|determineWinOsVersionPost8
 DECL|function|findUnixOsVersion
 DECL|function|fromstrerror_helper
 DECL|function|fromstrerror_helper
@@ -15,6 +13,7 @@ DECL|function|kernelType
 DECL|function|kernelVersion
 DECL|function|macVersion
 DECL|function|machineHostName
+DECL|function|moduleHandleForFunction
 DECL|function|prettyProductName
 DECL|function|productType
 DECL|function|productVersion
@@ -45,6 +44,7 @@ DECL|function|winOsVersion
 DECL|function|winVer_helper
 DECL|function|windowsVersion
 DECL|function|~QWindowsSockInit
+DECL|macro|GetProcAddressA
 DECL|macro|USE_ETC_OS_RELEASE
 DECL|macro|VER_PLATFORM_WIN32_CE
 DECL|macro|VER_PLATFORM_WIN32_NT
