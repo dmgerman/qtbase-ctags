@@ -27,6 +27,7 @@ DECL|function|canConvertToMime
 DECL|function|canConvertToMime
 DECL|function|canConvertToMime
 DECL|function|canGetData
+DECL|function|clipboardFormatName
 DECL|function|convertFromMime
 DECL|function|convertFromMime
 DECL|function|convertFromMime
@@ -61,6 +62,8 @@ DECL|function|mimeForFormat
 DECL|function|mimeForFormat
 DECL|function|mimeForFormat
 DECL|function|msgConversionError
+DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|qt_read_dibv5
 DECL|function|qt_write_dibv5
 DECL|function|readDib
