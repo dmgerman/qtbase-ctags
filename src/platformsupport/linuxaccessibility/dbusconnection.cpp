@@ -5,5 +5,5 @@ DECL|function|dbusError
 DECL|function|getAddressFromXCB
 DECL|function|serviceRegistered
 DECL|function|serviceUnregistered
-DECL|variable|A11Y_PATH
-DECL|variable|A11Y_SERVICE
+DECL|macro|A11Y_PATH
+DECL|macro|A11Y_SERVICE
