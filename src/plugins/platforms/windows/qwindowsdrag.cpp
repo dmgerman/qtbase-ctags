@@ -59,6 +59,4 @@ DECL|member|m_touchDragWindow
 DECL|member|pixmap
 DECL|struct|CursorEntry
 DECL|typedef|ActionCursorMap
-DECL|typedef|ActionCursorMapConstIt
-DECL|typedef|ActionCursorMapIt
 DECL|typedef|DragCursorHandlePtr
