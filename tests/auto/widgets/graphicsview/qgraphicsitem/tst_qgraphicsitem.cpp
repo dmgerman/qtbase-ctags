@@ -84,8 +84,8 @@ DECL|function|StacksBehindParentHelper
 DECL|function|TextItem
 DECL|function|Track
 DECL|function|TransformDebugItem
+DECL|function|acceptHoverEvents
 DECL|function|acceptedMouseButtons
-DECL|function|acceptsHoverEvents
 DECL|function|activate
 DECL|function|activationOnShowHide
 DECL|function|addPanelToActiveScene
