@@ -57,6 +57,7 @@ DECL|function|task_188849
 DECL|function|task_226929
 DECL|function|task_233197
 DECL|function|testFullScreenState
+DECL|function|testRemoveBaseWidget
 DECL|function|triggerSignal
 DECL|member|_count
 DECL|member|acceptClose
