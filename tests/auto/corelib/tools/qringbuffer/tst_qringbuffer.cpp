@@ -15,3 +15,4 @@ DECL|function|reserveFrontAndRead
 DECL|function|sizeWhenReserved
 DECL|function|sizeWhenReservedAndChopped
 DECL|function|ungetChar
+DECL|function|usingInVector
