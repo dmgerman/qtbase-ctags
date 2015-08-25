@@ -1,3 +1,4 @@
+DECL|class|MouseEventTestWidget
 DECL|class|tst_QGroupBox
 DECL|function|childrenAreDisabled
 DECL|function|clickTimestampSlot
@@ -6,7 +7,12 @@ DECL|function|clicked_data
 DECL|function|enabledChildPropagation
 DECL|function|enabledPropagation
 DECL|function|init
+DECL|function|mouseMoveEvent
+DECL|function|mousePressEvent
+DECL|function|mouseReleaseEvent
 DECL|function|propagateFocus
+DECL|function|reset
+DECL|function|sendMouseMoveEvent
 DECL|function|setCheckable
 DECL|function|setCheckable_data
 DECL|function|setChecked
@@ -14,6 +20,7 @@ DECL|function|setChecked_data
 DECL|function|setTitle
 DECL|function|setTitle_data
 DECL|function|sizeHint
+DECL|function|task_QTBUG_15519_propagateMouseEvents
 DECL|function|task_QTBUG_19170_ignoreMouseReleseEvent
 DECL|function|toggleTimestampSlot
 DECL|function|toggled
@@ -23,5 +30,8 @@ DECL|function|tst_QGroupBox
 DECL|function|~tst_QGroupBox
 DECL|member|checked
 DECL|member|clickTimeStamp
+DECL|member|mouseMoved
+DECL|member|mousePressed
+DECL|member|mouseReleased
 DECL|member|timeStamp
 DECL|member|toggleTimeStamp
