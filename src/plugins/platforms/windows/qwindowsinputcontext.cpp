@@ -25,5 +25,6 @@ DECL|function|standardFormat
 DECL|function|startComposition
 DECL|function|startContextComposition
 DECL|function|update
+DECL|function|updateEnabled
 DECL|function|~QWindowsInputContext
 DECL|member|m_defaultContext

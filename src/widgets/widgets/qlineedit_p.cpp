@@ -8,6 +8,7 @@ DECL|function|_q_selectionChanged
 DECL|function|_q_textChanged
 DECL|function|_q_textEdited
 DECL|function|_q_updateNeeded
+DECL|function|actionEvent
 DECL|function|addAction
 DECL|function|adjustedContentsRect
 DECL|function|adjustedControlRect
