@@ -67,6 +67,7 @@ DECL|variable|catposstab
 DECL|variable|digitab
 DECL|variable|digitab
 DECL|variable|ebcdic_chartab
+DECL|variable|ebcdic_escape_c
 DECL|variable|error_texts
 DECL|variable|escapes
 DECL|variable|escapes

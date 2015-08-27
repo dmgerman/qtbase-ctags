@@ -1,1 +1,1 @@
-DECL|function|init
+DECL|function|initTestCaseInternal

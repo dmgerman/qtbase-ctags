@@ -66,7 +66,8 @@ DECL|function|setProcessEnvironment
 DECL|function|setProcessEnvironment_data
 DECL|function|setStandardInputFile
 DECL|function|setStandardOutputFile
-DECL|function|setStandardOutputFile2
+DECL|function|setStandardOutputFileAndWaitForBytesWritten
+DECL|function|setStandardOutputFileNullDevice
 DECL|function|setStandardOutputFile_data
 DECL|function|setStandardOutputProcess
 DECL|function|setStandardOutputProcess_data
@@ -82,6 +83,9 @@ DECL|function|start
 DECL|function|startDetached
 DECL|function|startFailMessage
 DECL|function|startFinishStartFinish
+DECL|function|startStopStartStop
+DECL|function|startStopStartStopBuffers
+DECL|function|startStopStartStopBuffers_data
 DECL|function|startWithOldOpen
 DECL|function|startWithOpen
 DECL|function|switchReadChannels
