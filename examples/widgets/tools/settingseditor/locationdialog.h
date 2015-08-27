@@ -4,3 +4,4 @@ DECL|variable|QDialogButtonBox
 DECL|variable|QGroupBox
 DECL|variable|QLabel
 DECL|variable|QTableWidget
+DECL|variable|QTableWidgetItem
