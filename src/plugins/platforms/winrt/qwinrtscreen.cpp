@@ -1,6 +1,7 @@
 DECL|class|QWinRTScreenPrivate
 DECL|function|QWinRTScreen
 DECL|function|addWindow
+DECL|function|availableGeometry
 DECL|function|canvas
 DECL|function|coreWindow
 DECL|function|cursor
@@ -24,9 +25,12 @@ DECL|function|onPointerEntered
 DECL|function|onPointerExited
 DECL|function|onPointerUpdated
 DECL|function|onSizeChanged
+DECL|function|onStatusBarHiding
+DECL|function|onStatusBarShowing
 DECL|function|onVisibilityChanged
 DECL|function|orientation
 DECL|function|physicalSize
+DECL|function|qHash
 DECL|function|qHash
 DECL|function|qHash
 DECL|function|qIsNonPrintable
@@ -36,6 +40,7 @@ DECL|function|qtOrientationsFromNative
 DECL|function|raise
 DECL|function|removeWindow
 DECL|function|scaleFactor
+DECL|function|setStatusBarVisibility
 DECL|function|topWindow
 DECL|function|updateWindowTitle
 DECL|function|~QWinRTScreen
@@ -52,6 +57,7 @@ DECL|member|orientation
 DECL|member|physicalDpi
 DECL|member|scaleFactor
 DECL|member|statusBar
+DECL|member|statusBarTokens
 DECL|member|surfaceFormat
 DECL|member|touchDevice
 DECL|member|touchPoints
@@ -68,4 +74,6 @@ DECL|typedef|InputEnabledHandler
 DECL|typedef|KeyHandler
 DECL|typedef|PointerHandler
 DECL|typedef|SizeChangedHandler
+DECL|typedef|StatusBarCallbackRemover
+DECL|typedef|StatusBarHandler
 DECL|typedef|VisibilityChangedHandler

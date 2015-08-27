@@ -7,12 +7,17 @@ DECL|function|isExposed
 DECL|function|lower
 DECL|function|raise
 DECL|function|setGeometry
+DECL|function|setUIElementVisibility
 DECL|function|setVisible
+DECL|function|setWindowState
 DECL|function|setWindowTitle
 DECL|function|winId
 DECL|function|~QWinRTWindow
 DECL|macro|EGL_EGLEXT_PROTOTYPES
+DECL|member|canvas
 DECL|member|screen
+DECL|member|state
 DECL|member|surfaceFormat
 DECL|member|swapChainPanel
+DECL|member|uiElement
 DECL|member|windowTitle
