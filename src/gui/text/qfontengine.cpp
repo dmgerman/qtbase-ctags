@@ -126,6 +126,9 @@ DECL|macro|GRID
 DECL|macro|SET
 DECL|macro|SET
 DECL|macro|kBearingNotInitialized
+DECL|macro|kMinLeftSideBearingOffset
+DECL|macro|kMinRightSideBearingOffset
+DECL|macro|q16Dot16ToFloat
 DECL|variable|enginesCollector
 DECL|variable|hb_fontClass
 DECL|variable|sizeof
