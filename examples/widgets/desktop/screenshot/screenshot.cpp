@@ -1,7 +1,4 @@
 DECL|function|Screenshot
-DECL|function|createButton
-DECL|function|createButtonsLayout
-DECL|function|createOptionsGroupBox
 DECL|function|newScreenshot
 DECL|function|resizeEvent
 DECL|function|saveScreenshot
