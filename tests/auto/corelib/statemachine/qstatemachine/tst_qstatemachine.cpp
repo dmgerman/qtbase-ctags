@@ -60,6 +60,7 @@ DECL|function|conflictingTransition
 DECL|function|conflictingTransition2
 DECL|function|connectNotify
 DECL|function|createEventTransitionWhenRunning
+DECL|function|createPointerToMemberSignalTransition
 DECL|function|createSignalTransitionWhenRunning
 DECL|function|customErrorStateIsNull
 DECL|function|customErrorStateNotInGraph
