@@ -1,0 +1,3 @@
+DECL|macro|QEVDEVTABLETHANDLER_P_H
+DECL|variable|QEvdevTabletData
+DECL|variable|QSocketNotifier

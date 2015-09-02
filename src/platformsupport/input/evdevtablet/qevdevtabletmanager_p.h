@@ -1,0 +1,3 @@
+DECL|macro|QEVDEVTABLETMANAGER_P_H
+DECL|variable|QDeviceDiscovery
+DECL|variable|QEvdevTabletHandlerThread
