@@ -1,3 +1,4 @@
+DECL|function|QIconEngine
 DECL|function|actualSize
 DECL|function|addFile
 DECL|function|addPixmap
