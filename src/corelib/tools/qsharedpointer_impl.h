@@ -2,6 +2,7 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
+DECL|function|operator
 DECL|function|qSharedPointerFromVariant
 DECL|function|qWeakPointerFromVariant
 DECL|function|toWeakRef
