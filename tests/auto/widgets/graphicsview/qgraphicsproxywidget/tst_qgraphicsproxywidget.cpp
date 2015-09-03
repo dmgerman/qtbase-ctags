@@ -8,6 +8,7 @@ DECL|class|MyProxyWidget
 DECL|class|Scene
 DECL|class|ScrollWidget
 DECL|class|SubQGraphicsProxyWidget
+DECL|class|TouchWidget
 DECL|class|View
 DECL|class|WheelWidget
 DECL|class|tst_QGraphicsProxyWidget
@@ -21,6 +22,7 @@ DECL|function|QTBUG_6986_sendMouseEventToAlienWidget
 DECL|function|Scene
 DECL|function|ScrollWidget
 DECL|function|SubQGraphicsProxyWidget
+DECL|function|TouchWidget
 DECL|function|View
 DECL|function|WheelWidget
 DECL|function|actionsContextMenu
@@ -62,6 +64,7 @@ DECL|function|enterEvent
 DECL|function|event
 DECL|function|event
 DECL|function|event
+DECL|function|event
 DECL|function|eventFilter
 DECL|function|eventFilter
 DECL|function|eventFilter
@@ -74,6 +77,7 @@ DECL|function|focusOutEvent
 DECL|function|focusOutEvent
 DECL|function|focusOutEvent_data
 DECL|function|fontPropagation
+DECL|function|forwardTouchEvent
 DECL|function|hideButton
 DECL|function|hoverEnterLeaveEvent
 DECL|function|hoverEnterLeaveEvent_data
