@@ -113,6 +113,7 @@ DECL|function|setSocketDescriptor
 DECL|function|setSocketOption
 DECL|function|slotIncreaseReadBufferSizeReadyRead
 DECL|function|socketDescriptor
+DECL|function|socketDiscardDataInWriteMode
 DECL|function|socketInAThread
 DECL|function|socketsConstructedBeforeEventLoop
 DECL|function|socketsInThreads
