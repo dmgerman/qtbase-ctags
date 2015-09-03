@@ -16,6 +16,7 @@ DECL|function|matches
 DECL|function|matches
 DECL|function|nextState
 DECL|function|operator <
+DECL|function|operator <<
 DECL|function|removeShortcut
 DECL|function|resetState
 DECL|function|setShortcutAutoRepeat
