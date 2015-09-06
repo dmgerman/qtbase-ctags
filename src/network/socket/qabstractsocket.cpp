@@ -23,6 +23,7 @@ DECL|function|connectToHost
 DECL|function|connectToHost
 DECL|function|connectionNotification
 DECL|function|disconnectFromHost
+DECL|function|emitReadyRead
 DECL|function|error
 DECL|function|fetchConnectionParameters
 DECL|function|flush
