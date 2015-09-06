@@ -27,9 +27,6 @@ DECL|function|qsrand
 DECL|function|qt_check_pointer
 DECL|function|qt_error_string
 DECL|function|qt_int_sqrt
-DECL|function|qt_mac_create_fsref
-DECL|function|qt_mac_from_pascal_string
-DECL|function|qt_mac_to_pascal_string
 DECL|function|qunsetenv
 DECL|function|readEtcDebianVersion
 DECL|function|readEtcFile
