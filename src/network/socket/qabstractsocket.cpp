@@ -74,6 +74,7 @@ DECL|function|waitForConnected
 DECL|function|waitForDisconnected
 DECL|function|waitForReadyRead
 DECL|function|writeData
+DECL|function|writeToSocket
 DECL|function|~QAbstractSocket
 DECL|function|~QAbstractSocketPrivate
 DECL|macro|QABSTRACTSOCKET_BUFFERSIZE
