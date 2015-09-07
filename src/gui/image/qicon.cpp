@@ -25,6 +25,7 @@ DECL|function|detach
 DECL|function|findBySize
 DECL|function|format
 DECL|function|fromTheme
+DECL|function|fromTheme
 DECL|function|hasThemeIcon
 DECL|function|isDetached
 DECL|function|isMask
