@@ -3,6 +3,7 @@ DECL|function|addFile
 DECL|function|addPixmap
 DECL|function|availableSizes
 DECL|function|iconName
+DECL|function|isNull
 DECL|function|key
 DECL|function|pixmap
 DECL|function|read
