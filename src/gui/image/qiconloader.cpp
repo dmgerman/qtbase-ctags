@@ -1,3 +1,5 @@
+DECL|class|QIconCacheGtkReader
+DECL|function|QIconCacheGtkReader
 DECL|function|QIconLoader
 DECL|function|QIconLoaderEngine
 DECL|function|QIconLoaderEngine
@@ -12,14 +14,19 @@ DECL|function|entryForSize
 DECL|function|fallbackTheme
 DECL|function|findIconHelper
 DECL|function|hasIcon
+DECL|function|icon_name_hash
 DECL|function|instance
+DECL|function|isValid
 DECL|function|key
 DECL|function|loadIcon
+DECL|function|lookup
 DECL|function|paint
 DECL|function|pixmap
 DECL|function|pixmap
 DECL|function|pixmap
 DECL|function|read
+DECL|function|read16
+DECL|function|read32
 DECL|function|setThemeName
 DECL|function|setThemeSearchPath
 DECL|function|systemIconSearchPaths
@@ -29,3 +36,7 @@ DECL|function|updateSystemTheme
 DECL|function|virtual_hook
 DECL|function|write
 DECL|function|~QIconLoaderEngine
+DECL|member|m_data
+DECL|member|m_file
+DECL|member|m_isValid
+DECL|member|m_size
