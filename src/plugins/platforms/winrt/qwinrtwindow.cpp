@@ -1,6 +1,8 @@
 DECL|class|QWinRTWindowPrivate
 DECL|function|QWinRTWindow
+DECL|function|createEglSurface
 DECL|function|devicePixelRatio
+DECL|function|eglSurface
 DECL|function|format
 DECL|function|isActive
 DECL|function|isExposed
@@ -15,8 +17,10 @@ DECL|function|winId
 DECL|function|~QWinRTWindow
 DECL|macro|EGL_EGLEXT_PROTOTYPES
 DECL|member|canvas
+DECL|member|display
 DECL|member|screen
 DECL|member|state
+DECL|member|surface
 DECL|member|surfaceFormat
 DECL|member|swapChainPanel
 DECL|member|uiElement
