@@ -1,7 +1,9 @@
 DECL|class|PeekBug
+DECL|class|RandomAccessBuffer
 DECL|class|SequentialReadBuffer
 DECL|class|tst_QIODevice
 DECL|function|PeekBug
+DECL|function|RandomAccessBuffer
 DECL|function|SequentialReadBuffer
 DECL|function|buffer
 DECL|function|constructing_QFile
@@ -20,7 +22,9 @@ DECL|function|readLine_data
 DECL|function|read_QByteArray
 DECL|function|unget
 DECL|function|writeData
+DECL|function|writeInTextMode
 DECL|member|alphabet
+DECL|member|buf
 DECL|member|buf
 DECL|member|counter
 DECL|member|offset
