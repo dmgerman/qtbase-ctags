@@ -73,4 +73,3 @@ DECL|member|startCount
 DECL|member|thread
 DECL|member|visited
 DECL|typedef|TestApplication
-DECL|typedef|TestApplication
