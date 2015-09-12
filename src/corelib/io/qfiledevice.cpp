@@ -4,7 +4,6 @@ DECL|function|QFileDevice
 DECL|function|QFileDevice
 DECL|function|QFileDevice
 DECL|function|QFileDevicePrivate
-DECL|function|_qfile_writeData
 DECL|function|atEnd
 DECL|function|close
 DECL|function|engine
@@ -31,5 +30,5 @@ DECL|function|unsetError
 DECL|function|writeData
 DECL|function|~QFileDevice
 DECL|function|~QFileDevicePrivate
+DECL|macro|QFILE_WRITEBUFFER_SIZE
 DECL|macro|tr
-DECL|variable|QFILE_WRITEBUFFER_SIZE
