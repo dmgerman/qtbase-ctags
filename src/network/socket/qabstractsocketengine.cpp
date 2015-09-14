@@ -10,8 +10,10 @@ DECL|function|createSocketEngine
 DECL|function|error
 DECL|function|errorString
 DECL|function|exceptionNotification
+DECL|function|inboundStreamCount
 DECL|function|localAddress
 DECL|function|localPort
+DECL|function|outboundStreamCount
 DECL|function|peerAddress
 DECL|function|peerPort
 DECL|function|protocol

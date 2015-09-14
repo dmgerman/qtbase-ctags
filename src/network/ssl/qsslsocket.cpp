@@ -3,6 +3,8 @@ DECL|function|QSslSocket
 DECL|function|QSslSocketGlobalData
 DECL|function|QSslSocketPrivate
 DECL|function|_q_bytesWrittenSlot
+DECL|function|_q_channelBytesWrittenSlot
+DECL|function|_q_channelReadyReadSlot
 DECL|function|_q_connectedSlot
 DECL|function|_q_disconnectedSlot
 DECL|function|_q_errorSlot
