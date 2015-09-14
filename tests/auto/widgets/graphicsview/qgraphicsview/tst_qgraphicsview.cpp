@@ -163,7 +163,6 @@ DECL|function|task186827_deleteReplayedItem
 DECL|function|task187791_setSceneCausesUpdate
 DECL|function|task207546_focusCrash
 DECL|function|task210599_unsetDragWhileDragging
-DECL|function|task236394_sendShortcutOverrideEvent
 DECL|function|task239047_fitInViewSmallViewport
 DECL|function|task239729_noViewUpdate
 DECL|function|task239729_noViewUpdate_data
