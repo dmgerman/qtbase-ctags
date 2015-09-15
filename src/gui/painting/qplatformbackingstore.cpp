@@ -29,6 +29,9 @@ DECL|function|window
 DECL|function|~QPlatformBackingStore
 DECL|function|~QPlatformBackingStorePrivate
 DECL|function|~QPlatformTextureList
+DECL|macro|GL_TEXTURE_BASE_LEVEL
+DECL|macro|GL_TEXTURE_MAX_LEVEL
+DECL|macro|GL_UNPACK_ROW_LENGTH
 DECL|member|blitter
 DECL|member|clipRect
 DECL|member|flags
