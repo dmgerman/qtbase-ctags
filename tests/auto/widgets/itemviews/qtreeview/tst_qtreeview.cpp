@@ -190,7 +190,6 @@ DECL|function|taskQTBUG_11466_keyboardNavigationRegression
 DECL|function|taskQTBUG_13567_removeLastItemRegression
 DECL|function|taskQTBUG_18539_emitLayoutChanged
 DECL|function|taskQTBUG_25333_adjustViewOptionsForIndex
-DECL|function|taskQTBUG_34717_collapseAtBottom
 DECL|function|taskQTBUG_37813_crash
 DECL|function|taskQTBUG_45697_crash
 DECL|function|taskQTBUG_6450_selectAllWith1stColumnHidden
