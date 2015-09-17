@@ -131,6 +131,7 @@ DECL|function|shouldQuitInternal
 DECL|function|showModalWindow
 DECL|function|styleHints
 DECL|function|sync
+DECL|function|tabletDevicePoint
 DECL|function|topLevelAt
 DECL|function|topLevelWindows
 DECL|function|tryCloseAllWindows
@@ -176,8 +177,7 @@ DECL|member|screen_list
 DECL|member|self
 DECL|member|styleHints
 DECL|member|styleOverride
-DECL|member|tabletPressTarget
-DECL|member|tabletState
+DECL|member|tabletDevicePoints
 DECL|member|width
 DECL|member|window_list
 DECL|member|xOffset
