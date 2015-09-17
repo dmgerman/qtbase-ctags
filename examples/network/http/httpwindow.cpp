@@ -1,10 +1,15 @@
 DECL|function|HttpWindow
+DECL|function|ProgressDialog
 DECL|function|cancelDownload
 DECL|function|downloadFile
 DECL|function|enableDownloadButton
 DECL|function|httpFinished
 DECL|function|httpReadyRead
+DECL|function|networkReplyProgress
+DECL|function|openFileForWrite
 DECL|function|slotAuthenticationRequired
 DECL|function|sslErrors
 DECL|function|startRequest
-DECL|function|updateDataReadProgress
+DECL|variable|defaultFileName
+DECL|variable|defaultUrl
+DECL|variable|defaultUrl
