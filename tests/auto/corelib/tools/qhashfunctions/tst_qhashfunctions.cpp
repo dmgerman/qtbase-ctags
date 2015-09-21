@@ -6,6 +6,7 @@ DECL|function|qthash
 DECL|function|qthash_data
 DECL|function|range
 DECL|function|rangeCommutative
+DECL|function|setGlobalQHashSeed
 DECL|member|i
 DECL|namespace|SomeNamespace
 DECL|struct|Hashable
