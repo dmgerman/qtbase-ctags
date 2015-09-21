@@ -1,4 +1,5 @@
 DECL|function|QPixmapStyle
+DECL|function|QPixmapStyle
 DECL|function|addDescriptor
 DECL|function|addPixmap
 DECL|function|comboBoxSizeFromContents
@@ -40,5 +41,6 @@ DECL|function|sliderSizeFromContents
 DECL|function|styleHint
 DECL|function|subControlRect
 DECL|function|subElementRect
+DECL|function|unpolish
 DECL|function|unpolish
 DECL|function|~QPixmapStyle

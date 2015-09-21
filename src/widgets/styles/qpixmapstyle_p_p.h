@@ -1,0 +1,9 @@
+DECL|macro|QPIXMAPSTYLE_P_H
+DECL|member|fileName
+DECL|member|margins
+DECL|member|margins
+DECL|member|pixmap
+DECL|member|size
+DECL|member|tileRules
+DECL|struct|QPixmapStyleDescriptor
+DECL|struct|QPixmapStylePixmap

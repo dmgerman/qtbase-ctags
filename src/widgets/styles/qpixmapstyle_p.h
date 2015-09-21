@@ -1,0 +1,2 @@
+DECL|macro|QPIXMAPSTYLE_H
+DECL|variable|QPixmapStylePrivate
