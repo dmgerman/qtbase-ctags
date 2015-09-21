@@ -2,6 +2,7 @@ DECL|function|normalizedTimespec
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
+DECL|function|qt_safe_ftok
 DECL|macro|EINTR_LOOP
 DECL|macro|QCORE_UNIX_P_H
 DECL|macro|QT_CLOSE
