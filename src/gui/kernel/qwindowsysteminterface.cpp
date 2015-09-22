@@ -78,6 +78,7 @@ DECL|function|tryHandleShortcutEvent
 DECL|function|tryHandleShortcutEvent
 DECL|function|tryHandleShortcutEventToObject
 DECL|function|tryHandleShortcutOverrideEvent
+DECL|function|unregisterTouchDevice
 DECL|function|windowSystemEventsQueued
 DECL|function|windowSystemEventsQueued
 DECL|function|~QWindowSystemEventHandler
