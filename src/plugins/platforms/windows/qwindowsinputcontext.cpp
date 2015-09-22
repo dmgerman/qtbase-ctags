@@ -15,12 +15,12 @@ DECL|function|handleIME_Request
 DECL|function|hasCapability
 DECL|function|imeNotifyCancelComposition
 DECL|function|initContext
-DECL|function|instance
 DECL|function|intermediateMarkup
 DECL|function|invokeAction
 DECL|function|reconvertString
 DECL|function|reset
 DECL|function|setFocusObject
+DECL|function|setWindowsImeEnabled
 DECL|function|standardFormat
 DECL|function|startComposition
 DECL|function|startContextComposition
