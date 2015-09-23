@@ -36,6 +36,7 @@ DECL|function|mkdir
 DECL|function|mkdir_p_asstring
 DECL|function|openOutput
 DECL|function|operator ==
+DECL|function|parseLibFlag
 DECL|function|pkgConfigFileName
 DECL|function|pkgConfigFixPath
 DECL|function|pkgConfigPrefix

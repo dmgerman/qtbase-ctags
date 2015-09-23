@@ -6,6 +6,7 @@ DECL|function|findLibraries
 DECL|function|fixLibFlag
 DECL|function|fixTargetExt
 DECL|function|getManifestFileForRcFile
+DECL|function|parseLibFlag
 DECL|function|processRcFileVar
 DECL|function|processVars
 DECL|function|writeBuildRulesPart

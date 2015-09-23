@@ -3,10 +3,10 @@ DECL|function|createArObjectScriptFile
 DECL|function|createLdObjectScriptFile
 DECL|function|escapeDependencyPath
 DECL|function|findDependencies
-DECL|function|findLibraries
 DECL|function|fixLibFlag
 DECL|function|getManifestFileForRcFile
 DECL|function|init
+DECL|function|parseLibFlag
 DECL|function|writeBuildRulesPart
 DECL|function|writeIncPart
 DECL|function|writeLibsPart
