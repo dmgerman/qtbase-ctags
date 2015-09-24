@@ -3,6 +3,7 @@ DECL|function|createTestFile
 DECL|function|dump
 DECL|function|enableTestMode
 DECL|function|findSh
+DECL|function|initTestCase
 DECL|function|setCustomLocations
 DECL|function|setDefaultLocations
 DECL|function|testAllWritableLocations
