@@ -110,5 +110,8 @@ DECL|member|killing
 DECL|member|n
 DECL|member|process
 DECL|member|waitedForFinished
+DECL|typedef|QProcessErrorSignal
+DECL|typedef|QProcessFinishedSignal1
+DECL|typedef|QProcessFinishedSignal2
 DECL|variable|ExitStatus
 DECL|variable|ProcessState
