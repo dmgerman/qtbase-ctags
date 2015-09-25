@@ -31,6 +31,7 @@ DECL|function|removeRow_data
 DECL|function|rowCount
 DECL|function|selectedItems
 DECL|function|selectedItems_data
+DECL|function|selectedRowAfterSorting
 DECL|function|setItemData
 DECL|function|setItemWithSorting
 DECL|function|setItemWithSorting_data
