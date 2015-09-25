@@ -33,6 +33,8 @@ DECL|function|loggerCount
 DECL|function|loggerUsingStdout
 DECL|function|matches
 DECL|function|messageHandler
+DECL|function|nsecsFunctionTime
+DECL|function|nsecsTotalTime
 DECL|function|outputString
 DECL|function|passCount
 DECL|function|printUnhandledIgnoreMessages
@@ -74,3 +76,5 @@ DECL|member|verbosity
 DECL|namespace|QTest
 DECL|struct|IgnoreResultList
 DECL|struct|LoggerList
+DECL|variable|elapsedFunctionTime
+DECL|variable|elapsedTotalTime
