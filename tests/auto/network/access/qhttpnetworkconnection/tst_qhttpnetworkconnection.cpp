@@ -1,10 +1,12 @@
 DECL|class|GetAndEverythingShouldBePipelinedReceiver
 DECL|class|GetEmptyWithPipeliningReceiver
 DECL|class|GetMultipleWithPrioritiesReceiver
+DECL|class|TestTcpServer
 DECL|class|tst_QHttpNetworkConnection
 DECL|function|GetAndEverythingShouldBePipelinedReceiver
 DECL|function|GetEmptyWithPipeliningReceiver
 DECL|function|GetMultipleWithPrioritiesReceiver
+DECL|function|TestTcpServer
 DECL|function|_connect
 DECL|function|_connect_data
 DECL|function|_delete
@@ -39,8 +41,11 @@ DECL|function|init
 DECL|function|initTestCase
 DECL|function|nossl
 DECL|function|nossl_data
+DECL|function|onNewConnection
+DECL|function|onReply
 DECL|function|options
 DECL|function|options_data
+DECL|function|overlappingCloseAndWrite
 DECL|function|post
 DECL|function|post_data
 DECL|function|put
@@ -49,6 +54,7 @@ DECL|function|sslErrors
 DECL|function|trace
 DECL|function|trace_data
 DECL|function|tst_QHttpNetworkConnection
+DECL|member|errorCodeReports
 DECL|member|finishedCalled
 DECL|member|finishedWithErrorCalled
 DECL|member|highPrioReceived
