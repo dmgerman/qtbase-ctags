@@ -2,7 +2,6 @@ DECL|function|Win32MakefileGenerator
 DECL|function|cQuoted
 DECL|function|defaultInstall
 DECL|function|escapeFilePath
-DECL|function|findHighestVersion
 DECL|function|findLibraries
 DECL|function|fixLibFlag
 DECL|function|fixTargetExt
