@@ -42,6 +42,7 @@ DECL|function|forwardedChannels
 DECL|function|forwardedChannels_data
 DECL|function|getSetCheck
 DECL|function|hardExit
+DECL|function|init
 DECL|function|initTestCase
 DECL|function|invalidProgramString
 DECL|function|invalidProgramString_data
@@ -108,7 +109,6 @@ DECL|member|dataToWrite
 DECL|member|exitCode
 DECL|member|killing
 DECL|member|n
-DECL|member|process
 DECL|member|waitedForFinished
 DECL|typedef|QProcessErrorSignal
 DECL|typedef|QProcessFinishedSignal1
