@@ -1,6 +1,7 @@
 DECL|function|aliases
 DECL|function|allMimeTypes
 DECL|function|checkHasMimeType
+DECL|function|cleanupTestCase
 DECL|function|copyResourceFile
 DECL|function|findByData
 DECL|function|findByData_data
@@ -11,6 +12,7 @@ DECL|function|findByFile_data
 DECL|function|fromThreads
 DECL|function|icons
 DECL|function|inheritance
+DECL|function|init
 DECL|function|initTestCase
 DECL|function|initializeLang
 DECL|function|installNewGlobalMimeType
@@ -39,4 +41,5 @@ DECL|function|tst_QMimeDatabase
 DECL|function|waitAndRunUpdateMimeDatabase
 DECL|macro|RESOURCE_PREFIX
 DECL|variable|qmlAgainFileName
+DECL|variable|textXObjCSrcFileName
 DECL|variable|yastFileName

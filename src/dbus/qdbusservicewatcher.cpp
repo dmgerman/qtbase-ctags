@@ -6,7 +6,6 @@ DECL|function|_q_serviceOwnerChanged
 DECL|function|addService
 DECL|function|addWatchedService
 DECL|function|connection
-DECL|function|matchArgsForService
 DECL|function|removeService
 DECL|function|removeWatchedService
 DECL|function|setConnection

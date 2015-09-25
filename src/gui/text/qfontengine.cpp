@@ -89,9 +89,12 @@ DECL|function|lockedAlphaMapForGlyph
 DECL|function|maxCharWidth
 DECL|function|maxCharWidth
 DECL|function|minLeftBearing
+DECL|function|minLeftBearing
+DECL|function|minRightBearing
 DECL|function|minRightBearing
 DECL|function|operator =
 DECL|function|properties
+DECL|function|qSafeFromBigEndian
 DECL|function|qt_addBitmapToPath
 DECL|function|qt_get_font_table_default
 DECL|function|qt_useHarfbuzzNG
@@ -122,6 +125,10 @@ DECL|macro|GRID
 DECL|macro|GRID
 DECL|macro|SET
 DECL|macro|SET
+DECL|macro|kBearingNotInitialized
+DECL|macro|kMinLeftSideBearingOffset
+DECL|macro|kMinRightSideBearingOffset
+DECL|macro|q16Dot16ToFloat
 DECL|variable|enginesCollector
 DECL|variable|hb_fontClass
 DECL|variable|sizeof

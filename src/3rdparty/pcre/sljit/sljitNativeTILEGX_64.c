@@ -35,10 +35,12 @@ DECL|function|sljit_emit_label
 DECL|function|sljit_emit_op0
 DECL|function|sljit_emit_op1
 DECL|function|sljit_emit_op2
+DECL|function|sljit_emit_op_custom
 DECL|function|sljit_emit_op_flags
 DECL|function|sljit_emit_return
 DECL|function|sljit_generate_code
 DECL|function|sljit_get_platform_name
+DECL|function|sljit_get_register_index
 DECL|function|sljit_is_fpu_available
 DECL|function|sljit_set_const
 DECL|function|sljit_set_context
@@ -120,6 +122,7 @@ DECL|macro|LESS_FLAG
 DECL|macro|LOAD_DATA
 DECL|macro|LOGICAL_OP
 DECL|macro|MEM_MASK
+DECL|macro|MUL
 DECL|macro|NOP
 DECL|macro|NOR
 DECL|macro|NOR_X1
@@ -161,11 +164,6 @@ DECL|macro|SIMM_48BIT_MIN
 DECL|macro|SIMM_8BIT_MAX
 DECL|macro|SIMM_8BIT_MIN
 DECL|macro|SLJIT_LOCALS_REG_mapped
-DECL|macro|SLJIT_SAVED_EREG1_mapped
-DECL|macro|SLJIT_SAVED_EREG2_mapped
-DECL|macro|SLJIT_SAVED_REG1_mapped
-DECL|macro|SLJIT_SAVED_REG2_mapped
-DECL|macro|SLJIT_SAVED_REG3_mapped
 DECL|macro|SLOW_DEST
 DECL|macro|SLOW_SRC1
 DECL|macro|SLOW_SRC2

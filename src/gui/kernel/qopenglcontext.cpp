@@ -9,6 +9,7 @@ DECL|function|QOpenGLVersionProfile
 DECL|function|QOpenGLVersionProfile
 DECL|function|QOpenGLVersionProfile
 DECL|function|QOpenGLVersionProfilePrivate
+DECL|function|_q_screenDestroyed
 DECL|function|addContext
 DECL|function|areSharing
 DECL|function|cleanup

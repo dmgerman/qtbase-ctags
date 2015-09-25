@@ -30,8 +30,10 @@ DECL|function|pipelineFlush
 DECL|function|pipelineInto
 DECL|function|requeueCurrentlyPipelinedRequests
 DECL|function|requeueSpdyRequests
+DECL|function|resendCurrentRequest
 DECL|function|resetUploadData
 DECL|function|sendRequest
 DECL|function|setConnection
 DECL|function|setProxy
 DECL|function|setSslConfiguration
+DECL|variable|reconnectAttemptsDefault

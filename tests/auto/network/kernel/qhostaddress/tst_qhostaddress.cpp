@@ -13,6 +13,8 @@ DECL|function|isInSubnet
 DECL|function|isInSubnet_data
 DECL|function|isLoopback
 DECL|function|isLoopback_data
+DECL|function|isMulticast
+DECL|function|isMulticast_data
 DECL|function|parseSubnet
 DECL|function|parseSubnet_data
 DECL|function|scopeId
@@ -22,7 +24,5 @@ DECL|function|specialAddresses
 DECL|function|specialAddresses_data
 DECL|function|streaming
 DECL|function|streaming_data
-DECL|function|toString
 DECL|function|tst_QHostAddress
 DECL|function|~tst_QHostAddress
-DECL|namespace|QTest

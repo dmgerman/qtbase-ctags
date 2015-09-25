@@ -1,6 +1,7 @@
 DECL|class|DuplicateItemSelectionModel
 DECL|class|MyStandardItemModel
 DECL|class|QStreamHelper
+DECL|class|QTBUG48402_helper
 DECL|class|QtTestTableModel
 DECL|class|RemovalObserver
 DECL|class|SelectionObserver
@@ -12,9 +13,12 @@ DECL|enum|Result
 DECL|function|DuplicateItemSelectionModel
 DECL|function|MyStandardItemModel
 DECL|function|QStreamHelper
+DECL|function|QTBUG48402
+DECL|function|QTBUG48402_data
 DECL|function|QtTestTableModel
 DECL|function|RemovalObserver
 DECL|function|SelectionObserver
+DECL|function|changed
 DECL|function|childrenDeselectionSignal
 DECL|function|cleanupTestCase
 DECL|function|clear
@@ -85,6 +89,7 @@ DECL|function|testValidRangesInSelectionsAfterReset
 DECL|function|toggleSelection
 DECL|function|tst_QItemSelectionModel
 DECL|function|unselectable
+DECL|member|br
 DECL|member|column_count
 DECL|member|m_itemSelectionModel
 DECL|member|m_model
@@ -93,6 +98,7 @@ DECL|member|m_target
 DECL|member|model
 DECL|member|row_count
 DECL|member|selection
+DECL|member|tl
 DECL|typedef|IntList
 DECL|typedef|IntListList
 DECL|typedef|IntPair

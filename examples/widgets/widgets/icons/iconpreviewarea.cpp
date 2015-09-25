@@ -1,6 +1,14 @@
 DECL|function|IconPreviewArea
 DECL|function|createHeaderLabel
 DECL|function|createPixmapLabel
+DECL|function|iconModeNames
+DECL|function|iconModeNames
+DECL|function|iconModes
+DECL|function|iconModes
+DECL|function|iconStateNames
+DECL|function|iconStateNames
+DECL|function|iconStates
+DECL|function|iconStates
 DECL|function|setIcon
 DECL|function|setSize
 DECL|function|updatePixmapLabels

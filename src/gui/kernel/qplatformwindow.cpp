@@ -1,4 +1,5 @@
 DECL|function|QPlatformWindow
+DECL|function|closestAcceptableGeometry
 DECL|function|constrainWindowSize
 DECL|function|devicePixelRatio
 DECL|function|effectiveScreen

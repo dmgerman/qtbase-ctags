@@ -12,4 +12,3 @@ DECL|member|eglConfig
 DECL|member|eglContext
 DECL|member|eglDisplay
 DECL|member|format
-DECL|member|surfaceForWindow

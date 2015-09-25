@@ -10,6 +10,8 @@ DECL|function|hasFastCrc32
 DECL|function|nextNode
 DECL|function|previousNode
 DECL|function|primeForNumBits
+DECL|function|qGlobalQHashSeed
+DECL|function|qSetGlobalQHashSeed
 DECL|function|qt_create_qhash_seed
 DECL|function|qt_initialize_qhash_seed
 DECL|function|rehash

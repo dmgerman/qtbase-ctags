@@ -52,6 +52,8 @@ DECL|function|resetSocketLayer
 DECL|function|resolveProxy
 DECL|function|resume
 DECL|function|resumeSocketNotifiers
+DECL|function|setError
+DECL|function|setErrorAndEmit
 DECL|function|setLocalAddress
 DECL|function|setLocalPort
 DECL|function|setPauseMode

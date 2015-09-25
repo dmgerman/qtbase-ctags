@@ -7,7 +7,11 @@ DECL|function|qt_is_nan
 DECL|function|qt_is_nan
 DECL|function|qt_qnan
 DECL|function|qt_snan
+DECL|macro|HAVE_MUL64_OVERFLOW
+DECL|macro|HAVE_MUL64_OVERFLOW
+DECL|macro|HAVE_MUL64_OVERFLOW
 DECL|macro|QNUMERIC_P_H
+DECL|macro|__has_builtin
 DECL|member|c
 DECL|member|c
 DECL|member|c

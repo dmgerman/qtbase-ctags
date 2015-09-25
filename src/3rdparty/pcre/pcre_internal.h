@@ -399,6 +399,9 @@ DECL|macro|CHAR_MINUS
 DECL|macro|CHAR_MINUS
 DECL|macro|CHAR_N
 DECL|macro|CHAR_N
+DECL|macro|CHAR_NBSP
+DECL|macro|CHAR_NBSP
+DECL|macro|CHAR_NBSP
 DECL|macro|CHAR_NEL
 DECL|macro|CHAR_NEL
 DECL|macro|CHAR_NEL
@@ -519,6 +522,7 @@ DECL|macro|COMPILE_PCRE8
 DECL|macro|DPRINTF
 DECL|macro|DPRINTF
 DECL|macro|DPRINTF
+DECL|macro|ESC_a
 DECL|macro|ESC_e
 DECL|macro|ESC_f
 DECL|macro|ESC_n
@@ -1113,6 +1117,7 @@ DECL|member|dummy
 DECL|member|dummy1
 DECL|member|dummy2
 DECL|member|dummy3
+DECL|member|dupgroups
 DECL|member|dupnames
 DECL|member|end_match_ptr
 DECL|member|end_offset_top

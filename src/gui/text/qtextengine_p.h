@@ -32,8 +32,10 @@ DECL|function|height
 DECL|function|height
 DECL|function|isOutsideSelection
 DECL|function|isValid
+DECL|function|leftBearing
 DECL|function|mid
 DECL|function|operator
+DECL|function|rightBearing
 DECL|macro|QTEXTENGINE_P_H
 DECL|member|advances
 DECL|member|analysis

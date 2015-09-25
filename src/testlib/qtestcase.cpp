@@ -20,6 +20,7 @@ DECL|function|currentDataTag
 DECL|function|currentTestFailed
 DECL|function|currentTestFunction
 DECL|function|data
+DECL|function|debuggerPresent
 DECL|function|defaultEventDelay
 DECL|function|defaultKeyDelay
 DECL|function|defaultMouseDelay

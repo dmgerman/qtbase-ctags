@@ -13,6 +13,7 @@ DECL|function|checkOutputIsPrimary
 DECL|function|checkXcbPollForQueuedEvent
 DECL|function|checkXcbPollForQueuedEvent
 DECL|function|clientLeader
+DECL|function|compressEvent
 DECL|function|createScreen
 DECL|function|createVisualInfoForDefaultVisualId
 DECL|function|event
@@ -34,6 +35,9 @@ DECL|function|initializeXShape
 DECL|function|internAtom
 DECL|function|invalidate
 DECL|function|ioErrorHandler
+DECL|function|isValid
+DECL|function|isXIEvent
+DECL|function|isXIType
 DECL|function|lock
 DECL|function|log
 DECL|function|nullErrorHandler

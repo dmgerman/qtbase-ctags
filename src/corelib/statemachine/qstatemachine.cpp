@@ -50,6 +50,7 @@ DECL|function|event
 DECL|function|eventFilter
 DECL|function|execute
 DECL|function|executeTransitionContent
+DECL|function|exitInterpreter
 DECL|function|exitSet
 DECL|function|exitStates
 DECL|function|findErrorState

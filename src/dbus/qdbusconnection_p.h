@@ -7,6 +7,7 @@ DECL|variable|QDBusInterfacePrivate
 DECL|variable|QDBusMessage
 DECL|variable|QDBusObjectPrivate
 DECL|variable|QDBusPendingCallPrivate
+DECL|variable|QDBusServer
 DECL|variable|QMetaMethod
 DECL|variable|QSocketNotifier
 DECL|variable|QTimerEvent

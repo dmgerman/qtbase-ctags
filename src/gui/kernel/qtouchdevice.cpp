@@ -12,6 +12,7 @@ DECL|function|setMaximumTouchPoints
 DECL|function|setName
 DECL|function|setType
 DECL|function|type
+DECL|function|unregisterDevice
 DECL|function|~QTouchDevice
 DECL|typedef|TouchDevices
 DECL|variable|devicesMutex

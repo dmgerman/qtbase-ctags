@@ -1,3 +1,5 @@
+DECL|class|DisconnectRelayEvent
+DECL|function|DisconnectRelayEvent
 DECL|function|QDBusAbstractInterface
 DECL|function|QDBusAbstractInterface
 DECL|function|QDBusAbstractInterfaceBase
@@ -15,6 +17,8 @@ DECL|function|checkIfValid
 DECL|function|connectNotify
 DECL|function|connection
 DECL|function|disconnectNotify
+DECL|function|finishDisconnectNotify
+DECL|function|initOwnerTracking
 DECL|function|interface
 DECL|function|internalConstCall
 DECL|function|internalPropGet

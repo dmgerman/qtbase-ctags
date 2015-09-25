@@ -1,22 +1,20 @@
 DECL|class|QDBusBlockingCallWatcher
 DECL|function|QDBusBlockingCallWatcher
 DECL|function|QDBusConnectionPrivate
+DECL|function|_q_newConnection
 DECL|function|activateCall
 DECL|function|activateInternalFilters
 DECL|function|activateObject
 DECL|function|activateSignal
+DECL|function|addSignalHook
 DECL|function|buildMatchRule
 DECL|function|checkThread
 DECL|function|closeConnection
 DECL|function|connectRelay
 DECL|function|connectSignal
-DECL|function|connectSignal
 DECL|function|connectionCapabilies
-DECL|function|customEvent
-DECL|function|deleteYourself
 DECL|function|deliverCall
 DECL|function|disconnectRelay
-DECL|function|disconnectSignal
 DECL|function|disconnectSignal
 DECL|function|doDispatch
 DECL|function|findChildObject
@@ -35,6 +33,7 @@ DECL|function|huntAndDestroy
 DECL|function|huntAndEmit
 DECL|function|huntAndUnregister
 DECL|function|isServiceRegisteredByThread
+DECL|function|matchArgsForService
 DECL|function|objectDestroyed
 DECL|function|operator <<
 DECL|function|operator <<
@@ -47,9 +46,6 @@ DECL|function|qDBusAddSpyHook
 DECL|function|qDBusAddTimeout
 DECL|function|qDBusAddWatch
 DECL|function|qDBusNewConnection
-DECL|function|qDBusRealAddTimeout
-DECL|function|qDBusRealAddWatch
-DECL|function|qDBusRealToggleWatch
 DECL|function|qDBusRemoveTimeout
 DECL|function|qDBusRemoveWatch
 DECL|function|qDBusResultReceived
@@ -62,8 +58,11 @@ DECL|function|registerObject
 DECL|function|registerService
 DECL|function|registerServiceNoLock
 DECL|function|relaySignal
+DECL|function|removeSignalHook
+DECL|function|removeSignalHookNoLock
 DECL|function|send
 DECL|function|sendError
+DECL|function|sendInternal
 DECL|function|sendWithReply
 DECL|function|sendWithReplyAsync
 DECL|function|sendWithReplyLocal
@@ -78,7 +77,8 @@ DECL|function|timerEvent
 DECL|function|unregisterObject
 DECL|function|unregisterService
 DECL|function|unregisterServiceNoLock
-DECL|function|waitForFinished
+DECL|function|unwatchService
+DECL|function|watchService
 DECL|function|~QDBusActivateObjectEvent
 DECL|function|~QDBusBlockingCallWatcher
 DECL|function|~QDBusConnectionPrivate

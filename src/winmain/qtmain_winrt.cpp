@@ -1,9 +1,12 @@
 DECL|class|AppContainer
+DECL|class|QActivationEvent
 DECL|function|AppContainer
+DECL|function|QActivationEvent
 DECL|function|WinMain
 DECL|function|devMessageHandler
 DECL|function|exec
 DECL|function|~AppContainer
+DECL|function|~QActivationEvent
 DECL|macro|CoreApplicationClass
 DECL|macro|qHString
 DECL|member|args

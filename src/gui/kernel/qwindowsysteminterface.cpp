@@ -58,6 +58,7 @@ DECL|function|handleWindowSystemEvent
 DECL|function|installWindowSystemEventHandler
 DECL|function|operator <<
 DECL|function|peekWindowSystemEvent
+DECL|function|postWindowSystemEvent
 DECL|function|qt_handleKeyEvent
 DECL|function|qt_handleMouseEvent
 DECL|function|qt_handleTouchEvent
@@ -69,15 +70,19 @@ DECL|function|sendEvent
 DECL|function|sendWindowSystemEvents
 DECL|function|setSynchronousWindowSystemEvents
 DECL|function|toNativeTouchPoints
+DECL|function|touchPoint
+DECL|function|touchPointList
 DECL|function|tryHandleExtendedShortcutEvent
 DECL|function|tryHandleExtendedShortcutEvent
 DECL|function|tryHandleShortcutEvent
 DECL|function|tryHandleShortcutEvent
 DECL|function|tryHandleShortcutEventToObject
 DECL|function|tryHandleShortcutOverrideEvent
+DECL|function|unregisterTouchDevice
 DECL|function|windowSystemEventsQueued
 DECL|function|windowSystemEventsQueued
 DECL|function|~QWindowSystemEventHandler
+DECL|member|eventAccepted
 DECL|member|eventHandler
 DECL|member|eventTime
 DECL|member|eventsFlushed

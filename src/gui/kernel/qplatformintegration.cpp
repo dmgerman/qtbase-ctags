@@ -19,9 +19,11 @@ DECL|function|nativeInterface
 DECL|function|openGLModuleType
 DECL|function|possibleKeys
 DECL|function|queryKeyboardModifiers
+DECL|function|removeScreen
 DECL|function|screenAdded
 DECL|function|services
 DECL|function|setApplicationIcon
+DECL|function|setPrimaryScreen
 DECL|function|styleHint
 DECL|function|sync
 DECL|function|themeNames

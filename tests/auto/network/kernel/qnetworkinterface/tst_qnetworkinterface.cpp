@@ -4,6 +4,7 @@ DECL|function|copyInvalidInterface
 DECL|function|dump
 DECL|function|initTestCase
 DECL|function|interfaceFromXXX
+DECL|function|interfaceFromXXX_data
 DECL|function|localAddress
 DECL|function|loopbackIPv4
 DECL|function|loopbackIPv6

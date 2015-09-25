@@ -5,6 +5,7 @@ DECL|function|defaultCategoryFilter
 DECL|function|init
 DECL|function|installFilter
 DECL|function|instance
+DECL|function|loadRulesFromFile
 DECL|function|parse
 DECL|function|pass
 DECL|function|qtLoggingDebug

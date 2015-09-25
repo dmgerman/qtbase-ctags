@@ -106,6 +106,7 @@ DECL|function|task239150_editorWidth
 DECL|function|task245280_sortChildren
 DECL|function|task253109_itemHeight
 DECL|function|taskQTBUG2844_visualItemRect
+DECL|function|taskQTBUG_34717_collapseAtBottom
 DECL|function|timerEvent
 DECL|function|tst_QTreeWidget
 DECL|function|~tst_QTreeWidget

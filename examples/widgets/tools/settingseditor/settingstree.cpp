@@ -13,3 +13,4 @@ DECL|function|setSettingsObject
 DECL|function|sizeHint
 DECL|function|updateChildItems
 DECL|function|updateSetting
+DECL|function|~SettingsTree

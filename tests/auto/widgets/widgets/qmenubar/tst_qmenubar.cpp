@@ -20,7 +20,7 @@ DECL|function|check_menuPosition
 DECL|function|check_shortcutPress
 DECL|function|cleanup
 DECL|function|clear
-DECL|function|closeOnSecondClick
+DECL|function|closeOnSecondClickAndOpenOnThirdClick
 DECL|function|cornerWidgets
 DECL|function|cornerWidgets_data
 DECL|function|count

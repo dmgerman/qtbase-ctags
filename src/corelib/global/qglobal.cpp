@@ -1,9 +1,9 @@
+DECL|class|QWindowsSockInit
+DECL|function|QWindowsSockInit
 DECL|function|activateCallbacks
 DECL|function|buildAbi
 DECL|function|buildCpuArchitecture
 DECL|function|currentCpuArchitecture
-DECL|function|determineWinOsVersionFallbackPost8
-DECL|function|determineWinOsVersionPost8
 DECL|function|findUnixOsVersion
 DECL|function|fromstrerror_helper
 DECL|function|fromstrerror_helper
@@ -12,6 +12,8 @@ DECL|function|getEtcFileFirstLine
 DECL|function|kernelType
 DECL|function|kernelVersion
 DECL|function|macVersion
+DECL|function|machineHostName
+DECL|function|moduleHandleForFunction
 DECL|function|prettyProductName
 DECL|function|productType
 DECL|function|productVersion
@@ -25,9 +27,6 @@ DECL|function|qsrand
 DECL|function|qt_check_pointer
 DECL|function|qt_error_string
 DECL|function|qt_int_sqrt
-DECL|function|qt_mac_create_fsref
-DECL|function|qt_mac_from_pascal_string
-DECL|function|qt_mac_to_pascal_string
 DECL|function|qunsetenv
 DECL|function|readEtcDebianVersion
 DECL|function|readEtcFile
@@ -41,6 +40,8 @@ DECL|function|unregisterCallback
 DECL|function|winOsVersion
 DECL|function|winVer_helper
 DECL|function|windowsVersion
+DECL|function|~QWindowsSockInit
+DECL|macro|GetProcAddressA
 DECL|macro|USE_ETC_OS_RELEASE
 DECL|macro|VER_PLATFORM_WIN32_CE
 DECL|macro|VER_PLATFORM_WIN32_NT
@@ -53,6 +54,7 @@ DECL|member|callbacks
 DECL|member|prettyName
 DECL|member|productType
 DECL|member|productVersion
+DECL|member|version
 DECL|struct|QInternal_CallBackTable
 DECL|struct|QUnixOSVersion
 DECL|typedef|SeedStorage

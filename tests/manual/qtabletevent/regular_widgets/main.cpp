@@ -14,12 +14,15 @@ DECL|function|mouseReleaseEvent
 DECL|function|outputMouseEvent
 DECL|function|paintEvent
 DECL|function|tabletEvent
+DECL|function|timerEvent
 DECL|member|angle
 DECL|member|button
 DECL|member|m_lastButton
 DECL|member|m_lastIsMouseMove
 DECL|member|m_lastIsTabletMove
+DECL|member|m_paintEventCount
 DECL|member|m_points
+DECL|member|m_tabletMoveCount
 DECL|member|pos
 DECL|member|pressure
 DECL|member|ptype

@@ -6,12 +6,16 @@ DECL|function|QEvdevTouchScreenHandlerThread
 DECL|function|addTouchPoint
 DECL|function|assignIds
 DECL|function|findClosestContact
+DECL|function|isTouchDeviceRegistered
+DECL|function|notifyTouchDeviceRegistered
 DECL|function|processInputEvent
 DECL|function|readData
-DECL|function|registerDevice
+DECL|function|registerTouchDevice
 DECL|function|reportPoints
 DECL|function|run
 DECL|function|testBit
+DECL|function|touchDevice
+DECL|function|unregisterTouchDevice
 DECL|function|~QEvdevTouchScreenHandler
 DECL|function|~QEvdevTouchScreenHandlerThread
 DECL|macro|ABS_CNT
@@ -34,7 +38,6 @@ DECL|member|hw_range_y_min
 DECL|member|m_contacts
 DECL|member|m_currentData
 DECL|member|m_currentSlot
-DECL|member|m_device
 DECL|member|m_forceToActiveWindow
 DECL|member|m_lastContacts
 DECL|member|m_lastEventType

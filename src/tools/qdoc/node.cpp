@@ -27,6 +27,7 @@ DECL|function|addInheritedBy
 DECL|function|addItem
 DECL|function|addMember
 DECL|function|addParameter
+DECL|function|addRelated
 DECL|function|addResolvedBaseClass
 DECL|function|addUnresolvedBaseClass
 DECL|function|addUnresolvedUsingClause
@@ -103,6 +104,7 @@ DECL|function|reconstructParameters
 DECL|function|removeChild
 DECL|function|removeFromRelated
 DECL|function|removeRelated
+DECL|function|removeRelates
 DECL|function|role
 DECL|function|root
 DECL|function|secondaryKeys
@@ -118,6 +120,7 @@ DECL|function|setOverriddenFrom
 DECL|function|setPageType
 DECL|function|setReimplemented
 DECL|function|setReimplementedFrom
+DECL|function|setRelates
 DECL|function|setRelates
 DECL|function|setSince
 DECL|function|setTitle

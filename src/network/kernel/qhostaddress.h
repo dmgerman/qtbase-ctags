@@ -1,4 +1,4 @@
-DECL|function|operator
+DECL|function|Q_DECLARE_SHARED_NOT_MOVABLE_UNTIL_QT6
 DECL|macro|QHOSTADDRESS_H
 DECL|typedef|Q_IPV6ADDR
 DECL|variable|QHostAddress

@@ -2,6 +2,7 @@ DECL|class|KeyPressEater
 DECL|class|MainWindow
 DECL|class|MyClass
 DECL|class|MyClass
+DECL|class|MyClass
 DECL|class|MyObject
 DECL|class|MyWidget
 DECL|class|QLibrary
@@ -18,6 +19,7 @@ DECL|function|MainWindow
 DECL|function|MyObject
 DECL|function|MyWidget
 DECL|function|MyWindow
+DECL|function|event
 DECL|function|eventFilter
 DECL|function|eventFilter
 DECL|function|timerEvent
