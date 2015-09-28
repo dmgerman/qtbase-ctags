@@ -11,7 +11,6 @@ DECL|function|flipFinished
 DECL|function|format
 DECL|function|framebufferForBufferObject
 DECL|function|geometry
-DECL|function|handleSuspendRequest
 DECL|function|logicalDpi
 DECL|function|name
 DECL|function|nativeOrientation
