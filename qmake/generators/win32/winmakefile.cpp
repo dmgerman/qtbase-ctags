@@ -6,7 +6,6 @@ DECL|function|findHighestVersion
 DECL|function|findLibraries
 DECL|function|fixLibFlag
 DECL|function|fixTargetExt
-DECL|function|getLibTarget
 DECL|function|getManifestFileForRcFile
 DECL|function|processPrlFiles
 DECL|function|processRcFileVar

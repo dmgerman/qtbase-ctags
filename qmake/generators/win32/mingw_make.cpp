@@ -5,7 +5,6 @@ DECL|function|escapeDependencyPath
 DECL|function|findDependencies
 DECL|function|findLibraries
 DECL|function|fixLibFlag
-DECL|function|getLibTarget
 DECL|function|getManifestFileForRcFile
 DECL|function|init
 DECL|function|writeBuildRulesPart
