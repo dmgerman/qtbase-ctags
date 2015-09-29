@@ -20,7 +20,6 @@ DECL|function|elideMode
 DECL|function|enterEvent
 DECL|function|event
 DECL|function|expanding
-DECL|function|extraWidth
 DECL|function|hideEvent
 DECL|function|iconSize
 DECL|function|indexAtPos
@@ -45,6 +44,7 @@ DECL|function|mouseReleaseEvent
 DECL|function|moveTab
 DECL|function|moveTab
 DECL|function|moveTabFinished
+DECL|function|normalizedScrollRect
 DECL|function|paintEvent
 DECL|function|paintEvent
 DECL|function|refresh
