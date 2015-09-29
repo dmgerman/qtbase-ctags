@@ -24,6 +24,8 @@ DECL|function|initSslContext
 DECL|function|operator SSLContextRef
 DECL|function|qt_createSecureTransportContext
 DECL|function|qt_releaseSecureTransportContext
+DECL|function|qt_setSessionProtocol
+DECL|function|qt_setSessionProtocolOSX
 DECL|function|reset
 DECL|function|resetDefaultCiphers
 DECL|function|resetDefaultEllipticCurves
