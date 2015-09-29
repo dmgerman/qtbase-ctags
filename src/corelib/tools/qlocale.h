@@ -3,7 +3,6 @@ DECL|function|toCurrencyString
 DECL|function|toCurrencyString
 DECL|function|toCurrencyString
 DECL|function|toCurrencyString
-DECL|function|toCurrencyString
 DECL|function|toString
 DECL|function|toString
 DECL|function|toString

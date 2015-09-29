@@ -96,6 +96,7 @@ DECL|function|timeFormatContainsAP
 DECL|function|toCurrencyString
 DECL|function|toCurrencyString
 DECL|function|toCurrencyString
+DECL|function|toCurrencyString
 DECL|function|toDate
 DECL|function|toDate
 DECL|function|toDateTime
