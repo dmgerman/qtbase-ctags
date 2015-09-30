@@ -60,6 +60,9 @@ DECL|function|isRoot_data
 DECL|function|isSymLink
 DECL|function|isSymLink_data
 DECL|function|isWritable
+DECL|function|msgDoesNotExist
+DECL|function|msgIsNoDirectory
+DECL|function|msgIsNotRoot
 DECL|function|nonExistingFileDates
 DECL|function|notEqualOperator
 DECL|function|ntfsJunctionPointsAndSymlinks
