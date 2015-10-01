@@ -1,4 +1,5 @@
 DECL|function|QCFSocketNotifier
+DECL|function|enableSocketNotifiers
 DECL|function|qt_mac_add_socket_to_runloop
 DECL|function|qt_mac_remove_socket_from_runloop
 DECL|function|qt_mac_socket_callback
