@@ -14,7 +14,8 @@ DECL|function|establishRead
 DECL|function|fetchConnectionParameters
 DECL|function|handleBindCompleted
 DECL|function|handleClientConnection
-DECL|function|handleConnectionErrors
+DECL|function|handleConnectToHost
+DECL|function|handleConnectionEstablished
 DECL|function|handleNewDatagram
 DECL|function|handleReadyRead
 DECL|function|hasPendingDatagrams

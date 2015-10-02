@@ -11,6 +11,7 @@ DECL|function|_q_readyRead
 DECL|function|_q_receiveReply
 DECL|function|_q_sslErrors
 DECL|function|_q_uploadDataReadyRead
+DECL|function|abort
 DECL|function|allDone
 DECL|function|close
 DECL|function|closeAndResendCurrentRequest

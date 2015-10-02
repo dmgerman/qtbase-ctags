@@ -30,6 +30,7 @@ DECL|function|setVisible
 DECL|function|syncMenuItem
 DECL|function|trigger
 DECL|function|~QDBusPlatformMenu
+DECL|function|~QDBusPlatformMenuItem
 DECL|member|m_topLevelMenus
 DECL|variable|menuItemsByID
 DECL|variable|menusByID
