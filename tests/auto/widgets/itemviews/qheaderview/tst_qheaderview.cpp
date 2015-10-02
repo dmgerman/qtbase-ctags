@@ -123,6 +123,7 @@ DECL|function|sectionSize_data
 DECL|function|setColumnCount
 DECL|function|setupTestData
 DECL|function|showSortIndicator
+DECL|function|sizeHintCrash
 DECL|function|sortIndicatorTracking
 DECL|function|stretch
 DECL|function|stretchSectionCount
