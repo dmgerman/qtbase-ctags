@@ -153,6 +153,7 @@ DECL|member|displayName
 DECL|member|focus_window
 DECL|member|generic_plugin_list
 DECL|member|height
+DECL|member|highDpiScalingUpdated
 DECL|member|m_fakeMouseSourcePointId
 DECL|member|m_fakeTouchDevice
 DECL|member|m_inputDeviceManager
