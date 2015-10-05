@@ -1,7 +1,6 @@
 DECL|class|TriangleWindow
 DECL|function|TriangleWindow
 DECL|function|initialize
-DECL|function|loadShader
 DECL|function|main
 DECL|function|render
 DECL|member|Q_DECL_OVERRIDE
