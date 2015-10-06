@@ -17,6 +17,7 @@ DECL|function|operator !=
 DECL|function|operator QString
 DECL|function|readAndWriteWithLazyRegistration
 DECL|function|resetValue
+DECL|function|resetValue7
 DECL|function|setValue
 DECL|function|setValue
 DECL|function|set_value
