@@ -4,7 +4,6 @@ DECL|function|dragEnterEvent
 DECL|function|dragLeaveEvent
 DECL|function|dragMoveEvent
 DECL|function|dropEvent
-DECL|function|findPiece
 DECL|function|imageSize
 DECL|function|mousePressEvent
 DECL|function|paintEvent
