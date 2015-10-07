@@ -14,6 +14,7 @@ DECL|function|parseXftInt
 DECL|function|parseXftRgba
 DECL|function|pixelDensity
 DECL|function|readXResources
+DECL|function|screenAt
 DECL|function|sendStartupMessage
 DECL|function|topLevelAt
 DECL|function|updateGeometry
