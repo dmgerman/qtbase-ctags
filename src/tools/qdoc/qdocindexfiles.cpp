@@ -4,6 +4,7 @@ DECL|function|destroyQDocIndexFiles
 DECL|function|generateIndex
 DECL|function|generateIndexSection
 DECL|function|generateIndexSections
+DECL|function|insertTarget
 DECL|function|qdocIndexFiles
 DECL|function|readIndexFile
 DECL|function|readIndexSection
