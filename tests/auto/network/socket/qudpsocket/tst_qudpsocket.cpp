@@ -47,6 +47,7 @@ DECL|function|unconnectedServerAndClientTest
 DECL|function|writeDatagram
 DECL|function|writeDatagramToNonExistingPeer
 DECL|function|writeDatagramToNonExistingPeer_data
+DECL|function|writeInHostLookupState
 DECL|function|writeToNonExistingPeer
 DECL|function|writeToNonExistingPeer_data
 DECL|function|zeroLengthDatagram
