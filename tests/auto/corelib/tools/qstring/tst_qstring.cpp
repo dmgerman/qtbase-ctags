@@ -70,6 +70,7 @@ DECL|function|arg
 DECL|function|arg_fillChar
 DECL|function|arg_fillChar_data
 DECL|function|arg_locale
+DECL|function|assignQChar
 DECL|function|assignQLatin1String
 DECL|function|capacity
 DECL|function|capacity_data
