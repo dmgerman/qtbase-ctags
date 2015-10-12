@@ -21,6 +21,7 @@ DECL|function|TimerHelper
 DECL|function|TimerIdPersistsAfterThreadExitThread
 DECL|function|TimerInfiniteRecursionObject
 DECL|function|cancelLongTimer
+DECL|function|crossThreadSingleShotToFunctor
 DECL|function|deleteLaterOnQTimer
 DECL|function|dontBlockEvents
 DECL|function|event
@@ -30,6 +31,7 @@ DECL|function|livelock_data
 DECL|function|longLastingSlot
 DECL|function|moveToThread
 DECL|function|onetrigger
+DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|paintEvent
 DECL|function|postedEventsShouldNotStarveTimers
@@ -99,5 +101,6 @@ DECL|member|times
 DECL|member|total
 DECL|member|two
 DECL|struct|CountedStruct
+DECL|struct|DummyFunctor
 DECL|variable|_e
 DECL|variable|_t
