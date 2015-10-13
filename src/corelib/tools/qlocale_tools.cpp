@@ -18,6 +18,7 @@ DECL|function|mult
 DECL|function|multadd
 DECL|function|pow5mult
 DECL|function|qdtoa
+DECL|function|qdtoa
 DECL|function|qlltoa
 DECL|function|qstrtod
 DECL|function|qstrtoll
