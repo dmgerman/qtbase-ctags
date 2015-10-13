@@ -5,6 +5,7 @@ DECL|enum|HBitmapFormat
 DECL|function|copyImageData
 DECL|function|copyImageDataCreateAlpha
 DECL|function|getDiBits
+DECL|function|hasAlpha
 DECL|function|initBitMapInfo
 DECL|function|initBitMapInfoHeader
 DECL|function|qt_createIconMask
