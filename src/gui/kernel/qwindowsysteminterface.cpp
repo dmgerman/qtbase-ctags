@@ -34,6 +34,7 @@ DECL|function|handleScreenGeometryChange
 DECL|function|handleScreenLogicalDotsPerInchChange
 DECL|function|handleScreenOrientationChange
 DECL|function|handleScreenRefreshRateChange
+DECL|function|handleShortcutEvent
 DECL|function|handleTabletEnterProximityEvent
 DECL|function|handleTabletEnterProximityEvent
 DECL|function|handleTabletEvent
@@ -61,8 +62,8 @@ DECL|function|peekWindowSystemEvent
 DECL|function|postWindowSystemEvent
 DECL|function|qt_handleKeyEvent
 DECL|function|qt_handleMouseEvent
+DECL|function|qt_handleShortcutEvent
 DECL|function|qt_handleTouchEvent
-DECL|function|qt_sendShortcutOverrideEvent
 DECL|function|registerTouchDevice
 DECL|function|removeWindowSystemEvent
 DECL|function|removeWindowSystemEventhandler
@@ -72,12 +73,6 @@ DECL|function|setSynchronousWindowSystemEvents
 DECL|function|toNativeTouchPoints
 DECL|function|touchPoint
 DECL|function|touchPointList
-DECL|function|tryHandleExtendedShortcutEvent
-DECL|function|tryHandleExtendedShortcutEvent
-DECL|function|tryHandleShortcutEvent
-DECL|function|tryHandleShortcutEvent
-DECL|function|tryHandleShortcutEventToObject
-DECL|function|tryHandleShortcutOverrideEvent
 DECL|function|unregisterTouchDevice
 DECL|function|windowSystemEventsQueued
 DECL|function|windowSystemEventsQueued

@@ -69,6 +69,7 @@ DECL|function|removeOne
 DECL|function|removeOneComplex
 DECL|function|removeOneInt
 DECL|function|removeOneMovable
+DECL|function|reverseIterators
 DECL|function|setSharableInt
 DECL|function|startsWith
 DECL|function|startsWithComplex

@@ -8,6 +8,7 @@ DECL|member|modes
 DECL|member|name
 DECL|member|physical_size
 DECL|member|saved_crtc
+DECL|member|subpixel
 DECL|struct|QEglFSKmsOutput
 DECL|variable|QEglFSKmsCursor
 DECL|variable|QEglFSKmsDevice

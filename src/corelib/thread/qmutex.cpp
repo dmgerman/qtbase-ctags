@@ -8,6 +8,7 @@ DECL|function|freelist
 DECL|function|freelist
 DECL|function|isRecursive
 DECL|function|isRecursive
+DECL|function|qFreeListDeleter
 DECL|function|release
 DECL|function|~QMutex
 DECL|member|QT_MUTEX_LOCK_NOEXCEPT
@@ -15,6 +16,7 @@ DECL|member|Q_DECL_NOTHROW
 DECL|member|Sizes
 DECL|member|Sizes
 DECL|member|count
+DECL|member|freeListPtr
 DECL|member|mutex
 DECL|member|owner
 DECL|struct|FreeListConstants

@@ -18,6 +18,7 @@ DECL|function|testSlider
 DECL|function|testTextEdit
 DECL|function|testTreeWidget
 DECL|function|tst_QAccessibilityLinux
+DECL|function|~tst_QAccessibilityLinux
 DECL|macro|COMPARE3
 DECL|macro|ROOTPATH
 DECL|member|address

@@ -56,6 +56,7 @@ DECL|member|fbo
 DECL|member|flushPending
 DECL|member|hasBeenComposed
 DECL|member|inBackingStorePaint
+DECL|member|inPaintGL
 DECL|member|initialized
 DECL|member|paintDevice
 DECL|member|requestedFormat

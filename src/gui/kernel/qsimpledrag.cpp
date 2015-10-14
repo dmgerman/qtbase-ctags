@@ -14,6 +14,7 @@ DECL|function|getNativeMousePos
 DECL|function|move
 DECL|function|moveShapedPixmapWindow
 DECL|function|platformDropData
+DECL|function|recreateShapedPixmapWindow
 DECL|function|restoreCursor
 DECL|function|startDrag
 DECL|function|startDrag

@@ -1,14 +1,12 @@
 DECL|function|MingwMakefileGenerator
 DECL|function|createArObjectScriptFile
 DECL|function|createLdObjectScriptFile
-DECL|function|createRvctObjectScriptFile
 DECL|function|escapeDependencyPath
 DECL|function|findDependencies
-DECL|function|findLibraries
 DECL|function|fixLibFlag
-DECL|function|getLibTarget
 DECL|function|getManifestFileForRcFile
 DECL|function|init
+DECL|function|parseLibFlag
 DECL|function|writeBuildRulesPart
 DECL|function|writeIncPart
 DECL|function|writeLibsPart

@@ -1,4 +1,6 @@
 DECL|class|tst_QUdpSocket
+DECL|function|asyncReadDatagram
+DECL|function|async_readDatagramSlot
 DECL|function|bindAndConnectToHost
 DECL|function|bindMode
 DECL|function|broadcasting
@@ -45,10 +47,13 @@ DECL|function|unconnectedServerAndClientTest
 DECL|function|writeDatagram
 DECL|function|writeDatagramToNonExistingPeer
 DECL|function|writeDatagramToNonExistingPeer_data
+DECL|function|writeInHostLookupState
 DECL|function|writeToNonExistingPeer
 DECL|function|writeToNonExistingPeer_data
 DECL|function|zeroLengthDatagram
 DECL|function|~tst_QUdpSocket
+DECL|member|m_asyncReceiver
+DECL|member|m_asyncSender
 DECL|member|netConfMan
 DECL|member|networkConfiguration
 DECL|member|networkSession

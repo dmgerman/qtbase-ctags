@@ -1,11 +1,12 @@
 DECL|function|QFbVtHandler
 DECL|function|handleInt
 DECL|function|handleSignal
-DECL|function|restoreKeyboard
+DECL|function|setKeyboardEnabled
 DECL|function|setTTYCursor
-DECL|function|suspend
+DECL|function|signalHandler
 DECL|function|~QFbVtHandler
 DECL|macro|KBD_OFF_MODE
 DECL|macro|KBD_OFF_MODE
 DECL|macro|KDSKBMUTE
 DECL|macro|VTH_ENABLED
+DECL|variable|vth

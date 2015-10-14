@@ -11,6 +11,7 @@ DECL|function|findByFileName_data
 DECL|function|findByFile_data
 DECL|function|fromThreads
 DECL|function|icons
+DECL|function|ignoreInvalidMimetypeWarnings
 DECL|function|inheritance
 DECL|function|init
 DECL|function|initTestCase
@@ -40,6 +41,4 @@ DECL|function|testSuiteWarning
 DECL|function|tst_QMimeDatabase
 DECL|function|waitAndRunUpdateMimeDatabase
 DECL|macro|RESOURCE_PREFIX
-DECL|variable|qmlAgainFileName
-DECL|variable|textXObjCSrcFileName
-DECL|variable|yastFileName
+DECL|variable|additionalMimeFiles

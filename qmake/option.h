@@ -54,6 +54,8 @@ DECL|member|lex_ext
 DECL|member|lex_mod
 DECL|member|libtool_ext
 DECL|member|obj_ext
+DECL|member|objc_ext
+DECL|member|objcpp_ext
 DECL|member|output
 DECL|member|output_dir
 DECL|member|parser

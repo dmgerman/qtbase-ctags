@@ -60,6 +60,8 @@ DECL|function|match
 DECL|function|match_data
 DECL|function|mkdir
 DECL|function|mkdir_data
+DECL|function|msgDoesNotExist
+DECL|function|msgEntryListFailed
 DECL|function|nativeSeparators
 DECL|function|normalizePathSegments
 DECL|function|normalizePathSegments_data

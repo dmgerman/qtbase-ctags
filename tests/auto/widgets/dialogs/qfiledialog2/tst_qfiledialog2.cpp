@@ -26,6 +26,7 @@ DECL|function|init
 DECL|function|initTestCase
 DECL|function|lessThan
 DECL|function|listRoot
+DECL|function|msgDoesNotExist
 DECL|function|nameFilterParsing
 DECL|function|nameFilterParsing_data
 DECL|function|openContextMenu

@@ -2,13 +2,11 @@ DECL|function|Win32MakefileGenerator
 DECL|function|cQuoted
 DECL|function|defaultInstall
 DECL|function|escapeFilePath
-DECL|function|findHighestVersion
 DECL|function|findLibraries
 DECL|function|fixLibFlag
 DECL|function|fixTargetExt
-DECL|function|getLibTarget
 DECL|function|getManifestFileForRcFile
-DECL|function|processPrlFiles
+DECL|function|parseLibFlag
 DECL|function|processRcFileVar
 DECL|function|processVars
 DECL|function|writeBuildRulesPart

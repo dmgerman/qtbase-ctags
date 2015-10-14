@@ -10,6 +10,7 @@ DECL|function|elidedText
 DECL|function|elidedText_data
 DECL|function|inFontUcs4
 DECL|function|init
+DECL|function|leadingBelowLine
 DECL|function|lineWidth
 DECL|function|metrics
 DECL|function|mnemonicTextWidth

@@ -19,6 +19,7 @@ DECL|function|qHash
 DECL|function|qhash
 DECL|function|remove
 DECL|function|reserve
+DECL|function|reverseIterators
 DECL|function|setOperations
 DECL|function|size
 DECL|function|squeeze

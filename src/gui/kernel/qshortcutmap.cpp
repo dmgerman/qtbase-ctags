@@ -22,7 +22,7 @@ DECL|function|setShortcutAutoRepeat
 DECL|function|setShortcutEnabled
 DECL|function|state
 DECL|function|translateModifiers
-DECL|function|tryShortcutEvent
+DECL|function|tryShortcut
 DECL|function|~QShortcutMap
 DECL|member|ambigCount
 DECL|member|autorepeat

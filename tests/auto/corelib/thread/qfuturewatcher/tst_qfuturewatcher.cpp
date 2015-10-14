@@ -28,6 +28,7 @@ DECL|function|incrementalFilterResults
 DECL|function|incrementalMapResults
 DECL|function|mapSleeper
 DECL|function|mapper
+DECL|function|matchFlags
 DECL|function|pauseEvents
 DECL|function|printProgress
 DECL|function|printText

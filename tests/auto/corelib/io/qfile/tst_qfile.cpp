@@ -4,6 +4,7 @@ DECL|class|MyEngine
 DECL|class|MyHandler
 DECL|class|MyHandler2
 DECL|class|MyRecursiveHandler
+DECL|class|StdinReaderProcessGuard
 DECL|class|tst_QFile
 DECL|enumerator|NumberOfFileTypes
 DECL|enumerator|OpenFd
@@ -14,6 +15,7 @@ DECL|function|AutoIgnoreInvalidParameter
 DECL|function|FILEReadWrite
 DECL|function|MessageHandler
 DECL|function|MyEngine
+DECL|function|StdinReaderProcessGuard
 DECL|function|absolutePathLinkToRelativePath
 DECL|function|append
 DECL|function|appendAndRead
@@ -83,6 +85,9 @@ DECL|function|map_data
 DECL|function|miscWithUncPathAsCurrentDir
 DECL|function|missingEndOfLine
 DECL|function|mkdir
+DECL|function|msgFileDoesNotExist
+DECL|function|msgOpenFailed
+DECL|function|msgOpenFailed
 DECL|function|nativeHandleLeaks
 DECL|function|objectConstructors
 DECL|function|open
@@ -146,6 +151,7 @@ DECL|function|size
 DECL|function|sizeNoExist
 DECL|function|size_data
 DECL|function|standarderror
+DECL|function|stop
 DECL|function|streamCurrentPosition
 DECL|function|streamCurrentPosition
 DECL|function|streamExpectedSize
@@ -167,6 +173,7 @@ DECL|function|writeToReadOnlyFile
 DECL|function|~AutoIgnoreInvalidParameter
 DECL|function|~MessageHandler
 DECL|function|~MyEngine
+DECL|function|~StdinReaderProcessGuard
 DECL|macro|FILESIZE
 DECL|macro|QT_OPEN_BINARY
 DECL|macro|STDERR_FILENO
@@ -179,6 +186,7 @@ DECL|member|m_forCopyingFile
 DECL|member|m_forRenamingFile
 DECL|member|m_noEndOfLineFile
 DECL|member|m_oldDir
+DECL|member|m_process
 DECL|member|m_resourcesDir
 DECL|member|m_stdinProcessDir
 DECL|member|m_temporaryDir

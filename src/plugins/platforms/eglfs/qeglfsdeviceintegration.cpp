@@ -1,7 +1,9 @@
 DECL|function|create
 DECL|function|createCursor
+DECL|function|createDisplay
 DECL|function|createNativeOffscreenWindow
 DECL|function|createNativeWindow
+DECL|function|createWindow
 DECL|function|destroyNativeWindow
 DECL|function|fbDeviceName
 DECL|function|filterConfig
@@ -24,7 +26,9 @@ DECL|function|screenFormat
 DECL|function|screenInit
 DECL|function|screenSize
 DECL|function|supportsPBuffers
+DECL|function|supportsSurfacelessContexts
 DECL|function|surfaceFormatFor
+DECL|function|surfaceType
 DECL|function|usesDefaultScreen
 DECL|function|waitForVSync
 DECL|variable|framebuffer
