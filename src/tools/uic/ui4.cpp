@@ -40,6 +40,7 @@ DECL|function|DomProperties
 DECL|function|DomProperty
 DECL|function|DomPropertyData
 DECL|function|DomPropertySpecifications
+DECL|function|DomPropertyToolTip
 DECL|function|DomRect
 DECL|function|DomRectF
 DECL|function|DomResource
@@ -63,6 +64,7 @@ DECL|function|DomUI
 DECL|function|DomUrl
 DECL|function|DomWidget
 DECL|function|DomWidgetData
+DECL|function|clear
 DECL|function|clear
 DECL|function|clear
 DECL|function|clear
@@ -292,6 +294,7 @@ DECL|function|read
 DECL|function|read
 DECL|function|read
 DECL|function|read
+DECL|function|read
 DECL|function|setElementAction
 DECL|function|setElementAction
 DECL|function|setElementActionGroup
@@ -448,6 +451,7 @@ DECL|function|setElementTabStop
 DECL|function|setElementTabStops
 DECL|function|setElementTexture
 DECL|function|setElementTime
+DECL|function|setElementTooltip
 DECL|function|setElementUInt
 DECL|function|setElementULongLong
 DECL|function|setElementUnderline
@@ -605,6 +609,7 @@ DECL|function|write
 DECL|function|write
 DECL|function|write
 DECL|function|write
+DECL|function|write
 DECL|function|~DomAction
 DECL|function|~DomActionGroup
 DECL|function|~DomActionRef
@@ -647,6 +652,7 @@ DECL|function|~DomProperties
 DECL|function|~DomProperty
 DECL|function|~DomPropertyData
 DECL|function|~DomPropertySpecifications
+DECL|function|~DomPropertyToolTip
 DECL|function|~DomRect
 DECL|function|~DomRectF
 DECL|function|~DomResource
