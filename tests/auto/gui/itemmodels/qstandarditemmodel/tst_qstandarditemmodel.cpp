@@ -46,6 +46,7 @@ DECL|function|itemFromText
 DECL|function|itemRoleNames
 DECL|function|modelChanged
 DECL|function|persistentIndexes
+DECL|function|populateDragAndDropModel
 DECL|function|removeColumns
 DECL|function|removeRows
 DECL|function|removeRowsAndColumns
