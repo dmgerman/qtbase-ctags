@@ -75,6 +75,7 @@ DECL|function|operator >>
 DECL|function|operator >>
 DECL|function|operator >>
 DECL|function|padChar
+DECL|function|padding
 DECL|function|pos
 DECL|function|putChar
 DECL|function|putNumber
