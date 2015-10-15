@@ -62,6 +62,7 @@ DECL|field|m_quitApp
 DECL|field|m_showHideTimeStamp
 DECL|field|m_softInputMode
 DECL|field|m_started
+DECL|field|m_super_dispatchGenericMotionEvent
 DECL|field|m_super_dispatchKeyEvent
 DECL|field|m_super_onActivityResult
 DECL|field|m_super_onConfigurationChanged
@@ -80,6 +81,7 @@ DECL|method|closeContextMenu
 DECL|method|createSurface
 DECL|method|debugLog
 DECL|method|destroySurface
+DECL|method|dispatchGenericMotionEvent
 DECL|method|dispatchKeyEvent
 DECL|method|getActionBar
 DECL|method|getAppIconSize
