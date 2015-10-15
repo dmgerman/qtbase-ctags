@@ -1,0 +1,2 @@
+DECL|function|QEGLStreamConvenience
+DECL|function|initialize

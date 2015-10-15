@@ -10,7 +10,6 @@ DECL|function|platformDestroy
 DECL|function|platformDisplay
 DECL|function|platformInit
 DECL|function|query_egl_device
-DECL|function|query_egl_extensions
 DECL|function|refreshRate
 DECL|function|resetSurface
 DECL|function|screenDepth
