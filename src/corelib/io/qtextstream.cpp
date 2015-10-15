@@ -80,6 +80,7 @@ DECL|function|pos
 DECL|function|putChar
 DECL|function|putNumber
 DECL|function|putString
+DECL|function|putString
 DECL|function|qt_prettyDebug
 DECL|function|read
 DECL|function|read
@@ -124,6 +125,7 @@ DECL|function|string
 DECL|function|ungetChar
 DECL|function|uppercasebase
 DECL|function|uppercasedigits
+DECL|function|write
 DECL|function|write
 DECL|function|write
 DECL|function|ws
