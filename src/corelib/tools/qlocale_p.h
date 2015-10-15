@@ -31,6 +31,10 @@ DECL|function|fromIds
 DECL|function|operator
 DECL|function|operator
 DECL|macro|QLOCALE_P_H
+DECL|member|DoubleMantissaBits
+DECL|member|DoubleMaxDigitsBeforeDecimal
+DECL|member|DoubleMaxSignificant
+DECL|member|Log10_2_100000
 DECL|member|country
 DECL|member|country_id
 DECL|member|language_id
