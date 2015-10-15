@@ -1,3 +1,0 @@
-DECL|function|standardLocations
-DECL|function|testModeInsert
-DECL|function|writableLocation

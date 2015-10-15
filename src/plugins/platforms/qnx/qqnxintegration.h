@@ -5,7 +5,6 @@ DECL|variable|K
 DECL|variable|QHash
 DECL|variable|QQnxAbstractNavigator
 DECL|variable|QQnxAbstractVirtualKeyboard
-DECL|variable|QQnxBpsEventFilter
 DECL|variable|QQnxButtonEventNotifier
 DECL|variable|QQnxClipboard
 DECL|variable|QQnxFileDialogHelper

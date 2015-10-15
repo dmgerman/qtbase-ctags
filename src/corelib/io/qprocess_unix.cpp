@@ -2,7 +2,6 @@ DECL|function|_q_dupEnvironment
 DECL|function|add_fd
 DECL|function|bytesAvailableInChannel
 DECL|function|closeChannel
-DECL|function|defaultNotifiers
 DECL|function|destroyPipe
 DECL|function|doSpawn
 DECL|function|execChild

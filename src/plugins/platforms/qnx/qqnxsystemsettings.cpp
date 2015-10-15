@@ -1,1 +1,0 @@
-DECL|function|qt_qnx_createRoleFonts

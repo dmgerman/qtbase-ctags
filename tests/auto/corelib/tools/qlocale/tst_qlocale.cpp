@@ -40,7 +40,6 @@ DECL|function|negativeNumbers
 DECL|function|negativeZero
 DECL|function|numberOptions
 DECL|function|quoteString
-DECL|function|readPpsValue
 DECL|function|runSysApp
 DECL|function|runSysAppTest
 DECL|function|setWinLocaleInfo
@@ -87,7 +86,6 @@ DECL|macro|_control87
 DECL|member|europeanTimeZone
 DECL|member|m_decimal
 DECL|member|m_decimal
-DECL|member|m_languageFd
 DECL|member|m_ldate
 DECL|member|m_ldate
 DECL|member|m_sdate
@@ -98,5 +96,3 @@ DECL|member|m_thousand
 DECL|member|m_time
 DECL|member|m_time
 DECL|variable|locale_data_count
-DECL|variable|ppsBufferSize
-DECL|variable|ppsLanguageLocalePath

@@ -1,2 +1,0 @@
-DECL|macro|QEVENTDISPATCHER_BLACKBERRY_P_H
-DECL|variable|QEventDispatcherBlackberryPrivate

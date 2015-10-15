@@ -1,5 +1,4 @@
 DECL|enumerator|ANDROID
-DECL|enumerator|BLACKBERRY
 DECL|enumerator|OTHER
 DECL|enumerator|QNX
 DECL|enumerator|WINDOWS

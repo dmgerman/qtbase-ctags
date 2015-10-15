@@ -6,7 +6,6 @@ DECL|function|createDisplays
 DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
-DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|destroyDisplays
 DECL|function|drag
@@ -25,7 +24,6 @@ DECL|function|screenForNative
 DECL|function|services
 DECL|function|styleHint
 DECL|function|supportsNavigatorEvents
-DECL|function|themeNames
 DECL|function|window
 DECL|function|~QQnxIntegration
 DECL|macro|qIntegrationDebug

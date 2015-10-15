@@ -17,8 +17,6 @@ DECL|function|nativeRead
 DECL|function|nativeReceiveDatagram
 DECL|function|nativeSelect
 DECL|function|nativeSelect
-DECL|function|nativeSelect
-DECL|function|nativeSelect
 DECL|function|nativeSendDatagram
 DECL|function|nativeSetMulticastInterface
 DECL|function|nativeWrite
