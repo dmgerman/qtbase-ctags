@@ -4,6 +4,8 @@ DECL|function|create
 DECL|function|scanConnectedDevices
 DECL|function|testBit
 DECL|macro|ABS_CNT
+DECL|macro|ABS_MT_POSITION_X
+DECL|macro|ABS_MT_POSITION_Y
 DECL|macro|KEY_CNT
 DECL|macro|LONG_BITS
 DECL|macro|LONG_FIELD_SIZE
