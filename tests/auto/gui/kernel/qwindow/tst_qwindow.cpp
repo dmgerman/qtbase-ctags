@@ -10,6 +10,8 @@ DECL|function|PlatformWindowFilter
 DECL|function|TabletTestWindow
 DECL|function|Window
 DECL|function|activateAndClose
+DECL|function|childWindowPositioning
+DECL|function|childWindowPositioning_data
 DECL|function|cleanup
 DECL|function|close
 DECL|function|create
