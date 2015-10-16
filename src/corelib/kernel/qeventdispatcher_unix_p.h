@@ -1,6 +1,7 @@
 DECL|macro|QEVENTDISPATCHER_UNIX_P_H
-DECL|member|fd
-DECL|member|obj
-DECL|member|queue
-DECL|struct|QSockNot
+DECL|member|Q_DECL_NOTHROW
+DECL|member|Q_DECL_NOTHROW
+DECL|member|Q_DECL_NOTHROW
+DECL|member|notifiers
+DECL|struct|Q_DECL_FINAL
 DECL|variable|QEventDispatcherUNIXPrivate
