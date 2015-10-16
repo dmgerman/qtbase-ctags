@@ -70,6 +70,7 @@ DECL|function|tileSubWindows
 DECL|function|tst_QMdiArea
 DECL|function|updateScrollBars
 DECL|function|verifyArrangement
+DECL|function|windowTitle
 DECL|member|_count
 DECL|member|activeWindow
 DECL|member|eventToSpy

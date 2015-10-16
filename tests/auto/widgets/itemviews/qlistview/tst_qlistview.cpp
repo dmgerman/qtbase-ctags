@@ -43,6 +43,7 @@ DECL|function|draggablePaintPairs
 DECL|function|draggablePaintPairs_data
 DECL|function|emptyItemSize
 DECL|function|emptyModel
+DECL|function|generateList
 DECL|function|getHWNDForWidget
 DECL|function|getSetCheck
 DECL|function|hideFirstRow

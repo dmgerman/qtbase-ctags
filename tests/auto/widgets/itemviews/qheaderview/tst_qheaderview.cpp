@@ -121,6 +121,7 @@ DECL|function|sectionSize
 DECL|function|sectionSizeHint
 DECL|function|sectionSize_data
 DECL|function|setColumnCount
+DECL|function|setModelTexts
 DECL|function|setupTestData
 DECL|function|showSortIndicator
 DECL|function|sortIndicatorTracking
