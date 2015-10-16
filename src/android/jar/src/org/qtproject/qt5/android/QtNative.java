@@ -2,6 +2,7 @@ DECL|class|QtNative
 DECL|field|QtTAG
 DECL|field|m_activity
 DECL|field|m_activityDelegate
+DECL|field|m_activityPaused
 DECL|field|m_classLoader
 DECL|field|m_clipboardManager
 DECL|field|m_displayMetricsDesktopHeightPixels
@@ -22,7 +23,6 @@ DECL|method|activityDelegate
 DECL|method|bringChildToBack
 DECL|method|bringChildToFront
 DECL|method|classLoader
-DECL|method|clearLostActions
 DECL|method|closeContextMenu
 DECL|method|createSurface
 DECL|method|destroySurface
@@ -31,7 +31,6 @@ DECL|method|dispatchKeyEvent
 DECL|method|fillContextMenu
 DECL|method|getAction
 DECL|method|getClipboardText
-DECL|method|getLostActions
 DECL|method|getSSLCertificates
 DECL|method|handleOrientationChanged
 DECL|method|hasClipboardText
@@ -70,6 +69,7 @@ DECL|method|sendTouchEvent
 DECL|method|sendTrackballEvent
 DECL|method|setActivity
 DECL|method|setApplicationDisplayMetrics
+DECL|method|setApplicationState
 DECL|method|setClassLoader
 DECL|method|setClipboardText
 DECL|method|setDisplayMetrics
