@@ -53,6 +53,7 @@ DECL|function|requestUpdate
 DECL|function|reset
 DECL|function|resetCounters
 DECL|function|resizeEventAfterResize
+DECL|function|setParent
 DECL|function|setWindow
 DECL|function|sizes
 DECL|function|surfaceEventType
