@@ -26,6 +26,7 @@ DECL|function|mapProjective
 DECL|function|mapRect
 DECL|function|mapRect
 DECL|function|mapToPolygon
+DECL|function|nanWarning
 DECL|function|needsPerspectiveClipping
 DECL|function|operator !=
 DECL|function|operator *
