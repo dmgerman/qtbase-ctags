@@ -58,6 +58,7 @@ DECL|function|rootWindow
 DECL|function|run
 DECL|function|sendConnectionEvent
 DECL|function|setFocusWindow
+DECL|function|setMouseGrabber
 DECL|function|start
 DECL|function|sync
 DECL|function|systemTrayTracker
