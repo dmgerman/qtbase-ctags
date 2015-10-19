@@ -23,6 +23,8 @@ DECL|function|init
 DECL|function|init
 DECL|function|init
 DECL|function|initTouch
+DECL|function|initTouch
+DECL|function|initTouch
 DECL|function|instance
 DECL|function|keyGrabber
 DECL|function|mimeConverter
