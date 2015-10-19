@@ -4,6 +4,7 @@ DECL|enum|StandardFormat
 DECL|function|CompositionContext
 DECL|function|QWindowsInputContext
 DECL|function|composition
+DECL|function|currentInputLanguageId
 DECL|function|cursorRectChanged
 DECL|function|debugComposition
 DECL|function|doneContext
@@ -12,11 +13,13 @@ DECL|function|endContextComposition
 DECL|function|getCompositionString
 DECL|function|getCompositionStringConvertedRange
 DECL|function|handleIME_Request
+DECL|function|handleInputLanguageChanged
 DECL|function|hasCapability
 DECL|function|imeNotifyCancelComposition
 DECL|function|initContext
 DECL|function|intermediateMarkup
 DECL|function|invokeAction
+DECL|function|languageIdFromLocaleId
 DECL|function|reconvertString
 DECL|function|reset
 DECL|function|setFocusObject
