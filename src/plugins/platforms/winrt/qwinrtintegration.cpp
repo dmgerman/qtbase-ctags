@@ -7,6 +7,7 @@ DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|fontDatabase
 DECL|function|hasCapability
+DECL|function|initialize
 DECL|function|inputContext
 DECL|function|onBackButtonPressed
 DECL|function|onResume
