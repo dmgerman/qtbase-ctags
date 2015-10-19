@@ -6,6 +6,8 @@ DECL|function|validateIntEquiv_data
 DECL|function|validateThouSep
 DECL|function|validateThouSep_data
 DECL|function|validate_data
+DECL|function|zeroPaddedExponent
+DECL|function|zeroPaddedExponent_data
 DECL|macro|ACC
 DECL|macro|INV
 DECL|macro|ITM
