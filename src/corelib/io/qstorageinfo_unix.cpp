@@ -69,4 +69,3 @@ DECL|member|stat_buf
 DECL|variable|bufferSize
 DECL|variable|pathMounted
 DECL|variable|pathMounted
-DECL|variable|pathMounted
