@@ -164,6 +164,7 @@ DECL|function|replace
 DECL|function|replaceArgEscapes
 DECL|function|replace_helper
 DECL|function|resize
+DECL|function|resize
 DECL|function|resolveStringRefsAndReturnTotalSize
 DECL|function|right
 DECL|function|right
