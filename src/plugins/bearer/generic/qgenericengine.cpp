@@ -13,5 +13,6 @@ DECL|function|requestUpdate
 DECL|function|requiresPolling
 DECL|function|sessionStateForId
 DECL|function|~QGenericEngine
+DECL|macro|interface
 DECL|typedef|NDIS_OID
 DECL|typedef|PNDIS_OID
