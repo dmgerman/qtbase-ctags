@@ -128,6 +128,7 @@ DECL|function|uppercasedigits
 DECL|function|write
 DECL|function|write
 DECL|function|write
+DECL|function|writePadding
 DECL|function|ws
 DECL|function|~QTextStream
 DECL|function|~QTextStreamPrivate
