@@ -47,6 +47,7 @@ DECL|function|useRTLExtensions
 DECL|function|useRTL_Extensions
 DECL|function|windowUnderMouse
 DECL|function|windowsErrorMessage
+DECL|function|windowsInputContext
 DECL|function|windowsProc
 DECL|function|~QWindowsContext
 DECL|macro|LANG_SYRIAC

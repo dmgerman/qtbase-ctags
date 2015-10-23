@@ -1,5 +1,6 @@
 DECL|function|QXcbScreen
 DECL|function|QXcbVirtualDesktop
+DECL|function|compositingActive
 DECL|function|cursor
 DECL|function|depthOfVisual
 DECL|function|format
@@ -7,6 +8,7 @@ DECL|function|formatRect
 DECL|function|formatSizeF
 DECL|function|grabWindow
 DECL|function|handleScreenChange
+DECL|function|handleXFixesSelectionNotify
 DECL|function|logicalDpi
 DECL|function|operator <<
 DECL|function|parseXftHintStyle
@@ -16,6 +18,7 @@ DECL|function|pixelDensity
 DECL|function|readXResources
 DECL|function|screenAt
 DECL|function|sendStartupMessage
+DECL|function|subscribeToXFixesSelectionNotify
 DECL|function|topLevelAt
 DECL|function|updateGeometry
 DECL|function|updateGeometry

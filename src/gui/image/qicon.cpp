@@ -46,6 +46,7 @@ DECL|function|pixmap
 DECL|function|pixmapDevicePixelRatio
 DECL|function|qt_cleanup_icon_cache
 DECL|function|qt_effective_device_pixel_ratio
+DECL|function|qt_findAtNxFile
 DECL|function|qt_iconEngineFactoryLoader
 DECL|function|read
 DECL|function|read

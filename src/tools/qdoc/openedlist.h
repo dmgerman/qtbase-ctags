@@ -1,1 +1,0 @@
-DECL|macro|OPENEDLIST_H

@@ -9,6 +9,7 @@ DECL|function|depth
 DECL|function|format
 DECL|function|geometry
 DECL|function|handleExpose
+DECL|function|initialize
 DECL|function|keyboardModifiers
 DECL|function|logicalDpi
 DECL|function|lower

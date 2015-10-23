@@ -8,3 +8,4 @@ DECL|function|resize
 DECL|function|toImage
 DECL|function|updateTexture
 DECL|function|~QOpenGLCompositorBackingStore
+DECL|macro|GL_UNPACK_ROW_LENGTH

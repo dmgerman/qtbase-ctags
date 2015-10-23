@@ -17,6 +17,7 @@ DECL|function|cursorRect
 DECL|function|drag
 DECL|function|findSideWidget
 DECL|function|iconSize
+DECL|function|inSelection
 DECL|function|init
 DECL|function|paintEvent
 DECL|function|positionSideWidgets

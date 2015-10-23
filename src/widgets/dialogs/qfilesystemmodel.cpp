@@ -1,9 +1,7 @@
 DECL|class|QFileSystemModelSorter
-DECL|class|QFileSystemModelVisibleFinder
 DECL|function|QFileSystemModel
 DECL|function|QFileSystemModel
 DECL|function|QFileSystemModelSorter
-DECL|function|QFileSystemModelVisibleFinder
 DECL|function|_q_directoryChanged
 DECL|function|_q_fileSystemChanged
 DECL|function|_q_performDelayedSort
@@ -46,7 +44,6 @@ DECL|function|naturalCompare
 DECL|function|node
 DECL|function|node
 DECL|function|operator ()
-DECL|function|operator ()
 DECL|function|parent
 DECL|function|passNameFilters
 DECL|function|permissions
@@ -79,7 +76,4 @@ DECL|function|timerEvent
 DECL|function|type
 DECL|function|type
 DECL|function|~QFileSystemModel
-DECL|member|name
-DECL|member|parentNode
 DECL|member|sortColumn
-DECL|member|sorter

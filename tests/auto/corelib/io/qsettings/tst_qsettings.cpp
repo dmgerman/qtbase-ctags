@@ -10,6 +10,7 @@ DECL|function|childGroups_data
 DECL|function|childKeys
 DECL|function|childKeys_data
 DECL|function|cleanup
+DECL|function|cleanupTestFiles
 DECL|function|consistentRegistryStorage
 DECL|function|contains
 DECL|function|containsSubList
@@ -27,7 +28,6 @@ DECL|function|iniEscapedKey
 DECL|function|iniEscapedStringList
 DECL|function|iniUnescapedKey
 DECL|function|iniUnescapedStringList
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|isWritable
 DECL|function|isWritable_data
@@ -41,7 +41,6 @@ DECL|function|readKeyType
 DECL|function|recursionBug
 DECL|function|registerFormat
 DECL|function|remove
-DECL|function|removePath
 DECL|function|run
 DECL|function|setDefaultFormat
 DECL|function|setFallbacksEnabled

@@ -10,6 +10,7 @@ DECL|function|clear
 DECL|function|closeEvent
 DECL|function|closeEvent
 DECL|function|closeOnDoubleClick
+DECL|function|closeOnDoubleClick_data
 DECL|function|count
 DECL|function|defaultSizeGrip
 DECL|function|emittingOfSignals
