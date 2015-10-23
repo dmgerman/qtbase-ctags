@@ -81,6 +81,7 @@ DECL|function|cleanup
 DECL|function|cleanup
 DECL|function|cleanup
 DECL|function|cleanupTestCase
+DECL|function|cleanupTestData
 DECL|function|clear
 DECL|function|clear
 DECL|function|clear
@@ -166,7 +167,6 @@ DECL|function|incomingConnection
 DECL|function|incomingConnection
 DECL|function|increaseCorrect
 DECL|function|increaseCorrupt
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|insert
 DECL|function|insert
