@@ -1,11 +1,9 @@
 DECL|class|tst_QChar
 DECL|function|category
-DECL|function|cleanup
 DECL|function|combiningClass
 DECL|function|decomposition
 DECL|function|digitValue
 DECL|function|direction
-DECL|function|init
 DECL|function|isDigit
 DECL|function|isDigit_data
 DECL|function|isExpectedLetter
@@ -37,4 +35,3 @@ DECL|function|toUpper
 DECL|function|unicodeVersion
 DECL|macro|CHECK
 DECL|macro|CHECK
-DECL|member|app
