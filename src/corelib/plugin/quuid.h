@@ -8,3 +8,5 @@ DECL|struct|_GUID
 DECL|typedef|GUID
 DECL|typedef|LPGUID
 DECL|typedef|REFGUID
+DECL|variable|CFUUID
+DECL|variable|NSUUID
