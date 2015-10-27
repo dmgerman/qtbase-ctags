@@ -28,6 +28,7 @@ DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|palette
+DECL|function|removeMnemonics
 DECL|function|standardButtonText
 DECL|function|standardPixmap
 DECL|function|themeHint
