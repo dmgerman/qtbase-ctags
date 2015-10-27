@@ -1,0 +1,10 @@
+DECL|function|geteuid
+DECL|function|getpagesize
+DECL|function|getuid
+DECL|macro|PATH_MAX
+DECL|macro|QT_OPEN_LARGEFILE
+DECL|macro|QT_OPEN_LARGEFILE
+DECL|macro|QT_SNPRINTF
+DECL|macro|QT_VSNPRINTF
+DECL|macro|Q_INTEGRITY_PLATFORMDEFS_H
+DECL|macro|__STDC_CONSTANT_MACROS
