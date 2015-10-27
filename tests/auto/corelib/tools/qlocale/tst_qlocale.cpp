@@ -14,8 +14,8 @@ DECL|function|dayName_data
 DECL|function|dayOfWeek
 DECL|function|dayOfWeek_data
 DECL|function|defaultNumeringSystem
-DECL|function|double_conversion
-DECL|function|double_conversion_data
+DECL|function|doubleToString
+DECL|function|doubleToString_data
 DECL|function|emptyCtor
 DECL|function|formatDate
 DECL|function|formatDateTime
@@ -48,6 +48,8 @@ DECL|function|shortTimeType
 DECL|function|standaloneDayName
 DECL|function|standaloneDayName_data
 DECL|function|standaloneMonthName
+DECL|function|stringToDouble
+DECL|function|stringToDouble_data
 DECL|function|systemLocaleFormatNumber
 DECL|function|testInfAndNan
 DECL|function|testNames
