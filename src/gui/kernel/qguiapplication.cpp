@@ -7,6 +7,7 @@ DECL|enumerator|MouseSourceMaskDst
 DECL|enumerator|MouseSourceMaskSrc
 DECL|enumerator|MouseSourceShift
 DECL|enum|ApplicationResourceFlags
+DECL|enum|MouseMasks
 DECL|function|QGuiApplication
 DECL|function|QGuiApplication
 DECL|function|QGuiApplicationPrivate

@@ -15,6 +15,7 @@ DECL|enumerator|ThaiCsbBit
 DECL|enumerator|TraditionalChineseCsbBit
 DECL|enumerator|TurkishCsbBit
 DECL|enumerator|VietnameseCsbBit
+DECL|enum|CsbBits
 DECL|function|QSupportedWritingSystems
 DECL|function|QSupportedWritingSystems
 DECL|function|QWritingSystemsPrivate

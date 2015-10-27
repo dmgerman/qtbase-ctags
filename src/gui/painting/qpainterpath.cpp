@@ -1,3 +1,8 @@
+DECL|enumerator|Bottom
+DECL|enumerator|Left
+DECL|enumerator|Right
+DECL|enumerator|Top
+DECL|enum|PainterDirections
 DECL|function|QPainterPath
 DECL|function|QPainterPath
 DECL|function|QPainterPathStroker
