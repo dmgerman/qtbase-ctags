@@ -1,5 +1,6 @@
 DECL|function|QVariant
 DECL|function|QVariant
+DECL|function|Q_DECLARE_SHARED
 DECL|function|isDetached
 DECL|function|isValid
 DECL|function|operator
@@ -37,4 +38,3 @@ DECL|variable|QTransform
 DECL|variable|QUrl
 DECL|variable|QVariant
 DECL|variable|QVariantComparisonHelper
-DECL|variable|operator
