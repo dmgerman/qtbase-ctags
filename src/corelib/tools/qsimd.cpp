@@ -1,5 +1,6 @@
 DECL|function|detectProcessorFeatures
 DECL|function|ffsll
+DECL|function|ffsll
 DECL|function|qDetectCpuFeatures
 DECL|function|qDumpCPUFeatures
 DECL|macro|AT_HWCAP
