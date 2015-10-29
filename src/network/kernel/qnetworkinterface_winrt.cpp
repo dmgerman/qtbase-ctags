@@ -1,3 +1,4 @@
+DECL|function|interfaceFromProfile
 DECL|function|interfaceListing
 DECL|function|localDomainName
 DECL|function|scan
