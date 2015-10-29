@@ -1,0 +1,4 @@
+DECL|macro|QINTEGRITYFBINTEGRATION_H
+DECL|variable|QAbstractEventDispatcher
+DECL|variable|QIntegrityFbScreen
+DECL|variable|QPlatformIntegration

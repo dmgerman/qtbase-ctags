@@ -1,0 +1,2 @@
+DECL|macro|QINTEGRITYHIDMANAGER_P_H
+DECL|variable|HIDDriverHandler

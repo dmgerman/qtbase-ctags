@@ -1,0 +1,12 @@
+DECL|function|QIntegrityFbIntegration
+DECL|function|createEventDispatcher
+DECL|function|createInputHandlers
+DECL|function|createPlatformBackingStore
+DECL|function|createPlatformWindow
+DECL|function|fontDatabase
+DECL|function|hasCapability
+DECL|function|initialize
+DECL|function|nativeInterface
+DECL|function|screens
+DECL|function|services
+DECL|function|~QIntegrityFbIntegration
