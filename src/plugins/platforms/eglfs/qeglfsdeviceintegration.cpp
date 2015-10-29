@@ -31,4 +31,5 @@ DECL|function|surfaceFormatFor
 DECL|function|surfaceType
 DECL|function|usesDefaultScreen
 DECL|function|waitForVSync
+DECL|function|wlDisplay
 DECL|variable|framebuffer
