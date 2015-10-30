@@ -1,4 +1,7 @@
 DECL|class|QWinRTScreenPrivate
+DECL|function|KeyInfo
+DECL|function|KeyInfo
+DECL|function|KeyInfo
 DECL|function|QWinRTScreen
 DECL|function|addWindow
 DECL|function|availableGeometry
@@ -60,11 +63,14 @@ DECL|member|scaleFactor
 DECL|member|statusBar
 DECL|member|statusBarTokens
 DECL|member|surfaceFormat
+DECL|member|text
 DECL|member|touchDevice
 DECL|member|touchPoints
 DECL|member|view
+DECL|member|virtualKey
 DECL|member|visibleWindows
 DECL|member|windowTokens
+DECL|struct|KeyInfo
 DECL|typedef|ActivatedHandler
 DECL|typedef|CharacterReceivedHandler
 DECL|typedef|ClosedHandler
