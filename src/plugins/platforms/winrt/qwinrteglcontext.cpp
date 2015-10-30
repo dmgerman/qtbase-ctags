@@ -1,5 +1,6 @@
 DECL|class|QWinRTEGLContextPrivate
 DECL|function|QWinRTEGLContext
+DECL|function|WinRTEGLDisplay
 DECL|function|doneCurrent
 DECL|function|format
 DECL|function|getProcAddress
@@ -7,8 +8,10 @@ DECL|function|initialize
 DECL|function|makeCurrent
 DECL|function|swapBuffers
 DECL|function|~QWinRTEGLContext
+DECL|function|~WinRTEGLDisplay
 DECL|macro|EGL_EGLEXT_PROTOTYPES
 DECL|member|eglConfig
 DECL|member|eglContext
 DECL|member|eglDisplay
 DECL|member|format
+DECL|struct|WinRTEGLDisplay
