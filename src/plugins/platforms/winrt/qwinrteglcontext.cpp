@@ -1,5 +1,6 @@
 DECL|class|QWinRTEGLContextPrivate
 DECL|function|QWinRTEGLContext
+DECL|function|QWinRTEGLContextPrivate
 DECL|function|WinRTEGLDisplay
 DECL|function|doneCurrent
 DECL|function|format
@@ -13,5 +14,6 @@ DECL|macro|EGL_EGLEXT_PROTOTYPES
 DECL|member|eglConfig
 DECL|member|eglContext
 DECL|member|eglDisplay
+DECL|member|eglShareContext
 DECL|member|format
 DECL|struct|WinRTEGLDisplay
