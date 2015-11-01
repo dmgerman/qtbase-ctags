@@ -35,6 +35,7 @@ DECL|function|initializeXKB
 DECL|function|initializeXRandr
 DECL|function|initializeXRender
 DECL|function|initializeXShape
+DECL|function|initializeXinerama
 DECL|function|internAtom
 DECL|function|invalidate
 DECL|function|ioErrorHandler
