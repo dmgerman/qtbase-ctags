@@ -1,3 +1,7 @@
+DECL|enumerator|HB_BUFFER_CLUSTER_LEVEL_CHARACTERS
+DECL|enumerator|HB_BUFFER_CLUSTER_LEVEL_DEFAULT
+DECL|enumerator|HB_BUFFER_CLUSTER_LEVEL_MONOTONE_CHARACTERS
+DECL|enumerator|HB_BUFFER_CLUSTER_LEVEL_MONOTONE_GRAPHEMES
 DECL|enumerator|HB_BUFFER_CONTENT_TYPE_GLYPHS
 DECL|enumerator|HB_BUFFER_CONTENT_TYPE_INVALID
 DECL|enumerator|HB_BUFFER_CONTENT_TYPE_UNICODE
@@ -6,6 +10,7 @@ DECL|enumerator|HB_BUFFER_FLAG_DEFAULT
 DECL|enumerator|HB_BUFFER_FLAG_EOT
 DECL|enumerator|HB_BUFFER_FLAG_PRESERVE_DEFAULT_IGNORABLES
 DECL|enumerator|HB_BUFFER_SERIALIZE_FLAG_DEFAULT
+DECL|enumerator|HB_BUFFER_SERIALIZE_FLAG_GLYPH_EXTENTS
 DECL|enumerator|HB_BUFFER_SERIALIZE_FLAG_NO_CLUSTERS
 DECL|enumerator|HB_BUFFER_SERIALIZE_FLAG_NO_GLYPH_NAMES
 DECL|enumerator|HB_BUFFER_SERIALIZE_FLAG_NO_POSITIONS
@@ -33,6 +38,7 @@ DECL|member|y_offset
 DECL|struct|hb_glyph_info_t
 DECL|struct|hb_glyph_position_t
 DECL|struct|hb_segment_properties_t
+DECL|typedef|hb_buffer_cluster_level_t
 DECL|typedef|hb_buffer_content_type_t
 DECL|typedef|hb_buffer_flags_t
 DECL|typedef|hb_buffer_serialize_flags_t
