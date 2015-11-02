@@ -1,4 +1,2 @@
 DECL|function|ft_raster1_renderer_class_pic_free
 DECL|function|ft_raster1_renderer_class_pic_init
-DECL|function|ft_raster5_renderer_class_pic_free
-DECL|function|ft_raster5_renderer_class_pic_init

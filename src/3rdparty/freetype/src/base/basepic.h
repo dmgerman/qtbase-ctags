@@ -1,5 +1,16 @@
 DECL|macro|FT_BITMAP_GLYPH_CLASS_GET
+DECL|macro|FT_BITMAP_GLYPH_CLASS_GET
+DECL|macro|FT_DEFAULT_MODULES_GET
 DECL|macro|FT_DEFAULT_MODULES_GET
 DECL|macro|FT_OUTLINE_GLYPH_CLASS_GET
+DECL|macro|FT_OUTLINE_GLYPH_CLASS_GET
 DECL|macro|FT_RACCESS_GUESS_TABLE_GET
+DECL|macro|FT_RACCESS_GUESS_TABLE_GET
+DECL|macro|GET_PIC
 DECL|macro|__BASEPIC_H__
+DECL|member|default_module_classes
+DECL|member|ft_bitmap_glyph_class
+DECL|member|ft_outline_glyph_class
+DECL|member|ft_raccess_guess_table
+DECL|struct|BasePIC_
+DECL|typedef|BasePIC

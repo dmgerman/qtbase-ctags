@@ -41,6 +41,7 @@ DECL|macro|ErrRaster_Memory_Overflow
 DECL|macro|ErrRaster_Memory_Overflow
 DECL|macro|FLOOR
 DECL|macro|FLOOR
+DECL|macro|FT_ABS
 DECL|macro|FT_BEGIN_HEADER
 DECL|macro|FT_BEGIN_STMNT
 DECL|macro|FT_COMPONENT
@@ -56,10 +57,13 @@ DECL|macro|FT_ERROR
 DECL|macro|FT_ERROR
 DECL|macro|FT_ERR_CAT
 DECL|macro|FT_ERR_XCAT
+DECL|macro|FT_HYPOT
 DECL|macro|FT_INT_MAX
+DECL|macro|FT_MAX
 DECL|macro|FT_MAX_GRAY_SPANS
 DECL|macro|FT_MEM_SET
 DECL|macro|FT_MEM_ZERO
+DECL|macro|FT_RENDER_POOL_SIZE
 DECL|macro|FT_THROW
 DECL|macro|FT_THROW
 DECL|macro|FT_TRACE5
@@ -70,7 +74,6 @@ DECL|macro|FT_UINT_MAX
 DECL|macro|FT_UNUSED
 DECL|macro|ONE_PIXEL
 DECL|macro|PIXEL_BITS
-DECL|macro|PIXEL_MASK
 DECL|macro|RAS_ARG
 DECL|macro|RAS_ARG
 DECL|macro|RAS_ARG
@@ -103,11 +106,8 @@ DECL|member|area
 DECL|member|area
 DECL|member|band_shoot
 DECL|member|band_size
-DECL|member|band_size
 DECL|member|bez_stack
 DECL|member|buffer
-DECL|member|buffer
-DECL|member|buffer_size
 DECL|member|buffer_size
 DECL|member|cells
 DECL|member|clip_box
@@ -115,14 +115,11 @@ DECL|member|count_ex
 DECL|member|count_ey
 DECL|member|cover
 DECL|member|cover
-DECL|member|cx
-DECL|member|cy
 DECL|member|ex
 DECL|member|ey
 DECL|member|gray_spans
 DECL|member|invalid
 DECL|member|jump_buffer
-DECL|member|last_ey
 DECL|member|lev_stack
 DECL|member|max
 DECL|member|max_cells
@@ -140,7 +137,6 @@ DECL|member|render_span
 DECL|member|render_span_data
 DECL|member|span_y
 DECL|member|target
-DECL|member|worker
 DECL|member|x
 DECL|member|x
 DECL|member|y

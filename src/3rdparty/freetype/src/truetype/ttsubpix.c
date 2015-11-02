@@ -1,7 +1,7 @@
 DECL|function|FT_LOCAL_DEF
 DECL|function|FT_LOCAL_DEF
-DECL|function|FT_LOCAL_DEF
-DECL|function|FT_LOCAL_DEF
+DECL|function|is_member_of_family_class
+DECL|function|is_member_of_style_class
 DECL|function|scale_test_tweak
 DECL|function|sph_set_tweaks
 DECL|macro|ALLOW_X_DMOVE_RULES_SIZE

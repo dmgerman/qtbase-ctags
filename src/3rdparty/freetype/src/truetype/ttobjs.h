@@ -15,12 +15,10 @@ DECL|member|bytecode_ready
 DECL|member|codeRangeTable
 DECL|member|compensations
 DECL|member|context
-DECL|member|context
 DECL|member|control_value_cutin
 DECL|member|cvt
 DECL|member|cvt_ready
 DECL|member|cvt_size
-DECL|member|debug
 DECL|member|delta_base
 DECL|member|delta_shift
 DECL|member|dualVector
@@ -95,7 +93,6 @@ DECL|typedef|TT_Driver
 DECL|typedef|TT_DriverRec
 DECL|typedef|TT_GlyphSlot
 DECL|typedef|TT_GraphicsState
-DECL|typedef|TT_Size
 DECL|typedef|TT_SizeRec
 DECL|typedef|TT_Size_Metrics
 DECL|typedef|TT_Transform

@@ -9,6 +9,7 @@ DECL|member|free_psnames
 DECL|member|get_interface
 DECL|member|get_kerning
 DECL|member|get_metrics
+DECL|member|get_name
 DECL|member|get_psname
 DECL|member|goto_table
 DECL|member|init_face
@@ -39,6 +40,7 @@ DECL|typedef|TT_Face_GetKerningFunc
 DECL|typedef|TT_Find_SBit_Image_Func
 DECL|typedef|TT_Free_Table_Func
 DECL|typedef|TT_Get_Metrics_Func
+DECL|typedef|TT_Get_Name_Func
 DECL|typedef|TT_Get_PS_Name_Func
 DECL|typedef|TT_Init_Face_Func
 DECL|typedef|TT_Load_Any_Func

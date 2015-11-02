@@ -14,7 +14,6 @@ DECL|function|TT_Process_Simple_Glyph
 DECL|function|compute_glyph_metrics
 DECL|function|load_sbit_image
 DECL|function|load_truetype_glyph
-DECL|function|translate_array
 DECL|function|tt_get_metrics
 DECL|function|tt_get_metrics_incr_overrides
 DECL|function|tt_loader_init
