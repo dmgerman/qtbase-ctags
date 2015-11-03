@@ -1,6 +1,7 @@
-DECL|function|QGtk2Theme
+DECL|function|QGtk3Theme
 DECL|function|createPlatformDialogHelper
 DECL|function|gtkFontName
+DECL|function|gtkMessageHandler
 DECL|function|gtkSetting
 DECL|function|themeHint
 DECL|function|usePlatformNativeDialog

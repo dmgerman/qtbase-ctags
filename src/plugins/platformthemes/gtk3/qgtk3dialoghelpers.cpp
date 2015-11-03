@@ -1,8 +1,8 @@
-DECL|class|QGtk2Dialog
-DECL|function|QGtk2ColorDialogHelper
-DECL|function|QGtk2Dialog
-DECL|function|QGtk2FileDialogHelper
-DECL|function|QGtk2FontDialogHelper
+DECL|class|QGtk3Dialog
+DECL|function|QGtk3ColorDialogHelper
+DECL|function|QGtk3Dialog
+DECL|function|QGtk3FileDialogHelper
+DECL|function|QGtk3FontDialogHelper
 DECL|function|applyOptions
 DECL|function|applyOptions
 DECL|function|applyOptions
@@ -42,9 +42,9 @@ DECL|function|show
 DECL|function|show
 DECL|function|show
 DECL|function|show
-DECL|function|~QGtk2ColorDialogHelper
-DECL|function|~QGtk2Dialog
-DECL|function|~QGtk2FileDialogHelper
-DECL|function|~QGtk2FontDialogHelper
+DECL|function|~QGtk3ColorDialogHelper
+DECL|function|~QGtk3Dialog
+DECL|function|~QGtk3FileDialogHelper
+DECL|function|~QGtk3FontDialogHelper
 DECL|macro|signals
 DECL|member|gtkWidget
