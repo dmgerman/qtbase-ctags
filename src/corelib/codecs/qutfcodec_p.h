@@ -17,6 +17,7 @@ DECL|function|peekUtf16
 DECL|macro|QUTFCODEC_P_H
 DECL|member|EndOfString
 DECL|member|Error
+DECL|member|Q_DECL_NOTHROW
 DECL|member|allowNonCharacters
 DECL|member|isTrusted
 DECL|member|skipAsciiHandling
