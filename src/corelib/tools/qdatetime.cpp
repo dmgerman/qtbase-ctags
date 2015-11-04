@@ -79,6 +79,7 @@ DECL|function|julianDayFromDate
 DECL|function|localMSecsToEpochMSecs
 DECL|function|longDayName
 DECL|function|longMonthName
+DECL|function|massageAdjustedDateTime
 DECL|function|minute
 DECL|function|month
 DECL|function|msec
@@ -154,6 +155,9 @@ DECL|function|weekNumber
 DECL|function|year
 DECL|function|zoneMSecsToEpochMSecs
 DECL|function|~QDateTime
+DECL|macro|MASSAGEADJUSTEDDATETIME
+DECL|macro|MASSAGEADJUSTEDDATETIME
+DECL|macro|MASSAGEADJUSTEDDATETIME
 DECL|member|date
 DECL|member|day
 DECL|member|month
