@@ -126,6 +126,7 @@ DECL|function|operator ==
 DECL|function|operator >
 DECL|function|operator >>
 DECL|function|parseMultiArgFormatString
+DECL|function|parse_field_width
 DECL|function|qFindString
 DECL|function|qIsDigit
 DECL|function|qIsUpper
