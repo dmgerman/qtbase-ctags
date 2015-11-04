@@ -11,6 +11,7 @@ DECL|function|cleanupTestCase
 DECL|function|defaultButtons
 DECL|function|deleteInExec
 DECL|function|deleteMainDefault
+DECL|function|dialogInGraphicsView
 DECL|function|exec
 DECL|function|getSetCheck
 DECL|function|initTestCase
@@ -32,8 +33,10 @@ DECL|function|transientParent
 DECL|function|transientParent_data
 DECL|function|tst_QDialog
 DECL|function|wasActive
+DECL|function|wasModalWindow
 DECL|member|called
 DECL|member|cancelReject
 DECL|member|mWasActive
+DECL|member|mWasModalWindow
 DECL|member|tId
 DECL|member|testWidget

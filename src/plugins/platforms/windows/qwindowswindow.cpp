@@ -66,6 +66,8 @@ DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator <<
+DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|positionIncludesFrame
 DECL|function|propagateSizeHints
 DECL|function|qRegionToWinRegion

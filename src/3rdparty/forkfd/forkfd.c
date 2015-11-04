@@ -25,6 +25,7 @@ DECL|macro|HAVE_PIPE2
 DECL|macro|HAVE_WAIT4
 DECL|macro|HAVE_WAIT4
 DECL|macro|HAVE_WAITID
+DECL|macro|HAVE_WAITID
 DECL|macro|_GNU_SOURCE
 DECL|macro|sizeofarray
 DECL|member|busyCount

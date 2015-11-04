@@ -18,6 +18,7 @@ DECL|function|pixelMetric
 DECL|function|polish
 DECL|function|polish
 DECL|function|polish
+DECL|function|qt_getWindow
 DECL|function|qt_intensity
 DECL|function|size
 DECL|function|sizeFromContents

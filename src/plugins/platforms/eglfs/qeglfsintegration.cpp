@@ -3,6 +3,7 @@ DECL|enumerator|EglContext
 DECL|enumerator|EglDisplay
 DECL|enumerator|EglWindow
 DECL|enumerator|NativeDisplay
+DECL|enumerator|WaylandDisplay
 DECL|enumerator|XlibDisplay
 DECL|enum|ResourceType
 DECL|function|QEglFSIntegration

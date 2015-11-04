@@ -13,6 +13,7 @@ DECL|member|i
 DECL|member|s
 DECL|member|type
 DECL|member|u
+DECL|member|u
 DECL|struct|AFM_ValueRec_
 DECL|typedef|AFM_Value
 DECL|typedef|AFM_ValueRec

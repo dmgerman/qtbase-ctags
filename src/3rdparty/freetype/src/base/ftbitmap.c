@@ -1,3 +1,4 @@
+DECL|function|FT_Bitmap_Init
 DECL|function|FT_Bitmap_New
 DECL|function|FT_EXPORT_DEF
 DECL|function|FT_EXPORT_DEF

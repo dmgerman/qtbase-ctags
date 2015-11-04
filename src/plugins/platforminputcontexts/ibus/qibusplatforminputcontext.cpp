@@ -13,9 +13,11 @@ DECL|function|deleteSurroundingText
 DECL|function|filterEvent
 DECL|function|filterEventFinished
 DECL|function|getSocketPath
+DECL|function|globalEngineChanged
 DECL|function|initBus
 DECL|function|invokeAction
 DECL|function|isValid
+DECL|function|locale
 DECL|function|reset
 DECL|function|setFocusObject
 DECL|function|socketChanged
@@ -29,6 +31,7 @@ DECL|member|bus
 DECL|member|busConnected
 DECL|member|connection
 DECL|member|context
+DECL|member|locale
 DECL|member|needsSurroundingText
 DECL|member|predit
 DECL|member|valid

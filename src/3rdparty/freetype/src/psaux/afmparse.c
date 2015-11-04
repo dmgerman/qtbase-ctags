@@ -82,13 +82,13 @@ DECL|enum|AFM_Token_
 DECL|function|FT_LOCAL_DEF
 DECL|function|FT_LOCAL_DEF
 DECL|function|FT_LOCAL_DEF
-DECL|function|FT_LOCAL_DEF
 DECL|function|afm_compare_kern_pairs
 DECL|function|afm_parse_kern_data
 DECL|function|afm_parse_kern_pairs
 DECL|function|afm_parse_track_kern
 DECL|function|afm_parser_done
 DECL|function|afm_parser_next_key
+DECL|function|afm_parser_read_int
 DECL|function|afm_parser_skip_section
 DECL|function|afm_stream_read_one
 DECL|function|afm_stream_read_string

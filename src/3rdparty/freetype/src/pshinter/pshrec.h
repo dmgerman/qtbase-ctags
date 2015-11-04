@@ -1,9 +1,8 @@
-DECL|enumerator|PS_HINT_FLAG_BOTTOM
-DECL|enumerator|PS_HINT_FLAG_GHOST
 DECL|enumerator|PS_HINT_TYPE_1
 DECL|enumerator|PS_HINT_TYPE_2
-DECL|enum|PS_Hint_Flags_
 DECL|enum|PS_Hint_Type_
+DECL|macro|PS_HINT_FLAG_BOTTOM
+DECL|macro|PS_HINT_FLAG_GHOST
 DECL|macro|__PSHREC_H__
 DECL|macro|ps_hint_is_active
 DECL|macro|ps_hint_is_bottom
@@ -39,7 +38,6 @@ DECL|typedef|PS_Dimension
 DECL|typedef|PS_DimensionRec
 DECL|typedef|PS_Hint
 DECL|typedef|PS_HintRec
-DECL|typedef|PS_Hint_Flags
 DECL|typedef|PS_Hint_Table
 DECL|typedef|PS_Hint_TableRec
 DECL|typedef|PS_Hint_Type

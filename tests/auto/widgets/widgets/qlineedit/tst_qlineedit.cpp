@@ -57,6 +57,7 @@ DECL|function|editingFinished
 DECL|function|ensureTestWidget
 DECL|function|experimental
 DECL|function|figureOutProperKey
+DECL|function|findAssociatedWidget
 DECL|function|fixup
 DECL|function|fixup
 DECL|function|frame

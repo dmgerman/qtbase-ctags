@@ -8,9 +8,6 @@ DECL|function|tt_size_request
 DECL|function|tt_size_select
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
-DECL|macro|PAIR_TAG
-DECL|macro|PAIR_TAG
-DECL|macro|PAIR_TAG
 DECL|macro|TT_HINTER_FLAG
 DECL|macro|TT_HINTER_FLAG
 DECL|macro|TT_SIZE_SELECT

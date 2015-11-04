@@ -1,5 +1,4 @@
 DECL|macro|T1_Add_Table
-DECL|macro|T1_Done_Table
 DECL|macro|T1_Load_Field
 DECL|macro|T1_Load_Field_Table
 DECL|macro|T1_Release_Table

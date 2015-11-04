@@ -31,6 +31,7 @@ DECL|function|multiConnect
 DECL|function|processConnection
 DECL|function|processConnection_data
 DECL|function|readBufferOverflow
+DECL|function|recycleClientSocket
 DECL|function|recycleServer
 DECL|function|removeServer
 DECL|function|run

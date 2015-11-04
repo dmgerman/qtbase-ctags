@@ -4,8 +4,8 @@ DECL|function|FT_LOCAL_DEF
 DECL|function|FT_LOCAL_DEF
 DECL|function|FT_LOCAL_DEF
 DECL|function|FT_LOCAL_DEF
-DECL|function|FT_LOCAL_DEF
 DECL|function|T1_Done_Blend
+DECL|function|mm_axis_unmap
 DECL|function|mm_weights_unmap
 DECL|function|parse_blend_axis_types
 DECL|function|parse_blend_design_map
@@ -27,6 +27,5 @@ DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
 DECL|macro|IS_INCREMENTAL
 DECL|macro|IS_INCREMENTAL
-DECL|macro|T1_FIELD_COUNT
 DECL|macro|TABLE_EXTEND
 DECL|variable|t1_keywords

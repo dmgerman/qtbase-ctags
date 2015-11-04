@@ -2,6 +2,7 @@ DECL|macro|FT_CHAR_BIT
 DECL|macro|FT_FILE
 DECL|macro|FT_INT_MAX
 DECL|macro|FT_INT_MIN
+DECL|macro|FT_LONG_MAX
 DECL|macro|FT_UINT_MAX
 DECL|macro|FT_ULONG_MAX
 DECL|macro|FT_USHORT_MAX
@@ -13,7 +14,6 @@ DECL|macro|ft_fread
 DECL|macro|ft_fseek
 DECL|macro|ft_ftell
 DECL|macro|ft_jmp_buf
-DECL|macro|ft_labs
 DECL|macro|ft_longjmp
 DECL|macro|ft_memchr
 DECL|macro|ft_memcmp

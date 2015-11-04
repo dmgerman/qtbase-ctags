@@ -1,12 +1,8 @@
 DECL|enumerator|AF_COVERAGE_DEFAULT
-DECL|enumerator|AF_SCALER_FLAG_NO_ADVANCE
-DECL|enumerator|AF_SCALER_FLAG_NO_HORIZONTAL
-DECL|enumerator|AF_SCALER_FLAG_NO_VERTICAL
 DECL|enumerator|AF_SCRIPT_MAX
 DECL|enumerator|AF_STYLE_MAX
 DECL|enumerator|AF_WRITING_SYSTEM_MAX
 DECL|enum|AF_Coverage_
-DECL|enum|AF_ScalerFlags_
 DECL|enum|AF_Script_
 DECL|enum|AF_Style_
 DECL|enum|AF_WritingSystem_
@@ -28,6 +24,10 @@ DECL|macro|AF_DEFINE_STYLE_CLASS
 DECL|macro|AF_DEFINE_WRITING_SYSTEM_CLASS
 DECL|macro|AF_DEFINE_WRITING_SYSTEM_CLASS
 DECL|macro|AF_SCALER_EQUAL_SCALES
+DECL|macro|AF_SCALER_FLAG_NO_ADVANCE
+DECL|macro|AF_SCALER_FLAG_NO_HORIZONTAL
+DECL|macro|AF_SCALER_FLAG_NO_VERTICAL
+DECL|macro|AF_SCALER_FLAG_NO_WARPER
 DECL|macro|AF_UNIRANGE_REC
 DECL|macro|COVERAGE
 DECL|macro|COVERAGE
@@ -55,6 +55,7 @@ DECL|member|render_mode
 DECL|member|scaler
 DECL|member|script
 DECL|member|script
+DECL|member|script_uni_nonbase_ranges
 DECL|member|script_uni_ranges
 DECL|member|standard_char1
 DECL|member|standard_char2
@@ -85,7 +86,6 @@ DECL|typedef|AF_Coverage
 DECL|typedef|AF_FaceGlobals
 DECL|typedef|AF_GlyphHints
 DECL|typedef|AF_Scaler
-DECL|typedef|AF_ScalerFlags
 DECL|typedef|AF_ScalerRec
 DECL|typedef|AF_Script
 DECL|typedef|AF_ScriptClass

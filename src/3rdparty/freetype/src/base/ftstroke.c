@@ -84,3 +84,4 @@ DECL|typedef|FT_StrokeBorder
 DECL|typedef|FT_StrokeBorderRec
 DECL|typedef|FT_StrokeTags
 DECL|typedef|FT_StrokerRec
+DECL|variable|ft_outline_glyph_class

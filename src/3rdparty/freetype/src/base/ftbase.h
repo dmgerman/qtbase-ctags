@@ -1,2 +1,3 @@
+DECL|macro|FT_MAC_RFORK_MAX_LEN
 DECL|macro|__FTBASE_H__
 DECL|variable|open_face_from_buffer

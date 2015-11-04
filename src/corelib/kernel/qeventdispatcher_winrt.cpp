@@ -35,7 +35,6 @@ DECL|member|delegate
 DECL|member|inEvent
 DECL|member|object
 DECL|member|targetTime
-DECL|member|timerFactory
 DECL|member|timerHandleToId
 DECL|member|timerIdToCancelHandle
 DECL|member|timerIdToHandle

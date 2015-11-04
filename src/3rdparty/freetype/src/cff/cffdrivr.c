@@ -17,9 +17,6 @@ DECL|macro|CFF_SIZE_SELECT
 DECL|macro|CFF_SIZE_SELECT
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
-DECL|macro|PAIR_TAG
-DECL|macro|PAIR_TAG
-DECL|macro|PAIR_TAG
 DECL|variable|NULL
 DECL|variable|NULL
 DECL|variable|cff_get_is_cid

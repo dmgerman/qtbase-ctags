@@ -311,6 +311,7 @@ DECL|typedef|TT_SBit_Strike
 DECL|typedef|TT_SBit_StrikeRec
 DECL|typedef|TT_SbitTableType
 DECL|typedef|TT_ShortMetrics
+DECL|typedef|TT_Size
 DECL|typedef|TT_Table
 DECL|typedef|TT_TableRec
 DECL|typedef|WOFF_Header

@@ -5,6 +5,7 @@ DECL|field|m_activityDelegate
 DECL|field|m_activityPaused
 DECL|field|m_classLoader
 DECL|field|m_clipboardManager
+DECL|field|m_displayMetricsDensity
 DECL|field|m_displayMetricsDesktopHeightPixels
 DECL|field|m_displayMetricsDesktopWidthPixels
 DECL|field|m_displayMetricsScaledDensity
