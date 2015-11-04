@@ -1,6 +1,16 @@
 DECL|class|QTypeInfo
 DECL|class|qt_section_chunk
 DECL|enumerator|ExpectedParts
+DECL|enumerator|lm_L
+DECL|enumerator|lm_h
+DECL|enumerator|lm_hh
+DECL|enumerator|lm_j
+DECL|enumerator|lm_l
+DECL|enumerator|lm_ll
+DECL|enumerator|lm_none
+DECL|enumerator|lm_t
+DECL|enumerator|lm_z
+DECL|enum|LengthMod
 DECL|function|Part
 DECL|function|QString
 DECL|function|QString
