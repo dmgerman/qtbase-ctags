@@ -1,1 +1,2 @@
+DECL|function|FT_Get_Font_Format
 DECL|function|FT_Get_X11_Font_Format

@@ -20,5 +20,6 @@ DECL|function|taskQTBUG_9758_undockedGeometry
 DECL|function|titleBarDoubleClick
 DECL|function|toggleViewAction
 DECL|function|tst_QDockWidget
+DECL|function|updateTabBarOnVisibilityChanged
 DECL|function|visibilityChanged
 DECL|function|widget

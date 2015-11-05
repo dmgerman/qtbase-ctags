@@ -1,5 +1,4 @@
 DECL|macro|__T42OBJS_H__
-DECL|member|extension_component
 DECL|member|root
 DECL|member|root
 DECL|member|root

@@ -1,6 +1,8 @@
+DECL|class|QScopedAtomicIntIncrementor
 DECL|class|QWinIoCompletionPort
 DECL|class|QWinOverlappedIoNotifierPrivate
 DECL|function|IOResult
+DECL|function|QScopedAtomicIntIncrementor
 DECL|function|QWinIoCompletionPort
 DECL|function|QWinOverlappedIoNotifier
 DECL|function|QWinOverlappedIoNotifierPrivate
@@ -14,7 +16,9 @@ DECL|function|setEnabled
 DECL|function|setHandle
 DECL|function|unregisterNotifier
 DECL|function|waitForAnyNotified
+DECL|function|waitForAnyNotified
 DECL|function|waitForNotified
+DECL|function|~QScopedAtomicIntIncrementor
 DECL|function|~QWinIoCompletionPort
 DECL|function|~QWinOverlappedIoNotifier
 DECL|member|drainQueueKey
@@ -32,9 +36,11 @@ DECL|member|iocpInstanceLock
 DECL|member|iocpInstanceLock
 DECL|member|iocpInstanceRefCount
 DECL|member|iocpInstanceRefCount
+DECL|member|m_int
 DECL|member|mutex
 DECL|member|notifiers
 DECL|member|numberOfBytes
 DECL|member|overlapped
 DECL|member|results
+DECL|member|waiting
 DECL|struct|IOResult

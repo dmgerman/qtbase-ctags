@@ -7,7 +7,6 @@ DECL|macro|F2DOT14_TO_FIXED
 DECL|macro|FIXED_TO_INT
 DECL|macro|FLOAT_TO_FIXED
 DECL|macro|FT_MSB
-DECL|macro|FT_MSB
 DECL|macro|FT_MULFIX_ASSEMBLER
 DECL|macro|FT_MULFIX_ASSEMBLER
 DECL|macro|FT_MULFIX_ASSEMBLER
@@ -19,6 +18,6 @@ DECL|macro|INT_TO_F2DOT14
 DECL|macro|INT_TO_FIXED
 DECL|macro|ROUND_F26DOT6
 DECL|macro|__FTCALC_H__
-DECL|variable|FT_Hypot
+DECL|variable|FT_MSB
 DECL|variable|FT_Matrix_Multiply_Scaled
-DECL|variable|ft_corner_is_flat
+DECL|variable|ft_corner_orientation

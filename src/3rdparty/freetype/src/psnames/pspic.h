@@ -1,3 +1,10 @@
+DECL|macro|GET_PIC
+DECL|macro|PSCMAPS_INTERFACE_GET
 DECL|macro|PSCMAPS_INTERFACE_GET
 DECL|macro|PSCMAPS_SERVICES_GET
+DECL|macro|PSCMAPS_SERVICES_GET
 DECL|macro|__PSPIC_H__
+DECL|member|pscmaps_interface
+DECL|member|pscmaps_services
+DECL|struct|PSModulePIC_
+DECL|typedef|PSModulePIC

@@ -57,6 +57,7 @@ DECL|function|childModeConstructor
 DECL|function|clearError
 DECL|function|clonedSignals
 DECL|function|conflictingTransition
+DECL|function|conflictingTransition2
 DECL|function|connectNotify
 DECL|function|createEventTransitionWhenRunning
 DECL|function|createSignalTransitionWhenRunning

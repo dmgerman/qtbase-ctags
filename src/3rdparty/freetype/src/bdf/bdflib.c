@@ -4,6 +4,7 @@ DECL|function|_bdf_add_property
 DECL|function|_bdf_atol
 DECL|function|_bdf_atos
 DECL|function|_bdf_atoul
+DECL|function|_bdf_atous
 DECL|function|_bdf_is_atom
 DECL|function|_bdf_list_done
 DECL|function|_bdf_list_ensure

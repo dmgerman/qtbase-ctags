@@ -1,5 +1,16 @@
+DECL|macro|GET_PIC
+DECL|macro|TT_SERVICES_GET
 DECL|macro|TT_SERVICES_GET
 DECL|macro|TT_SERVICE_GX_MULTI_MASTERS_GET
+DECL|macro|TT_SERVICE_GX_MULTI_MASTERS_GET
+DECL|macro|TT_SERVICE_PROPERTIES_GET
 DECL|macro|TT_SERVICE_PROPERTIES_GET
 DECL|macro|TT_SERVICE_TRUETYPE_GLYF_GET
+DECL|macro|TT_SERVICE_TRUETYPE_GLYF_GET
 DECL|macro|__TTPIC_H__
+DECL|member|tt_service_gx_multi_masters
+DECL|member|tt_service_properties
+DECL|member|tt_service_truetype_glyf
+DECL|member|tt_services
+DECL|struct|TTModulePIC_
+DECL|typedef|TTModulePIC

@@ -1,7 +1,3 @@
-DECL|macro|EXEC_ARG
-DECL|macro|EXEC_ARG_
-DECL|macro|EXEC_OP
-DECL|macro|EXEC_OP_
 DECL|macro|SPH_MAX_CLASS_MEMBERS
 DECL|macro|SPH_MAX_NAME_SIZE
 DECL|macro|TT_Round_Down_To_Grid
@@ -54,6 +50,7 @@ DECL|member|glyph
 DECL|member|glyph
 DECL|member|glyphIns
 DECL|member|glyphSize
+DECL|member|gray_cleartype
 DECL|member|grayscale
 DECL|member|ignore_x_mode
 DECL|member|instruction_trap
@@ -92,13 +89,14 @@ DECL|member|storage
 DECL|member|storeSize
 DECL|member|style
 DECL|member|style
-DECL|member|subpixel
+DECL|member|subpixel_hinting
 DECL|member|subpixel_positioned
 DECL|member|symmetrical_smoothing
 DECL|member|threshold
 DECL|member|top
 DECL|member|tt_metrics
 DECL|member|twilight
+DECL|member|vertical_lcd
 DECL|member|zp0
 DECL|member|zp1
 DECL|member|zp2

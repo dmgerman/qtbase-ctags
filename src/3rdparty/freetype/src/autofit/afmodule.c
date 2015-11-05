@@ -11,3 +11,4 @@ DECL|variable|_af_debug_disable_blue_hints
 DECL|variable|_af_debug_disable_horz_hints
 DECL|variable|_af_debug_disable_vert_hints
 DECL|variable|_af_debug_hints
+DECL|variable|_af_debug_hints_rec

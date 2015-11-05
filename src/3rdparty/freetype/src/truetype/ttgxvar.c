@@ -1,6 +1,3 @@
-DECL|enumerator|GX_DT_DELTAS_ARE_WORDS
-DECL|enumerator|GX_DT_DELTAS_ARE_ZERO
-DECL|enumerator|GX_DT_DELTA_RUN_COUNT_MASK
 DECL|function|FT_LOCAL_DEF
 DECL|function|FT_LOCAL_DEF
 DECL|function|FT_LOCAL_DEF
@@ -11,7 +8,10 @@ DECL|function|ft_var_load_avar
 DECL|function|ft_var_load_gvar
 DECL|function|ft_var_readpackeddeltas
 DECL|function|ft_var_readpackedpoints
+DECL|function|tt_delta_interpolate
+DECL|function|tt_delta_shift
 DECL|function|tt_done_blend
+DECL|function|tt_handle_deltas
 DECL|macro|ALL_POINTS
 DECL|macro|FT_COMPONENT
 DECL|macro|FT_COMPONENT
@@ -23,6 +23,9 @@ DECL|macro|FT_STRUCTURE
 DECL|macro|FT_STRUCTURE
 DECL|macro|FT_Stream_FTell
 DECL|macro|FT_Stream_SeekSet
+DECL|macro|GX_DT_DELTAS_ARE_WORDS
+DECL|macro|GX_DT_DELTAS_ARE_ZERO
+DECL|macro|GX_DT_DELTA_RUN_COUNT_MASK
 DECL|macro|GX_PT_POINTS_ARE_WORDS
 DECL|macro|GX_PT_POINT_RUN_COUNT_MASK
 DECL|member|axisCount

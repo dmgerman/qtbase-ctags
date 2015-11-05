@@ -2,7 +2,7 @@ DECL|function|factor
 DECL|function|factor
 DECL|function|factor
 DECL|function|initHighDpiScaling
-DECL|function|initialScaleFactor
+DECL|function|initialGlobalScaleFactor
 DECL|function|logicalDpi
 DECL|function|mapPositionFromNative
 DECL|function|mapPositionToNative
@@ -12,6 +12,7 @@ DECL|function|screenSubfactor
 DECL|function|setGlobalFactor
 DECL|function|setScreenFactor
 DECL|function|updateHighDpiScaling
+DECL|function|usePixelDensity
 DECL|member|m_active
 DECL|member|m_factor
 DECL|member|m_globalScalingActive

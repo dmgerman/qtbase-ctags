@@ -2,8 +2,11 @@ DECL|class|QWinRTThemePrivate
 DECL|function|QWinRTTheme
 DECL|function|createPlatformDialogHelper
 DECL|function|fromColor
+DECL|function|nativeColorSettings
+DECL|function|nativeColorSettings
 DECL|function|palette
 DECL|function|styleHint
+DECL|function|uiColorSettings
 DECL|function|uiSettings
 DECL|function|usePlatformNativeDialog
 DECL|member|palette

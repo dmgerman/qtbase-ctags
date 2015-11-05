@@ -1,6 +1,5 @@
 DECL|macro|__AFLOADER_H__
 DECL|member|face
-DECL|member|gloader
 DECL|member|globals
 DECL|member|hints
 DECL|member|metrics
@@ -12,6 +11,4 @@ DECL|member|transformed
 DECL|struct|AF_LoaderRec_
 DECL|typedef|AF_Loader
 DECL|typedef|AF_LoaderRec
-DECL|typedef|AF_Module
-DECL|variable|af_loader_reset
-DECL|variable|module
+DECL|variable|af_loader_done

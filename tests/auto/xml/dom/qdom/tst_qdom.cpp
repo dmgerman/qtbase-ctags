@@ -1,6 +1,7 @@
 DECL|class|tst_QDom
 DECL|function|DTDEntityDecl
 DECL|function|DTDNotationDecl
+DECL|function|QTBUG49113_dontCrashWithNegativeIndex
 DECL|function|appendChildFromToDocument
 DECL|function|appendDocumentNode
 DECL|function|browseElements

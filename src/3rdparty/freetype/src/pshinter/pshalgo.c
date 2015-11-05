@@ -1,8 +1,6 @@
-DECL|function|FT_LOCAL_DEF
 DECL|function|ps_hints_apply
 DECL|function|ps_simple_scale
 DECL|function|psh_compute_dir
-DECL|function|psh_corner_orientation
 DECL|function|psh_dimension_quantize_len
 DECL|function|psh_glyph_compute_extrema
 DECL|function|psh_glyph_compute_inflections
@@ -33,12 +31,8 @@ DECL|macro|FT_COMPONENT
 DECL|macro|PSH_MAX_STRONG_INTERNAL
 DECL|macro|PSH_STRONG_THRESHOLD
 DECL|macro|PSH_STRONG_THRESHOLD_MAXIMUM
-DECL|macro|PSH_ZONE_MAX
-DECL|macro|PSH_ZONE_MIN
-DECL|macro|STRONGER
 DECL|macro|psh_corner_is_flat
 DECL|macro|psh_corner_orientation
-DECL|macro|psh_print_zone
 DECL|macro|xxDEBUG_ZONES
 DECL|variable|ps_debug_glyph
 DECL|variable|ps_debug_hint_func
