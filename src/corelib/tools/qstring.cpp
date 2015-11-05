@@ -20,12 +20,6 @@ DECL|function|arg
 DECL|function|arg
 DECL|function|arg
 DECL|function|asprintf
-DECL|function|caseDiff
-DECL|function|caseDiff
-DECL|function|caseDiff
-DECL|function|caseSpecial
-DECL|function|caseSpecial
-DECL|function|caseSpecial
 DECL|function|chop
 DECL|function|compare
 DECL|function|compare
@@ -288,11 +282,8 @@ DECL|member|string
 DECL|member|stringRef
 DECL|namespace|QUnicodeTables
 DECL|struct|ArgEscapeData
-DECL|struct|CasefoldTraits
-DECL|struct|LowercaseTraits
 DECL|struct|Part
 DECL|struct|QStringCapture
 DECL|struct|UnrollTailLoop
-DECL|struct|UppercaseTraits
 DECL|typedef|ArgIndexToPlaceholderMap
 DECL|typedef|ParseResult
