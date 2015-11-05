@@ -1,5 +1,6 @@
 DECL|function|QXcbScreen
 DECL|function|QXcbVirtualDesktop
+DECL|function|addScreen
 DECL|function|compositingActive
 DECL|function|cursor
 DECL|function|depthOfVisual
