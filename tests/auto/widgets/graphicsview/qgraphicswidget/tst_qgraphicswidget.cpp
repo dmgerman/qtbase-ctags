@@ -74,6 +74,7 @@ DECL|function|call_windowFrameSectionAt
 DECL|function|clear
 DECL|function|closePopupOnOutsideClick
 DECL|function|compareFocusChain
+DECL|function|compareFocusChain
 DECL|function|consistentPosSizeGeometry
 DECL|function|consistentPosSizeGeometry_data
 DECL|function|count
@@ -211,3 +212,4 @@ DECL|member|shortcutEvents
 DECL|member|spied
 DECL|member|values
 DECL|typedef|Inst
+DECL|typedef|QGraphicsItemList
