@@ -14,6 +14,7 @@ DECL|function|setCursorFlashTime
 DECL|function|setFocusOnTouchRelease
 DECL|function|setKeyboardInputInterval
 DECL|function|setMouseDoubleClickInterval
+DECL|function|setMousePressAndHoldInterval
 DECL|function|setStartDragDistance
 DECL|function|setStartDragTime
 DECL|function|showIsFullScreen
@@ -27,5 +28,6 @@ DECL|function|useRtlExtensions
 DECL|member|m_cursorFlashTime
 DECL|member|m_keyboardInputInterval
 DECL|member|m_mouseDoubleClickInterval
+DECL|member|m_mousePressAndHoldInterval
 DECL|member|m_startDragDistance
 DECL|member|m_startDragTime
