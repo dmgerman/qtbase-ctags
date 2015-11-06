@@ -1,6 +1,7 @@
-DECL|function|T2
-DECL|function|T2
-DECL|function|T2
+DECL|function|Q_DECL_NOEXCEPT_EXPR
+DECL|function|Q_DECL_NOEXCEPT_EXPR
+DECL|function|Q_DECL_NOEXCEPT_EXPR
+DECL|function|Q_DECL_NOEXCEPT_EXPR
 DECL|function|noexcept
 DECL|function|noexcept
 DECL|function|noexcept
