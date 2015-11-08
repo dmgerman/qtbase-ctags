@@ -90,4 +90,3 @@ DECL|member|faces
 DECL|member|library
 DECL|variable|emptyGlyph
 DECL|variable|ftInitialDefaultHintStyle
-DECL|variable|subpixel_filter
