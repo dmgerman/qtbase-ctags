@@ -25,11 +25,14 @@ DECL|function|computeSize
 DECL|function|convertGRAYToARGB
 DECL|function|convertRGBToARGB
 DECL|function|convertRGBToARGB_V
+DECL|function|convertRGBToARGB_V_helper
+DECL|function|convertRGBToARGB_helper
 DECL|function|convoluteBitmap
 DECL|function|descent
 DECL|function|doKerning
 DECL|function|emSquareSize
 DECL|function|faceId
+DECL|function|filterPixel
 DECL|function|filterPixel
 DECL|function|fsType
 DECL|function|ft_getSfntTable
@@ -88,5 +91,7 @@ DECL|macro|ROUND
 DECL|macro|TRUNC
 DECL|member|faces
 DECL|member|library
+DECL|struct|LcdFilterDummy
+DECL|struct|LcdFilterLegacy
 DECL|variable|emptyGlyph
 DECL|variable|ftInitialDefaultHintStyle
