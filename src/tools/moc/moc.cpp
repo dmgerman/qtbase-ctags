@@ -1,9 +1,11 @@
+DECL|function|any_arg_contains
+DECL|function|any_type_contains
 DECL|function|checkProperties
 DECL|function|checkSuperClasses
 DECL|function|createPropertyDef
-DECL|function|findRequiredContainers
 DECL|function|generate
 DECL|function|lexemUntil
+DECL|function|make_candidates
 DECL|function|normalizeType
 DECL|function|parse
 DECL|function|parseClassHead
@@ -24,6 +26,7 @@ DECL|function|parseSignals
 DECL|function|parseSlotInPrivate
 DECL|function|parseSlots
 DECL|function|parseType
+DECL|function|requiredQtContainers
 DECL|function|testFunctionAttribute
 DECL|function|testFunctionAttribute
 DECL|function|testFunctionRevision
