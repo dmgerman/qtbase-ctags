@@ -23,6 +23,7 @@ DECL|function|handlerPlatformFunction
 DECL|function|locateSystemTray
 DECL|function|nativeResourceForBackingStore
 DECL|function|nativeResourceForContext
+DECL|function|nativeResourceForCursor
 DECL|function|nativeResourceForIntegration
 DECL|function|nativeResourceForScreen
 DECL|function|nativeResourceForWindow

@@ -13,6 +13,7 @@ DECL|function|createMessageWindow
 DECL|function|gpu
 DECL|function|logFontToQFont
 DECL|function|nativeResourceForContext
+DECL|function|nativeResourceForCursor
 DECL|function|nativeResourceForIntegration
 DECL|function|nativeResourceForWindow
 DECL|function|platformFunction
