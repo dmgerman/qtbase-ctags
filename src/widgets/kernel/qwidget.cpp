@@ -54,6 +54,7 @@ DECL|function|createWinId
 DECL|function|create_sys
 DECL|function|cursor
 DECL|function|deactivateWidgetCleanup
+DECL|function|deleteBackingStore
 DECL|function|deleteExtra
 DECL|function|deleteSysExtra
 DECL|function|deleteTLSysExtra
