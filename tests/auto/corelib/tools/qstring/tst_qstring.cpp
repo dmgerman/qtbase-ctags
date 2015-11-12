@@ -272,6 +272,7 @@ DECL|function|split_regexp_data
 DECL|function|split_regularexpression
 DECL|function|split_regularexpression_data
 DECL|function|sprintf
+DECL|function|sprintfS
 DECL|function|sprintfZU
 DECL|function|startsWith
 DECL|function|stringRef
