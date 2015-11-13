@@ -140,6 +140,7 @@ DECL|macro|DONT_TEST_CONSTRUCTOR_SPECIALIZATION
 DECL|macro|DONT_TEST_DATASTREAM_DETECTION
 DECL|macro|DONT_TEST_STL_SORTING
 DECL|macro|DONT_TEST_TEMPLATE_CONSTRUCTORS
+DECL|macro|__has_cpp_attribute
 DECL|member|HasDataStream
 DECL|member|c
 DECL|member|c
@@ -150,6 +151,7 @@ DECL|member|i
 DECL|member|s
 DECL|member|v
 DECL|member|value
+DECL|namespace|NS
 DECL|namespace|QtTestInternal
 DECL|namespace|SomeNamespace
 DECL|struct|CallFunctor
