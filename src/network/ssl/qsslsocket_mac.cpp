@@ -34,7 +34,6 @@ DECL|function|startClientEncryption
 DECL|function|startHandshake
 DECL|function|startServerEncryption
 DECL|function|supportsSsl
-DECL|function|systemCaCertificates
 DECL|function|transmit
 DECL|function|verify
 DECL|function|verifyPeerTrust
