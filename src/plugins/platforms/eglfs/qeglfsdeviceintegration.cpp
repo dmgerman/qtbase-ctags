@@ -15,6 +15,7 @@ DECL|function|logicalDpi
 DECL|function|nativeOrientation
 DECL|function|orientation
 DECL|function|physicalScreenSize
+DECL|function|pixelDensity
 DECL|function|platformDestroy
 DECL|function|platformDisplay
 DECL|function|platformInit
