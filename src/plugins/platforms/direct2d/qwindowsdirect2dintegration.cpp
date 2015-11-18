@@ -14,7 +14,7 @@ DECL|function|create
 DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformPixmap
-DECL|function|createPlatformWindow
+DECL|function|createPlatformWindowHelper
 DECL|function|direct2DContext
 DECL|function|init
 DECL|function|instance

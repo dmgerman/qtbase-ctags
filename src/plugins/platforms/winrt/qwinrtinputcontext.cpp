@@ -1,5 +1,6 @@
 DECL|function|QWinRTInputContext
 DECL|function|getInputPane
+DECL|function|getInputPaneRect
 DECL|function|handleVisibilityChange
 DECL|function|hideInputPanel
 DECL|function|isInputPanelVisible

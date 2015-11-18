@@ -1,11 +1,13 @@
 DECL|function|QXcbScreen
 DECL|function|QXcbVirtualDesktop
+DECL|function|addScreen
 DECL|function|compositingActive
 DECL|function|cursor
 DECL|function|depthOfVisual
 DECL|function|format
 DECL|function|formatRect
 DECL|function|formatSizeF
+DECL|function|getWorkArea
 DECL|function|grabWindow
 DECL|function|handleScreenChange
 DECL|function|handleXFixesSelectionNotify
@@ -20,9 +22,11 @@ DECL|function|screenAt
 DECL|function|sendStartupMessage
 DECL|function|subscribeToXFixesSelectionNotify
 DECL|function|topLevelAt
+DECL|function|updateAvailableGeometry
 DECL|function|updateGeometry
 DECL|function|updateGeometry
 DECL|function|updateRefreshRate
+DECL|function|updateWorkArea
 DECL|function|virtualDpi
 DECL|function|visualForId
 DECL|function|windowShown

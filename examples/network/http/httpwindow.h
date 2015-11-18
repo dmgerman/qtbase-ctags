@@ -1,10 +1,9 @@
 DECL|macro|HTTPWINDOW_H
 DECL|variable|QAuthenticator
-DECL|variable|QDialogButtonBox
+DECL|variable|QCheckBox
 DECL|variable|QFile
 DECL|variable|QLabel
 DECL|variable|QLineEdit
 DECL|variable|QNetworkReply
-DECL|variable|QProgressDialog
 DECL|variable|QPushButton
 DECL|variable|QSslError

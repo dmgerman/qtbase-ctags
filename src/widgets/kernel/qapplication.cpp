@@ -148,7 +148,6 @@ DECL|member|popupWidgets
 DECL|member|self
 DECL|member|set_font
 DECL|member|set_pal
-DECL|member|styleOverride
 DECL|member|styleSheet
 DECL|member|sys_font
 DECL|member|sys_pal

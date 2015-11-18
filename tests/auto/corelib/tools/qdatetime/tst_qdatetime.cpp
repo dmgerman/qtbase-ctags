@@ -68,6 +68,8 @@ DECL|function|setTimeSpec_data
 DECL|function|setTimeZone
 DECL|function|setTime_data
 DECL|function|setTime_t
+DECL|function|springForward
+DECL|function|springForward_data
 DECL|function|str
 DECL|function|systemTimeZoneChange
 DECL|function|time

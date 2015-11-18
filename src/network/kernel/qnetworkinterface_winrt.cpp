@@ -1,3 +1,4 @@
+DECL|function|interfaceFromProfile
 DECL|function|interfaceIndexFromName
 DECL|function|interfaceListing
 DECL|function|interfaceNameFromIndex

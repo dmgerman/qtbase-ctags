@@ -8,7 +8,7 @@ DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformSessionManager
 DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
-DECL|function|createWindowData
+DECL|function|createPlatformWindowHelper
 DECL|function|doCreate
 DECL|function|drag
 DECL|function|fontDatabase

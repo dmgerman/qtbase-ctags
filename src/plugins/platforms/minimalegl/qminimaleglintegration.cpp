@@ -1,9 +1,12 @@
+DECL|class|QWinRTEventDispatcher
 DECL|function|QMinimalEglIntegration
+DECL|function|QWinRTEventDispatcher
 DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOpenGLContext
 DECL|function|createPlatformWindow
 DECL|function|fontDatabase
 DECL|function|hasCapability
+DECL|function|sendPostedEvents
 DECL|function|styleHint
 DECL|function|~QMinimalEglIntegration
