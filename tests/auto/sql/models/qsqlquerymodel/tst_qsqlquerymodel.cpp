@@ -33,7 +33,8 @@ DECL|function|setQueryWithNoRowsInResultSet_data
 DECL|function|task_180617
 DECL|function|task_180617_data
 DECL|function|task_QTBUG_4963_setHeaderDataWithProxyModel
-DECL|function|testme
+DECL|function|testClear
+DECL|function|testNested
 DECL|function|tst_QSqlQueryModel
 DECL|function|withSortFilterProxyModel
 DECL|function|withSortFilterProxyModel_data
