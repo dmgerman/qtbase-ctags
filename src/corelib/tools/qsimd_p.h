@@ -4,6 +4,8 @@ DECL|enumerator|QSimdInitialized
 DECL|enum|CPUFeatures
 DECL|function|_bit_scan_forward
 DECL|function|_bit_scan_forward
+DECL|function|_bit_scan_forward
+DECL|function|_bit_scan_reverse
 DECL|function|_bit_scan_reverse
 DECL|function|_bit_scan_reverse
 DECL|function|qCpuFeatures
