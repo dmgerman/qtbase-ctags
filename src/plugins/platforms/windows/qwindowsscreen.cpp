@@ -20,7 +20,6 @@ DECL|function|operator <<
 DECL|function|pixelDensity
 DECL|function|removeScreen
 DECL|function|screenAtDp
-DECL|function|sharedCursor
 DECL|function|subpixelAntialiasingTypeHint
 DECL|function|topLevelAt
 DECL|function|virtualSiblings
