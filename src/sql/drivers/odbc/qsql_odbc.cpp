@@ -1,5 +1,5 @@
 DECL|class|QODBCDriverPrivate
-DECL|class|QODBCPrivate
+DECL|class|QODBCResultPrivate
 DECL|enumerator|Lower
 DECL|enumerator|Mixed
 DECL|enumerator|Sensitive
@@ -8,8 +8,8 @@ DECL|enum|DefaultCase
 DECL|function|QODBCDriver
 DECL|function|QODBCDriver
 DECL|function|QODBCDriverPrivate
-DECL|function|QODBCPrivate
 DECL|function|QODBCResult
+DECL|function|QODBCResultPrivate
 DECL|function|adjustCase
 DECL|function|beginTransaction
 DECL|function|checkDBMS

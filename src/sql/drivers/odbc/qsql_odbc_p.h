@@ -6,5 +6,5 @@ DECL|macro|_MSC_VER
 DECL|macro|_MSC_VER
 DECL|variable|QODBCDriver
 DECL|variable|QODBCDriverPrivate
-DECL|variable|QODBCPrivate
+DECL|variable|QODBCResultPrivate
 DECL|variable|QSqlRecordInfo
