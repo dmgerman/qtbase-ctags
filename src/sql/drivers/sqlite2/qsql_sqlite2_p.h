@@ -1,3 +1,5 @@
 DECL|macro|QSQL_SQLITE2_H
+DECL|macro|Q_EXPORT_SQLDRIVER_SQLITE2
+DECL|macro|Q_EXPORT_SQLDRIVER_SQLITE2
 DECL|variable|QSQLite2DriverPrivate
 DECL|variable|QSqlResult

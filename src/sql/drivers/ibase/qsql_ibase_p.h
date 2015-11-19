@@ -1,3 +1,5 @@
 DECL|macro|QSQL_IBASE_H
+DECL|macro|Q_EXPORT_SQLDRIVER_IBASE
+DECL|macro|Q_EXPORT_SQLDRIVER_IBASE
 DECL|variable|QIBaseDriverPrivate
 DECL|variable|QSqlResult
