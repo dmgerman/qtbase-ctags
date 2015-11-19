@@ -78,7 +78,6 @@ DECL|function|record
 DECL|function|reset
 DECL|function|rollbackTransaction
 DECL|function|setConnectionOptions
-DECL|function|setForwardOnly
 DECL|function|size
 DECL|function|splitTableQualifier
 DECL|function|tables
@@ -88,7 +87,6 @@ DECL|function|virtual_hook
 DECL|function|~QODBCDriver
 DECL|function|~QODBCResult
 DECL|macro|ODBC_CHECK_DRIVER
-DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
@@ -126,6 +124,5 @@ DECL|member|unicode
 DECL|member|unicode
 DECL|member|useSchema
 DECL|member|useSchema
-DECL|member|userForwardOnly
 DECL|variable|COLNAMESIZE
 DECL|variable|qParamType
