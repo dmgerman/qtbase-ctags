@@ -9,6 +9,7 @@ DECL|function|logicalDpi
 DECL|function|nativeOrientation
 DECL|function|orientation
 DECL|function|physicalSize
+DECL|function|pixelDensity
 DECL|function|refreshRate
 DECL|function|setPrimarySurface
 DECL|function|~QEglFSScreen

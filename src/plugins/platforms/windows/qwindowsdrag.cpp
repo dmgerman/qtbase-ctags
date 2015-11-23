@@ -1,4 +1,3 @@
-DECL|class|DragCursorHandle
 DECL|class|QWindowsDragCursorWindow
 DECL|class|QWindowsOleDropSource
 DECL|enumerator|MouseDrag
@@ -8,7 +7,6 @@ DECL|function|AddRef
 DECL|function|AddRef
 DECL|function|CursorEntry
 DECL|function|CursorEntry
-DECL|function|DragCursorHandle
 DECL|function|DragEnter
 DECL|function|DragLeave
 DECL|function|DragOver
@@ -40,13 +38,11 @@ DECL|function|toQtKeyboardModifiers
 DECL|function|translateToQDragDropAction
 DECL|function|translateToQDragDropActions
 DECL|function|translateToWinDragEffects
-DECL|function|~DragCursorHandle
 DECL|function|~QWindowsDrag
 DECL|function|~QWindowsOleDropSource
 DECL|function|~QWindowsOleDropTarget
 DECL|macro|KEY_STATE_BUTTON_MASK
 DECL|member|cacheKey
-DECL|member|cursor
 DECL|member|cursor
 DECL|member|hotSpot
 DECL|member|m_canceled
@@ -60,4 +56,3 @@ DECL|member|m_touchDragWindow
 DECL|member|pixmap
 DECL|struct|CursorEntry
 DECL|typedef|ActionCursorMap
-DECL|typedef|DragCursorHandlePtr

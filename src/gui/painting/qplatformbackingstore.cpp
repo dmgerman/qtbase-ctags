@@ -6,7 +6,7 @@ DECL|function|QPlatformTextureList
 DECL|function|QPlatformTextureListPrivate
 DECL|function|appendTexture
 DECL|function|beginPaint
-DECL|function|blit
+DECL|function|blitTextureForWidget
 DECL|function|clear
 DECL|function|clipRect
 DECL|function|composeAndFlush

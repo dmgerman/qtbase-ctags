@@ -3,5 +3,4 @@ DECL|typedef|QXmlStreamEntityDeclarations
 DECL|typedef|QXmlStreamNamespaceDeclarations
 DECL|typedef|QXmlStreamNotationDeclarations
 DECL|variable|QXmlStreamAttributes
-DECL|variable|QXmlStreamReaderPrivate
 DECL|variable|QXmlStreamWriterPrivate

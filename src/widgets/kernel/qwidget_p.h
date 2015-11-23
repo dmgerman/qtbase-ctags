@@ -85,6 +85,7 @@ DECL|member|waitingForMapNotify
 DECL|member|wasMaximized
 DECL|member|wattr
 DECL|member|wclass
+DECL|member|widgetTextures
 DECL|member|winIconBig
 DECL|member|winIconSmall
 DECL|member|window
@@ -97,6 +98,7 @@ DECL|variable|QGraphicsProxyWidget
 DECL|variable|QOpenGLContext
 DECL|variable|QPaintEngine
 DECL|variable|QPixmap
+DECL|variable|QPlatformTextureList
 DECL|variable|QStyle
 DECL|variable|QUnifiedToolbarSurface
 DECL|variable|QWidgetBackingStore

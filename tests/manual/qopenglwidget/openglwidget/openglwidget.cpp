@@ -13,9 +13,11 @@ DECL|macro|GL_GLEXT_PROTOTYPES
 DECL|member|h
 DECL|member|m_colAttr
 DECL|member|m_frame
+DECL|member|m_interval
 DECL|member|m_matrixUniform
 DECL|member|m_posAttr
 DECL|member|m_program
+DECL|member|m_rotAxis
 DECL|member|q
 DECL|member|w
 DECL|variable|fragmentShaderSource

@@ -1,6 +1,7 @@
 DECL|function|QPpmHandler
 DECL|function|canRead
 DECL|function|canRead
+DECL|function|discard_pbm_line
 DECL|function|name
 DECL|function|option
 DECL|function|read

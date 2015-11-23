@@ -15,6 +15,7 @@ DECL|function|create
 DECL|function|createNonTopLevel
 DECL|function|drawForeground
 DECL|function|fboRedirect
+DECL|function|nativeWindow
 DECL|function|paintCount
 DECL|function|painter
 DECL|function|reparentToAlreadyCreated
@@ -22,7 +23,11 @@ DECL|function|reparentToNotYetCreated
 DECL|function|requestUpdate
 DECL|function|reset
 DECL|function|resetPaintCount
+DECL|function|setClearColor
+DECL|function|showHide
 DECL|member|Q_DECL_OVERRIDE
+DECL|member|b
+DECL|member|g
 DECL|member|m_clear
 DECL|member|m_count
 DECL|member|m_count
@@ -32,3 +37,4 @@ DECL|member|m_paintCalled
 DECL|member|m_resizeCalled
 DECL|member|m_resizeOk
 DECL|member|m_w
+DECL|member|r
