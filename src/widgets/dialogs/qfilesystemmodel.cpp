@@ -22,7 +22,6 @@ DECL|function|filePath
 DECL|function|filter
 DECL|function|filtersAcceptsNode
 DECL|function|flags
-DECL|function|getNextChar
 DECL|function|hasChildren
 DECL|function|headerData
 DECL|function|icon
@@ -41,7 +40,6 @@ DECL|function|myComputer
 DECL|function|name
 DECL|function|nameFilterDisables
 DECL|function|nameFilters
-DECL|function|naturalCompare
 DECL|function|node
 DECL|function|node
 DECL|function|operator ()
@@ -76,4 +74,5 @@ DECL|function|timerEvent
 DECL|function|type
 DECL|function|type
 DECL|function|~QFileSystemModel
+DECL|member|naturalCompare
 DECL|member|sortColumn
