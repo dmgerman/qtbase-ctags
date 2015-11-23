@@ -1,3 +1,9 @@
+DECL|enumerator|orientationPreferenceLandscape
+DECL|enumerator|orientationPreferenceLandscapeFlipped
+DECL|enumerator|orientationPreferenceNone
+DECL|enumerator|orientationPreferencePortrait
+DECL|enumerator|orientationPreferencePortraitFlipped
+DECL|enum|DWORD
 DECL|function|QWindowsScreen
 DECL|function|QWindowsScreenData
 DECL|function|QWindowsScreenManager
@@ -17,9 +23,11 @@ DECL|function|monitorData
 DECL|function|monitorEnumCallback
 DECL|function|moveToVirtualScreen
 DECL|function|operator <<
+DECL|function|orientationPreference
 DECL|function|pixelDensity
 DECL|function|removeScreen
 DECL|function|screenAtDp
+DECL|function|setOrientationPreference
 DECL|function|subpixelAntialiasingTypeHint
 DECL|function|topLevelAt
 DECL|function|virtualSiblings
