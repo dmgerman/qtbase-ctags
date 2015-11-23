@@ -1,4 +1,5 @@
 DECL|class|QDB2DriverPrivate
+DECL|class|QDB2Result
 DECL|class|QDB2ResultPrivate
 DECL|function|QDB2Driver
 DECL|function|QDB2Driver
@@ -62,6 +63,7 @@ DECL|function|~QDB2ResultPrivate
 DECL|macro|SQL_BIGINT_TYPE
 DECL|macro|SQL_BIGUINT_TYPE
 DECL|macro|UNICODE
+DECL|member|d
 DECL|member|dp
 DECL|member|hDbc
 DECL|member|hEnv

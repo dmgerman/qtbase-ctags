@@ -1,4 +1,5 @@
 DECL|class|QODBCDriverPrivate
+DECL|class|QODBCResult
 DECL|class|QODBCResultPrivate
 DECL|enumerator|Lower
 DECL|enumerator|Mixed
@@ -87,6 +88,7 @@ DECL|function|virtual_hook
 DECL|function|~QODBCDriver
 DECL|function|~QODBCResult
 DECL|macro|ODBC_CHECK_DRIVER
+DECL|member|d
 DECL|member|datetime_precision
 DECL|member|disconnectCount
 DECL|member|disconnectCount

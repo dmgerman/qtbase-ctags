@@ -1,4 +1,5 @@
 DECL|class|QPSQLDriverPrivate
+DECL|class|QPSQLResult
 DECL|class|QPSQLResultPrivate
 DECL|function|PQfreemem
 DECL|function|QPSQLDriver
@@ -91,6 +92,20 @@ DECL|macro|QXIDOID
 DECL|macro|VARHDRSZ
 DECL|macro|isinf
 DECL|macro|isnan
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|connection
 DECL|member|currentSize
 DECL|member|hasBackslashEscape
