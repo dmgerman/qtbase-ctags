@@ -22,5 +22,4 @@ DECL|function|nextIndex
 DECL|function|revertLast
 DECL|function|setNumericalPrecisionPolicy
 DECL|function|virtual_hook
-DECL|function|~QSqlCachedResult
 DECL|variable|initial_cache_size

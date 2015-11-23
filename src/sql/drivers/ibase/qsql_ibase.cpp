@@ -70,7 +70,6 @@ DECL|function|unsubscribeFromNotification
 DECL|function|writeArray
 DECL|function|writeBlob
 DECL|function|~QIBaseDriver
-DECL|function|~QIBaseResult
 DECL|function|~QIBaseResultPrivate
 DECL|macro|FBVERSION
 DECL|macro|SQLDA_CURRENT_VERSION
