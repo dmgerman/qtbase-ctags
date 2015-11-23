@@ -16,6 +16,7 @@ DECL|function|displayName
 DECL|function|dropMimeData
 DECL|function|event
 DECL|function|fetchMore
+DECL|function|fileInfo
 DECL|function|filePath
 DECL|function|filePath
 DECL|function|filter
