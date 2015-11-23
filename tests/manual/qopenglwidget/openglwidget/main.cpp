@@ -1,1 +1,15 @@
+DECL|class|TabWidgetResetter
+DECL|class|Tools
+DECL|function|TabWidgetResetter
+DECL|function|Tools
+DECL|function|dump
+DECL|function|dumpCompositingStatus
+DECL|function|dumpWidget
+DECL|function|hideShowAllGL
 DECL|function|main
+DECL|function|reset
+DECL|function|turnNative
+DECL|member|m_glWidgets
+DECL|member|m_root
+DECL|member|m_tw
+DECL|member|m_widgetToTurn

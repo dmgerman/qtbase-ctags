@@ -7,12 +7,14 @@ DECL|function|discardInvalidateBufferRequest
 DECL|function|discardSyncRequest
 DECL|function|doSync
 DECL|function|endPaint
+DECL|function|findAllTextureWidgetsRecursively
 DECL|function|findTextureWidgetsRecursively
 DECL|function|flush
 DECL|function|flushPaint
 DECL|function|invalidateBuffer
 DECL|function|invalidateBuffer
 DECL|function|invalidateBuffer_resizeHelper
+DECL|function|isLocked
 DECL|function|markDirty
 DECL|function|markDirty
 DECL|function|markDirtyOnScreen
@@ -32,4 +34,5 @@ DECL|function|sync
 DECL|function|unflushPaint
 DECL|function|updateLists
 DECL|function|watch
+DECL|function|widgetTexturesFor
 DECL|function|~QWidgetBackingStore

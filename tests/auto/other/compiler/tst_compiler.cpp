@@ -1,3 +1,5 @@
+DECL|class|AdlOnly
+DECL|class|MoveDefinedQString
 DECL|class|PrivateStaticTemplateMember
 DECL|class|StaticTemplateClass
 DECL|class|StaticTemplateClass2
@@ -17,11 +19,18 @@ DECL|enumerator|Something
 DECL|enum|Enum1
 DECL|enum|Enum2
 DECL|enum|Enum3
+DECL|function|AdlOnly
+DECL|function|MoveDefinedQString
+DECL|function|MoveDefinedQString
+DECL|function|MoveDefinedQString
+DECL|function|MoveDefinedQString
 DECL|function|TemplateConstructorClass
 DECL|function|TemplateConstructorClass2
 DECL|function|TemplateConstructorClass2
 DECL|function|TemplateFriends
 DECL|function|_tstqstring
+DECL|function|begin
+DECL|function|begin
 DECL|function|callOrderFunc
 DECL|function|callOrderFunc
 DECL|function|callOrderNoCFunc
@@ -77,6 +86,8 @@ DECL|function|cxx14_variable_templates
 DECL|function|detectDataStream
 DECL|function|detectDataStream
 DECL|function|detectEnums
+DECL|function|end
+DECL|function|end
 DECL|function|externTemplate
 DECL|function|f
 DECL|function|foo
@@ -89,6 +100,10 @@ DECL|function|getSaveOperator
 DECL|function|helper
 DECL|function|methodSpecialization
 DECL|function|noop
+DECL|function|operator !=
+DECL|function|operator =
+DECL|function|operator =
+DECL|function|operator ==
 DECL|function|overrideCFunction
 DECL|function|privateStaticTemplateMember
 DECL|function|qt_inf
@@ -118,6 +133,7 @@ DECL|function|template_constructors
 DECL|function|template_constructors
 DECL|function|template_methods
 DECL|function|template_subclasses
+DECL|function|toString
 DECL|function|virtualFunctionNoLongerPureVirtual
 DECL|macro|BASECLASS_NOT_ABSTRACT
 DECL|macro|DONT_TEST_CONSTRUCTOR_SPECIALIZATION
@@ -131,8 +147,11 @@ DECL|member|d
 DECL|member|d
 DECL|member|i
 DECL|member|i
+DECL|member|s
+DECL|member|v
 DECL|member|value
 DECL|namespace|QtTestInternal
+DECL|namespace|SomeNamespace
 DECL|struct|CallFunctor
 DECL|struct|DataStreamChecker
 DECL|struct|DataStreamOpHelper
