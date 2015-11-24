@@ -15,7 +15,6 @@ DECL|function|qSetGlobalQHashSeed
 DECL|function|qt_create_qhash_seed
 DECL|function|qt_initialize_qhash_seed
 DECL|function|rehash
-DECL|macro|QHASH_NO_ENV_SEED
 DECL|macro|_CRT_RAND_S
 DECL|macro|truncate
 DECL|member|shared_null
