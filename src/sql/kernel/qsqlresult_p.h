@@ -5,3 +5,4 @@ DECL|macro|QSQLRESULT_P_H
 DECL|member|holderName
 DECL|member|holderPos
 DECL|struct|QHolder
+DECL|variable|QSqlDriver
