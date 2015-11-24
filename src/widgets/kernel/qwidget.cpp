@@ -23,6 +23,7 @@ DECL|function|backingStore
 DECL|function|baseSize
 DECL|function|boundingRect
 DECL|function|canKeypadNavigate
+DECL|function|canMapPosition
 DECL|function|changeEvent
 DECL|function|childAt
 DECL|function|childAtRecursiveHelper
