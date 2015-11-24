@@ -8,4 +8,5 @@ DECL|function|removeStaleLock
 DECL|function|setNativeLocks
 DECL|function|tryLock_sys
 DECL|function|unlock
-DECL|variable|fcntlOK
+DECL|typedef|CacheType
+DECL|variable|fcntlLock
