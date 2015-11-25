@@ -34,6 +34,7 @@ DECL|function|onStatusBarShowing
 DECL|function|onVisibilityChanged
 DECL|function|orientation
 DECL|function|physicalSize
+DECL|function|pixelDensity
 DECL|function|qHash
 DECL|function|qHash
 DECL|function|qHash
