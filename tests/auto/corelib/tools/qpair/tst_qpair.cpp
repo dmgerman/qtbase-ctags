@@ -2,6 +2,7 @@ DECL|class|C
 DECL|class|M
 DECL|class|P
 DECL|class|tst_QPair
+DECL|function|taskQTBUG_48780_pairContainingCArray
 DECL|function|testConstexpr
 DECL|function|testConversions
 DECL|macro|rhs
