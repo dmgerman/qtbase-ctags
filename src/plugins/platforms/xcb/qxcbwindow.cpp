@@ -114,6 +114,7 @@ DECL|function|setMask
 DECL|function|setMotifWindowFlags
 DECL|function|setMotifWmHints
 DECL|function|setMouseGrabEnabled
+DECL|function|setNetWmStateWindowFlags
 DECL|function|setNetWmStates
 DECL|function|setOpacity
 DECL|function|setParent
