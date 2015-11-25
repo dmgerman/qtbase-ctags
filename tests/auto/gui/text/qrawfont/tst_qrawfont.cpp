@@ -19,6 +19,7 @@ DECL|function|glyphIndices
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|invalidRawFont
+DECL|function|kernedAdvances
 DECL|function|multipleRawFontsFromData
 DECL|function|rawFontFromInvalidData
 DECL|function|rawFontSetPixelSize
@@ -32,6 +33,7 @@ DECL|function|supportsUcs4Character_data
 DECL|function|textLayout
 DECL|function|unsupportedWritingSystem
 DECL|function|unsupportedWritingSystem_data
+DECL|macro|FUZZY_LTEQ
 DECL|member|testFont
 DECL|member|testFontBoldItalic
 DECL|typedef|WritingSystemList
