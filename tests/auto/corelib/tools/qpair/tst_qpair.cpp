@@ -3,6 +3,11 @@ DECL|class|M
 DECL|class|P
 DECL|class|tst_QPair
 DECL|function|testConstexpr
+DECL|function|testConversions
+DECL|macro|rhs
+DECL|macro|rhs
+DECL|macro|rhs
+DECL|macro|rhs
 DECL|member|_
 DECL|member|_
 DECL|member|_
