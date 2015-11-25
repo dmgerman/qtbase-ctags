@@ -103,7 +103,6 @@ DECL|function|waitForReadyReadInAReadyReadSlotSlot
 DECL|function|waitForStartedWithoutStart
 DECL|function|writeAfterStart
 DECL|function|writePendingData
-DECL|macro|QPROCESS_VERIFY
 DECL|member|bytesAvailable
 DECL|member|dataToWrite
 DECL|member|exitCode
