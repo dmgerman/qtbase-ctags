@@ -42,14 +42,12 @@ DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|access
-DECL|member|access
 DECL|member|currentMachine
 DECL|member|currentTail
 DECL|member|firstRow
 DECL|member|rInf
 DECL|member|skipRow
 DECL|member|skippedStatus
-DECL|member|utf8
 DECL|member|utf8
 DECL|typedef|sqlite_vm
 DECL|variable|initial_cache_size

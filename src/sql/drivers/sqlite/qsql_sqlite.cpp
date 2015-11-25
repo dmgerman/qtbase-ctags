@@ -51,7 +51,6 @@ DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|access
-DECL|member|access
 DECL|member|firstRow
 DECL|member|rInf
 DECL|member|results
