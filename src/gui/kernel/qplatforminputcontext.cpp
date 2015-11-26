@@ -19,6 +19,7 @@ DECL|function|locale
 DECL|function|reset
 DECL|function|setFocusObject
 DECL|function|setInputMethodAccepted
+DECL|function|setSelectionOnFocusObject
 DECL|function|showInputPanel
 DECL|function|update
 DECL|function|~QPlatformInputContext

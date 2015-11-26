@@ -1,10 +1,12 @@
 DECL|function|QInputMethod
+DECL|function|anchorRectangle
 DECL|function|commit
 DECL|function|cursorRectangle
 DECL|function|hide
 DECL|function|inputDirection
 DECL|function|inputItemRectangle
 DECL|function|inputItemTransform
+DECL|function|inputMethodQueryRectangle_helper
 DECL|function|invokeAction
 DECL|function|isAnimating
 DECL|function|isVisible
