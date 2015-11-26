@@ -1,4 +1,3 @@
-DECL|class|QSqlCachedResultPrivate
 DECL|function|QSqlCachedResult
 DECL|function|QSqlCachedResultPrivate
 DECL|function|cache
@@ -24,9 +23,4 @@ DECL|function|revertLast
 DECL|function|setNumericalPrecisionPolicy
 DECL|function|virtual_hook
 DECL|function|~QSqlCachedResult
-DECL|member|atEnd
-DECL|member|cache
-DECL|member|colCount
-DECL|member|forwardOnly
-DECL|member|rowCacheEnd
 DECL|variable|initial_cache_size
