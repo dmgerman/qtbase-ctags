@@ -2,6 +2,7 @@ DECL|class|OraFieldInf
 DECL|class|QOCICols
 DECL|class|QOCIDriverPrivate
 DECL|class|QOCIResult
+DECL|class|QOCIResultPrivate
 DECL|class|QOCIRowId
 DECL|enumerator|QOCIEncoding
 DECL|function|OraFieldInf
@@ -104,7 +105,6 @@ DECL|member|col
 DECL|member|cols
 DECL|member|curelep
 DECL|member|d
-DECL|member|d
 DECL|member|data
 DECL|member|data
 DECL|member|def
@@ -133,7 +133,6 @@ DECL|member|prefetchMem
 DECL|member|prefetchMem
 DECL|member|prefetchRows
 DECL|member|prefetchRows
-DECL|member|q
 DECL|member|rec
 DECL|member|recordCount
 DECL|member|serverVersion
@@ -150,7 +149,6 @@ DECL|member|user
 DECL|struct|OraFieldInfo
 DECL|struct|QOCIBatchCleanupHandler
 DECL|struct|QOCIBatchColumn
-DECL|struct|QOCIResultPrivate
 DECL|typedef|IndicatorArray
 DECL|typedef|QOCIRowIdPointer
 DECL|typedef|SizeArray

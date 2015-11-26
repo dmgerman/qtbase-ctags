@@ -45,9 +45,7 @@ DECL|member|access
 DECL|member|access
 DECL|member|currentMachine
 DECL|member|currentTail
-DECL|member|d
 DECL|member|firstRow
-DECL|member|q
 DECL|member|rInf
 DECL|member|skipRow
 DECL|member|skippedStatus

@@ -52,9 +52,7 @@ DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|access
 DECL|member|access
-DECL|member|d
 DECL|member|firstRow
-DECL|member|q
 DECL|member|rInf
 DECL|member|results
 DECL|member|skipRow

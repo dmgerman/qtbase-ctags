@@ -43,7 +43,6 @@ DECL|function|numRowsAffected
 DECL|function|open
 DECL|function|prepare
 DECL|function|primaryIndex
-DECL|function|privDriver
 DECL|function|processResults
 DECL|function|protocol
 DECL|function|qCreateParamString

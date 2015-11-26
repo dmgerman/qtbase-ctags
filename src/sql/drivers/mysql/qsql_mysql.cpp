@@ -16,7 +16,6 @@ DECL|function|codec
 DECL|function|commitTransaction
 DECL|function|createResult
 DECL|function|data
-DECL|function|driverDestroyed
 DECL|function|escapeIdentifier
 DECL|function|exec
 DECL|function|fetch
@@ -80,8 +79,6 @@ DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|bufLength
-DECL|member|d
-DECL|member|driver
 DECL|member|fields
 DECL|member|hasBlobs
 DECL|member|inBinds
@@ -93,7 +90,6 @@ DECL|member|outBinds
 DECL|member|outField
 DECL|member|preparedQuery
 DECL|member|preparedQuerysEnabled
-DECL|member|q
 DECL|member|result
 DECL|member|row
 DECL|member|rowsAffected

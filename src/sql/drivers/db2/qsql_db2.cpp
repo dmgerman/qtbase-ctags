@@ -79,8 +79,6 @@ DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
-DECL|member|d
-DECL|member|dp
 DECL|member|hDbc
 DECL|member|hEnv
 DECL|member|hStmt

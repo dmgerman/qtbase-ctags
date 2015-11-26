@@ -107,11 +107,9 @@ DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
-DECL|member|d
 DECL|member|datetime_precision
 DECL|member|disconnectCount
 DECL|member|disconnectCount
-DECL|member|driverPrivate
 DECL|member|fieldCache
 DECL|member|fieldCacheIdx
 DECL|member|hDbc

@@ -83,8 +83,6 @@ DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|bufferLength
-DECL|member|d
-DECL|member|db
 DECL|member|eventBuffer
 DECL|member|eventBuffers
 DECL|member|eventId
@@ -92,7 +90,6 @@ DECL|member|ibase
 DECL|member|ibase
 DECL|member|inda
 DECL|member|localTransaction
-DECL|member|q
 DECL|member|queryType
 DECL|member|resultBuffer
 DECL|member|sqlda

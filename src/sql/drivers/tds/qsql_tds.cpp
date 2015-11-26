@@ -72,7 +72,6 @@ DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|buffer
-DECL|member|d
 DECL|member|data
 DECL|member|db
 DECL|member|dbproc
