@@ -1,11 +1,3 @@
-DECL|enumerator|kEventParamQWidget
-DECL|enumerator|kEventQtRequestActivate
-DECL|enumerator|kEventQtRequestContext
-DECL|enumerator|kEventQtRequestMenubarUpdate
-DECL|enumerator|kEventQtRequestShowSheet
-DECL|enumerator|kEventQtRequestWindowChange
-DECL|enumerator|typeAEClipboardChanged
-DECL|enumerator|typeQWidget
 DECL|function|clear
 DECL|macro|QT_MAC_P_H
 DECL|macro|check
