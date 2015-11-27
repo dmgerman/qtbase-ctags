@@ -33,6 +33,14 @@ DECL|function|tables
 DECL|function|virtual_hook
 DECL|function|~QSQLite2Driver
 DECL|function|~QSQLite2Result
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|access
 DECL|member|access
 DECL|member|currentMachine

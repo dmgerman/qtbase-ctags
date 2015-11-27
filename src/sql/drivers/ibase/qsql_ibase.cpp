@@ -74,6 +74,14 @@ DECL|function|~QIBaseResult
 DECL|function|~QIBaseResultPrivate
 DECL|macro|FBVERSION
 DECL|macro|SQLDA_CURRENT_VERSION
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|bufferLength
 DECL|member|d
 DECL|member|db
