@@ -1,3 +1,4 @@
+DECL|function|QSecureTransportContext
 DECL|function|QSslCipher_from_SSLCipherSuite
 DECL|function|QSslSocketBackendPrivate
 DECL|function|_q_PKCS12_bag
@@ -20,6 +21,12 @@ DECL|function|disconnected
 DECL|function|ensureInitialized
 DECL|function|importPkcs12
 DECL|function|initSslContext
+DECL|function|operator SSLContextRef
+DECL|function|qt_createSecureTransportContext
+DECL|function|qt_releaseSecureTransportContext
+DECL|function|qt_setSessionProtocol
+DECL|function|qt_setSessionProtocolOSX
+DECL|function|reset
 DECL|function|resetDefaultCiphers
 DECL|function|resetDefaultEllipticCurves
 DECL|function|sessionCipher
@@ -40,6 +47,7 @@ DECL|function|verify
 DECL|function|verifyPeerTrust
 DECL|function|verifySessionProtocol
 DECL|function|wrap
+DECL|function|~QSecureTransportContext
 DECL|function|~QSslSocketBackendPrivate
 DECL|macro|ioErr
 DECL|member|s_libraryLoaded

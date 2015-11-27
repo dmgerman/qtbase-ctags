@@ -5,6 +5,7 @@ DECL|class|tst_QFiledialog
 DECL|function|DialogRejecter
 DECL|function|MyAbstractItemDelegate
 DECL|function|QNonNativeFileDialog
+DECL|function|QTBUG49600_nativeIconProviderCrash
 DECL|function|acceptMode
 DECL|function|args
 DECL|function|caption
