@@ -9,6 +9,7 @@ DECL|function|convert_ARGB_PM_to_ARGB
 DECL|function|convert_ARGB_PM_to_Indexed8
 DECL|function|convert_ARGB_PM_to_Mono
 DECL|function|convert_ARGB_to_ARGB_PM
+DECL|function|convert_ARGB_to_ARGB_PM_inplace
 DECL|function|convert_ARGB_to_Indexed8
 DECL|function|convert_ARGB_to_RGBA
 DECL|function|convert_ARGB_to_RGBA_inplace

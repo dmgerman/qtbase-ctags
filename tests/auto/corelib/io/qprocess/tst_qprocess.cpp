@@ -103,11 +103,11 @@ DECL|function|waitForReadyReadInAReadyReadSlotSlot
 DECL|function|waitForStartedWithoutStart
 DECL|function|writeAfterStart
 DECL|function|writePendingData
-DECL|macro|QPROCESS_VERIFY
 DECL|member|bytesAvailable
 DECL|member|dataToWrite
 DECL|member|exitCode
 DECL|member|killing
+DECL|member|m_temporaryDir
 DECL|member|n
 DECL|member|waitedForFinished
 DECL|typedef|QProcessErrorSignal

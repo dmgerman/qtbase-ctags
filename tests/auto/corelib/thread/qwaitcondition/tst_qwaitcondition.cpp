@@ -1,3 +1,5 @@
+DECL|class|TerminatingThread
+DECL|class|WakeThreadBase
 DECL|class|tst_QWaitCondition
 DECL|class|wait_QMutex_Thread_1
 DECL|class|wait_QMutex_Thread_2
@@ -7,6 +9,8 @@ DECL|class|wait_RaceConditionThread
 DECL|class|wait_RaceConditionThread_2
 DECL|class|wake_Thread
 DECL|class|wake_Thread_2
+DECL|function|TerminatingThread
+DECL|function|WakeThreadBase
 DECL|function|run
 DECL|function|run
 DECL|function|run
@@ -30,6 +34,7 @@ DECL|function|wakeAll
 DECL|function|wakeOne
 DECL|function|wake_Thread
 DECL|function|wake_Thread_2
+DECL|function|~TerminatingThread
 DECL|macro|COND_WAIT_TIME
 DECL|member|cond
 DECL|member|cond
@@ -37,9 +42,6 @@ DECL|member|cond
 DECL|member|cond
 DECL|member|cond
 DECL|member|cond
-DECL|member|count
-DECL|member|count
-DECL|member|count
 DECL|member|count
 DECL|member|dummy
 DECL|member|dummy

@@ -21,6 +21,7 @@ DECL|function|writeImage_data
 DECL|function|writeToInvalidDevice
 DECL|function|~tst_QImageWriter
 DECL|macro|SKIP_IF_UNSUPPORTED
+DECL|member|m_temporaryDir
 DECL|member|prefix
 DECL|member|writePrefix
 DECL|typedef|QIntList

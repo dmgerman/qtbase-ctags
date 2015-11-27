@@ -35,6 +35,7 @@ DECL|function|slot_rowsInserted
 DECL|function|slot_rowsRemoved
 DECL|function|sort
 DECL|function|sort_data
+DECL|function|tst_QItemModel
 DECL|function|verifyState
 DECL|macro|ALL
 DECL|macro|DEFAULTCOUNT
