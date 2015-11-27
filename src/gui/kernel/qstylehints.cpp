@@ -17,6 +17,7 @@ DECL|function|setMouseDoubleClickInterval
 DECL|function|setStartDragDistance
 DECL|function|setStartDragTime
 DECL|function|showIsFullScreen
+DECL|function|showIsMaximized
 DECL|function|singleClickActivation
 DECL|function|startDragDistance
 DECL|function|startDragTime
