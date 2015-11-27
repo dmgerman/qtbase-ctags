@@ -35,4 +35,5 @@ DECL|function|unflushPaint
 DECL|function|updateLists
 DECL|function|watch
 DECL|function|widgetTexturesFor
+DECL|function|widgetTexturesFor
 DECL|function|~QWidgetBackingStore

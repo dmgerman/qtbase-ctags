@@ -9,6 +9,7 @@ DECL|function|createPixmapCursorFromData
 DECL|function|cursorState
 DECL|function|customCursor
 DECL|function|customCursor
+DECL|function|dragDefaultCursor
 DECL|function|initResources
 DECL|function|mousePosition
 DECL|function|pixmapWindowCursor

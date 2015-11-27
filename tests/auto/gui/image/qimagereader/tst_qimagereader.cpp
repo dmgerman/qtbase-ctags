@@ -20,6 +20,8 @@ DECL|function|imageFormatBeforeRead_data
 DECL|function|imageFormat_data
 DECL|function|initTestCase
 DECL|function|jpegRgbCmyk
+DECL|function|msgFileOpenReadFailed
+DECL|function|msgFileOpenWriteFailed
 DECL|function|msgIgnoreFormatAndExtensionFail
 DECL|function|msgReadFromDeviceFail
 DECL|function|multiWordNamedColorXPM
