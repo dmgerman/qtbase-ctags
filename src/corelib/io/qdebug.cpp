@@ -10,6 +10,7 @@ DECL|function|putString
 DECL|function|putUcs4
 DECL|function|qt_QMetaEnum_debugOperator
 DECL|function|qt_QMetaEnum_flagDebugOperator
+DECL|function|qt_QMetaEnum_flagDebugOperator
 DECL|function|resetFormat
 DECL|function|restoreState
 DECL|function|~QDebug

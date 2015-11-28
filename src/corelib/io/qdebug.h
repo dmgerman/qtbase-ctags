@@ -10,6 +10,7 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
+DECL|function|qt_QMetaEnum_flagDebugOperator
 DECL|function|qt_QMetaEnum_flagDebugOperator_helper
 DECL|function|qt_QMetaEnum_flagDebugOperator_helper
 DECL|macro|QDEBUG_H
