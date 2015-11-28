@@ -3,6 +3,7 @@ DECL|field|QtTAG
 DECL|field|m_activity
 DECL|field|m_activityDelegate
 DECL|field|m_activityPaused
+DECL|field|m_checkSelfPermissionMethod
 DECL|field|m_classLoader
 DECL|field|m_clipboardManager
 DECL|field|m_displayMetricsDensity
@@ -23,6 +24,7 @@ DECL|method|activity
 DECL|method|activityDelegate
 DECL|method|bringChildToBack
 DECL|method|bringChildToFront
+DECL|method|checkSelfPermission
 DECL|method|classLoader
 DECL|method|closeContextMenu
 DECL|method|createSurface
