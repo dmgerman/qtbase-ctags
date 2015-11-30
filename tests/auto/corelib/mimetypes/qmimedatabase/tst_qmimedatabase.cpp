@@ -37,6 +37,7 @@ DECL|function|runUpdateMimeDatabase
 DECL|function|seedAndTemplate
 DECL|function|suffixes
 DECL|function|suffixes_data
+DECL|function|symlinkToFifo
 DECL|function|testSuiteWarning
 DECL|function|tst_QMimeDatabase
 DECL|function|waitAndRunUpdateMimeDatabase
