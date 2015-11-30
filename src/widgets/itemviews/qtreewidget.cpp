@@ -64,6 +64,7 @@ DECL|function|headerItem
 DECL|function|index
 DECL|function|index
 DECL|function|indexFromItem
+DECL|function|indexFromItem
 DECL|function|indexOfTopLevelItem
 DECL|function|insertChild
 DECL|function|insertChildren
