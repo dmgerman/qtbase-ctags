@@ -1,5 +1,2 @@
-DECL|function|qt_app_environment
-DECL|function|qt_winrt__putenv_s
 DECL|function|qt_winrt__tzset
-DECL|function|qt_winrt_getenv_s
 DECL|function|qt_winrt_tzset

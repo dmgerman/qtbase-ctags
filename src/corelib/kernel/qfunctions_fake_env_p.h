@@ -1,0 +1,5 @@
+DECL|function|qt_app_environment
+DECL|function|qt_fake__putenv_s
+DECL|function|qt_fake_getenv_s
+DECL|macro|QFUNCTIONS_FAKE_ENV_P_H
+DECL|variable|QByteArray
