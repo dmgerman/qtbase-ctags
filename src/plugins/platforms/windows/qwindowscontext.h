@@ -3,6 +3,7 @@ DECL|macro|QWINDOWSCONTEXT_H
 DECL|macro|STRICT_TYPED_ITEMIDS
 DECL|member|addClipboardFormatListener
 DECL|member|closeTouchInputHandle
+DECL|member|getDisplayAutoRotationPreferences
 DECL|member|getDpiForMonitor
 DECL|member|getProcessDpiAwareness
 DECL|member|getTouchInputInfo
@@ -15,6 +16,7 @@ DECL|member|sHCreateItemFromParsingName
 DECL|member|sHGetImageList
 DECL|member|sHGetKnownFolderIDList
 DECL|member|sHGetStockIconInfo
+DECL|member|setDisplayAutoRotationPreferences
 DECL|member|setLayeredWindowAttributes
 DECL|member|setProcessDPIAware
 DECL|member|setProcessDpiAwareness
@@ -26,6 +28,7 @@ DECL|struct|QWindowsShell32DLL
 DECL|struct|QWindowsUser32DLL
 DECL|typedef|AddClipboardFormatListener
 DECL|typedef|CloseTouchInputHandle
+DECL|typedef|GetDisplayAutoRotationPreferences
 DECL|typedef|GetDpiForMonitor
 DECL|typedef|GetProcessDpiAwareness
 DECL|typedef|GetTouchInputInfo
@@ -38,6 +41,7 @@ DECL|typedef|SHCreateItemFromParsingName
 DECL|typedef|SHGetImageList
 DECL|typedef|SHGetKnownFolderIDList
 DECL|typedef|SHGetStockIconInfo
+DECL|typedef|SetDisplayAutoRotationPreferences
 DECL|typedef|SetLayeredWindowAttributes
 DECL|typedef|SetProcessDPIAware
 DECL|typedef|SetProcessDpiAwareness

@@ -12,6 +12,7 @@ DECL|function|populateTestArea
 DECL|function|setupDatabase
 DECL|function|test
 DECL|member|contains
+DECL|member|m_dirModelTempDir
 DECL|member|modelType
 DECL|member|read
 DECL|member|tests

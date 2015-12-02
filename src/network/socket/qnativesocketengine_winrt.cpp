@@ -47,6 +47,7 @@ DECL|function|setReadNotificationEnabled
 DECL|function|setReceiveBufferSize
 DECL|function|setSendBufferSize
 DECL|function|setWriteNotificationEnabled
+DECL|function|socketDescription
 DECL|function|socketDescriptor
 DECL|function|waitForRead
 DECL|function|waitForReadOrWrite

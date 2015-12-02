@@ -26,6 +26,7 @@ DECL|function|addFontToDatabase
 DECL|function|addKey
 DECL|function|addKey
 DECL|function|changeFamilyName
+DECL|function|createDirectWriteFactory
 DECL|function|createEngine
 DECL|function|data
 DECL|function|derefUniqueFont
@@ -59,6 +60,7 @@ DECL|function|releaseHandle
 DECL|function|removeApplicationFonts
 DECL|function|removeKey
 DECL|function|removeKey
+DECL|function|resolveDWriteCreateFactory
 DECL|function|sharedFontData
 DECL|function|sharedFontData
 DECL|function|storeFont
@@ -140,6 +142,7 @@ DECL|struct|OS2Table
 DECL|struct|OffsetSubTable
 DECL|struct|PopulateFamiliesContext
 DECL|struct|TableDirectory
+DECL|typedef|DWriteCreateFactoryType
 DECL|typedef|FontEngineThreadLocalData
 DECL|typedef|QWindowsFontEngineDataPtr
 DECL|variable|ch_CN_tryFonts

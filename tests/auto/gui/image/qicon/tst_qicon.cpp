@@ -12,6 +12,7 @@ DECL|function|fromTheme
 DECL|function|fromThemeCache
 DECL|function|haveImageFormat
 DECL|function|initTestCase
+DECL|function|isMask
 DECL|function|isNull
 DECL|function|name
 DECL|function|operator <

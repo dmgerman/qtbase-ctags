@@ -9,6 +9,7 @@ DECL|function|addNumberedMenu
 DECL|function|allowActiveAndDisabled
 DECL|function|centerOnScreen
 DECL|function|check_accelKeys
+DECL|function|check_altClosePress
 DECL|function|check_altPress
 DECL|function|check_cursorKeys1
 DECL|function|check_cursorKeys2

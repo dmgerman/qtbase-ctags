@@ -23,8 +23,6 @@ DECL|function|initTestCase
 DECL|function|lastEntry
 DECL|function|mkdir
 DECL|function|nameFilters
-DECL|function|naturalCompare
-DECL|function|naturalCompare_data
 DECL|function|permissionRowName
 DECL|function|permissions
 DECL|function|permissions_data
@@ -43,8 +41,6 @@ DECL|function|sort
 DECL|function|sortPersistentIndex
 DECL|function|sort_data
 DECL|function|tst_QFileSystemModel
-DECL|macro|ROWNAME
-DECL|macro|ROWNAME
 DECL|macro|TRY_WAIT
 DECL|macro|WAITTIME
 DECL|member|dvd

@@ -2,6 +2,7 @@ DECL|class|Menu
 DECL|class|Menu258920
 DECL|class|MyMenu
 DECL|class|PopulateOnAboutToShowTestMenu
+DECL|class|SubMenuPositionExecMenu
 DECL|class|tst_QMenu
 DECL|enumerator|num_builtins
 DECL|function|MyMenu
@@ -13,9 +14,11 @@ DECL|function|QTBUG7907_submenus_autoselect
 DECL|function|QTBUG_10735_crashWithDialog
 DECL|function|QTBUG_37933_ampersands
 DECL|function|QTBUG_37933_ampersands_data
+DECL|function|SubMenuPositionExecMenu
 DECL|function|activateAction
 DECL|function|activateLastAction
 DECL|function|activeSubMenuPosition
+DECL|function|activeSubMenuPositionExec
 DECL|function|addActionsAndClear
 DECL|function|addActionsConnect
 DECL|function|centerOnScreen
@@ -64,6 +67,10 @@ DECL|member|highlighted
 DECL|member|lastMenu
 DECL|member|m_currentIndex
 DECL|member|m_onStatusTipTimerExecuted
+DECL|member|m_subAction
+DECL|member|m_subMenu
+DECL|member|m_timerId
+DECL|member|m_timerTick
 DECL|member|menus
 DECL|member|painted
 DECL|member|statustip
