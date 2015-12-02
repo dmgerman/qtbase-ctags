@@ -11,6 +11,7 @@ DECL|function|detach
 DECL|function|fromTheme
 DECL|function|haveImageFormat
 DECL|function|initTestCase
+DECL|function|isMask
 DECL|function|isNull
 DECL|function|name
 DECL|function|operator <
