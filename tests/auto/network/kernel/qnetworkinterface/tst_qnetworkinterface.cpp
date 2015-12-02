@@ -1,5 +1,6 @@
 DECL|class|tst_QNetworkInterface
 DECL|function|cleanupTestCase
+DECL|function|consistencyCheck
 DECL|function|copyInvalidInterface
 DECL|function|dump
 DECL|function|initTestCase
