@@ -2,11 +2,7 @@ DECL|class|TestNativeDialog
 DECL|class|tst_QColorDialog
 DECL|function|QTBUG_43548_initialColor
 DECL|function|TestNativeDialog
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|defaultOkButton
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|native_activeModalWidget
 DECL|function|postKeyReturn
 DECL|function|task247349_alpha

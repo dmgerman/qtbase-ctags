@@ -1,6 +1,5 @@
 DECL|class|tst_QHostAddress
 DECL|function|assignment
-DECL|function|cleanup
 DECL|function|compare
 DECL|function|compare_data
 DECL|function|constructor_QString
@@ -8,7 +7,6 @@ DECL|function|constructor_QString_data
 DECL|function|convertv4v6
 DECL|function|convertv4v6_data
 DECL|function|hashKey
-DECL|function|init
 DECL|function|isInSubnet
 DECL|function|isInSubnet_data
 DECL|function|isLoopback
@@ -25,4 +23,3 @@ DECL|function|specialAddresses_data
 DECL|function|streaming
 DECL|function|streaming_data
 DECL|function|tst_QHostAddress
-DECL|function|~tst_QHostAddress

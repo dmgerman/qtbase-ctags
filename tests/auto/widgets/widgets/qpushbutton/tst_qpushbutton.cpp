@@ -1,7 +1,6 @@
 DECL|class|tst_QPushButton
 DECL|function|animateClick
 DECL|function|autoRepeat
-DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clicked
 DECL|function|defaultAndAutoDefault
@@ -26,8 +25,6 @@ DECL|function|sizeHint_data
 DECL|function|taskQTBUG_20191_shortcutWithKeypadModifer
 DECL|function|toggle
 DECL|function|toggled
-DECL|function|tst_QPushButton
-DECL|function|~tst_QPushButton
 DECL|member|click_count
 DECL|member|press_count
 DECL|member|release_count

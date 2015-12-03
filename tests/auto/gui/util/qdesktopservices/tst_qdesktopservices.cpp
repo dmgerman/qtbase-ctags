@@ -1,12 +1,8 @@
 DECL|class|MyUrlHandler
 DECL|class|tst_qdesktopservices
-DECL|function|cleanup
 DECL|function|handle
 DECL|function|handlers
-DECL|function|init
 DECL|function|openUrl
 DECL|function|testDataLocation
-DECL|function|tst_qdesktopservices
-DECL|function|~tst_qdesktopservices
 DECL|macro|Q_XDG_PLATFORM
 DECL|member|lastHandledUrl

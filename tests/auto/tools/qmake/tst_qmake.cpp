@@ -2,7 +2,6 @@ DECL|class|tst_qmake
 DECL|function|TempFile
 DECL|function|bundle_spaces
 DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|duplicateLibraryEntries
 DECL|function|export_across_file_boundaries
 DECL|function|findDeps
@@ -26,9 +25,7 @@ DECL|function|simple_lib
 DECL|function|subdir_via_pro_file_extra_target
 DECL|function|subdirs
 DECL|function|substitutes
-DECL|function|tst_qmake
 DECL|function|~TempFile
-DECL|function|~tst_qmake
 DECL|macro|DIR_INFIX
 DECL|macro|DIR_INFIX
 DECL|macro|DIR_INFIX

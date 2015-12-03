@@ -40,7 +40,6 @@ DECL|function|autoCancelingGestures
 DECL|function|boundingRect
 DECL|function|bug_13501_gesture_not_accepted
 DECL|function|canceled
-DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|clear
@@ -70,7 +69,6 @@ DECL|function|graphicsItemGesture
 DECL|function|graphicsItemTreeGesture
 DECL|function|graphicsView
 DECL|function|graphicsViewParentPropagation
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|mapToGlobal
 DECL|function|multipleGesturesInComplexTree
@@ -93,7 +91,6 @@ DECL|function|started
 DECL|function|testMapToScene
 DECL|function|testQGestureRecognizerCleanup
 DECL|function|testReuseCanceledGestures
-DECL|function|tst_Gestures
 DECL|function|twoGesturesOnDifferentLevel
 DECL|function|ungrabGesture
 DECL|function|unknownGesture
@@ -101,7 +98,6 @@ DECL|function|unregisterRecognizer
 DECL|function|updated
 DECL|function|viewportCoordinates
 DECL|function|~GestureItem
-DECL|function|~tst_Gestures
 DECL|member|ConsumeEvents
 DECL|member|ConsumeEvents
 DECL|member|EventType

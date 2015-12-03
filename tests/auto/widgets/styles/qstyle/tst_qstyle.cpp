@@ -9,13 +9,11 @@ DECL|function|FrameTestStyle
 DECL|function|MyWidget
 DECL|function|Qt42Style
 DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|comparePixmap
 DECL|function|defaultFont
 DECL|function|drawItemPixmap
 DECL|function|drawItemText
 DECL|function|init
-DECL|function|initTestCase
 DECL|function|lineUpLayoutTest
 DECL|function|paintEvent
 DECL|function|pixelMetric
@@ -43,7 +41,6 @@ DECL|function|testWindowsVistaStyle
 DECL|function|testWindowsXPStyle
 DECL|function|tst_QStyle
 DECL|function|writeImage
-DECL|function|~tst_QStyle
 DECL|macro|SCROLLBAR_SPACING
 DECL|member|alignment
 DECL|member|margin

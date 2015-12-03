@@ -30,7 +30,6 @@ DECL|function|TestDelegate
 DECL|function|batchedMode
 DECL|function|buttonClicked
 DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|clickOnViewportClearsSelection
 DECL|function|clicked
 DECL|function|columnCount
@@ -50,7 +49,6 @@ DECL|function|hideFirstRow
 DECL|function|hideRows
 DECL|function|horizontalScrollingByVerticalWheelEvents
 DECL|function|indexAt
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|isEditable
 DECL|function|keyboardSearch
@@ -112,11 +110,9 @@ DECL|function|taskQTBUG_7232_AllowUserToControlSingleStep
 DECL|function|taskQTBUG_9455_wrongScrollbarRanges
 DECL|function|testScrollToWithHidden
 DECL|function|testViewOptions
-DECL|function|tst_QListView
 DECL|function|viewOptions
 DECL|function|wordWrap
 DECL|function|~TempStyleSetter
-DECL|function|~tst_QListView
 DECL|member|colCount
 DECL|member|listView
 DECL|member|m_icon

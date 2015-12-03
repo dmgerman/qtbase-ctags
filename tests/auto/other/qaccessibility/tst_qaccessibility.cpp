@@ -67,7 +67,6 @@ DECL|function|treeTest
 DECL|function|tst_QAccessibility
 DECL|function|verifyChild
 DECL|function|verifyHierarchy
-DECL|function|~tst_QAccessibility
 DECL|macro|EXPECT
 DECL|macro|QSETCOMPARE
 DECL|macro|SPI_GETPLATFORMTYPE

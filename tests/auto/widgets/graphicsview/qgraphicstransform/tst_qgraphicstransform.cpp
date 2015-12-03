@@ -1,12 +1,8 @@
 DECL|class|tst_QGraphicsTransform
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|fuzzyCompare
 DECL|function|fuzzyCompare
 DECL|function|fuzzyCompareAsFloat
 DECL|function|fuzzyCompareNonZero
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|labelForTest
 DECL|function|rotation
 DECL|function|rotation3d

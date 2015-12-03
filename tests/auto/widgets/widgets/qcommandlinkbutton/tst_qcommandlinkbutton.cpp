@@ -1,6 +1,5 @@
 DECL|class|tst_QCommandLinkButton
 DECL|function|animateClick
-DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clicked
 DECL|function|defaultAndAutoDefault
@@ -23,8 +22,6 @@ DECL|function|setAutoRepeat
 DECL|function|setDown
 DECL|function|toggle
 DECL|function|toggled
-DECL|function|tst_QCommandLinkButton
-DECL|function|~tst_QCommandLinkButton
 DECL|member|click_count
 DECL|member|press_count
 DECL|member|release_count

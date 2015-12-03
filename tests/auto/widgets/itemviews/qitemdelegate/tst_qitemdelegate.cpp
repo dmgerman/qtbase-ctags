@@ -17,8 +17,6 @@ DECL|function|ChooseEditorDelegate
 DECL|function|QTBUG4435_keepSelectionOnCheck
 DECL|function|TestItemDelegate
 DECL|function|TestItemModel
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|columnCount
 DECL|function|comboBox
 DECL|function|createEditor
@@ -49,8 +47,6 @@ DECL|function|fastEdit
 DECL|function|font
 DECL|function|font_data
 DECL|function|getSetCheck
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|rect
 DECL|function|rect
 DECL|function|rect_data
@@ -65,11 +61,9 @@ DECL|function|testLineEditValidation_data
 DECL|function|textRectangle
 DECL|function|textRectangle
 DECL|function|textRectangle_data
-DECL|function|tst_QItemDelegate
 DECL|function|uintEdit
 DECL|function|~TestItemDelegate
 DECL|function|~TestItemModel
-DECL|function|~tst_QItemDelegate
 DECL|macro|Q_CHECK_PAINTEVENTS
 DECL|member|decorationPixmap
 DECL|member|decorationRect

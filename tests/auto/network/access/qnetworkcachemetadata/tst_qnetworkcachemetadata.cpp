@@ -1,11 +1,7 @@
 DECL|class|SubQNetworkCacheMetaData
 DECL|class|tst_QNetworkCacheMetaData
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|expirationDate
 DECL|function|expirationDate_data
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|isValid
 DECL|function|isValid_data
 DECL|function|lastModified

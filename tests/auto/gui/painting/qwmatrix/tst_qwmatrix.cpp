@@ -1,7 +1,5 @@
 DECL|class|tst_QWMatrix
 DECL|function|assignments
-DECL|function|cleanup
-DECL|function|init
 DECL|function|mapPolygon
 DECL|function|mapRect
 DECL|function|mapRect_data
@@ -11,6 +9,4 @@ DECL|function|mapping_data
 DECL|function|operator_star_qwmatrix
 DECL|function|scale
 DECL|function|translate
-DECL|function|tst_QWMatrix
-DECL|function|~tst_QWMatrix
 DECL|macro|M_PI

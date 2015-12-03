@@ -15,8 +15,6 @@ DECL|function|initTestCase_data
 DECL|function|newSocket
 DECL|function|onDemandRootCertLoadingMemberMethods
 DECL|function|proxyAuthenticationRequired
-DECL|function|tst_QSslSocket_onDemandCertificates_member
-DECL|function|~tst_QSslSocket_onDemandCertificates_member
 DECL|member|proxyAuthCalled
 DECL|member|socket
 DECL|typedef|QSslSocketPtr

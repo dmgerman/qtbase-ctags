@@ -29,7 +29,6 @@ DECL|function|blendOverFlow
 DECL|function|blendOverFlow_data
 DECL|function|checkCompositionMode
 DECL|function|childWidgetViewport
-DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clipBoundingRect
 DECL|function|clipRectSaveRestore
@@ -140,7 +139,6 @@ DECL|function|imageBlending_data
 DECL|function|imageCoordinateLimit
 DECL|function|imageScaling_task206785
 DECL|function|inactivePainter
-DECL|function|init
 DECL|function|initFrom
 DECL|function|inverseGradient
 DECL|function|largeImagePainting
@@ -199,7 +197,6 @@ DECL|function|verifyImage
 DECL|function|verifyOutlineFillConsistency
 DECL|function|zeroOpacity
 DECL|function|~FpExceptionChecker
-DECL|function|~tst_QPainter
 DECL|macro|FOR_EACH_NEIGHBOR_4
 DECL|macro|FOR_EACH_NEIGHBOR_4
 DECL|macro|FOR_EACH_NEIGHBOR_8

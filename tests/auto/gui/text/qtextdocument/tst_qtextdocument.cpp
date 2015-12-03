@@ -119,7 +119,6 @@ DECL|function|toHtml_data
 DECL|function|toPlainText
 DECL|function|tst_QTextDocument
 DECL|function|wordspacingHtmlExport
-DECL|function|~tst_QTextDocument
 DECL|macro|CREATE_DOC_AND_CURSOR
 DECL|member|calls
 DECL|member|cursor

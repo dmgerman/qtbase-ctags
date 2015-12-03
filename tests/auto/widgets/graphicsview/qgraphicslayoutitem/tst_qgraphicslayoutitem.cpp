@@ -1,15 +1,11 @@
 DECL|class|SubQGraphicsLayoutItem
 DECL|class|tst_QGraphicsLayoutItem
 DECL|function|SubQGraphicsLayoutItem
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|contentsRect
 DECL|function|effectiveSizeHint
 DECL|function|effectiveSizeHint_data
 DECL|function|geometry
 DECL|function|getContentsMargins
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|isLayout
 DECL|function|isLayout_data
 DECL|function|maximumSize

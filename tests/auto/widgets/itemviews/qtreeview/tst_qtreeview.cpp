@@ -38,8 +38,6 @@ DECL|function|alternatingRowColors
 DECL|function|bindView
 DECL|function|canFetchMore
 DECL|function|change
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|clicked
 DECL|function|columnAt
 DECL|function|columnCount
@@ -96,7 +94,6 @@ DECL|function|indexBelow
 DECL|function|indexRowSizeHint
 DECL|function|indexRowSizeHint
 DECL|function|indexWidget
-DECL|function|init
 DECL|function|init
 DECL|function|initStandardTreeModel
 DECL|function|initTestCase
@@ -198,11 +195,9 @@ DECL|function|taskQTBUG_8176_emitOnExpandAll
 DECL|function|taskQTBUG_9216_setSizeAndUniformRowHeightsWrongRepaint
 DECL|function|testInitialFocus
 DECL|function|timerTick
-DECL|function|tst_QTreeView
 DECL|function|viewOptions
 DECL|function|~EvilModel
 DECL|function|~Node
-DECL|function|~tst_QTreeView
 DECL|macro|CHECK_VISIBLE
 DECL|member|children
 DECL|member|cols

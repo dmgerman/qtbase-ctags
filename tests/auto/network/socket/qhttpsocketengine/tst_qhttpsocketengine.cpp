@@ -1,7 +1,6 @@
 DECL|class|MiniHttpServer
 DECL|class|tst_QHttpSocketEngine
 DECL|function|MiniHttpServer
-DECL|function|cleanup
 DECL|function|construction
 DECL|function|doAccept
 DECL|function|downloadBigFile
@@ -22,8 +21,6 @@ DECL|function|tcpSocketNonBlocking_closed
 DECL|function|tcpSocketNonBlocking_connected
 DECL|function|tcpSocketNonBlocking_hostFound
 DECL|function|tcpSocketNonBlocking_readyRead
-DECL|function|tst_QHttpSocketEngine
-DECL|function|~tst_QHttpSocketEngine
 DECL|member|bytesAvailable
 DECL|member|client
 DECL|member|dataToTransmit

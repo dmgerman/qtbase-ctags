@@ -5,12 +5,8 @@ DECL|function|DeleteTester
 DECL|function|MyGraphicsObject
 DECL|function|boundingRect
 DECL|function|boundingRect
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|deleted
 DECL|function|enabled
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|opacity
 DECL|function|paint
 DECL|function|paint

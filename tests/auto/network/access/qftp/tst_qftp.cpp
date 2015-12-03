@@ -64,7 +64,6 @@ DECL|function|renameInit
 DECL|function|rename_data
 DECL|function|stateChanged
 DECL|function|tst_QFtp
-DECL|function|~tst_QFtp
 DECL|macro|CURRENTCOMMAND_TEST
 DECL|member|args
 DECL|member|bytesAvailable_done

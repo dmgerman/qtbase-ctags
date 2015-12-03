@@ -5,12 +5,9 @@ DECL|function|SequentialFile
 DECL|function|SequentialFile_data
 DECL|function|canRead
 DECL|function|canRead_data
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|format
 DECL|function|imageCount
 DECL|function|imageCount_data
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|isSequential
 DECL|function|jumpToNextImage
@@ -21,7 +18,5 @@ DECL|function|nextImageDelay
 DECL|function|nextImageDelay_data
 DECL|function|pngCompression
 DECL|function|pngCompression_data
-DECL|function|tst_QIcoImageFormat
 DECL|function|~QSequentialFile
-DECL|function|~tst_QIcoImageFormat
 DECL|member|m_IconPath

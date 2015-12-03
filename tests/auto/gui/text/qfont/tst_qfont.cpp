@@ -1,12 +1,10 @@
 DECL|class|tst_QFont
-DECL|function|cleanup
 DECL|function|compare
 DECL|function|defaultFamily
 DECL|function|defaultFamily_data
 DECL|function|exactMatch
 DECL|function|getPlatformGenericFont
 DECL|function|getSetCheck
-DECL|function|init
 DECL|function|insertAndRemoveSubstitutions
 DECL|function|isCopyOf
 DECL|function|italicOblique
@@ -18,5 +16,3 @@ DECL|function|serialize
 DECL|function|serialize_data
 DECL|function|sharing
 DECL|function|styleName
-DECL|function|tst_QFont
-DECL|function|~tst_QFont

@@ -2,7 +2,6 @@ DECL|class|MyButton
 DECL|class|tst_QAbstractButton
 DECL|function|MyButton
 DECL|function|animateClick
-DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|init
 DECL|function|initTestCase
@@ -31,8 +30,6 @@ DECL|function|stopRepeatTimer
 DECL|function|timerEvent
 DECL|function|timerEventCount
 DECL|function|toggled
-DECL|function|tst_QAbstractButton
-DECL|function|~tst_QAbstractButton
 DECL|macro|REPEAT_DELAY
 DECL|member|click_count
 DECL|member|press_count

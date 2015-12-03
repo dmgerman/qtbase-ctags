@@ -13,8 +13,6 @@ DECL|function|alignment_data
 DECL|function|apply
 DECL|function|apply
 DECL|function|avoidRecursionInInsertItem
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|colSpan
 DECL|function|columnAlignment
 DECL|function|columnAlignment_data
@@ -44,7 +42,6 @@ DECL|function|hfw3
 DECL|function|hiddenItems
 DECL|function|horizontalSpacing
 DECL|function|horizontalSpacing_data
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|itemAt
 DECL|function|layoutDirection

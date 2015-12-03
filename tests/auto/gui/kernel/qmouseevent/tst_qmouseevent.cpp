@@ -5,14 +5,11 @@ DECL|function|checkMousePressEvent
 DECL|function|checkMousePressEvent_data
 DECL|function|checkMouseReleaseEvent
 DECL|function|checkMouseReleaseEvent_data
-DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|mousePressEvent
 DECL|function|mouseReleaseEvent
-DECL|function|tst_QMouseEvent
-DECL|function|~tst_QMouseEvent
 DECL|member|mousePressButton
 DECL|member|mousePressButtons
 DECL|member|mousePressEventRecieved

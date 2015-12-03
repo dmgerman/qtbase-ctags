@@ -3,7 +3,6 @@ DECL|class|MiniSocks5Server
 DECL|class|tst_QSocks5SocketEngine
 DECL|function|MiniSocks5ResponseHandler
 DECL|function|MiniSocks5Server
-DECL|function|cleanup
 DECL|function|closeNotification
 DECL|function|connectionNotification
 DECL|function|construction
@@ -35,10 +34,8 @@ DECL|function|tcpSocketNonBlocking_closed
 DECL|function|tcpSocketNonBlocking_connected
 DECL|function|tcpSocketNonBlocking_hostFound
 DECL|function|tcpSocketNonBlocking_readyRead
-DECL|function|tst_QSocks5SocketEngine
 DECL|function|udpTest
 DECL|function|writeNotification
-DECL|function|~tst_QSocks5SocketEngine
 DECL|macro|REPLY
 DECL|macro|REPLY
 DECL|member|autoResponseTime

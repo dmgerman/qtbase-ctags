@@ -109,7 +109,6 @@ DECL|function|timeSignalChecking_data
 DECL|function|timeSpec
 DECL|function|timeSpecBug
 DECL|function|timeSpec_data
-DECL|function|tst_QDateTimeEdit
 DECL|function|userKeyPress_Time
 DECL|function|userKeyPress_Time_data
 DECL|function|weirdCase
@@ -121,7 +120,6 @@ DECL|function|wrappingTime_data
 DECL|function|yyTest
 DECL|function|~RestoreLayoutDirectioner
 DECL|function|~RestoreLocaler
-DECL|function|~tst_QDateTimeEdit
 DECL|macro|SPI_GETPLATFORMTYPE
 DECL|macro|max
 DECL|macro|min

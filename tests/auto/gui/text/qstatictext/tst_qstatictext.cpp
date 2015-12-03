@@ -1,5 +1,5 @@
 DECL|class|tst_QStaticText
-DECL|function|cleanup
+DECL|function|blankSquare
 DECL|function|constructionAndDestruction
 DECL|function|copyConstructor
 DECL|function|drawOverlinedText
@@ -9,8 +9,6 @@ DECL|function|drawToPoint_data
 DECL|function|drawToRect
 DECL|function|drawToRect_data
 DECL|function|drawUnderlinedText
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|plainTextVsRichText
 DECL|function|prepareToCorrectData
 DECL|function|prepareToWrongData

@@ -9,7 +9,3 @@ DECL|function|bidiInvalidCursorNoMovement
 DECL|function|bidiInvalidCursorNoMovement_data
 DECL|function|bidiReorderString
 DECL|function|bidiReorderString_data
-DECL|function|cleanup
-DECL|function|init
-DECL|function|tst_QComplexText
-DECL|function|~tst_QComplexText

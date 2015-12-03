@@ -48,7 +48,6 @@ DECL|function|splitCells
 DECL|function|tableManager_removeCell
 DECL|function|tableManager_undo
 DECL|function|tableShrinking
-DECL|function|tst_QTextTable
 DECL|function|type
 DECL|function|updateState
 DECL|function|variousModifications2

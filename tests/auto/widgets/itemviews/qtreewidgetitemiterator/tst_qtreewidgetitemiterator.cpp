@@ -1,9 +1,7 @@
 DECL|class|tst_QTreeWidgetItemIterator
-DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|constructIteratorWithItem
 DECL|function|constructIteratorWithItem_data
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|initializeIterator
 DECL|function|iteratorflags
@@ -23,5 +21,4 @@ DECL|function|updateIfModifiedFromWidget
 DECL|function|updateIfModifiedFromWidget_data
 DECL|function|updateIteratorAfterDeletedItem_and_ContinueIteration
 DECL|function|updateIteratorAfterDeletedItem_and_ContinueIteration_data
-DECL|function|~tst_QTreeWidgetItemIterator
 DECL|member|testWidget

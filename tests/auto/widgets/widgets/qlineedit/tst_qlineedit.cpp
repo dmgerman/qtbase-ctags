@@ -168,7 +168,6 @@ DECL|function|upperAndLowercase
 DECL|function|validate
 DECL|function|validate
 DECL|function|validateOnFocusOut
-DECL|function|~tst_QLineEdit
 DECL|macro|NORMAL
 DECL|macro|NO_PIXMAP_TESTS
 DECL|macro|REPLACE_UNTIL_END

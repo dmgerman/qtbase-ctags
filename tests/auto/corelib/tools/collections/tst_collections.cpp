@@ -19,7 +19,6 @@ DECL|function|alignment
 DECL|function|bitArray
 DECL|function|byteArray
 DECL|function|cache
-DECL|function|cleanup
 DECL|function|constAndNonConstStlIterators
 DECL|function|containerInstantiation
 DECL|function|containerTypedefs
@@ -30,7 +29,6 @@ DECL|function|foreach_test_arrays
 DECL|function|forwardDeclared
 DECL|function|getList
 DECL|function|hash
-DECL|function|init
 DECL|function|insert
 DECL|function|insert
 DECL|function|insert_remove_loop
@@ -91,7 +89,6 @@ DECL|function|testMapLikeStlIterators
 DECL|function|testPairAssociativeContainerTypedefs
 DECL|function|testSetContainerTypedefs
 DECL|function|testVectorAlignment
-DECL|function|tst_Collections
 DECL|function|typeinfo
 DECL|function|vector
 DECL|function|vector_stl
@@ -102,7 +99,6 @@ DECL|function|~Movable
 DECL|function|~QTBUG13079_Node
 DECL|function|~QTBUG13079_NodeAssoc
 DECL|function|~QTBUG13079_NodePtr
-DECL|function|~tst_Collections
 DECL|macro|QVERIFY_TYPE
 DECL|macro|STUFF
 DECL|macro|STUFF

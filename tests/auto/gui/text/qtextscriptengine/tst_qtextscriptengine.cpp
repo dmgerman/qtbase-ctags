@@ -1,7 +1,6 @@
 DECL|class|tst_QTextScriptEngine
 DECL|function|bengali
 DECL|function|bengali_data
-DECL|function|cleanup
 DECL|function|combiningMarks_qtbug15675
 DECL|function|combiningMarks_qtbug15675_data
 DECL|function|controlInSyllable_qtbug14204
@@ -12,7 +11,6 @@ DECL|function|greek
 DECL|function|greek_data
 DECL|function|gurmukhi
 DECL|function|gurmukhi_data
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|kannada
 DECL|function|kannada_data
@@ -37,7 +35,6 @@ DECL|function|thaiIsolatedSaraAm
 DECL|function|thaiMultipleVowels
 DECL|function|thaiWithZWJ
 DECL|function|tst_QTextScriptEngine
-DECL|function|~tst_QTextScriptEngine
 DECL|member|glyphs
 DECL|member|haveTestFonts
 DECL|member|unicode

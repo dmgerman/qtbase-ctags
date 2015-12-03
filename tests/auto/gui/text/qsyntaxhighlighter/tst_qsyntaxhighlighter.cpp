@@ -39,7 +39,6 @@ DECL|function|setCharFormat
 DECL|function|stopHighlightingWhenStateDoesNotChange
 DECL|function|task108530
 DECL|function|textEditParent
-DECL|function|tst_QSyntaxHighlighter
 DECL|function|unindent
 DECL|member|callCount
 DECL|member|cursor

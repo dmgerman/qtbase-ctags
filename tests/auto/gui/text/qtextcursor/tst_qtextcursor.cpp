@@ -69,7 +69,6 @@ DECL|function|startOfWord
 DECL|function|tableMovement
 DECL|function|task244408_wordUnderCursor
 DECL|function|task244408_wordUnderCursor_data
-DECL|function|tst_QTextCursor
 DECL|function|update
 DECL|function|update_data
 DECL|member|cursor

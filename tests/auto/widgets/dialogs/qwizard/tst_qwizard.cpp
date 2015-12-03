@@ -58,7 +58,6 @@ DECL|function|disableVerticalExpansion
 DECL|function|enableVerticalExpansion
 DECL|function|grabWidget
 DECL|function|hideEvent
-DECL|function|init
 DECL|function|initializePage
 DECL|function|initializePage
 DECL|function|instance

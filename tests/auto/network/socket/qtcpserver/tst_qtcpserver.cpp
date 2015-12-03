@@ -41,10 +41,8 @@ DECL|function|serverAddress
 DECL|function|serverAddress_data
 DECL|function|setNewSocketDescriptorBlocking
 DECL|function|setSocketDescriptor
-DECL|function|tst_QTcpServer
 DECL|function|waitForConnectionTest
 DECL|function|~ThreadConnector
-DECL|function|~tst_QTcpServer
 DECL|macro|INVALID_SOCKET
 DECL|macro|NOMINMAX
 DECL|macro|SOCKET

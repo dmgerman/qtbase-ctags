@@ -71,8 +71,6 @@ DECL|function|call_showEvent
 DECL|function|call_sizeHint
 DECL|function|call_updateGeometry
 DECL|function|call_windowFrameSectionAt
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|closePopupOnOutsideClick
 DECL|function|compareFocusChain
@@ -117,11 +115,9 @@ DECL|function|getContentsMargins
 DECL|function|getContentsMargins_data
 DECL|function|height
 DECL|function|implicitMouseGrabber
-DECL|function|init
 DECL|function|initStyleOption
 DECL|function|initStyleOption
 DECL|function|initStyleOption_data
-DECL|function|initTestCase
 DECL|function|initialShow
 DECL|function|initialShow2
 DECL|function|itemChange

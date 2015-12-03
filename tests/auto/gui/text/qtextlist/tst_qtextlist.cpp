@@ -19,7 +19,6 @@ DECL|function|numbering_data
 DECL|function|partialRemoval
 DECL|function|romanNumbering
 DECL|function|romanNumberingLimit
-DECL|function|tst_QTextList
 DECL|member|cursor
 DECL|member|doc
 DECL|member|layout

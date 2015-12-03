@@ -32,8 +32,6 @@ DECL|function|canFetchMore
 DECL|function|changeHeaderData
 DECL|function|checkHeaderMinSize
 DECL|function|checkHeaderReset
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|columnAt
 DECL|function|columnAt_data
 DECL|function|columnCount
@@ -72,7 +70,6 @@ DECL|function|hideRows
 DECL|function|hideRows_data
 DECL|function|indexAt
 DECL|function|indexAt_data
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|insertColumns
 DECL|function|insertRows
@@ -169,7 +166,6 @@ DECL|function|taskQTBUG_7232_AllowUserToControlSingleStep
 DECL|function|taskQTBUG_7774_RtoLVisualRegionForSelection
 DECL|function|taskQTBUG_8585_crashForNoGoodReason
 DECL|function|taskQTBUG_8777_scrollToSpans
-DECL|function|tst_QTableView
 DECL|function|viewOptions
 DECL|function|viewOptions
 DECL|function|visualCursorIndex
@@ -178,7 +174,6 @@ DECL|function|visualRect_data
 DECL|function|visualRegionForSelection
 DECL|function|~TestTableView
 DECL|function|~ValueSaver
-DECL|function|~tst_QTableView
 DECL|macro|VERIFY_SPANS_CONSISTENCY
 DECL|macro|VERIFY_SPANS_CONSISTENCY
 DECL|member|can_fetch_more

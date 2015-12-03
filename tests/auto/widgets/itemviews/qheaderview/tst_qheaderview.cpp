@@ -148,7 +148,6 @@ DECL|function|visualIndexAt
 DECL|function|visualIndexAtTest
 DECL|function|visualIndexAtTest_data
 DECL|function|visualIndexAt_data
-DECL|function|~tst_QHeaderView
 DECL|member|cols
 DECL|member|horizontalSectionSize
 DECL|member|lastPosition

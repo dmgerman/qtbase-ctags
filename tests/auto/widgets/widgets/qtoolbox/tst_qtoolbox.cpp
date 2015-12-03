@@ -2,15 +2,11 @@ DECL|class|tst_QToolBox
 DECL|class|tst_QToolBoxPrivate
 DECL|function|change
 DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|currentChanged
 DECL|function|getSetCheck
 DECL|function|init
-DECL|function|initTestCase
 DECL|function|populate
-DECL|function|tst_QToolBox
-DECL|function|~tst_QToolBox
 DECL|member|ci0
 DECL|member|ci1
 DECL|member|ci2

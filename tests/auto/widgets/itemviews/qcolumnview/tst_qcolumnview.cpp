@@ -20,7 +20,6 @@ DECL|function|ScrollContentsBy
 DECL|function|TreeModel
 DECL|function|centerOnScreen
 DECL|function|changeSameColumn
-DECL|function|cleanup
 DECL|function|clicked
 DECL|function|createColumn
 DECL|function|doubleClick
@@ -63,7 +62,6 @@ DECL|function|swapPreview
 DECL|function|thirdLevel
 DECL|function|tst_QColumnView
 DECL|function|visualRegionForSelection
-DECL|function|~tst_QColumnView
 DECL|macro|ANIMATION_DELAY
 DECL|member|createdColumns
 DECL|member|m_fakeDirHomeIndex

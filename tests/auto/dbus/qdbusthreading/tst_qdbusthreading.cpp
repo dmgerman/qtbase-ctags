@@ -26,7 +26,6 @@ DECL|function|disconnectAnothersConnection
 DECL|function|disconnectAnothersConnection_thread
 DECL|function|dyingThread
 DECL|function|dyingThread_thread
-DECL|function|initTestCase
 DECL|function|joinThreads
 DECL|function|lastInstanceInOtherThread
 DECL|function|lastInstanceInOtherThread_thread

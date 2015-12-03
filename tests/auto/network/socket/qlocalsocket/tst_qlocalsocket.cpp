@@ -11,7 +11,6 @@ DECL|function|ProcessOutputDumper
 DECL|function|asyncDisconnectNotify
 DECL|function|bytesWritten
 DECL|function|bytesWrittenSignal
-DECL|function|cleanup
 DECL|function|clear
 DECL|function|connectWithOldOpen
 DECL|function|connectWithOpen
@@ -20,7 +19,6 @@ DECL|function|fullPath
 DECL|function|hitMaximumConnections
 DECL|function|hitMaximumConnections_data
 DECL|function|incomingConnection
-DECL|function|init
 DECL|function|listen
 DECL|function|listen
 DECL|function|listenAndConnect
@@ -52,6 +50,7 @@ DECL|function|socket_basic
 DECL|function|syncDisconnectNotify
 DECL|function|threadedConnection
 DECL|function|threadedConnection_data
+DECL|function|tst_QLocalSocket
 DECL|function|verifyListenWithDescriptor
 DECL|function|verifyListenWithDescriptor_data
 DECL|function|verifySocketOptions

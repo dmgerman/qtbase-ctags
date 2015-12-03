@@ -6,8 +6,6 @@ DECL|function|assignArrays
 DECL|function|assignObjects
 DECL|function|assignToDocument
 DECL|function|bom
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|compactArray
 DECL|function|compactObject
 DECL|function|constNullObject
@@ -18,7 +16,6 @@ DECL|function|fromVariant
 DECL|function|fromVariantHash
 DECL|function|fromVariantMap
 DECL|function|garbageAtEnd
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|keySorting
 DECL|function|longStrings
@@ -69,7 +66,6 @@ DECL|function|toJsonSillyNumericValues
 DECL|function|toVariantHash
 DECL|function|toVariantList
 DECL|function|toVariantMap
-DECL|function|tst_QtJson
 DECL|function|undefinedValues
 DECL|function|unicodeKeys
 DECL|function|validation

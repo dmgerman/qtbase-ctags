@@ -22,7 +22,6 @@ DECL|function|addItems
 DECL|function|changeDataWithSorting
 DECL|function|changeDataWithSorting_data
 DECL|function|checkDefaultValues
-DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|closeEditor
 DECL|function|closeEditor
@@ -90,7 +89,6 @@ DECL|function|task199503_crashWhenCleared
 DECL|function|task217070_scrollbarsAdjusted
 DECL|function|task258949_keypressHangup
 DECL|function|tst_QListWidget
-DECL|function|~tst_QListWidget
 DECL|member|painted
 DECL|member|rcFirst
 DECL|member|rcLast

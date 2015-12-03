@@ -3,7 +3,6 @@ DECL|class|TestTableWidget
 DECL|class|tst_QTableWidget
 DECL|function|TestTableWidget
 DECL|function|cellWidget
-DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|clearContents
@@ -43,7 +42,6 @@ DECL|function|task219380_removeLastRow
 DECL|function|task231094
 DECL|function|task262056_sortDuplicate
 DECL|function|tst_QTableWidget
-DECL|function|~tst_QTableWidget
 DECL|member|testWidget
 DECL|typedef|IntIntList
 DECL|typedef|IntList

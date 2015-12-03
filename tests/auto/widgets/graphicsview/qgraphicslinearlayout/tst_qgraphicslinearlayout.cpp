@@ -8,8 +8,6 @@ DECL|function|SubQGraphicsLinearLayout
 DECL|function|alignment
 DECL|function|alignment_data
 DECL|function|avoidRecursionInInsertItem
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|combineSizePolicies
 DECL|function|count
 DECL|function|count_data
@@ -21,7 +19,6 @@ DECL|function|dump_data
 DECL|function|geometry
 DECL|function|geometry_data
 DECL|function|hiddenItems
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|insertItem
 DECL|function|insertItem_data

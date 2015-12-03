@@ -21,8 +21,6 @@ DECL|function|setTriState
 DECL|function|stateChanged
 DECL|function|toggle
 DECL|function|toggled
-DECL|function|tst_QCheckBox
-DECL|function|~tst_QCheckBox
 DECL|member|click_count
 DECL|member|cur_state
 DECL|member|press_count

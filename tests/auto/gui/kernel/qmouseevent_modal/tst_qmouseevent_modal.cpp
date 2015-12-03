@@ -4,17 +4,13 @@ DECL|class|tst_qmouseevent_modal
 DECL|function|TstDialog
 DECL|function|TstWidget
 DECL|function|buttonPressed
-DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|closeDialog
 DECL|function|count
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|mousePressRelease
 DECL|function|releaseMouse
 DECL|function|showEvent
-DECL|function|tst_qmouseevent_modal
-DECL|function|~tst_qmouseevent_modal
 DECL|member|c
 DECL|member|d
 DECL|member|m

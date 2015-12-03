@@ -9,7 +9,6 @@ DECL|function|accessAfterRemoveReadyReadSlot
 DECL|function|cacheSize
 DECL|function|call_expire
 DECL|function|call_fileMetaData
-DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|countFiles
@@ -19,7 +18,6 @@ DECL|function|data_data
 DECL|function|doAccept
 DECL|function|expire
 DECL|function|fileMetaData
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|metaData
 DECL|function|oldCacheVersionFile

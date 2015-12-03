@@ -73,7 +73,6 @@ DECL|function|useCase1
 DECL|function|useCase2
 DECL|function|useCase3
 DECL|function|~CustomItem
-DECL|function|~tst_QStandardItemModel
 DECL|macro|VERIFY_MODEL
 DECL|member|m_model
 DECL|member|persistent

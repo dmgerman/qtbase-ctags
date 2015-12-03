@@ -35,7 +35,6 @@ DECL|function|tabShape
 DECL|function|tabText
 DECL|function|tabTooltip
 DECL|function|testChild
-DECL|function|tst_QTabWidget
 DECL|macro|LABEL
 DECL|macro|Q_CHECK_PAINTEVENTS
 DECL|macro|Q_CHECK_PAINTEVENTS

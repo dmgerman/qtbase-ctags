@@ -4,10 +4,6 @@ DECL|class|tst_ModelTest
 DECL|function|AccessibleProxyModel
 DECL|function|ObservingObject
 DECL|function|checkPersistent
-DECL|function|cleanup
-DECL|function|cleanupTestCase
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|moveSourceItems
 DECL|function|persistent
 DECL|function|standardItemModel
@@ -17,8 +13,6 @@ DECL|function|stringListModel
 DECL|function|testInsertThroughProxy
 DECL|function|testResetThroughProxy
 DECL|function|treeWidgetModel
-DECL|function|tst_ModelTest
-DECL|function|~tst_ModelTest
 DECL|member|checkPersistentFailureCount
 DECL|member|m_persistentProxyIndexes
 DECL|member|m_persistentSourceIndexes

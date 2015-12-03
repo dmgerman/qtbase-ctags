@@ -3,7 +3,6 @@ DECL|class|tst_QPixmapFilter
 DECL|enumerator|Type
 DECL|function|CustomFilter
 DECL|function|blurIndexed8
-DECL|function|cleanup
 DECL|function|colorizeDraw
 DECL|function|colorizeDrawStrength
 DECL|function|colorizeDrawSubRect
@@ -15,7 +14,4 @@ DECL|function|convolutionBoundingRectFor
 DECL|function|convolutionDrawSubRect
 DECL|function|draw
 DECL|function|dropShadowBoundingRectFor
-DECL|function|init
 DECL|function|testDefaultImplementations
-DECL|function|tst_QPixmapFilter
-DECL|function|~tst_QPixmapFilter

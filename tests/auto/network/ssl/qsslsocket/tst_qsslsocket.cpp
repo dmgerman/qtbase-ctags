@@ -145,7 +145,6 @@ DECL|function|wildcard
 DECL|function|wildcardCertificateNames
 DECL|function|writeBigChunk
 DECL|function|~ThreadedSslServer
-DECL|function|~tst_QSslSocket
 DECL|macro|FLUKE_CERTIFICATE_ERROR
 DECL|macro|FLUKE_CERTIFICATE_ERROR
 DECL|macro|QSSLSOCKET_CERTUNTRUSTED_WORKAROUND

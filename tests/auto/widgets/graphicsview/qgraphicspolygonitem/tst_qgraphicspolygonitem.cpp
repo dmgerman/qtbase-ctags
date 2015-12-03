@@ -9,16 +9,12 @@ DECL|function|boundingRect_data
 DECL|function|call_extension
 DECL|function|call_setExtension
 DECL|function|call_supportsExtension
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|contains
 DECL|function|contains_data
 DECL|function|extension
 DECL|function|extension_data
 DECL|function|fillRule
 DECL|function|fillRule_data
-DECL|function|init
-DECL|function|initTestCase
 DECL|function|isObscuredBy
 DECL|function|isObscuredBy_data
 DECL|function|opaqueArea

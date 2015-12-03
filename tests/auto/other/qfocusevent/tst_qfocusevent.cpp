@@ -12,12 +12,9 @@ DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|focusInEvent
 DECL|function|focusOutEvent
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|initWidget
 DECL|function|keyPressEvent
-DECL|function|tst_QFocusEvent
-DECL|function|~tst_QFocusEvent
 DECL|member|childFocusWidgetOne
 DECL|member|childFocusWidgetTwo
 DECL|member|focusInEventGotFocus

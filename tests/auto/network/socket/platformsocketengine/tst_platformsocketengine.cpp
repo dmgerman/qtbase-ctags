@@ -1,9 +1,7 @@
 DECL|class|tst_PlatformSocketEngine
 DECL|function|bind
 DECL|function|broadcastTest
-DECL|function|cleanup
 DECL|function|construction
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|invalidSend
 DECL|function|networkError
@@ -14,10 +12,8 @@ DECL|function|setSocketDescriptor
 DECL|function|simpleConnectToIMAP
 DECL|function|tcpLoopbackPerformance
 DECL|function|tooManySockets
-DECL|function|tst_PlatformSocketEngine
 DECL|function|udpIPv6LoopbackTest
 DECL|function|udpLoopbackPerformance
 DECL|function|udpLoopbackTest
-DECL|function|~tst_PlatformSocketEngine
 DECL|macro|PLATFORMSOCKETENGINE
 DECL|macro|PLATFORMSOCKETENGINESTRING

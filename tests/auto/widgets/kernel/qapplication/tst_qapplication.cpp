@@ -59,7 +59,6 @@ DECL|function|focusMouseClick
 DECL|function|focusOut
 DECL|function|focusOutEvent
 DECL|function|globalStaticObjectDestruction
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|isPathListIncluded
 DECL|function|lastWindowClosed
@@ -103,7 +102,6 @@ DECL|function|touchPointList
 DECL|function|tst_QApplication
 DECL|function|wheelScrollLines
 DECL|function|~SpontaneousEvent
-DECL|function|~tst_QApplication
 DECL|macro|QT_TST_QAPP_DEBUG
 DECL|member|acceptMouseEvent
 DECL|member|acceptTouchEvent

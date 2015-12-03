@@ -7,7 +7,6 @@ DECL|function|abortHostLookup
 DECL|function|blockingLookup
 DECL|function|blockingLookup_data
 DECL|function|cache
-DECL|function|cleanup
 DECL|function|getSetCheck
 DECL|function|init
 DECL|function|initTestCase
@@ -28,8 +27,6 @@ DECL|function|start
 DECL|function|staticInformation
 DECL|function|threadSafety
 DECL|function|threadSafetyAsynchronousAPI
-DECL|function|tst_QHostInfo
-DECL|function|~tst_QHostInfo
 DECL|macro|NOMINMAX
 DECL|macro|TEST_DOMAIN
 DECL|member|id

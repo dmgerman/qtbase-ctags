@@ -12,8 +12,6 @@ DECL|function|_connect_data
 DECL|function|_delete
 DECL|function|_delete_data
 DECL|function|challenge401
-DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|compression
 DECL|function|compression_data
 DECL|function|finishedReply
@@ -37,7 +35,6 @@ DECL|function|head
 DECL|function|head_data
 DECL|function|ignoresslerror
 DECL|function|ignoresslerror_data
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|nossl
 DECL|function|nossl_data
@@ -53,7 +50,6 @@ DECL|function|put_data
 DECL|function|sslErrors
 DECL|function|trace
 DECL|function|trace_data
-DECL|function|tst_QHttpNetworkConnection
 DECL|member|errorCodeReports
 DECL|member|finishedCalled
 DECL|member|finishedWithErrorCalled

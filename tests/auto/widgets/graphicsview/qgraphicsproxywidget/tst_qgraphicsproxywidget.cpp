@@ -52,7 +52,6 @@ DECL|function|checkMenu
 DECL|function|childPos
 DECL|function|childPos_data
 DECL|function|cleanup
-DECL|function|cleanupTestCase
 DECL|function|clickFocus
 DECL|function|comboboxWindowFlags
 DECL|function|contextMenuEvent
@@ -83,7 +82,6 @@ DECL|function|hoverEnterLeaveEvent
 DECL|function|hoverEnterLeaveEvent_data
 DECL|function|hoverMoveEvent
 DECL|function|hoverMoveEvent_data
-DECL|function|init
 DECL|function|initTestCase
 DECL|function|inputMethod
 DECL|function|keyPressEvent

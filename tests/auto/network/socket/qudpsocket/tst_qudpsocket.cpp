@@ -42,7 +42,6 @@ DECL|function|readyRead
 DECL|function|readyReadForEmptyDatagram
 DECL|function|setMulticastInterface
 DECL|function|setMulticastInterface_data
-DECL|function|tst_QUdpSocket
 DECL|function|unconnectedServerAndClientTest
 DECL|function|writeDatagram
 DECL|function|writeDatagramToNonExistingPeer
@@ -51,7 +50,6 @@ DECL|function|writeInHostLookupState
 DECL|function|writeToNonExistingPeer
 DECL|function|writeToNonExistingPeer_data
 DECL|function|zeroLengthDatagram
-DECL|function|~tst_QUdpSocket
 DECL|member|m_asyncReceiver
 DECL|member|m_asyncSender
 DECL|member|netConfMan

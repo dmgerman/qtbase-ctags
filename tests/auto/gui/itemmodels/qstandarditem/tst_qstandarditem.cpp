@@ -6,7 +6,6 @@ DECL|function|appendColumn
 DECL|function|appendColumn_data
 DECL|function|appendRow
 DECL|function|appendRow_data
-DECL|function|cleanup
 DECL|function|clone
 DECL|function|clone
 DECL|function|ctor
@@ -18,7 +17,6 @@ DECL|function|getSetData
 DECL|function|getSetFlags
 DECL|function|getSetRowAndColumnCount
 DECL|function|iconTextCtor
-DECL|function|init
 DECL|function|insertColumn
 DECL|function|insertColumn_data
 DECL|function|insertColumns
@@ -40,7 +38,5 @@ DECL|function|takeColumn_data
 DECL|function|takeRow
 DECL|function|takeRow_data
 DECL|function|textCtor
-DECL|function|tst_QStandardItem
 DECL|function|type
 DECL|function|~CustomItem
-DECL|function|~tst_QStandardItem
