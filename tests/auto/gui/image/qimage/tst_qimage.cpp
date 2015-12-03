@@ -62,6 +62,7 @@ DECL|function|mirrored_data
 DECL|function|nullSize
 DECL|function|nullSize_data
 DECL|function|paintEngine
+DECL|function|pixelColor
 DECL|function|pointOverloads
 DECL|function|premultipliedAlphaConsistency
 DECL|function|rand8
