@@ -1,0 +1,11 @@
+DECL|function|qt_poll
+DECL|function|qt_poll_examine_ready_read
+DECL|function|qt_poll_is_bad_fd
+DECL|function|qt_poll_mark_bad_fds
+DECL|function|qt_poll_prepare
+DECL|function|qt_poll_sweep
+DECL|macro|QT_POLL_ERROR_MASK
+DECL|macro|QT_POLL_EVENTS_MASK
+DECL|macro|QT_POLL_EXCEPT_MASK
+DECL|macro|QT_POLL_READ_MASK
+DECL|macro|QT_POLL_WRITE_MASK
