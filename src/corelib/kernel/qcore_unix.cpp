@@ -1,4 +1,5 @@
 DECL|function|millisecsToTimespec
+DECL|function|qt_poll_msecs
 DECL|function|qt_ppoll
 DECL|function|qt_safe_poll
 DECL|function|qt_safe_select
