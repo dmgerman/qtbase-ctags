@@ -23,6 +23,7 @@ DECL|function|backingStore
 DECL|function|baseSize
 DECL|function|boundingRect
 DECL|function|canKeypadNavigate
+DECL|function|canMapPosition
 DECL|function|changeEvent
 DECL|function|childAt
 DECL|function|childAtRecursiveHelper
@@ -54,6 +55,7 @@ DECL|function|createWinId
 DECL|function|create_sys
 DECL|function|cursor
 DECL|function|deactivateWidgetCleanup
+DECL|function|deleteBackingStore
 DECL|function|deleteExtra
 DECL|function|deleteSysExtra
 DECL|function|deleteTLSysExtra

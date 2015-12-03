@@ -1,11 +1,9 @@
 DECL|class|Widget
 DECL|class|tst_QLabel
-DECL|function|Widget
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|clear
 DECL|function|emptyPixmap
-DECL|function|event
 DECL|function|eventPropagation
 DECL|function|eventPropagation_data
 DECL|function|focusPolicy
@@ -24,11 +22,9 @@ DECL|function|sizeHint
 DECL|function|task190318_sizes
 DECL|function|task226479_movieResize
 DECL|function|taskQTBUG_7902_contextMenuCrash
-DECL|function|tst_QLabel
 DECL|function|unicodeText
 DECL|function|unicodeText_data
 DECL|function|wordWrap
-DECL|function|~tst_QLabel
 DECL|member|events
 DECL|member|testWidget
 DECL|member|test_box
