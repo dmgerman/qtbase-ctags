@@ -2,6 +2,11 @@ DECL|macro|QEVENTDISPATCHER_UNIX_P_H
 DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
 DECL|member|Q_DECL_NOTHROW
+DECL|member|fds
+DECL|member|len_name
+DECL|member|name
 DECL|member|notifiers
+DECL|member|wakeUps
+DECL|struct|QThreadPipe
 DECL|struct|Q_DECL_FINAL
 DECL|variable|QEventDispatcherUNIXPrivate
