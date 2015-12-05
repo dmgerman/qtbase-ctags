@@ -2,6 +2,7 @@ DECL|function|hideSoftwareKeyboard
 DECL|function|isSoftwareKeyboardVisible
 DECL|function|keyDown
 DECL|function|keyUp
+DECL|function|keyboardGeometryChanged
 DECL|function|keyboardVisibilityChanged
 DECL|function|longPress
 DECL|function|mapAndroidKey
@@ -12,6 +13,7 @@ DECL|function|mouseUp
 DECL|function|registerNatives
 DECL|function|resetSoftwareKeyboard
 DECL|function|showSoftwareKeyboard
+DECL|function|softwareKeyboardRect
 DECL|function|tabletEvent
 DECL|function|toString
 DECL|function|touchAdd
@@ -20,6 +22,7 @@ DECL|function|touchEnd
 DECL|function|updateSelection
 DECL|member|m_ignoreMouseEvents
 DECL|member|m_mouseGrabber
+DECL|member|m_softwareKeyboardRect
 DECL|member|m_softwareKeyboardVisible
 DECL|member|m_touchPoints
 DECL|member|methods
