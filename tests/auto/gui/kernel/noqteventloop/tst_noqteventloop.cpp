@@ -7,6 +7,7 @@ DECL|function|TestThread
 DECL|function|Window
 DECL|function|cleanup
 DECL|function|consumeMouseEvents
+DECL|function|consumeSocketEvents
 DECL|function|event
 DECL|function|initTestCase
 DECL|function|mouseClick
