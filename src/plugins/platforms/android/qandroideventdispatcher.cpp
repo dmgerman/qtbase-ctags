@@ -9,7 +9,6 @@ DECL|function|goingToStop
 DECL|function|instance
 DECL|function|processEvents
 DECL|function|removeEventDispatcher
-DECL|function|select
 DECL|function|start
 DECL|function|startAll
 DECL|function|stop
