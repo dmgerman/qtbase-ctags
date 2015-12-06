@@ -59,6 +59,8 @@ DECL|function|fileName
 DECL|function|fileName_data
 DECL|function|fromEncoded
 DECL|function|fromLocalFile
+DECL|function|fromLocalFileNormalize
+DECL|function|fromLocalFileNormalize_data
 DECL|function|fromLocalFile_data
 DECL|function|fromUserInput
 DECL|function|fromUserInputWithCwd
