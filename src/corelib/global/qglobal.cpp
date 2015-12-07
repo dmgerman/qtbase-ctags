@@ -4,6 +4,7 @@ DECL|function|activateCallbacks
 DECL|function|buildAbi
 DECL|function|buildCpuArchitecture
 DECL|function|currentCpuArchitecture
+DECL|function|determineWinOsVersion
 DECL|function|findUnixOsVersion
 DECL|function|fromstrerror_helper
 DECL|function|fromstrerror_helper
@@ -38,6 +39,7 @@ DECL|function|unknownText
 DECL|function|unquote
 DECL|function|unregisterCallback
 DECL|function|winOsVersion
+DECL|function|winSp_helper
 DECL|function|winVer_helper
 DECL|function|windowsVersion
 DECL|function|~QWindowsSockInit
