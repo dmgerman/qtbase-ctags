@@ -1,5 +1,11 @@
-DECL|function|qt_app_environment
-DECL|function|qt_fake__putenv_s
-DECL|function|qt_fake_getenv_s
+DECL|function|Variable
+DECL|function|Variable
 DECL|macro|QFUNCTIONS_FAKE_ENV_P_H
-DECL|variable|QByteArray
+DECL|member|Q_DECL_NOTHROW
+DECL|member|name
+DECL|member|name
+DECL|member|name
+DECL|member|value
+DECL|struct|NameEquals
+DECL|struct|Variable
+DECL|typedef|result_type
