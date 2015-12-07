@@ -45,6 +45,7 @@ DECL|function|task227930_correctNavigationKeyboardBehavior
 DECL|function|task228844_ensurePreviousSorting
 DECL|function|task233037_selectingDirectory
 DECL|function|task235069_hideOnEscape
+DECL|function|task235069_hideOnEscape_data
 DECL|function|task236402_dontWatchDeletedDir
 DECL|function|task239706_editableFilterCombo
 DECL|function|task251321_sideBarHiddenEntries
