@@ -1,4 +1,3 @@
-DECL|function|_q_clipboardChanged
 DECL|function|_q_deleteSelected
 DECL|function|addCommand
 DECL|function|advanceToEnabledItem
