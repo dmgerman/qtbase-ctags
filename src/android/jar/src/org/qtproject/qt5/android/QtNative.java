@@ -42,6 +42,7 @@ DECL|method|initializeAccessibility
 DECL|method|insertNativeView
 DECL|method|keyDown
 DECL|method|keyUp
+DECL|method|keyboardGeometryChanged
 DECL|method|keyboardVisibilityChanged
 DECL|method|loadBundledLibraries
 DECL|method|loadQtLibraries

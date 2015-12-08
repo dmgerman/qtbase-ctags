@@ -1,6 +1,5 @@
 DECL|function|CEPrivConvCharToWide
 DECL|function|lfind
-DECL|function|qt_app_environment
 DECL|function|qt_wince_CreateFileA
 DECL|function|qt_wince_GetThreadLocale
 DECL|function|qt_wince_SetErrorMode
@@ -18,7 +17,6 @@ DECL|function|qt_wince__getdrive
 DECL|function|qt_wince__getpid
 DECL|function|qt_wince__lseek
 DECL|function|qt_wince__mkdir
-DECL|function|qt_wince__putenv_s
 DECL|function|qt_wince__read
 DECL|function|qt_wince__remove
 DECL|function|qt_wince__rename
@@ -31,7 +29,6 @@ DECL|function|qt_wince_bsearch
 DECL|function|qt_wince_calloc
 DECL|function|qt_wince_fdopen
 DECL|function|qt_wince_ftToTime_t
-DECL|function|qt_wince_getenv_s
 DECL|function|qt_wince_open
 DECL|function|qt_wince_rewind
 DECL|function|qt_wince_stat
