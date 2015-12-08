@@ -31,6 +31,7 @@ DECL|function|lookupFile
 DECL|function|matchWhileUnsplitting
 DECL|function|mocable
 DECL|function|saveCache
+DECL|function|scanPastString
 DECL|function|setCacheFile
 DECL|function|setDependencyPaths
 DECL|function|skipEscapedLineEnds
@@ -40,6 +41,8 @@ DECL|function|~SourceDependChildren
 DECL|function|~SourceFile
 DECL|function|~SourceFileNode
 DECL|function|~SourceFiles
+DECL|macro|SKIP_BSNL
+DECL|macro|SKIP_BSNL
 DECL|macro|SKIP_BSNL
 DECL|macro|SKIP_BSNL
 DECL|macro|S_ISDIR
