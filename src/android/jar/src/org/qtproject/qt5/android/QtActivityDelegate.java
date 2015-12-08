@@ -83,10 +83,8 @@ DECL|method|debugLog
 DECL|method|destroySurface
 DECL|method|dispatchGenericMotionEvent
 DECL|method|dispatchKeyEvent
-DECL|method|getActionBar
 DECL|method|getAppIconSize
 DECL|method|getSurfaceCount
-DECL|method|hasPermanentMenuKey
 DECL|method|hideSoftwareKeyboard
 DECL|method|initializeAccessibility
 DECL|method|insertNativeView
