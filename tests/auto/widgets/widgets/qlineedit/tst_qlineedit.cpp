@@ -126,6 +126,8 @@ DECL|function|setText
 DECL|function|setValidator
 DECL|function|setValidator_QIntValidator
 DECL|function|setValidator_QIntValidator_data
+DECL|function|shortcutOverrideOnReadonlyLineEdit
+DECL|function|shortcutOverrideOnReadonlyLineEdit_data
 DECL|function|shouldShowPlaceholderText
 DECL|function|shouldShowPlaceholderText_data
 DECL|function|sideWidgetTestIcon
