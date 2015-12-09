@@ -45,6 +45,8 @@ DECL|macro|SKIP_BSNL
 DECL|macro|SKIP_BSNL
 DECL|macro|SKIP_BSNL
 DECL|macro|SKIP_BSNL
+DECL|macro|SKIP_BSNL
+DECL|macro|SKIP_BSNL
 DECL|macro|S_ISDIR
 DECL|macro|qmake_endOfLine
 DECL|member|children
