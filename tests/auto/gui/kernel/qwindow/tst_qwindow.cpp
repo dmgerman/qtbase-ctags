@@ -41,12 +41,15 @@ DECL|function|mouseReleaseEvent
 DECL|function|mouseToTouchLoop
 DECL|function|mouseToTouchTranslation
 DECL|function|msgPointMismatch
+DECL|function|msgRectMismatch
 DECL|function|orientation
 DECL|function|platformSurface
 DECL|function|positioning
 DECL|function|positioningDuringMinimized
 DECL|function|positioning_data
+DECL|function|qFuzzyCompareWindowGeometry
 DECL|function|qFuzzyCompareWindowPosition
+DECL|function|qFuzzyCompareWindowSize
 DECL|function|received
 DECL|function|requestUpdate
 DECL|function|reset
@@ -54,6 +57,8 @@ DECL|function|resetCounters
 DECL|function|resizeEventAfterResize
 DECL|function|setWindow
 DECL|function|sizes
+DECL|function|stateChange
+DECL|function|stateChange_data
 DECL|function|surfaceEventType
 DECL|function|surfaceExisted
 DECL|function|tabletEvent
@@ -104,3 +109,4 @@ DECL|member|touchEventType
 DECL|member|touchMovedCount
 DECL|member|touchPressedCount
 DECL|member|touchReleasedCount
+DECL|typedef|WindowStateList
