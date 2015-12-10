@@ -265,7 +265,6 @@ DECL|macro|BILINEAR_ROTATE_BOUNDS_PROLOG
 DECL|macro|FIXPT_BITS
 DECL|macro|FIXPT_SIZE
 DECL|macro|MASK
-DECL|macro|__ARM_NEON__
 DECL|macro|interpolate_4_pixels_16_neon
 DECL|macro|interpolate_4_pixels_16_sse2
 DECL|member|buffer
