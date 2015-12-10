@@ -16,6 +16,7 @@ DECL|function|cleanup
 DECL|function|cleanup
 DECL|function|cleanup
 DECL|function|clear
+DECL|function|decreaseCache
 DECL|function|decreaseCost
 DECL|function|defaultFamily
 DECL|function|detach
