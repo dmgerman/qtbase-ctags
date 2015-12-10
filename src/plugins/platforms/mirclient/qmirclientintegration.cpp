@@ -9,6 +9,7 @@ DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|createPlatformWindow
 DECL|function|hasCapability
+DECL|function|nativeInterface
 DECL|function|resumedCallback
 DECL|function|services
 DECL|function|setupDescription

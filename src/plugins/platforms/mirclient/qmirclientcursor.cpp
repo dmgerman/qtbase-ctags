@@ -1,0 +1,5 @@
+DECL|function|QMirClientCursor
+DECL|function|applyDefaultCursorConfiguration
+DECL|function|changeCursor
+DECL|function|configureMirCursorWithPixmapQCursor
+DECL|function|qtCursorShapeToStr
