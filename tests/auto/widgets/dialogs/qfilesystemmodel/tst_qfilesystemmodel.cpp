@@ -13,6 +13,7 @@ DECL|function|dirsBeforeFiles
 DECL|function|doNotUnwatchOnFailedRmdir
 DECL|function|drives
 DECL|function|drives_data
+DECL|function|fileListUnderIndex
 DECL|function|filters
 DECL|function|filters_data
 DECL|function|icon
@@ -41,6 +42,7 @@ DECL|function|setData_data
 DECL|function|sort
 DECL|function|sortPersistentIndex
 DECL|function|sort_data
+DECL|function|specialFiles
 DECL|function|tst_QFileSystemModel
 DECL|macro|TRY_WAIT
 DECL|macro|WAITTIME
