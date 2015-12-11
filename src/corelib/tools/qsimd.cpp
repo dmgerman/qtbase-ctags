@@ -4,6 +4,9 @@ DECL|function|ffsll
 DECL|function|qDetectCpuFeatures
 DECL|function|qDumpCPUFeatures
 DECL|macro|AT_HWCAP
+DECL|macro|AT_HWCAP2
+DECL|macro|HWCAP2_CRC32
+DECL|macro|HWCAP_CRC32
 DECL|macro|HWCAP_CRUNCH
 DECL|macro|HWCAP_NEON
 DECL|macro|HWCAP_THUMBEE
