@@ -18,6 +18,7 @@ DECL|function|dataIndex
 DECL|function|floatingPointNaN
 DECL|function|floatingPointPrecision
 DECL|function|getSetCheck
+DECL|function|initTestCase
 DECL|function|isSequential
 DECL|function|pos
 DECL|function|qBrushData
@@ -188,6 +189,8 @@ DECL|macro|TEST_FLOAT
 DECL|macro|TEST_WRITE_ERROR
 DECL|macro|TEST_qint
 DECL|member|m_lock
+DECL|member|m_previousCurrent
+DECL|member|m_tempDir
 DECL|member|offset
 DECL|typedef|Hash
 DECL|typedef|Map

@@ -32,5 +32,7 @@ DECL|member|blockSize
 DECL|member|fd_
 DECL|member|generatedBlocks
 DECL|member|largeFile
+DECL|member|m_previousCurrent
+DECL|member|m_tempDir
 DECL|member|maxSizeBits
 DECL|member|stream_

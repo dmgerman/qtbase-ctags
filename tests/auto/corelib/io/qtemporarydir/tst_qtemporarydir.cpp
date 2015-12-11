@@ -14,3 +14,4 @@ DECL|function|nonWritableCurrentDir
 DECL|function|openOnRootDrives
 DECL|function|rename
 DECL|function|stressTest
+DECL|member|m_previousCurrent

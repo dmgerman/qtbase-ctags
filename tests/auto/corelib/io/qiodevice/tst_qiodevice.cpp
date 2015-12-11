@@ -6,6 +6,7 @@ DECL|function|PeekBug
 DECL|function|RandomAccessBuffer
 DECL|function|SequentialReadBuffer
 DECL|function|buffer
+DECL|function|cleanupTestCase
 DECL|function|constructing_QFile
 DECL|function|constructing_QTcpSocket
 DECL|function|getSetCheck
@@ -27,4 +28,6 @@ DECL|member|alphabet
 DECL|member|buf
 DECL|member|buf
 DECL|member|counter
+DECL|member|m_previousCurrent
+DECL|member|m_tempDir
 DECL|member|offset
