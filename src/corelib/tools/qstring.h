@@ -33,14 +33,6 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
-DECL|function|operator
-DECL|function|operator
-DECL|function|operator
-DECL|function|operator
-DECL|function|operator
-DECL|function|operator
-DECL|function|operator
-DECL|function|operator
 DECL|function|reserve
 DECL|function|setCell
 DECL|function|setRow

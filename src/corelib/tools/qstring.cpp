@@ -32,10 +32,6 @@ DECL|function|arg
 DECL|function|arg
 DECL|function|asprintf
 DECL|function|chop
-DECL|function|compare
-DECL|function|compare
-DECL|function|compare_helper
-DECL|function|compare_helper
 DECL|function|compare_helper
 DECL|function|contains
 DECL|function|contains
@@ -124,17 +120,8 @@ DECL|function|number
 DECL|function|number
 DECL|function|number
 DECL|function|number
-DECL|function|operator <
-DECL|function|operator <
-DECL|function|operator <
 DECL|function|operator <<
 DECL|function|operator =
-DECL|function|operator ==
-DECL|function|operator ==
-DECL|function|operator ==
-DECL|function|operator ==
-DECL|function|operator ==
-DECL|function|operator >
 DECL|function|operator >>
 DECL|function|parseMultiArgFormatString
 DECL|function|parse_field_width
