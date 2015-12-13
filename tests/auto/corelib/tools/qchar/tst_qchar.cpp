@@ -25,6 +25,7 @@ DECL|function|normalization
 DECL|function|normalizationCorrections
 DECL|function|normalization_data
 DECL|function|normalization_manual
+DECL|function|operator_eqeq_int
 DECL|function|operators
 DECL|function|operators_data
 DECL|function|script
