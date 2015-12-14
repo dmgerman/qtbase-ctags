@@ -86,6 +86,8 @@ DECL|function|setExStyle
 DECL|function|setFrameStrutEventsEnabled
 DECL|function|setGeometry
 DECL|function|setGeometry_sys
+DECL|function|setHasBorderInFullScreen
+DECL|function|setHasBorderInFullScreenStatic
 DECL|function|setKeyboardGrabEnabled
 DECL|function|setMask
 DECL|function|setMouseGrabEnabled
