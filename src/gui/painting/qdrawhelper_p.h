@@ -46,6 +46,12 @@ DECL|function|comp_func_Plus_one_pixel
 DECL|function|comp_func_Plus_one_pixel_const_alpha
 DECL|function|interpolate_4_pixels
 DECL|function|interpolate_4_pixels
+DECL|function|interpolate_4_pixels
+DECL|function|interpolate_4_pixels
+DECL|function|interpolate_4_pixels
+DECL|function|interpolate_4_pixels
+DECL|function|interpolate_4_pixels_neon
+DECL|function|interpolate_4_pixels_sse2
 DECL|function|qAlphaRgb30
 DECL|function|qBlue565
 DECL|function|qConvertRgb16To32

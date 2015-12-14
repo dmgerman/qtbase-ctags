@@ -88,6 +88,7 @@ DECL|function|smoothScale
 DECL|function|smoothScale2
 DECL|function|smoothScale2_data
 DECL|function|smoothScale3
+DECL|function|smoothScale4
 DECL|function|smoothScaleAlpha
 DECL|function|smoothScaleBig
 DECL|function|smoothScaledSubImage
