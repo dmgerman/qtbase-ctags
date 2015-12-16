@@ -1,6 +1,7 @@
 DECL|function|QXcbIntegration
 DECL|function|accessibility
 DECL|function|argv0BaseName
+DECL|function|beep
 DECL|function|clipboard
 DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore

@@ -8,7 +8,6 @@ DECL|enumerator|ReleaseDCType
 DECL|enumerator|RenderingContextType
 DECL|enum|ResourceType
 DECL|function|asyncExpose
-DECL|function|beep
 DECL|function|createMessageWindow
 DECL|function|gpu
 DECL|function|logFontToQFont

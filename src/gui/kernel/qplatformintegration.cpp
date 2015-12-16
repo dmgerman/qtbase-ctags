@@ -1,4 +1,5 @@
 DECL|function|accessibility
+DECL|function|beep
 DECL|function|clipboard
 DECL|function|createImagePaintEngine
 DECL|function|createPlatformOffscreenSurface
