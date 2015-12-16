@@ -1,5 +1,3 @@
-DECL|class|QImageConversionsInitializer
-DECL|function|QImageConversionsInitializer
 DECL|function|QRgbMap
 DECL|function|convertRGB32FromARGB32PM
 DECL|function|convertRGB32ToARGB32PM
@@ -78,6 +76,6 @@ DECL|member|used
 DECL|struct|QRgbMap
 DECL|typedef|Rgb888ToRgbConverter
 DECL|variable|bitflip
-DECL|variable|qImageConversionsInitializer
+DECL|variable|qInitImageConversions
 DECL|variable|qimage_converter_map
 DECL|variable|qimage_inplace_converter_map

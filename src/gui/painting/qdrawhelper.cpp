@@ -1,6 +1,5 @@
 DECL|class|BlendSrcGeneric
 DECL|class|BlendSrcGenericRGB64
-DECL|class|DrawHelperInitializer
 DECL|class|GradientBase32
 DECL|class|GradientBase64
 DECL|class|RadialFetchPlain
@@ -16,7 +15,6 @@ DECL|enumerator|half_point
 DECL|enum|TextureBlendType
 DECL|function|BlendSrcGeneric
 DECL|function|BlendSrcGenericRGB64
-DECL|function|DrawHelperInitializer
 DECL|function|QBlendBase
 DECL|function|alphaShift
 DECL|function|alphaShift
@@ -283,7 +281,6 @@ DECL|variable|destFetchProc
 DECL|variable|destFetchProc64
 DECL|variable|destStoreProc
 DECL|variable|destStoreProc64
-DECL|variable|drawHelperInitializer
 DECL|variable|functionForMode
 DECL|variable|functionForMode64
 DECL|variable|functionForModeSolid
@@ -292,6 +289,7 @@ DECL|variable|processTextureSpans
 DECL|variable|qDrawHelper
 DECL|variable|qFetchPixel
 DECL|variable|qFetchPixels
+DECL|variable|qInitDrawhelperFunctions
 DECL|variable|qPixelLayouts
 DECL|variable|qStorePixels
 DECL|variable|qt_fetch_radial_gradient
