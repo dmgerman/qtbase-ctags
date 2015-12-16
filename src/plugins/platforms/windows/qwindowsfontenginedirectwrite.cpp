@@ -17,6 +17,7 @@ DECL|function|alphaMapForGlyph
 DECL|function|alphaMapForGlyph
 DECL|function|alphaRGBMapForGlyph
 DECL|function|ascent
+DECL|function|bitmapForGlyph
 DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|cloneWithSize
@@ -34,6 +35,7 @@ DECL|function|leading
 DECL|function|lineThickness
 DECL|function|maxCharWidth
 DECL|function|recalcAdvances
+DECL|function|renderGlyphRun
 DECL|function|stringToCMap
 DECL|function|supportsSubPixelPositions
 DECL|function|underlinePosition
