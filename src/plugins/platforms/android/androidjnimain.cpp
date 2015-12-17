@@ -71,12 +71,14 @@ DECL|variable|m_density
 DECL|variable|m_desktopHeightPixels
 DECL|variable|m_desktopWidthPixels
 DECL|variable|m_destroySurfaceMethodID
+DECL|variable|m_exitSemaphore
 DECL|variable|m_javaVM
 DECL|variable|m_loadClassMethodID
 DECL|variable|m_main
 DECL|variable|m_mainLibraryHnd
 DECL|variable|m_methodErrorMsg
 DECL|variable|m_pauseApplication
+DECL|variable|m_qtAppThread
 DECL|variable|m_qtTag
 DECL|variable|m_resourcesObj
 DECL|variable|m_scaledDensity
@@ -85,4 +87,5 @@ DECL|variable|m_statusBarShowing
 DECL|variable|m_surfaceId
 DECL|variable|m_surfaces
 DECL|variable|m_surfacesMutex
+DECL|variable|m_terminateSemaphore
 DECL|variable|methods
