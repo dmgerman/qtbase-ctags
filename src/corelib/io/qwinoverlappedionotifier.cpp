@@ -7,6 +7,7 @@ DECL|function|QWinIoCompletionPort
 DECL|function|QWinOverlappedIoNotifier
 DECL|function|QWinOverlappedIoNotifierPrivate
 DECL|function|_q_notified
+DECL|function|dispatchNextIoResult
 DECL|function|drainQueue
 DECL|function|handle
 DECL|function|notify
