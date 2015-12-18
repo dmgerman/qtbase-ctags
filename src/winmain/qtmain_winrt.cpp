@@ -15,6 +15,7 @@ DECL|member|commandLine
 DECL|member|core
 DECL|member|mainThread
 DECL|member|newmode
+DECL|member|pidFile
 DECL|typedef|ActivatedHandler
 DECL|typedef|_startupinfo
 DECL|variable|defaultMessageHandler

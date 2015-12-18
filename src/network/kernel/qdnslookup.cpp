@@ -68,3 +68,4 @@ DECL|function|~QDnsLookup
 DECL|function|~QDnsMailExchangeRecord
 DECL|function|~QDnsServiceRecord
 DECL|function|~QDnsTextRecord
+DECL|member|msgNoIpV6NameServerAdresses

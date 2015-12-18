@@ -1,4 +1,5 @@
 DECL|function|defaultFont
+DECL|function|fallbacksForFamily
 DECL|function|fontDir
 DECL|function|fontEngine
 DECL|function|fontsAlwaysScalable

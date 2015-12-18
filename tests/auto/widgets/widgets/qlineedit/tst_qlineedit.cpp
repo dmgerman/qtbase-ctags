@@ -60,6 +60,7 @@ DECL|function|figureOutProperKey
 DECL|function|findAssociatedWidget
 DECL|function|fixup
 DECL|function|fixup
+DECL|function|fixupDoesNotModify_QTBUG_49295
 DECL|function|frame
 DECL|function|frame_data
 DECL|function|getSetCheck

@@ -16,6 +16,7 @@ DECL|function|clientLeader
 DECL|function|compressEvent
 DECL|function|createScreen
 DECL|function|createVisualInfoForDefaultVisualId
+DECL|function|destroyScreen
 DECL|function|event
 DECL|function|findScreenForCrtc
 DECL|function|findScreenForOutput
@@ -63,6 +64,7 @@ DECL|function|translateMouseButton
 DECL|function|translateMouseButtons
 DECL|function|ungrabServer
 DECL|function|unlock
+DECL|function|updateScreen
 DECL|function|updateScreens
 DECL|function|virtualDesktopForRootWindow
 DECL|function|windowEventListenerFromId
