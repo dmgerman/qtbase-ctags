@@ -50,6 +50,7 @@ DECL|function|setStrength
 DECL|function|strength
 DECL|function|type
 DECL|function|~QPixmapBlurFilter
+DECL|function|~QPixmapColorizeFilter
 DECL|function|~QPixmapConvolutionFilter
 DECL|function|~QPixmapConvolutionFilterPrivate
 DECL|function|~QPixmapDropShadowFilter

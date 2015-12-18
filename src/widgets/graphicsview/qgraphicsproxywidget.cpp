@@ -53,3 +53,4 @@ DECL|function|updateWidgetGeometryFromProxy
 DECL|function|wheelEvent
 DECL|function|widget
 DECL|function|~QGraphicsProxyWidget
+DECL|function|~QGraphicsProxyWidgetPrivate
