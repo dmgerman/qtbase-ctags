@@ -10,6 +10,7 @@ DECL|function|fontEngine
 DECL|function|fontEngine
 DECL|function|fontKeys
 DECL|function|fontNameFromTTFile
+DECL|function|fontNamesFromTTCFile
 DECL|function|fontSettingsApplication
 DECL|function|fontSettingsGroup
 DECL|function|fontSettingsOrganization
@@ -28,9 +29,12 @@ DECL|member|fontSelector
 DECL|member|languageID
 DECL|member|length
 DECL|member|majorVersion
+DECL|member|majorVersion
+DECL|member|minorVersion
 DECL|member|minorVersion
 DECL|member|nameID
 DECL|member|nrCount
+DECL|member|numFonts
 DECL|member|numTables
 DECL|member|offset
 DECL|member|platformID
@@ -42,6 +46,7 @@ DECL|member|stringLength
 DECL|member|stringOffset
 DECL|member|systemDefaultFont
 DECL|member|tag
+DECL|member|tag
 DECL|struct|FontKey
 DECL|struct|PopulateFamiliesContext
 DECL|typedef|FontKeys
@@ -49,3 +54,4 @@ DECL|typedef|NAME_RECORD
 DECL|typedef|NAME_TABLE_HEADER
 DECL|typedef|OFFSET_TABLE
 DECL|typedef|TABLE_DIRECTORY
+DECL|typedef|TTC_TABLE_HEADER

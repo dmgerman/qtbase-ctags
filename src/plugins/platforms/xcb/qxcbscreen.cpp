@@ -7,6 +7,7 @@ DECL|function|depthOfVisual
 DECL|function|format
 DECL|function|formatRect
 DECL|function|formatSizeF
+DECL|function|getOutputName
 DECL|function|getWorkArea
 DECL|function|grabWindow
 DECL|function|handleScreenChange
@@ -20,6 +21,8 @@ DECL|function|pixelDensity
 DECL|function|readXResources
 DECL|function|screenAt
 DECL|function|sendStartupMessage
+DECL|function|setOutput
+DECL|function|setPrimaryScreen
 DECL|function|subscribeToXFixesSelectionNotify
 DECL|function|topLevelAt
 DECL|function|updateAvailableGeometry

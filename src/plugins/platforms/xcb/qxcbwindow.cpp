@@ -90,7 +90,6 @@ DECL|function|isTransient
 DECL|function|lower
 DECL|function|mapFromGlobal
 DECL|function|mapToGlobal
-DECL|function|maybeSetScreen
 DECL|function|needsSync
 DECL|function|netWmStates
 DECL|function|parentScreen

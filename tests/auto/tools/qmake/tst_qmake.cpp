@@ -16,6 +16,7 @@ DECL|function|proFileCache
 DECL|function|project
 DECL|function|prompt
 DECL|function|quotedfilenames
+DECL|function|rawString
 DECL|function|resources
 DECL|function|simple_app
 DECL|function|simple_app_shadowbuild

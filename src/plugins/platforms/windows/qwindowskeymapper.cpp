@@ -8,6 +8,7 @@ DECL|function|ToAscii
 DECL|function|ToUnicode
 DECL|function|asciiToKeycode
 DECL|function|changeKeyboard
+DECL|function|clearKeyRecorderOnApplicationInActive
 DECL|function|clearKeys
 DECL|function|deleteLayouts
 DECL|function|findKey
