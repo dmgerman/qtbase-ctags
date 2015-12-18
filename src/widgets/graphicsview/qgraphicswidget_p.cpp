@@ -1,3 +1,4 @@
+DECL|function|QGraphicsWidgetPrivate
 DECL|function|_q_boundGeometryToSizeConstraints
 DECL|function|adjustWindowFlags
 DECL|function|closestAcceptableSize

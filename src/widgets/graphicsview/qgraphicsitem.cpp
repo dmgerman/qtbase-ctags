@@ -18,6 +18,7 @@ DECL|function|QGraphicsEllipseItemPrivate
 DECL|function|QGraphicsItem
 DECL|function|QGraphicsItem
 DECL|function|QGraphicsItemGroup
+DECL|function|QGraphicsItemPrivate
 DECL|function|QGraphicsLineItem
 DECL|function|QGraphicsLineItem
 DECL|function|QGraphicsLineItem

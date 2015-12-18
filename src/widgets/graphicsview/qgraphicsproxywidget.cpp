@@ -1,4 +1,5 @@
 DECL|function|QGraphicsProxyWidget
+DECL|function|QGraphicsProxyWidgetPrivate
 DECL|function|_q_removeWidgetSlot
 DECL|function|contextMenuEvent
 DECL|function|createProxyForChildWidget
