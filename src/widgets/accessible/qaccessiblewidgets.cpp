@@ -1,3 +1,6 @@
+DECL|class|AttributeFormatter
+DECL|class|AttributeFormatterRef
+DECL|function|AttributeFormatterRef
 DECL|function|QAccessibleCalendarWidget
 DECL|function|QAccessibleDialogButtonBox
 DECL|function|QAccessibleDockWidget
@@ -49,6 +52,8 @@ DECL|function|mdiArea
 DECL|function|mdiSubWindow
 DECL|function|navigationBar
 DECL|function|offsetAtPoint
+DECL|function|operator =
+DECL|function|operator []
 DECL|function|plainTextEdit
 DECL|function|rect
 DECL|function|rect
@@ -88,6 +93,10 @@ DECL|function|textCursorForRange
 DECL|function|textDocument
 DECL|function|textDocument
 DECL|function|textEdit
+DECL|function|toFormatted
 DECL|function|toolBox
 DECL|function|viewport
 DECL|function|viewport
+DECL|member|key
+DECL|member|string
+DECL|member|string
