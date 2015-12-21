@@ -26,4 +26,5 @@ DECL|function|unregisterWindowsMime
 DECL|function|windowProperties
 DECL|function|windowProperty
 DECL|function|windowProperty
+DECL|member|m_windowActivationBehavior
 DECL|variable|customMarginPropertyC
