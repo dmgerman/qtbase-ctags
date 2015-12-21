@@ -15,10 +15,13 @@ DECL|function|adjustedControlRect
 DECL|function|clearButtonIcon
 DECL|function|cursorRect
 DECL|function|drag
+DECL|function|effectiveLeftTextMargin
+DECL|function|effectiveRightTextMargin
 DECL|function|findSideWidget
 DECL|function|iconSize
 DECL|function|inSelection
 DECL|function|init
+DECL|function|isSideWidgetVisible
 DECL|function|paintEvent
 DECL|function|positionSideWidgets
 DECL|function|removeAction

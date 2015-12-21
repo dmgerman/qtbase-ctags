@@ -1,4 +1,1 @@
-DECL|function|effectiveLeftTextMargin
-DECL|function|effectiveRightTextMargin
-DECL|function|isSideWidgetVisible
 DECL|macro|QLINEEDIT_P_H
