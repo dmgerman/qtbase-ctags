@@ -12,8 +12,6 @@ DECL|function|operator
 DECL|function|operator
 DECL|function|operator
 DECL|function|operator
-DECL|function|operator
-DECL|function|operator
 DECL|function|qdbus_cast
 DECL|macro|QDBUSARGUMENT_H
 DECL|variable|Container
