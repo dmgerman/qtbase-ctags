@@ -76,6 +76,7 @@ DECL|function|position
 DECL|function|position
 DECL|function|prepareItemsLayout
 DECL|function|rectForIndex
+DECL|function|removeCurrentAndDisabled
 DECL|function|removeHiddenRow
 DECL|function|removeHiddenRow
 DECL|function|reset
