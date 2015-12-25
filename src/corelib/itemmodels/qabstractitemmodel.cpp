@@ -2,6 +2,7 @@ DECL|class|QEmptyItemModel
 DECL|function|DefaultRoleNames
 DECL|function|QAbstractItemModel
 DECL|function|QAbstractItemModel
+DECL|function|QAbstractItemModelPrivate
 DECL|function|QAbstractListModel
 DECL|function|QAbstractListModel
 DECL|function|QAbstractTableModel
@@ -65,6 +66,8 @@ DECL|function|insertMultiAtEnd
 DECL|function|insertRows
 DECL|function|internalId
 DECL|function|internalPointer
+DECL|function|invalidatePersistentIndex
+DECL|function|invalidatePersistentIndexes
 DECL|function|isValid
 DECL|function|itemData
 DECL|function|itemsAboutToBeMoved
