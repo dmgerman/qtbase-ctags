@@ -22,8 +22,10 @@ DECL|macro|HAVE_PIPE2
 DECL|macro|HAVE_WAITID
 DECL|macro|HAVE_WAITID
 DECL|macro|_GNU_SOURCE
+DECL|macro|_NETBSD_SOURCE
 DECL|macro|_POSIX_C_SOURCE
 DECL|macro|_XOPEN_SOURCE
+DECL|macro|__BSD_VISIBLE
 DECL|macro|sizeofarray
 DECL|member|busyCount
 DECL|member|deathPipe
