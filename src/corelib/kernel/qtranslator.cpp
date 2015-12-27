@@ -27,6 +27,7 @@ DECL|function|find_translation
 DECL|function|getMessage
 DECL|function|isEmpty
 DECL|function|isValidNumerusRules
+DECL|function|is_readable_file
 DECL|function|load
 DECL|function|load
 DECL|function|load
