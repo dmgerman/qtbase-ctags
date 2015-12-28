@@ -6,8 +6,10 @@ DECL|macro|FFD_CONCAT
 DECL|macro|FORKFD_NO_FORKFD
 DECL|macro|FORKFD_NO_SPAWNFD
 DECL|macro|NDEBUG
+DECL|macro|_NETBSD_SOURCE
 DECL|macro|_POSIX_C_SOURCE
 DECL|macro|_XOPEN_SOURCE
+DECL|macro|__BSD_VISIBLE
 DECL|macro|ffd_atomic_add_fetch
 DECL|macro|ffd_atomic_compare_exchange
 DECL|macro|ffd_atomic_exchange
