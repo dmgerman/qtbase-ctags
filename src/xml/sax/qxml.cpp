@@ -29,6 +29,7 @@ DECL|function|atEnd
 DECL|function|attributeDecl
 DECL|function|characters
 DECL|function|clear
+DECL|function|clear
 DECL|function|columnNumber
 DECL|function|comment
 DECL|function|contentHandler
