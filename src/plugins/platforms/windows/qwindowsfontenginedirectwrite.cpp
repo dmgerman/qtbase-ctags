@@ -33,6 +33,7 @@ DECL|function|leading
 DECL|function|lineThickness
 DECL|function|maxCharWidth
 DECL|function|recalcAdvances
+DECL|function|resolveGetUserDefaultLocaleName
 DECL|function|stringToCMap
 DECL|function|supportsSubPixelPositions
 DECL|function|underlinePosition
@@ -47,3 +48,4 @@ DECL|macro|_WIN32_WINNT
 DECL|member|m_path
 DECL|member|m_refCount
 DECL|member|m_startPoint
+DECL|typedef|GetUserDefaultLocaleNamePtr
