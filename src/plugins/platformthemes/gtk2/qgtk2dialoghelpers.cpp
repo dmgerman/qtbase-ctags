@@ -25,6 +25,7 @@ DECL|function|onAccepted
 DECL|function|onAccepted
 DECL|function|onColorChanged
 DECL|function|onCurrentFolderChanged
+DECL|function|onParentWindowDestroyed
 DECL|function|onResponse
 DECL|function|onSelectionChanged
 DECL|function|qt_fontFromString
