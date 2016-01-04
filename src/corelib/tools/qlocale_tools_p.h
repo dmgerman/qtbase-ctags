@@ -1,7 +1,10 @@
 DECL|enumerator|PMChopTrailingZeros
 DECL|enumerator|PMDecimalDigits
 DECL|enumerator|PMSignificantDigits
+DECL|enumerator|TrailingJunkAllowed
+DECL|enumerator|TrailingJunkProhibited
 DECL|enum|PrecisionMode
+DECL|enum|TrailingJunkMode
 DECL|function|isZero
 DECL|macro|NEEDS_VOLATILE
 DECL|macro|NEEDS_VOLATILE

@@ -49,6 +49,8 @@ DECL|function|standaloneDayName_data
 DECL|function|standaloneMonthName
 DECL|function|stringToDouble
 DECL|function|stringToDouble_data
+DECL|function|strtod
+DECL|function|strtod_data
 DECL|function|systemLocaleFormatNumber
 DECL|function|testInfAndNan
 DECL|function|testNames
