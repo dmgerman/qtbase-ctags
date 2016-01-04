@@ -100,6 +100,8 @@ DECL|function|unknownGesture
 DECL|function|unregisterRecognizer
 DECL|function|updated
 DECL|function|viewportCoordinates
+DECL|function|waitForWindowExposed
+DECL|function|waitForWindowExposed
 DECL|function|~GestureItem
 DECL|function|~tst_Gestures
 DECL|member|ConsumeEvents
