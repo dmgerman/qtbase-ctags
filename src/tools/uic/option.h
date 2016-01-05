@@ -12,6 +12,7 @@ DECL|member|generateImplemetation
 DECL|member|generateNamespace
 DECL|member|generator
 DECL|member|headerProtection
+DECL|member|idBased
 DECL|member|implicitIncludes
 DECL|member|includeFile
 DECL|member|indent
