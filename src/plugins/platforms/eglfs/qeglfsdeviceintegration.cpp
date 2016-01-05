@@ -10,7 +10,6 @@ DECL|function|filterConfig
 DECL|function|framebufferIndex
 DECL|function|hasCapability
 DECL|function|keys
-DECL|function|loadIntegration
 DECL|function|logicalDpi
 DECL|function|nativeOrientation
 DECL|function|orientation
