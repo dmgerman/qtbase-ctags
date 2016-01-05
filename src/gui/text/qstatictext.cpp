@@ -22,7 +22,6 @@ DECL|function|performanceHint
 DECL|function|positions
 DECL|function|positions
 DECL|function|prepare
-DECL|function|setFontEngine
 DECL|function|setPerformanceHint
 DECL|function|setText
 DECL|function|setTextFormat
@@ -35,7 +34,6 @@ DECL|function|textOption
 DECL|function|textWidth
 DECL|function|~DrawTextItemDevice
 DECL|function|~QStaticText
-DECL|function|~QStaticTextItem
 DECL|function|~QStaticTextPrivate
 DECL|function|~QStaticTextUserData
 DECL|member|m_currentColor
