@@ -1,0 +1,5 @@
+DECL|macro|QIOSTEXTEDITOVERLAY_H
+DECL|variable|QIOSCursorRecognizer
+DECL|variable|QIOSEditMenu
+DECL|variable|QIOSSelectionRecognizer
+DECL|variable|QIOSTapRecognizer
