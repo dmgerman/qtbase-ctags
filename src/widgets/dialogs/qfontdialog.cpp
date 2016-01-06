@@ -1,6 +1,7 @@
 DECL|class|QFontListView
 DECL|function|QFontDialog
 DECL|function|QFontDialog
+DECL|function|QFontDialogPrivate
 DECL|function|QFontListView
 DECL|function|_q_familyHighlighted
 DECL|function|_q_sizeChanged
@@ -39,4 +40,5 @@ DECL|function|updateSampleFont
 DECL|function|updateSizes
 DECL|function|updateStyles
 DECL|function|~QFontDialog
+DECL|function|~QFontDialogPrivate
 DECL|variable|DefaultWindowFlags
