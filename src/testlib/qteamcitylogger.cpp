@@ -1,0 +1,15 @@
+DECL|function|QTeamCityLogger
+DECL|function|addBenchmarkResult
+DECL|function|addIncident
+DECL|function|addMessage
+DECL|function|addPendingMessage
+DECL|function|enterTestFunction
+DECL|function|escapedTestFuncName
+DECL|function|incidentType2String
+DECL|function|leaveTestFunction
+DECL|function|messageType2String
+DECL|function|startLogging
+DECL|function|stopLogging
+DECL|function|tcEscapedString
+DECL|function|~QTeamCityLogger
+DECL|namespace|QTest
