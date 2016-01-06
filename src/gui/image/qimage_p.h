@@ -1,3 +1,5 @@
+DECL|function|qt_alphaVersion
+DECL|function|qt_alphaVersionForPainting
 DECL|function|qt_depthForFormat
 DECL|macro|QIMAGE_P_H
 DECL|member|QString
