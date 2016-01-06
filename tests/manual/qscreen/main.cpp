@@ -1,5 +1,7 @@
+DECL|class|MouseMonitor
 DECL|class|ScreenPropertyWatcher
 DECL|class|ScreenWatcherMainWindow
+DECL|function|MouseMonitor
 DECL|function|ScreenPropertyWatcher
 DECL|function|ScreenWatcherMainWindow
 DECL|function|event
@@ -10,8 +12,12 @@ DECL|function|screenRemoved
 DECL|function|screenSubject
 DECL|function|screenSubject
 DECL|function|setScreenSubject
+DECL|function|startMouseMonitor
 DECL|function|updateSiblings
+DECL|function|updateText
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|m_annotation
+DECL|member|m_cursorPos
+DECL|member|m_grabbed
 DECL|member|m_watcher
 DECL|variable|i
