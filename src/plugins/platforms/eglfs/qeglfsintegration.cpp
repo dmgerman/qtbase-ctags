@@ -14,6 +14,7 @@ DECL|function|createInputHandlers
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOffscreenSurface
 DECL|function|createPlatformOpenGLContext
+DECL|function|createPlatformTheme
 DECL|function|createPlatformWindow
 DECL|function|destroy
 DECL|function|eglContextForContext
