@@ -19,7 +19,6 @@ DECL|function|reject
 DECL|function|setVisible
 DECL|function|showAsTool
 DECL|function|showExtension
-DECL|function|showExtension
 DECL|function|showExtension_data
 DECL|function|showFullScreen
 DECL|function|showMaximized
