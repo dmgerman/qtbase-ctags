@@ -1,4 +1,6 @@
+DECL|class|TextureBinder
 DECL|function|QOpenGLTextureHelper
+DECL|function|TextureBinder
 DECL|function|dsa_CompressedTextureImage1D
 DECL|function|dsa_CompressedTextureImage2D
 DECL|function|dsa_CompressedTextureImage3D
@@ -47,3 +49,7 @@ DECL|function|qt_TextureStorage3DMultisample
 DECL|function|qt_TextureSubImage1D
 DECL|function|qt_TextureSubImage2D
 DECL|function|qt_TextureSubImage3D
+DECL|function|~TextureBinder
+DECL|member|m_oldTexture
+DECL|member|m_target
+DECL|member|m_textureFunctions

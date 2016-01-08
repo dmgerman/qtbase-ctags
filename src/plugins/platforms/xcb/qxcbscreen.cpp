@@ -23,6 +23,7 @@ DECL|function|screenAt
 DECL|function|sendStartupMessage
 DECL|function|setOutput
 DECL|function|setPrimaryScreen
+DECL|function|sizeInMillimeters
 DECL|function|subscribeToXFixesSelectionNotify
 DECL|function|topLevelAt
 DECL|function|updateAvailableGeometry

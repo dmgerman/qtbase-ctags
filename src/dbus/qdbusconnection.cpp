@@ -1,3 +1,4 @@
+DECL|class|QDBusConnectionDispatchEnabler
 DECL|enumerator|ConnectToBusByAddress
 DECL|enumerator|ConnectToPeerByAddress
 DECL|enumerator|ConnectToStandardBus
@@ -5,6 +6,7 @@ DECL|enum|RequestType
 DECL|function|QDBusConnection
 DECL|function|QDBusConnection
 DECL|function|QDBusConnection
+DECL|function|QDBusConnectionDispatchEnabler
 DECL|function|QDBusConnectionManager
 DECL|function|asyncCall
 DECL|function|baseService
@@ -30,6 +32,7 @@ DECL|function|disconnect
 DECL|function|disconnect
 DECL|function|disconnectFromBus
 DECL|function|disconnectFromPeer
+DECL|function|execute
 DECL|function|executeConnectionRequest
 DECL|function|instance
 DECL|function|interface
@@ -58,7 +61,9 @@ DECL|function|~QDBusConnection
 DECL|function|~QDBusConnectionManager
 DECL|member|busAddress
 DECL|member|busType
+DECL|member|con
 DECL|member|name
 DECL|member|result
+DECL|member|suspendedDelivery
 DECL|member|type
 DECL|struct|ConnectionRequestData

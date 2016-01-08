@@ -68,6 +68,7 @@ DECL|function|sendWithReplyAsync
 DECL|function|sendWithReplyLocal
 DECL|function|serviceOwnerChangedNoLock
 DECL|function|setConnection
+DECL|function|setDispatchEnabled
 DECL|function|setPeer
 DECL|function|setServer
 DECL|function|shouldWatchService

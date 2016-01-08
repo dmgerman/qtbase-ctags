@@ -20,6 +20,7 @@ DECL|function|newData
 DECL|function|operator ()
 DECL|function|testData
 DECL|function|~QTestTable
+DECL|function|~QTestTablePrivate
 DECL|member|currentTestTable
 DECL|member|currentTestTable
 DECL|member|dataList

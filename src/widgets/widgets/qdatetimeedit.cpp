@@ -116,6 +116,7 @@ DECL|function|verifyCalendarInstance
 DECL|function|wheelEvent
 DECL|function|~QDateEdit
 DECL|function|~QDateTimeEdit
+DECL|function|~QDateTimeEditPrivate
 DECL|function|~QTimeEdit
 DECL|macro|QDTEDEBUG
 DECL|macro|QDTEDEBUG

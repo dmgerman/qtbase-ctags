@@ -45,6 +45,9 @@ DECL|function|sljit_grow_stack
 DECL|function|sljit_is_fpu_available
 DECL|function|sljit_set_const
 DECL|function|sljit_set_jump_addr
+DECL|function|sljit_x86_emit_cmov
+DECL|function|sljit_x86_is_cmov_available
+DECL|function|sljit_x86_is_sse2_available
 DECL|macro|ADC
 DECL|macro|ADC_EAX_i32
 DECL|macro|ADC_r_rm
