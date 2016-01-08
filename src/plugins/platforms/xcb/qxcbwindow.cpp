@@ -68,10 +68,12 @@ DECL|function|handleButtonReleaseEvent
 DECL|function|handleClientMessageEvent
 DECL|function|handleConfigureNotifyEvent
 DECL|function|handleEnterNotifyEvent
+DECL|function|handleEnterNotifyEvent
 DECL|function|handleExposeEvent
 DECL|function|handleFocusInEvent
 DECL|function|handleFocusOutEvent
 DECL|function|handleGenericEvent
+DECL|function|handleLeaveNotifyEvent
 DECL|function|handleLeaveNotifyEvent
 DECL|function|handleMapNotifyEvent
 DECL|function|handleMotionNotifyEvent
@@ -80,6 +82,7 @@ DECL|function|handleMouseEvent
 DECL|function|handlePropertyNotifyEvent
 DECL|function|handleUnmapNotifyEvent
 DECL|function|handleXEmbedMessage
+DECL|function|handleXIEnterLeave
 DECL|function|handleXIMouseEvent
 DECL|function|hide
 DECL|function|ignoreEnterEvent
