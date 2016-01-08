@@ -4,6 +4,7 @@ DECL|enumerator|defaultWindowHeight
 DECL|enumerator|defaultWindowWidth
 DECL|enum|Flags
 DECL|function|QWindowCreationContext
+DECL|function|QWindowsForeignWindow
 DECL|function|QWindowsGeometryHint
 DECL|function|QWindowsWindow
 DECL|function|RECTfromQRect
@@ -17,6 +18,7 @@ DECL|function|applyNewCursor
 DECL|function|applyToMinMaxInfo
 DECL|function|applyToMinMaxInfo
 DECL|function|applyWindowFlags
+DECL|function|baseWindowOf
 DECL|function|clientSize
 DECL|function|cornerToWinOrientation
 DECL|function|create
@@ -34,6 +36,7 @@ DECL|function|frame
 DECL|function|frameGeometry
 DECL|function|frameGeometry_sys
 DECL|function|frameMargins
+DECL|function|frameMargins_sys
 DECL|function|fromWindow
 DECL|function|geometry_sys
 DECL|function|getDC
@@ -46,6 +49,7 @@ DECL|function|handleGeometryChangingMessage
 DECL|function|handleHidden
 DECL|function|handleMoved
 DECL|function|handleNonClientHitTest
+DECL|function|handleOf
 DECL|function|handleResized
 DECL|function|handleWindowStateChange
 DECL|function|handleWmPaint
@@ -56,9 +60,13 @@ DECL|function|isActive
 DECL|function|isEmbedded
 DECL|function|isEnabled
 DECL|function|isFullScreen_sys
+DECL|function|isTopLevel
+DECL|function|isTopLevel_sys
 DECL|function|isVisible
-DECL|function|lower
+DECL|function|lower_sys
 DECL|function|mapFromGlobal
+DECL|function|mapFromGlobal
+DECL|function|mapToGlobal
 DECL|function|mapToGlobal
 DECL|function|normalFrameGeometry
 DECL|function|normalGeometry
@@ -73,7 +81,7 @@ DECL|function|propagateSizeHints
 DECL|function|qRegionToWinRegion
 DECL|function|qSizeOfRect
 DECL|function|qrectFromRECT
-DECL|function|raise
+DECL|function|raise_sys
 DECL|function|registerTouchWindow
 DECL|function|releaseDC
 DECL|function|requestActivateWindow
@@ -93,9 +101,11 @@ DECL|function|setMask
 DECL|function|setMouseGrabEnabled
 DECL|function|setOpacity
 DECL|function|setParent
+DECL|function|setParent
 DECL|function|setParent_sys
 DECL|function|setStyle
 DECL|function|setTouchWindowTouchTypeStatic
+DECL|function|setVisible
 DECL|function|setVisible
 DECL|function|setWindowFlags
 DECL|function|setWindowFlags_sys
@@ -105,6 +115,7 @@ DECL|function|setWindowOpacity
 DECL|function|setWindowState
 DECL|function|setWindowState_sys
 DECL|function|setWindowTitle
+DECL|function|setWindowTitle_sys
 DECL|function|shouldShowMaximizeButton
 DECL|function|show_sys
 DECL|function|startSystemResize
@@ -122,7 +133,6 @@ DECL|function|windowEvent
 DECL|function|windowIsOpenGL
 DECL|function|windowPlacementOffset
 DECL|function|~QWindowsWindow
-DECL|member|desktop
 DECL|member|dialog
 DECL|member|embedded
 DECL|member|exStyle

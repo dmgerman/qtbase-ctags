@@ -1,9 +1,7 @@
 DECL|function|QWindowsGeometryHint
 DECL|function|QWindowsWindowData
 DECL|function|applyToMinMaxInfo
-DECL|function|baseWindowOf
 DECL|function|destroyIcon
-DECL|function|handleOf
 DECL|function|isLayered
 DECL|function|mapFromGlobal
 DECL|function|mapFromGlobal
@@ -11,6 +9,7 @@ DECL|function|mapToGlobal
 DECL|function|mapToGlobal
 DECL|function|setUserDataOf
 DECL|function|userDataOf
+DECL|function|windowsWindowOf
 DECL|macro|QWINDOWSWINDOW_H
 DECL|member|customMargins
 DECL|member|customMargins
