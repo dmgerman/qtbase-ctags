@@ -1,4 +1,3 @@
-DECL|class|QXcbXSettingsCallback
 DECL|class|QXcbXSettingsPrivate
 DECL|class|QXcbXSettingsPropertyValue
 DECL|enumerator|XSettingsTypeColor
@@ -31,3 +30,4 @@ DECL|member|screen
 DECL|member|settings
 DECL|member|value
 DECL|member|x_settings_window
+DECL|struct|QXcbXSettingsCallback
