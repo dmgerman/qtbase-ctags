@@ -1,2 +1,4 @@
 DECL|function|bindSWToTexture
 DECL|function|lockAndBindToTexture
+DECL|macro|GL_RGB10_A2
+DECL|macro|GL_UNSIGNED_INT_2_10_10_10_REV
