@@ -37,6 +37,7 @@ DECL|member|clipRect
 DECL|member|flags
 DECL|member|locked
 DECL|member|needsSwizzle
+DECL|member|premultiplied
 DECL|member|rect
 DECL|member|source
 DECL|member|textureId
