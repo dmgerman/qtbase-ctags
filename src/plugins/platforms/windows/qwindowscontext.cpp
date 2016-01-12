@@ -30,6 +30,7 @@ DECL|function|keyGrabber
 DECL|function|mimeConverter
 DECL|function|platformSessionManager
 DECL|function|possibleKeys
+DECL|function|processDpiAwareness
 DECL|function|qWindowsWndProc
 DECL|function|registerWindowClass
 DECL|function|registerWindowClass

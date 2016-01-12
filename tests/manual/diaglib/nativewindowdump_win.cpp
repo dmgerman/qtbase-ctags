@@ -11,6 +11,7 @@ DECL|function|formatNativeWindow
 DECL|macro|WS_EX_NOREDIRECTIONBITMAP
 DECL|macro|debugWinStyle
 DECL|member|indentation
+DECL|member|parent
 DECL|member|stream
 DECL|namespace|QtDiag
 DECL|struct|DumpContext

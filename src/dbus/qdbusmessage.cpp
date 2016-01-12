@@ -27,10 +27,6 @@ DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|operator =
 DECL|function|path
-DECL|function|replySerial
-DECL|function|replySerial
-DECL|function|serial
-DECL|function|serial
 DECL|function|service
 DECL|function|setArguments
 DECL|function|setAutoStartService

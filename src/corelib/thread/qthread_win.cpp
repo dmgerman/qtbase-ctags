@@ -4,6 +4,10 @@ DECL|function|current
 DECL|function|finish
 DECL|function|init
 DECL|function|msleep
+DECL|function|qWinRTTlsAlloc
+DECL|function|qWinRTTlsFree
+DECL|function|qWinRTTlsGetValue
+DECL|function|qWinRTTlsSetValue
 DECL|function|qt_adopted_thread_watcher_function
 DECL|function|qt_create_tls
 DECL|function|qt_free_tls
@@ -18,6 +22,10 @@ DECL|function|terminate
 DECL|function|usleep
 DECL|function|wait
 DECL|function|yieldCurrentThread
+DECL|macro|TlsAlloc
+DECL|macro|TlsFree
+DECL|macro|TlsGetValue
+DECL|macro|TlsSetValue
 DECL|macro|ULONG_PTR
 DECL|macro|_MT
 DECL|macro|_WIN32_WINNT
