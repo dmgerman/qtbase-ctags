@@ -32,6 +32,7 @@ DECL|member|cameraButtons
 DECL|member|cameraTokens
 DECL|member|fontDatabase
 DECL|member|hardwareButtons
+DECL|member|hasHardwareButtons
 DECL|member|inputContext
 DECL|member|mainScreen
 DECL|member|platformServices
