@@ -27,6 +27,7 @@ DECL|function|bold
 DECL|function|createDatabase
 DECL|function|ensurePopulated
 DECL|function|fallbacksForFamily
+DECL|function|fallbacksForFamily
 DECL|function|families
 DECL|function|family
 DECL|function|familyList
