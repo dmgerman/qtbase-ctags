@@ -28,7 +28,6 @@ DECL|function|dropHelper
 DECL|function|handleDrag
 DECL|function|instance
 DECL|function|operator <<
-DECL|function|paintEvent
 DECL|function|releaseDropDataObject
 DECL|function|retrieveDataObject
 DECL|function|setPixmap
