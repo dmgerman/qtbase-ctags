@@ -9,9 +9,16 @@ DECL|function|QGnomeThemePrivate
 DECL|function|QKdeTheme
 DECL|function|QKdeThemePrivate
 DECL|function|ResourceHelper
+DECL|function|checkDBusGlobalMenuAvailable
 DECL|function|clear
 DECL|function|configureFonts
 DECL|function|createKdeTheme
+DECL|function|createPlatformMenu
+DECL|function|createPlatformMenu
+DECL|function|createPlatformMenu
+DECL|function|createPlatformMenuBar
+DECL|function|createPlatformMenuBar
+DECL|function|createPlatformMenuBar
 DECL|function|createPlatformSystemTrayIcon
 DECL|function|createPlatformSystemTrayIcon
 DECL|function|createPlatformSystemTrayIcon
@@ -20,6 +27,7 @@ DECL|function|font
 DECL|function|font
 DECL|function|font
 DECL|function|gtkFontName
+DECL|function|isDBusGlobalMenuAvailable
 DECL|function|isDBusTrayAvailable
 DECL|function|kdeColor
 DECL|function|kdeFont

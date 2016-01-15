@@ -1,0 +1,13 @@
+DECL|function|QDBusMenuBar
+DECL|function|handleReparent
+DECL|function|insertMenu
+DECL|function|menuForTag
+DECL|function|menuItemForMenu
+DECL|function|registerMenuBar
+DECL|function|removeMenu
+DECL|function|syncMenu
+DECL|function|unregisterMenuBar
+DECL|function|updateMenuItem
+DECL|function|~QDBusMenuBar
+DECL|macro|REGISTRAR_PATH
+DECL|macro|REGISTRAR_SERVICE

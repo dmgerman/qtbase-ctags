@@ -1,0 +1,2 @@
+DECL|function|QDBusMenuRegistrarInterface
+DECL|function|~QDBusMenuRegistrarInterface
