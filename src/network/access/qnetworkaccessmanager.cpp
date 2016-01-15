@@ -1,5 +1,7 @@
 DECL|function|QNetworkAccessManager
+DECL|function|_q_configurationChanged
 DECL|function|_q_networkSessionClosed
+DECL|function|_q_networkSessionFailed
 DECL|function|_q_networkSessionStateChanged
 DECL|function|_q_onlineStateChanged
 DECL|function|_q_replyEncrypted
