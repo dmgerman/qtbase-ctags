@@ -13,13 +13,14 @@ DECL|function|handlePause
 DECL|function|handleResume
 DECL|function|initJNI
 DECL|function|javaVM
-DECL|function|onAndroidUiThread
 DECL|function|registerActivityResultListener
 DECL|function|registerGenericMotionEventListener
 DECL|function|registerKeyEventListener
 DECL|function|registerNewIntentListener
 DECL|function|registerResumePauseListener
+DECL|function|runOnAndroidThread
 DECL|function|runOnUiThread
+DECL|function|runPendingCppRunnables
 DECL|function|setAndroidSdkVersion
 DECL|function|unregisterActivityResultListener
 DECL|function|unregisterGenericMotionEventListener
@@ -43,4 +44,4 @@ DECL|variable|g_jActivity
 DECL|variable|g_jClassLoader
 DECL|variable|g_jNativeClass
 DECL|variable|g_javaVM
-DECL|variable|g_runQtOnUiThreadMethodID
+DECL|variable|g_runPendingCppRunnablesMethodID
