@@ -4,6 +4,7 @@ DECL|function|doubleToAscii
 DECL|function|exponentForm
 DECL|function|qdtoa
 DECL|function|qlltoa
+DECL|function|qstrntod
 DECL|function|qstrtod
 DECL|function|qstrtoll
 DECL|function|qstrtoull
