@@ -17,6 +17,7 @@ DECL|function|ensureCiphersAndCertsLoaded
 DECL|function|ensureInitialized
 DECL|function|ensureLibraryLoaded
 DECL|function|fetchCaRootForCert
+DECL|function|fromStoreContext
 DECL|function|getErrorsFromOpenSsl
 DECL|function|globalLock
 DECL|function|id_function
