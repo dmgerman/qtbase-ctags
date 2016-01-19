@@ -387,10 +387,6 @@ DECL|macro|RESOLVE_FUNC
 DECL|macro|RESOLVE_FUNC_SPECIAL
 DECL|macro|RESOLVE_FUNC_SPECIAL_VOID
 DECL|macro|RESOLVE_FUNC_VOID
-DECL|macro|RESOLVE_FUNC_VOID_WITH_ALTERNATE
-DECL|macro|RESOLVE_FUNC_WITH_ALTERNATE
-DECL|member|alternateFuncName
-DECL|member|alternateFuncName
 DECL|member|fallbackFuncPointer
 DECL|member|fallbackFuncPointer
 DECL|member|funcName
