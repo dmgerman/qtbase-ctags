@@ -1,11 +1,15 @@
 DECL|enumerator|MedianSize
 DECL|enumerator|TargetRatio
 DECL|function|BlockSizeManager
+DECL|function|BlockSizeManagerV2
+DECL|function|blockSize
 DECL|function|blockSize
 DECL|function|elapsed
 DECL|function|getticks
 DECL|function|getticks
 DECL|function|getticks
 DECL|function|timeAfterUser
+DECL|function|timeAfterUser
+DECL|function|timeBeforeUser
 DECL|function|timeBeforeUser
 DECL|namespace|QtConcurrent
