@@ -31,6 +31,7 @@ DECL|function|multiGroupSharedResourceCleanup
 DECL|function|multiGroupSharedResourceCleanupCustom
 DECL|function|multiGroupSharedResourceCleanupCustom_data
 DECL|function|multiGroupSharedResourceCleanup_data
+DECL|function|nullTextureInitializtion
 DECL|function|openGLPaintDevice
 DECL|function|openGLPaintDevice_data
 DECL|function|q_fuzzy_compare

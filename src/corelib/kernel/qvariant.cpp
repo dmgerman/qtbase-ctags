@@ -218,3 +218,4 @@ DECL|variable|mapIdFromQt3ToCurrent
 DECL|variable|max_digits10_double
 DECL|variable|max_digits10_float
 DECL|variable|qCanConvertMatrix
+DECL|variable|qCanConvertMatrixMaximumTargetType
