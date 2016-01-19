@@ -48,6 +48,7 @@ DECL|function|init_platform
 DECL|function|init_plugins
 DECL|function|inputDeviceManager
 DECL|function|inputMethod
+DECL|function|isFallbackSessionManagementEnabled
 DECL|function|isSavingSession
 DECL|function|isSessionRestored
 DECL|function|isWindowBlocked
@@ -115,6 +116,7 @@ DECL|function|sessionKey
 DECL|function|setApplicationDisplayName
 DECL|function|setApplicationState
 DECL|function|setDesktopSettingsAware
+DECL|function|setFallbackSessionManagementEnabled
 DECL|function|setFont
 DECL|function|setLayoutDirection
 DECL|function|setMouseEventCapsAndVelocity
@@ -154,6 +156,7 @@ DECL|member|focus_window
 DECL|member|generic_plugin_list
 DECL|member|height
 DECL|member|highDpiScalingUpdated
+DECL|member|is_fallback_session_management_enabled
 DECL|member|m_fakeMouseSourcePointId
 DECL|member|m_fakeTouchDevice
 DECL|member|m_inputDeviceManager
