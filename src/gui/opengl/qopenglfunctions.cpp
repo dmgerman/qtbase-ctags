@@ -21,6 +21,7 @@ DECL|function|Resolver
 DECL|function|flushShared
 DECL|function|functionResolver
 DECL|function|functionResolverWithFallback
+DECL|function|getProcAddress
 DECL|function|gles3Helper
 DECL|function|hasOpenGLExtension
 DECL|function|hasOpenGLFeature
