@@ -38,6 +38,7 @@ DECL|function|objectDestroyed
 DECL|function|operator <<
 DECL|function|operator <<
 DECL|function|placeMetaCall
+DECL|function|placeMetaCall
 DECL|function|postEventToThread
 DECL|function|prepareHook
 DECL|function|prepareReply
@@ -83,12 +84,12 @@ DECL|function|watchService
 DECL|function|~QDBusActivateObjectEvent
 DECL|function|~QDBusBlockingCallWatcher
 DECL|function|~QDBusConnectionPrivate
+DECL|function|~QDBusSpyCallEvent
 DECL|macro|DBUS_TYPE_UNIX_FD
 DECL|macro|qDBusDebug
 DECL|member|m_callTimer
 DECL|member|m_maxCallTimeoutMs
 DECL|member|m_message
-DECL|typedef|QDBusSpyHook
 DECL|typedef|QDBusSpyHookList
 DECL|variable|DIRECT_DELIVERY
 DECL|variable|isDebugging
