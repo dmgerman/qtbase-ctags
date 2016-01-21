@@ -7,6 +7,10 @@ DECL|function|png_free_buffer_list
 DECL|function|png_image_size
 DECL|function|png_save_uint_16
 DECL|function|png_save_uint_32
+DECL|function|png_setup_avg_row
+DECL|function|png_setup_paeth_row
+DECL|function|png_setup_sub_row
+DECL|function|png_setup_up_row
 DECL|function|png_text_compress
 DECL|function|png_text_compress_init
 DECL|function|png_write_IEND
@@ -41,10 +45,6 @@ DECL|function|png_write_tEXt
 DECL|function|png_write_tIME
 DECL|function|png_write_tRNS
 DECL|function|png_write_zTXt
-DECL|macro|PNG_HIMASK
-DECL|macro|PNG_HISHIFT
-DECL|macro|PNG_LOMASK
-DECL|macro|PNG_MAXSUM
 DECL|member|input
 DECL|member|input_len
 DECL|member|output

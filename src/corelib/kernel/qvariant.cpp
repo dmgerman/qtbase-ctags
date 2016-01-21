@@ -213,3 +213,4 @@ DECL|struct|CoreTypesFilter
 DECL|variable|handlerManager
 DECL|variable|mapIdFromQt3ToCurrent
 DECL|variable|qCanConvertMatrix
+DECL|variable|qCanConvertMatrixMaximumTargetType

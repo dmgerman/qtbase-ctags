@@ -5,6 +5,8 @@ DECL|enumerator|Ambiguous
 DECL|enumerator|ClearAll
 DECL|enumerator|NoResult
 DECL|enumerator|NoWidget
+DECL|enumerator|SendKeyEvent
+DECL|enumerator|SentKeyEvent
 DECL|enumerator|SetupAccel
 DECL|enumerator|Slot1Triggered
 DECL|enumerator|Slot2Triggered
@@ -47,6 +49,7 @@ DECL|function|initTestCase
 DECL|function|keypressConsumption
 DECL|function|number
 DECL|function|number_data
+DECL|function|sendKeyEvent
 DECL|function|sendKeyEvents
 DECL|function|sendKeyEvents
 DECL|function|setupShortcut

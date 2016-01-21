@@ -5,8 +5,6 @@ DECL|function|png_process_data_pause
 DECL|function|png_process_data_skip
 DECL|function|png_process_some_data
 DECL|function|png_progressive_combine_row
-DECL|function|png_push_crc_finish
-DECL|function|png_push_crc_skip
 DECL|function|png_push_fill_buffer
 DECL|function|png_push_have_end
 DECL|function|png_push_have_info
@@ -29,4 +27,3 @@ DECL|macro|PNG_READ_SIG_MODE
 DECL|macro|PNG_READ_iTXt_MODE
 DECL|macro|PNG_READ_tEXt_MODE
 DECL|macro|PNG_READ_zTXt_MODE
-DECL|macro|PNG_SKIP_MODE

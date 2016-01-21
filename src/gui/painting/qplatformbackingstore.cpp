@@ -29,14 +29,17 @@ DECL|function|window
 DECL|function|~QPlatformBackingStore
 DECL|function|~QPlatformBackingStorePrivate
 DECL|function|~QPlatformTextureList
+DECL|macro|GL_RGB10_A2
 DECL|macro|GL_TEXTURE_BASE_LEVEL
 DECL|macro|GL_TEXTURE_MAX_LEVEL
 DECL|macro|GL_UNPACK_ROW_LENGTH
+DECL|macro|GL_UNSIGNED_INT_2_10_10_10_REV
 DECL|member|blitter
 DECL|member|clipRect
 DECL|member|flags
 DECL|member|locked
 DECL|member|needsSwizzle
+DECL|member|premultiplied
 DECL|member|rect
 DECL|member|source
 DECL|member|textureId

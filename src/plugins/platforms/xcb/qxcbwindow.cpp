@@ -51,6 +51,7 @@ DECL|function|activeWindowChangeQueued
 DECL|function|changeNetWmState
 DECL|function|checkEvent
 DECL|function|checkEvent
+DECL|function|compressExposeEvent
 DECL|function|create
 DECL|function|destroy
 DECL|function|doFocusIn

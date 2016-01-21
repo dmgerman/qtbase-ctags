@@ -136,6 +136,8 @@ DECL|function|toLocalFile_data
 DECL|function|toPercentEncoding
 DECL|function|toPercentEncoding_data
 DECL|function|toString
+DECL|function|toString_PreferLocalFile
+DECL|function|toString_PreferLocalFile_data
 DECL|function|toString_constructed
 DECL|function|toString_constructed_data
 DECL|function|toString_data

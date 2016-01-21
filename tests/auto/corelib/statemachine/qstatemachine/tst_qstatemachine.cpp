@@ -140,6 +140,7 @@ DECL|function|postDelayedEventFromThread
 DECL|function|postEvent
 DECL|function|postEvent
 DECL|function|postEvent
+DECL|function|postEventFromBeginSelectTransitions
 DECL|function|postEventFromOtherThread
 DECL|function|prop
 DECL|function|propWriteCount

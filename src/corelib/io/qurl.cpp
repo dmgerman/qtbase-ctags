@@ -139,6 +139,7 @@ DECL|function|toAce
 DECL|function|toDisplayString
 DECL|function|toEncoded
 DECL|function|toLocalFile
+DECL|function|toLocalFile
 DECL|function|toPercentEncoding
 DECL|function|toString
 DECL|function|toStringList

@@ -2,6 +2,7 @@ DECL|class|QMirClientResourceMap
 DECL|function|QMirClientNativeInterface
 DECL|function|QMirClientResourceMap
 DECL|function|nativeResourceForContext
+DECL|function|nativeResourceForIntegration
 DECL|function|nativeResourceForScreen
 DECL|function|nativeResourceForWindow
 DECL|function|~QMirClientNativeInterface

@@ -70,8 +70,6 @@ DECL|function|QueryInterface
 DECL|function|Release
 DECL|function|cleanupThread
 DECL|function|close
-DECL|function|close
-DECL|function|close
 DECL|function|create
 DECL|function|create
 DECL|function|create
@@ -82,7 +80,6 @@ DECL|function|createNativeDialog
 DECL|function|currentColor
 DECL|function|data
 DECL|function|data
-DECL|function|defaultNameFilterDisables
 DECL|function|defaultNameFilterDisables
 DECL|function|dialogResult
 DECL|function|dialogResult
@@ -132,8 +129,6 @@ DECL|function|openFileDialog
 DECL|function|operator <<
 DECL|function|populateOpenFileName
 DECL|function|qStringToWCharArray
-DECL|function|result
-DECL|function|result
 DECL|function|run
 DECL|function|sHLoadLibraryFromItem
 DECL|function|selectFile
@@ -168,14 +163,11 @@ DECL|function|setNameFilters
 DECL|function|setSelectedFiles
 DECL|function|setSelectedNameFilter
 DECL|function|setWindowTitle
-DECL|function|setWindowTitle
-DECL|function|setWindowTitle
 DECL|function|shellItem
 DECL|function|show
 DECL|function|startDialogThread
 DECL|function|stopTimer
 DECL|function|suffixFromFilter
-DECL|function|supportsNonModalDialog
 DECL|function|supportsNonModalDialog
 DECL|function|supportsNonModalDialog
 DECL|function|timerEvent
@@ -228,6 +220,18 @@ DECL|macro|IID_IShellItem
 DECL|macro|LFF_FORCEFILESYSTEM
 DECL|macro|QT_NO_URL_CAST_FROM_STRING
 DECL|macro|_WIN32_WINNT
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|Q_DECL_OVERRIDE
