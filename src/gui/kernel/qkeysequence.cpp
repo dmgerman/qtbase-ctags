@@ -18,6 +18,7 @@ DECL|function|fromString
 DECL|function|isDetached
 DECL|function|isEmpty
 DECL|function|keyBindings
+DECL|function|keyName
 DECL|function|listFromString
 DECL|function|listToString
 DECL|function|matches
