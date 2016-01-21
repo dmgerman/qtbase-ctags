@@ -8,8 +8,6 @@ DECL|function|png_image_write_init
 DECL|function|png_image_write_main
 DECL|function|png_image_write_to_file
 DECL|function|png_image_write_to_stdio
-DECL|function|png_init_filter_heuristics
-DECL|function|png_reset_filter_heuristics
 DECL|function|png_set_compression_level
 DECL|function|png_set_compression_mem_level
 DECL|function|png_set_compression_method

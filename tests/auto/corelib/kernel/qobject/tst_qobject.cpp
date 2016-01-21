@@ -105,7 +105,6 @@ DECL|function|VirtualSlotsObject
 DECL|function|VirtualSlotsObjectBase
 DECL|function|aPublicSlot
 DECL|function|aSlot
-DECL|function|accessSender
 DECL|function|alpha
 DECL|function|autoConnectionBehavior
 DECL|function|baseDestroyed
