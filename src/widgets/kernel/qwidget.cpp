@@ -100,6 +100,7 @@ DECL|function|grabShortcut
 DECL|function|grabberWindow
 DECL|function|graphicsEffect
 DECL|function|graphicsProxyWidget
+DECL|function|graphicsProxyWidget
 DECL|function|hasBackingStoreSupport
 DECL|function|hasEditFocus
 DECL|function|hasFocus
@@ -145,6 +146,7 @@ DECL|function|mapFromGlobal
 DECL|function|mapFromParent
 DECL|function|mapTo
 DECL|function|mapToGlobal
+DECL|function|mapToGlobalTransform
 DECL|function|mapToParent
 DECL|function|mask
 DECL|function|maximumSize
@@ -405,6 +407,9 @@ DECL|member|editingWidget
 DECL|member|instanceCounter
 DECL|member|mapper
 DECL|member|maxInstances
+DECL|member|transform
+DECL|member|window
+DECL|struct|MapToGlobalTransformResult
 DECL|struct|QWidgetExceptionCleaner
 DECL|variable|activeXNativeParentHandleProperty
 DECL|variable|keyboardGrb
