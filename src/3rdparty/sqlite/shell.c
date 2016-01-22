@@ -54,7 +54,9 @@ DECL|function|save_err_msg
 DECL|function|setBinaryMode
 DECL|function|setTextMode
 DECL|function|set_table_name
+DECL|function|shellDatabaseError
 DECL|function|shellLog
+DECL|function|shellNomemError
 DECL|function|shell_callback
 DECL|function|shell_dbinfo_command
 DECL|function|shell_exec
@@ -70,6 +72,7 @@ DECL|function|tryToClone
 DECL|function|tryToCloneData
 DECL|function|tryToCloneSchema
 DECL|function|usage
+DECL|function|utf8_printf
 DECL|function|writefileFunc
 DECL|macro|ArraySize
 DECL|macro|BEGIN_TIMER
@@ -121,6 +124,7 @@ DECL|macro|pclose
 DECL|macro|pclose
 DECL|macro|popen
 DECL|macro|popen
+DECL|macro|raw_printf
 DECL|macro|setBinaryMode
 DECL|macro|setTextMode
 DECL|macro|shell_add_history
@@ -136,6 +140,7 @@ DECL|macro|shell_stifle_history
 DECL|macro|shell_write_history
 DECL|macro|shell_write_history
 DECL|macro|shell_write_history
+DECL|macro|utf8_printf
 DECL|member|actualWidth
 DECL|member|aiIndent
 DECL|member|autoEQP
@@ -147,6 +152,7 @@ DECL|member|cnt
 DECL|member|colSeparator
 DECL|member|colWidth
 DECL|member|colWidth
+DECL|member|countChanges
 DECL|member|db
 DECL|member|echoOn
 DECL|member|iIndent
@@ -208,6 +214,7 @@ DECL|variable|needCsvQuote
 DECL|variable|sBegin
 DECL|variable|seenInterrupt
 DECL|variable|stdin_is_interactive
+DECL|variable|stdout_is_console
 DECL|variable|zHelp
 DECL|variable|zOptions
 DECL|variable|zShellStatic
