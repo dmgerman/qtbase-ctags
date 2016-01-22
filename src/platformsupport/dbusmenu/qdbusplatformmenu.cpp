@@ -15,6 +15,7 @@ DECL|function|setCheckable
 DECL|function|setChecked
 DECL|function|setEnabled
 DECL|function|setEnabled
+DECL|function|setHasExclusiveGroup
 DECL|function|setIcon
 DECL|function|setIcon
 DECL|function|setIsSeparator
