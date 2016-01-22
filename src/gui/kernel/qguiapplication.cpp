@@ -10,7 +10,6 @@ DECL|enum|ApplicationResourceFlags
 DECL|function|QGuiApplication
 DECL|function|QGuiApplication
 DECL|function|QGuiApplicationPrivate
-DECL|function|QWindowGeometrySpecification
 DECL|function|_q_updateFocusObject
 DECL|function|allWindows
 DECL|function|applicationDisplayName
@@ -141,6 +140,7 @@ DECL|function|windowIcon
 DECL|function|~QGuiApplication
 DECL|function|~QGuiApplicationPrivate
 DECL|macro|CHECK_QAPP_INSTANCE
+DECL|macro|Q_WINDOW_GEOMETRY_SPECIFICATION_INITIALIZER
 DECL|member|app_font
 DECL|member|app_icon
 DECL|member|app_pal
