@@ -48,6 +48,7 @@ DECL|function|handle
 DECL|function|init
 DECL|function|init
 DECL|function|initFromFontEngine
+DECL|function|is2dRotation
 DECL|function|leading
 DECL|function|lineThickness
 DECL|function|loadFlags
