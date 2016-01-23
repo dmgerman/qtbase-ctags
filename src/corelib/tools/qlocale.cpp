@@ -148,5 +148,6 @@ DECL|variable|_systemLocale
 DECL|variable|c_data
 DECL|variable|default_data
 DECL|variable|default_number_options
+DECL|variable|globalLocaleData
 DECL|variable|locale_data_size
 DECL|variable|system_data
