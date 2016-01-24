@@ -1,5 +1,7 @@
 DECL|class|QMimeDataPrivate
 DECL|function|QMimeData
+DECL|function|applicationXColorLiteral
+DECL|function|applicationXQtImageLiteral
 DECL|function|clear
 DECL|function|colorData
 DECL|function|data
@@ -25,6 +27,9 @@ DECL|function|setImageData
 DECL|function|setText
 DECL|function|setUrls
 DECL|function|text
+DECL|function|textHtmlLiteral
+DECL|function|textPlainLiteral
+DECL|function|textUriListLiteral
 DECL|function|urls
 DECL|function|~QMimeData
 DECL|member|data
