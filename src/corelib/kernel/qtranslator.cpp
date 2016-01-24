@@ -20,6 +20,7 @@ DECL|function|clear
 DECL|function|do_load
 DECL|function|do_load
 DECL|function|do_translate
+DECL|function|dotQmLiteral
 DECL|function|elfHash
 DECL|function|elfHash_continue
 DECL|function|elfHash_finish
