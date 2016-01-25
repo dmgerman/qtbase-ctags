@@ -2,6 +2,7 @@ DECL|class|tst_QStringRef
 DECL|enumerator|BigEndian
 DECL|enumerator|ByteOrder
 DECL|enumerator|LittleEndian
+DECL|function|at
 DECL|function|cleanup
 DECL|function|compare
 DECL|function|compare2
