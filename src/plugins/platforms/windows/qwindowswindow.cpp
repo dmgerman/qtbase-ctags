@@ -121,6 +121,7 @@ DECL|function|validSize
 DECL|function|windowEvent
 DECL|function|windowIsOpenGL
 DECL|function|windowPlacementOffset
+DECL|function|windowVisibility_sys
 DECL|function|~QWindowsWindow
 DECL|member|desktop
 DECL|member|dialog
