@@ -2,6 +2,7 @@ DECL|class|QWinRTEGLContextPrivate
 DECL|function|QWinRTEGLContext
 DECL|function|QWinRTEGLContextPrivate
 DECL|function|WinRTEGLDisplay
+DECL|function|display
 DECL|function|doneCurrent
 DECL|function|format
 DECL|function|getProcAddress
