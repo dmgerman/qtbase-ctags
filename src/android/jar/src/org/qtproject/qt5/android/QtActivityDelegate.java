@@ -51,6 +51,7 @@ DECL|field|m_environmentVariables
 DECL|field|m_fullScreen
 DECL|field|m_imm
 DECL|field|m_keyboardIsVisible
+DECL|field|m_landscapeKeyboardHeight
 DECL|field|m_lastChar
 DECL|field|m_layout
 DECL|field|m_mainLib
@@ -58,6 +59,8 @@ DECL|field|m_metaState
 DECL|field|m_nativeOrientation
 DECL|field|m_nativeViews
 DECL|field|m_optionsMenuIsVisible
+DECL|field|m_portraitKeyboardHeight
+DECL|field|m_probeKeyboardHeightDelay
 DECL|field|m_quitApp
 DECL|field|m_showHideTimeStamp
 DECL|field|m_softInputMode

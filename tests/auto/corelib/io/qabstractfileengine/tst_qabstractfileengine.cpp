@@ -22,6 +22,7 @@ DECL|function|fileName
 DECL|function|fileTime
 DECL|function|flush
 DECL|function|hasNext
+DECL|function|initTestCase
 DECL|function|mounting
 DECL|function|mounting_data
 DECL|function|next
@@ -54,6 +55,8 @@ DECL|member|fileSystemUsers
 DECL|member|filesForRemoval
 DECL|member|groupId
 DECL|member|index
+DECL|member|m_currentDir
+DECL|member|m_previousCurrent
 DECL|member|modification
 DECL|member|mutex
 DECL|member|names

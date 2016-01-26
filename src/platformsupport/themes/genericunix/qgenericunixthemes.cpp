@@ -35,9 +35,9 @@ DECL|function|themeHint
 DECL|function|themeHint
 DECL|function|themeNames
 DECL|function|xdgIconThemePaths
+DECL|function|~QGnomeThemePrivate
 DECL|member|fixedFont
 DECL|member|fixedFont
-DECL|member|fontsConfigured
 DECL|member|iconFallbackThemeName
 DECL|member|iconThemeName
 DECL|member|kdeDirs

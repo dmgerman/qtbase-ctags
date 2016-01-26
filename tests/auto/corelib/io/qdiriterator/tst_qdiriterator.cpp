@@ -30,3 +30,4 @@ DECL|macro|Q_NO_SYMLINKS
 DECL|member|createdDirectories
 DECL|member|createdFiles
 DECL|member|currentDir
+DECL|member|m_dataDir
