@@ -92,4 +92,6 @@ DECL|macro|DIR
 DECL|macro|Q_NO_SYMLINKS
 DECL|macro|ROOT
 DECL|macro|_WIN32_WINNT
+DECL|member|m_dataDir
+DECL|member|m_dataPath
 DECL|member|m_dataPath

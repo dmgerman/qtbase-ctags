@@ -1,6 +1,7 @@
 DECL|function|defaultInstall
 DECL|function|findLibraries
 DECL|function|hashCode
+DECL|function|installRoot
 DECL|function|noIO
 DECL|function|qHash
 DECL|function|setNoIO

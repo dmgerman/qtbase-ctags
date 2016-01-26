@@ -31,4 +31,5 @@ DECL|function|stressTest
 DECL|function|write
 DECL|function|~ChdirOnReturn
 DECL|member|dir
+DECL|member|m_previousCurrent
 DECL|struct|ChdirOnReturn

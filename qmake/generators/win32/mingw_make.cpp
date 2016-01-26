@@ -6,6 +6,7 @@ DECL|function|findDependencies
 DECL|function|fixLibFlag
 DECL|function|getManifestFileForRcFile
 DECL|function|init
+DECL|function|installRoot
 DECL|function|parseLibFlag
 DECL|function|writeBuildRulesPart
 DECL|function|writeIncPart

@@ -9,3 +9,4 @@ DECL|struct|QDBusSlotCache
 DECL|typedef|Hash
 DECL|typedef|QString
 DECL|variable|QDBusConnectionPrivate
+DECL|variable|QDBusMessage

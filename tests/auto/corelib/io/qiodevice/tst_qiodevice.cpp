@@ -5,6 +5,7 @@ DECL|function|RandomAccessBuffer
 DECL|function|SequentialReadBuffer
 DECL|function|SequentialReadBuffer
 DECL|function|buffer
+DECL|function|cleanupTestCase
 DECL|function|constructing_QFile
 DECL|function|constructing_QTcpSocket
 DECL|function|getSetCheck
@@ -24,5 +25,7 @@ DECL|function|writeInTextMode
 DECL|function|~SequentialReadBuffer
 DECL|member|buf
 DECL|member|buf
+DECL|member|m_previousCurrent
+DECL|member|m_tempDir
 DECL|member|offset
 DECL|member|ownbuf

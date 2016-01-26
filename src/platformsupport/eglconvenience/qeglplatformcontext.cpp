@@ -11,6 +11,7 @@ DECL|function|getProcAddress
 DECL|function|init
 DECL|function|initialize
 DECL|function|makeCurrent
+DECL|function|runGLChecks
 DECL|function|swapBuffers
 DECL|function|updateFormatFromGL
 DECL|function|~QEGLPlatformContext
