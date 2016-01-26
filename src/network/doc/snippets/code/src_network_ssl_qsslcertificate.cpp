@@ -1,1 +1,1 @@
-DECL|function|foreach
+DECL|variable|certs
