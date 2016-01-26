@@ -4,6 +4,12 @@ DECL|function|v_cast
 DECL|function|v_clear
 DECL|function|v_construct
 DECL|function|v_construct
+DECL|function|v_construct_helper
+DECL|function|v_construct_helper
+DECL|function|v_construct_helper
+DECL|function|v_construct_helper
 DECL|macro|QVARIANT_P_H
 DECL|member|CanUseInternalSpace
 DECL|struct|QVariantIntegrator
+DECL|typedef|CanUseInternalSpace_t
+DECL|typedef|bool

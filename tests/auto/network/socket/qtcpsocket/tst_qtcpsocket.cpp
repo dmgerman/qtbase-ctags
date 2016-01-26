@@ -98,6 +98,7 @@ DECL|function|readAllAfterClose
 DECL|function|readChunks
 DECL|function|readLine
 DECL|function|readLineString
+DECL|function|readNotificationsAfterBind
 DECL|function|readRegularFile_readyRead
 DECL|function|readyReadSignalsAfterWaitForReadyRead
 DECL|function|recursiveReadyRead

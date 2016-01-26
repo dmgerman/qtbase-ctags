@@ -1,5 +1,6 @@
 DECL|class|SocketAsyncHandler
 DECL|enumerator|SendPostedEventsWindowsTimerId
+DECL|enumerator|WM_QT_ACTIVATENOTIFIERS
 DECL|enumerator|WM_QT_SENDPOSTEDEVENTS
 DECL|enumerator|WM_QT_SOCKETNOTIFIER
 DECL|function|QEventDispatcherWin32
@@ -20,6 +21,7 @@ DECL|function|hasPendingEvents
 DECL|function|inputTimerMask
 DECL|function|installMessageHook
 DECL|function|interrupt
+DECL|function|postActivateSocketNotifiers
 DECL|function|processEvents
 DECL|function|qt_GetMessageHook
 DECL|function|qt_create_internal_window

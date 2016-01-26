@@ -10,6 +10,7 @@ DECL|function|endPaint
 DECL|function|flush
 DECL|function|graphicsBuffer
 DECL|function|graphicsBuffer
+DECL|function|hasAlpha
 DECL|function|image
 DECL|function|paintDevice
 DECL|function|preparePaint
@@ -25,6 +26,7 @@ DECL|member|m_dirty
 DECL|member|m_gc
 DECL|member|m_gc_window
 DECL|member|m_graphics_buffer
+DECL|member|m_hasAlpha
 DECL|member|m_image
 DECL|member|m_qimage
 DECL|member|m_shm_info

@@ -6,6 +6,7 @@ DECL|enumerator|MouseMove
 DECL|function|TestThread
 DECL|function|Window
 DECL|function|consumeMouseEvents
+DECL|function|consumeSocketEvents
 DECL|function|event
 DECL|function|mouseClick
 DECL|function|mouseInput

@@ -1,4 +1,5 @@
 DECL|macro|QMIRCLIENTINTEGRATION_H
 DECL|variable|QMirClientClipboard
 DECL|variable|QMirClientInput
+DECL|variable|QMirClientNativeInterface
 DECL|variable|QMirClientScreen

@@ -5,6 +5,7 @@ DECL|function|construction
 DECL|function|doAccept
 DECL|function|downloadBigFile
 DECL|function|downloadBigFileSlot
+DECL|function|ensureEofTriggersNotification
 DECL|function|errorTest
 DECL|function|errorTest_data
 DECL|function|exitLoopSlot
