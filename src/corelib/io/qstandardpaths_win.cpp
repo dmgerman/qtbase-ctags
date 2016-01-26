@@ -1,8 +1,14 @@
-DECL|function|clsidForAppDataLocation
+DECL|function|appendOrganizationAndApp
+DECL|function|appendTestMode
 DECL|function|convertCharArray
+DECL|function|displayName
+DECL|function|isConfigLocation
+DECL|function|isGenericConfigLocation
+DECL|function|sHGetKnownFolderPath
+DECL|function|sHGetSpecialFolderPath
 DECL|function|standardLocations
 DECL|function|writableLocation
+DECL|function|writableSpecialFolderClsid
 DECL|macro|CSIDL_MYMUSIC
 DECL|macro|CSIDL_MYVIDEO
-DECL|typedef|GetKnownFolderPath
 DECL|variable|qCLSID_FOLDERID_Downloads
