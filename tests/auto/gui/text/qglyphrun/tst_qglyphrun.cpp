@@ -20,6 +20,7 @@ DECL|function|initTestCase
 DECL|function|isEmpty
 DECL|function|make_dummy_indexes
 DECL|function|mixedScripts
+DECL|function|multiLineBoundingRect
 DECL|function|setRawData
 DECL|function|setRawDataAndGetAsVector
 DECL|function|textLayoutGlyphIndexes
