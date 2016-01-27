@@ -7,9 +7,11 @@ DECL|function|initializeGL
 DECL|function|paintGL
 DECL|function|render
 DECL|function|resizeGL
+DECL|function|setClearColor
 DECL|function|width
 DECL|function|~OpenGLWidget
 DECL|macro|GL_GLEXT_PROTOTYPES
+DECL|member|clearColor
 DECL|member|h
 DECL|member|m_colAttr
 DECL|member|m_frame
