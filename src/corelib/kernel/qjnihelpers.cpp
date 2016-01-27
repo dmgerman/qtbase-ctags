@@ -19,6 +19,7 @@ DECL|function|registerKeyEventListener
 DECL|function|registerNewIntentListener
 DECL|function|registerResumePauseListener
 DECL|function|runOnAndroidThread
+DECL|function|runOnAndroidThreadSync
 DECL|function|runOnUiThread
 DECL|function|runPendingCppRunnables
 DECL|function|setAndroidSdkVersion
