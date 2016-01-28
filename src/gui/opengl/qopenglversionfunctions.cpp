@@ -63,3 +63,7 @@ DECL|function|versionStatus
 DECL|function|versionStatus
 DECL|function|versionStatus
 DECL|function|~QAbstractOpenGLFunctions
+DECL|macro|QT_OPENGL_COUNT_FUNCTIONS
+DECL|macro|QT_OPENGL_FUNCTION_NAMES
+DECL|macro|QT_OPENGL_IMPLEMENT
+DECL|macro|QT_OPENGL_IMPLEMENT_WIN
