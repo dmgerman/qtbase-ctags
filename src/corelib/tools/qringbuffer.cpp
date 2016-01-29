@@ -1,4 +1,5 @@
 DECL|function|append
+DECL|function|append
 DECL|function|chop
 DECL|function|clear
 DECL|function|free
