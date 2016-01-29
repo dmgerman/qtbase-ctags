@@ -1,2 +1,1 @@
 DECL|macro|QWINRTINPUTCONTEXT_H
-DECL|variable|QWinRTScreen

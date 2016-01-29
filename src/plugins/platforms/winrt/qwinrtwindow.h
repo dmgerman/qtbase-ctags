@@ -1,2 +1,1 @@
 DECL|macro|QWINRTWINDOW_H
-DECL|variable|QWinRTWindowPrivate
