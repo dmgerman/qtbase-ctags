@@ -7,6 +7,7 @@ DECL|function|getSetCheck
 DECL|function|hasFeature
 DECL|function|restoreDockWidget
 DECL|function|restoreStateOfFloating
+DECL|function|restoreStateWhileStillFloating
 DECL|function|setFeature
 DECL|function|setFloating
 DECL|function|setTitleBarWidget
