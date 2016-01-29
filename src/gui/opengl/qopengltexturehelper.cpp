@@ -50,6 +50,6 @@ DECL|function|qt_TextureSubImage1D
 DECL|function|qt_TextureSubImage2D
 DECL|function|qt_TextureSubImage3D
 DECL|function|~TextureBinder
+DECL|member|m_functions
 DECL|member|m_oldTexture
 DECL|member|m_target
-DECL|member|m_textureFunctions

@@ -1,4 +1,5 @@
 DECL|macro|QABSTRACTOPENGLTEXTURE_P_H
 DECL|macro|Q_CALL_MEMBER_FUNCTION
 DECL|variable|QOpenGLContext
+DECL|variable|QOpenGLFunctions
 DECL|variable|QOpenGLTextureHelper
