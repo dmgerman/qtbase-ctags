@@ -32,6 +32,7 @@ DECL|function|setApplicationActive
 DECL|function|setDisplayMetrics
 DECL|function|setSurface
 DECL|function|setSurfaceGeometry
+DECL|function|setViewVisibility
 DECL|function|showStatusBar
 DECL|function|startMainMethod
 DECL|function|startQtAndroidPlugin

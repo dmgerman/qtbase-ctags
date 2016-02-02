@@ -1,0 +1,1 @@
+DECL|macro|QFINALSTATE_P_H
