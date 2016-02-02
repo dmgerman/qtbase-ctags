@@ -14,6 +14,7 @@ DECL|function|testFlag
 DECL|function|testFlagMultiBits
 DECL|function|testFlagZeroFlag
 DECL|function|testRelaxedConstExpr
+DECL|function|testSetFlags
 DECL|function|verifyConstExpr
 DECL|member|StrictFour
 DECL|member|StrictFour
