@@ -1,0 +1,14 @@
+DECL|class|Window
+DECL|class|tst_QKeyEvent
+DECL|function|basicEventDelivery
+DECL|function|keyPressEvent
+DECL|function|keyReleaseEvent
+DECL|function|modifiers
+DECL|function|modifiers_data
+DECL|function|orderByModifier
+DECL|function|recordEvent
+DECL|function|reset
+DECL|function|tst_QKeyEvent
+DECL|function|~Window
+DECL|function|~tst_QKeyEvent
+DECL|member|keyEvents

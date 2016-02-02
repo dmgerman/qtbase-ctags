@@ -81,6 +81,7 @@ DECL|method|setDisplayMetrics
 DECL|method|setFullScreen
 DECL|method|setSurface
 DECL|method|setSurfaceGeometry
+DECL|method|setViewVisibility
 DECL|method|showSoftwareKeyboard
 DECL|method|startApplication
 DECL|method|startQtAndroidPlugin

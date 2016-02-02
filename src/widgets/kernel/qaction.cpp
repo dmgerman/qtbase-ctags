@@ -21,6 +21,7 @@ DECL|function|isSeparator
 DECL|function|isVisible
 DECL|function|menu
 DECL|function|menuRole
+DECL|function|operator <<
 DECL|function|parentWidget
 DECL|function|priority
 DECL|function|qt_strippedText

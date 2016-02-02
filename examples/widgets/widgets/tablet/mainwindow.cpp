@@ -1,10 +1,9 @@
 DECL|function|MainWindow
-DECL|function|aboutAct
-DECL|function|alphaActionTriggered
-DECL|function|brushColorAct
-DECL|function|createActions
+DECL|function|about
 DECL|function|createMenus
-DECL|function|lineWidthActionTriggered
-DECL|function|loadAct
-DECL|function|saturationActionTriggered
-DECL|function|saveAct
+DECL|function|load
+DECL|function|save
+DECL|function|setAlphaValuator
+DECL|function|setBrushColor
+DECL|function|setLineWidthValuator
+DECL|function|setSaturationValuator

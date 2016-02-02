@@ -8,6 +8,7 @@ DECL|function|testAncestorChange
 DECL|function|testBehindTheScenesDeletion
 DECL|function|testDockWidget
 DECL|function|testExposeObscure
+DECL|function|testNativeContainerParent
 DECL|function|testOwnership
 DECL|function|testPositionAndSize
 DECL|function|testShow

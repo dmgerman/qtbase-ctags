@@ -45,6 +45,7 @@ DECL|function|init
 DECL|function|initTestCase
 DECL|function|mysqlOdbc_unsignedIntegers
 DECL|function|mysqlOdbc_unsignedIntegers_data
+DECL|function|mysql_connectWithInvalidAddress
 DECL|function|mysql_multiselect
 DECL|function|mysql_multiselect_data
 DECL|function|mysql_savepointtest
