@@ -5,7 +5,6 @@ DECL|enumerator|ResolveEXT
 DECL|enumerator|ResolveNV
 DECL|enumerator|ResolveOES
 DECL|enum|ResolvePolicy
-DECL|function|QOpenGLES3Helper
 DECL|function|QOpenGLExtensions
 DECL|function|QOpenGLExtensions
 DECL|function|QOpenGLExtensionsPrivate
@@ -22,12 +21,9 @@ DECL|function|flushShared
 DECL|function|functionResolver
 DECL|function|functionResolverWithFallback
 DECL|function|getProcAddress
-DECL|function|gles3Helper
 DECL|function|hasOpenGLExtension
 DECL|function|hasOpenGLFeature
-DECL|function|init
 DECL|function|initializeOpenGLFunctions
-DECL|function|isES3
 DECL|function|openGLExtensions
 DECL|function|openGLFeatures
 DECL|function|operator ()
@@ -64,7 +60,6 @@ DECL|function|qopenglfTranslateDepthRangef
 DECL|function|qt_gl_functions
 DECL|function|qt_gl_resolve_extensions
 DECL|function|qt_gl_resolve_features
-DECL|function|resolve
 DECL|function|resolve
 DECL|function|resolveWithFallback
 DECL|macro|GL_FRAMEBUFFER_SRGB_CAPABLE_EXT

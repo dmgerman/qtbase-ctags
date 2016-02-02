@@ -1,3 +1,4 @@
+DECL|function|d
 DECL|function|glDiscardFramebufferEXT
 DECL|function|glGetBufferSubData
 DECL|function|glMapBuffer
