@@ -141,6 +141,13 @@ DECL|function|glVertexAttrib4fv
 DECL|function|glVertexAttribPointer
 DECL|function|glViewport
 DECL|macro|QOPENGLFUNCTIONS_H
+DECL|macro|QT_OPENGL_COUNT_FUNCTIONS
+DECL|macro|QT_OPENGL_COUNT_FUNCTIONS
+DECL|macro|QT_OPENGL_DECLARE
+DECL|macro|QT_OPENGL_DECLARE
+DECL|macro|QT_OPENGL_DECLARE_FUNCTIONS
+DECL|macro|QT_OPENGL_DECLARE_FUNCTIONS
+DECL|macro|QT_OPENGL_FUNCTIONS
 DECL|macro|Q_OPENGL_FUNCTIONS_DEBUG
 DECL|macro|Q_OPENGL_FUNCTIONS_DEBUG
 DECL|macro|glActiveTexture
@@ -287,3 +294,4 @@ DECL|macro|glVertexAttrib4fv
 DECL|macro|glVertexAttribPointer
 DECL|macro|glViewport
 DECL|struct|QOpenGLFunctionsPrivate
+DECL|typedef|GLdouble
