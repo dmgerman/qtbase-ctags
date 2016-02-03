@@ -1,8 +1,3 @@
-DECL|enumerator|ResolveANGLE
-DECL|enumerator|ResolveEXT
-DECL|enumerator|ResolveNV
-DECL|enumerator|ResolveOES
-DECL|enum|ResolvePolicy
 DECL|function|QOpenGLExtensions
 DECL|function|QOpenGLExtensions
 DECL|function|QOpenGLExtensionsPrivate
