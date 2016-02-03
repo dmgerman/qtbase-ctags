@@ -22,7 +22,6 @@ DECL|function|nativeSetMulticastInterface
 DECL|function|nativeWrite
 DECL|function|option
 DECL|function|qt_prettyDebug
-DECL|function|qt_socket_getMaxMsgSize
 DECL|function|qt_socket_getPortAndAddress
 DECL|function|qt_socket_getType
 DECL|function|scopeIdFromString
