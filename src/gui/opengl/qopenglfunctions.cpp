@@ -30,12 +30,11 @@ DECL|function|qt_gl_functions
 DECL|function|qt_gl_resolve_extensions
 DECL|function|qt_gl_resolve_features
 DECL|function|resolve
-DECL|function|resolveWithFallback
 DECL|macro|GL_FRAMEBUFFER_SRGB_CAPABLE_EXT
 DECL|macro|QT_OPENGL_COUNT_FUNCTIONS
 DECL|macro|QT_OPENGL_FLAGS
 DECL|macro|QT_OPENGL_FUNCTION_NAMES
-DECL|macro|QT_OPENGL_IMPLEMENT_WITH_FLAGS
+DECL|macro|QT_OPENGL_IMPLEMENT
 DECL|macro|RESOLVE
 DECL|member|m_extensions
 DECL|member|m_features

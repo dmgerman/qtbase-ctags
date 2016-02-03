@@ -170,7 +170,15 @@ DECL|function|glVertexAttribIFormat
 DECL|function|glVertexAttribIPointer
 DECL|function|glVertexBindingDivisor
 DECL|function|glWaitSync
+DECL|macro|MemoryBarrier
 DECL|macro|QOPENGLEXTRAFUNCTIONS_H
+DECL|macro|QT_OPENGL_COUNT_FUNCTIONS
+DECL|macro|QT_OPENGL_COUNT_FUNCTIONS
+DECL|macro|QT_OPENGL_DECLARE
+DECL|macro|QT_OPENGL_DECLARE
+DECL|macro|QT_OPENGL_DECLARE_FUNCTIONS
+DECL|macro|QT_OPENGL_DECLARE_FUNCTIONS
+DECL|macro|QT_OPENGL_EXTRA_FUNCTIONS
 DECL|macro|glActiveShaderProgram
 DECL|macro|glBeginQuery
 DECL|macro|glBeginTransformFeedback
