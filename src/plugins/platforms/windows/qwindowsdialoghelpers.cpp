@@ -80,7 +80,6 @@ DECL|function|createNativeDialog
 DECL|function|currentColor
 DECL|function|data
 DECL|function|data
-DECL|function|defaultNameFilterDisables
 DECL|function|dialogResult
 DECL|function|dialogResult
 DECL|function|directory
@@ -168,7 +167,6 @@ DECL|function|show
 DECL|function|startDialogThread
 DECL|function|stopTimer
 DECL|function|suffixFromFilter
-DECL|function|supportsNonModalDialog
 DECL|function|supportsNonModalDialog
 DECL|function|timerEvent
 DECL|function|updateDirectory
