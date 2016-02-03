@@ -17,7 +17,6 @@ DECL|function|applyNewCursor
 DECL|function|applyToMinMaxInfo
 DECL|function|applyToMinMaxInfo
 DECL|function|applyWindowFlags
-DECL|function|clientSize
 DECL|function|cornerToWinOrientation
 DECL|function|create
 DECL|function|create

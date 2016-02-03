@@ -109,7 +109,6 @@ DECL|function|hideFiltersDetails
 DECL|function|indexOfNameFilter
 DECL|function|init
 DECL|function|isClsid
-DECL|function|isQQuickWindow
 DECL|function|itemPath
 DECL|function|itemPaths
 DECL|function|libraryItemDefaultSaveFolder

@@ -7,7 +7,6 @@ DECL|function|addWindow
 DECL|function|asyncExpose
 DECL|function|clearWindowUnderMouse
 DECL|function|comErrorString
-DECL|function|componentVerbose
 DECL|function|createDummyWindow
 DECL|function|defaultDPI
 DECL|function|displayContext

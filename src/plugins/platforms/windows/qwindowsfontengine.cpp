@@ -23,7 +23,6 @@ DECL|function|getGlyphIndexes
 DECL|function|getOutlineMetrics
 DECL|function|getOutlineTextMetric
 DECL|function|getSfntTableData
-DECL|function|getUInt
 DECL|function|getUShort
 DECL|function|getUnscaledGlyph
 DECL|function|glyphIndex
