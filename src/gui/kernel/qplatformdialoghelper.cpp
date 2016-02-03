@@ -26,6 +26,7 @@ DECL|function|cleanFilterList
 DECL|function|customColor
 DECL|function|customColorCount
 DECL|function|customColors
+DECL|function|defaultNameFilterString
 DECL|function|defaultStyleHint
 DECL|function|defaultSuffix
 DECL|function|detailedText
@@ -84,6 +85,7 @@ DECL|function|setStandardButtons
 DECL|function|setStandardColor
 DECL|function|setSupportedSchemes
 DECL|function|setText
+DECL|function|setUseDefaultNameFilters
 DECL|function|setViewMode
 DECL|function|setWindowTitle
 DECL|function|setWindowTitle
@@ -99,6 +101,7 @@ DECL|function|testOption
 DECL|function|testOption
 DECL|function|testOption
 DECL|function|text
+DECL|function|useDefaultNameFilters
 DECL|function|viewMode
 DECL|function|windowTitle
 DECL|function|windowTitle
@@ -136,6 +139,7 @@ DECL|member|sidebarUrls
 DECL|member|standardRgb
 DECL|member|supportedSchemes
 DECL|member|text
+DECL|member|useDefaultNameFilters
 DECL|member|viewMode
 DECL|member|windowTitle
 DECL|member|windowTitle
