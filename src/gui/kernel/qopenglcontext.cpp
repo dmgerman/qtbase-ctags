@@ -28,7 +28,7 @@ DECL|function|format
 DECL|function|free
 DECL|function|freeResource
 DECL|function|functions
-DECL|function|functionsBackend
+DECL|function|functionsBackendStorage
 DECL|function|getProcAddress
 DECL|function|getProcAddress
 DECL|function|globalShareContext
@@ -37,7 +37,6 @@ DECL|function|hasExtension
 DECL|function|hasProfiles
 DECL|function|insert
 DECL|function|insertExternalFunctions
-DECL|function|insertFunctionsBackend
 DECL|function|isLegacyVersion
 DECL|function|isOpenGLES
 DECL|function|isValid
@@ -54,7 +53,6 @@ DECL|function|qt_gl_global_share_context
 DECL|function|qt_gl_set_global_share_context
 DECL|function|removeContext
 DECL|function|removeExternalFunctions
-DECL|function|removeFunctionsBackend
 DECL|function|resources
 DECL|function|screen
 DECL|function|setCurrentContext
