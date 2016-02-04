@@ -10,7 +10,6 @@ DECL|function|hasPendingEvents
 DECL|function|init
 DECL|function|initThreadPipeFD
 DECL|function|interrupt
-DECL|function|make_pollfd
 DECL|function|markPendingSocketNotifiers
 DECL|function|prepare
 DECL|function|processEvents
