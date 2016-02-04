@@ -1,8 +1,5 @@
-DECL|function|millisecsToTimespec
 DECL|function|qt_ppoll
 DECL|function|qt_safe_poll
-DECL|function|qt_safe_select
-DECL|function|qt_select_msecs
 DECL|function|time_update
 DECL|function|timespecToMillisecs
 DECL|macro|QT_HAVE_PPOLL
