@@ -25,6 +25,8 @@ DECL|function|_hb_qt_unicode_mirroring
 DECL|function|_hb_qt_unicode_script
 DECL|function|_hb_unicode_funcs_t
 DECL|function|hb_qt_face_get_for_engine
+DECL|function|hb_qt_face_get_ignore_gsub
+DECL|function|hb_qt_face_set_ignore_gsub
 DECL|function|hb_qt_font_get_for_engine
 DECL|function|hb_qt_font_get_use_design_metrics
 DECL|function|hb_qt_font_set_use_design_metrics
@@ -38,6 +40,7 @@ DECL|member|funcs
 DECL|member|funcs
 DECL|struct|_hb_qt_font_funcs_t
 DECL|struct|_hb_unicode_funcs_t
+DECL|variable|_ignoreGSUB
 DECL|variable|_qtcategory_to_hbcategory
 DECL|variable|_qtscript_to_hbscript
 DECL|variable|_useDesignMetricsKey
