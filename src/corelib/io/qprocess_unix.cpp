@@ -31,7 +31,6 @@ DECL|function|waitForDeadChild
 DECL|function|waitForFinished
 DECL|function|waitForReadyRead
 DECL|function|waitForStarted
-DECL|function|waitForWrite
 DECL|function|writeToStdin
 DECL|macro|environ
 DECL|member|pfds

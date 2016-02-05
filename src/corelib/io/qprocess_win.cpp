@@ -22,6 +22,5 @@ DECL|function|waitForBytesWritten
 DECL|function|waitForFinished
 DECL|function|waitForReadyRead
 DECL|function|waitForStarted
-DECL|function|waitForWrite
 DECL|function|writeToStdin
 DECL|macro|PIPE_REJECT_REMOTE_CLIENTS
