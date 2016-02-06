@@ -1,6 +1,7 @@
 DECL|class|A
 DECL|class|AConst
 DECL|class|tst_QtConcurrentRun
+DECL|function|allFinished
 DECL|function|doubleFunction
 DECL|function|exceptions
 DECL|function|fn
@@ -38,12 +39,14 @@ DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
+DECL|function|pollForIsFinished
 DECL|function|recursive
 DECL|function|recursiveResult
 DECL|function|recursiveRun
 DECL|function|returnInt0
 DECL|function|returnInt1
 DECL|function|returnValue
+DECL|function|runFunction
 DECL|function|runHeavyFunction
 DECL|function|runLightFunction
 DECL|function|runWaitLoop
