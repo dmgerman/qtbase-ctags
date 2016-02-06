@@ -84,6 +84,8 @@ DECL|function|position
 DECL|function|removeEditor
 DECL|function|renderToPixmap
 DECL|function|reset
+DECL|function|resetHorizontalScrollMode
+DECL|function|resetVerticalScrollMode
 DECL|function|resizeEvent
 DECL|function|rootIndex
 DECL|function|rowsAboutToBeRemoved

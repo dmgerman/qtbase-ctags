@@ -4,6 +4,7 @@ DECL|class|PublicListView
 DECL|class|QListViewShowEventListener
 DECL|class|QMoveCursorListView
 DECL|class|QtTestModel
+DECL|class|ScrollPerItemListView
 DECL|class|SetCurrentIndexAfterAppendRowCrashDialog
 DECL|class|TempStyleSetter
 DECL|class|TestDelegate
@@ -24,6 +25,7 @@ DECL|function|PublicListView
 DECL|function|QListViewShowEventListener
 DECL|function|QMoveCursorListView
 DECL|function|QtTestModel
+DECL|function|ScrollPerItemListView
 DECL|function|SetCurrentIndexAfterAppendRowCrashDialog
 DECL|function|TempStyleSetter
 DECL|function|TestDelegate

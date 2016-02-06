@@ -1,5 +1,6 @@
 DECL|class|GeometriesTestView
 DECL|class|MyAbstractItemDelegate
+DECL|class|ScrollModeProxyStyle
 DECL|class|StateChangeDelegate
 DECL|class|StateChangeModel
 DECL|class|TestModel
@@ -28,8 +29,10 @@ DECL|function|MyAbstractItemDelegate
 DECL|function|QTBUG31411_noSelection
 DECL|function|QTBUG39324_settingSameInstanceOfIndexWidget
 DECL|function|QTBUG48968_reentrant_updateEditorGeometries
+DECL|function|QTBUG50102_SH_ItemView_ScrollMode
 DECL|function|QTBUG6407_extendedSelection
 DECL|function|QTBUG6753_selectOnSelection
+DECL|function|ScrollModeProxyStyle
 DECL|function|StateChangeDelegate
 DECL|function|StateChangeModel
 DECL|function|TestModel
@@ -116,6 +119,7 @@ DECL|function|tst_viewOptions
 DECL|function|tst_visualRegionForSelection
 DECL|member|calledVirtualDtor
 DECL|member|openedEditor
+DECL|member|scrollMode
 DECL|member|setData_count
 DECL|member|size
 DECL|member|updateGeometriesCalled
