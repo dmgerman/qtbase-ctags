@@ -11,6 +11,7 @@ DECL|function|deleteNode
 DECL|function|deleteNode2
 DECL|function|detach_helper
 DECL|function|duplicateNode
+DECL|function|equal_range
 DECL|function|erase
 DECL|function|find
 DECL|function|find
@@ -120,12 +121,18 @@ DECL|member|Key
 DECL|member|Key
 DECL|member|Key
 DECL|member|Key
+DECL|member|Key
+DECL|member|Key
+DECL|member|Key
+DECL|member|Key
 DECL|member|QMultiHash
 DECL|member|buckets
+DECL|member|const_iterator
 DECL|member|fakeNext
 DECL|member|h
 DECL|member|h
 DECL|member|h
+DECL|member|iterator
 DECL|member|key
 DECL|member|key
 DECL|member|next

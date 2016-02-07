@@ -16,6 +16,7 @@ DECL|function|contains
 DECL|function|count
 DECL|function|dont_need_default_constructor
 DECL|function|empty
+DECL|function|equal_range
 DECL|function|erase
 DECL|function|eraseValidIteratorOnSharedHash
 DECL|function|find
