@@ -122,7 +122,8 @@ DECL|member|center
 DECL|member|clip
 DECL|member|color
 DECL|member|colorTable
-DECL|member|colorTable
+DECL|member|colorTable32
+DECL|member|colorTable64
 DECL|member|conical
 DECL|member|const_alpha
 DECL|member|convertFromARGB32PM
