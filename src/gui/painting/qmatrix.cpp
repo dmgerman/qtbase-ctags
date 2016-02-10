@@ -1,6 +1,6 @@
 DECL|function|QMatrix
 DECL|function|QMatrix
-DECL|function|QMatrix
+DECL|function|_dy
 DECL|function|inverted
 DECL|function|map
 DECL|function|map
@@ -21,7 +21,6 @@ DECL|function|operator *
 DECL|function|operator *=
 DECL|function|operator <<
 DECL|function|operator <<
-DECL|function|operator =
 DECL|function|operator ==
 DECL|function|operator >>
 DECL|function|operator QVariant
