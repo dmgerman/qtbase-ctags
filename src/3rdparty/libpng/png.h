@@ -382,7 +382,7 @@ DECL|typedef|png_info
 DECL|typedef|png_infop
 DECL|typedef|png_infopp
 DECL|typedef|png_inforp
-DECL|typedef|png_libpng_version_1_6_19
+DECL|typedef|png_libpng_version_1_6_20
 DECL|typedef|png_row_info
 DECL|typedef|png_row_infop
 DECL|typedef|png_row_infopp

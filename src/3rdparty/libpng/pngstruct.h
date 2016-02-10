@@ -190,6 +190,7 @@ DECL|member|zlib_text_window_bits
 DECL|member|zlib_window_bits
 DECL|member|zowner
 DECL|member|zstream
+DECL|member|zstream_start
 DECL|struct|png_XYZ
 DECL|struct|png_colorspace
 DECL|struct|png_compression_buffer
