@@ -1,13 +1,16 @@
+DECL|class|ApplicationStateSaver
 DECL|class|DnDEventLoggerWidget
 DECL|class|EventFilter
 DECL|class|MoveWidget
 DECL|class|PaintTestWidget
 DECL|class|ResizeWidget
 DECL|class|tst_QWidget_window
+DECL|function|ApplicationStateSaver
 DECL|function|DnDEventLoggerWidget
 DECL|function|EventFilter
 DECL|function|MoveWidget
 DECL|function|PaintTestWidget
+DECL|function|QTBUG_50561_QCocoaBackingStore_paintDevice_crash
 DECL|function|ResizeWidget
 DECL|function|cleanup
 DECL|function|cleanupTestCase
@@ -42,6 +45,7 @@ DECL|function|tst_windowFilePath
 DECL|function|tst_windowFilePathAndwindowTitle
 DECL|function|tst_windowFilePathAndwindowTitle_data
 DECL|function|tst_windowFilePath_data
+DECL|function|~ApplicationStateSaver
 DECL|member|eventCount
 DECL|member|m_log
 DECL|member|moveCount
