@@ -27,6 +27,7 @@ DECL|function|styleHint
 DECL|function|styleObject
 DECL|function|subControlRect
 DECL|function|subElementRect
+DECL|function|supportsStateTransition
 DECL|function|transitionsEnabled
 DECL|function|unpolish
 DECL|function|unpolish

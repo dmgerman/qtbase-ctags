@@ -19,5 +19,3 @@ DECL|function|supportsMode
 DECL|function|unregisterViewer
 DECL|function|~QWindowsClipboard
 DECL|member|m_instance
-DECL|variable|formatTextHtmlC
-DECL|variable|formatTextPlainC

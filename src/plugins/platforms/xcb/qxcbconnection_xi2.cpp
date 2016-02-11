@@ -21,6 +21,7 @@ DECL|function|xiToQtMouseButton
 DECL|member|firstPressedNormalPosition
 DECL|member|firstPressedPosition
 DECL|member|pointPressedPosition
+DECL|member|providesTouchOrientation
 DECL|member|qtTouchDevice
 DECL|member|size
 DECL|member|touchPoints

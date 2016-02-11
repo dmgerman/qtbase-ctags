@@ -12,7 +12,6 @@ DECL|function|clearKeyRecorderOnApplicationInActive
 DECL|function|clearKeys
 DECL|function|deleteLayouts
 DECL|function|findKey
-DECL|function|isModifierKey
 DECL|function|messageKeyText
 DECL|function|possibleKeys
 DECL|function|queryKeyboardModifiers

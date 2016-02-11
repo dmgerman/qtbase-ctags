@@ -1,6 +1,7 @@
 DECL|function|QDBusMenuConnection
 DECL|function|dbusError
 DECL|function|registerTrayIcon
+DECL|function|registerTrayIconMenu
 DECL|function|unregisterTrayIcon
 DECL|variable|MenuBarPath
 DECL|variable|StatusNotifierItemPath

@@ -19,7 +19,6 @@ DECL|function|applyToMinMaxInfo
 DECL|function|applyToMinMaxInfo
 DECL|function|applyWindowFlags
 DECL|function|baseWindowOf
-DECL|function|clientSize
 DECL|function|cornerToWinOrientation
 DECL|function|create
 DECL|function|create

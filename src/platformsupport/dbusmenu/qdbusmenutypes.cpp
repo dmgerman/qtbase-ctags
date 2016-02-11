@@ -1,4 +1,5 @@
 DECL|function|QDBusMenuItem
+DECL|function|convertKeySequence
 DECL|function|convertMnemonic
 DECL|function|items
 DECL|function|operator <<
