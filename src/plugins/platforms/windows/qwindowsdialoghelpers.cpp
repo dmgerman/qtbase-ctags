@@ -80,7 +80,6 @@ DECL|function|createNativeDialog
 DECL|function|currentColor
 DECL|function|data
 DECL|function|data
-DECL|function|defaultNameFilterDisables
 DECL|function|dialogResult
 DECL|function|dialogResult
 DECL|function|directory
@@ -110,7 +109,6 @@ DECL|function|hideFiltersDetails
 DECL|function|indexOfNameFilter
 DECL|function|init
 DECL|function|isClsid
-DECL|function|isQQuickWindow
 DECL|function|itemPath
 DECL|function|itemPaths
 DECL|function|libraryItemDefaultSaveFolder
@@ -168,7 +166,6 @@ DECL|function|show
 DECL|function|startDialogThread
 DECL|function|stopTimer
 DECL|function|suffixFromFilter
-DECL|function|supportsNonModalDialog
 DECL|function|supportsNonModalDialog
 DECL|function|timerEvent
 DECL|function|updateDirectory

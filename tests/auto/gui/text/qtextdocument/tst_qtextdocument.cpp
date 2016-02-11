@@ -93,6 +93,7 @@ DECL|function|noundo_isModified2
 DECL|function|noundo_isModified3
 DECL|function|noundo_moreIsModified
 DECL|function|pageCount
+DECL|function|preFont
 DECL|function|receiveCursorPositionChangedAfterContentsChange
 DECL|function|resolvedFontInEmptyFormat
 DECL|function|revisionWithUndoCompressionAndUndo

@@ -6,22 +6,21 @@ DECL|function|fieldInfo
 DECL|function|findAmPm
 DECL|function|findDay
 DECL|function|findMonth
+DECL|function|format
 DECL|function|fromString
 DECL|function|getAmPmText
 DECL|function|getDigit
 DECL|function|getMaximum
 DECL|function|getMinimum
 DECL|function|maxChange
+DECL|function|name
 DECL|function|operator ==
 DECL|function|parse
 DECL|function|parseFormat
 DECL|function|parseSection
 DECL|function|potentialValue
-DECL|function|sectionFormat
-DECL|function|sectionFormat
 DECL|function|sectionMaxSize
 DECL|function|sectionMaxSize
-DECL|function|sectionName
 DECL|function|sectionNode
 DECL|function|sectionPos
 DECL|function|sectionPos

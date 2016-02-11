@@ -3,6 +3,7 @@ DECL|typedef|QDBusMenuEventList
 DECL|typedef|QDBusMenuItemKeysList
 DECL|typedef|QDBusMenuItemList
 DECL|typedef|QDBusMenuLayoutItemList
+DECL|typedef|QDBusMenuShortcut
 DECL|variable|QDBusMenuItem
 DECL|variable|QDBusPlatformMenu
 DECL|variable|QDBusPlatformMenuItem

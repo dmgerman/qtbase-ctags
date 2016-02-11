@@ -20,10 +20,7 @@ DECL|function|mixColors
 DECL|function|operator *
 DECL|function|operator <<
 DECL|function|operator delete
-DECL|function|paletteRoleToString
-DECL|function|paletteToString
 DECL|function|pixmapFromShellImageList
-DECL|function|qColorToCOLORREF
 DECL|function|refreshFonts
 DECL|function|refreshPalettes
 DECL|function|standardPalette
