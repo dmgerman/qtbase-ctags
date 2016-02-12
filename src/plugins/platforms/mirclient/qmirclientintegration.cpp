@@ -11,6 +11,7 @@ DECL|function|createPlatformWindow
 DECL|function|hasCapability
 DECL|function|nativeInterface
 DECL|function|resumedCallback
+DECL|function|screen
 DECL|function|services
 DECL|function|setupDescription
 DECL|function|setupOptions
