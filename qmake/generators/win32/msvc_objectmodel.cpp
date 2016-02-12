@@ -60,7 +60,6 @@ DECL|function|write
 DECL|function|write
 DECL|function|xformExceptionHandlingNET2005
 DECL|function|xformUsePrecompiledHeaderForNET2005
-DECL|function|~VCManifestTool
 DECL|variable|_ATLMinimizesCRunTimeLibraryUsage
 DECL|variable|_AddModuleNamesToAssembly
 DECL|variable|_AdditionalDependencies
