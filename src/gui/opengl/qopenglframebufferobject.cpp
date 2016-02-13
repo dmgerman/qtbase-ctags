@@ -15,6 +15,7 @@ DECL|function|bindDefault
 DECL|function|blitFramebuffer
 DECL|function|blitFramebuffer
 DECL|function|blitFramebuffer
+DECL|function|blitFramebuffer
 DECL|function|checkFramebufferStatus
 DECL|function|detach
 DECL|function|effectiveInternalFormat
