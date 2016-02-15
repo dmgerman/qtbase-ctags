@@ -64,6 +64,8 @@ DECL|field|m_probeKeyboardHeightDelay
 DECL|field|m_quitApp
 DECL|field|m_showHideTimeStamp
 DECL|field|m_softInputMode
+DECL|field|m_splashScreen
+DECL|field|m_splashScreenSticky
 DECL|field|m_started
 DECL|field|m_super_dispatchGenericMotionEvent
 DECL|field|m_super_dispatchKeyEvent
@@ -90,6 +92,7 @@ DECL|method|dispatchKeyEvent
 DECL|method|getAppIconSize
 DECL|method|getSurfaceCount
 DECL|method|hideSoftwareKeyboard
+DECL|method|hideSplashScreen
 DECL|method|initializeAccessibility
 DECL|method|insertNativeView
 DECL|method|loadApplication

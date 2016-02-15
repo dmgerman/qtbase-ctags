@@ -11,6 +11,7 @@ DECL|function|handleActivityResult
 DECL|function|handleNewIntent
 DECL|function|handlePause
 DECL|function|handleResume
+DECL|function|hideSplashScreen
 DECL|function|initJNI
 DECL|function|javaVM
 DECL|function|registerActivityResultListener
@@ -44,6 +45,7 @@ DECL|member|mutex
 DECL|struct|GenericMotionEventListeners
 DECL|struct|KeyEventListeners
 DECL|variable|g_androidSdkVersion
+DECL|variable|g_hideSplashScreenMethodID
 DECL|variable|g_jActivity
 DECL|variable|g_jClassLoader
 DECL|variable|g_jNativeClass

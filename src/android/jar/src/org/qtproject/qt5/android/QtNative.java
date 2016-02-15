@@ -41,6 +41,7 @@ DECL|method|getSSLCertificates
 DECL|method|handleOrientationChanged
 DECL|method|hasClipboardText
 DECL|method|hideSoftwareKeyboard
+DECL|method|hideSplashScreen
 DECL|method|initializeAccessibility
 DECL|method|insertNativeView
 DECL|method|keyDown
