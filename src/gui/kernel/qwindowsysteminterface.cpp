@@ -62,8 +62,8 @@ DECL|function|peekWindowSystemEvent
 DECL|function|postWindowSystemEvent
 DECL|function|qt_handleKeyEvent
 DECL|function|qt_handleMouseEvent
-DECL|function|qt_handleShortcutEvent
 DECL|function|qt_handleTouchEvent
+DECL|function|qt_sendShortcutOverrideEvent
 DECL|function|registerTouchDevice
 DECL|function|removeWindowSystemEvent
 DECL|function|removeWindowSystemEventhandler

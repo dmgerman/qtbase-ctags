@@ -31,6 +31,7 @@ DECL|function|showYellowThing_win
 DECL|function|staticContents
 DECL|function|sync
 DECL|function|sync
+DECL|function|syncAllowed
 DECL|function|unflushPaint
 DECL|function|updateLists
 DECL|function|watch
