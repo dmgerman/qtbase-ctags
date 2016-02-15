@@ -17,6 +17,7 @@ DECL|function|setMouseDoubleClickInterval
 DECL|function|setMousePressAndHoldInterval
 DECL|function|setStartDragDistance
 DECL|function|setStartDragTime
+DECL|function|setTabFocusBehavior
 DECL|function|showIsFullScreen
 DECL|function|showIsMaximized
 DECL|function|singleClickActivation
@@ -32,3 +33,4 @@ DECL|member|m_mouseDoubleClickInterval
 DECL|member|m_mousePressAndHoldInterval
 DECL|member|m_startDragDistance
 DECL|member|m_startDragTime
+DECL|member|m_tabFocusBehavior
