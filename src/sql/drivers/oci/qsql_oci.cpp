@@ -4,7 +4,10 @@ DECL|class|QOCIDriverPrivate
 DECL|class|QOCIResult
 DECL|class|QOCIResultPrivate
 DECL|class|QOCIRowId
+DECL|enumerator|AndExpression
+DECL|enumerator|OrExpression
 DECL|enumerator|QOCIEncoding
+DECL|enum|Expression
 DECL|function|OraFieldInf
 DECL|function|QOCIBatchCleanupHandler
 DECL|function|QOCIBatchColumn
@@ -39,6 +42,7 @@ DECL|function|hasFeature
 DECL|function|isBinaryValue
 DECL|function|isOutValue
 DECL|function|lastInsertId
+DECL|function|make_where_clause
 DECL|function|numRowsAffected
 DECL|function|open
 DECL|function|outValues
