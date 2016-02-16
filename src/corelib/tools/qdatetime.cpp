@@ -65,6 +65,7 @@ DECL|function|fromTime_t
 DECL|function|fromTime_t
 DECL|function|fromTime_t
 DECL|function|getDate
+DECL|function|getDate
 DECL|function|getDateFromJulianDay
 DECL|function|getDateTime
 DECL|function|hour
