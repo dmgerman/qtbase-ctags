@@ -6,6 +6,7 @@ DECL|function|animationTargets
 DECL|function|cachedPixmapFromXPM
 DECL|function|calcArrow
 DECL|function|cbegin
+DECL|function|clearTextIcon
 DECL|function|drawArrow
 DECL|function|drawComplexControl
 DECL|function|drawControl
