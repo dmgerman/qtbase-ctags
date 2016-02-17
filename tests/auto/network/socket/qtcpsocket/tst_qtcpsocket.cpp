@@ -137,6 +137,7 @@ DECL|function|waitForReadyRead
 DECL|function|waitForReadyReadInASlot
 DECL|function|waitForReadyReadInASlotSlot
 DECL|function|waitForReadyReadMinusOne
+DECL|function|writeOnReadBufferOverflow
 DECL|function|zeroAndMinusOneReturns
 DECL|function|~Foo
 DECL|function|~ReceiverThread
