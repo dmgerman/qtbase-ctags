@@ -19,6 +19,8 @@ DECL|field|m_mainActivityMutex
 DECL|field|m_moveThreshold
 DECL|field|m_oldx
 DECL|field|m_oldy
+DECL|field|m_service
+DECL|field|m_serviceDelegate
 DECL|field|m_started
 DECL|field|runPendingCppRunnablesRunnable
 DECL|method|activity
@@ -72,6 +74,8 @@ DECL|method|runPendingCppRunnables
 DECL|method|runPendingCppRunnablesOnUiThread
 DECL|method|sendTouchEvent
 DECL|method|sendTrackballEvent
+DECL|method|service
+DECL|method|serviceDelegate
 DECL|method|setActivity
 DECL|method|setApplicationDisplayMetrics
 DECL|method|setApplicationState
@@ -79,6 +83,9 @@ DECL|method|setClassLoader
 DECL|method|setClipboardText
 DECL|method|setDisplayMetrics
 DECL|method|setFullScreen
+DECL|method|setNativeActivity
+DECL|method|setNativeService
+DECL|method|setService
 DECL|method|setSurface
 DECL|method|setSurfaceGeometry
 DECL|method|setViewVisibility

@@ -27,6 +27,7 @@ DECL|function|qtTagText
 DECL|function|quitQtAndroidPlugin
 DECL|function|registerNatives
 DECL|function|scaledDensity
+DECL|function|service
 DECL|function|setAndroidPlatformIntegration
 DECL|function|setApplicationActive
 DECL|function|setDisplayMetrics
@@ -83,6 +84,7 @@ DECL|variable|m_qtAppThread
 DECL|variable|m_qtTag
 DECL|variable|m_resourcesObj
 DECL|variable|m_scaledDensity
+DECL|variable|m_serviceObject
 DECL|variable|m_setSurfaceGeometryMethodID
 DECL|variable|m_statusBarShowing
 DECL|variable|m_surfaceId

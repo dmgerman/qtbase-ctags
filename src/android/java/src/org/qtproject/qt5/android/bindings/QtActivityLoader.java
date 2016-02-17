@@ -1,0 +1,12 @@
+DECL|class|QtActivityLoader
+DECL|field|m_activity
+DECL|method|QtActivityLoader
+DECL|method|contextClassName
+DECL|method|downloadUpgradeMinistro
+DECL|method|finish
+DECL|method|getIntent
+DECL|method|getTitle
+DECL|method|loaderClassName
+DECL|method|onCreate
+DECL|method|runOnUiThread
+DECL|package|org.qtproject.qt5.android.bindings

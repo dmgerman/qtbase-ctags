@@ -22,7 +22,10 @@ DECL|function|runOnAndroidThread
 DECL|function|runOnAndroidThreadSync
 DECL|function|runOnUiThread
 DECL|function|runPendingCppRunnables
+DECL|function|service
 DECL|function|setAndroidSdkVersion
+DECL|function|setNativeActivity
+DECL|function|setNativeService
 DECL|function|unregisterActivityResultListener
 DECL|function|unregisterGenericMotionEventListener
 DECL|function|unregisterKeyEventListener
@@ -44,5 +47,6 @@ DECL|variable|g_androidSdkVersion
 DECL|variable|g_jActivity
 DECL|variable|g_jClassLoader
 DECL|variable|g_jNativeClass
+DECL|variable|g_jService
 DECL|variable|g_javaVM
 DECL|variable|g_runPendingCppRunnablesMethodID

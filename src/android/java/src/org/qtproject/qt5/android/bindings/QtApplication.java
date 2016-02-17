@@ -1,6 +1,7 @@
 DECL|class|InvokeResult
 DECL|class|QtApplication
 DECL|field|QtTAG
+DECL|field|activityClassName
 DECL|field|dispatchGenericMotionEvent
 DECL|field|dispatchKeyEvent
 DECL|field|dispatchKeyShortcutEvent
@@ -25,5 +26,5 @@ DECL|field|stackDeep
 DECL|method|invokeDelegate
 DECL|method|invokeDelegateMethod
 DECL|method|onTerminate
-DECL|method|setQtActivityDelegate
+DECL|method|setQtContextDelegate
 DECL|package|org.qtproject.qt5.android.bindings
