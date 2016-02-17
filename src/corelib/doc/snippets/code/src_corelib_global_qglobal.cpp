@@ -43,6 +43,8 @@ DECL|member|x
 DECL|member|y
 DECL|namespace|QT_NAMESPACE
 DECL|struct|A
+DECL|struct|Foo
+DECL|struct|Foo
 DECL|struct|Point2D
 DECL|typedef|Flags
 DECL|variable|a

@@ -41,7 +41,6 @@ DECL|function|isValid
 DECL|function|isVisible
 DECL|function|iterator
 DECL|function|iterator
-DECL|function|iterator
 DECL|function|lastCursorPosition
 DECL|function|lastPosition
 DECL|function|layout
@@ -56,7 +55,6 @@ DECL|function|operator ++
 DECL|function|operator ++
 DECL|function|operator --
 DECL|function|operator --
-DECL|function|operator =
 DECL|function|parentFrame
 DECL|function|position
 DECL|function|position
