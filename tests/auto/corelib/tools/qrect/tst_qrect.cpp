@@ -132,6 +132,8 @@ DECL|function|topRight_data
 DECL|function|top_data
 DECL|function|translate
 DECL|function|translate_data
+DECL|function|transposed
+DECL|function|transposed_data
 DECL|function|unitedRect
 DECL|function|unitedRectF
 DECL|function|unitedRectF_data
