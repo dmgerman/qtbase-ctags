@@ -30,6 +30,7 @@ DECL|function|convertRGBToARGB_helper
 DECL|function|convoluteBitmap
 DECL|function|descent
 DECL|function|doKerning
+DECL|function|dont_delete
 DECL|function|emSquareSize
 DECL|function|faceId
 DECL|function|filterPixel
