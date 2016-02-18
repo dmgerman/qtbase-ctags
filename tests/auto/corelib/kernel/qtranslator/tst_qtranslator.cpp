@@ -13,4 +13,5 @@ DECL|function|testLanguageChange
 DECL|function|threadLoad
 DECL|function|translate_qm_file_generated_with_msgfmt
 DECL|function|tst_QTranslator
+DECL|member|dataDir
 DECL|member|languageChangeEventCounter

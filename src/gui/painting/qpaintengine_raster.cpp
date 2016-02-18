@@ -157,7 +157,8 @@ DECL|macro|int_dim
 DECL|macro|qreal_to_fixed_26_6
 DECL|macro|qt_swap_int
 DECL|macro|qt_swap_qreal
-DECL|member|buffer
+DECL|member|buffer32
+DECL|member|buffer64
 DECL|member|cache
 DECL|member|interpolationMode
 DECL|member|mutex
@@ -172,6 +173,7 @@ DECL|member|y
 DECL|struct|CacheInfo
 DECL|struct|ClipData
 DECL|struct|QRasterFloatPoint
+DECL|typedef|ColorBufferPair
 DECL|typedef|QGradientColorTableHash
 DECL|variable|aliasedCoordinateDelta
 DECL|variable|rectClips
