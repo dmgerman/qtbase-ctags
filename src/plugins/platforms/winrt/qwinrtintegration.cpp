@@ -1,5 +1,6 @@
 DECL|class|QWinRTIntegrationPrivate
 DECL|function|QWinRTIntegration
+DECL|function|clipboard
 DECL|function|createEventDispatcher
 DECL|function|createPlatformBackingStore
 DECL|function|createPlatformOffscreenSurface
@@ -30,6 +31,7 @@ DECL|member|applicationTokens
 DECL|member|buttonsTokens
 DECL|member|cameraButtons
 DECL|member|cameraTokens
+DECL|member|clipboard
 DECL|member|fontDatabase
 DECL|member|hardwareButtons
 DECL|member|hasHardwareButtons

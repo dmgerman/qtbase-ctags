@@ -14,6 +14,7 @@ DECL|function|activateEventNotifiers
 DECL|function|calculateNextTimeout
 DECL|function|closingDown
 DECL|function|createInternalHwnd
+DECL|function|doUnregisterSocketNotifier
 DECL|function|doWsaAsyncSelect
 DECL|function|event
 DECL|function|flush

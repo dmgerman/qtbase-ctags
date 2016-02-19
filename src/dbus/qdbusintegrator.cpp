@@ -86,6 +86,7 @@ DECL|function|~QDBusBlockingCallWatcher
 DECL|function|~QDBusConnectionPrivate
 DECL|function|~QDBusSpyCallEvent
 DECL|macro|DBUS_TYPE_UNIX_FD
+DECL|macro|interface
 DECL|macro|qDBusDebug
 DECL|member|m_callTimer
 DECL|member|m_maxCallTimeoutMs

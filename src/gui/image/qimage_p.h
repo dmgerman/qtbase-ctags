@@ -1,6 +1,7 @@
 DECL|function|qt_alphaVersion
 DECL|function|qt_alphaVersionForPainting
 DECL|function|qt_depthForFormat
+DECL|function|qt_maybeAlphaVersionWithSameDepth
 DECL|macro|QIMAGE_P_H
 DECL|member|QString
 DECL|member|bytes_per_line

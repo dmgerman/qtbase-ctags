@@ -1,4 +1,2 @@
+DECL|function|Q_DECLARE_LOGGING_CATEGORY
 DECL|macro|QWINRTFONTDATABASE_H
-DECL|member|index
-DECL|member|uuid
-DECL|struct|FontDescription

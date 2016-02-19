@@ -59,6 +59,7 @@ DECL|function|unregisterObject
 DECL|function|unregisterService
 DECL|function|~QDBusConnection
 DECL|function|~QDBusConnectionManager
+DECL|macro|interface
 DECL|member|busAddress
 DECL|member|busType
 DECL|member|con

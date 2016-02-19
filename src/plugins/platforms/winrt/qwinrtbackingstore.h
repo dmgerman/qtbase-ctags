@@ -1,3 +1,2 @@
 DECL|macro|QWINRTBACKINGSTORE_H
 DECL|variable|QWinRTBackingStorePrivate
-DECL|variable|QWinRTScreen
