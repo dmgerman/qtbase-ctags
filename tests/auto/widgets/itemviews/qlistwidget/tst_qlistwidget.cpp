@@ -14,6 +14,7 @@ DECL|enum|ModelChanged
 DECL|function|ItemDelegate
 DECL|function|MyListWidget
 DECL|function|QTBUG14363_completerWithAnyKeyPressedEditTriggers
+DECL|function|QTBUG50891_ensureSelectionModelSignalConnectionsAreSet
 DECL|function|QTBUG8086_currentItemChangedOnClick
 DECL|function|TestListWidget
 DECL|function|addItem

@@ -82,6 +82,7 @@ DECL|function|setItemHidden
 DECL|function|setItemSelected
 DECL|function|setItemWidget
 DECL|function|setModel
+DECL|function|setSelectionModel
 DECL|function|setSortingEnabled
 DECL|function|setup
 DECL|function|sort
