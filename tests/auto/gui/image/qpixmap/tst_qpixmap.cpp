@@ -57,6 +57,7 @@ DECL|function|setGetMask_data
 DECL|function|splash_crash
 DECL|function|swap
 DECL|function|task_246446
+DECL|function|task_51271
 DECL|function|testMetrics
 DECL|function|toImageDeepCopy
 DECL|function|toWinHBITMAP
