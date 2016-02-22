@@ -27,6 +27,7 @@ DECL|function|handleWindowStateChangedEvent
 DECL|function|nativeEvent
 DECL|function|repaintWindow
 DECL|function|sendScreenChangeRecursively
+DECL|function|shouldBePropagatedToWidget
 DECL|function|updateMargins
 DECL|function|updateNormalGeometry
 DECL|function|updateObjectName
