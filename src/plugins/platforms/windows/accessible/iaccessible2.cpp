@@ -11,6 +11,7 @@ DECL|function|Release
 DECL|function|Release
 DECL|function|Release
 DECL|function|addSelection
+DECL|function|coTaskMemAllocArray
 DECL|function|copyText
 DECL|function|cutText
 DECL|function|deleteText
