@@ -1,8 +1,12 @@
+DECL|function|CreateMagicMatchRuleResult
 DECL|function|createMagicMatchRule
 DECL|function|nextState
 DECL|function|parse
 DECL|function|parseNumber
 DECL|macro|QT_NO_CAST_FROM_ASCII
+DECL|member|errorMessage
+DECL|member|rule
+DECL|struct|CreateMagicMatchRuleResult
 DECL|variable|aliasTagC
 DECL|variable|caseSensitiveAttributeC
 DECL|variable|commentTagC
