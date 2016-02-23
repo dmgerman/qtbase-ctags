@@ -69,6 +69,7 @@ DECL|function|toPrettyCString
 DECL|function|toPrettyUnicode
 DECL|function|toString
 DECL|function|toString
+DECL|function|toString
 DECL|function|windowsFaultHandler
 DECL|function|~DebugSymbolResolver
 DECL|function|~FatalSignalHandler
