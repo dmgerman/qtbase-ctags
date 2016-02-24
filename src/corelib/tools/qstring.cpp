@@ -21,7 +21,6 @@ DECL|function|append
 DECL|function|append
 DECL|function|append
 DECL|function|append
-DECL|function|appendLatin1To
 DECL|function|appendTo
 DECL|function|append_utf8
 DECL|function|arg

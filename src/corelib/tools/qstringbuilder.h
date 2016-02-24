@@ -1,9 +1,9 @@
-DECL|function|convertFromAscii
 DECL|function|toLower
 DECL|function|toUpper
 DECL|macro|QSTRINGBUILDER_H
+DECL|member|Q_DECL_NOTHROW
+DECL|member|Q_DECL_NOTHROW
 DECL|member|len
-DECL|member|out
 DECL|member|protected
 DECL|member|protected
 DECL|struct|QAbstractConcatenable
