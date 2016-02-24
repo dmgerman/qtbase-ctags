@@ -1,14 +1,17 @@
 DECL|class|Menu
 DECL|class|Menu258920
 DECL|class|MyMenu
+DECL|class|MyWidget
 DECL|class|PopulateOnAboutToShowTestMenu
 DECL|class|SubMenuPositionExecMenu
 DECL|class|tst_QMenu
 DECL|enumerator|num_builtins
 DECL|function|MyMenu
+DECL|function|MyWidget
 DECL|function|PopulateOnAboutToShowTestMenu
 DECL|function|QTBUG20403_nested_popup_on_shortcut_trigger
 DECL|function|QTBUG30595_rtl_submenu
+DECL|function|QTBUG47515_widgetActionEnterLeave
 DECL|function|QTBUG7411_submenus_activate
 DECL|function|QTBUG7907_submenus_autoselect
 DECL|function|QTBUG_10735_crashWithDialog
@@ -63,8 +66,10 @@ DECL|member|activated
 DECL|member|builtins
 DECL|member|dialogActions
 DECL|member|dialogs
+DECL|member|enter
 DECL|member|highlighted
 DECL|member|lastMenu
+DECL|member|leave
 DECL|member|m_currentIndex
 DECL|member|m_onStatusTipTimerExecuted
 DECL|member|m_subAction
@@ -72,6 +77,7 @@ DECL|member|m_subMenu
 DECL|member|m_timerId
 DECL|member|m_timerTick
 DECL|member|menus
+DECL|member|move
 DECL|member|painted
 DECL|member|statustip
 DECL|variable|Key

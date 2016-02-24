@@ -51,6 +51,7 @@ DECL|function|initDirectWrite
 DECL|function|loader
 DECL|function|localizedName
 DECL|function|operator <<
+DECL|function|operator <<
 DECL|function|populateFamily
 DECL|function|populateFamily
 DECL|function|populateFontDatabase

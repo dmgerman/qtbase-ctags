@@ -155,7 +155,8 @@ DECL|function|setModel
 DECL|function|setSelection
 DECL|function|setSelection
 DECL|function|setSelection_data
-DECL|function|setSortingEnabled
+DECL|function|setSortingEnabledChild
+DECL|function|setSortingEnabledTopLevel
 DECL|function|sizeHint
 DECL|function|sizeHintForColumn
 DECL|function|slotCurrentChanged
