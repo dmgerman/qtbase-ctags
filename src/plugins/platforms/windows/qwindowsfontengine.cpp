@@ -44,6 +44,7 @@ DECL|function|qt_to_qpointf
 DECL|function|recalcAdvances
 DECL|function|resolveGetCharWidthI
 DECL|function|selectDesignFont
+DECL|function|stringFromOutLineTextMetric
 DECL|function|stringToCMap
 DECL|function|supportsTransformation
 DECL|function|synthesized

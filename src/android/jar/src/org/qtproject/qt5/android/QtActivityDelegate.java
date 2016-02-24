@@ -74,6 +74,7 @@ DECL|field|m_super_onKeyUp
 DECL|field|m_super_onRestoreInstanceState
 DECL|field|m_super_onRetainNonConfigurationInstance
 DECL|field|m_super_onSaveInstanceState
+DECL|field|m_super_onWindowFocusChanged
 DECL|field|m_surfaces
 DECL|field|socket
 DECL|field|wasFailure
@@ -114,6 +115,7 @@ DECL|method|onRetainNonConfigurationInstance
 DECL|method|onSaveInstanceState
 DECL|method|onStop
 DECL|method|onTerminate
+DECL|method|onWindowFocusChanged
 DECL|method|openContextMenu
 DECL|method|resetOptionsMenu
 DECL|method|resetSoftwareKeyboard

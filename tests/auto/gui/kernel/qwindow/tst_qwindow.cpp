@@ -16,6 +16,7 @@ DECL|function|cleanup
 DECL|function|close
 DECL|function|create
 DECL|function|event
+DECL|function|event
 DECL|function|eventFilter
 DECL|function|eventFilter
 DECL|function|eventIndex
@@ -33,6 +34,7 @@ DECL|function|mapGlobal
 DECL|function|mask
 DECL|function|modalDialog
 DECL|function|modalDialogClosingOneOfTwoModal
+DECL|function|modalWindowEnterEventOnHide_QTBUG35109
 DECL|function|modalWindowModallity
 DECL|function|modalWindowPosition
 DECL|function|modalWithChildWindow
@@ -79,6 +81,7 @@ DECL|function|visibility
 DECL|function|windowModality
 DECL|function|windowModality_QTBUG27039
 DECL|function|windowsTransientChildren
+DECL|member|enterEventCount
 DECL|member|eventDevice
 DECL|member|eventGlobal
 DECL|member|eventLocal
@@ -87,6 +90,7 @@ DECL|member|ignoreMouse
 DECL|member|ignoreTouch
 DECL|member|keyPressCode
 DECL|member|keyReleaseCode
+DECL|member|leaveEventCount
 DECL|member|m_alwaysExisted
 DECL|member|m_availableTopLeft
 DECL|member|m_color
