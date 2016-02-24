@@ -52,6 +52,9 @@ DECL|function|mergedChannels
 DECL|function|nativeArguments
 DECL|function|onlyOneStartedSignal
 DECL|function|openModes
+DECL|function|processApplicationEvents
+DECL|function|processEventsInAReadyReadSlot
+DECL|function|processEventsInAReadyReadSlot_data
 DECL|function|processInAThread
 DECL|function|processesInMultipleThreads
 DECL|function|readFromProcess
