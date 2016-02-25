@@ -20,6 +20,16 @@ DECL|function|alphaShift
 DECL|function|alphaShift
 DECL|function|alphaShift
 DECL|function|alphaShift
+DECL|function|alphaShift
+DECL|function|alphaShift
+DECL|function|alphaShift
+DECL|function|alphaShift
+DECL|function|alphaShift
+DECL|function|alphaWidth
+DECL|function|alphaWidth
+DECL|function|alphaWidth
+DECL|function|alphaWidth
+DECL|function|alphaWidth
 DECL|function|alphaWidth
 DECL|function|alphaWidth
 DECL|function|alphaWidth
@@ -79,7 +89,6 @@ DECL|function|convertARGB32PMToARGB64PM
 DECL|function|convertARGB32ToARGB32PM
 DECL|function|convertARGB32ToARGB64PM
 DECL|function|convertARGBPMFromARGB32PM
-DECL|function|convertARGBPMFromRGB32
 DECL|function|convertARGBPMToARGB32PM
 DECL|function|convertARGBPMToARGB64PM
 DECL|function|convertAlpha8FromARGB32PM
@@ -103,7 +112,6 @@ DECL|function|convertRGBA8888PMToARGB64PM
 DECL|function|convertRGBA8888ToARGB32PM
 DECL|function|convertRGBA8888ToARGB64PM
 DECL|function|convertRGBFromARGB32PM
-DECL|function|convertRGBFromRGB32
 DECL|function|convertRGBXFromARGB32PM
 DECL|function|convertRGBXFromRGB32
 DECL|function|convertToRGB32
