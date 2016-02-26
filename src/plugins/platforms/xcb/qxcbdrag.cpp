@@ -11,6 +11,7 @@ DECL|function|endDrag
 DECL|function|findRealWindow
 DECL|function|findTransactionByTime
 DECL|function|findTransactionByWindow
+DECL|function|findXdndAwareParent
 DECL|function|formats_sys
 DECL|function|handleDrop
 DECL|function|handleEnter
