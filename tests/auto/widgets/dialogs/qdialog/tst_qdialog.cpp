@@ -13,6 +13,7 @@ DECL|function|deleteInExec
 DECL|function|deleteMainDefault
 DECL|function|dialogInGraphicsView
 DECL|function|exec
+DECL|function|formatPoint
 DECL|function|getSetCheck
 DECL|function|initTestCase
 DECL|function|reject
