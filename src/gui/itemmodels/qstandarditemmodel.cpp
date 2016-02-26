@@ -74,6 +74,7 @@ DECL|function|operator >>
 DECL|function|parent
 DECL|function|parent
 DECL|function|position
+DECL|function|qStandardItemModelDataListMimeType
 DECL|function|read
 DECL|function|removeColumn
 DECL|function|removeColumns
