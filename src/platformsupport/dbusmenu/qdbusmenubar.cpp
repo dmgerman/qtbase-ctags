@@ -1,4 +1,5 @@
 DECL|function|QDBusMenuBar
+DECL|function|createMenu
 DECL|function|handleReparent
 DECL|function|insertMenu
 DECL|function|menuForTag

@@ -13,9 +13,6 @@ DECL|function|checkDBusGlobalMenuAvailable
 DECL|function|clear
 DECL|function|configureFonts
 DECL|function|createKdeTheme
-DECL|function|createPlatformMenu
-DECL|function|createPlatformMenu
-DECL|function|createPlatformMenu
 DECL|function|createPlatformMenuBar
 DECL|function|createPlatformMenuBar
 DECL|function|createPlatformMenuBar
