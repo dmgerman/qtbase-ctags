@@ -34,6 +34,7 @@ DECL|function|deleteAction
 DECL|function|deleteActionInTriggered
 DECL|function|focus
 DECL|function|getSetCheck
+DECL|function|getTornOffMenu
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|keyboardNavigation

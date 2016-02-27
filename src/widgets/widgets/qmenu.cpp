@@ -99,6 +99,8 @@ DECL|function|setSyncAction
 DECL|function|setTearOffEnabled
 DECL|function|setTitle
 DECL|function|setToolTipsVisible
+DECL|function|showTearOffMenu
+DECL|function|showTearOffMenu
 DECL|function|sizeHint
 DECL|function|syncPlatformMenu
 DECL|function|syncWithMenu
