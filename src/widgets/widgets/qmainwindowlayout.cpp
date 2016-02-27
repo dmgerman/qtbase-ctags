@@ -9,6 +9,7 @@ DECL|function|addItem
 DECL|function|addToolBar
 DECL|function|addToolBarBreak
 DECL|function|adjustFlags
+DECL|function|allMyDockWidgets
 DECL|function|animationFinished
 DECL|function|apply
 DECL|function|applyState
