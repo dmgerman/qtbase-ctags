@@ -1,8 +1,10 @@
 DECL|class|FakePointer
+DECL|class|ShGetFileInfoFunction
 DECL|enumerator|sHIL_EXTRALARGE
 DECL|enumerator|sHIL_JUMBO
 DECL|function|COLORREFToQColor
 DECL|function|QWindowsTheme
+DECL|function|ShGetFileInfoFunction
 DECL|function|booleanSystemParametersInfo
 DECL|function|clearFonts
 DECL|function|clearPalettes
@@ -17,12 +19,14 @@ DECL|function|loadIconFromShell32
 DECL|function|menuBarPalette
 DECL|function|menuPalette
 DECL|function|mixColors
+DECL|function|operator ()
 DECL|function|operator *
 DECL|function|operator <<
 DECL|function|operator delete
 DECL|function|pixmapFromShellImageList
 DECL|function|refreshFonts
 DECL|function|refreshPalettes
+DECL|function|shGetFileInfoBackground
 DECL|function|standardPalette
 DECL|function|standardPixmap
 DECL|function|styleNames
@@ -36,5 +40,10 @@ DECL|function|~QWindowsTheme
 DECL|macro|USE_IIMAGELIST
 DECL|macro|_WIN32_WINNT
 DECL|macro|_WIN32_WINNT
+DECL|member|m_attributes
+DECL|member|m_fileName
+DECL|member|m_flags
+DECL|member|m_info
 DECL|member|m_instance
+DECL|member|m_result
 DECL|member|name

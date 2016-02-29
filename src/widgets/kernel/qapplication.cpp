@@ -152,6 +152,7 @@ DECL|member|styleSheet
 DECL|member|sys_font
 DECL|member|sys_pal
 DECL|member|wheel_scroll_lines
+DECL|member|wheel_widget
 DECL|member|widgetCount
 DECL|variable|displayDC
 DECL|variable|openPopupCount
