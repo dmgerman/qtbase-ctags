@@ -2,11 +2,13 @@ DECL|class|CustomProxy
 DECL|class|DrawTextStyle
 DECL|class|FrameTestStyle
 DECL|class|MyWidget
+DECL|class|ProxyTest
 DECL|class|Qt42Style
 DECL|class|tst_QStyle
 DECL|function|DrawTextStyle
 DECL|function|FrameTestStyle
 DECL|function|MyWidget
+DECL|function|ProxyTest
 DECL|function|Qt42Style
 DECL|function|cleanup
 DECL|function|cleanupTestCase
@@ -33,6 +35,7 @@ DECL|function|testFrameOnlyAroundContents
 DECL|function|testFusionStyle
 DECL|function|testMacStyle
 DECL|function|testPainting
+DECL|function|testProxyCalled
 DECL|function|testProxyStyle
 DECL|function|testScrollBarSubControls
 DECL|function|testStyleFactory
@@ -46,6 +49,7 @@ DECL|function|writeImage
 DECL|function|~tst_QStyle
 DECL|macro|SCROLLBAR_SPACING
 DECL|member|alignment
+DECL|member|called
 DECL|member|margin
 DECL|member|margin_toplevel
 DECL|member|spacing
