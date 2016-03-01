@@ -8,6 +8,7 @@ DECL|function|availableSizes
 DECL|function|bestMatch
 DECL|function|cacheKey
 DECL|function|detach
+DECL|function|findGtkUpdateIconCache
 DECL|function|fromTheme
 DECL|function|fromThemeCache
 DECL|function|haveImageFormat
