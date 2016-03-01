@@ -1,4 +1,5 @@
 DECL|function|ExposeEvent
+DECL|function|WheelEvent
 DECL|function|deferredFlushWindowSystemEvents
 DECL|function|flushWindowSystemEvents
 DECL|function|fromNativeTouchPoints
