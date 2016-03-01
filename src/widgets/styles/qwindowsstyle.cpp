@@ -38,7 +38,6 @@ DECL|member|cbSize
 DECL|member|hIcon
 DECL|member|iIcon
 DECL|member|iSysImageIndex
-DECL|member|m_appDevicePixelRatio
 DECL|member|szPath
 DECL|typedef|PtrSHGetStockIconInfo
 DECL|typedef|QSHSTOCKICONINFO
