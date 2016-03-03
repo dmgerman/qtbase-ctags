@@ -46,4 +46,3 @@ DECL|member|skippedStatus
 DECL|member|utf8
 DECL|member|utf8
 DECL|typedef|sqlite_vm
-DECL|variable|initial_cache_size
