@@ -1,4 +1,6 @@
 DECL|function|QBearerEngine
+DECL|function|cleanUpConfigurations
 DECL|function|configurationsInUse
+DECL|function|hasUsedConfiguration
 DECL|function|requiresPolling
 DECL|function|~QBearerEngine
