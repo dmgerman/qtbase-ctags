@@ -6,12 +6,15 @@ DECL|enumerator|XKeyPress
 DECL|enumerator|XKeyRelease
 DECL|enumerator|XNone
 DECL|enumerator|XRevertToParent
+DECL|function|QXcbSoftwareOpenGLEnforcer
+DECL|function|cleanup
 DECL|function|qglx_buildSpec
 DECL|function|qglx_findConfig
 DECL|function|qglx_findVisualInfo
-DECL|function|qglx_reduceSurfaceFormat
+DECL|function|qglx_reduceFormat
 DECL|function|qglx_surfaceFormatFromGLXFBConfig
 DECL|function|qglx_surfaceFormatFromVisualInfo
+DECL|function|~QXcbSoftwareOpenGLEnforcer
 DECL|macro|CursorShape
 DECL|macro|FocusIn
 DECL|macro|FocusOut
@@ -21,3 +24,9 @@ DECL|macro|KeyPress
 DECL|macro|KeyRelease
 DECL|macro|None
 DECL|macro|RevertToParent
+DECL|member|checkedForceSoftwareOpenGL
+DECL|member|checkedForceSoftwareOpenGL
+DECL|member|forceSoftwareOpenGL
+DECL|member|forceSoftwareOpenGL
+DECL|struct|QXcbSoftwareOpenGLEnforcer
+DECL|struct|QXlibScopedPointerDeleter

@@ -25,6 +25,7 @@ DECL|function|setOutput
 DECL|function|setPrimaryScreen
 DECL|function|sizeInMillimeters
 DECL|function|subscribeToXFixesSelectionNotify
+DECL|function|surfaceFormatFor
 DECL|function|topLevelAt
 DECL|function|updateAvailableGeometry
 DECL|function|updateGeometry
@@ -33,6 +34,7 @@ DECL|function|updateRefreshRate
 DECL|function|updateWorkArea
 DECL|function|virtualDesktopNumberStatic
 DECL|function|virtualDpi
+DECL|function|visualForFormat
 DECL|function|visualForId
 DECL|function|windowShown
 DECL|function|xResource
