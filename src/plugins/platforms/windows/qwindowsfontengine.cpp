@@ -57,8 +57,6 @@ DECL|macro|MAKE_TAG
 DECL|macro|SPI_GETFONTSMOOTHINGCONTRAST
 DECL|macro|SPI_SETFONTSMOOTHINGCONTRAST
 DECL|macro|TT_PRIM_CSPLINE
-DECL|macro|_WIN32_WINNT
-DECL|macro|_WIN32_WINNT
 DECL|typedef|PtrGetCharWidthI
 DECL|variable|char_table
 DECL|variable|char_table_entries

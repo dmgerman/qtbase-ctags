@@ -40,10 +40,6 @@ DECL|function|xHeight
 DECL|function|~GeometrySink
 DECL|function|~QWindowsFontEngineDirectWrite
 DECL|macro|DESIGN_TO_LOGICAL
-DECL|macro|WINVER
-DECL|macro|WINVER
-DECL|macro|_WIN32_WINNT
-DECL|macro|_WIN32_WINNT
 DECL|member|m_path
 DECL|member|m_refCount
 DECL|member|m_startPoint

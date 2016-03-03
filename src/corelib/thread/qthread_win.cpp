@@ -28,7 +28,6 @@ DECL|macro|TlsGetValue
 DECL|macro|TlsSetValue
 DECL|macro|ULONG_PTR
 DECL|macro|_MT
-DECL|macro|_WIN32_WINNT
 DECL|member|dwFlags
 DECL|member|dwThreadID
 DECL|member|dwType
