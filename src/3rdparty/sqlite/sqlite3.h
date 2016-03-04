@@ -502,7 +502,9 @@ DECL|member|xPagecount
 DECL|member|xPagecount
 DECL|member|xPhraseCount
 DECL|member|xPhraseFirst
+DECL|member|xPhraseFirstColumn
 DECL|member|xPhraseNext
+DECL|member|xPhraseNextColumn
 DECL|member|xPhraseSize
 DECL|member|xQueryPhrase
 DECL|member|xRandomness
