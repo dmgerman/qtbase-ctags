@@ -5,6 +5,7 @@ DECL|function|buttonVisible
 DECL|function|canAnimate
 DECL|function|cleanupTreeViewTheming
 DECL|function|clonedAnimationStyleOption
+DECL|function|createAnimationBuffer
 DECL|function|createTreeViewHelperWindow
 DECL|function|deleteClonedAnimationStyleOption
 DECL|function|drawComplexControl
