@@ -36,7 +36,6 @@ DECL|function|_q_nextCustom
 DECL|function|_q_pickScreenColor
 DECL|function|_q_updateColorPicking
 DECL|function|canBeNativeDialog
-DECL|function|cellBrush
 DECL|function|cellGeometry
 DECL|function|cellHeight
 DECL|function|cellRect
