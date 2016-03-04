@@ -1,3 +1,7 @@
+DECL|enumerator|ComplexTransform
+DECL|enumerator|HighDpiScalingTransform
+DECL|enumerator|SimpleTransform
+DECL|enum|TransformType
 DECL|function|QWindowsXPStyle
 DECL|function|QWindowsXPStyle
 DECL|function|backingStoreForWidget
@@ -35,6 +39,8 @@ DECL|function|qt_hrgn_from_qregion
 DECL|function|region
 DECL|function|resolveSymbols
 DECL|function|resolveSymbols
+DECL|function|scaleRect
+DECL|function|scaleRegion
 DECL|function|scrollBarGripperBounds
 DECL|function|setTransparency
 DECL|function|showProperties
@@ -50,6 +56,7 @@ DECL|function|swapAlphaChannel
 DECL|function|tabBody
 DECL|function|themeName
 DECL|function|toRECT
+DECL|function|transformType
 DECL|function|unpolish
 DECL|function|unpolish
 DECL|function|useXP
