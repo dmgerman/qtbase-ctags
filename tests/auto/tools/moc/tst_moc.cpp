@@ -197,6 +197,7 @@ DECL|function|testSlotWith2Args
 DECL|function|trackingPointerSlot
 DECL|function|typedefSlot
 DECL|function|typenameWithUnsigned
+DECL|function|unnamedNamespaceObjectsAndGadgets
 DECL|function|unterminatedFunctionMacro
 DECL|function|value
 DECL|function|value2
