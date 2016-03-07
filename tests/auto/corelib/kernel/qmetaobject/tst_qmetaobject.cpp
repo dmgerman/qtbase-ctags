@@ -5,6 +5,9 @@ DECL|class|ClassInfoTestObjectB
 DECL|class|ConstructibleClass
 DECL|class|MyClass
 DECL|class|MyClass2
+DECL|class|MyClass2Subclass
+DECL|class|MyClassSubclass
+DECL|class|MyClassSubclass2
 DECL|class|ObjectException
 DECL|class|QtTestCustomObject
 DECL|class|QtTestObject
@@ -60,6 +63,8 @@ DECL|function|get_value
 DECL|function|indexOfMethod
 DECL|function|indexOfMethodPMF
 DECL|function|indexOfMethod_data
+DECL|function|inherits
+DECL|function|inherits_data
 DECL|function|invokeBlockingQueuedMetaMember
 DECL|function|invokeCustomTypes
 DECL|function|invokeException

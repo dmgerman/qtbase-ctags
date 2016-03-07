@@ -94,6 +94,7 @@ DECL|macro|signals
 DECL|macro|slots
 DECL|macro|slots
 DECL|member|Connection
+DECL|member|Q_DECL_NOEXCEPT
 DECL|member|d
 DECL|member|data
 DECL|member|extradata
