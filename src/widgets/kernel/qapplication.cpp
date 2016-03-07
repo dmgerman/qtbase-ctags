@@ -19,7 +19,6 @@ DECL|function|closeAllWindows
 DECL|function|closePopup
 DECL|function|colorSpec
 DECL|function|compressEvent
-DECL|function|construct
 DECL|function|createEventDispatcher
 DECL|function|cursorFlashTime
 DECL|function|desktop
@@ -40,6 +39,7 @@ DECL|function|giveFocusAccordingToFocusPolicy
 DECL|function|globalStrut
 DECL|function|grabForPopup
 DECL|function|inPopupMode
+DECL|function|init
 DECL|function|initResources
 DECL|function|initSystemPalette
 DECL|function|initialize
