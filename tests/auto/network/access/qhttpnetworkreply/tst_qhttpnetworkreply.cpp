@@ -1,7 +1,15 @@
+DECL|class|TestHeaderReply
+DECL|class|TestHeaderSocket
 DECL|class|tst_QHttpNetworkReply
+DECL|function|TestHeaderSocket
 DECL|function|cleanup
 DECL|function|cleanupTestCase
 DECL|function|init
 DECL|function|initTestCase
+DECL|function|parseEndOfHeader
+DECL|function|parseEndOfHeader_data
 DECL|function|parseHeader
 DECL|function|parseHeader_data
+DECL|function|readData
+DECL|function|replyPrivate
+DECL|member|inputBuffer
