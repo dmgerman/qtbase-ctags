@@ -21,7 +21,6 @@ DECL|function|q_check_ptr
 DECL|function|qt_dynamic_cast_check
 DECL|function|qt_noop
 DECL|function|sizeof
-DECL|macro|QDOC_PROPERTY
 DECL|macro|QGLOBAL_H
 DECL|macro|QT_ASCII_CAST_WARN
 DECL|macro|QT_ASCII_CAST_WARN
