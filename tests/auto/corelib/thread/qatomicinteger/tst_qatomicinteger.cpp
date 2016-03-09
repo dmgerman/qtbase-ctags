@@ -2,8 +2,6 @@ DECL|class|tst_QAtomicIntegerXX
 DECL|enumerator|TypeIsSigned
 DECL|enumerator|TypeIsUnsigned
 DECL|function|addData
-DECL|function|addSub
-DECL|function|addSub_data
 DECL|function|assign
 DECL|function|assign_data
 DECL|function|booleanHelper
