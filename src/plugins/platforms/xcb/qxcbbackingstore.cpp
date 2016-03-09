@@ -7,6 +7,7 @@ DECL|function|beginPaint
 DECL|function|composeAndFlush
 DECL|function|destroy
 DECL|function|endPaint
+DECL|function|ensureGC
 DECL|function|flush
 DECL|function|flushPixmap
 DECL|function|graphicsBuffer
@@ -19,6 +20,7 @@ DECL|function|preparePaint
 DECL|function|put
 DECL|function|resize
 DECL|function|scroll
+DECL|function|scroll
 DECL|function|setClip
 DECL|function|size
 DECL|function|toImage
@@ -27,7 +29,7 @@ DECL|function|~QXcbShmImage
 DECL|member|m_access_lock
 DECL|member|m_dirtyShm
 DECL|member|m_gc
-DECL|member|m_gc_window
+DECL|member|m_gc_drawable
 DECL|member|m_graphics_buffer
 DECL|member|m_hasAlpha
 DECL|member|m_image
