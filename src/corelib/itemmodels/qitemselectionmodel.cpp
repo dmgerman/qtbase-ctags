@@ -33,8 +33,8 @@ DECL|function|mergeRowLengths
 DECL|function|model
 DECL|function|model
 DECL|function|operator <<
+DECL|function|qSelectionIndexes
 DECL|function|qSelectionPersistentRowLengths
-DECL|function|qSelectionPersistentindexes
 DECL|function|qt_PersistentModelIndexLessThan
 DECL|function|reset
 DECL|function|rowIntersectsSelection
