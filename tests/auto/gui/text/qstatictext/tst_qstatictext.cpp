@@ -1,4 +1,5 @@
 DECL|class|tst_QStaticText
+DECL|function|checkPixels
 DECL|function|cleanup
 DECL|function|constructionAndDestruction
 DECL|function|copyConstructor
