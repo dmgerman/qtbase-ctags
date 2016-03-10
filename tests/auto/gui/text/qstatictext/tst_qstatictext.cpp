@@ -1,5 +1,6 @@
 DECL|class|tst_QStaticText
 DECL|function|blankSquare
+DECL|function|checkPixels
 DECL|function|constructionAndDestruction
 DECL|function|copyConstructor
 DECL|function|drawOverlinedText

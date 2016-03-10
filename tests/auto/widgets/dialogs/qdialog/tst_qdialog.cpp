@@ -7,7 +7,7 @@ DECL|function|Dialog
 DECL|function|DummyDialog
 DECL|function|TestRejectDialog
 DECL|function|ToolDialog
-DECL|function|cleanupTestCase
+DECL|function|cleanup
 DECL|function|defaultButtons
 DECL|function|deleteInExec
 DECL|function|deleteMainDefault
@@ -15,7 +15,6 @@ DECL|function|dialogInGraphicsView
 DECL|function|exec
 DECL|function|formatPoint
 DECL|function|getSetCheck
-DECL|function|initTestCase
 DECL|function|reject
 DECL|function|reject
 DECL|function|setVisible
@@ -39,4 +38,3 @@ DECL|member|cancelReject
 DECL|member|mWasActive
 DECL|member|mWasModalWindow
 DECL|member|tId
-DECL|member|testWidget

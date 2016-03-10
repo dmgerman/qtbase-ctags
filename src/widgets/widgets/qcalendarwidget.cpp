@@ -58,7 +58,6 @@ DECL|function|createNavigationBar
 DECL|function|currentDate
 DECL|function|currentText
 DECL|function|data
-DECL|function|date
 DECL|function|dateEditAcceptDelay
 DECL|function|dateEditAcceptDelay
 DECL|function|dateForCell

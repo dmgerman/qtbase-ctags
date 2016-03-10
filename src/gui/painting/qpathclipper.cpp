@@ -26,7 +26,6 @@ DECL|function|addLine
 DECL|function|addLineTo
 DECL|function|addPath
 DECL|function|bool_op
-DECL|function|boundingRect
 DECL|function|build
 DECL|function|buildTree
 DECL|function|clear

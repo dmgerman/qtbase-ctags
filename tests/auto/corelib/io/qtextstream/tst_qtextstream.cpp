@@ -103,6 +103,7 @@ DECL|function|stringRef_read_operator_FromDevice_data
 DECL|function|string_write_operator_ToDevice
 DECL|function|string_write_operator_ToDevice_data
 DECL|function|stringref_write_operator_ToDevice
+DECL|function|textModeOnEmptyRead
 DECL|function|tst_QTextStream
 DECL|function|unsignedInt_write_operator_ToDevice_data
 DECL|function|unsignedShort_write_operator_ToDevice_data

@@ -331,6 +331,7 @@ DECL|function|testWindowIconChangeEventPropagation
 DECL|function|timerEvent
 DECL|function|toplevelLineEditFocus
 DECL|function|touchEventSynthesizedMouseEvent
+DECL|function|touchEventsForGesturePendingWidgets
 DECL|function|touchUpdateOnNewTouch
 DECL|function|transientParent
 DECL|function|translucentWidget
@@ -396,6 +397,7 @@ DECL|member|m_appModifiers
 DECL|member|m_availableTopLeft
 DECL|member|m_count
 DECL|member|m_eventCounter
+DECL|member|m_gestureEventCount
 DECL|member|m_lastMouseEventPos
 DECL|member|m_log
 DECL|member|m_modifiers

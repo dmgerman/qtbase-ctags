@@ -1,4 +1,5 @@
 DECL|function|ExposeEvent
+DECL|function|WheelEvent
 DECL|function|deferredFlushWindowSystemEvents
 DECL|function|flushWindowSystemEvents
 DECL|function|fromNativeTouchPoints
@@ -71,8 +72,6 @@ DECL|function|sendEvent
 DECL|function|sendWindowSystemEvents
 DECL|function|setSynchronousWindowSystemEvents
 DECL|function|toNativeTouchPoints
-DECL|function|touchPoint
-DECL|function|touchPointList
 DECL|function|unregisterTouchDevice
 DECL|function|windowSystemEventsQueued
 DECL|function|windowSystemEventsQueued

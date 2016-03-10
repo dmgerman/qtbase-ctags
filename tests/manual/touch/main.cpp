@@ -30,7 +30,6 @@ DECL|function|fillCircle
 DECL|function|fromQGesture
 DECL|function|handleGestureEvent
 DECL|function|main
-DECL|function|operator <<
 DECL|function|paintEvent
 DECL|function|setDrawPoints
 DECL|function|swipeDirectionAngle
