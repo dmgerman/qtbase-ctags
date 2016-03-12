@@ -1,4 +1,3 @@
-DECL|class|ResultHelper
 DECL|class|tst_QSqlQuery
 DECL|function|QTBUG_12186
 DECL|function|QTBUG_12186_data
@@ -34,7 +33,6 @@ DECL|function|QTBUG_6618
 DECL|function|QTBUG_6618_data
 DECL|function|QTBUG_6852
 DECL|function|QTBUG_6852_data
-DECL|function|ResultHelper
 DECL|function|aggregateFunctionTypes
 DECL|function|aggregateFunctionTypes_data
 DECL|function|batchExec
@@ -45,7 +43,6 @@ DECL|function|blob
 DECL|function|blob_data
 DECL|function|blobsPreparedQuery
 DECL|function|blobsPreparedQuery_data
-DECL|function|boundValueName
 DECL|function|char1Select
 DECL|function|char1SelectUnicode
 DECL|function|char1SelectUnicode_data
@@ -58,7 +55,6 @@ DECL|function|createTestTables
 DECL|function|dropTestTables
 DECL|function|emptyTableNavigate
 DECL|function|emptyTableNavigate_data
-DECL|function|execBatch
 DECL|function|execErrorRecovery
 DECL|function|execErrorRecovery_data
 DECL|function|finish
