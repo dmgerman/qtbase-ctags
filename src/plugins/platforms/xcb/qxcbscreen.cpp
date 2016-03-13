@@ -31,6 +31,7 @@ DECL|function|updateGeometry
 DECL|function|updateGeometry
 DECL|function|updateRefreshRate
 DECL|function|updateWorkArea
+DECL|function|virtualDesktopNumberStatic
 DECL|function|virtualDpi
 DECL|function|visualForId
 DECL|function|windowShown

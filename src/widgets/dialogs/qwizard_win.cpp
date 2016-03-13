@@ -66,8 +66,6 @@ DECL|macro|WIZ_WM_THEMECHANGED
 DECL|macro|WIZ_WP_CAPTION
 DECL|macro|WIZ_WTNCA_NODRAWCAPTION
 DECL|macro|WIZ_WTNCA_NODRAWICON
-DECL|macro|_WIN32_WINNT
-DECL|macro|_WIN32_WINNT
 DECL|member|cachedVistaState
 DECL|member|crBorder
 DECL|member|crShadow

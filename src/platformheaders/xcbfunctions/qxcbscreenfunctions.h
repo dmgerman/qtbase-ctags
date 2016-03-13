@@ -1,0 +1,2 @@
+DECL|macro|QXCBSCREENFUNCTIONS_H
+DECL|variable|QScreen

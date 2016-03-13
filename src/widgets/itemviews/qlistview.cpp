@@ -1,3 +1,4 @@
+DECL|function|QListModeViewBase
 DECL|function|QListView
 DECL|function|QListView
 DECL|function|QListViewPrivate
