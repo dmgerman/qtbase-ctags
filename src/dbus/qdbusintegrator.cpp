@@ -32,6 +32,7 @@ DECL|function|handleSignal
 DECL|function|huntAndDestroy
 DECL|function|huntAndEmit
 DECL|function|huntAndUnregister
+DECL|function|invokeSpyHooks
 DECL|function|isServiceRegisteredByThread
 DECL|function|matchArgsForService
 DECL|function|objectDestroyed
