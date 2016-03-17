@@ -5,6 +5,7 @@ DECL|enumerator|MyUnregisteredEnumValue2
 DECL|enum|MyUnregisteredEnum
 DECL|function|boolfunc
 DECL|function|boolfunc2
+DECL|function|compareQColor
 DECL|function|compareQImages
 DECL|function|compareQImages_data
 DECL|function|compareQListDouble
