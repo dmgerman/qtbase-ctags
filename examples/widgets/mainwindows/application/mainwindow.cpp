@@ -1,6 +1,7 @@
 DECL|function|MainWindow
 DECL|function|about
 DECL|function|closeEvent
+DECL|function|commitData
 DECL|function|createActions
 DECL|function|createStatusBar
 DECL|function|documentWasModified
