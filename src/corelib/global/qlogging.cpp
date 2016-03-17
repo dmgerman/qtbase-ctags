@@ -62,6 +62,7 @@ DECL|macro|QLOGGING_HAVE_BACKTRACE
 DECL|macro|QLOGGING_HAVE_BACKTRACE
 DECL|macro|QT_LOG_CODE
 DECL|macro|SD_JOURNAL_SUPPRESS_LOCATION
+DECL|macro|SYS_gettid
 DECL|macro|__has_include
 DECL|macro|qCritical
 DECL|macro|qDebug
