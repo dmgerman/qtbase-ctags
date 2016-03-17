@@ -8,6 +8,7 @@ DECL|field|ApplicationSuspended
 DECL|field|BUNDLED_LIBRARIES_KEY
 DECL|field|ENVIRONMENT_VARIABLES_KEY
 DECL|field|EXTRACT_STYLE_KEY
+DECL|field|EXTRACT_STYLE_MINIMAL_KEY
 DECL|field|EnterKeyDefault
 DECL|field|EnterKeyDone
 DECL|field|EnterKeyGo

@@ -178,6 +178,7 @@ DECL|field|m_context
 DECL|field|m_drawableCache
 DECL|field|m_extractPath
 DECL|field|m_indentLevel
+DECL|field|m_minimal
 DECL|field|m_theme
 DECL|field|m_writer
 DECL|field|object
