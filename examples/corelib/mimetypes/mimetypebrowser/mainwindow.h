@@ -1,0 +1,1 @@
+DECL|macro|MAINWINDOW_H
