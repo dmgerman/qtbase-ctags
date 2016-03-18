@@ -4,7 +4,6 @@ DECL|function|bytesAvailableInChannel
 DECL|function|closeChannel
 DECL|function|defaultNotifiers
 DECL|function|destroyPipe
-DECL|function|doSpawn
 DECL|function|execChild
 DECL|function|findExitCode
 DECL|function|killProcess
@@ -13,8 +12,6 @@ DECL|function|processStarted
 DECL|function|qt_create_pipe
 DECL|function|qt_prettyDebug
 DECL|function|readFromChannel
-DECL|function|spawnChild
-DECL|function|startDetached
 DECL|function|startDetached
 DECL|function|startProcess
 DECL|function|systemEnvironment
