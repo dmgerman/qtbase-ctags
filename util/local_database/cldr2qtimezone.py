@@ -17,7 +17,6 @@ DECL|variable|findAlias
 DECL|variable|findEntry
 DECL|variable|findEntryInFile
 DECL|variable|findTagsInFile
-DECL|variable|generationDate
 DECL|variable|ianaIdData
 DECL|variable|ldml
 DECL|variable|mapTimezones
