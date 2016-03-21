@@ -1,4 +1,5 @@
 DECL|function|CloseButton
+DECL|function|QMovableTabWidget
 DECL|function|QTabBar
 DECL|function|_q_closeTab
 DECL|function|_q_scrollTabs
@@ -47,6 +48,7 @@ DECL|function|moveTab
 DECL|function|moveTabFinished
 DECL|function|paintEvent
 DECL|function|paintEvent
+DECL|function|paintEvent
 DECL|function|refresh
 DECL|function|removeTab
 DECL|function|resizeEvent
@@ -61,6 +63,7 @@ DECL|function|setElideMode
 DECL|function|setExpanding
 DECL|function|setIconSize
 DECL|function|setMovable
+DECL|function|setPixmap
 DECL|function|setSelectionBehaviorOnRemove
 DECL|function|setShape
 DECL|function|setTabButton
