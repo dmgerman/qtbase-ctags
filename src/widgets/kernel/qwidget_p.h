@@ -103,4 +103,3 @@ DECL|variable|QStyle
 DECL|variable|QUnifiedToolbarSurface
 DECL|variable|QWidgetBackingStore
 DECL|variable|QWidgetItemV2
-DECL|variable|QWidgetWindow

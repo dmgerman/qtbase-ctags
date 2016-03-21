@@ -101,7 +101,7 @@ DECL|member|intent
 DECL|member|is_broken
 DECL|member|length
 DECL|member|md5
-DECL|typedef|Your_png_h_is_not_version_1_6_19
+DECL|typedef|Your_png_h_is_not_version_1_6_20
 DECL|variable|D50_nCIEXYZ
 DECL|variable|png_32bit_exp
 DECL|variable|png_8bit_l2
