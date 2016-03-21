@@ -6,3 +6,4 @@ DECL|variable|QSqlResultPrivate
 DECL|variable|QString
 DECL|variable|QVariant
 DECL|variable|QVector
+DECL|variable|tst_QSqlQuery

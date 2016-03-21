@@ -49,6 +49,7 @@ DECL|function|png_read_finish_IDAT
 DECL|function|png_read_finish_row
 DECL|function|png_read_sig
 DECL|function|png_read_start_row
+DECL|function|png_zlib_inflate
 DECL|macro|B_COPY
 DECL|macro|B_MASK
 DECL|macro|B_MASKS

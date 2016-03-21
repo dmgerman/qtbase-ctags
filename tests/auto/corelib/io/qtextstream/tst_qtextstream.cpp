@@ -16,6 +16,7 @@ DECL|function|charPtr_read_operator_FromDevice_data
 DECL|function|char_operators_FromDevice
 DECL|function|char_operators_FromDevice_data
 DECL|function|cleanup
+DECL|function|cleanupTestCase
 DECL|function|construction
 DECL|function|double_write_with_flags
 DECL|function|double_write_with_flags_data
@@ -120,6 +121,7 @@ DECL|macro|IMPLEMENT_STREAM_LEFT_REAL_OPERATOR_TEST
 DECL|macro|IMPLEMENT_STREAM_RIGHT_INT_OPERATOR_TEST
 DECL|macro|IMPLEMENT_STREAM_RIGHT_REAL_OPERATOR_TEST
 DECL|member|array
+DECL|member|m_dataDir
 DECL|member|m_lock
 DECL|member|m_rfc3261FilePath
 DECL|member|m_shiftJisFilePath

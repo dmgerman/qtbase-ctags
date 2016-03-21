@@ -1,11 +1,12 @@
-DECL|class|QPipeWriterOverlapped
-DECL|function|QPipeWriterOverlapped
+DECL|function|Overlapped
 DECL|function|QWindowsPipeWriter
-DECL|function|operator &
-DECL|function|prepare
-DECL|function|run
+DECL|function|bytesToWrite
+DECL|function|clear
+DECL|function|emitPendingBytesWrittenValue
+DECL|function|notified
+DECL|function|stop
+DECL|function|waitForNotification
 DECL|function|waitForWrite
 DECL|function|write
-DECL|function|~QPipeWriterOverlapped
+DECL|function|writeFileCompleted
 DECL|function|~QWindowsPipeWriter
-DECL|member|overlapped

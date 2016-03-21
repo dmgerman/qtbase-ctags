@@ -43,6 +43,7 @@ DECL|function|handleScreenChange
 DECL|function|hideEvent
 DECL|function|main
 DECL|function|makeVisible
+DECL|function|maskActionToggled
 DECL|function|mouseMoveEvent
 DECL|function|mouseMoveEvent
 DECL|function|mouseMoveEvent
@@ -86,6 +87,7 @@ DECL|member|m_demos
 DECL|member|m_group
 DECL|member|m_ignoreResize
 DECL|member|m_label
+DECL|member|m_maskAction
 DECL|member|m_option
 DECL|member|m_physicalSize
 DECL|member|m_slider
