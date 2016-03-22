@@ -161,4 +161,3 @@ DECL|variable|popupGrabOk
 DECL|variable|qt_antialiasing_threshold
 DECL|variable|qt_desktopWidget
 DECL|variable|qt_in_tab_key_event
-DECL|variable|qt_tabletChokeMouse
