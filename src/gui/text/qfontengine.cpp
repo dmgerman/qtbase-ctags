@@ -65,6 +65,7 @@ DECL|function|glyphCache
 DECL|function|glyphCount
 DECL|function|glyphIndex
 DECL|function|glyphIndex
+DECL|function|handle
 DECL|function|harfbuzzFace
 DECL|function|harfbuzzFont
 DECL|function|hasUnreliableGlyphOutline

@@ -44,6 +44,7 @@ DECL|function|getSfntTableData
 DECL|function|getUnscaledGlyph
 DECL|function|glyphCount
 DECL|function|glyphIndex
+DECL|function|handle
 DECL|function|init
 DECL|function|init
 DECL|function|initFromFontEngine
