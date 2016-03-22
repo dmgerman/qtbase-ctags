@@ -11,6 +11,7 @@ DECL|function|formatFromConfig
 DECL|function|getProcAddress
 DECL|function|init
 DECL|function|init
+DECL|function|initializeAngle
 DECL|function|makeCurrent
 DECL|function|reduceConfigAttributes
 DECL|function|resolve
