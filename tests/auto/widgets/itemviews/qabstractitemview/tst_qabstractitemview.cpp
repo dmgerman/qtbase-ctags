@@ -80,6 +80,7 @@ DECL|function|testDelegateDestroyEditor
 DECL|function|testFocusPolicy
 DECL|function|testFocusPolicy_data
 DECL|function|testNoActivateOnDisabledItem
+DECL|function|testSelectionModelInSyncWithView
 DECL|function|tst_closeEditor
 DECL|function|tst_commitData
 DECL|function|tst_currentChanged
