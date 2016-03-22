@@ -28,6 +28,7 @@ DECL|function|MyAbstractItemDelegate
 DECL|function|QTBUG31411_noSelection
 DECL|function|QTBUG39324_settingSameInstanceOfIndexWidget
 DECL|function|QTBUG48968_reentrant_updateEditorGeometries
+DECL|function|QTBUG50535_update_on_new_selection_model
 DECL|function|QTBUG6407_extendedSelection
 DECL|function|QTBUG6753_selectOnSelection
 DECL|function|StateChangeDelegate
