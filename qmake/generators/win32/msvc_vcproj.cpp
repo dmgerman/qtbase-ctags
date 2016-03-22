@@ -78,10 +78,12 @@ DECL|variable|_slnProjConfBeg
 DECL|variable|_slnProjConfEnd
 DECL|variable|_slnProjDbgConfTag1
 DECL|variable|_slnProjDbgConfTag2
+DECL|variable|_slnProjDbgConfTag3
 DECL|variable|_slnProjDepBeg
 DECL|variable|_slnProjDepEnd
 DECL|variable|_slnProjRelConfTag1
 DECL|variable|_slnProjRelConfTag2
+DECL|variable|_slnProjRelConfTag3
 DECL|variable|_slnProjectBeg
 DECL|variable|_slnProjectEnd
 DECL|variable|_slnProjectMid
