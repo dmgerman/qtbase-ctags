@@ -60,6 +60,7 @@ DECL|function|waitForDisconnect
 DECL|function|waitForDisconnectByServer
 DECL|function|writeOnlySocket
 DECL|function|writeToClientAndDisconnect
+DECL|function|writeToClientAndDisconnect_data
 DECL|function|~ProcessOutputDumper
 DECL|member|clients
 DECL|member|hits
