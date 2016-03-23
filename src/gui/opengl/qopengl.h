@@ -23,6 +23,7 @@ DECL|typedef|GLeglImageOES
 DECL|typedef|GLhalfARB
 DECL|typedef|GLhalfNV
 DECL|typedef|GLhandleARB
+DECL|typedef|GLhandleARB
 DECL|typedef|GLint64
 DECL|typedef|GLint64EXT
 DECL|typedef|GLintptr

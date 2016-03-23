@@ -5,7 +5,6 @@ DECL|function|bytesAvailableInChannel
 DECL|function|childStartedPipe
 DECL|function|closeChannel
 DECL|function|destroyPipe
-DECL|function|doSpawn
 DECL|function|execChild
 DECL|function|findExitCode
 DECL|function|forkfd
@@ -17,8 +16,6 @@ DECL|function|qt_create_pipe
 DECL|function|qt_pollfd_check
 DECL|function|qt_prettyDebug
 DECL|function|readFromChannel
-DECL|function|spawnChild
-DECL|function|startDetached
 DECL|function|startDetached
 DECL|function|startProcess
 DECL|function|stderrPipe
