@@ -54,6 +54,7 @@ DECL|function|hitTest
 DECL|function|implicitClear
 DECL|function|init
 DECL|function|initTestCase
+DECL|function|inputMethodCursorRect
 DECL|function|inputMethodQueryImHints
 DECL|function|inputMethodQueryImHints_data
 DECL|function|insertAndScrollToBottom
