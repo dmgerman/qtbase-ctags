@@ -1,0 +1,2 @@
+DECL|macro|QEGLFSKMSGBMINTEGRATION_H
+DECL|variable|QEglFSKmsDevice

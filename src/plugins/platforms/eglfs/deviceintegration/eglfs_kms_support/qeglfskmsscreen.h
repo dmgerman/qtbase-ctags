@@ -10,6 +10,5 @@ DECL|member|physical_size
 DECL|member|saved_crtc
 DECL|member|subpixel
 DECL|struct|QEglFSKmsOutput
-DECL|variable|QEglFSKmsCursor
 DECL|variable|QEglFSKmsDevice
 DECL|variable|QEglFSKmsInterruptHandler

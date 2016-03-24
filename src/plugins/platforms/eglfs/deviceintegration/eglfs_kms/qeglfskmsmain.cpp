@@ -1,1 +1,0 @@
-DECL|class|QEglFSKmsIntegrationPlugin

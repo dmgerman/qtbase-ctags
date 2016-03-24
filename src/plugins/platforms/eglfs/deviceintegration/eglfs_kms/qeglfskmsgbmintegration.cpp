@@ -1,0 +1,8 @@
+DECL|function|QEglFSKmsGbmIntegration
+DECL|function|createCursor
+DECL|function|createDevice
+DECL|function|createNativeOffscreenWindow
+DECL|function|createNativeWindow
+DECL|function|destroyNativeWindow
+DECL|function|presentBuffer
+DECL|member|m_waitForFlipMutex

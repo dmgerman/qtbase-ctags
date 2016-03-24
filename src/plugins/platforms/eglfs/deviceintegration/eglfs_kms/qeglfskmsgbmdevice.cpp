@@ -1,0 +1,10 @@
+DECL|function|QEglFSKmsGbmDevice
+DECL|function|close
+DECL|function|createScreen
+DECL|function|device
+DECL|function|gbmDevice
+DECL|function|globalCursor
+DECL|function|handleDrmEvent
+DECL|function|open
+DECL|function|pageFlipHandler
+DECL|macro|ARRAY_LENGTH

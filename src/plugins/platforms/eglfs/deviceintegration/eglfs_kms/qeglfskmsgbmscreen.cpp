@@ -1,0 +1,10 @@
+DECL|function|QEglFSKmsGbmScreen
+DECL|function|bufferDestroyedHandler
+DECL|function|createSurface
+DECL|function|cursor
+DECL|function|destroySurface
+DECL|function|flip
+DECL|function|flipFinished
+DECL|function|framebufferForBufferObject
+DECL|function|waitForFlip
+DECL|function|~QEglFSKmsGbmScreen

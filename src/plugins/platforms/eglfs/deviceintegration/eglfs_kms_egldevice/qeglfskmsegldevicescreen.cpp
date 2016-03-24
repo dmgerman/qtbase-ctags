@@ -1,0 +1,2 @@
+DECL|function|QEglFSKmsEglDeviceScreen
+DECL|function|waitForFlip

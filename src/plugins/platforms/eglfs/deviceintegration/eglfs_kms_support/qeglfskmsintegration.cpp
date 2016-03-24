@@ -1,8 +1,5 @@
 DECL|function|QEglFSKmsIntegration
-DECL|function|createCursor
-DECL|function|createNativeOffscreenWindow
-DECL|function|createNativeWindow
-DECL|function|destroyNativeWindow
+DECL|function|device
 DECL|function|hasCapability
 DECL|function|hwCursor
 DECL|function|loadConfig
@@ -10,11 +7,9 @@ DECL|function|outputSettings
 DECL|function|platformDestroy
 DECL|function|platformDisplay
 DECL|function|platformInit
-DECL|function|presentBuffer
 DECL|function|screenInit
 DECL|function|separateScreens
 DECL|function|supportsPBuffers
 DECL|function|surfaceFormatFor
 DECL|function|usesDefaultScreen
 DECL|function|waitForVSync
-DECL|member|m_waitForFlipMutex
