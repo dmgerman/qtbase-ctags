@@ -16,6 +16,7 @@ DECL|function|focusThePreviousChild
 DECL|function|forwardBackwardAvailable
 DECL|function|forwardButton
 DECL|function|init
+DECL|function|inputMethodAttribute_vs_readOnly
 DECL|function|loadResource
 DECL|function|loadResource
 DECL|function|loadResourceOnRelativeLocalFiles

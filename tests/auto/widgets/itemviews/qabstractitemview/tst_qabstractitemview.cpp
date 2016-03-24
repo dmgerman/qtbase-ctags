@@ -30,6 +30,7 @@ DECL|function|QTBUG31411_noSelection
 DECL|function|QTBUG39324_settingSameInstanceOfIndexWidget
 DECL|function|QTBUG48968_reentrant_updateEditorGeometries
 DECL|function|QTBUG50102_SH_ItemView_ScrollMode
+DECL|function|QTBUG50535_update_on_new_selection_model
 DECL|function|QTBUG6407_extendedSelection
 DECL|function|QTBUG6753_selectOnSelection
 DECL|function|ScrollModeProxyStyle
@@ -82,6 +83,7 @@ DECL|function|testDelegateDestroyEditor
 DECL|function|testFocusPolicy
 DECL|function|testFocusPolicy_data
 DECL|function|testNoActivateOnDisabledItem
+DECL|function|testSelectionModelInSyncWithView
 DECL|function|tst_closeEditor
 DECL|function|tst_commitData
 DECL|function|tst_currentChanged
