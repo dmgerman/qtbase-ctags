@@ -1,11 +1,22 @@
+DECL|function|FindFirstNonInstanced
+DECL|function|GetGLSLAttributeType
 DECL|function|GetInputLayout
+DECL|function|GetReservedBufferCount
 DECL|function|InputLayoutCache
+DECL|function|addAttributeData
 DECL|function|applyVertexBuffers
 DECL|function|clear
-DECL|function|compareInputLayouts
-DECL|function|hashInputLayout
+DECL|function|createInputLayout
 DECL|function|initialize
 DECL|function|markDirty
+DECL|function|operator <
+DECL|function|updateInputLayout
+DECL|function|updateVertexOffsetsForPointSpritesEmulation
 DECL|function|~InputLayoutCache
-DECL|member|kMaxInputLayouts
+DECL|member|attribType
+DECL|member|divisor
+DECL|member|kDefaultCacheSize
+DECL|member|semanticIndex
+DECL|member|vertexFormatType
 DECL|namespace|rx
+DECL|struct|PackedAttribute

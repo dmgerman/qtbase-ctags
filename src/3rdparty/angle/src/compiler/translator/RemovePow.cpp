@@ -1,0 +1,9 @@
+DECL|class|RemovePowTraverser
+DECL|function|IsProblematicPow
+DECL|function|RemovePow
+DECL|function|RemovePowTraverser
+DECL|function|needAnotherIteration
+DECL|function|nextIteration
+DECL|function|visitAggregate
+DECL|member|mNeedAnotherIteration
+DECL|member|override

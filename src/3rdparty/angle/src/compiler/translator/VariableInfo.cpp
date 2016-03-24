@@ -5,7 +5,6 @@ DECL|function|ExpandUserDefinedVariable
 DECL|function|ExpandVariable
 DECL|function|FindVariable
 DECL|function|GetBlockLayoutType
-DECL|function|InterfaceBlockFieldName
 DECL|function|NameHashingTraverser
 DECL|function|visitAggregate
 DECL|function|visitBinary

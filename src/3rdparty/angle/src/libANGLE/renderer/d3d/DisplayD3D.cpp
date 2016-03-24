@@ -2,6 +2,7 @@ DECL|function|CreateRendererD3D
 DECL|function|CreateTypedRendererD3D
 DECL|function|DisplayD3D
 DECL|function|createContext
+DECL|function|createImage
 DECL|function|createPbufferFromClientBuffer
 DECL|function|createPbufferSurface
 DECL|function|createPixmapSurface
@@ -9,6 +10,7 @@ DECL|function|createWindowSurface
 DECL|function|generateCaps
 DECL|function|generateConfigs
 DECL|function|generateExtensions
+DECL|function|getDevice
 DECL|function|getVendorString
 DECL|function|initialize
 DECL|function|isDeviceLost
@@ -17,6 +19,8 @@ DECL|function|makeCurrent
 DECL|function|restoreLostDevice
 DECL|function|terminate
 DECL|function|testDeviceLost
+DECL|function|waitClient
+DECL|function|waitNative
 DECL|macro|ANGLE_DEFAULT_D3D11
 DECL|macro|ANGLE_DEFAULT_D3D11
 DECL|namespace|rx

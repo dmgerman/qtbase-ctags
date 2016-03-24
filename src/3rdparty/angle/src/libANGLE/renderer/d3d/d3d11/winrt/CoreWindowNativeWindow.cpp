@@ -2,6 +2,7 @@ DECL|function|GetCoreWindowSizeInPixels
 DECL|function|createSwapChain
 DECL|function|initialize
 DECL|function|registerForSizeChangeEvents
+DECL|function|scaleSwapChain
 DECL|function|unregisterForSizeChangeEvents
 DECL|function|~CoreWindowNativeWindow
 DECL|namespace|rx

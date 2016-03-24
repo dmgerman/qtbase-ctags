@@ -4,7 +4,9 @@ DECL|function|eglChooseConfig
 DECL|function|eglClientWaitSync
 DECL|function|eglCopyBuffers
 DECL|function|eglCreateContext
+DECL|function|eglCreateDeviceANGLE
 DECL|function|eglCreateImage
+DECL|function|eglCreateImageKHR
 DECL|function|eglCreatePbufferFromClientBuffer
 DECL|function|eglCreatePbufferSurface
 DECL|function|eglCreatePixmapSurface
@@ -14,6 +16,7 @@ DECL|function|eglCreateSync
 DECL|function|eglCreateWindowSurface
 DECL|function|eglDestroyContext
 DECL|function|eglDestroyImage
+DECL|function|eglDestroyImageKHR
 DECL|function|eglDestroySurface
 DECL|function|eglDestroySync
 DECL|function|eglGetConfigAttrib
@@ -32,9 +35,13 @@ DECL|function|eglMakeCurrent
 DECL|function|eglPostSubBufferNV
 DECL|function|eglQueryAPI
 DECL|function|eglQueryContext
+DECL|function|eglQueryDeviceAttribEXT
+DECL|function|eglQueryDeviceStringEXT
+DECL|function|eglQueryDisplayAttribEXT
 DECL|function|eglQueryString
 DECL|function|eglQuerySurface
 DECL|function|eglQuerySurfacePointerANGLE
+DECL|function|eglReleaseDeviceANGLE
 DECL|function|eglReleaseTexImage
 DECL|function|eglReleaseThread
 DECL|function|eglSurfaceAttrib

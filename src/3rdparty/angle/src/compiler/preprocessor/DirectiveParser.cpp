@@ -1,4 +1,3 @@
-DECL|class|DefinedParser
 DECL|enumerator|DIRECTIVE_DEFINE
 DECL|enumerator|DIRECTIVE_ELIF
 DECL|enumerator|DIRECTIVE_ELSE
@@ -14,14 +13,13 @@ DECL|enumerator|DIRECTIVE_PRAGMA
 DECL|enumerator|DIRECTIVE_UNDEF
 DECL|enumerator|DIRECTIVE_VERSION
 DECL|enum|DirectiveType
-DECL|function|DefinedParser
 DECL|function|DirectiveParser
 DECL|function|getDirective
+DECL|function|hasDoubleUnderscores
 DECL|function|isConditionalDirective
 DECL|function|isEOD
 DECL|function|isMacroNameReserved
 DECL|function|isMacroPredefined
-DECL|function|lex
 DECL|function|lex
 DECL|function|parseConditionalIf
 DECL|function|parseDefine
@@ -42,7 +40,4 @@ DECL|function|parseUndef
 DECL|function|parseVersion
 DECL|function|skipUntilEOD
 DECL|function|skipping
-DECL|member|mDiagnostics
-DECL|member|mLexer
-DECL|member|mMacroSet
 DECL|namespace|pp

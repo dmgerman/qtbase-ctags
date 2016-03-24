@@ -2,6 +2,7 @@ DECL|function|IsGenType
 DECL|function|IsVecType
 DECL|function|SpecificType
 DECL|function|VectorType
+DECL|function|buildMangledName
 DECL|function|find
 DECL|function|find
 DECL|function|findBuiltIn

@@ -1,7 +1,9 @@
 DECL|function|NativeWindow
+DECL|function|commitChange
 DECL|function|createSwapChain
 DECL|function|getClientRect
 DECL|function|initialize
 DECL|function|isIconic
 DECL|function|isValidNativeWindow
+DECL|function|~NativeWindow
 DECL|namespace|rx

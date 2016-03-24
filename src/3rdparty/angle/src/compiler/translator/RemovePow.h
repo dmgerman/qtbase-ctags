@@ -1,0 +1,2 @@
+DECL|macro|COMPILER_TRANSLATOR_REMOVEPOW_H_
+DECL|variable|TIntermNode

@@ -1,6 +1,7 @@
 DECL|function|Image9
-DECL|function|copy
-DECL|function|copy
+DECL|function|copyFromFramebuffer
+DECL|function|copyFromRTInternal
+DECL|function|copyFromTexStorage
 DECL|function|copyLockableSurfaces
 DECL|function|copyToStorage
 DECL|function|copyToSurface
@@ -13,7 +14,6 @@ DECL|function|isDirty
 DECL|function|loadCompressedData
 DECL|function|loadData
 DECL|function|lock
-DECL|function|makeImage9
 DECL|function|redefine
 DECL|function|setManagedSurface
 DECL|function|setManagedSurface2D

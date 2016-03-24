@@ -1,11 +1,10 @@
 DECL|function|CastStateValue
 DECL|function|CastStateValueToInt
 DECL|function|CastStateValues
-DECL|member|mEnumForType
-DECL|member|mEnumForType
-DECL|member|mEnumForType
-DECL|member|mEnumForType
-DECL|member|mEnumForType
-DECL|member|mEnumForType
+DECL|function|ClampToQueryRange
+DECL|function|ExpandFloatToInteger
+DECL|member|value
+DECL|member|value
+DECL|member|value
+DECL|member|value
 DECL|namespace|gl
-DECL|struct|CastStateValueEnum

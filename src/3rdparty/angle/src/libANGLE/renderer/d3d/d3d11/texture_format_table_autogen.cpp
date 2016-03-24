@@ -1,0 +1,10 @@
+DECL|function|AnyDevice
+DECL|function|GetD3D11FormatInfo
+DECL|function|GetTextureFormatInfo
+DECL|function|OnlyFL10Plus
+DECL|function|OnlyFL9_3
+DECL|function|SupportsFormat
+DECL|function|TextureFormat
+DECL|namespace|d3d11
+DECL|namespace|rx
+DECL|typedef|FormatSupportFunction

@@ -2,7 +2,12 @@ DECL|function|Query9
 DECL|function|begin
 DECL|function|end
 DECL|function|getResult
+DECL|function|getResult
+DECL|function|getResult
+DECL|function|getResult
+DECL|function|getResultBase
 DECL|function|isResultAvailable
+DECL|function|queryCounter
 DECL|function|testQuery
 DECL|function|~Query9
 DECL|namespace|rx

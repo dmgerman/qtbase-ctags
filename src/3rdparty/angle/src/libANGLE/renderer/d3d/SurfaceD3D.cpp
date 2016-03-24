@@ -1,10 +1,12 @@
 DECL|function|SurfaceD3D
-DECL|function|SurfaceWindowProc
 DECL|function|bindTexImage
 DECL|function|checkForOutOfDateSwapChain
+DECL|function|createDefaultFramebuffer
 DECL|function|createFromWindow
 DECL|function|createOffscreen
+DECL|function|getAttachmentRenderTarget
 DECL|function|getHeight
+DECL|function|getSwapBehavior
 DECL|function|getSwapChain
 DECL|function|getWidth
 DECL|function|initialize
@@ -17,11 +19,7 @@ DECL|function|resetSwapChain
 DECL|function|resetSwapChain
 DECL|function|resizeSwapChain
 DECL|function|setSwapInterval
-DECL|function|subclassWindow
 DECL|function|swap
 DECL|function|swapRect
-DECL|function|unsubclassWindow
 DECL|function|~SurfaceD3D
-DECL|macro|kParentWndProc
-DECL|macro|kSurfaceProperty
 DECL|namespace|rx

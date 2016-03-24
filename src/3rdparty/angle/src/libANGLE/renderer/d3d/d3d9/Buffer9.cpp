@@ -1,8 +1,8 @@
 DECL|function|Buffer9
 DECL|function|copySubData
 DECL|function|getData
-DECL|function|makeBuffer9
 DECL|function|map
+DECL|function|mapRange
 DECL|function|markTransformFeedbackUsage
 DECL|function|setData
 DECL|function|setSubData

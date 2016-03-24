@@ -6,7 +6,6 @@ DECL|function|expandMacro
 DECL|function|getToken
 DECL|function|isNextTokenLeftParen
 DECL|function|lex
-DECL|function|lex
 DECL|function|popMacro
 DECL|function|pushMacro
 DECL|function|replaceMacroParams

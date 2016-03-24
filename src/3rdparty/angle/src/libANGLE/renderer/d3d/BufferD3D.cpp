@@ -1,7 +1,13 @@
 DECL|function|BufferD3D
+DECL|function|emptyStaticBufferCache
+DECL|function|getIndexRange
+DECL|function|getStaticIndexBuffer
+DECL|function|getStaticVertexBuffer
 DECL|function|initializeStaticData
 DECL|function|invalidateStaticData
 DECL|function|promoteStaticUsage
+DECL|function|reinitOutOfDateStaticData
+DECL|function|updateD3DBufferUsage
 DECL|function|updateSerial
 DECL|function|~BufferD3D
 DECL|member|mNextSerial

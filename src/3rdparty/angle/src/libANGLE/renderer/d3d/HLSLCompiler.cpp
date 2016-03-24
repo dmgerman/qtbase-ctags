@@ -1,6 +1,5 @@
 DECL|function|CompileConfig
 DECL|function|CompileConfig
-DECL|function|GetCompilerFlagName
 DECL|function|HLSLCompiler
 DECL|function|IsCompilerFlagSet
 DECL|function|compileToBinary

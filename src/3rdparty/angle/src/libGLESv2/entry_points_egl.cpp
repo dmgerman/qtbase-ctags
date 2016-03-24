@@ -42,4 +42,6 @@ DECL|function|WaitClient
 DECL|function|WaitGL
 DECL|function|WaitNative
 DECL|function|WaitSync
+DECL|macro|INSERT_PROC_ADDRESS
+DECL|macro|INSERT_PROC_ADDRESS
 DECL|namespace|egl

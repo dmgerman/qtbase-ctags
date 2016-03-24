@@ -15,6 +15,4 @@ DECL|macro|NOMINMAX
 DECL|macro|STRICT
 DECL|macro|WIN32_LEAN_AND_MEAN
 DECL|macro|far
-DECL|macro|final
 DECL|macro|near
-DECL|macro|override

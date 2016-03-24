@@ -4,7 +4,6 @@ DECL|function|getBuffer
 DECL|function|getBufferSize
 DECL|function|getSpaceRequired
 DECL|function|initialize
-DECL|function|makeVertexBuffer9
 DECL|function|setBufferSize
 DECL|function|spaceRequired
 DECL|function|storeVertexAttributes

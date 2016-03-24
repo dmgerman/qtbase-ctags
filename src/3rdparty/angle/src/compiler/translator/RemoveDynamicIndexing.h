@@ -1,0 +1,3 @@
+DECL|macro|COMPILER_TRANSLATOR_REMOVEDYNAMICINDEXING_H_
+DECL|variable|TIntermNode
+DECL|variable|TSymbolTable

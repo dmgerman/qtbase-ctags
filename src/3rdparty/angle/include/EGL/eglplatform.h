@@ -8,11 +8,14 @@ DECL|typedef|EGLNativeDisplayType
 DECL|typedef|EGLNativeDisplayType
 DECL|typedef|EGLNativeDisplayType
 DECL|typedef|EGLNativeDisplayType
+DECL|typedef|EGLNativeDisplayType
 DECL|typedef|EGLNativePixmapType
 DECL|typedef|EGLNativePixmapType
 DECL|typedef|EGLNativePixmapType
 DECL|typedef|EGLNativePixmapType
 DECL|typedef|EGLNativePixmapType
+DECL|typedef|EGLNativePixmapType
+DECL|typedef|EGLNativeWindowType
 DECL|typedef|EGLNativeWindowType
 DECL|typedef|EGLNativeWindowType
 DECL|typedef|EGLNativeWindowType
@@ -23,3 +26,5 @@ DECL|typedef|EGLint
 DECL|typedef|NativeDisplayType
 DECL|typedef|NativePixmapType
 DECL|typedef|NativeWindowType
+DECL|variable|CALayer
+DECL|variable|CALayer

@@ -5,3 +5,6 @@ DECL|typedef|DXGIFactory
 DECL|typedef|DXGIFactory
 DECL|typedef|DXGISwapChain
 DECL|typedef|DXGISwapChain
+DECL|typedef|IDCompositionDevice
+DECL|typedef|IDCompositionTarget
+DECL|typedef|IDCompositionVisual

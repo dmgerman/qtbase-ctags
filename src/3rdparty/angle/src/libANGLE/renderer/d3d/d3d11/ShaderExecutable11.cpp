@@ -6,8 +6,6 @@ DECL|function|getGeometryShader
 DECL|function|getPixelShader
 DECL|function|getStreamOutShader
 DECL|function|getVertexShader
-DECL|function|makeShaderExecutable11
-DECL|function|makeUniformStorage11
 DECL|function|~ShaderExecutable11
 DECL|function|~UniformStorage11
 DECL|namespace|rx

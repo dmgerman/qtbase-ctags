@@ -5,6 +5,8 @@ DECL|function|calculateDeepestNesting
 DECL|function|calculateObjectSize
 DECL|function|containsArrays
 DECL|function|containsSamplers
+DECL|function|containsType
 DECL|function|equals
 DECL|function|getBasicString
+DECL|function|getCompleteString
 DECL|function|getObjectSize

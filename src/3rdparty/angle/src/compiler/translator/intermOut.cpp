@@ -1,7 +1,7 @@
 DECL|class|TOutputTraverser
+DECL|function|OutputFunction
 DECL|function|OutputTreeText
 DECL|function|TOutputTraverser
-DECL|function|getCompleteString
 DECL|function|outputTree
 DECL|function|visitAggregate
 DECL|function|visitBinary
@@ -11,4 +11,12 @@ DECL|function|visitLoop
 DECL|function|visitSelection
 DECL|function|visitSymbol
 DECL|function|visitUnary
+DECL|member|override
+DECL|member|override
+DECL|member|override
+DECL|member|override
+DECL|member|override
+DECL|member|override
+DECL|member|override
+DECL|member|override
 DECL|member|sink

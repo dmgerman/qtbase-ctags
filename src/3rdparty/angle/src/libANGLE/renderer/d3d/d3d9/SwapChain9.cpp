@@ -1,9 +1,9 @@
 DECL|function|SwapChain9
 DECL|function|convertInterval
 DECL|function|getDepthStencil
+DECL|function|getKeyedMutex
 DECL|function|getOffscreenTexture
 DECL|function|getRenderTarget
-DECL|function|makeSwapChain9
 DECL|function|recreate
 DECL|function|release
 DECL|function|reset

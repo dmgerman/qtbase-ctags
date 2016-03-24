@@ -1,8 +1,16 @@
 DECL|function|Query
 DECL|function|begin
 DECL|function|end
+DECL|function|getImplementation
+DECL|function|getImplementation
+DECL|function|getLabel
+DECL|function|getResult
+DECL|function|getResult
+DECL|function|getResult
 DECL|function|getResult
 DECL|function|getType
 DECL|function|isResultAvailable
+DECL|function|queryCounter
+DECL|function|setLabel
 DECL|function|~Query
 DECL|namespace|gl

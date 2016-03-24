@@ -5,7 +5,6 @@ DECL|function|getBufferSize
 DECL|function|getIndexFormat
 DECL|function|getIndexType
 DECL|function|initialize
-DECL|function|makeIndexBuffer9
 DECL|function|mapBuffer
 DECL|function|setSize
 DECL|function|unmapBuffer

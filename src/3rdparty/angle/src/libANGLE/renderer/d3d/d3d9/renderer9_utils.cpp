@@ -13,8 +13,9 @@ DECL|function|ConvertTextureWrap
 DECL|function|GenerateCaps
 DECL|function|GenerateTextureFormatCaps
 DECL|function|GenerateWorkarounds
-DECL|function|GetAttachmentRenderTarget
 DECL|function|GetMultisampleType
+DECL|function|GetReservedFragmentUniformVectors
+DECL|function|GetReservedVertexUniformVectors
 DECL|function|GetSamplesCount
 DECL|function|IsFormatChannelEquivalent
 DECL|function|MakeValidSize

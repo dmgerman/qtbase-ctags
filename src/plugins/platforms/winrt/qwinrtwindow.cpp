@@ -15,7 +15,6 @@ DECL|function|setWindowState
 DECL|function|setWindowTitle
 DECL|function|winId
 DECL|function|~QWinRTWindow
-DECL|macro|EGL_EGLEXT_PROTOTYPES
 DECL|member|canvas
 DECL|member|display
 DECL|member|screen

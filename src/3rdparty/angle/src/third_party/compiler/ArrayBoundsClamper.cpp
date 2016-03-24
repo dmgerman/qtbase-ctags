@@ -5,7 +5,6 @@ DECL|function|GetNeedsClamp
 DECL|function|MarkIndirectArrayBoundsForClamping
 DECL|function|OutputClampingFunctionDefinition
 DECL|function|SetClampingStrategy
-DECL|function|visitBinary
 DECL|member|mNeedsClamp
 DECL|variable|kIntClampBegin
 DECL|variable|kIntClampDefinition

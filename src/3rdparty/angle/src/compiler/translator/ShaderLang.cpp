@@ -1,9 +1,3 @@
-DECL|enumerator|SHADERVAR_ATTRIBUTE
-DECL|enumerator|SHADERVAR_INTERFACEBLOCK
-DECL|enumerator|SHADERVAR_OUTPUTVARIABLE
-DECL|enumerator|SHADERVAR_UNIFORM
-DECL|enumerator|SHADERVAR_VARYING
-DECL|enum|ShaderVariableType
 DECL|function|GetCompilerFromHandle
 DECL|function|GetShaderVariables
 DECL|function|GetTranslatorHLSLFromHandle
@@ -11,7 +5,9 @@ DECL|function|GetVariableList
 DECL|function|GetVariableList
 DECL|function|GetVariableList
 DECL|function|GetVariableList
+DECL|function|GetVariableList
 DECL|function|ShCheckVariablesWithinPackingLimits
+DECL|function|ShClearResults
 DECL|function|ShCompile
 DECL|function|ShConstructCompiler
 DECL|function|ShDestruct

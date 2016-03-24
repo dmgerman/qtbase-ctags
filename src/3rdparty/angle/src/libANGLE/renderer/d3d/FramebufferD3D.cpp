@@ -1,6 +1,4 @@
 DECL|function|FramebufferD3D
-DECL|function|GetAttachmentRenderTarget
-DECL|function|GetAttachmentSerial
 DECL|function|GetClearParameters
 DECL|function|blit
 DECL|function|checkStatus
@@ -12,14 +10,7 @@ DECL|function|clearBufferuiv
 DECL|function|getColorAttachmentsForRender
 DECL|function|getImplementationColorReadFormat
 DECL|function|getImplementationColorReadType
-DECL|function|invalidate
-DECL|function|invalidateSub
 DECL|function|readPixels
-DECL|function|setColorAttachment
-DECL|function|setDepthAttachment
-DECL|function|setDepthStencilAttachment
-DECL|function|setDrawBuffers
-DECL|function|setReadBuffer
-DECL|function|setStencilAttachment
+DECL|function|syncState
 DECL|function|~FramebufferD3D
 DECL|namespace|rx

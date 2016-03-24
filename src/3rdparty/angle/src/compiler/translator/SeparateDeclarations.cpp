@@ -1,0 +1,6 @@
+DECL|class|SeparateDeclarationsTraverser
+DECL|function|SeparateDeclarations
+DECL|function|SeparateDeclarationsTraverser
+DECL|function|apply
+DECL|function|visitAggregate
+DECL|member|override

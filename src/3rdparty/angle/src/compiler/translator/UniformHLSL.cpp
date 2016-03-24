@@ -3,12 +3,14 @@ DECL|function|InterfaceBlockStructName
 DECL|function|UniformHLSL
 DECL|function|UniformRegisterPrefix
 DECL|function|declareUniformAndAssignRegister
+DECL|function|declareUniformAndAssignRegister
 DECL|function|findUniformByName
 DECL|function|interfaceBlockInstanceString
 DECL|function|interfaceBlockMembersString
 DECL|function|interfaceBlockString
 DECL|function|interfaceBlockStructString
 DECL|function|interfaceBlocksHeader
+DECL|function|outputHLSLSamplerUniformGroup
 DECL|function|reserveInterfaceBlockRegisters
 DECL|function|reserveUniformRegisters
 DECL|function|uniformsHeader

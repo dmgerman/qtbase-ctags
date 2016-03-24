@@ -1,0 +1,15 @@
+DECL|function|ASTMetadataHLSL
+DECL|macro|COMPILER_TRANSLATOR_ASTMETADATAHLSL_H_
+DECL|member|mCalledInDiscontinuousLoop
+DECL|member|mControlFlowsContainingGradient
+DECL|member|mDiscontinuousLoops
+DECL|member|mHasGradientLoopInCallGraph
+DECL|member|mIfsContainingGradientLoop
+DECL|member|mNeedsLod0
+DECL|member|mUsesGradient
+DECL|struct|ASTMetadataHLSL
+DECL|typedef|MetadataList
+DECL|variable|CallDAG
+DECL|variable|TIntermLoop
+DECL|variable|TIntermNode
+DECL|variable|TIntermSelection

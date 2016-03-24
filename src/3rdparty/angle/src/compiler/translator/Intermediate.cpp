@@ -13,6 +13,8 @@ DECL|function|addSwitch
 DECL|function|addSwizzle
 DECL|function|addSymbol
 DECL|function|addUnaryMath
+DECL|function|ensureSequence
+DECL|function|foldAggregateBuiltIn
 DECL|function|growAggregate
 DECL|function|makeAggregate
 DECL|function|postProcess

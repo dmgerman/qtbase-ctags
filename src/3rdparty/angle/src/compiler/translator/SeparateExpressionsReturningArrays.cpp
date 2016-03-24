@@ -1,0 +1,12 @@
+DECL|class|SeparateExpressionsTraverser
+DECL|function|CopyAggregateNode
+DECL|function|CopyAssignmentNode
+DECL|function|SeparateExpressionsReturningArrays
+DECL|function|SeparateExpressionsTraverser
+DECL|function|foundArrayExpression
+DECL|function|nextIteration
+DECL|function|visitAggregate
+DECL|function|visitBinary
+DECL|member|mFoundArrayExpression
+DECL|member|override
+DECL|member|override

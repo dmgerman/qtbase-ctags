@@ -3,7 +3,7 @@ DECL|function|FenceSetHelper
 DECL|function|FenceSync11
 DECL|function|FenceTestHelper
 DECL|function|clientWait
-DECL|function|finishFence
+DECL|function|finish
 DECL|function|getStatus
 DECL|function|serverWait
 DECL|function|set

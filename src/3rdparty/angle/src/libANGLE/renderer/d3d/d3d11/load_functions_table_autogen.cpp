@@ -1,0 +1,5 @@
+DECL|function|GetLoadFunctionsMap
+DECL|function|UnimplementedLoadFunction
+DECL|function|UnreachableLoadFunction
+DECL|namespace|d3d11
+DECL|namespace|rx

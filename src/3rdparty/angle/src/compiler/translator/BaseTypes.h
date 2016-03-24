@@ -1,4 +1,5 @@
 DECL|enumerator|EbpHigh
+DECL|enumerator|EbpLast
 DECL|enumerator|EbpLow
 DECL|enumerator|EbpMedium
 DECL|enumerator|EbpUndefined
@@ -28,6 +29,7 @@ DECL|enumerator|EbtISamplerCube
 DECL|enumerator|EbtIVec
 DECL|enumerator|EbtInt
 DECL|enumerator|EbtInterfaceBlock
+DECL|enumerator|EbtLast
 DECL|enumerator|EbtSampler2D
 DECL|enumerator|EbtSampler2DArray
 DECL|enumerator|EbtSampler2DArrayShadow
@@ -61,6 +63,7 @@ DECL|enumerator|EvqFragColor
 DECL|enumerator|EvqFragCoord
 DECL|enumerator|EvqFragData
 DECL|enumerator|EvqFragDepth
+DECL|enumerator|EvqFragDepthEXT
 DECL|enumerator|EvqFragmentIn
 DECL|enumerator|EvqFragmentOut
 DECL|enumerator|EvqFrontFacing
@@ -68,9 +71,6 @@ DECL|enumerator|EvqGlobal
 DECL|enumerator|EvqIn
 DECL|enumerator|EvqInOut
 DECL|enumerator|EvqInstanceID
-DECL|enumerator|EvqInternal
-DECL|enumerator|EvqInvariantVaryingIn
-DECL|enumerator|EvqInvariantVaryingOut
 DECL|enumerator|EvqLast
 DECL|enumerator|EvqLastFragColor
 DECL|enumerator|EvqLastFragData
@@ -78,6 +78,8 @@ DECL|enumerator|EvqOut
 DECL|enumerator|EvqPointCoord
 DECL|enumerator|EvqPointSize
 DECL|enumerator|EvqPosition
+DECL|enumerator|EvqSecondaryFragColorEXT
+DECL|enumerator|EvqSecondaryFragDataEXT
 DECL|enumerator|EvqSmooth
 DECL|enumerator|EvqSmoothIn
 DECL|enumerator|EvqSmoothOut

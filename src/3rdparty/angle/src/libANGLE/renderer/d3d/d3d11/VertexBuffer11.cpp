@@ -5,7 +5,6 @@ DECL|function|getBufferSize
 DECL|function|getSpaceRequired
 DECL|function|hintUnmapResource
 DECL|function|initialize
-DECL|function|makeVertexBuffer11
 DECL|function|mapResource
 DECL|function|setBufferSize
 DECL|function|storeVertexAttributes

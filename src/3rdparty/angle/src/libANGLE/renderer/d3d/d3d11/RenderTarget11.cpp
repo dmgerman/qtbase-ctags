@@ -26,7 +26,6 @@ DECL|function|getTexture
 DECL|function|getTextureProperties
 DECL|function|getWidth
 DECL|function|getWidth
-DECL|function|makeRenderTarget11
 DECL|function|~SurfaceRenderTarget11
 DECL|function|~TextureRenderTarget11
 DECL|namespace|rx

@@ -1,7 +1,12 @@
 DECL|function|Surface
 DECL|function|bindTexImage
+DECL|function|createDefaultFramebuffer
+DECL|function|getAttachmentInternalFormat
+DECL|function|getAttachmentSamples
+DECL|function|getAttachmentSize
 DECL|function|getConfig
 DECL|function|getHeight
+DECL|function|getId
 DECL|function|getPixelAspectRatio
 DECL|function|getRenderBuffer
 DECL|function|getSwapBehavior
@@ -11,9 +16,12 @@ DECL|function|getType
 DECL|function|getWidth
 DECL|function|isFixedSize
 DECL|function|isPostSubBufferSupported
+DECL|function|onDestroy
 DECL|function|postSubBuffer
 DECL|function|querySurfacePointerANGLE
 DECL|function|releaseTexImage
+DECL|function|releaseTexImageFromTexture
+DECL|function|setIsCurrent
 DECL|function|setSwapInterval
 DECL|function|swap
 DECL|function|~Surface

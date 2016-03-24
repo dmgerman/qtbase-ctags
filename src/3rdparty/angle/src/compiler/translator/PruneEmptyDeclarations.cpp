@@ -1,0 +1,6 @@
+DECL|class|PruneEmptyDeclarationsTraverser
+DECL|function|PruneEmptyDeclarations
+DECL|function|PruneEmptyDeclarationsTraverser
+DECL|function|apply
+DECL|function|visitAggregate
+DECL|member|override

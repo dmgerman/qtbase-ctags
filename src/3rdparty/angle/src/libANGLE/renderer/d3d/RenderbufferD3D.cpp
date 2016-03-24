@@ -1,8 +1,8 @@
 DECL|function|RenderbufferD3D
+DECL|function|getAttachmentRenderTarget
 DECL|function|getRenderTarget
-DECL|function|getRenderTargetSerial
-DECL|function|makeRenderbufferD3D
 DECL|function|setStorage
+DECL|function|setStorageEGLImageTarget
 DECL|function|setStorageMultisample
 DECL|function|~RenderbufferD3D
 DECL|namespace|rx

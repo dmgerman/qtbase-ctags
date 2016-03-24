@@ -2,7 +2,13 @@ DECL|function|Buffer
 DECL|function|bufferData
 DECL|function|bufferSubData
 DECL|function|copyBufferSubData
+DECL|function|getIndexRange
+DECL|function|getLabel
+DECL|function|map
 DECL|function|mapRange
+DECL|function|onPixelUnpack
+DECL|function|onTransformFeedback
+DECL|function|setLabel
 DECL|function|unmap
 DECL|function|~Buffer
 DECL|namespace|gl

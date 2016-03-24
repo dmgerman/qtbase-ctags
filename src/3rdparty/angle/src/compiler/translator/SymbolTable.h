@@ -1,6 +1,14 @@
+DECL|function|TConstParameter
+DECL|function|TConstParameter
+DECL|function|TConstParameter
+DECL|function|TConstParameter
+DECL|function|turnToConst
 DECL|macro|COMPILER_TRANSLATOR_SYMBOLTABLE_H_
 DECL|member|name
+DECL|member|name
 DECL|member|type
+DECL|member|type
+DECL|struct|TConstParameter
 DECL|struct|TParameter
 DECL|typedef|ESymbolLevel
 DECL|variable|COMMON_BUILTINS

@@ -1,1 +1,2 @@
 DECL|macro|COMPILER_TRANSLATOR_GLSLANG_H_
+DECL|variable|TParseContext

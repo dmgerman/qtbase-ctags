@@ -1,5 +1,6 @@
 DECL|function|Compiler
-DECL|function|getImplementation
+DECL|function|getCompilerHandle
 DECL|function|release
 DECL|function|~Compiler
+DECL|member|activeCompilerHandles
 DECL|namespace|gl

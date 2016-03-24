@@ -1,13 +1,13 @@
 DECL|enumerator|CONSTANT_VERTEX_BUFFER_SIZE
 DECL|enumerator|INITIAL_STREAM_BUFFER_SIZE
+DECL|function|CurrentValueState
 DECL|function|ElementsInBuffer
-DECL|function|StreamingBufferElementCount
 DECL|function|VertexDataManager
 DECL|function|hintUnmapAllResources
-DECL|function|invalidateMatchingStaticData
 DECL|function|prepareVertexData
 DECL|function|reserveSpaceForAttrib
 DECL|function|storeAttribute
 DECL|function|storeCurrentValue
+DECL|function|~CurrentValueState
 DECL|function|~VertexDataManager
 DECL|namespace|rx

@@ -26,3 +26,4 @@ DECL|variable|TIntermSymbol
 DECL|variable|TIntermTraverser
 DECL|variable|TIntermTyped
 DECL|variable|TIntermUnary
+DECL|variable|TSymbolTable

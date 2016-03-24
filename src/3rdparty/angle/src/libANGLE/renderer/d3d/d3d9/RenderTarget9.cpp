@@ -12,9 +12,12 @@ DECL|function|getSamples
 DECL|function|getSamples
 DECL|function|getSurface
 DECL|function|getSurface
+DECL|function|getTexture
+DECL|function|getTexture
+DECL|function|getTextureLevel
+DECL|function|getTextureLevel
 DECL|function|getWidth
 DECL|function|getWidth
-DECL|function|makeRenderTarget9
 DECL|function|~SurfaceRenderTarget9
 DECL|function|~TextureRenderTarget9
 DECL|namespace|rx

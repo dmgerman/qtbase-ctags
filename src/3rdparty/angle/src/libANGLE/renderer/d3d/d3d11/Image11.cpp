@@ -1,8 +1,8 @@
 DECL|function|Image11
-DECL|function|copy
-DECL|function|copy
-DECL|function|copy
+DECL|function|copyFromFramebuffer
+DECL|function|copyFromTexStorage
 DECL|function|copyToStorage
+DECL|function|copyWithoutConversion
 DECL|function|createStagingTexture
 DECL|function|disassociateStorage
 DECL|function|generateMipmap
@@ -12,7 +12,6 @@ DECL|function|isAssociatedStorageValid
 DECL|function|isDirty
 DECL|function|loadCompressedData
 DECL|function|loadData
-DECL|function|makeImage11
 DECL|function|map
 DECL|function|recoverFromAssociatedStorage
 DECL|function|redefine

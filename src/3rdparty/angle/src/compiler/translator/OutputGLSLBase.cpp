@@ -1,8 +1,10 @@
 DECL|function|TOutputGLSLBase
 DECL|function|arrayBrackets
+DECL|function|declareInterfaceBlock
+DECL|function|declareInterfaceBlockLayout
 DECL|function|declareStruct
 DECL|function|getTypeName
-DECL|function|hashFunctionName
+DECL|function|hashFunctionNameIfNeeded
 DECL|function|hashName
 DECL|function|hashVariableName
 DECL|function|isSingleStatement
@@ -20,6 +22,8 @@ DECL|function|visitSymbol
 DECL|function|visitUnary
 DECL|function|writeBuiltInFunctionTriplet
 DECL|function|writeConstantUnion
+DECL|function|writeConstructorTriplet
 DECL|function|writeFunctionParameters
+DECL|function|writeLayoutQualifier
 DECL|function|writeTriplet
 DECL|function|writeVariableType

@@ -1,4 +1,11 @@
+DECL|function|CreateDeviceANGLE
+DECL|function|CreateImageKHR
+DECL|function|DestroyImageKHR
 DECL|function|GetPlatformDisplayEXT
 DECL|function|PostSubBufferNV
+DECL|function|QueryDeviceAttribEXT
+DECL|function|QueryDeviceStringEXT
+DECL|function|QueryDisplayAttribEXT
 DECL|function|QuerySurfacePointerANGLE
+DECL|function|ReleaseDeviceANGLE
 DECL|namespace|egl

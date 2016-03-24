@@ -1,0 +1,1 @@
+DECL|macro|LIBANGLE_VERSION_H_

@@ -1,1 +1,2 @@
-DECL|function|InitBuiltInFunctionEmulatorForGLSL
+DECL|function|InitBuiltInFunctionEmulatorForGLSLMissingFunctions
+DECL|function|InitBuiltInFunctionEmulatorForGLSLWorkarounds

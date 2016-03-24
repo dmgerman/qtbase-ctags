@@ -16,8 +16,7 @@ DECL|function|SetFunctionCalled
 DECL|function|addEmulatedFunction
 DECL|function|addEmulatedFunction
 DECL|function|addEmulatedFunction
+DECL|function|getCopy
 DECL|function|operator <
 DECL|function|operator ==
-DECL|function|visitAggregate
-DECL|function|visitUnary
 DECL|member|mEmulator

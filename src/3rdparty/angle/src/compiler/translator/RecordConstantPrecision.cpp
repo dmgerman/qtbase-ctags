@@ -1,0 +1,9 @@
+DECL|class|RecordConstantPrecisionTraverser
+DECL|function|RecordConstantPrecision
+DECL|function|RecordConstantPrecisionTraverser
+DECL|function|foundHigherPrecisionConstant
+DECL|function|nextIteration
+DECL|function|operandAffectsParentOperationPrecision
+DECL|function|visitConstantUnion
+DECL|member|mFoundHigherPrecisionConstant
+DECL|member|override

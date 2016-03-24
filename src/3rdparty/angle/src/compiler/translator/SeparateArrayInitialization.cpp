@@ -1,0 +1,6 @@
+DECL|class|SeparateArrayInitTraverser
+DECL|function|SeparateArrayInitTraverser
+DECL|function|SeparateArrayInitialization
+DECL|function|apply
+DECL|function|visitAggregate
+DECL|member|override

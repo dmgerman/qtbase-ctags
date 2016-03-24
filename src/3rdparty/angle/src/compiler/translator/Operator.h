@@ -35,8 +35,14 @@ DECL|enumerator|EOpConstructIVec3
 DECL|enumerator|EOpConstructIVec4
 DECL|enumerator|EOpConstructInt
 DECL|enumerator|EOpConstructMat2
+DECL|enumerator|EOpConstructMat2x3
+DECL|enumerator|EOpConstructMat2x4
 DECL|enumerator|EOpConstructMat3
+DECL|enumerator|EOpConstructMat3x2
+DECL|enumerator|EOpConstructMat3x4
 DECL|enumerator|EOpConstructMat4
+DECL|enumerator|EOpConstructMat4x2
+DECL|enumerator|EOpConstructMat4x3
 DECL|enumerator|EOpConstructStruct
 DECL|enumerator|EOpConstructUInt
 DECL|enumerator|EOpConstructUVec2
@@ -79,7 +85,6 @@ DECL|enumerator|EOpIndexDirectStruct
 DECL|enumerator|EOpIndexIndirect
 DECL|enumerator|EOpInitialize
 DECL|enumerator|EOpIntBitsToFloat
-DECL|enumerator|EOpInternalFunctionCall
 DECL|enumerator|EOpInvariantDeclaration
 DECL|enumerator|EOpInverse
 DECL|enumerator|EOpInverseSqrt

@@ -1,0 +1,9 @@
+DECL|class|TScopedAllocator
+DECL|function|TScopedAllocator
+DECL|function|TypeKey
+DECL|function|destroy
+DECL|function|getType
+DECL|function|initialize
+DECL|function|~TScopedAllocator
+DECL|member|mPreviousAllocator
+DECL|member|sCache

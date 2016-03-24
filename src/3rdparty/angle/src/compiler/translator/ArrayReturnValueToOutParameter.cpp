@@ -1,0 +1,15 @@
+DECL|class|ArrayReturnValueToOutParameterTraverser
+DECL|function|ArrayReturnValueToOutParameter
+DECL|function|ArrayReturnValueToOutParameterTraverser
+DECL|function|CopyAggregateChildren
+DECL|function|CreateReplacementCall
+DECL|function|CreateReturnValueOutSymbol
+DECL|function|CreateReturnValueSymbol
+DECL|function|apply
+DECL|function|visitAggregate
+DECL|function|visitBinary
+DECL|function|visitBranch
+DECL|member|mInFunctionWithArrayReturnValue
+DECL|member|override
+DECL|member|override
+DECL|member|override

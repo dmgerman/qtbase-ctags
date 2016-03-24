@@ -1,7 +1,7 @@
-From f0fb8d75bd2c7a894df1cb7e7d3dcd1ad0fd88d0 Mon Sep 17 00:00:00 2001
-From: Andrew Knight <andrew.knight@intopalo.com>
-Date: Sun, 3 May 2015 20:55:04 +0300
-Subject: [PATCH] ANGLE: Allow Windows Phone to communicate swap region
+From a0c84bec77dd2dab4dd87add17dd1f21e6d8087d Mon Sep 17 00:00:00 2001
+From: Oliver Wolff <oliver.wolff@theqtcompany.com>
+Date: Tue, 1 Mar 2016 13:39:06 +0100
+Subject: [PATCH 4/7] ANGLE: Allow Windows Phone to communicate swap region
 
 eglPostSubBufferNV is used to communicate the size of the window, as
 otherwise there is no way for the renderer to know if the last frame was
@@ -14,7 +14,8 @@ during the next ANGLE rebase.
 
 Task-number: QTBUG-44333
 Task-number: QTBUG-43502
-Change-Id: Iec37f7531854184819c30c87eab82d96d56ff133
+
+Change-Id: I2b35c41ed17004524f383350253a936e6bf85117
 ---
  .../angle/src/libANGLE/renderer/d3d/SurfaceD3D.cpp |  2 ++
  .../libANGLE/renderer/d3d/d3d11/SwapChain11.cpp    | 28 +++++++++++++---------
@@ -23,10 +24,10 @@ Change-Id: Iec37f7531854184819c30c87eab82d96d56ff133
  4 files changed, 24 insertions(+), 13 deletions(-)
 
 diff --git a/src/3rdparty/angle/src/libANGLE/renderer/d3d/SurfaceD3D.cpp b/src/3rdparty/angle/src/libANGLE/renderer/d3d/SurfaceD3D.cpp
-index 4fde295..4a87488 100644
+index 0347828..3d27548 100644
 --- a/src/3rdparty/angle/src/libANGLE/renderer/d3d/SurfaceD3D.cpp
 +++ b/src/3rdparty/angle/src/libANGLE/renderer/d3d/SurfaceD3D.cpp
-@@ -189,6 +189,7 @@ egl::Error SurfaceD3D::swapRect(EGLint x, EGLint y, EGLint width, EGLint height)
+@@ -211,6 +211,7 @@ egl::Error SurfaceD3D::swapRect(EGLint x, EGLint y, EGLint width, EGLint height)
          return egl::Error(EGL_SUCCESS);
      }
  
@@ -34,19 +35,19 @@ index 4fde295..4a87488 100644
      if (x + width > mWidth)
      {
          width = mWidth - x;
-@@ -198,6 +199,7 @@ egl::Error SurfaceD3D::swapRect(EGLint x, EGLint y, EGLint width, EGLint height)
+@@ -220,6 +221,7 @@ egl::Error SurfaceD3D::swapRect(EGLint x, EGLint y, EGLint width, EGLint height)
      {
          height = mHeight - y;
      }
 +#endif
  
-     if (width == 0 || height == 0)
+     if (width != 0 && height != 0)
      {
 diff --git a/src/3rdparty/angle/src/libANGLE/renderer/d3d/d3d11/SwapChain11.cpp b/src/3rdparty/angle/src/libANGLE/renderer/d3d/d3d11/SwapChain11.cpp
-index 298f3cc..dc539cf 100644
+index 5a6f202..f669f56 100644
 --- a/src/3rdparty/angle/src/libANGLE/renderer/d3d/d3d11/SwapChain11.cpp
 +++ b/src/3rdparty/angle/src/libANGLE/renderer/d3d/d3d11/SwapChain11.cpp
-@@ -552,18 +552,18 @@ EGLint SwapChain11::swapRect(EGLint x, EGLint y, EGLint width, EGLint height)
+@@ -717,18 +717,18 @@ EGLint SwapChain11::copyOffscreenToBackbuffer(EGLint x, EGLint y, EGLint width,
  
      d3d11::PositionTexCoordVertex *vertices = static_cast<d3d11::PositionTexCoordVertex*>(mappedResource.pData);
  
@@ -74,7 +75,7 @@ index 298f3cc..dc539cf 100644
  
      const NativeWindow::RotationFlags flags = mNativeWindow.rotationFlags();
      const bool rotateL = flags == NativeWindow::RotateLeft;
-@@ -573,6 +573,12 @@ EGLint SwapChain11::swapRect(EGLint x, EGLint y, EGLint width, EGLint height)
+@@ -738,6 +738,12 @@ EGLint SwapChain11::copyOffscreenToBackbuffer(EGLint x, EGLint y, EGLint width,
      d3d11::SetPositionTexCoordVertex(&vertices[2], x2, y1, rotateR ? u1 : u2, rotateL ? v2 : v1);
      d3d11::SetPositionTexCoordVertex(&vertices[3], x2, y2, rotateL ? u1 : u2, rotateR ? v1 : v2);
  #else
@@ -87,7 +88,7 @@ index 298f3cc..dc539cf 100644
      float u1 = x / float(mWidth);
      float v1 = y / float(mHeight);
      float u2 = (x + width) / float(mWidth);
-@@ -613,8 +619,8 @@ EGLint SwapChain11::swapRect(EGLint x, EGLint y, EGLint width, EGLint height)
+@@ -788,8 +794,8 @@ EGLint SwapChain11::copyOffscreenToBackbuffer(EGLint x, EGLint y, EGLint width,
      viewport.TopLeftX = 0;
      viewport.TopLeftY = 0;
  #if defined(ANGLE_ENABLE_WINDOWS_STORE) && (WINAPI_FAMILY == WINAPI_FAMILY_PHONE_APP)
@@ -96,13 +97,13 @@ index 298f3cc..dc539cf 100644
 +    viewport.Width = (rotateL || rotateR) ? height : width;
 +    viewport.Height = (rotateL || rotateR) ? width : height;
  #else
-     viewport.Width = mWidth;
-     viewport.Height = mHeight;
+     viewport.Width = static_cast<FLOAT>(mWidth);
+     viewport.Height = static_cast<FLOAT>(mHeight);
 diff --git a/src/3rdparty/angle/src/libANGLE/renderer/d3d/d3d11/winrt/CoreWindowNativeWindow.cpp b/src/3rdparty/angle/src/libANGLE/renderer/d3d/d3d11/winrt/CoreWindowNativeWindow.cpp
-index 350526c..fa9a69c 100644
+index 6a4795a..b074e8c 100644
 --- a/src/3rdparty/angle/src/libANGLE/renderer/d3d/d3d11/winrt/CoreWindowNativeWindow.cpp
 +++ b/src/3rdparty/angle/src/libANGLE/renderer/d3d/d3d11/winrt/CoreWindowNativeWindow.cpp
-@@ -100,6 +100,7 @@ bool CoreWindowNativeWindow::registerForSizeChangeEvents()
+@@ -132,6 +132,7 @@ bool CoreWindowNativeWindow::registerForSizeChangeEvents()
      if (SUCCEEDED(result))
      {
          result = mDisplayInformation->add_OrientationChanged(orientationChangedHandler.Get(), &mOrientationChangedEventToken);
@@ -110,7 +111,7 @@ index 350526c..fa9a69c 100644
      }
  #endif
  
-@@ -135,8 +136,8 @@ HRESULT CoreWindowNativeWindow::createSwapChain(ID3D11Device *device, DXGIFactor
+@@ -175,8 +176,8 @@ HRESULT CoreWindowNativeWindow::createSwapChain(ID3D11Device *device,
      }
  
      DXGI_SWAP_CHAIN_DESC1 swapChainDesc = { 0 };
@@ -122,10 +123,10 @@ index 350526c..fa9a69c 100644
      swapChainDesc.Stereo = FALSE;
      swapChainDesc.SampleDesc.Count = 1;
 diff --git a/src/3rdparty/angle/src/libGLESv2/entry_points_egl_ext.cpp b/src/3rdparty/angle/src/libGLESv2/entry_points_egl_ext.cpp
-index ded73db..62f3ca1 100644
+index 7536b19..e3c35d5 100644
 --- a/src/3rdparty/angle/src/libGLESv2/entry_points_egl_ext.cpp
 +++ b/src/3rdparty/angle/src/libGLESv2/entry_points_egl_ext.cpp
-@@ -101,12 +101,14 @@ EGLBoolean EGLAPIENTRY PostSubBufferNV(EGLDisplay dpy, EGLSurface surface, EGLin
+@@ -108,12 +108,14 @@ EGLBoolean EGLAPIENTRY PostSubBufferNV(EGLDisplay dpy, EGLSurface surface, EGLin
          return EGL_FALSE;
      }
  
@@ -141,5 +142,5 @@ index ded73db..62f3ca1 100644
      error = eglSurface->postSubBuffer(x, y, width, height);
      if (error.isError())
 -- 
-1.9.5.msysgit.0
+2.7.0.windows.1
 

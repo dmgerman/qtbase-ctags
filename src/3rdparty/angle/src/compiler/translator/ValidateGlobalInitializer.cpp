@@ -1,0 +1,16 @@
+DECL|class|ValidateGlobalInitializerTraverser
+DECL|function|ValidateGlobalInitializer
+DECL|function|ValidateGlobalInitializerTraverser
+DECL|function|isValid
+DECL|function|issueWarning
+DECL|function|visitAggregate
+DECL|function|visitBinary
+DECL|function|visitSymbol
+DECL|function|visitUnary
+DECL|member|mContext
+DECL|member|mIsValid
+DECL|member|mIssueWarning
+DECL|member|override
+DECL|member|override
+DECL|member|override
+DECL|member|override

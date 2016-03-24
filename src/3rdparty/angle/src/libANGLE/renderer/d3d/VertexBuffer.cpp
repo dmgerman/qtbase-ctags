@@ -2,6 +2,7 @@ DECL|function|StaticVertexBufferInterface
 DECL|function|StreamingVertexBufferInterface
 DECL|function|VertexBuffer
 DECL|function|VertexBufferInterface
+DECL|function|commit
 DECL|function|directStoragePossible
 DECL|function|discard
 DECL|function|getBufferSize

@@ -1,11 +1,9 @@
 DECL|class|ElseBlockRewriter
 DECL|function|ElseBlockRewriter
-DECL|function|MakeNewBinary
-DECL|function|MakeNewTemporary
 DECL|function|MakeNewUnary
 DECL|function|RewriteElseBlocks
 DECL|function|rewriteSelection
 DECL|function|visitAggregate
 DECL|member|mFunctionType
-DECL|member|mTemporaryIndex
+DECL|member|override
 DECL|namespace|sh

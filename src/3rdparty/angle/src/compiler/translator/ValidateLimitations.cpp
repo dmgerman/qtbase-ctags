@@ -1,4 +1,5 @@
 DECL|class|ValidateConstIndexExpr
+DECL|function|IsLimitedForLoop
 DECL|function|ValidateConstIndexExpr
 DECL|function|ValidateLimitations
 DECL|function|error
@@ -17,7 +18,6 @@ DECL|function|validateOperation
 DECL|function|visitAggregate
 DECL|function|visitBinary
 DECL|function|visitLoop
-DECL|function|visitSymbol
 DECL|function|visitUnary
 DECL|function|withinLoopBody
 DECL|member|mLoopStack

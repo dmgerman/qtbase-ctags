@@ -1,0 +1,14 @@
+DECL|function|CreateDevice
+DECL|function|CreateDevice
+DECL|function|Device
+DECL|function|GenerateExtensionsString
+DECL|function|GetDeviceSet
+DECL|function|IsValidDevice
+DECL|function|getDevice
+DECL|function|getExtensionString
+DECL|function|getExtensions
+DECL|function|getType
+DECL|function|initDeviceExtensions
+DECL|function|~Device
+DECL|namespace|egl
+DECL|typedef|DeviceSet

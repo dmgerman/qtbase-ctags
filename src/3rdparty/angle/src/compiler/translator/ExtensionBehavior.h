@@ -3,6 +3,7 @@ DECL|enumerator|EBhEnable
 DECL|enumerator|EBhRequire
 DECL|enumerator|EBhUndefined
 DECL|enumerator|EBhWarn
+DECL|function|IsExtensionEnabled
 DECL|function|getBehaviorString
 DECL|macro|COMPILER_TRANSLATOR_EXTENSIONBEHAVIOR_H_
 DECL|typedef|TBehavior
