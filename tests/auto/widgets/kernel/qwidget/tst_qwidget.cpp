@@ -327,6 +327,7 @@ DECL|function|taskQTBUG_4055_sendSyntheticEnterLeave
 DECL|function|taskQTBUG_7532_tabOrderWithFocusProxy
 DECL|function|testContentsPropagation
 DECL|function|testDeletionInEventHandlers
+DECL|function|testForOutsideWSRangeFlag
 DECL|function|testWindowIconChangeEventPropagation
 DECL|function|timerEvent
 DECL|function|toplevelLineEditFocus
