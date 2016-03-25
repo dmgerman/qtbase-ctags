@@ -18,7 +18,6 @@ DECL|function|appendDownstreamDataDownloadBuffer
 DECL|function|appendDownstreamDataSignalEmissions
 DECL|function|backendNotify
 DECL|function|bytesAvailable
-DECL|function|canReadLine
 DECL|function|close
 DECL|function|completeCacheSave
 DECL|function|createCache
