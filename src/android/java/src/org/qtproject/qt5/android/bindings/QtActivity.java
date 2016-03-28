@@ -1,4 +1,8 @@
 DECL|class|QtActivity
+DECL|field|APPLICATION_PARAMETERS
+DECL|field|ENVIRONMENT_VARIABLES
+DECL|field|QT_ANDROID_DEFAULT_THEME
+DECL|field|QT_ANDROID_THEMES
 DECL|field|m_loader
 DECL|method|QtActivity
 DECL|method|dispatchGenericMotionEvent
