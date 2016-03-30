@@ -16,9 +16,9 @@ DECL|function|clearButtonIcon
 DECL|function|cursorRect
 DECL|function|drag
 DECL|function|findSideWidget
-DECL|function|iconSize
 DECL|function|inSelection
 DECL|function|init
+DECL|function|lineEditPrivate
 DECL|function|paintEvent
 DECL|function|positionSideWidgets
 DECL|function|removeAction
@@ -27,6 +27,7 @@ DECL|function|sendMouseEventToInputContext
 DECL|function|setClearButtonEnabled
 DECL|function|setCursorVisible
 DECL|function|setOpacity
+DECL|function|sideWidgetParameters
 DECL|function|startOpacityAnimation
 DECL|function|updateCursor
 DECL|function|updatePasswordEchoEditing
