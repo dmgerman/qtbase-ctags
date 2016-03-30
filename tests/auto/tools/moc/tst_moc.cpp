@@ -138,6 +138,8 @@ DECL|function|numberOfChickens
 DECL|function|numberOfEggs
 DECL|function|object
 DECL|function|objectSlot
+DECL|function|optionsFileError
+DECL|function|optionsFileError_data
 DECL|function|os9Newline
 DECL|function|parseDefines
 DECL|function|plop
