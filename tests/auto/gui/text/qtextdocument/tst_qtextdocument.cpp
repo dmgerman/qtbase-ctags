@@ -77,6 +77,7 @@ DECL|function|isEmpty
 DECL|function|isModified2
 DECL|function|isModified3
 DECL|function|isModified4
+DECL|function|lineHeightType
 DECL|function|loadResource
 DECL|function|loadResource
 DECL|function|loadedResource

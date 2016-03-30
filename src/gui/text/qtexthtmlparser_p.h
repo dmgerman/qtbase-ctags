@@ -92,6 +92,7 @@ DECL|member|displayMode
 DECL|member|displayMode
 DECL|member|hasCssListIndent
 DECL|member|hasHref
+DECL|member|hasOwnLineHeightType
 DECL|member|hasOwnListStyle
 DECL|member|height
 DECL|member|id
