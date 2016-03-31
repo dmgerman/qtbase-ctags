@@ -17,8 +17,6 @@ DECL|function|bytearrayToLongLong
 DECL|function|bytearrayToUnsLongLong
 DECL|function|c
 DECL|function|c_private
-DECL|function|codeToLanguage
-DECL|function|codeToScript
 DECL|function|countriesForLanguage
 DECL|function|country
 DECL|function|countryToCode
