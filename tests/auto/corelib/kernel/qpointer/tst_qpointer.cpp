@@ -11,6 +11,7 @@ DECL|function|DerivedParent
 DECL|function|assignment_operators
 DECL|function|castDuringDestruction
 DECL|function|constPointer
+DECL|function|constQPointer
 DECL|function|constructors
 DECL|function|dereference_operators
 DECL|function|destructor
