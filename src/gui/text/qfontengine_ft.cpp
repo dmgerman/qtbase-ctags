@@ -15,6 +15,7 @@ DECL|function|alphaRGBMapForGlyph
 DECL|function|areMetricsTooLarge
 DECL|function|ascent
 DECL|function|averageCharWidth
+DECL|function|bitmapForGlyph
 DECL|function|boundingBox
 DECL|function|boundingBox
 DECL|function|boundingBox
@@ -50,6 +51,7 @@ DECL|function|init
 DECL|function|init
 DECL|function|initFromFontEngine
 DECL|function|is2dRotation
+DECL|function|isScalableBitmap
 DECL|function|leading
 DECL|function|lineThickness
 DECL|function|loadFlags
@@ -70,6 +72,8 @@ DECL|function|release
 DECL|function|removeGlyphFromCache
 DECL|function|removeGlyphFromCache
 DECL|function|scaleOutline
+DECL|function|scaledBitmapMetrics
+DECL|function|scaledBitmapMetrics
 DECL|function|setDefaultHintStyle
 DECL|function|setGlyph
 DECL|function|setQtDefaultHintStyle

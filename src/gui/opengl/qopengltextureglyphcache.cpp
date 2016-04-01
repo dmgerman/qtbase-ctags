@@ -4,6 +4,8 @@ DECL|function|createTextureData
 DECL|function|fillTexture
 DECL|function|glyphPadding
 DECL|function|isCoreProfile
+DECL|function|load_glyph_image_region_to_texture
+DECL|function|load_glyph_image_to_texture
 DECL|function|maxTextureHeight
 DECL|function|maxTextureWidth
 DECL|function|resizeTextureData
