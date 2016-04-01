@@ -3,17 +3,14 @@ DECL|function|QWindowsVistaStylePrivate
 DECL|function|buttonStateId
 DECL|function|buttonVisible
 DECL|function|canAnimate
-DECL|function|cleanupTreeViewTheming
 DECL|function|clonedAnimationStyleOption
 DECL|function|createAnimationBuffer
-DECL|function|createTreeViewHelperWindow
 DECL|function|deleteClonedAnimationStyleOption
 DECL|function|drawComplexControl
 DECL|function|drawControl
 DECL|function|drawPrimitive
 DECL|function|fixedPixelMetric
 DECL|function|hitTestComplexControl
-DECL|function|initTreeViewTheming
 DECL|function|isUpdateNeeded
 DECL|function|paint
 DECL|function|pixelMetric
@@ -34,7 +31,6 @@ DECL|function|unpolish
 DECL|function|unpolish
 DECL|function|useVista
 DECL|function|~QWindowsVistaStyle
-DECL|function|~QWindowsVistaStylePrivate
 DECL|macro|BP_COMMANDLINK
 DECL|macro|BP_COMMANDLINKGLYPH
 DECL|macro|CMDLGS_DISABLED
