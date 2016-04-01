@@ -5,6 +5,8 @@ DECL|function|QXcbShmGraphicsBuffer
 DECL|function|QXcbShmImage
 DECL|function|beginPaint
 DECL|function|composeAndFlush
+DECL|function|copy_swapped
+DECL|function|copy_unswapped
 DECL|function|destroy
 DECL|function|endPaint
 DECL|function|ensureGC
@@ -15,6 +17,7 @@ DECL|function|graphicsBuffer
 DECL|function|hasAlpha
 DECL|function|hasShm
 DECL|function|image
+DECL|function|native_sub_image
 DECL|function|paintDevice
 DECL|function|preparePaint
 DECL|function|put
@@ -28,6 +31,7 @@ DECL|function|~QXcbBackingStore
 DECL|function|~QXcbShmImage
 DECL|member|m_access_lock
 DECL|member|m_dirtyShm
+DECL|member|m_flushBuffer
 DECL|member|m_gc
 DECL|member|m_gc_drawable
 DECL|member|m_graphics_buffer
