@@ -51,6 +51,7 @@ DECL|function|MyType
 DECL|function|MyType
 DECL|function|QObjectWrapper
 DECL|function|SmartPointer
+DECL|function|accessSequentialContainerKey
 DECL|function|basicUserType
 DECL|function|begin
 DECL|function|canConvert
