@@ -5,6 +5,7 @@ DECL|enumerator|ToolButtonPressed
 DECL|function|QToolButton
 DECL|function|_q_actionTriggered
 DECL|function|_q_buttonPressed
+DECL|function|_q_buttonReleased
 DECL|function|_q_menuTriggered
 DECL|function|_q_updateButtonDown
 DECL|function|actionEvent
