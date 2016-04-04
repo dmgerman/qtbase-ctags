@@ -75,6 +75,7 @@ DECL|function|inlineAttributeSymmetry
 DECL|function|inlineAttributeSymmetryWithSelection
 DECL|function|inlineAttributesOnInsert
 DECL|function|inlineAttributesOnSelection
+DECL|function|inputMethodCursorRect
 DECL|function|inputMethodEvent
 DECL|function|inputMethodQuery
 DECL|function|inputMethodQueryImHints

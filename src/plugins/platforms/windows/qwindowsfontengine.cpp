@@ -26,6 +26,7 @@ DECL|function|getSfntTableData
 DECL|function|getUShort
 DECL|function|getUnscaledGlyph
 DECL|function|glyphIndex
+DECL|function|handle
 DECL|function|hasCFFTable
 DECL|function|hasCMapTable
 DECL|function|hasEbdtTable
