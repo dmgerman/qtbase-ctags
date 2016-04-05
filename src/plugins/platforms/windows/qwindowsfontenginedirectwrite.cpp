@@ -27,6 +27,7 @@ DECL|function|fontNameSubstitute
 DECL|function|fromD2D1_POINT_2F
 DECL|function|getSfntTableData
 DECL|function|glyphIndex
+DECL|function|handle
 DECL|function|imageForGlyph
 DECL|function|initFontInfo
 DECL|function|leading
