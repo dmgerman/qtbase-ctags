@@ -15,6 +15,7 @@ DECL|function|qt_create_pipe
 DECL|function|qt_terminateApp
 DECL|function|readFromChannel
 DECL|function|startDetached
+DECL|function|startDetachedUacPrompt
 DECL|function|startProcess
 DECL|function|systemEnvironment
 DECL|function|terminateProcess
