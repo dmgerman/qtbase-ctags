@@ -2,6 +2,7 @@ DECL|enumerator|QObjectPrivateVersion
 DECL|function|connectNotify
 DECL|function|createProperty
 DECL|function|disconnectNotify
+DECL|function|isDeclarativeSignalConnected
 DECL|function|isSignalConnected
 DECL|function|metaCall
 DECL|function|objectDestroyed
