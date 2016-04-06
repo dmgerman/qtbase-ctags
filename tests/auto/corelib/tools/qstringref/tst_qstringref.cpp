@@ -23,6 +23,7 @@ DECL|function|integer_conversion
 DECL|function|integer_conversion_data
 DECL|function|isEmpty
 DECL|function|isLatin
+DECL|function|iteration
 DECL|function|lastIndexOf
 DECL|function|lastIndexOf_data
 DECL|function|left
