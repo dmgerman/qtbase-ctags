@@ -53,7 +53,6 @@ DECL|function|fromIsoTimeString
 DECL|function|fromMSecsSinceEpoch
 DECL|function|fromMSecsSinceEpoch
 DECL|function|fromMSecsSinceEpoch
-DECL|function|fromOffsetString
 DECL|function|fromShortMonthName
 DECL|function|fromString
 DECL|function|fromString
