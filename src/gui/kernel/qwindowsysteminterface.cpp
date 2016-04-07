@@ -70,6 +70,7 @@ DECL|function|removeWindowSystemEvent
 DECL|function|removeWindowSystemEventhandler
 DECL|function|sendEvent
 DECL|function|sendWindowSystemEvents
+DECL|function|setPlatformSynthesizesMouse
 DECL|function|setSynchronousWindowSystemEvents
 DECL|function|toNativeTouchPoints
 DECL|function|unregisterTouchDevice
@@ -81,5 +82,6 @@ DECL|member|eventHandler
 DECL|member|eventTime
 DECL|member|eventsFlushed
 DECL|member|flushEventMutex
+DECL|member|platformSynthesizesMouse
 DECL|member|synchronousWindowSystemEvents
 DECL|member|windowSystemEventQueue
