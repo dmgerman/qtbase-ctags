@@ -1,5 +1,5 @@
 DECL|function|QLocalSocketPrivate
-DECL|function|_q_bytesWritten
+DECL|function|_q_canWrite
 DECL|function|_q_pipeClosed
 DECL|function|_q_winError
 DECL|function|abort
@@ -20,7 +20,6 @@ DECL|function|setErrorString
 DECL|function|setReadBufferSize
 DECL|function|setSocketDescriptor
 DECL|function|socketDescriptor
-DECL|function|startNextWrite
 DECL|function|waitForBytesWritten
 DECL|function|waitForConnected
 DECL|function|waitForDisconnected

@@ -31,6 +31,7 @@ DECL|function|multiConnect
 DECL|function|processConnection
 DECL|function|processConnection_data
 DECL|function|readBufferOverflow
+DECL|function|readCommand
 DECL|function|recycleClientSocket
 DECL|function|recycleServer
 DECL|function|removeServer
@@ -42,6 +43,8 @@ DECL|function|sendData_data
 DECL|function|server_basic
 DECL|function|server_connectionsCount
 DECL|function|setSocketDescriptor
+DECL|function|simpleCommandProtocol1
+DECL|function|simpleCommandProtocol2
 DECL|function|slotConnected
 DECL|function|slotDisconnected
 DECL|function|slotError
@@ -58,6 +61,7 @@ DECL|function|verifySocketOptions
 DECL|function|verifySocketOptions_data
 DECL|function|waitForDisconnect
 DECL|function|waitForDisconnectByServer
+DECL|function|writeCommand
 DECL|function|writeOnlySocket
 DECL|function|writeToClientAndDisconnect
 DECL|function|writeToClientAndDisconnect_data
