@@ -1,6 +1,7 @@
 DECL|function|_q_deleteSelected
 DECL|function|addCommand
 DECL|function|advanceToEnabledItem
+DECL|function|anchorRect
 DECL|function|backspace
 DECL|function|clear
 DECL|function|clearString
@@ -32,6 +33,7 @@ DECL|function|paste
 DECL|function|processInputMethodEvent
 DECL|function|processKeyEvent
 DECL|function|processShortcutOverrideEvent
+DECL|function|rectForPos
 DECL|function|redoTextLayout
 DECL|function|removeSelectedText
 DECL|function|resetCursorBlinkTimer
