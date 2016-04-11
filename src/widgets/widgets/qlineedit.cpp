@@ -41,6 +41,7 @@ DECL|function|initStyleOption
 DECL|function|inputMask
 DECL|function|inputMethodEvent
 DECL|function|inputMethodQuery
+DECL|function|inputMethodQuery
 DECL|function|insert
 DECL|function|isClearButtonEnabled
 DECL|function|isModified
