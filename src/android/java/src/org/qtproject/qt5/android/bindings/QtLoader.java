@@ -34,6 +34,7 @@ DECL|field|SOURCES_KEY
 DECL|field|STATIC_INIT_CLASSES_KEY
 DECL|field|m_context
 DECL|field|m_contextInfo
+DECL|field|m_delegateClass
 DECL|field|m_displayDensity
 DECL|field|m_ministroConnection
 DECL|field|m_qtLibs
