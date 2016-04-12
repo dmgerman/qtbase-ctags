@@ -97,6 +97,8 @@ DECL|function|moreIpv6
 DECL|function|nameprep
 DECL|function|percentEncoding
 DECL|function|percentEncoding_data
+DECL|function|port
+DECL|function|port_data
 DECL|function|relative
 DECL|function|resolvedWithAbsoluteSchemes
 DECL|function|resolvedWithAbsoluteSchemes_data
