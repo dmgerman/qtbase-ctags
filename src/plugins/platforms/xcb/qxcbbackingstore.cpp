@@ -22,6 +22,7 @@ DECL|function|paintDevice
 DECL|function|preparePaint
 DECL|function|put
 DECL|function|resize
+DECL|function|round_up_scanline
 DECL|function|scroll
 DECL|function|scroll
 DECL|function|setClip
