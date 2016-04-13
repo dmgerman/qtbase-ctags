@@ -14,8 +14,10 @@ DECL|function|updateIcon
 DECL|function|updateMenu
 DECL|function|updateToolTip
 DECL|function|~QDBusTrayIcon
+DECL|macro|interface
 DECL|variable|DefaultAction
 DECL|variable|KDEItemFormat
+DECL|variable|KDEWatcherService
 DECL|variable|TempFileTemplate
 DECL|variable|XdgNotificationPath
 DECL|variable|XdgNotificationService
