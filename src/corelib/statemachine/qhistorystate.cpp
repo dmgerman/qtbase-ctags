@@ -6,6 +6,7 @@ DECL|function|defaultState
 DECL|function|defaultTransition
 DECL|function|event
 DECL|function|historyType
+DECL|function|isSoleEntry
 DECL|function|onEntry
 DECL|function|onExit
 DECL|function|setDefaultState
