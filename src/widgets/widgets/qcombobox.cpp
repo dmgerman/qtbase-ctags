@@ -48,6 +48,7 @@ DECL|function|init
 DECL|function|initStyleOption
 DECL|function|inputMethodEvent
 DECL|function|inputMethodQuery
+DECL|function|inputMethodQuery
 DECL|function|insertItem
 DECL|function|insertItems
 DECL|function|insertPolicy
