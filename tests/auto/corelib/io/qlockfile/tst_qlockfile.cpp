@@ -24,5 +24,8 @@ DECL|function|tryLockFromThread
 DECL|function|tryStaleLockFromThread
 DECL|function|waitForLock
 DECL|function|waitForLock_data
+DECL|function|~LockFileUsageInGlobalDtor
 DECL|member|dir
 DECL|member|m_helperApp
+DECL|struct|LockFileUsageInGlobalDtor
+DECL|variable|s_instance

@@ -46,6 +46,7 @@ DECL|function|raise
 DECL|function|removeWindow
 DECL|function|scaleFactor
 DECL|function|setStatusBarVisibility
+DECL|function|shouldAutoRepeat
 DECL|function|topWindow
 DECL|function|updateWindowTitle
 DECL|function|~QWinRTScreen

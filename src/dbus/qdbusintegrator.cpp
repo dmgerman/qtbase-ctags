@@ -14,6 +14,7 @@ DECL|function|connectRelay
 DECL|function|connectSignal
 DECL|function|connectionCapabilies
 DECL|function|deliverCall
+DECL|function|disconnectObjectTree
 DECL|function|disconnectRelay
 DECL|function|disconnectSignal
 DECL|function|doDispatch
