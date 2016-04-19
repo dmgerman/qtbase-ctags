@@ -142,6 +142,7 @@ DECL|function|toHtml
 DECL|function|toPlainText
 DECL|function|undo
 DECL|function|updateCurrentCharFormat
+DECL|function|updateCursorBlinking
 DECL|function|~QWidgetTextControl
 DECL|macro|ACCEL_KEY
 DECL|macro|ACCEL_KEY
