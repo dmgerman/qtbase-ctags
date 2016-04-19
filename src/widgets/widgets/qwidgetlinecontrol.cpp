@@ -38,12 +38,13 @@ DECL|function|redoTextLayout
 DECL|function|removeSelectedText
 DECL|function|resetCursorBlinkTimer
 DECL|function|selectWordAtPos
-DECL|function|setCursorBlinkPeriod
+DECL|function|setBlinkingCursorEnabled
 DECL|function|setReadOnly
 DECL|function|setSelection
 DECL|function|stripString
 DECL|function|timerEvent
 DECL|function|undo
+DECL|function|updateCursorBlinking
 DECL|function|updateDisplayText
 DECL|function|updatePasswordEchoEditing
 DECL|function|xToPos
