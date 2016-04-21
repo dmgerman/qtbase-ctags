@@ -19,6 +19,7 @@ DECL|function|qt_urlRecodeByteArray
 DECL|function|recode
 DECL|function|toUpperHex
 DECL|function|unicodeToEncodedUtf8
+DECL|member|allowNonCharacters
 DECL|struct|QUrlUtf8Traits
 DECL|variable|defaultActionTable
 DECL|variable|reservedMask
