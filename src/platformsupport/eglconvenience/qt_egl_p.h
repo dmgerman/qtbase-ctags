@@ -1,0 +1,12 @@
+DECL|macro|Bool
+DECL|macro|CursorShape
+DECL|macro|Expose
+DECL|macro|FocusIn
+DECL|macro|FocusOut
+DECL|macro|FontChange
+DECL|macro|KeyPress
+DECL|macro|KeyRelease
+DECL|macro|None
+DECL|macro|QT_EGL_P_H
+DECL|macro|Status
+DECL|macro|Unsorted
