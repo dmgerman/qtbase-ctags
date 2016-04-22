@@ -12,7 +12,6 @@ DECL|function|connectToHostByName
 DECL|function|createNewSocket
 DECL|function|establishRead
 DECL|function|fetchConnectionParameters
-DECL|function|handleBindCompleted
 DECL|function|handleClientConnection
 DECL|function|handleConnectToHost
 DECL|function|handleConnectionEstablished

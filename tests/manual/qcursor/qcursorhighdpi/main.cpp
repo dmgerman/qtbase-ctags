@@ -1,5 +1,7 @@
+DECL|class|DraggableLabel
 DECL|class|MainWindow
 DECL|class|VerticalRuler
+DECL|function|DraggableLabel
 DECL|function|MainWindow
 DECL|function|VerticalRuler
 DECL|function|addToGrid
@@ -7,6 +9,8 @@ DECL|function|bitmapCursor
 DECL|function|bitmapCursorDevicePixelRatio
 DECL|function|createCursorLabel
 DECL|function|main
+DECL|function|mousePressEvent
+DECL|function|operator <<
 DECL|function|paintBitmaps
 DECL|function|paintEvent
 DECL|function|paintPixmap
@@ -18,6 +22,8 @@ DECL|function|updateScreenInfo
 DECL|macro|Q_DECL_OVERRIDE
 DECL|macro|Q_NULLPTR
 DECL|member|Q_DECL_OVERRIDE
+DECL|member|Q_DECL_OVERRIDE
+DECL|member|m_pixmap
 DECL|member|m_screenInfoLabel
 DECL|typedef|MainWindowPtr
 DECL|typedef|MainWindowPtrList

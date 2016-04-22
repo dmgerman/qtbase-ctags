@@ -28,7 +28,6 @@ DECL|method|setDetailedText
 DECL|method|setIcon
 DECL|method|setInformativeText
 DECL|method|setText
-DECL|method|setTextAppearance
 DECL|method|setTile
 DECL|method|show
 DECL|package|org.qtproject.qt5.android
