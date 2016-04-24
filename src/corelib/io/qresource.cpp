@@ -95,6 +95,7 @@ DECL|function|size
 DECL|function|size
 DECL|function|supportsExtension
 DECL|function|type
+DECL|function|uncompress
 DECL|function|unmap
 DECL|function|unregisterResource
 DECL|function|unregisterResource
