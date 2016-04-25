@@ -7,7 +7,6 @@ DECL|function|allocate
 DECL|function|freelist
 DECL|function|freelist
 DECL|function|isRecursive
-DECL|function|isRecursive
 DECL|function|qFreeListDeleter
 DECL|function|release
 DECL|function|~QMutex
