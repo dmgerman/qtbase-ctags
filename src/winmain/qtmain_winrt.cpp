@@ -3,6 +3,7 @@ DECL|class|QActivationEvent
 DECL|function|AppContainer
 DECL|function|QActivationEvent
 DECL|function|WinMain
+DECL|function|activatedLaunch
 DECL|function|devMessageHandler
 DECL|function|exec
 DECL|function|~AppContainer
@@ -13,7 +14,6 @@ DECL|member|args
 DECL|member|base
 DECL|member|commandLine
 DECL|member|core
-DECL|member|mainThread
 DECL|member|newmode
 DECL|member|pidFile
 DECL|typedef|ActivatedHandler

@@ -9,7 +9,9 @@ DECL|function|buffer
 DECL|function|buttonVisible
 DECL|function|cleanup
 DECL|function|cleanupHandleMap
+DECL|function|cleanupVistaTreeViewTheming
 DECL|function|createTheme
+DECL|function|createTreeViewHelperWindow
 DECL|function|drawBackground
 DECL|function|drawBackgroundDirectly
 DECL|function|drawBackgroundThruNativeBuffer
@@ -22,6 +24,7 @@ DECL|function|handle
 DECL|function|hasAlphaChannel
 DECL|function|hdcForWidgetBackingStore
 DECL|function|init
+DECL|function|initVistaTreeViewTheming
 DECL|function|isItemViewDelegateLineEdit
 DECL|function|isLineEditBaseColorSet
 DECL|function|isTransparent
@@ -67,6 +70,7 @@ DECL|macro|TMT_ENUM
 DECL|macro|TMT_ENUMDEF
 DECL|macro|TMT_ENUMVAL
 DECL|member|m_themes
+DECL|member|m_vistaTreeViewHelper
 DECL|member|pCloseThemeData
 DECL|member|pDrawThemeBackground
 DECL|member|pDrawThemeBackgroundEx

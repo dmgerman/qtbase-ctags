@@ -88,6 +88,7 @@ DECL|function|DispatcherWatcher
 DECL|function|DynamicPropertyObject
 DECL|function|EventSpy
 DECL|function|MoveToThreadObject
+DECL|function|MutableFunctor
 DECL|function|MyFunctor
 DECL|function|NoDefaultConstructor
 DECL|function|NotifyObject
@@ -235,6 +236,7 @@ DECL|function|invoke3
 DECL|function|isSignalConnected
 DECL|function|metamethod
 DECL|function|moveToThread
+DECL|function|mutableFunctor
 DECL|function|myFloat
 DECL|function|myQReal
 DECL|function|mySlot
@@ -263,6 +265,7 @@ DECL|function|on_baz_signal1
 DECL|function|on_child_signal
 DECL|function|on_foo_signal1
 DECL|function|on_something
+DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ()
@@ -483,6 +486,7 @@ DECL|member|context
 DECL|member|count
 DECL|member|count
 DECL|member|count
+DECL|member|count
 DECL|member|count_slot1
 DECL|member|count_slot2
 DECL|member|count_slot3
@@ -576,6 +580,7 @@ DECL|struct|Funct5
 DECL|struct|Funct6
 DECL|struct|Functor
 DECL|struct|IntFunctor
+DECL|struct|MutableFunctor
 DECL|struct|QObjectCreatedOnShutdown
 DECL|struct|QmlReceiver
 DECL|struct|SlotArgFunctor
