@@ -56,6 +56,7 @@ DECL|function|compressExposeEvent
 DECL|function|create
 DECL|function|createVisual
 DECL|function|destroy
+DECL|function|doCheckUnGrabAncestor
 DECL|function|doFocusIn
 DECL|function|doFocusOut
 DECL|function|fixed1616ToInt
