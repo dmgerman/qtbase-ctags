@@ -10,7 +10,6 @@ DECL|function|mapToQtWeightForRange
 DECL|function|populateFontDatabase
 DECL|function|populateFromPattern
 DECL|function|queryFont
-DECL|function|requiresOpenType
 DECL|function|resolveFontFamilyAlias
 DECL|function|setupFontEngine
 DECL|function|stretchFromFcWidth
@@ -19,7 +18,7 @@ DECL|function|weightFromFcWeight
 DECL|member|ScriptCount
 DECL|member|WritingSystemsCount
 DECL|member|WritingSystemsCount
+DECL|variable|capabilityForWritingSystem
 DECL|variable|languageForWritingSystem
 DECL|variable|maxWeight
-DECL|variable|openType
 DECL|variable|specialLanguages
