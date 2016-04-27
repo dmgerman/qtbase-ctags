@@ -4,6 +4,7 @@ DECL|function|commit
 DECL|function|cursorRectangle
 DECL|function|hide
 DECL|function|inputDirection
+DECL|function|inputItemClipRectangle
 DECL|function|inputItemRectangle
 DECL|function|inputItemTransform
 DECL|function|inputMethodQueryRectangle_helper
