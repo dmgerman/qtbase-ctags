@@ -143,6 +143,7 @@ DECL|function|formatEventList
 DECL|function|gdiPainting
 DECL|function|getSetCheck
 DECL|function|grab
+DECL|function|grabFromWidget
 DECL|function|grabKeyboard
 DECL|function|grabMouse
 DECL|function|grabWindow

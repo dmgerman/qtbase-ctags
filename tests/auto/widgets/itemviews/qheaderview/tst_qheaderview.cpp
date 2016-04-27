@@ -7,6 +7,7 @@ DECL|class|protected_QHeaderView
 DECL|class|tst_QHeaderView
 DECL|function|QTBUG12268_hiddenMovedSectionSorting
 DECL|function|QTBUG14242_hideSectionAutoSize
+DECL|function|QTBUG50171_visualRegionForSwappedItems
 DECL|function|QTBUG6058_reset
 DECL|function|QTBUG7833_sectionClicked
 DECL|function|QTBUG8650_crashOnInsertSections
@@ -139,6 +140,7 @@ DECL|function|testEvent
 DECL|function|testEvent
 DECL|function|testStreamWithHide
 DECL|function|testStylePosition
+DECL|function|testVisualRegionForSelection
 DECL|function|testhorizontalOffset
 DECL|function|testverticalOffset
 DECL|function|tst_QHeaderView
