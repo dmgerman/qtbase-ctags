@@ -1,9 +1,11 @@
 DECL|function|compact
 DECL|function|copyData
 DECL|function|indexOf
+DECL|function|indexOf
 DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid
+DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator ==
 DECL|function|operator >=
