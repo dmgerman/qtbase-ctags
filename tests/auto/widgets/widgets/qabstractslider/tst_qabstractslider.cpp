@@ -4,6 +4,8 @@ DECL|function|Slider
 DECL|function|actionTriggered
 DECL|function|cleanupTestCase
 DECL|function|connectedSliders
+DECL|function|fineGrainedWheelEvent
+DECL|function|fineGrainedWheelEvent_data
 DECL|function|initTestCase
 DECL|function|keyPressed
 DECL|function|keyPressed_data
