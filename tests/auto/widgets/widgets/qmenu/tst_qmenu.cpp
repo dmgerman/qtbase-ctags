@@ -52,6 +52,7 @@ DECL|function|populateMenu
 DECL|function|pushButtonPopulateOnAboutToShow
 DECL|function|setFixedWidth
 DECL|function|statusTip
+DECL|function|submenuTearOffDontClose
 DECL|function|task176201_clear
 DECL|function|task208001_stylesheet
 DECL|function|task242454_sizeHint
