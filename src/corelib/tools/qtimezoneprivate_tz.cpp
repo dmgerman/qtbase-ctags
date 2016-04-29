@@ -2,6 +2,7 @@ DECL|function|QTzTimeZonePrivate
 DECL|function|QTzTimeZonePrivate
 DECL|function|QTzTimeZonePrivate
 DECL|function|abbreviation
+DECL|function|asciiIsLetter
 DECL|function|availableTimeZoneIds
 DECL|function|availableTimeZoneIds
 DECL|function|calculateDowDate
@@ -24,6 +25,7 @@ DECL|function|nextTransition
 DECL|function|offsetFromUtc
 DECL|function|parsePosixOffset
 DECL|function|parsePosixTime
+DECL|function|parsePosixZoneNameAndOffset
 DECL|function|parseTzAbbreviations
 DECL|function|parseTzHeader
 DECL|function|parseTzIndicators
