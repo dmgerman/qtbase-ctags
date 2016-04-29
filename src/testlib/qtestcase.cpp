@@ -22,6 +22,7 @@ DECL|function|debuggerPresent
 DECL|function|defaultEventDelay
 DECL|function|defaultKeyDelay
 DECL|function|defaultMouseDelay
+DECL|function|defaultTimeout
 DECL|function|fetchData
 DECL|function|findMethod
 DECL|function|ignoreMessage
@@ -113,6 +114,7 @@ DECL|member|noCrashHandler
 DECL|member|printAvailableFunctions
 DECL|member|testFunctions
 DECL|member|testTags
+DECL|member|timeout
 DECL|member|timeout
 DECL|member|waitCondition
 DECL|namespace|QTest

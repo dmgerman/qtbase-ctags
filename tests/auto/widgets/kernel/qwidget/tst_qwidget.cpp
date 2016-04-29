@@ -406,6 +406,7 @@ DECL|member|m_modifiers
 DECL|member|m_mouseEventCount
 DECL|member|m_platform
 DECL|member|m_resizeEventCount
+DECL|member|m_safeCursorPos
 DECL|member|m_testWidgetSize
 DECL|member|m_touchBeginCount
 DECL|member|m_touchEndCount

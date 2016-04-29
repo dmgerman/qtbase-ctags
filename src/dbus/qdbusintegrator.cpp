@@ -25,6 +25,7 @@ DECL|function|findSlot
 DECL|function|findSlot
 DECL|function|getNameOwner
 DECL|function|getNameOwnerNoCache
+DECL|function|handleDBusDisconnection
 DECL|function|handleError
 DECL|function|handleMessage
 DECL|function|handleObjectCall
@@ -82,6 +83,7 @@ DECL|function|unregisterObject
 DECL|function|unregisterService
 DECL|function|unregisterServiceNoLock
 DECL|function|unwatchService
+DECL|function|watchForDBusDisconnection
 DECL|function|watchService
 DECL|function|~QDBusActivateObjectEvent
 DECL|function|~QDBusBlockingCallWatcher
