@@ -1,6 +1,6 @@
 DECL|function|fromName
 DECL|function|localDomainName
-DECL|function|resolveLibrary
+DECL|function|resolveLibraryInternal
 DECL|macro|QT_SOCKOPTLEN_T
 DECL|macro|Q_ADDRCONFIG
 DECL|typedef|res_init_proto
