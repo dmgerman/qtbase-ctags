@@ -113,6 +113,7 @@ DECL|function|setCurrentCharFormat
 DECL|function|setCursorIsFocusIndicator
 DECL|function|setCursorPosition
 DECL|function|setCursorPosition
+DECL|function|setCursorVisible
 DECL|function|setCursorWidth
 DECL|function|setDocument
 DECL|function|setDragEnabled
