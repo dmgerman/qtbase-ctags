@@ -1,4 +1,3 @@
-DECL|function|checkFutexPrivateSupport
 DECL|function|dummyFutexValue
-DECL|function|futexFlags
+DECL|macro|FUTEX_PRIVATE_FLAG
 DECL|variable|futexFlagSupport
