@@ -4,7 +4,6 @@ DECL|function|QTimeZone
 DECL|function|QTimeZone
 DECL|function|QTimeZone
 DECL|function|QTimeZone
-DECL|function|QTimeZone
 DECL|function|QTimeZoneSingleton
 DECL|function|abbreviation
 DECL|function|availableTimeZoneIds
