@@ -14,6 +14,7 @@ DECL|function|method
 DECL|function|multipleInterfacesInQObject
 DECL|function|nestedCallWithCallback
 DECL|function|noConnection
+DECL|function|pendingCallWhenDisconnected
 DECL|function|registerObject
 DECL|function|registerObject2
 DECL|function|registerObjectPeer
