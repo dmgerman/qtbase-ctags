@@ -91,7 +91,6 @@ DECL|function|buttonPressed
 DECL|function|centerOnScreen
 DECL|function|changeEvent
 DECL|function|childAt
-DECL|function|childAt_unifiedToolBar
 DECL|function|childDeletesItsSibling
 DECL|function|childEvents
 DECL|function|clean_qt_x11_enforce_cursor
