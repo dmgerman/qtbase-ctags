@@ -4,6 +4,7 @@ DECL|function|basicEventDelivery
 DECL|function|keyPressEvent
 DECL|function|keyReleaseEvent
 DECL|function|modifiers
+DECL|function|modifiersTestRowName
 DECL|function|modifiers_data
 DECL|function|orderByModifier
 DECL|function|recordEvent
