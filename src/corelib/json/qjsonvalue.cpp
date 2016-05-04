@@ -28,6 +28,7 @@ DECL|function|toObject
 DECL|function|toObject
 DECL|function|toObject
 DECL|function|toString
+DECL|function|toString
 DECL|function|toValue
 DECL|function|toVariant
 DECL|function|toVariant
