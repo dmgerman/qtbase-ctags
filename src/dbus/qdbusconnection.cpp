@@ -43,6 +43,7 @@ DECL|function|localMachineId
 DECL|function|name
 DECL|function|objectRegisteredAt
 DECL|function|operator =
+DECL|function|preventDllUnload
 DECL|function|qDBusBindToApplication
 DECL|function|registerObject
 DECL|function|registerObject
