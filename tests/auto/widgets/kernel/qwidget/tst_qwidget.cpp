@@ -202,7 +202,6 @@ DECL|function|msgPointMismatch
 DECL|function|msgRgbMismatch
 DECL|function|multipleToplevelFocusCheck
 DECL|function|nativeChildFocus
-DECL|function|nativeEvent
 DECL|function|normalGeometry
 DECL|function|opaqueChildren
 DECL|function|openModal_taskQTBUG_5804
@@ -330,7 +329,6 @@ DECL|function|testContentsPropagation
 DECL|function|testDeletionInEventHandlers
 DECL|function|testForOutsideWSRangeFlag
 DECL|function|testWindowIconChangeEventPropagation
-DECL|function|timerEvent
 DECL|function|toplevelLineEditFocus
 DECL|function|touchEventSynthesizedMouseEvent
 DECL|function|touchEventsForGesturePendingWidgets

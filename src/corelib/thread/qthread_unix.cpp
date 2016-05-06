@@ -38,3 +38,4 @@ DECL|typedef|QtThreadCallback
 DECL|variable|currentThreadData
 DECL|variable|current_thread_data_key
 DECL|variable|current_thread_data_once
+DECL|variable|sizeof

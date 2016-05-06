@@ -1,6 +1,6 @@
 DECL|function|cleanup
 DECL|function|query
-DECL|function|resolveLibrary
+DECL|function|resolveLibraryInternal
 DECL|struct|QDnsLookupStateDeleter
 DECL|typedef|dn_expand_proto
 DECL|typedef|res_nclose_proto
