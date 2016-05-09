@@ -106,7 +106,6 @@ DECL|function|selectionRect
 DECL|function|sendMouseEventToInputContext
 DECL|function|setAcceptRichText
 DECL|function|setActionIcon
-DECL|function|setBlinkingCursorEnabled
 DECL|function|setClipboardSelection
 DECL|function|setContent
 DECL|function|setCurrentCharFormat
