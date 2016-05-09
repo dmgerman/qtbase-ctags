@@ -40,7 +40,6 @@ DECL|function|get_accValue
 DECL|function|put_accName
 DECL|function|put_accValue
 DECL|function|relatedInterface
-DECL|function|windowOf
 DECL|function|~QWindowsEnumerate
 DECL|macro|IF_EQUAL_RETURN_IIDSTRING
 DECL|macro|UiaRootObjectId
