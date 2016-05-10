@@ -296,7 +296,6 @@ DECL|function|setWindowGeometry
 DECL|function|setWindowGeometry_data
 DECL|function|setWindowsAnimationsEnabled
 DECL|function|setWindowsAnimationsEnabled
-DECL|function|sheetOpacity
 DECL|function|showAndMoveChild
 DECL|function|showEvent
 DECL|function|showFullScreen
