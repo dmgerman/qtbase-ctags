@@ -19,6 +19,7 @@ DECL|function|fileSystemType
 DECL|function|fileSystemType
 DECL|function|fileSystemType
 DECL|function|initRootPath
+DECL|function|isParentOf
 DECL|function|isPseudoFs
 DECL|function|isValid
 DECL|function|isValid

@@ -38,5 +38,6 @@ DECL|member|m_inputContext
 DECL|member|m_instance
 DECL|member|m_options
 DECL|member|m_services
+DECL|member|m_staticContextLock
 DECL|member|m_staticOpenGLContext
 DECL|struct|QWindowsIntegrationPrivate

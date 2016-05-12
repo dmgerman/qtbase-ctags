@@ -46,6 +46,7 @@ DECL|function|sendVariant_data
 DECL|function|theSlot
 DECL|function|~SetResetValue
 DECL|macro|DBUS_TYPE_UNIX_FD
+DECL|macro|DBUS_TYPE_UNIX_FD_AS_STRING
 DECL|macro|EXE
 DECL|member|fileDescriptorPassing
 DECL|member|list

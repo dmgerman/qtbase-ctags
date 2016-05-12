@@ -6,9 +6,11 @@ DECL|function|callSelfByAnotherName
 DECL|function|callSelfByAnotherName_data
 DECL|function|callVirtualObject
 DECL|function|callVirtualObjectLocal
+DECL|function|cleanup
 DECL|function|connect
 DECL|function|connectToBus
 DECL|function|connectToPeer
+DECL|function|init
 DECL|function|method
 DECL|function|method
 DECL|function|multipleInterfacesInQObject
@@ -35,6 +37,10 @@ DECL|function|sendSignalToOtherName
 DECL|function|sendWithGui
 DECL|function|serviceRegistrationRaceCondition
 DECL|function|slotsWithLessParameters
+DECL|function|tst_QDBusConnection
+DECL|macro|QCOMPARE_HOOKCOUNT
+DECL|macro|QVERIFY_HOOKCALLED
+DECL|member|hookCallCount
 DECL|member|interface
 DECL|member|path
 DECL|member|path
