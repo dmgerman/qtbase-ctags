@@ -25,6 +25,7 @@ DECL|function|nextTransition
 DECL|function|offsetFromUtc
 DECL|function|parsePosixOffset
 DECL|function|parsePosixTime
+DECL|function|parsePosixTransitionTime
 DECL|function|parsePosixZoneNameAndOffset
 DECL|function|parseTzAbbreviations
 DECL|function|parseTzHeader
