@@ -1,0 +1,3 @@
+DECL|function|hookFunction
+DECL|function|hookSetupFunction
+DECL|macro|HAS_HOOKSETUPFUNCTION

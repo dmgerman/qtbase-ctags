@@ -32,4 +32,5 @@ DECL|function|setText
 DECL|function|state
 DECL|function|text
 DECL|function|text
+DECL|function|window
 DECL|function|~QAccessibleMenuItem

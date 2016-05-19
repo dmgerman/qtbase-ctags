@@ -1,2 +1,3 @@
 DECL|macro|QEGLFSKMSGBMCURSOR_H
+DECL|variable|QEglFSKmsGbmCursor
 DECL|variable|QEglFSKmsGbmScreen

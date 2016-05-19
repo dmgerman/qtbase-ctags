@@ -1,3 +1,14 @@
+DECL|macro|Bool
+DECL|macro|CursorShape
+DECL|macro|Expose
+DECL|macro|FocusIn
+DECL|macro|FocusOut
+DECL|macro|FontChange
+DECL|macro|KeyPress
+DECL|macro|KeyRelease
+DECL|macro|None
 DECL|macro|QEGLFSGLOBAL_H
 DECL|macro|Q_EGLFS_EXPORT
 DECL|macro|Q_EGLFS_EXPORT
+DECL|macro|Status
+DECL|macro|Unsorted
