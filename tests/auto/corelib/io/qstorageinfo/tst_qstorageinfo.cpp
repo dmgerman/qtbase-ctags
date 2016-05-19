@@ -2,8 +2,10 @@ DECL|class|tst_QStorageInfo
 DECL|function|caching
 DECL|function|currentStorage
 DECL|function|defaultValues
+DECL|function|dump
 DECL|function|operatorEqual
 DECL|function|operatorNotEqual
+DECL|function|qInfoPrinter
 DECL|function|root
 DECL|function|storageList
 DECL|function|tempFile

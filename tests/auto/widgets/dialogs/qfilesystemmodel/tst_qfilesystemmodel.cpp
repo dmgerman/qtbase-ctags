@@ -13,6 +13,7 @@ DECL|function|dirsBeforeFiles
 DECL|function|doNotUnwatchOnFailedRmdir
 DECL|function|drives
 DECL|function|drives_data
+DECL|function|fileInfo
 DECL|function|fileListUnderIndex
 DECL|function|filters
 DECL|function|filters_data

@@ -8,6 +8,7 @@ DECL|function|checkEvent
 DECL|function|dndEnable
 DECL|function|drop
 DECL|function|endDrag
+DECL|function|eventFilter
 DECL|function|findRealWindow
 DECL|function|findTransactionByTime
 DECL|function|findTransactionByWindow

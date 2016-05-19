@@ -18,5 +18,7 @@ DECL|function|nextImageDelay
 DECL|function|nextImageDelay_data
 DECL|function|pngCompression
 DECL|function|pngCompression_data
+DECL|function|write
+DECL|function|write_data
 DECL|function|~QSequentialFile
 DECL|member|m_IconPath
