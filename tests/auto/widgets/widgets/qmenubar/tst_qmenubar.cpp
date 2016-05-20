@@ -40,10 +40,12 @@ DECL|function|removeItem
 DECL|function|removeItemAt
 DECL|function|removeItemAt_data
 DECL|function|removeItem_data
+DECL|function|slotForTaskQTBUG53205
 DECL|function|task223138_triggered
 DECL|function|task256322_highlight
 DECL|function|taskQTBUG11823_crashwithInvisibleActions
 DECL|function|taskQTBUG4965_escapeEaten
+DECL|function|taskQTBUG53205_crashReparentNested
 DECL|function|tst_QMenuBar
 DECL|function|~LayoutDirectionSaver
 DECL|member|actions
@@ -52,5 +54,6 @@ DECL|member|m_lastSimpleAcceleratorId
 DECL|member|m_oldDirection
 DECL|member|m_simpleActivatedCount
 DECL|member|menus
+DECL|member|taskQTBUG53205MenuBar
 DECL|struct|TestMenu
 DECL|variable|RESET

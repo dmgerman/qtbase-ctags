@@ -1,5 +1,5 @@
 DECL|class|QNativeWifiEnginePlugin
 DECL|function|QNativeWifiEnginePlugin
 DECL|function|create
-DECL|function|resolveLibrary
+DECL|function|resolveLibraryInternal
 DECL|function|~QNativeWifiEnginePlugin

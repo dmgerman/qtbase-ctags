@@ -1,3 +1,4 @@
+DECL|function|QT_FORWARD_DECLARE_CLASS
 DECL|function|QT_MANGLE_NAMESPACE
 DECL|function|QT_MANGLE_NAMESPACE
 DECL|function|QT_MANGLE_NAMESPACE
@@ -7,4 +8,3 @@ DECL|variable|QCocoaMenuBar
 DECL|variable|QT_NAMESPACE_ALIAS_OBJC_CLASS
 DECL|variable|QT_NAMESPACE_ALIAS_OBJC_CLASS
 DECL|variable|grabbingMouse
-DECL|variable|helper

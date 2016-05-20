@@ -117,7 +117,6 @@ DECL|function|selectColor
 DECL|function|selectedColor
 DECL|function|selectedColumn
 DECL|function|selectedRow
-DECL|function|setCellBrush
 DECL|function|setCol
 DECL|function|setCol
 DECL|function|setCol
@@ -196,7 +195,6 @@ DECL|member|alphaEd
 DECL|member|alphaLab
 DECL|member|bEd
 DECL|member|beforeScreenColorPicking
-DECL|member|brush
 DECL|member|buttons
 DECL|member|cancel
 DECL|member|cellh
@@ -212,7 +210,6 @@ DECL|member|curCol
 DECL|member|curQColor
 DECL|member|curRow
 DECL|member|custom
-DECL|member|d
 DECL|member|dummyTransparentWindow
 DECL|member|gEd
 DECL|member|gl
@@ -269,5 +266,4 @@ DECL|member|vEd
 DECL|member|val
 DECL|member|val
 DECL|member|values
-DECL|struct|QWellArrayData
 DECL|variable|DefaultWindowFlags
