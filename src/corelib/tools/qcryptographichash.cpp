@@ -14,11 +14,15 @@ DECL|function|result
 DECL|function|~QCryptographicHash
 DECL|macro|int_least16_t
 DECL|macro|int_least16_t
+DECL|macro|int_least16_t
 DECL|macro|uint32_t
 DECL|macro|uint32_t
+DECL|macro|uint32_t
+DECL|macro|uint64_t
 DECL|macro|uint64_t
 DECL|macro|uint64_t
 DECL|macro|uint68_t
+DECL|macro|uint8_t
 DECL|macro|uint8_t
 DECL|member|md4Context
 DECL|member|md5Context
