@@ -31,6 +31,7 @@ DECL|function|destroyWindow
 DECL|function|findTransientChild
 DECL|function|fireExpose
 DECL|function|fixTopLevelWindowFlags
+DECL|function|formatWindowTitle
 DECL|function|frame
 DECL|function|frameGeometry
 DECL|function|frameGeometry_sys
