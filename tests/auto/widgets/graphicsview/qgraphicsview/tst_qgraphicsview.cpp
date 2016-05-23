@@ -119,6 +119,7 @@ DECL|function|mouseTracking2
 DECL|function|mouseTracking3
 DECL|function|moveItemWhileScrolling
 DECL|function|moveItemWhileScrolling_data
+DECL|function|openGLViewport
 DECL|function|optimizationFlags
 DECL|function|optimizationFlags_dontSavePainterState
 DECL|function|optimizationFlags_dontSavePainterState2
