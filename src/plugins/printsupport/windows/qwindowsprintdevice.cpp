@@ -7,6 +7,7 @@ DECL|function|defaultInputSlot
 DECL|function|defaultPageSize
 DECL|function|defaultPrintDeviceId
 DECL|function|defaultResolution
+DECL|function|getDevmode
 DECL|function|isDefault
 DECL|function|isValid
 DECL|function|loadColorModes
