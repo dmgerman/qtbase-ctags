@@ -84,3 +84,4 @@ DECL|typedef|PointerHandler
 DECL|typedef|SizeChangedHandler
 DECL|typedef|VisibilityChangedHandler
 DECL|typedef|VisibleBoundsChangedHandler
+DECL|variable|qt_winrt_lastPointerPoint

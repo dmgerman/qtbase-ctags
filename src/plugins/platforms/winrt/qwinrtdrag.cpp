@@ -10,10 +10,12 @@ DECL|function|handleNativeDragEvent
 DECL|function|hasFormat_sys
 DECL|function|instance
 DECL|function|platformDropData
+DECL|function|qStringToHString
 DECL|function|qt_drag_enter
 DECL|function|qt_drag_leave
 DECL|function|qt_drag_over
 DECL|function|qt_drop
+DECL|function|resetUiElementDrag
 DECL|function|retrieveData_sys
 DECL|function|setDataView
 DECL|function|setDropTarget
