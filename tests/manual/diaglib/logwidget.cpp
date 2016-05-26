@@ -1,0 +1,17 @@
+DECL|function|LogWidget
+DECL|function|appendText
+DECL|function|install
+DECL|function|install
+DECL|function|messageHandler
+DECL|function|messageTypes
+DECL|function|qt4MessageHandler
+DECL|function|qt5MessageHandler
+DECL|function|startupMessage
+DECL|function|uninstall
+DECL|function|uninstall
+DECL|function|~LogWidget
+DECL|member|m_indent
+DECL|member|m_instance
+DECL|member|m_lineNumberingEnabled
+DECL|member|m_showMessageType
+DECL|variable|oldHandler
