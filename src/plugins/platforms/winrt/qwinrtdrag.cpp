@@ -2,6 +2,7 @@ DECL|class|DragThreadTransferData
 DECL|function|DragThreadTransferData
 DECL|function|QWinRTDrag
 DECL|function|QWinRTInternalMimeData
+DECL|function|createIBufferFromData
 DECL|function|drag
 DECL|function|formats_sys
 DECL|function|hStringToQString
