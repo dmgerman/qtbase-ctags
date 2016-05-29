@@ -140,6 +140,7 @@ DECL|function|connectFunctorOverload_impl
 DECL|function|connectFunctorOverloads
 DECL|function|connectFunctorQueued
 DECL|function|connectFunctorWithContext
+DECL|function|connectFunctorWithContextUnique
 DECL|function|connectManyArguments
 DECL|function|connectNoDefaultConstructorArg
 DECL|function|connectNotify
