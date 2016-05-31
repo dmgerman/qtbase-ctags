@@ -6,6 +6,7 @@ DECL|typedef|dn_expand_proto
 DECL|typedef|res_nclose_proto
 DECL|typedef|res_ninit_proto
 DECL|typedef|res_nquery_proto
+DECL|typedef|res_state
 DECL|variable|local_dn_expand
 DECL|variable|local_res_nclose
 DECL|variable|local_res_ninit
