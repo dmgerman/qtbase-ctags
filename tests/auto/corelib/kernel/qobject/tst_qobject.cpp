@@ -38,6 +38,7 @@ DECL|class|NoDefaultContructorArguments
 DECL|class|NormalizeObject
 DECL|class|NotifyObject
 DECL|class|ObjectException
+DECL|class|ObjectWithVirtualBase
 DECL|class|OverloadObject
 DECL|class|PropertyObject
 DECL|class|QCustomTypeChecker
@@ -92,6 +93,7 @@ DECL|function|MutableFunctor
 DECL|function|MyFunctor
 DECL|function|NoDefaultConstructor
 DECL|function|NotifyObject
+DECL|function|ObjectWithVirtualBase
 DECL|function|PropertyObject
 DECL|function|QCustomTypeChecker
 DECL|function|QObjectCreatedOnShutdown
@@ -106,6 +108,7 @@ DECL|function|StatusChanger
 DECL|function|SuperObject
 DECL|function|TestObject
 DECL|function|ThreadAffinityThread
+DECL|function|VirtualBase
 DECL|function|VirtualSlotsObject
 DECL|function|VirtualSlotsObjectBase
 DECL|function|aPublicSlot
@@ -153,6 +156,7 @@ DECL|function|connectPrivateSlots
 DECL|function|connectPrivateSlots
 DECL|function|connectSignalsToSignalsWithDefaultArguments
 DECL|function|connectSlotsByName
+DECL|function|connectSlotsVMIClass
 DECL|function|connectStaticSlotWithObject
 DECL|function|connectToSender
 DECL|function|connectToStaticCxx0x
@@ -315,6 +319,7 @@ DECL|function|received
 DECL|function|receiverFunction
 DECL|function|receivers
 DECL|function|recursiveSignalEmission
+DECL|function|regularSlot
 DECL|function|relaySignalAndProcessEvents
 DECL|function|relaySignalAndProcessEvents
 DECL|function|rememberSender
@@ -364,9 +369,11 @@ DECL|function|slot1
 DECL|function|slot1
 DECL|function|slot1
 DECL|function|slot1
+DECL|function|slot1
 DECL|function|slot1_deleteNext
 DECL|function|slot1_disconnectNext
 DECL|function|slot1_disconnectThis
+DECL|function|slot2
 DECL|function|slot2
 DECL|function|slot2
 DECL|function|slot2
@@ -468,6 +475,7 @@ DECL|function|~MyFunctor
 DECL|function|~QObjectCreatedOnShutdown
 DECL|function|~SiblingDeleter
 DECL|function|~StatusChanger
+DECL|function|~VirtualBase
 DECL|macro|Bleh_iid
 DECL|macro|MANYARGUMENT_COMPARE
 DECL|macro|SIGNAL_INDEX
@@ -493,6 +501,7 @@ DECL|member|count_slot3
 DECL|member|count_slot4
 DECL|member|customEventThread
 DECL|member|derived_counter1
+DECL|member|derived_counter2
 DECL|member|destroyed
 DECL|member|disconnectedSignals
 DECL|member|disconnectedSignals
@@ -537,6 +546,7 @@ DECL|member|received
 DECL|member|receivedCount
 DECL|member|receivedValue
 DECL|member|recursionCount
+DECL|member|regular_call_count
 DECL|member|result
 DECL|member|result
 DECL|member|s
@@ -560,6 +570,7 @@ DECL|member|theSignalId
 DECL|member|timerEventThread
 DECL|member|var
 DECL|member|var
+DECL|member|virtual_base_count
 DECL|namespace|Foo
 DECL|namespace|ManyArgumentNamespace
 DECL|namespace|QObjectTest
@@ -590,6 +601,7 @@ DECL|struct|StringFunctor
 DECL|struct|Struct
 DECL|struct|ThrowFunctor
 DECL|struct|VariantFunctor
+DECL|struct|VirtualBase
 DECL|struct|VoidFunctor
 DECL|typedef|CustomString
 DECL|typedef|EventList
