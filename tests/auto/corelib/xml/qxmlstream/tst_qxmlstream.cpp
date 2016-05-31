@@ -51,6 +51,7 @@ DECL|function|testFalsePrematureError
 DECL|function|testReader
 DECL|function|testReader_data
 DECL|function|tst_QXmlStream
+DECL|function|write8bitCodec
 DECL|function|writeAttributesWithSpace
 DECL|function|writeData
 DECL|function|writeWithCodec
