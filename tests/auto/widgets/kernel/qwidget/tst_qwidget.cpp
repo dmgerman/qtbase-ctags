@@ -154,7 +154,6 @@ DECL|function|hideWhenFocusWidgetIsChild
 DECL|function|icon
 DECL|function|ignoreKeyEventsWhenDisabled_QTBUG27417
 DECL|function|immediateRepaintAfterInvalidateBuffer
-DECL|function|immediateRepaintAfterShow
 DECL|function|init
 DECL|function|initTestCase
 DECL|function|initialPosForDontShowOnScreenWidgets
