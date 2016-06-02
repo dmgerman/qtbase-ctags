@@ -13,8 +13,7 @@ DECL|function|createNewSocket
 DECL|function|establishRead
 DECL|function|fetchConnectionParameters
 DECL|function|handleClientConnection
-DECL|function|handleConnectToHost
-DECL|function|handleConnectionEstablished
+DECL|function|handleConnectOpFinished
 DECL|function|handleNewDatagram
 DECL|function|handleReadyRead
 DECL|function|hasPendingDatagrams
