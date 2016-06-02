@@ -20,6 +20,7 @@ DECL|field|m_moveThreshold
 DECL|field|m_oldx
 DECL|field|m_oldy
 DECL|field|m_started
+DECL|field|m_tabletEventSupported
 DECL|method|activity
 DECL|method|activityDelegate
 DECL|method|bringChildToBack
@@ -40,6 +41,7 @@ DECL|method|hasClipboardText
 DECL|method|hideSoftwareKeyboard
 DECL|method|initializeAccessibility
 DECL|method|insertNativeView
+DECL|method|isTabletEventSupported
 DECL|method|keyDown
 DECL|method|keyUp
 DECL|method|keyboardGeometryChanged

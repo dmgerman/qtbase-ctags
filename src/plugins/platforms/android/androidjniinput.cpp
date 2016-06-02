@@ -1,5 +1,6 @@
 DECL|function|hideSoftwareKeyboard
 DECL|function|isSoftwareKeyboardVisible
+DECL|function|isTabletEventSupported
 DECL|function|keyDown
 DECL|function|keyUp
 DECL|function|keyboardGeometryChanged
