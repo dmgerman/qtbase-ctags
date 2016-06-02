@@ -32,4 +32,5 @@ DECL|function|write
 DECL|function|~ChdirOnReturn
 DECL|member|dir
 DECL|member|m_previousCurrent
+DECL|member|m_temporaryDir
 DECL|struct|ChdirOnReturn
