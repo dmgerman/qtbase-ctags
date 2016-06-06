@@ -13,6 +13,7 @@ DECL|struct|ImeState
 DECL|struct|KeyboardState
 DECL|variable|KeyboardState
 DECL|variable|QIOSKeyboardListener
+DECL|variable|QIOSLocaleListener
 DECL|variable|QIOSTextInputResponder
 DECL|variable|kImePlatformDataInputAccessoryView
 DECL|variable|kImePlatformDataInputView

@@ -15,6 +15,8 @@ DECL|function|create
 DECL|function|createNonTopLevel
 DECL|function|drawForeground
 DECL|function|fboRedirect
+DECL|function|grabWidgetWithoutRepaint
+DECL|function|msgRgbMismatch
 DECL|function|nativeWindow
 DECL|function|paintCount
 DECL|function|painter
@@ -25,6 +27,10 @@ DECL|function|reset
 DECL|function|resetPaintCount
 DECL|function|setClearColor
 DECL|function|showHide
+DECL|function|stackWidgetOpaqueChildIsVisible
+DECL|function|verifyColor
+DECL|macro|VERIFY_COLOR
+DECL|macro|VERIFY_COLOR
 DECL|member|Q_DECL_OVERRIDE
 DECL|member|b
 DECL|member|g

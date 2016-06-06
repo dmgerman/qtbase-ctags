@@ -1,3 +1,4 @@
+DECL|function|activeConditions
 DECL|function|checkBlackLists
 DECL|function|checkCondition
 DECL|function|isGPUTestBlacklisted

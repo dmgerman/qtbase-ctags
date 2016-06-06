@@ -1,3 +1,4 @@
+DECL|function|QDesktopScreenWidget
 DECL|function|QDesktopWidget
 DECL|function|_q_availableGeometryChanged
 DECL|function|_q_updateScreens
@@ -13,4 +14,6 @@ DECL|function|screenGeometry
 DECL|function|screenNumber
 DECL|function|screenNumber
 DECL|function|screenNumber
+DECL|function|setScreenGeometry
+DECL|function|widgetForScreen
 DECL|function|~QDesktopWidget

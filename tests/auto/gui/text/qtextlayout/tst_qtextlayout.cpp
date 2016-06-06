@@ -39,6 +39,7 @@ DECL|function|lineBreaking
 DECL|function|lineWidthFromBOM
 DECL|function|longText
 DECL|function|nbsp
+DECL|function|noModificationOfInputString
 DECL|function|noWrap
 DECL|function|setNumColumnsWordWrap
 DECL|function|setNumColumnsWrapAtWordBoundaryOrAnywhere

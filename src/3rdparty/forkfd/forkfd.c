@@ -7,6 +7,7 @@ DECL|function|forkfd_close
 DECL|function|forkfd_initialize
 DECL|function|forkfd_wait
 DECL|function|freeInfo
+DECL|function|ignore_sigpipe
 DECL|function|isChildReady
 DECL|function|notifyAndFreeInfo
 DECL|function|sigchld_handler
