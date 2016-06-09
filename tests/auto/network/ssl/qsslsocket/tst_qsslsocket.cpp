@@ -36,6 +36,8 @@ DECL|function|ThreadedSslServer
 DECL|function|VerifyServer
 DECL|function|WebSocket
 DECL|function|_startServerEncryption
+DECL|function|abortOnErrorSlot
+DECL|function|abortOnSslErrors
 DECL|function|addCaCertificate
 DECL|function|addCaCertificates
 DECL|function|addCaCertificates2
