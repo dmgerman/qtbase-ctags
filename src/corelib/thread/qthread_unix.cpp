@@ -8,6 +8,8 @@ DECL|function|current
 DECL|function|destroy_current_thread_data
 DECL|function|destroy_current_thread_data_key
 DECL|function|finish
+DECL|function|from_HANDLE
+DECL|function|from_HANDLE
 DECL|function|get_thread_data
 DECL|function|init
 DECL|function|makeTimespec
@@ -20,6 +22,8 @@ DECL|function|sleep
 DECL|function|start
 DECL|function|start
 DECL|function|terminate
+DECL|function|to_HANDLE
+DECL|function|to_HANDLE
 DECL|function|usleep
 DECL|function|wait
 DECL|function|yieldCurrentThread
@@ -38,4 +42,3 @@ DECL|typedef|QtThreadCallback
 DECL|variable|currentThreadData
 DECL|variable|current_thread_data_key
 DECL|variable|current_thread_data_once
-DECL|variable|sizeof
