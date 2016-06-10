@@ -2,7 +2,6 @@ DECL|class|CustomFileIconProvider
 DECL|class|MyFriendFileSystemModel
 DECL|class|tst_QFileSystemModel
 DECL|function|CustomFileIconProvider
-DECL|function|Win32LongFileName
 DECL|function|caseSensitivity
 DECL|function|cleanup
 DECL|function|createFiles
