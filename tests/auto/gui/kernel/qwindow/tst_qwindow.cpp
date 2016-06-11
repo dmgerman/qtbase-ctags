@@ -21,6 +21,7 @@ DECL|function|eventFilter
 DECL|function|eventFilter
 DECL|function|eventIndex
 DECL|function|eventOrderOnShow
+DECL|function|exposeEventOnShrink_QTBUG54040
 DECL|function|exposeRegion
 DECL|function|initTestCase
 DECL|function|initialSize
