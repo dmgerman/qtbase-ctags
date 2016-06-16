@@ -1,2 +1,2 @@
 DECL|macro|QIOSAPPLICATIONSTATE_H
-DECL|variable|QIOSApplicationStateListener
+DECL|variable|NSObject
