@@ -12,17 +12,14 @@ DECL|function|addRow
 DECL|function|addRow
 DECL|function|addRow
 DECL|function|addRow
-DECL|function|addRow
 DECL|function|arrangeWidgets
 DECL|function|calcSizeHints
 DECL|function|clear
 DECL|function|controlTypes
 DECL|function|count
-DECL|function|count
 DECL|function|expandingDirections
 DECL|function|expandingDirections
 DECL|function|fieldGrowthPolicy
-DECL|function|find
 DECL|function|fixedAlignment
 DECL|function|formAlignment
 DECL|function|geometry
@@ -59,7 +56,6 @@ DECL|function|operator ()
 DECL|function|operator ()
 DECL|function|operator ==
 DECL|function|recalcHFW
-DECL|function|removeRow
 DECL|function|replaceAt
 DECL|function|resetFieldGrowthPolicy
 DECL|function|resetFormAlignment
