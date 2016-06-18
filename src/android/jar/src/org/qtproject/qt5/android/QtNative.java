@@ -22,6 +22,7 @@ DECL|field|m_oldy
 DECL|field|m_service
 DECL|field|m_serviceDelegate
 DECL|field|m_started
+DECL|field|m_tabletEventSupported
 DECL|field|runPendingCppRunnablesRunnable
 DECL|method|activity
 DECL|method|activityDelegate
@@ -44,6 +45,7 @@ DECL|method|hideSoftwareKeyboard
 DECL|method|hideSplashScreen
 DECL|method|initializeAccessibility
 DECL|method|insertNativeView
+DECL|method|isTabletEventSupported
 DECL|method|keyDown
 DECL|method|keyUp
 DECL|method|keyboardGeometryChanged
