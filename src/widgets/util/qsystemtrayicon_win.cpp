@@ -6,7 +6,6 @@ DECL|function|createIcon
 DECL|function|createTrayIconMessageWindow
 DECL|function|findIconGeometry
 DECL|function|geometry_sys
-DECL|function|iconFlag
 DECL|function|install_sys
 DECL|function|isSystemTrayAvailable_sys
 DECL|function|qStringToLimitedWCharArray
@@ -25,6 +24,7 @@ DECL|function|~QSystemTrayIconPrivate
 DECL|function|~QSystemTrayIconSys
 DECL|macro|MYWM_NOTIFYICON
 DECL|macro|NIF_SHOWTIP
+DECL|macro|NIIF_LARGE_ICON
 DECL|macro|NIN_BALLOONTIMEOUT
 DECL|macro|NIN_BALLOONUSERCLICK
 DECL|macro|NIN_KEYSELECT
