@@ -20,7 +20,6 @@ DECL|function|fileSystemType
 DECL|function|fileSystemType
 DECL|function|initRootPath
 DECL|function|isParentOf
-DECL|function|isPseudoFs
 DECL|function|isValid
 DECL|function|isValid
 DECL|function|isValid
@@ -43,6 +42,7 @@ DECL|function|rootPath
 DECL|function|rootPath
 DECL|function|rootPath
 DECL|function|rootPath
+DECL|function|shouldIncludeFs
 DECL|function|~QStorageIterator
 DECL|function|~QStorageIterator
 DECL|function|~QStorageIterator
