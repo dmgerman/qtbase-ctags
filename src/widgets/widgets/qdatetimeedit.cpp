@@ -66,7 +66,6 @@ DECL|function|nextPrevSection
 DECL|function|paintEvent
 DECL|function|positionCalendarPopup
 DECL|function|readLocaleSettings
-DECL|function|reverse
 DECL|function|sectionAt
 DECL|function|sectionAt
 DECL|function|sectionCount
