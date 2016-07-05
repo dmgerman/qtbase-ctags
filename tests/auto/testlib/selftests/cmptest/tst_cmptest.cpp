@@ -12,6 +12,8 @@ DECL|function|compareQListDouble
 DECL|function|compareQListInt
 DECL|function|compareQPixmaps
 DECL|function|compareQPixmaps_data
+DECL|function|compareQRegion
+DECL|function|compareQRegion_data
 DECL|function|compareQStringLists
 DECL|function|compareQStringLists_data
 DECL|function|compare_boolfuncs
