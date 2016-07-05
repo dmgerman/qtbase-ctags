@@ -78,7 +78,6 @@ DECL|function|hosts
 DECL|function|hosts_data
 DECL|function|i18n
 DECL|function|i18n_data
-DECL|function|invalidSchemeValidator
 DECL|function|ipv6
 DECL|function|ipv6_2
 DECL|function|ipv6_2_data
@@ -115,6 +114,8 @@ DECL|function|setEmptyAuthority_data
 DECL|function|setEncodedFragment
 DECL|function|setEncodedFragment_data
 DECL|function|setPort
+DECL|function|setScheme
+DECL|function|setScheme_data
 DECL|function|setUrl
 DECL|function|streaming
 DECL|function|streaming_data
