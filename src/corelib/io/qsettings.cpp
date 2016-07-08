@@ -62,6 +62,7 @@ DECL|function|initFormat
 DECL|function|isWritable
 DECL|function|isWritable
 DECL|function|isWritable
+DECL|function|make_user_path
 DECL|function|mergedKeyMap
 DECL|function|normalizedKey
 DECL|function|operator <
